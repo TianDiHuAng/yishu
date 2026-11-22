@@ -21,5 +21,10 @@
   "sonata",
   "symphony",
   "beethoven"
+ ],
+ "sources": [
+  "enc-classical-period-music",
+  "enc-sonata",
+  "wd-anchor-classical-period-music"
  ]
 }

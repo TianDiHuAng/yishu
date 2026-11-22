@@ -657,6 +657,35 @@
       "check_links_result": "broken=0(176页)",
       "audit_all": "7/7 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle26",
+      "date": "2026-11-22",
+      "status": "completed",
+      "gap_methods": [
+        "中文标签锚定 pass4",
+        "Wikidata 客户端重构"
+      ],
+      "network": "partial: wikidata ok (rate-limited, now throttled+cached)",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 70,
+      "fixes": 1,
+      "finding": "Wikidata API 长期静默限流：纯文本 429 响应被旧 curl_json 当作空数据",
+      "entity_pass4": {
+        "tested": 70,
+        "precise": 2,
+        "near": 29,
+        "adopted": 20,
+        "rejected_groups": 5
+      },
+      "new_sources": 20,
+      "sources_total": 261,
+      "anchors_total": 54,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(176页)",
+      "audit_all": "7/7 ok",
+      "commits": 1
     }
   ]
 }

@@ -1,0 +1,197 @@
+{
+ "hits": [
+  {
+   "id": "gothic",
+   "kind": "风格",
+   "title": "哥特式艺术",
+   "qid": "Q46825",
+   "label": "哥特式艺术",
+   "desc": "style of Medieval art developed in Northern France"
+  },
+  {
+   "id": "fauvism",
+   "kind": "风格",
+   "title": "野兽派",
+   "qid": "Q166593",
+   "label": "野兽派",
+   "desc": "artistic style that emphasized painterly qualities and stron"
+  }
+ ],
+ "near": [
+  {
+   "id": "byzantine-art",
+   "qid": "Q211884",
+   "label": "拜占庭艺术",
+   "desc": "art of the Byzantine (Eastern Roman) Emp"
+  },
+  {
+   "id": "early-christian-art",
+   "qid": "Q429811",
+   "label": "早期基督教艺术",
+   "desc": "art produced by Christians before Byzant"
+  },
+  {
+   "id": "northern-renaissance",
+   "qid": "Q133566778",
+   "label": "北方文艺复兴",
+   "desc": ""
+  },
+  {
+   "id": "minimalism",
+   "qid": "Q1752932",
+   "label": "极简主义",
+   "desc": "philosophy of computing"
+  },
+  {
+   "id": "minimalism",
+   "qid": "Q121244617",
+   "label": "极简主义",
+   "desc": "scholarly article in Foreign Literature,"
+  },
+  {
+   "id": "china-calligraphy-history",
+   "qid": "Q10872835",
+   "label": "中国书法史",
+   "desc": "aspect of history of Chinese logographic"
+  },
+  {
+   "id": "clerical-script",
+   "qid": "Q1073960",
+   "label": "隶书",
+   "desc": "archaic style of Chinese calligraphy; ev"
+  },
+  {
+   "id": "running-script",
+   "qid": "Q1367992",
+   "label": "行书",
+   "desc": "cursive style of Chinese writing; not as"
+  },
+  {
+   "id": "cursive-script",
+   "qid": "Q607543",
+   "label": "草书",
+   "desc": "handwriting, traditional calligraphic sc"
+  },
+  {
+   "id": "organum",
+   "qid": "Q599877",
+   "label": "奥尔加农",
+   "desc": "medieval polyphony most often based on a"
+  },
+  {
+   "id": "polyphony",
+   "qid": "Q121243331",
+   "label": "复调",
+   "desc": "scholarly article in Foreign Literature,"
+  },
+  {
+   "id": "baroque-music",
+   "qid": "Q8361",
+   "label": "巴洛克音乐",
+   "desc": "style of Western classical music"
+  },
+  {
+   "id": "fugue",
+   "qid": "Q181014",
+   "label": "赋格",
+   "desc": "contrapuntal musical form based on a sub"
+  },
+  {
+   "id": "classical-period-music",
+   "qid": "Q17723",
+   "label": "古典主义音乐",
+   "desc": "genre of Western music (c. 1730–1820)"
+  },
+  {
+   "id": "symphony",
+   "qid": "Q2651510",
+   "label": "交响曲",
+   "desc": "2008 album from Sarah Brightman"
+  },
+  {
+   "id": "sonata-form",
+   "qid": "Q212044",
+   "label": "奏鸣曲式",
+   "desc": "musical form"
+  },
+  {
+   "id": "symphonic-poem",
+   "qid": "Q271802",
+   "label": "交响诗",
+   "desc": "piece of orchestral music in a single co"
+  },
+  {
+   "id": "china-music-history",
+   "qid": "Q119086285",
+   "label": "中国音乐史",
+   "desc": ""
+  },
+  {
+   "id": "china-music-history",
+   "qid": "Q119086337",
+   "label": "中国音乐史",
+   "desc": ""
+  },
+  {
+   "id": "yayue",
+   "qid": "Q15056301",
+   "label": "雅乐",
+   "desc": "began as ritualistic music and dance for"
+  },
+  {
+   "id": "jingju",
+   "qid": "Q335101",
+   "label": "京剧",
+   "desc": "form of Chinese opera originating in Bei"
+  },
+  {
+   "id": "pipa",
+   "qid": "Q829729",
+   "label": "琵琶",
+   "desc": "Japanese plucked lute"
+  },
+  {
+   "id": "pipa",
+   "qid": "Q96761804",
+   "label": "琵琶",
+   "desc": "pipa (Chinese) by Jiu-cheng (MET, 89.4.5"
+  },
+  {
+   "id": "pipa",
+   "qid": "Q18874096",
+   "label": "琵琶",
+   "desc": "poem by Bai Juyi"
+  },
+  {
+   "id": "pipa",
+   "qid": "Q18874076",
+   "label": "琵琶",
+   "desc": ""
+  },
+  {
+   "id": "pipa",
+   "qid": "Q17367912",
+   "label": "琵琶",
+   "desc": "poem by Yuan Zhen"
+  },
+  {
+   "id": "musical-mode",
+   "qid": "Q731978",
+   "label": "调式",
+   "desc": "each of the sequences ordered by the not"
+  },
+  {
+   "id": "ajanta-caves",
+   "qid": "Q184427",
+   "label": "阿旃陀石窟",
+   "desc": "2nd century BCE to 1st century CE Buddhi"
+  },
+  {
+   "id": "angkor",
+   "qid": "Q43473",
+   "label": "吴哥窟",
+   "desc": "Hindu-Buddhist temple complex in Cambodi"
+  }
+ ],
+ "errors": []
+}

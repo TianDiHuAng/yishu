@@ -91,24 +91,24 @@
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "early-christian-art": {
       "title": "早期基督教艺术",
       "tier": "补充",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 3,
-      "verified_sources_count": 3,
+      "sources_count": 4,
+      "verified_sources_count": 4,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "romanesque": {
       "title": "罗马式艺术",
@@ -127,12 +127,12 @@
       "tier": "核心",
       "level": "L3",
       "status": "written_l3",
-      "sources_count": 4,
-      "verified_sources_count": 4,
+      "sources_count": 5,
+      "verified_sources_count": 5,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "renaissance": {
       "title": "文艺复兴",
@@ -187,12 +187,12 @@
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "mannerism": {
       "title": "样式主义",
@@ -487,12 +487,12 @@
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "expressionism": {
       "title": "表现主义",
@@ -859,12 +859,12 @@
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "seal-script": {
       "title": "篆书",
@@ -883,12 +883,12 @@
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 3,
-      "verified_sources_count": 3,
+      "sources_count": 4,
+      "verified_sources_count": 4,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "regular-script": {
       "title": "楷书",
@@ -907,24 +907,24 @@
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "cursive-script": {
       "title": "草书",
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 4,
-      "verified_sources_count": 4,
+      "sources_count": 5,
+      "verified_sources_count": 5,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "medieval-music": {
       "title": "中世纪音乐",
@@ -955,12 +955,12 @@
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "polyphony": {
       "title": "复调",
@@ -1015,12 +1015,12 @@
       "tier": "核心",
       "level": "L3",
       "status": "written_l3",
-      "sources_count": 7,
-      "verified_sources_count": 7,
+      "sources_count": 8,
+      "verified_sources_count": 8,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "opera": {
       "title": "歌剧",
@@ -1051,12 +1051,12 @@
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "sonata": {
       "title": "奏鸣曲",
@@ -1099,12 +1099,12 @@
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "symphony": {
       "title": "交响曲",
@@ -1123,12 +1123,12 @@
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "haydn": {
       "title": "海顿",
@@ -1195,12 +1195,12 @@
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "chopin": {
       "title": "肖邦",
@@ -1339,12 +1339,12 @@
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "guzheng": {
       "title": "古筝",
@@ -1363,12 +1363,12 @@
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "pipa": {
       "title": "琵琶",
@@ -1531,12 +1531,12 @@
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "violin": {
       "title": "小提琴",
@@ -1591,12 +1591,12 @@
       "tier": "补充",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "khmer-art": {
       "title": "高棉艺术",
@@ -1615,12 +1615,12 @@
       "tier": "补充",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "japanese-art": {
       "title": "日本艺术",

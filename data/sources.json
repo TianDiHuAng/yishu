@@ -2409,6 +2409,206 @@
       "type": "权威结构化数据（身份锚点）",
       "verified": true,
       "verified_note": "Cycle25 pass3 精确命中（id 与英文标签完全一致）；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-gothic",
+      "title": "Wikidata 实体（身份锚点）：哥特式艺术（Q46825）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q46825",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle26 中文标签完全匹配并经人工确认；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-fauvism",
+      "title": "Wikidata 实体（身份锚点）：野兽派（Q166593）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q166593",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle26 中文标签完全匹配并经人工确认；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-byzantine-art",
+      "title": "Wikidata 实体（身份锚点）：拜占庭艺术（Q211884）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q211884",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle26 中文标签完全匹配并经人工确认；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-early-christian-art",
+      "title": "Wikidata 实体（身份锚点）：早期基督教艺术（Q429811）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q429811",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle26 中文标签完全匹配并经人工确认；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-china-calligraphy-history",
+      "title": "Wikidata 实体（身份锚点）：中国书法史（Q10872835）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q10872835",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle26 中文标签完全匹配并经人工确认；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-clerical-script",
+      "title": "Wikidata 实体（身份锚点）：隶书（Q1073960）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q1073960",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle26 中文标签完全匹配并经人工确认；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-running-script",
+      "title": "Wikidata 实体（身份锚点）：行书（Q1367992）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q1367992",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle26 中文标签完全匹配并经人工确认；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-cursive-script",
+      "title": "Wikidata 实体（身份锚点）：草书（Q607543）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q607543",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle26 中文标签完全匹配并经人工确认；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-organum",
+      "title": "Wikidata 实体（身份锚点）：奥尔加农（Q599877）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q599877",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle26 中文标签完全匹配并经人工确认；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-baroque-music",
+      "title": "Wikidata 实体（身份锚点）：巴洛克音乐（Q8361）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q8361",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle26 中文标签完全匹配并经人工确认；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-fugue",
+      "title": "Wikidata 实体（身份锚点）：赋格（Q181014）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q181014",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle26 中文标签完全匹配并经人工确认；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-classical-period-music",
+      "title": "Wikidata 实体（身份锚点）：古典主义音乐（Q17723）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q17723",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle26 中文标签完全匹配并经人工确认；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-sonata-form",
+      "title": "Wikidata 实体（身份锚点）：奏鸣曲式（Q212044）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q212044",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle26 中文标签完全匹配并经人工确认；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-symphonic-poem",
+      "title": "Wikidata 实体（身份锚点）：交响诗（Q271802）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q271802",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle26 中文标签完全匹配并经人工确认；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-yayue",
+      "title": "Wikidata 实体（身份锚点）：雅乐（Q15056301）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q15056301",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle26 中文标签完全匹配并经人工确认；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-jingju",
+      "title": "Wikidata 实体（身份锚点）：京剧（Q335101）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q335101",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle26 中文标签完全匹配并经人工确认；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-musical-mode",
+      "title": "Wikidata 实体（身份锚点）：调式（Q731978）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q731978",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle26 中文标签完全匹配并经人工确认；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-ajanta-caves",
+      "title": "Wikidata 实体（身份锚点）：阿旃陀石窟（Q184427）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q184427",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle26 中文标签完全匹配并经人工确认；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-angkor",
+      "title": "Wikidata 实体（身份锚点）：吴哥窟（Q43473）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q43473",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle26 中文标签完全匹配并经人工确认；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-northern-renaissance",
+      "title": "Wikidata 实体（身份锚点）：北方文艺复兴（Q133566778）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q133566778",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle26 中文标签完全匹配并经人工确认；仅作身份锚点，不作事实依据"
     }
   ]
 }

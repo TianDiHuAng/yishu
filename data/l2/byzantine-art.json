@@ -15,5 +15,10 @@
   "early-christian-art",
   "romanesque",
   "roman-art"
+ ],
+ "sources": [
+  "enc-byzantine-art",
+  "enc-medieval-art",
+  "wd-anchor-byzantine-art"
  ]
 }

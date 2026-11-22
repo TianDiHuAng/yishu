@@ -13,7 +13,8 @@
  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='中国书法史 示意图'><title>中国书法史</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>篆书</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>圆转对称</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>隶书</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>波磔扁方</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>楷行草</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>法度与流动</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>书体层累共存 · 以笔墨构造空间</text></g></svg>",
  "sources": [
   "enc-chinese-calligraphy",
-  "enc-chinese-painting"
+  "enc-chinese-painting",
+  "wd-anchor-china-calligraphy-history"
  ],
  "related": [
   "seal-script",

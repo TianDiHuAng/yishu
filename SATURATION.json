@@ -330,6 +330,19 @@
       },
       "network": "partial",
       "verdict": "pass3 仅1条精确命中；新增 status.html 公开缺口与来源构成；未饱和"
+    },
+    {
+      "cycle": "cycle26",
+      "date": "2026-11-22",
+      "methods_used": [
+        "中文标签锚定",
+        "客户端重构"
+      ],
+      "gaps_found": {
+        "anchors": 20
+      },
+      "network": "partial (throttled)",
+      "verdict": "发现并修复静默限流；锚点 34→54；未饱和"
     }
   ]
 }

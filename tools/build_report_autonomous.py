@@ -30,6 +30,8 @@ L.append("- 新增来源：**%d**"%cur.get("new_sources",0))
 if cur.get("qc_result"): L.append("- 质量闸：**%s**"%cur["qc_result"])
 if cyc=="cycle3":
     L.append("- 本轮特别说明：B5 复核 45 项待核实 → 38 项找到可核验第二来源并写入【已复核】留痕；B3 孤儿页 38→0（新增84条双向补链）；QC 收尾补 Bach/Vivaldi 来源并修正18处截断URL。")
+if cyc=="cycle26":
+    L.append("- 本轮**发现一个一直存在的静默故障**：直接 curl Wikidata 批量接口返回纯文本「You are making too many requests」，而旧代码只接受以 { 开头的响应 → **限流被当成「无数据」**，解释了此前多轮「批量缓存为 0」与部分 no_match。已新建 tools/wd_api.py（正确 UA、串行限速 1 秒、指数退避、磁盘缓存、返回 (data, err)），重跑中文标签锚定：187 个实体 **187/187 成功、0 错误**。结果：精确命中 2 条、近似 29 条，**人工确认采纳 20 条**（锚点 34→**54**），并拒绝 5 组误配（minimalism→计算哲学、polyphony→论文、symphony→Brightman 专辑、pipa→日本琵琶、china-music-history→两个空描述同名实体）。来源 241→261，站点 176 页。")
 if cyc=="cycle25":
     L.append("- 本轮特别说明：两件事。①对 71 条未锚定条目做 **pass3 最高精度匹配**（要求条目 id 与实体英文标签完全相等），只命中 **1 条**（serialism → Q507246）并照实采纳；命中率极低本身是信息——宋/元/明/清绘画、书法、中国音乐等条目在 Wikidata 中并无对应英文实体，锚定只能靠中文标签或人工指定。②新增**站点状态页** status.html：公开条目数、层级与重要性分布、来源构成（事实来源 43 / 身份锚点 34）、校验方式，以及**已知缺口**（A类58、B2候选22、待核实项、Wikipedia/Met/Tate 不可达）——把短板主动摆在读者面前，而不是藏在报告里。站点 175→176 页。")
 if cyc=="cycle24":

@@ -15,5 +15,10 @@
   "post-impressionism",
   "expressionism",
   "matisse"
+ ],
+ "sources": [
+  "enc-fauvism",
+  "enc-post-impressionism",
+  "wd-anchor-fauvism"
  ]
 }

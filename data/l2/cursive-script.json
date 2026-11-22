@@ -16,6 +16,7 @@
  "sources": [
   "enc-chinese-calligraphy",
   "enc-cursive-script-east-asia",
-  "enc-huaisu"
+  "enc-huaisu",
+  "wd-anchor-cursive-script"
  ]
 }

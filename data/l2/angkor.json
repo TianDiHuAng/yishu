@@ -14,5 +14,10 @@
  "related": [
   "khmer-art",
   "khmer-architecture"
+ ],
+ "sources": [
+  "enc-angkor",
+  "enc-khmer-art",
+  "wd-anchor-angkor"
  ]
 }

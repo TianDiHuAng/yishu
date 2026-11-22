@@ -278,7 +278,8 @@
       ],
       "sources": [
         "enc-byzantine-art",
-        "enc-medieval-art"
+        "enc-medieval-art",
+        "wd-anchor-byzantine-art"
       ],
       "level": "L2",
       "sections": {
@@ -310,7 +311,8 @@
       "sources": [
         "enc-medieval-art",
         "enc-byzantine-art",
-        "enc-early-christian-art"
+        "enc-early-christian-art",
+        "wd-anchor-early-christian-art"
       ],
       "level": "L2",
       "sections": {
@@ -381,7 +383,8 @@
         "enc-gothic",
         "enc-romanesque",
         "enc-gothic-architecture",
-        "enc-chartres-cathedral"
+        "enc-chartres-cathedral",
+        "wd-anchor-gothic"
       ],
       "level": "L3",
       "sections": {
@@ -621,7 +624,8 @@
       ],
       "sources": [
         "enc-northern-renaissance",
-        "enc-renaissance"
+        "enc-renaissance",
+        "wd-anchor-northern-renaissance"
       ],
       "level": "L2",
       "sections": {
@@ -1634,7 +1638,8 @@
       ],
       "sources": [
         "enc-fauvism",
-        "enc-post-impressionism"
+        "enc-post-impressionism",
+        "wd-anchor-fauvism"
       ],
       "level": "L2",
       "sections": {
@@ -2672,7 +2677,8 @@
       ],
       "sources": [
         "enc-chinese-calligraphy",
-        "enc-chinese-painting"
+        "enc-chinese-painting",
+        "wd-anchor-china-calligraphy-history"
       ],
       "level": "L2",
       "sections": {
@@ -2739,7 +2745,8 @@
       "sources": [
         "enc-chinese-calligraphy",
         "enc-calligraphy",
-        "enc-clerical-script"
+        "enc-clerical-script",
+        "wd-anchor-clerical-script"
       ],
       "level": "L2",
       "sections": {
@@ -2803,7 +2810,8 @@
       ],
       "sources": [
         "enc-chinese-calligraphy",
-        "enc-calligraphy"
+        "enc-calligraphy",
+        "wd-anchor-running-script"
       ],
       "level": "L2",
       "sections": {
@@ -2837,7 +2845,8 @@
         "enc-chinese-calligraphy",
         "enc-calligraphy",
         "enc-cursive-script-east-asia",
-        "enc-huaisu"
+        "enc-huaisu",
+        "wd-anchor-cursive-script"
       ],
       "level": "L2",
       "sections": {
@@ -2943,7 +2952,8 @@
       ],
       "sources": [
         "enc-polyphony",
-        "enc-medieval-music"
+        "enc-medieval-music",
+        "wd-anchor-organum"
       ],
       "level": "L2",
       "sections": {
@@ -3129,7 +3139,8 @@
         "enc-brandenburg-concertos",
         "enc-l-orfeo",
         "enc-bach",
-        "enc-vivaldi-four-seasons"
+        "enc-vivaldi-four-seasons",
+        "wd-anchor-baroque-music"
       ],
       "level": "L3",
       "sections": {
@@ -3286,7 +3297,8 @@
       ],
       "sources": [
         "enc-fugue",
-        "enc-baroque-music"
+        "enc-baroque-music",
+        "wd-anchor-fugue"
       ],
       "level": "L2",
       "sections": {
@@ -3426,7 +3438,8 @@
       ],
       "sources": [
         "enc-classical-period-music",
-        "enc-sonata"
+        "enc-sonata",
+        "wd-anchor-classical-period-music"
       ],
       "level": "L2",
       "sections": {
@@ -3492,7 +3505,8 @@
       ],
       "sources": [
         "enc-sonata",
-        "enc-classical-period-music"
+        "enc-classical-period-music",
+        "wd-anchor-sonata-form"
       ],
       "level": "L2",
       "sections": {
@@ -3699,7 +3713,8 @@
       ],
       "sources": [
         "enc-romantic-music",
-        "enc-opera"
+        "enc-opera",
+        "wd-anchor-symphonic-poem"
       ],
       "level": "L2",
       "sections": {
@@ -4106,7 +4121,8 @@
       ],
       "sources": [
         "enc-chinese-music",
-        "enc-medieval-music"
+        "enc-medieval-music",
+        "wd-anchor-yayue"
       ],
       "level": "L2",
       "sections": {
@@ -4172,7 +4188,8 @@
       ],
       "sources": [
         "enc-jingju",
-        "enc-chinese-music"
+        "enc-chinese-music",
+        "wd-anchor-jingju"
       ],
       "level": "L2",
       "sections": {
@@ -4618,7 +4635,8 @@
       ],
       "sources": [
         "enc-mode",
-        "enc-church-modes"
+        "enc-church-modes",
+        "wd-anchor-musical-mode"
       ],
       "level": "L2",
       "sections": {
@@ -4782,7 +4800,8 @@
       ],
       "sources": [
         "enc-ajanta",
-        "enc-buddhist-art-india"
+        "enc-buddhist-art-india",
+        "wd-anchor-ajanta-caves"
       ],
       "level": "L2",
       "sections": {
@@ -4847,7 +4866,8 @@
       ],
       "sources": [
         "enc-angkor",
-        "enc-khmer-art"
+        "enc-khmer-art",
+        "wd-anchor-angkor"
       ],
       "level": "L2",
       "sections": {
