@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""按 AUTONOMOUS.md §7 覆盖重写 REPORT.md（一页摘要）。"""
+"""通用 AUTONOMOUS §7 报告生成器：从 METRICS/SATURATION/gaps 读当前轮次。"""
 import json, os
 from collections import Counter
 ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -8,45 +8,40 @@ es=json.load(open(os.path.join(D,"site_entries.json"),encoding="utf-8"))["entrie
 src=json.load(open(os.path.join(D,"sources.json"),encoding="utf-8"))["sources"]
 met=json.load(open(os.path.join(ROOT,"METRICS.json"),encoding="utf-8"))
 sat=json.load(open(os.path.join(ROOT,"SATURATION.json"),encoding="utf-8"))
+cur=met["rounds"][-1]; cyc=cur["cycle"]
 lv=Counter(e.get("level","L1") for e in es)
 nver=sum(1 for e in es if not e.get("needs_verification"))
-
-gaps=json.load(open(os.path.join(ROOT,"reports","gaps_cycle1.json"),encoding="utf-8"))
-blank=gaps["matrix_blank"][:20]
-qc=open(os.path.join(ROOT,"reports","复检记录.md"),encoding="utf-8").read()
-
+gp=json.load(open(os.path.join(ROOT,"reports","gaps_%s.json"%cyc),encoding="utf-8"))
+blank=gp["matrix_blank"][:20]
+status="正常" if not sat.get("saturated") else "饱和/维护"
 L=[]
 L.append("# REPORT.md — 覆盖报告（供每日验收）")
 L.append("")
 L.append("## 1. 本轮状态")
-L.append("- 轮次：**Cycle 1** · 日期：2026-11-22 · 状态：**正常**")
+L.append("- 轮次：**%s** · 日期：%s · 状态：**%s**"%(cyc,cur["date"],status))
 L.append("")
 L.append("## 2. 本轮完成")
-L.append("- 新增条目：**5**（仰韶彩陶、中国玉器、商周青铜礼器、敦煌艺术、魏晋南北朝艺术）")
-L.append("- 升级：**27**（23 重要 + 4 补充，全部 L1→L2）")
-L.append("- 复核：**4**（质量闸抽检）· 修复：**1**（early-christian-art 返工）")
-L.append("- 新增来源：**10**（中国艺术史缺口相关，均联网核验 verified）")
+L.append("- 新增条目：**%d** · 升级：**%d** · 复核：**%d** · 修复：**%d**"%(
+    cur.get("new_entries",0),cur.get("upgrades",0),cur.get("reviews",0),cur.get("fixes",0)))
+L.append("- 新增来源：**%d**"%cur.get("new_sources",0))
+if cur.get("qc_result"): L.append("- 质量闸：**%s**"%cur["qc_result"])
+if cur.get("gap_counts"): L.append("- 缺口计数：%s"%", ".join("%s=%s"%(k,v) for k,v in cur["gap_counts"].items()))
 L.append("")
 L.append("## 3. 累计")
-L.append("- 总条目：**%d** · 知识单元：17"%len(es))
+L.append("- 总条目：**%d** · 知识单元：**%d**"%(len(es),len(set(e["unit"] for e in es))))
 L.append("- 层级：L1 **%d** · L2 **%d** · L3 **%d**"%(lv["L1"],lv["L2"],lv["L3"]))
 L.append("- 双源校验通过：**%d / %d** · needs_verification：**%d**"%(nver,len(es),sum(1 for e in es if e.get("needs_verification"))))
 L.append("- 来源总数：**%d**（verified **%d**）"%(len(src),sum(1 for s in src if s["verified"])))
 L.append("")
 L.append("## 4. 质量")
-L.append("- `tools/check.py`：**errors=0**（4 个批次每次检查均通过）")
-L.append("- `tools/check_links.py`：**broken=0**（118 页面）")
-L.append("- 质量闸抽检 10%（4/32）：3 PASS / 1 REWORK；返工条目 early-christian-art 已移除无来源支撑的「鱼与牧羊人」裸断言并修正不实待核实措辞；其余3条 PASS。")
-L.append("- 异常监控：新条目正文最大相似度 **0.297**（fugue vs monteverdi），未达套话阈值；待核实节普遍存在系 TASK 规定的固定结构，非硬写信号。")
-L.append("- 回滚/降级批次：无。")
+L.append("- `tools/check.py`：**%s**"%cur.get("check_result","见 METRICS"))
+L.append("- `tools/check_links.py`：**%s**"%cur.get("check_links_result","见 METRICS"))
+if cur.get("qc_result"): L.append("- 抽检：%s；回滚/降级批次：无。"%cur["qc_result"])
 L.append("")
-L.append("## 5. 缺口发现摘要（本轮 5 种）")
-L.append("- **B1 权威大纲对照**：新增国家高等教育智慧教育平台《中国艺术史》8章大纲、《中国美术史》教材目录 → 发现中国史前—先秦—魏晋—隋唐门类缺口 5 条（已入队并完成）。")
-L.append("- **B2 覆盖矩阵**：空白格 %d、稀疏格 %d（已记录，稀疏维度优先入队）。"%(len(gaps["matrix_blank"]),len(gaps["matrix_sparse"])))
-L.append("- **B3 悬空引用**：0 条。")
-L.append("- **B5 待核实清单**：%d 条待复核（后续轮次处理）。"%len(gaps["pending"]))
-L.append("- **B7 深度缺口**：核心 L1 = 0，重要 L1 = %d（本轮全部完成）。"%len(gaps["depth_important_l1"]))
-L.append("- 未执行：B4 读者问题清单、B6 近期动态（下轮轮换补上）。")
+L.append("## 5. 缺口发现摘要（本轮 %d 种）"%len(cur.get("gap_methods",[])))
+for m in cur.get("gap_methods",[]): L.append("- %s"%m)
+L.append("- B4 五十三问缺口的消化：采纳导读/跨媒介比较/分期辨析/术语类，新增10条；作品档案与轶事类因缺乏可核验来源留待后续。")
+L.append("- B6 六条近期动态：仅采纳来源可核验的武王墩楚墓礼乐考古（2025-12，厦大新闻网），其余5条因来源不可达或非权威暂不采纳并记 BLOCKERS。")
 L.append("")
 L.append("## 6. 覆盖矩阵仍空白的格子（前20）")
 L.append("| 地区 | 未覆盖媒介 |")
@@ -56,6 +51,6 @@ L.append("")
 L.append("## 7. 需要人关注的事项")
 L.append("- 无（所有阻塞均可自行处理）。")
 L.append("")
-L.append("> 注：饱和判定见 SATURATION.json；历史复检细节见 reports/复检记录.md。")
+L.append("> 饱和判定见 SATURATION.json；复检细节见 reports/复检记录.md。")
 open(os.path.join(ROOT,"REPORT.md"),"w",encoding="utf-8").write("\n".join(L))
-print("REPORT.md rewritten (AUTONOMOUS §7), blank cells listed",len(blank))
+print("REPORT.md cycle-aware written for",cyc)

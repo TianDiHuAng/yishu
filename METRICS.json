@@ -45,6 +45,30 @@
       "commits": 4,
       "qc_result": "3 PASS/1 REWORK(已返工)",
       "similarity_max": 0.297
+    },
+    {
+      "cycle": "cycle2",
+      "date": "2026-11-22",
+      "status": "completed",
+      "gap_methods": [
+        "B4读者问题清单",
+        "B6近期动态",
+        "B5待核实清单"
+      ],
+      "gap_counts": {
+        "B4": 53,
+        "B6": 6,
+        "B5": 15
+      },
+      "new_entries": 11,
+      "upgrades": 0,
+      "reviews": 4,
+      "fixes": 0,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0",
+      "new_sources": 19,
+      "commits": 1,
+      "qc_result": "4 PASS/0 REWORK"
     }
   ]
 }
