@@ -3,7 +3,7 @@
 > 每次启动先读本文件与 BACKLOG/METRICS/SATURATION/REPORT，从"下轮起点"续作。
 > 按 AUTONOMOUS.md：不写 ALL_DONE；饱和以 SATURATION.json 为准。
 
-- 当前轮次：**Cycle 19 已完成** → 下轮 **Cycle 20（体检轮）**
+- 当前轮次：**Cycle 20（体检轮）已完成** → 下轮 **Cycle 21**
 - 状态：正常（未饱和）；来源通道：Wikidata 可用（curl）
 - 最近更新：2026-11-22
 

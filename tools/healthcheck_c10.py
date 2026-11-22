@@ -43,7 +43,7 @@ inb=Counter(r for e in es for r in e.get("related",[]))
 R["orphans"]=[e["id"] for e in es if inb[e["id"]]==0]
 
 # 6 来源重合度：需联网，标记
-R["overlap"]="skipped: network degraded"
+R["overlap"]="skipped: 内容来源（Wikipedia/Met/Tate）不可达，无法抓取正文比对；Wikidata 为结构化数据（无正文），不适用 n-gram 重合度。最近有效结果：Cycle5 抽样5条，重合 0%"
 
 # 7 NEW 页内锚点有效性
 anchor_bad=[]
@@ -76,6 +76,10 @@ Dk={'paper':'#161512','card':'#211f1a','ink':'#ece5d6','soft':'#b9b0a0','faint':
 R["contrast"]={"light":{k:[cr(L[k],L['paper']),cr(L[k],L['card'])] for k in ('ink','soft','faint','accent','gold')},
                "dark":{k:[cr(Dk[k],Dk['paper']),cr(Dk[k],Dk['card'])] for k in ('ink','soft','faint','accent','gold')}}
 
+la=os.path.join(ROOT,"reports","link_audit.json")
+if os.path.exists(la):
+    L=json.load(open(la,encoding="utf-8"))
+    R["link_audit"]={"cross_domain":len(L.get("cross_domain",[])),"oneway":L.get("oneway_count"),"total_links":L.get("total_links")}
 json.dump(R,open(os.path.join(ROOT,"reports","healthcheck_c10.json"),"w",encoding="utf-8"),ensure_ascii=False,indent=1)
 print("=== 体检 F (Cycle10) ===")
 for k in ("dead_links","stale_data","duplicates","contradictions","orphans","overlap","bad_anchors","sitemap_missing_files","sitemap_unlisted_pages"):

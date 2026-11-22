@@ -13,17 +13,8 @@
    "to_dom": "art"
   }
  ],
- "oneway_count": 2,
- "oneway_sample": [
-  [
-   "gothic-architecture",
-   "gothic"
-  ],
-  [
-   "romanesque-architecture",
-   "romanesque"
-  ]
- ],
+ "oneway_count": 0,
+ "oneway_sample": [],
  "top_inbound": [
   [
    "baroque-music",
@@ -66,5 +57,5 @@
    6
   ]
  ],
- "total_links": 428
+ "total_links": 430
 }

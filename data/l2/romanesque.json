@@ -18,5 +18,10 @@
   "enc-medieval-art",
   "enc-romanesque-architecture",
   "enc-gothic-architecture"
+ ],
+ "related": [
+  "byzantine-art",
+  "gothic",
+  "romanesque-architecture"
  ]
 }
