@@ -949,6 +949,106 @@
       "type": "权威百科",
       "verified": true,
       "verified_note": "HTTP 200; <title>=Ink wash painting - Wikipedia"
+    },
+    {
+      "id": "enc-yangshao",
+      "title": "Yangshao culture",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Yangshao_culture",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=Yangshao culture - Wikipedia kw=Yangshao"
+    },
+    {
+      "id": "enc-chinese-jade",
+      "title": "Chinese jade",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Chinese_jade",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=Chinese jade - Wikipedia kw=jade"
+    },
+    {
+      "id": "enc-dunhuang",
+      "title": "Dunhuang",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Dunhuang",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=Dunhuang - Wikipedia kw=Dunhuang"
+    },
+    {
+      "id": "enc-chinese-buddhist-art",
+      "title": "Chinese Buddhist art",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Chinese_Buddhist_art",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=Buddhist art - Wikipedia kw=Buddhist"
+    },
+    {
+      "id": "enc-six-dynasties",
+      "title": "Six Dynasties",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Six_Dynasties",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=Six Dynasties - Wikipedia kw=Six Dynasties"
+    },
+    {
+      "id": "enc-bronze",
+      "title": "Chinese bronzes",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Chinese_bronzes",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=Chinese ritual bronzes - Wikipedia"
+    },
+    {
+      "id": "enc-chinese-pottery",
+      "title": "Chinese pottery",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Chinese_pottery",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=Chinese ceramics - Wikipedia"
+    },
+    {
+      "id": "enc-jade",
+      "title": "Jade",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Jade",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=Jade - Wikipedia"
+    },
+    {
+      "id": "enc-sanxingdui",
+      "title": "Sanxingdui",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Sanxingdui",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=Sanxingdui - Wikipedia"
+    },
+    {
+      "id": "enc-longshan",
+      "title": "Longshan culture",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Longshan_culture",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=Longshan culture - Wikipedia"
     }
   ]
 }

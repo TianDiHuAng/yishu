@@ -1,139 +1,139 @@
 [
  {
-  "id": "qing-painting",
-  "title": "清代绘画",
-  "kind": "风格",
-  "era": "清代",
-  "region": "中国",
-  "medium": "绘画",
-  "def": "清代绘画呈现正统派与个性派并存的格局。",
-  "when": "1644—1912年",
-  "overview": "四王承袭文人画正统，四僧与扬州画派强调个性，花鸟画与金石入画发展。",
+  "id": "haydn",
+  "title": "海顿",
+  "kind": "人物",
+  "era": "18世纪",
+  "region": "奥地利",
+  "medium": "音乐体裁",
+  "def": "奥地利作曲家，交响曲与弦乐四重奏体裁的奠基者之一。",
+  "when": "1732—1809年",
+  "overview": "创作百余部交响曲，确立四乐章套曲规范，晚期清唱剧《创世纪》亦著称。",
   "related": [
    {
-    "id": "ming-painting",
-    "title": "明代绘画"
+    "id": "classical-period-music",
+    "title": "古典主义音乐"
    },
    {
-    "id": "china-painting-history",
-    "title": "中国绘画史"
+    "id": "symphony",
+    "title": "交响曲"
    }
   ],
   "sources": [
    {
-    "id": "enc-chinese-painting",
-    "title": "Chinese painting",
+    "id": "enc-haydn",
+    "title": "Joseph Haydn",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    },
    {
-    "id": "enc-chinese-calligraphy",
-    "title": "Chinese calligraphy",
+    "id": "enc-symphony",
+    "title": "Symphony",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    }
   ]
  },
  {
-  "id": "tang-painting",
-  "title": "唐代绘画",
-  "kind": "风格",
-  "era": "唐代",
-  "region": "中国",
-  "medium": "绘画",
-  "def": "唐代绘画以人物画高度成熟、山水画独立为特征。",
-  "when": "618—907年",
-  "overview": "吴道子以线描著称，阎立本擅人物，青绿山水与水墨山水并行发展。",
-  "related": [
-   {
-    "id": "china-painting-history",
-    "title": "中国绘画史"
-   },
-   {
-    "id": "song-painting",
-    "title": "宋代绘画"
-   }
-  ],
-  "sources": [
-   {
-    "id": "enc-tang-dynasty-art",
-    "title": "Art of the Tang dynasty",
-    "author": "Wikipedia contributors",
-    "type": "权威百科"
-   },
-   {
-    "id": "enc-chinese-painting",
-    "title": "Chinese painting",
-    "author": "Wikipedia contributors",
-    "type": "权威百科"
-   }
-  ]
- },
- {
-  "id": "xieyi",
-  "title": "写意",
+  "id": "sonata-form",
+  "title": "奏鸣曲式",
   "kind": "术语",
-  "era": "历代",
-  "region": "中国",
-  "medium": "绘画",
-  "def": "中国画中以简练笔墨传达意趣的画法，与工笔相对。",
-  "when": "历代",
-  "overview": "强调以少胜多、笔墨情趣与作者心性，成熟于宋元文人画传统。",
+  "era": "18世纪—今",
+  "region": "欧洲",
+  "medium": "音乐体裁",
+  "def": "以呈示部、展开部与再现部构成的乐曲结构原则。",
+  "when": "约公元18世纪成熟",
+  "overview": "建立在主题对比与调性回归之上，是古典交响曲与奏鸣曲第一乐章的核心结构。",
   "related": [
    {
-    "id": "gongbi",
-    "title": "工笔"
+    "id": "sonata",
+    "title": "奏鸣曲"
    },
    {
-    "id": "china-painting-history",
-    "title": "中国绘画史"
+    "id": "classical-period-music",
+    "title": "古典主义音乐"
    }
   ],
   "sources": [
    {
-    "id": "enc-chinese-painting",
-    "title": "Chinese painting",
+    "id": "enc-sonata",
+    "title": "Sonata",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    },
    {
-    "id": "enc-chinese-calligraphy",
-    "title": "Chinese calligraphy",
+    "id": "enc-classical-period-music",
+    "title": "Classical period (music)",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    }
   ]
  },
  {
-  "id": "yuan-painting",
-  "title": "元代绘画",
-  "kind": "风格",
-  "era": "元代",
-  "region": "中国",
-  "medium": "绘画",
-  "def": "元代绘画以文人画为主流，强调以书入画与逸气。",
-  "when": "1271—1368年",
-  "overview": "赵孟頫提倡复古与书画同源，元四家以水墨山水与题跋拓展文人画表现。",
+  "id": "organum",
+  "title": "奥尔加农",
+  "kind": "术语",
+  "era": "中世纪",
+  "region": "欧洲",
+  "medium": "音乐体裁",
+  "def": "中世纪早期的复调形式，在圣咏上方叠加一个或多个声部。",
+  "when": "约公元9—13世纪",
+  "overview": "从平行奥尔加农发展为华丽奥尔加农与有量奥尔加农，是复调音乐的起点。",
   "related": [
    {
-    "id": "song-painting",
-    "title": "宋代绘画"
+    "id": "gregorian-chant",
+    "title": "格里高利圣咏"
    },
    {
-    "id": "ming-painting",
-    "title": "明代绘画"
+    "id": "polyphony",
+    "title": "复调"
    }
   ],
   "sources": [
    {
-    "id": "enc-chinese-painting",
-    "title": "Chinese painting",
+    "id": "enc-polyphony",
+    "title": "Polyphony",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    },
    {
-    "id": "enc-tang-dynasty-art",
-    "title": "Art of the Tang dynasty",
+    "id": "enc-medieval-music",
+    "title": "Medieval music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "debussy",
+  "title": "德彪西",
+  "kind": "人物",
+  "era": "19—20世纪",
+  "region": "法国",
+  "medium": "音乐体裁",
+  "def": "法国作曲家，印象主义音乐的代表人物。",
+  "when": "1862—1918年",
+  "overview": "代表作《牧神午后前奏曲》《大海》，以音色与和声色彩营造朦胧意象。",
+  "related": [
+   {
+    "id": "impressionism-music",
+    "title": "印象主义音乐"
+   },
+   {
+    "id": "20th-century-classical",
+    "title": "20世纪古典音乐"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-20th-century-classical",
+    "title": "20th-century classical music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-romantic-music",
+    "title": "Romantic music",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    }

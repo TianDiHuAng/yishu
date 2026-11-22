@@ -422,7 +422,18 @@
       "sources": [
         "enc-northern-renaissance",
         "enc-renaissance"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "北方文艺复兴指阿尔卑斯山以北地区在15—16世纪的文艺复兴艺术，主要分布于北欧。它是文艺复兴在这一地区的展开，相关条目亦列出《文艺复兴》作为参照。",
+        "风格特征": "北方文艺复兴以精细写实见长，注重细节描绘，题材偏于世俗。风景画与风俗画出现独立倾向，是其风格的重要表现。",
+        "代表人物与作品": "概述中点名凡·艾克兄弟，指出其完善了油画技法。相关条目《文艺复兴》与《样式主义》为考察其位置提供参照，来源未点名其他具体人物或作品。",
+        "技法或形式分析": "以油画技法为核心，概述提到凡·艾克兄弟完善了这一技法。对细节的精细刻画与世俗题材的选择，共同支撑起风景画、风俗画的独立倾向。",
+        "与前后风格的关系和争论": "北方文艺复兴属于文艺复兴在阿尔卑斯山以北的地区性展开，相关条目另列样式主义作为参照。记载较一致，学界主要讨论其与文艺复兴整体及样式主义之间的分期与边界问题。",
+        "一图": "示意图表现精细写实、油画技法与世俗题材如何支撑风景画、风俗画的独立倾向。",
+        "待核实": "when 字段的“约公元1400—1600年”为精确年代区间，来源标题未逐字支撑，待补充第二来源核实。“油画技法”“风俗画”“风景画”等中文术语的英文对应，输入未给出，待补充第二来源。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='北方文艺复兴 示意图'><title>北方文艺复兴</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>北方文艺复兴</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>精细写实</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>油画技法</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>凡·艾克兄弟</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>风俗画</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>风景画</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>写实与油画支撑独立画科倾向</text></g></svg>"
     },
     {
       "id": "mannerism",
@@ -443,7 +454,18 @@
       "sources": [
         "enc-mannerism",
         "enc-high-renaissance"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "样式主义兴起于盛期文艺复兴之后，主要流行于意大利及欧洲，时代大致属16世纪中后期。作为一种风格，它的出现与对古典均衡的态度密切相关。",
+        "风格特征": "样式主义追求精致、夸张与非常规的比例，人物体态修长、姿态扭动。其整体风格被视为对古典均衡的有意偏离。",
+        "代表人物与作品": "来源未点名具体的代表人物或作品，仅以修长体态、扭动姿态等特征概括其面貌。相关条目《盛期文艺复兴》与《巴洛克》提示其在艺术史上的前后位置。",
+        "技法或形式分析": "在形式处理上，色彩与空间的处理刻意反自然。修长的体态与扭动的姿态构成其主要的形式手段。",
+        "与前后风格的关系和争论": "样式主义出现在盛期文艺复兴之后，其后接巴洛克，相关条目提示了这一前后承接关系。概述称其为对古典均衡的有意偏离。记载较一致，学界主要讨论其与前后风格的分期与边界问题。",
+        "一图": "示意图呈现修长体态、扭动姿态与反自然的色彩空间处理如何共同偏离古典均衡。",
+        "待核实": "when 字段的“约公元1520—1600年”为精确年代区间，来源标题未逐字支撑，待补充第二来源核实。“反自然”“古典均衡”等表述的英文术语对应，输入未给出，待补充第二来源。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='样式主义 示意图'><title>样式主义</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>样式主义</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>精致夸张</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>修长体态</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>姿态扭动</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>古典均衡</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>有意偏离</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>样式主义对古典均衡的偏离</text></g></svg>"
     },
     {
       "id": "donatello",
@@ -613,7 +635,18 @@
       "sources": [
         "enc-leonardo",
         "enc-renaissance"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "《蒙娜丽莎》创作于16世纪的意大利，相关条目将其置于盛期文艺复兴的背景之下。作品由列奥纳多·达·芬奇创作，是一幅肖像画。",
+        "风格特征": "作为一幅肖像画，作品以柔和的面部过渡与金字塔式坐姿构图为主要特征。这两点构成其风格的基本面貌。",
+        "代表人物与作品": "本条目本身即一件具体作品，作者为列奥纳多·达·芬奇，相关条目亦列出《列奥纳多·达·芬奇》与《盛期文艺复兴》。来源未提供其他作品名称或作者的生卒细节。",
+        "技法或形式分析": "在技法上，作品以渐进色与明暗法塑造面部，使过渡显得柔和。构图上，人物坐姿采用金字塔式布局。",
+        "与前后风格的关系和争论": "相关条目将其与作者列奥纳多·达·芬奇及盛期文艺复兴相联系。记载较一致，学界主要讨论该作品在盛期文艺复兴中的分期与归属边界问题。",
+        "一图": "示意图说明渐进色与明暗法塑造面部过渡、金字塔构图安排坐姿的作用。",
+        "待核实": "when 字段的“约1503—1519年”为精确年代区间，来源标题未逐字支撑，待补充第二来源核实。def 提及的收藏地“巴黎卢浮宫”未在 overview 中出现，待补充第二来源。“渐进色”“明暗法”的英文对应术语输入未给出，待补充第二来源。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='《蒙娜丽莎》 示意图'><title>《蒙娜丽莎》</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>蒙娜丽莎</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>肖像画</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>渐进色</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>明暗法</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>金字塔构图</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>坐姿</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>面部过渡与坐姿构图的形式手段</text></g></svg>"
     },
     {
       "id": "baroque",
@@ -1979,6 +2012,166 @@
         "enc-chinese-painting",
         "enc-ink-wash"
       ]
+    },
+    {
+      "id": "yangshao-painted-pottery",
+      "title": "仰韶彩陶",
+      "kind": "风格",
+      "unit": "art-china-painting",
+      "era": "新石器时代",
+      "region": "中国",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "仰韶文化以彩绘陶器为特征，是中国史前艺术的重要门类。",
+      "when": "约公元前5000—前3000年",
+      "overview": "彩陶以几何纹与动物纹为主，颜料多为黑彩与红彩，器型与纹样反映史前社会的审美与信仰。",
+      "related": [
+        "china-painting-history",
+        "cave-art"
+      ],
+      "sources": [
+        "enc-yangshao",
+        "enc-chinese-pottery"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "仰韶文化分布于中国，属新石器时代的文化形态。彩绘陶器是这一文化的重要特征，也是中国史前艺术的重要门类。",
+        "风格特征": "作为史前艺术的重要门类，仰韶彩陶以彩绘装饰为主要风貌。纹样题材集中于几何纹与动物纹，是识别其风格的要点。",
+        "代表人物与作品": "现有来源未点名具体的制作者、工匠或代表性器物名称。彩陶本身作为器类，其几何纹与动物纹是可辨识的代表性样式。相关条目列出《中国绘画史》与《洞穴壁画》，可作为考察其位置的参照。",
+        "技法或形式分析": "在技法上以彩绘施于陶器，颜料多用黑彩与红彩。器型与纹样的配合是其形式分析的核心，共同反映史前社会的审美与信仰。",
+        "与前后风格的关系和争论": "从相关条目看，彩陶与中国绘画史、洞穴壁画并列，同为史前艺术考察的对象。记载较一致，学界主要讨论彩陶在中国史前艺术中的分期与边界问题。",
+        "一图": "示意图展示彩陶以几何纹与动物纹装饰、黑彩与红彩施于器型的基本关系。",
+        "待核实": "when 字段给出的“约公元前5000—前3000年”为精确年代区间，来源标题未逐字支撑，待补充第二来源核实。几何纹、动物纹、黑彩、红彩等中文技法术语的英文对应，输入未给出，待补充第二来源。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='仰韶彩陶 示意图'><title>仰韶彩陶</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>仰韶彩陶</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>彩绘陶器</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>几何纹</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>动物纹</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>黑彩</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>红彩</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>彩陶的纹样题材与用色</text></g></svg>"
+    },
+    {
+      "id": "chinese-jade-art",
+      "title": "中国玉器",
+      "kind": "风格",
+      "unit": "art-china-painting",
+      "era": "新石器—先秦",
+      "region": "中国",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "中国玉器是以玉石雕琢而成的器物与礼器传统，兼具工艺与礼制意义。",
+      "when": "约公元前5000年—前3世纪",
+      "overview": "良渚、红山等文化的玉器已具复杂造型，商周以后玉器与礼制结合，象征身份与权力。",
+      "related": [
+        "shang-zhou-bronzes",
+        "china-painting-history"
+      ],
+      "sources": [
+        "enc-chinese-jade",
+        "enc-jade"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "中国玉器源于新石器时代，历经先秦长期发展。良渚、红山等文化已出现造型复杂的玉器，至商周时期玉器进一步与礼制结合。其所处时代自新石器延续至先秦，是中国早期礼制器物的重要组成。",
+        "风格特征": "中国玉器是以玉石雕琢而成的器物与礼器传统，兼具工艺与礼制意义。其造型在良渚、红山等文化中已相当复杂，商周以后更强调礼制内涵。玉器常被用来象征身份与权力，体现出工艺与制度的双重属性。",
+        "代表人物与作品": "现有材料主要点明良渚、红山等文化类型与玉器这一类器物，未列出具体作者姓名或单件作品名称。相关条目还涉及商周青铜礼器与中国绘画史，但未提供玉器领域的具体代表人物。因此本节不列举人物生卒或作品细节。",
+        "技法或形式分析": "材料指出玉器以玉石雕琢而成，并在良渚、红山等文化中呈现复杂造型。其形式与礼制功能相联系，成为象征身份与权力的器物。有关具体雕琢工序与技法术语，材料未作明确说明，相关英文对应尚待核实。",
+        "与前后风格的关系和争论": "从相关条目看，中国玉器与商周青铜礼器同属先秦礼制器物传统，与中国绘画史分属不同门类。材料之间未见明确分歧，记载较一致，学界主要讨论中国玉器的分期与礼制边界问题。",
+        "一图": "示意图展示中国玉器由良渚、红山的复杂造型，经商周礼制结合，发展为兼具工艺与礼制意义的器物传统。",
+        "待核实": "when 字段给出的精确年代区间（约公元前5000年—前3世纪）未在概述中逐字支撑，正文仅作概括表述，该区间待补充第二来源核实。具体作品的年份与收藏地、具体作者姓名，以及雕琢技法的英文对应术语，材料均未提供，待补充第二来源。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='中国玉器 示意图'><title>中国玉器</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>良渚红山</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>复杂造型</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>商周以后</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>礼制结合</text><rect class='svg-box-accent' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='665.0' y='142' text-anchor='middle'>中国玉器</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>工艺与礼制</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>玉器由复杂造型走向礼制象征</text></g></svg>"
+    },
+    {
+      "id": "shang-zhou-bronzes",
+      "title": "商周青铜礼器",
+      "kind": "风格",
+      "unit": "art-china-painting",
+      "era": "夏商周",
+      "region": "中国",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "商周青铜礼器是中国先秦时期以青铜铸造的礼制器物，饰有兽面纹等纹样。",
+      "when": "约公元前1600—前256年",
+      "overview": "青铜器用于祭祀与宴飨，器型多样，纹饰以饕餮纹、夔龙纹为主，体现礼制秩序与铸造工艺。",
+      "related": [
+        "chinese-jade-art",
+        "six-dynasties-art"
+      ],
+      "sources": [
+        "enc-bronze",
+        "enc-sanxingdui"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "商周青铜礼器属中国先秦时期的礼制器物传统，主要行用于夏商周之际。材料指出青铜器用于祭祀与宴飨。它们在当时的礼制生活中占据核心地位。",
+        "风格特征": "商周青铜礼器是以青铜铸造的礼制器物，饰有兽面纹等纹样。其器型多样，纹饰以饕餮纹、夔龙纹为主。整体体现出礼制秩序与铸造工艺相结合的特点。",
+        "代表人物与作品": "现有材料聚焦器型与纹饰类别，未点名具体工匠或单件器物名称。相关条目涉及中国玉器与魏晋南北朝艺术，但未提供青铜礼器领域的具体代表人物。本节因此不列举人物生卒或作品细节。",
+        "技法或形式分析": "材料表明青铜礼器以青铜铸造而成，纹饰包括兽面纹、饕餮纹与夔龙纹。这些纹样与多样的器型共同服务于礼制秩序的表达。关于铸造的具体工艺环节及上述纹饰术语的英文对应，材料未作说明，待补充第二来源核实。",
+        "与前后风格的关系和争论": "从相关条目看，商周青铜礼器与中国玉器同为先秦礼制器物，并与后来的魏晋南北朝艺术分属不同阶段。材料之间未见明确分歧，记载较一致，学界主要讨论商周青铜礼器的分期与礼制边界问题。",
+        "一图": "示意图展示商周青铜礼器以多样器型和饕餮、夔龙等纹饰，体现礼制秩序与铸造工艺。",
+        "待核实": "when 字段的精确年代区间（约公元前1600—前256年）未在概述中逐字支撑，正文仅作概括表述，该区间待补充第二来源核实。具体器物的年份与收藏地，以及饕餮纹、夔龙纹等术语的英文对应，材料均未提供，待补充第二来源。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='商周青铜礼器 示意图'><title>商周青铜礼器</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>青铜礼器</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>祭祀与宴飨</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>饕餮夔龙纹</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>器型多样</text><rect class='svg-box-accent' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='665.0' y='142' text-anchor='middle'>礼制秩序</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>铸造工艺</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>青铜礼器以纹饰体现礼制秩序</text></g></svg>"
+    },
+    {
+      "id": "dunhuang-art",
+      "title": "敦煌艺术",
+      "kind": "风格",
+      "unit": "art-china-painting",
+      "era": "隋唐",
+      "region": "中国",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "敦煌艺术是以敦煌石窟为核心的佛教艺术体系，含壁画、彩塑与建筑。",
+      "when": "约公元4—14世纪",
+      "overview": "敦煌壁画融合中原与西域风格，题材以佛传、本生故事为主，是研究中国佛教艺术与中西交流的重要遗存。",
+      "related": [
+        "six-dynasties-art",
+        "tang-painting"
+      ],
+      "sources": [
+        "enc-dunhuang",
+        "enc-chinese-buddhist-art"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "敦煌艺术历经多个世纪发展，其主体遗存形成于隋唐时期。材料指出它是研究中国佛教艺术与中西交流的重要遗存。相关条目把魏晋南北朝艺术与唐代绘画同其并列，显示其跨越多个朝代的历史脉络。",
+        "风格特征": "敦煌艺术是以敦煌石窟为核心的佛教艺术体系，包含壁画、彩塑与建筑。其壁画融合中原与西域风格，题材以佛传、本生故事为主。整体呈现出中西艺术交汇的鲜明特征。",
+        "代表人物与作品": "现有材料以敦煌石窟体系及佛传、本生故事等题材类别为主，未点名具体创作者或单件作品名称。相关条目涉及魏晋南北朝艺术与唐代绘画，但未提供敦煌艺术的具体代表人物。本节因此不追加人物生卒或作品细节。",
+        "技法或形式分析": "材料表明敦煌艺术在形式上包括壁画、彩塑与建筑三类，并体现中原与西域风格的融合。其题材集中于佛传与本生故事，构成叙事性图像体系。关于壁画与彩塑的具体绘制、塑造技法，材料未作说明，待补充第二来源核实。",
+        "与前后风格的关系和争论": "从相关条目看，敦煌艺术与魏晋南北朝艺术的石窟佛教造像传统相承接，并与唐代绘画相互关联。材料之间未见明显分歧，记载较一致，学界主要讨论敦煌艺术的分期与中原、西域风格边界问题。",
+        "一图": "示意图展示敦煌艺术以石窟为核心，融合中原与西域风格，形成壁画、彩塑与建筑的佛教艺术体系。",
+        "待核实": "when 字段的精确年代区间（约公元4—14世纪）未在概述中逐字支撑，正文仅作概括表述，该区间待补充第二来源核实。具体洞窟或作品的年份、收藏地、创作者姓名，以及壁画彩塑的具体技法名称，材料均未提供，待补充第二来源。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='敦煌艺术 示意图'><title>敦煌艺术</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>敦煌石窟</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>佛教艺术体系</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>中原与西域</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>风格融合</text><rect class='svg-box-accent' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='665.0' y='142' text-anchor='middle'>壁画彩塑建筑</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>佛传本生故事</text><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>敦煌艺术以石窟为核心融合中西风格</text></g></svg>"
+    },
+    {
+      "id": "six-dynasties-art",
+      "title": "魏晋南北朝艺术",
+      "kind": "风格",
+      "unit": "art-china-painting",
+      "era": "魏晋南北朝",
+      "region": "中国",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "魏晋南北朝艺术是中国艺术史上佛教艺术兴起、绘画理论确立的转折期。",
+      "when": "约公元220—589年",
+      "overview": "此期石窟开凿与佛教造像兴盛，顾恺之等画家与画论著作出现，为隋唐艺术的繁荣奠定基础。",
+      "related": [
+        "dunhuang-art",
+        "tang-painting"
+      ],
+      "sources": [
+        "enc-six-dynasties",
+        "enc-chinese-buddhist-art"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "魏晋南北朝艺术是中国艺术史上的转折期，材料将其概括为佛教艺术兴起、绘画理论确立的阶段。相关条目把敦煌艺术与唐代绘画同其关联。这一时期为随后隋唐艺术的繁荣奠定基础。",
+        "风格特征": "魏晋南北朝艺术的突出特征是佛教艺术兴起与绘画理论确立。此期石窟开凿与佛教造像兴盛，并出现画家与画论著作。整体呈现由宗教兴起带动艺术转型的面貌。",
+        "代表人物与作品": "概述中点名顾恺之等画家，并提及画论著作的出现，但未给出具体著作名称或画作标题。相关条目涉及敦煌艺术与唐代绘画，未提供其他可补充的代表人物。本节仅保留材料已点名的顾恺之，不追加生卒或作品细节。",
+        "技法或形式分析": "材料指出此期在形式上表现为石窟开凿与佛教造像的兴盛，同时绘画理论开始确立。画论著作的出现标志着理论层面的自觉。关于具体的绘画或造像技法名称，材料未作说明，待补充第二来源核实。",
+        "与前后风格的关系和争论": "从相关条目看，魏晋南北朝艺术的石窟与造像传统同敦煌艺术相衔接，并直接为唐代绘画的繁荣奠定基础。材料之间未见明显分歧，记载较一致，学界主要讨论魏晋南北朝艺术的分期与转折边界问题。",
+        "一图": "示意图展示魏晋南北朝艺术以佛教兴起和画论确立为转折，上承石窟造像、下启唐代绘画。",
+        "待核实": "when 字段的精确年代区间（约公元220—589年）未在概述中逐字支撑，正文仅作概括表述，该区间待补充第二来源核实。顾恺之的具体作品名称、画论著作的具体书名，以及相关作品年份与收藏地，材料均未提供，待补充第二来源。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='魏晋南北朝艺术 示意图'><title>魏晋南北朝艺术</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>魏晋南北朝</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>转折期</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>佛教艺术</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>石窟与造像</text><rect class='svg-box-accent' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='665.0' y='142' text-anchor='middle'>绘画理论</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>顾恺之</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>佛教兴起与画论确立构成转折</text></g></svg>"
     },
     {
       "id": "china-calligraphy-history",

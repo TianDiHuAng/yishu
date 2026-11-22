@@ -1,0 +1,14 @@
+{
+ "id": "mona-lisa",
+ "level": "L2",
+ "sections": {
+  "时代背景": "《蒙娜丽莎》创作于16世纪的意大利，相关条目将其置于盛期文艺复兴的背景之下。作品由列奥纳多·达·芬奇创作，是一幅肖像画。",
+  "风格特征": "作为一幅肖像画，作品以柔和的面部过渡与金字塔式坐姿构图为主要特征。这两点构成其风格的基本面貌。",
+  "代表人物与作品": "本条目本身即一件具体作品，作者为列奥纳多·达·芬奇，相关条目亦列出《列奥纳多·达·芬奇》与《盛期文艺复兴》。来源未提供其他作品名称或作者的生卒细节。",
+  "技法或形式分析": "在技法上，作品以渐进色与明暗法塑造面部，使过渡显得柔和。构图上，人物坐姿采用金字塔式布局。",
+  "与前后风格的关系和争论": "相关条目将其与作者列奥纳多·达·芬奇及盛期文艺复兴相联系。记载较一致，学界主要讨论该作品在盛期文艺复兴中的分期与归属边界问题。",
+  "一图": "示意图说明渐进色与明暗法塑造面部过渡、金字塔构图安排坐姿的作用。",
+  "待核实": "when 字段的“约1503—1519年”为精确年代区间，来源标题未逐字支撑，待补充第二来源核实。def 提及的收藏地“巴黎卢浮宫”未在 overview 中出现，待补充第二来源。“渐进色”“明暗法”的英文对应术语输入未给出，待补充第二来源。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='《蒙娜丽莎》 示意图'><title>《蒙娜丽莎》</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>蒙娜丽莎</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>肖像画</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>渐进色</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>明暗法</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>金字塔构图</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>坐姿</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>面部过渡与坐姿构图的形式手段</text></g></svg>"
+}

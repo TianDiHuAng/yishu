@@ -1,139 +1,139 @@
 [
  {
-  "id": "prehistoric-art",
-  "title": "史前艺术",
+  "id": "yangshao-painted-pottery",
+  "title": "仰韶彩陶",
   "kind": "风格",
-  "era": "旧石器—新石器",
-  "region": "全球",
-  "medium": "综合",
-  "def": "文字出现之前的视觉创作，包括洞穴壁画、岩画与史前雕塑。",
-  "when": "约公元前4万年—前3000年",
-  "overview": "以洞穴壁画与小型雕像为代表，题材多为动物与生殖崇拜，材料为天然颜料与石、骨。",
+  "era": "新石器时代",
+  "region": "中国",
+  "medium": "绘画",
+  "def": "仰韶文化以彩绘陶器为特征，是中国史前艺术的重要门类。",
+  "when": "约公元前5000—前3000年",
+  "overview": "彩陶以几何纹与动物纹为主，颜料多为黑彩与红彩，器型与纹样反映史前社会的审美与信仰。",
   "related": [
+   {
+    "id": "china-painting-history",
+    "title": "中国绘画史"
+   },
    {
     "id": "cave-art",
     "title": "洞穴壁画"
-   },
-   {
-    "id": "paleolithic-sculpture",
-    "title": "旧石器雕塑"
    }
   ],
   "sources": [
    {
-    "id": "enc-prehistoric-art",
-    "title": "Prehistoric art",
+    "id": "enc-yangshao",
+    "title": "Yangshao culture",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    },
    {
-    "id": "enc-prehistoric-art",
-    "title": "Prehistoric art",
+    "id": "enc-chinese-pottery",
+    "title": "Chinese pottery",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    }
   ]
  },
  {
-  "id": "roman-art",
-  "title": "古罗马艺术",
+  "id": "mannerism",
+  "title": "样式主义",
   "kind": "风格",
-  "era": "共和—帝国",
-  "region": "罗马",
-  "medium": "综合",
-  "def": "继承希腊传统并发展出公共建筑、肖像雕塑与壁画装饰的罗马艺术。",
-  "when": "约公元前509—公元476年",
-  "overview": "以混凝土拱券与穹顶技术、写实肖像与历史叙事浮雕见长，万神殿为其建筑代表。",
+  "era": "16世纪中后期",
+  "region": "意大利及欧洲",
+  "medium": "绘画,雕塑",
+  "def": "盛期文艺复兴之后出现的风格，追求精致、夸张与非常规的比例。",
+  "when": "约公元1520—1600年",
+  "overview": "人物体态修长、姿态扭动，色彩与空间处理刻意反自然，被视为对古典均衡的有意偏离。",
   "related": [
    {
-    "id": "greek-art",
-    "title": "古希腊艺术"
+    "id": "high-renaissance",
+    "title": "盛期文艺复兴"
    },
-   {
-    "id": "byzantine-art",
-    "title": "拜占庭艺术"
-   }
-  ],
-  "sources": [
-   {
-    "id": "enc-roman-art",
-    "title": "Ancient Roman art",
-    "author": "Wikipedia contributors",
-    "type": "权威百科"
-   },
-   {
-    "id": "enc-greek-art",
-    "title": "Ancient Greek art",
-    "author": "Wikipedia contributors",
-    "type": "权威百科"
-   }
-  ]
- },
- {
-  "id": "rococo",
-  "title": "洛可可",
-  "kind": "风格",
-  "era": "18世纪",
-  "region": "法国",
-  "medium": "综合",
-  "def": "18世纪法国宫廷流行的艺术风格，以轻盈、纤巧与装饰性著称。",
-  "when": "约公元1715—1770年",
-  "overview": "常用C形与S形曲线、粉彩色调与贝壳花纹，题材多为贵族宴乐与田园爱情。",
-  "related": [
    {
     "id": "baroque",
     "title": "巴洛克"
-   },
-   {
-    "id": "neoclassicism",
-    "title": "新古典主义"
    }
   ],
   "sources": [
    {
-    "id": "enc-rococo",
-    "title": "Rococo",
+    "id": "enc-mannerism",
+    "title": "Mannerism",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    },
    {
-    "id": "enc-baroque",
-    "title": "Baroque",
+    "id": "enc-high-renaissance",
+    "title": "High Renaissance",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    }
   ]
  },
  {
-  "id": "rubens",
-  "title": "鲁本斯",
-  "kind": "人物",
-  "era": "17世纪",
-  "region": "佛兰德斯",
+  "id": "mona-lisa",
+  "title": "《蒙娜丽莎》",
+  "kind": "作品",
+  "era": "16世纪",
+  "region": "意大利",
   "medium": "绘画",
-  "def": "佛兰德斯巴洛克画家，以丰腴人体与宏大构图著称。",
-  "when": "1577—1640年",
-  "overview": "作品色彩饱满、动势强烈，曾主持大规模装饰工程，融合意大利与北方传统。",
+  "def": "列奥纳多·达·芬奇创作的肖像画，现藏巴黎卢浮宫。",
+  "when": "约1503—1519年",
+  "overview": "以渐进色与明暗法塑造柔和的面部过渡，坐姿采用金字塔构图。",
   "related": [
    {
-    "id": "baroque",
-    "title": "巴洛克"
+    "id": "leonardo",
+    "title": "列奥纳多·达·芬奇"
    },
    {
-    "id": "rococo",
-    "title": "洛可可"
+    "id": "high-renaissance",
+    "title": "盛期文艺复兴"
    }
   ],
   "sources": [
    {
-    "id": "enc-rubens",
-    "title": "Peter Paul Rubens",
+    "id": "enc-leonardo",
+    "title": "Leonardo da Vinci",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    },
    {
-    "id": "enc-baroque",
-    "title": "Baroque",
+    "id": "enc-renaissance",
+    "title": "Renaissance",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "northern-renaissance",
+  "title": "北方文艺复兴",
+  "kind": "风格",
+  "era": "15—16世纪",
+  "region": "北欧",
+  "medium": "绘画",
+  "def": "阿尔卑斯山以北地区的文艺复兴艺术，以精细写实与油画技法见长。",
+  "when": "约公元1400—1600年",
+  "overview": "注重细节描绘与世俗题材，凡·艾克兄弟完善油画技法，出现风景画与风俗画的独立倾向。",
+  "related": [
+   {
+    "id": "renaissance",
+    "title": "文艺复兴"
+   },
+   {
+    "id": "mannerism",
+    "title": "样式主义"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-northern-renaissance",
+    "title": "Northern Renaissance",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-renaissance",
+    "title": "Renaissance",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    }

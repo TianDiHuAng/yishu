@@ -1,0 +1,37 @@
+{
+  "schema": "METRICS.json — 每轮一行",
+  "rounds": [
+    {
+      "cycle": "pre-autonomous-1",
+      "date": "2026-11-22",
+      "new_entries": 109,
+      "upgrades": 42,
+      "reviews": 8,
+      "fixes": 2,
+      "pending_total": 0,
+      "check_result": "errors=0",
+      "new_sources": 91
+    },
+    {
+      "cycle": "pre-autonomous-2",
+      "date": "2026-11-22",
+      "new_entries": 0,
+      "upgrades": 40,
+      "reviews": 8,
+      "fixes": 8,
+      "pending_total": 0,
+      "check_result": "errors=0",
+      "new_sources": 4
+    },
+    {
+      "cycle": "cycle1",
+      "date": "2026-11-22",
+      "status": "in_progress",
+      "gap_methods": ["B1权威大纲对照", "B2覆盖矩阵", "B3悬空引用", "B5待核实清单", "B7深度缺口"],
+      "new_entries_planned": 5,
+      "upgrades_planned": 27,
+      "new_sources": 10,
+      "check_result": "errors=0(at start)"
+    }
+  ]
+}

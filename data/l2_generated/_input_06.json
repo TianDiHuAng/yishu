@@ -1,139 +1,139 @@
 [
  {
-  "id": "conceptual-art",
-  "title": "观念艺术",
+  "id": "impressionism-music",
+  "title": "印象主义音乐",
   "kind": "风格",
-  "era": "20世纪后半",
-  "region": "全球",
-  "medium": "综合",
-  "def": "以观念与语言为核心的艺术实践，弱化对象的物质形式。",
-  "when": "约1960s—至今",
-  "overview": "作品常以文本、文件、行为与装置呈现，强调艺术的思想语境而非视觉审美。",
+  "era": "20世纪初",
+  "region": "法国",
+  "medium": "音乐体裁",
+  "def": "20世纪初以色彩性与朦胧音响为追求的音乐风格。",
+  "when": "约公元1890—1920年",
+  "overview": "德彪西与拉威尔以全音阶、平行和弦与精致配器营造光影氛围，弱化和声功能。",
   "related": [
    {
-    "id": "minimalism",
-    "title": "极简主义"
+    "id": "20th-century-classical",
+    "title": "20世纪古典音乐"
    },
    {
-    "id": "contemporary-art",
-    "title": "当代艺术"
+    "id": "romantic-music",
+    "title": "浪漫主义音乐"
    }
   ],
   "sources": [
    {
-    "id": "enc-conceptual-art",
-    "title": "Conceptual art",
+    "id": "enc-20th-century-classical",
+    "title": "20th-century classical music",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    },
    {
-    "id": "enc-dada",
-    "title": "Dada",
+    "id": "enc-tonality",
+    "title": "Tonality",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    }
   ]
  },
  {
-  "id": "minimalism",
-  "title": "极简主义",
+  "id": "minimalism-music",
+  "title": "简约主义音乐",
   "kind": "风格",
   "era": "20世纪后半",
   "region": "美国",
-  "medium": "雕塑,综合",
-  "def": "20世纪60年代兴起的艺术运动，追求形式的极简与客观。",
-  "when": "约1960s—1970s",
-  "overview": "常用几何基本形体与工业材料，强调作品与空间的物理关系，减少主观痕迹。",
+  "medium": "音乐体裁",
+  "def": "以简短动机反复与渐变过程为特征的运动。",
+  "when": "约公元1960年代起",
+  "overview": "赖希与格拉斯以相位移位与渐进叠加构建音响，形成与序列主义不同的简约路径。",
   "related": [
    {
-    "id": "abstract-expressionism",
-    "title": "抽象表现主义"
+    "id": "20th-century-classical",
+    "title": "20世纪古典音乐"
    },
    {
-    "id": "conceptual-art",
-    "title": "观念艺术"
+    "id": "serialism",
+    "title": "序列主义"
    }
   ],
   "sources": [
    {
-    "id": "enc-minimalism",
-    "title": "Minimalism",
+    "id": "enc-20th-century-classical",
+    "title": "20th-century classical music",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    },
    {
-    "id": "enc-bauhaus",
-    "title": "Bauhaus",
+    "id": "enc-serialism",
+    "title": "Serialism",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    }
   ]
  },
  {
-  "id": "pop-art",
-  "title": "波普艺术",
-  "kind": "风格",
-  "era": "20世纪中叶",
-  "region": "英美",
-  "medium": "绘画,综合",
-  "def": "20世纪50—60年代兴起的艺术运动，借用大众文化与商业图像。",
-  "when": "约1950s—1970s",
-  "overview": "使用丝网印刷、重复图像与鲜艳色彩，模糊高雅与通俗艺术边界，沃霍尔为代表。",
-  "related": [
-   {
-    "id": "abstract-expressionism",
-    "title": "抽象表现主义"
-   },
-   {
-    "id": "contemporary-art",
-    "title": "当代艺术"
-   }
-  ],
-  "sources": [
-   {
-    "id": "enc-pop-art",
-    "title": "Pop art",
-    "author": "Wikipedia contributors",
-    "type": "权威百科"
-   },
-   {
-    "id": "web-artstory-movements",
-    "title": "Classical and Modern Art Movements",
-    "author": "The Art Story Foundation",
-    "type": "权威百科"
-   }
-  ]
- },
- {
-  "id": "warhol",
-  "title": "安迪·沃霍尔",
-  "kind": "人物",
+  "id": "serialism",
+  "title": "序列主义",
+  "kind": "术语",
   "era": "20世纪",
-  "region": "美国",
-  "medium": "绘画,综合",
-  "def": "美国波普艺术代表艺术家，以丝网印刷名人肖像著称。",
-  "when": "1928—1987年",
-  "overview": "代表作《玛丽莲·梦露》系列，将商业图像与名人文化引入艺术，探讨复制与消费。",
+  "region": "欧美",
+  "medium": "音乐体裁",
+  "def": "以预先设定的音高或其他参数序列组织作品的作曲方法。",
+  "when": "约公元1920年代起",
+  "overview": "勋伯格创立十二音技法，后扩展为整体序列主义，彻底突破传统调性中心。",
   "related": [
    {
-    "id": "pop-art",
-    "title": "波普艺术"
+    "id": "20th-century-classical",
+    "title": "20世纪古典音乐"
    },
    {
-    "id": "contemporary-art",
-    "title": "当代艺术"
+    "id": "schoenberg",
+    "title": "勋伯格"
    }
   ],
   "sources": [
    {
-    "id": "enc-warhol",
-    "title": "Andy Warhol",
+    "id": "enc-serialism",
+    "title": "Serialism",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    },
    {
-    "id": "enc-pop-art",
-    "title": "Pop art",
+    "id": "enc-schoenberg",
+    "title": "Arnold Schoenberg",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "madrigal",
+  "title": "牧歌",
+  "kind": "风格",
+  "era": "16世纪",
+  "region": "意大利/英国",
+  "medium": "音乐体裁",
+  "def": "文艺复兴时期以世俗诗歌为词的复调声乐体裁。",
+  "when": "约公元1530—1600年",
+  "overview": "注重歌词与音乐的情感对应，常用绘词法，后期发展出更戏剧化的风格。",
+  "related": [
+   {
+    "id": "renaissance-music",
+    "title": "文艺复兴音乐"
+   },
+   {
+    "id": "baroque-music",
+    "title": "巴洛克音乐"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-renaissance-music",
+    "title": "Renaissance music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-medieval-music",
+    "title": "Medieval music",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    }

@@ -1,139 +1,139 @@
 [
  {
-  "id": "velazquez",
-  "title": "委拉斯开兹",
+  "id": "raphael",
+  "title": "拉斐尔",
   "kind": "人物",
-  "era": "17世纪",
-  "region": "西班牙",
+  "era": "16世纪",
+  "region": "意大利",
   "medium": "绘画",
-  "def": "西班牙黄金时代宫廷画家，以写实肖像与空间处理著称。",
-  "when": "1599—1660年",
-  "overview": "代表作《宫娥》《教皇英诺森十世肖像》，笔触松动、光线处理精妙。",
+  "def": "意大利盛期文艺复兴画家，以和谐优雅的构图闻名。",
+  "when": "1483—1520年",
+  "overview": "代表作《雅典学院》《西斯廷圣母》，善用金字塔构图与柔和色彩。",
   "related": [
    {
-    "id": "baroque",
-    "title": "巴洛克"
+    "id": "high-renaissance",
+    "title": "盛期文艺复兴"
    },
    {
-    "id": "impressionism",
-    "title": "印象派"
+    "id": "leonardo",
+    "title": "列奥纳多·达·芬奇"
    }
   ],
   "sources": [
    {
-    "id": "enc-velazquez",
-    "title": "Diego Velazquez",
+    "id": "enc-raphael",
+    "title": "Raphael",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    },
    {
-    "id": "enc-baroque",
-    "title": "Baroque",
+    "id": "enc-high-renaissance",
+    "title": "High Renaissance",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    }
   ]
  },
  {
-  "id": "vermeer",
-  "title": "维米尔",
+  "id": "venetian-school",
+  "title": "威尼斯画派",
+  "kind": "风格",
+  "era": "15—16世纪",
+  "region": "意大利",
+  "medium": "绘画",
+  "def": "以威尼斯为中心的绘画传统，重视色彩与光线甚于线条。",
+  "when": "约公元1450—1600年",
+  "overview": "采用油彩与渐进色塑造氛围，题材包括宗教、神话与肖像，乔尔乔内、提香为代表。",
+  "related": [
+   {
+    "id": "high-renaissance",
+    "title": "盛期文艺复兴"
+   },
+   {
+    "id": "mannerism",
+    "title": "样式主义"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-venetian-school",
+    "title": "Venetian school (art)",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-italian-renaissance-painting",
+    "title": "Italian Renaissance painting",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "fugue",
+  "title": "赋格",
+  "kind": "术语",
+  "era": "17—18世纪",
+  "region": "欧洲",
+  "medium": "音乐体裁",
+  "def": "以主题模仿与对位为基础的复调乐曲形式。",
+  "when": "约公元17世纪成熟",
+  "overview": "主题在各声部依次进入并展开，巴赫《平均律钢琴曲集》为赋格艺术的典范。",
+  "related": [
+   {
+    "id": "baroque-music",
+    "title": "巴洛克音乐"
+   },
+   {
+    "id": "bach",
+    "title": "巴赫"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-fugue",
+    "title": "Fugue",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-baroque-music",
+    "title": "Baroque music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "monteverdi",
+  "title": "蒙特威尔第",
   "kind": "人物",
-  "era": "17世纪",
-  "region": "荷兰",
-  "medium": "绘画",
-  "def": "荷兰黄金时代画家，以室内场景与柔和光线著称。",
-  "when": "1632—1675年",
-  "overview": "代表作《戴珍珠耳环的少女》《倒牛奶的女仆》，善绘自然光与日常静谧氛围。",
+  "era": "16—17世纪",
+  "region": "意大利",
+  "medium": "音乐体裁",
+  "def": "意大利作曲家，早期歌剧的重要奠基者。",
+  "when": "1567—1643年",
+  "overview": "代表作《奥菲欧》《波佩亚的加冕》，推动宣叙调与管弦乐表现力的发展。",
   "related": [
    {
-    "id": "rembrandt",
-    "title": "伦勃朗"
+    "id": "opera",
+    "title": "歌剧"
    },
    {
-    "id": "realism-art",
-    "title": "现实主义（艺术）"
+    "id": "baroque-music",
+    "title": "巴洛克音乐"
    }
   ],
   "sources": [
    {
-    "id": "enc-vermeer",
-    "title": "Johannes Vermeer",
+    "id": "enc-opera",
+    "title": "Opera",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    },
    {
-    "id": "enc-baroque",
-    "title": "Baroque",
-    "author": "Wikipedia contributors",
-    "type": "权威百科"
-   }
-  ]
- },
- {
-  "id": "clerical-script",
-  "title": "隶书",
-  "kind": "术语",
-  "era": "汉",
-  "region": "中国",
-  "medium": "书法",
-  "def": "汉代成熟并盛行的书体，以波磔与扁方结构为特征。",
-  "when": "约公元前2世纪—公元3世纪",
-  "overview": "由篆书简化而来，笔画出现蚕头燕尾，是汉字由古文字向今文字转变的关键。",
-  "related": [
-   {
-    "id": "seal-script",
-    "title": "篆书"
-   },
-   {
-    "id": "regular-script",
-    "title": "楷书"
-   }
-  ],
-  "sources": [
-   {
-    "id": "enc-chinese-calligraphy",
-    "title": "Chinese calligraphy",
-    "author": "Wikipedia contributors",
-    "type": "权威百科"
-   },
-   {
-    "id": "enc-chinese-calligraphy",
-    "title": "Chinese calligraphy",
-    "author": "Wikipedia contributors",
-    "type": "权威百科"
-   }
-  ]
- },
- {
-  "id": "cursive-script",
-  "title": "草书",
-  "kind": "术语",
-  "era": "汉—唐",
-  "region": "中国",
-  "medium": "书法",
-  "def": "笔画高度简化、连绵奔放的书体，强调书写节奏与情感表达。",
-  "when": "约公元前1世纪—至今",
-  "overview": "张旭、怀素以狂草著称，草书兼具强烈表现性与辨识门槛。",
-  "related": [
-   {
-    "id": "running-script",
-    "title": "行书"
-   },
-   {
-    "id": "china-calligraphy-history",
-    "title": "中国书法史"
-   }
-  ],
-  "sources": [
-   {
-    "id": "enc-chinese-calligraphy",
-    "title": "Chinese calligraphy",
-    "author": "Wikipedia contributors",
-    "type": "权威百科"
-   },
-   {
-    "id": "enc-chinese-calligraphy",
-    "title": "Chinese calligraphy",
+    "id": "enc-baroque-music",
+    "title": "Baroque music",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    }

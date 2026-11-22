@@ -1,0 +1,1110 @@
+[
+ {
+  "id": "chinese-jade-art",
+  "title": "中国玉器",
+  "kind": "风格",
+  "era": "新石器—先秦",
+  "region": "中国",
+  "medium": "雕塑",
+  "def": "中国玉器是以玉石雕琢而成的器物与礼器传统，兼具工艺与礼制意义。",
+  "when": "约公元前5000年—前3世纪",
+  "overview": "良渚、红山等文化的玉器已具复杂造型，商周以后玉器与礼制结合，象征身份与权力。",
+  "related": [
+   {
+    "id": "shang-zhou-bronzes",
+    "title": "商周青铜礼器"
+   },
+   {
+    "id": "china-painting-history",
+    "title": "中国绘画史"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-chinese-jade",
+    "title": "Chinese jade",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-jade",
+    "title": "Jade",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "dunhuang-art",
+  "title": "敦煌艺术",
+  "kind": "风格",
+  "era": "隋唐",
+  "region": "中国",
+  "medium": "绘画",
+  "def": "敦煌艺术是以敦煌石窟为核心的佛教艺术体系，含壁画、彩塑与建筑。",
+  "when": "约公元4—14世纪",
+  "overview": "敦煌壁画融合中原与西域风格，题材以佛传、本生故事为主，是研究中国佛教艺术与中西交流的重要遗存。",
+  "related": [
+   {
+    "id": "six-dynasties-art",
+    "title": "魏晋南北朝艺术"
+   },
+   {
+    "id": "tang-painting",
+    "title": "唐代绘画"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-dunhuang",
+    "title": "Dunhuang",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-chinese-buddhist-art",
+    "title": "Chinese Buddhist art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "shang-zhou-bronzes",
+  "title": "商周青铜礼器",
+  "kind": "风格",
+  "era": "夏商周",
+  "region": "中国",
+  "medium": "雕塑",
+  "def": "商周青铜礼器是中国先秦时期以青铜铸造的礼制器物，饰有兽面纹等纹样。",
+  "when": "约公元前1600—前256年",
+  "overview": "青铜器用于祭祀与宴飨，器型多样，纹饰以饕餮纹、夔龙纹为主，体现礼制秩序与铸造工艺。",
+  "related": [
+   {
+    "id": "chinese-jade-art",
+    "title": "中国玉器"
+   },
+   {
+    "id": "six-dynasties-art",
+    "title": "魏晋南北朝艺术"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-bronze",
+    "title": "Chinese bronzes",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-sanxingdui",
+    "title": "Sanxingdui",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "six-dynasties-art",
+  "title": "魏晋南北朝艺术",
+  "kind": "风格",
+  "era": "魏晋南北朝",
+  "region": "中国",
+  "medium": "绘画",
+  "def": "魏晋南北朝艺术是中国艺术史上佛教艺术兴起、绘画理论确立的转折期。",
+  "when": "约公元220—589年",
+  "overview": "此期石窟开凿与佛教造像兴盛，顾恺之等画家与画论著作出现，为隋唐艺术的繁荣奠定基础。",
+  "related": [
+   {
+    "id": "dunhuang-art",
+    "title": "敦煌艺术"
+   },
+   {
+    "id": "tang-painting",
+    "title": "唐代绘画"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-six-dynasties",
+    "title": "Six Dynasties",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-chinese-buddhist-art",
+    "title": "Chinese Buddhist art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "yangshao-painted-pottery",
+  "title": "仰韶彩陶",
+  "kind": "风格",
+  "era": "新石器时代",
+  "region": "中国",
+  "medium": "绘画",
+  "def": "仰韶文化以彩绘陶器为特征，是中国史前艺术的重要门类。",
+  "when": "约公元前5000—前3000年",
+  "overview": "彩陶以几何纹与动物纹为主，颜料多为黑彩与红彩，器型与纹样反映史前社会的审美与信仰。",
+  "related": [
+   {
+    "id": "china-painting-history",
+    "title": "中国绘画史"
+   },
+   {
+    "id": "cave-art",
+    "title": "洞穴壁画"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-yangshao",
+    "title": "Yangshao culture",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-chinese-pottery",
+    "title": "Chinese pottery",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "mannerism",
+  "title": "样式主义",
+  "kind": "风格",
+  "era": "16世纪中后期",
+  "region": "意大利及欧洲",
+  "medium": "绘画,雕塑",
+  "def": "盛期文艺复兴之后出现的风格，追求精致、夸张与非常规的比例。",
+  "when": "约公元1520—1600年",
+  "overview": "人物体态修长、姿态扭动，色彩与空间处理刻意反自然，被视为对古典均衡的有意偏离。",
+  "related": [
+   {
+    "id": "high-renaissance",
+    "title": "盛期文艺复兴"
+   },
+   {
+    "id": "baroque",
+    "title": "巴洛克"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-mannerism",
+    "title": "Mannerism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-high-renaissance",
+    "title": "High Renaissance",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "mona-lisa",
+  "title": "《蒙娜丽莎》",
+  "kind": "作品",
+  "era": "16世纪",
+  "region": "意大利",
+  "medium": "绘画",
+  "def": "列奥纳多·达·芬奇创作的肖像画，现藏巴黎卢浮宫。",
+  "when": "约1503—1519年",
+  "overview": "以渐进色与明暗法塑造柔和的面部过渡，坐姿采用金字塔构图。",
+  "related": [
+   {
+    "id": "leonardo",
+    "title": "列奥纳多·达·芬奇"
+   },
+   {
+    "id": "high-renaissance",
+    "title": "盛期文艺复兴"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-leonardo",
+    "title": "Leonardo da Vinci",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-renaissance",
+    "title": "Renaissance",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "northern-renaissance",
+  "title": "北方文艺复兴",
+  "kind": "风格",
+  "era": "15—16世纪",
+  "region": "北欧",
+  "medium": "绘画",
+  "def": "阿尔卑斯山以北地区的文艺复兴艺术，以精细写实与油画技法见长。",
+  "when": "约公元1400—1600年",
+  "overview": "注重细节描绘与世俗题材，凡·艾克兄弟完善油画技法，出现风景画与风俗画的独立倾向。",
+  "related": [
+   {
+    "id": "renaissance",
+    "title": "文艺复兴"
+   },
+   {
+    "id": "mannerism",
+    "title": "样式主义"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-northern-renaissance",
+    "title": "Northern Renaissance",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-renaissance",
+    "title": "Renaissance",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "raphael",
+  "title": "拉斐尔",
+  "kind": "人物",
+  "era": "16世纪",
+  "region": "意大利",
+  "medium": "绘画",
+  "def": "意大利盛期文艺复兴画家，以和谐优雅的构图闻名。",
+  "when": "1483—1520年",
+  "overview": "代表作《雅典学院》《西斯廷圣母》，善用金字塔构图与柔和色彩。",
+  "related": [
+   {
+    "id": "high-renaissance",
+    "title": "盛期文艺复兴"
+   },
+   {
+    "id": "leonardo",
+    "title": "列奥纳多·达·芬奇"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-raphael",
+    "title": "Raphael",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-high-renaissance",
+    "title": "High Renaissance",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "venetian-school",
+  "title": "威尼斯画派",
+  "kind": "风格",
+  "era": "15—16世纪",
+  "region": "意大利",
+  "medium": "绘画",
+  "def": "以威尼斯为中心的绘画传统，重视色彩与光线甚于线条。",
+  "when": "约公元1450—1600年",
+  "overview": "采用油彩与渐进色塑造氛围，题材包括宗教、神话与肖像，乔尔乔内、提香为代表。",
+  "related": [
+   {
+    "id": "high-renaissance",
+    "title": "盛期文艺复兴"
+   },
+   {
+    "id": "mannerism",
+    "title": "样式主义"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-venetian-school",
+    "title": "Venetian school (art)",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-italian-renaissance-painting",
+    "title": "Italian Renaissance painting",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "fugue",
+  "title": "赋格",
+  "kind": "术语",
+  "era": "17—18世纪",
+  "region": "欧洲",
+  "medium": "音乐体裁",
+  "def": "以主题模仿与对位为基础的复调乐曲形式。",
+  "when": "约公元17世纪成熟",
+  "overview": "主题在各声部依次进入并展开，巴赫《平均律钢琴曲集》为赋格艺术的典范。",
+  "related": [
+   {
+    "id": "baroque-music",
+    "title": "巴洛克音乐"
+   },
+   {
+    "id": "bach",
+    "title": "巴赫"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-fugue",
+    "title": "Fugue",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-baroque-music",
+    "title": "Baroque music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "monteverdi",
+  "title": "蒙特威尔第",
+  "kind": "人物",
+  "era": "16—17世纪",
+  "region": "意大利",
+  "medium": "音乐体裁",
+  "def": "意大利作曲家，早期歌剧的重要奠基者。",
+  "when": "1567—1643年",
+  "overview": "代表作《奥菲欧》《波佩亚的加冕》，推动宣叙调与管弦乐表现力的发展。",
+  "related": [
+   {
+    "id": "opera",
+    "title": "歌剧"
+   },
+   {
+    "id": "baroque-music",
+    "title": "巴洛克音乐"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-opera",
+    "title": "Opera",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-baroque-music",
+    "title": "Baroque music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "sonata",
+  "title": "奏鸣曲",
+  "kind": "术语",
+  "era": "17世纪—今",
+  "region": "欧洲",
+  "medium": "音乐体裁",
+  "def": "由若干乐章构成的器乐套曲体裁，巴洛克时期成熟。",
+  "when": "约公元17世纪—至今",
+  "overview": "从教堂奏鸣曲与室内奏鸣曲发展而来，古典时期确立奏鸣曲式与多乐章布局。",
+  "related": [
+   {
+    "id": "baroque-music",
+    "title": "巴洛克音乐"
+   },
+   {
+    "id": "classical-period-music",
+    "title": "古典主义音乐"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-sonata",
+    "title": "Sonata",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-baroque-music",
+    "title": "Baroque music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "guzheng",
+  "title": "古筝",
+  "kind": "术语",
+  "era": "战国—今",
+  "region": "中国",
+  "medium": "音乐体裁",
+  "def": "中国传统的多弦弹拨乐器，以宽阔音域与丰富技法著称。",
+  "when": "约公元前5世纪—至今",
+  "overview": "现代常见为21弦，演奏以右手弹拨、左手按滑为特征，代表作《渔舟唱晚》。",
+  "related": [
+   {
+    "id": "china-music-history",
+    "title": "中国音乐史"
+   },
+   {
+    "id": "jingju",
+    "title": "京剧"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-guzheng",
+    "title": "Guzheng",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-chinese-music",
+    "title": "Chinese music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "pipa",
+  "title": "琵琶",
+  "kind": "术语",
+  "era": "汉—今",
+  "region": "中国",
+  "medium": "音乐体裁",
+  "def": "中国传统的梨形弹拨乐器，表现力丰富。",
+  "when": "约公元前2世纪—至今",
+  "overview": "唐代燕乐中地位重要，技法包括轮指与扫拂，代表作《十面埋伏》。",
+  "related": [
+   {
+    "id": "china-music-history",
+    "title": "中国音乐史"
+   },
+   {
+    "id": "guzheng",
+    "title": "古筝"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-chinese-music",
+    "title": "Chinese music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-guzheng",
+    "title": "Guzheng",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "yayue",
+  "title": "雅乐",
+  "kind": "风格",
+  "era": "周—明清",
+  "region": "中国",
+  "medium": "音乐体裁",
+  "def": "中国古代用于祭祀与朝廷礼仪的官方礼乐体系。",
+  "when": "约公元前11世纪起",
+  "overview": "与周代礼制结合，强调等级秩序与中和之美，历代宫廷均有沿革。",
+  "related": [
+   {
+    "id": "china-music-history",
+    "title": "中国音乐史"
+   },
+   {
+    "id": "china-music-history",
+    "title": "中国音乐史"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-chinese-music",
+    "title": "Chinese music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-medieval-music",
+    "title": "Medieval music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "haydn",
+  "title": "海顿",
+  "kind": "人物",
+  "era": "18世纪",
+  "region": "奥地利",
+  "medium": "音乐体裁",
+  "def": "奥地利作曲家，交响曲与弦乐四重奏体裁的奠基者之一。",
+  "when": "1732—1809年",
+  "overview": "创作百余部交响曲，确立四乐章套曲规范，晚期清唱剧《创世纪》亦著称。",
+  "related": [
+   {
+    "id": "classical-period-music",
+    "title": "古典主义音乐"
+   },
+   {
+    "id": "symphony",
+    "title": "交响曲"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-haydn",
+    "title": "Joseph Haydn",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-symphony",
+    "title": "Symphony",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "sonata-form",
+  "title": "奏鸣曲式",
+  "kind": "术语",
+  "era": "18世纪—今",
+  "region": "欧洲",
+  "medium": "音乐体裁",
+  "def": "以呈示部、展开部与再现部构成的乐曲结构原则。",
+  "when": "约公元18世纪成熟",
+  "overview": "建立在主题对比与调性回归之上，是古典交响曲与奏鸣曲第一乐章的核心结构。",
+  "related": [
+   {
+    "id": "sonata",
+    "title": "奏鸣曲"
+   },
+   {
+    "id": "classical-period-music",
+    "title": "古典主义音乐"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-sonata",
+    "title": "Sonata",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-classical-period-music",
+    "title": "Classical period (music)",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "organum",
+  "title": "奥尔加农",
+  "kind": "术语",
+  "era": "中世纪",
+  "region": "欧洲",
+  "medium": "音乐体裁",
+  "def": "中世纪早期的复调形式，在圣咏上方叠加一个或多个声部。",
+  "when": "约公元9—13世纪",
+  "overview": "从平行奥尔加农发展为华丽奥尔加农与有量奥尔加农，是复调音乐的起点。",
+  "related": [
+   {
+    "id": "gregorian-chant",
+    "title": "格里高利圣咏"
+   },
+   {
+    "id": "polyphony",
+    "title": "复调"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-polyphony",
+    "title": "Polyphony",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-medieval-music",
+    "title": "Medieval music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "debussy",
+  "title": "德彪西",
+  "kind": "人物",
+  "era": "19—20世纪",
+  "region": "法国",
+  "medium": "音乐体裁",
+  "def": "法国作曲家，印象主义音乐的代表人物。",
+  "when": "1862—1918年",
+  "overview": "代表作《牧神午后前奏曲》《大海》，以音色与和声色彩营造朦胧意象。",
+  "related": [
+   {
+    "id": "impressionism-music",
+    "title": "印象主义音乐"
+   },
+   {
+    "id": "20th-century-classical",
+    "title": "20世纪古典音乐"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-20th-century-classical",
+    "title": "20th-century classical music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-romantic-music",
+    "title": "Romantic music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "impressionism-music",
+  "title": "印象主义音乐",
+  "kind": "风格",
+  "era": "20世纪初",
+  "region": "法国",
+  "medium": "音乐体裁",
+  "def": "20世纪初以色彩性与朦胧音响为追求的音乐风格。",
+  "when": "约公元1890—1920年",
+  "overview": "德彪西与拉威尔以全音阶、平行和弦与精致配器营造光影氛围，弱化和声功能。",
+  "related": [
+   {
+    "id": "20th-century-classical",
+    "title": "20世纪古典音乐"
+   },
+   {
+    "id": "romantic-music",
+    "title": "浪漫主义音乐"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-20th-century-classical",
+    "title": "20th-century classical music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-tonality",
+    "title": "Tonality",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "minimalism-music",
+  "title": "简约主义音乐",
+  "kind": "风格",
+  "era": "20世纪后半",
+  "region": "美国",
+  "medium": "音乐体裁",
+  "def": "以简短动机反复与渐变过程为特征的运动。",
+  "when": "约公元1960年代起",
+  "overview": "赖希与格拉斯以相位移位与渐进叠加构建音响，形成与序列主义不同的简约路径。",
+  "related": [
+   {
+    "id": "20th-century-classical",
+    "title": "20世纪古典音乐"
+   },
+   {
+    "id": "serialism",
+    "title": "序列主义"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-20th-century-classical",
+    "title": "20th-century classical music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-serialism",
+    "title": "Serialism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "serialism",
+  "title": "序列主义",
+  "kind": "术语",
+  "era": "20世纪",
+  "region": "欧美",
+  "medium": "音乐体裁",
+  "def": "以预先设定的音高或其他参数序列组织作品的作曲方法。",
+  "when": "约公元1920年代起",
+  "overview": "勋伯格创立十二音技法，后扩展为整体序列主义，彻底突破传统调性中心。",
+  "related": [
+   {
+    "id": "20th-century-classical",
+    "title": "20世纪古典音乐"
+   },
+   {
+    "id": "schoenberg",
+    "title": "勋伯格"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-serialism",
+    "title": "Serialism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-schoenberg",
+    "title": "Arnold Schoenberg",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "madrigal",
+  "title": "牧歌",
+  "kind": "风格",
+  "era": "16世纪",
+  "region": "意大利/英国",
+  "medium": "音乐体裁",
+  "def": "文艺复兴时期以世俗诗歌为词的复调声乐体裁。",
+  "when": "约公元1530—1600年",
+  "overview": "注重歌词与音乐的情感对应，常用绘词法，后期发展出更戏剧化的风格。",
+  "related": [
+   {
+    "id": "renaissance-music",
+    "title": "文艺复兴音乐"
+   },
+   {
+    "id": "baroque-music",
+    "title": "巴洛克音乐"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-renaissance-music",
+    "title": "Renaissance music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-medieval-music",
+    "title": "Medieval music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "palestrina",
+  "title": "帕莱斯特里纳",
+  "kind": "人物",
+  "era": "16世纪",
+  "region": "意大利",
+  "medium": "音乐体裁",
+  "def": "意大利文艺复兴作曲家，以清晰的复调教会音乐著称。",
+  "when": "约1525—1594年",
+  "overview": "其作品以均衡、透明的声部进行著称，《马尔切鲁斯教皇弥撒》常被视为特伦托会议后教会音乐的典范。",
+  "related": [
+   {
+    "id": "renaissance-music",
+    "title": "文艺复兴音乐"
+   },
+   {
+    "id": "baroque-music",
+    "title": "巴洛克音乐"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-renaissance-music",
+    "title": "Renaissance music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-medieval-music",
+    "title": "Medieval music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "lied",
+  "title": "艺术歌曲",
+  "kind": "风格",
+  "era": "19世纪",
+  "region": "德语地区",
+  "medium": "音乐体裁",
+  "def": "为声乐与钢琴创作的德语艺术歌曲体裁。",
+  "when": "约公元19世纪",
+  "overview": "舒伯特、舒曼将其发展至高峰，诗歌与音乐紧密结合，钢琴承担重要的情境塑造。",
+  "related": [
+   {
+    "id": "romantic-music",
+    "title": "浪漫主义音乐"
+   },
+   {
+    "id": "schubert",
+    "title": "舒伯特"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-romantic-music",
+    "title": "Romantic music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-classical-period-music",
+    "title": "Classical period (music)",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "schubert",
+  "title": "舒伯特",
+  "kind": "人物",
+  "era": "19世纪",
+  "region": "奥地利",
+  "medium": "音乐体裁",
+  "def": "奥地利作曲家，艺术歌曲的重要奠基者。",
+  "when": "1797—1828年",
+  "overview": "创作六百余首艺术歌曲及《未完成交响曲》，以旋律天赋与和声色彩著称。",
+  "related": [
+   {
+    "id": "lied",
+    "title": "艺术歌曲"
+   },
+   {
+    "id": "romantic-music",
+    "title": "浪漫主义音乐"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-romantic-music",
+    "title": "Romantic music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-classical-period-music",
+    "title": "Classical period (music)",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "symphonic-poem",
+  "title": "交响诗",
+  "kind": "风格",
+  "era": "19世纪",
+  "region": "欧洲",
+  "medium": "音乐体裁",
+  "def": "以文学或绘画内容为标题的单乐章管弦乐体裁。",
+  "when": "约公元19世纪中叶",
+  "overview": "李斯特创立该体裁，通过主题变形与配器描绘标题意象，推动标题音乐发展。",
+  "related": [
+   {
+    "id": "romantic-music",
+    "title": "浪漫主义音乐"
+   },
+   {
+    "id": "romanticism-art",
+    "title": "浪漫主义（艺术）"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-romantic-music",
+    "title": "Romantic music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-opera",
+    "title": "Opera",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "cave-art",
+  "title": "洞穴壁画",
+  "kind": "风格",
+  "era": "旧石器时代",
+  "region": "欧洲",
+  "medium": "绘画",
+  "def": "绘制于洞穴岩壁上的史前绘画，以动物形象与手印为主。",
+  "when": "约公元前4万—前1万年",
+  "overview": "常见于法国与西班牙洞穴，使用炭黑与赭石，动物形象生动，空间布局无统一透视。",
+  "related": [
+   {
+    "id": "prehistoric-art",
+    "title": "史前艺术"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-prehistoric-art",
+    "title": "Prehistoric art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "web-artstory-movements",
+    "title": "Classical and Modern Art Movements",
+    "author": "The Art Story Foundation",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "paleolithic-sculpture",
+  "title": "旧石器雕塑",
+  "kind": "风格",
+  "era": "旧石器时代",
+  "region": "欧洲",
+  "medium": "雕塑",
+  "def": "旧石器时代的小型雕像，多为动物或女性形象。",
+  "when": "约公元前4万—前1万年",
+  "overview": "代表如猛犸象牙雕刻与所谓《维纳斯》小像，尺度小、造型概括。",
+  "related": [
+   {
+    "id": "prehistoric-art",
+    "title": "史前艺术"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-prehistoric-art",
+    "title": "Prehistoric art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-venus-figurines",
+    "title": "Venus figurine",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "gongbi",
+  "title": "工笔",
+  "kind": "术语",
+  "era": "历代",
+  "region": "中国",
+  "medium": "绘画",
+  "def": "中国画中以细密线条与层层渲染描绘对象的画法。",
+  "when": "历代",
+  "overview": "注重形似与技法规范，常用于人物、花鸟题材，与写意形成对照。",
+  "related": [
+   {
+    "id": "xieyi",
+    "title": "写意"
+   },
+   {
+    "id": "china-painting-history",
+    "title": "中国绘画史"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-chinese-painting",
+    "title": "Chinese painting",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-ink-wash",
+    "title": "Ink wash painting",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "early-christian-art",
+  "title": "早期基督教艺术",
+  "kind": "风格",
+  "era": "中世纪早期",
+  "region": "地中海",
+  "medium": "综合",
+  "def": "基督教合法化后形成的艺术，常见于地下墓室壁画与巴西利卡教堂。",
+  "when": "约公元2—6世纪",
+  "overview": "早期采用寓意图像如鱼与牧羊人，巴西利卡成为礼拜建筑的基本形制。",
+  "related": [
+   {
+    "id": "byzantine-art",
+    "title": "拜占庭艺术"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-medieval-art",
+    "title": "Medieval art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-byzantine-art",
+    "title": "Byzantine art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ }
+]

@@ -1,139 +1,139 @@
 [
  {
-  "id": "china-music-history",
-  "title": "中国音乐史",
-  "kind": "时期",
-  "era": "远古—明清",
-  "region": "中国",
-  "medium": "音乐体裁",
-  "def": "中国音乐自远古至明清的发展脉络，以礼乐制度、乐器和戏曲为重要线索。",
-  "when": "约公元前5000年—公元19世纪",
-  "overview": "经历远古乐舞、周代礼乐、汉唐燕乐、宋元词曲与明清戏曲的发展，形成独特体系。",
-  "related": [
-   {
-    "id": "guzheng",
-    "title": "古筝"
-   },
-   {
-    "id": "jingju",
-    "title": "京剧"
-   }
-  ],
-  "sources": [
-   {
-    "id": "enc-chinese-music",
-    "title": "Chinese music",
-    "author": "Wikipedia contributors",
-    "type": "权威百科"
-   },
-   {
-    "id": "enc-guzheng",
-    "title": "Guzheng",
-    "author": "Wikipedia contributors",
-    "type": "权威百科"
-   }
-  ]
- },
- {
-  "id": "jingju",
-  "title": "京剧",
+  "id": "chinese-jade-art",
+  "title": "中国玉器",
   "kind": "风格",
-  "era": "清代—今",
+  "era": "新石器—先秦",
   "region": "中国",
-  "medium": "音乐体裁",
-  "def": "形成于清代的中国传统戏曲剧种，融合唱念做打与程式化表演。",
-  "when": "约公元19世纪中叶形成",
-  "overview": "以皮黄腔为主，行当分明，脸谱与身段具有高度程式化特征，梅兰芳为代表人物。",
+  "medium": "雕塑",
+  "def": "中国玉器是以玉石雕琢而成的器物与礼器传统，兼具工艺与礼制意义。",
+  "when": "约公元前5000年—前3世纪",
+  "overview": "良渚、红山等文化的玉器已具复杂造型，商周以后玉器与礼制结合，象征身份与权力。",
   "related": [
    {
-    "id": "china-music-history",
-    "title": "中国音乐史"
+    "id": "shang-zhou-bronzes",
+    "title": "商周青铜礼器"
    },
    {
-    "id": "guzheng",
-    "title": "古筝"
+    "id": "china-painting-history",
+    "title": "中国绘画史"
    }
   ],
   "sources": [
    {
-    "id": "enc-jingju",
-    "title": "Beijing opera",
+    "id": "enc-chinese-jade",
+    "title": "Chinese jade",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    },
    {
-    "id": "enc-chinese-music",
-    "title": "Chinese music",
+    "id": "enc-jade",
+    "title": "Jade",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    }
   ]
  },
  {
-  "id": "schoenberg",
-  "title": "勋伯格",
-  "kind": "人物",
-  "era": "20世纪",
-  "region": "奥地利/美国",
-  "medium": "音乐体裁",
-  "def": "奥地利裔作曲家，十二音技法与表现主义音乐的开创者。",
-  "when": "1874—1951年",
-  "overview": "代表作《月光下的皮埃罗》《升华之夜》，以无调性与十二音体系重塑作曲逻辑。",
+  "id": "dunhuang-art",
+  "title": "敦煌艺术",
+  "kind": "风格",
+  "era": "隋唐",
+  "region": "中国",
+  "medium": "绘画",
+  "def": "敦煌艺术是以敦煌石窟为核心的佛教艺术体系，含壁画、彩塑与建筑。",
+  "when": "约公元4—14世纪",
+  "overview": "敦煌壁画融合中原与西域风格，题材以佛传、本生故事为主，是研究中国佛教艺术与中西交流的重要遗存。",
   "related": [
    {
-    "id": "serialism",
-    "title": "序列主义"
+    "id": "six-dynasties-art",
+    "title": "魏晋南北朝艺术"
    },
    {
-    "id": "20th-century-classical",
-    "title": "20世纪古典音乐"
+    "id": "tang-painting",
+    "title": "唐代绘画"
    }
   ],
   "sources": [
    {
-    "id": "enc-schoenberg",
-    "title": "Arnold Schoenberg",
+    "id": "enc-dunhuang",
+    "title": "Dunhuang",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    },
    {
-    "id": "enc-serialism",
-    "title": "Serialism",
+    "id": "enc-chinese-buddhist-art",
+    "title": "Chinese Buddhist art",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    }
   ]
  },
  {
-  "id": "stravinsky",
-  "title": "斯特拉文斯基",
-  "kind": "人物",
-  "era": "20世纪",
-  "region": "俄国/美国",
-  "medium": "音乐体裁",
-  "def": "俄裔作曲家，以节奏革新与风格多变著称。",
-  "when": "1882—1971年",
-  "overview": "代表作《春之祭》《彼得鲁什卡》，以强烈节奏与不协和音响引发轰动，后期转向新古典主义。",
+  "id": "shang-zhou-bronzes",
+  "title": "商周青铜礼器",
+  "kind": "风格",
+  "era": "夏商周",
+  "region": "中国",
+  "medium": "雕塑",
+  "def": "商周青铜礼器是中国先秦时期以青铜铸造的礼制器物，饰有兽面纹等纹样。",
+  "when": "约公元前1600—前256年",
+  "overview": "青铜器用于祭祀与宴飨，器型多样，纹饰以饕餮纹、夔龙纹为主，体现礼制秩序与铸造工艺。",
   "related": [
    {
-    "id": "20th-century-classical",
-    "title": "20世纪古典音乐"
+    "id": "chinese-jade-art",
+    "title": "中国玉器"
    },
    {
-    "id": "serialism",
-    "title": "序列主义"
+    "id": "six-dynasties-art",
+    "title": "魏晋南北朝艺术"
    }
   ],
   "sources": [
    {
-    "id": "enc-stravinsky",
-    "title": "Igor Stravinsky",
+    "id": "enc-bronze",
+    "title": "Chinese bronzes",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    },
    {
-    "id": "enc-20th-century-classical",
-    "title": "20th-century classical music",
+    "id": "enc-sanxingdui",
+    "title": "Sanxingdui",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "six-dynasties-art",
+  "title": "魏晋南北朝艺术",
+  "kind": "风格",
+  "era": "魏晋南北朝",
+  "region": "中国",
+  "medium": "绘画",
+  "def": "魏晋南北朝艺术是中国艺术史上佛教艺术兴起、绘画理论确立的转折期。",
+  "when": "约公元220—589年",
+  "overview": "此期石窟开凿与佛教造像兴盛，顾恺之等画家与画论著作出现，为隋唐艺术的繁荣奠定基础。",
+  "related": [
+   {
+    "id": "dunhuang-art",
+    "title": "敦煌艺术"
+   },
+   {
+    "id": "tang-painting",
+    "title": "唐代绘画"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-six-dynasties",
+    "title": "Six Dynasties",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-chinese-buddhist-art",
+    "title": "Chinese Buddhist art",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    }

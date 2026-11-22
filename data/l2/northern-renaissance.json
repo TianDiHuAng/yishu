@@ -1,0 +1,14 @@
+{
+ "id": "northern-renaissance",
+ "level": "L2",
+ "sections": {
+  "时代背景": "北方文艺复兴指阿尔卑斯山以北地区在15—16世纪的文艺复兴艺术，主要分布于北欧。它是文艺复兴在这一地区的展开，相关条目亦列出《文艺复兴》作为参照。",
+  "风格特征": "北方文艺复兴以精细写实见长，注重细节描绘，题材偏于世俗。风景画与风俗画出现独立倾向，是其风格的重要表现。",
+  "代表人物与作品": "概述中点名凡·艾克兄弟，指出其完善了油画技法。相关条目《文艺复兴》与《样式主义》为考察其位置提供参照，来源未点名其他具体人物或作品。",
+  "技法或形式分析": "以油画技法为核心，概述提到凡·艾克兄弟完善了这一技法。对细节的精细刻画与世俗题材的选择，共同支撑起风景画、风俗画的独立倾向。",
+  "与前后风格的关系和争论": "北方文艺复兴属于文艺复兴在阿尔卑斯山以北的地区性展开，相关条目另列样式主义作为参照。记载较一致，学界主要讨论其与文艺复兴整体及样式主义之间的分期与边界问题。",
+  "一图": "示意图表现精细写实、油画技法与世俗题材如何支撑风景画、风俗画的独立倾向。",
+  "待核实": "when 字段的“约公元1400—1600年”为精确年代区间，来源标题未逐字支撑，待补充第二来源核实。“油画技法”“风俗画”“风景画”等中文术语的英文对应，输入未给出，待补充第二来源。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='北方文艺复兴 示意图'><title>北方文艺复兴</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>北方文艺复兴</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>精细写实</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>油画技法</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>凡·艾克兄弟</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>风俗画</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>风景画</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>写实与油画支撑独立画科倾向</text></g></svg>"
+}

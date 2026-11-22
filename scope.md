@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 109 个条目、17 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 114 个条目、17 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -123,6 +123,11 @@
 | qing-painting | 清代绘画 | 风格 | 清代 | 中国 | 绘画 | 重要 | O1、O6 |
 | xieyi | 写意 | 术语 | 历代 | 中国 | 绘画 | 重要 | O1、O6 |
 | gongbi | 工笔 | 术语 | 历代 | 中国 | 绘画 | 补充 | O1、O6 |
+| yangshao-painted-pottery | 仰韶彩陶 | 风格 | 新石器时代 | 中国 | 绘画 | 重要 | O1、O6 |
+| chinese-jade-art | 中国玉器 | 风格 | 新石器—先秦 | 中国 | 雕塑 | 重要 | O1、O6 |
+| shang-zhou-bronzes | 商周青铜礼器 | 风格 | 夏商周 | 中国 | 雕塑 | 重要 | O1、O6 |
+| dunhuang-art | 敦煌艺术 | 风格 | 隋唐 | 中国 | 绘画 | 重要 | O1、O6 |
+| six-dynasties-art | 魏晋南北朝艺术 | 风格 | 魏晋南北朝 | 中国 | 绘画 | 重要 | O1、O6 |
 
 ## art-china-calligraphy（中国书法史）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
