@@ -25,6 +25,10 @@ for p in sorted(glob.glob(os.path.join(l2dir,"*.json"))):
     merged[eid].update(ov)
 
 entries=list(merged.values())
+# 全局去重：来源id不得重复（保持顺序）
+for e in entries:
+    if "sources" in e:
+        e["sources"]=list(dict.fromkeys(e["sources"]))
 json.dump({"entries":entries},open(os.path.join(D,"site_entries.json"),"w",encoding="utf-8"),
           ensure_ascii=False,indent=2)
 

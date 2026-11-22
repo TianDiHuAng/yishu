@@ -1,0 +1,201 @@
+[
+  {
+    "entry_id": "medieval-music",
+    "pending_item": "具体作曲家与曲目未在输入事实中给出，待补第二来源",
+    "resolved": true,
+    "source": {
+      "id": "enc-perotin",
+      "title": "Pérotin",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/P%C3%A9rotin",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200；标题[Pérotin - Wikipedia]，命中关键词[12th-century French composer]、[Notre Dame school of polyphony]、[Notable work Viderunt omnes, Sederunt principes, Alleluia Nativitas]"
+    },
+    "body_rewrite": "中世纪复调可举出具体作曲家佩罗坦（Pérotin，约1200年活跃于巴黎圣母院学派），其作品包括《Viderunt omnes》《Sederunt principes》等复调曲目。"
+  },
+  {
+    "entry_id": "medieval-music",
+    "pending_item": "复调起源时间与体裁分期边界待核实",
+    "resolved": true,
+    "source": {
+      "id": "enc-organum",
+      "title": "Organum",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Organum",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200；标题[Organum - Wikipedia]，命中关键词[organum]、[creating true polyphony]、[Gregorian chant]"
+    },
+    "body_rewrite": "复调萌芽可落到具体形式奥尔加农（organum）：它在格里高利圣咏上叠加声部，从简单的平行进行发展出更复杂的声部关系，由此形成真正的复调。"
+  },
+  {
+    "entry_id": "medieval-music",
+    "pending_item": "世俗音乐与教会音乐互动的具体史实待补充来源",
+    "resolved": true,
+    "source": {
+      "id": "enc-machaut",
+      "title": "Guillaume de Machaut",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Guillaume_de_Machaut",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200；标题[Guillaume de Machaut - Wikipedia]，命中关键词[Messe de Nostre Dame]、[secular song forms]、[formes fixes: rondeau, virelai and ballade]、[most significant French composer and poet of the 14th century]"
+    },
+    "body_rewrite": "14世纪作曲家纪尧姆·德·马绍既留下宗教作品《圣母弥撒》（Messe de Nostre Dame），也大量创作世俗歌曲（回旋歌、维莱莱、叙事歌等），显示中世纪教会与世俗音乐传统在同一时期的并存与互动。"
+  },
+  {
+    "entry_id": "gregorian-chant",
+    "pending_item": "圣咏系统整理的年代与格里高利一世的具体作用待核实",
+    "resolved": true,
+    "source": {
+      "id": "enc-pope-gregory-i",
+      "title": "Pope Gregory I",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Pope_Gregory_I",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200；标题[Pope Gregory I - Wikipedia]，命中关键词[Bishop of Rome ... from AD 590 to 604]、[exceptional efforts in revising the Roman worship]、章节标题[Gregorian chant]"
+    },
+    "body_rewrite": "格里高利圣咏的整理传统与教皇格里高利一世（590—604年在位）相关：他因修订罗马礼拜仪式而著称，西方主流素歌遂以其名命名为“格里高利圣咏”。"
+  },
+  {
+    "entry_id": "gregorian-chant",
+    "pending_item": "具体曲目、抄本与版本信息未在输入事实中给出，待补第二来源",
+    "resolved": true,
+    "source": {
+      "id": "enc-pope-gregory-i",
+      "title": "Pope Gregory I",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Pope_Gregory_I",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200；命中关键词[Antiphonary of Hartker of the monastery of Saint Gall]（Gregorian chant 章节配图说明），提供一个可核验的具体抄本实例"
+    },
+    "body_rewrite": "可举出具体抄本实例：圣加尔修道院的《哈特克对唱经书》（Antiphonary of Hartker）是保存格里高利圣咏的重要早期手稿。"
+  },
+  {
+    "entry_id": "gregorian-chant",
+    "pending_item": "各地礼仪传统差异的细节待核实",
+    "resolved": true,
+    "source": {
+      "id": "enc-ambrosian-chant",
+      "title": "Ambrosian chant",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Ambrosian_chant",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200；标题[Ambrosian chant - Wikipedia]，命中关键词[liturgical plainchant repertory of the Ambrosian rite]、[distinct from the more widely known Gregorian chant]、[Archdiocese of Milan]、[named after St. Ambrose]"
+    },
+    "body_rewrite": "除格里高利圣咏外，米兰的安布罗斯圣咏（Ambrosian chant）是安布罗斯礼的礼仪素歌传统，与流传更广的格里高利圣咏有别，反映各地礼仪传统的差异。"
+  },
+  {
+    "entry_id": "greek-art",
+    "pending_item": "古希腊艺术终点存在前146年（科林斯之战）与前31年两种断代，后者适用语境待第二来源确认",
+    "resolved": true,
+    "source": {
+      "id": "enc-hellenistic-period",
+      "title": "Hellenistic period",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Hellenistic_period",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200；标题[Hellenistic period - Wikipedia]，命中关键词[Hellenistic Greece (323 BC–31 BC)]、[Roman Greece (146 BC–395 AD)]、[Battle of Actium in 31 BC]"
+    },
+    "body_rewrite": "古希腊艺术的终点可并存两种断代语境：希腊化时期通常截至公元前31年（亚克兴海战与罗马征服托勒密埃及），而罗马对希腊的征服始于公元前146年（科林斯），故罗马统治希腊时期自前146年算起。"
+  },
+  {
+    "entry_id": "greek-art",
+    "pending_item": "具体雕塑家、建筑家姓名及代表作名称未在输入事实中给出，待补第二来源",
+    "resolved": true,
+    "source": {
+      "id": "enc-phidias",
+      "title": "Phidias",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Phidias",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200；标题[Phidias - Wikipedia]，命中关键词[Greek sculptor, painter and architect (c.480–430 BC)]、[Statue of Zeus at Olympia was one of the Seven Wonders of the Ancient World]、[Athena Parthenos]、[designed the Parthenon]"
+    },
+    "body_rewrite": "古希腊艺术可举出雕塑家菲迪亚斯（Phidias，约公元前480—430年）：其代表作有帕特农神庙的雅典娜像与奥林匹亚的宙斯像（古代七大奇迹之一）。"
+  },
+  {
+    "entry_id": "greek-art",
+    "pending_item": "各阶段（几何—希腊化）的精确起止边界待核实",
+    "resolved": true,
+    "source": {
+      "id": "enc-hellenistic-period",
+      "title": "Hellenistic period",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Hellenistic_period",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200；命中关键词[Classical Greece (500 BC–323 BC)]、[Hellenistic Greece (323 BC–31 BC)]、[Roman Greece (146 BC–395 AD)]；几何时期起点该页未逐字给出"
+    },
+    "body_rewrite": "分期上可参照权威资料给出的边界：古典希腊约公元前500—前323年、希腊化时期公元前323—前31年、罗马统治希腊自公元前146年起（几何时期起点该来源未载）。"
+  },
+  {
+    "entry_id": "realism-art",
+    "pending_item": "库尔贝为代表，但未给出其具体作品名称、年份与收藏地",
+    "resolved": true,
+    "source": {
+      "id": "enc-burial-at-ornans",
+      "title": "A Burial at Ornans",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/A_Burial_at_Ornans",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200；标题[A Burial at Ornans - Wikipedia]，命中关键词[Painting by Gustave Courbet, 1850–1851]、[Artist Gustave Courbet Year 1849–50]、[Location Musée d'Orsay, Paris]、[Movement Realism]"
+    },
+    "body_rewrite": "现实主义代表库尔贝的具体作品可举《奥尔南的葬礼》（A Burial at Ornans，1849—1850年），现藏巴黎奥赛博物馆。"
+  },
+  {
+    "entry_id": "realism-art",
+    "pending_item": "原L1种子精确年代区间“约1840—1870年”在所引来源页无逐字支撑，精确起止待第二来源核实",
+    "resolved": false,
+    "source": null,
+    "body_rewrite": ""
+  },
+  {
+    "entry_id": "clerical-script",
+    "pending_item": "概述未列出隶书的具体代表书家与碑帖作品",
+    "resolved": true,
+    "source": {
+      "id": "enc-clerical-script",
+      "title": "Clerical script",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Clerical_script",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200；标题[Clerical script - Wikipedia]，命中关键词[Stele of Huashan Temple, written in the clerical script from the late Eastern Han dynasty]、[曹全碑, The Stele of Cao Quan]"
+    },
+    "body_rewrite": "隶书的具体碑帖可举东汉晚期的《华山庙碑》（Stele of Huashan Temple）与《曹全碑》（Stele of Cao Quan），均以隶书写成。"
+  },
+  {
+    "entry_id": "clerical-script",
+    "pending_item": "“波磔”“扁方”“蚕头燕尾”等笔画术语及精确年代区间（前2世纪—公元3世纪）在所引英文来源页无逐字对应，待补中文书法专著核实",
+    "resolved": true,
+    "source": {
+      "id": "enc-clerical-script",
+      "title": "Clerical script",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Clerical_script",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200；命中关键词[squat character shapes]、[wavy appearance due to the thick, pronounced and slightly downward tails that are up-tilted]、[matured and became dominant in the Han dynasty]；中文术语逐字与“前2世纪—公元3世纪”精确数字该页未载，仅支撑形态与成熟于汉代的史实"
+    },
+    "body_rewrite": "隶书的形态特征为字形扁方、笔画厚重且带略微下倾而上翘的波尾，呈“波浪状”外观，并在汉代成熟、成为主导书体。"
+  }
+]

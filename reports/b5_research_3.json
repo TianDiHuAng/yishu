@@ -1,0 +1,229 @@
+[
+  {
+    "entry_id": "roman-art",
+    "pending_item": "拱券与穹顶的技术参数、万神殿的建造年代与所在地",
+    "resolved": true,
+    "source": {
+      "id": "enc-pantheon-rome",
+      "title": "Pantheon (Rome)",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Pantheon_(Rome)",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200；正文命中 'originally built under Roman emperor Augustus (27 BC–AD 14) and reconstructed under Hadrian (117–138)'、'coffered concrete dome made from Roman concrete'、'43 metres (142 ft)'、'Since AD 609, it has served as the Roman Catholic Basilica'"
+    },
+    "body_rewrite": "万神殿位于意大利罗马，最初建于奥古斯都时期（公元前27年—公元14年），哈德良时期（117—138年）重建；其穹顶以罗马混凝土筑成，至天窗的高度与内部圆形直径同为43米，是迄今最大的无筋混凝土穹顶，自公元609年起用作天主教堂。"
+  },
+  {
+    "entry_id": "roman-art",
+    "pending_item": "西罗马艺术年代区间的精确终点是否为公元476年",
+    "resolved": true,
+    "source": {
+      "id": "enc-fall-western-roman-empire",
+      "title": "Fall of the Western Roman Empire",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200；正文命中 'In 476, the Germanic barbarian king Odoacer deposed the last emperor of the Western Roman Empire in Italy, Romulus Augustulus' 与 'the Senate sent the imperial insignia to the Eastern Roman emperor Zeno'"
+    },
+    "body_rewrite": "西罗马帝国通常以476年为终点：这一年日耳曼国王奥多亚塞废黜了在意大利的末帝罗慕路斯·奥古斯都，元老院将帝国徽记送交东罗马皇帝芝诺。"
+  },
+  {
+    "entry_id": "romanesque",
+    "pending_item": "可列举的具体罗马式教堂或雕塑作品名称",
+    "resolved": true,
+    "source": {
+      "id": "enc-romanesque-architecture",
+      "title": "Romanesque architecture",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Romanesque_architecture",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200；正文命中 'The vault at the Abbey Church of Sainte-Foy, Conques, France'、'In La Madeleine, Vezelay, for example, the polychrome ribs of the vault'"
+    },
+    "body_rewrite": "罗马式艺术的具体代表包括法国孔克的圣福瓦修道院教堂与韦泽莱的玛德莱娜教堂，后者拱顶的彩绘肋饰边缘饰有窄线脚。"
+  },
+  {
+    "entry_id": "romanesque",
+    "pending_item": "厚墙小窗、半圆拱、十字拱等形制术语",
+    "resolved": true,
+    "source": {
+      "id": "enc-romanesque-architecture",
+      "title": "Romanesque architecture",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Romanesque_architecture",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200；正文命中 'massive quality, thick walls, round arches, sturdy pillars, barrel vaults'、'small windows of early Romanesque'、章节标题 'Groin vault'"
+    },
+    "body_rewrite": "罗马式建筑以厚重的墙体、半圆拱、粗壮墩柱和筒形拱为典型特征，早期实例可见小窗；其拱顶形式包括筒形拱与十字拱（groin vault）。"
+  },
+  {
+    "entry_id": "romanesque",
+    "pending_item": "厚墙、小窗、半圆拱与十字拱在不同地区的差异",
+    "resolved": false,
+    "source": null,
+    "body_rewrite": ""
+  },
+  {
+    "entry_id": "romanesque",
+    "pending_item": "罗马式艺术精确终点是否为1150年",
+    "resolved": false,
+    "source": null,
+    "body_rewrite": ""
+  },
+  {
+    "entry_id": "romanesque",
+    "pending_item": "罗马式艺术与哥特式艺术之间的过渡关系",
+    "resolved": true,
+    "source": {
+      "id": "enc-gothic-architecture",
+      "title": "Gothic architecture",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Gothic_architecture",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200；正文命中 'in the twelfth century from preceding Romanesque building traditions'、'overlapped with Romanesque in Transitional or Romano-Gothic styles'、章节 'Romanesque influence'"
+    },
+    "body_rewrite": "哥特式建筑于12世纪由先前的罗马式建筑传统发展而来，二者之间存在被称为「过渡式」或「罗曼—哥特式」的重叠阶段，说明罗马式向哥特式的转变并非突然断裂。"
+  },
+  {
+    "entry_id": "donatello",
+    "pending_item": "青铜《大卫》的创作年代与收藏地",
+    "resolved": true,
+    "source": {
+      "id": "enc-david-donatello-bronze",
+      "title": "David (Donatello, bronze)",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/David_(Donatello,_bronze)",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200；信息框与正文命中 'David, bronze, 1435–1440, Florence, Bargello'、'Both are now in the Museo Nazionale del Bargello in Florence'"
+    },
+    "body_rewrite": "多纳泰罗的青铜《大卫》约作于1435—1440年（通常记为1440年代），现藏佛罗伦萨巴杰罗国家博物馆（Museo Nazionale del Bargello）。"
+  },
+  {
+    "entry_id": "donatello",
+    "pending_item": "《圣乔治》的创作年代与收藏地",
+    "resolved": true,
+    "source": {
+      "id": "enc-saint-george-donatello",
+      "title": "Saint George (Donatello)",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Saint_George_(Donatello)",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200；信息框命中 'Year 1415–1417'，正文命中 'marble sculpture by Donatello currently housed in the Bargello Museum in Florence'、'first stationed on the northern side of Orsanmichele Church'"
+    },
+    "body_rewrite": "多纳泰罗的《圣乔治》为大理石雕像，约作于1415—1417年，原置于佛罗伦萨奥尔桑米凯莱教堂外龛，现藏佛罗伦萨巴杰罗博物馆。"
+  },
+  {
+    "entry_id": "donatello",
+    "pending_item": "「解剖准确性」术语是否可用于描述多纳泰罗",
+    "resolved": false,
+    "source": null,
+    "body_rewrite": ""
+  },
+  {
+    "entry_id": "cursive-script",
+    "pending_item": "张旭、怀素以狂草著称",
+    "resolved": true,
+    "source": {
+      "id": "enc-cursive-script-east-asia",
+      "title": "Cursive script (East Asia)",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Cursive_script_(East_Asia)",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200；正文命中 'developed by Zhang Xu and Huaisu in the Tang dynasty'、'Diān Zhāng Zuì Sù (crazy Zhang and drunk Su, 顛張醉素)'"
+    },
+    "body_rewrite": "狂草一体由唐代张旭与怀素发展而成，二人被并称为「颠张醉素」（crazy Zhang and drunk Su），其笔画更草、更难辨认。"
+  },
+  {
+    "entry_id": "cursive-script",
+    "pending_item": "怀素的具体作品名称",
+    "resolved": true,
+    "source": {
+      "id": "enc-huaisu",
+      "title": "Huaisu",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Huaisu",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200；正文命中 'famous for his cursive calligraphy'、'One of his representative works is the Huaisu's Autobiography'"
+    },
+    "body_rewrite": "怀素以草书闻名，其代表作品之一为《自叙帖》（Huaisu's Autobiography）。"
+  },
+  {
+    "entry_id": "cursive-script",
+    "pending_item": "张旭的具体作品名称",
+    "resolved": false,
+    "source": null,
+    "body_rewrite": ""
+  },
+  {
+    "entry_id": "cursive-script",
+    "pending_item": "草书精确年代「前1世纪—至今」",
+    "resolved": false,
+    "source": null,
+    "body_rewrite": ""
+  },
+  {
+    "entry_id": "early-christian-art",
+    "pending_item": "早期基督教艺术的年代区间约公元2—6世纪",
+    "resolved": true,
+    "source": {
+      "id": "enc-early-christian-art",
+      "title": "Early Christian art and architecture",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Early_Christian_art",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200；正文命中 'identifiably Christian art only survives from the 2nd century onwards'、'After 550, Christian art is classified as Byzantine'"
+    },
+    "body_rewrite": "可辨识的基督教艺术实物自2世纪起留存，约550年以后的基督教艺术通常归入拜占庭艺术，因此早期基督教艺术大致对应2至6世纪。"
+  },
+  {
+    "entry_id": "early-christian-art",
+    "pending_item": "「鱼」「牧羊人」等寓意图像",
+    "resolved": true,
+    "source": {
+      "id": "enc-early-christian-art",
+      "title": "Early Christian art and architecture",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Early_Christian_art",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200；正文命中 'Among the motifs adopted were the peacock, Vitis viniferavines, and the \"Good Shepherd\"'、'such symbols as the fish (ikhthus) were not borrowed from pagan iconography'"
+    },
+    "body_rewrite": "早期基督教艺术既借用异教图像（如孔雀、葡萄藤与「好牧人」），也发展出自身象征体系，其中鱼（ikhthus）即为代表性符号。"
+  },
+  {
+    "entry_id": "early-christian-art",
+    "pending_item": "具体墓室、教堂名称与作品年份",
+    "resolved": true,
+    "source": {
+      "id": "enc-early-christian-art",
+      "title": "Early Christian art and architecture",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Early_Christian_art",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200；正文命中 'Catacombs of Rome'、'In the Dura-Europos church, of about 230–256'、'Good Shepherd from the Catacomb of Priscilla, 250–300'"
+    },
+    "body_rewrite": "早期基督教艺术的重要实例包括罗马地下墓穴壁画（如普里西拉墓窟约250—300年的《好牧人》）以及约230—256年的杜拉欧罗波斯教堂壁画。"
+  }
+]

@@ -10,5 +10,12 @@
   "一图": "示意图呈现20世纪古典音乐承接浪漫主义音乐，并以序列主义作为相关流派之一。",
   "待核实": "代表人物的具体作品与各流派的起讫年份在现有字段中未给出。相关的作品与流派对应信息待补充第二来源。"
  },
- "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='20世纪古典音乐 示意图'><title>20世纪古典音乐</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>浪漫主义音乐</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>19世纪</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>20世纪古典音乐</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>调性解体</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>序列主义</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>多元技法</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>20世纪古典音乐承接浪漫主义音乐，序列主义为其中一支</text></g></svg>"
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='20世纪古典音乐 示意图'><title>20世纪古典音乐</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>浪漫主义音乐</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>19世纪</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>20世纪古典音乐</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>调性解体</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>序列主义</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>多元技法</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>20世纪古典音乐承接浪漫主义音乐，序列主义为其中一支</text></g></svg>",
+ "related": [
+  "romantic-music",
+  "serialism",
+  "minimalism-music",
+  "stravinsky",
+  "debussy"
+ ]
 }

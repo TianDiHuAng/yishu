@@ -82,3 +82,14 @@
 
 ### P3 覆盖矩阵补盲
 - gaps_cycle2.json 中134空白格，优先中国音乐/书法维度的稀疏格（待权威大纲依据）。
+
+## Cycle 3 缺口发现记录（2026-11-22）
+- B1 权威大纲对照：抓 Outline of music（28标题）、Outline of art（8标题）→ 发现空白维度：记谱法(0条)、调式(0条)、音乐要素、视觉艺术要素、西方乐器(小提琴/钢琴专条缺)。
+- B2 覆盖矩阵：134空白格、54稀疏格（与Cycle2相同，未补盲）。
+- B3 悬空引用：0条；孤儿页38条（northern-renaissance/donatello/michelangelo/raphael/monet等艺术家人像页无入链）。
+- B5 待核实：15条含具体编号项（baroque-music/impressionism/polyphony/gothic等），本轮 P0 复核。
+
+## Cycle 3 执行队列（≤40）
+1-15. B5 复核上述15条：联网找能支撑待核实项的第二来源；找到则补 source+改写正文把断言坐实，找不到则保留待核实并记 BLOCKERS。
+16-20. B1 新增不超过5条（记谱法/调式/西方乐器/视觉艺术要素等，需≥2来源）。
+21-38. 孤儿页补链（38条）按优先级补入 related。

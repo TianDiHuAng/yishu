@@ -10,5 +10,13 @@
   "一图": "示意图呈现文艺复兴以古典文化与人文主义为核心，经透视法、解剖准确与和谐比例，从乔托走向盛期三杰的成熟进程。",
   "待核实": "现有条目未列出乔托或盛期三杰的具体作品名称、年代与收藏地，概述仅给出透视法、解剖准确与和谐比例等总体特征。所列来源为权威百科条目 Renaissance 与 Italian Renaissance painting，尚未针对具体作品给出第二来源。涉及具体作品与年代、收藏的细节，待补充第二来源后再行写入。"
  },
- "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='文艺复兴 示意图'><title>文艺复兴</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>文艺复兴</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>古典文化与人文主义</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>透视法</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>解剖准确与和谐比例</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>盛期三杰</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>逐步成熟并波及北欧</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>从乔托到盛期三杰艺术逐步成熟</text></g></svg>"
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='文艺复兴 示意图'><title>文艺复兴</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>文艺复兴</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>古典文化与人文主义</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>透视法</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>解剖准确与和谐比例</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>盛期三杰</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>逐步成熟并波及北欧</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>从乔托到盛期三杰艺术逐步成熟</text></g></svg>",
+ "related": [
+  "gothic",
+  "early-renaissance",
+  "mannerism",
+  "northern-renaissance",
+  "donatello",
+  "renaissance-crossmedia"
+ ]
 }

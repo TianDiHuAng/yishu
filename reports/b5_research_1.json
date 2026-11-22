@@ -1,0 +1,242 @@
+[
+  {
+    "entry_id": "gothic",
+    "pending_item": "肋拱与飞扶壁作为哥特式结构特征",
+    "resolved": true,
+    "source": {
+      "id": "enc-gothic-architecture",
+      "title": "Gothic architecture",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Gothic_architecture",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200；正文命中 rib vaults / flying buttresses / large traceried stained-glass windows"
+    },
+    "body_rewrite": "哥特式建筑以尖拱、肋拱、飞扶壁和大型花窗为典型结构特征，彩绘玻璃则塑造了教堂内部的光线效果。"
+  },
+  {
+    "entry_id": "gothic",
+    "pending_item": "1140年作为哥特式起点的精确对应",
+    "resolved": true,
+    "source": {
+      "id": "enc-gothic-architecture",
+      "title": "Gothic architecture",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Gothic_architecture",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200；正文命中 Saint-Denis 与 between 1140 and 1144，并称其 choir reconstruction 汇集了哥特特征"
+    },
+    "body_rewrite": "巴黎附近的圣但尼修道院教堂唱诗班于1140至1144年间重建，该页面称其为第一座哥特式建筑，可为1140年这一起点提供具体对应。"
+  },
+  {
+    "entry_id": "gothic",
+    "pending_item": "具体教堂、彩窗作品的名称、年代与地点",
+    "resolved": true,
+    "source": {
+      "id": "enc-chartres-cathedral",
+      "title": "Chartres Cathedral",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Chartres_Cathedral",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200；信息框与正文命中 French Gothic、1194 (Gothic)、1252、stained glass、Chartres/France"
+    },
+    "body_rewrite": "沙特尔大教堂位于法国沙特尔，1194年以哥特式风格动工、1252年完成，并以保存完好的中世纪彩绘玻璃窗著称。"
+  },
+  {
+    "entry_id": "impressionism",
+    "pending_item": "雷诺阿《煎饼磨坊的舞会》的年份与奥赛博物馆藏地",
+    "resolved": true,
+    "source": {
+      "id": "enc-bal-du-moulin-de-la-galette",
+      "title": "Bal du moulin de la Galette",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Bal_du_moulin_de_la_Galette",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200；正文命中 Year 1876、Pierre-Auguste Renoir、Musée d'Orsay, Paris"
+    },
+    "body_rewrite": "雷诺阿的《煎饼磨坊的舞会》作于1876年，现藏于巴黎奥赛博物馆。"
+  },
+  {
+    "entry_id": "impressionism",
+    "pending_item": "德加《舞蹈课》奥赛版本、年份与藏品编号",
+    "resolved": true,
+    "source": {
+      "id": "wd-degas-dance-class",
+      "title": "The Ballet Class (Q3821820)",
+      "author": "Wikidata contributors",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Special:EntityData/Q3821820.json",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200；Wikidata JSON 命中 P217=RF 1976、P195=Q23402（Musée d'Orsay）；对应维基条目年代为 c. 1874-1876"
+    },
+    "body_rewrite": "德加《舞蹈课》的奥赛博物馆藏本年代约为1874—1876年，藏品编号为 RF 1976。"
+  },
+  {
+    "entry_id": "impressionism",
+    "pending_item": "评论家勒鲁瓦的原文出处与年份",
+    "resolved": true,
+    "source": {
+      "id": "enc-impressionism",
+      "title": "Impressionism",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Impressionism",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200；正文命中 Louis Leroy's 1874 article、The Exhibition of the Impressionists、Le Charivari"
+    },
+    "body_rewrite": "印象派得名于评论家路易·勒鲁瓦1874年在《Le Charivari》发表的讽刺文章《印象派画展》。"
+  },
+  {
+    "entry_id": "polyphony",
+    "pending_item": "复调起源的精确时间与地区",
+    "resolved": true,
+    "source": {
+      "id": "enc-polyphony",
+      "title": "Polyphony",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Polyphony",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200；Origins 段命中 exact origins unknown、Western church traditions、c. 900、Musica enchiriadis"
+    },
+    "body_rewrite": "权威百科指出，西方教会复调的确切起源尚不明确，约900年的《Musica enchiriadis》与《Scolica enchiriadis》通常被视为现存最早的书面复调例证。"
+  },
+  {
+    "entry_id": "polyphony",
+    "pending_item": "复调的具体作曲家与作品",
+    "resolved": true,
+    "source": {
+      "id": "enc-polyphony",
+      "title": "Polyphony",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Polyphony",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200；Notable works and composers 段命中 Machaut/Messe de Nostre Dame、Palestrina/Missa Papae Marcelli、Josquin/Missa Pange Lingua"
+    },
+    "body_rewrite": "复调的重要作曲家与作品包括马肖的《圣母弥撒》、帕莱斯特里纳的《马尔切利教皇弥撒》和若斯坎的《Pange Lingua 弥撒》。"
+  },
+  {
+    "entry_id": "polyphony",
+    "pending_item": "对位规则在不同历史阶段的差异",
+    "resolved": true,
+    "source": {
+      "id": "enc-counterpoint",
+      "title": "Counterpoint",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Counterpoint",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200；正文命中 Species counterpoint、strict counterpoint、Free counterpoint，并说明巴洛克以后转向自由对位"
+    },
+    "body_rewrite": "对位规则经历了从以固定旋律为基础的严格物种对位，到巴洛克以后更重视声部间和声关系的自由对位的转变；福克斯1725年的《Gradus ad Parnassum》确立了现代教学体系。"
+  },
+  {
+    "entry_id": "china-calligraphy-history",
+    "pending_item": "具体书家、法帖名称与年代",
+    "resolved": true,
+    "source": {
+      "id": "enc-chinese-calligraphy",
+      "title": "Chinese calligraphy",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Chinese_calligraphy",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200；正文命中 Wang Xizhi (303-361)、Lantingji Xu、most famous Chinese calligraphic work"
+    },
+    "body_rewrite": "书家列表中王羲之为303—361年人，其《兰亭集序》被该页面称为最著名的中国书法作品。"
+  },
+  {
+    "entry_id": "china-calligraphy-history",
+    "pending_item": "书法分期与各书体成熟年代的精确界定",
+    "resolved": true,
+    "source": {
+      "id": "enc-chinese-calligraphy",
+      "title": "Chinese calligraphy",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Chinese_calligraphy",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200；正文命中 clerical script first used during the Han dynasty、regular script mature around the 7th century、cursive script Han dynasty through Jin"
+    },
+    "body_rewrite": "该页面指出，隶书在汉代开始使用，楷书约于7世纪在风格上成熟，草书起源于汉代至晋代，说明各书体并非同时成熟。"
+  },
+  {
+    "entry_id": "china-calligraphy-history",
+    "pending_item": "出土材料对书法起源问题的具体影响",
+    "resolved": true,
+    "source": {
+      "id": "enc-chinese-calligraphy",
+      "title": "Chinese calligraphy",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Chinese_calligraphy",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200；Oracle bone script 段命中 earliest known form of Chinese writing、modern Anyang、Yinxu、no proof/no evidence"
+    },
+    "body_rewrite": "页面说明已知最早的汉字形态是殷商甲骨卜辞，主要出土于河南安阳殷墟；同时指出没有证据证明商代是汉字唯一起源，也没有更早的可辨识汉字材料。"
+  },
+  {
+    "entry_id": "baroque-music",
+    "pending_item": "亨德尔《弥赛亚》1742年都柏林首演场馆",
+    "resolved": true,
+    "source": {
+      "id": "enc-messiah-handel",
+      "title": "Messiah (Handel)",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Messiah_(Handel)",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200；正文命中 The Great Music Hall in Fishamble Street, Dublin、1742、where Messiah was first performed"
+    },
+    "body_rewrite": "亨德尔《弥赛亚》于1742年在都柏林菲沙布尔街的大音乐厅首演。"
+  },
+  {
+    "entry_id": "baroque-music",
+    "pending_item": "《勃兰登堡协奏曲》手稿藏地与1721年",
+    "resolved": true,
+    "source": {
+      "id": "enc-brandenburg-concertos",
+      "title": "Brandenburg Concertos",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Brandenburg_Concertos",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200；正文命中 Royal Library of Berlin (now the Berlin State Library)、1914、1721 compositions、manuscript"
+    },
+    "body_rewrite": "《勃兰登堡协奏曲》题献手稿于1914年转入柏林皇家图书馆，即今天的柏林国家图书馆，作品年份为1721年。"
+  },
+  {
+    "entry_id": "baroque-music",
+    "pending_item": "蒙特威尔第《奥菲欧》首演年份与地点",
+    "resolved": true,
+    "source": {
+      "id": "enc-l-orfeo",
+      "title": "L'Orfeo",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/L%27Orfeo",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200；信息框命中 premiere_date 1607 Carnival season、premiere_location Mantua、Monteverdi"
+    },
+    "body_rewrite": "蒙特威尔第的《奥菲欧》于1607年狂欢节季在曼托瓦首演。"
+  }
+]

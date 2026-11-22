@@ -8,9 +8,14 @@
   "技法或形式分析": "就题材取向看，现实主义以平凡生活与普通人为描绘对象，反对浪漫化的历史与神话题材。客观描绘当下社会现实构成其核心主张。输入未给出具体笔法、构图或设色细节，分析限于上述层面。",
   "与前后风格的关系和争论": "相关条目列出浪漫主义（艺术）与印象派，可据此把现实主义放在反对浪漫化题材、并连接后世印象派的位置理解。概述记载了反对浪漫化历史与神话题材的取向，但未点名具体争论者。记载较一致，学界主要讨论现实主义与浪漫主义、印象派的分期与边界问题。",
   "一图": "示意图以现实主义为中心，标出它以平凡生活与普通人为题材、反对浪漫化题材、主张客观描绘当下社会现实，并连接浪漫主义与印象派。",
-  "待核实": "（1）概述点名库尔贝为代表，但未给出其具体作品名称、年份与收藏地；（2）原L1种子中的精确年代区间“约1840—1870年”在所引来源页无逐字支撑，已改为概括表述“19世纪中叶”，精确起止待第二来源核实。相关条目浪漫主义（艺术）与印象派仅提供标题，未附作品层面信息。若需落到作品实例，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+  "待核实": "（1）概述点名库尔贝为代表，但未给出其具体作品名称、年份与收藏地；（2）原L1种子中的精确年代区间“约1840—1870年”在所引来源页无逐字支撑，已改为概括表述“19世纪中叶”，精确起止待第二来源核实。相关条目浪漫主义（艺术）与印象派仅提供标题，未附作品层面信息。若需落到作品实例，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核】库尔贝为代表，但未给出其具体作品名称、年份与收藏地：第二来源 enc-burial-at-ornans（https://en.wikipedia.org/wiki/A_Burial_at_Ornans），据该来源：现实主义代表库尔贝的具体作品可举《奥尔南的葬礼》（A Burial at Ornans，1849—1850年），现藏巴黎奥赛博物馆。"
  },
  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='现实主义（艺术） 示意图'><title>现实主义（艺术）</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>现实主义</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>平凡生活与普通人为题材</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>库尔贝</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>代表</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>浪漫主义</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>反对的对象</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>印象派</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>相关条目</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>以平凡生活与普通人为题材，反对浪漫化题材，主张客观描绘现实</text></g></svg>",
  "when": "19世纪中叶",
- "overview": "反对浪漫化的历史与神话题材，主张客观描绘当下社会现实；库尔贝为代表。"
+ "overview": "反对浪漫化的历史与神话题材，主张客观描绘当下社会现实；库尔贝为代表。",
+ "sources": [
+  "enc-realism-art",
+  "enc-romanticism",
+  "enc-burial-at-ornans"
+ ]
 }

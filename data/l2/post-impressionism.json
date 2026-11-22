@@ -10,5 +10,12 @@
   "一图": "示意图以印象派、后印象派、野兽派依次排列，表现后印象派承接前者、通向后者，以及三种取向并存的关系。",
   "待核实": "材料点名高更及其象征与平面色彩取向，但未给出其专门条目与生平信息。概述未列出任何具体作品名称、创作年份或收藏地，相关内容待补充第二来源核实。流派起止年仅以约1880—1905年概括，精确分期边界亦待进一步佐证。"
  },
- "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='后印象派 示意图'><title>后印象派</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>印象派</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>纯客观再现</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>后印象派</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>主观情感与结构</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>野兽派</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>平面色彩</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>后印象派承接印象派并通向野兽派</text></g></svg>"
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='后印象派 示意图'><title>后印象派</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>印象派</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>纯客观再现</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>后印象派</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>主观情感与结构</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>野兽派</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>平面色彩</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>后印象派承接印象派并通向野兽派</text></g></svg>",
+ "related": [
+  "impressionism",
+  "fauvism",
+  "monet",
+  "van-gogh",
+  "gauguin"
+ ]
 }

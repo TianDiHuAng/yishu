@@ -1139,6 +1139,246 @@
       "type": "官方机构",
       "verified": true,
       "verified_note": "HTTP200 <title>=厦门大学团队在武王墩楚墓的考古研究新进展获央视报道-厦门大学新闻网"
+    },
+    {
+      "id": "enc-gothic-architecture",
+      "title": "Gothic architecture",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Gothic_architecture",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 title=Gothic architecture - Wikipedia len=497096"
+    },
+    {
+      "id": "enc-chartres-cathedral",
+      "title": "Chartres Cathedral",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Chartres_Cathedral",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 title=Chartres Cathedral - Wikipedia len=497574"
+    },
+    {
+      "id": "enc-bal-du-moulin-de-la-galette",
+      "title": "Bal du moulin de la Galette",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Bal_du_moulin_de_la_Galette",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 title=Bal du moulin de la Galette - Wikipedia len=192073"
+    },
+    {
+      "id": "enc-counterpoint",
+      "title": "Counterpoint",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Counterpoint",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 title=Counterpoint - Wikipedia len=280003"
+    },
+    {
+      "id": "enc-messiah-handel",
+      "title": "Messiah (Handel)",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Messiah_(Handel)",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 title=Messiah (Handel) - Wikipedia len=498639"
+    },
+    {
+      "id": "enc-brandenburg-concertos",
+      "title": "Brandenburg Concertos",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Brandenburg_Concertos",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 title=Brandenburg Concertos - Wikipedia len=316581"
+    },
+    {
+      "id": "enc-l-orfeo",
+      "title": "L'Orfeo",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/L%27Orfeo",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 title=L'Orfeo - Wikipedia len=450813"
+    },
+    {
+      "id": "enc-perotin",
+      "title": "Pérotin",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/P%C3%A9rotin",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 title=Pérotin - Wikipedia len=498663"
+    },
+    {
+      "id": "enc-organum",
+      "title": "Organum",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Organum",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 title=Organum - Wikipedia len=237779"
+    },
+    {
+      "id": "enc-machaut",
+      "title": "Guillaume de Machaut",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Guillaume_de_Machaut",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 title=Guillaume de Machaut - Wikipedia len=444887"
+    },
+    {
+      "id": "enc-pope-gregory-i",
+      "title": "Pope Gregory I",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Pope_Gregory_I",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 title=Pope Gregory I - Wikipedia len=497453"
+    },
+    {
+      "id": "enc-ambrosian-chant",
+      "title": "Ambrosian chant",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Ambrosian_chant",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 title=Ambrosian chant - Wikipedia len=124317"
+    },
+    {
+      "id": "enc-hellenistic-period",
+      "title": "Hellenistic period",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Hellenistic_period",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 title=Hellenistic period - Wikipedia len=497264"
+    },
+    {
+      "id": "enc-phidias",
+      "title": "Phidias",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Phidias",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 title=Phidias - Wikipedia len=247116"
+    },
+    {
+      "id": "enc-burial-at-ornans",
+      "title": "A Burial at Ornans",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/A_Burial_at_Ornans",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 title=A Burial at Ornans - Wikipedia len=198664"
+    },
+    {
+      "id": "enc-clerical-script",
+      "title": "Clerical script",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Clerical_script",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 title=Clerical script - Wikipedia len=302099"
+    },
+    {
+      "id": "enc-pantheon-rome",
+      "title": "Pantheon (Rome)",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Pantheon_(Rome)",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 title=Pantheon, Rome - Wikipedia len=497237"
+    },
+    {
+      "id": "enc-fall-western-roman-empire",
+      "title": "Fall of the Western Roman Empire",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 title=Fall of the Western Roman Empire - Wikipedia len=496960"
+    },
+    {
+      "id": "enc-romanesque-architecture",
+      "title": "Romanesque architecture",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Romanesque_architecture",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 title=Romanesque architecture - Wikipedia len=497754"
+    },
+    {
+      "id": "enc-david-donatello-bronze",
+      "title": "David (Donatello, bronze)",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/David_(Donatello,_bronze)",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 title=David (Donatello, bronze) - Wikipedia len=202149"
+    },
+    {
+      "id": "enc-saint-george-donatello",
+      "title": "Saint George (Donatello)",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Saint_George_(Donatello)",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 title=Saint George (Donatello) - Wikipedia len=128816"
+    },
+    {
+      "id": "enc-cursive-script-east-asia",
+      "title": "Cursive script (East Asia)",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Cursive_script_(East_Asia)",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 title=Cursive script (East Asia) - Wikipedia len=276910"
+    },
+    {
+      "id": "enc-huaisu",
+      "title": "Huaisu",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Huaisu",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 title=Huaisu - Wikipedia len=89172"
+    },
+    {
+      "id": "enc-early-christian-art",
+      "title": "Early Christian art and architecture",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Early_Christian_art",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 title=Early Christian art and architecture - Wikipe len=431702"
     }
   ]
 }
