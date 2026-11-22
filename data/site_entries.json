@@ -4095,6 +4095,134 @@
         "待核实": "据官方新闻，正式报告待发表，阶段性成果不得写成定论。年份仅用输入的2025年与2025年12月，不补充其他年代；测音数据、复原细节与具体结论均待正式报告核实。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='武王墩楚墓礼乐考古新进展 示意图'><title>武王墩楚墓礼乐考古新进展</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>乐器整理</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>楚王大墓成果</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>复原测音</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>漆木瑟笙竽编钟</text><rect class='svg-box-accent' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='475.0' y='142' text-anchor='middle'>礼乐制度</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>战国研究材料</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>正式报告</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>尚待发表</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>武王墩礼乐成果与待发表报告</text></g></svg>"
+    },
+    {
+      "id": "music-notation",
+      "title": "记谱法",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "全球",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "以符号系统记录音乐音高、节奏与演奏指示的方法。",
+      "when": "历代",
+      "overview": "记谱法使音乐得以跨时空保存与传播，是复调与大型体裁发展的技术前提；西方五线谱与中国古代工尺谱等体系各有传统。",
+      "related": [
+        "gregorian-chant",
+        "polyphony"
+      ],
+      "sources": [
+        "enc-music-notation",
+        "enc-staff-notation"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "记谱法属于历代、全球范围的音乐体裁类条目。它以符号系统记录音乐，使音乐得以跨时空保存与传播。输入资料未给出更细的起源分期。",
+        "风格特征": "记谱法的核心是以符号系统记录音高、节奏与演奏指示。它使音乐得以跨时空保存与传播，并成为复调与大型体裁发展的技术前提。西方五线谱与中国古代工尺谱等体系各有传统。",
+        "代表人物与作品": "本条为术语，无特定代表人物与专属作品。相关条目见格里高利圣咏与复调。输入资料未列出具体人物或作品名。",
+        "技法或形式分析": "从形式看，记谱法以符号系统承载音高、节奏与演奏指示三类信息。五线谱属西方体系，工尺谱属中国古代体系，二者各有传统。其技术作用在于支撑复调与大型体裁的发展。",
+        "与前后风格的关系和争论": "输入资料显示记谱法是复调与大型体裁发展的技术前提，与格里高利圣咏、复调等条目相关联。关于体系之间的争论，输入资料未作说明。相关争议需转待核实。",
+        "一图": "配图以记谱法为中心，连接五线谱与工尺谱两种体系，并指向其支撑的复调。图中各节点均取自输入术语。箭头表示体系归属与技术支撑关系。",
+        "待核实": "输入资料未给出记谱法的具体起源年代、发明人物与代表性谱例。各体系之间的争论与演变细节亦未说明。上述内容以输入字段为限，需另行核实。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='记谱法 示意图'><title>记谱法</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>记谱法</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>符号系统记录音乐</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>五线谱</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>西方体系</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>工尺谱</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>中国古代体系</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>复调</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>大型体裁前提</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>记谱法以符号记录音高节奏，五线谱与工尺谱各有传统</text></g></svg>"
+    },
+    {
+      "id": "musical-mode",
+      "title": "调式",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "全球",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "音阶中音高之间的组织关系及主音优先性的体系。",
+      "when": "历代",
+      "overview": "调式决定旋律的音高素材与色彩；欧洲中世纪教会调式、大小调体系与世界各地民歌调式各有规则。",
+      "related": [
+        "tonality",
+        "gregorian-chant"
+      ],
+      "sources": [
+        "enc-mode",
+        "enc-church-modes"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "调式属于历代、全球范围的音乐体裁类条目。输入资料将其定位为历代沿用的音高组织体系。更细的地域或分期信息未由输入给出。",
+        "风格特征": "调式是音阶中音高之间的组织关系及主音优先性的体系。它决定旋律的音高素材与色彩。欧洲中世纪教会调式、大小调体系与世界各地民歌调式各有规则。",
+        "代表人物与作品": "本条为术语，无特定代表人物与专属作品。相关条目见大小调体系与格里高利圣咏。输入资料未列出具体人物或作品名。",
+        "技法或形式分析": "从形式看，调式由音阶内音高关系与主音优先性两方面构成。中世纪教会调式、大小调体系与民歌调式各有其规则。这些规则共同决定旋律素材与色彩。",
+        "与前后风格的关系和争论": "输入资料将调式与大小调体系、格里高利圣咏等条目相关联。体系之间的争论未在输入中说明。相关内容需转待核实。",
+        "一图": "配图以调式为中心，连接教会调式、大小调体系与民歌调式三类规则。图中各节点均取自输入术语。箭头表示调式的不同体系分支。",
+        "待核实": "输入资料未给出调式的具体形成年代、提出人物与代表曲目。各体系间的争论与演变细节亦未说明。上述内容以输入字段为限，需另行核实。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='调式 示意图'><title>调式</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>调式</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>音高组织与主音优先</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>教会调式</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>中世纪欧洲</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>大小调体系</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>各有规则</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>民歌调式</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>世界各地</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>调式决定旋律音高素材与色彩，各地体系各有规则</text></g></svg>"
+    },
+    {
+      "id": "violin",
+      "title": "小提琴",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "17世纪—今",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "补充",
+      "def": "西方弦乐器家族的高音弓弦乐器，四弦定弦并广泛用于独奏、室内乐与管弦乐。",
+      "when": "约公元17世纪定型—至今",
+      "overview": "小提琴在巴洛克时期成为重要独奏与合奏乐器，古典与浪漫时期协奏曲与奏鸣曲文献丰富。",
+      "related": [
+        "baroque-music",
+        "symphony"
+      ],
+      "sources": [
+        "enc-violin",
+        "enc-baroque-music"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "小提琴属欧洲乐器，约公元17世纪定型并沿用至今。输入资料指出它在巴洛克时期成为重要独奏与合奏乐器。17世纪以前的前身形态未由输入给出。",
+        "风格特征": "小提琴是西方弦乐器家族中的高音弓弦乐器，采用四弦定弦。它广泛用于独奏、室内乐与管弦乐。古典与浪漫时期的协奏曲与奏鸣曲文献丰富。",
+        "代表人物与作品": "本条为乐器术语，无特定代表人物与专属作品。相关条目见巴洛克音乐与交响曲。输入资料未列出具体人物或作品名。",
+        "技法或形式分析": "从形式看，小提琴以四弦定弦构成高音弓弦乐器。其应用涵盖独奏、室内乐与管弦乐三类场合。协奏曲与奏鸣曲构成其古典与浪漫时期的重要文献。",
+        "与前后风格的关系和争论": "输入资料将小提琴与巴洛克音乐、交响曲等条目相关联，并指出其在巴洛克时期的重要地位。关于乐器形制演变的争论未在输入中说明。相关内容需转待核实。",
+        "一图": "配图以小提琴为中心，连接巴洛克音乐、协奏曲与交响曲。图中各节点均取自输入术语。箭头表示时期地位与文献、体裁关联。",
+        "待核实": "输入资料未给出小提琴的具体制作者、定型地点与代表曲目。形制演变中的争议亦未说明。上述内容以输入字段为限，需另行核实。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='小提琴 示意图'><title>小提琴</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>小提琴</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>四弦高音弓弦乐器</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>巴洛克音乐</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>独奏与合奏</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>协奏曲</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>古典浪漫文献</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>交响曲</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>管弦乐</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>小提琴四弦定弦，巴洛克时期成重要独奏与合奏乐器</text></g></svg>"
+    },
+    {
+      "id": "piano",
+      "title": "钢琴",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "18世纪—今",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "补充",
+      "def": "以琴槌击弦发声的键盘乐器，音域宽广、可同时演奏多声部。",
+      "when": "约公元18世纪定型—至今",
+      "overview": "钢琴在古典与浪漫时期成为作曲与演奏的核心乐器，奏鸣曲、练习曲与艺术歌曲均以其为主要载体。",
+      "related": [
+        "sonata",
+        "chopin"
+      ],
+      "sources": [
+        "enc-piano",
+        "enc-classical-period-music"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "钢琴属欧洲乐器，约公元18世纪定型并沿用至今。输入资料指出它在古典与浪漫时期成为作曲与演奏的核心乐器。18世纪以前的前身形态未由输入给出。",
+        "风格特征": "钢琴是以琴槌击弦发声的键盘乐器，音域宽广、可同时演奏多声部。奏鸣曲、练习曲与艺术歌曲均以其为主要载体。输入资料强调其在古典与浪漫时期的核心地位。",
+        "代表人物与作品": "本条为乐器术语，本身无特定代表人物与专属作品。相关条目见奏鸣曲与肖邦。输入资料未列出由本条归属的具体作品名。",
+        "技法或形式分析": "从形式看，钢琴以琴槌击弦发声，属键盘乐器。其音域宽广，可同时演奏多声部。奏鸣曲、练习曲与艺术歌曲以其为主要载体。",
+        "与前后风格的关系和争论": "输入资料将钢琴与奏鸣曲、肖邦等条目相关联，并指出其在古典与浪漫时期的核心地位。关于乐器形制演变的争论未在输入中说明。相关内容需转待核实。",
+        "一图": "配图以钢琴为中心，连接奏鸣曲、肖邦与艺术歌曲。图中各节点均取自输入术语。箭头表示主要载体与相关条目关联。",
+        "待核实": "输入资料未给出钢琴的具体制作者、定型地点与代表曲目。形制演变中的争议亦未说明。上述内容以输入字段为限，需另行核实。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='钢琴 示意图'><title>钢琴</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>钢琴</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>琴槌击弦键盘乐器</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>奏鸣曲</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>主要载体</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>肖邦</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>相关条目</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>艺术歌曲</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>主要载体</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>钢琴音域宽广可演奏多声部，是古典浪漫时期核心乐器</text></g></svg>"
     }
   ]
 }

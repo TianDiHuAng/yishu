@@ -1,0 +1,14 @@
+{
+ "id": "piano",
+ "level": "L2",
+ "sections": {
+  "时代背景": "钢琴属欧洲乐器，约公元18世纪定型并沿用至今。输入资料指出它在古典与浪漫时期成为作曲与演奏的核心乐器。18世纪以前的前身形态未由输入给出。",
+  "风格特征": "钢琴是以琴槌击弦发声的键盘乐器，音域宽广、可同时演奏多声部。奏鸣曲、练习曲与艺术歌曲均以其为主要载体。输入资料强调其在古典与浪漫时期的核心地位。",
+  "代表人物与作品": "本条为乐器术语，本身无特定代表人物与专属作品。相关条目见奏鸣曲与肖邦。输入资料未列出由本条归属的具体作品名。",
+  "技法或形式分析": "从形式看，钢琴以琴槌击弦发声，属键盘乐器。其音域宽广，可同时演奏多声部。奏鸣曲、练习曲与艺术歌曲以其为主要载体。",
+  "与前后风格的关系和争论": "输入资料将钢琴与奏鸣曲、肖邦等条目相关联，并指出其在古典与浪漫时期的核心地位。关于乐器形制演变的争论未在输入中说明。相关内容需转待核实。",
+  "一图": "配图以钢琴为中心，连接奏鸣曲、肖邦与艺术歌曲。图中各节点均取自输入术语。箭头表示主要载体与相关条目关联。",
+  "待核实": "输入资料未给出钢琴的具体制作者、定型地点与代表曲目。形制演变中的争议亦未说明。上述内容以输入字段为限，需另行核实。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='钢琴 示意图'><title>钢琴</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>钢琴</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>琴槌击弦键盘乐器</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>奏鸣曲</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>主要载体</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>肖邦</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>相关条目</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>艺术歌曲</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>主要载体</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>钢琴音域宽广可演奏多声部，是古典浪漫时期核心乐器</text></g></svg>"
+}

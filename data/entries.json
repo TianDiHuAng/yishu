@@ -2621,6 +2621,90 @@
         "news-xiamen-wuwangdu",
         "enc-chinese-music"
       ]
+    },
+    {
+      "id": "music-notation",
+      "title": "记谱法",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "全球",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "以符号系统记录音乐音高、节奏与演奏指示的方法。",
+      "when": "历代",
+      "overview": "记谱法使音乐得以跨时空保存与传播，是复调与大型体裁发展的技术前提；西方五线谱与中国古代工尺谱等体系各有传统。",
+      "related": [
+        "gregorian-chant",
+        "polyphony"
+      ],
+      "sources": [
+        "enc-music-notation",
+        "enc-staff-notation"
+      ]
+    },
+    {
+      "id": "musical-mode",
+      "title": "调式",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "全球",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "音阶中音高之间的组织关系及主音优先性的体系。",
+      "when": "历代",
+      "overview": "调式决定旋律的音高素材与色彩；欧洲中世纪教会调式、大小调体系与世界各地民歌调式各有规则。",
+      "related": [
+        "tonality",
+        "gregorian-chant"
+      ],
+      "sources": [
+        "enc-mode",
+        "enc-church-modes"
+      ]
+    },
+    {
+      "id": "violin",
+      "title": "小提琴",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "17世纪—今",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "补充",
+      "def": "西方弦乐器家族的高音弓弦乐器，四弦定弦并广泛用于独奏、室内乐与管弦乐。",
+      "when": "约公元17世纪定型—至今",
+      "overview": "小提琴在巴洛克时期成为重要独奏与合奏乐器，古典与浪漫时期协奏曲与奏鸣曲文献丰富。",
+      "related": [
+        "baroque-music",
+        "symphony"
+      ],
+      "sources": [
+        "enc-violin",
+        "enc-baroque-music"
+      ]
+    },
+    {
+      "id": "piano",
+      "title": "钢琴",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "18世纪—今",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "补充",
+      "def": "以琴槌击弦发声的键盘乐器，音域宽广、可同时演奏多声部。",
+      "when": "约公元18世纪定型—至今",
+      "overview": "钢琴在古典与浪漫时期成为作曲与演奏的核心乐器，奏鸣曲、练习曲与艺术歌曲均以其为主要载体。",
+      "related": [
+        "sonata",
+        "chopin"
+      ],
+      "sources": [
+        "enc-piano",
+        "enc-classical-period-music"
+      ]
     }
   ]
 }

@@ -1379,6 +1379,66 @@
       "type": "权威百科",
       "verified": true,
       "verified_note": "HTTP200 title=Early Christian art and architecture - Wikipe len=431702"
+    },
+    {
+      "id": "enc-music-notation",
+      "title": "Musical notation",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Musical_notation",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=Musical notation - Wikipedia"
+    },
+    {
+      "id": "enc-staff-notation",
+      "title": "Staff notation",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Staff_notation",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=Staff (music) - Wikipedia"
+    },
+    {
+      "id": "enc-mode",
+      "title": "Mode (music)",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Mode_(music)",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=Mode (music) - Wikipedia"
+    },
+    {
+      "id": "enc-church-modes",
+      "title": "Gregorian mode",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Gregorian_mode",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=Gregorian mode - Wikipedia"
+    },
+    {
+      "id": "enc-violin",
+      "title": "Violin",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Violin",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=Violin - Wikipedia"
+    },
+    {
+      "id": "enc-piano",
+      "title": "Piano",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Piano",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=Piano - Wikipedia"
     }
   ]
 }

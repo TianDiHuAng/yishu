@@ -1,135 +1,139 @@
 [
  {
-  "id": "what-is-art-history",
-  "title": "什么是艺术史",
+  "id": "music-notation",
+  "title": "记谱法",
   "kind": "术语",
-  "era": "学科方法",
-  "region": "全球",
-  "medium": "综合",
-  "def": "研究视觉艺术的历史发展、风格演变与社会文化语境的学科。",
-  "when": "历代",
-  "overview": "艺术史区别于艺术鉴赏与艺术批评，关注作品在历史脉络中的位置、风格承变与生产条件。",
-  "related": [
-   {
-    "id": "art-criticism-note",
-    "title": "艺术史与艺术批评的区分"
-   },
-   {
-    "id": "reading-path",
-    "title": "零基础阅读路径"
-   }
-  ],
-  "sources": [
-   {
-    "id": "enc-art-history",
-    "title": "Art history",
-    "author": "Wikipedia contributors",
-    "type": "权威百科"
-   },
-   {
-    "id": "enc-art-criticism",
-    "title": "Art criticism",
-    "author": "Wikipedia contributors",
-    "type": "权威百科"
-   }
-  ]
- },
- {
-  "id": "what-is-music-history",
-  "title": "什么是音乐史",
-  "kind": "术语",
-  "era": "学科方法",
+  "era": "历代",
   "region": "全球",
   "medium": "音乐体裁",
-  "def": "研究音乐的历史发展、体裁演变与风格变迁的学科。",
+  "def": "以符号系统记录音乐音高、节奏与演奏指示的方法。",
   "when": "历代",
-  "overview": "音乐史区别于乐理与音乐学，按时代与体裁梳理作曲实践、形式技法与接受语境。",
+  "overview": "记谱法使音乐得以跨时空保存与传播，是复调与大型体裁发展的技术前提；西方五线谱与中国古代工尺谱等体系各有传统。",
   "related": [
    {
-    "id": "musicology-note",
-    "title": "音乐史与音乐学的区分"
+    "id": "gregorian-chant",
+    "title": "格里高利圣咏"
    },
    {
-    "id": "reading-path",
-    "title": "零基础阅读路径"
+    "id": "polyphony",
+    "title": "复调"
    }
   ],
   "sources": [
    {
-    "id": "enc-musicology",
-    "title": "Musicology",
+    "id": "enc-music-notation",
+    "title": "Musical notation",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    },
    {
-    "id": "enc-medieval-music",
-    "title": "Medieval music",
+    "id": "enc-staff-notation",
+    "title": "Staff notation",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    }
   ]
  },
  {
-  "id": "reading-path",
-  "title": "零基础阅读路径",
+  "id": "musical-mode",
+  "title": "调式",
   "kind": "术语",
-  "era": "学科方法",
+  "era": "历代",
   "region": "全球",
-  "medium": "综合",
-  "def": "本知识库推荐的入门到深入的学习顺序。",
+  "medium": "音乐体裁",
+  "def": "音阶中音高之间的组织关系及主音优先性的体系。",
   "when": "历代",
-  "overview": "建议按学科导论→通史单元→核心流派→代表人物与作品的顺序阅读，先建立框架再深入细节。",
+  "overview": "调式决定旋律的音高素材与色彩；欧洲中世纪教会调式、大小调体系与世界各地民歌调式各有规则。",
   "related": [
    {
-    "id": "what-is-art-history",
-    "title": "什么是艺术史"
+    "id": "tonality",
+    "title": "大小调体系"
    },
    {
-    "id": "what-is-music-history",
-    "title": "什么是音乐史"
+    "id": "gregorian-chant",
+    "title": "格里高利圣咏"
    }
   ],
   "sources": [
    {
-    "id": "enc-art-history",
-    "title": "Art history",
+    "id": "enc-mode",
+    "title": "Mode (music)",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    },
    {
-    "id": "enc-musicology",
-    "title": "Musicology",
+    "id": "enc-church-modes",
+    "title": "Gregorian mode",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    }
   ]
  },
  {
-  "id": "art-criticism-note",
-  "title": "艺术史与艺术批评的区分",
+  "id": "violin",
+  "title": "小提琴",
   "kind": "术语",
-  "era": "学科方法",
-  "region": "全球",
-  "medium": "综合",
-  "def": "艺术史重历史脉络与事实考证，艺术批评重价值判断与阐释。",
-  "when": "历代",
-  "overview": "二者视角不同：前者追问作品为何产生、如何演变，后者评价作品优劣与意义。",
+  "era": "17世纪—今",
+  "region": "欧洲",
+  "medium": "音乐体裁",
+  "def": "西方弦乐器家族的高音弓弦乐器，四弦定弦并广泛用于独奏、室内乐与管弦乐。",
+  "when": "约公元17世纪定型—至今",
+  "overview": "小提琴在巴洛克时期成为重要独奏与合奏乐器，古典与浪漫时期协奏曲与奏鸣曲文献丰富。",
   "related": [
    {
-    "id": "what-is-art-history",
-    "title": "什么是艺术史"
+    "id": "baroque-music",
+    "title": "巴洛克音乐"
+   },
+   {
+    "id": "symphony",
+    "title": "交响曲"
    }
   ],
   "sources": [
    {
-    "id": "enc-art-history",
-    "title": "Art history",
+    "id": "enc-violin",
+    "title": "Violin",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    },
    {
-    "id": "enc-art-criticism",
-    "title": "Art criticism",
+    "id": "enc-baroque-music",
+    "title": "Baroque music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "piano",
+  "title": "钢琴",
+  "kind": "术语",
+  "era": "18世纪—今",
+  "region": "欧洲",
+  "medium": "音乐体裁",
+  "def": "以琴槌击弦发声的键盘乐器，音域宽广、可同时演奏多声部。",
+  "when": "约公元18世纪定型—至今",
+  "overview": "钢琴在古典与浪漫时期成为作曲与演奏的核心乐器，奏鸣曲、练习曲与艺术歌曲均以其为主要载体。",
+  "related": [
+   {
+    "id": "sonata",
+    "title": "奏鸣曲"
+   },
+   {
+    "id": "chopin",
+    "title": "肖邦"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-piano",
+    "title": "Piano",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-classical-period-music",
+    "title": "Classical period (music)",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    }

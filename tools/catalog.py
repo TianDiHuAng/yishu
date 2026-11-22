@@ -442,6 +442,19 @@ ROWS = [
 ("wuwangdu-chu-music-archaeology","武王墩楚墓礼乐考古新进展","时期","music-china","2025年","中国","音乐体裁","补充",
  "2025年厦门大学团队公布安徽淮南武王墩楚王大墓乐器整理成果，复原漆木瑟与笙竽类乐器并进行编钟测音。","2025年12月",
  "该成果为战国礼乐制度研究提供新材料，正式考古报告与测音数据尚待发表，本条仅据官方新闻与既有中国音乐史背景作审慎概述。","yayue,china-music-history","news-xiamen-wuwangdu,enc-chinese-music"),
+# ==== Cycle3 B1新增：Outline of music 空白维度（记谱法/调式/西方乐器） ====
+("music-notation","记谱法","术语","glossary-tools","历代","全球","音乐体裁","重要",
+ "以符号系统记录音乐音高、节奏与演奏指示的方法。","历代",
+ "记谱法使音乐得以跨时空保存与传播，是复调与大型体裁发展的技术前提；西方五线谱与中国古代工尺谱等体系各有传统。","gregorian-chant,polyphony","enc-music-notation,enc-staff-notation"),
+("musical-mode","调式","术语","glossary-tools","历代","全球","音乐体裁","重要",
+ "音阶中音高之间的组织关系及主音优先性的体系。","历代",
+ "调式决定旋律的音高素材与色彩；欧洲中世纪教会调式、大小调体系与世界各地民歌调式各有规则。","tonality,gregorian-chant","enc-mode,enc-church-modes"),
+("violin","小提琴","术语","glossary-tools","17世纪—今","欧洲","音乐体裁","补充",
+ "西方弦乐器家族的高音弓弦乐器，四弦定弦并广泛用于独奏、室内乐与管弦乐。","约公元17世纪定型—至今",
+ "小提琴在巴洛克时期成为重要独奏与合奏乐器，古典与浪漫时期协奏曲与奏鸣曲文献丰富。","baroque-music,symphony","enc-violin,enc-baroque-music"),
+("piano","钢琴","术语","glossary-tools","18世纪—今","欧洲","音乐体裁","补充",
+ "以琴槌击弦发声的键盘乐器，音域宽广、可同时演奏多声部。","约公元18世纪定型—至今",
+ "钢琴在古典与浪漫时期成为作曲与演奏的核心乐器，奏鸣曲、练习曲与艺术歌曲均以其为主要载体。","sonata,chopin","enc-piano,enc-classical-period-music"),
 ]
 
 def entries():
