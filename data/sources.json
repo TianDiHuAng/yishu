@@ -1,0 +1,914 @@
+{
+  "sources": [
+    {
+      "id": "enc-prehistoric-art",
+      "title": "Prehistoric art",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Prehistoric_art",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Prehistoric art]命中"
+    },
+    {
+      "id": "enc-egyptian-art",
+      "title": "Ancient Egyptian art",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Ancient_Egyptian_art",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200; <title>=Art of ancient Egypt - Wikipedia"
+    },
+    {
+      "id": "enc-greek-art",
+      "title": "Ancient Greek art",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Ancient_Greek_art",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Ancient Greek art]命中"
+    },
+    {
+      "id": "enc-roman-art",
+      "title": "Ancient Roman art",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Ancient_Roman_art",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Ancient Roman art]命中"
+    },
+    {
+      "id": "enc-byzantine-art",
+      "title": "Byzantine art",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Byzantine_art",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Byzantine art]命中"
+    },
+    {
+      "id": "enc-medieval-art",
+      "title": "Medieval art",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Medieval_art",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Medieval art]命中"
+    },
+    {
+      "id": "enc-romanesque",
+      "title": "Romanesque art",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Romanesque_art",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Romanesque]命中"
+    },
+    {
+      "id": "enc-gothic",
+      "title": "Gothic art",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Gothic_art",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Gothic art]命中"
+    },
+    {
+      "id": "enc-renaissance",
+      "title": "Renaissance",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Renaissance",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Renaissance]命中"
+    },
+    {
+      "id": "enc-italian-renaissance-painting",
+      "title": "Italian Renaissance painting",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Italian_Renaissance_painting",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Italian Renaissance painting]命中"
+    },
+    {
+      "id": "enc-high-renaissance",
+      "title": "High Renaissance",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/High_Renaissance",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200; <title>=High Renaissance - Wikipedia"
+    },
+    {
+      "id": "enc-venetian-school",
+      "title": "Venetian school (art)",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Venetian_school_(art)",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Venetian school]命中"
+    },
+    {
+      "id": "enc-northern-renaissance",
+      "title": "Northern Renaissance",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Northern_Renaissance",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Northern Renaissance]命中"
+    },
+    {
+      "id": "enc-mannerism",
+      "title": "Mannerism",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Mannerism",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Mannerism]命中"
+    },
+    {
+      "id": "enc-baroque",
+      "title": "Baroque",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Baroque",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Baroque]命中"
+    },
+    {
+      "id": "enc-rococo",
+      "title": "Rococo",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Rococo",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Rococo]命中"
+    },
+    {
+      "id": "enc-neoclassicism",
+      "title": "Neoclassicism",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Neoclassicism",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Neoclassicism]命中"
+    },
+    {
+      "id": "enc-romanticism",
+      "title": "Romanticism",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Romanticism",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Romanticism]命中"
+    },
+    {
+      "id": "enc-realism-art",
+      "title": "Realism (arts)",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Realism_(arts)",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Realism]命中"
+    },
+    {
+      "id": "enc-impressionism",
+      "title": "Impressionism",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Impressionism",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Impressionism]命中"
+    },
+    {
+      "id": "enc-post-impressionism",
+      "title": "Post-Impressionism",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Post-Impressionism",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Post-Impressionism]命中"
+    },
+    {
+      "id": "enc-symbolism",
+      "title": "Symbolism (arts)",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Symbolism_(arts)",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Symbolism]命中"
+    },
+    {
+      "id": "enc-art-nouveau",
+      "title": "Art Nouveau",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Art_Nouveau",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Art Nouveau]命中"
+    },
+    {
+      "id": "enc-fauvism",
+      "title": "Fauvism",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Fauvism",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Fauvism]命中"
+    },
+    {
+      "id": "enc-expressionism",
+      "title": "Expressionism",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Expressionism",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Expressionism]命中"
+    },
+    {
+      "id": "enc-cubism",
+      "title": "Cubism",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Cubism",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Cubism]命中"
+    },
+    {
+      "id": "enc-futurism",
+      "title": "Futurism",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Futurism",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Futurism]命中"
+    },
+    {
+      "id": "enc-dada",
+      "title": "Dada",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Dada",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Dada]命中"
+    },
+    {
+      "id": "enc-surrealism",
+      "title": "Surrealism",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Surrealism",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200; <title>=Surrealism - Wikipedia"
+    },
+    {
+      "id": "enc-bauhaus",
+      "title": "Bauhaus",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Bauhaus",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Bauhaus]命中"
+    },
+    {
+      "id": "enc-abstract-expressionism",
+      "title": "Abstract expressionism",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Abstract_expressionism",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Abstract expressionism]命中"
+    },
+    {
+      "id": "enc-pop-art",
+      "title": "Pop art",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Pop_art",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Pop art]命中"
+    },
+    {
+      "id": "enc-minimalism",
+      "title": "Minimalism",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Minimalism",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Minimalism]命中"
+    },
+    {
+      "id": "enc-conceptual-art",
+      "title": "Conceptual art",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Conceptual_art",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Conceptual art]命中"
+    },
+    {
+      "id": "enc-contemporary-art",
+      "title": "Contemporary art",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Contemporary_art",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Contemporary art]命中"
+    },
+    {
+      "id": "enc-leonardo",
+      "title": "Leonardo da Vinci",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Leonardo da Vinci]命中"
+    },
+    {
+      "id": "enc-michelangelo",
+      "title": "Michelangelo",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Michelangelo",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Michelangelo]命中"
+    },
+    {
+      "id": "enc-raphael",
+      "title": "Raphael",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Raphael",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Raphael]命中"
+    },
+    {
+      "id": "enc-donatello",
+      "title": "Donatello",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Donatello",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Donatello]命中"
+    },
+    {
+      "id": "enc-botticelli",
+      "title": "Sandro Botticelli",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Sandro_Botticelli",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Botticelli]命中"
+    },
+    {
+      "id": "enc-rembrandt",
+      "title": "Rembrandt",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Rembrandt",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Rembrandt]命中"
+    },
+    {
+      "id": "enc-rubens",
+      "title": "Peter Paul Rubens",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Peter_Paul_Rubens",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Rubens]命中"
+    },
+    {
+      "id": "enc-velazquez",
+      "title": "Diego Velazquez",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Diego_Velazquez",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Velazquez]命中"
+    },
+    {
+      "id": "enc-vermeer",
+      "title": "Johannes Vermeer",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Johannes_Vermeer",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Vermeer]命中"
+    },
+    {
+      "id": "enc-caravaggio",
+      "title": "Caravaggio",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Caravaggio",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Caravaggio]命中"
+    },
+    {
+      "id": "enc-monet",
+      "title": "Claude Monet",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Claude_Monet",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Monet]命中"
+    },
+    {
+      "id": "enc-van-gogh",
+      "title": "Vincent van Gogh",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Vincent_van_Gogh",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200; <title>=Vincent van Gogh - Wikipedia"
+    },
+    {
+      "id": "enc-cezanne",
+      "title": "Paul Cezanne",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Paul_Cezanne",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200; <title>=Paul Cézanne - Wikipedia"
+    },
+    {
+      "id": "enc-gauguin",
+      "title": "Paul Gauguin",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Paul_Gauguin",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Gauguin]命中"
+    },
+    {
+      "id": "enc-picasso",
+      "title": "Pablo Picasso",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Pablo_Picasso",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Picasso]命中"
+    },
+    {
+      "id": "enc-matisse",
+      "title": "Henri Matisse",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Henri_Matisse",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Matisse]命中"
+    },
+    {
+      "id": "enc-kandinsky",
+      "title": "Wassily Kandinsky",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Wassily_Kandinsky",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Kandinsky]命中"
+    },
+    {
+      "id": "enc-dali",
+      "title": "Salvador Dali",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Salvador_Dali",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Dali]命中"
+    },
+    {
+      "id": "enc-warhol",
+      "title": "Andy Warhol",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Andy_Warhol",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Warhol]命中"
+    },
+    {
+      "id": "enc-medieval-music",
+      "title": "Medieval music",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Medieval_music",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Medieval music]命中"
+    },
+    {
+      "id": "enc-renaissance-music",
+      "title": "Renaissance music",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Renaissance_music",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Renaissance music]命中"
+    },
+    {
+      "id": "enc-baroque-music",
+      "title": "Baroque music",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Baroque_music",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Baroque music]命中"
+    },
+    {
+      "id": "enc-classical-period-music",
+      "title": "Classical period (music)",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Classical_period_(music)",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Classical period]命中"
+    },
+    {
+      "id": "enc-romantic-music",
+      "title": "Romantic music",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Romantic_music",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Romantic music]命中"
+    },
+    {
+      "id": "enc-20th-century-classical",
+      "title": "20th-century classical music",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/20th-century_classical_music",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[20th-century classical music]命中"
+    },
+    {
+      "id": "enc-opera",
+      "title": "Opera",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Opera",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Opera]命中"
+    },
+    {
+      "id": "enc-symphony",
+      "title": "Symphony",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Symphony",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Symphony]命中"
+    },
+    {
+      "id": "enc-sonata",
+      "title": "Sonata",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Sonata",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Sonata]命中"
+    },
+    {
+      "id": "enc-fugue",
+      "title": "Fugue",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Fugue",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Fugue]命中"
+    },
+    {
+      "id": "enc-gregorian-chant",
+      "title": "Gregorian chant",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Gregorian_chant",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Gregorian chant]命中"
+    },
+    {
+      "id": "enc-polyphony",
+      "title": "Polyphony",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Polyphony",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Polyphony]命中"
+    },
+    {
+      "id": "enc-tonality",
+      "title": "Tonality",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Tonality",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Tonality]命中"
+    },
+    {
+      "id": "enc-serialism",
+      "title": "Serialism",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Serialism",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Serialism]命中"
+    },
+    {
+      "id": "enc-bach",
+      "title": "Johann Sebastian Bach",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Johann Sebastian Bach]命中"
+    },
+    {
+      "id": "enc-mozart",
+      "title": "Wolfgang Amadeus Mozart",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Mozart]命中"
+    },
+    {
+      "id": "enc-beethoven",
+      "title": "Ludwig van Beethoven",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Beethoven]命中"
+    },
+    {
+      "id": "enc-haydn",
+      "title": "Joseph Haydn",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Joseph_Haydn",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Haydn]命中"
+    },
+    {
+      "id": "enc-chopin",
+      "title": "Frederic Chopin",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Chopin]命中"
+    },
+    {
+      "id": "enc-wagner",
+      "title": "Richard Wagner",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Richard_Wagner",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Wagner]命中"
+    },
+    {
+      "id": "enc-stravinsky",
+      "title": "Igor Stravinsky",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Igor_Stravinsky",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Stravinsky]命中"
+    },
+    {
+      "id": "enc-schoenberg",
+      "title": "Arnold Schoenberg",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Arnold_Schoenberg",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Schoenberg]命中"
+    },
+    {
+      "id": "enc-chinese-painting",
+      "title": "Chinese painting",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Chinese_painting",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Chinese painting]命中"
+    },
+    {
+      "id": "enc-chinese-calligraphy",
+      "title": "Chinese calligraphy",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Chinese_calligraphy",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Chinese calligraphy]命中"
+    },
+    {
+      "id": "enc-tang-dynasty-art",
+      "title": "Art of the Tang dynasty",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Art_of_the_Tang_dynasty",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Tang dynasty]命中"
+    },
+    {
+      "id": "enc-song-dynasty-art",
+      "title": "Art of the Song dynasty",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Art_of_the_Song_dynasty",
+      "type": "权威百科",
+      "verified": false,
+      "verified_note": "仍失败: HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "id": "enc-yuan-dynasty-art",
+      "title": "Art of the Yuan dynasty",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Art_of_the_Yuan_dynasty",
+      "type": "权威百科",
+      "verified": false,
+      "verified_note": "仍失败: HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "id": "enc-chinese-music",
+      "title": "Chinese music",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Chinese_music",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200; <title>=Music of China - Wikipedia"
+    },
+    {
+      "id": "enc-guzheng",
+      "title": "Guzheng",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Guzheng",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Guzheng]命中"
+    },
+    {
+      "id": "enc-jingju",
+      "title": "Beijing opera",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Beijing_opera",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200; <title>=Peking opera - Wikipedia"
+    },
+    {
+      "id": "inst-met-heilbrunn",
+      "title": "Heilbrunn Timeline of Art History",
+      "author": "Metropolitan Museum of Art",
+      "year": "2026",
+      "url": "https://www.metmuseum.org/toah/",
+      "type": "官方机构",
+      "verified": false,
+      "verified_note": "仍失败: HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    {
+      "id": "inst-khan-art",
+      "title": "Khan Academy Art History",
+      "author": "Khan Academy",
+      "year": "2026",
+      "url": "https://www.khanacademy.org/humanities/art-history",
+      "type": "官方机构",
+      "verified": false,
+      "verified_note": "HTTP 200; <title>=Client Challenge"
+    },
+    {
+      "id": "inst-tate-art-terms",
+      "title": "Tate Art & Artists glossary",
+      "author": "Tate",
+      "year": "2026",
+      "url": "https://www.tate.org.uk/art/art-terms",
+      "type": "官方机构",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Art terms]命中"
+    },
+    {
+      "id": "inst-nga-glossary",
+      "title": "National Gallery of Art glossary",
+      "author": "National Gallery of Art",
+      "year": "2026",
+      "url": "https://www.nga.gov/artworks",
+      "type": "官方机构",
+      "verified": false,
+      "verified_note": "仍失败: HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "web-artstory-movements",
+      "title": "Classical and Modern Art Movements",
+      "author": "The Art Story Foundation",
+      "year": "2026",
+      "url": "https://www.theartstory.org/movements/",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Movements]命中"
+    },
+    {
+      "id": "web-artstory-impressionism",
+      "title": "Impressionism — Art Movement",
+      "author": "The Art Story Foundation",
+      "year": "2026",
+      "url": "https://www.theartstory.org/movement/impressionism/",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Impressionism]命中"
+    },
+    {
+      "id": "web-artstory-cubism",
+      "title": "Cubism — Art Movement",
+      "author": "The Art Story Foundation",
+      "year": "2026",
+      "url": "https://www.theartstory.org/movement/cubism/",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Cubism]命中"
+    }
+  ]
+}
