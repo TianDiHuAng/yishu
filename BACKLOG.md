@@ -140,3 +140,12 @@
 
 ## Cycle 5 执行队列
 1-12. L3升级12个核心条目（renaissance/baroque/neoclassicism/romanticism-art/contemporary-art/post-impressionism/surrealism/stravinsky/schoenberg/abstract-expressionism/cubism/opera），争议须真实、holder用泛称、data用已有数字。
+
+## Cycle 5 完成记录（体检轮，2026-11-22）
+- 体检F六维全通过：死链0/过期0(3误报)/重复0/矛盾0/孤儿0/重合0（reports/healthcheck_c5.json、overlap_c5.json）。
+- B6最后回溯：frankfurt-rmu可达但日期异常未采纳；4条不可达（BLOCKERS已记）。
+- L3升级12条核心 → 累计16条L3（greek-art/gothic/impressionism/baroque-music + renaissance/baroque/neoclassicism/romanticism-art/post-impressionism/cubism/surrealism/abstract-expressionism/contemporary-art/opera/stravinsky/schoenberg）。
+- QC抽检4条L3全PASS，无虚构学者/编造数字/无支撑争议。结果：137条目（L2 121+L3 16），141页0断链。
+
+## Cycle 6 待办队列
+### P0 B5 剩余5项 / P1 覆盖矩阵150空格补盲 / P2 B4作品档案缺口 / P3 B6 4条不可达动态 / P4 L3再升级（剩28核心L2）

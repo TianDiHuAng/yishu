@@ -121,6 +121,32 @@
       "commits": 2,
       "l3_added": 4,
       "qc_result": "4 PASS/0 REWORK"
+    },
+    {
+      "cycle": "cycle5",
+      "date": "2026-11-22",
+      "status": "completed",
+      "gap_methods": [
+        "F体检(六维)",
+        "B6近期动态回溯",
+        "B7深度缺口"
+      ],
+      "gap_counts": {
+        "F_问题": 0,
+        "B6_不可达": 4,
+        "B7_核心L2": 44
+      },
+      "new_entries": 0,
+      "upgrades": 12,
+      "reviews": 4,
+      "fixes": 0,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0",
+      "new_sources": 0,
+      "commits": 1,
+      "l3_added": 12,
+      "healthcheck": "all_clear",
+      "qc_result": "4 PASS/0 REWORK"
     }
   ]
 }

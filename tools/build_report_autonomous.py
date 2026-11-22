@@ -11,8 +11,11 @@ sat=json.load(open(os.path.join(ROOT,"SATURATION.json"),encoding="utf-8"))
 cur=met["rounds"][-1]; cyc=cur["cycle"]
 lv=Counter(e.get("level","L1") for e in es)
 nver=sum(1 for e in es if not e.get("needs_verification"))
-gp=json.load(open(os.path.join(ROOT,"reports","gaps_%s.json"%cyc),encoding="utf-8"))
+gp_path=os.path.join(ROOT,"reports","gaps_%s.json"%cyc)
+gp=json.load(open(gp_path,encoding="utf-8")) if os.path.exists(gp_path) else {"matrix_blank":[]}
 blank=gp["matrix_blank"][:20]
+if not os.path.exists(gp_path):
+    blank=[[b,m] for b,m,_ in []]  # 体检轮无矩阵文件，留空由特别说明覆盖
 status="正常" if not sat.get("saturated") else "饱和/维护"
 L=[]
 L.append("# REPORT.md — 覆盖报告（供每日验收）")
@@ -27,6 +30,8 @@ L.append("- 新增来源：**%d**"%cur.get("new_sources",0))
 if cur.get("qc_result"): L.append("- 质量闸：**%s**"%cur["qc_result"])
 if cyc=="cycle3":
     L.append("- 本轮特别说明：B5 复核 45 项待核实 → 38 项找到可核验第二来源并写入【已复核】留痕；B3 孤儿页 38→0（新增84条双向补链）；QC 收尾补 Bach/Vivaldi 来源并修正18处截断URL。")
+if cyc=="cycle5":
+    L.append("- 本轮特别说明：体检轮 F 六维全通过（死链/过期/重复/矛盾/孤儿/来源重合均为0，3个「现存」为误报）；L3 深度升级12条核心，累计16条L3，争议/数据逐项获来源支撑、holder全为泛称；B6 动态4条仍不可达已记 BLOCKERS。")
 if cyc=="cycle4":
     L.append("- 本轮特别说明：B1 对照《History of painting》发现南亚/东南亚/东亚分支零覆盖，新增8条亚洲艺术（D014）；实现 L3 深度层（check.py R16 + gen_site.py 渲染），4个核心条目升级 L3（greek-art/gothic/impressionism/baroque-music），争议观点均用泛称不虚构学者；B5 剩余6项中仅1项可核验解决，5项诚实保留待核实；B6 回溯5条来源仍4条不可达（1条日期异常未采纳）。")
 if cur.get("gap_counts"): L.append("- 缺口计数：%s"%", ".join("%s=%s"%(k,v) for k,v in cur["gap_counts"].items()))
