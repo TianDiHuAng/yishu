@@ -452,6 +452,20 @@
       },
       "network": "partial",
       "verdict": "B5：1 差异（romanesque 断代）+1 备查（张旭生年）+3 仍无解；未饱和"
+    },
+    {
+      "cycle": "cycle37",
+      "date": "2026-11-22",
+      "methods_used": [
+        "F体检",
+        "来源库不变式",
+        "交接文档"
+      ],
+      "gaps_found": {
+        "unverified_sources": 5
+      },
+      "network": "partial",
+      "verdict": "5 条不可核验来源隔离 + R18（经注入验证）；新增项目总表；未饱和"
     }
   ],
   "assessment_c33": {

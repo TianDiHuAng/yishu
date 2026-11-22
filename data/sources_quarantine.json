@@ -1,0 +1,60 @@
+{
+  "sources": [
+    {
+      "id": "enc-song-dynasty-art",
+      "title": "Art of the Song dynasty",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Art_of_the_Song_dynasty",
+      "type": "权威百科",
+      "verified": false,
+      "verified_note": "仍失败: HTTPError: HTTP Error 404: Not Found",
+      "quarantine_reason": "仍失败: HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "id": "enc-yuan-dynasty-art",
+      "title": "Art of the Yuan dynasty",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Art_of_the_Yuan_dynasty",
+      "type": "权威百科",
+      "verified": false,
+      "verified_note": "仍失败: HTTPError: HTTP Error 404: Not Found",
+      "quarantine_reason": "仍失败: HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "id": "inst-met-heilbrunn",
+      "title": "Heilbrunn Timeline of Art History",
+      "author": "Metropolitan Museum of Art",
+      "year": "2026",
+      "url": "https://www.metmuseum.org/toah/",
+      "type": "官方机构",
+      "verified": false,
+      "verified_note": "仍失败: HTTPError: HTTP Error 429: Too Many Requests",
+      "quarantine_reason": "仍失败: HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    {
+      "id": "inst-khan-art",
+      "title": "Khan Academy Art History",
+      "author": "Khan Academy",
+      "year": "2026",
+      "url": "https://www.khanacademy.org/humanities/art-history",
+      "type": "官方机构",
+      "verified": false,
+      "verified_note": "HTTP 200; <title>=Client Challenge",
+      "quarantine_reason": "HTTP 200; <title>=Client Challenge"
+    },
+    {
+      "id": "inst-nga-glossary",
+      "title": "National Gallery of Art glossary",
+      "author": "National Gallery of Art",
+      "year": "2026",
+      "url": "https://www.nga.gov/artworks",
+      "type": "官方机构",
+      "verified": false,
+      "verified_note": "仍失败: HTTPError: HTTP Error 403: Forbidden",
+      "quarantine_reason": "仍失败: HTTPError: HTTP Error 403: Forbidden"
+    }
+  ],
+  "note": "隔离区：记录「尝试过但当前不可核验」的来源，保留以备来源通道恢复后重新核验。这些来源**不得**被任何条目引用（check.py R18 强制）。"
+}

@@ -30,6 +30,8 @@ L.append("- 新增来源：**%d**"%cur.get("new_sources",0))
 if cur.get("qc_result"): L.append("- 质量闸：**%s**"%cur["qc_result"])
 if cyc=="cycle3":
     L.append("- 本轮特别说明：B5 复核 45 项待核实 → 38 项找到可核验第二来源并写入【已复核】留痕；B3 孤儿页 38→0（新增84条双向补链）；QC 收尾补 Bach/Vivaldi 来源并修正18处截断URL。")
+if cyc=="cycle37":
+    L.append("- 本轮为**体检轮 + 来源库治理**。八步体检全通过、120/120 来源活性 200。核对数字时发现 sources.json 里有 **5 条 verified=false**（2 个页面 404、Met 429、Khan 反爬壳页、NGA 403），且**没有任何条目引用**——已移入 data/sources_quarantine.json（留原因），并新增 **check.py R18** 不变式：「来源库内必须全部 verified，被引用者必须在库内」，且做了**注入验证**（临时塞入一条未核验来源 → 报 R18 且 rc=1，还原 → rc=0）。另新增 PROJECT_STATUS.md（项目总表与交接），撰写时**自查发现并更正了两处数字错误**（来源 284→279、建筑条目 3→4）。来源库现 **279 条全部 verified**。")
 if cyc=="cycle36":
     L.append("- 本轮把 B5 剩余 5 项用 Wikidata **时间声明**再核一遍，结果为「1 个真实差异 + 1 个备查事实 + 3 个仍无解」：①**romanesque 发现断代差异**——Wikidata「Romanesque art」(Q46805) 记 P580=1000 / P582=1200，本条目正文采「约1000—1150」，**终点差 50 年**，而 1150 本身源自早期种子、从未有独立来源；②张旭实体给出**生年 670**，但条目待核的是「作品名称」，仍无解；③realism 年代、草书年代、donatello 术语无可用声明。处置：**一律不据单一结构化来源改正文**，差异与备查事实写进复核记录，并注明「待第三来源判定」。发现差异比抹平差异更有价值。")
 if cyc=="cycle35":

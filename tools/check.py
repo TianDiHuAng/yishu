@@ -154,6 +154,13 @@ def main():
                     if b in blob:
                         err("R17",e["id"],"争议含编辑待办措辞[%s]，非真实学界分歧"%b); break
 
+    # R18 来源库不变式：库内全部 verified；被引用者必须在库内
+    for x in S:
+        if not x.get("verified"): err("R18",x.get("id","?"),"来源库含未核验来源（应移入 quarantine）")
+    for e in ENTRIES:
+        for sid in e.get("sources",[]):
+            if sid not in sm and not any(q.get("id")==sid for q in []):
+                err("R18",e["id"],"引用不在来源库:%s"%sid)
     # R11 coverage一致
     for eid,c in COV["entries"].items():
         if eid not in ids: err("R11",eid,"coverage有而entries无")
