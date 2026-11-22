@@ -199,12 +199,12 @@
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "donatello": {
       "title": "多纳泰罗",
@@ -667,24 +667,24 @@
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "conceptual-art": {
       "title": "观念艺术",
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "warhol": {
       "title": "安迪·沃霍尔",
@@ -895,12 +895,12 @@
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "running-script": {
       "title": "行书",
@@ -967,12 +967,12 @@
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 3,
-      "verified_sources_count": 3,
+      "sources_count": 4,
+      "verified_sources_count": 4,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "renaissance-music": {
       "title": "文艺复兴音乐",

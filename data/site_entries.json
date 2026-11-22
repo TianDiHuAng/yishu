@@ -661,7 +661,8 @@
       ],
       "sources": [
         "enc-mannerism",
-        "enc-high-renaissance"
+        "enc-high-renaissance",
+        "wd-anchor-mannerism"
       ],
       "level": "L2",
       "sections": {
@@ -2152,7 +2153,8 @@
       ],
       "sources": [
         "enc-minimalism",
-        "enc-bauhaus"
+        "enc-bauhaus",
+        "wd-anchor-minimalism"
       ],
       "level": "L2",
       "sections": {
@@ -2184,7 +2186,8 @@
       ],
       "sources": [
         "enc-conceptual-art",
-        "enc-dada"
+        "enc-dada",
+        "wd-anchor-conceptual-art"
       ],
       "level": "L2",
       "sections": {
@@ -2778,7 +2781,8 @@
       ],
       "sources": [
         "enc-chinese-calligraphy",
-        "enc-calligraphy"
+        "enc-calligraphy",
+        "wd-anchor-regular-script"
       ],
       "level": "L2",
       "sections": {
@@ -2989,7 +2993,8 @@
       "sources": [
         "enc-polyphony",
         "enc-medieval-music",
-        "enc-counterpoint"
+        "enc-counterpoint",
+        "wd-anchor-polyphony"
       ],
       "level": "L2",
       "sections": {

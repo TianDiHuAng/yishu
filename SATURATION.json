@@ -343,6 +343,19 @@
       },
       "network": "partial (throttled)",
       "verdict": "发现并修复静默限流；锚点 34→54；未饱和"
+    },
+    {
+      "cycle": "cycle27",
+      "date": "2026-11-22",
+      "methods_used": [
+        "锚点pass5",
+        "结构性分类"
+      ],
+      "gaps_found": {
+        "anchors": 5
+      },
+      "network": "partial",
+      "verdict": "锚点 54→59（69%）；剩余45条停止硬凑并分类记录；未饱和"
     }
   ]
 }

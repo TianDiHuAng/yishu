@@ -14,7 +14,8 @@
  "sources": [
   "enc-polyphony",
   "enc-medieval-music",
-  "enc-counterpoint"
+  "enc-counterpoint",
+  "wd-anchor-polyphony"
  ],
  "related": [
   "organum",

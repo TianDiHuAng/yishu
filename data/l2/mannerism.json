@@ -18,5 +18,10 @@
   "michelangelo",
   "renaissance",
   "venetian-school"
+ ],
+ "sources": [
+  "enc-mannerism",
+  "enc-high-renaissance",
+  "wd-anchor-mannerism"
  ]
 }

@@ -686,6 +686,38 @@
       "check_links_result": "broken=0(176页)",
       "audit_all": "7/7 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle27",
+      "date": "2026-11-22",
+      "status": "completed",
+      "gap_methods": [
+        "锚点 pass5（A/B 双路）+ 结构性分类"
+      ],
+      "network": "partial: wikidata ok (throttled)",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 50,
+      "fixes": 0,
+      "entity_pass5": {
+        "tested": 50,
+        "candidates": 8,
+        "adopted": 5,
+        "rejected": 3
+      },
+      "anchors_total": 59,
+      "anchor_rate": "100/145 = 69%",
+      "unanchored_breakdown": {
+        "own_pages": 11,
+        "china_topics": 15,
+        "others": 19
+      },
+      "new_sources": 5,
+      "sources_total": 266,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(176页)",
+      "audit_all": "7/7 ok",
+      "commits": 1
     }
   ]
 }

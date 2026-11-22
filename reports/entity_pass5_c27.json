@@ -1,0 +1,82 @@
+[
+ {
+  "id": "renaissance",
+  "kind": "时期",
+  "title": "文艺复兴",
+  "how": "A(英文精确)",
+  "qid": "Q23731823",
+  "zh": "复兴党",
+  "en": "Renaissance",
+  "desc": "French political party"
+ },
+ {
+  "id": "mannerism",
+  "kind": "风格",
+  "title": "样式主义",
+  "how": "A(英文精确)",
+  "qid": "Q131808",
+  "zh": "風格主義",
+  "en": "Mannerism",
+  "desc": "style of European art"
+ },
+ {
+  "id": "minimalism",
+  "kind": "风格",
+  "title": "极简主义",
+  "how": "A(英文精确)",
+  "qid": "Q173436",
+  "zh": "極簡主義",
+  "en": "Minimalism",
+  "desc": "movements in various forms of art and design"
+ },
+ {
+  "id": "conceptual-art",
+  "kind": "风格",
+  "title": "观念艺术",
+  "how": "A(英文精确)",
+  "qid": "Q203209",
+  "zh": "概念藝術",
+  "en": "conceptual art",
+  "desc": "contemporary art movement"
+ },
+ {
+  "id": "regular-script",
+  "kind": "术语",
+  "title": "楷书",
+  "how": "A(英文精确)",
+  "qid": "Q1196029",
+  "zh": "楷書",
+  "en": "regular script",
+  "desc": "Chinese writing style, appearing ca. 200 CE and maturing aro"
+ },
+ {
+  "id": "polyphony",
+  "kind": "术语",
+  "title": "复调",
+  "how": "A(英文精确)",
+  "qid": "Q1917591",
+  "zh": "多声部音乐",
+  "en": "polyphony",
+  "desc": "alternative terms for polyphony"
+ },
+ {
+  "id": "china-music-history",
+  "kind": "时期",
+  "title": "中国音乐史",
+  "how": "B(中文精确)",
+  "qid": "Q119086285",
+  "zh": "中国音乐史",
+  "en": null,
+  "desc": ""
+ },
+ {
+  "id": "pipa",
+  "kind": "术语",
+  "title": "琵琶",
+  "how": "B(中文精确)",
+  "qid": "Q18874076",
+  "zh": "琵琶",
+  "en": null,
+  "desc": ""
+ }
+]

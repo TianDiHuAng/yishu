@@ -2609,6 +2609,56 @@
       "type": "权威结构化数据（身份锚点）",
       "verified": true,
       "verified_note": "Cycle26 中文标签完全匹配并经人工确认；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-mannerism",
+      "title": "Wikidata 实体（身份锚点）：風格主義（Q131808）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q131808",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle27 英文/中文精确匹配 + 人工确认语义相符；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-minimalism",
+      "title": "Wikidata 实体（身份锚点）：極簡主義（Q173436）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q173436",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle27 英文/中文精确匹配 + 人工确认语义相符；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-conceptual-art",
+      "title": "Wikidata 实体（身份锚点）：概念藝術（Q203209）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q203209",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle27 英文/中文精确匹配 + 人工确认语义相符；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-regular-script",
+      "title": "Wikidata 实体（身份锚点）：楷書（Q1196029）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q1196029",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle27 英文/中文精确匹配 + 人工确认语义相符；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-polyphony",
+      "title": "Wikidata 实体（身份锚点）：多声部音乐（Q1917591）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q1917591",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle27 英文/中文精确匹配 + 人工确认语义相符；仅作身份锚点，不作事实依据"
     }
   ]
 }

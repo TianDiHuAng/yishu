@@ -15,5 +15,10 @@
   "abstract-expressionism",
   "conceptual-art",
   "bauhaus"
+ ],
+ "sources": [
+  "enc-minimalism",
+  "enc-bauhaus",
+  "wd-anchor-minimalism"
  ]
 }
