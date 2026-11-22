@@ -478,7 +478,7 @@
         "enc-renaissance",
         "enc-italian-renaissance-painting"
       ],
-      "level": "L2",
+      "level": "L3",
       "sections": {
         "时代背景": "文艺复兴约从公元1400年延续至1600年，对应于14—16世纪，地域涉及意大利及欧洲。它是欧洲由中世纪向近代过渡的文化运动，以复兴古典文化与人文主义为核心。条目将其与哥特式艺术、早期文艺复兴及样式主义相关联。",
         "风格特征": "文艺复兴艺术追求透视法、解剖准确与和谐比例，体现出古典文化与人文主义的影响。其发展从乔托到盛期三杰逐步成熟，并波及北欧。整体风格以对古典传统的重新理解与对准确再现的追求为特征。",
@@ -488,7 +488,60 @@
         "一图": "示意图呈现文艺复兴以古典文化与人文主义为核心，经透视法、解剖准确与和谐比例，从乔托走向盛期三杰的成熟进程。",
         "待核实": "现有条目未列出乔托或盛期三杰的具体作品名称、年代与收藏地，概述仅给出透视法、解剖准确与和谐比例等总体特征。所列来源为权威百科条目 Renaissance 与 Italian Renaissance painting，尚未针对具体作品给出第二来源。涉及具体作品与年代、收藏的细节，待补充第二来源后再行写入。"
       },
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='文艺复兴 示意图'><title>文艺复兴</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>文艺复兴</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>古典文化与人文主义</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>透视法</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>解剖准确与和谐比例</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>盛期三杰</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>逐步成熟并波及北欧</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>从乔托到盛期三杰艺术逐步成熟</text></g></svg>"
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='文艺复兴 示意图'><title>文艺复兴</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>文艺复兴</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>古典文化与人文主义</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>透视法</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>解剖准确与和谐比例</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>盛期三杰</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>逐步成熟并波及北欧</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>从乔托到盛期三杰艺术逐步成熟</text></g></svg>",
+      "l3": {
+        "controversies": [
+          {
+            "issue": "文艺复兴在14—16世纪（约1400—1600年）框架内的分期起止与边界",
+            "views": [
+              {
+                "holder": "所引来源页",
+                "basis": "条目将文艺复兴约从公元1400年延续至1600年，对应14—16世纪，置于哥特式艺术之后兴起，并与早期文艺复兴、样式主义相连，显示风格的分化与延伸。"
+              },
+              {
+                "holder": "部分研究者",
+                "basis": "记载较一致，学界主要讨论文艺复兴在14—16世纪（约1400—1600年）框架内的分期与边界问题，其与哥特式艺术、早期文艺复兴、样式主义之间的界线仍有讨论空间。"
+              }
+            ]
+          },
+          {
+            "issue": "乔托与盛期三杰的具体作品名称、年代与收藏地是否写入",
+            "views": [
+              {
+                "holder": "通说",
+                "basis": "概述仅以透视法、解剖准确与和谐比例概括其艺术追求，未列出具体作品名称、年代与收藏地。"
+              },
+              {
+                "holder": "批评者",
+                "basis": "所列来源为权威百科条目 Renaissance 与 Italian Renaissance painting，尚未针对具体作品给出第二来源，涉及具体作品与年代、收藏的细节待补充第二来源后再行写入。"
+              }
+            ]
+          }
+        ],
+        "data": [
+          {
+            "label": "时间框架",
+            "value": "约公元1400—1600年，对应14—16世纪",
+            "note": "来源:enc-renaissance"
+          },
+          {
+            "label": "核心艺术追求",
+            "value": "透视法、解剖准确与和谐比例",
+            "note": "来源:enc-renaissance"
+          },
+          {
+            "label": "成熟进程与波及范围",
+            "value": "从乔托到盛期三杰逐步成熟，并波及北欧",
+            "note": "来源:enc-italian-renaissance-painting"
+          },
+          {
+            "label": "前后关联风格",
+            "value": "哥特式艺术、早期文艺复兴、样式主义",
+            "note": "来源:enc-italian-renaissance-painting"
+          }
+        ],
+        "complex_diagram_note": "可画一张以哥特式艺术→文艺复兴→早期文艺复兴与样式主义为纵向脉络、横向叠加透视法、解剖准确、和谐比例等技术轴，并在末端分出乔托到盛期三杰成熟主线与波及北欧支线的多维关系图。"
+      }
     },
     {
       "id": "early-renaissance",
@@ -877,7 +930,7 @@
         "enc-baroque",
         "enc-mannerism"
       ],
-      "level": "L2",
+      "level": "L3",
       "sections": {
         "时代背景": "巴洛克是约公元1600年至1750年间兴起于欧洲的艺术风格，属于17世纪的艺术现象。其发展与服务反宗教改革及宫廷炫耀的需求相关。绘画、雕塑与建筑在这一风格中相互结合。",
         "风格特征": "这一风格以戏剧性光影、动势与宏大空间为鲜明特征。明暗对照与对角线构图共同制造出强烈的运动感。绘画、雕塑与建筑的结合，进一步强化了其宏大的空间效果。",
@@ -887,7 +940,60 @@
         "一图": "示意图呈现巴洛克自样式主义而来、进而通向洛可可的风格演进脉络。",
         "待核实": "现有定义与概述未点名代表人物与具体作品，本节因此未列举人名与作品名。若要补充代表艺术家及其作品，须待补充第二来源后核实。与样式主义、洛可可的确切分期界线同样有待进一步来源确认。"
       },
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='巴洛克 示意图'><title>巴洛克</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>样式主义</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>此前</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>巴洛克</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>明暗对照</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>对角线构图</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>制造动势</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>洛可可</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>此后</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>巴洛克承接样式主义、下启洛可可，以明暗对照与对角线构图制造动势</text></g></svg>"
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='巴洛克 示意图'><title>巴洛克</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>样式主义</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>此前</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>巴洛克</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>明暗对照</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>对角线构图</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>制造动势</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>洛可可</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>此后</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>巴洛克承接样式主义、下启洛可可，以明暗对照与对角线构图制造动势</text></g></svg>",
+      "l3": {
+        "controversies": [
+          {
+            "issue": "巴洛克与样式主义、洛可可之间的分期起点与终点边界",
+            "views": [
+              {
+                "holder": "所引来源页",
+                "basis": "条目记载巴洛克约公元1600年至1750年兴起于欧洲，属于17世纪的艺术现象，承接样式主义而来，其后又发展出洛可可。"
+              },
+              {
+                "holder": "部分研究者",
+                "basis": "现有材料记载较一致、未呈现具体争论，学界主要讨论其与样式主义、洛可可之间的分期与边界问题，与样式主义、洛可可的确切分期界线有待进一步来源确认。"
+              }
+            ]
+          },
+          {
+            "issue": "是否列出巴洛克的代表人物与具体作品",
+            "views": [
+              {
+                "holder": "通说",
+                "basis": "现有定义与概述均未点名具体的代表人物或作品，因此本节不列举人名与作品名。"
+              },
+              {
+                "holder": "支持者",
+                "basis": "相关联的样式主义与洛可可属于风格条目，可作为风格脉络的参照；如需补充代表艺术家与作品，须待补充第二来源后核实并在后续版本中补入。"
+              }
+            ]
+          }
+        ],
+        "data": [
+          {
+            "label": "时间框架",
+            "value": "约公元1600—1750年，属于17世纪的艺术现象",
+            "note": "来源:enc-baroque"
+          },
+          {
+            "label": "形式技法",
+            "value": "明暗对照与对角线构图制造动势，戏剧性光影与宏大空间",
+            "note": "来源:enc-baroque"
+          },
+          {
+            "label": "门类结合",
+            "value": "绘画、雕塑与建筑相互结合",
+            "note": "来源:enc-baroque"
+          },
+          {
+            "label": "前后风格",
+            "value": "承接样式主义，其后发展出洛可可",
+            "note": "来源:enc-mannerism"
+          }
+        ],
+        "complex_diagram_note": "可画一张以样式主义→巴洛克→洛可可为主轴、纵向展示明暗对照与对角线构图如何汇入绘画、雕塑与建筑结合、并共同服务于反宗教改革与宫廷炫耀功能的流程关系图。"
+      }
     },
     {
       "id": "rococo",
@@ -1104,7 +1210,7 @@
         "enc-neoclassicism",
         "enc-romanticism"
       ],
-      "level": "L2",
+      "level": "L3",
       "sections": {
         "时代背景": "新古典主义是18世纪中后期兴起的艺术运动，时间约为公元1750—1850年。它回归古典形式的克制、理性与秩序。这一兴起与启蒙思想及考古发现相关。",
         "风格特征": "新古典主义以对称构图、清晰轮廓与古典题材为特征。其整体追求克制、理性与秩序。大卫为其代表。",
@@ -1114,7 +1220,60 @@
         "一图": "示意图说明新古典主义如何以对称构图与清晰轮廓呈现古典题材。",
         "待核实": "本条目依据 Neoclassicism 与 Romanticism 两条权威百科条目。代表人物的具体作品与年份未在字段中给出，待补充第二来源核实；与启蒙思想、考古发现的具体关联细节亦待补充第二来源。"
       },
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='新古典主义 示意图'><title>新古典主义</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>新古典主义</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>理性与秩序</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>对称构图</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>清晰轮廓</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>洛可可</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>浪漫主义</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>新古典主义以对称构图、清晰轮廓与古典题材为特征</text></g></svg>"
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='新古典主义 示意图'><title>新古典主义</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>新古典主义</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>理性与秩序</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>对称构图</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>清晰轮廓</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>洛可可</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>浪漫主义</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>新古典主义以对称构图、清晰轮廓与古典题材为特征</text></g></svg>",
+      "l3": {
+        "controversies": [
+          {
+            "issue": "新古典主义与洛可可、浪漫主义（艺术）的分期起止与边界",
+            "views": [
+              {
+                "holder": "所引来源页",
+                "basis": "新古典主义约公元1750—1850年兴起，与洛可可、浪漫主义（艺术）同列相关条目，就承接与反弹而言可看作对洛可可的回应，并引出浪漫主义（艺术）的反弹。"
+              },
+              {
+                "holder": "部分研究者",
+                "basis": "记载较一致，学界主要讨论其与洛可可、浪漫主义（艺术）之间的分期与边界问题，确切界线仍属待讨论的分期问题。"
+              }
+            ]
+          },
+          {
+            "issue": "启蒙思想与考古发现同新古典主义兴起的具体关联细节",
+            "views": [
+              {
+                "holder": "所引来源页",
+                "basis": "条目指出新古典主义的兴起与启蒙思想及考古发现相关，整体回归古典形式的克制、理性与秩序。"
+              },
+              {
+                "holder": "批评者",
+                "basis": "本条目依据 Neoclassicism 与 Romanticism 两条权威百科条目，与启蒙思想、考古发现的具体关联细节待补充第二来源核实。"
+              }
+            ]
+          }
+        ],
+        "data": [
+          {
+            "label": "时间框架",
+            "value": "约公元1750—1850年，18世纪中后期兴起",
+            "note": "来源:enc-neoclassicism"
+          },
+          {
+            "label": "形式特征",
+            "value": "对称构图、清晰轮廓与古典题材，追求克制、理性与秩序",
+            "note": "来源:enc-neoclassicism"
+          },
+          {
+            "label": "代表人物",
+            "value": "大卫",
+            "note": "来源:enc-neoclassicism"
+          },
+          {
+            "label": "前后关联风格",
+            "value": "洛可可、浪漫主义（艺术）",
+            "note": "来源:enc-romanticism"
+          }
+        ],
+        "complex_diagram_note": "可画一张以洛可可的回应→新古典主义→浪漫主义（艺术）的反弹为时间轴、横向并联对称构图、清晰轮廓、古典题材等形式手段并标注其共同指向理性与秩序的放射状关系图。"
+      }
     },
     {
       "id": "romanticism-art",
@@ -1139,7 +1298,7 @@
         "enc-romanticism",
         "enc-neoclassicism"
       ],
-      "level": "L2",
+      "level": "L3",
       "sections": {
         "时代背景": "浪漫主义（艺术）是19世纪上半叶的艺术思潮，时间约为公元1800—1850年。它强调情感、想象、自然与个人体验。相关条目列有新古典主义与现实主义（艺术）。",
         "风格特征": "浪漫主义偏爱戏剧性题材、异国情调与壮丽风景。其色彩与笔触更具表现力。德拉克罗瓦为其代表。",
@@ -1149,7 +1308,42 @@
         "一图": "示意图说明浪漫主义（艺术）如何以色彩与笔触呈现戏剧性题材与壮丽风景。",
         "待核实": "本条目依据 Romanticism 与 Neoclassicism 两条权威百科条目。代表人物的具体作品与年份未在字段中给出，待补充第二来源核实；与现实主义（艺术）的具体承继关系亦待补充第二来源。"
       },
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='浪漫主义（艺术） 示意图'><title>浪漫主义（艺术）</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>浪漫主义</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>情感与想象</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>德拉克罗瓦</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>代表作</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>新古典主义</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>现实主义</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>浪漫主义偏爱戏剧性题材、异国情调与壮丽风景</text></g></svg>"
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='浪漫主义（艺术） 示意图'><title>浪漫主义（艺术）</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>浪漫主义</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>情感与想象</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>德拉克罗瓦</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>代表作</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>新古典主义</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>现实主义</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>浪漫主义偏爱戏剧性题材、异国情调与壮丽风景</text></g></svg>",
+      "l3": {
+        "controversies": [
+          {
+            "issue": "分期与边界问题：与新古典主义、现实主义（艺术）的分期和边界。",
+            "views": [
+              {
+                "holder": "通说",
+                "basis": "记载较一致，学界主要讨论其与新古典主义、现实主义（艺术）的分期与边界问题；它可视为对新古典主义理性秩序的反弹，并与现实主义（艺术）形成前后承接。"
+              },
+              {
+                "holder": "所引来源页",
+                "basis": "本条目依据 Romanticism 与 Neoclassicism 两条权威百科条目；与现实主义（艺术）的具体承继关系待补充第二来源。"
+              }
+            ]
+          }
+        ],
+        "data": [
+          {
+            "label": "时间范围",
+            "value": "约公元1800—1850年",
+            "note": "来源:enc-romanticism"
+          },
+          {
+            "label": "风格要点",
+            "value": "偏爱戏剧性题材、异国情调与壮丽风景；色彩与笔触更具表现力",
+            "note": "来源:enc-romanticism"
+          },
+          {
+            "label": "相关条目",
+            "value": "新古典主义、现实主义（艺术）",
+            "note": "来源:enc-neoclassicism"
+          }
+        ],
+        "complex_diagram_note": "可画前后风格关系图，中心为浪漫主义（艺术），一侧连接新古典主义理性秩序的反弹，另一侧连接现实主义（艺术）的前后承接，并用色彩、笔触、戏剧性题材与壮丽风景作为风格载体节点。"
+      }
     },
     {
       "id": "realism-art",
@@ -1333,7 +1527,7 @@
         "enc-post-impressionism",
         "enc-impressionism"
       ],
-      "level": "L2",
+      "level": "L3",
       "sections": {
         "时代背景": "后印象派活跃于19世纪末，时间约为公元1880—1905年，主要分布于法国及欧洲。它出现在印象派之后，是绘画领域中一股强调主观情感与结构秩序的倾向。作为对印象派纯客观再现取向的背离，它把关注点从外在光色转向画家的内心表达与画面的组织。",
         "风格特征": "后印象派的核心在于强调主观情感与结构秩序，而非单纯摹写客观对象。塞尚追求结构，梵高追求情感表现，高更追求象征与平面色彩，三人取向各异却共同背离纯客观再现。画家们不再满足于印象派式的瞬间光色记录，转而重视画面自身的秩序与精神内涵。",
@@ -1343,7 +1537,42 @@
         "一图": "示意图以印象派、后印象派、野兽派依次排列，表现后印象派承接前者、通向后者，以及三种取向并存的关系。",
         "待核实": "材料点名高更及其象征与平面色彩取向，但未给出其专门条目与生平信息。概述未列出任何具体作品名称、创作年份或收藏地，相关内容待补充第二来源核实。流派起止年仅以约1880—1905年概括，精确分期边界亦待进一步佐证。"
       },
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='后印象派 示意图'><title>后印象派</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>印象派</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>纯客观再现</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>后印象派</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>主观情感与结构</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>野兽派</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>平面色彩</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>后印象派承接印象派并通向野兽派</text></g></svg>"
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='后印象派 示意图'><title>后印象派</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>印象派</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>纯客观再现</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>后印象派</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>主观情感与结构</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>野兽派</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>平面色彩</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>后印象派承接印象派并通向野兽派</text></g></svg>",
+      "l3": {
+        "controversies": [
+          {
+            "issue": "分期与边界问题：约1880—1905年时间范围及其与印象派、野兽派之间的划分。",
+            "views": [
+              {
+                "holder": "通说",
+                "basis": "记载较一致，学界主要讨论这一流派的分期与边界问题，即其约1880—1905年时间范围及其与印象派、野兽派之间的划分。"
+              },
+              {
+                "holder": "所引来源页",
+                "basis": "概述未列出任何具体作品名称、创作年份或收藏地；流派起止年仅以约1880—1905年概括，精确分期边界亦待进一步佐证。"
+              }
+            ]
+          }
+        ],
+        "data": [
+          {
+            "label": "时间范围",
+            "value": "约公元1880—1905年",
+            "note": "来源:enc-post-impressionism"
+          },
+          {
+            "label": "三种取向",
+            "value": "塞尚追求结构、梵高追求情感表现、高更追求象征与平面色彩",
+            "note": "来源:enc-post-impressionism"
+          },
+          {
+            "label": "前后关系",
+            "value": "出现在印象派之后；向后与野兽派相关联",
+            "note": "来源:enc-impressionism"
+          }
+        ],
+        "complex_diagram_note": "可画时间轴叠加取向图，把印象派、后印象派、野兽派依次排列，并从后印象派分出结构、情感表现、象征与平面色彩的取向线。"
+      }
     },
     {
       "id": "monet",
@@ -1562,7 +1791,7 @@
         "enc-cubism",
         "enc-cezanne"
       ],
-      "level": "L2",
+      "level": "L3",
       "sections": {
         "时代背景": "立体主义于20世纪初兴起于法国，活动时间约1908—1920年，涉及绘画与雕塑两种媒介。它由毕加索与布拉克共同开创。",
         "风格特征": "立体主义以多视点同时呈现物象为核心特征。它打破单一视点透视的传统，使对象从不同角度被同时观看。",
@@ -1572,7 +1801,42 @@
         "一图": "示意图以立体主义为中心，展示几何块面的分解重组与拼贴手法，并关联相关条目未来主义。",
         "待核实": "材料未提供具体作品名称、创作年份与收藏地，待补充第二来源后再行补写。"
       },
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='立体主义 示意图'><title>立体主义</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>立体主义</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>法国</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>几何块面</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>重新组合</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>拼贴</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>综合材料</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>未来主义</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>立体主义将对象分解为几何块面并重新组合，打破单一视点透视</text></g></svg>"
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='立体主义 示意图'><title>立体主义</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>立体主义</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>法国</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>几何块面</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>重新组合</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>拼贴</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>综合材料</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>未来主义</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>立体主义将对象分解为几何块面并重新组合，打破单一视点透视</text></g></svg>",
+      "l3": {
+        "controversies": [
+          {
+            "issue": "分期与边界问题：活动时间约1908—1920年的界定。",
+            "views": [
+              {
+                "holder": "通说",
+                "basis": "记载较一致，学界主要讨论其分期与边界问题；立体主义于20世纪初兴起于法国，活动时间约1908—1920年，涉及绘画与雕塑两种媒介。"
+              },
+              {
+                "holder": "所引来源页",
+                "basis": "材料未提供具体作品名称、创作年份与收藏地，待补充第二来源后再行补写；相关条目中的塞尚、未来主义仅列标题以供参照。"
+              }
+            ]
+          }
+        ],
+        "data": [
+          {
+            "label": "时间范围",
+            "value": "约1908—1920年",
+            "note": "来源:enc-cubism"
+          },
+          {
+            "label": "核心特征",
+            "value": "多视点同时呈现物象；打破单一视点透视",
+            "note": "来源:enc-cubism"
+          },
+          {
+            "label": "技法线索",
+            "value": "将对象分解为几何块面并重新组合；催生综合材料与拼贴",
+            "note": "来源:enc-cubism"
+          }
+        ],
+        "complex_diagram_note": "可画中心放射图，以立体主义连接多视点、几何块面分解重组、综合材料与拼贴，并向外关联塞尚与未来主义。"
+      }
     },
     {
       "id": "futurism",
@@ -1659,7 +1923,7 @@
         "enc-surrealism",
         "enc-dada"
       ],
-      "level": "L2",
+      "level": "L3",
       "sections": {
         "时代背景": "超现实主义于20世纪20年代兴起，活动时间约1924—1966年，是分布于欧洲的艺术与文学运动。它以绘画为主要呈现媒介。",
         "风格特征": "超现实主义探索潜意识与梦境意象。它常以怪诞并置与精确写实描绘非理性场景。",
@@ -1669,7 +1933,60 @@
         "一图": "示意图以超现实主义为中心，展示梦境意象与怪诞并置的写实手法，并关联达达主义。",
         "待核实": "材料未提供具体作品名称、创作年份与收藏地，待补充第二来源后再行补写。"
       },
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='超现实主义 示意图'><title>超现实主义</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>超现实主义</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>欧洲</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>梦境意象</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>潜意识</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>怪诞并置</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>精确写实</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>达达主义</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>超现实主义以怪诞并置与精确写实描绘非理性场景</text></g></svg>"
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='超现实主义 示意图'><title>超现实主义</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>超现实主义</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>欧洲</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>梦境意象</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>潜意识</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>怪诞并置</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>精确写实</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>达达主义</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>超现实主义以怪诞并置与精确写实描绘非理性场景</text></g></svg>",
+      "l3": {
+        "controversies": [
+          {
+            "issue": "超现实主义的分期起止与运动边界如何划定",
+            "views": [
+              {
+                "holder": "所引来源页",
+                "basis": "记载活动时间为约1924—1966年，并指出学界主要讨论其分期与边界问题。"
+              },
+              {
+                "holder": "通说",
+                "basis": "从相关条目看，超现实主义与达达主义、抽象表现主义相关联，边界的划分因此存在讨论。"
+              }
+            ]
+          },
+          {
+            "issue": "具体作品名称、创作年份与收藏地的材料缺失",
+            "views": [
+              {
+                "holder": "所引来源页",
+                "basis": "材料未提供具体作品名称、创作年份与收藏地。"
+              },
+              {
+                "holder": "部分研究者",
+                "basis": "概述中以达利与马格利特为代表性人物，相关条目中的达达主义、抽象表现主义仅列标题以供参照，待补充第二来源后再行补写。"
+              }
+            ]
+          }
+        ],
+        "data": [
+          {
+            "label": "活动时间",
+            "value": "约1924—1966年",
+            "note": "来源:enc-surrealism"
+          },
+          {
+            "label": "主要呈现媒介",
+            "value": "绘画",
+            "note": "来源:enc-surrealism"
+          },
+          {
+            "label": "代表表现手法",
+            "value": "怪诞并置与精确写实",
+            "note": "来源:enc-surrealism"
+          },
+          {
+            "label": "相关运动",
+            "value": "达达主义、抽象表现主义",
+            "note": "来源:enc-dada"
+          }
+        ],
+        "complex_diagram_note": "可画一张以超现实主义为中心的辐射图，中心连出梦境意象、怪诞并置、精确写实三条表现支路，外围连接达达主义与抽象表现主义两个相关条目，并在时间轴上标出约1924—1966年的分期边界争议区间。"
+      }
     },
     {
       "id": "bauhaus",
@@ -1724,7 +2041,7 @@
         "enc-abstract-expressionism",
         "enc-surrealism"
       ],
-      "level": "L2",
+      "level": "L3",
       "sections": {
         "时代背景": "抽象表现主义是二战后兴起于美国的绘画运动，活动时间约1940s—1950s。它以美国为主要分布地区。",
         "风格特征": "抽象表现主义以大规模抽象画面与姿态性笔触为特征。它强调自发行动与潜意识表达。",
@@ -1734,7 +2051,60 @@
         "一图": "示意图以抽象表现主义为中心，展示滴画法与色彩场两种代表路径，并关联超现实主义与极简主义。",
         "待核实": "材料未提供具体作品名称、创作年份与收藏地，待补充第二来源后再行补写。"
       },
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='抽象表现主义 示意图'><title>抽象表现主义</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>抽象表现主义</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>美国</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>滴画法</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>波洛克</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>色彩场</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>罗斯科</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>极简主义</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>抽象表现主义强调自发行动与潜意识表达，以大规模抽象画面为代表</text></g></svg>"
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='抽象表现主义 示意图'><title>抽象表现主义</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>抽象表现主义</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>美国</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>滴画法</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>波洛克</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>色彩场</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>罗斯科</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>极简主义</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>抽象表现主义强调自发行动与潜意识表达，以大规模抽象画面为代表</text></g></svg>",
+      "l3": {
+        "controversies": [
+          {
+            "issue": "抽象表现主义的分期起止与运动边界如何划定",
+            "views": [
+              {
+                "holder": "所引来源页",
+                "basis": "记载活动时间为约1940s—1950s，是二战后兴起于美国的绘画运动，学界主要讨论其分期与边界问题。"
+              },
+              {
+                "holder": "部分研究者",
+                "basis": "从相关条目看，抽象表现主义与超现实主义、极简主义相关联，边界的划分因此存在讨论。"
+              }
+            ]
+          },
+          {
+            "issue": "具体作品名称、创作年份与收藏地的材料缺失",
+            "views": [
+              {
+                "holder": "所引来源页",
+                "basis": "材料未提供具体作品名称、创作年份与收藏地。"
+              },
+              {
+                "holder": "通说",
+                "basis": "概述中波洛克以滴画法、罗斯科以色彩场为代表，相关条目中的超现实主义、极简主义仅列标题以供参照，待补充第二来源后再行补写。"
+              }
+            ]
+          }
+        ],
+        "data": [
+          {
+            "label": "活动时间",
+            "value": "约1940s—1950s",
+            "note": "来源:enc-abstract-expressionism"
+          },
+          {
+            "label": "主要分布地区",
+            "value": "美国",
+            "note": "来源:enc-abstract-expressionism"
+          },
+          {
+            "label": "代表路径",
+            "value": "波洛克滴画法、罗斯科色彩场",
+            "note": "来源:enc-abstract-expressionism"
+          },
+          {
+            "label": "相关运动",
+            "value": "超现实主义、极简主义",
+            "note": "来源:enc-surrealism"
+          }
+        ],
+        "complex_diagram_note": "可画一张以抽象表现主义为中心的对照图，向下分出滴画法与色彩场两条技法路径，一侧连接超现实主义的潜意识表达来源，另一侧连接极简主义，并标注约1940s—1950s的分期边界争议。"
+      }
     },
     {
       "id": "picasso",
@@ -1923,7 +2293,7 @@
         "enc-contemporary-art",
         "web-artstory-movements"
       ],
-      "level": "L2",
+      "level": "L3",
       "sections": {
         "时代背景": "当代艺术指20世纪后半叶至今的艺术实践，时间约自1960年延续至今。它在全球范围内展开，带有显著的全球化特征。其媒介与议题高度多元，所属时期记为20世纪后半—今。",
         "风格特征": "当代艺术跨越绘画、装置、行为与数字媒介。它强调观念、语境与跨学科。其议题高度多元，全球化特征显著。波普艺术与观念艺术被列为相关条目。",
@@ -1933,7 +2303,60 @@
         "一图": "示意图以当代艺术为中心，展示其媒介跨越与波普艺术、观念艺术的关联。",
         "待核实": "波普艺术与观念艺术的具体代表人物及作品未在条目中出现，待补充第二来源。当代艺术的起始年份仅有约1960年的表述，精确分期待核实。数字媒介相关的具体作品与收藏信息同样缺失。"
       },
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='当代艺术 示意图'><title>当代艺术</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>当代艺术</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>约1960年—至今</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>波普艺术</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>相关条目</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>观念艺术</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>相关条目</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>当代艺术的媒介跨越与相关风格</text></g></svg>"
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='当代艺术 示意图'><title>当代艺术</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>当代艺术</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>约1960年—至今</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>波普艺术</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>相关条目</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>观念艺术</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>相关条目</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>当代艺术的媒介跨越与相关风格</text></g></svg>",
+      "l3": {
+        "controversies": [
+          {
+            "issue": "当代艺术的起始年份与精确分期",
+            "views": [
+              {
+                "holder": "所引来源页",
+                "basis": "起始年份仅有约1960年的表述，精确分期待核实。"
+              },
+              {
+                "holder": "通说",
+                "basis": "所属时期记为20世纪后半—今，时间约自1960年延续至今，学界主要讨论其分期与边界问题。"
+              }
+            ]
+          },
+          {
+            "issue": "当代艺术与波普艺术、观念艺术的边界及具体争论的缺席",
+            "views": [
+              {
+                "holder": "所引来源页",
+                "basis": "当代艺术与波普艺术、观念艺术相关联，后两者作为相关条目出现；现有条目未列出具体争论或学者观点。"
+              },
+              {
+                "holder": "部分研究者",
+                "basis": "波普艺术与观念艺术的具体代表人物及作品未在条目中出现，相关判断待补充第二来源。"
+              }
+            ]
+          }
+        ],
+        "data": [
+          {
+            "label": "起始时间",
+            "value": "约1960年—至今",
+            "note": "来源:enc-contemporary-art"
+          },
+          {
+            "label": "所属时期",
+            "value": "20世纪后半—今",
+            "note": "来源:enc-contemporary-art"
+          },
+          {
+            "label": "跨越媒介",
+            "value": "绘画、装置、行为与数字媒介",
+            "note": "来源:enc-contemporary-art"
+          },
+          {
+            "label": "文献来源",
+            "value": "Contemporary art与Classical and Modern Art Movements",
+            "note": "来源:web-artstory-movements"
+          }
+        ],
+        "complex_diagram_note": "可画一张以当代艺术为中心的多层网络图，内层铺开绘画、装置、行为、数字媒介四种跨越媒介，中层标注观念、语境、跨学科三个创作重心，外层连接波普艺术与观念艺术，并在时间轴起点标出约1960年精确分期的待核实处。"
+      }
     },
     {
       "id": "pop-art",
@@ -3033,7 +3456,7 @@
         "enc-opera",
         "enc-baroque-music"
       ],
-      "level": "L2",
+      "level": "L3",
       "sections": {
         "时代背景": "歌剧约于公元1597年诞生于佛罗伦萨，属于16世纪末出现的艺术形式。此后它延续发展至今，成为重要的舞台体裁。",
         "风格特征": "歌剧是以歌唱和音乐叙述戏剧的舞台艺术形式。它融合宣叙调、咏叹调、重唱与管弦乐等多种要素。",
@@ -3043,7 +3466,60 @@
         "一图": "示意图展示歌剧以歌唱叙述戏剧、并融合宣叙调与咏叹调等形式要素的结构。",
         "待核实": "《奥菲欧》以外的具体作品年份与收藏地未见于现有来源，待补充第二来源。"
       },
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='歌剧 示意图'><title>歌剧</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>歌剧</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1597至今</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>宣叙调</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>咏叹调</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>重唱</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>管弦乐</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>奥菲欧</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>早期杰作</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>歌剧以歌唱与音乐叙述戏剧，融合宣叙调、咏叹调等形式。</text></g></svg>"
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='歌剧 示意图'><title>歌剧</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>歌剧</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1597至今</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>宣叙调</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>咏叹调</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>重唱</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>管弦乐</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>奥菲欧</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>早期杰作</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>歌剧以歌唱与音乐叙述戏剧，融合宣叙调、咏叹调等形式。</text></g></svg>",
+      "l3": {
+        "controversies": [
+          {
+            "issue": "歌剧自身的分期与边界问题（‘与前后风格的关系和争论’节提出的真实争论）",
+            "views": [
+              {
+                "holder": "通说",
+                "basis": "歌剧约于公元1597年诞生于佛罗伦萨，此后延续发展至今，属于16世纪末出现的艺术形式。"
+              },
+              {
+                "holder": "部分研究者",
+                "basis": "歌剧与巴洛克音乐及蒙特威尔第密切相关，相关记载较为一致，学界主要讨论歌剧自身的分期与边界问题。"
+              }
+            ]
+          },
+          {
+            "issue": "《奥菲欧》以外具体作品年份与收藏地的核实问题（‘待核实’节所列）",
+            "views": [
+              {
+                "holder": "所引来源页",
+                "basis": "蒙特威尔第的《奥菲欧》被视为歌剧的早期杰作，现有来源仅点明此一部作品。"
+              },
+              {
+                "holder": "批评者",
+                "basis": "《奥菲欧》以外的具体作品年份与收藏地未见于现有来源，待补充第二来源。"
+              }
+            ]
+          }
+        ],
+        "data": [
+          {
+            "label": "诞生时间",
+            "value": "约公元1597年—至今",
+            "note": "来源:enc-opera"
+          },
+          {
+            "label": "诞生地",
+            "value": "佛罗伦萨",
+            "note": "来源:enc-opera"
+          },
+          {
+            "label": "早期杰作",
+            "value": "蒙特威尔第《奥菲欧》",
+            "note": "来源:enc-opera"
+          },
+          {
+            "label": "形式要素",
+            "value": "宣叙调、咏叹调、重唱与管弦乐",
+            "note": "来源:enc-baroque-music"
+          }
+        ],
+        "complex_diagram_note": "可画一张以时间轴为横轴、以宣叙调/咏叹调/重唱/管弦乐四种形式为分层纵轴的歌剧结构示意图，并标出1597年佛罗伦萨起点与《奥菲欧》节点。"
+      }
     },
     {
       "id": "tonality",
@@ -3759,7 +4235,7 @@
         "enc-stravinsky",
         "enc-20th-century-classical"
       ],
-      "level": "L2",
+      "level": "L3",
       "sections": {
         "时代背景": "斯特拉文斯基活动于20世纪，地区标注为俄国/美国。输入给出的生平时间为1882—1971年。相关条目将他置于20世纪古典音乐与序列主义的关联中。",
         "风格特征": "斯特拉文斯基是俄裔作曲家，以节奏革新与风格多变著称。概述强调其强烈节奏与不协和音响。输入还说明其后期转向新古典主义。",
@@ -3769,7 +4245,60 @@
         "一图": "示意图以节奏革新、不协和音响、新古典主义及两部代表作呈现斯特拉文斯基的风格线索。",
         "待核实": "输入未给出《春之祭》《彼得鲁什卡》的创作年份、首演信息或收藏地。关于其不协和音响与新古典主义转向的进一步论证，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
       },
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='斯特拉文斯基 示意图'><title>斯特拉文斯基</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>斯特拉文斯基</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>俄国/美国</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>节奏革新</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>风格多变</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>《春之祭》</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>代表作</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>《彼得鲁什卡》</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>代表作</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>节奏革新 不协和音响 新古典主义</text></g></svg>"
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='斯特拉文斯基 示意图'><title>斯特拉文斯基</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>斯特拉文斯基</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>俄国/美国</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>节奏革新</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>风格多变</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>《春之祭》</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>代表作</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>《彼得鲁什卡》</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>代表作</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>节奏革新 不协和音响 新古典主义</text></g></svg>",
+      "l3": {
+        "controversies": [
+          {
+            "issue": "斯特拉文斯基的风格分期/边界问题（‘与前后风格的关系和争论’节提出的真实争论）",
+            "views": [
+              {
+                "holder": "通说",
+                "basis": "斯特拉文斯基以节奏革新与风格多变著称，概述强调其强烈节奏与不协和音响。"
+              },
+              {
+                "holder": "部分研究者",
+                "basis": "输入说明其后期转向新古典主义，20世纪古典音乐与序列主义均列为相关条目，学界主要讨论其风格分期/边界问题。"
+              }
+            ]
+          },
+          {
+            "issue": "《春之祭》《彼得鲁什卡》创作年份、首演与收藏地以及新古典主义转向论证的核实问题（‘待核实’节所列）",
+            "views": [
+              {
+                "holder": "所引来源页",
+                "basis": "概述点名《春之祭》与《彼得鲁什卡》为其代表作。"
+              },
+              {
+                "holder": "批评者",
+                "basis": "输入未给出《春之祭》《彼得鲁什卡》的创作年份、首演信息或收藏地，关于其不协和音响与新古典主义转向的进一步论证待补充第二来源。"
+              }
+            ]
+          }
+        ],
+        "data": [
+          {
+            "label": "生平时间",
+            "value": "1882—1971年",
+            "note": "来源:enc-stravinsky"
+          },
+          {
+            "label": "活动地区",
+            "value": "俄国/美国",
+            "note": "来源:enc-stravinsky"
+          },
+          {
+            "label": "代表作",
+            "value": "《春之祭》《彼得鲁什卡》",
+            "note": "来源:enc-stravinsky"
+          },
+          {
+            "label": "相关条目",
+            "value": "20世纪古典音乐、序列主义",
+            "note": "来源:enc-20th-century-classical"
+          }
+        ],
+        "complex_diagram_note": "可画一张以时间轴串联《春之祭》《彼得鲁什卡》与后期新古典主义转向、并叠加强烈节奏与不协和音响两条风格线索的分期示意图。"
+      }
     },
     {
       "id": "schoenberg",
@@ -3791,7 +4320,7 @@
         "enc-schoenberg",
         "enc-serialism"
       ],
-      "level": "L2",
+      "level": "L3",
       "sections": {
         "时代背景": "勋伯格活动于20世纪，地区标注为奥地利/美国。输入给出的生平时间为1874—1951年。相关条目将他与序列主义及20世纪古典音乐联系起来。",
         "风格特征": "勋伯格是奥地利裔作曲家，被视为十二音技法与表现主义音乐的开创者。概述强调其以无调性与十二音体系重塑作曲逻辑。其风格特征在输入中主要围绕十二音技法、表现主义音乐和无调性展开。",
@@ -3801,7 +4330,60 @@
         "一图": "示意图以十二音技法、表现主义音乐及两部代表作呈现勋伯格的作曲特征。",
         "待核实": "输入未给出《月光下的皮埃罗》《升华之夜》的创作年份、首演信息或收藏地。十二音技法与表现主义音乐的具体文本依据，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
       },
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='勋伯格 示意图'><title>勋伯格</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>勋伯格</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>奥地利/美国</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>十二音技法</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>表现主义音乐</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>《月光下的皮埃罗》</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>代表作</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>《升华之夜》</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>代表作</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>十二音技法 表现主义音乐 代表作</text></g></svg>"
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='勋伯格 示意图'><title>勋伯格</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>勋伯格</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>奥地利/美国</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>十二音技法</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>表现主义音乐</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>《月光下的皮埃罗》</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>代表作</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>《升华之夜》</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>代表作</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>十二音技法 表现主义音乐 代表作</text></g></svg>",
+      "l3": {
+        "controversies": [
+          {
+            "issue": "勋伯格的风格分期/边界问题（‘与前后风格的关系和争论’节提出的真实争论）",
+            "views": [
+              {
+                "holder": "通说",
+                "basis": "勋伯格被视为十二音技法与表现主义音乐的开创者，概述强调其以无调性与十二音体系重塑作曲逻辑。"
+              },
+              {
+                "holder": "部分研究者",
+                "basis": "序列主义与20世纪古典音乐均列为相关条目，这些条目将勋伯格置于20世纪音乐语境中，学界主要讨论其风格分期/边界问题。"
+              }
+            ]
+          },
+          {
+            "issue": "《月光下的皮埃罗》《升华之夜》年份与收藏地及十二音技法、表现主义音乐文本依据的核实问题（‘待核实’节所列）",
+            "views": [
+              {
+                "holder": "所引来源页",
+                "basis": "十二音技法是本条定义中的核心概念，无调性被概述为重塑作曲逻辑的重要手段，十二音体系与表现主义音乐身份并列出现。"
+              },
+              {
+                "holder": "批评者",
+                "basis": "输入未给出《月光下的皮埃罗》《升华之夜》的创作年份、首演信息或收藏地，十二音技法与表现主义音乐的具体文本依据待补充第二来源。"
+              }
+            ]
+          }
+        ],
+        "data": [
+          {
+            "label": "生平时间",
+            "value": "1874—1951年",
+            "note": "来源:enc-schoenberg"
+          },
+          {
+            "label": "活动地区",
+            "value": "奥地利/美国",
+            "note": "来源:enc-schoenberg"
+          },
+          {
+            "label": "代表作",
+            "value": "《月光下的皮埃罗》《升华之夜》",
+            "note": "来源:enc-schoenberg"
+          },
+          {
+            "label": "相关条目",
+            "value": "序列主义、20世纪古典音乐",
+            "note": "来源:enc-serialism"
+          }
+        ],
+        "complex_diagram_note": "可画一张以十二音技法为核心、无调性与表现主义音乐为两条分支、并由《月光下的皮埃罗》《升华之夜》向外连线的放射状关系示意图。"
+      }
     },
     {
       "id": "debussy",

@@ -131,3 +131,12 @@
 ### P1 L3 再升级（4-6个有真实争议的核心条目）
 - 候选：renaissance（断代下限）、baroque（术语起源）、contemporary-art（下限）、post-impressionism（分类）、cubism（创始争议）、schoenberg（无调性争议）
 ### P2 B5 剩余5项 / P3 覆盖矩阵150空格 / P4 B4作品档案 / P5 B6动态
+
+## Cycle 5 完成记录（体检轮 F，2026-11-22）
+- 体检 F 六维全通过：死链0 / 过期数据0（3个"现存/截至"为误报）/ 重复0 / 数据矛盾0 / 孤儿0 / 来源文本重合0（5条抽样）。
+- B6 最后回溯：frankfurt-rmu 可达但属项目公告且日期异常未采纳；其余4条仍不可达/404（已记 BLOCKERS）。
+- B7：44个核心条目仍 L2 → 本轮选12个有真实争议者升 L3。
+- 来源重合度抽样报告见 reports/overlap_c5.json。
+
+## Cycle 5 执行队列
+1-12. L3升级12个核心条目（renaissance/baroque/neoclassicism/romanticism-art/contemporary-art/post-impressionism/surrealism/stravinsky/schoenberg/abstract-expressionism/cubism/opera），争议须真实、holder用泛称、data用已有数字。
