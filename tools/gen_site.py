@@ -240,14 +240,29 @@ def render_pending(text):
     out.append("</div>")
     return "".join(out)
 
+def source_profile(e):
+    """统计条目来源构成：content=内容来源, fact=结构化事实, anchor=身份锚点。"""
+    n={"content":0,"fact":0,"anchor":0,"missing":0}
+    for sid in e.get("sources",[]):
+        s=SM.get(sid)
+        if not s: n["missing"]+=1; continue
+        t=str(s.get("type",""))
+        if "身份锚点" in t: n["anchor"]+=1
+        elif "结构化数据" in t: n["fact"]+=1
+        else: n["content"]+=1
+    return n
+
 def build_entry(e,entries):
     byid={x["id"]:x for x in entries}
     s=[head(e["title"])]
     s.append("<div class='wrap'><div class='breadcrumb'><a href='%sindex.html'>首页</a> / "
         "<a href='%sall-index.html#%s'>%s</a> / %s</div>"%(REL,REL,esc(e["unit"]),esc(UNITS.get(e["unit"],e["unit"])),esc(e["title"])))
     s.append("<div class='entry-head'><h1>%s</h1><div class='entry-tags'>%s%s<span class='tag'>%s</span>"
-        "<span class='tag'>%s</span><span class='tag'>%s</span></div></div>"%(
-        esc(e["title"]),depth_badge(e),tier_badge(e),esc(e["kind"]),esc(e["era"]),esc(e["region"])))
+        "<span class='tag'>%s</span><span class='tag'>%s</span>%s</div></div>"%(
+        esc(e["title"]),depth_badge(e),tier_badge(e),esc(e["kind"]),esc(e["era"]),esc(e["region"]),
+        "<span class='tag'>%d 来源：内容 %d · 结构化 %d · 锚点 %d</span>"%(
+            sum(source_profile(e)[k] for k in ("content","fact","anchor")),
+            source_profile(e)["content"],source_profile(e)["fact"],source_profile(e)["anchor"])))
     lv=e.get("level","L1")
     if lv=="L1":
         s.append("<div class='section-block'><h2><span class='num'>01</span>定义</h2><p>%s</p></div>"%esc(e["def"]))

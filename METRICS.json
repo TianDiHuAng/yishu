@@ -924,6 +924,29 @@
       "check_links_result": "broken=0(176页)",
       "audit_all": "8/8 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle35",
+      "date": "2026-11-22",
+      "status": "completed",
+      "gap_methods": [
+        "站点信息增强"
+      ],
+      "network": "probe: wiki/met/tate 000; wikidata 200",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 145,
+      "fixes": 0,
+      "ui_change": "条目页新增来源构成徽标（内容/结构化/锚点）",
+      "badge_distribution": {
+        "content+anchor": 77,
+        "content+structured": 41,
+        "content_only": 27
+      },
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(176页)",
+      "audit_all": "8/8 ok",
+      "commits": 1
     }
   ]
 }
