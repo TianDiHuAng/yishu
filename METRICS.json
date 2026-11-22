@@ -270,6 +270,30 @@
       "check_links_result": "broken=0(171页)",
       "new_sources": 0,
       "commits": 1
+    },
+    {
+      "cycle": "cycle11",
+      "date": "2026-11-22",
+      "status": "completed",
+      "gap_methods": [
+        "内容自洽性复审(本地)"
+      ],
+      "network": "degraded(probe timeout, 5th round)",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 43,
+      "fixes": 16,
+      "consistency_audit": {
+        "claim_vs_pending": 0,
+        "svg_digits": 0,
+        "review_mark_in_body": 0,
+        "empty_pending": 0
+      },
+      "fix_detail": "15条加状态说明（原待核与已复核并存）+ starry-night 措辞修正；审计规则经3次收紧去除误报",
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(171页)",
+      "new_sources": 0,
+      "commits": 1
     }
   ]
 }

@@ -32,6 +32,9 @@ python tools/check.py          # 质量守门员（须 errors=0）
 python tools/gen_site.py       # 渲染静态站点
 python tools/check_links.py    # 站内链接核验（须 broken=0）
 python tools/build_report.py   # 刷新 REPORT.md
+python tools/link_audit.py         # 关联图审计（跨域/单向/入链分布）→ reports/link_audit.json
+python tools/consistency_audit.py  # 内容自洽性审计（正文与"待核实"是否矛盾等）→ reports/consistency_audit.json
+python tools/healthcheck_c10.py    # 九维站体检（死链/重复/矛盾/孤儿/锚点/sitemap/对比度等）
 ```
 
 来源核验（联网）：`python tools/build_sources.py` 然后 `python tools/reverify_sources.py`。
