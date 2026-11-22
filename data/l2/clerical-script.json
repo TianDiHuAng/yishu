@@ -16,5 +16,10 @@
  "sources": [
   "enc-chinese-calligraphy",
   "enc-clerical-script"
+ ],
+ "related": [
+  "seal-script",
+  "regular-script",
+  "china-calligraphy-history"
  ]
 }

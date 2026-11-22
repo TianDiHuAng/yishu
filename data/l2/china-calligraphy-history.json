@@ -14,5 +14,11 @@
  "sources": [
   "enc-chinese-calligraphy",
   "enc-chinese-painting"
+ ],
+ "related": [
+  "seal-script",
+  "clerical-script",
+  "cursive-script",
+  "zen-painting"
  ]
 }

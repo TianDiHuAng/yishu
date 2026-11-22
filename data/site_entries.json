@@ -238,7 +238,8 @@
       "overview": "以混凝土拱券与穹顶技术、写实肖像与历史叙事浮雕见长，万神殿为其建筑代表。",
       "related": [
         "greek-art",
-        "byzantine-art"
+        "byzantine-art",
+        "egyptian-art"
       ],
       "sources": [
         "enc-roman-art",
@@ -272,7 +273,8 @@
       "overview": "强调金色背景与平面化人物，圣像具有神学象征功能，圣索菲亚大教堂代表其建筑成就。",
       "related": [
         "early-christian-art",
-        "romanesque"
+        "romanesque",
+        "roman-art"
       ],
       "sources": [
         "enc-byzantine-art",
@@ -543,7 +545,9 @@
         "mannerism",
         "michelangelo",
         "raphael",
-        "sistine-ceiling-work"
+        "sistine-ceiling-work",
+        "leonardo",
+        "mona-lisa"
       ],
       "sources": [
         "enc-high-renaissance",
@@ -642,7 +646,9 @@
         "high-renaissance",
         "baroque",
         "northern-renaissance",
-        "michelangelo"
+        "michelangelo",
+        "renaissance",
+        "venetian-school"
       ],
       "sources": [
         "enc-mannerism",
@@ -875,7 +881,8 @@
         "caravaggio",
         "rubens",
         "velazquez",
-        "baroque-crossmedia"
+        "baroque-crossmedia",
+        "rembrandt"
       ],
       "sources": [
         "enc-baroque",
@@ -1218,7 +1225,8 @@
       "overview": "反对浪漫化的历史与神话题材，主张客观描绘当下社会现实；库尔贝为代表。",
       "related": [
         "romanticism-art",
-        "impressionism"
+        "impressionism",
+        "vermeer"
       ],
       "sources": [
         "enc-realism-art",
@@ -1286,7 +1294,8 @@
         "post-impressionism",
         "velazquez",
         "monet",
-        "impression-crossmedia"
+        "impression-crossmedia",
+        "ukiyo-e"
       ],
       "sources": [
         "enc-impressionism",
@@ -1381,7 +1390,9 @@
         "monet",
         "van-gogh",
         "gauguin",
-        "starry-night"
+        "starry-night",
+        "cezanne",
+        "modern-art"
       ],
       "sources": [
         "enc-post-impressionism",
@@ -1823,7 +1834,10 @@
       "related": [
         "surrealism",
         "minimalism",
-        "kandinsky"
+        "kandinsky",
+        "expressionism",
+        "modern-art",
+        "pop-art"
       ],
       "sources": [
         "enc-abstract-expressionism",
@@ -2186,7 +2200,11 @@
       "related": [
         "tang-painting",
         "song-painting",
-        "yangshao-painted-pottery"
+        "yangshao-painted-pottery",
+        "qing-painting",
+        "xieyi",
+        "gongbi",
+        "chinese-jade-art"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -2218,7 +2236,9 @@
       "overview": "吴道子以线描著称，阎立本擅人物，青绿山水与水墨山水并行发展。",
       "related": [
         "china-painting-history",
-        "song-painting"
+        "song-painting",
+        "dunhuang-art",
+        "six-dynasties-art"
       ],
       "sources": [
         "enc-tang-dynasty-art",
@@ -2250,7 +2270,8 @@
       "overview": "郭熙、范宽等建立全景山水范式，苏轼等提倡文人画，强调意境与笔墨。",
       "related": [
         "tang-painting",
-        "yuan-painting"
+        "yuan-painting",
+        "china-painting-history"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -2570,7 +2591,8 @@
       "overview": "此期石窟开凿与佛教造像兴盛，顾恺之等画家与画论著作出现，为隋唐艺术的繁荣奠定基础。",
       "related": [
         "dunhuang-art",
-        "tang-painting"
+        "tang-painting",
+        "shang-zhou-bronzes"
       ],
       "sources": [
         "enc-six-dynasties",
@@ -2602,7 +2624,9 @@
       "overview": "书法与文字演变、文人传统密切相关，讲究笔法、结构与章法，兼具实用与审美。",
       "related": [
         "seal-script",
-        "clerical-script"
+        "clerical-script",
+        "cursive-script",
+        "zen-painting"
       ],
       "sources": [
         "enc-chinese-calligraphy",
@@ -2666,7 +2690,8 @@
       "overview": "由篆书简化而来，是汉字由古文字向今文字转变的关键；笔画形态术语待核。",
       "related": [
         "seal-script",
-        "regular-script"
+        "regular-script",
+        "china-calligraphy-history"
       ],
       "sources": [
         "enc-chinese-calligraphy",
@@ -2795,7 +2820,8 @@
       "overview": "格里高利圣咏为代表性单声部传统，晚期出现奥尔加农与经文歌等复调形式。",
       "related": [
         "gregorian-chant",
-        "polyphony"
+        "polyphony",
+        "renaissance-music"
       ],
       "sources": [
         "enc-medieval-music",
@@ -2832,7 +2858,8 @@
         "medieval-music",
         "polyphony",
         "music-notation",
-        "musical-mode"
+        "musical-mode",
+        "organum"
       ],
       "sources": [
         "enc-gregorian-chant",
@@ -2899,7 +2926,9 @@
       "related": [
         "organum",
         "renaissance-music",
-        "music-notation"
+        "music-notation",
+        "medieval-music",
+        "gregorian-chant"
       ],
       "sources": [
         "enc-polyphony",
@@ -2935,7 +2964,8 @@
         "baroque-music",
         "madrigal",
         "palestrina",
-        "renaissance-crossmedia"
+        "renaissance-crossmedia",
+        "polyphony"
       ],
       "sources": [
         "enc-renaissance-music",
@@ -3036,7 +3066,12 @@
         "palestrina",
         "tonality",
         "baroque-crossmedia",
-        "violin"
+        "violin",
+        "opera",
+        "fugue",
+        "sonata",
+        "bach",
+        "monteverdi"
       ],
       "sources": [
         "enc-baroque-music",
@@ -3332,7 +3367,10 @@
         "tonality",
         "sonata-form",
         "haydn",
-        "mozart"
+        "mozart",
+        "sonata",
+        "symphony",
+        "beethoven"
       ],
       "sources": [
         "enc-classical-period-music",
@@ -3494,7 +3532,8 @@
       "overview": "九部交响曲与《月光》《热情》等奏鸣曲拓展了结构规模与情感张力，晚期转向浪漫语汇。",
       "related": [
         "classical-period-music",
-        "romantic-music"
+        "romantic-music",
+        "symphony"
       ],
       "sources": [
         "enc-beethoven",
@@ -3530,7 +3569,11 @@
         "symphonic-poem",
         "chopin",
         "wagner",
-        "romantic-crossmedia"
+        "romantic-crossmedia",
+        "beethoven",
+        "lied",
+        "schubert",
+        "impressionism-music"
       ],
       "sources": [
         "enc-romantic-music",
@@ -3728,7 +3771,9 @@
         "minimalism-music",
         "stravinsky",
         "debussy",
-        "rite-of-spring-work"
+        "rite-of-spring-work",
+        "impressionism-music",
+        "schoenberg"
       ],
       "sources": [
         "enc-20th-century-classical",
@@ -3959,7 +4004,8 @@
         "guzheng",
         "jingju",
         "pipa",
-        "wuwangdu-chu-music-archaeology"
+        "wuwangdu-chu-music-archaeology",
+        "yayue"
       ],
       "sources": [
         "enc-chinese-music",
@@ -4630,7 +4676,8 @@
       "overview": "佛像雕刻在犍陀罗与马图拉等地发展，阿旃陀石窟壁画保存了杰出的佛教绘画遗存，并随佛教传播影响亚洲各地。",
       "related": [
         "indian-art",
-        "ajanta-caves"
+        "ajanta-caves",
+        "khmer-art"
       ],
       "sources": [
         "enc-buddhist-art-india",

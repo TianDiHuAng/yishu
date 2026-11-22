@@ -18,5 +18,10 @@
   "enc-greek-art",
   "enc-pantheon-rome",
   "enc-fall-western-roman-empire"
+ ],
+ "related": [
+  "greek-art",
+  "byzantine-art",
+  "egyptian-art"
  ]
 }

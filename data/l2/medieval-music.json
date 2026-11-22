@@ -17,5 +17,10 @@
   "enc-perotin",
   "enc-organum",
   "enc-machaut"
+ ],
+ "related": [
+  "gregorian-chant",
+  "polyphony",
+  "renaissance-music"
  ]
 }

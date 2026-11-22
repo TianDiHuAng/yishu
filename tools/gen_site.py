@@ -194,6 +194,13 @@ def build_index(entries,units,cov):
     s.append(FOOT)
     open(os.path.join(OUT,"index.html"),"w",encoding="utf-8").write("".join(s))
 
+def _era_key(e):
+    import re
+    m=re.search(r"(\d{1,5})",e.get("when",""))
+    if not m: return (2,0)
+    v=int(m.group(1))
+    return (0,-v) if "前" in e.get("when","")[:m.end()+2] else (0,v)
+
 def build_entry(e,entries):
     byid={x["id"]:x for x in entries}
     s=[head(e["title"])]
@@ -252,6 +259,17 @@ def build_entry(e,entries):
             for r in e["related"]:
                 if r in byid: s.append("<li><a href='%s.html'>%s</a></li>"%(esc(r),esc(byid[r]["title"])))
             s.append("</ul></div>")
+    # 同单元前后条目（按年代先后）
+    sib=sorted([x for x in entries if x["unit"]==e["unit"]],key=_era_key)
+    idx=[x["id"] for x in sib].index(e["id"]) if e["id"] in [x["id"] for x in sib] else -1
+    if idx>=0 and len(sib)>1:
+        prev=sib[idx-1] if idx>0 else None
+        nxt=sib[idx+1] if idx<len(sib)-1 else None
+        s.append("<div class='section-block'><h2>同单元前后条目</h2><ul class='rel-list'>")
+        if prev: s.append("<li>← <a href='%s.html'>%s</a></li>"%(esc(prev["id"]),esc(prev["title"])))
+        s.append("<li><a href='%sunits/%s.html'>%s（单元总览）</a></li>"%(REL,esc(e["unit"]),esc(UNITS.get(e["unit"],e["unit"]))))
+        if nxt: s.append("<li><a href='%s.html'>%s</a> →</li>"%(esc(nxt["id"]),esc(nxt["title"])))
+        s.append("</ul></div>")
     # 反向引用（谁引用了本条目）
     inb=[x for x in entries if e["id"] in x.get("related",[])]
     if inb:
