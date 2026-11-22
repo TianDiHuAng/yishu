@@ -1,0 +1,868 @@
+{
+ "all_blank": 154,
+ "A": 58,
+ "B1": 129,
+ "B2": 22,
+ "B2_items": [
+  [
+   "东亚",
+   "音乐体裁"
+  ],
+  [
+   "东南亚",
+   "音乐体裁"
+  ],
+  [
+   "东罗马",
+   "音乐体裁"
+  ],
+  [
+   "佛兰德斯",
+   "音乐体裁"
+  ],
+  [
+   "俄国/德国",
+   "音乐体裁"
+  ],
+  [
+   "北欧",
+   "音乐体裁"
+  ],
+  [
+   "南亚",
+   "音乐体裁"
+  ],
+  [
+   "地中海",
+   "音乐体裁"
+  ],
+  [
+   "埃及",
+   "音乐体裁"
+  ],
+  [
+   "希腊",
+   "音乐体裁"
+  ],
+  [
+   "德国及北欧",
+   "音乐体裁"
+  ],
+  [
+   "意大利及欧洲",
+   "音乐体裁"
+  ],
+  [
+   "日本",
+   "音乐体裁"
+  ],
+  [
+   "欧洲/美国",
+   "音乐体裁"
+  ],
+  [
+   "法国及欧洲",
+   "音乐体裁"
+  ],
+  [
+   "罗马",
+   "音乐体裁"
+  ],
+  [
+   "英美",
+   "音乐体裁"
+  ],
+  [
+   "荷兰",
+   "音乐体裁"
+  ],
+  [
+   "荷兰/法国",
+   "音乐体裁"
+  ],
+  [
+   "西欧",
+   "音乐体裁"
+  ],
+  [
+   "西班牙",
+   "音乐体裁"
+  ],
+  [
+   "西班牙/法国",
+   "音乐体裁"
+  ]
+ ],
+ "detail": [
+  {
+   "region": "东亚",
+   "medium": "建筑",
+   "class": "B1"
+  },
+  {
+   "region": "东亚",
+   "medium": "绘画",
+   "class": "B1"
+  },
+  {
+   "region": "东亚",
+   "medium": "雕塑",
+   "class": "B1"
+  },
+  {
+   "region": "东亚",
+   "medium": "音乐体裁",
+   "class": "B2"
+  },
+  {
+   "region": "东南亚",
+   "medium": "书法",
+   "class": "A"
+  },
+  {
+   "region": "东南亚",
+   "medium": "绘画",
+   "class": "B1"
+  },
+  {
+   "region": "东南亚",
+   "medium": "综合",
+   "class": "B1"
+  },
+  {
+   "region": "东南亚",
+   "medium": "音乐体裁",
+   "class": "B2"
+  },
+  {
+   "region": "东罗马",
+   "medium": "书法",
+   "class": "B1"
+  },
+  {
+   "region": "东罗马",
+   "medium": "综合",
+   "class": "B1"
+  },
+  {
+   "region": "东罗马",
+   "medium": "雕塑",
+   "class": "B1"
+  },
+  {
+   "region": "东罗马",
+   "medium": "音乐体裁",
+   "class": "B2"
+  },
+  {
+   "region": "中国",
+   "medium": "建筑",
+   "class": "B1"
+  },
+  {
+   "region": "中国",
+   "medium": "综合",
+   "class": "B1"
+  },
+  {
+   "region": "佛兰德斯",
+   "medium": "书法",
+   "class": "B1"
+  },
+  {
+   "region": "佛兰德斯",
+   "medium": "建筑",
+   "class": "B1"
+  },
+  {
+   "region": "佛兰德斯",
+   "medium": "综合",
+   "class": "B1"
+  },
+  {
+   "region": "佛兰德斯",
+   "medium": "雕塑",
+   "class": "B1"
+  },
+  {
+   "region": "佛兰德斯",
+   "medium": "音乐体裁",
+   "class": "B2"
+  },
+  {
+   "region": "俄国/德国",
+   "medium": "书法",
+   "class": "B1"
+  },
+  {
+   "region": "俄国/德国",
+   "medium": "建筑",
+   "class": "B1"
+  },
+  {
+   "region": "俄国/德国",
+   "medium": "综合",
+   "class": "B1"
+  },
+  {
+   "region": "俄国/德国",
+   "medium": "雕塑",
+   "class": "B1"
+  },
+  {
+   "region": "俄国/德国",
+   "medium": "音乐体裁",
+   "class": "B2"
+  },
+  {
+   "region": "俄国/法国",
+   "medium": "书法",
+   "class": "B1"
+  },
+  {
+   "region": "俄国/法国",
+   "medium": "建筑",
+   "class": "B1"
+  },
+  {
+   "region": "俄国/法国",
+   "medium": "绘画",
+   "class": "B1"
+  },
+  {
+   "region": "俄国/法国",
+   "medium": "综合",
+   "class": "B1"
+  },
+  {
+   "region": "俄国/法国",
+   "medium": "雕塑",
+   "class": "B1"
+  },
+  {
+   "region": "俄国/美国",
+   "medium": "书法",
+   "class": "B1"
+  },
+  {
+   "region": "俄国/美国",
+   "medium": "建筑",
+   "class": "B1"
+  },
+  {
+   "region": "俄国/美国",
+   "medium": "绘画",
+   "class": "B1"
+  },
+  {
+   "region": "俄国/美国",
+   "medium": "综合",
+   "class": "B1"
+  },
+  {
+   "region": "俄国/美国",
+   "medium": "雕塑",
+   "class": "B1"
+  },
+  {
+   "region": "全球",
+   "medium": "书法",
+   "class": "B1"
+  },
+  {
+   "region": "全球",
+   "medium": "建筑",
+   "class": "B1"
+  },
+  {
+   "region": "全球",
+   "medium": "绘画",
+   "class": "B1"
+  },
+  {
+   "region": "全球",
+   "medium": "雕塑",
+   "class": "B1"
+  },
+  {
+   "region": "北欧",
+   "medium": "书法",
+   "class": "B1"
+  },
+  {
+   "region": "北欧",
+   "medium": "建筑",
+   "class": "B1"
+  },
+  {
+   "region": "北欧",
+   "medium": "综合",
+   "class": "B1"
+  },
+  {
+   "region": "北欧",
+   "medium": "雕塑",
+   "class": "B1"
+  },
+  {
+   "region": "北欧",
+   "medium": "音乐体裁",
+   "class": "B2"
+  },
+  {
+   "region": "南亚",
+   "medium": "书法",
+   "class": "A"
+  },
+  {
+   "region": "南亚",
+   "medium": "建筑",
+   "class": "B1"
+  },
+  {
+   "region": "南亚",
+   "medium": "音乐体裁",
+   "class": "B2"
+  },
+  {
+   "region": "地中海",
+   "medium": "书法",
+   "class": "B1"
+  },
+  {
+   "region": "地中海",
+   "medium": "建筑",
+   "class": "B1"
+  },
+  {
+   "region": "地中海",
+   "medium": "绘画",
+   "class": "B1"
+  },
+  {
+   "region": "地中海",
+   "medium": "雕塑",
+   "class": "B1"
+  },
+  {
+   "region": "地中海",
+   "medium": "音乐体裁",
+   "class": "B2"
+  },
+  {
+   "region": "埃及",
+   "medium": "书法",
+   "class": "B1"
+  },
+  {
+   "region": "埃及",
+   "medium": "建筑",
+   "class": "B1"
+  },
+  {
+   "region": "埃及",
+   "medium": "绘画",
+   "class": "B1"
+  },
+  {
+   "region": "埃及",
+   "medium": "雕塑",
+   "class": "B1"
+  },
+  {
+   "region": "埃及",
+   "medium": "音乐体裁",
+   "class": "B2"
+  },
+  {
+   "region": "奥地利",
+   "medium": "书法",
+   "class": "B1"
+  },
+  {
+   "region": "奥地利",
+   "medium": "建筑",
+   "class": "B1"
+  },
+  {
+   "region": "奥地利",
+   "medium": "绘画",
+   "class": "B1"
+  },
+  {
+   "region": "奥地利",
+   "medium": "综合",
+   "class": "B1"
+  },
+  {
+   "region": "奥地利",
+   "medium": "雕塑",
+   "class": "B1"
+  },
+  {
+   "region": "奥地利/美国",
+   "medium": "书法",
+   "class": "B1"
+  },
+  {
+   "region": "奥地利/美国",
+   "medium": "建筑",
+   "class": "B1"
+  },
+  {
+   "region": "奥地利/美国",
+   "medium": "绘画",
+   "class": "B1"
+  },
+  {
+   "region": "奥地利/美国",
+   "medium": "综合",
+   "class": "B1"
+  },
+  {
+   "region": "奥地利/美国",
+   "medium": "雕塑",
+   "class": "B1"
+  },
+  {
+   "region": "希腊",
+   "medium": "书法",
+   "class": "B1"
+  },
+  {
+   "region": "希腊",
+   "medium": "建筑",
+   "class": "B1"
+  },
+  {
+   "region": "希腊",
+   "medium": "绘画",
+   "class": "B1"
+  },
+  {
+   "region": "希腊",
+   "medium": "雕塑",
+   "class": "B1"
+  },
+  {
+   "region": "希腊",
+   "medium": "音乐体裁",
+   "class": "B2"
+  },
+  {
+   "region": "德国",
+   "medium": "书法",
+   "class": "B1"
+  },
+  {
+   "region": "德国",
+   "medium": "绘画",
+   "class": "B1"
+  },
+  {
+   "region": "德国",
+   "medium": "雕塑",
+   "class": "B1"
+  },
+  {
+   "region": "德国及北欧",
+   "medium": "书法",
+   "class": "B1"
+  },
+  {
+   "region": "德国及北欧",
+   "medium": "建筑",
+   "class": "B1"
+  },
+  {
+   "region": "德国及北欧",
+   "medium": "综合",
+   "class": "B1"
+  },
+  {
+   "region": "德国及北欧",
+   "medium": "雕塑",
+   "class": "B1"
+  },
+  {
+   "region": "德国及北欧",
+   "medium": "音乐体裁",
+   "class": "B2"
+  },
+  {
+   "region": "德语地区",
+   "medium": "书法",
+   "class": "B1"
+  },
+  {
+   "region": "德语地区",
+   "medium": "建筑",
+   "class": "B1"
+  },
+  {
+   "region": "德语地区",
+   "medium": "绘画",
+   "class": "B1"
+  },
+  {
+   "region": "德语地区",
+   "medium": "综合",
+   "class": "B1"
+  },
+  {
+   "region": "德语地区",
+   "medium": "雕塑",
+   "class": "B1"
+  },
+  {
+   "region": "意大利",
+   "medium": "书法",
+   "class": "B1"
+  },
+  {
+   "region": "意大利/英国",
+   "medium": "书法",
+   "class": "B1"
+  },
+  {
+   "region": "意大利/英国",
+   "medium": "建筑",
+   "class": "B1"
+  },
+  {
+   "region": "意大利/英国",
+   "medium": "绘画",
+   "class": "B1"
+  },
+  {
+   "region": "意大利/英国",
+   "medium": "综合",
+   "class": "B1"
+  },
+  {
+   "region": "意大利/英国",
+   "medium": "雕塑",
+   "class": "B1"
+  },
+  {
+   "region": "意大利及欧洲",
+   "medium": "书法",
+   "class": "B1"
+  },
+  {
+   "region": "意大利及欧洲",
+   "medium": "建筑",
+   "class": "B1"
+  },
+  {
+   "region": "意大利及欧洲",
+   "medium": "音乐体裁",
+   "class": "B2"
+  },
+  {
+   "region": "日本",
+   "medium": "书法",
+   "class": "A"
+  },
+  {
+   "region": "日本",
+   "medium": "建筑",
+   "class": "B1"
+  },
+  {
+   "region": "日本",
+   "medium": "综合",
+   "class": "B1"
+  },
+  {
+   "region": "日本",
+   "medium": "雕塑",
+   "class": "B1"
+  },
+  {
+   "region": "日本",
+   "medium": "音乐体裁",
+   "class": "B2"
+  },
+  {
+   "region": "欧洲",
+   "medium": "书法",
+   "class": "B1"
+  },
+  {
+   "region": "欧洲",
+   "medium": "建筑",
+   "class": "B1"
+  },
+  {
+   "region": "欧洲/美国",
+   "medium": "书法",
+   "class": "B1"
+  },
+  {
+   "region": "欧洲/美国",
+   "medium": "建筑",
+   "class": "B1"
+  },
+  {
+   "region": "欧洲/美国",
+   "medium": "绘画",
+   "class": "B1"
+  },
+  {
+   "region": "欧洲/美国",
+   "medium": "雕塑",
+   "class": "B1"
+  },
+  {
+   "region": "欧洲/美国",
+   "medium": "音乐体裁",
+   "class": "B2"
+  },
+  {
+   "region": "欧美",
+   "medium": "书法",
+   "class": "B1"
+  },
+  {
+   "region": "欧美",
+   "medium": "建筑",
+   "class": "B1"
+  },
+  {
+   "region": "欧美",
+   "medium": "雕塑",
+   "class": "B1"
+  },
+  {
+   "region": "法国",
+   "medium": "书法",
+   "class": "B1"
+  },
+  {
+   "region": "法国",
+   "medium": "建筑",
+   "class": "B1"
+  },
+  {
+   "region": "法国及欧洲",
+   "medium": "书法",
+   "class": "B1"
+  },
+  {
+   "region": "法国及欧洲",
+   "medium": "建筑",
+   "class": "B1"
+  },
+  {
+   "region": "法国及欧洲",
+   "medium": "综合",
+   "class": "B1"
+  },
+  {
+   "region": "法国及欧洲",
+   "medium": "雕塑",
+   "class": "B1"
+  },
+  {
+   "region": "法国及欧洲",
+   "medium": "音乐体裁",
+   "class": "B2"
+  },
+  {
+   "region": "波兰/法国",
+   "medium": "书法",
+   "class": "B1"
+  },
+  {
+   "region": "波兰/法国",
+   "medium": "建筑",
+   "class": "B1"
+  },
+  {
+   "region": "波兰/法国",
+   "medium": "绘画",
+   "class": "B1"
+  },
+  {
+   "region": "波兰/法国",
+   "medium": "综合",
+   "class": "B1"
+  },
+  {
+   "region": "波兰/法国",
+   "medium": "雕塑",
+   "class": "B1"
+  },
+  {
+   "region": "罗马",
+   "medium": "书法",
+   "class": "B1"
+  },
+  {
+   "region": "罗马",
+   "medium": "建筑",
+   "class": "B1"
+  },
+  {
+   "region": "罗马",
+   "medium": "绘画",
+   "class": "B1"
+  },
+  {
+   "region": "罗马",
+   "medium": "雕塑",
+   "class": "B1"
+  },
+  {
+   "region": "罗马",
+   "medium": "音乐体裁",
+   "class": "B2"
+  },
+  {
+   "region": "美国",
+   "medium": "书法",
+   "class": "B1"
+  },
+  {
+   "region": "美国",
+   "medium": "建筑",
+   "class": "B1"
+  },
+  {
+   "region": "英美",
+   "medium": "书法",
+   "class": "B1"
+  },
+  {
+   "region": "英美",
+   "medium": "建筑",
+   "class": "B1"
+  },
+  {
+   "region": "英美",
+   "medium": "雕塑",
+   "class": "B1"
+  },
+  {
+   "region": "英美",
+   "medium": "音乐体裁",
+   "class": "B2"
+  },
+  {
+   "region": "荷兰",
+   "medium": "书法",
+   "class": "B1"
+  },
+  {
+   "region": "荷兰",
+   "medium": "建筑",
+   "class": "B1"
+  },
+  {
+   "region": "荷兰",
+   "medium": "综合",
+   "class": "B1"
+  },
+  {
+   "region": "荷兰",
+   "medium": "雕塑",
+   "class": "B1"
+  },
+  {
+   "region": "荷兰",
+   "medium": "音乐体裁",
+   "class": "B2"
+  },
+  {
+   "region": "荷兰/法国",
+   "medium": "书法",
+   "class": "B1"
+  },
+  {
+   "region": "荷兰/法国",
+   "medium": "建筑",
+   "class": "B1"
+  },
+  {
+   "region": "荷兰/法国",
+   "medium": "综合",
+   "class": "B1"
+  },
+  {
+   "region": "荷兰/法国",
+   "medium": "雕塑",
+   "class": "B1"
+  },
+  {
+   "region": "荷兰/法国",
+   "medium": "音乐体裁",
+   "class": "B2"
+  },
+  {
+   "region": "西欧",
+   "medium": "书法",
+   "class": "B1"
+  },
+  {
+   "region": "西欧",
+   "medium": "绘画",
+   "class": "B1"
+  },
+  {
+   "region": "西欧",
+   "medium": "综合",
+   "class": "B1"
+  },
+  {
+   "region": "西欧",
+   "medium": "音乐体裁",
+   "class": "B2"
+  },
+  {
+   "region": "西班牙",
+   "medium": "书法",
+   "class": "B1"
+  },
+  {
+   "region": "西班牙",
+   "medium": "建筑",
+   "class": "B1"
+  },
+  {
+   "region": "西班牙",
+   "medium": "综合",
+   "class": "B1"
+  },
+  {
+   "region": "西班牙",
+   "medium": "雕塑",
+   "class": "B1"
+  },
+  {
+   "region": "西班牙",
+   "medium": "音乐体裁",
+   "class": "B2"
+  },
+  {
+   "region": "西班牙/法国",
+   "medium": "书法",
+   "class": "B1"
+  },
+  {
+   "region": "西班牙/法国",
+   "medium": "建筑",
+   "class": "B1"
+  },
+  {
+   "region": "西班牙/法国",
+   "medium": "综合",
+   "class": "B1"
+  },
+  {
+   "region": "西班牙/法国",
+   "medium": "音乐体裁",
+   "class": "B2"
+  }
+ ]
+}
