@@ -6,7 +6,7 @@
 ## 2. 本轮完成
 - 新增条目：**0** · 升级：**0** · 复核：**0** · 修复：**1**
 - 新增来源：**0**
-- 本轮特别说明：**网络能力精确定位**——可达站点为 github（200）、百度百科（200）、Khan Academy（200）、Britannica（403），不可达为 wikipedia/met/tate；但**可达站点全部返回反爬壳页**（百度 \ 4.7KB 无正文、Khan \ 3KB、Britannica Cloudflare），因此**仍无可用权威正文**，内容建设继续受阻。同时新增 \ 一键体检（check/链接/九维体检/内容自洽/关联图/单向关联 共6项，本轮 **6/6 通过**）。
+- 本轮特别说明：网络能力精确定位——可达站点为 github（200）、百度百科（200）、Khan Academy（200）、Britannica（403），不可达为 wikipedia/met/tate；但可达站点全部返回反爬壳页（百度返回 __PARIS_CHALLENGE__ 挑战页 4.7KB 无正文；Khan 返回 Client Challenge 3KB；Britannica 为 Cloudflare Just a moment），因此仍无可用权威正文，内容建设继续受阻。同时新增 tools/audit_all.py 一键体检（check/链接/九维体检/内容自洽/关联图/单向关联 共6项，本轮 6/6 通过）。
 
 ## 3. 累计
 - 总条目：**142** · 知识单元：**22**
