@@ -102,3 +102,25 @@ python tools/link_liveness_c24.py  # → reports/link_liveness_c24.json
 ## 七、一句话总结
 
 **这是一个"结构完成、来源受限"的知识库**：schema、校验器、生成器、审计工具、诚实标注体系全部就位并经反复验证（八步体检 8/8、来源活性 120/120、渲染与结构 0 异常）；内容覆盖面停在 145 条，不是写不动，而是**当前环境拿不到可核验的内容来源**。来源一旦可用，A 类 58 项与 B2 22 项可按既有流程直接补写，无需返工架构。
+---
+
+## 八、收尾验证记录（Cycle 39，最终）
+
+| 验证项 | 结果 | 证据 |
+|---|---|---|
+| 八步体检 | **8/8 通过** | `tools/audit_all.py` 输出 |
+| py_compile | 156 个工具全部可编译 | 同上 |
+| 硬规则 R1–R18 | **errors=0** | `tools/check.py` |
+| 站内链接 | 176 页，断链 **0** | `tools/check_links.py` |
+| 九维体检 | 死链/重复/矛盾/孤儿/锚点/sitemap/对比度 全通过 | `reports/healthcheck_c10.json` |
+| 内容自洽 | 0 问题 | `reports/consistency_audit.json` |
+| 关联图 | 430 链 · 单向 0 · 跨域 2（合法） | `reports/link_audit.json` |
+| 渲染一致性 + HTML 结构 | 0 不一致 / 0 未闭合 | `reports/pending_render_audit_c30.json` |
+| 来源活性 | **120 / 120 HTTP 200** | `reports/link_liveness_c24.json` |
+| 来源库不变式 | 279 条**全部 verified**；5 条隔离且无引用 | `data/sources_quarantine.json` |
+| 仓库状态 | 58 次提交 · 工作树干净 · 远端同步 | `git log` / `git status` |
+
+**结论**：TASK 阶段 0–5 全部达成，站点可离线阅读、可通过 `tools/audit_all.py` 一键复验。
+按 AUTONOMOUS §1.2/§5，本项目**不写 ALL_DONE**；`SATURATION.json` 的 `saturated=false`，
+原因是 A 类 58 / B2 22 / B5 5 / 未锚定 27 等缺口需**可核验内容来源**，而 Wikipedia、Met、Tate 在当前环境不可达。
+来源恢复后按第七节的 `next_actions_if_unblocked` 直接续写，架构无需改动。
