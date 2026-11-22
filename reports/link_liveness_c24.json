@@ -1,0 +1,539 @@
+{
+ "total": 76,
+ "ok": 76,
+ "failed": [],
+ "rows": [
+  {
+   "id": "wd-starry-night",
+   "url": "https://www.wikidata.org/wiki/Q45585",
+   "http": "200",
+   "ok": true,
+   "qid": "Q45585"
+  },
+  {
+   "id": "wd-birth-of-venus",
+   "url": "https://www.wikidata.org/wiki/Q151047",
+   "http": "200",
+   "ok": true,
+   "qid": "Q151047"
+  },
+  {
+   "id": "wd-sistine-ceiling",
+   "url": "https://www.wikidata.org/wiki/Q844675",
+   "http": "200",
+   "ok": true,
+   "qid": "Q844675"
+  },
+  {
+   "id": "wd-guernica",
+   "url": "https://www.wikidata.org/wiki/Q175036",
+   "http": "200",
+   "ok": true,
+   "qid": "Q175036"
+  },
+  {
+   "id": "wd-rite-of-spring",
+   "url": "https://www.wikidata.org/wiki/Q206015",
+   "http": "200",
+   "ok": true,
+   "qid": "Q206015"
+  },
+  {
+   "id": "wd-leonardo",
+   "url": "https://www.wikidata.org/wiki/Q762",
+   "http": "200",
+   "ok": true,
+   "qid": "Q762"
+  },
+  {
+   "id": "wd-donatello",
+   "url": "https://www.wikidata.org/wiki/Q37562",
+   "http": "200",
+   "ok": true,
+   "qid": "Q37562"
+  },
+  {
+   "id": "wd-vermeer",
+   "url": "https://www.wikidata.org/wiki/Q41264",
+   "http": "200",
+   "ok": true,
+   "qid": "Q41264"
+  },
+  {
+   "id": "wd-delacroix",
+   "url": "https://www.wikidata.org/wiki/Q33477",
+   "http": "200",
+   "ok": true,
+   "qid": "Q33477"
+  },
+  {
+   "id": "wd-monteverdi",
+   "url": "https://www.wikidata.org/wiki/Q53068",
+   "http": "200",
+   "ok": true,
+   "qid": "Q53068"
+  },
+  {
+   "id": "wd-monet",
+   "url": "https://www.wikidata.org/wiki/Q296",
+   "http": "200",
+   "ok": true,
+   "qid": "Q296"
+  },
+  {
+   "id": "wd-mona-lisa",
+   "url": "https://www.wikidata.org/wiki/Q12418",
+   "http": "200",
+   "ok": true,
+   "qid": "Q12418"
+  },
+  {
+   "id": "wd-michelangelo",
+   "url": "https://www.wikidata.org/wiki/Q5592",
+   "http": "200",
+   "ok": true,
+   "qid": "Q5592"
+  },
+  {
+   "id": "wd-raphael",
+   "url": "https://www.wikidata.org/wiki/Q5597",
+   "http": "200",
+   "ok": true,
+   "qid": "Q5597"
+  },
+  {
+   "id": "wd-botticelli",
+   "url": "https://www.wikidata.org/wiki/Q5669",
+   "http": "200",
+   "ok": true,
+   "qid": "Q5669"
+  },
+  {
+   "id": "wd-caravaggio",
+   "url": "https://www.wikidata.org/wiki/Q42207",
+   "http": "200",
+   "ok": true,
+   "qid": "Q42207"
+  },
+  {
+   "id": "wd-rembrandt",
+   "url": "https://www.wikidata.org/wiki/Q5598",
+   "http": "200",
+   "ok": true,
+   "qid": "Q5598"
+  },
+  {
+   "id": "wd-rubens",
+   "url": "https://www.wikidata.org/wiki/Q5599",
+   "http": "200",
+   "ok": true,
+   "qid": "Q5599"
+  },
+  {
+   "id": "wd-velazquez",
+   "url": "https://www.wikidata.org/wiki/Q297",
+   "http": "200",
+   "ok": true,
+   "qid": "Q297"
+  },
+  {
+   "id": "wd-van-gogh",
+   "url": "https://www.wikidata.org/wiki/Q5582",
+   "http": "200",
+   "ok": true,
+   "qid": "Q5582"
+  },
+  {
+   "id": "wd-cezanne",
+   "url": "https://www.wikidata.org/wiki/Q35548",
+   "http": "200",
+   "ok": true,
+   "qid": "Q35548"
+  },
+  {
+   "id": "wd-gauguin",
+   "url": "https://www.wikidata.org/wiki/Q37693",
+   "http": "200",
+   "ok": true,
+   "qid": "Q37693"
+  },
+  {
+   "id": "wd-picasso",
+   "url": "https://www.wikidata.org/wiki/Q5593",
+   "http": "200",
+   "ok": true,
+   "qid": "Q5593"
+  },
+  {
+   "id": "wd-matisse",
+   "url": "https://www.wikidata.org/wiki/Q5589",
+   "http": "200",
+   "ok": true,
+   "qid": "Q5589"
+  },
+  {
+   "id": "wd-kandinsky",
+   "url": "https://www.wikidata.org/wiki/Q61064",
+   "http": "200",
+   "ok": true,
+   "qid": "Q61064"
+  },
+  {
+   "id": "wd-dali",
+   "url": "https://www.wikidata.org/wiki/Q5577",
+   "http": "200",
+   "ok": true,
+   "qid": "Q5577"
+  },
+  {
+   "id": "wd-warhol",
+   "url": "https://www.wikidata.org/wiki/Q5603",
+   "http": "200",
+   "ok": true,
+   "qid": "Q5603"
+  },
+  {
+   "id": "wd-palestrina",
+   "url": "https://www.wikidata.org/wiki/Q179277",
+   "http": "200",
+   "ok": true,
+   "qid": "Q179277"
+  },
+  {
+   "id": "wd-bach",
+   "url": "https://www.wikidata.org/wiki/Q1339",
+   "http": "200",
+   "ok": true,
+   "qid": "Q1339"
+  },
+  {
+   "id": "wd-haydn",
+   "url": "https://www.wikidata.org/wiki/Q7349",
+   "http": "200",
+   "ok": true,
+   "qid": "Q7349"
+  },
+  {
+   "id": "wd-mozart",
+   "url": "https://www.wikidata.org/wiki/Q254",
+   "http": "200",
+   "ok": true,
+   "qid": "Q254"
+  },
+  {
+   "id": "wd-beethoven",
+   "url": "https://www.wikidata.org/wiki/Q255",
+   "http": "200",
+   "ok": true,
+   "qid": "Q255"
+  },
+  {
+   "id": "wd-chopin",
+   "url": "https://www.wikidata.org/wiki/Q1268",
+   "http": "200",
+   "ok": true,
+   "qid": "Q1268"
+  },
+  {
+   "id": "wd-wagner",
+   "url": "https://www.wikidata.org/wiki/Q1511",
+   "http": "200",
+   "ok": true,
+   "qid": "Q1511"
+  },
+  {
+   "id": "wd-schubert",
+   "url": "https://www.wikidata.org/wiki/Q7312",
+   "http": "200",
+   "ok": true,
+   "qid": "Q7312"
+  },
+  {
+   "id": "wd-stravinsky",
+   "url": "https://www.wikidata.org/wiki/Q7314",
+   "http": "200",
+   "ok": true,
+   "qid": "Q7314"
+  },
+  {
+   "id": "wd-schoenberg",
+   "url": "https://www.wikidata.org/wiki/Q154770",
+   "http": "200",
+   "ok": true,
+   "qid": "Q154770"
+  },
+  {
+   "id": "wd-debussy",
+   "url": "https://www.wikidata.org/wiki/Q4700",
+   "http": "200",
+   "ok": true,
+   "qid": "Q4700"
+  },
+  {
+   "id": "wd-gothic-architecture",
+   "url": "https://www.wikidata.org/wiki/Q176483",
+   "http": "200",
+   "ok": true,
+   "qid": "Q176483"
+  },
+  {
+   "id": "wd-romanesque-architecture",
+   "url": "https://www.wikidata.org/wiki/Q46261",
+   "http": "200",
+   "ok": true,
+   "qid": "Q46261"
+  },
+  {
+   "id": "wd-angkor-wat",
+   "url": "https://www.wikidata.org/wiki/Q43473",
+   "http": "200",
+   "ok": true,
+   "qid": "Q43473"
+  },
+  {
+   "id": "wd-japanese-architecture",
+   "url": "https://www.wikidata.org/wiki/Q1422874",
+   "http": "200",
+   "ok": true,
+   "qid": "Q1422874"
+  },
+  {
+   "id": "wd-indian-architecture",
+   "url": "https://www.wikidata.org/wiki/Q61050",
+   "http": "200",
+   "ok": true,
+   "qid": "Q61050"
+  },
+  {
+   "id": "wd-anchor-venetian-school",
+   "url": "https://www.wikidata.org/wiki/Q610687",
+   "http": "200",
+   "ok": true,
+   "qid": "Q610687"
+  },
+  {
+   "id": "wd-anchor-baroque",
+   "url": "https://www.wikidata.org/wiki/Q37853",
+   "http": "200",
+   "ok": true,
+   "qid": "Q37853"
+  },
+  {
+   "id": "wd-anchor-rococo",
+   "url": "https://www.wikidata.org/wiki/Q122960",
+   "http": "200",
+   "ok": true,
+   "qid": "Q122960"
+  },
+  {
+   "id": "wd-anchor-neoclassicism",
+   "url": "https://www.wikidata.org/wiki/Q54111",
+   "http": "200",
+   "ok": true,
+   "qid": "Q54111"
+  },
+  {
+   "id": "wd-anchor-expressionism",
+   "url": "https://www.wikidata.org/wiki/Q80113",
+   "http": "200",
+   "ok": true,
+   "qid": "Q80113"
+  },
+  {
+   "id": "wd-anchor-cubism",
+   "url": "https://www.wikidata.org/wiki/Q42934",
+   "http": "200",
+   "ok": true,
+   "qid": "Q42934"
+  },
+  {
+   "id": "wd-anchor-futurism",
+   "url": "https://www.wikidata.org/wiki/Q131221",
+   "http": "200",
+   "ok": true,
+   "qid": "Q131221"
+  },
+  {
+   "id": "wd-anchor-surrealism",
+   "url": "https://www.wikidata.org/wiki/Q39427",
+   "http": "200",
+   "ok": true,
+   "qid": "Q39427"
+  },
+  {
+   "id": "wd-anchor-bauhaus",
+   "url": "https://www.wikidata.org/wiki/Q124354",
+   "http": "200",
+   "ok": true,
+   "qid": "Q124354"
+  },
+  {
+   "id": "wd-anchor-modern-art",
+   "url": "https://www.wikidata.org/wiki/Q38166",
+   "http": "200",
+   "ok": true,
+   "qid": "Q38166"
+  },
+  {
+   "id": "wd-anchor-contemporary-art",
+   "url": "https://www.wikidata.org/wiki/Q21477194",
+   "http": "200",
+   "ok": true,
+   "qid": "Q21477194"
+  },
+  {
+   "id": "wd-anchor-gongbi",
+   "url": "https://www.wikidata.org/wiki/Q5581733",
+   "http": "200",
+   "ok": true,
+   "qid": "Q5581733"
+  },
+  {
+   "id": "wd-anchor-renaissance-music",
+   "url": "https://www.wikidata.org/wiki/Q201405",
+   "http": "200",
+   "ok": true,
+   "qid": "Q201405"
+  },
+  {
+   "id": "wd-anchor-madrigal",
+   "url": "https://www.wikidata.org/wiki/Q390001",
+   "http": "200",
+   "ok": true,
+   "qid": "Q390001"
+  },
+  {
+   "id": "wd-anchor-sonata",
+   "url": "https://www.wikidata.org/wiki/Q131269",
+   "http": "200",
+   "ok": true,
+   "qid": "Q131269"
+  },
+  {
+   "id": "wd-anchor-romantic-music",
+   "url": "https://www.wikidata.org/wiki/Q63630402",
+   "http": "200",
+   "ok": true,
+   "qid": "Q63630402"
+  },
+  {
+   "id": "wd-anchor-impressionism-music",
+   "url": "https://www.wikidata.org/wiki/Q837182",
+   "http": "200",
+   "ok": true,
+   "qid": "Q837182"
+  },
+  {
+   "id": "wd-anchor-guzheng",
+   "url": "https://www.wikidata.org/wiki/Q726303",
+   "http": "200",
+   "ok": true,
+   "qid": "Q726303"
+  },
+  {
+   "id": "wd-anchor-violin",
+   "url": "https://www.wikidata.org/wiki/Q8355",
+   "http": "200",
+   "ok": true,
+   "qid": "Q8355"
+  },
+  {
+   "id": "wd-anchor-piano",
+   "url": "https://www.wikidata.org/wiki/Q5994",
+   "http": "200",
+   "ok": true,
+   "qid": "Q5994"
+  },
+  {
+   "id": "wd-anchor-japanese-art",
+   "url": "https://www.wikidata.org/wiki/Q1632766",
+   "http": "200",
+   "ok": true,
+   "qid": "Q1632766"
+  },
+  {
+   "id": "wd-anchor-dada",
+   "url": "https://www.wikidata.org/wiki/Q6034",
+   "http": "200",
+   "ok": true,
+   "qid": "Q6034"
+  },
+  {
+   "id": "wd-anchor-abstract-expressionism",
+   "url": "https://www.wikidata.org/wiki/Q177725",
+   "http": "200",
+   "ok": true,
+   "qid": "Q177725"
+  },
+  {
+   "id": "wd-anchor-pop-art",
+   "url": "https://www.wikidata.org/wiki/Q134147",
+   "http": "200",
+   "ok": true,
+   "qid": "Q134147"
+  },
+  {
+   "id": "wd-anchor-lied",
+   "url": "https://www.wikidata.org/wiki/Q216860",
+   "http": "200",
+   "ok": true,
+   "qid": "Q216860"
+  },
+  {
+   "id": "wd-anchor-ukiyo-e",
+   "url": "https://www.wikidata.org/wiki/Q185905",
+   "http": "200",
+   "ok": true,
+   "qid": "Q185905"
+  },
+  {
+   "id": "wd-anchor-early-renaissance",
+   "url": "https://www.wikidata.org/wiki/Q1472236",
+   "http": "200",
+   "ok": true,
+   "qid": "Q1472236"
+  },
+  {
+   "id": "wd-anchor-high-renaissance",
+   "url": "https://www.wikidata.org/wiki/Q1474884",
+   "http": "200",
+   "ok": true,
+   "qid": "Q1474884"
+  },
+  {
+   "id": "wd-anchor-impressionism",
+   "url": "https://www.wikidata.org/wiki/Q40415",
+   "http": "200",
+   "ok": true,
+   "qid": "Q40415"
+  },
+  {
+   "id": "wd-anchor-post-impressionism",
+   "url": "https://www.wikidata.org/wiki/Q166713",
+   "http": "200",
+   "ok": true,
+   "qid": "Q166713"
+  },
+  {
+   "id": "wd-anchor-seal-script",
+   "url": "https://www.wikidata.org/wiki/Q1208842",
+   "http": "200",
+   "ok": true,
+   "qid": "Q1208842"
+  },
+  {
+   "id": "wd-anchor-medieval-music",
+   "url": "https://www.wikidata.org/wiki/Q163775",
+   "http": "200",
+   "ok": true,
+   "qid": "Q163775"
+  },
+  {
+   "id": "wd-anchor-indian-art",
+   "url": "https://www.wikidata.org/wiki/Q831768",
+   "http": "200",
+   "ok": true,
+   "qid": "Q831768"
+  }
+ ]
+}
