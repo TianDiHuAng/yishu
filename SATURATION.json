@@ -118,6 +118,16 @@
       },
       "network": "degraded",
       "verdict": "本地轮：补齐单元总览页与矩阵补盲清单；未饱和"
+    },
+    {
+      "cycle": "cycle8",
+      "date": "2026-11-22",
+      "methods_used": [
+        "本地补全"
+      ],
+      "gaps_found": {},
+      "network": "degraded",
+      "verdict": "本地轮：时间线分组修正、人物/术语索引、反向引用导航；未饱和"
     }
   ]
 }

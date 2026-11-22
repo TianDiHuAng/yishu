@@ -133,6 +133,7 @@ def tier_badge(e):
 def head(title, crumb=True):
     nav='<nav class="nav">'+"".join('<a href="%s">%s</a>'%(u,t) for u,t in [
         (REL+"index.html","首页"),(REL+"units.html","单元总览"),(REL+"timeline.html","时间线"),
+        (REL+"people.html","人物"),(REL+"glossary.html","术语"),
         (REL+"all-index.html","全站索引"),(REL+"sources.html","来源库")])+'</nav>'
     return ("<!doctype html><html lang='zh-CN'><head><meta charset='utf-8'>"
         "<meta name='viewport' content='width=device-width,initial-scale=1'>"
@@ -236,6 +237,13 @@ def build_entry(e,entries):
             for r in e["related"]:
                 if r in byid: s.append("<li><a href='%s.html'>%s</a></li>"%(esc(r),esc(byid[r]["title"])))
             s.append("</ul></div>")
+    # 反向引用（谁引用了本条目）
+    inb=[x for x in entries if e["id"] in x.get("related",[])]
+    if inb:
+        s.append("<div class='section-block'><h2>被以下条目引用</h2><ul class='rel-list'>")
+        for x in inb[:40]:
+            s.append("<li><a href='%s.html'>%s</a></li>"%(esc(x["id"]),esc(x["title"])))
+        s.append("</ul></div>")
     # 来源
     s.append("<section class='section'><div class='wrap'><h2>来源</h2><table><thead><tr><th>标题</th><th>机构/作者</th><th>类型</th><th>核验</th></tr></thead><tbody>")
     for sid in e.get("sources",[]):
@@ -344,24 +352,73 @@ def build_all_index(entries,units):
     s.append("</div>"+FOOT)
     open(os.path.join(OUT,"all-index.html"),"w",encoding="utf-8").write("".join(s))
 
+def _band(e):
+    """把条目归入时期分组（本地启发式，仅用于时间线分组，不改变数据）。
+    优先用 era 字段（人工填写的时代标签），回退到 when（年代文本）。"""
+    w=(e.get("era") or "") + " " + e["when"]
+    if any(k in w for k in ["旧石器","新石器","公元前","战国","先秦","远古","商周"]): return "古代"
+    if any(k in w for k in ["中世纪","拜占庭","罗马式","哥特","5—15","5—14","魏晋","敦煌"]): return "中世纪"
+    if any(k in w for k in ["14—16","15世纪","16世纪","唐代","宋代","元代","明代","汉","唐","宋","元","明","文艺复兴"]): return "文艺复兴与宋元明"
+    if any(k in w for k in ["20世纪","当代","至今","19末","19—20","2025"]): return "20世纪—当代"
+    if any(k in w for k in ["17","18","19","清","巴洛克","洛可可","古典","浪漫"]): return "17—19世纪"
+    return "跨期/术语"
+
+BANDS=["古代","中世纪","文艺复兴与宋元明","17—19世纪","20世纪—当代","跨期/术语"]
+
 def build_timeline(entries):
+    import re
     def key(e):
-        w=e["when"]; import re
-        m=re.search(r"(?:公元前\s*)?(\d{1,5})",w)
+        m=re.search(r"(\d{1,5})",e["when"])
         if not m: return 99999
         v=int(m.group(1))
-        if "公元前" in w[:m.end()] or ("前" in w[max(0,m.start()-2):m.start()]): return -v
-        if "万" in w[max(0,m.start()):m.end()+2]: return -v*10000
+        if "前" in e["when"][:m.end()+2]: return -v
         return v
     s=[head("时间线")]
-    s.append("<div class='wrap'><h1>时间线</h1><p class='eyebrow'>按起始年代排序 · 点击条目进入详情</p>")
-    last=None
-    for e in sorted(entries,key=key):
-        band=e["when"]
-        s.append("<div class='entry-link'><a class='t' href='entries/%s.html'>%s %s</a><span class='m'>%s</span></div>"%(
-            esc(e["id"]),esc(e["title"]),depth_badge(e),esc(band)))
+    s.append("<div class='wrap'><h1>时间线</h1><p class='eyebrow'>按时期分组、组内按起始年代排序 · 共 %d 条</p>"%len(entries))
+    s.append("<p class='eyebrow'>分组为阅读用启发式划分，不替代各条目自身的断代说明。</p>")
+    s.append("<div class='rel-list' style='margin:14px 0 24px'>")
+    for b in BANDS:
+        n=sum(1 for e in entries if _band(e)==b)
+        if n: s.append("<a href='#band-%s'>%s（%d）</a>"%(esc(b),esc(b),n))
+    s.append("</div>")
+    for b in BANDS:
+        g=sorted([e for e in entries if _band(e)==b],key=key)
+        if not g: continue
+        s.append("<div class='unit-group' id='band-%s'><h2>%s · %d 条</h2>"%(esc(b),esc(b),len(g)))
+        for e in g:
+            s.append("<div class='entry-link'><a class='t' href='entries/%s.html'>%s %s</a><span class='m'>%s</span></div>"%(
+                esc(e["id"]),esc(e["title"]),depth_badge(e),esc(e["when"])))
+        s.append("</div>")
     s.append("</div>"+FOOT)
     open(os.path.join(OUT,"timeline.html"),"w",encoding="utf-8").write("".join(s))
+
+def build_people_index(entries):
+    import re
+    ppl=[e for e in entries if e["kind"]=="人物"]
+    def birth(e):
+        m=re.search(r"(\d{3,4})",e["when"])
+        return int(m.group(1)) if m else 99999
+    ppl.sort(key=lambda e:(birth(e),e["title"]))
+    s=[head("人物索引")]
+    s.append("<div class='wrap'><h1>人物索引</h1><p class='eyebrow'>%d 位 · 按条目所记起始年代排序</p>"%len(ppl))
+    s.append("<div class='unit-group'>")
+    for e in ppl:
+        s.append("<div class='entry-link'><a class='t' href='entries/%s.html'>%s %s</a><span class='m'>%s · %s</span></div>"%(
+            esc(e["id"]),esc(e["title"]),depth_badge(e),esc(e["when"]),esc(e["region"])))
+    s.append("</div></div>"+FOOT)
+    open(os.path.join(OUT,"people.html"),"w",encoding="utf-8").write("".join(s))
+
+def build_glossary(entries):
+    terms=[e for e in entries if e["kind"]=="术语"]
+    terms.sort(key=lambda e:e["title"])
+    s=[head("术语表")]
+    s.append("<div class='wrap'><h1>术语表</h1><p class='eyebrow'>%d 条 · 按标题排序（暂按字符序，非严格音序）</p>"%len(terms))
+    s.append("<table><thead><tr><th>术语</th><th>定义</th><th>单元</th></tr></thead><tbody>")
+    for e in terms:
+        s.append("<tr><td><a href='entries/%s.html'>%s</a></td><td>%s</td><td>%s</td></tr>"%(
+            esc(e["id"]),esc(e["title"]),esc(e["def"]),esc(UNITS.get(e["unit"],e["unit"]))))
+    s.append("</tbody></table></div>"+FOOT)
+    open(os.path.join(OUT,"glossary.html"),"w",encoding="utf-8").write("".join(s))
 
 def build_sources():
     s=[head("来源库")]
@@ -392,7 +449,7 @@ def main():
     build_css()
     # 根页面
     REL=""
-    build_index(entries,UNITS,None); build_units_index(entries,UNITS); build_all_index(entries,UNITS); build_timeline(entries); build_sources()
+    build_index(entries,UNITS,None); build_units_index(entries,UNITS); build_all_index(entries,UNITS); build_timeline(entries); build_sources(); build_people_index(entries); build_glossary(entries)
     # 条目页（在 entries/ 子目录，相对路径需 ../
     REL="../"
     # 但条目页的 head/breadcrumb 用 REL 前缀；entry_card 内链在根页面已生成，无影响

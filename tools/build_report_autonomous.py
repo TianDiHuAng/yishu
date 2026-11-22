@@ -30,6 +30,8 @@ L.append("- 新增来源：**%d**"%cur.get("new_sources",0))
 if cur.get("qc_result"): L.append("- 质量闸：**%s**"%cur["qc_result"])
 if cyc=="cycle3":
     L.append("- 本轮特别说明：B5 复核 45 项待核实 → 38 项找到可核验第二来源并写入【已复核】留痕；B3 孤儿页 38→0（新增84条双向补链）；QC 收尾补 Bach/Vivaldi 来源并修正18处截断URL。")
+if cyc=="cycle8":
+    L.append("- 本轮特别说明：网络探针再次失败，仍为**本地轮**、未新增联网断言。阶段5 页面类型补全：新增**人物索引** people.html 与**术语表** glossary.html；时间线由扁平列表改为六段时期分组（并修正 era/when 误判）；条目页新增**被引用反链**，形成双向导航。站点 171 页、0 断链。")
 if cyc=="cycle7":
     L.append("- 本轮特别说明：网络探针失败（wikipedia 连续超时），本轮为**本地轮**、未新增任何需联网核验的断言。补齐阶段5 缺失的「单元总览」页面类型：units.html + 每单元页 ×21（含构成、分级条目、时间线片段、待核实），站点增至 169 页、0 断链；并把 154 个矩阵空白格数据驱动分类为 A 类 58（应补，首选建筑）/ B 类 96（暂不处理），形成下一轮联网补盲清单 reports/matrix_targets_c7.md。")
 if cyc=="cycle6":

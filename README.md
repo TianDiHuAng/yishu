@@ -10,6 +10,7 @@
 | `entries/*.html` | 条目详情页（L1 骨架 / L2 七节 + 自绘 SVG） |
 | `timeline.html` / `all-index.html` / `sources.html` | 时间线 / 全站索引 / 来源库 |
 | `units.html` / `units/<unit>.html` | 单元总览索引 / 每个知识单元的总览页（构成、分级条目、时间线片段、待核实） |
+| `people.html` / `glossary.html` | 人物索引（按起始年代）/ 术语表（按标题序） |
 | `assets/style.css` | 设计系统（CSS 变量、深色模式、SVG 类） |
 | `scope.md` | 入选清单（6 份权威大纲取并集，编辑基准线） |
 | `data/entries.json` | L1 种子数据（单一事实源，由 build_scope.py 生成） |
