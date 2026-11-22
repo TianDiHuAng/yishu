@@ -235,6 +235,41 @@
       "check_links_result": "broken=0(171页)",
       "new_sources": 0,
       "commits": 1
+    },
+    {
+      "cycle": "cycle10",
+      "date": "2026-11-22",
+      "status": "completed",
+      "gap_methods": [
+        "F体检(九维,含3项新增)"
+      ],
+      "network": "degraded(probe timeout, 4th round)",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 0,
+      "fixes": 1,
+      "healthcheck": {
+        "dead_links": 0,
+        "stale_data": "4处经人工判定为误报",
+        "duplicates": 0,
+        "contradictions": 0,
+        "orphans": 0,
+        "overlap": "未执行(需联网)",
+        "bad_anchors": 0,
+        "sitemap_missing": 0,
+        "sitemap_unlisted": 0,
+        "contrast_below_AA": 0,
+        "l3_level_consistency": "ok",
+        "cross_domain_links": 2
+      },
+      "link_graph": {
+        "total_links": 373,
+        "oneway": 47
+      },
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(171页)",
+      "new_sources": 0,
+      "commits": 1
     }
   ]
 }

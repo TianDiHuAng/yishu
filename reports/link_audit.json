@@ -1,0 +1,102 @@
+{
+ "cross_domain": [
+  {
+   "from": "romanticism-art",
+   "to": "symphonic-poem",
+   "from_dom": "art",
+   "to_dom": "music"
+  },
+  {
+   "from": "symphonic-poem",
+   "to": "romanticism-art",
+   "from_dom": "music",
+   "to_dom": "art"
+  }
+ ],
+ "oneway_count": 47,
+ "oneway_sample": [
+  [
+   "egyptian-art",
+   "roman-art"
+  ],
+  [
+   "roman-art",
+   "byzantine-art"
+  ],
+  [
+   "renaissance",
+   "mannerism"
+  ],
+  [
+   "venetian-school",
+   "mannerism"
+  ],
+  [
+   "leonardo",
+   "high-renaissance"
+  ],
+  [
+   "mona-lisa",
+   "high-renaissance"
+  ],
+  [
+   "rembrandt",
+   "baroque"
+  ],
+  [
+   "vermeer",
+   "realism-art"
+  ],
+  [
+   "cezanne",
+   "post-impressionism"
+  ],
+  [
+   "expressionism",
+   "abstract-expressionism"
+  ]
+ ],
+ "top_inbound": [
+  [
+   "baroque-music",
+   12
+  ],
+  [
+   "romantic-music",
+   10
+  ],
+  [
+   "classical-period-music",
+   9
+  ],
+  [
+   "high-renaissance",
+   8
+  ],
+  [
+   "post-impressionism",
+   8
+  ],
+  [
+   "20th-century-classical",
+   8
+  ],
+  [
+   "baroque",
+   7
+  ],
+  [
+   "mannerism",
+   6
+  ],
+  [
+   "impressionism",
+   6
+  ],
+  [
+   "abstract-expressionism",
+   6
+  ]
+ ],
+ "total_links": 373
+}
