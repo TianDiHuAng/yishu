@@ -1,0 +1,14 @@
+{
+ "id": "tonality",
+ "level": "L2",
+ "sections": {
+  "时代背景": "大小调体系约流行于公元1600—1900年的欧洲。它取代了此前的中世纪教会调式。",
+  "风格特征": "大小调体系是以大调与小调音阶及功能和声为基础的调性体系。它确立了主—属—下属的功能关系。这一体系成为巴洛克至浪漫主义音乐的结构基础。",
+  "代表人物与作品": "现有来源未就大小调体系点名具体人物或作品。相关条目列出的巴洛克音乐与古典主义音乐均为时期概念，而非具体人物或作品。",
+  "技法或形式分析": "该体系以大调与小调音阶为音高组织基础。功能和声确立的主—属—下属关系构成其结构原则。它取代中世纪教会调式后成为通行的调性框架。",
+  "与前后风格的关系和争论": "大小调体系取代中世纪教会调式，并成为巴洛克至浪漫主义音乐的结构基础。它与巴洛克音乐、古典主义音乐相关联。相关记载较为一致，学界主要讨论其分期与边界问题。",
+  "一图": "示意图展示大小调体系以功能和声为基础、取代中世纪教会调式的关系。",
+  "待核实": "与此体系相关的具体人物、作品年份与收藏地未见于现有来源，待补充第二来源。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='大小调体系 示意图'><title>大小调体系</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>大小调体系</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1600—1900</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>大调</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>小调</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>功能和声</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>主—属—下属</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>教会调式</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>中世纪</text><line class='svg-arrow' x1='590.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>大小调体系以功能和声为基础，取代中世纪教会调式。</text></g></svg>"
+}

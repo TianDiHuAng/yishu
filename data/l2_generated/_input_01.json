@@ -1,0 +1,146 @@
+[
+ {
+  "id": "egyptian-art",
+  "title": "古埃及艺术",
+  "kind": "风格",
+  "era": "古王国—新王国",
+  "region": "埃及",
+  "medium": "综合",
+  "def": "古埃及文明的艺术体系，服务于宗教与王权，遵循严格的正面律与比例规范。",
+  "when": "约公元前3100—前30年",
+  "overview": "雕塑与壁画中人物采用正面律：头侧、眼正、肩正、腿侧；色彩与尺寸具有象征意义。",
+  "related": [
+   {
+    "id": "greek-art",
+    "title": "古希腊艺术"
+   },
+   {
+    "id": "roman-art",
+    "title": "古罗马艺术"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-prehistoric-art",
+    "title": "Prehistoric art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-greek-art",
+    "title": "Ancient Greek art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "greek-art",
+  "title": "古希腊艺术",
+  "kind": "风格",
+  "era": "几何—希腊化",
+  "region": "希腊",
+  "medium": "综合",
+  "def": "古希腊的雕塑、建筑与绘画传统，以对人体比例与理想美的探索著称。",
+  "when": "约公元前900—前31年",
+  "overview": "雕塑从古风时期的程式化青年像发展到古典时期的理想人体，建筑形成多立克、爱奥尼、科林斯三柱式。",
+  "related": [
+   {
+    "id": "egyptian-art",
+    "title": "古埃及艺术"
+   },
+   {
+    "id": "roman-art",
+    "title": "古罗马艺术"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-greek-art",
+    "title": "Ancient Greek art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-roman-art",
+    "title": "Ancient Roman art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "gothic",
+  "title": "哥特式艺术",
+  "kind": "风格",
+  "era": "中世纪晚期",
+  "region": "西欧",
+  "medium": "建筑,雕塑",
+  "def": "12世纪后兴起于法国并传遍欧洲的艺术风格，以尖拱、肋拱与彩色玻璃窗著称。",
+  "when": "约公元1140—1500年",
+  "overview": "尖拱与飞扶壁使墙体变薄、窗户扩大，彩色玻璃营造神秘光线；雕塑渐趋自然主义。",
+  "related": [
+   {
+    "id": "romanesque",
+    "title": "罗马式艺术"
+   },
+   {
+    "id": "renaissance",
+    "title": "文艺复兴"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-gothic",
+    "title": "Gothic art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-romanesque",
+    "title": "Romanesque art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "renaissance",
+  "title": "文艺复兴",
+  "kind": "时期",
+  "era": "14—16世纪",
+  "region": "意大利及欧洲",
+  "medium": "综合",
+  "def": "欧洲由中世纪向近代过渡的文化运动，以复兴古典文化与人文主义为核心。",
+  "when": "约公元1400—1600年",
+  "overview": "艺术上追求透视法、解剖准确与和谐比例，从乔托到盛期三杰逐步成熟，并波及北欧。",
+  "related": [
+   {
+    "id": "gothic",
+    "title": "哥特式艺术"
+   },
+   {
+    "id": "early-renaissance",
+    "title": "早期文艺复兴"
+   },
+   {
+    "id": "mannerism",
+    "title": "样式主义"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-renaissance",
+    "title": "Renaissance",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-italian-renaissance-painting",
+    "title": "Italian Renaissance painting",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ }
+]

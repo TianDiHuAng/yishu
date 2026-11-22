@@ -1,0 +1,142 @@
+[
+ {
+  "id": "expressionism",
+  "title": "表现主义",
+  "kind": "风格",
+  "era": "20世纪初",
+  "region": "德国及北欧",
+  "medium": "绘画",
+  "def": "20世纪初兴起的表现性艺术运动，主张以变形与色彩表达内在情感。",
+  "when": "约1905—1930年",
+  "overview": "常以扭曲线条、强烈色彩表现焦虑与激情，桥社（Die Brücke）与青骑士社为重要团体。",
+  "related": [
+   {
+    "id": "fauvism",
+    "title": "野兽派"
+   },
+   {
+    "id": "abstract-expressionism",
+    "title": "抽象表现主义"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-expressionism",
+    "title": "Expressionism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-fauvism",
+    "title": "Fauvism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "cubism",
+  "title": "立体主义",
+  "kind": "风格",
+  "era": "20世纪初",
+  "region": "法国",
+  "medium": "绘画,雕塑",
+  "def": "20世纪初由毕加索与布拉克开创的艺术运动，以多视点同时呈现物象为特征。",
+  "when": "约1908—1920年",
+  "overview": "将对象分解为几何块面并重新组合，打破单一视点透视，催生综合材料与拼贴。",
+  "related": [
+   {
+    "id": "cezanne",
+    "title": "塞尚"
+   },
+   {
+    "id": "futurism",
+    "title": "未来主义"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-cubism",
+    "title": "Cubism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-cezanne",
+    "title": "Paul Cezanne",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "surrealism",
+  "title": "超现实主义",
+  "kind": "风格",
+  "era": "20世纪上半",
+  "region": "欧洲",
+  "medium": "绘画",
+  "def": "20世纪20年代兴起的艺术与文学运动，探索潜意识与梦境意象。",
+  "when": "约1924—1966年",
+  "overview": "以怪诞并置与精确写实描绘非理性场景，达利与马格利特为代表。",
+  "related": [
+   {
+    "id": "dada",
+    "title": "达达主义"
+   },
+   {
+    "id": "abstract-expressionism",
+    "title": "抽象表现主义"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-surrealism",
+    "title": "Surrealism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-dada",
+    "title": "Dada",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "abstract-expressionism",
+  "title": "抽象表现主义",
+  "kind": "风格",
+  "era": "20世纪中叶",
+  "region": "美国",
+  "medium": "绘画",
+  "def": "二战后兴起于美国的绘画运动，以大规模抽象画面与姿态性笔触为特征。",
+  "when": "约1940s—1950s",
+  "overview": "强调自发行动与潜意识表达，波洛克以滴画法、罗斯科以色彩场为代表。",
+  "related": [
+   {
+    "id": "surrealism",
+    "title": "超现实主义"
+   },
+   {
+    "id": "minimalism",
+    "title": "极简主义"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-abstract-expressionism",
+    "title": "Abstract expressionism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-surrealism",
+    "title": "Surrealism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ }
+]

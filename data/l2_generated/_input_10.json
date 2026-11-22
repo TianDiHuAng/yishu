@@ -1,0 +1,142 @@
+[
+ {
+  "id": "romantic-music",
+  "title": "浪漫主义音乐",
+  "kind": "时期",
+  "era": "19世纪",
+  "region": "欧洲",
+  "medium": "音乐体裁",
+  "def": "19世纪的欧洲音乐潮流，强调情感、个性、民族性与宏大叙事。",
+  "when": "约公元1820—1900年",
+  "overview": "艺术歌曲、标题交响诗与大型歌剧兴盛，和声语言复杂化，古典时期的均衡形式被突破。",
+  "related": [
+   {
+    "id": "classical-period-music",
+    "title": "古典主义音乐"
+   },
+   {
+    "id": "20th-century-classical",
+    "title": "20世纪古典音乐"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-romantic-music",
+    "title": "Romantic music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-classical-period-music",
+    "title": "Classical period (music)",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "chopin",
+  "title": "肖邦",
+  "kind": "人物",
+  "era": "19世纪",
+  "region": "波兰/法国",
+  "medium": "音乐体裁",
+  "def": "波兰裔法国作曲家与钢琴家，以钢琴作品著称。",
+  "when": "1810—1849年",
+  "overview": "代表作《夜曲》《练习曲》《玛祖卡》，将钢琴的表现力与波兰民间节奏结合。",
+  "related": [
+   {
+    "id": "romantic-music",
+    "title": "浪漫主义音乐"
+   },
+   {
+    "id": "lied",
+    "title": "艺术歌曲"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-chopin",
+    "title": "Frederic Chopin",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-romantic-music",
+    "title": "Romantic music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "wagner",
+  "title": "瓦格纳",
+  "kind": "人物",
+  "era": "19世纪",
+  "region": "德国",
+  "medium": "音乐体裁",
+  "def": "德国作曲家与剧作家，以乐剧与和声革新影响深远。",
+  "when": "1813—1883年",
+  "overview": "代表作《尼伯龙根的指环》《特里斯坦与伊索尔德》，以无终旋律与半音化和声推向调性边界。",
+  "related": [
+   {
+    "id": "romantic-music",
+    "title": "浪漫主义音乐"
+   },
+   {
+    "id": "opera",
+    "title": "歌剧"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-wagner",
+    "title": "Richard Wagner",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-romantic-music",
+    "title": "Romantic music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "20th-century-classical",
+  "title": "20世纪古典音乐",
+  "kind": "时期",
+  "era": "20世纪",
+  "region": "欧美",
+  "medium": "音乐体裁",
+  "def": "20世纪的西方艺术音乐，以调性解体与多元技法探索为特征。",
+  "when": "约公元1900—2000年",
+  "overview": "印象主义、表现主义、序列主义、新古典主义与电子音乐并存，德彪西、勋伯格、斯特拉文斯基为代表。",
+  "related": [
+   {
+    "id": "romantic-music",
+    "title": "浪漫主义音乐"
+   },
+   {
+    "id": "serialism",
+    "title": "序列主义"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-20th-century-classical",
+    "title": "20th-century classical music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-serialism",
+    "title": "Serialism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ }
+]

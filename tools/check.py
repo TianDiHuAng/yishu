@@ -18,7 +18,7 @@ def err(rule,eid,msg): E.append((rule,eid,msg))
 def main():
     S=load(os.path.join(D,"sources.json"))["sources"]
     sm={s["id"]:s for s in S}
-    ENTRIES=load(os.path.join(D,"entries.json"))["entries"]
+    ENTRIES=load(os.path.join(D,"site_entries.json"))["entries"]
     COV=load(os.path.join(D,"coverage.json"))
     ids={e["id"] for e in ENTRIES}
     errors=[]

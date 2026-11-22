@@ -1,0 +1,146 @@
+[
+ {
+  "id": "high-renaissance",
+  "title": "盛期文艺复兴",
+  "kind": "风格",
+  "era": "16世纪初",
+  "region": "意大利",
+  "medium": "绘画,雕塑,建筑",
+  "def": "16世纪初意大利艺术的巅峰阶段，以列奥纳多、米开朗基罗、拉斐尔为代表。",
+  "when": "约公元1490—1527年",
+  "overview": "作品追求宏大、均衡与理想化，运用金字塔构图、渐进色与明暗法；罗马成为中心。",
+  "related": [
+   {
+    "id": "early-renaissance",
+    "title": "早期文艺复兴"
+   },
+   {
+    "id": "venetian-school",
+    "title": "威尼斯画派"
+   },
+   {
+    "id": "mannerism",
+    "title": "样式主义"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-high-renaissance",
+    "title": "High Renaissance",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-italian-renaissance-painting",
+    "title": "Italian Renaissance painting",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "leonardo",
+  "title": "列奥纳多·达·芬奇",
+  "kind": "人物",
+  "era": "15—16世纪",
+  "region": "意大利",
+  "medium": "绘画",
+  "def": "意大利文艺复兴全才，画家、工程师与解剖学者。",
+  "when": "1452—1519年",
+  "overview": "代表作《蒙娜丽莎》《最后的晚餐》，运用明暗法与空气透视，留下大量手稿。",
+  "related": [
+   {
+    "id": "high-renaissance",
+    "title": "盛期文艺复兴"
+   },
+   {
+    "id": "mona-lisa",
+    "title": "《蒙娜丽莎》"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-leonardo",
+    "title": "Leonardo da Vinci",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-high-renaissance",
+    "title": "High Renaissance",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "michelangelo",
+  "title": "米开朗基罗",
+  "kind": "人物",
+  "era": "15—16世纪",
+  "region": "意大利",
+  "medium": "雕塑,绘画",
+  "def": "意大利文艺复兴雕塑家、画家与建筑师，以雄浑的人体表现著称。",
+  "when": "1475—1564年",
+  "overview": "创作《大卫》雕像与西斯廷礼拜堂天顶画，建筑方面参与圣彼得大教堂设计。",
+  "related": [
+   {
+    "id": "high-renaissance",
+    "title": "盛期文艺复兴"
+   },
+   {
+    "id": "mannerism",
+    "title": "样式主义"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-michelangelo",
+    "title": "Michelangelo",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-high-renaissance",
+    "title": "High Renaissance",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "baroque",
+  "title": "巴洛克",
+  "kind": "风格",
+  "era": "17世纪",
+  "region": "欧洲",
+  "medium": "综合",
+  "def": "17世纪兴起于欧洲的艺术风格，以戏剧性光影、动势与宏大空间为特征。",
+  "when": "约公元1600—1750年",
+  "overview": "运用明暗对照与对角线构图制造动势，绘画、雕塑与建筑结合，服务于反宗教改革与宫廷炫耀。",
+  "related": [
+   {
+    "id": "mannerism",
+    "title": "样式主义"
+   },
+   {
+    "id": "rococo",
+    "title": "洛可可"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-baroque",
+    "title": "Baroque",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-mannerism",
+    "title": "Mannerism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ }
+]

@@ -1,0 +1,142 @@
+[
+ {
+  "id": "china-calligraphy-history",
+  "title": "中国书法史",
+  "kind": "时期",
+  "era": "商周—明清",
+  "region": "中国",
+  "medium": "书法",
+  "def": "汉字书写发展为独立艺术的历史，涵盖篆、隶、楷、行、草诸体。",
+  "when": "约公元前14世纪—公元19世纪",
+  "overview": "书法与文字演变、文人传统密切相关，讲究笔法、结构与章法，兼具实用与审美。",
+  "related": [
+   {
+    "id": "seal-script",
+    "title": "篆书"
+   },
+   {
+    "id": "clerical-script",
+    "title": "隶书"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-chinese-calligraphy",
+    "title": "Chinese calligraphy",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-chinese-painting",
+    "title": "Chinese painting",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "medieval-music",
+  "title": "中世纪音乐",
+  "kind": "时期",
+  "era": "5—15世纪",
+  "region": "欧洲",
+  "medium": "音乐体裁",
+  "def": "欧洲中世纪的宗教与世俗音乐，以单声部圣咏与复调萌芽为特征。",
+  "when": "约公元500—1400年",
+  "overview": "格里高利圣咏为代表性单声部传统，晚期出现奥尔加农与经文歌等复调形式。",
+  "related": [
+   {
+    "id": "gregorian-chant",
+    "title": "格里高利圣咏"
+   },
+   {
+    "id": "polyphony",
+    "title": "复调"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-medieval-music",
+    "title": "Medieval music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-gregorian-chant",
+    "title": "Gregorian chant",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "gregorian-chant",
+  "title": "格里高利圣咏",
+  "kind": "风格",
+  "era": "中世纪",
+  "region": "欧洲",
+  "medium": "音乐体裁",
+  "def": "罗马天主教会的单声部无伴奏拉丁文圣歌，以教皇格里高利一世得名。",
+  "when": "约公元6—9世纪成型",
+  "overview": "采用自由节奏与教会调式，旋律随歌词韵律展开，是西方记谱与复调的基础。",
+  "related": [
+   {
+    "id": "medieval-music",
+    "title": "中世纪音乐"
+   },
+   {
+    "id": "polyphony",
+    "title": "复调"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-gregorian-chant",
+    "title": "Gregorian chant",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-medieval-music",
+    "title": "Medieval music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "polyphony",
+  "title": "复调",
+  "kind": "术语",
+  "era": "中世纪—今",
+  "region": "欧洲",
+  "medium": "音乐体裁",
+  "def": "多个独立旋律声部同时进行的音乐织体。",
+  "when": "约公元9世纪成型—至今",
+  "overview": "与单声部相对，中世纪后期在教堂与宫廷发展成熟，成为西方音乐的核心技术。",
+  "related": [
+   {
+    "id": "organum",
+    "title": "奥尔加农"
+   },
+   {
+    "id": "renaissance-music",
+    "title": "文艺复兴音乐"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-polyphony",
+    "title": "Polyphony",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-medieval-music",
+    "title": "Medieval music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ }
+]

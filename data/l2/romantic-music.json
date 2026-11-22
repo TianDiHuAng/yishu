@@ -1,0 +1,14 @@
+{
+ "id": "romantic-music",
+ "level": "L2",
+ "sections": {
+  "时代背景": "浪漫主义音乐是19世纪的欧洲音乐潮流，时间约在公元1820—1900年。它在古典主义音乐之后兴起，强调情感、个性、民族性与宏大叙事。其流传范围集中在欧洲。",
+  "风格特征": "这一潮流以情感表达与个性彰显为核心，同时重视民族性与宏大叙事。艺术歌曲、标题交响诗与大型歌剧在当时的兴盛，体现出体裁格局的变化。和声语言趋于复杂化，古典时期均衡的形式原则被突破。",
+  "代表人物与作品": "现有定义与概述未点名浪漫主义音乐的具体代表人物。概述提及的艺术歌曲、标题交响诗与大型歌剧为当时的主要体裁，但未列出对应的作曲家与作品名。代表人物与代表作品有待补充第二来源后说明。",
+  "技法或形式分析": "概述把艺术歌曲、标题交响诗与大型歌剧的兴盛，同和声语言的复杂化并列为该时期的重要特征。在形式层面，古典时期均衡的原则被突破。这构成其区别于古典主义音乐的主要技术面貌。",
+  "与前后风格的关系和争论": "从相关条目看，浪漫主义音乐承接古典主义音乐，其后由20世纪古典音乐接续。记载较一致，未见明确争论；学界主要讨论浪漫主义音乐自身的分期与边界问题。",
+  "一图": "示意图用古典主义音乐、浪漫主义音乐与20世纪古典音乐三个节点，呈现浪漫主义音乐的承接位置。",
+  "待核实": "现有字段未点名代表人物与具体作品。各体裁对应的作者、作品与首演信息待补充第二来源。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='浪漫主义音乐 示意图'><title>浪漫主义音乐</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>古典主义音乐</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>均衡形式</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>浪漫主义音乐</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>标题交响诗</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>20世纪古典音乐</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>20世纪</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>由古典主义音乐发展，后接20世纪古典音乐</text></g></svg>"
+}

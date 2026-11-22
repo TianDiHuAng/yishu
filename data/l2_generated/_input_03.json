@@ -1,0 +1,142 @@
+[
+ {
+  "id": "caravaggio",
+  "title": "卡拉瓦乔",
+  "kind": "人物",
+  "era": "16—17世纪",
+  "region": "意大利",
+  "medium": "绘画",
+  "def": "意大利巴洛克画家，以强烈的明暗对照与现实主义人物著称。",
+  "when": "1571—1610年",
+  "overview": "代表作《圣马太蒙召》，以暗背景与聚光式照明营造戏剧性，影响欧洲一代画家。",
+  "related": [
+   {
+    "id": "baroque",
+    "title": "巴洛克"
+   },
+   {
+    "id": "rembrandt",
+    "title": "伦勃朗"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-caravaggio",
+    "title": "Caravaggio",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-baroque",
+    "title": "Baroque",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "rembrandt",
+  "title": "伦勃朗",
+  "kind": "人物",
+  "era": "17世纪",
+  "region": "荷兰",
+  "medium": "绘画",
+  "def": "荷兰黄金时代画家，以肖像、自画像与光影处理著称。",
+  "when": "1606—1669年",
+  "overview": "代表作《夜巡》《自画像》，运用层层罩染与聚光式明暗刻画心理深度。",
+  "related": [
+   {
+    "id": "baroque",
+    "title": "巴洛克"
+   },
+   {
+    "id": "vermeer",
+    "title": "维米尔"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-rembrandt",
+    "title": "Rembrandt",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-baroque",
+    "title": "Baroque",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "neoclassicism",
+  "title": "新古典主义",
+  "kind": "风格",
+  "era": "18—19世纪",
+  "region": "欧洲",
+  "medium": "综合",
+  "def": "18世纪中后期兴起的艺术运动，回归古典形式的克制、理性与秩序。",
+  "when": "约公元1750—1850年",
+  "overview": "以对称构图、清晰轮廓与古典题材为特征，与启蒙思想及考古发现相关，大卫为代表。",
+  "related": [
+   {
+    "id": "rococo",
+    "title": "洛可可"
+   },
+   {
+    "id": "romanticism-art",
+    "title": "浪漫主义（艺术）"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-neoclassicism",
+    "title": "Neoclassicism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-romanticism",
+    "title": "Romanticism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "romanticism-art",
+  "title": "浪漫主义（艺术）",
+  "kind": "风格",
+  "era": "19世纪上半",
+  "region": "欧洲",
+  "medium": "绘画",
+  "def": "19世纪上半叶的艺术思潮，强调情感、想象、自然与个人体验。",
+  "when": "约公元1800—1850年",
+  "overview": "偏爱戏剧性题材、异国情调与壮丽风景，色彩与笔触更具表现力，德拉克罗瓦为代表。",
+  "related": [
+   {
+    "id": "neoclassicism",
+    "title": "新古典主义"
+   },
+   {
+    "id": "realism-art",
+    "title": "现实主义（艺术）"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-romanticism",
+    "title": "Romanticism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-neoclassicism",
+    "title": "Neoclassicism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ }
+]

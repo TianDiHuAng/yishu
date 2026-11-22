@@ -1,0 +1,1410 @@
+[
+ {
+  "id": "egyptian-art",
+  "title": "古埃及艺术",
+  "kind": "风格",
+  "era": "古王国—新王国",
+  "region": "埃及",
+  "medium": "综合",
+  "def": "古埃及文明的艺术体系，服务于宗教与王权，遵循严格的正面律与比例规范。",
+  "when": "约公元前3100—前30年",
+  "overview": "雕塑与壁画中人物采用正面律：头侧、眼正、肩正、腿侧；色彩与尺寸具有象征意义。",
+  "related": [
+   {
+    "id": "greek-art",
+    "title": "古希腊艺术"
+   },
+   {
+    "id": "roman-art",
+    "title": "古罗马艺术"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-prehistoric-art",
+    "title": "Prehistoric art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-greek-art",
+    "title": "Ancient Greek art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "greek-art",
+  "title": "古希腊艺术",
+  "kind": "风格",
+  "era": "几何—希腊化",
+  "region": "希腊",
+  "medium": "综合",
+  "def": "古希腊的雕塑、建筑与绘画传统，以对人体比例与理想美的探索著称。",
+  "when": "约公元前900—前31年",
+  "overview": "雕塑从古风时期的程式化青年像发展到古典时期的理想人体，建筑形成多立克、爱奥尼、科林斯三柱式。",
+  "related": [
+   {
+    "id": "egyptian-art",
+    "title": "古埃及艺术"
+   },
+   {
+    "id": "roman-art",
+    "title": "古罗马艺术"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-greek-art",
+    "title": "Ancient Greek art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-roman-art",
+    "title": "Ancient Roman art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "gothic",
+  "title": "哥特式艺术",
+  "kind": "风格",
+  "era": "中世纪晚期",
+  "region": "西欧",
+  "medium": "建筑,雕塑",
+  "def": "12世纪后兴起于法国并传遍欧洲的艺术风格，以尖拱、肋拱与彩色玻璃窗著称。",
+  "when": "约公元1140—1500年",
+  "overview": "尖拱与飞扶壁使墙体变薄、窗户扩大，彩色玻璃营造神秘光线；雕塑渐趋自然主义。",
+  "related": [
+   {
+    "id": "romanesque",
+    "title": "罗马式艺术"
+   },
+   {
+    "id": "renaissance",
+    "title": "文艺复兴"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-gothic",
+    "title": "Gothic art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-romanesque",
+    "title": "Romanesque art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "renaissance",
+  "title": "文艺复兴",
+  "kind": "时期",
+  "era": "14—16世纪",
+  "region": "意大利及欧洲",
+  "medium": "综合",
+  "def": "欧洲由中世纪向近代过渡的文化运动，以复兴古典文化与人文主义为核心。",
+  "when": "约公元1400—1600年",
+  "overview": "艺术上追求透视法、解剖准确与和谐比例，从乔托到盛期三杰逐步成熟，并波及北欧。",
+  "related": [
+   {
+    "id": "gothic",
+    "title": "哥特式艺术"
+   },
+   {
+    "id": "early-renaissance",
+    "title": "早期文艺复兴"
+   },
+   {
+    "id": "mannerism",
+    "title": "样式主义"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-renaissance",
+    "title": "Renaissance",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-italian-renaissance-painting",
+    "title": "Italian Renaissance painting",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "high-renaissance",
+  "title": "盛期文艺复兴",
+  "kind": "风格",
+  "era": "16世纪初",
+  "region": "意大利",
+  "medium": "绘画,雕塑,建筑",
+  "def": "16世纪初意大利艺术的巅峰阶段，以列奥纳多、米开朗基罗、拉斐尔为代表。",
+  "when": "约公元1490—1527年",
+  "overview": "作品追求宏大、均衡与理想化，运用金字塔构图、渐进色与明暗法；罗马成为中心。",
+  "related": [
+   {
+    "id": "early-renaissance",
+    "title": "早期文艺复兴"
+   },
+   {
+    "id": "venetian-school",
+    "title": "威尼斯画派"
+   },
+   {
+    "id": "mannerism",
+    "title": "样式主义"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-high-renaissance",
+    "title": "High Renaissance",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-italian-renaissance-painting",
+    "title": "Italian Renaissance painting",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "leonardo",
+  "title": "列奥纳多·达·芬奇",
+  "kind": "人物",
+  "era": "15—16世纪",
+  "region": "意大利",
+  "medium": "绘画",
+  "def": "意大利文艺复兴全才，画家、工程师与解剖学者。",
+  "when": "1452—1519年",
+  "overview": "代表作《蒙娜丽莎》《最后的晚餐》，运用明暗法与空气透视，留下大量手稿。",
+  "related": [
+   {
+    "id": "high-renaissance",
+    "title": "盛期文艺复兴"
+   },
+   {
+    "id": "mona-lisa",
+    "title": "《蒙娜丽莎》"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-leonardo",
+    "title": "Leonardo da Vinci",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-high-renaissance",
+    "title": "High Renaissance",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "michelangelo",
+  "title": "米开朗基罗",
+  "kind": "人物",
+  "era": "15—16世纪",
+  "region": "意大利",
+  "medium": "雕塑,绘画",
+  "def": "意大利文艺复兴雕塑家、画家与建筑师，以雄浑的人体表现著称。",
+  "when": "1475—1564年",
+  "overview": "创作《大卫》雕像与西斯廷礼拜堂天顶画，建筑方面参与圣彼得大教堂设计。",
+  "related": [
+   {
+    "id": "high-renaissance",
+    "title": "盛期文艺复兴"
+   },
+   {
+    "id": "mannerism",
+    "title": "样式主义"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-michelangelo",
+    "title": "Michelangelo",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-high-renaissance",
+    "title": "High Renaissance",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "baroque",
+  "title": "巴洛克",
+  "kind": "风格",
+  "era": "17世纪",
+  "region": "欧洲",
+  "medium": "综合",
+  "def": "17世纪兴起于欧洲的艺术风格，以戏剧性光影、动势与宏大空间为特征。",
+  "when": "约公元1600—1750年",
+  "overview": "运用明暗对照与对角线构图制造动势，绘画、雕塑与建筑结合，服务于反宗教改革与宫廷炫耀。",
+  "related": [
+   {
+    "id": "mannerism",
+    "title": "样式主义"
+   },
+   {
+    "id": "rococo",
+    "title": "洛可可"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-baroque",
+    "title": "Baroque",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-mannerism",
+    "title": "Mannerism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "caravaggio",
+  "title": "卡拉瓦乔",
+  "kind": "人物",
+  "era": "16—17世纪",
+  "region": "意大利",
+  "medium": "绘画",
+  "def": "意大利巴洛克画家，以强烈的明暗对照与现实主义人物著称。",
+  "when": "1571—1610年",
+  "overview": "代表作《圣马太蒙召》，以暗背景与聚光式照明营造戏剧性，影响欧洲一代画家。",
+  "related": [
+   {
+    "id": "baroque",
+    "title": "巴洛克"
+   },
+   {
+    "id": "rembrandt",
+    "title": "伦勃朗"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-caravaggio",
+    "title": "Caravaggio",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-baroque",
+    "title": "Baroque",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "rembrandt",
+  "title": "伦勃朗",
+  "kind": "人物",
+  "era": "17世纪",
+  "region": "荷兰",
+  "medium": "绘画",
+  "def": "荷兰黄金时代画家，以肖像、自画像与光影处理著称。",
+  "when": "1606—1669年",
+  "overview": "代表作《夜巡》《自画像》，运用层层罩染与聚光式明暗刻画心理深度。",
+  "related": [
+   {
+    "id": "baroque",
+    "title": "巴洛克"
+   },
+   {
+    "id": "vermeer",
+    "title": "维米尔"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-rembrandt",
+    "title": "Rembrandt",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-baroque",
+    "title": "Baroque",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "neoclassicism",
+  "title": "新古典主义",
+  "kind": "风格",
+  "era": "18—19世纪",
+  "region": "欧洲",
+  "medium": "综合",
+  "def": "18世纪中后期兴起的艺术运动，回归古典形式的克制、理性与秩序。",
+  "when": "约公元1750—1850年",
+  "overview": "以对称构图、清晰轮廓与古典题材为特征，与启蒙思想及考古发现相关，大卫为代表。",
+  "related": [
+   {
+    "id": "rococo",
+    "title": "洛可可"
+   },
+   {
+    "id": "romanticism-art",
+    "title": "浪漫主义（艺术）"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-neoclassicism",
+    "title": "Neoclassicism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-romanticism",
+    "title": "Romanticism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "romanticism-art",
+  "title": "浪漫主义（艺术）",
+  "kind": "风格",
+  "era": "19世纪上半",
+  "region": "欧洲",
+  "medium": "绘画",
+  "def": "19世纪上半叶的艺术思潮，强调情感、想象、自然与个人体验。",
+  "when": "约公元1800—1850年",
+  "overview": "偏爱戏剧性题材、异国情调与壮丽风景，色彩与笔触更具表现力，德拉克罗瓦为代表。",
+  "related": [
+   {
+    "id": "neoclassicism",
+    "title": "新古典主义"
+   },
+   {
+    "id": "realism-art",
+    "title": "现实主义（艺术）"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-romanticism",
+    "title": "Romanticism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-neoclassicism",
+    "title": "Neoclassicism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "post-impressionism",
+  "title": "后印象派",
+  "kind": "风格",
+  "era": "19世纪末",
+  "region": "法国及欧洲",
+  "medium": "绘画",
+  "def": "印象派之后强调主观情感与结构秩序的绘画倾向。",
+  "when": "约公元1880—1905年",
+  "overview": "塞尚追求结构、梵高追求情感表现、高更追求象征与平面色彩，共同背离纯客观再现。",
+  "related": [
+   {
+    "id": "impressionism",
+    "title": "印象派"
+   },
+   {
+    "id": "fauvism",
+    "title": "野兽派"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-post-impressionism",
+    "title": "Post-Impressionism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-impressionism",
+    "title": "Impressionism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "monet",
+  "title": "莫奈",
+  "kind": "人物",
+  "era": "19—20世纪",
+  "region": "法国",
+  "medium": "绘画",
+  "def": "法国印象派画家，印象派名称的由来者。",
+  "when": "1840—1926年",
+  "overview": "代表作《印象·日出》《睡莲》系列，长期探索光色变化与同一题材的系列画。",
+  "related": [
+   {
+    "id": "impressionism",
+    "title": "印象派"
+   },
+   {
+    "id": "post-impressionism",
+    "title": "后印象派"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-monet",
+    "title": "Claude Monet",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-impressionism",
+    "title": "Impressionism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "van-gogh",
+  "title": "梵高",
+  "kind": "人物",
+  "era": "19世纪",
+  "region": "荷兰/法国",
+  "medium": "绘画",
+  "def": "荷兰后印象派画家，以强烈色彩与表现性笔触著称。",
+  "when": "1853—1890年",
+  "overview": "代表作《星月夜》《向日葵》，用色与笔触传达主观情绪，对表现主义影响深远。",
+  "related": [
+   {
+    "id": "post-impressionism",
+    "title": "后印象派"
+   },
+   {
+    "id": "expressionism",
+    "title": "表现主义"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-van-gogh",
+    "title": "Vincent van Gogh",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-post-impressionism",
+    "title": "Post-Impressionism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "cezanne",
+  "title": "塞尚",
+  "kind": "人物",
+  "era": "19—20世纪",
+  "region": "法国",
+  "medium": "绘画",
+  "def": "法国后印象派画家，被誉为现代艺术之父。",
+  "when": "1839—1906年",
+  "overview": "代表作《圣维克多山》《静物》，以几何化结构色块重组对象，启发立体主义。",
+  "related": [
+   {
+    "id": "post-impressionism",
+    "title": "后印象派"
+   },
+   {
+    "id": "cubism",
+    "title": "立体主义"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-cezanne",
+    "title": "Paul Cezanne",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-cubism",
+    "title": "Cubism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "expressionism",
+  "title": "表现主义",
+  "kind": "风格",
+  "era": "20世纪初",
+  "region": "德国及北欧",
+  "medium": "绘画",
+  "def": "20世纪初兴起的表现性艺术运动，主张以变形与色彩表达内在情感。",
+  "when": "约1905—1930年",
+  "overview": "常以扭曲线条、强烈色彩表现焦虑与激情，桥社（Die Brücke）与青骑士社为重要团体。",
+  "related": [
+   {
+    "id": "fauvism",
+    "title": "野兽派"
+   },
+   {
+    "id": "abstract-expressionism",
+    "title": "抽象表现主义"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-expressionism",
+    "title": "Expressionism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-fauvism",
+    "title": "Fauvism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "cubism",
+  "title": "立体主义",
+  "kind": "风格",
+  "era": "20世纪初",
+  "region": "法国",
+  "medium": "绘画,雕塑",
+  "def": "20世纪初由毕加索与布拉克开创的艺术运动，以多视点同时呈现物象为特征。",
+  "when": "约1908—1920年",
+  "overview": "将对象分解为几何块面并重新组合，打破单一视点透视，催生综合材料与拼贴。",
+  "related": [
+   {
+    "id": "cezanne",
+    "title": "塞尚"
+   },
+   {
+    "id": "futurism",
+    "title": "未来主义"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-cubism",
+    "title": "Cubism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-cezanne",
+    "title": "Paul Cezanne",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "surrealism",
+  "title": "超现实主义",
+  "kind": "风格",
+  "era": "20世纪上半",
+  "region": "欧洲",
+  "medium": "绘画",
+  "def": "20世纪20年代兴起的艺术与文学运动，探索潜意识与梦境意象。",
+  "when": "约1924—1966年",
+  "overview": "以怪诞并置与精确写实描绘非理性场景，达利与马格利特为代表。",
+  "related": [
+   {
+    "id": "dada",
+    "title": "达达主义"
+   },
+   {
+    "id": "abstract-expressionism",
+    "title": "抽象表现主义"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-surrealism",
+    "title": "Surrealism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-dada",
+    "title": "Dada",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "abstract-expressionism",
+  "title": "抽象表现主义",
+  "kind": "风格",
+  "era": "20世纪中叶",
+  "region": "美国",
+  "medium": "绘画",
+  "def": "二战后兴起于美国的绘画运动，以大规模抽象画面与姿态性笔触为特征。",
+  "when": "约1940s—1950s",
+  "overview": "强调自发行动与潜意识表达，波洛克以滴画法、罗斯科以色彩场为代表。",
+  "related": [
+   {
+    "id": "surrealism",
+    "title": "超现实主义"
+   },
+   {
+    "id": "minimalism",
+    "title": "极简主义"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-abstract-expressionism",
+    "title": "Abstract expressionism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-surrealism",
+    "title": "Surrealism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "picasso",
+  "title": "毕加索",
+  "kind": "人物",
+  "era": "20世纪",
+  "region": "西班牙/法国",
+  "medium": "绘画,雕塑",
+  "def": "西班牙裔法国艺术家，立体主义创始人之一。",
+  "when": "1881—1973年",
+  "overview": "代表作《亚维农少女》《格尔尼卡》，风格多变，深刻重塑20世纪艺术语言。",
+  "related": [
+   {
+    "id": "cubism",
+    "title": "立体主义"
+   },
+   {
+    "id": "modern-art",
+    "title": "现代艺术"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-picasso",
+    "title": "Pablo Picasso",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-cubism",
+    "title": "Cubism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "contemporary-art",
+  "title": "当代艺术",
+  "kind": "时期",
+  "era": "20世纪后半—今",
+  "region": "全球",
+  "medium": "综合",
+  "def": "20世纪后半叶至今的艺术实践，媒介与议题高度多元。",
+  "when": "约1960年—至今",
+  "overview": "跨越绘画、装置、行为与数字媒介，强调观念、语境与跨学科，全球化特征显著。",
+  "related": [
+   {
+    "id": "pop-art",
+    "title": "波普艺术"
+   },
+   {
+    "id": "conceptual-art",
+    "title": "观念艺术"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-contemporary-art",
+    "title": "Contemporary art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "web-artstory-movements",
+    "title": "Classical and Modern Art Movements",
+    "author": "The Art Story Foundation",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "china-painting-history",
+  "title": "中国绘画史",
+  "kind": "时期",
+  "era": "战国—明清",
+  "region": "中国",
+  "medium": "绘画",
+  "def": "中国绘画自战国至明清的发展脉络，以卷轴画与文人画传统为核心。",
+  "when": "约公元前5世纪—公元19世纪",
+  "overview": "经历人物画、山水画、花鸟画的成熟，强调笔墨、气韵与诗书画印结合。",
+  "related": [
+   {
+    "id": "tang-painting",
+    "title": "唐代绘画"
+   },
+   {
+    "id": "song-painting",
+    "title": "宋代绘画"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-chinese-painting",
+    "title": "Chinese painting",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-tang-dynasty-art",
+    "title": "Art of the Tang dynasty",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "song-painting",
+  "title": "宋代绘画",
+  "kind": "风格",
+  "era": "宋代",
+  "region": "中国",
+  "medium": "绘画",
+  "def": "宋代绘画以山水画巅峰与文人画兴起为标志。",
+  "when": "960—1279年",
+  "overview": "郭熙、范宽等建立全景山水范式，苏轼等提倡文人画，强调意境与笔墨。",
+  "related": [
+   {
+    "id": "tang-painting",
+    "title": "唐代绘画"
+   },
+   {
+    "id": "yuan-painting",
+    "title": "元代绘画"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-chinese-painting",
+    "title": "Chinese painting",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-tang-dynasty-art",
+    "title": "Art of the Tang dynasty",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "china-calligraphy-history",
+  "title": "中国书法史",
+  "kind": "时期",
+  "era": "商周—明清",
+  "region": "中国",
+  "medium": "书法",
+  "def": "汉字书写发展为独立艺术的历史，涵盖篆、隶、楷、行、草诸体。",
+  "when": "约公元前14世纪—公元19世纪",
+  "overview": "书法与文字演变、文人传统密切相关，讲究笔法、结构与章法，兼具实用与审美。",
+  "related": [
+   {
+    "id": "seal-script",
+    "title": "篆书"
+   },
+   {
+    "id": "clerical-script",
+    "title": "隶书"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-chinese-calligraphy",
+    "title": "Chinese calligraphy",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-chinese-painting",
+    "title": "Chinese painting",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "medieval-music",
+  "title": "中世纪音乐",
+  "kind": "时期",
+  "era": "5—15世纪",
+  "region": "欧洲",
+  "medium": "音乐体裁",
+  "def": "欧洲中世纪的宗教与世俗音乐，以单声部圣咏与复调萌芽为特征。",
+  "when": "约公元500—1400年",
+  "overview": "格里高利圣咏为代表性单声部传统，晚期出现奥尔加农与经文歌等复调形式。",
+  "related": [
+   {
+    "id": "gregorian-chant",
+    "title": "格里高利圣咏"
+   },
+   {
+    "id": "polyphony",
+    "title": "复调"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-medieval-music",
+    "title": "Medieval music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-gregorian-chant",
+    "title": "Gregorian chant",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "gregorian-chant",
+  "title": "格里高利圣咏",
+  "kind": "风格",
+  "era": "中世纪",
+  "region": "欧洲",
+  "medium": "音乐体裁",
+  "def": "罗马天主教会的单声部无伴奏拉丁文圣歌，以教皇格里高利一世得名。",
+  "when": "约公元6—9世纪成型",
+  "overview": "采用自由节奏与教会调式，旋律随歌词韵律展开，是西方记谱与复调的基础。",
+  "related": [
+   {
+    "id": "medieval-music",
+    "title": "中世纪音乐"
+   },
+   {
+    "id": "polyphony",
+    "title": "复调"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-gregorian-chant",
+    "title": "Gregorian chant",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-medieval-music",
+    "title": "Medieval music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "polyphony",
+  "title": "复调",
+  "kind": "术语",
+  "era": "中世纪—今",
+  "region": "欧洲",
+  "medium": "音乐体裁",
+  "def": "多个独立旋律声部同时进行的音乐织体。",
+  "when": "约公元9世纪成型—至今",
+  "overview": "与单声部相对，中世纪后期在教堂与宫廷发展成熟，成为西方音乐的核心技术。",
+  "related": [
+   {
+    "id": "organum",
+    "title": "奥尔加农"
+   },
+   {
+    "id": "renaissance-music",
+    "title": "文艺复兴音乐"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-polyphony",
+    "title": "Polyphony",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-medieval-music",
+    "title": "Medieval music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "renaissance-music",
+  "title": "文艺复兴音乐",
+  "kind": "时期",
+  "era": "15—16世纪",
+  "region": "欧洲",
+  "medium": "音乐体裁",
+  "def": "欧洲文艺复兴时期的音乐，以复调技巧高度发展与世俗体裁兴起为特征。",
+  "when": "约公元1400—1600年",
+  "overview": "若斯坎、帕莱斯特里纳完善无伴奏合唱复调，牧歌等世俗体裁繁荣，印刷术推动传播。",
+  "related": [
+   {
+    "id": "medieval-music",
+    "title": "中世纪音乐"
+   },
+   {
+    "id": "baroque-music",
+    "title": "巴洛克音乐"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-renaissance-music",
+    "title": "Renaissance music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-polyphony",
+    "title": "Polyphony",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "opera",
+  "title": "歌剧",
+  "kind": "风格",
+  "era": "17世纪—今",
+  "region": "欧洲",
+  "medium": "音乐体裁",
+  "def": "以歌唱和音乐叙述戏剧的舞台艺术形式，16世纪末诞生于佛罗伦萨。",
+  "when": "约公元1597年—至今",
+  "overview": "融合宣叙调、咏叹调、重唱与管弦乐，蒙特威尔第《奥菲欧》为早期杰作。",
+  "related": [
+   {
+    "id": "baroque-music",
+    "title": "巴洛克音乐"
+   },
+   {
+    "id": "monteverdi",
+    "title": "蒙特威尔第"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-opera",
+    "title": "Opera",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-baroque-music",
+    "title": "Baroque music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "tonality",
+  "title": "大小调体系",
+  "kind": "术语",
+  "era": "17—19世纪",
+  "region": "欧洲",
+  "medium": "音乐体裁",
+  "def": "以大调与小调音阶及功能和声为基础的调性体系。",
+  "when": "约公元1600—1900年",
+  "overview": "取代中世纪教会调式，确立主—属—下属的功能关系，是巴洛克至浪漫主义音乐的结构基础。",
+  "related": [
+   {
+    "id": "baroque-music",
+    "title": "巴洛克音乐"
+   },
+   {
+    "id": "classical-period-music",
+    "title": "古典主义音乐"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-tonality",
+    "title": "Tonality",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-baroque-music",
+    "title": "Baroque music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "bach",
+  "title": "巴赫",
+  "kind": "人物",
+  "era": "17—18世纪",
+  "region": "德国",
+  "medium": "音乐体裁",
+  "def": "德国巴洛克作曲家与管风琴家，被誉为西方音乐之父之一。",
+  "when": "1685—1750年",
+  "overview": "代表作《平均律钢琴曲集》《勃兰登堡协奏曲》《马太受难曲》，集复调艺术之大成。",
+  "related": [
+   {
+    "id": "baroque-music",
+    "title": "巴洛克音乐"
+   },
+   {
+    "id": "fugue",
+    "title": "赋格"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-bach",
+    "title": "Johann Sebastian Bach",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-baroque-music",
+    "title": "Baroque music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "classical-period-music",
+  "title": "古典主义音乐",
+  "kind": "时期",
+  "era": "18—19世纪初",
+  "region": "欧洲",
+  "medium": "音乐体裁",
+  "def": "18世纪中后期至19世纪初的欧洲音乐，以均衡、清晰与奏鸣曲式为特征。",
+  "when": "约公元1750—1820年",
+  "overview": "海顿、莫扎特与贝多芬确立交响曲、协奏曲与弦乐四重奏的古典范式，主调音乐占主导。",
+  "related": [
+   {
+    "id": "baroque-music",
+    "title": "巴洛克音乐"
+   },
+   {
+    "id": "romantic-music",
+    "title": "浪漫主义音乐"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-classical-period-music",
+    "title": "Classical period (music)",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-sonata",
+    "title": "Sonata",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "symphony",
+  "title": "交响曲",
+  "kind": "术语",
+  "era": "18世纪—今",
+  "region": "欧洲",
+  "medium": "音乐体裁",
+  "def": "为管弦乐队创作的多乐章大型器乐套曲。",
+  "when": "约公元18世纪中叶成型—至今",
+  "overview": "古典时期通常含四个乐章，第一乐章多用奏鸣曲式，海顿与莫扎特奠定其规范。",
+  "related": [
+   {
+    "id": "classical-period-music",
+    "title": "古典主义音乐"
+   },
+   {
+    "id": "beethoven",
+    "title": "贝多芬"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-symphony",
+    "title": "Symphony",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-classical-period-music",
+    "title": "Classical period (music)",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "mozart",
+  "title": "莫扎特",
+  "kind": "人物",
+  "era": "18世纪",
+  "region": "奥地利",
+  "medium": "音乐体裁",
+  "def": "奥地利作曲家，古典主义音乐的集大成者。",
+  "when": "1756—1791年",
+  "overview": "代表作《费加罗的婚礼》《唐璜》《魔笛》及大量协奏曲与交响曲，体裁涵盖广泛。",
+  "related": [
+   {
+    "id": "classical-period-music",
+    "title": "古典主义音乐"
+   },
+   {
+    "id": "opera",
+    "title": "歌剧"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-mozart",
+    "title": "Wolfgang Amadeus Mozart",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-classical-period-music",
+    "title": "Classical period (music)",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "beethoven",
+  "title": "贝多芬",
+  "kind": "人物",
+  "era": "18—19世纪",
+  "region": "德国",
+  "medium": "音乐体裁",
+  "def": "德意志作曲家，连接古典主义与浪漫主义的关键人物。",
+  "when": "1770—1827年",
+  "overview": "九部交响曲与《月光》《热情》等奏鸣曲拓展了结构规模与情感张力，晚期转向浪漫语汇。",
+  "related": [
+   {
+    "id": "classical-period-music",
+    "title": "古典主义音乐"
+   },
+   {
+    "id": "romantic-music",
+    "title": "浪漫主义音乐"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-beethoven",
+    "title": "Ludwig van Beethoven",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-classical-period-music",
+    "title": "Classical period (music)",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "romantic-music",
+  "title": "浪漫主义音乐",
+  "kind": "时期",
+  "era": "19世纪",
+  "region": "欧洲",
+  "medium": "音乐体裁",
+  "def": "19世纪的欧洲音乐潮流，强调情感、个性、民族性与宏大叙事。",
+  "when": "约公元1820—1900年",
+  "overview": "艺术歌曲、标题交响诗与大型歌剧兴盛，和声语言复杂化，古典时期的均衡形式被突破。",
+  "related": [
+   {
+    "id": "classical-period-music",
+    "title": "古典主义音乐"
+   },
+   {
+    "id": "20th-century-classical",
+    "title": "20世纪古典音乐"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-romantic-music",
+    "title": "Romantic music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-classical-period-music",
+    "title": "Classical period (music)",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "chopin",
+  "title": "肖邦",
+  "kind": "人物",
+  "era": "19世纪",
+  "region": "波兰/法国",
+  "medium": "音乐体裁",
+  "def": "波兰裔法国作曲家与钢琴家，以钢琴作品著称。",
+  "when": "1810—1849年",
+  "overview": "代表作《夜曲》《练习曲》《玛祖卡》，将钢琴的表现力与波兰民间节奏结合。",
+  "related": [
+   {
+    "id": "romantic-music",
+    "title": "浪漫主义音乐"
+   },
+   {
+    "id": "lied",
+    "title": "艺术歌曲"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-chopin",
+    "title": "Frederic Chopin",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-romantic-music",
+    "title": "Romantic music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "wagner",
+  "title": "瓦格纳",
+  "kind": "人物",
+  "era": "19世纪",
+  "region": "德国",
+  "medium": "音乐体裁",
+  "def": "德国作曲家与剧作家，以乐剧与和声革新影响深远。",
+  "when": "1813—1883年",
+  "overview": "代表作《尼伯龙根的指环》《特里斯坦与伊索尔德》，以无终旋律与半音化和声推向调性边界。",
+  "related": [
+   {
+    "id": "romantic-music",
+    "title": "浪漫主义音乐"
+   },
+   {
+    "id": "opera",
+    "title": "歌剧"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-wagner",
+    "title": "Richard Wagner",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-romantic-music",
+    "title": "Romantic music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "20th-century-classical",
+  "title": "20世纪古典音乐",
+  "kind": "时期",
+  "era": "20世纪",
+  "region": "欧美",
+  "medium": "音乐体裁",
+  "def": "20世纪的西方艺术音乐，以调性解体与多元技法探索为特征。",
+  "when": "约公元1900—2000年",
+  "overview": "印象主义、表现主义、序列主义、新古典主义与电子音乐并存，德彪西、勋伯格、斯特拉文斯基为代表。",
+  "related": [
+   {
+    "id": "romantic-music",
+    "title": "浪漫主义音乐"
+   },
+   {
+    "id": "serialism",
+    "title": "序列主义"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-20th-century-classical",
+    "title": "20th-century classical music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-serialism",
+    "title": "Serialism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ }
+]

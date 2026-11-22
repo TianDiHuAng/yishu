@@ -1,0 +1,14 @@
+{
+ "id": "surrealism",
+ "level": "L2",
+ "sections": {
+  "时代背景": "超现实主义于20世纪20年代兴起，活动时间约1924—1966年，是分布于欧洲的艺术与文学运动。它以绘画为主要呈现媒介。",
+  "风格特征": "超现实主义探索潜意识与梦境意象。它常以怪诞并置与精确写实描绘非理性场景。",
+  "代表人物与作品": "概述中以达利与马格利特为代表性人物。相关条目中的达达主义、抽象表现主义仅列标题以供参照，材料未提供具体作品名称。",
+  "技法或形式分析": "在技法上，超现实主义以精确写实的笔法描绘怪诞并置的非理性场景，营造真实与梦幻交错的画面效果。写实手段服务于潜意识与梦境意象的呈现。",
+  "与前后风格的关系和争论": "从相关条目看，超现实主义与达达主义、抽象表现主义相关联。记载较一致，学界主要讨论其分期与边界问题。",
+  "一图": "示意图以超现实主义为中心，展示梦境意象与怪诞并置的写实手法，并关联达达主义。",
+  "待核实": "材料未提供具体作品名称、创作年份与收藏地，待补充第二来源后再行补写。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='超现实主义 示意图'><title>超现实主义</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>超现实主义</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>欧洲</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>梦境意象</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>潜意识</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>怪诞并置</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>精确写实</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>达达主义</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>超现实主义以怪诞并置与精确写实描绘非理性场景</text></g></svg>"
+}

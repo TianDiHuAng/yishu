@@ -1,0 +1,14 @@
+{
+ "id": "20th-century-classical",
+ "level": "L2",
+ "sections": {
+  "时代背景": "20世纪古典音乐是20世纪的西方艺术音乐，时间约在公元1900—2000年，地域范围为欧美。它在浪漫主义音乐之后展开，以调性解体与多元技法探索为总体特征。",
+  "风格特征": "该时期以调性解体与多元技法探索为主要特征。印象主义、表现主义、序列主义、新古典主义与电子音乐并存，风格格局呈多元态势。",
+  "代表人物与作品": "概述点名的代表人物为德彪西、勋伯格与斯特拉文斯基。现有字段未列出具体作品，也未把诸位代表人物与某一流派逐一对应。",
+  "技法或形式分析": "调性解体被列为该时期的基本特征，序列主义则是概述提及的技法之一。印象主义、表现主义、新古典主义与电子音乐的并存，体现出技法与语言的多路探索。现有字段未提供更细的技术参数。",
+  "与前后风格的关系和争论": "从相关条目看，20世纪古典音乐承接浪漫主义音乐，序列主义为其相关条目之一。记载较一致，未见明确争论；学界主要讨论其内部流派的分期与边界问题。",
+  "一图": "示意图呈现20世纪古典音乐承接浪漫主义音乐，并以序列主义作为相关流派之一。",
+  "待核实": "代表人物的具体作品与各流派的起讫年份在现有字段中未给出。相关的作品与流派对应信息待补充第二来源。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='20世纪古典音乐 示意图'><title>20世纪古典音乐</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>浪漫主义音乐</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>19世纪</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>20世纪古典音乐</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>调性解体</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>序列主义</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>多元技法</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>20世纪古典音乐承接浪漫主义音乐，序列主义为其中一支</text></g></svg>"
+}

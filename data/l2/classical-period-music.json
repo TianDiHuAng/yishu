@@ -1,0 +1,14 @@
+{
+ "id": "classical-period-music",
+ "level": "L2",
+ "sections": {
+  "时代背景": "古典主义音乐约公元1750—1820年流行于欧洲，处于18世纪中后期至19世纪初。输入材料将主调音乐列为这一时期的主导写作方式。相关条目列出巴洛克音乐与浪漫主义音乐，提示其历史位置。",
+  "风格特征": "其定义强调均衡、清晰与奏鸣曲式。海顿、莫扎特与贝多芬确立交响曲、协奏曲与弦乐四重奏的古典范式。主调音乐占主导，是概述中明确指出的风格特征。",
+  "代表人物与作品": "概述点名海顿、莫扎特与贝多芬。相关成就集中在交响曲、协奏曲与弦乐四重奏的古典范式。这里不扩展输入未给出的具体作品年份或收藏信息。",
+  "技法或形式分析": "奏鸣曲式是定义中列明的核心形式特征。交响曲、协奏曲与弦乐四重奏构成概述中的主要体裁框架。材料同时指出主调音乐占主导，并将这些体裁置于古典范式之下。",
+  "与前后风格的关系和争论": "从相关条目的并置看，巴洛克音乐与浪漫主义音乐构成讨论其风格的参照。材料未给出具体学者争论或观点归属。记载较一致，学界主要讨论古典主义音乐的分期/边界问题。",
+  "一图": "示意图以巴洛克音乐、古典主义音乐、浪漫主义音乐及主调音乐、奏鸣曲式展示古典主义音乐的风格位置。",
+  "待核实": "输入字段未列出需在本条正文展开的具体作品年份、收藏地或引文。相关细节如需扩展，待补充第二来源。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='古典主义音乐 示意图'><title>古典主义音乐</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>古典主义音乐</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>欧洲</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>巴洛克音乐</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>音乐体裁</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>浪漫主义音乐</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>音乐体裁</text><rect class='svg-box-accent' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='665.0' y='142' text-anchor='middle'>主调音乐</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>奏鸣曲式</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>巴洛克音乐 古典主义音乐 浪漫主义音乐</text></g></svg>"
+}

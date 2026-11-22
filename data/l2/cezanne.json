@@ -1,0 +1,14 @@
+{
+ "id": "cezanne",
+ "level": "L2",
+ "sections": {
+  "时代背景": "塞尚生于1839年，卒于1906年，活动年代横跨19至20世纪，主要区域为法国。他是法国后印象派画家，以绘画为主要媒介，被誉为现代艺术之父。其创作年代与后印象派的时间范围相近。",
+  "风格特征": "塞尚的风格以几何化结构色块重组对象为特点。他追求画面的结构秩序，被誉为现代艺术之父。这种重视结构而非单纯再现的取向，是后印象派内部的重要一支。",
+  "代表人物与作品": "塞尚的代表作在概述中为《圣维克多山》与《静物》。他本人是法国后印象派画家的代表，以几何化结构色块重组对象见长。相关流派背景可参见后印象派条目，其影响的后续流派可参见立体主义条目。",
+  "技法或形式分析": "在技法层面，塞尚以几何化的结构色块重组对象，把对象组织为画面中的块面关系。这种以结构色块经营画面的方式，强调形式秩序而非对物象的直接摹写。概述未提供具体的用笔或设色材料细节，此处不作展开。",
+  "与前后风格的关系和争论": "塞尚属于后印象派，其以结构色块重组对象的做法启发了立体主义。就承接关系而言，后印象派是其所属脉络，立体主义则是受其启发的后继方向。记载较一致，学界主要讨论其作为现代艺术之父的定位及与立体主义之间的影响边界问题。",
+  "一图": "示意图标示塞尚作为后印象派画家，以几何化结构色块重组对象，并指向其启发的立体主义。",
+  "待核实": "概述列出《圣维克多山》《静物》为代表作，但未提供创作年份与收藏地，待补充第二来源核实。定义中称其被誉为现代艺术之父，材料未给出该称谓的出处，相关表述待补充来源佐证。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='塞尚 示意图'><title>塞尚</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>塞尚</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>后印象派画家</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>结构色块</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>几何化</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>立体主义</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>启发</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>塞尚以几何化结构色块重组对象并启发立体主义</text></g></svg>"
+}

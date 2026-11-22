@@ -1,0 +1,142 @@
+[
+ {
+  "id": "renaissance-music",
+  "title": "文艺复兴音乐",
+  "kind": "时期",
+  "era": "15—16世纪",
+  "region": "欧洲",
+  "medium": "音乐体裁",
+  "def": "欧洲文艺复兴时期的音乐，以复调技巧高度发展与世俗体裁兴起为特征。",
+  "when": "约公元1400—1600年",
+  "overview": "若斯坎、帕莱斯特里纳完善无伴奏合唱复调，牧歌等世俗体裁繁荣，印刷术推动传播。",
+  "related": [
+   {
+    "id": "medieval-music",
+    "title": "中世纪音乐"
+   },
+   {
+    "id": "baroque-music",
+    "title": "巴洛克音乐"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-renaissance-music",
+    "title": "Renaissance music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-polyphony",
+    "title": "Polyphony",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "opera",
+  "title": "歌剧",
+  "kind": "风格",
+  "era": "17世纪—今",
+  "region": "欧洲",
+  "medium": "音乐体裁",
+  "def": "以歌唱和音乐叙述戏剧的舞台艺术形式，16世纪末诞生于佛罗伦萨。",
+  "when": "约公元1597年—至今",
+  "overview": "融合宣叙调、咏叹调、重唱与管弦乐，蒙特威尔第《奥菲欧》为早期杰作。",
+  "related": [
+   {
+    "id": "baroque-music",
+    "title": "巴洛克音乐"
+   },
+   {
+    "id": "monteverdi",
+    "title": "蒙特威尔第"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-opera",
+    "title": "Opera",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-baroque-music",
+    "title": "Baroque music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "tonality",
+  "title": "大小调体系",
+  "kind": "术语",
+  "era": "17—19世纪",
+  "region": "欧洲",
+  "medium": "音乐体裁",
+  "def": "以大调与小调音阶及功能和声为基础的调性体系。",
+  "when": "约公元1600—1900年",
+  "overview": "取代中世纪教会调式，确立主—属—下属的功能关系，是巴洛克至浪漫主义音乐的结构基础。",
+  "related": [
+   {
+    "id": "baroque-music",
+    "title": "巴洛克音乐"
+   },
+   {
+    "id": "classical-period-music",
+    "title": "古典主义音乐"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-tonality",
+    "title": "Tonality",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-baroque-music",
+    "title": "Baroque music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "bach",
+  "title": "巴赫",
+  "kind": "人物",
+  "era": "17—18世纪",
+  "region": "德国",
+  "medium": "音乐体裁",
+  "def": "德国巴洛克作曲家与管风琴家，被誉为西方音乐之父之一。",
+  "when": "1685—1750年",
+  "overview": "代表作《平均律钢琴曲集》《勃兰登堡协奏曲》《马太受难曲》，集复调艺术之大成。",
+  "related": [
+   {
+    "id": "baroque-music",
+    "title": "巴洛克音乐"
+   },
+   {
+    "id": "fugue",
+    "title": "赋格"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-bach",
+    "title": "Johann Sebastian Bach",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-baroque-music",
+    "title": "Baroque music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ }
+]

@@ -1,0 +1,14 @@
+{
+ "id": "symphony",
+ "level": "L2",
+ "sections": {
+  "时代背景": "交响曲的年代标注为18世纪—今，约公元18世纪中叶成型并延续至今。其规范与古典时期相连，概述指出第一乐章多用奏鸣曲式。相关条目列出古典主义音乐与贝多芬。",
+  "风格特征": "交响曲是为管弦乐队创作的多乐章大型器乐套曲。古典时期通常含四个乐章，形成概述中强调的常见结构。第一乐章多用奏鸣曲式，是材料列出的形式重点。",
+  "代表人物与作品": "海顿与莫扎特奠定交响曲规范。相关条目另列贝多芬，未给出其作品细节，本条不追加。作品层面，输入只给出交响曲这一体裁及其结构信息。",
+  "技法或形式分析": "多乐章大型器乐套曲是其基本形式。古典时期的四个乐章中，第一乐章多用奏鸣曲式。海顿与莫扎特奠定规范，说明概述把体裁定型与古典时期相联系。",
+  "与前后风格的关系和争论": "相关条目把交响曲置于古典主义音乐与贝多芬的关联中。材料没有给出具体反弹或争论观点。记载较一致，学界主要讨论交响曲的分期/边界问题。",
+  "一图": "示意图用交响曲、古典时期、奏鸣曲式与海顿和莫扎特呈现其规范形成路径。",
+  "待核实": "输入未给出具体作品名称、作品年份或收藏信息。若需扩展这些细节，待补充第二来源。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='交响曲 示意图'><title>交响曲</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>交响曲</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>管弦乐队</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>古典时期</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>四个乐章</text><rect class='svg-box-accent' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='475.0' y='142' text-anchor='middle'>奏鸣曲式</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>第一乐章</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>海顿与莫扎特</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>规范</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>交响曲 古典时期 奏鸣曲式 海顿与莫扎特</text></g></svg>"
+}

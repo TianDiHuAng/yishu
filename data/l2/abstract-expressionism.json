@@ -1,0 +1,14 @@
+{
+ "id": "abstract-expressionism",
+ "level": "L2",
+ "sections": {
+  "时代背景": "抽象表现主义是二战后兴起于美国的绘画运动，活动时间约1940s—1950s。它以美国为主要分布地区。",
+  "风格特征": "抽象表现主义以大规模抽象画面与姿态性笔触为特征。它强调自发行动与潜意识表达。",
+  "代表人物与作品": "概述中波洛克以滴画法、罗斯科以色彩场为代表。相关条目中的超现实主义、极简主义仅列标题以供参照，材料未提供具体作品名称。",
+  "技法或形式分析": "在技法上，抽象表现主义以波洛克的滴画法与罗斯科的色彩场为代表路径。前者突出姿态性笔触与自发行动，后者以大规模色彩画面承载表达。",
+  "与前后风格的关系和争论": "从相关条目看，抽象表现主义与超现实主义、极简主义相关联。记载较一致，学界主要讨论其分期与边界问题。",
+  "一图": "示意图以抽象表现主义为中心，展示滴画法与色彩场两种代表路径，并关联超现实主义与极简主义。",
+  "待核实": "材料未提供具体作品名称、创作年份与收藏地，待补充第二来源后再行补写。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='抽象表现主义 示意图'><title>抽象表现主义</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>抽象表现主义</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>美国</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>滴画法</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>波洛克</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>色彩场</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>罗斯科</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>极简主义</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>抽象表现主义强调自发行动与潜意识表达，以大规模抽象画面为代表</text></g></svg>"
+}
