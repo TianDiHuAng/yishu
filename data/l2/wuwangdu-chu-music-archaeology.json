@@ -1,0 +1,14 @@
+{
+ "id": "wuwangdu-chu-music-archaeology",
+ "level": "L2",
+ "sections": {
+  "时代背景": "据官方新闻，2025年12月厦门大学团队公布安徽淮南武王墩楚王大墓乐器整理成果。材料将其置于中国音乐史与雅乐研究的背景中理解。相关成果目前属于阶段性发布，正式报告待发表。",
+  "风格特征": "据官方新闻，整理成果涉及漆木瑟与笙竽类乐器的复原，以及编钟测音工作。这些内容显示研究关注乐器实物与音响测定两个层面。材料把该成果与战国礼乐制度研究相联系。正式报告与测音数据尚待发表，特征归纳应保持审慎。",
+  "代表人物与作品": "输入材料仅给出厦门大学团队这一发布主体及安徽淮南武王墩楚王大墓这一发现地点。未提供具体个人姓名或独立作品名，此处不作补充。相关参照条目为雅乐与中国音乐史。",
+  "技法或形式分析": "从材料看，工作步骤包括乐器整理、漆木瑟与笙竽类乐器复原，以及编钟测音。复原与测音共同服务于礼乐制度研究的新材料建设。现有信息未给出测音数据与复原工艺细节，故不作技术性推断。",
+  "与前后风格的关系和争论": "材料把该成果置于雅乐与中国音乐史的既有背景中，强调其为战国礼乐制度研究提供新材料。由于正式考古报告与测音数据尚待发表，其结论仍属阶段性认识。学术争论的具体内容未在输入中出现，不作展开。",
+  "一图": "示意图呈现武王墩楚墓乐器整理到复原、测音、礼乐制度研究的关系，并标注正式报告待发表。",
+  "待核实": "据官方新闻，正式报告待发表，阶段性成果不得写成定论。年份仅用输入的2025年与2025年12月，不补充其他年代；测音数据、复原细节与具体结论均待正式报告核实。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='武王墩楚墓礼乐考古新进展 示意图'><title>武王墩楚墓礼乐考古新进展</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>乐器整理</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>楚王大墓成果</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>复原测音</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>漆木瑟笙竽编钟</text><rect class='svg-box-accent' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='475.0' y='142' text-anchor='middle'>礼乐制度</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>战国研究材料</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>正式报告</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>尚待发表</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>武王墩礼乐成果与待发表报告</text></g></svg>"
+}

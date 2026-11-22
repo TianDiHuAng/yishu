@@ -1,139 +1,104 @@
 [
  {
-  "id": "raphael",
-  "title": "拉斐尔",
-  "kind": "人物",
-  "era": "16世纪",
-  "region": "意大利",
-  "medium": "绘画",
-  "def": "意大利盛期文艺复兴画家，以和谐优雅的构图闻名。",
-  "when": "1483—1520年",
-  "overview": "代表作《雅典学院》《西斯廷圣母》，善用金字塔构图与柔和色彩。",
-  "related": [
-   {
-    "id": "high-renaissance",
-    "title": "盛期文艺复兴"
-   },
-   {
-    "id": "leonardo",
-    "title": "列奥纳多·达·芬奇"
-   }
-  ],
-  "sources": [
-   {
-    "id": "enc-raphael",
-    "title": "Raphael",
-    "author": "Wikipedia contributors",
-    "type": "权威百科"
-   },
-   {
-    "id": "enc-high-renaissance",
-    "title": "High Renaissance",
-    "author": "Wikipedia contributors",
-    "type": "权威百科"
-   }
-  ]
- },
- {
-  "id": "venetian-school",
-  "title": "威尼斯画派",
+  "id": "impression-crossmedia",
+  "title": "印象主义：光与色的跨媒介追求",
   "kind": "风格",
-  "era": "15—16世纪",
-  "region": "意大利",
-  "medium": "绘画",
-  "def": "以威尼斯为中心的绘画传统，重视色彩与光线甚于线条。",
-  "when": "约公元1450—1600年",
-  "overview": "采用油彩与渐进色塑造氛围，题材包括宗教、神话与肖像，乔尔乔内、提香为代表。",
-  "related": [
-   {
-    "id": "high-renaissance",
-    "title": "盛期文艺复兴"
-   },
-   {
-    "id": "mannerism",
-    "title": "样式主义"
-   }
-  ],
-  "sources": [
-   {
-    "id": "enc-venetian-school",
-    "title": "Venetian school (art)",
-    "author": "Wikipedia contributors",
-    "type": "权威百科"
-   },
-   {
-    "id": "enc-italian-renaissance-painting",
-    "title": "Italian Renaissance painting",
-    "author": "Wikipedia contributors",
-    "type": "权威百科"
-   }
-  ]
- },
- {
-  "id": "fugue",
-  "title": "赋格",
-  "kind": "术语",
-  "era": "17—18世纪",
+  "era": "19末—20世纪初",
   "region": "欧洲",
-  "medium": "音乐体裁",
-  "def": "以主题模仿与对位为基础的复调乐曲形式。",
-  "when": "约公元17世纪成熟",
-  "overview": "主题在各声部依次进入并展开，巴赫《平均律钢琴曲集》为赋格艺术的典范。",
+  "medium": "综合",
+  "def": "比较印象派绘画与印象主义音乐在氛围、色彩与音色上的共同追求。",
+  "when": "约1870—1920年",
+  "overview": "绘画以松散笔触与光色瞬间记录印象，音乐以色彩性和声与精致配器营造氛围，均弱化传统结构。",
   "related": [
    {
-    "id": "baroque-music",
-    "title": "巴洛克音乐"
+    "id": "impressionism",
+    "title": "印象派"
    },
    {
-    "id": "bach",
-    "title": "巴赫"
+    "id": "impressionism-music",
+    "title": "印象主义音乐"
    }
   ],
   "sources": [
    {
-    "id": "enc-fugue",
-    "title": "Fugue",
+    "id": "enc-impressionism",
+    "title": "Impressionism",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    },
    {
-    "id": "enc-baroque-music",
-    "title": "Baroque music",
+    "id": "enc-impressionist-music",
+    "title": "Impressionist music",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    }
   ]
  },
  {
-  "id": "monteverdi",
-  "title": "蒙特威尔第",
-  "kind": "人物",
-  "era": "16—17世纪",
-  "region": "意大利",
-  "medium": "音乐体裁",
-  "def": "意大利作曲家，早期歌剧的重要奠基者。",
-  "when": "1567—1643年",
-  "overview": "代表作《奥菲欧》《波佩亚的加冕》，推动宣叙调与管弦乐表现力的发展。",
+  "id": "modern-to-contemporary",
+  "title": "从现代到当代的分期衔接",
+  "kind": "时期",
+  "era": "20世纪",
+  "region": "欧美",
+  "medium": "综合",
+  "def": "梳理现代艺术与当代艺术之间的断代争议与过渡。",
+  "when": "约1950—1970年",
+  "overview": "现代艺术下限与当代艺术上限的划分无统一标准，抽象表现主义、波普与观念艺术构成过渡环节。",
   "related": [
    {
-    "id": "opera",
-    "title": "歌剧"
+    "id": "modern-art",
+    "title": "现代艺术"
    },
    {
-    "id": "baroque-music",
-    "title": "巴洛克音乐"
+    "id": "contemporary-art",
+    "title": "当代艺术"
    }
   ],
   "sources": [
    {
-    "id": "enc-opera",
-    "title": "Opera",
+    "id": "enc-modern-contemporary",
+    "title": "Modern art",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    },
    {
-    "id": "enc-baroque-music",
-    "title": "Baroque music",
+    "id": "enc-postmodern",
+    "title": "Postmodern art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "wuwangdu-chu-music-archaeology",
+  "title": "武王墩楚墓礼乐考古新进展",
+  "kind": "时期",
+  "era": "2025年",
+  "region": "中国",
+  "medium": "音乐体裁",
+  "def": "2025年厦门大学团队公布安徽淮南武王墩楚王大墓乐器整理成果，复原漆木瑟与笙竽类乐器并进行编钟测音。",
+  "when": "2025年12月",
+  "overview": "该成果为战国礼乐制度研究提供新材料，正式考古报告与测音数据尚待发表，本条仅据官方新闻与既有中国音乐史背景作审慎概述。",
+  "related": [
+   {
+    "id": "yayue",
+    "title": "雅乐"
+   },
+   {
+    "id": "china-music-history",
+    "title": "中国音乐史"
+   }
+  ],
+  "sources": [
+   {
+    "id": "news-xiamen-wuwangdu",
+    "title": "厦门大学武王墩楚墓礼乐考古研究进展",
+    "author": "厦门大学新闻网",
+    "type": "官方机构"
+   },
+   {
+    "id": "enc-chinese-music",
+    "title": "Chinese music",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    }

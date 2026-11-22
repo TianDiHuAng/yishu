@@ -1049,6 +1049,96 @@
       "type": "权威百科",
       "verified": true,
       "verified_note": "HTTP200 <title>=Longshan culture - Wikipedia"
+    },
+    {
+      "id": "enc-impressionist-music",
+      "title": "Impressionist music",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Impressionist_music",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=Impressionism in music - Wikipedia"
+    },
+    {
+      "id": "enc-art-history",
+      "title": "Art history",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Art_history",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=Art history - Wikipedia"
+    },
+    {
+      "id": "enc-musicology",
+      "title": "Musicology",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Musicology",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=Musicology - Wikipedia"
+    },
+    {
+      "id": "enc-art-criticism",
+      "title": "Art criticism",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Art_criticism",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=Art criticism - Wikipedia"
+    },
+    {
+      "id": "enc-modern-contemporary",
+      "title": "Modern art",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Modern_art",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=Modern art - Wikipedia"
+    },
+    {
+      "id": "enc-postmodern",
+      "title": "Postmodern art",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Postmodern_art",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=Postmodern art - Wikipedia"
+    },
+    {
+      "id": "enc-baroque-art",
+      "title": "Baroque art",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Baroque_art",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=Baroque - Wikipedia"
+    },
+    {
+      "id": "enc-romantic-art",
+      "title": "Romantic art",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Romantic_art",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=Romantic art - Wikipedia"
+    },
+    {
+      "id": "news-xiamen-wuwangdu",
+      "title": "厦门大学武王墩楚墓礼乐考古研究进展",
+      "author": "厦门大学新闻网",
+      "year": "2025",
+      "url": "https://news.xmu.edu.cn/info/1003/513182.htm",
+      "type": "官方机构",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=厦门大学团队在武王墩楚墓的考古研究新进展获央视报道-厦门大学新闻网"
     }
   ]
 }

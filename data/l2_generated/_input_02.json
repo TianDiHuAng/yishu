@@ -1,139 +1,135 @@
 [
  {
-  "id": "yangshao-painted-pottery",
-  "title": "仰韶彩陶",
-  "kind": "风格",
-  "era": "新石器时代",
-  "region": "中国",
-  "medium": "绘画",
-  "def": "仰韶文化以彩绘陶器为特征，是中国史前艺术的重要门类。",
-  "when": "约公元前5000—前3000年",
-  "overview": "彩陶以几何纹与动物纹为主，颜料多为黑彩与红彩，器型与纹样反映史前社会的审美与信仰。",
+  "id": "musicology-note",
+  "title": "音乐史与音乐学的区分",
+  "kind": "术语",
+  "era": "学科方法",
+  "region": "全球",
+  "medium": "音乐体裁",
+  "def": "音乐史按时代叙述音乐变迁，音乐学以更广的方法研究音乐现象。",
+  "when": "历代",
+  "overview": "音乐史侧重时间线索与体裁沿革，音乐学包含历史音乐学、民族音乐学、音乐理论等分支。",
   "related": [
    {
-    "id": "china-painting-history",
-    "title": "中国绘画史"
-   },
-   {
-    "id": "cave-art",
-    "title": "洞穴壁画"
+    "id": "what-is-music-history",
+    "title": "什么是音乐史"
    }
   ],
   "sources": [
    {
-    "id": "enc-yangshao",
-    "title": "Yangshao culture",
+    "id": "enc-musicology",
+    "title": "Musicology",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    },
    {
-    "id": "enc-chinese-pottery",
-    "title": "Chinese pottery",
+    "id": "enc-classical-period-music",
+    "title": "Classical period (music)",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    }
   ]
  },
  {
-  "id": "mannerism",
-  "title": "样式主义",
+  "id": "baroque-crossmedia",
+  "title": "巴洛克：艺术与音乐的共通美学",
   "kind": "风格",
-  "era": "16世纪中后期",
-  "region": "意大利及欧洲",
-  "medium": "绘画,雕塑",
-  "def": "盛期文艺复兴之后出现的风格，追求精致、夸张与非常规的比例。",
-  "when": "约公元1520—1600年",
-  "overview": "人物体态修长、姿态扭动，色彩与空间处理刻意反自然，被视为对古典均衡的有意偏离。",
+  "era": "17—18世纪",
+  "region": "欧洲",
+  "medium": "综合",
+  "def": "比较巴洛克艺术与巴洛克音乐在动势、戏剧性与对比手法上的共通追求。",
+  "when": "约17—18世纪",
+  "overview": "视觉艺术以明暗对照与对角线构图制造动势，音乐以力度对比、通奏低音与大型声乐体裁强化戏剧性。",
   "related": [
-   {
-    "id": "high-renaissance",
-    "title": "盛期文艺复兴"
-   },
    {
     "id": "baroque",
     "title": "巴洛克"
+   },
+   {
+    "id": "baroque-music",
+    "title": "巴洛克音乐"
    }
   ],
   "sources": [
    {
-    "id": "enc-mannerism",
-    "title": "Mannerism",
+    "id": "enc-baroque-art",
+    "title": "Baroque art",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    },
    {
-    "id": "enc-high-renaissance",
-    "title": "High Renaissance",
+    "id": "enc-baroque-music",
+    "title": "Baroque music",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    }
   ]
  },
  {
-  "id": "mona-lisa",
-  "title": "《蒙娜丽莎》",
-  "kind": "作品",
-  "era": "16世纪",
-  "region": "意大利",
-  "medium": "绘画",
-  "def": "列奥纳多·达·芬奇创作的肖像画，现藏巴黎卢浮宫。",
-  "when": "约1503—1519年",
-  "overview": "以渐进色与明暗法塑造柔和的面部过渡，坐姿采用金字塔构图。",
+  "id": "romantic-crossmedia",
+  "title": "浪漫主义：绘画与音乐两种媒介",
+  "kind": "风格",
+  "era": "19世纪",
+  "region": "欧洲",
+  "medium": "综合",
+  "def": "比较浪漫主义在绘画与音乐中的题材选择、情感表达与形式突破。",
+  "when": "约19世纪",
+  "overview": "绘画偏重戏剧性题材与色彩表现，音乐偏重情感张力、民族性与和声复杂化，共享对个体情感的强调。",
   "related": [
    {
-    "id": "leonardo",
-    "title": "列奥纳多·达·芬奇"
+    "id": "romanticism-art",
+    "title": "浪漫主义（艺术）"
    },
    {
-    "id": "high-renaissance",
-    "title": "盛期文艺复兴"
+    "id": "romantic-music",
+    "title": "浪漫主义音乐"
    }
   ],
   "sources": [
    {
-    "id": "enc-leonardo",
-    "title": "Leonardo da Vinci",
+    "id": "enc-romantic-art",
+    "title": "Romantic art",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    },
    {
-    "id": "enc-renaissance",
-    "title": "Renaissance",
+    "id": "enc-romantic-music",
+    "title": "Romantic music",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    }
   ]
  },
  {
-  "id": "northern-renaissance",
-  "title": "北方文艺复兴",
+  "id": "renaissance-crossmedia",
+  "title": "文艺复兴：美术与音乐的同期性",
   "kind": "风格",
-  "era": "15—16世纪",
-  "region": "北欧",
-  "medium": "绘画",
-  "def": "阿尔卑斯山以北地区的文艺复兴艺术，以精细写实与油画技法见长。",
-  "when": "约公元1400—1600年",
-  "overview": "注重细节描绘与世俗题材，凡·艾克兄弟完善油画技法，出现风景画与风俗画的独立倾向。",
+  "era": "14—16世纪",
+  "region": "欧洲",
+  "medium": "综合",
+  "def": "比较视觉艺术与音乐在文艺复兴时期的时间重合与人文主义共同背景。",
+  "when": "约14—16世纪",
+  "overview": "两个领域同受人文主义影响，艺术复兴古典形式，音乐发展复调与世俗体裁，但具体断代略有错位。",
   "related": [
    {
     "id": "renaissance",
     "title": "文艺复兴"
    },
    {
-    "id": "mannerism",
-    "title": "样式主义"
+    "id": "renaissance-music",
+    "title": "文艺复兴音乐"
    }
   ],
   "sources": [
    {
-    "id": "enc-northern-renaissance",
-    "title": "Northern Renaissance",
+    "id": "enc-renaissance",
+    "title": "Renaissance",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    },
    {
-    "id": "enc-renaissance",
-    "title": "Renaissance",
+    "id": "enc-renaissance-music",
+    "title": "Renaissance music",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    }

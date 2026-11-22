@@ -1,9 +1,9 @@
 {
   "meta": {
-    "total": 114,
+    "total": 125,
     "per_round_cap": 40,
     "current_round": 1,
-    "unit_count": 17,
+    "unit_count": 20,
     "outline_sources": [
       "O1",
       "O2",
@@ -1381,6 +1381,138 @@
       "pending_notes": "",
       "last_update": "2026-11-22",
       "source_independence_ok": false
+    },
+    "what-is-art-history": {
+      "title": "什么是艺术史",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 2,
+      "verified_sources_count": 2,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "what-is-music-history": {
+      "title": "什么是音乐史",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 2,
+      "verified_sources_count": 2,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "reading-path": {
+      "title": "零基础阅读路径",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 2,
+      "verified_sources_count": 2,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "art-criticism-note": {
+      "title": "艺术史与艺术批评的区分",
+      "tier": "补充",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 2,
+      "verified_sources_count": 2,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "musicology-note": {
+      "title": "音乐史与音乐学的区分",
+      "tier": "补充",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 2,
+      "verified_sources_count": 2,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "baroque-crossmedia": {
+      "title": "巴洛克：艺术与音乐的共通美学",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 2,
+      "verified_sources_count": 2,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "romantic-crossmedia": {
+      "title": "浪漫主义：绘画与音乐两种媒介",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 2,
+      "verified_sources_count": 2,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "renaissance-crossmedia": {
+      "title": "文艺复兴：美术与音乐的同期性",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 2,
+      "verified_sources_count": 2,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "impression-crossmedia": {
+      "title": "印象主义：光与色的跨媒介追求",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 2,
+      "verified_sources_count": 2,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "modern-to-contemporary": {
+      "title": "从现代到当代的分期衔接",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 2,
+      "verified_sources_count": 2,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "wuwangdu-chu-music-archaeology": {
+      "title": "武王墩楚墓礼乐考古新进展",
+      "tier": "补充",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 2,
+      "verified_sources_count": 2,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
     }
   }
 }

@@ -1,0 +1,14 @@
+{
+ "id": "reading-path",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本条目属导读性质，输入时段标为『历代』，表示路径适用于通史范围的学习。def 将其界定为本知识库推荐的入门到深入的学习顺序。输入未提供具体课时或阶段年代数据。",
+  "风格特征": "据 overview，路径依次为学科导论、通史单元、核心流派、代表人物与作品。这一顺序体现先建立框架再深入细节的原则。输入未提供各单元的风格名称，故不展开具体流派特征。",
+  "代表人物与作品": "overview 把『代表人物与作品』列为阅读路径的末端环节，而非本条目自身的内容。输入事实未列出任何具体人物或作品。依规则不补写人名、作品名与收藏地，具体人物与作品须到相应条目中查阅。",
+  "技法或形式分析": "据 overview，阅读方法是从学科导论进入通史单元，再进入核心流派，最后到代表人物与作品。这种由框架到细节的安排，是本条目给出的核心方法。related 中的『什么是艺术史』与『什么是音乐史』，可作为路径起点的导论参照。",
+  "与前后风格的关系和争论": "related 列出『什么是艺术史』与『什么是音乐史』，二者对应路径起点的学科导论。overview 未涉及不同路径主张之间的争论。输入也没有提供流派先后的具体论述，故此处只说明路径与两门导论的关系。",
+  "一图": "示意图呈现学科导论、通史单元、核心流派、代表人物与作品的递进顺序，体现先框架后细节的原则。",
+  "待核实": "输入仅给出 def/when/overview/related/sources，未提供具体页面、章节或课时数据。sources 中 Art history 与 Musicology 为 Wikipedia contributors 的权威百科条目，可作延伸核对。路径各环节的具体内容需对照对应条目确认。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='零基础阅读路径 示意图'><title>零基础阅读路径</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>学科导论</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>入门</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>通史单元</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>建立框架</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>核心流派</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>深入细节</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>代表人物与作品</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>学习顺序</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>学科导论→通史单元→核心流派→代表人物与作品</text></g></svg>"
+}

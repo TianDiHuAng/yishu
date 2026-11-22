@@ -1,0 +1,14 @@
+{
+ "id": "romantic-crossmedia",
+ "level": "L2",
+ "sections": {
+  "时代背景": "约19世纪，欧洲绘画与音乐并行发展，本条比较《浪漫主义（艺术）》与《浪漫主义音乐》两种媒介。概述指出二者共享对个体情感的强调。这一共同点是跨媒介对照的出发点。背景描述仅依据输入信息，不补充输入之外的年代或事件。",
+  "风格特征": "《浪漫主义（艺术）》一侧，绘画偏重戏剧性题材与色彩表现。《浪漫主义音乐》一侧，音乐偏重情感张力、民族性与和声复杂化。二者虽题材与手段不同，却都以情感表达为核心。对个体情感的强调，是两者共享的美学底色。",
+  "代表人物与作品": "输入材料未列出具体人物或作品名称，故此处不作列举。依据来源为《Romantic art》与《Romantic music》两条权威百科，作者标注为 Wikipedia contributors。对照以概述所列倾向为限，不扩展至输入未给出的名家名作。",
+  "技法或形式分析": "绘画一侧的着力点在题材选择与色彩表现，属于视觉与造型层面。音乐一侧的着力点在情感张力、民族性与和声复杂化，属于听觉与结构层面。前者借戏剧性题材与色彩传达情绪，后者借和声复杂化等手段推高情感张力。两条路径在“强调个体情感”上汇合。",
+  "与前后风格的关系和争论": "输入材料未提供前后风格或相关争论的具体内容，故此处不作延伸。本条仅就同一时期两种媒介的共通点作并列比较。若要讨论浪漫主义与前代或后继风格的关系，需另据专门条目核实。",
+  "一图": "示意图呈现绘画的戏剧性题材与色彩表现、音乐的情感张力与和声复杂化，共同指向对个体情感的强调。",
+  "待核实": "对照限于概述所列倾向，具体人物、作品与年代均未纳入。两条来源均为权威百科，民族性与和声复杂化等表述的细化待专门文献印证。两种媒介的断代是否完全同步，也需核实。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='浪漫主义：绘画与音乐两种媒介 示意图'><title>浪漫主义：绘画与音乐两种媒介</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>浪漫主义（艺术）</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>绘画</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>浪漫主义音乐</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>音乐</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>个体情感</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>共享强调</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>形式突破</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>情感表达</text><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>绘画与音乐的题材选择、情感表达与形式突破</text></g></svg>"
+}

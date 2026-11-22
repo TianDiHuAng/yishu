@@ -2392,6 +2392,235 @@
         "enc-chinese-music",
         "enc-guzheng"
       ]
+    },
+    {
+      "id": "what-is-art-history",
+      "title": "什么是艺术史",
+      "kind": "术语",
+      "unit": "overview-guide",
+      "era": "学科方法",
+      "region": "全球",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "研究视觉艺术的历史发展、风格演变与社会文化语境的学科。",
+      "when": "历代",
+      "overview": "艺术史区别于艺术鉴赏与艺术批评，关注作品在历史脉络中的位置、风格承变与生产条件。",
+      "related": [
+        "art-criticism-note",
+        "reading-path"
+      ],
+      "sources": [
+        "enc-art-history",
+        "enc-art-criticism"
+      ]
+    },
+    {
+      "id": "what-is-music-history",
+      "title": "什么是音乐史",
+      "kind": "术语",
+      "unit": "overview-guide",
+      "era": "学科方法",
+      "region": "全球",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "研究音乐的历史发展、体裁演变与风格变迁的学科。",
+      "when": "历代",
+      "overview": "音乐史区别于乐理与音乐学，按时代与体裁梳理作曲实践、形式技法与接受语境。",
+      "related": [
+        "musicology-note",
+        "reading-path"
+      ],
+      "sources": [
+        "enc-musicology",
+        "enc-medieval-music"
+      ]
+    },
+    {
+      "id": "reading-path",
+      "title": "零基础阅读路径",
+      "kind": "术语",
+      "unit": "overview-guide",
+      "era": "学科方法",
+      "region": "全球",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "本知识库推荐的入门到深入的学习顺序。",
+      "when": "历代",
+      "overview": "建议按学科导论→通史单元→核心流派→代表人物与作品的顺序阅读，先建立框架再深入细节。",
+      "related": [
+        "what-is-art-history",
+        "what-is-music-history"
+      ],
+      "sources": [
+        "enc-art-history",
+        "enc-musicology"
+      ]
+    },
+    {
+      "id": "art-criticism-note",
+      "title": "艺术史与艺术批评的区分",
+      "kind": "术语",
+      "unit": "overview-guide",
+      "era": "学科方法",
+      "region": "全球",
+      "medium": "综合",
+      "tier": "补充",
+      "def": "艺术史重历史脉络与事实考证，艺术批评重价值判断与阐释。",
+      "when": "历代",
+      "overview": "二者视角不同：前者追问作品为何产生、如何演变，后者评价作品优劣与意义。",
+      "related": [
+        "what-is-art-history"
+      ],
+      "sources": [
+        "enc-art-history",
+        "enc-art-criticism"
+      ]
+    },
+    {
+      "id": "musicology-note",
+      "title": "音乐史与音乐学的区分",
+      "kind": "术语",
+      "unit": "overview-guide",
+      "era": "学科方法",
+      "region": "全球",
+      "medium": "音乐体裁",
+      "tier": "补充",
+      "def": "音乐史按时代叙述音乐变迁，音乐学以更广的方法研究音乐现象。",
+      "when": "历代",
+      "overview": "音乐史侧重时间线索与体裁沿革，音乐学包含历史音乐学、民族音乐学、音乐理论等分支。",
+      "related": [
+        "what-is-music-history"
+      ],
+      "sources": [
+        "enc-musicology",
+        "enc-classical-period-music"
+      ]
+    },
+    {
+      "id": "baroque-crossmedia",
+      "title": "巴洛克：艺术与音乐的共通美学",
+      "kind": "风格",
+      "unit": "comparative",
+      "era": "17—18世纪",
+      "region": "欧洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "比较巴洛克艺术与巴洛克音乐在动势、戏剧性与对比手法上的共通追求。",
+      "when": "约17—18世纪",
+      "overview": "视觉艺术以明暗对照与对角线构图制造动势，音乐以力度对比、通奏低音与大型声乐体裁强化戏剧性。",
+      "related": [
+        "baroque",
+        "baroque-music"
+      ],
+      "sources": [
+        "enc-baroque-art",
+        "enc-baroque-music"
+      ]
+    },
+    {
+      "id": "romantic-crossmedia",
+      "title": "浪漫主义：绘画与音乐两种媒介",
+      "kind": "风格",
+      "unit": "comparative",
+      "era": "19世纪",
+      "region": "欧洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "比较浪漫主义在绘画与音乐中的题材选择、情感表达与形式突破。",
+      "when": "约19世纪",
+      "overview": "绘画偏重戏剧性题材与色彩表现，音乐偏重情感张力、民族性与和声复杂化，共享对个体情感的强调。",
+      "related": [
+        "romanticism-art",
+        "romantic-music"
+      ],
+      "sources": [
+        "enc-romantic-art",
+        "enc-romantic-music"
+      ]
+    },
+    {
+      "id": "renaissance-crossmedia",
+      "title": "文艺复兴：美术与音乐的同期性",
+      "kind": "风格",
+      "unit": "comparative",
+      "era": "14—16世纪",
+      "region": "欧洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "比较视觉艺术与音乐在文艺复兴时期的时间重合与人文主义共同背景。",
+      "when": "约14—16世纪",
+      "overview": "两个领域同受人文主义影响，艺术复兴古典形式，音乐发展复调与世俗体裁，但具体断代略有错位。",
+      "related": [
+        "renaissance",
+        "renaissance-music"
+      ],
+      "sources": [
+        "enc-renaissance",
+        "enc-renaissance-music"
+      ]
+    },
+    {
+      "id": "impression-crossmedia",
+      "title": "印象主义：光与色的跨媒介追求",
+      "kind": "风格",
+      "unit": "comparative",
+      "era": "19末—20世纪初",
+      "region": "欧洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "比较印象派绘画与印象主义音乐在氛围、色彩与音色上的共同追求。",
+      "when": "约1870—1920年",
+      "overview": "绘画以松散笔触与光色瞬间记录印象，音乐以色彩性和声与精致配器营造氛围，均弱化传统结构。",
+      "related": [
+        "impressionism",
+        "impressionism-music"
+      ],
+      "sources": [
+        "enc-impressionism",
+        "enc-impressionist-music"
+      ]
+    },
+    {
+      "id": "modern-to-contemporary",
+      "title": "从现代到当代的分期衔接",
+      "kind": "时期",
+      "unit": "glossary-tools",
+      "era": "20世纪",
+      "region": "欧美",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "梳理现代艺术与当代艺术之间的断代争议与过渡。",
+      "when": "约1950—1970年",
+      "overview": "现代艺术下限与当代艺术上限的划分无统一标准，抽象表现主义、波普与观念艺术构成过渡环节。",
+      "related": [
+        "modern-art",
+        "contemporary-art"
+      ],
+      "sources": [
+        "enc-modern-contemporary",
+        "enc-postmodern"
+      ]
+    },
+    {
+      "id": "wuwangdu-chu-music-archaeology",
+      "title": "武王墩楚墓礼乐考古新进展",
+      "kind": "时期",
+      "unit": "music-china",
+      "era": "2025年",
+      "region": "中国",
+      "medium": "音乐体裁",
+      "tier": "补充",
+      "def": "2025年厦门大学团队公布安徽淮南武王墩楚王大墓乐器整理成果，复原漆木瑟与笙竽类乐器并进行编钟测音。",
+      "when": "2025年12月",
+      "overview": "该成果为战国礼乐制度研究提供新材料，正式考古报告与测音数据尚待发表，本条仅据官方新闻与既有中国音乐史背景作审慎概述。",
+      "related": [
+        "yayue",
+        "china-music-history"
+      ],
+      "sources": [
+        "news-xiamen-wuwangdu",
+        "enc-chinese-music"
+      ]
     }
   ]
 }
