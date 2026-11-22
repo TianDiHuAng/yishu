@@ -773,6 +773,37 @@
       "check_links_result": "broken=0(176页)",
       "audit_all": "7/7 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle30",
+      "date": "2026-11-22",
+      "status": "completed",
+      "gap_methods": [
+        "F体检(第六次)+新型结构校验"
+      ],
+      "network": "partial",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 145,
+      "fixes": 1,
+      "healthcheck": {
+        "audit_steps": "8/8",
+        "dead": 0,
+        "duplicates": 0,
+        "contradictions": 0,
+        "orphans": 0,
+        "bad_anchors": 0,
+        "sitemap": "176/176 一致",
+        "contrast": "AA",
+        "oneway": 0,
+        "render_mismatch": 0,
+        "html_struct_errors": 0
+      },
+      "guard_test": "注入故障→报3处未闭合且 rc=1；重建后 rc=0（证明守卫有效）",
+      "liveness_sample": "8/8 HTTP 200（最新锚点）",
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(176页)",
+      "commits": 1
     }
   ]
 }

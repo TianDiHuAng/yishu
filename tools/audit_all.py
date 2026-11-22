@@ -19,6 +19,7 @@ STEPS=[
  ("consistency_audit.py（内容自洽）","tools/consistency_audit.py"),
  ("link_audit.py（关联图）","tools/link_audit.py"),
  ("oneway_audit.py（单向关联）","tools/oneway_audit.py"),
+ ("pending_render_audit_c30.py（渲染一致性+HTML结构）","tools/pending_render_audit_c30.py"),
 ]
 summary=[]
 fails=0
