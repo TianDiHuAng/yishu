@@ -507,6 +507,10 @@ ROWS = [
  "11—12世纪西欧以厚墙、小窗、半圆拱与筒形拱为特征的建筑样式。","约11—12世纪",
  "半圆拱与厚重墙体承担荷载，门楣与柱头雕塑承担叙事功能；不同地区在材料与细部上各有差异。",
  "romanesque,gothic-architecture","enc-romanesque,enc-romanesque-architecture,wd-romanesque-architecture"),
+("khmer-architecture","高棉建筑","风格","art-asia","古代—中世纪","东南亚","建筑","重要",
+ "柬埔寨高棉帝国时期的宗教建筑传统，以吴哥建筑群为代表。","约公元9—15世纪",
+ "塔庙以层层台基与尖顶构成山形轮廓，护城河环绕象征海洋，浮雕长廊以史诗与王室场景组织叙事。",
+ "khmer-art,angkor","enc-khmer-art,enc-angkor,wd-angkor-wat"),
 ]
 
 def entries():

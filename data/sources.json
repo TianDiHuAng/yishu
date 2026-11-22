@@ -2039,6 +2039,16 @@
       "type": "权威结构化数据",
       "verified": true,
       "verified_note": "Cycle17 curl 读取 EntityData 成功；desc 含 architectural style/médieval"
+    },
+    {
+      "id": "wd-angkor-wat",
+      "title": "Wikidata: Angkor Wat（Q43473）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q43473",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle18 curl 读取成功；标签=Angkor Wat；desc 为寺庙建筑群"
     }
   ]
 }

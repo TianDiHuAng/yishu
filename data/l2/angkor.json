@@ -10,5 +10,9 @@
   "一图": "示意图表达吴哥窟在高棉艺术脉络中的位置及其宗教与王权含义。",
   "待核实": "输入的 when 字段给出约公元9—15世纪，精确年代区间待核实。sources 仅列 Angkor 与 Khmer art 等权威百科条目，输入未提供更细的分期依据。具体人物、作品收藏地与引文出处均未在输入事实中给出，待补充第二来源。"
  },
- "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='吴哥窟 示意图'><title>吴哥窟</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>吴哥窟</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>寺庙建筑群</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>高棉艺术</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>高棉帝国</text><text class='svg-caption' x='380' y='262' text-anchor='middle'>吴哥窟与高棉艺术</text></g></svg>"
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='吴哥窟 示意图'><title>吴哥窟</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>吴哥窟</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>寺庙建筑群</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>高棉艺术</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>高棉帝国</text><text class='svg-caption' x='380' y='262' text-anchor='middle'>吴哥窟与高棉艺术</text></g></svg>",
+ "related": [
+  "khmer-art",
+  "khmer-architecture"
+ ]
 }

@@ -3021,6 +3021,28 @@
         "enc-romanesque-architecture",
         "wd-romanesque-architecture"
       ]
+    },
+    {
+      "id": "khmer-architecture",
+      "title": "高棉建筑",
+      "kind": "风格",
+      "unit": "art-asia",
+      "era": "古代—中世纪",
+      "region": "东南亚",
+      "medium": "建筑",
+      "tier": "重要",
+      "def": "柬埔寨高棉帝国时期的宗教建筑传统，以吴哥建筑群为代表。",
+      "when": "约公元9—15世纪",
+      "overview": "塔庙以层层台基与尖顶构成山形轮廓，护城河环绕象征海洋，浮雕长廊以史诗与王室场景组织叙事。",
+      "related": [
+        "khmer-art",
+        "angkor"
+      ],
+      "sources": [
+        "enc-khmer-art",
+        "enc-angkor",
+        "wd-angkor-wat"
+      ]
     }
   ]
 }

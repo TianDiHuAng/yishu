@@ -431,6 +431,27 @@
       "check_links_result": "broken=0(173页)",
       "audit_all": "6/6 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle18",
+      "date": "2026-11-22",
+      "status": "completed",
+      "gap_methods": [
+        "B2矩阵A类(建筑,第二条)",
+        "B5核验"
+      ],
+      "network": "partial: wikidata ok; 新通道扫描无可用",
+      "new_entries": 1,
+      "upgrades": 0,
+      "reviews": 1,
+      "fixes": 1,
+      "new_sources": 1,
+      "sources_total": 205,
+      "honesty_fix": "删去来源未支撑的「19世纪后重新发现」表述并记明原委",
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(174页)",
+      "audit_all": "6/6 ok",
+      "commits": 1
     }
   ]
 }
