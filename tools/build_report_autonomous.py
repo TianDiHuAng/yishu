@@ -30,6 +30,8 @@ L.append("- 新增来源：**%d**"%cur.get("new_sources",0))
 if cur.get("qc_result"): L.append("- 质量闸：**%s**"%cur["qc_result"])
 if cyc=="cycle3":
     L.append("- 本轮特别说明：B5 复核 45 项待核实 → 38 项找到可核验第二来源并写入【已复核】留痕；B3 孤儿页 38→0（新增84条双向补链）；QC 收尾补 Bach/Vivaldi 来源并修正18处截断URL。")
+if cyc=="cycle32":
+    L.append("- 本轮针对 15 条中国专题条目试**中文同义别名**检索，**采纳 4 条、拒绝 11 条**，锚定率 79%→**81%（118/145）**。采纳的都是口径严丝合缝者：ming-painting→Q6864640『Ming dynasty painting』、xieyi→Q10894988『xieyi painting』、china-music-history→Q277393『music of China』、pipa→Q6685124『pipa』（Chinese plucked lute，终于不是日本 biwa/古诗/馆藏器物）。11 条否决理由逐条写进 reports/entity_pass7_vetted.md：唐代绘画→Tang dynasty art 偏宽、敦煌艺术→Mogao Caves 是遗址、魏晋南北朝→是历史时期、玉器/青铜器→仅材质门类等。活性抽样 4/4 HTTP 200。")
 if cyc=="cycle31":
     L.append("- 本轮按 D030 的待办做**人工指定 QID**：为 19 条「其余」未锚定条目手工给出英文检索词，逐个检索并核对口径，**采纳 14 条、拒绝 5 条**，锚定率 **69% → 79%（114/145）**。亮点：romanesque 终于锚到 **Q46805『Romanesque art』**（艺术风格，而非 Cycle23 被拒的『建筑』实体）；tonality → Q192822『tonal system』对应「大小调体系」。并确立**口径一致**否决标准：宽（Buddhist art 对印度佛教艺术、Paleolithic art 对旧石器雕塑）或窄（法国巴洛克音乐）、或描述为空，一律拒绝。活性抽样 5/5 HTTP 200。")
 if cyc=="cycle30":

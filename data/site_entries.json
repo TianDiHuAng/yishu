@@ -2396,7 +2396,8 @@
       ],
       "sources": [
         "enc-chinese-painting",
-        "enc-chinese-calligraphy"
+        "enc-chinese-calligraphy",
+        "wd-anchor-ming-painting"
       ],
       "level": "L2",
       "sections": {
@@ -2460,7 +2461,8 @@
       ],
       "sources": [
         "enc-chinese-painting",
-        "enc-chinese-calligraphy"
+        "enc-chinese-calligraphy",
+        "wd-anchor-xieyi"
       ],
       "level": "L2",
       "sections": {
@@ -4107,7 +4109,8 @@
       ],
       "sources": [
         "enc-chinese-music",
-        "enc-guzheng"
+        "enc-guzheng",
+        "wd-anchor-china-music-history"
       ],
       "level": "L2",
       "sections": {
@@ -4239,7 +4242,8 @@
       ],
       "sources": [
         "enc-chinese-music",
-        "enc-guzheng"
+        "enc-guzheng",
+        "wd-anchor-pipa"
       ],
       "level": "L2",
       "sections": {

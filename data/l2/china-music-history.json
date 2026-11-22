@@ -17,5 +17,10 @@
   "pipa",
   "wuwangdu-chu-music-archaeology",
   "yayue"
+ ],
+ "sources": [
+  "enc-chinese-music",
+  "enc-guzheng",
+  "wd-anchor-china-music-history"
  ]
 }

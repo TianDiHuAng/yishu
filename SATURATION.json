@@ -405,6 +405,18 @@
       },
       "network": "partial",
       "verdict": "锚定 59→73（79%）；确立口径一致否决标准；剩余31条记录在案；未饱和"
+    },
+    {
+      "cycle": "cycle32",
+      "date": "2026-11-22",
+      "methods_used": [
+        "中国别名锚定"
+      ],
+      "gaps_found": {
+        "anchors": 4
+      },
+      "network": "partial",
+      "verdict": "锚定 73→77（81%）；11 条逐条记明否决理由；未饱和"
     }
   ]
 }
