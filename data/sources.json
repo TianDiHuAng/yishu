@@ -1449,6 +1449,96 @@
       "type": "权威百科",
       "verified": true,
       "verified_note": "B5收尾HTTP200; <title>=The Four Seasons (Vivaldi); 含Four Seasons"
+    },
+    {
+      "id": "enc-indian-art",
+      "title": "Indian art",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Indian_art",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=Indian art - Wikipedia"
+    },
+    {
+      "id": "enc-buddhist-art-india",
+      "title": "Buddhist art",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Buddhist_art",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=Buddhist art - Wikipedia"
+    },
+    {
+      "id": "enc-ajanta",
+      "title": "Ajanta Caves",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Ajanta_Caves",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=Ajanta Caves - Wikipedia"
+    },
+    {
+      "id": "enc-angkor",
+      "title": "Angkor",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Angkor",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=Angkor - Wikipedia"
+    },
+    {
+      "id": "enc-khmer-art",
+      "title": "Khmer art",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Khmer_art",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=Cambodian art - Wikipedia"
+    },
+    {
+      "id": "enc-japanese-art",
+      "title": "Japanese art",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Japanese_art",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=Japanese art - Wikipedia"
+    },
+    {
+      "id": "enc-ukiyo-e",
+      "title": "Ukiyo-e",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Ukiyo-e",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=Ukiyo-e - Wikipedia"
+    },
+    {
+      "id": "enc-zen-art",
+      "title": "Zen painting",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Zen_painting",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=Zenga - Wikipedia"
+    },
+    {
+      "id": "enc-history-painting",
+      "title": "History of painting",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/History_of_painting",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=History of painting - Wikipedia"
     }
   ]
 }

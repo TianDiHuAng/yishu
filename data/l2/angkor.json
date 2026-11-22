@@ -1,0 +1,14 @@
+{
+ "id": "angkor",
+ "level": "L2",
+ "sections": {
+  "时代背景": "吴哥窟被描述为柬埔寨吴哥地区的庞大寺庙建筑群，是高棉帝国的宗教与王权中心。输入给出的时代线索跨度较长，相关事实将其置于高棉帝国发展的历史脉络中，精确年代区间另列待核实。",
+  "风格特征": "吴哥建筑以层叠的塔庙与环绕的护城河象征印度教宇宙观。浮雕描绘史诗与王室场景，显示宗教宇宙秩序与王权叙事在建筑装饰中的结合。",
+  "代表人物与作品": "输入事实未点名具体人物或作品，待补充第二来源。现有事实主要指向吴哥建筑群的塔庙、护城河与浮雕题材，作品层面未给出可核验名称。",
+  "技法或形式分析": "形式上，吴哥建筑以层叠塔庙组织空间，并以护城河形成环绕结构。输入明确说明这些要素象征印度教宇宙观；浮雕描绘史诗与王室场景。",
+  "与前后风格的关系和争论": "related 字段将吴哥窟与高棉艺术相连，提示应从高棉艺术脉络理解这一寺庙建筑群。输入未给出前后风格序列，也未列明具体争论；记载较一致，学界主要讨论分期与传播路径问题。",
+  "一图": "示意图表达吴哥窟在高棉艺术脉络中的位置及其宗教与王权含义。",
+  "待核实": "输入的 when 字段给出约公元9—15世纪，精确年代区间待核实。sources 仅列 Angkor 与 Khmer art 等权威百科条目，输入未提供更细的分期依据。具体人物、作品收藏地与引文出处均未在输入事实中给出，待补充第二来源。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='吴哥窟 示意图'><title>吴哥窟</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>吴哥窟</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>寺庙建筑群</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>高棉艺术</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>高棉帝国</text><text class='svg-caption' x='380' y='262' text-anchor='middle'>吴哥窟与高棉艺术</text></g></svg>"
+}

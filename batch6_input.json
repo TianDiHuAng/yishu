@@ -1,0 +1,278 @@
+[
+ {
+  "id": "indian-art",
+  "title": "印度艺术",
+  "kind": "时期",
+  "era": "古代—近代",
+  "region": "南亚",
+  "medium": "综合",
+  "def": "印度次大陆的艺术传统，涵盖佛教、印度教与耆那教的宗教艺术及世俗绘画。",
+  "when": "约公元前3世纪—公元19世纪",
+  "overview": "印度艺术以雕塑与壁画见长，佛教艺术随丝路传播影响中亚与东亚，宗教图像具有象征与叙事功能。",
+  "related": [
+   {
+    "id": "buddhist-art-india",
+    "title": "印度佛教艺术"
+   },
+   {
+    "id": "ajanta-caves",
+    "title": "阿旃陀石窟"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-indian-art",
+    "title": "Indian art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-history-painting",
+    "title": "History of painting",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "buddhist-art-india",
+  "title": "印度佛教艺术",
+  "kind": "风格",
+  "era": "古代—中世纪",
+  "region": "南亚",
+  "medium": "雕塑,绘画",
+  "def": "印度次大陆形成的佛教艺术传统，以佛像、石窟与壁画为核心。",
+  "when": "约公元前3世纪—公元12世纪",
+  "overview": "佛像雕刻在犍陀罗与马图拉等地发展，阿旃陀石窟壁画保存了杰出的佛教绘画遗存，并随佛教传播影响亚洲各地。",
+  "related": [
+   {
+    "id": "indian-art",
+    "title": "印度艺术"
+   },
+   {
+    "id": "ajanta-caves",
+    "title": "阿旃陀石窟"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-buddhist-art-india",
+    "title": "Buddhist art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-ajanta",
+    "title": "Ajanta Caves",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "ajanta-caves",
+  "title": "阿旃陀石窟",
+  "kind": "风格",
+  "era": "古代",
+  "region": "南亚",
+  "medium": "绘画",
+  "def": "印度马哈拉施特拉邦的佛教石窟群，以保存完好的古代壁画著称。",
+  "when": "约公元前2世纪—公元6世纪",
+  "overview": "阿旃陀石窟的壁画描绘佛本生故事与菩萨形象，色彩与线条展现了印度古代绘画的高度成就，是佛教艺术的重要遗存。",
+  "related": [
+   {
+    "id": "buddhist-art-india",
+    "title": "印度佛教艺术"
+   },
+   {
+    "id": "indian-art",
+    "title": "印度艺术"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-ajanta",
+    "title": "Ajanta Caves",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-buddhist-art-india",
+    "title": "Buddhist art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "khmer-art",
+  "title": "高棉艺术",
+  "kind": "风格",
+  "era": "古代—中世纪",
+  "region": "东南亚",
+  "medium": "建筑,雕塑",
+  "def": "柬埔寨高棉帝国时期的艺术，以吴哥窟等印度教与佛教建筑闻名。",
+  "when": "约公元9—15世纪",
+  "overview": "高棉艺术以大规模寺庙建筑与浮雕叙事见长，吴哥建筑群体现印度教宇宙观与王权象征，是高棉文化的巅峰。",
+  "related": [
+   {
+    "id": "angkor",
+    "title": "吴哥窟"
+   },
+   {
+    "id": "buddhist-art-india",
+    "title": "印度佛教艺术"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-khmer-art",
+    "title": "Khmer art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-angkor",
+    "title": "Angkor",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "angkor",
+  "title": "吴哥窟",
+  "kind": "风格",
+  "era": "中世纪",
+  "region": "东南亚",
+  "medium": "建筑",
+  "def": "柬埔寨吴哥地区的庞大寺庙建筑群，为高棉帝国的宗教与王权中心。",
+  "when": "约公元9—15世纪",
+  "overview": "吴哥建筑以层叠的塔庙与环绕的护城河象征印度教宇宙观，浮雕描绘史诗与王室场景，是世界最大的宗教建筑群之一。",
+  "related": [
+   {
+    "id": "khmer-art",
+    "title": "高棉艺术"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-angkor",
+    "title": "Angkor",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-khmer-art",
+    "title": "Khmer art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "japanese-art",
+  "title": "日本艺术",
+  "kind": "时期",
+  "era": "古代—近代",
+  "region": "东亚",
+  "medium": "综合",
+  "def": "日本列岛的艺术传统，涵盖佛教艺术、水墨画、浮世绘与装饰艺术。",
+  "when": "约公元6世纪—19世纪",
+  "overview": "日本艺术在吸收中国与韩国影响后形成独特风格，佛教造像、水墨画与浮世绘等门类成就突出，对近代西方艺术亦有影响。",
+  "related": [
+   {
+    "id": "ukiyo-e",
+    "title": "浮世绘"
+   },
+   {
+    "id": "zen-painting",
+    "title": "禅画"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-japanese-art",
+    "title": "Japanese art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-ukiyo-e",
+    "title": "Ukiyo-e",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "ukiyo-e",
+  "title": "浮世绘",
+  "kind": "风格",
+  "era": "17—19世纪",
+  "region": "日本",
+  "medium": "绘画",
+  "def": "日本江户时代兴起的风俗画版画，题材包括美人、歌舞伎与风景。",
+  "when": "约公元17—19世纪",
+  "overview": "浮世绘以套色木版印刷与平面化构图见长，葛饰北斋与歌川广重等画家提升其艺术地位，19世纪传入欧洲后影响印象派与后印象派。",
+  "related": [
+   {
+    "id": "japanese-art",
+    "title": "日本艺术"
+   },
+   {
+    "id": "impressionism",
+    "title": "印象派"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-ukiyo-e",
+    "title": "Ukiyo-e",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-japanese-art",
+    "title": "Japanese art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "zen-painting",
+  "title": "禅画",
+  "kind": "风格",
+  "era": "中世纪—近代",
+  "region": "东亚",
+  "medium": "书法",
+  "def": "东亚禅宗传统中的水墨绘画，强调简逸笔墨与顿悟精神。",
+  "when": "约公元13—18世纪",
+  "overview": "禅画以简练的笔触与留白传达禅意，与中国文人画传统相通，在日本禅宗寺院中发展为独立画风。",
+  "related": [
+   {
+    "id": "japanese-art",
+    "title": "日本艺术"
+   },
+   {
+    "id": "china-calligraphy-history",
+    "title": "中国书法史"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-zen-art",
+    "title": "Zen painting",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-japanese-art",
+    "title": "Japanese art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ }
+]

@@ -66,6 +66,17 @@
 
 ## D013 — Cycle3 新增4条音乐技术/乐器条目（B1 Outline of music 空白维度）
 - **决定**：新增 music-notation（记谱法）、musical-mode（调式）、violin（小提琴）、piano（钢琴）四条术语条目，归入 glossary-tools 单元。
+- **理由**：B1 对照 Wikipedia《Outline of music》28个一级标题，发现"Musical notation""Elements of music""Musical instruments"等维度在站内为零覆盖（记谱0条/调式0条/小提琴0条/钢琴仅间接提及）。每条≥2份已核验来源。新增4条≈129的3.1%，低于10%上限。
+- **可逆方式**：从 catalog.py 删除这4行，重跑 build_scope.py + merge_l2.py；来源保留。
+- **代价**：新增条目产生4个孤儿页，已通过双向补链解决（orphan=0）。
+
+## D014 — Cycle4 新增8条亚洲艺术条目（B1 History of painting 空白分支）
+- **决定**：新增 art-asia 单元与8条条目：印度艺术、印度佛教艺术、阿旃陀石窟、高棉艺术、吴哥窟、日本艺术、浮世绘、禅画。
+- **理由**：B1 对照 Wikipedia《History of painting》大纲，发现"South Asian""South-East Asian""East Asian"分支在站内零覆盖（印度/东南亚/日本/浮世绘检索均为0条）。每条≥2份已联网核验来源（Indian art/Buddhist art/Ajanta/Khmer art/Angkor/Japanese art/Ukiyo-e/Zenga/History of painting）。新增8条≈129的6.2%，低于10%上限。
+- **可逆方式**：从 catalog.py 删除这8行与 art-asia 单元，重跑 build_scope.py + merge_l2.py；来源保留。
+- **代价**：新增条目产生孤儿页需补链（Cycle3经验：用双向补链解决）。
+
+- **决定**：新增 music-notation（记谱法）、musical-mode（调式）、violin（小提琴）、piano（钢琴）四条术语条目，归入 glossary-tools 单元。
 - **理由**：B1 对照 Wikipedia《Outline of music》28个一级标题，发现"Musical notation""Elements of music""Musical instruments"等维度在站内为零覆盖（记谱0条/调式0条/小提琴0条/钢琴仅间接提及）。每条≥2份已核验来源（Musical notation/Staff notation/Mode/Gregorian mode/Violin/Piano）。新增4条≈129的3.1%，低于10%上限。
 - **可逆方式**：从 catalog.py 删除这4行，重跑 build_scope.py + merge_l2.py；来源保留。
 - **代价**：新增条目产生4个孤儿页，已通过双向补链解决（orphan=0）。

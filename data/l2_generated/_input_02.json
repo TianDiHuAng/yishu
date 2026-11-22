@@ -1,0 +1,138 @@
+[
+ {
+  "id": "angkor",
+  "title": "吴哥窟",
+  "kind": "风格",
+  "era": "中世纪",
+  "region": "东南亚",
+  "medium": "建筑",
+  "def": "柬埔寨吴哥地区的庞大寺庙建筑群，为高棉帝国的宗教与王权中心。",
+  "when": "约公元9—15世纪",
+  "overview": "吴哥建筑以层叠的塔庙与环绕的护城河象征印度教宇宙观，浮雕描绘史诗与王室场景，是世界最大的宗教建筑群之一。",
+  "related": [
+   {
+    "id": "khmer-art",
+    "title": "高棉艺术"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-angkor",
+    "title": "Angkor",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-khmer-art",
+    "title": "Khmer art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "japanese-art",
+  "title": "日本艺术",
+  "kind": "时期",
+  "era": "古代—近代",
+  "region": "东亚",
+  "medium": "综合",
+  "def": "日本列岛的艺术传统，涵盖佛教艺术、水墨画、浮世绘与装饰艺术。",
+  "when": "约公元6世纪—19世纪",
+  "overview": "日本艺术在吸收中国与韩国影响后形成独特风格，佛教造像、水墨画与浮世绘等门类成就突出，对近代西方艺术亦有影响。",
+  "related": [
+   {
+    "id": "ukiyo-e",
+    "title": "浮世绘"
+   },
+   {
+    "id": "zen-painting",
+    "title": "禅画"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-japanese-art",
+    "title": "Japanese art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-ukiyo-e",
+    "title": "Ukiyo-e",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "ukiyo-e",
+  "title": "浮世绘",
+  "kind": "风格",
+  "era": "17—19世纪",
+  "region": "日本",
+  "medium": "绘画",
+  "def": "日本江户时代兴起的风俗画版画，题材包括美人、歌舞伎与风景。",
+  "when": "约公元17—19世纪",
+  "overview": "浮世绘以套色木版印刷与平面化构图见长，葛饰北斋与歌川广重等画家提升其艺术地位，19世纪传入欧洲后影响印象派与后印象派。",
+  "related": [
+   {
+    "id": "japanese-art",
+    "title": "日本艺术"
+   },
+   {
+    "id": "impressionism",
+    "title": "印象派"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-ukiyo-e",
+    "title": "Ukiyo-e",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-japanese-art",
+    "title": "Japanese art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "zen-painting",
+  "title": "禅画",
+  "kind": "风格",
+  "era": "中世纪—近代",
+  "region": "东亚",
+  "medium": "书法",
+  "def": "东亚禅宗传统中的水墨绘画，强调简逸笔墨与顿悟精神。",
+  "when": "约公元13—18世纪",
+  "overview": "禅画以简练的笔触与留白传达禅意，与中国文人画传统相通，在日本禅宗寺院中发展为独立画风。",
+  "related": [
+   {
+    "id": "japanese-art",
+    "title": "日本艺术"
+   },
+   {
+    "id": "china-calligraphy-history",
+    "title": "中国书法史"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-zen-art",
+    "title": "Zen painting",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-japanese-art",
+    "title": "Japanese art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ }
+]
