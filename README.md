@@ -35,6 +35,7 @@ python tools/build_report.py   # 刷新 REPORT.md
 python tools/link_audit.py         # 关联图审计（跨域/单向/入链分布）→ reports/link_audit.json
 python tools/consistency_audit.py  # 内容自洽性审计（正文与"待核实"是否矛盾等）→ reports/consistency_audit.json
 python tools/healthcheck_c10.py    # 九维站体检（死链/重复/矛盾/孤儿/锚点/sitemap/对比度等）
+python tools/audit_all.py          # 一键体检：串行跑上述校验，汇总成一张表（返回码0=全通过）
 ```
 
 来源核验（联网）：`python tools/build_sources.py` 然后 `python tools/reverify_sources.py`。

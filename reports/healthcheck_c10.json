@@ -3,8 +3,7 @@
  "stale_data": [
   "prehistoric-art",
   "greek-art",
-  "polyphony",
-  "starry-night"
+  "polyphony"
  ],
  "duplicates": [],
  "contradictions": [],
@@ -58,36 +57,5 @@
     7.31
    ]
   }
- },
- "stale_data_adjudication": "规则命中4处经人工确认为误报：prehistoric-art「现存材料」、polyphony「现存最早」、greek-art「截至公元前31年」为成语/断代用语；starry-night 原为元陈述措辞，已改为「暂依据」以消除歧义。本库为历史题材，不存在时效性现状数据。",
- "overlap_note": "来源文本重合度需联网抓取来源页，本轮网络降级未执行；最近一次有效结果为 Cycle5（5条抽样，重合0%）。",
- "link_audit": {
-  "cross_domain": 2,
-  "cross_domain_note": "仅 romanticism-art ↔ symphonic-poem 一对，属浪漫主义跨媒介的合法互链",
-  "oneway": 47,
-  "total_links": 373,
-  "top_inbound": [
-   [
-    "baroque-music",
-    12
-   ],
-   [
-    "romantic-music",
-    10
-   ],
-   [
-    "classical-period-music",
-    9
-   ],
-   [
-    "high-renaissance",
-    8
-   ],
-   [
-    "post-impressionism",
-    8
-   ]
-  ]
- },
- "l3_level_consistency": "ok: 无 level 与 l3 块不一致；coverage 与 entries 层级完全一致"
+ }
 }

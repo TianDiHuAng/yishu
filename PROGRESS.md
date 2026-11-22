@@ -3,29 +3,32 @@
 > 每次启动先读本文件与 BACKLOG/METRICS/SATURATION/REPORT，从"下轮起点"续作。
 > 按 AUTONOMOUS.md：不写 ALL_DONE；饱和以 SATURATION.json 为准。
 
-- 当前轮次：**Cycle 12 已完成（本地轮）** → 下轮 **Cycle 13**
-- 状态：正常（未饱和）；**网络连续六轮降级**（见 BLOCKERS）
+- 当前轮次：**Cycle 13 已完成（本地轮 + 网络能力精确定位）** → 下轮 **Cycle 14**
+- 状态：正常（未饱和）；**外部来源无法获取**（见 BLOCKERS 的精确诊断）
 - 最近更新：2026-11-22
 
-## 上轮（Cycle 12）做了什么（网络不可用 → 换新角度，不重复体检/内容复审）
-- 网络探针：16s 超时（第六轮）→ 本地轮，**未新增需联网核验的断言**
-- **关联图对称化（D018）**：新增 `tools/oneway_audit.py` 审校 47 条单向关联 → 分类 same_unit 36 / same_domain 11 / **跨域 0** → 全部补成双向；关联总数 373→**420**，单向 **0**，度分布 均 3.0 / 最大 12 / 零度节点 0
-- **同单元前后导航**：每个条目页新增「同单元前后条目」（按起始年代排序 + 单元总览入口），并经 `art-modern` 单元核对排序正确
-- 站点 171 页、`check.py errors=0`、`check_links broken=0`、孤儿 0
-- 提交：cycle12
+## 上轮（Cycle 13）做了什么
+- **网络能力精确定位（修正前几轮的粗略判断）**：
+  - 可达：`github.com`（200，git push 正常）、`baike.baidu.com`（200）、`khanacademy.org`（200）、`britannica.com`（403）
+  - 不可达：`en/zh.wikipedia.org`、`metmuseum.org`、`tate.org.uk`（TCP 超时）
+  - **但可达站点均返回反爬壳页**：百度 `__PARIS_CHALLENGE__`（4.7KB 无正文）、Khan `Client Challenge`（3KB）、Britannica Cloudflare `Just a moment`
+  - 结论：**本环境无法取得可核验的权威正文** —— 既不是"全网断网"，也不是"可用"。新增条目 / L3 / B5 复核因此仍不可执行
+- **新增 `tools/audit_all.py`**：一键串行跑 6 项本地校验（check / check_links / 九维体检 / 内容自洽 / 关联图 / 单向关联），汇总成表，返回码 0=全通过；本轮结果 **6/6 ok，失败 0**
+- README 补入该工具用法
+- 提交：cycle13
 
-## 下轮起点（Cycle 13）
-1. 读状态文件；check.py / check_links（应全绿）。
-2. **网络探针**（第七次）。若恢复（优先级最高）：
-   - 按 `reports/matrix_targets_c7.md` A 类补**建筑**类条目（≤14 条、≥2 已核验来源/条）；
-   - 为能给出两方真实立场且来源可证实的条目重建 L3（过 R16+R17）；
-   - B5 剩余 5 项复核；补跑来源文本重合度。
-3. 若仍降级（避免空转，须换新角度）：候选
-   - ①**导读页 ↔ 正文互通**：`overview-guide`/`comparative` 单元各页加"相关正文条目"链接，并把相关正文页反向链回导读；
-   - ②**条目页结构化摘要**：为长条目生成"要点速览"（只从既有字段抽取，不新增事实）；
-   - ③把 `consistency_audit`/`oneway_audit`/`healthcheck` 合并成 `tools/audit_all.py` 一键体检。
+## 下轮起点（Cycle 14）
+1. 读状态文件；`python tools/audit_all.py`（应 6/6 ok）。
+2. **网络**：每次启动先跑一次轻量探针（`curl -m 8` 打 wikipedia 一条）；若出现**可读正文**（非壳页）→ 立即恢复内容建设：
+   - A 类建筑补盲（≤14 条、≥2 已核验来源/条）
+   - L3 重建（须 R16+R17：真实两方立场）
+   - B5 剩余 5 项复核；补跑来源文本重合度
+3. 若仍只有壳页：继续本地结构性改进（勿重复体检/内容复审/关联审校这些已做完的）：
+   - ①导读页（overview-guide）与 comparative 单元与正文互相链接
+   - ②条目页"要点速览"（只从既有字段抽取）
+   - ③把 `reports/*.json` 汇总成站内的 `status.html`（公开透明地展示校验与覆盖状态）
 4. 质量闸抽检 ≥3；更新状态；commit+push。
-5. 饱和判定：连续 3 轮七种方法无新缺口 → SATURATED=true。当前**未饱和**（A 类 58、L3 仅 6、B5 剩 5），受阻于网络。
+5. 饱和判定：连续 3 轮七种方法无新缺口 → SATURATED=true。当前**未饱和**（A 类 58、L3 仅 6、B5 剩 5），受阻于"无可读来源"。
 
 ## 长期待办（BACKLOG P4）
 - A 类矩阵补盲 58 项（首选建筑）；L3 仅 6 条；B5 剩 5 项；B6 4 条不可达；B4 导览类来源不支撑。
@@ -43,6 +46,7 @@
 - Cycle 9（本地）：a11y + 对比度修正。
 - Cycle 10（体检）：九维通过 + 关联图审计。
 - Cycle 11（本地）：内容自洽性审计 + 15条状态说明。
-- Cycle 12（本地）：关联对称化（单向47→0，420链）+ 同单元前后导航。
+- Cycle 12（本地）：关联对称化（单向47→0）+ 同单元前后导航。
+- Cycle 13（本地）：网络能力精确定位（可达站点仅壳页）+ audit_all 一键体检（6/6 ok）。
 
 ALL_DONE：按 AUTONOMOUS.md 不写。

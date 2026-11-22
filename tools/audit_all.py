@@ -1,0 +1,39 @@
+# -*- coding: utf-8 -*-
+"""一键体检入口 audit_all.py：串行运行全部本地校验与审计，汇总为一张表。
+不联网、不改数据；返回码 0=全部通过，1=有失败项。
+用法：python tools/audit_all.py
+"""
+import json,os,subprocess,sys
+ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+PY=[sys.executable,"-X","utf8"]
+STEPS=[
+ ("check.py（R1-R17 硬规则）","tools/check.py"),
+ ("check_links.py（站内链接）","tools/check_links.py"),
+ ("healthcheck_c10.py（九维体检）","tools/healthcheck_c10.py"),
+ ("consistency_audit.py（内容自洽）","tools/consistency_audit.py"),
+ ("link_audit.py（关联图）","tools/link_audit.py"),
+ ("oneway_audit.py（单向关联）","tools/oneway_audit.py"),
+]
+summary=[]
+fails=0
+env=dict(os.environ,PYTHONIOENCODING="utf-8")
+for name,script in STEPS:
+    p=os.path.join(ROOT,script)
+    if not os.path.exists(p):
+        summary.append({"step":name,"status":"missing"}); continue
+    r=subprocess.run(PY+[p],cwd=ROOT,capture_output=True,text=True,encoding="utf-8",errors="replace",env=env)
+    out=(r.stdout or "").strip().splitlines()
+    tail=out[-1][:110] if out else ""
+    ok=(r.returncode==0) and ("errors=0" in " ".join(out) or r.returncode==0)
+    if "errors=" in " ".join(out) and "errors=0" not in " ".join(out): ok=False
+    if not ok: fails+=1
+    summary.append({"step":name,"returncode":r.returncode,"status":"ok" if ok else "FAIL","tail":tail})
+print("="*78)
+print("一键体检 audit_all")
+print("="*78)
+for s in summary:
+    print(" %-34s %-5s %s"%(s["step"],s.get("status"),s.get("tail","")[:70]))
+print("-"*78)
+print("失败项：%d"%fails)
+json.dump({"steps":summary,"fails":fails},open(os.path.join(ROOT,"reports","audit_all.json"),"w",encoding="utf-8"),ensure_ascii=False,indent=1)
+sys.exit(1 if fails else 0)

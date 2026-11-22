@@ -13,49 +13,8 @@
    "to_dom": "art"
   }
  ],
- "oneway_count": 47,
- "oneway_sample": [
-  [
-   "egyptian-art",
-   "roman-art"
-  ],
-  [
-   "roman-art",
-   "byzantine-art"
-  ],
-  [
-   "renaissance",
-   "mannerism"
-  ],
-  [
-   "venetian-school",
-   "mannerism"
-  ],
-  [
-   "leonardo",
-   "high-renaissance"
-  ],
-  [
-   "mona-lisa",
-   "high-renaissance"
-  ],
-  [
-   "rembrandt",
-   "baroque"
-  ],
-  [
-   "vermeer",
-   "realism-art"
-  ],
-  [
-   "cezanne",
-   "post-impressionism"
-  ],
-  [
-   "expressionism",
-   "abstract-expressionism"
-  ]
- ],
+ "oneway_count": 0,
+ "oneway_sample": [],
  "top_inbound": [
   [
    "baroque-music",
@@ -86,17 +45,17 @@
    7
   ],
   [
-   "mannerism",
-   6
+   "modern-art",
+   7
   ],
   [
-   "impressionism",
-   6
+   "china-painting-history",
+   7
   ],
   [
-   "abstract-expressionism",
+   "renaissance",
    6
   ]
  ],
- "total_links": 373
+ "total_links": 420
 }

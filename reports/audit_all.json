@@ -1,0 +1,41 @@
+{
+ "steps": [
+  {
+   "step": "check.py（R1-R17 硬规则）",
+   "returncode": 0,
+   "status": "ok",
+   "tail": "check.py: entries=142 svg=142 errors=0"
+  },
+  {
+   "step": "check_links.py（站内链接）",
+   "returncode": 0,
+   "status": "ok",
+   "tail": "check_links: pages=171 broken=0"
+  },
+  {
+   "step": "healthcheck_c10.py（九维体检）",
+   "returncode": 0,
+   "status": "ok",
+   "tail": " contrast below AA: none"
+  },
+  {
+   "step": "consistency_audit.py（内容自洽）",
+   "returncode": 0,
+   "status": "ok",
+   "tail": " D_empty_pending        0 []"
+  },
+  {
+   "step": "link_audit.py（关联图）",
+   "returncode": 0,
+   "status": "ok",
+   "tail": "top inbound: [('baroque-music', 12), ('romantic-music', 10), ('classical-period-music', 9), ('high-renaissance"
+  },
+  {
+   "step": "oneway_audit.py（单向关联）",
+   "returncode": 0,
+   "status": "ok",
+   "tail": "same_domain 示例: []"
+  }
+ ],
+ "fails": 0
+}

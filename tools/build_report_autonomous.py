@@ -30,6 +30,8 @@ L.append("- 新增来源：**%d**"%cur.get("new_sources",0))
 if cur.get("qc_result"): L.append("- 质量闸：**%s**"%cur["qc_result"])
 if cyc=="cycle3":
     L.append("- 本轮特别说明：B5 复核 45 项待核实 → 38 项找到可核验第二来源并写入【已复核】留痕；B3 孤儿页 38→0（新增84条双向补链）；QC 收尾补 Bach/Vivaldi 来源并修正18处截断URL。")
+if cyc=="cycle13":
+    L.append("- 本轮特别说明：**网络能力精确定位**——可达站点为 github（200）、百度百科（200）、Khan Academy（200）、Britannica（403），不可达为 wikipedia/met/tate；但**可达站点全部返回反爬壳页**（百度 \ 4.7KB 无正文、Khan \ 3KB、Britannica Cloudflare），因此**仍无可用权威正文**，内容建设继续受阻。同时新增 \ 一键体检（check/链接/九维体检/内容自洽/关联图/单向关联 共6项，本轮 **6/6 通过**）。")
 if cyc=="cycle12":
     L.append("- 本轮特别说明：网络第六轮降级，按预案换角度。新增  审校 47 条单向关联（same_unit 36 / same_domain 11 / **跨域 0**），全部补成双向 → 关联总数 373→**420**、单向 **0**、零度节点 0、度均 3.0/最大 12；条目页新增「同单元前后条目」导航（按起始年代排序 + 单元总览入口），已在 art-modern 单元核对排序正确。")
 if cyc=="cycle11":
