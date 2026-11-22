@@ -1,0 +1,14 @@
+{
+ "id": "organum",
+ "level": "L2",
+ "sections": {
+  "时代背景": "奥尔加农是中世纪早期的复调形式，与格里高利圣咏、复调两个相关条目所指向的传统相连。其形态在概述中被描述为一个逐步发展的序列。",
+  "风格特征": "奥尔加农的基本做法是在圣咏上方叠加一个或多个声部。其形态从平行奥尔加农发展为华丽奥尔加农与有量奥尔加农。它被视为复调音乐的起点。",
+  "代表人物与作品": "本条目为术语条目，定义与概述均未点名具体人物或作品。所涉形式为平行奥尔加农、华丽奥尔加农与有量奥尔加农三类。相关条目格里高利圣咏、复调在此仅列标题。",
+  "技法或形式分析": "该形式以圣咏为基础，于其上方叠加一个或多个声部，由此形成早期复调。平行奥尔加农、华丽奥尔加农与有量奥尔加农体现其不同阶段的声部处理方式。在圣咏上方叠加声部是其区别于单声部圣咏的关键。",
+  "与前后风格的关系和争论": "奥尔加农与格里高利圣咏、复调两个相关条目相联系，被视为复调音乐的起点。记载较一致，学界主要讨论其三种形态的分期与边界问题。",
+  "一图": "示意图呈现奥尔加农以圣咏叠加声部为基础，由平行奥尔加农经华丽奥尔加农发展至有量奥尔加农，并成为复调音乐起点。",
+  "待核实": "流行时期“约公元9—13世纪”来自 when 字段，需补充第二来源逐字核对。“平行奥尔加农”“华丽奥尔加农”“有量奥尔加农”的英文对应术语输入未明确给出，待核实。“圣咏”与格里高利圣咏的具体对应关系未在来源中明确，待补充第二来源。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='奥尔加农 示意图'><title>奥尔加农</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>圣咏</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>叠加声部</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>平行奥尔加农</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>早期形式</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>华丽奥尔加农</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>发展阶段</text><rect class='svg-box-accent' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='665.0' y='142' text-anchor='middle'>有量奥尔加农</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>复调起点</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>奥尔加农自圣咏叠加声部发展为复调音乐起点</text></g></svg>"
+}

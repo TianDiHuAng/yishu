@@ -1,0 +1,14 @@
+{
+ "id": "debussy",
+ "level": "L2",
+ "sections": {
+  "时代背景": "德彪西是法国作曲家，被视为印象主义音乐的代表人物。其创作与20世纪古典音乐这一相关条目所指的语境相联系，来源列表亦收录 Romantic music 一项。",
+  "风格特征": "德彪西是印象主义音乐的代表人物。其代表作包括《牧神午后前奏曲》与《大海》。概述以音色与和声色彩营造朦胧意象概括其风格。",
+  "代表人物与作品": "本条目人物为法国作曲家德彪西。概述明确点名的代表作有《牧神午后前奏曲》与《大海》。相关条目印象主义音乐、20世纪古典音乐在此仅列标题。",
+  "技法或形式分析": "概述将音色与和声色彩列为德彪西营造意象的主要手段。朦胧意象是其风格追求的核心效果。《牧神午后前奏曲》与《大海》被列为体现这一写法的代表作。",
+  "与前后风格的关系和争论": "德彪西与印象主义音乐、20世纪古典音乐两个相关条目相联系，来源列表另含 Romantic music 一项。记载较一致，学界主要讨论其印象主义归属与20世纪古典音乐的分期边界问题。",
+  "一图": "示意图展示德彪西作为印象主义音乐代表，以《牧神午后前奏曲》《大海》及音色与和声色彩营造朦胧意象。",
+  "待核实": "生卒年精确区间（1862—1918年）来自 when 字段，需补充第二来源逐字核对。《牧神午后前奏曲》《大海》的具体创作年份与首演信息未在来源中给出，待补充第二来源。“音色”“和声色彩”“朦胧意象”的英文对应术语输入未明确给出，待核实。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='德彪西 示意图'><title>德彪西</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>德彪西</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>法国作曲家</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>印象主义音乐</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>代表人物</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>牧神午后前奏曲</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>代表作</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>大海</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>朦胧意象</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>德彪西与印象主义音乐、代表作及朦胧意象</text></g></svg>"
+}

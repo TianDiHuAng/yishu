@@ -1,0 +1,14 @@
+{
+ "id": "sonata-form",
+ "level": "L2",
+ "sections": {
+  "时代背景": "奏鸣曲式是一种乐曲结构原则，与古典主义音乐这一相关条目所指的语境相连。概述将其定位为古典交响曲与奏鸣曲第一乐章的核心结构，说明其应用集中于相关体裁。",
+  "风格特征": "奏鸣曲式以呈示部、展开部与再现部三部分构成。该结构建立在主题对比与调性回归之上。它是古典交响曲与奏鸣曲第一乐章的核心结构。",
+  "代表人物与作品": "本条目为术语条目，定义与概述均未点名具体人物。所涉作品范畴为古典交响曲与奏鸣曲。相关条目奏鸣曲、古典主义音乐在此仅列标题。",
+  "技法或形式分析": "呈示部、展开部与再现部构成奏鸣曲式的基本结构。主题对比与调性回归是这一结构组织材料、实现回归的两项原则。其典型位置是古典交响曲与奏鸣曲的第一乐章。",
+  "与前后风格的关系和争论": "奏鸣曲式与奏鸣曲、古典主义音乐两个相关条目相联系，是古典交响曲与奏鸣曲第一乐章的核心结构。记载较一致，学界主要讨论其成熟时间与结构边界的分期问题。",
+  "一图": "示意图呈现呈示部、展开部、再现部依次构成奏鸣曲式，并以主题对比与调性回归为组织原则、应用于第一乐章。",
+  "待核实": "成熟时间“约公元18世纪成熟”来自 when 字段，需补充第二来源逐字核对。“呈示部”“展开部”“再现部”“主题对比”“调性回归”的英文对应术语输入未明确给出，待核实。该结构在不同体裁中的变体情况未在来源中说明，待补充第二来源。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='奏鸣曲式 示意图'><title>奏鸣曲式</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>呈示部</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>主题对比</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>展开部</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>乐曲结构</text><rect class='svg-box-accent' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='475.0' y='142' text-anchor='middle'>再现部</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>调性回归</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>第一乐章</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>核心结构</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>呈示部、展开部、再现部构成奏鸣曲式基本结构</text></g></svg>"
+}
