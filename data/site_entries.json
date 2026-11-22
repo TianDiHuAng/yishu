@@ -686,7 +686,8 @@
         "enc-donatello",
         "enc-renaissance",
         "enc-david-donatello-bronze",
-        "enc-saint-george-donatello"
+        "enc-saint-george-donatello",
+        "wd-donatello"
       ],
       "level": "L2",
       "sections": {
@@ -696,7 +697,7 @@
         "技法或形式分析": "来源可支撑的是其古典雕塑复兴的取向与代表作品；关于人体结构刻画的“解剖准确性”表述待第二来源核实。青铜《大卫》与《圣乔治》作为作品实例，体现其与古典雕塑复兴的关联。输入未给出具体铸造或雕刻技法细节，分析限于上述要点。",
         "与前后风格的关系和争论": "相关条目列出早期文艺复兴与文艺复兴，可据此把多纳泰罗放在早期文艺复兴并连接文艺复兴的脉络中理解。概述未记载争论或反弹，也未点名持论者。记载较一致，学界主要讨论其分期与归属问题。",
         "一图": "示意图以多纳泰罗为中心，连接青铜《大卫》与《圣乔治》，并标出古典雕塑复兴这一来源可支撑的取向。",
-        "待核实": "状态说明：本页先列出写作时的原待核项（保留原文以留存修订痕迹），其后【已复核】各条为后续复核找到的第二来源与结论；两者并存不表示矛盾，以【已复核】为准。 （1）概述提到青铜《大卫》与《圣乔治》，但未给出创作年份与收藏地；（2）“解剖准确性”术语在所引来源页无逐字对应，待第二来源核实。相关条目早期文艺复兴与文艺复兴只有标题，未附作品层面的对应关系。若需补充作品信息，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核】青铜《大卫》的创作年代与收藏地：第二来源 enc-david-donatello-bronze（https://en.wikipedia.org/wiki/David_(Donatello,_bronze)），据该来源：多纳泰罗的青铜《大卫》约作于1435—1440年（通常记为1440年代），现藏佛罗伦萨巴杰罗国家博物馆（Museo Nazionale del Bargello）。 【已复核】《圣乔治》的创作年代与收藏地：第二来源 enc-saint-george-donatello（https://en.wikipedia.org/wiki/Saint_George_(Donatello)），据该来源：多纳泰罗的《圣乔治》为大理石雕像，约作于1415—1417年，原置于佛罗伦萨奥尔桑米凯莱教堂外龛，现藏佛罗伦萨巴杰罗博物馆。"
+        "待核实": "状态说明：本页先列出写作时的原待核项（保留原文以留存修订痕迹），其后【已复核】各条为后续复核找到的第二来源与结论；两者并存不表示矛盾，以【已复核】为准。 （1）概述提到青铜《大卫》与《圣乔治》，但未给出创作年份与收藏地；（2）“解剖准确性”术语在所引来源页无逐字对应，待第二来源核实。相关条目早期文艺复兴与文艺复兴只有标题，未附作品层面的对应关系。若需补充作品信息，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核】青铜《大卫》的创作年代与收藏地：第二来源 enc-david-donatello-bronze（https://en.wikipedia.org/wiki/David_(Donatello,_bronze)），据该来源：多纳泰罗的青铜《大卫》约作于1435—1440年（通常记为1440年代），现藏佛罗伦萨巴杰罗国家博物馆（Museo Nazionale del Bargello）。 【已复核】《圣乔治》的创作年代与收藏地：第二来源 enc-saint-george-donatello（https://en.wikipedia.org/wiki/Saint_George_(Donatello)），据该来源：多纳泰罗的《圣乔治》为大理石雕像，约作于1415—1417年，原置于佛罗伦萨奥尔桑米凯莱教堂外龛，现藏佛罗伦萨巴杰罗博物馆。 【已复核·Wikidata】生卒：第二来源 wd-donatello（https://www.wikidata.org/wiki/QQ37562），据其结构化数据：生年 1386，卒年 1466。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='多纳泰罗 示意图'><title>多纳泰罗</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>多纳泰罗</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>早期文艺复兴雕塑家</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>青铜《大卫》</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>作品</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>《圣乔治》</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>作品</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>古典雕塑复兴</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>推动</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>青铜《大卫》与《圣乔治》，解剖准确性与古典姿态</text></g></svg>"
     },
@@ -719,7 +720,8 @@
       ],
       "sources": [
         "enc-leonardo",
-        "enc-high-renaissance"
+        "enc-high-renaissance",
+        "wd-leonardo"
       ],
       "level": "L2",
       "sections": {
@@ -729,7 +731,7 @@
         "技法或形式分析": "在技法上，他以明暗法塑造形象的体积与光影，以空气透视表现远近层次的变化。留下大量手稿这一点，也显示出其创作与工程、解剖研究之间的关联。这些手法共同构成其绘画的基本面貌。",
         "与前后风格的关系和争论": "相关条目将其与盛期文艺复兴及《蒙娜丽莎》直接关联，可见其处于该风格的核心位置。现有材料记载较一致，未见具体争论，学界主要讨论其所属盛期文艺复兴的分期与边界问题。",
         "一图": "示意图展示列奥纳多以明暗法与空气透视为核心，连接其代表作与所属风格的关系。",
-        "待核实": "概述点名《蒙娜丽莎》与《最后的晚餐》，但未给出两作的创作年份与收藏地点。若要在条目中补入这些信息，须待补充第二来源后核实。其手稿的具体数量与保存情况同样需要额外来源确认。"
+        "待核实": "概述点名《蒙娜丽莎》与《最后的晚餐》，但未给出两作的创作年份与收藏地点。若要在条目中补入这些信息，须待补充第二来源后核实。其手稿的具体数量与保存情况同样需要额外来源确认。 【已复核·Wikidata】生卒：第二来源 wd-leonardo（https://www.wikidata.org/wiki/QQ762），据其结构化数据：生年 1452，卒年 1519。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='列奥纳多·达·芬奇 示意图'><title>列奥纳多·达·芬奇</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>列奥纳多·达·芬奇</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>全才</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>明暗法</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>运用</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>空气透视</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>运用</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>蒙娜丽莎</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>代表作</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>列奥纳多运用明暗法与空气透视，代表作蒙娜丽莎</text></g></svg>"
     },
@@ -752,7 +754,8 @@
       ],
       "sources": [
         "enc-michelangelo",
-        "enc-high-renaissance"
+        "enc-high-renaissance",
+        "wd-michelangelo"
       ],
       "level": "L2",
       "sections": {
@@ -762,7 +765,7 @@
         "技法或形式分析": "在形式上，其雕塑与绘画都以人体的结构与力度为核心，呈现出雄浑的表现特征。西斯廷礼拜堂天顶画属于绘画实践，圣彼得大教堂的设计则体现其建筑面向。概述对其具体技法着墨有限，此处仅据已述内容概括。",
         "与前后风格的关系和争论": "相关条目将他与盛期文艺复兴、样式主义并列关联，显示其处于两者之间的关键位置。现有材料记载较一致，未见具体争论，学界主要讨论其与盛期文艺复兴及样式主义的分期和边界问题。",
         "一图": "示意图呈现米开朗基罗以人体表现为核心，联系其雕塑、绘画与建筑实践及相邻风格。",
-        "待核实": "概述提及《大卫》雕像、西斯廷礼拜堂天顶画与圣彼得大教堂，但未列出具体年份与收藏或坐落信息。若要补入这些细节，须待补充第二来源后核实。其与样式主义之间的具体风格分界亦有待更多材料支持。"
+        "待核实": "概述提及《大卫》雕像、西斯廷礼拜堂天顶画与圣彼得大教堂，但未列出具体年份与收藏或坐落信息。若要补入这些细节，须待补充第二来源后核实。其与样式主义之间的具体风格分界亦有待更多材料支持。 【已复核·Wikidata】生卒：第二来源 wd-michelangelo（https://www.wikidata.org/wiki/Q5592），据其结构化数据：生年 1475，卒年 1564。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='米开朗基罗 示意图'><title>米开朗基罗</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>米开朗基罗</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>人体表现</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>大卫</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>雕像</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>西斯廷礼拜堂天顶画</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>绘画</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>圣彼得大教堂</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>建筑</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>米开朗基罗以人体表现贯穿大卫、天顶画与圣彼得大教堂</text></g></svg>"
     },
@@ -784,7 +787,8 @@
       ],
       "sources": [
         "enc-raphael",
-        "enc-high-renaissance"
+        "enc-high-renaissance",
+        "wd-raphael"
       ],
       "level": "L2",
       "sections": {
@@ -794,7 +798,7 @@
         "技法或形式分析": "在技法层面，拉斐尔以金字塔构图组织画面，形成稳定而清晰的结构。色彩上他偏好柔和的色调，使形象与整体构图相互协调。关于金字塔构图与柔和色彩的英文对应术语，条目未明确给出。",
         "与前后风格的关系和争论": "拉斐尔被视为盛期文艺复兴的代表画家，与列奥纳多·达·芬奇同属这一传统。就其与前后风格的关系而言，现有记载较为一致。学界主要讨论的是他与盛期文艺复兴之间的分期与边界问题。",
         "一图": "示意图以拉斐尔为中心，展示其金字塔构图、柔和色彩与两件代表作之间的关联。",
-        "待核实": "拉斐尔的精确生卒年区间（1483—1520年）来自种子字段，尚待第二来源逐字核实。《雅典学院》《西斯廷圣母》的具体创作年份与收藏地条目未提供，待补充第二来源。金字塔构图、柔和色彩的英文对应术语亦需核实。"
+        "待核实": "拉斐尔的精确生卒年区间（1483—1520年）来自种子字段，尚待第二来源逐字核实。《雅典学院》《西斯廷圣母》的具体创作年份与收藏地条目未提供，待补充第二来源。金字塔构图、柔和色彩的英文对应术语亦需核实。 【已复核·Wikidata】生卒：第二来源 wd-raphael（https://www.wikidata.org/wiki/Q5597），据其结构化数据：生年 1483，卒年 1520。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='拉斐尔 示意图'><title>拉斐尔</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>拉斐尔</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>盛期文艺复兴</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>金字塔构图</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>和谐优雅</text><rect class='svg-box-accent' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='665.0' y='142' text-anchor='middle'>雅典学院</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>代表作</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>拉斐尔的构图技法与代表作</text></g></svg>"
     },
@@ -817,7 +821,8 @@
       ],
       "sources": [
         "enc-botticelli",
-        "enc-italian-renaissance-painting"
+        "enc-italian-renaissance-painting",
+        "wd-botticelli"
       ],
       "level": "L2",
       "sections": {
@@ -827,7 +832,7 @@
         "技法或形式分析": "线条流畅与色彩明丽是概述对其形式特征的描述。神话题材与新柏拉图主义趣味共同构成其作品的精神取向。输入未给出具体构图或笔法细节，分析限于上述要点。",
         "与前后风格的关系和争论": "相关条目列出早期文艺复兴与威尼斯画派，可据此把波提切利放在早期文艺复兴脉络中理解其与威尼斯画派的关系。概述未记载争论事件或反弹，也未点名持论者。记载较一致，学界主要讨论其分期与归属问题。",
         "一图": "示意图以波提切利为中心，连接代表作《春》与《维纳斯的诞生》，并标出线条流畅、色彩明丽与新柏拉图主义趣味。",
-        "待核实": "概述提到《春》与《维纳斯的诞生》，但未给出创作年份与收藏地。相关条目早期文艺复兴与威尼斯画派只有标题，未附作品层面的对应关系。若需补充作品信息，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+        "待核实": "概述提到《春》与《维纳斯的诞生》，但未给出创作年份与收藏地。相关条目早期文艺复兴与威尼斯画派只有标题，未附作品层面的对应关系。若需补充作品信息，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核·Wikidata】生卒：第二来源 wd-botticelli（https://www.wikidata.org/wiki/Q5669），据其结构化数据：生年 1445，卒年 1510。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='波提切利 示意图'><title>波提切利</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>波提切利</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>早期文艺复兴画家</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>《春》</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>代表作</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>维纳斯的诞生</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>代表作</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>新柏拉图主义</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>趣味</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>代表作《春》与《维纳斯的诞生》，线条流畅、色彩明丽</text></g></svg>"
     },
@@ -849,7 +854,8 @@
       ],
       "sources": [
         "enc-leonardo",
-        "enc-renaissance"
+        "enc-renaissance",
+        "wd-mona-lisa"
       ],
       "level": "L2",
       "sections": {
@@ -859,7 +865,7 @@
         "技法或形式分析": "在技法上，作品以渐进色与明暗法塑造面部，使过渡显得柔和。构图上，人物坐姿采用金字塔式布局。",
         "与前后风格的关系和争论": "相关条目将其与作者列奥纳多·达·芬奇及盛期文艺复兴相联系。记载较一致，学界主要讨论该作品在盛期文艺复兴中的分期与归属边界问题。",
         "一图": "示意图说明渐进色与明暗法塑造面部过渡、金字塔构图安排坐姿的作用。",
-        "待核实": "when 字段的“约1503—1519年”为精确年代区间，来源标题未逐字支撑，待补充第二来源核实。def 提及的收藏地“巴黎卢浮宫”未在 overview 中出现，待补充第二来源。“渐进色”“明暗法”的英文对应术语输入未给出，待补充第二来源。"
+        "待核实": "when 字段的“约1503—1519年”为精确年代区间，来源标题未逐字支撑，待补充第二来源核实。def 提及的收藏地“巴黎卢浮宫”未在 overview 中出现，待补充第二来源。“渐进色”“明暗法”的英文对应术语输入未给出，待补充第二来源。 【已复核·Wikidata】作品事实：第二来源 wd-mona-lisa（https://www.wikidata.org/wiki/Q12418），据其结构化数据：作者=列奥纳多·达·芬奇；创作时间=1503；收藏=Department of Paintings of the Louvre。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='《蒙娜丽莎》 示意图'><title>《蒙娜丽莎》</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>蒙娜丽莎</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>肖像画</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>渐进色</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>明暗法</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>金字塔构图</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>坐姿</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>面部过渡与坐姿构图的形式手段</text></g></svg>"
     },
@@ -951,7 +957,8 @@
       ],
       "sources": [
         "enc-caravaggio",
-        "enc-baroque"
+        "enc-baroque",
+        "wd-caravaggio"
       ],
       "level": "L2",
       "sections": {
@@ -961,7 +968,7 @@
         "技法或形式分析": "其技法核心在于明暗对照，即在暗背景中以聚光式照明突出主体。现实主义人物的塑造与这种光线处理相结合，强化了画面的戏剧性。聚光式照明由此成为其形式的显著标志。",
         "与前后风格的关系和争论": "卡拉瓦乔与巴洛克直接相关，并对欧洲一代画家产生影响。相关条目中的伦勃朗可作为其光影语言的后续参照。记载较一致，学界主要讨论其风格在巴洛克内部的分期与边界问题。",
         "一图": "示意图展示卡拉瓦乔如何以明暗对照与聚光式照明突出《圣马太蒙召》的戏剧性。",
-        "待核实": "本条目事实依据为 Caravaggio 与 Baroque 两条权威百科条目。作品的具体创作年份与收藏地未在现有字段中给出，待补充第二来源核实；与相关人物伦勃朗的具体承继关系亦待补充第二来源。"
+        "待核实": "本条目事实依据为 Caravaggio 与 Baroque 两条权威百科条目。作品的具体创作年份与收藏地未在现有字段中给出，待补充第二来源核实；与相关人物伦勃朗的具体承继关系亦待补充第二来源。 【已复核·Wikidata】生卒：第二来源 wd-caravaggio（https://www.wikidata.org/wiki/Q42207），据其结构化数据：生年 1571，卒年 1610。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='卡拉瓦乔 示意图'><title>卡拉瓦乔</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>卡拉瓦乔</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>明暗对照</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>圣马太蒙召</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>聚光式照明</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>巴洛克</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>伦勃朗</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>卡拉瓦乔以明暗对照与聚光式照明营造戏剧性</text></g></svg>"
     },
@@ -984,7 +991,8 @@
       ],
       "sources": [
         "enc-rembrandt",
-        "enc-baroque"
+        "enc-baroque",
+        "wd-rembrandt"
       ],
       "level": "L3",
       "sections": {
@@ -994,7 +1002,7 @@
         "技法或形式分析": "层层罩染是其重要的技法手段。聚光式明暗则用于在画面中建立视觉重心。二者共同服务于心理深度的刻画。",
         "与前后风格的关系和争论": "伦勃朗与巴洛克相关，维米尔列于其相关条目，可据此观察荷兰黄金时代内部在题材与光影上的差异。记载较一致，学界主要讨论其风格的分期与边界问题。",
         "一图": "示意图呈现伦勃朗以层层罩染与聚光式明暗刻画心理深度的方式。",
-        "待核实": "本条目依据 Rembrandt 与 Baroque 两条权威百科条目。作品的具体年份与收藏地未在字段中给出，待补充第二来源核实；与维米尔的具体关联亦待补充第二来源。"
+        "待核实": "本条目依据 Rembrandt 与 Baroque 两条权威百科条目。作品的具体年份与收藏地未在字段中给出，待补充第二来源核实；与维米尔的具体关联亦待补充第二来源。 【已复核·Wikidata】生卒：第二来源 wd-rembrandt（https://www.wikidata.org/wiki/Q5598），据其结构化数据：生年 1606，卒年 1669。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='伦勃朗 示意图'><title>伦勃朗</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>伦勃朗</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>光影处理</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>夜巡</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>自画像</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>荷兰</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>巴洛克</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>伦勃朗以层层罩染与聚光式明暗刻画心理深度</text></g></svg>",
       "l3": {
@@ -1065,7 +1073,8 @@
       ],
       "sources": [
         "enc-rubens",
-        "enc-baroque"
+        "enc-baroque",
+        "wd-rubens"
       ],
       "level": "L2",
       "sections": {
@@ -1075,7 +1084,7 @@
         "技法或形式分析": "在形式上，鲁本斯以宏大构图组织画面，人体造型丰腴，动势强烈。色彩运用饱满，是其绘画的显著特征。他融合意大利与北方传统，并将这种综合体现在其曾主持的大规模装饰工程之中。",
         "与前后风格的关系和争论": "鲁本斯在 def 中被明确归为巴洛克画家，故巴洛克构成其风格归属的基本框架。related 另列洛可可，提示其艺术与后续风格之间的关联。现有记载对这一归属的表述较一致，未见明确的学派争论；学界主要讨论鲁本斯的分期与边界问题，尤其是其与巴洛克、洛可可之间影响关系的界定。",
         "一图": "示意图呈现鲁本斯作为佛兰德斯巴洛克画家，以丰腴人体、饱满色彩与宏大构图见长，并融合意大利与北方传统。",
-        "待核实": "现有材料未提供鲁本斯具体作品名称、创作年代与收藏地，如需补充，应待补充第二来源后再行写入。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+        "待核实": "现有材料未提供鲁本斯具体作品名称、创作年代与收藏地，如需补充，应待补充第二来源后再行写入。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核·Wikidata】生卒：第二来源 wd-rubens（https://www.wikidata.org/wiki/Q5599），据其结构化数据：生年 1577，卒年 1640。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='鲁本斯 示意图'><title>鲁本斯</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>鲁本斯</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>佛兰德斯</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>丰腴人体</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>宏大构图</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>色彩饱满</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>动势强烈</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>巴洛克</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>装饰工程</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>鲁本斯融合意大利与北方传统的巴洛克绘画</text></g></svg>"
     },
@@ -1097,7 +1106,8 @@
       ],
       "sources": [
         "enc-velazquez",
-        "enc-baroque"
+        "enc-baroque",
+        "wd-velazquez"
       ],
       "level": "L2",
       "sections": {
@@ -1107,7 +1117,7 @@
         "技法或形式分析": "其技法核心在于写实肖像的塑造与空间处理，笔触松动而富有变化。光线处理尤为精妙，是《宫娥》《教皇英诺森十世肖像》等代表作的重要表现手段。空间处理与光线、笔触相互配合，共同服务于写实效果。",
         "与前后风格的关系和争论": "在风格谱系上，委拉斯开兹与巴洛克相关联，其松动笔触与精妙光线又常被后世与印象派相联系。记载较一致，学界主要讨论其与巴洛克、印象派之间的关系与边界问题。",
         "一图": "示意图展示委拉斯开兹以写实肖像与精妙光线处理著称的核心特征。",
-        "待核实": "概述未提及《宫娥》《教皇英诺森十世肖像》的创作年份与收藏地，此处不作推断。相关细节待补充第二来源核实。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+        "待核实": "概述未提及《宫娥》《教皇英诺森十世肖像》的创作年份与收藏地，此处不作推断。相关细节待补充第二来源核实。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核·Wikidata】生卒：第二来源 wd-velazquez（https://www.wikidata.org/wiki/Q297），据其结构化数据：生年 1599，卒年 1660。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='委拉斯开兹 示意图'><title>委拉斯开兹</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>委拉斯开兹</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>宫廷画家</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>写实肖像</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>空间处理</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>光线处理</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>笔触松动</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>委拉斯开兹以写实肖像与精妙光线处理著称</text></g></svg>"
     },
@@ -1129,7 +1139,8 @@
       ],
       "sources": [
         "enc-vermeer",
-        "enc-baroque"
+        "enc-baroque",
+        "wd-vermeer"
       ],
       "level": "L2",
       "sections": {
@@ -1139,7 +1150,7 @@
         "技法或形式分析": "其技法重在自然光的描绘与柔和光线的营造，多取室内场景为题材。自然光与日常静谧氛围的结合，是《戴珍珠耳环的少女》《倒牛奶的女仆》等作品的共同特点。",
         "与前后风格的关系和争论": "维米尔与相关条目中的伦勃朗同处荷兰黄金时代，并被与现实主义（艺术）相联系。记载较一致，学界主要讨论其与现实主义（艺术）之间的分期与边界问题。",
         "一图": "示意图概括维米尔以室内场景、柔和光线与自然光营造静谧氛围的特点。",
-        "待核实": "概述未提及《戴珍珠耳环的少女》《倒牛奶的女仆》的创作年份与收藏地，此处不作推断。相关细节待补充第二来源核实。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+        "待核实": "概述未提及《戴珍珠耳环的少女》《倒牛奶的女仆》的创作年份与收藏地，此处不作推断。相关细节待补充第二来源核实。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核·Wikidata】生卒：第二来源 wd-vermeer（https://www.wikidata.org/wiki/QQ41264），据其结构化数据：生年 1632，卒年 1675。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='维米尔 示意图'><title>维米尔</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>维米尔</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>荷兰黄金时代</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>室内场景</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>柔和光线</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>自然光</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>日常静谧</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>维米尔以室内场景、柔和光线与日常静谧氛围见长</text></g></svg>"
     },
@@ -1263,7 +1274,8 @@
       ],
       "sources": [
         "enc-romanticism",
-        "enc-impressionism"
+        "enc-impressionism",
+        "wd-delacroix"
       ],
       "level": "L2",
       "sections": {
@@ -1273,7 +1285,7 @@
         "技法或形式分析": "输入中可直接分析的形式要素是色彩与戏剧性构图。色彩奔放与动势强烈共同构成作品的形式特征。笔触、材料、尺寸、作品年份与收藏地未给出，因此不作展开。",
         "与前后风格的关系和争论": "相关条目中的浪漫主义（艺术）与新古典主义提供理解德拉克罗瓦位置的线索。作为法国浪漫主义画家，他与浪漫主义（艺术）的关系是直接归属；与新古典主义的关系在输入中仅以相关条目呈现。输入还说明他对印象派有启发，未记载具体学者争论；记载较一致，学界主要讨论其与浪漫主义（艺术）、新古典主义之间的分期/边界问题。",
         "一图": "示意图呈现德拉克罗瓦以奔放色彩和强烈动势关联浪漫主义（艺术）、新古典主义与印象派。",
-        "待核实": "输入列出来源标题“Romanticism”与“Impressionism”。《自由引导人民》的具体年份、收藏地与画面细节未在输入中给出。关于他与新古典主义的具体争论及对印象派启发的具体路径，待补充第二来源后再写入正文。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+        "待核实": "输入列出来源标题“Romanticism”与“Impressionism”。《自由引导人民》的具体年份、收藏地与画面细节未在输入中给出。关于他与新古典主义的具体争论及对印象派启发的具体路径，待补充第二来源后再写入正文。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核·Wikidata】生卒：第二来源 wd-delacroix（https://www.wikidata.org/wiki/QQ33477），据其结构化数据：生年 1798，卒年 1863。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='德拉克罗瓦 示意图'><title>德拉克罗瓦</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>德拉克罗瓦</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>浪漫主义画家</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>浪漫主义（艺术）</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>相关条目</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>新古典主义</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>相关条目</text><rect class='svg-box-accent' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='665.0' y='142' text-anchor='middle'>印象派</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>有启发</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>色彩奔放、动势强烈，启发印象派</text></g></svg>"
     },
@@ -1428,7 +1440,8 @@
       ],
       "sources": [
         "enc-monet",
-        "enc-impressionism"
+        "enc-impressionism",
+        "wd-monet"
       ],
       "level": "L3",
       "sections": {
@@ -1438,7 +1451,7 @@
         "技法或形式分析": "在技法层面，莫奈长期探索光色变化，并把同一题材反复绘制为系列画。系列画的形式为比较不同状态下的光色提供了载体，光与色成为其持续关注的对象。概述未提供更具体的笔触、构图或材料信息，此处不作展开。",
         "与前后风格的关系和争论": "莫奈是印象派画家，并为该流派名称的由来者；后印象派则在其之后兴起。记载较一致，学界主要讨论其与印象派、后印象派之间的关系及风格分期问题。概述未提及针对莫奈的争议性观点，故不作观点归属。",
         "一图": "示意图以印象派、后印象派为背景，标示莫奈作为印象派名称由来者及其光色探索与系列画的位置。",
-        "待核实": "概述列出《印象·日出》与《睡莲》系列为代表作，但未提供创作年份与收藏地，待补充第二来源核实。材料亦未说明系列画的具体数量及各件作品的关系，相关细节暂付阙如。莫奈与后印象派的具体关联仅以相关条目列出，尚无进一步论述。"
+        "待核实": "概述列出《印象·日出》与《睡莲》系列为代表作，但未提供创作年份与收藏地，待补充第二来源核实。材料亦未说明系列画的具体数量及各件作品的关系，相关细节暂付阙如。莫奈与后印象派的具体关联仅以相关条目列出，尚无进一步论述。 【已复核·Wikidata】生卒：第二来源 wd-monet（https://www.wikidata.org/wiki/Q296），据其结构化数据：生年 1840，卒年 1926。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='莫奈 示意图'><title>莫奈</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>莫奈</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>印象派名称的由来者</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>光色变化</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>同一题材</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>系列画</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>印象·日出</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>莫奈以系列画探索同一题材的光色变化</text></g></svg>",
       "l3": {
@@ -1510,7 +1523,8 @@
       ],
       "sources": [
         "enc-van-gogh",
-        "enc-post-impressionism"
+        "enc-post-impressionism",
+        "wd-van-gogh"
       ],
       "level": "L2",
       "sections": {
@@ -1520,7 +1534,7 @@
         "技法或形式分析": "在技法层面，梵高以强烈色彩与表现性笔触为主要手段。色彩与笔触在这里不只用于造型，更承担传达主观情绪的功能。概述未提供画布、颜料或笔法细节，故不作进一步推断。",
         "与前后风格的关系和争论": "梵高属于后印象派，其用色与笔触传达主观情绪的做法对表现主义影响深远。就承接关系而言，后印象派是其所属脉络，表现主义则是其影响的后继方向。记载较一致，学界主要讨论其风格分期与对表现主义影响的边界问题。",
         "一图": "示意图标示梵高作为后印象派画家，以强烈色彩与表现性笔触传达主观情绪，并指向其影响的表现主义。",
-        "待核实": "概述列出《星月夜》《向日葵》为代表作，但未提供创作年份与收藏地，待补充第二来源核实。材料称其对表现主义影响深远，但未给出具体受影响的人物或作品，相关细节待补充。"
+        "待核实": "概述列出《星月夜》《向日葵》为代表作，但未提供创作年份与收藏地，待补充第二来源核实。材料称其对表现主义影响深远，但未给出具体受影响的人物或作品，相关细节待补充。 【已复核·Wikidata】生卒：第二来源 wd-van-gogh（https://www.wikidata.org/wiki/Q5582），据其结构化数据：生年 1853，卒年 1890。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='梵高 示意图'><title>梵高</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>梵高</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>后印象派画家</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>强烈色彩</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>表现性笔触</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>表现主义</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>影响深远</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>梵高以强烈色彩与表现性笔触传达主观情绪</text></g></svg>"
     },
@@ -1543,7 +1557,8 @@
       ],
       "sources": [
         "enc-cezanne",
-        "enc-cubism"
+        "enc-cubism",
+        "wd-cezanne"
       ],
       "level": "L2",
       "sections": {
@@ -1553,7 +1568,7 @@
         "技法或形式分析": "在技法层面，塞尚以几何化的结构色块重组对象，把对象组织为画面中的块面关系。这种以结构色块经营画面的方式，强调形式秩序而非对物象的直接摹写。概述未提供具体的用笔或设色材料细节，此处不作展开。",
         "与前后风格的关系和争论": "塞尚属于后印象派，其以结构色块重组对象的做法启发了立体主义。就承接关系而言，后印象派是其所属脉络，立体主义则是受其启发的后继方向。记载较一致，学界主要讨论其作为现代艺术之父的定位及与立体主义之间的影响边界问题。",
         "一图": "示意图标示塞尚作为后印象派画家，以几何化结构色块重组对象，并指向其启发的立体主义。",
-        "待核实": "概述列出《圣维克多山》《静物》为代表作，但未提供创作年份与收藏地，待补充第二来源核实。定义中称其被誉为现代艺术之父，材料未给出该称谓的出处，相关表述待补充来源佐证。"
+        "待核实": "概述列出《圣维克多山》《静物》为代表作，但未提供创作年份与收藏地，待补充第二来源核实。定义中称其被誉为现代艺术之父，材料未给出该称谓的出处，相关表述待补充来源佐证。 【已复核·Wikidata】生卒：第二来源 wd-cezanne（https://www.wikidata.org/wiki/Q35548），据其结构化数据：生年 1839，卒年 1906。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='塞尚 示意图'><title>塞尚</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>塞尚</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>后印象派画家</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>结构色块</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>几何化</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>立体主义</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>启发</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>塞尚以几何化结构色块重组对象并启发立体主义</text></g></svg>"
     },
@@ -1575,7 +1590,8 @@
       ],
       "sources": [
         "enc-gauguin",
-        "enc-post-impressionism"
+        "enc-post-impressionism",
+        "wd-gauguin"
       ],
       "level": "L2",
       "sections": {
@@ -1585,7 +1601,7 @@
         "技法或形式分析": "条目明确提到平涂色块，说明其形式分析可从色块组织入手。象征性平面色彩与象征构图并列出现，显示色彩和构图在作品说明中具有核心位置。材料未给出更细的笔触、透视或空间处理细节，因此不作外推。",
         "与前后风格的关系和争论": "从相关条目看，高更与后印象派直接关联，并与塞尚同列于条目关系中。材料未提供具体争论、学者姓名或观点归属。记载较一致，学界主要讨论高更的分期/边界问题。",
         "一图": "示意图用高更、平涂色块与象征构图呈现其平面色彩和作品形式重点。",
-        "待核实": "《我们从何处来？我们是谁？我们向何处去？》的具体创作年份未在材料中给出，待补充第二来源。该作收藏地同样未在材料中给出，待补充第二来源。如需扩展原始主义或象征性的来源脉络，也应待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+        "待核实": "《我们从何处来？我们是谁？我们向何处去？》的具体创作年份未在材料中给出，待补充第二来源。该作收藏地同样未在材料中给出，待补充第二来源。如需扩展原始主义或象征性的来源脉络，也应待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核·Wikidata】生卒：第二来源 wd-gauguin（https://www.wikidata.org/wiki/Q37693），据其结构化数据：生年 1848，卒年 1903。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='高更 示意图'><title>高更</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>高更</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>后印象派画家</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>平涂色块</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>象征构图</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>后印象派</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>塞尚</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>高更的平面色彩与象征构图</text></g></svg>"
     },
@@ -1874,7 +1890,8 @@
       ],
       "sources": [
         "enc-picasso",
-        "enc-cubism"
+        "enc-cubism",
+        "wd-picasso"
       ],
       "level": "L2",
       "sections": {
@@ -1884,7 +1901,7 @@
         "技法或形式分析": "现有条目未列出具体技法名称或操作步骤。可以确定其创作横跨绘画与雕塑两种媒介。风格多变与重塑20世纪艺术语言是对其形式的总体描述。立体主义是其核心关联，更细的技术细节待补充第二来源。",
         "与前后风格的关系和争论": "毕加索与立体主义、现代艺术直接相关：前者由其参与创立，后者为其所属的艺术语境。记载较一致，学界主要讨论毕加索的分期与边界问题。现有条目未列出具体争论或学者观点，相关判断待补充第二来源。",
         "一图": "示意图展示毕加索、立体主义与现代艺术之间的关联，并标出其代表作《亚维农少女》与《格尔尼卡》。",
-        "待核实": "《亚维农少女》与《格尔尼卡》的具体创作年份及收藏地未在条目中给出，待补充第二来源。其雕塑作品与技法细节同样缺少可核实记录。相关人物与作品的分期问题亦待进一步查证。"
+        "待核实": "《亚维农少女》与《格尔尼卡》的具体创作年份及收藏地未在条目中给出，待补充第二来源。其雕塑作品与技法细节同样缺少可核实记录。相关人物与作品的分期问题亦待进一步查证。 【已复核·Wikidata】生卒：第二来源 wd-picasso（https://www.wikidata.org/wiki/Q5593），据其结构化数据：生年 1881，卒年 1973。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='毕加索 示意图'><title>毕加索</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>毕加索</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1881—1973年</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>立体主义</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>创始人之一</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>现代艺术</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>20世纪</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>毕加索连接立体主义与现代艺术</text></g></svg>"
     },
@@ -1906,7 +1923,8 @@
       ],
       "sources": [
         "enc-matisse",
-        "enc-fauvism"
+        "enc-fauvism",
+        "wd-matisse"
       ],
       "level": "L2",
       "sections": {
@@ -1916,7 +1934,7 @@
         "技法或形式分析": "输入中可分析的形式重点是色彩平衡、装饰性愉悦与剪纸。剪纸被列为他闻名的方面，色彩平衡则与代表作描述相连。具体笔触、材料、作品年份与收藏地未给出，因此不作展开。",
         "与前后风格的关系和争论": "相关条目中的野兽派与现代艺术为定位马蒂斯提供两个层次。作为野兽派领袖，他与野兽派的关系是直接归属；与现代艺术的关系则是输入给出的较大框架。输入未呈现具体学者争论，记载较一致，学界主要讨论其与野兽派、现代艺术之间的分期/边界问题。",
         "一图": "示意图呈现马蒂斯以色彩平衡和剪纸连接野兽派与现代艺术。",
-        "待核实": "输入列出来源标题“Henri Matisse”与“Fauvism”。《舞蹈》《红色和谐》的具体年份、收藏地与画面细节未在输入中给出。关于剪纸作品清单或具体技法说明，待补充第二来源后再写入正文。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+        "待核实": "输入列出来源标题“Henri Matisse”与“Fauvism”。《舞蹈》《红色和谐》的具体年份、收藏地与画面细节未在输入中给出。关于剪纸作品清单或具体技法说明，待补充第二来源后再写入正文。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核·Wikidata】生卒：第二来源 wd-matisse（https://www.wikidata.org/wiki/Q5589），据其结构化数据：生年 1869，卒年 1954。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='马蒂斯 示意图'><title>马蒂斯</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>马蒂斯</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>野兽派领袖</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>野兽派</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>相关条目</text><rect class='svg-box-accent' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='475.0' y='142' text-anchor='middle'>色彩与剪纸</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>平衡与愉悦</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>现代艺术</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>相关条目</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>色彩与剪纸连接野兽派与现代艺术</text></g></svg>"
     },
@@ -1938,7 +1956,8 @@
       ],
       "sources": [
         "enc-kandinsky",
-        "enc-expressionism"
+        "enc-expressionism",
+        "wd-kandinsky"
       ],
       "level": "L2",
       "sections": {
@@ -1948,7 +1967,7 @@
         "技法或形式分析": "输入中可直接确认的形式要素是色彩与几何。二者被描述为纯粹形式，并承担精神表达。具体笔触、作品年份、收藏地与材料信息未给出，因此不作展开。",
         "与前后风格的关系和争论": "相关条目列出表现主义与抽象表现主义，可作为理解康定斯基位置的线索。作为抽象艺术的先驱之一，他与抽象表现主义的关联更接近后续承接的阅读方向；与表现主义的关系则在输入中仅以相关条目呈现。输入未记载具体学者争论，记载较一致，学界主要讨论其与表现主义、抽象表现主义之间的分期/边界问题。",
         "一图": "示意图呈现康定斯基以色彩与几何的纯粹形式表达精神，并关联表现主义与抽象表现主义。",
-        "待核实": "输入列出来源标题“Wassily Kandinsky”与“Expressionism”。《论艺术的精神》的具体出版信息、作品年份与收藏地未在输入中给出。涉及更细的理论观点或作品实例，待补充第二来源后再写入正文。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+        "待核实": "输入列出来源标题“Wassily Kandinsky”与“Expressionism”。《论艺术的精神》的具体出版信息、作品年份与收藏地未在输入中给出。涉及更细的理论观点或作品实例，待补充第二来源后再写入正文。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核·Wikidata】生卒：第二来源 wd-kandinsky（https://www.wikidata.org/wiki/Q61064），据其结构化数据：生年 1866，卒年 1944。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='康定斯基 示意图'><title>康定斯基</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>康定斯基</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>抽象艺术先驱</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>色彩与几何</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>纯粹形式</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>表现主义</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>相关条目</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>抽象表现主义</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>相关条目</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>色彩与几何的纯粹形式表达精神</text></g></svg>"
     },
@@ -1970,7 +1989,8 @@
       ],
       "sources": [
         "enc-dali",
-        "enc-surrealism"
+        "enc-surrealism",
+        "wd-dali"
       ],
       "level": "L2",
       "sections": {
@@ -1980,7 +2000,7 @@
         "技法或形式分析": "达利的绘画以精确图像见长，梦境般的场景被细致地呈现出来。软钟等意象虽属怪诞，却以清晰的形式加以刻画，服务于潜意识与时间主题。精确性与怪诞性的并置，构成其形式分析的重点。",
         "与前后风格的关系和争论": "达利与超现实主义、现代艺术同列为相关条目。作为西班牙超现实主义画家，其创作处于现代艺术的脉络之中。记载较一致，学界主要讨论达利与超现实主义关系的分期与边界问题。",
         "一图": "示意图展示达利以《记忆的永恒》中的软钟意象表现潜意识与时间主题，并关联超现实主义与现代艺术。",
-        "待核实": "输入材料给出来源标题 Salvador Dali 与 Surrealism，未涉及作品的具体创作年代与收藏信息。《记忆的永恒》的确切创作年份、收藏地及软钟意象的释读细节，待补充第二来源后再写入正文。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+        "待核实": "输入材料给出来源标题 Salvador Dali 与 Surrealism，未涉及作品的具体创作年代与收藏信息。《记忆的永恒》的确切创作年份、收藏地及软钟意象的释读细节，待补充第二来源后再写入正文。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核·Wikidata】生卒：第二来源 wd-dali（https://www.wikidata.org/wiki/Q5577），据其结构化数据：生年 1904，卒年 1989。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='达利 示意图'><title>达利</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>达利</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>西班牙画家</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>《记忆的永恒》</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>代表作</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>软钟</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>潜意识与时间</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>超现实主义</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>现代艺术</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>达利以《记忆的永恒》的软钟意象呈现潜意识与时间主题</text></g></svg>"
     },
@@ -2171,7 +2191,8 @@
       ],
       "sources": [
         "enc-warhol",
-        "enc-pop-art"
+        "enc-pop-art",
+        "wd-warhol"
       ],
       "level": "L2",
       "sections": {
@@ -2181,7 +2202,7 @@
         "技法或形式分析": "在技法上，沃霍尔以丝网印刷处理名人肖像，使图像可以被大量复制。他借由这一手段把商业图像与名人文化带入艺术，并以《玛丽莲·梦露》系列加以呈现。作品主题围绕复制与消费展开，图像的可复制性本身构成了形式分析的重要面向。",
         "与前后风格的关系和争论": "相关条目把沃霍尔与波普艺术、当代艺术相连，说明他是波普艺术的代表，并通向当代艺术的讨论语境。材料记载较一致，未列出具体学者争论，学界主要讨论他与波普艺术、当代艺术之间的归属与边界问题。",
         "一图": "示意图呈现沃霍尔以丝网印刷名人肖像及代表作《玛丽莲·梦露》系列，并连接波普艺术与当代艺术。",
-        "待核实": "概述点明《玛丽莲·梦露》系列为代表作，但未给出该系列各件作品的年份与收藏地。相关人物年表之外的作品编目细节，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+        "待核实": "概述点明《玛丽莲·梦露》系列为代表作，但未给出该系列各件作品的年份与收藏地。相关人物年表之外的作品编目细节，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核·Wikidata】生卒：第二来源 wd-warhol（https://www.wikidata.org/wiki/Q5603），据其结构化数据：生年 1928，卒年 1987。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='安迪·沃霍尔 示意图'><title>安迪·沃霍尔</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>安迪·沃霍尔</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>丝网印刷</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>波普艺术</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>代表艺术家</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>当代艺术</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>20世纪</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>沃霍尔以丝网印刷名人肖像连接波普艺术与当代艺术。</text></g></svg>"
     },
@@ -3035,7 +3056,8 @@
       ],
       "sources": [
         "enc-renaissance-music",
-        "enc-medieval-music"
+        "enc-medieval-music",
+        "wd-palestrina"
       ],
       "level": "L2",
       "sections": {
@@ -3045,7 +3067,7 @@
         "技法或形式分析": "其技法核心在于复调写作中声部的均衡与透明，各声部进行清晰可辨。通过控制声部关系，使教会音乐在保持复调密度的同时获得明净的听感，成为该时期的典范。",
         "与前后风格的关系和争论": "就相关条目而言，帕莱斯特里纳处于文艺复兴音乐之中，并与随后的巴洛克音乐形成承接。记载较一致，学界主要讨论其与文艺复兴音乐、巴洛克音乐之间的分期与边界问题。",
         "一图": "示意图展示帕莱斯特里纳在文艺复兴音乐与巴洛克音乐之间的位置及其复调教会音乐特征。",
-        "待核实": "种子字段所列精确生卒区间「约1525—1594年」未在来源中逐字给出，正文改用「文艺复兴时期／16世纪」的概括表述。该精确区间待补充第二来源核实，中文技法术语的英文对应输入未明确给出，亦待核实。"
+        "待核实": "种子字段所列精确生卒区间「约1525—1594年」未在来源中逐字给出，正文改用「文艺复兴时期／16世纪」的概括表述。该精确区间待补充第二来源核实，中文技法术语的英文对应输入未明确给出，亦待核实。 【已复核·Wikidata】生卒：第二来源 wd-palestrina（https://www.wikidata.org/wiki/Q179277），据其结构化数据：生年 1525，卒年 1594。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='帕莱斯特里纳 示意图'><title>帕莱斯特里纳</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>帕莱斯特里纳</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>复调教会音乐</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>文艺复兴音乐</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>16世纪</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>巴洛克音乐</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>教会音乐</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>帕莱斯特里纳与文艺复兴音乐、巴洛克音乐的关系</text></g></svg>"
     },
@@ -3305,7 +3327,8 @@
       ],
       "sources": [
         "enc-bach",
-        "enc-baroque-music"
+        "enc-baroque-music",
+        "wd-bach"
       ],
       "level": "L2",
       "sections": {
@@ -3315,7 +3338,7 @@
         "技法或形式分析": "巴赫的创作集复调艺术之大成。作为管风琴家，其写作与复调技法紧密相连。赋格作为相关条目，与其技法体系相关联。",
         "与前后风格的关系和争论": "巴赫与巴洛克音乐及赋格密切相关。相关记载较为一致，学界主要讨论其创作的分期问题。",
         "一图": "示意图展示巴赫集复调艺术之大成、并以多部代表作体现其成就的关系。",
-        "待核实": "代表作品的具体创作年份与收藏地未见于现有来源，待补充第二来源。"
+        "待核实": "代表作品的具体创作年份与收藏地未见于现有来源，待补充第二来源。 【已复核·Wikidata】生卒：第二来源 wd-bach（https://www.wikidata.org/wiki/Q1339），据其结构化数据：生年 1685，卒年 1750。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='巴赫 示意图'><title>巴赫</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>巴赫</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1685—1750</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>复调艺术</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>集大成</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>赋格</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>相关条目</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>巴洛克音乐</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>所属时期</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>巴赫集复调艺术之大成，以多部代表作体现其成就。</text></g></svg>"
     },
@@ -3337,7 +3360,8 @@
       ],
       "sources": [
         "enc-opera",
-        "enc-baroque-music"
+        "enc-baroque-music",
+        "wd-monteverdi"
       ],
       "level": "L2",
       "sections": {
@@ -3347,7 +3371,7 @@
         "技法或形式分析": "蒙特威尔第在宣叙调与管弦乐两方面推进了表现力。作为早期歌剧的奠基者，他对这两方面的推进具有代表性。宣叙调的英文对应术语条目未明确给出，待核实。",
         "与前后风格的关系和争论": "蒙特威尔第被视为早期歌剧的重要奠基者，并与巴洛克音乐传统相连。就其与前后风格的关系而言，现有记载较为一致。学界主要讨论的是他与早期歌剧、巴洛克音乐之间的分期与边界问题。",
         "一图": "示意图展示蒙特威尔第以宣叙调与管弦乐推进歌剧表现力，并以《奥菲欧》为代表。",
-        "待核实": "蒙特威尔第的精确生卒年区间（1567—1643年）来自种子字段，尚待第二来源逐字核实。宣叙调的英文对应术语条目未给出，需补充来源确认。《奥菲欧》《波佩亚的加冕》的具体创作年份与收藏地条目未提供，待补充第二来源。"
+        "待核实": "蒙特威尔第的精确生卒年区间（1567—1643年）来自种子字段，尚待第二来源逐字核实。宣叙调的英文对应术语条目未给出，需补充来源确认。《奥菲欧》《波佩亚的加冕》的具体创作年份与收藏地条目未提供，待补充第二来源。 【已复核·Wikidata】生卒：第二来源 wd-monteverdi（https://www.wikidata.org/wiki/QQ53068），据其结构化数据：生年 1567，卒年 1643。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='蒙特威尔第 示意图'><title>蒙特威尔第</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>蒙特威尔第</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>作曲家</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>宣叙调</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>管弦乐</text><rect class='svg-box-accent' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='665.0' y='142' text-anchor='middle'>奥菲欧</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>代表作</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>蒙特威尔第推进歌剧表现力</text></g></svg>"
     },
@@ -3474,7 +3498,8 @@
       ],
       "sources": [
         "enc-haydn",
-        "enc-symphony"
+        "enc-symphony",
+        "wd-haydn"
       ],
       "level": "L2",
       "sections": {
@@ -3484,7 +3509,7 @@
         "技法或形式分析": "海顿在交响曲创作中确立四乐章套曲规范，这是概述所强调的形式贡献。他同时被视为弦乐四重奏体裁的奠基者之一。四乐章套曲与清唱剧《创世纪》分属不同体裁，共同构成其创作面貌。",
         "与前后风格的关系和争论": "海顿与古典主义音乐、交响曲两个相关条目相联系，其奠基性工作与二者的体裁发展相连。记载较一致，学界主要讨论其交响曲与弦乐四重奏体裁奠基地位的分期与边界问题。",
         "一图": "示意图呈现海顿作为交响曲与弦乐四重奏奠基者，确立四乐章套曲规范并以晚期清唱剧《创世纪》著称的关系。",
-        "待核实": "生卒年精确区间（1732—1809年）来自 when 字段，需补充第二来源逐字核对。《创世纪》的具体创作年份与首演地未在来源中给出，待补充第二来源。“四乐章套曲规范”“弦乐四重奏”的英文对应术语输入未明确给出，待核实。"
+        "待核实": "生卒年精确区间（1732—1809年）来自 when 字段，需补充第二来源逐字核对。《创世纪》的具体创作年份与首演地未在来源中给出，待补充第二来源。“四乐章套曲规范”“弦乐四重奏”的英文对应术语输入未明确给出，待核实。 【已复核·Wikidata】生卒：第二来源 wd-haydn（https://www.wikidata.org/wiki/Q7349），据其结构化数据：生年 1732，卒年 1809。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='海顿 示意图'><title>海顿</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>海顿</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>奥地利作曲家</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>交响曲</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>四乐章套曲规范</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>弦乐四重奏</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>奠基体裁之一</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>创世纪</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>晚期清唱剧</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>海顿与交响曲、弦乐四重奏及《创世纪》的体裁关联</text></g></svg>"
     },
@@ -3506,7 +3531,8 @@
       ],
       "sources": [
         "enc-mozart",
-        "enc-classical-period-music"
+        "enc-classical-period-music",
+        "wd-mozart"
       ],
       "level": "L2",
       "sections": {
@@ -3516,7 +3542,7 @@
         "技法或形式分析": "材料没有展开具体作曲技法，只给出体裁范围。协奏曲与交响曲在概述中与大量作品相联系。歌剧作为相关条目提供另一体裁关联，但输入未提供形式分析细节。",
         "与前后风格的关系和争论": "相关条目将莫扎特与古典主义音乐、歌剧相连接。材料没有给出具体学者争论或观点归属。记载较一致，学界主要讨论莫扎特的分期/边界问题。",
         "一图": "示意图以莫扎特、古典主义音乐、歌剧、协奏曲与交响曲呈现其身份和体裁范围。",
-        "待核实": "输入只给出百科来源标题，具体作品的创作年份和收藏地未列明。若需展开这些细节，待补充第二来源。"
+        "待核实": "输入只给出百科来源标题，具体作品的创作年份和收藏地未列明。若需展开这些细节，待补充第二来源。 【已复核·Wikidata】生卒：第二来源 wd-mozart（https://www.wikidata.org/wiki/Q254），据其结构化数据：生年 1756，卒年 1791。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='莫扎特 示意图'><title>莫扎特</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>莫扎特</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>奥地利作曲家</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>古典主义音乐</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>集大成者</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>歌剧</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>费加罗的婚礼</text><rect class='svg-box-accent' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='665.0' y='142' text-anchor='middle'>协奏曲</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>交响曲</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>莫扎特 古典主义音乐 歌剧 协奏曲 交响曲</text></g></svg>"
     },
@@ -3539,7 +3565,8 @@
       ],
       "sources": [
         "enc-beethoven",
-        "enc-classical-period-music"
+        "enc-classical-period-music",
+        "wd-beethoven"
       ],
       "level": "L2",
       "sections": {
@@ -3549,7 +3576,7 @@
         "技法或形式分析": "材料关注结构规模与情感张力的拓展。九部交响曲与奏鸣曲是这一拓展的具体落点。晚期转向浪漫语汇，说明概述将形式变化与风格转向并置。",
         "与前后风格的关系和争论": "相关条目把贝多芬与古典主义音乐、浪漫主义音乐并置，体现连接两者的定位。材料未给出具体学者争论或观点归属。记载较一致，学界主要讨论贝多芬的分期/边界问题。",
         "一图": "示意图用古典主义音乐、贝多芬、浪漫主义音乐与九部交响曲呈现其连接位置。",
-        "待核实": "输入没有给出具体作品的年份、收藏地或引文。来源标题只列出百科条目，相关细节待补充第二来源。"
+        "待核实": "输入没有给出具体作品的年份、收藏地或引文。来源标题只列出百科条目，相关细节待补充第二来源。 【已复核·Wikidata】生卒：第二来源 wd-beethoven（https://www.wikidata.org/wiki/Q255），据其结构化数据：生年 1770，卒年 1827。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='贝多芬 示意图'><title>贝多芬</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>贝多芬</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>德意志作曲家</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>古典主义音乐</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>浪漫主义音乐</text><rect class='svg-box-accent' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='475.0' y='142' text-anchor='middle'>九部交响曲</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>奏鸣曲</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>浪漫语汇</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>晚期</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>古典主义音乐 贝多芬 浪漫主义音乐</text></g></svg>"
     },
@@ -3677,7 +3704,8 @@
       ],
       "sources": [
         "enc-chopin",
-        "enc-romantic-music"
+        "enc-romantic-music",
+        "wd-chopin"
       ],
       "level": "L2",
       "sections": {
@@ -3687,7 +3715,7 @@
         "技法或形式分析": "概述指出，肖邦将钢琴的表现力与波兰民间节奏结合，《玛祖卡》即列为代表作之一。这一结合是理解其作品形式与风格的主要着眼点。现有字段未提供更细的技法描述。",
         "与前后风格的关系和争论": "从相关条目看，肖邦与浪漫主义音乐、艺术歌曲相关联，可置于19世纪浪漫主义音乐的语境中理解。记载较一致，未见明确争论；学界主要讨论其风格归属与分期边界问题。",
         "一图": "示意图呈现浪漫主义音乐背景下的肖邦，以及其代表作《玛祖卡》与波兰民间节奏的关联。",
-        "待核实": "作品的具体创作年份、编号与出版信息在现有字段中未给出，待补充第二来源。艺术歌曲与肖邦的具体对应关系同样待补充第二来源。"
+        "待核实": "作品的具体创作年份、编号与出版信息在现有字段中未给出，待补充第二来源。艺术歌曲与肖邦的具体对应关系同样待补充第二来源。 【已复核·Wikidata】生卒：第二来源 wd-chopin（https://www.wikidata.org/wiki/Q1268），据其结构化数据：生年 1810，卒年 1849。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='肖邦 示意图'><title>肖邦</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>浪漫主义音乐</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>艺术歌曲</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>肖邦</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>钢琴作品</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>玛祖卡</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>波兰民间节奏</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='590.0' y1='145' x2='455.0' y2='145'/><polygon class='svg-arrowhead' points='455.0,145 464.0,140 464.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>肖邦以钢琴作品结合波兰民间节奏，归属浪漫主义音乐</text></g></svg>"
     },
@@ -3709,7 +3737,8 @@
       ],
       "sources": [
         "enc-wagner",
-        "enc-romantic-music"
+        "enc-romantic-music",
+        "wd-wagner"
       ],
       "level": "L2",
       "sections": {
@@ -3719,7 +3748,7 @@
         "技法或形式分析": "无终旋律与半音化和声是概述点明的两项核心手法。二者共同作用，将调性推向边界，体现其和声革新的方向。乐剧则是其呈现上述手法的体裁。",
         "与前后风格的关系和争论": "从相关条目看，瓦格纳与浪漫主义音乐、歌剧相关联，处于浪漫主义音乐的语境之中。记载较一致，未见明确争论；学界主要讨论其风格分期与乐剧边界问题。",
         "一图": "示意图呈现瓦格纳以乐剧与半音化和声把音乐推向调性边界的关系。",
-        "待核实": "作品的具体创作年份与首演信息在现有字段中未给出。乐剧概念的详细界定同样待补充第二来源。"
+        "待核实": "作品的具体创作年份与首演信息在现有字段中未给出。乐剧概念的详细界定同样待补充第二来源。 【已复核·Wikidata】生卒：第二来源 wd-wagner（https://www.wikidata.org/wiki/Q1511），据其结构化数据：生年 1813，卒年 1883。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='瓦格纳 示意图'><title>瓦格纳</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>浪漫主义音乐</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>歌剧</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>瓦格纳</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>乐剧</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>半音化和声</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>调性边界</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>瓦格纳以乐剧与半音化和声推向调性边界</text></g></svg>"
     },
@@ -3741,7 +3770,8 @@
       ],
       "sources": [
         "enc-romantic-music",
-        "enc-classical-period-music"
+        "enc-classical-period-music",
+        "wd-schubert"
       ],
       "level": "L2",
       "sections": {
@@ -3751,7 +3781,7 @@
         "技法或形式分析": "舒伯特的技法特色体现为旋律天赋与和声色彩。在艺术歌曲中，他以旋律与和声的结合支撑作品表达，形成鲜明的个人风格。",
         "与前后风格的关系和争论": "就相关条目而言，舒伯特与艺术歌曲、浪漫主义音乐均有直接关联，是艺术歌曲的重要奠基者。记载较一致，学界主要讨论其风格分期与体裁归属问题。",
         "一图": "示意图展示舒伯特以旋律天赋与和声色彩奠基艺术歌曲、并关联浪漫主义音乐的关系。",
-        "待核实": "种子字段所列精确生卒区间「1797—1828年」未在来源中逐字给出，正文改用「19世纪」的概括表述。该精确区间待补充第二来源核实，中文技法术语的英文对应输入未明确给出，亦待核实。"
+        "待核实": "种子字段所列精确生卒区间「1797—1828年」未在来源中逐字给出，正文改用「19世纪」的概括表述。该精确区间待补充第二来源核实，中文技法术语的英文对应输入未明确给出，亦待核实。 【已复核·Wikidata】生卒：第二来源 wd-schubert（https://www.wikidata.org/wiki/Q7312），据其结构化数据：生年 1797，卒年 1828。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='舒伯特 示意图'><title>舒伯特</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>舒伯特</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>奥地利作曲家</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>艺术歌曲</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>旋律天赋</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>浪漫主义音乐</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>和声色彩</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>舒伯特以旋律天赋与和声色彩奠基艺术歌曲</text></g></svg>"
     },
@@ -3912,7 +3942,8 @@
       ],
       "sources": [
         "enc-stravinsky",
-        "enc-20th-century-classical"
+        "enc-20th-century-classical",
+        "wd-stravinsky"
       ],
       "level": "L2",
       "sections": {
@@ -3922,7 +3953,7 @@
         "技法或形式分析": "节奏革新是本条定义中的核心特征。概述把强烈节奏与不协和音响并列为引发轰动的音乐要素。后期转向新古典主义，显示输入中对其风格变化的基本判断。",
         "与前后风格的关系和争论": "20世纪古典音乐与序列主义均列为相关条目。这些条目为理解其风格多变和后期转向新古典主义提供了相邻语境。记载较一致，学界主要讨论斯特拉文斯基的风格分期/边界问题。",
         "一图": "示意图以节奏革新、不协和音响、新古典主义及两部代表作呈现斯特拉文斯基的风格线索。",
-        "待核实": "输入未给出《春之祭》《彼得鲁什卡》的创作年份、首演信息或收藏地。关于其不协和音响与新古典主义转向的进一步论证，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+        "待核实": "输入未给出《春之祭》《彼得鲁什卡》的创作年份、首演信息或收藏地。关于其不协和音响与新古典主义转向的进一步论证，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核·Wikidata】生卒：第二来源 wd-stravinsky（https://www.wikidata.org/wiki/Q7314），据其结构化数据：生年 1882，卒年 1971。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='斯特拉文斯基 示意图'><title>斯特拉文斯基</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>斯特拉文斯基</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>俄国/美国</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>节奏革新</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>风格多变</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>《春之祭》</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>代表作</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>《彼得鲁什卡》</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>代表作</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>节奏革新 不协和音响 新古典主义</text></g></svg>"
     },
@@ -3944,7 +3975,8 @@
       ],
       "sources": [
         "enc-schoenberg",
-        "enc-serialism"
+        "enc-serialism",
+        "wd-schoenberg"
       ],
       "level": "L2",
       "sections": {
@@ -3954,7 +3986,7 @@
         "技法或形式分析": "十二音技法是本条定义中的核心概念。无调性被概述为重塑作曲逻辑的重要手段。十二音体系与其表现主义音乐身份在输入中并列出现。",
         "与前后风格的关系和争论": "序列主义与20世纪古典音乐均列为相关条目。这些条目将勋伯格置于20世纪音乐语境中，与十二音技法和无调性线索相连。记载较一致，学界主要讨论勋伯格的风格分期/边界问题。",
         "一图": "示意图以十二音技法、表现主义音乐及两部代表作呈现勋伯格的作曲特征。",
-        "待核实": "输入未给出《月光下的皮埃罗》《升华之夜》的创作年份、首演信息或收藏地。十二音技法与表现主义音乐的具体文本依据，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+        "待核实": "输入未给出《月光下的皮埃罗》《升华之夜》的创作年份、首演信息或收藏地。十二音技法与表现主义音乐的具体文本依据，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核·Wikidata】生卒：第二来源 wd-schoenberg（https://www.wikidata.org/wiki/Q154770），据其结构化数据：生年 1874，卒年 1951。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='勋伯格 示意图'><title>勋伯格</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>勋伯格</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>奥地利/美国</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>十二音技法</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>表现主义音乐</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>《月光下的皮埃罗》</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>代表作</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>《升华之夜》</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>代表作</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>十二音技法 表现主义音乐 代表作</text></g></svg>"
     },
@@ -3976,7 +4008,8 @@
       ],
       "sources": [
         "enc-20th-century-classical",
-        "enc-romantic-music"
+        "enc-romantic-music",
+        "wd-debussy"
       ],
       "level": "L2",
       "sections": {
@@ -3986,7 +4019,7 @@
         "技法或形式分析": "概述将音色与和声色彩列为德彪西营造意象的主要手段。朦胧意象是其风格追求的核心效果。《牧神午后前奏曲》与《大海》被列为体现这一写法的代表作。",
         "与前后风格的关系和争论": "德彪西与印象主义音乐、20世纪古典音乐两个相关条目相联系，来源列表另含 Romantic music 一项。记载较一致，学界主要讨论其印象主义归属与20世纪古典音乐的分期边界问题。",
         "一图": "示意图展示德彪西作为印象主义音乐代表，以《牧神午后前奏曲》《大海》及音色与和声色彩营造朦胧意象。",
-        "待核实": "生卒年精确区间（1862—1918年）来自 when 字段，需补充第二来源逐字核对。《牧神午后前奏曲》《大海》的具体创作年份与首演信息未在来源中给出，待补充第二来源。“音色”“和声色彩”“朦胧意象”的英文对应术语输入未明确给出，待核实。"
+        "待核实": "生卒年精确区间（1862—1918年）来自 when 字段，需补充第二来源逐字核对。《牧神午后前奏曲》《大海》的具体创作年份与首演信息未在来源中给出，待补充第二来源。“音色”“和声色彩”“朦胧意象”的英文对应术语输入未明确给出，待核实。 【已复核·Wikidata】生卒：第二来源 wd-debussy（https://www.wikidata.org/wiki/Q4700），据其结构化数据：生年 1862，卒年 1918。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='德彪西 示意图'><title>德彪西</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>德彪西</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>法国作曲家</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>印象主义音乐</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>代表人物</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>牧神午后前奏曲</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>代表作</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>大海</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>朦胧意象</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>德彪西与印象主义音乐、代表作及朦胧意象</text></g></svg>"
     },

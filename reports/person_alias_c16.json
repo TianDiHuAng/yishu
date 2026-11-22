@@ -1,0 +1,52 @@
+{
+ "leonardo": {
+  "qid": "Q762",
+  "birth": 1452,
+  "death": 1519,
+  "labels": {
+   "zh": "列奥纳多·达·芬奇",
+   "en": "Leonardo da Vinci"
+  },
+  "desc": "Italian Renaissance polymath (1452−1519)"
+ },
+ "donatello": {
+  "qid": "Q37562",
+  "birth": 1386,
+  "death": 1466,
+  "labels": {
+   "en": "Donatello",
+   "zh": "多那太羅"
+  },
+  "desc": "Early Renaissance Italian sculptor (1386–1466)"
+ },
+ "vermeer": {
+  "qid": "Q41264",
+  "birth": 1632,
+  "death": 1675,
+  "labels": {
+   "zh": "约翰尼斯·弗美尔",
+   "en": "Johannes Vermeer"
+  },
+  "desc": "Dutch painter (1632–1675)"
+ },
+ "delacroix": {
+  "qid": "Q33477",
+  "birth": 1798,
+  "death": 1863,
+  "labels": {
+   "en": "Eugène Delacroix",
+   "zh": "欧仁·德拉克罗瓦"
+  },
+  "desc": "French painter (1798–1863)"
+ },
+ "monteverdi": {
+  "qid": "Q53068",
+  "birth": 1567,
+  "death": 1643,
+  "labels": {
+   "en": "Claudio Monteverdi",
+   "zh": "克劳迪奥·蒙特威尔第"
+  },
+  "desc": "Italian composer, string player, choirmaster, and priest (1567–1643)"
+ }
+}

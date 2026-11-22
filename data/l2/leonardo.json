@@ -8,12 +8,17 @@
   "技法或形式分析": "在技法上，他以明暗法塑造形象的体积与光影，以空气透视表现远近层次的变化。留下大量手稿这一点，也显示出其创作与工程、解剖研究之间的关联。这些手法共同构成其绘画的基本面貌。",
   "与前后风格的关系和争论": "相关条目将其与盛期文艺复兴及《蒙娜丽莎》直接关联，可见其处于该风格的核心位置。现有材料记载较一致，未见具体争论，学界主要讨论其所属盛期文艺复兴的分期与边界问题。",
   "一图": "示意图展示列奥纳多以明暗法与空气透视为核心，连接其代表作与所属风格的关系。",
-  "待核实": "概述点名《蒙娜丽莎》与《最后的晚餐》，但未给出两作的创作年份与收藏地点。若要在条目中补入这些信息，须待补充第二来源后核实。其手稿的具体数量与保存情况同样需要额外来源确认。"
+  "待核实": "概述点名《蒙娜丽莎》与《最后的晚餐》，但未给出两作的创作年份与收藏地点。若要在条目中补入这些信息，须待补充第二来源后核实。其手稿的具体数量与保存情况同样需要额外来源确认。 【已复核·Wikidata】生卒：第二来源 wd-leonardo（https://www.wikidata.org/wiki/QQ762），据其结构化数据：生年 1452，卒年 1519。"
  },
  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='列奥纳多·达·芬奇 示意图'><title>列奥纳多·达·芬奇</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>列奥纳多·达·芬奇</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>全才</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>明暗法</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>运用</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>空气透视</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>运用</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>蒙娜丽莎</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>代表作</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>列奥纳多运用明暗法与空气透视，代表作蒙娜丽莎</text></g></svg>",
  "related": [
   "high-renaissance",
   "mona-lisa",
   "raphael"
+ ],
+ "sources": [
+  "enc-leonardo",
+  "enc-high-renaissance",
+  "wd-leonardo"
  ]
 }

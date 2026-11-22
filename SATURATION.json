@@ -206,6 +206,18 @@
       },
       "network": "partial",
       "verdict": "32人物核验：26一致/0矛盾/6消歧未过；未饱和"
+    },
+    {
+      "cycle": "cycle16",
+      "date": "2026-11-22",
+      "methods_used": [
+        "Wikidata人物/作品核验"
+      ],
+      "gaps_found": {
+        "date_conflicts": 0
+      },
+      "network": "partial",
+      "verdict": "32/32人物生卒核验一致且已挂Wikidata来源；未饱和"
     }
   ]
 }

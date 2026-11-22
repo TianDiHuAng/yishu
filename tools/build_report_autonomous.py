@@ -30,6 +30,8 @@ L.append("- 新增来源：**%d**"%cur.get("new_sources",0))
 if cur.get("qc_result"): L.append("- 质量闸：**%s**"%cur["qc_result"])
 if cyc=="cycle3":
     L.append("- 本轮特别说明：B5 复核 45 项待核实 → 38 项找到可核验第二来源并写入【已复核】留痕；B3 孤儿页 38→0（新增84条双向补链）；QC 收尾补 Bach/Vivaldi 来源并修正18处截断URL。")
+if cyc=="cycle16":
+    L.append("- 本轮特别说明：把 Cycle15 遗留的 6 条未匹配人物全部补齐（补英文别名检索与个别人物类型词，如 polymath），并为 **全部 32 个人物条目** 挂上 Wikidata 来源与【已复核·Wikidata】生卒留痕 → 人物 Wikidata 覆盖率 6→**32/32**，生卒年核验 **mismatch 0**；另核验 monet（1840—1926）与 mona-lisa（1503 创作、卢浮宫、达·芬奇）与条目一致；修正 5 处「QQ」重复 QID 的标题与 URL。来源 174→**202（verified 197）**，全库平均 2.46 来源/条。")
 if cyc=="cycle15":
     L.append("- 本轮特别说明：用 Wikidata 对全部 32 个人物条目做生卒年交叉核验（要求描述含人物类型词且生年与条目 when 相差≤2 才接受，同名实体一律拒绝）：**confirmed 26 / mismatch 0 / no_match 6**。即凡能与权威结构化数据对齐者生卒年全部一致，未发现年份错误；6 条为消歧未过（实体缺中文标签或抓取抖动），已拒绝强行匹配，明细见 reports/person_dates_c15.md。本轮未据此改动任何条目（无差异可改）。")
 if cyc=="cycle14":

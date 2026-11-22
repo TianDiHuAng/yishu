@@ -1689,6 +1689,336 @@
       "type": "权威结构化数据",
       "verified": true,
       "verified_note": "Cycle14 API 读取 EntityData 成功（HTTP200 JSON），并按标题/类型/作者三重消歧"
+    },
+    {
+      "id": "wd-leonardo",
+      "title": "Wikidata: Leonardo da Vinci (Q762)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q762",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle16 curl 读取 EntityData 成功；类型词+生年±2 双闸消歧"
+    },
+    {
+      "id": "wd-donatello",
+      "title": "Wikidata: Donatello (Q37562)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q37562",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle16 curl 读取 EntityData 成功；类型词+生年±2 双闸消歧"
+    },
+    {
+      "id": "wd-vermeer",
+      "title": "Wikidata: Johannes Vermeer (Q41264)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q41264",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle16 curl 读取 EntityData 成功；类型词+生年±2 双闸消歧"
+    },
+    {
+      "id": "wd-delacroix",
+      "title": "Wikidata: Eugène Delacroix (Q33477)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q33477",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle16 curl 读取 EntityData 成功；类型词+生年±2 双闸消歧"
+    },
+    {
+      "id": "wd-monteverdi",
+      "title": "Wikidata: Claudio Monteverdi (Q53068)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q53068",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle16 curl 读取 EntityData 成功；类型词+生年±2 双闸消歧"
+    },
+    {
+      "id": "wd-monet",
+      "title": "Wikidata: Claude Monet (Q296)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q296",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle16 curl 读取成功；描述含 painter、生年1840 与条目一致"
+    },
+    {
+      "id": "wd-mona-lisa",
+      "title": "Wikidata: Mona Lisa (Q12418)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q12418",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle16 curl 读取成功；label=蒙娜丽莎/Mona Lisa，作者=达·芬奇"
+    },
+    {
+      "id": "wd-michelangelo",
+      "title": "Wikidata: 米开朗琪罗（Q5592）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q5592",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle16 批量 wbgetentities 成功；生年与条目 when 相差≤1（Cycle15 核验）"
+    },
+    {
+      "id": "wd-raphael",
+      "title": "Wikidata: 拉斐尔·圣齐奥（Q5597）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q5597",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle16 批量 wbgetentities 成功；生年与条目 when 相差≤1（Cycle15 核验）"
+    },
+    {
+      "id": "wd-botticelli",
+      "title": "Wikidata: 桑德罗·波提切利（Q5669）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q5669",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle16 批量 wbgetentities 成功；生年与条目 when 相差≤1（Cycle15 核验）"
+    },
+    {
+      "id": "wd-caravaggio",
+      "title": "Wikidata: 卡拉瓦乔（Q42207）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q42207",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle16 批量 wbgetentities 成功；生年与条目 when 相差≤1（Cycle15 核验）"
+    },
+    {
+      "id": "wd-rembrandt",
+      "title": "Wikidata: 伦勃朗（Q5598）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q5598",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle16 批量 wbgetentities 成功；生年与条目 when 相差≤1（Cycle15 核验）"
+    },
+    {
+      "id": "wd-rubens",
+      "title": "Wikidata: 彼得·保羅·魯本斯（Q5599）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q5599",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle16 批量 wbgetentities 成功；生年与条目 when 相差≤1（Cycle15 核验）"
+    },
+    {
+      "id": "wd-velazquez",
+      "title": "Wikidata: 委拉斯開茲（Q297）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q297",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle16 批量 wbgetentities 成功；生年与条目 when 相差≤1（Cycle15 核验）"
+    },
+    {
+      "id": "wd-van-gogh",
+      "title": "Wikidata: 文森特·梵高（Q5582）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q5582",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle16 批量 wbgetentities 成功；生年与条目 when 相差≤1（Cycle15 核验）"
+    },
+    {
+      "id": "wd-cezanne",
+      "title": "Wikidata: 保罗·塞尚（Q35548）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q35548",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle16 批量 wbgetentities 成功；生年与条目 when 相差≤1（Cycle15 核验）"
+    },
+    {
+      "id": "wd-gauguin",
+      "title": "Wikidata: 保羅·高更（Q37693）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q37693",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle16 批量 wbgetentities 成功；生年与条目 when 相差≤1（Cycle15 核验）"
+    },
+    {
+      "id": "wd-picasso",
+      "title": "Wikidata: 巴勃羅·畢卡索（Q5593）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q5593",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle16 批量 wbgetentities 成功；生年与条目 when 相差≤1（Cycle15 核验）"
+    },
+    {
+      "id": "wd-matisse",
+      "title": "Wikidata: 亨利·马蒂斯（Q5589）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q5589",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle16 批量 wbgetentities 成功；生年与条目 when 相差≤1（Cycle15 核验）"
+    },
+    {
+      "id": "wd-kandinsky",
+      "title": "Wikidata: 瓦西里·康定斯基（Q61064）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q61064",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle16 批量 wbgetentities 成功；生年与条目 when 相差≤1（Cycle15 核验）"
+    },
+    {
+      "id": "wd-dali",
+      "title": "Wikidata: 萨尔瓦多·达利（Q5577）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q5577",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle16 批量 wbgetentities 成功；生年与条目 when 相差≤1（Cycle15 核验）"
+    },
+    {
+      "id": "wd-warhol",
+      "title": "Wikidata: 安迪·沃荷（Q5603）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q5603",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle16 批量 wbgetentities 成功；生年与条目 when 相差≤1（Cycle15 核验）"
+    },
+    {
+      "id": "wd-palestrina",
+      "title": "Wikidata: 乔瓦尼·皮耶路易吉·达·帕莱斯特里纳（Q179277）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q179277",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle16 批量 wbgetentities 成功；生年与条目 when 相差≤1（Cycle15 核验）"
+    },
+    {
+      "id": "wd-bach",
+      "title": "Wikidata: 约翰·塞巴斯蒂安·巴赫（Q1339）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q1339",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle16 批量 wbgetentities 成功；生年与条目 when 相差≤1（Cycle15 核验）"
+    },
+    {
+      "id": "wd-haydn",
+      "title": "Wikidata: 约瑟夫·海顿（Q7349）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q7349",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle16 批量 wbgetentities 成功；生年与条目 when 相差≤1（Cycle15 核验）"
+    },
+    {
+      "id": "wd-mozart",
+      "title": "Wikidata: 沃尔夫冈·阿玛多伊斯·莫扎特（Q254）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q254",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle16 批量 wbgetentities 成功；生年与条目 when 相差≤1（Cycle15 核验）"
+    },
+    {
+      "id": "wd-beethoven",
+      "title": "Wikidata: 路德维希·范·贝多芬（Q255）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q255",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle16 批量 wbgetentities 成功；生年与条目 when 相差≤1（Cycle15 核验）"
+    },
+    {
+      "id": "wd-chopin",
+      "title": "Wikidata: 弗雷德里克·肖邦（Q1268）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q1268",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle16 批量 wbgetentities 成功；生年与条目 when 相差≤1（Cycle15 核验）"
+    },
+    {
+      "id": "wd-wagner",
+      "title": "Wikidata: 理查德·瓦格納（Q1511）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q1511",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle16 批量 wbgetentities 成功；生年与条目 when 相差≤1（Cycle15 核验）"
+    },
+    {
+      "id": "wd-schubert",
+      "title": "Wikidata: 弗朗茨·舒伯特（Q7312）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q7312",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle16 批量 wbgetentities 成功；生年与条目 when 相差≤1（Cycle15 核验）"
+    },
+    {
+      "id": "wd-stravinsky",
+      "title": "Wikidata: 伊戈尔·斯特拉文斯基（Q7314）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q7314",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle16 批量 wbgetentities 成功；生年与条目 when 相差≤1（Cycle15 核验）"
+    },
+    {
+      "id": "wd-schoenberg",
+      "title": "Wikidata: 阿诺德·勋伯格（Q154770）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q154770",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle16 批量 wbgetentities 成功；生年与条目 when 相差≤1（Cycle15 核验）"
+    },
+    {
+      "id": "wd-debussy",
+      "title": "Wikidata: 阿希尔-克洛德·德彪西（Q4700）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q4700",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle16 批量 wbgetentities 成功；生年与条目 when 相差≤1（Cycle15 核验）"
     }
   ]
 }

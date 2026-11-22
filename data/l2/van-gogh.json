@@ -8,12 +8,17 @@
   "技法或形式分析": "在技法层面，梵高以强烈色彩与表现性笔触为主要手段。色彩与笔触在这里不只用于造型，更承担传达主观情绪的功能。概述未提供画布、颜料或笔法细节，故不作进一步推断。",
   "与前后风格的关系和争论": "梵高属于后印象派，其用色与笔触传达主观情绪的做法对表现主义影响深远。就承接关系而言，后印象派是其所属脉络，表现主义则是其影响的后继方向。记载较一致，学界主要讨论其风格分期与对表现主义影响的边界问题。",
   "一图": "示意图标示梵高作为后印象派画家，以强烈色彩与表现性笔触传达主观情绪，并指向其影响的表现主义。",
-  "待核实": "概述列出《星月夜》《向日葵》为代表作，但未提供创作年份与收藏地，待补充第二来源核实。材料称其对表现主义影响深远，但未给出具体受影响的人物或作品，相关细节待补充。"
+  "待核实": "概述列出《星月夜》《向日葵》为代表作，但未提供创作年份与收藏地，待补充第二来源核实。材料称其对表现主义影响深远，但未给出具体受影响的人物或作品，相关细节待补充。 【已复核·Wikidata】生卒：第二来源 wd-van-gogh（https://www.wikidata.org/wiki/Q5582），据其结构化数据：生年 1853，卒年 1890。"
  },
  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='梵高 示意图'><title>梵高</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>梵高</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>后印象派画家</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>强烈色彩</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>表现性笔触</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>表现主义</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>影响深远</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>梵高以强烈色彩与表现性笔触传达主观情绪</text></g></svg>",
  "related": [
   "post-impressionism",
   "expressionism",
   "starry-night"
+ ],
+ "sources": [
+  "enc-van-gogh",
+  "enc-post-impressionism",
+  "wd-van-gogh"
  ]
 }
