@@ -1,0 +1,14 @@
+{
+ "id": "sonata",
+ "level": "L2",
+ "sections": {
+  "时代背景": "奏鸣曲作为由若干乐章构成的器乐套曲体裁，在欧洲巴洛克时期趋于成熟。其源头来自教堂奏鸣曲与室内奏鸣曲，至古典时期进一步发展。",
+  "风格特征": "奏鸣曲以若干乐章构成的器乐套曲为基本形态，注重多乐章的整体布局。古典时期确立的奏鸣曲式，使这一体裁的结构原则更为明确。",
+  "代表人物与作品": "现有定义与概述未点名具体作曲家或作品，只说明体裁的成熟时期与形式确立过程。相关条目列出巴洛克音乐与古典主义音乐，可据此把握其风格背景。",
+  "技法或形式分析": "从形式层面看，奏鸣曲以多乐章套曲为框架，各乐章依奏鸣曲式组织材料。教堂奏鸣曲与室内奏鸣曲构成其早期形态，古典时期的多乐章布局由此定型。",
+  "与前后风格的关系和争论": "奏鸣曲承续巴洛克时期教堂奏鸣曲与室内奏鸣曲的传统，又在古典主义音乐中确立奏鸣曲式与多乐章布局，呈现清晰的承接关系。材料记载较一致，未见明确争论；学界主要讨论其分期与体裁边界问题。",
+  "一图": "示意图展示奏鸣曲由教堂奏鸣曲、室内奏鸣曲发展，并在古典时期确立奏鸣曲式与多乐章布局的脉络。",
+  "待核实": "输入 when 字段标注的约公元17世纪—至今为概括性年代区间，来源标题（Sonata、Baroque music）未逐字支撑该精确区间，待补充第二来源核实。定义与概述未提供具体作曲家、作品及体裁定型的细节，待补充。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='奏鸣曲 示意图'><title>奏鸣曲</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>教堂奏鸣曲</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>巴洛克时期</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>室内奏鸣曲</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>巴洛克时期</text><rect class='svg-box-accent' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='475.0' y='142' text-anchor='middle'>奏鸣曲式</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>古典时期</text><rect class='svg-box-accent' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='665.0' y='142' text-anchor='middle'>多乐章布局</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>古典时期</text><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>教堂与室内奏鸣曲发展至古典时期确立奏鸣曲式</text></g></svg>"
+}

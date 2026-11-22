@@ -401,7 +401,18 @@
       "sources": [
         "enc-venetian-school",
         "enc-italian-renaissance-painting"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "威尼斯画派是以威尼斯为中心的绘画传统，主要活跃于15至16世纪的意大利。其发展语境与条目所列的盛期文艺复兴、样式主义相关。背景依据权威百科Venetian school (art)与Italian Renaissance painting整理。",
+        "风格特征": "威尼斯画派重视色彩与光线甚于线条。它采用油彩与渐进色来塑造画面氛围，题材涵盖宗教、神话与肖像。色彩与光线是该传统区别于线条主导取向的核心特征。",
+        "代表人物与作品": "乔尔乔内与提香是威尼斯画派的代表人物。其创作题材包括宗教、神话与肖像，具体作品信息在条目概述中未逐件列出。相关条目列有盛期文艺复兴与样式主义，供比较参照。",
+        "技法或形式分析": "该画派以油彩为媒介，借助渐进色的过渡塑造氛围。其取色与用光重于线条勾勒，形成注重光影层次的画面效果。渐进色的英文对应术语条目未明确给出，待进一步核实。",
+        "与前后风格的关系和争论": "威尼斯画派与条目所列的盛期文艺复兴、样式主义存在关联。就其与前后风格的关系而言，现有记载较为一致。学界主要讨论的是该画派与盛期文艺复兴、样式主义之间的分期与边界问题。",
+        "一图": "示意图展示威尼斯画派以油彩、渐进色塑造氛围，并以提香为代表人物的取向。",
+        "待核实": "画派的精确起止区间（约公元1450—1600年）来自种子字段，尚待第二来源逐字核实。渐进色的英文对应术语条目未给出，需补充来源确认。具体作品的创作年份与收藏地条目未提供，待补充第二来源。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='威尼斯画派 示意图'><title>威尼斯画派</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>威尼斯画派</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>色彩与光线</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>油彩</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>渐进色</text><rect class='svg-box-accent' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='665.0' y='142' text-anchor='middle'>提香</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>为代表</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>威尼斯画派重色彩与光线</text></g></svg>"
     },
     {
       "id": "northern-renaissance",
@@ -582,7 +593,18 @@
       "sources": [
         "enc-raphael",
         "enc-high-renaissance"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "拉斐尔是意大利盛期文艺复兴画家，主要活动于16世纪的意大利画坛。他与条目所列的列奥纳多·达·芬奇同处盛期文艺复兴这一艺术阶段。相关背景主要依据权威百科Raphael与High Renaissance整理。",
+        "风格特征": "拉斐尔以和谐优雅的构图闻名。其代表作善用金字塔构图与柔和色彩，二者共同构成其风格的突出特征。和谐与优雅是其风格最常被概括的两个方面。",
+        "代表人物与作品": "拉斐尔本人是本条目的核心人物，其代表作包括《雅典学院》与《西斯廷圣母》。相关条目另列有盛期文艺复兴与列奥纳多·达·芬奇，可供参照其艺术定位。上述人物与作品均见于条目概述。",
+        "技法或形式分析": "在技法层面，拉斐尔以金字塔构图组织画面，形成稳定而清晰的结构。色彩上他偏好柔和的色调，使形象与整体构图相互协调。关于金字塔构图与柔和色彩的英文对应术语，条目未明确给出。",
+        "与前后风格的关系和争论": "拉斐尔被视为盛期文艺复兴的代表画家，与列奥纳多·达·芬奇同属这一传统。就其与前后风格的关系而言，现有记载较为一致。学界主要讨论的是他与盛期文艺复兴之间的分期与边界问题。",
+        "一图": "示意图以拉斐尔为中心，展示其金字塔构图、柔和色彩与两件代表作之间的关联。",
+        "待核实": "拉斐尔的精确生卒年区间（1483—1520年）来自种子字段，尚待第二来源逐字核实。《雅典学院》《西斯廷圣母》的具体创作年份与收藏地条目未提供，待补充第二来源。金字塔构图、柔和色彩的英文对应术语亦需核实。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='拉斐尔 示意图'><title>拉斐尔</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>拉斐尔</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>盛期文艺复兴</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>金字塔构图</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>和谐优雅</text><rect class='svg-box-accent' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='665.0' y='142' text-anchor='middle'>雅典学院</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>代表作</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>拉斐尔的构图技法与代表作</text></g></svg>"
     },
     {
       "id": "botticelli",
@@ -2671,7 +2693,18 @@
       "sources": [
         "enc-fugue",
         "enc-baroque-music"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "赋格是以主题模仿与对位为基础的复调乐曲形式，在17世纪趋于成熟。它与条目所列的巴洛克音乐传统关系密切。背景依据权威百科Fugue与Baroque music整理。",
+        "风格特征": "赋格以主题模仿与对位为基础，属于复调乐曲形式。其主题在各声部依次进入并逐步展开，形成层叠交织的音响结构。模仿与对位是贯穿其结构的基本原则。",
+        "代表人物与作品": "巴赫是赋格艺术的关键人物，其《平均律钢琴曲集》被视为赋格艺术的典范。相关条目另列有巴洛克音乐，可作体裁背景的参照。上述人物与作品均见于条目概述。",
+        "技法或形式分析": "赋格的核心是主题在各声部依次进入并加以展开。对位与模仿使不同声部在保持独立的同时相互呼应。对位、复调与主题的英文对应术语条目未明确给出。",
+        "与前后风格的关系和争论": "赋格与条目所列的巴洛克音乐、巴赫紧密相连。就其与前后风格的关系而言，现有记载较为一致。学界主要讨论的是赋格在巴洛克音乐中的分期与边界问题。",
+        "一图": "示意图展示赋格以主题模仿与对位组织各声部，并以《平均律钢琴曲集》为典范。",
+        "待核实": "赋格的精确成熟时间表述（约公元17世纪成熟）来自种子字段，尚待第二来源逐字核实。对位、复调与主题的英文对应术语条目未给出，需补充来源确认。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='赋格 示意图'><title>赋格</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>赋格</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>复调乐曲</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>主题模仿</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>对位</text><rect class='svg-box-accent' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='665.0' y='142' text-anchor='middle'>平均律钢琴曲集</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>典范</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>赋格以主题模仿与对位展开</text></g></svg>"
     },
     {
       "id": "sonata",
@@ -2692,7 +2725,18 @@
       "sources": [
         "enc-sonata",
         "enc-baroque-music"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "奏鸣曲作为由若干乐章构成的器乐套曲体裁，在欧洲巴洛克时期趋于成熟。其源头来自教堂奏鸣曲与室内奏鸣曲，至古典时期进一步发展。",
+        "风格特征": "奏鸣曲以若干乐章构成的器乐套曲为基本形态，注重多乐章的整体布局。古典时期确立的奏鸣曲式，使这一体裁的结构原则更为明确。",
+        "代表人物与作品": "现有定义与概述未点名具体作曲家或作品，只说明体裁的成熟时期与形式确立过程。相关条目列出巴洛克音乐与古典主义音乐，可据此把握其风格背景。",
+        "技法或形式分析": "从形式层面看，奏鸣曲以多乐章套曲为框架，各乐章依奏鸣曲式组织材料。教堂奏鸣曲与室内奏鸣曲构成其早期形态，古典时期的多乐章布局由此定型。",
+        "与前后风格的关系和争论": "奏鸣曲承续巴洛克时期教堂奏鸣曲与室内奏鸣曲的传统，又在古典主义音乐中确立奏鸣曲式与多乐章布局，呈现清晰的承接关系。材料记载较一致，未见明确争论；学界主要讨论其分期与体裁边界问题。",
+        "一图": "示意图展示奏鸣曲由教堂奏鸣曲、室内奏鸣曲发展，并在古典时期确立奏鸣曲式与多乐章布局的脉络。",
+        "待核实": "输入 when 字段标注的约公元17世纪—至今为概括性年代区间，来源标题（Sonata、Baroque music）未逐字支撑该精确区间，待补充第二来源核实。定义与概述未提供具体作曲家、作品及体裁定型的细节，待补充。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='奏鸣曲 示意图'><title>奏鸣曲</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>教堂奏鸣曲</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>巴洛克时期</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>室内奏鸣曲</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>巴洛克时期</text><rect class='svg-box-accent' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='475.0' y='142' text-anchor='middle'>奏鸣曲式</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>古典时期</text><rect class='svg-box-accent' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='665.0' y='142' text-anchor='middle'>多乐章布局</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>古典时期</text><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>教堂与室内奏鸣曲发展至古典时期确立奏鸣曲式</text></g></svg>"
     },
     {
       "id": "bach",
@@ -2745,7 +2789,18 @@
       "sources": [
         "enc-opera",
         "enc-baroque-music"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "蒙特威尔第是意大利作曲家，活动于16至17世纪。他与条目所列的早期歌剧及巴洛克音乐传统相关。背景依据权威百科Opera与Baroque music整理。",
+        "风格特征": "蒙特威尔第是早期歌剧的重要奠基者。他推动了宣叙调与管弦乐表现力的发展，使音乐与戏剧表达更为紧密结合。其风格取向集中体现在歌剧这一体裁之中。",
+        "代表人物与作品": "蒙特威尔第本人是本条目的核心人物，其代表作包括《奥菲欧》与《波佩亚的加冕》。相关条目列有歌剧与巴洛克音乐，均为体裁与风格背景，未追加其他人物细节。上述作品均见于条目概述。",
+        "技法或形式分析": "蒙特威尔第在宣叙调与管弦乐两方面推进了表现力。作为早期歌剧的奠基者，他对这两方面的推进具有代表性。宣叙调的英文对应术语条目未明确给出，待核实。",
+        "与前后风格的关系和争论": "蒙特威尔第被视为早期歌剧的重要奠基者，并与巴洛克音乐传统相连。就其与前后风格的关系而言，现有记载较为一致。学界主要讨论的是他与早期歌剧、巴洛克音乐之间的分期与边界问题。",
+        "一图": "示意图展示蒙特威尔第以宣叙调与管弦乐推进歌剧表现力，并以《奥菲欧》为代表。",
+        "待核实": "蒙特威尔第的精确生卒年区间（1567—1643年）来自种子字段，尚待第二来源逐字核实。宣叙调的英文对应术语条目未给出，需补充来源确认。《奥菲欧》《波佩亚的加冕》的具体创作年份与收藏地条目未提供，待补充第二来源。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='蒙特威尔第 示意图'><title>蒙特威尔第</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>蒙特威尔第</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>作曲家</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>宣叙调</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>管弦乐</text><rect class='svg-box-accent' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='665.0' y='142' text-anchor='middle'>奥菲欧</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>代表作</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>蒙特威尔第推进歌剧表现力</text></g></svg>"
     },
     {
       "id": "classical-period-music",
@@ -3307,7 +3362,18 @@
       "sources": [
         "enc-chinese-music",
         "enc-medieval-music"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "雅乐是中国古代用于祭祀与朝廷礼仪的官方礼乐体系，与周代礼制相结合。历代宫廷均有沿革，可结合中国音乐史的相关条目把握其历史背景。",
+        "风格特征": "雅乐强调等级秩序与中和之美，其风格取向与礼仪功能紧密相连。作为官方礼乐体系，它以规范与秩序为核心的表达方式区别于一般娱乐性音乐。",
+        "代表人物与作品": "定义与概述均未点名具体人物或作品，仅说明其作为官方礼乐体系的性质与审美取向。相关条目为中国音乐史，仅可据标题了解背景，不追加细节。",
+        "技法或形式分析": "关于雅乐的具体音律、乐器编制与演奏技法，现有材料未作说明，此处不作推测。就形式层面而言，概述仅指出其与周代礼制结合、强调等级秩序与中和之美，并在历代宫廷中沿革。",
+        "与前后风格的关系和争论": "雅乐与中国音乐史这一相关条目相关联，其历代宫廷沿革构成理解其历史延续的线索。材料记载较一致，未见明确争论；学界主要讨论其在不同时期的形态变化与分期边界问题。",
+        "一图": "示意图呈现雅乐与周代礼制结合、强调等级秩序与中和之美并历代沿革的关系。",
+        "待核实": "when 字段约公元前11世纪起的精确起点，来源标题（Chinese music、Medieval music）未逐字支撑，待补充第二来源核实。雅乐的具体乐器编制、音律及中和之美的英文对应表述，输入未给出，待核实。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='雅乐 示意图'><title>雅乐</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>雅乐</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>祭祀与朝廷礼仪</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>周代礼制</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>等级秩序</text><rect class='svg-box-accent' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='475.0' y='142' text-anchor='middle'>中和之美</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>雅乐</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>历代宫廷</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>沿革</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>雅乐与周代礼制结合，强调等级秩序与中和之美</text></g></svg>"
     },
     {
       "id": "guzheng",
@@ -3328,7 +3394,18 @@
       "sources": [
         "enc-guzheng",
         "enc-chinese-music"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "古筝是中国传统的多弦弹拨乐器，长期见于中国音乐传统并延续至现代。相关条目涉及中国音乐史与京剧，可据此了解其所处的文化环境。",
+        "风格特征": "古筝以宽阔音域与丰富技法著称，现代常见形制为21弦。其演奏以右手弹拨、左手按滑为特征，构成该乐器基本的表现方式。",
+        "代表人物与作品": "概述中明确点名的代表作品为《渔舟唱晚》。材料未列出具体演奏家或创作者，相关条目另提及中国音乐史与京剧，仅可据其标题了解背景。",
+        "技法或形式分析": "古筝属多弦弹拨乐器，右手承担弹拨发声，左手以按、滑方式作用于琴弦，二者配合构成其基本演奏技法。宽阔音域与丰富技法是概述中强调的两个要点。",
+        "与前后风格的关系和争论": "古筝与中国音乐史、京剧同属相关条目所列的中国传统音乐范畴，可作为理解其历史位置与文化关联的参照。现有材料记载较一致，未见明确争论；学界主要讨论其形制演变与历史分期的边界问题。",
+        "一图": "示意图呈现古筝以右手弹拨、左手按滑为特征，并以《渔舟唱晚》为代表作的要点。",
+        "待核实": "输入 when 字段的约公元前5世纪—至今及 era 字段的战国等年代表述，来源标题（Guzheng、Chinese music）未逐字支撑，精确年代区间待补充第二来源核实。左手按滑的英文对应术语输入未给出，待核实。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='古筝 示意图'><title>古筝</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>古筝</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>多弦弹拨乐器</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>右手弹拨</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>丰富技法</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>左手按滑</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>丰富技法</text><rect class='svg-box-accent' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='665.0' y='142' text-anchor='middle'>渔舟唱晚</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>代表作</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>古筝的多弦形制、弹按技法与代表作《渔舟唱晚》</text></g></svg>"
     },
     {
       "id": "jingju",
@@ -3381,7 +3458,18 @@
       "sources": [
         "enc-chinese-music",
         "enc-guzheng"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "琵琶是中国传统的梨形弹拨乐器，在唐代燕乐中占有重要地位。其流传延续至今，可结合中国音乐史的相关条目理解其历史脉络。",
+        "风格特征": "琵琶以梨形音箱与弹拨发声为外形和演奏上的基本特点，表现力丰富。轮指与扫拂是其代表性技法，使其在唐代燕乐中具有重要地位。",
+        "代表人物与作品": "概述点明的代表作品为《十面埋伏》。材料未提及具体人物；相关条目中的中国音乐史、古筝仅以标题提供背景参照，不追加人物或作品细节。",
+        "技法或形式分析": "琵琶的技法体系以轮指与扫拂为主要内容，二者共同支撑其丰富的表现力。作为梨形弹拨乐器，其发声依赖弹拨，技法与形制相互配合。",
+        "与前后风格的关系和争论": "琵琶可置于中国音乐史的整体脉络中理解，与同属弹拨乐器的古筝形成参照关系。材料记载较一致，未见明确争论；学界主要讨论其与相关乐器的区分及历史分期边界问题。",
+        "一图": "示意图展示琵琶的梨形弹拨特征、轮指与扫拂技法及其代表作《十面埋伏》。",
+        "待核实": "when 字段约公元前2世纪—至今的精确区间，来源标题（Chinese music、Guzheng）未逐字支撑，待补充第二来源核实。轮指、扫拂的英文对应术语输入未给出，待核实。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='琵琶 示意图'><title>琵琶</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>琵琶</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>梨形弹拨乐器</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>轮指</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>技法</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>扫拂</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>技法</text><rect class='svg-box-accent' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='665.0' y='142' text-anchor='middle'>十面埋伏</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>代表作</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>琵琶的梨形弹拨形制、轮指扫拂与代表作《十面埋伏》</text></g></svg>"
     }
   ]
 }

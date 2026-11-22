@@ -1,0 +1,14 @@
+{
+ "id": "fugue",
+ "level": "L2",
+ "sections": {
+  "时代背景": "赋格是以主题模仿与对位为基础的复调乐曲形式，在17世纪趋于成熟。它与条目所列的巴洛克音乐传统关系密切。背景依据权威百科Fugue与Baroque music整理。",
+  "风格特征": "赋格以主题模仿与对位为基础，属于复调乐曲形式。其主题在各声部依次进入并逐步展开，形成层叠交织的音响结构。模仿与对位是贯穿其结构的基本原则。",
+  "代表人物与作品": "巴赫是赋格艺术的关键人物，其《平均律钢琴曲集》被视为赋格艺术的典范。相关条目另列有巴洛克音乐，可作体裁背景的参照。上述人物与作品均见于条目概述。",
+  "技法或形式分析": "赋格的核心是主题在各声部依次进入并加以展开。对位与模仿使不同声部在保持独立的同时相互呼应。对位、复调与主题的英文对应术语条目未明确给出。",
+  "与前后风格的关系和争论": "赋格与条目所列的巴洛克音乐、巴赫紧密相连。就其与前后风格的关系而言，现有记载较为一致。学界主要讨论的是赋格在巴洛克音乐中的分期与边界问题。",
+  "一图": "示意图展示赋格以主题模仿与对位组织各声部，并以《平均律钢琴曲集》为典范。",
+  "待核实": "赋格的精确成熟时间表述（约公元17世纪成熟）来自种子字段，尚待第二来源逐字核实。对位、复调与主题的英文对应术语条目未给出，需补充来源确认。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='赋格 示意图'><title>赋格</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>赋格</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>复调乐曲</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>主题模仿</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>对位</text><rect class='svg-box-accent' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='665.0' y='142' text-anchor='middle'>平均律钢琴曲集</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>典范</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>赋格以主题模仿与对位展开</text></g></svg>"
+}
