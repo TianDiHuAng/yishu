@@ -1,0 +1,1402 @@
+[
+ {
+  "id": "china-music-history",
+  "title": "中国音乐史",
+  "kind": "时期",
+  "era": "远古—明清",
+  "region": "中国",
+  "medium": "音乐体裁",
+  "def": "中国音乐自远古至明清的发展脉络，以礼乐制度、乐器和戏曲为重要线索。",
+  "when": "约公元前5000年—公元19世纪",
+  "overview": "经历远古乐舞、周代礼乐、汉唐燕乐、宋元词曲与明清戏曲的发展，形成独特体系。",
+  "related": [
+   {
+    "id": "guzheng",
+    "title": "古筝"
+   },
+   {
+    "id": "jingju",
+    "title": "京剧"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-chinese-music",
+    "title": "Chinese music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-guzheng",
+    "title": "Guzheng",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "jingju",
+  "title": "京剧",
+  "kind": "风格",
+  "era": "清代—今",
+  "region": "中国",
+  "medium": "音乐体裁",
+  "def": "形成于清代的中国传统戏曲剧种，融合唱念做打与程式化表演。",
+  "when": "约公元19世纪中叶形成",
+  "overview": "以皮黄腔为主，行当分明，脸谱与身段具有高度程式化特征，梅兰芳为代表人物。",
+  "related": [
+   {
+    "id": "china-music-history",
+    "title": "中国音乐史"
+   },
+   {
+    "id": "guzheng",
+    "title": "古筝"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-jingju",
+    "title": "Beijing opera",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-chinese-music",
+    "title": "Chinese music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "schoenberg",
+  "title": "勋伯格",
+  "kind": "人物",
+  "era": "20世纪",
+  "region": "奥地利/美国",
+  "medium": "音乐体裁",
+  "def": "奥地利裔作曲家，十二音技法与表现主义音乐的开创者。",
+  "when": "1874—1951年",
+  "overview": "代表作《月光下的皮埃罗》《升华之夜》，以无调性与十二音体系重塑作曲逻辑。",
+  "related": [
+   {
+    "id": "serialism",
+    "title": "序列主义"
+   },
+   {
+    "id": "20th-century-classical",
+    "title": "20世纪古典音乐"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-schoenberg",
+    "title": "Arnold Schoenberg",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-serialism",
+    "title": "Serialism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "stravinsky",
+  "title": "斯特拉文斯基",
+  "kind": "人物",
+  "era": "20世纪",
+  "region": "俄国/美国",
+  "medium": "音乐体裁",
+  "def": "俄裔作曲家，以节奏革新与风格多变著称。",
+  "when": "1882—1971年",
+  "overview": "代表作《春之祭》《彼得鲁什卡》，以强烈节奏与不协和音响引发轰动，后期转向新古典主义。",
+  "related": [
+   {
+    "id": "20th-century-classical",
+    "title": "20世纪古典音乐"
+   },
+   {
+    "id": "serialism",
+    "title": "序列主义"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-stravinsky",
+    "title": "Igor Stravinsky",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-20th-century-classical",
+    "title": "20th-century classical music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "prehistoric-art",
+  "title": "史前艺术",
+  "kind": "风格",
+  "era": "旧石器—新石器",
+  "region": "全球",
+  "medium": "综合",
+  "def": "文字出现之前的视觉创作，包括洞穴壁画、岩画与史前雕塑。",
+  "when": "约公元前4万年—前3000年",
+  "overview": "以洞穴壁画与小型雕像为代表，题材多为动物与生殖崇拜，材料为天然颜料与石、骨。",
+  "related": [
+   {
+    "id": "cave-art",
+    "title": "洞穴壁画"
+   },
+   {
+    "id": "paleolithic-sculpture",
+    "title": "旧石器雕塑"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-prehistoric-art",
+    "title": "Prehistoric art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-prehistoric-art",
+    "title": "Prehistoric art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "roman-art",
+  "title": "古罗马艺术",
+  "kind": "风格",
+  "era": "共和—帝国",
+  "region": "罗马",
+  "medium": "综合",
+  "def": "继承希腊传统并发展出公共建筑、肖像雕塑与壁画装饰的罗马艺术。",
+  "when": "约公元前509—公元476年",
+  "overview": "以混凝土拱券与穹顶技术、写实肖像与历史叙事浮雕见长，万神殿为其建筑代表。",
+  "related": [
+   {
+    "id": "greek-art",
+    "title": "古希腊艺术"
+   },
+   {
+    "id": "byzantine-art",
+    "title": "拜占庭艺术"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-roman-art",
+    "title": "Ancient Roman art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-greek-art",
+    "title": "Ancient Greek art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "rococo",
+  "title": "洛可可",
+  "kind": "风格",
+  "era": "18世纪",
+  "region": "法国",
+  "medium": "综合",
+  "def": "18世纪法国宫廷流行的艺术风格，以轻盈、纤巧与装饰性著称。",
+  "when": "约公元1715—1770年",
+  "overview": "常用C形与S形曲线、粉彩色调与贝壳花纹，题材多为贵族宴乐与田园爱情。",
+  "related": [
+   {
+    "id": "baroque",
+    "title": "巴洛克"
+   },
+   {
+    "id": "neoclassicism",
+    "title": "新古典主义"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-rococo",
+    "title": "Rococo",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-baroque",
+    "title": "Baroque",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "rubens",
+  "title": "鲁本斯",
+  "kind": "人物",
+  "era": "17世纪",
+  "region": "佛兰德斯",
+  "medium": "绘画",
+  "def": "佛兰德斯巴洛克画家，以丰腴人体与宏大构图著称。",
+  "when": "1577—1640年",
+  "overview": "作品色彩饱满、动势强烈，曾主持大规模装饰工程，融合意大利与北方传统。",
+  "related": [
+   {
+    "id": "baroque",
+    "title": "巴洛克"
+   },
+   {
+    "id": "rococo",
+    "title": "洛可可"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-rubens",
+    "title": "Peter Paul Rubens",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-baroque",
+    "title": "Baroque",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "velazquez",
+  "title": "委拉斯开兹",
+  "kind": "人物",
+  "era": "17世纪",
+  "region": "西班牙",
+  "medium": "绘画",
+  "def": "西班牙黄金时代宫廷画家，以写实肖像与空间处理著称。",
+  "when": "1599—1660年",
+  "overview": "代表作《宫娥》《教皇英诺森十世肖像》，笔触松动、光线处理精妙。",
+  "related": [
+   {
+    "id": "baroque",
+    "title": "巴洛克"
+   },
+   {
+    "id": "impressionism",
+    "title": "印象派"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-velazquez",
+    "title": "Diego Velazquez",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-baroque",
+    "title": "Baroque",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "vermeer",
+  "title": "维米尔",
+  "kind": "人物",
+  "era": "17世纪",
+  "region": "荷兰",
+  "medium": "绘画",
+  "def": "荷兰黄金时代画家，以室内场景与柔和光线著称。",
+  "when": "1632—1675年",
+  "overview": "代表作《戴珍珠耳环的少女》《倒牛奶的女仆》，善绘自然光与日常静谧氛围。",
+  "related": [
+   {
+    "id": "rembrandt",
+    "title": "伦勃朗"
+   },
+   {
+    "id": "realism-art",
+    "title": "现实主义（艺术）"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-vermeer",
+    "title": "Johannes Vermeer",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-baroque",
+    "title": "Baroque",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "clerical-script",
+  "title": "隶书",
+  "kind": "术语",
+  "era": "汉",
+  "region": "中国",
+  "medium": "书法",
+  "def": "汉代成熟并盛行的书体，以波磔与扁方结构为特征。",
+  "when": "约公元前2世纪—公元3世纪",
+  "overview": "由篆书简化而来，笔画出现蚕头燕尾，是汉字由古文字向今文字转变的关键。",
+  "related": [
+   {
+    "id": "seal-script",
+    "title": "篆书"
+   },
+   {
+    "id": "regular-script",
+    "title": "楷书"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-chinese-calligraphy",
+    "title": "Chinese calligraphy",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-chinese-calligraphy",
+    "title": "Chinese calligraphy",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "cursive-script",
+  "title": "草书",
+  "kind": "术语",
+  "era": "汉—唐",
+  "region": "中国",
+  "medium": "书法",
+  "def": "笔画高度简化、连绵奔放的书体，强调书写节奏与情感表达。",
+  "when": "约公元前1世纪—至今",
+  "overview": "张旭、怀素以狂草著称，草书兼具强烈表现性与辨识门槛。",
+  "related": [
+   {
+    "id": "running-script",
+    "title": "行书"
+   },
+   {
+    "id": "china-calligraphy-history",
+    "title": "中国书法史"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-chinese-calligraphy",
+    "title": "Chinese calligraphy",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-chinese-calligraphy",
+    "title": "Chinese calligraphy",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "regular-script",
+  "title": "楷书",
+  "kind": "术语",
+  "era": "汉末—唐",
+  "region": "中国",
+  "medium": "书法",
+  "def": "形体方正、笔画规范的书体，唐代达到高峰。",
+  "when": "约公元2世纪—至今",
+  "overview": "欧阳询、颜真卿、柳公权等确立楷书法度，成为后世通行书体。",
+  "related": [
+   {
+    "id": "clerical-script",
+    "title": "隶书"
+   },
+   {
+    "id": "running-script",
+    "title": "行书"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-chinese-calligraphy",
+    "title": "Chinese calligraphy",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-chinese-calligraphy",
+    "title": "Chinese calligraphy",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "running-script",
+  "title": "行书",
+  "kind": "术语",
+  "era": "汉末—今",
+  "region": "中国",
+  "medium": "书法",
+  "def": "介于楷书与草书之间的书体，书写流畅而易于辨认。",
+  "when": "约公元2世纪—至今",
+  "overview": "王羲之《兰亭序》被誉为行书典范，兼顾节奏与可读性。",
+  "related": [
+   {
+    "id": "regular-script",
+    "title": "楷书"
+   },
+   {
+    "id": "cursive-script",
+    "title": "草书"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-chinese-calligraphy",
+    "title": "Chinese calligraphy",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-chinese-calligraphy",
+    "title": "Chinese calligraphy",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "seal-script",
+  "title": "篆书",
+  "kind": "术语",
+  "era": "先秦—秦",
+  "region": "中国",
+  "medium": "书法",
+  "def": "中国古文字书体，包括大篆与小篆，秦代统一为小篆。",
+  "when": "约公元前14—前3世纪",
+  "overview": "线条圆转均匀、结构对称，保留象形遗意，后世用于印章与题额。",
+  "related": [
+   {
+    "id": "china-calligraphy-history",
+    "title": "中国书法史"
+   },
+   {
+    "id": "clerical-script",
+    "title": "隶书"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-chinese-calligraphy",
+    "title": "Chinese calligraphy",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-chinese-calligraphy",
+    "title": "Chinese calligraphy",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "ming-painting",
+  "title": "明代绘画",
+  "kind": "风格",
+  "era": "明代",
+  "region": "中国",
+  "medium": "绘画",
+  "def": "明代画派林立，文人画与职业画家并行。",
+  "when": "1368—1644年",
+  "overview": "吴门画派、浙派与董其昌的南北宗论影响深远，花鸟画与册页流行。",
+  "related": [
+   {
+    "id": "yuan-painting",
+    "title": "元代绘画"
+   },
+   {
+    "id": "qing-painting",
+    "title": "清代绘画"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-chinese-painting",
+    "title": "Chinese painting",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-chinese-calligraphy",
+    "title": "Chinese calligraphy",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "qing-painting",
+  "title": "清代绘画",
+  "kind": "风格",
+  "era": "清代",
+  "region": "中国",
+  "medium": "绘画",
+  "def": "清代绘画呈现正统派与个性派并存的格局。",
+  "when": "1644—1912年",
+  "overview": "四王承袭文人画正统，四僧与扬州画派强调个性，花鸟画与金石入画发展。",
+  "related": [
+   {
+    "id": "ming-painting",
+    "title": "明代绘画"
+   },
+   {
+    "id": "china-painting-history",
+    "title": "中国绘画史"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-chinese-painting",
+    "title": "Chinese painting",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-chinese-calligraphy",
+    "title": "Chinese calligraphy",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "tang-painting",
+  "title": "唐代绘画",
+  "kind": "风格",
+  "era": "唐代",
+  "region": "中国",
+  "medium": "绘画",
+  "def": "唐代绘画以人物画高度成熟、山水画独立为特征。",
+  "when": "618—907年",
+  "overview": "吴道子以线描著称，阎立本擅人物，青绿山水与水墨山水并行发展。",
+  "related": [
+   {
+    "id": "china-painting-history",
+    "title": "中国绘画史"
+   },
+   {
+    "id": "song-painting",
+    "title": "宋代绘画"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-tang-dynasty-art",
+    "title": "Art of the Tang dynasty",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-chinese-painting",
+    "title": "Chinese painting",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "xieyi",
+  "title": "写意",
+  "kind": "术语",
+  "era": "历代",
+  "region": "中国",
+  "medium": "绘画",
+  "def": "中国画中以简练笔墨传达意趣的画法，与工笔相对。",
+  "when": "历代",
+  "overview": "强调以少胜多、笔墨情趣与作者心性，成熟于宋元文人画传统。",
+  "related": [
+   {
+    "id": "gongbi",
+    "title": "工笔"
+   },
+   {
+    "id": "china-painting-history",
+    "title": "中国绘画史"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-chinese-painting",
+    "title": "Chinese painting",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-chinese-calligraphy",
+    "title": "Chinese calligraphy",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "yuan-painting",
+  "title": "元代绘画",
+  "kind": "风格",
+  "era": "元代",
+  "region": "中国",
+  "medium": "绘画",
+  "def": "元代绘画以文人画为主流，强调以书入画与逸气。",
+  "when": "1271—1368年",
+  "overview": "赵孟頫提倡复古与书画同源，元四家以水墨山水与题跋拓展文人画表现。",
+  "related": [
+   {
+    "id": "song-painting",
+    "title": "宋代绘画"
+   },
+   {
+    "id": "ming-painting",
+    "title": "明代绘画"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-chinese-painting",
+    "title": "Chinese painting",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-tang-dynasty-art",
+    "title": "Art of the Tang dynasty",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "conceptual-art",
+  "title": "观念艺术",
+  "kind": "风格",
+  "era": "20世纪后半",
+  "region": "全球",
+  "medium": "综合",
+  "def": "以观念与语言为核心的艺术实践，弱化对象的物质形式。",
+  "when": "约1960s—至今",
+  "overview": "作品常以文本、文件、行为与装置呈现，强调艺术的思想语境而非视觉审美。",
+  "related": [
+   {
+    "id": "minimalism",
+    "title": "极简主义"
+   },
+   {
+    "id": "contemporary-art",
+    "title": "当代艺术"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-conceptual-art",
+    "title": "Conceptual art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-dada",
+    "title": "Dada",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "minimalism",
+  "title": "极简主义",
+  "kind": "风格",
+  "era": "20世纪后半",
+  "region": "美国",
+  "medium": "雕塑,综合",
+  "def": "20世纪60年代兴起的艺术运动，追求形式的极简与客观。",
+  "when": "约1960s—1970s",
+  "overview": "常用几何基本形体与工业材料，强调作品与空间的物理关系，减少主观痕迹。",
+  "related": [
+   {
+    "id": "abstract-expressionism",
+    "title": "抽象表现主义"
+   },
+   {
+    "id": "conceptual-art",
+    "title": "观念艺术"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-minimalism",
+    "title": "Minimalism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-bauhaus",
+    "title": "Bauhaus",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "pop-art",
+  "title": "波普艺术",
+  "kind": "风格",
+  "era": "20世纪中叶",
+  "region": "英美",
+  "medium": "绘画,综合",
+  "def": "20世纪50—60年代兴起的艺术运动，借用大众文化与商业图像。",
+  "when": "约1950s—1970s",
+  "overview": "使用丝网印刷、重复图像与鲜艳色彩，模糊高雅与通俗艺术边界，沃霍尔为代表。",
+  "related": [
+   {
+    "id": "abstract-expressionism",
+    "title": "抽象表现主义"
+   },
+   {
+    "id": "contemporary-art",
+    "title": "当代艺术"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-pop-art",
+    "title": "Pop art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "web-artstory-movements",
+    "title": "Classical and Modern Art Movements",
+    "author": "The Art Story Foundation",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "warhol",
+  "title": "安迪·沃霍尔",
+  "kind": "人物",
+  "era": "20世纪",
+  "region": "美国",
+  "medium": "绘画,综合",
+  "def": "美国波普艺术代表艺术家，以丝网印刷名人肖像著称。",
+  "when": "1928—1987年",
+  "overview": "代表作《玛丽莲·梦露》系列，将商业图像与名人文化引入艺术，探讨复制与消费。",
+  "related": [
+   {
+    "id": "pop-art",
+    "title": "波普艺术"
+   },
+   {
+    "id": "contemporary-art",
+    "title": "当代艺术"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-warhol",
+    "title": "Andy Warhol",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-pop-art",
+    "title": "Pop art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "gauguin",
+  "title": "高更",
+  "kind": "人物",
+  "era": "19世纪",
+  "region": "法国",
+  "medium": "绘画",
+  "def": "法国后印象派画家，追求原始主义与象征性的平面色彩。",
+  "when": "1848—1903年",
+  "overview": "代表作《我们从何处来？我们是谁？我们向何处去？》，使用平涂色块与象征构图。",
+  "related": [
+   {
+    "id": "post-impressionism",
+    "title": "后印象派"
+   },
+   {
+    "id": "cezanne",
+    "title": "塞尚"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-gauguin",
+    "title": "Paul Gauguin",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-post-impressionism",
+    "title": "Post-Impressionism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "byzantine-art",
+  "title": "拜占庭艺术",
+  "kind": "风格",
+  "era": "中世纪早期",
+  "region": "东罗马",
+  "medium": "绘画,建筑",
+  "def": "东罗马帝国的基督教艺术传统，以镶嵌画、圣像与集中式教堂为特征。",
+  "when": "约公元4—15世纪",
+  "overview": "强调金色背景与平面化人物，圣像具有神学象征功能，圣索菲亚大教堂代表其建筑成就。",
+  "related": [
+   {
+    "id": "early-christian-art",
+    "title": "早期基督教艺术"
+   },
+   {
+    "id": "romanesque",
+    "title": "罗马式艺术"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-byzantine-art",
+    "title": "Byzantine art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-medieval-art",
+    "title": "Medieval art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "romanesque",
+  "title": "罗马式艺术",
+  "kind": "风格",
+  "era": "中世纪盛期",
+  "region": "西欧",
+  "medium": "建筑,雕塑",
+  "def": "11—12世纪流行于西欧的艺术风格，以厚重的石构教堂与门楣雕塑为标志。",
+  "when": "约公元1000—1150年",
+  "overview": "建筑特征为厚墙、小窗、半圆拱与十字拱，雕塑多用于教堂门楣与柱头，叙事性强。",
+  "related": [
+   {
+    "id": "byzantine-art",
+    "title": "拜占庭艺术"
+   },
+   {
+    "id": "gothic",
+    "title": "哥特式艺术"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-romanesque",
+    "title": "Romanesque art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-medieval-art",
+    "title": "Medieval art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "bauhaus",
+  "title": "包豪斯",
+  "kind": "风格",
+  "era": "20世纪上半",
+  "region": "德国",
+  "medium": "建筑,综合",
+  "def": "1919年创立于德国的设计学院及其倡导的现代主义设计理念。",
+  "when": "1919—1933年",
+  "overview": "主张艺术与工艺统一、形式服从功能，深刻影响现代建筑、设计与艺术教育。",
+  "related": [
+   {
+    "id": "modern-art",
+    "title": "现代艺术"
+   },
+   {
+    "id": "minimalism",
+    "title": "极简主义"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-bauhaus",
+    "title": "Bauhaus",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-minimalism",
+    "title": "Minimalism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "dada",
+  "title": "达达主义",
+  "kind": "风格",
+  "era": "20世纪初",
+  "region": "欧洲/美国",
+  "medium": "综合",
+  "def": "一战期间兴起的艺术运动，以反战、反逻辑与现成品为特征。",
+  "when": "约1916—1924年",
+  "overview": "通过随机拼贴、现成品与表演挑战传统艺术定义，杜尚的《泉》为标志性作品。",
+  "related": [
+   {
+    "id": "futurism",
+    "title": "未来主义"
+   },
+   {
+    "id": "surrealism",
+    "title": "超现实主义"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-dada",
+    "title": "Dada",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-futurism",
+    "title": "Futurism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "dali",
+  "title": "达利",
+  "kind": "人物",
+  "era": "20世纪",
+  "region": "西班牙",
+  "medium": "绘画",
+  "def": "西班牙超现实主义画家，以梦境般的精确图像著称。",
+  "when": "1904—1989年",
+  "overview": "代表作《记忆的永恒》，以软钟等怪诞意象表现潜意识与时间主题。",
+  "related": [
+   {
+    "id": "surrealism",
+    "title": "超现实主义"
+   },
+   {
+    "id": "modern-art",
+    "title": "现代艺术"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-dali",
+    "title": "Salvador Dali",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-surrealism",
+    "title": "Surrealism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "fauvism",
+  "title": "野兽派",
+  "kind": "风格",
+  "era": "20世纪初",
+  "region": "法国",
+  "medium": "绘画",
+  "def": "20世纪初法国短暂而重要的绘画运动，以强烈、非自然的纯色著称。",
+  "when": "约1905—1908年",
+  "overview": "色彩脱离描述功能而独立表达情感，笔触自由，马蒂斯与德朗为代表。",
+  "related": [
+   {
+    "id": "post-impressionism",
+    "title": "后印象派"
+   },
+   {
+    "id": "expressionism",
+    "title": "表现主义"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-fauvism",
+    "title": "Fauvism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-post-impressionism",
+    "title": "Post-Impressionism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "futurism",
+  "title": "未来主义",
+  "kind": "风格",
+  "era": "20世纪初",
+  "region": "意大利",
+  "medium": "综合",
+  "def": "20世纪初意大利的艺术与文学运动，歌颂速度、机械与现代都市。",
+  "when": "约1909—1944年",
+  "overview": "以重复、叠加的线条表现运动感，题材多为机器、赛车与城市。",
+  "related": [
+   {
+    "id": "cubism",
+    "title": "立体主义"
+   },
+   {
+    "id": "dada",
+    "title": "达达主义"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-futurism",
+    "title": "Futurism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-cubism",
+    "title": "Cubism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "kandinsky",
+  "title": "康定斯基",
+  "kind": "人物",
+  "era": "20世纪",
+  "region": "俄国/德国",
+  "medium": "绘画",
+  "def": "俄裔画家与理论家，抽象艺术的先驱之一。",
+  "when": "1866—1944年",
+  "overview": "以《论艺术的精神》阐述抽象艺术理论，作品以色彩与几何的纯粹形式表达精神。",
+  "related": [
+   {
+    "id": "expressionism",
+    "title": "表现主义"
+   },
+   {
+    "id": "abstract-expressionism",
+    "title": "抽象表现主义"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-kandinsky",
+    "title": "Wassily Kandinsky",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-expressionism",
+    "title": "Expressionism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "matisse",
+  "title": "马蒂斯",
+  "kind": "人物",
+  "era": "20世纪",
+  "region": "法国",
+  "medium": "绘画",
+  "def": "法国艺术家，野兽派领袖，以色彩与剪纸闻名。",
+  "when": "1869—1954年",
+  "overview": "代表作《舞蹈》《红色和谐》，追求色彩的平衡与装饰性愉悦。",
+  "related": [
+   {
+    "id": "fauvism",
+    "title": "野兽派"
+   },
+   {
+    "id": "modern-art",
+    "title": "现代艺术"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-matisse",
+    "title": "Henri Matisse",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-fauvism",
+    "title": "Fauvism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "modern-art",
+  "title": "现代艺术",
+  "kind": "时期",
+  "era": "19末—20世纪中",
+  "region": "欧美",
+  "medium": "综合",
+  "def": "约19世纪末至20世纪中叶西方艺术的总称，涵盖众多前卫运动。",
+  "when": "约1890—1950年",
+  "overview": "以不断突破传统为特征，从后印象派到抽象表现主义，艺术语言持续激进革新。",
+  "related": [
+   {
+    "id": "post-impressionism",
+    "title": "后印象派"
+   },
+   {
+    "id": "abstract-expressionism",
+    "title": "抽象表现主义"
+   }
+  ],
+  "sources": [
+   {
+    "id": "web-artstory-movements",
+    "title": "Classical and Modern Art Movements",
+    "author": "The Art Story Foundation",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-cubism",
+    "title": "Cubism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "delacroix",
+  "title": "德拉克罗瓦",
+  "kind": "人物",
+  "era": "19世纪",
+  "region": "法国",
+  "medium": "绘画",
+  "def": "法国浪漫主义画家，以色彩与戏剧性构图著称。",
+  "when": "1798—1863年",
+  "overview": "代表作《自由引导人民》，色彩奔放、动势强烈，对印象派有启发。",
+  "related": [
+   {
+    "id": "romanticism-art",
+    "title": "浪漫主义（艺术）"
+   },
+   {
+    "id": "neoclassicism",
+    "title": "新古典主义"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-romanticism",
+    "title": "Romanticism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-impressionism",
+    "title": "Impressionism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "realism-art",
+  "title": "现实主义（艺术）",
+  "kind": "风格",
+  "era": "19世纪中叶",
+  "region": "欧洲",
+  "medium": "绘画",
+  "def": "19世纪中叶以平凡生活与普通人为题材的艺术倾向。",
+  "when": "约公元1840—1870年",
+  "overview": "反对浪漫化的历史与神话题材，主张客观描绘当下社会现实，库尔贝为代表。",
+  "related": [
+   {
+    "id": "romanticism-art",
+    "title": "浪漫主义（艺术）"
+   },
+   {
+    "id": "impressionism",
+    "title": "印象派"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-realism-art",
+    "title": "Realism (arts)",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-romanticism",
+    "title": "Romanticism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "botticelli",
+  "title": "波提切利",
+  "kind": "人物",
+  "era": "15世纪",
+  "region": "意大利",
+  "medium": "绘画",
+  "def": "意大利早期文艺复兴画家，以线条优美与神话题材著称。",
+  "when": "约1445—1510年",
+  "overview": "代表作《春》《维纳斯的诞生》，线条流畅、色彩明丽，体现新柏拉图主义趣味。",
+  "related": [
+   {
+    "id": "early-renaissance",
+    "title": "早期文艺复兴"
+   },
+   {
+    "id": "venetian-school",
+    "title": "威尼斯画派"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-botticelli",
+    "title": "Sandro Botticelli",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-italian-renaissance-painting",
+    "title": "Italian Renaissance painting",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "donatello",
+  "title": "多纳泰罗",
+  "kind": "人物",
+  "era": "15世纪",
+  "region": "意大利",
+  "medium": "雕塑",
+  "def": "意大利早期文艺复兴雕塑家，推动古典雕塑的复兴。",
+  "when": "约1386—1466年",
+  "overview": "作品包括青铜《大卫》与《圣乔治》，以解剖准确性与古典姿态著称。",
+  "related": [
+   {
+    "id": "early-renaissance",
+    "title": "早期文艺复兴"
+   },
+   {
+    "id": "renaissance",
+    "title": "文艺复兴"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-donatello",
+    "title": "Donatello",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-renaissance",
+    "title": "Renaissance",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "early-renaissance",
+  "title": "早期文艺复兴",
+  "kind": "风格",
+  "era": "15世纪",
+  "region": "意大利",
+  "medium": "绘画,雕塑",
+  "def": "15世纪意大利的艺术阶段，透视法与解剖研究取得突破。",
+  "when": "约公元1400—1490年",
+  "overview": "布鲁内莱斯基建立线性透视，马萨乔将其用于绘画；多纳泰罗复兴古典雕塑。",
+  "related": [
+   {
+    "id": "renaissance",
+    "title": "文艺复兴"
+   },
+   {
+    "id": "high-renaissance",
+    "title": "盛期文艺复兴"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-italian-renaissance-painting",
+    "title": "Italian Renaissance painting",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-renaissance",
+    "title": "Renaissance",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ }
+]

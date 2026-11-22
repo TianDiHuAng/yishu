@@ -12,6 +12,11 @@ verified={s["id"] for s in S if s["verified"]}
 
 seed=json.load(open(os.path.join(D,"entries.json"),encoding="utf-8"))["entries"]
 merged={e["id"]:dict(e) for e in seed}
+# 来源修复层：替换重复来源id（须在L2覆盖之前应用）
+fixes_p=os.path.join(D,"source_fixes.json")
+if os.path.exists(fixes_p):
+    for eid,srcs in json.load(open(fixes_p,encoding="utf-8")).items():
+        if eid in merged: merged[eid]["sources"]=list(srcs)
 l2dir=os.path.join(D,"l2"); os.makedirs(l2dir,exist_ok=True)
 for p in sorted(glob.glob(os.path.join(l2dir,"*.json"))):
     ov=json.load(open(p,encoding="utf-8"))
@@ -31,7 +36,7 @@ for e in entries:
     c["level"]=lv
     c["status"]={"L1":"seeded","L2":"written_l2","L3":"written_l3"}.get(lv,"seeded")
     c["sources_count"]=len(e.get("sources",[]))
-    nver=sum(1 for s in e.get("sources",[]) if s in verified)
+    nver=sum(1 for s in set(e.get("sources",[])) if s in verified)
     c["verified_sources_count"]=nver
     # WORKFLOW双源规则：≥2个不同verified来源id即通过
     c["needs_verification"]=nver<2

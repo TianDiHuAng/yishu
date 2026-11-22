@@ -1,0 +1,14 @@
+{
+ "id": "running-script",
+ "level": "L2",
+ "sections": {
+  "时代背景": "行书约自公元2世纪形成，流行于汉末至今，在中国书法中长期使用。它作为一种介于楷书与草书之间的书体，兼顾了书写流畅与易于辨认的需要。",
+  "风格特征": "行书介于楷书与草书之间，书写流畅而易于辨认。它兼顾节奏与可读性，在规范与流动之间取得平衡。",
+  "代表人物与作品": "王羲之是概述中点名的行书代表，其《兰亭序》被誉为行书典范。该作品兼顾节奏与可读性，被视为行书的代表性范例。",
+  "技法或形式分析": "行书在形式上强调书写的流畅性，同时保持字形的可辨识度。节奏与可读性的兼顾，是其区别于楷书与草书的关键。",
+  "与前后风格的关系和争论": "行书与楷书、草书直接相关，其定位介于两者之间。现有记载较一致，学界主要讨论行书与楷书、草书之间的分期与边界问题。",
+  "一图": "示意图表现行书介于楷书与草书之间的位置，以及其书写流畅、易于辨认的特点。",
+  "待核实": "现有字段未给出《兰亭序》的创作年代与收藏信息。相关细节待补充第二来源后核实。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='行书 示意图'><title>行书</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>行书</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>书写流畅</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>楷书</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>书体</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>草书</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>书体</text><line class='svg-arrow' x1='305.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>行书介于楷书与草书之间的书体示意</text></g></svg>"
+}

@@ -46,3 +46,9 @@
 - **决定**：`sources.json` 每条含 `id,title,author,year,url,type,verified,verified_note`。只有实际抓取页面并核对标题/作者/年份后置 `verified=true`；抓取失败或被反爬拒绝的保留 `verified=false` 并写 `pending`，不参与事实引用。
 - **理由**：TASK 阶段1"打开页面核对标题、作者、年份后才能 verified=true"。
 - **代价**：外部站点反爬会让部分来源长期 unverified，写作时需绕开这些来源或标待核实。
+
+## D010 — 来源去重与校验器加固
+- **决定**：sources 数组不得含重复 id（check.py R15），双源计数按唯一 id；新增4条已联网核验的权威百科来源（Cave painting / Venus figurine / Calligraphy / Ink wash painting），经 data/source_fixes.json 替换8个曾重复来源的条目。
+- **理由**：第2批复检时发现8个条目把同一来源 id 写两次，旧校验器按出现次数计数导致"双源通过"的假阳性。这是机器校验诚实性的漏洞，必须堵上。
+- **代价**：需维护 source_fixes.json 覆盖层；新增来源仍以百科为主，独立性限制（REPORT.md 已披露）未因此改变。
+

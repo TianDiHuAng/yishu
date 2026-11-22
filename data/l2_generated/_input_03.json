@@ -1,28 +1,28 @@
 [
  {
-  "id": "caravaggio",
-  "title": "卡拉瓦乔",
+  "id": "velazquez",
+  "title": "委拉斯开兹",
   "kind": "人物",
-  "era": "16—17世纪",
-  "region": "意大利",
+  "era": "17世纪",
+  "region": "西班牙",
   "medium": "绘画",
-  "def": "意大利巴洛克画家，以强烈的明暗对照与现实主义人物著称。",
-  "when": "1571—1610年",
-  "overview": "代表作《圣马太蒙召》，以暗背景与聚光式照明营造戏剧性，影响欧洲一代画家。",
+  "def": "西班牙黄金时代宫廷画家，以写实肖像与空间处理著称。",
+  "when": "1599—1660年",
+  "overview": "代表作《宫娥》《教皇英诺森十世肖像》，笔触松动、光线处理精妙。",
   "related": [
    {
     "id": "baroque",
     "title": "巴洛克"
    },
    {
-    "id": "rembrandt",
-    "title": "伦勃朗"
+    "id": "impressionism",
+    "title": "印象派"
    }
   ],
   "sources": [
    {
-    "id": "enc-caravaggio",
-    "title": "Caravaggio",
+    "id": "enc-velazquez",
+    "title": "Diego Velazquez",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    },
@@ -35,89 +35,19 @@
   ]
  },
  {
-  "id": "rembrandt",
-  "title": "伦勃朗",
+  "id": "vermeer",
+  "title": "维米尔",
   "kind": "人物",
   "era": "17世纪",
   "region": "荷兰",
   "medium": "绘画",
-  "def": "荷兰黄金时代画家，以肖像、自画像与光影处理著称。",
-  "when": "1606—1669年",
-  "overview": "代表作《夜巡》《自画像》，运用层层罩染与聚光式明暗刻画心理深度。",
+  "def": "荷兰黄金时代画家，以室内场景与柔和光线著称。",
+  "when": "1632—1675年",
+  "overview": "代表作《戴珍珠耳环的少女》《倒牛奶的女仆》，善绘自然光与日常静谧氛围。",
   "related": [
    {
-    "id": "baroque",
-    "title": "巴洛克"
-   },
-   {
-    "id": "vermeer",
-    "title": "维米尔"
-   }
-  ],
-  "sources": [
-   {
-    "id": "enc-rembrandt",
-    "title": "Rembrandt",
-    "author": "Wikipedia contributors",
-    "type": "权威百科"
-   },
-   {
-    "id": "enc-baroque",
-    "title": "Baroque",
-    "author": "Wikipedia contributors",
-    "type": "权威百科"
-   }
-  ]
- },
- {
-  "id": "neoclassicism",
-  "title": "新古典主义",
-  "kind": "风格",
-  "era": "18—19世纪",
-  "region": "欧洲",
-  "medium": "综合",
-  "def": "18世纪中后期兴起的艺术运动，回归古典形式的克制、理性与秩序。",
-  "when": "约公元1750—1850年",
-  "overview": "以对称构图、清晰轮廓与古典题材为特征，与启蒙思想及考古发现相关，大卫为代表。",
-  "related": [
-   {
-    "id": "rococo",
-    "title": "洛可可"
-   },
-   {
-    "id": "romanticism-art",
-    "title": "浪漫主义（艺术）"
-   }
-  ],
-  "sources": [
-   {
-    "id": "enc-neoclassicism",
-    "title": "Neoclassicism",
-    "author": "Wikipedia contributors",
-    "type": "权威百科"
-   },
-   {
-    "id": "enc-romanticism",
-    "title": "Romanticism",
-    "author": "Wikipedia contributors",
-    "type": "权威百科"
-   }
-  ]
- },
- {
-  "id": "romanticism-art",
-  "title": "浪漫主义（艺术）",
-  "kind": "风格",
-  "era": "19世纪上半",
-  "region": "欧洲",
-  "medium": "绘画",
-  "def": "19世纪上半叶的艺术思潮，强调情感、想象、自然与个人体验。",
-  "when": "约公元1800—1850年",
-  "overview": "偏爱戏剧性题材、异国情调与壮丽风景，色彩与笔触更具表现力，德拉克罗瓦为代表。",
-  "related": [
-   {
-    "id": "neoclassicism",
-    "title": "新古典主义"
+    "id": "rembrandt",
+    "title": "伦勃朗"
    },
    {
     "id": "realism-art",
@@ -126,14 +56,84 @@
   ],
   "sources": [
    {
-    "id": "enc-romanticism",
-    "title": "Romanticism",
+    "id": "enc-vermeer",
+    "title": "Johannes Vermeer",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    },
    {
-    "id": "enc-neoclassicism",
-    "title": "Neoclassicism",
+    "id": "enc-baroque",
+    "title": "Baroque",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "clerical-script",
+  "title": "隶书",
+  "kind": "术语",
+  "era": "汉",
+  "region": "中国",
+  "medium": "书法",
+  "def": "汉代成熟并盛行的书体，以波磔与扁方结构为特征。",
+  "when": "约公元前2世纪—公元3世纪",
+  "overview": "由篆书简化而来，笔画出现蚕头燕尾，是汉字由古文字向今文字转变的关键。",
+  "related": [
+   {
+    "id": "seal-script",
+    "title": "篆书"
+   },
+   {
+    "id": "regular-script",
+    "title": "楷书"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-chinese-calligraphy",
+    "title": "Chinese calligraphy",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-chinese-calligraphy",
+    "title": "Chinese calligraphy",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "cursive-script",
+  "title": "草书",
+  "kind": "术语",
+  "era": "汉—唐",
+  "region": "中国",
+  "medium": "书法",
+  "def": "笔画高度简化、连绵奔放的书体，强调书写节奏与情感表达。",
+  "when": "约公元前1世纪—至今",
+  "overview": "张旭、怀素以狂草著称，草书兼具强烈表现性与辨识门槛。",
+  "related": [
+   {
+    "id": "running-script",
+    "title": "行书"
+   },
+   {
+    "id": "china-calligraphy-history",
+    "title": "中国书法史"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-chinese-calligraphy",
+    "title": "Chinese calligraphy",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-chinese-calligraphy",
+    "title": "Chinese calligraphy",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    }

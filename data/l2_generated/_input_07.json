@@ -1,139 +1,139 @@
 [
  {
-  "id": "china-calligraphy-history",
-  "title": "中国书法史",
-  "kind": "时期",
-  "era": "商周—明清",
-  "region": "中国",
-  "medium": "书法",
-  "def": "汉字书写发展为独立艺术的历史，涵盖篆、隶、楷、行、草诸体。",
-  "when": "约公元前14世纪—公元19世纪",
-  "overview": "书法与文字演变、文人传统密切相关，讲究笔法、结构与章法，兼具实用与审美。",
+  "id": "gauguin",
+  "title": "高更",
+  "kind": "人物",
+  "era": "19世纪",
+  "region": "法国",
+  "medium": "绘画",
+  "def": "法国后印象派画家，追求原始主义与象征性的平面色彩。",
+  "when": "1848—1903年",
+  "overview": "代表作《我们从何处来？我们是谁？我们向何处去？》，使用平涂色块与象征构图。",
   "related": [
    {
-    "id": "seal-script",
-    "title": "篆书"
+    "id": "post-impressionism",
+    "title": "后印象派"
    },
    {
-    "id": "clerical-script",
-    "title": "隶书"
+    "id": "cezanne",
+    "title": "塞尚"
    }
   ],
   "sources": [
    {
-    "id": "enc-chinese-calligraphy",
-    "title": "Chinese calligraphy",
+    "id": "enc-gauguin",
+    "title": "Paul Gauguin",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    },
    {
-    "id": "enc-chinese-painting",
-    "title": "Chinese painting",
+    "id": "enc-post-impressionism",
+    "title": "Post-Impressionism",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    }
   ]
  },
  {
-  "id": "medieval-music",
-  "title": "中世纪音乐",
-  "kind": "时期",
-  "era": "5—15世纪",
-  "region": "欧洲",
-  "medium": "音乐体裁",
-  "def": "欧洲中世纪的宗教与世俗音乐，以单声部圣咏与复调萌芽为特征。",
-  "when": "约公元500—1400年",
-  "overview": "格里高利圣咏为代表性单声部传统，晚期出现奥尔加农与经文歌等复调形式。",
-  "related": [
-   {
-    "id": "gregorian-chant",
-    "title": "格里高利圣咏"
-   },
-   {
-    "id": "polyphony",
-    "title": "复调"
-   }
-  ],
-  "sources": [
-   {
-    "id": "enc-medieval-music",
-    "title": "Medieval music",
-    "author": "Wikipedia contributors",
-    "type": "权威百科"
-   },
-   {
-    "id": "enc-gregorian-chant",
-    "title": "Gregorian chant",
-    "author": "Wikipedia contributors",
-    "type": "权威百科"
-   }
-  ]
- },
- {
-  "id": "gregorian-chant",
-  "title": "格里高利圣咏",
+  "id": "byzantine-art",
+  "title": "拜占庭艺术",
   "kind": "风格",
-  "era": "中世纪",
-  "region": "欧洲",
-  "medium": "音乐体裁",
-  "def": "罗马天主教会的单声部无伴奏拉丁文圣歌，以教皇格里高利一世得名。",
-  "when": "约公元6—9世纪成型",
-  "overview": "采用自由节奏与教会调式，旋律随歌词韵律展开，是西方记谱与复调的基础。",
+  "era": "中世纪早期",
+  "region": "东罗马",
+  "medium": "绘画,建筑",
+  "def": "东罗马帝国的基督教艺术传统，以镶嵌画、圣像与集中式教堂为特征。",
+  "when": "约公元4—15世纪",
+  "overview": "强调金色背景与平面化人物，圣像具有神学象征功能，圣索菲亚大教堂代表其建筑成就。",
   "related": [
    {
-    "id": "medieval-music",
-    "title": "中世纪音乐"
+    "id": "early-christian-art",
+    "title": "早期基督教艺术"
    },
    {
-    "id": "polyphony",
-    "title": "复调"
+    "id": "romanesque",
+    "title": "罗马式艺术"
    }
   ],
   "sources": [
    {
-    "id": "enc-gregorian-chant",
-    "title": "Gregorian chant",
+    "id": "enc-byzantine-art",
+    "title": "Byzantine art",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    },
    {
-    "id": "enc-medieval-music",
-    "title": "Medieval music",
+    "id": "enc-medieval-art",
+    "title": "Medieval art",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    }
   ]
  },
  {
-  "id": "polyphony",
-  "title": "复调",
-  "kind": "术语",
-  "era": "中世纪—今",
-  "region": "欧洲",
-  "medium": "音乐体裁",
-  "def": "多个独立旋律声部同时进行的音乐织体。",
-  "when": "约公元9世纪成型—至今",
-  "overview": "与单声部相对，中世纪后期在教堂与宫廷发展成熟，成为西方音乐的核心技术。",
+  "id": "romanesque",
+  "title": "罗马式艺术",
+  "kind": "风格",
+  "era": "中世纪盛期",
+  "region": "西欧",
+  "medium": "建筑,雕塑",
+  "def": "11—12世纪流行于西欧的艺术风格，以厚重的石构教堂与门楣雕塑为标志。",
+  "when": "约公元1000—1150年",
+  "overview": "建筑特征为厚墙、小窗、半圆拱与十字拱，雕塑多用于教堂门楣与柱头，叙事性强。",
   "related": [
    {
-    "id": "organum",
-    "title": "奥尔加农"
+    "id": "byzantine-art",
+    "title": "拜占庭艺术"
    },
    {
-    "id": "renaissance-music",
-    "title": "文艺复兴音乐"
+    "id": "gothic",
+    "title": "哥特式艺术"
    }
   ],
   "sources": [
    {
-    "id": "enc-polyphony",
-    "title": "Polyphony",
+    "id": "enc-romanesque",
+    "title": "Romanesque art",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    },
    {
-    "id": "enc-medieval-music",
-    "title": "Medieval music",
+    "id": "enc-medieval-art",
+    "title": "Medieval art",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "bauhaus",
+  "title": "包豪斯",
+  "kind": "风格",
+  "era": "20世纪上半",
+  "region": "德国",
+  "medium": "建筑,综合",
+  "def": "1919年创立于德国的设计学院及其倡导的现代主义设计理念。",
+  "when": "1919—1933年",
+  "overview": "主张艺术与工艺统一、形式服从功能，深刻影响现代建筑、设计与艺术教育。",
+  "related": [
+   {
+    "id": "modern-art",
+    "title": "现代艺术"
+   },
+   {
+    "id": "minimalism",
+    "title": "极简主义"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-bauhaus",
+    "title": "Bauhaus",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-minimalism",
+    "title": "Minimalism",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    }

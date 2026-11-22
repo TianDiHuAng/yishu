@@ -1,0 +1,14 @@
+{
+ "id": "ming-painting",
+ "level": "L2",
+ "sections": {
+  "时代背景": "明代绘画指1368至1644年间的绘画，画派林立，文人画与职业画家并行。这一时期多种画派与创作取向共存，形成了丰富的绘画格局。",
+  "风格特征": "明代绘画画派林立，文人画与职业画家并行发展。花鸟画与册页在这一时期流行，吴门画派、浙派与董其昌的南北宗论影响深远。",
+  "代表人物与作品": "董其昌是概述中点名的代表，其南北宗论影响深远。吴门画派与浙派作为画派被提及，现有材料未列出具体作品名称，故此处不作展开。",
+  "技法或形式分析": "明代绘画在形式上以花鸟画与册页的流行见称，创作格局呈现文人画与职业画家并行。这种多元并存的取向，构成了明代绘画的形式特征。",
+  "与前后风格的关系和争论": "明代绘画与元代绘画、清代绘画相承接，处于两者之间。概述中提到的南北宗论涉及画派分宗的讨论，现有记载较一致，学界主要讨论明代绘画与元、清两代的分期与边界问题。",
+  "一图": "示意图展示元代绘画、明代绘画、清代绘画的承接关系，并标出董其昌的南北宗论。",
+  "待核实": "现有字段未给出董其昌的具体作品名称及其年代、收藏信息。相关细节待补充第二来源后核实。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='明代绘画 示意图'><title>明代绘画</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>明代绘画</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>画派林立</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>董其昌</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>南北宗论</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>元代绘画</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>绘画</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>清代绘画</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>绘画</text><line class='svg-arrow' x1='400.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>元代、明代、清代绘画的承接及南北宗论</text></g></svg>"
+}

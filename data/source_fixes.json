@@ -1,0 +1,34 @@
+{
+  "prehistoric-art": [
+    "enc-prehistoric-art",
+    "enc-cave-art"
+  ],
+  "paleolithic-sculpture": [
+    "enc-prehistoric-art",
+    "enc-venus-figurines"
+  ],
+  "gongbi": [
+    "enc-chinese-painting",
+    "enc-ink-wash"
+  ],
+  "seal-script": [
+    "enc-chinese-calligraphy",
+    "enc-calligraphy"
+  ],
+  "clerical-script": [
+    "enc-chinese-calligraphy",
+    "enc-calligraphy"
+  ],
+  "regular-script": [
+    "enc-chinese-calligraphy",
+    "enc-calligraphy"
+  ],
+  "running-script": [
+    "enc-chinese-calligraphy",
+    "enc-calligraphy"
+  ],
+  "cursive-script": [
+    "enc-chinese-calligraphy",
+    "enc-calligraphy"
+  ]
+}

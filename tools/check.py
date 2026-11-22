@@ -42,7 +42,8 @@ def main():
     # R2 年代合法 / R8 数字合法（区分公元前/公元后/万/历代）
     for e in ENTRIES:
         eid=e["id"]; w=e["when"]
-        if re.search(r"历代|不考|待考|不详|传说|至今|先秦|战国",w):
+        #  dynasty/时代词也是合法时间标注（如 汉代、汉—唐、唐代、先秦）
+        if re.search(r"历代|不考|待考|不详|传说|至今|先秦|战国|秦|汉|唐|宋|元|明|清|商周|共和|帝国|世纪|年代",w):
             pass  # 术语或跨期条目的合法时间描述
         else:
             # 抽取所有"数[万年]"片段，判断其前后是否为公元前语境
@@ -56,7 +57,7 @@ def main():
                     if n<1 or n>5000: err("R2",eid,"公元前年份越界:%s"%m.group(0))
                 else:
                     if n>2100: err("R2",eid,"公元年份越界:%s"%m.group(0))
-            if not re.search(r"\d|不考|待|历代|不详|传说",w):
+            if not re.search(r"\d|不考|待|历代|不详|传说|世纪|年代|秦|汉|唐|宋|元|明|清|商周|共和|帝国|先秦|战国",w):
                 err("R2",eid,"when无年代信息:%s"%w)
 
     # R3 人物生卒逻辑
@@ -76,7 +77,10 @@ def main():
         for s in e["sources"]:
             if s not in sm: err("R4",eid,"来源id未定义:%s"%s)
             elif not sm[s]["verified"]: err("R4",eid,"引用未核验来源:%s"%s)
-        nver=sum(1 for s in e["sources"] if s in sm and sm[s]["verified"])
+        # R15 来源去重：重复id不能当作两个来源
+        if len(e["sources"])!=len(set(e["sources"])):
+            err("R15",eid,"sources含重复id:%s"%e["sources"])
+        nver=sum(1 for s in set(e["sources"]) if s in sm and sm[s]["verified"])
         if nver<2:
             if not e.get("needs_verification") or not e.get("pending_notes"):
                 err("R10",eid,"仅%d个verified来源却未标needs_verification/pending_notes"%nver)

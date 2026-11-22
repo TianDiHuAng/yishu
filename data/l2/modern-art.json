@@ -1,0 +1,14 @@
+{
+ "id": "modern-art",
+ "level": "L2",
+ "sections": {
+  "时代背景": "现代艺术约指1890—1950年的欧美艺术范围，输入称其为19世纪末至20世纪中叶西方艺术的总称。它涵盖众多前卫运动，并以不断突破传统为特征。相关条目中的后印象派与抽象表现主义给出输入所涵盖的前后线索。",
+  "风格特征": "现代艺术并非由单一风格界定，而是以不断突破传统为共同特征。输入强调从后印象派到抽象表现主义的艺术语言持续激进革新。风格描述因此应聚焦于艺术语言的革新过程。",
+  "代表人物与作品": "本条为时期条目，输入未点名代表人物或具体作品。可明确列出的相关条目是后印象派与抽象表现主义。来源标题“Cubism”在输入中仅作为来源出现，未展开为人物或作品事实。",
+  "技法或形式分析": "现代艺术在输入中被描述为涵盖众多前卫运动，因此技法与形式不能归入单一手法。可确认的分析维度是艺术语言的持续激进革新，以及从后印象派到抽象表现主义的范围线索。具体作品的技法、材料、年份与收藏地未在输入中给出。",
+  "与前后风格的关系和争论": "相关条目列出后印象派与抽象表现主义，二者构成从起点到后续的范围提示。输入将其描述为从后印象派到抽象表现主义的连续革新，未呈现反弹关系或学者观点归属。记载较一致，学界主要讨论现代艺术自身的分期/边界问题。",
+  "一图": "示意图呈现现代艺术从后印象派到抽象表现主义的持续激进革新。",
+  "待核实": "输入列出来源标题“Classical and Modern Art Movements”与“Cubism”。来源标题中的“Cubism”未展开为具体艺术运动事实，相关细节待补充第二来源。涉及现代艺术起止范围、运动名单与代表人物的进一步说明，待补充第二来源后再写入正文。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='现代艺术 示意图'><title>现代艺术</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>现代艺术</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>西方艺术总称</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>后印象派</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>相关条目</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>抽象表现主义</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>相关条目</text><rect class='svg-box-accent' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='665.0' y='142' text-anchor='middle'>艺术语言</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>激进革新</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>从后印象派到抽象表现主义的激进革新</text></g></svg>"
+}

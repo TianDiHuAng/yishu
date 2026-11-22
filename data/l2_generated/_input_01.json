@@ -1,143 +1,139 @@
 [
  {
-  "id": "egyptian-art",
-  "title": "古埃及艺术",
-  "kind": "风格",
-  "era": "古王国—新王国",
-  "region": "埃及",
-  "medium": "综合",
-  "def": "古埃及文明的艺术体系，服务于宗教与王权，遵循严格的正面律与比例规范。",
-  "when": "约公元前3100—前30年",
-  "overview": "雕塑与壁画中人物采用正面律：头侧、眼正、肩正、腿侧；色彩与尺寸具有象征意义。",
-  "related": [
-   {
-    "id": "greek-art",
-    "title": "古希腊艺术"
-   },
-   {
-    "id": "roman-art",
-    "title": "古罗马艺术"
-   }
-  ],
-  "sources": [
-   {
-    "id": "enc-prehistoric-art",
-    "title": "Prehistoric art",
-    "author": "Wikipedia contributors",
-    "type": "权威百科"
-   },
-   {
-    "id": "enc-greek-art",
-    "title": "Ancient Greek art",
-    "author": "Wikipedia contributors",
-    "type": "权威百科"
-   }
-  ]
- },
- {
-  "id": "greek-art",
-  "title": "古希腊艺术",
-  "kind": "风格",
-  "era": "几何—希腊化",
-  "region": "希腊",
-  "medium": "综合",
-  "def": "古希腊的雕塑、建筑与绘画传统，以对人体比例与理想美的探索著称。",
-  "when": "约公元前900—前31年",
-  "overview": "雕塑从古风时期的程式化青年像发展到古典时期的理想人体，建筑形成多立克、爱奥尼、科林斯三柱式。",
-  "related": [
-   {
-    "id": "egyptian-art",
-    "title": "古埃及艺术"
-   },
-   {
-    "id": "roman-art",
-    "title": "古罗马艺术"
-   }
-  ],
-  "sources": [
-   {
-    "id": "enc-greek-art",
-    "title": "Ancient Greek art",
-    "author": "Wikipedia contributors",
-    "type": "权威百科"
-   },
-   {
-    "id": "enc-roman-art",
-    "title": "Ancient Roman art",
-    "author": "Wikipedia contributors",
-    "type": "权威百科"
-   }
-  ]
- },
- {
-  "id": "gothic",
-  "title": "哥特式艺术",
-  "kind": "风格",
-  "era": "中世纪晚期",
-  "region": "西欧",
-  "medium": "建筑,雕塑",
-  "def": "12世纪后兴起于法国并传遍欧洲的艺术风格，以尖拱、肋拱与彩色玻璃窗著称。",
-  "when": "约公元1140—1500年",
-  "overview": "尖拱与飞扶壁使墙体变薄、窗户扩大，彩色玻璃营造神秘光线；雕塑渐趋自然主义。",
-  "related": [
-   {
-    "id": "romanesque",
-    "title": "罗马式艺术"
-   },
-   {
-    "id": "renaissance",
-    "title": "文艺复兴"
-   }
-  ],
-  "sources": [
-   {
-    "id": "enc-gothic",
-    "title": "Gothic art",
-    "author": "Wikipedia contributors",
-    "type": "权威百科"
-   },
-   {
-    "id": "enc-romanesque",
-    "title": "Romanesque art",
-    "author": "Wikipedia contributors",
-    "type": "权威百科"
-   }
-  ]
- },
- {
-  "id": "renaissance",
-  "title": "文艺复兴",
+  "id": "china-music-history",
+  "title": "中国音乐史",
   "kind": "时期",
-  "era": "14—16世纪",
-  "region": "意大利及欧洲",
-  "medium": "综合",
-  "def": "欧洲由中世纪向近代过渡的文化运动，以复兴古典文化与人文主义为核心。",
-  "when": "约公元1400—1600年",
-  "overview": "艺术上追求透视法、解剖准确与和谐比例，从乔托到盛期三杰逐步成熟，并波及北欧。",
+  "era": "远古—明清",
+  "region": "中国",
+  "medium": "音乐体裁",
+  "def": "中国音乐自远古至明清的发展脉络，以礼乐制度、乐器和戏曲为重要线索。",
+  "when": "约公元前5000年—公元19世纪",
+  "overview": "经历远古乐舞、周代礼乐、汉唐燕乐、宋元词曲与明清戏曲的发展，形成独特体系。",
   "related": [
    {
-    "id": "gothic",
-    "title": "哥特式艺术"
+    "id": "guzheng",
+    "title": "古筝"
    },
    {
-    "id": "early-renaissance",
-    "title": "早期文艺复兴"
-   },
-   {
-    "id": "mannerism",
-    "title": "样式主义"
+    "id": "jingju",
+    "title": "京剧"
    }
   ],
   "sources": [
    {
-    "id": "enc-renaissance",
-    "title": "Renaissance",
+    "id": "enc-chinese-music",
+    "title": "Chinese music",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    },
    {
-    "id": "enc-italian-renaissance-painting",
-    "title": "Italian Renaissance painting",
+    "id": "enc-guzheng",
+    "title": "Guzheng",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "jingju",
+  "title": "京剧",
+  "kind": "风格",
+  "era": "清代—今",
+  "region": "中国",
+  "medium": "音乐体裁",
+  "def": "形成于清代的中国传统戏曲剧种，融合唱念做打与程式化表演。",
+  "when": "约公元19世纪中叶形成",
+  "overview": "以皮黄腔为主，行当分明，脸谱与身段具有高度程式化特征，梅兰芳为代表人物。",
+  "related": [
+   {
+    "id": "china-music-history",
+    "title": "中国音乐史"
+   },
+   {
+    "id": "guzheng",
+    "title": "古筝"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-jingju",
+    "title": "Beijing opera",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-chinese-music",
+    "title": "Chinese music",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "schoenberg",
+  "title": "勋伯格",
+  "kind": "人物",
+  "era": "20世纪",
+  "region": "奥地利/美国",
+  "medium": "音乐体裁",
+  "def": "奥地利裔作曲家，十二音技法与表现主义音乐的开创者。",
+  "when": "1874—1951年",
+  "overview": "代表作《月光下的皮埃罗》《升华之夜》，以无调性与十二音体系重塑作曲逻辑。",
+  "related": [
+   {
+    "id": "serialism",
+    "title": "序列主义"
+   },
+   {
+    "id": "20th-century-classical",
+    "title": "20世纪古典音乐"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-schoenberg",
+    "title": "Arnold Schoenberg",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-serialism",
+    "title": "Serialism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "stravinsky",
+  "title": "斯特拉文斯基",
+  "kind": "人物",
+  "era": "20世纪",
+  "region": "俄国/美国",
+  "medium": "音乐体裁",
+  "def": "俄裔作曲家，以节奏革新与风格多变著称。",
+  "when": "1882—1971年",
+  "overview": "代表作《春之祭》《彼得鲁什卡》，以强烈节奏与不协和音响引发轰动，后期转向新古典主义。",
+  "related": [
+   {
+    "id": "20th-century-classical",
+    "title": "20世纪古典音乐"
+   },
+   {
+    "id": "serialism",
+    "title": "序列主义"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-stravinsky",
+    "title": "Igor Stravinsky",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-20th-century-classical",
+    "title": "20th-century classical music",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    }

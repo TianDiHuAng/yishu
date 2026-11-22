@@ -1,0 +1,14 @@
+{
+ "id": "regular-script",
+ "level": "L2",
+ "sections": {
+  "时代背景": "楷书约自公元2世纪发端，主要流行于汉末至唐代，唐代被视为其发展的高峰。这一书体在中国书法传统中逐步定型并延续至今，成为后世通行的书体形式。",
+  "风格特征": "楷书以形体方正、笔画规范为主要特征，讲究书写的法度。这种规范的形态使其在后代被广泛采用，成为通行的书写样式。",
+  "代表人物与作品": "欧阳询、颜真卿、柳公权是概述中点名的楷书代表人物，他们共同确立了楷书的法度。现有材料未列出他们的具体作品名称，故此处不作展开。",
+  "技法或形式分析": "从形式上看，楷书注重笔画的规范与字形的方正，点画安排讲究法度。这种对结构与用笔规范的强调，构成了楷书区别于其他书体的形式基础。",
+  "与前后风格的关系和争论": "楷书与隶书、行书并列为相关书体，在书体演变中彼此关联。现有记载较一致，学界主要讨论楷书与隶书、行书之间的分期与边界问题。",
+  "一图": "示意图展示楷书与隶书、行书之间的书体关联，以及楷书以形体方正、笔画规范为特征的关系。",
+  "待核实": "现有字段未给出楷书代表人物的具体作品名称与收藏信息。欧阳询、颜真卿、柳公权的代表作及其年代待补充第二来源后核实。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='楷书 示意图'><title>楷书</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>楷书</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>形体方正</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>隶书</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>书体</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>行书</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>书体</text><line class='svg-arrow' x1='305.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>楷书与隶书、行书三种书体的关联示意</text></g></svg>"
+}

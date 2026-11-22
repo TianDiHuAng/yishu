@@ -909,6 +909,46 @@
       "type": "权威百科",
       "verified": true,
       "verified_note": "HTTP 200；标题关键词[Cubism]命中"
+    },
+    {
+      "id": "enc-cave-art",
+      "title": "Cave painting",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Cave_art",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200; <title>=Cave painting - Wikipedia"
+    },
+    {
+      "id": "enc-venus-figurines",
+      "title": "Venus figurine",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Venus_figurines",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200; <title>=Venus figurine - Wikipedia"
+    },
+    {
+      "id": "enc-calligraphy",
+      "title": "Calligraphy",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Calligraphy",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200; <title>=Calligraphy - Wikipedia"
+    },
+    {
+      "id": "enc-ink-wash",
+      "title": "Ink wash painting",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Ink_wash_painting",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200; <title>=Ink wash painting - Wikipedia"
     }
   ]
 }

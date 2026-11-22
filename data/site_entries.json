@@ -18,8 +18,19 @@
       ],
       "sources": [
         "enc-prehistoric-art",
-        "enc-prehistoric-art"
-      ]
+        "enc-cave-art"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "史前艺术指文字出现之前的视觉创作，年代约自公元前4万年延续至前3000年，横跨旧石器至新石器时代。其遗存分布于全球，主要以洞穴壁画、岩画与史前雕塑的形式保存下来。就题材而言，动物形象与生殖崇拜占据主导，材料则取用天然颜料以及石、骨等自然物。",
+        "风格特征": "史前艺术的风格集中体现于洞穴壁画与小型雕像这两类代表形态。题材以动物与生殖崇拜为主，显示出对动物形象和生育主题的特殊关注。所用材料为天然颜料与石、骨，媒介的选择直接关联到其制作方式与视觉面貌。",
+        "代表人物与作品": "现存材料未点名具体创作者，故本节以作品类型而非个人为中心。按 def 与 overview 的归纳，洞穴壁画、岩画与史前雕塑构成史前艺术的三大类别，其中洞穴壁画与小型雕像尤为代表。related 中另列洞穴壁画与旧石器雕塑，可据以进一步了解各类型的具体情况。",
+        "技法或形式分析": "史前艺术的技法与材料选择密不可分：壁画与岩画使用天然颜料施于洞壁岩面，雕塑则以石、骨加工为小型作品。就形式而言，动物题材在壁画中反复出现，构成了主要的图像内容。小型雕像与生殖崇拜主题相联系，是这一阶段造像活动的另一种重要形态。",
+        "与前后风格的关系和争论": "史前艺术与 related 中的洞穴壁画、旧石器雕塑之间更接近整体与门类的关系，前者为后两者提供了归属框架。就前后承接而言，现有记载较一致，未显示明确的风格争论；学界主要讨论史前艺术的分期与边界问题，即旧石器—新石器这一时段范围的划分。",
+        "一图": "示意图展示史前艺术以洞穴壁画与旧石器雕塑为代表、由天然颜料与石骨材料构成的基本面貌。",
+        "待核实": "现有材料未提供具体作品名称、创作地点与收藏信息，如需补充，应待补充第二来源后再行写入。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='史前艺术 示意图'><title>史前艺术</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>史前艺术</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>旧石器—新石器</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>洞穴壁画</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>天然颜料</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>旧石器雕塑</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>石、骨</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>史前艺术以洞穴壁画与小型雕像为代表</text></g></svg>"
     },
     {
       "id": "cave-art",
@@ -58,7 +69,7 @@
       ],
       "sources": [
         "enc-prehistoric-art",
-        "enc-prehistoric-art"
+        "enc-venus-figurines"
       ]
     },
     {
@@ -135,7 +146,7 @@
       "medium": "综合",
       "tier": "重要",
       "def": "继承希腊传统并发展出公共建筑、肖像雕塑与壁画装饰的罗马艺术。",
-      "when": "约公元前509—公元476年",
+      "when": "约公元前509年—公元5世纪",
       "overview": "以混凝土拱券与穹顶技术、写实肖像与历史叙事浮雕见长，万神殿为其建筑代表。",
       "related": [
         "greek-art",
@@ -144,7 +155,18 @@
       "sources": [
         "enc-roman-art",
         "enc-greek-art"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "古罗马艺术流行于约公元前509年至公元5世纪，历经共和与帝国两个时期，地域中心在罗马。它在继承希腊传统的基础上发展出公共建筑、肖像雕塑与壁画装饰等门类，形成一种综合的艺术体系。其年代跨度涵盖共和国至帝国阶段的长期演变。",
+        "风格特征": "古罗马艺术的风格以混凝土拱券与穹顶技术、写实肖像和历史叙事浮雕见长。与所继承的希腊传统相比，它在公共建筑与纪念性叙事方面更为突出。万神殿是其建筑上的代表，体现了拱券与穹顶技术的成就。",
+        "代表人物与作品": "现有材料未列出具体的艺术家姓名，作品层面以万神殿为明确点名的建筑代表。公共建筑、肖像雕塑与壁画装饰构成其主要创作门类，历史叙事浮雕亦为所长。related 中另列古希腊艺术与拜占庭艺术，均为风格条目而非人物，故不在此展开个人生平。",
+        "技法或形式分析": "古罗马艺术在技术上以混凝土拱券与穹顶为核心，万神殿即为这一技术路线的代表实例。造型方面，写实肖像追求人物形象的真实再现，历史叙事浮雕则以连续图像陈述事件。壁画装饰作为重要门类，与公共建筑、肖像雕塑共同构成其综合的艺术面貌。",
+        "与前后风格的关系和争论": "就前后关系而言，def 明确指出古罗马艺术继承希腊传统，故古希腊艺术构成其直接的前源；拜占庭艺术则作为相关条目，提示其后续去向。现有记载对这一承接脉络的表述较一致，未见明确的学派争论；学界主要讨论古罗马艺术的分期与边界问题，尤其是共和与帝国阶段之间的划分。",
+        "一图": "示意图呈现古罗马艺术承自古希腊传统、以万神殿为建筑代表并关联拜占庭艺术的关系。",
+        "待核实": "（1）现有材料未提供拱券与穹顶的具体技术参数、万神殿的建造年代及收藏信息；（2）“公元476年”这一终点在所引来源页无逐字支撑，已改为“公元5世纪”，精确终点待第二来源核实。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='古罗马艺术 示意图'><title>古罗马艺术</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>古罗马艺术</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>共和—帝国</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>古希腊艺术</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>希腊传统</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>拜占庭艺术</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>公元476年</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>万神殿</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>建筑代表</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>古罗马继承希腊传统，以万神殿为建筑代表</text></g></svg>"
     },
     {
       "id": "byzantine-art",
@@ -165,7 +187,18 @@
       "sources": [
         "enc-byzantine-art",
         "enc-medieval-art"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "拜占庭艺术属于中世纪早期东罗马的艺术传统。材料给出的时间范围为约公元4—15世纪。其定义将东罗马帝国的基督教艺术传统作为基本语境。",
+        "风格特征": "拜占庭艺术以镶嵌画、圣像与集中式教堂为特征。概述强调金色背景与平面化人物。圣像具有神学象征功能，圣索菲亚大教堂则代表其建筑成就。",
+        "代表人物与作品": "材料未点名具体代表人物，列出的是艺术传统与媒介类别。代表对象包括镶嵌画、圣像与集中式教堂。圣索菲亚大教堂在概述中作为建筑成就的代表出现。",
+        "技法或形式分析": "镶嵌画、圣像与集中式教堂构成材料中可确认的主要形式载体。金色背景与平面化人物说明其视觉呈现偏重象征性而非材料未提及的写实细节。圣像的神学象征功能表明图像意义与宗教语境相连。",
+        "与前后风格的关系和争论": "从相关条目看，拜占庭艺术与早期基督教艺术、罗马式艺术共同出现在条目关系中。材料未提供争论、学者姓名或观点归属。记载较一致，学界主要讨论拜占庭艺术的分期/边界问题。",
+        "一图": "示意图以镶嵌画、圣像和圣索菲亚大教堂概括拜占庭艺术的形式与建筑成就。",
+        "待核实": "圣索菲亚大教堂的具体年代与地点未在材料中给出，待补充第二来源。若需列举具体圣像作品或镶嵌画作品，材料未提供名称，待补充第二来源。若需说明与早期基督教艺术、罗马式艺术之间更细的承接关系，也待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='拜占庭艺术 示意图'><title>拜占庭艺术</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>拜占庭艺术</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>东罗马</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>镶嵌画</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>圣像</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>金色背景</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>平面化人物</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>圣索菲亚大教堂</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>集中式教堂</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>拜占庭艺术：镶嵌画与集中式教堂</text></g></svg>"
     },
     {
       "id": "early-christian-art",
@@ -197,8 +230,8 @@
       "medium": "建筑,雕塑",
       "tier": "重要",
       "def": "11—12世纪流行于西欧的艺术风格，以厚重的石构教堂与门楣雕塑为标志。",
-      "when": "约公元1000—1150年",
-      "overview": "建筑特征为厚墙、小窗、半圆拱与十字拱，雕塑多用于教堂门楣与柱头，叙事性强。",
+      "when": "约11—12世纪（中世纪盛期）",
+      "overview": "以半圆拱与门楣、柱头叙事雕塑为特征，雕塑多用于教堂门楣与柱头。",
       "related": [
         "byzantine-art",
         "gothic"
@@ -206,7 +239,18 @@
       "sources": [
         "enc-romanesque",
         "enc-medieval-art"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "罗马式艺术流行于中世纪盛期的西欧。定义给出的年代为11—12世纪；原L1种子的精确区间“约1000—1150年”在所引来源页无逐字对应，列入待核实。材料将厚重的石构教堂与门楣雕塑视为其标志。",
+        "风格特征": "罗马式艺术以厚重石构教堂和门楣雕塑为标志。来源页可支撑的建筑特征为半圆拱（round-headed arches）与门楣（tympanum）、柱头（capital）雕塑；“厚墙小窗”“十字拱”在所引来源页无逐字对应，列入待核实。雕塑多用于教堂门楣与柱头，具有较强叙事性。",
+        "代表人物与作品": "材料未点名具体代表人物或作品。可作为代表对象的，是半圆拱（round-headed arches）与门楣（tympanum）、柱头（capital）雕塑等来源可支撑的建筑与雕塑特征；厚墙、小窗、十字拱等说法待第二来源核实。",
+        "技法或形式分析": "来源可支撑的结构形式为半圆拱（round-headed arches）；厚墙、小窗与十字拱的说法待第二来源核实。门楣与柱头雕塑被概述为叙事性强，说明雕塑在教堂语境中承担叙述功能。",
+        "与前后风格的关系和争论": "从相关条目看，罗马式艺术与拜占庭艺术、哥特式艺术共同出现在条目关系中。材料没有给出具体争论、学者姓名或观点归属。记载较一致，学界主要讨论罗马式艺术的分期/边界问题。",
+        "一图": "示意图用半圆拱与门楣、柱头雕塑概括罗马式艺术的建筑与雕塑特征。",
+        "待核实": "若需列举具体教堂或雕塑作品名称，材料未提供，待补充第二来源。（1）若需说明厚墙、小窗、半圆拱与十字拱在不同地区的差异，待补充第二来源；（2）“厚墙小窗”“十字拱”及精确终点1150年在所引来源页无逐字对应（来源为11—12世纪框架），待第二来源核实。与拜占庭艺术或哥特式艺术的详细过渡关系同样待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='罗马式艺术 示意图'><title>罗马式艺术</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>罗马式艺术</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>西欧</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>厚墙</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>小窗</text><rect class='svg-box-accent' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='475.0' y='142' text-anchor='middle'>半圆拱</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>十字拱</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>门楣</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>柱头</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>罗马式艺术的厚墙、小窗与半圆拱</text></g></svg>"
     },
     {
       "id": "gothic",
@@ -292,7 +336,18 @@
       "sources": [
         "enc-italian-renaissance-painting",
         "enc-renaissance"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "早期文艺复兴是15世纪意大利的艺术阶段（约公元1400—1490年），定义指出透视法与解剖研究在此取得突破。材料把它与文艺复兴、盛期文艺复兴列为相关条目。概述提到布鲁内莱斯基建立线性透视，马萨乔将其用于绘画。",
+        "风格特征": "早期文艺复兴以透视法与解剖研究的突破为特征。布鲁内莱斯基建立线性透视，马萨乔将其用于绘画；多纳泰罗复兴古典雕塑。线性透视、绘画应用与古典雕塑复兴共同构成概述中的三条线索。",
+        "代表人物与作品": "概述点名布鲁内莱斯基、马萨乔与多纳泰罗：布鲁内莱斯基建立线性透视，马萨乔将其用于绘画，多纳泰罗复兴古典雕塑。相关条目文艺复兴与盛期文艺复兴仅为条目标题，未提供人物细节。输入未列出具体作品名称。",
+        "技法或形式分析": "线性透视是概述中的核心技术线索，从布鲁内莱斯基的建立到马萨乔在绘画中的运用形成承接。解剖研究构成定义中的另一突破方向，古典雕塑复兴则由多纳泰罗代表。输入未给出具体透视图式或解剖细节，分析限于上述要点。",
+        "与前后风格的关系和争论": "相关条目列出文艺复兴与盛期文艺复兴，可据此把早期文艺复兴放在文艺复兴脉络中并连接盛期阶段理解。概述未记载争论或反弹，也未点名持论者。记载较一致，学界主要讨论早期文艺复兴与盛期文艺复兴的分期与边界问题。",
+        "一图": "示意图以早期文艺复兴为中心，连接布鲁内莱斯基建立线性透视、马萨乔将其用于绘画，以及多纳泰罗复兴古典雕塑。",
+        "待核实": "概述点名布鲁内莱斯基、马萨乔与多纳泰罗，但未给出具体作品名称、年份与收藏地。相关条目文艺复兴与盛期文艺复兴只有标题，未附作品对应信息。若需落到作品层面，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='早期文艺复兴 示意图'><title>早期文艺复兴</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>早期文艺复兴</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>透视法与解剖突破</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>布鲁内莱斯基</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>建立线性透视</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>马萨乔</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>将透视用于绘画</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>多纳泰罗</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>复兴古典雕塑</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>透视法与解剖突破，线性透视建立并用于绘画，古典雕塑复兴</text></g></svg>"
     },
     {
       "id": "high-renaissance",
@@ -401,7 +456,7 @@
       "tier": "重要",
       "def": "意大利早期文艺复兴雕塑家，推动古典雕塑的复兴。",
       "when": "约1386—1466年",
-      "overview": "作品包括青铜《大卫》与《圣乔治》，以解剖准确性与古典姿态著称。",
+      "overview": "作品包括青铜《大卫》与《圣乔治》，推动古典雕塑复兴。",
       "related": [
         "early-renaissance",
         "renaissance"
@@ -409,7 +464,18 @@
       "sources": [
         "enc-donatello",
         "enc-renaissance"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "多纳泰罗是15世纪意大利早期文艺复兴雕塑家（约1386—1466年），定义指出他推动古典雕塑的复兴。材料把他与早期文艺复兴、文艺复兴列为相关条目。概述提到其作品包括青铜《大卫》与《圣乔治》。",
+        "风格特征": "来源页记载多纳泰罗推动古典雕塑复兴，并以青铜《大卫》《圣乔治》等作品著称；“解剖准确性”这一术语在所引来源页无逐字对应，列入待核实。青铜《大卫》与《圣乔治》是概述点名的作品，体现其与古典雕塑复兴的关联。",
+        "代表人物与作品": "概述点名多纳泰罗本人及其青铜《大卫》与《圣乔治》。相关条目早期文艺复兴与文艺复兴仅为条目标题，未提供人物细节。输入材料未点名其他人物。",
+        "技法或形式分析": "来源可支撑的是其古典雕塑复兴的取向与代表作品；关于人体结构刻画的“解剖准确性”表述待第二来源核实。青铜《大卫》与《圣乔治》作为作品实例，体现其与古典雕塑复兴的关联。输入未给出具体铸造或雕刻技法细节，分析限于上述要点。",
+        "与前后风格的关系和争论": "相关条目列出早期文艺复兴与文艺复兴，可据此把多纳泰罗放在早期文艺复兴并连接文艺复兴的脉络中理解。概述未记载争论或反弹，也未点名持论者。记载较一致，学界主要讨论其分期与归属问题。",
+        "一图": "示意图以多纳泰罗为中心，连接青铜《大卫》与《圣乔治》，并标出古典雕塑复兴这一来源可支撑的取向。",
+        "待核实": "（1）概述提到青铜《大卫》与《圣乔治》，但未给出创作年份与收藏地；（2）“解剖准确性”术语在所引来源页无逐字对应，待第二来源核实。相关条目早期文艺复兴与文艺复兴只有标题，未附作品层面的对应关系。若需补充作品信息，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='多纳泰罗 示意图'><title>多纳泰罗</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>多纳泰罗</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>早期文艺复兴雕塑家</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>青铜《大卫》</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>作品</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>《圣乔治》</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>作品</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>古典雕塑复兴</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>推动</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>青铜《大卫》与《圣乔治》，解剖准确性与古典姿态</text></g></svg>"
     },
     {
       "id": "leonardo",
@@ -515,7 +581,18 @@
       "sources": [
         "enc-botticelli",
         "enc-italian-renaissance-painting"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "波提切利是15世纪意大利早期文艺复兴画家（约1445—1510年），定义指出他以线条优美与神话题材著称。材料把他与早期文艺复兴、威尼斯画派列为相关条目。概述提到其代表作《春》与《维纳斯的诞生》，并指出体现新柏拉图主义趣味。",
+        "风格特征": "波提切利以线条优美与神话题材著称。概述进一步指出其线条流畅、色彩明丽，并体现新柏拉图主义趣味。神话题材与优美线条构成其风格的两个要点。",
+        "代表人物与作品": "概述点名波提切利本人及其代表作《春》与《维纳斯的诞生》。相关条目早期文艺复兴与威尼斯画派仅为条目标题，未提供人物细节。输入材料未点名其他人物。",
+        "技法或形式分析": "线条流畅与色彩明丽是概述对其形式特征的描述。神话题材与新柏拉图主义趣味共同构成其作品的精神取向。输入未给出具体构图或笔法细节，分析限于上述要点。",
+        "与前后风格的关系和争论": "相关条目列出早期文艺复兴与威尼斯画派，可据此把波提切利放在早期文艺复兴脉络中理解其与威尼斯画派的关系。概述未记载争论事件或反弹，也未点名持论者。记载较一致，学界主要讨论其分期与归属问题。",
+        "一图": "示意图以波提切利为中心，连接代表作《春》与《维纳斯的诞生》，并标出线条流畅、色彩明丽与新柏拉图主义趣味。",
+        "待核实": "概述提到《春》与《维纳斯的诞生》，但未给出创作年份与收藏地。相关条目早期文艺复兴与威尼斯画派只有标题，未附作品层面的对应关系。若需补充作品信息，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='波提切利 示意图'><title>波提切利</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>波提切利</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>早期文艺复兴画家</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>《春》</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>代表作</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>维纳斯的诞生</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>代表作</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>新柏拉图主义</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>趣味</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>代表作《春》与《维纳斯的诞生》，线条流畅、色彩明丽</text></g></svg>"
     },
     {
       "id": "mona-lisa",
@@ -589,7 +666,18 @@
       "sources": [
         "enc-rococo",
         "enc-baroque"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "洛可可是18世纪法国宫廷流行的艺术风格，年代约在公元1715年至1770年之间。它以轻盈、纤巧与装饰性著称，主要见于宫廷与贵族的生活场景。其地域集中于法国，在媒介上属于综合的风格现象。",
+        "风格特征": "洛可可风格常用C形与S形曲线，配以粉彩色调与贝壳花纹，整体呈现轻盈、纤巧与装饰性的特点。其题材多为贵族宴乐与田园爱情，与宫廷生活的氛围相呼应。这一组合使它在18世纪法国宫廷中形成鲜明的面貌。",
+        "代表人物与作品": "现有材料未点名洛可可的具体艺术家或单件作品，故本节以风格要素为中心加以概述。可确认的代表性内容集中于C形与S形曲线、粉彩色调与贝壳花纹等形式手法，以及贵族宴乐与田园爱情等题材。related 中的巴洛克与新古典主义均为风格条目，不提供个人生平或作品细节。",
+        "技法或形式分析": "在形式层面，C形与S形曲线构成洛可可的基本线条语言，贝壳花纹则是其典型的装饰母题。粉彩色调的运用强化了轻盈纤巧的观感，与贵族宴乐、田园爱情等题材相配合。装饰性由此成为贯穿其线条、色彩与题材三方面的核心特征。",
+        "与前后风格的关系和争论": "洛可可与 related 中的巴洛克、新古典主义构成风格序列上的前后关联，一般视为上承巴洛克、下接新古典主义。现有记载对这一先后的表述较一致，未显示明确的观点分歧；学界主要讨论洛可可的分期与边界问题，尤其是其起讫年代与巴洛克、新古典主义之间的交界。",
+        "一图": "示意图概括洛可可以C形与S形曲线、粉彩色调及贵族宴乐与田园爱情题材构成的风格面貌。",
+        "待核实": "现有材料未提供洛可可代表艺术家、具体作品名称、创作年代与收藏信息，如需补充，应待补充第二来源后再行写入。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='洛可可 示意图'><title>洛可可</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>洛可可</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>18世纪法国宫廷</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>C形与S形</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>曲线</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>粉彩色调</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>贝壳花纹</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>贵族宴乐</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>田园爱情</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>洛可可以曲线、粉彩与贵族题材见长</text></g></svg>"
     },
     {
       "id": "caravaggio",
@@ -674,7 +762,18 @@
       "sources": [
         "enc-rubens",
         "enc-baroque"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "鲁本斯是17世纪佛兰德斯的巴洛克画家，生卒年为1577至1640年。其艺术活动以绘画为主，并处于巴洛克这一风格脉络之中。佛兰德斯作为其地域背景，构成理解其融合意大利与北方传统的前提。",
+        "风格特征": "鲁本斯的绘画以丰腴人体与宏大构图著称，色彩饱满、动势强烈。他融合意大利与北方传统，形成了兼具规模感与表现力的风格。其艺术归属巴洛克，并在相关脉络中与洛可可相联。",
+        "代表人物与作品": "本条目为人物条目，核心人物即鲁本斯。现有材料未点名其具体作品名称，故不逐一列举画作。据 def 与 overview，他是佛兰德斯巴洛克画家，以丰腴人体、宏大构图、饱满色彩与强烈动势见长，并曾主持大规模装饰工程。",
+        "技法或形式分析": "在形式上，鲁本斯以宏大构图组织画面，人体造型丰腴，动势强烈。色彩运用饱满，是其绘画的显著特征。他融合意大利与北方传统，并将这种综合体现在其曾主持的大规模装饰工程之中。",
+        "与前后风格的关系和争论": "鲁本斯在 def 中被明确归为巴洛克画家，故巴洛克构成其风格归属的基本框架。related 另列洛可可，提示其艺术与后续风格之间的关联。现有记载对这一归属的表述较一致，未见明确的学派争论；学界主要讨论鲁本斯的分期与边界问题，尤其是其与巴洛克、洛可可之间影响关系的界定。",
+        "一图": "示意图呈现鲁本斯作为佛兰德斯巴洛克画家，以丰腴人体、饱满色彩与宏大构图见长，并融合意大利与北方传统。",
+        "待核实": "现有材料未提供鲁本斯具体作品名称、创作年代与收藏地，如需补充，应待补充第二来源后再行写入。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='鲁本斯 示意图'><title>鲁本斯</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>鲁本斯</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>佛兰德斯</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>丰腴人体</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>宏大构图</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>色彩饱满</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>动势强烈</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>巴洛克</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>装饰工程</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>鲁本斯融合意大利与北方传统的巴洛克绘画</text></g></svg>"
     },
     {
       "id": "velazquez",
@@ -695,7 +794,18 @@
       "sources": [
         "enc-velazquez",
         "enc-baroque"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "委拉斯开兹（1599—1660年）是17世纪西班牙黄金时代的宫廷画家。他身处巴洛克艺术兴起的时期，长期以宫廷画家的身份从事创作。这一时代背景与其写实肖像和空间处理的艺术取向密切相关。",
+        "风格特征": "其创作以写实肖像与空间处理著称。笔触松动、光线处理精妙，是其肖像画最为鲜明的两个特征。松动而不失精确的用笔，与精妙的光线共同构成其作品的辨识度。",
+        "代表人物与作品": "本条目所述人物即委拉斯开兹本人，代表作有《宫娥》与《教皇英诺森十世肖像》。相关条目另列巴洛克、印象派，二者均为流派名称，非具体人物。",
+        "技法或形式分析": "其技法核心在于写实肖像的塑造与空间处理，笔触松动而富有变化。光线处理尤为精妙，是《宫娥》《教皇英诺森十世肖像》等代表作的重要表现手段。空间处理与光线、笔触相互配合，共同服务于写实效果。",
+        "与前后风格的关系和争论": "在风格谱系上，委拉斯开兹与巴洛克相关联，其松动笔触与精妙光线又常被后世与印象派相联系。记载较一致，学界主要讨论其与巴洛克、印象派之间的关系与边界问题。",
+        "一图": "示意图展示委拉斯开兹以写实肖像与精妙光线处理著称的核心特征。",
+        "待核实": "概述未提及《宫娥》《教皇英诺森十世肖像》的创作年份与收藏地，此处不作推断。相关细节待补充第二来源核实。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='委拉斯开兹 示意图'><title>委拉斯开兹</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>委拉斯开兹</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>宫廷画家</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>写实肖像</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>空间处理</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>光线处理</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>笔触松动</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>委拉斯开兹以写实肖像与精妙光线处理著称</text></g></svg>"
     },
     {
       "id": "vermeer",
@@ -716,7 +826,18 @@
       "sources": [
         "enc-vermeer",
         "enc-baroque"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "维米尔（1632—1675年）是17世纪荷兰黄金时代画家。他以室内场景与柔和光线著称，活跃于荷兰绘画的黄金时期。这一时代语境与其日常静谧的题材取向相呼应。",
+        "风格特征": "其画作以室内场景与柔和光线为主要特征，善于描绘自然光。画面营造出日常静谧的氛围，形成平和而内敛的观感。",
+        "代表人物与作品": "本条目人物为维米尔本人，代表作有《戴珍珠耳环的少女》与《倒牛奶的女仆》。相关条目中的伦勃朗仅列其标题，未附生卒或作品细节。",
+        "技法或形式分析": "其技法重在自然光的描绘与柔和光线的营造，多取室内场景为题材。自然光与日常静谧氛围的结合，是《戴珍珠耳环的少女》《倒牛奶的女仆》等作品的共同特点。",
+        "与前后风格的关系和争论": "维米尔与相关条目中的伦勃朗同处荷兰黄金时代，并被与现实主义（艺术）相联系。记载较一致，学界主要讨论其与现实主义（艺术）之间的分期与边界问题。",
+        "一图": "示意图概括维米尔以室内场景、柔和光线与自然光营造静谧氛围的特点。",
+        "待核实": "概述未提及《戴珍珠耳环的少女》《倒牛奶的女仆》的创作年份与收藏地，此处不作推断。相关细节待补充第二来源核实。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='维米尔 示意图'><title>维米尔</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>维米尔</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>荷兰黄金时代</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>室内场景</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>柔和光线</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>自然光</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>日常静谧</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>维米尔以室内场景、柔和光线与日常静谧氛围见长</text></g></svg>"
     },
     {
       "id": "neoclassicism",
@@ -792,8 +913,8 @@
       "medium": "绘画",
       "tier": "重要",
       "def": "19世纪中叶以平凡生活与普通人为题材的艺术倾向。",
-      "when": "约公元1840—1870年",
-      "overview": "反对浪漫化的历史与神话题材，主张客观描绘当下社会现实，库尔贝为代表。",
+      "when": "19世纪中叶",
+      "overview": "反对浪漫化的历史与神话题材，主张客观描绘当下社会现实；库尔贝为代表。",
       "related": [
         "romanticism-art",
         "impressionism"
@@ -801,7 +922,18 @@
       "sources": [
         "enc-realism-art",
         "enc-romanticism"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "现实主义处于19世纪中叶，定义指出它是以平凡生活与普通人为题材的艺术倾向。材料把它与浪漫主义（艺术）、印象派列为相关条目。概述提到它反对浪漫化的历史与神话题材，主张客观描绘当下社会现实。",
+        "风格特征": "现实主义以平凡生活与普通人为题材，主张客观描绘当下社会现实。它以反对浪漫化的历史与神话题材为出发点，强调对当下现实的客观呈现。库尔贝是概述点名的代表。",
+        "代表人物与作品": "概述明确点名库尔贝为代表，并指出其反对浪漫化历史与神话题材、主张客观描绘当下社会现实的取向。输入材料未给出库尔贝的具体作品名称。相关条目浪漫主义（艺术）与印象派仅为条目标题，未提供人物细节。",
+        "技法或形式分析": "就题材取向看，现实主义以平凡生活与普通人为描绘对象，反对浪漫化的历史与神话题材。客观描绘当下社会现实构成其核心主张。输入未给出具体笔法、构图或设色细节，分析限于上述层面。",
+        "与前后风格的关系和争论": "相关条目列出浪漫主义（艺术）与印象派，可据此把现实主义放在反对浪漫化题材、并连接后世印象派的位置理解。概述记载了反对浪漫化历史与神话题材的取向，但未点名具体争论者。记载较一致，学界主要讨论现实主义与浪漫主义、印象派的分期与边界问题。",
+        "一图": "示意图以现实主义为中心，标出它以平凡生活与普通人为题材、反对浪漫化题材、主张客观描绘当下社会现实，并连接浪漫主义与印象派。",
+        "待核实": "（1）概述点名库尔贝为代表，但未给出其具体作品名称、年份与收藏地；（2）原L1种子中的精确年代区间“约1840—1870年”在所引来源页无逐字支撑，已改为概括表述“19世纪中叶”，精确起止待第二来源核实。相关条目浪漫主义（艺术）与印象派仅提供标题，未附作品层面信息。若需落到作品实例，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='现实主义（艺术） 示意图'><title>现实主义（艺术）</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>现实主义</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>平凡生活与普通人为题材</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>库尔贝</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>代表</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>浪漫主义</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>反对的对象</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>印象派</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>相关条目</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>以平凡生活与普通人为题材，反对浪漫化题材，主张客观描绘现实</text></g></svg>"
     },
     {
       "id": "delacroix",
@@ -822,7 +954,18 @@
       "sources": [
         "enc-romanticism",
         "enc-impressionism"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "德拉克罗瓦的生卒时间为1798—1863年，输入将其置于19世纪法国绘画语境。他被界定为法国浪漫主义画家，相关条目包括浪漫主义（艺术）与新古典主义。输入中的色彩与戏剧性构图构成其时代风格描述的重点。",
+        "风格特征": "德拉克罗瓦以色彩与戏剧性构图著称。其作品色彩奔放、动势强烈，代表作《自由引导人民》体现这些特征。输入还说明他对印象派有启发，使其风格影响不止于浪漫主义（艺术）。",
+        "代表人物与作品": "本条人物为德拉克罗瓦，身份是法国浪漫主义画家。输入明确点名的代表作是《自由引导人民》。相关条目只给出浪漫主义（艺术）与新古典主义标题，未提供可追加的人物或作品细节。",
+        "技法或形式分析": "输入中可直接分析的形式要素是色彩与戏剧性构图。色彩奔放与动势强烈共同构成作品的形式特征。笔触、材料、尺寸、作品年份与收藏地未给出，因此不作展开。",
+        "与前后风格的关系和争论": "相关条目中的浪漫主义（艺术）与新古典主义提供理解德拉克罗瓦位置的线索。作为法国浪漫主义画家，他与浪漫主义（艺术）的关系是直接归属；与新古典主义的关系在输入中仅以相关条目呈现。输入还说明他对印象派有启发，未记载具体学者争论；记载较一致，学界主要讨论其与浪漫主义（艺术）、新古典主义之间的分期/边界问题。",
+        "一图": "示意图呈现德拉克罗瓦以奔放色彩和强烈动势关联浪漫主义（艺术）、新古典主义与印象派。",
+        "待核实": "输入列出来源标题“Romanticism”与“Impressionism”。《自由引导人民》的具体年份、收藏地与画面细节未在输入中给出。关于他与新古典主义的具体争论及对印象派启发的具体路径，待补充第二来源后再写入正文。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='德拉克罗瓦 示意图'><title>德拉克罗瓦</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>德拉克罗瓦</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>浪漫主义画家</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>浪漫主义（艺术）</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>相关条目</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>新古典主义</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>相关条目</text><rect class='svg-box-accent' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='665.0' y='142' text-anchor='middle'>印象派</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>有启发</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>色彩奔放、动势强烈，启发印象派</text></g></svg>"
     },
     {
       "id": "impressionism",
@@ -1003,7 +1146,18 @@
       "sources": [
         "enc-gauguin",
         "enc-post-impressionism"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "高更为19世纪法国画家，时间记为1848—1903年。材料将其界定为法国后印象派画家，并把后印象派列为相关条目。相关条目还包括塞尚，可用于观察同一条目集合中的风格关联。",
+        "风格特征": "材料将高更概括为追求原始主义与象征性的平面色彩。其代表作《我们从何处来？我们是谁？我们向何处去？》使用平涂色块与象征构图。这两点共同构成条目中呈现的主要风格特征。",
+        "代表人物与作品": "代表人物即高更本人，材料称其为法国后印象派画家。代表作品为《我们从何处来？我们是谁？我们向何处去？》。相关条目中的塞尚仅以标题列入，材料未提供其生卒或作品细节。",
+        "技法或形式分析": "条目明确提到平涂色块，说明其形式分析可从色块组织入手。象征性平面色彩与象征构图并列出现，显示色彩和构图在作品说明中具有核心位置。材料未给出更细的笔触、透视或空间处理细节，因此不作外推。",
+        "与前后风格的关系和争论": "从相关条目看，高更与后印象派直接关联，并与塞尚同列于条目关系中。材料未提供具体争论、学者姓名或观点归属。记载较一致，学界主要讨论高更的分期/边界问题。",
+        "一图": "示意图用高更、平涂色块与象征构图呈现其平面色彩和作品形式重点。",
+        "待核实": "《我们从何处来？我们是谁？我们向何处去？》的具体创作年份未在材料中给出，待补充第二来源。该作收藏地同样未在材料中给出，待补充第二来源。如需扩展原始主义或象征性的来源脉络，也应待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='高更 示意图'><title>高更</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>高更</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>后印象派画家</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>平涂色块</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>象征构图</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>后印象派</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>塞尚</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>高更的平面色彩与象征构图</text></g></svg>"
     },
     {
       "id": "fauvism",
@@ -1024,7 +1178,18 @@
       "sources": [
         "enc-fauvism",
         "enc-post-impressionism"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "野兽派是20世纪初法国短暂而重要的绘画运动，活跃期约在1905—1908年。它出现在后印象派之后，并与表现主义同列为相关条目。其短暂的存在集中体现了绘画媒介中色彩观念的转变。",
+        "风格特征": "野兽派以强烈、非自然的纯色著称，笔触自由。色彩在这里脱离描述功能，转而独立表达情感。马蒂斯与德朗是该运动的代表人物。",
+        "代表人物与作品": "野兽派的代表人物为马蒂斯与德朗。他们的创作以强烈、非自然的纯色和自由笔触为代表，体现出色彩脱离描述功能、独立表达情感的倾向。相关条目中列有后印象派与表现主义。",
+        "技法或形式分析": "野兽派在形式上以强烈、非自然的纯色运用为核心，色彩不再服务于描述功能。自由笔触使画面摆脱细致描摹的约束。用色与笔触共同指向独立表达情感的目标，这构成该运动形式分析的重点。",
+        "与前后风格的关系和争论": "野兽派的相关条目为后印象派与表现主义。它与后印象派存在承接关系，又与表现主义在色彩的情感表达上相互呼应。记载较一致，学界主要讨论野兽派的分期与边界问题。",
+        "一图": "示意图展示野兽派以强烈纯色和自由笔触使色彩脱离描述功能、独立表达情感，代表人物为马蒂斯与德朗。",
+        "待核实": "输入材料列出来源标题 Fauvism 与 Post-Impressionism，未提供具体作品的创作年份与收藏信息。马蒂斯与德朗的代表作品及其年代、收藏地，待补充第二来源后再写入正文。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='野兽派 示意图'><title>野兽派</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>野兽派</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1905—1908</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>强烈纯色</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>非自然</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>自由笔触</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>独立表达情感</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>马蒂斯与德朗</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>后印象派·表现主义</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>野兽派以强烈纯色与自由笔触独立表达情感</text></g></svg>"
     },
     {
       "id": "expressionism",
@@ -1109,7 +1274,18 @@
       "sources": [
         "enc-futurism",
         "enc-cubism"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "未来主义是20世纪初意大利的艺术与文学运动，活跃期约从1909年延续至1944年。它以歌颂速度、机械与现代都市为鲜明立场。作为综合媒介的运动，其创作跨越艺术与文学两个领域。",
+        "风格特征": "未来主义以重复、叠加的线条表现运动感，题材多为机器、赛车与城市。它对速度、机械与现代都市的歌颂，构成运动的核心主题。重复与叠加的手法使画面呈现出动态的视觉效果。",
+        "代表人物与作品": "未来主义的现有材料未点名代表人物与具体作品，其特征主要通过题材与手法来界定。相关条目列有立体主义与达达主义。代表人物与作品的补充信息待核实后写入。",
+        "技法或形式分析": "未来主义在形式上以重复、叠加的线条来表现运动感。这种线条处理把速度的主题转化为可视的节奏。题材集中于机器、赛车与城市，与对速度、机械和现代都市的歌颂相呼应。线条的重复与叠加是其形式分析的关键。",
+        "与前后风格的关系和争论": "未来主义的相关条目包括立体主义与达达主义，共同反映出20世纪初的多元探索。它与二者在主题与手法上各有侧重，构成承接与对照的关系。记载较一致，学界主要讨论未来主义的分期与边界问题。",
+        "一图": "示意图展示未来主义以重复、叠加的线条表现机器、赛车与城市的运动感，并关联立体主义与达达主义。",
+        "待核实": "输入材料提供来源标题 Futurism 与 Cubism，未列出代表人物姓名及作品的具体创作年份与收藏地。相关人物与作品的细节待补充第二来源后再写入正文。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='未来主义 示意图'><title>未来主义</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>未来主义</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>速度·机械·都市</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>重复叠加线条</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>运动感</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>机器·赛车·城市</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>题材</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>立体主义</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>达达主义</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>未来主义以重复叠加的线条表现速度与现代都市的运动感</text></g></svg>"
     },
     {
       "id": "dada",
@@ -1130,7 +1306,18 @@
       "sources": [
         "enc-dada",
         "enc-futurism"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "达达主义兴起于一战期间，主要活跃于约1916—1924年，活动范围横跨欧洲与美国。它以反战与反逻辑为基本立场，把战争的动荡转化为对传统艺术定义的挑战。作为一场综合媒介的运动，它同时涉及拼贴、实物与表演等多种形式。",
+        "风格特征": "达达主义以随机拼贴、现成品和表演为主要手段，刻意挑战传统艺术的定义。它强调反逻辑，把偶然与随机纳入创作过程。杜尚的《泉》被视为标志性作品，集中体现了以现成品颠覆艺术边界的倾向。",
+        "代表人物与作品": "达达主义的代表人物为杜尚，标志性作品是《泉》。这部作品以现成品的形式挑战传统艺术定义，与运动反战、反逻辑的主张相呼应。其创作手段还包括随机拼贴与表演，人物与作品共同构成对既有艺术秩序的冲击。",
+        "技法或形式分析": "达达主义在形式上以随机拼贴、现成品与表演为核心手段。随机拼贴强调偶然性，与运动的反逻辑立场相呼应。现成品与表演拓展了作品的材料与呈现方式，共同服务于挑战传统艺术定义的目标。这些手段使形式本身成为反战与反逻辑立场的载体。",
+        "与前后风格的关系和争论": "达达主义的相关条目包括未来主义与超现实主义，二者共同标示出它在20世纪初艺术中的位置。它以反战、反逻辑与现成品为特征，与相关条目所代表的方向形成对照或承接。记载较一致，学界主要讨论达达主义的分期与边界问题。",
+        "一图": "示意图展示达达主义以现成品、随机拼贴与表演挑战传统艺术定义，并关联未来主义与超现实主义。",
+        "待核实": "输入材料仅列出来源标题 Dada 与 Futurism，未提供更细的年份、展览或收藏信息。杜尚《泉》的具体创作年代、版本与收藏地，以及达达主义在各地的时间差异，待补充第二来源后写入正文。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='达达主义 示意图'><title>达达主义</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>达达主义</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>一战期间</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>现成品</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>杜尚《泉》</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>随机拼贴</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>表演</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>超现实主义</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>未来主义</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>达达主义以现成品、拼贴与表演挑战传统艺术定义</text></g></svg>"
     },
     {
       "id": "surrealism",
@@ -1183,7 +1370,18 @@
       "sources": [
         "enc-bauhaus",
         "enc-minimalism"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "包豪斯是20世纪上半德国的设计学院及其现代主义设计理念。材料给出的存在时间为1919—1933年。定义明确其于1919年创立于德国。",
+        "风格特征": "包豪斯主张艺术与工艺统一。其核心理念之一是形式服从功能。概述指出它深刻影响现代建筑、设计与艺术教育。",
+        "代表人物与作品": "材料未点名具体代表人物或作品。相关条目仅列出现代艺术与极简主义，未提供人物生卒或作品细节。因此本条的代表内容以设计理念及其影响领域为主。",
+        "技法或形式分析": "艺术与工艺统一是材料中可确认的核心原则。形式服从功能提供了理解其设计取向的直接表述。概述把影响范围落在现代建筑、设计与艺术教育，未给出更具体的技术步骤。",
+        "与前后风格的关系和争论": "从相关条目看，包豪斯与现代艺术、极简主义共同构成条目间的关系线索。材料未提供争论、学者姓名或观点归属。记载较一致，学界主要讨论包豪斯的分期/边界问题。",
+        "一图": "示意图以艺术与工艺统一、形式服从功能呈现包豪斯的现代主义设计理念。",
+        "待核实": "若需列举具体代表人物、建筑作品或设计作品，材料未提供，待补充第二来源。若需说明1919年创立与1933年终止之间的具体过程，也待补充第二来源。与现代艺术或极简主义的详细影响关系同样待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='包豪斯 示意图'><title>包豪斯</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>包豪斯</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>德国</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>艺术与工艺</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>形式服从功能</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>现代建筑</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>设计</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>艺术教育</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>极简主义</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>包豪斯：艺术与工艺统一、形式服从功能</text></g></svg>"
     },
     {
       "id": "abstract-expressionism",
@@ -1268,7 +1466,18 @@
       "sources": [
         "enc-matisse",
         "enc-fauvism"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "马蒂斯的生卒时间为1869—1954年，输入将其置于20世纪法国绘画语境。作为法国艺术家与野兽派领袖，他的条目与野兽派、现代艺术相关。输入强调色彩与剪纸，显示其背景描述集中在形式与愉悦感上。",
+        "风格特征": "马蒂斯以色彩与剪纸闻名。其代表作《舞蹈》《红色和谐》体现了对色彩平衡与装饰性愉悦的追求。输入中的风格描述以平衡、装饰性和剪纸为核心。",
+        "代表人物与作品": "本条人物为马蒂斯，身份是法国艺术家与野兽派领袖。输入明确点名的代表作是《舞蹈》和《红色和谐》。相关条目仅列出野兽派与现代艺术标题，未提供可追加的人物或作品细节。",
+        "技法或形式分析": "输入中可分析的形式重点是色彩平衡、装饰性愉悦与剪纸。剪纸被列为他闻名的方面，色彩平衡则与代表作描述相连。具体笔触、材料、作品年份与收藏地未给出，因此不作展开。",
+        "与前后风格的关系和争论": "相关条目中的野兽派与现代艺术为定位马蒂斯提供两个层次。作为野兽派领袖，他与野兽派的关系是直接归属；与现代艺术的关系则是输入给出的较大框架。输入未呈现具体学者争论，记载较一致，学界主要讨论其与野兽派、现代艺术之间的分期/边界问题。",
+        "一图": "示意图呈现马蒂斯以色彩平衡和剪纸连接野兽派与现代艺术。",
+        "待核实": "输入列出来源标题“Henri Matisse”与“Fauvism”。《舞蹈》《红色和谐》的具体年份、收藏地与画面细节未在输入中给出。关于剪纸作品清单或具体技法说明，待补充第二来源后再写入正文。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='马蒂斯 示意图'><title>马蒂斯</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>马蒂斯</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>野兽派领袖</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>野兽派</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>相关条目</text><rect class='svg-box-accent' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='475.0' y='142' text-anchor='middle'>色彩与剪纸</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>平衡与愉悦</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>现代艺术</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>相关条目</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>色彩与剪纸连接野兽派与现代艺术</text></g></svg>"
     },
     {
       "id": "kandinsky",
@@ -1289,7 +1498,18 @@
       "sources": [
         "enc-kandinsky",
         "enc-expressionism"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "康定斯基的生卒时间为1866—1944年，输入将其界定为20世纪人物。作为俄裔画家与理论家，他被视为抽象艺术的先驱之一。其时代背景可围绕抽象艺术理论与色彩、几何形式表达来概括。",
+        "风格特征": "康定斯基的创作以色彩与几何的纯粹形式表达精神。输入还将《论艺术的精神》列为阐述抽象艺术理论的核心文本。其风格特点因此呈现为理论写作与形式实践相互关联。",
+        "代表人物与作品": "本条人物为康定斯基，身份是俄裔画家与理论家。输入明确点名的著作是《论艺术的精神》。相关条目列出表现主义与抽象表现主义，但未提供可追加的人物生卒或作品细节。",
+        "技法或形式分析": "输入中可直接确认的形式要素是色彩与几何。二者被描述为纯粹形式，并承担精神表达。具体笔触、作品年份、收藏地与材料信息未给出，因此不作展开。",
+        "与前后风格的关系和争论": "相关条目列出表现主义与抽象表现主义，可作为理解康定斯基位置的线索。作为抽象艺术的先驱之一，他与抽象表现主义的关联更接近后续承接的阅读方向；与表现主义的关系则在输入中仅以相关条目呈现。输入未记载具体学者争论，记载较一致，学界主要讨论其与表现主义、抽象表现主义之间的分期/边界问题。",
+        "一图": "示意图呈现康定斯基以色彩与几何的纯粹形式表达精神，并关联表现主义与抽象表现主义。",
+        "待核实": "输入列出来源标题“Wassily Kandinsky”与“Expressionism”。《论艺术的精神》的具体出版信息、作品年份与收藏地未在输入中给出。涉及更细的理论观点或作品实例，待补充第二来源后再写入正文。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='康定斯基 示意图'><title>康定斯基</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>康定斯基</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>抽象艺术先驱</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>色彩与几何</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>纯粹形式</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>表现主义</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>相关条目</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>抽象表现主义</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>相关条目</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>色彩与几何的纯粹形式表达精神</text></g></svg>"
     },
     {
       "id": "dali",
@@ -1310,7 +1530,18 @@
       "sources": [
         "enc-dali",
         "enc-surrealism"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "达利是20世纪西班牙的画家，生卒年为1904—1989年。他从事绘画创作，身处20世纪现代艺术的发展脉络之中。其艺术身份与超现实主义紧密关联。",
+        "风格特征": "达利以梦境般的精确图像著称，是西班牙超现实主义画家。他的作品以软钟等怪诞意象表现潜意识与时间主题。精确图像与怪诞内容的结合，构成了他绘画的鲜明特征。",
+        "代表人物与作品": "达利本人即本条目的代表人物，其代表作是《记忆的永恒》。作品中的软钟成为表现潜意识与时间主题的怪诞意象。相关条目列有超现实主义与现代艺术。",
+        "技法或形式分析": "达利的绘画以精确图像见长，梦境般的场景被细致地呈现出来。软钟等意象虽属怪诞，却以清晰的形式加以刻画，服务于潜意识与时间主题。精确性与怪诞性的并置，构成其形式分析的重点。",
+        "与前后风格的关系和争论": "达利与超现实主义、现代艺术同列为相关条目。作为西班牙超现实主义画家，其创作处于现代艺术的脉络之中。记载较一致，学界主要讨论达利与超现实主义关系的分期与边界问题。",
+        "一图": "示意图展示达利以《记忆的永恒》中的软钟意象表现潜意识与时间主题，并关联超现实主义与现代艺术。",
+        "待核实": "输入材料给出来源标题 Salvador Dali 与 Surrealism，未涉及作品的具体创作年代与收藏信息。《记忆的永恒》的确切创作年份、收藏地及软钟意象的释读细节，待补充第二来源后再写入正文。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='达利 示意图'><title>达利</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>达利</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>西班牙画家</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>《记忆的永恒》</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>代表作</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>软钟</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>潜意识与时间</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>超现实主义</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>现代艺术</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>达利以《记忆的永恒》的软钟意象呈现潜意识与时间主题</text></g></svg>"
     },
     {
       "id": "modern-art",
@@ -1331,7 +1562,18 @@
       "sources": [
         "web-artstory-movements",
         "enc-cubism"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "现代艺术约指1890—1950年的欧美艺术范围，输入称其为19世纪末至20世纪中叶西方艺术的总称。它涵盖众多前卫运动，并以不断突破传统为特征。相关条目中的后印象派与抽象表现主义给出输入所涵盖的前后线索。",
+        "风格特征": "现代艺术并非由单一风格界定，而是以不断突破传统为共同特征。输入强调从后印象派到抽象表现主义的艺术语言持续激进革新。风格描述因此应聚焦于艺术语言的革新过程。",
+        "代表人物与作品": "本条为时期条目，输入未点名代表人物或具体作品。可明确列出的相关条目是后印象派与抽象表现主义。来源标题“Cubism”在输入中仅作为来源出现，未展开为人物或作品事实。",
+        "技法或形式分析": "现代艺术在输入中被描述为涵盖众多前卫运动，因此技法与形式不能归入单一手法。可确认的分析维度是艺术语言的持续激进革新，以及从后印象派到抽象表现主义的范围线索。具体作品的技法、材料、年份与收藏地未在输入中给出。",
+        "与前后风格的关系和争论": "相关条目列出后印象派与抽象表现主义，二者构成从起点到后续的范围提示。输入将其描述为从后印象派到抽象表现主义的连续革新，未呈现反弹关系或学者观点归属。记载较一致，学界主要讨论现代艺术自身的分期/边界问题。",
+        "一图": "示意图呈现现代艺术从后印象派到抽象表现主义的持续激进革新。",
+        "待核实": "输入列出来源标题“Classical and Modern Art Movements”与“Cubism”。来源标题中的“Cubism”未展开为具体艺术运动事实，相关细节待补充第二来源。涉及现代艺术起止范围、运动名单与代表人物的进一步说明，待补充第二来源后再写入正文。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='现代艺术 示意图'><title>现代艺术</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>现代艺术</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>西方艺术总称</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>后印象派</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>相关条目</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>抽象表现主义</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>相关条目</text><rect class='svg-box-accent' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='665.0' y='142' text-anchor='middle'>艺术语言</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>激进革新</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>从后印象派到抽象表现主义的激进革新</text></g></svg>"
     },
     {
       "id": "contemporary-art",
@@ -1384,7 +1626,18 @@
       "sources": [
         "enc-pop-art",
         "web-artstory-movements"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "波普艺术兴起于20世纪50—60年代，主要发生在英美地区，活跃期大致自1950年代延续至1970年代。它属于20世纪中叶的艺术运动，借用大众文化与商业图像作为创作资源。",
+        "风格特征": "波普艺术借用大众文化与商业图像，使用丝网印刷、重复图像与鲜艳色彩。它模糊高雅艺术与通俗艺术的边界，材料中以沃霍尔为其代表。媒介上以绘画为主，同时兼及综合手段。",
+        "代表人物与作品": "概述中明确以沃霍尔为波普艺术的代表，并指出这一运动使用丝网印刷与重复图像。当前条目没有列出其他具体作品名称，重点在于商业图像与鲜艳色彩的运用。相关条目中的抽象表现主义与当代艺术，可作为把握其历史位置的参照。",
+        "技法或形式分析": "在技法上，波普艺术采用丝网印刷，并以重复图像与鲜艳色彩形成鲜明的视觉效果。它将大众文化与商业图像直接纳入作品，模糊了高雅与通俗艺术的边界。形式分析因此既关注画面本身，也顾及其大众文化与商业图像的来源。",
+        "与前后风格的关系和争论": "相关条目把波普艺术与抽象表现主义、当代艺术并列，显示它相对前者的大众化转向，并向后者的方向延伸。材料记载较一致，未列出具体学者争论，学界主要讨论其与抽象表现主义、当代艺术的分期与边界问题。",
+        "一图": "示意图呈现波普艺术以丝网印刷、重复图像与鲜艳色彩借用大众文化，并与抽象表现主义、当代艺术相邻。",
+        "待核实": "本条目的概述点名沃霍尔为代表，却没有提供具体作品的年份与收藏信息。若需补充其他代表人物与作品细节，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='波普艺术 示意图'><title>波普艺术</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>波普艺术</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>丝网印刷</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>抽象表现主义</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>20世纪中叶</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>当代艺术</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>20世纪中叶</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>波普艺术借丝网印刷呈现大众文化，邻接抽象表现主义与当代艺术。</text></g></svg>"
     },
     {
       "id": "minimalism",
@@ -1405,7 +1658,18 @@
       "sources": [
         "enc-minimalism",
         "enc-bauhaus"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "极简主义是兴起于20世纪60年代的艺术运动，主要发生于美国，活跃期大致从1960年代延续到1970年代。它属于20世纪后半的艺术现象，与同期其他取向共同塑造了这一阶段的美国艺术面貌。",
+        "风格特征": "极简主义追求形式的极简与客观，常用几何基本形体与工业材料。作品强调与空间的物理关系，并尽量减少艺术家的主观痕迹。其媒介以雕塑为主，同时兼及综合手段。",
+        "代表人物与作品": "现有定义与概述未点名极简主义的代表人物或具体作品，仅说明其常用的几何基本形体与工业材料。相关条目列有抽象表现主义与观念艺术，可用于把握其位置，材料中没有进一步的人物与作品列举。",
+        "技法或形式分析": "在形式与技法上，极简主义以几何基本形体构成作品，并偏好工业材料。它把作品的物理关系置于空间之中加以考量，使观看取决于作品与环境的实际联系。主观痕迹的减少，使形式本身与空间关系成为分析的重点。",
+        "与前后风格的关系和争论": "相关条目将极简主义与抽象表现主义、观念艺术并列，提示它与前者形成对照、并向后者延伸的位置。材料记载较一致，未列出具体学者观点，学界主要讨论其与抽象表现主义、观念艺术的分期与边界问题。",
+        "一图": "示意图呈现极简主义以几何形体与工业材料构成、强调空间物理关系，并与抽象表现主义、观念艺术相邻的位置。",
+        "待核实": "本条目未写入具体作品年份、作者署名与收藏地等概述以外的细节。关于其与相邻运动的分期与代表人物归属，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='极简主义 示意图'><title>极简主义</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>极简主义</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>几何基本形体</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>抽象表现主义</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>20世纪后半</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>观念艺术</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>20世纪后半</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>极简主义以几何形体强调空间关系，邻接抽象表现主义与观念艺术。</text></g></svg>"
     },
     {
       "id": "conceptual-art",
@@ -1426,7 +1690,18 @@
       "sources": [
         "enc-conceptual-art",
         "enc-dada"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "观念艺术兴起于20世纪后半的全球范围，时间大致自1960年代延续至今。它出现在弱化作品物质形式的艺术转向之中，与同期其他取向共同构成这一阶段的艺术图景。其传播不限于单一地区，呈现出跨地域的实践面貌。",
+        "风格特征": "观念艺术以观念与语言为核心，弱化对象的物质形式。作品常以文本、文件、行为与装置呈现，强调艺术的思想语境而非视觉审美。在媒介上它属于综合类型，并不执着于单一的造型手段。",
+        "代表人物与作品": "现有定义与概述未点名具体的代表人物或作品，仅指出其常见的呈现方式为文本、文件、行为与装置。相关条目中列有极简主义与当代艺术，可用于理解其位置，材料中未就代表性人物作进一步列举。",
+        "技法或形式分析": "在形式层面，观念艺术把重心从可见的视觉对象转移到观念与语言本身。文本、文件、行为与装置成为主要载体，作品的物质形式被有意弱化。因此其分析重点不在视觉审美，而在作品所处的思想语境。",
+        "与前后风格的关系和争论": "相关条目将观念艺术与极简主义、当代艺术并列，显示它处于二者之间的衔接位置。材料记载较一致，未列出具体学者观点，学界主要讨论其与极简主义、当代艺术之间的分期与边界问题。",
+        "一图": "示意图呈现观念艺术以观念与语言为核心、弱化物质形式，并与极简主义、当代艺术相邻的结构关系。",
+        "待核实": "本条目依据定义、概述与权威百科词条写成，未引入具体作品年份与收藏地等细节。相关人物、作品及分期边界若需进一步确认，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='观念艺术 示意图'><title>观念艺术</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>观念艺术</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>观念与语言</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>极简主义</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>20世纪后半</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>当代艺术</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>20世纪后半</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>观念艺术以观念语言为核心，弱化物质形式，与极简主义、当代艺术相邻。</text></g></svg>"
     },
     {
       "id": "warhol",
@@ -1447,7 +1722,18 @@
       "sources": [
         "enc-warhol",
         "enc-pop-art"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "安迪·沃霍尔的年代记为1928—1987年，主要活动于20世纪的美国。他是美国波普艺术的代表艺术家，其创作处于这一运动兴起的历史语境之中。相关条目把他与波普艺术、当代艺术相连。",
+        "风格特征": "沃霍尔以丝网印刷名人肖像著称，是美国波普艺术的代表艺术家。他把商业图像与名人文化引入艺术，并以《玛丽莲·梦露》系列作为代表作。其创作围绕复制与消费展开，媒介涉及绘画与综合手段。",
+        "代表人物与作品": "就人物与作品而言，本条目的核心即沃霍尔本人，概述点名的代表作是《玛丽莲·梦露》系列。材料未列出其他具体作品，相关条目中的波普艺术与当代艺术可用于说明他所处的艺术脉络。",
+        "技法或形式分析": "在技法上，沃霍尔以丝网印刷处理名人肖像，使图像可以被大量复制。他借由这一手段把商业图像与名人文化带入艺术，并以《玛丽莲·梦露》系列加以呈现。作品主题围绕复制与消费展开，图像的可复制性本身构成了形式分析的重要面向。",
+        "与前后风格的关系和争论": "相关条目把沃霍尔与波普艺术、当代艺术相连，说明他是波普艺术的代表，并通向当代艺术的讨论语境。材料记载较一致，未列出具体学者争论，学界主要讨论他与波普艺术、当代艺术之间的归属与边界问题。",
+        "一图": "示意图呈现沃霍尔以丝网印刷名人肖像及代表作《玛丽莲·梦露》系列，并连接波普艺术与当代艺术。",
+        "待核实": "概述点明《玛丽莲·梦露》系列为代表作，但未给出该系列各件作品的年份与收藏地。相关人物年表之外的作品编目细节，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='安迪·沃霍尔 示意图'><title>安迪·沃霍尔</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>安迪·沃霍尔</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>丝网印刷</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>波普艺术</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>代表艺术家</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>当代艺术</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>20世纪</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>沃霍尔以丝网印刷名人肖像连接波普艺术与当代艺术。</text></g></svg>"
     },
     {
       "id": "china-painting-history",
@@ -1500,7 +1786,18 @@
       "sources": [
         "enc-tang-dynasty-art",
         "enc-chinese-painting"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "唐代绘画处于唐代（618—907年），定义以人物画高度成熟、山水画独立为特征。材料把它与中国绘画史及宋代绘画列为相关条目。概述提到吴道子以线描著称、阎立本擅人物，并指出青绿山水与水墨山水并行发展。",
+        "风格特征": "唐代绘画的突出特征是人物画高度成熟与山水画独立。吴道子以线描著称，阎立本擅人物，分别对应人物画的不同侧重。青绿山水与水墨山水并行发展，使山水题材呈现两条路线。",
+        "代表人物与作品": "概述点名吴道子与阎立本：吴道子以线描著称，阎立本擅人物。输入材料未列出具体作品名称，正文仅保留人物与技法取向。相关条目中的宋代绘画与中国绘画史为条目标题，未附人物细节。",
+        "技法或形式分析": "就形式层面而言，吴道子的线描与阎立本的人物题材共同支撑人物画的高度成熟。山水画独立与青绿山水、水墨山水并行发展并列出现，显示题材与表现方式的分化。输入未给出具体作品的构图、设色或笔法记录，分析限于上述要点。",
+        "与前后风格的关系和争论": "相关条目列出中国绘画史与宋代绘画，可据此把唐代绘画视为中国绘画史序列中连接后世宋代绘画的一环。概述未记载学派争论或反弹事件，也未点名持论者。记载较一致，学界主要讨论唐代绘画的分期与边界问题。",
+        "一图": "示意图以人物画成熟和山水画独立为主线，旁列吴道子线描、阎立本人物以及青绿山水与水墨山水并行的关系。",
+        "待核实": "概述未给出吴道子、阎立本具体作品的名称、年份与收藏地。青绿山水与水墨山水并行发展亦未附对应作品。若需落到作品层面，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='唐代绘画 示意图'><title>唐代绘画</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>唐代绘画</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>人物画高度成熟</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>山水画</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>独立</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>吴道子</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>线描著称</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>阎立本</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>擅人物</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>人物画高度成熟、山水画独立，青绿山水与水墨山水并行发展</text></g></svg>"
     },
     {
       "id": "song-painting",
@@ -1553,7 +1850,18 @@
       "sources": [
         "enc-chinese-painting",
         "enc-tang-dynasty-art"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "元代绘画处于元代（1271—1368年），定义以文人画为主流、强调以书入画与逸气。相关条目列出宋代绘画与明代绘画，可据此理解其在前后绘画序列中的位置。概述提到赵孟頫提倡复古与书画同源，元四家以水墨山水与题跋拓展文人画表现。",
+        "风格特征": "元代绘画以文人画为主流，强调以书入画与逸气。赵孟頫提倡复古与书画同源，元四家则以水墨山水与题跋拓展文人画表现。水墨山水与题跋由此成为概述中两个具体的表现抓手。",
+        "代表人物与作品": "概述点名赵孟頫与元四家：赵孟頫提倡复古与书画同源，元四家以水墨山水与题跋拓展文人画表现。输入材料未列出具体作品名称，也未给出元四家成员姓名。正文仅保留概述已点名的人物称谓。",
+        "技法或形式分析": "以书入画与逸气构成定义中的核心取向。赵孟頫所提倡的复古与书画同源，和元四家所用的水墨山水与题跋，分别从观念与画面构成两方面延续文人画表现。材料未提供具体作品的笔法记录，分析限于上述要点。",
+        "与前后风格的关系和争论": "相关条目列出宋代绘画与明代绘画，可把元代绘画放在两者之间的承接位置上理解。概述未记载学派争论或反弹事件，也没有点名持论者。记载较一致，学界主要讨论元代绘画的分期与边界问题。",
+        "一图": "示意图以文人画为主流，连接赵孟頫的复古与书画同源、元四家的水墨山水与题跋，并以以书入画和逸气标注取向。",
+        "待核实": "概述未给出赵孟頫与元四家具体作品的名称、年份与收藏地。元四家成员姓名亦未在输入中出现。若需落实到作品与作者层面，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='元代绘画 示意图'><title>元代绘画</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>元代绘画</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>文人画为主流</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>赵孟頫</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>复古与书画同源</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>元四家</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>水墨山水与题跋</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>逸气</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>以书入画</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>文人画为主流，以书入画与逸气，复古与书画同源</text></g></svg>"
     },
     {
       "id": "ming-painting",
@@ -1574,7 +1882,18 @@
       "sources": [
         "enc-chinese-painting",
         "enc-chinese-calligraphy"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "明代绘画指1368至1644年间的绘画，画派林立，文人画与职业画家并行。这一时期多种画派与创作取向共存，形成了丰富的绘画格局。",
+        "风格特征": "明代绘画画派林立，文人画与职业画家并行发展。花鸟画与册页在这一时期流行，吴门画派、浙派与董其昌的南北宗论影响深远。",
+        "代表人物与作品": "董其昌是概述中点名的代表，其南北宗论影响深远。吴门画派与浙派作为画派被提及，现有材料未列出具体作品名称，故此处不作展开。",
+        "技法或形式分析": "明代绘画在形式上以花鸟画与册页的流行见称，创作格局呈现文人画与职业画家并行。这种多元并存的取向，构成了明代绘画的形式特征。",
+        "与前后风格的关系和争论": "明代绘画与元代绘画、清代绘画相承接，处于两者之间。概述中提到的南北宗论涉及画派分宗的讨论，现有记载较一致，学界主要讨论明代绘画与元、清两代的分期与边界问题。",
+        "一图": "示意图展示元代绘画、明代绘画、清代绘画的承接关系，并标出董其昌的南北宗论。",
+        "待核实": "现有字段未给出董其昌的具体作品名称及其年代、收藏信息。相关细节待补充第二来源后核实。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='明代绘画 示意图'><title>明代绘画</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>明代绘画</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>画派林立</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>董其昌</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>南北宗论</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>元代绘画</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>绘画</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>清代绘画</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>绘画</text><line class='svg-arrow' x1='400.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>元代、明代、清代绘画的承接及南北宗论</text></g></svg>"
     },
     {
       "id": "qing-painting",
@@ -1595,7 +1914,18 @@
       "sources": [
         "enc-chinese-painting",
         "enc-chinese-calligraphy"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "清代绘画处于清代（1644—1912年），定义中呈现正统派与个性派并存的格局。材料把它置于中国绘画史脉络，并列明代绘画为相关条目。概述提到四王承袭文人画正统、四僧与扬州画派强调个性，显示同一时期并行的不同取向。",
+        "风格特征": "清代绘画的总体特征是正统派与个性派并存。四王承袭文人画正统，四僧与扬州画派则强调个性。概述同时指出花鸟画与金石入画有所发展，构成这一时期另一组值得注意的面向。",
+        "代表人物与作品": "概述明确点名四王、四僧与扬州画派，并以四王承袭文人画正统、四僧与扬州画派强调个性来区分取向。输入材料未给出具体个人姓名或作品名称，正文仅保留概述中的群体称谓。相关条目仅列明代绘画与中国绘画史，均非人物条目。",
+        "技法或形式分析": "从形式取向看，正统派一侧以承袭文人画为主，个性派一侧以强调个性为主，二者并存构成基本框架。概述另把花鸟画与金石入画列为发展线索。输入未给出具体笔法、构图或设色细节，分析止于上述层面。",
+        "与前后风格的关系和争论": "相关条目列出明代绘画与中国绘画史，据此可把清代绘画放在承接前代绘画的脉络中理解。概述未记载反弹或争论事件，也没有点名持论者。记载较一致，学界主要讨论清代绘画的分期与边界问题。",
+        "一图": "示意图以两条线索并列呈现清代绘画中正统派承袭与个性派强调个性的并存格局，并附花鸟画与金石入画的发展支线。",
+        "待核实": "概述提到花鸟画与金石入画发展，但未给出代表作品、年份与收藏地。相关条目中的明代绘画与中国绘画史仅提供标题，未附作品层面的对应关系。若需补充具体作品信息，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='清代绘画 示意图'><title>清代绘画</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>清代绘画</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>正统派与个性派并存</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>四王</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>承袭文人画正统</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>四僧与扬州画派</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>强调个性</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>花鸟画与金石入画</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>发展</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>正统派与个性派并存，花鸟画与金石入画发展</text></g></svg>"
     },
     {
       "id": "xieyi",
@@ -1616,7 +1946,18 @@
       "sources": [
         "enc-chinese-painting",
         "enc-chinese-calligraphy"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "写意作为术语适用于历代，定义指出它是中国画中以简练笔墨传达意趣的画法。相关条目列出工笔与中国绘画史，材料由此把它放在画法对照与绘画史脉络中。概述称其成熟于宋元文人画传统。",
+        "风格特征": "写意以简练笔墨传达意趣，并与工笔相对。它强调以少胜多、笔墨情趣与作者心性。概述把成熟阶段指向宋元文人画传统。",
+        "代表人物与作品": "输入材料未点名写意的代表人物或具体作品。相关条目中的工笔为术语标题，中国绘画史为史类标题，二者均未提供人物信息。正文因此只保留定义与概述中的术语和传统称谓。",
+        "技法或形式分析": "写意在技法上以简练笔墨为核心，追求以少胜多。笔墨情趣与作者心性被概述列为强调重点，说明形式分析与表达方式并重。材料未给出具体作品的用笔顺序或图式细节，故不作延伸。",
+        "与前后风格的关系和争论": "定义明确写意与工笔相对，相关条目也列出工笔，可据此建立两者的对照关系。概述把它成熟于宋元文人画传统作为历史定位。记载较一致，学界主要讨论写意与工笔的分期及边界问题。",
+        "一图": "示意图以写意为中心，标出其与工笔相对、以少胜多并成熟于宋元文人画传统的关系。",
+        "待核实": "概述未列出写意的代表作品、年份与收藏地，也未给出具体作者。相关条目中的工笔与中国绘画史只有标题，缺少作品对应信息。若需作品实例，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='写意 示意图'><title>写意</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>写意</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>简练笔墨传达意趣</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>工笔</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>相对</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>以少胜多</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>笔墨情趣</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>宋元文人画</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>成熟</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>以简练笔墨传达意趣，与工笔相对，成熟于宋元文人画传统</text></g></svg>"
     },
     {
       "id": "gongbi",
@@ -1636,7 +1977,7 @@
       ],
       "sources": [
         "enc-chinese-painting",
-        "enc-chinese-painting"
+        "enc-ink-wash"
       ]
     },
     {
@@ -1689,8 +2030,19 @@
       ],
       "sources": [
         "enc-chinese-calligraphy",
-        "enc-chinese-calligraphy"
-      ]
+        "enc-calligraphy"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "篆书是先秦至秦时期的中国古文字书体，约流行于公元前14至前3世纪。秦代统一为小篆，篆书由此包含大篆与小篆两种形态。",
+        "风格特征": "篆书线条圆转均匀、结构对称，保留了象形遗意。这种古文字书体的形态在后世被用于印章与题额。",
+        "代表人物与作品": "现有概述与定义未点名篆书的代表人物或具体作品。相关条目可参见中国书法史与隶书，以了解其在书法脉络中的位置。",
+        "技法或形式分析": "篆书在形式上以圆转均匀的线条和对称的结构为主要特征，保留象形遗意。其笔法与结体的特点，构成了这一古文字书体的形式基础。",
+        "与前后风格的关系和争论": "篆书与中国书法史、隶书相关联，秦代统一为小篆是其发展的重要节点。现有记载较一致，学界主要讨论篆书与隶书之间的分期与边界问题。",
+        "一图": "示意图展示篆书包含大篆与小篆，以及其与隶书之间的书体关联。",
+        "待核实": "现有字段未点名篆书的代表人物与具体作品。相关人物、作品信息待补充第二来源后核实。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='篆书 示意图'><title>篆书</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>篆书</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>古文字书体</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>大篆</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>书体</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>小篆</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>书体</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>隶书</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>书体</text><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>篆书含大篆、小篆并与隶书相关联</text></g></svg>"
     },
     {
       "id": "clerical-script",
@@ -1702,16 +2054,27 @@
       "medium": "书法",
       "tier": "重要",
       "def": "汉代成熟并盛行的书体，以波磔与扁方结构为特征。",
-      "when": "约公元前2世纪—公元3世纪",
-      "overview": "由篆书简化而来，笔画出现蚕头燕尾，是汉字由古文字向今文字转变的关键。",
+      "when": "汉代",
+      "overview": "由篆书简化而来，是汉字由古文字向今文字转变的关键；笔画形态术语待核。",
       "related": [
         "seal-script",
         "regular-script"
       ],
       "sources": [
         "enc-chinese-calligraphy",
-        "enc-chinese-calligraphy"
-      ]
+        "enc-calligraphy"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "隶书在汉代成熟并盛行，其时间跨度以汉代为主，精确起止待核实。作为中国书法的一种书体，它流行于汉代的历史语境之中。",
+        "风格特征": "来源页以 clerical script（隶书）称之，指出其形成于汉代、由篆书简化而来；关于“波磔”“扁方”“蚕头燕尾”等具体笔画形态的中文术语，所引英文来源页无逐字对应，列入待核实。它由篆书简化而来，是汉字由古文字向今文字转变的关键。",
+        "代表人物与作品": "本条目的定义与概述均未点名具体的书家或碑帖作品。相关条目篆书、楷书为书体名称，非具体人物，此处仅列其标题。",
+        "技法或形式分析": "就来源可支撑的范围看，隶书由篆书简化而来，是汉字由古文字向今文字转变的关键；更具体的笔画形态术语待第二来源核实。就书体演变而言，它由篆书简化而来，承担了汉字由古文字向今文字过渡的关键角色。",
+        "与前后风格的关系和争论": "在书体序列中，隶书承接篆书简化而来，并进一步关联到楷书。记载较一致，学界主要讨论隶书自身的分期与边界问题。",
+        "一图": "示意图呈现隶书由篆书简化而来、并作为古文字向今文字转变关键的位置。",
+        "待核实": "（1）概述未列出隶书的具体代表书家与碑帖作品，此处不作推断；（2）“波磔”“扁方”“蚕头燕尾”等笔画术语及精确年代区间（前2世纪—公元3世纪）在所引英文来源页无逐字对应，待补中文书法专著核实。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='隶书 示意图'><title>隶书</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>隶书</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>汉代书体</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>篆书</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>简化而来</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>楷书</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>今文字转变</text><line class='svg-arrow' x1='305.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>隶书由篆书简化而来，是古文字向今文字转变的关键</text></g></svg>"
     },
     {
       "id": "regular-script",
@@ -1731,8 +2094,19 @@
       ],
       "sources": [
         "enc-chinese-calligraphy",
-        "enc-chinese-calligraphy"
-      ]
+        "enc-calligraphy"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "楷书约自公元2世纪发端，主要流行于汉末至唐代，唐代被视为其发展的高峰。这一书体在中国书法传统中逐步定型并延续至今，成为后世通行的书体形式。",
+        "风格特征": "楷书以形体方正、笔画规范为主要特征，讲究书写的法度。这种规范的形态使其在后代被广泛采用，成为通行的书写样式。",
+        "代表人物与作品": "欧阳询、颜真卿、柳公权是概述中点名的楷书代表人物，他们共同确立了楷书的法度。现有材料未列出他们的具体作品名称，故此处不作展开。",
+        "技法或形式分析": "从形式上看，楷书注重笔画的规范与字形的方正，点画安排讲究法度。这种对结构与用笔规范的强调，构成了楷书区别于其他书体的形式基础。",
+        "与前后风格的关系和争论": "楷书与隶书、行书并列为相关书体，在书体演变中彼此关联。现有记载较一致，学界主要讨论楷书与隶书、行书之间的分期与边界问题。",
+        "一图": "示意图展示楷书与隶书、行书之间的书体关联，以及楷书以形体方正、笔画规范为特征的关系。",
+        "待核实": "现有字段未给出楷书代表人物的具体作品名称与收藏信息。欧阳询、颜真卿、柳公权的代表作及其年代待补充第二来源后核实。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='楷书 示意图'><title>楷书</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>楷书</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>形体方正</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>隶书</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>书体</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>行书</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>书体</text><line class='svg-arrow' x1='305.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>楷书与隶书、行书三种书体的关联示意</text></g></svg>"
     },
     {
       "id": "running-script",
@@ -1752,8 +2126,19 @@
       ],
       "sources": [
         "enc-chinese-calligraphy",
-        "enc-chinese-calligraphy"
-      ]
+        "enc-calligraphy"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "行书约自公元2世纪形成，流行于汉末至今，在中国书法中长期使用。它作为一种介于楷书与草书之间的书体，兼顾了书写流畅与易于辨认的需要。",
+        "风格特征": "行书介于楷书与草书之间，书写流畅而易于辨认。它兼顾节奏与可读性，在规范与流动之间取得平衡。",
+        "代表人物与作品": "王羲之是概述中点名的行书代表，其《兰亭序》被誉为行书典范。该作品兼顾节奏与可读性，被视为行书的代表性范例。",
+        "技法或形式分析": "行书在形式上强调书写的流畅性，同时保持字形的可辨识度。节奏与可读性的兼顾，是其区别于楷书与草书的关键。",
+        "与前后风格的关系和争论": "行书与楷书、草书直接相关，其定位介于两者之间。现有记载较一致，学界主要讨论行书与楷书、草书之间的分期与边界问题。",
+        "一图": "示意图表现行书介于楷书与草书之间的位置，以及其书写流畅、易于辨认的特点。",
+        "待核实": "现有字段未给出《兰亭序》的创作年代与收藏信息。相关细节待补充第二来源后核实。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='行书 示意图'><title>行书</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>行书</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>书写流畅</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>楷书</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>书体</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>草书</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>书体</text><line class='svg-arrow' x1='305.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>行书介于楷书与草书之间的书体示意</text></g></svg>"
     },
     {
       "id": "cursive-script",
@@ -1765,16 +2150,27 @@
       "medium": "书法",
       "tier": "重要",
       "def": "笔画高度简化、连绵奔放的书体，强调书写节奏与情感表达。",
-      "when": "约公元前1世纪—至今",
-      "overview": "张旭、怀素以狂草著称，草书兼具强烈表现性与辨识门槛。",
+      "when": "汉—唐",
+      "overview": "张旭、怀素为代表书家，草书兼具强烈表现性与辨识门槛。",
       "related": [
         "running-script",
         "china-calligraphy-history"
       ],
       "sources": [
         "enc-chinese-calligraphy",
-        "enc-chinese-calligraphy"
-      ]
+        "enc-calligraphy"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "草书的相关历史时期标为汉至唐，精确起止待核实。作为中国书法的一种书体，它强调书写节奏与情感表达。",
+        "风格特征": "草书笔画高度简化、连绵奔放，强调书写节奏与情感表达。它兼具强烈表现性与辨识门槛。",
+        "代表人物与作品": "概述中点名张旭、怀素两位人物；来源页仅见其名录，未提供具体作品名称。相关条目中的行书、中国书法史为书体与史论条目，未附具体人物作品细节。",
+        "技法或形式分析": "草书的技法核心在于笔画的高度简化与连绵奔放的行笔，以书写节奏与情感表达为重。这种强烈表现性也带来较高的辨识门槛。",
+        "与前后风格的关系和争论": "草书与相关条目中的行书同属书法书体范畴，并被置于中国书法史的叙述脉络中。记载较一致，学界主要讨论草书自身的分期与边界问题。",
+        "一图": "示意图说明草书笔画高度简化、连绵奔放的特征，并连接相关书体条目。",
+        "待核实": "（1）概述点明张旭、怀素，但来源页仅见其名录，未提供具体作品名称与“以狂草著称”的逐字支撑；（2）原精确年代“前1世纪—至今”在所引来源页无对应，改为宽泛表述，待第二来源核实。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='草书 示意图'><title>草书</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>草书</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>高度简化</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>张旭怀素</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>狂草著称</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>行书</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>书体</text><line class='svg-arrow' x1='305.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>草书笔画高度简化、连绵奔放，张旭怀素以狂草著称</text></g></svg>"
     },
     {
       "id": "medieval-music",
@@ -2601,7 +2997,18 @@
       "sources": [
         "enc-stravinsky",
         "enc-20th-century-classical"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "斯特拉文斯基活动于20世纪，地区标注为俄国/美国。输入给出的生平时间为1882—1971年。相关条目将他置于20世纪古典音乐与序列主义的关联中。",
+        "风格特征": "斯特拉文斯基是俄裔作曲家，以节奏革新与风格多变著称。概述强调其强烈节奏与不协和音响。输入还说明其后期转向新古典主义。",
+        "代表人物与作品": "本条人物为斯特拉文斯基。概述点名《春之祭》与《彼得鲁什卡》为其代表作。输入未列出其他人物或作品。",
+        "技法或形式分析": "节奏革新是本条定义中的核心特征。概述把强烈节奏与不协和音响并列为引发轰动的音乐要素。后期转向新古典主义，显示输入中对其风格变化的基本判断。",
+        "与前后风格的关系和争论": "20世纪古典音乐与序列主义均列为相关条目。这些条目为理解其风格多变和后期转向新古典主义提供了相邻语境。记载较一致，学界主要讨论斯特拉文斯基的风格分期/边界问题。",
+        "一图": "示意图以节奏革新、不协和音响、新古典主义及两部代表作呈现斯特拉文斯基的风格线索。",
+        "待核实": "输入未给出《春之祭》《彼得鲁什卡》的创作年份、首演信息或收藏地。关于其不协和音响与新古典主义转向的进一步论证，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='斯特拉文斯基 示意图'><title>斯特拉文斯基</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>斯特拉文斯基</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>俄国/美国</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>节奏革新</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>风格多变</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>《春之祭》</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>代表作</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>《彼得鲁什卡》</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>代表作</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>节奏革新 不协和音响 新古典主义</text></g></svg>"
     },
     {
       "id": "schoenberg",
@@ -2622,7 +3029,18 @@
       "sources": [
         "enc-schoenberg",
         "enc-serialism"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "勋伯格活动于20世纪，地区标注为奥地利/美国。输入给出的生平时间为1874—1951年。相关条目将他与序列主义及20世纪古典音乐联系起来。",
+        "风格特征": "勋伯格是奥地利裔作曲家，被视为十二音技法与表现主义音乐的开创者。概述强调其以无调性与十二音体系重塑作曲逻辑。其风格特征在输入中主要围绕十二音技法、表现主义音乐和无调性展开。",
+        "代表人物与作品": "本条人物为勋伯格。概述点名《月光下的皮埃罗》与《升华之夜》为其代表作。输入未列出其他人物或作品。",
+        "技法或形式分析": "十二音技法是本条定义中的核心概念。无调性被概述为重塑作曲逻辑的重要手段。十二音体系与其表现主义音乐身份在输入中并列出现。",
+        "与前后风格的关系和争论": "序列主义与20世纪古典音乐均列为相关条目。这些条目将勋伯格置于20世纪音乐语境中，与十二音技法和无调性线索相连。记载较一致，学界主要讨论勋伯格的风格分期/边界问题。",
+        "一图": "示意图以十二音技法、表现主义音乐及两部代表作呈现勋伯格的作曲特征。",
+        "待核实": "输入未给出《月光下的皮埃罗》《升华之夜》的创作年份、首演信息或收藏地。十二音技法与表现主义音乐的具体文本依据，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='勋伯格 示意图'><title>勋伯格</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>勋伯格</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>奥地利/美国</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>十二音技法</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>表现主义音乐</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>《月光下的皮埃罗》</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>代表作</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>《升华之夜》</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>代表作</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>十二音技法 表现主义音乐 代表作</text></g></svg>"
     },
     {
       "id": "debussy",
@@ -2664,7 +3082,18 @@
       "sources": [
         "enc-chinese-music",
         "enc-guzheng"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "中国音乐史覆盖远古—明清，时间范围为约公元前5000年—公元19世纪。概述将这一长时段概括为远古乐舞、周代礼乐、汉唐燕乐、宋元词曲与明清戏曲的发展。其叙述重点落在礼乐制度、乐器与戏曲等线索上。",
+        "风格特征": "中国音乐史以礼乐制度、乐器和戏曲为重要线索。概述强调其在长时段发展中形成独特体系。概述中的阶段包括远古乐舞、周代礼乐、汉唐燕乐、宋元词曲与明清戏曲。",
+        "代表人物与作品": "概述未点名具体代表人物。概述也未列出具体作品。相关条目中列出古筝与京剧，但不提供人物或作品细节。",
+        "技法或形式分析": "礼乐制度、乐器和戏曲是概述中的三条线索。远古乐舞、周代礼乐、汉唐燕乐、宋元词曲与明清戏曲构成阶段性叙述。这些阶段在概述中共同指向独特体系的形成。",
+        "与前后风格的关系和争论": "古筝与京剧在相关条目中与本条相连。古筝可对应乐器线索，京剧可对应戏曲线索。记载较一致，学界主要讨论中国音乐史的分期/边界问题。",
+        "一图": "示意图以礼乐制度、乐器、戏曲、古筝与京剧呈现中国音乐史的主要线索。",
+        "待核实": "输入未给出各阶段的作品年份、收藏地或具体引文。涉及远古乐舞、周代礼乐、汉唐燕乐、宋元词曲与明清戏曲的细化材料，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='中国音乐史 示意图'><title>中国音乐史</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>中国音乐史</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>远古—明清</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>礼乐制度</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>重要线索</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>古筝</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>乐器</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>京剧</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>戏曲</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>礼乐制度 乐器 戏曲 古筝 京剧</text></g></svg>"
     },
     {
       "id": "yayue",
@@ -2727,7 +3156,18 @@
       "sources": [
         "enc-jingju",
         "enc-chinese-music"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "京剧形成于清代，概述所给时间为约公元19世纪中叶形成。其地域标注为中国，所属时期为清代—今。在中国音乐史的相关脉络中，京剧属于戏曲发展的重要条目。",
+        "风格特征": "京剧是形成于清代的中国传统戏曲剧种。它以皮黄腔为主，行当分明。脸谱与身段具有高度程式化特征。",
+        "代表人物与作品": "概述点名梅兰芳为代表人物。输入未列出具体剧目或作品名称。相关条目列有中国音乐史与古筝，未提供额外人物作品细节。",
+        "技法或形式分析": "京剧的表演要素包括唱念做打。音乐上以皮黄腔为主，舞台组织上呈现行当分明的特点。脸谱与身段的高度程式化，是其形式分析的关键抓手。",
+        "与前后风格的关系和争论": "京剧在相关条目中与中国音乐史相连，可置于中国音乐史的戏曲线索中理解。古筝也列为相关条目，提示其与乐器线索的并列关系。记载较一致，学界主要讨论京剧的形成分期/边界问题。",
+        "一图": "示意图以皮黄腔、行当分明、脸谱与身段及梅兰芳呈现京剧的形式特征。",
+        "待核实": "输入未给出梅兰芳的具体剧目、演出年份或收藏地。如要补充作品清单与演出史细节，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='京剧 示意图'><title>京剧</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>京剧</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>清代—今</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>皮黄腔</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>唱念做打</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>行当分明</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>脸谱与身段</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>梅兰芳</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>代表人物</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>皮黄腔 行当分明 脸谱与身段 梅兰芳</text></g></svg>"
     },
     {
       "id": "pipa",

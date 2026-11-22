@@ -1,0 +1,14 @@
+{
+ "id": "vermeer",
+ "level": "L2",
+ "sections": {
+  "时代背景": "维米尔（1632—1675年）是17世纪荷兰黄金时代画家。他以室内场景与柔和光线著称，活跃于荷兰绘画的黄金时期。这一时代语境与其日常静谧的题材取向相呼应。",
+  "风格特征": "其画作以室内场景与柔和光线为主要特征，善于描绘自然光。画面营造出日常静谧的氛围，形成平和而内敛的观感。",
+  "代表人物与作品": "本条目人物为维米尔本人，代表作有《戴珍珠耳环的少女》与《倒牛奶的女仆》。相关条目中的伦勃朗仅列其标题，未附生卒或作品细节。",
+  "技法或形式分析": "其技法重在自然光的描绘与柔和光线的营造，多取室内场景为题材。自然光与日常静谧氛围的结合，是《戴珍珠耳环的少女》《倒牛奶的女仆》等作品的共同特点。",
+  "与前后风格的关系和争论": "维米尔与相关条目中的伦勃朗同处荷兰黄金时代，并被与现实主义（艺术）相联系。记载较一致，学界主要讨论其与现实主义（艺术）之间的分期与边界问题。",
+  "一图": "示意图概括维米尔以室内场景、柔和光线与自然光营造静谧氛围的特点。",
+  "待核实": "概述未提及《戴珍珠耳环的少女》《倒牛奶的女仆》的创作年份与收藏地，此处不作推断。相关细节待补充第二来源核实。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='维米尔 示意图'><title>维米尔</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>维米尔</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>荷兰黄金时代</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>室内场景</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>柔和光线</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>自然光</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>日常静谧</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>维米尔以室内场景、柔和光线与日常静谧氛围见长</text></g></svg>"
+}

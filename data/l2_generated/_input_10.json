@@ -1,139 +1,139 @@
 [
  {
-  "id": "romantic-music",
-  "title": "浪漫主义音乐",
-  "kind": "时期",
-  "era": "19世纪",
+  "id": "realism-art",
+  "title": "现实主义（艺术）",
+  "kind": "风格",
+  "era": "19世纪中叶",
   "region": "欧洲",
-  "medium": "音乐体裁",
-  "def": "19世纪的欧洲音乐潮流，强调情感、个性、民族性与宏大叙事。",
-  "when": "约公元1820—1900年",
-  "overview": "艺术歌曲、标题交响诗与大型歌剧兴盛，和声语言复杂化，古典时期的均衡形式被突破。",
+  "medium": "绘画",
+  "def": "19世纪中叶以平凡生活与普通人为题材的艺术倾向。",
+  "when": "约公元1840—1870年",
+  "overview": "反对浪漫化的历史与神话题材，主张客观描绘当下社会现实，库尔贝为代表。",
   "related": [
    {
-    "id": "classical-period-music",
-    "title": "古典主义音乐"
+    "id": "romanticism-art",
+    "title": "浪漫主义（艺术）"
    },
    {
-    "id": "20th-century-classical",
-    "title": "20世纪古典音乐"
+    "id": "impressionism",
+    "title": "印象派"
    }
   ],
   "sources": [
    {
-    "id": "enc-romantic-music",
-    "title": "Romantic music",
+    "id": "enc-realism-art",
+    "title": "Realism (arts)",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    },
    {
-    "id": "enc-classical-period-music",
-    "title": "Classical period (music)",
+    "id": "enc-romanticism",
+    "title": "Romanticism",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    }
   ]
  },
  {
-  "id": "chopin",
-  "title": "肖邦",
+  "id": "botticelli",
+  "title": "波提切利",
   "kind": "人物",
-  "era": "19世纪",
-  "region": "波兰/法国",
-  "medium": "音乐体裁",
-  "def": "波兰裔法国作曲家与钢琴家，以钢琴作品著称。",
-  "when": "1810—1849年",
-  "overview": "代表作《夜曲》《练习曲》《玛祖卡》，将钢琴的表现力与波兰民间节奏结合。",
+  "era": "15世纪",
+  "region": "意大利",
+  "medium": "绘画",
+  "def": "意大利早期文艺复兴画家，以线条优美与神话题材著称。",
+  "when": "约1445—1510年",
+  "overview": "代表作《春》《维纳斯的诞生》，线条流畅、色彩明丽，体现新柏拉图主义趣味。",
   "related": [
    {
-    "id": "romantic-music",
-    "title": "浪漫主义音乐"
+    "id": "early-renaissance",
+    "title": "早期文艺复兴"
    },
    {
-    "id": "lied",
-    "title": "艺术歌曲"
+    "id": "venetian-school",
+    "title": "威尼斯画派"
    }
   ],
   "sources": [
    {
-    "id": "enc-chopin",
-    "title": "Frederic Chopin",
+    "id": "enc-botticelli",
+    "title": "Sandro Botticelli",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    },
    {
-    "id": "enc-romantic-music",
-    "title": "Romantic music",
+    "id": "enc-italian-renaissance-painting",
+    "title": "Italian Renaissance painting",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    }
   ]
  },
  {
-  "id": "wagner",
-  "title": "瓦格纳",
+  "id": "donatello",
+  "title": "多纳泰罗",
   "kind": "人物",
-  "era": "19世纪",
-  "region": "德国",
-  "medium": "音乐体裁",
-  "def": "德国作曲家与剧作家，以乐剧与和声革新影响深远。",
-  "when": "1813—1883年",
-  "overview": "代表作《尼伯龙根的指环》《特里斯坦与伊索尔德》，以无终旋律与半音化和声推向调性边界。",
+  "era": "15世纪",
+  "region": "意大利",
+  "medium": "雕塑",
+  "def": "意大利早期文艺复兴雕塑家，推动古典雕塑的复兴。",
+  "when": "约1386—1466年",
+  "overview": "作品包括青铜《大卫》与《圣乔治》，以解剖准确性与古典姿态著称。",
   "related": [
    {
-    "id": "romantic-music",
-    "title": "浪漫主义音乐"
+    "id": "early-renaissance",
+    "title": "早期文艺复兴"
    },
    {
-    "id": "opera",
-    "title": "歌剧"
+    "id": "renaissance",
+    "title": "文艺复兴"
    }
   ],
   "sources": [
    {
-    "id": "enc-wagner",
-    "title": "Richard Wagner",
+    "id": "enc-donatello",
+    "title": "Donatello",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    },
    {
-    "id": "enc-romantic-music",
-    "title": "Romantic music",
+    "id": "enc-renaissance",
+    "title": "Renaissance",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    }
   ]
  },
  {
-  "id": "20th-century-classical",
-  "title": "20世纪古典音乐",
-  "kind": "时期",
-  "era": "20世纪",
-  "region": "欧美",
-  "medium": "音乐体裁",
-  "def": "20世纪的西方艺术音乐，以调性解体与多元技法探索为特征。",
-  "when": "约公元1900—2000年",
-  "overview": "印象主义、表现主义、序列主义、新古典主义与电子音乐并存，德彪西、勋伯格、斯特拉文斯基为代表。",
+  "id": "early-renaissance",
+  "title": "早期文艺复兴",
+  "kind": "风格",
+  "era": "15世纪",
+  "region": "意大利",
+  "medium": "绘画,雕塑",
+  "def": "15世纪意大利的艺术阶段，透视法与解剖研究取得突破。",
+  "when": "约公元1400—1490年",
+  "overview": "布鲁内莱斯基建立线性透视，马萨乔将其用于绘画；多纳泰罗复兴古典雕塑。",
   "related": [
    {
-    "id": "romantic-music",
-    "title": "浪漫主义音乐"
+    "id": "renaissance",
+    "title": "文艺复兴"
    },
    {
-    "id": "serialism",
-    "title": "序列主义"
+    "id": "high-renaissance",
+    "title": "盛期文艺复兴"
    }
   ],
   "sources": [
    {
-    "id": "enc-20th-century-classical",
-    "title": "20th-century classical music",
+    "id": "enc-italian-renaissance-painting",
+    "title": "Italian Renaissance painting",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    },
    {
-    "id": "enc-serialism",
-    "title": "Serialism",
+    "id": "enc-renaissance",
+    "title": "Renaissance",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    }

@@ -3,13 +3,13 @@
 ## 规模
 - 总条目数：**109**
 - 知识单元数：**17**
-- 来源库条目：**91**（已核验 verified=true：**86**）
+- 来源库条目：**95**（已核验 verified=true：**90**）
 
 ## 各层级数量（写作深度）
 | 层级 | 数量 | 说明 |
 |---|---|---|
-| L1 骨架 | 67 | 定义/时间或位置/概述/相关条目 |
-| L2 标准 | 42 | 完整七节结构 + 自绘 SVG 一图 |
+| L1 骨架 | 27 | 定义/时间或位置/概述/相关条目 |
+| L2 标准 | 82 | 完整七节结构 + 自绘 SVG 一图 |
 | L3 深度 | 0 | 核心条目的争议/数据/复杂图示（后续轮次） |
 
 ## 重要性分布
@@ -146,8 +146,18 @@
 | 西班牙/法国 | 音乐体裁 |
 
 ## 批次复检
-- 每完成 20 个条目另起子任务随机抽查 4 个。本批 40 条 → 抽 8 条：romantic-music, classical-period-music, cezanne, china-calligraphy-history（批次1）；gothic, renaissance, gregorian-chant, greek-art（批次2）。
-- 复检结论：见下方“复检结果”段（由 recheck 子任务回填）。
+
+## 第1批（40条核心，2026-11-22）
+- 抽样8条：romantic-music, classical-period-music, cezanne, china-calligraphy-history（批次1）；gothic, renaissance, gregorian-chant, greek-art（批次2）。
+- 结论：**6 PASS / 2 REWORK**。`gothic`（来源页无"肋拱/飞扶壁/1140"）、`greek-art`（前31年 vs 来源前146年）返工。
+- 处理：无来源支撑的结构术语/精确起点移入"待核实"；断代终点据来源改为前146年；同步首页卡片 overview/when。返工后全链校验 errors=0 / broken=0。
+
+## 第2批（40条：4核心+36重要，2026-11-22）
+- 抽样8条：realism-art, futurism, clerical-script, cursive-script（批次1）；early-renaissance, roman-art, donatello, romanesque（批次2）。
+- 结论：**2 PASS / 6 REWORK** —— 失败率触发整批返工。问题集中：L1种子携带的精确年代区间与中文技法术语在所引英文来源页无逐字对应（如"约1840—1870""波磔/蚕头燕尾""前1世纪—至今""476""解剖准确性""厚墙小窗/十字拱/1150"）。未发现编造人名、作品名或引文。
+- 附带发现并修复：8个条目的 sources 数组重复同一 id，旧校验器按出现次数误判"双源通过"。已加固 check.py R15（禁止重复 id、按唯一 id 计数），新增4条已核验来源并经 data/source_fixes.json 修复这8条。
+- 处理：6条 REWORK 的精确年代改为来源可支撑的概括、无源术语移入"待核实"；对全批40条的"待核实"补批次诚实声明；同步6条 overview/when。返工后 check.py errors=0 / check_links broken=0。
+- 复核结论（recheck2b）：首轮 **5 PASS / 3 REWORK**（cursive-script、donatello、romanesque 的"一图"及个别正文节仍残留被移出的说法）。已二轮清理：把残留断言改为明确的"无逐字对应，列入待核实"标注表述，并把 romanesque 的 when 改为"约11—12世纪（中世纪盛期）"。程序化审计确认残留术语仅出现在带标注的披露句与"待核实"节，正文中已无裸断言。全链校验 errors=0 / broken=0。
 
 ## 已知限制与后续
 - 来源以权威百科为主，独立性偏低（见上），后续应补充博物馆官网、学术专著等不同机构来源。

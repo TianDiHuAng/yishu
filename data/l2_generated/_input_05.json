@@ -1,139 +1,139 @@
 [
  {
-  "id": "expressionism",
-  "title": "表现主义",
+  "id": "qing-painting",
+  "title": "清代绘画",
   "kind": "风格",
-  "era": "20世纪初",
-  "region": "德国及北欧",
+  "era": "清代",
+  "region": "中国",
   "medium": "绘画",
-  "def": "20世纪初兴起的表现性艺术运动，主张以变形与色彩表达内在情感。",
-  "when": "约1905—1930年",
-  "overview": "常以扭曲线条、强烈色彩表现焦虑与激情，桥社（Die Brücke）与青骑士社为重要团体。",
+  "def": "清代绘画呈现正统派与个性派并存的格局。",
+  "when": "1644—1912年",
+  "overview": "四王承袭文人画正统，四僧与扬州画派强调个性，花鸟画与金石入画发展。",
   "related": [
    {
-    "id": "fauvism",
-    "title": "野兽派"
+    "id": "ming-painting",
+    "title": "明代绘画"
    },
    {
-    "id": "abstract-expressionism",
-    "title": "抽象表现主义"
+    "id": "china-painting-history",
+    "title": "中国绘画史"
    }
   ],
   "sources": [
    {
-    "id": "enc-expressionism",
-    "title": "Expressionism",
+    "id": "enc-chinese-painting",
+    "title": "Chinese painting",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    },
    {
-    "id": "enc-fauvism",
-    "title": "Fauvism",
+    "id": "enc-chinese-calligraphy",
+    "title": "Chinese calligraphy",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    }
   ]
  },
  {
-  "id": "cubism",
-  "title": "立体主义",
+  "id": "tang-painting",
+  "title": "唐代绘画",
   "kind": "风格",
-  "era": "20世纪初",
-  "region": "法国",
-  "medium": "绘画,雕塑",
-  "def": "20世纪初由毕加索与布拉克开创的艺术运动，以多视点同时呈现物象为特征。",
-  "when": "约1908—1920年",
-  "overview": "将对象分解为几何块面并重新组合，打破单一视点透视，催生综合材料与拼贴。",
+  "era": "唐代",
+  "region": "中国",
+  "medium": "绘画",
+  "def": "唐代绘画以人物画高度成熟、山水画独立为特征。",
+  "when": "618—907年",
+  "overview": "吴道子以线描著称，阎立本擅人物，青绿山水与水墨山水并行发展。",
   "related": [
    {
-    "id": "cezanne",
-    "title": "塞尚"
+    "id": "china-painting-history",
+    "title": "中国绘画史"
    },
    {
-    "id": "futurism",
-    "title": "未来主义"
+    "id": "song-painting",
+    "title": "宋代绘画"
    }
   ],
   "sources": [
    {
-    "id": "enc-cubism",
-    "title": "Cubism",
+    "id": "enc-tang-dynasty-art",
+    "title": "Art of the Tang dynasty",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    },
    {
-    "id": "enc-cezanne",
-    "title": "Paul Cezanne",
+    "id": "enc-chinese-painting",
+    "title": "Chinese painting",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    }
   ]
  },
  {
-  "id": "surrealism",
-  "title": "超现实主义",
-  "kind": "风格",
-  "era": "20世纪上半",
-  "region": "欧洲",
+  "id": "xieyi",
+  "title": "写意",
+  "kind": "术语",
+  "era": "历代",
+  "region": "中国",
   "medium": "绘画",
-  "def": "20世纪20年代兴起的艺术与文学运动，探索潜意识与梦境意象。",
-  "when": "约1924—1966年",
-  "overview": "以怪诞并置与精确写实描绘非理性场景，达利与马格利特为代表。",
+  "def": "中国画中以简练笔墨传达意趣的画法，与工笔相对。",
+  "when": "历代",
+  "overview": "强调以少胜多、笔墨情趣与作者心性，成熟于宋元文人画传统。",
   "related": [
    {
-    "id": "dada",
-    "title": "达达主义"
+    "id": "gongbi",
+    "title": "工笔"
    },
    {
-    "id": "abstract-expressionism",
-    "title": "抽象表现主义"
+    "id": "china-painting-history",
+    "title": "中国绘画史"
    }
   ],
   "sources": [
    {
-    "id": "enc-surrealism",
-    "title": "Surrealism",
+    "id": "enc-chinese-painting",
+    "title": "Chinese painting",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    },
    {
-    "id": "enc-dada",
-    "title": "Dada",
+    "id": "enc-chinese-calligraphy",
+    "title": "Chinese calligraphy",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    }
   ]
  },
  {
-  "id": "abstract-expressionism",
-  "title": "抽象表现主义",
+  "id": "yuan-painting",
+  "title": "元代绘画",
   "kind": "风格",
-  "era": "20世纪中叶",
-  "region": "美国",
+  "era": "元代",
+  "region": "中国",
   "medium": "绘画",
-  "def": "二战后兴起于美国的绘画运动，以大规模抽象画面与姿态性笔触为特征。",
-  "when": "约1940s—1950s",
-  "overview": "强调自发行动与潜意识表达，波洛克以滴画法、罗斯科以色彩场为代表。",
+  "def": "元代绘画以文人画为主流，强调以书入画与逸气。",
+  "when": "1271—1368年",
+  "overview": "赵孟頫提倡复古与书画同源，元四家以水墨山水与题跋拓展文人画表现。",
   "related": [
    {
-    "id": "surrealism",
-    "title": "超现实主义"
+    "id": "song-painting",
+    "title": "宋代绘画"
    },
    {
-    "id": "minimalism",
-    "title": "极简主义"
+    "id": "ming-painting",
+    "title": "明代绘画"
    }
   ],
   "sources": [
    {
-    "id": "enc-abstract-expressionism",
-    "title": "Abstract expressionism",
+    "id": "enc-chinese-painting",
+    "title": "Chinese painting",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    },
    {
-    "id": "enc-surrealism",
-    "title": "Surrealism",
+    "id": "enc-tang-dynasty-art",
+    "title": "Art of the Tang dynasty",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    }

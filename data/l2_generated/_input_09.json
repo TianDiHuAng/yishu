@@ -1,139 +1,139 @@
 [
  {
-  "id": "classical-period-music",
-  "title": "古典主义音乐",
+  "id": "kandinsky",
+  "title": "康定斯基",
+  "kind": "人物",
+  "era": "20世纪",
+  "region": "俄国/德国",
+  "medium": "绘画",
+  "def": "俄裔画家与理论家，抽象艺术的先驱之一。",
+  "when": "1866—1944年",
+  "overview": "以《论艺术的精神》阐述抽象艺术理论，作品以色彩与几何的纯粹形式表达精神。",
+  "related": [
+   {
+    "id": "expressionism",
+    "title": "表现主义"
+   },
+   {
+    "id": "abstract-expressionism",
+    "title": "抽象表现主义"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-kandinsky",
+    "title": "Wassily Kandinsky",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-expressionism",
+    "title": "Expressionism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "matisse",
+  "title": "马蒂斯",
+  "kind": "人物",
+  "era": "20世纪",
+  "region": "法国",
+  "medium": "绘画",
+  "def": "法国艺术家，野兽派领袖，以色彩与剪纸闻名。",
+  "when": "1869—1954年",
+  "overview": "代表作《舞蹈》《红色和谐》，追求色彩的平衡与装饰性愉悦。",
+  "related": [
+   {
+    "id": "fauvism",
+    "title": "野兽派"
+   },
+   {
+    "id": "modern-art",
+    "title": "现代艺术"
+   }
+  ],
+  "sources": [
+   {
+    "id": "enc-matisse",
+    "title": "Henri Matisse",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   },
+   {
+    "id": "enc-fauvism",
+    "title": "Fauvism",
+    "author": "Wikipedia contributors",
+    "type": "权威百科"
+   }
+  ]
+ },
+ {
+  "id": "modern-art",
+  "title": "现代艺术",
   "kind": "时期",
-  "era": "18—19世纪初",
-  "region": "欧洲",
-  "medium": "音乐体裁",
-  "def": "18世纪中后期至19世纪初的欧洲音乐，以均衡、清晰与奏鸣曲式为特征。",
-  "when": "约公元1750—1820年",
-  "overview": "海顿、莫扎特与贝多芬确立交响曲、协奏曲与弦乐四重奏的古典范式，主调音乐占主导。",
+  "era": "19末—20世纪中",
+  "region": "欧美",
+  "medium": "综合",
+  "def": "约19世纪末至20世纪中叶西方艺术的总称，涵盖众多前卫运动。",
+  "when": "约1890—1950年",
+  "overview": "以不断突破传统为特征，从后印象派到抽象表现主义，艺术语言持续激进革新。",
   "related": [
    {
-    "id": "baroque-music",
-    "title": "巴洛克音乐"
+    "id": "post-impressionism",
+    "title": "后印象派"
    },
    {
-    "id": "romantic-music",
-    "title": "浪漫主义音乐"
+    "id": "abstract-expressionism",
+    "title": "抽象表现主义"
    }
   ],
   "sources": [
    {
-    "id": "enc-classical-period-music",
-    "title": "Classical period (music)",
-    "author": "Wikipedia contributors",
+    "id": "web-artstory-movements",
+    "title": "Classical and Modern Art Movements",
+    "author": "The Art Story Foundation",
     "type": "权威百科"
    },
    {
-    "id": "enc-sonata",
-    "title": "Sonata",
+    "id": "enc-cubism",
+    "title": "Cubism",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    }
   ]
  },
  {
-  "id": "symphony",
-  "title": "交响曲",
-  "kind": "术语",
-  "era": "18世纪—今",
-  "region": "欧洲",
-  "medium": "音乐体裁",
-  "def": "为管弦乐队创作的多乐章大型器乐套曲。",
-  "when": "约公元18世纪中叶成型—至今",
-  "overview": "古典时期通常含四个乐章，第一乐章多用奏鸣曲式，海顿与莫扎特奠定其规范。",
-  "related": [
-   {
-    "id": "classical-period-music",
-    "title": "古典主义音乐"
-   },
-   {
-    "id": "beethoven",
-    "title": "贝多芬"
-   }
-  ],
-  "sources": [
-   {
-    "id": "enc-symphony",
-    "title": "Symphony",
-    "author": "Wikipedia contributors",
-    "type": "权威百科"
-   },
-   {
-    "id": "enc-classical-period-music",
-    "title": "Classical period (music)",
-    "author": "Wikipedia contributors",
-    "type": "权威百科"
-   }
-  ]
- },
- {
-  "id": "mozart",
-  "title": "莫扎特",
+  "id": "delacroix",
+  "title": "德拉克罗瓦",
   "kind": "人物",
-  "era": "18世纪",
-  "region": "奥地利",
-  "medium": "音乐体裁",
-  "def": "奥地利作曲家，古典主义音乐的集大成者。",
-  "when": "1756—1791年",
-  "overview": "代表作《费加罗的婚礼》《唐璜》《魔笛》及大量协奏曲与交响曲，体裁涵盖广泛。",
+  "era": "19世纪",
+  "region": "法国",
+  "medium": "绘画",
+  "def": "法国浪漫主义画家，以色彩与戏剧性构图著称。",
+  "when": "1798—1863年",
+  "overview": "代表作《自由引导人民》，色彩奔放、动势强烈，对印象派有启发。",
   "related": [
    {
-    "id": "classical-period-music",
-    "title": "古典主义音乐"
+    "id": "romanticism-art",
+    "title": "浪漫主义（艺术）"
    },
    {
-    "id": "opera",
-    "title": "歌剧"
+    "id": "neoclassicism",
+    "title": "新古典主义"
    }
   ],
   "sources": [
    {
-    "id": "enc-mozart",
-    "title": "Wolfgang Amadeus Mozart",
+    "id": "enc-romanticism",
+    "title": "Romanticism",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    },
    {
-    "id": "enc-classical-period-music",
-    "title": "Classical period (music)",
-    "author": "Wikipedia contributors",
-    "type": "权威百科"
-   }
-  ]
- },
- {
-  "id": "beethoven",
-  "title": "贝多芬",
-  "kind": "人物",
-  "era": "18—19世纪",
-  "region": "德国",
-  "medium": "音乐体裁",
-  "def": "德意志作曲家，连接古典主义与浪漫主义的关键人物。",
-  "when": "1770—1827年",
-  "overview": "九部交响曲与《月光》《热情》等奏鸣曲拓展了结构规模与情感张力，晚期转向浪漫语汇。",
-  "related": [
-   {
-    "id": "classical-period-music",
-    "title": "古典主义音乐"
-   },
-   {
-    "id": "romantic-music",
-    "title": "浪漫主义音乐"
-   }
-  ],
-  "sources": [
-   {
-    "id": "enc-beethoven",
-    "title": "Ludwig van Beethoven",
-    "author": "Wikipedia contributors",
-    "type": "权威百科"
-   },
-   {
-    "id": "enc-classical-period-music",
-    "title": "Classical period (music)",
+    "id": "enc-impressionism",
+    "title": "Impressionism",
     "author": "Wikipedia contributors",
     "type": "权威百科"
    }

@@ -79,8 +79,14 @@ else:
     L.append("- （无完全空白的地区×媒介组合）")
 L.append("")
 L.append("## 批次复检")
-L.append("- 每完成 20 个条目另起子任务随机抽查 4 个。本批 40 条 → 抽 8 条：romantic-music, classical-period-music, cezanne, china-calligraphy-history（批次1）；gothic, renaissance, gregorian-chant, greek-art（批次2）。")
-L.append("- 复检结论：见下方“复检结果”段（由 recheck 子任务回填）。")
+rp=os.path.join(ROOT,"reports","复检记录.md")
+if os.path.exists(rp):
+    body=open(rp,encoding="utf-8").read().strip()
+    # 跳过一级标题，保留其下内容
+    lines=[ln for ln in body.split("\n") if not ln.startswith("# ")]
+    L.extend(lines)
+else:
+    L.append("- （尚无复检记录）")
 L.append("")
 L.append("## 已知限制与后续")
 L.append("- 来源以权威百科为主，独立性偏低（见上），后续应补充博物馆官网、学术专著等不同机构来源。")
