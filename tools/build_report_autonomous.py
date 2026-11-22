@@ -30,6 +30,8 @@ L.append("- 新增来源：**%d**"%cur.get("new_sources",0))
 if cur.get("qc_result"): L.append("- 质量闸：**%s**"%cur["qc_result"])
 if cyc=="cycle3":
     L.append("- 本轮特别说明：B5 复核 45 项待核实 → 38 项找到可核验第二来源并写入【已复核】留痕；B3 孤儿页 38→0（新增84条双向补链）；QC 收尾补 Bach/Vivaldi 来源并修正18处截断URL。")
+if cyc=="cycle9":
+    L.append("- 本轮特别说明：网络探针连续第三轮失败，仍为**本地轮**。完成无障碍/可用性改造（D017）：跳转链接与 main、focus-visible、ARIA、条目页页内目录、sitemap.xml(171)+robots.txt、打印样式；并用本地 WCAG 公式复算对比度，修正 3 处不达 AA 的色令牌（浅色 ink-faint 3.42→5.35、gold 3.59→5.41；深色 ink-faint 4.28→5.04），证据见 reports/a11y_c9.md。")
 if cyc=="cycle8":
     L.append("- 本轮特别说明：网络探针再次失败，仍为**本地轮**、未新增联网断言。阶段5 页面类型补全：新增**人物索引** people.html 与**术语表** glossary.html；时间线由扁平列表改为六段时期分组（并修正 era/when 误判）；条目页新增**被引用反链**，形成双向导航。站点 171 页、0 断链。")
 if cyc=="cycle7":

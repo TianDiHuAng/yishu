@@ -12,8 +12,8 @@ OUT=ROOT
 CSS = r"""
 :root{
   --paper:#f7f3ea; --paper-2:#efe9dc; --card:#fffdf7; --ink:#26221c;
-  --ink-soft:#5c554a; --ink-faint:#8b8275; --rule:#d8cfbd;
-  --accent:#8c3b2e; --accent-soft:#b5654f; --gold:#9a7b3f;
+  --ink-soft:#5c554a; --ink-faint:#6b6357; --rule:#d8cfbd;
+  --accent:#8c3b2e; --accent-soft:#b5654f; --gold:#7a5f2e;
   --svg-box:#e8dfcc; --svg-box-strong:#f0e2d2; --svg-accent:#8c3b2e;
   --svg-line:#5c554a; --svg-text:#26221c;
   --shadow:0 1px 2px rgba(40,32,20,.06),0 8px 30px rgba(40,32,20,.05);
@@ -25,7 +25,7 @@ CSS = r"""
 @media (prefers-color-scheme: dark){
   :root{
     --paper:#161512; --paper-2:#1d1b17; --card:#211f1a; --ink:#ece5d6;
-    --ink-soft:#b9b0a0; --ink-faint:#8a8172; --rule:#3a352c;
+    --ink-soft:#b9b0a0; --ink-faint:#978d7e; --rule:#3a352c;
     --accent:#d98a72; --accent-soft:#c9775e; --gold:#c9a95f;
     --svg-box:#2c2820; --svg-box-strong:#3a2c22; --svg-accent:#d98a72;
     --svg-line:#b9b0a0; --svg-text:#ece5d6;
@@ -115,7 +115,16 @@ th{font-family:var(--sans);color:var(--ink-soft);font-size:.82rem}
 .entry-link .m{font-size:.78rem;color:var(--ink-faint);font-family:var(--mono);white-space:nowrap}
 .ok{color:#3d7a4e} .no{color:var(--accent)}
 @media(max-width:640px){h1{font-size:2rem}.nav{gap:12px}.hero{padding:48px 0 32px}}
-@media print{.site-head{position:static}.card,.svg-frame{box-shadow:none}}
+@media print{.site-head{position:static}.card,.svg-frame{box-shadow:none}
+  .nav,.rel-list,.breadcrumb{display:none}a{border:0;color:var(--ink)}
+  body{font-size:11pt}.section{padding:18px 0}}
+:focus-visible{outline:3px solid var(--accent);outline-offset:2px;border-radius:4px}
+.skip{position:absolute;left:-9999px;top:0;background:var(--card);color:var(--ink);
+  padding:10px 16px;z-index:99;border:1px solid var(--rule);border-radius:0 0 8px 0}
+.skip:focus{left:0}
+.toc{background:var(--card);border:1px solid var(--rule);border-radius:var(--radius);padding:16px 20px;margin:0 0 28px}
+.toc ol{margin:.4em 0 0;padding-left:1.4em;columns:2;column-gap:28px}
+.toc a{font-size:.92rem}
 """
 
 def load(p):
@@ -131,16 +140,18 @@ def tier_badge(e):
     return '<span class="tag %s">%s</span>'%("core" if e["tier"]=="核心" else "", e["tier"])
 
 def head(title, crumb=True):
-    nav='<nav class="nav">'+"".join('<a href="%s">%s</a>'%(u,t) for u,t in [
+    nav='<nav class="nav" aria-label="主导航">'+"".join('<a href="%s">%s</a>'%(u,t) for u,t in [
         (REL+"index.html","首页"),(REL+"units.html","单元总览"),(REL+"timeline.html","时间线"),
         (REL+"people.html","人物"),(REL+"glossary.html","术语"),
         (REL+"all-index.html","全站索引"),(REL+"sources.html","来源库")])+'</nav>'
     return ("<!doctype html><html lang='zh-CN'><head><meta charset='utf-8'>"
         "<meta name='viewport' content='width=device-width,initial-scale=1'>"
         "<title>%s — 艺术史与音乐史导读</title><link rel='stylesheet' href='%sassets/style.css'></head><body>"%(esc(title),REL))+ \
-        "<header class='site-head'><div class='wrap'><a class='brand' href='%sindex.html'>艺术史与音乐史导读<small>ART &amp; MUSIC HISTORY PRIMER</small></a>%s</div></header>"%(REL,nav)
+        "<a class='skip' href='#main'>跳到主内容</a>"\
+        "<header class='site-head'><div class='wrap'><a class='brand' href='%sindex.html'>艺术史与音乐史导读<small>ART &amp; MUSIC HISTORY PRIMER</small></a>%s</div></header>"%(REL,nav)\
+        + "<main id='main'>"
 
-FOOT="<footer class='footer'><div class='wrap'>静态知识库 · 数据驱动 · 机器校验 · 诚实标注 — 所有图示为自绘 SVG，不含作品图片。</div></footer></body></html>"
+FOOT="</main><footer class='footer'><div class='wrap'>静态知识库 · 数据驱动 · 机器校验 · 诚实标注 — 所有图示为自绘 SVG，不含作品图片。</div></footer></body></html>"
 
 def entry_card(e):
     return ("<article class='card'><div class='meta'>%s · %s</div><h3><a href='%sentries/%s.html'>%s</a></h3>"
@@ -206,8 +217,12 @@ def build_entry(e,entries):
     else:
         sec=e.get("sections",{})
         names=["时代背景","风格特征","代表人物与作品","技法或形式分析","与前后风格的关系和争论","一图","待核实"]
+        s.append("<nav class='toc' aria-label='页内目录'><div class='eyebrow'>页内目录</div><ol>")
         for i,nm in enumerate(names,1):
-            s.append("<div class='section-block'><h2><span class='num'>%02d</span>%s</h2>"%(i,esc(nm)))
+            s.append("<li><a href='#sec-%02d'>%s</a></li>"%(i,esc(nm)))
+        s.append("</ol></nav>")
+        for i,nm in enumerate(names,1):
+            s.append("<div class='section-block'><h2 id='sec-%02d'><span class='num'>%02d</span>%s</h2>"%(i,i,esc(nm)))
             if nm=="一图":
                 s.append("<p>%s</p><div class='svg-frame'>%s</div>"%(esc(sec.get(nm,"")),e.get("svg","")))
             elif nm=="待核实":
@@ -437,6 +452,21 @@ def build_css():
     os.makedirs(os.path.join(OUT,"assets"),exist_ok=True)
     open(os.path.join(OUT,"assets","style.css"),"w",encoding="utf-8").write(CSS)
 
+
+def build_sitemap(entries):
+    # 站点根：GitHub Pages 默认地址（用户 TianDiHuAng / 仓库 yishu）
+    base="https://tiandihuang.github.io/yishu/"
+    urls=["index.html","units.html","timeline.html","people.html","glossary.html",
+          "all-index.html","sources.html"]
+    urls+= ["units/%s.html"%u for u in UNITS]
+    urls+= ["entries/%s.html"%e["id"] for e in entries]
+    body=["<?xml version='1.0' encoding='UTF-8'?>","<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>"]
+    for u in urls:
+        body.append("<url><loc>%s%s</loc></url>"%(base,u))
+    body.append("</urlset>")
+    open(os.path.join(OUT,"sitemap.xml"),"w",encoding="utf-8").write("\n".join(body))
+    open(os.path.join(OUT,"robots.txt"),"w",encoding="utf-8").write("User-agent: *\nAllow: /\nSitemap: %ssitemap.xml\n"%base)
+
 def main():
     global REL,SM,SOURCES,UNITS
     entries=load(os.path.join(D,"site_entries.json"))["entries"]
@@ -458,6 +488,7 @@ def main():
     # 修正：head() 的 brand/nav 在条目页应使用 ../ 前缀。build_entry 已用 head() 且 REL='../'，正确。
     # 来源表链接为绝对 URL，不受影响。
     n=len(entries)
-    print("generated index.html + %d entry pages + timeline/all-index/sources + style.css"%n)
+    build_sitemap(entries)
+    print("generated index.html + %d entry pages + indexes + sitemap.xml"%n)
 
 if __name__=="__main__": main()

@@ -1,8 +1,8 @@
 
 :root{
   --paper:#f7f3ea; --paper-2:#efe9dc; --card:#fffdf7; --ink:#26221c;
-  --ink-soft:#5c554a; --ink-faint:#8b8275; --rule:#d8cfbd;
-  --accent:#8c3b2e; --accent-soft:#b5654f; --gold:#9a7b3f;
+  --ink-soft:#5c554a; --ink-faint:#6b6357; --rule:#d8cfbd;
+  --accent:#8c3b2e; --accent-soft:#b5654f; --gold:#7a5f2e;
   --svg-box:#e8dfcc; --svg-box-strong:#f0e2d2; --svg-accent:#8c3b2e;
   --svg-line:#5c554a; --svg-text:#26221c;
   --shadow:0 1px 2px rgba(40,32,20,.06),0 8px 30px rgba(40,32,20,.05);
@@ -14,7 +14,7 @@
 @media (prefers-color-scheme: dark){
   :root{
     --paper:#161512; --paper-2:#1d1b17; --card:#211f1a; --ink:#ece5d6;
-    --ink-soft:#b9b0a0; --ink-faint:#8a8172; --rule:#3a352c;
+    --ink-soft:#b9b0a0; --ink-faint:#978d7e; --rule:#3a352c;
     --accent:#d98a72; --accent-soft:#c9775e; --gold:#c9a95f;
     --svg-box:#2c2820; --svg-box-strong:#3a2c22; --svg-accent:#d98a72;
     --svg-line:#b9b0a0; --svg-text:#ece5d6;
@@ -104,4 +104,13 @@ th{font-family:var(--sans);color:var(--ink-soft);font-size:.82rem}
 .entry-link .m{font-size:.78rem;color:var(--ink-faint);font-family:var(--mono);white-space:nowrap}
 .ok{color:#3d7a4e} .no{color:var(--accent)}
 @media(max-width:640px){h1{font-size:2rem}.nav{gap:12px}.hero{padding:48px 0 32px}}
-@media print{.site-head{position:static}.card,.svg-frame{box-shadow:none}}
+@media print{.site-head{position:static}.card,.svg-frame{box-shadow:none}
+  .nav,.rel-list,.breadcrumb{display:none}a{border:0;color:var(--ink)}
+  body{font-size:11pt}.section{padding:18px 0}}
+:focus-visible{outline:3px solid var(--accent);outline-offset:2px;border-radius:4px}
+.skip{position:absolute;left:-9999px;top:0;background:var(--card);color:var(--ink);
+  padding:10px 16px;z-index:99;border:1px solid var(--rule);border-radius:0 0 8px 0}
+.skip:focus{left:0}
+.toc{background:var(--card);border:1px solid var(--rule);border-radius:var(--radius);padding:16px 20px;margin:0 0 28px}
+.toc ol{margin:.4em 0 0;padding-left:1.4em;columns:2;column-gap:28px}
+.toc a{font-size:.92rem}
