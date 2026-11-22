@@ -438,6 +438,20 @@
       "gaps_found": {},
       "network": "wiki blocked / wikidata ok",
       "verdict": "来源构成徽标；网络仍只通 Wikidata；未饱和"
+    },
+    {
+      "cycle": "cycle36",
+      "date": "2026-11-22",
+      "methods_used": [
+        "B5 Wikidata尝试"
+      ],
+      "gaps_found": {
+        "discrepancy": 1,
+        "fact": 1,
+        "unresolved": 3
+      },
+      "network": "partial",
+      "verdict": "B5：1 差异（romanesque 断代）+1 备查（张旭生年）+3 仍无解；未饱和"
     }
   ],
   "assessment_c33": {

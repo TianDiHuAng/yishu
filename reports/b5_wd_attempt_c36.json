@@ -1,0 +1,60 @@
+{
+ "realism_candidates": [],
+ "romanesque_entity": {
+  "qid": "Q46805",
+  "labels": {
+   "en": "Romanesque art",
+   "zh": "羅馬式美術"
+  },
+  "P580": [
+   "+1000-00-00T00:00:00Z"
+  ],
+  "P582": [
+   "+1200-00-00T00:00:00Z"
+  ]
+ },
+ "zhangxu_candidates": [
+  [
+   "Q11138922",
+   "Marshal Zhang's Mansion",
+   "former residence of Chang Hsueh-liang (Zhang Xueliang), in Shenyang, China"
+  ],
+  [
+   "Q717343",
+   "Zhang Xu",
+   "Chinese calligrapher"
+  ],
+  [
+   "Q713174",
+   "Cho U",
+   "Taiwanese Go player"
+  ],
+  [
+   "Q16781",
+   "Jacky Cheung",
+   "Hong Kong singer and actor (born 1961)"
+  ],
+  [
+   "Q102394479",
+   "Zhang Xu",
+   "Ph.D. University of Florida 2007"
+  ]
+ ],
+ "zhangxu_entity": {
+  "qid": "Q717343",
+  "labels": {
+   "en": "Zhang Xu",
+   "zh": "張旭"
+  },
+  "P569": [
+   "+0670-01-01T00:00:00Z"
+  ]
+ },
+ "cursive_entity": {
+  "qid": "Q607543",
+  "labels": {
+   "en": "Chinese cursive script",
+   "zh": "草书"
+  }
+ }
+}

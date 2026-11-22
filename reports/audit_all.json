@@ -2,8 +2,8 @@
  "steps": [
   {
    "step": "py_compile（全部工具可编译）",
-   "status": "ok",
-   "tail": "146 个 .py 全部通过"
+   "status": "FAIL",
+   "tail": "[('build_report_autonomous.py', '  File \"E:\\\\ai_project\\\\yishu\\\\tools\\\\build_report_autonomous.py\", line 34\\n    L.app')]"
   },
   {
    "step": "check.py（R1-R17 硬规则）",
@@ -48,5 +48,5 @@
    "tail": "待核实渲染比对：不一致 0 条；HTML 结构错误页 0 个"
   }
  ],
- "fails": 0
+ "fails": 1
 }

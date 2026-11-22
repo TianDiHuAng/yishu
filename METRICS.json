@@ -947,6 +947,32 @@
       "check_links_result": "broken=0(176页)",
       "audit_all": "8/8 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle36",
+      "date": "2026-11-22",
+      "status": "completed",
+      "gap_methods": [
+        "B5复核(Wikidata时间声明)"
+      ],
+      "network": "partial: wikidata ok",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 5,
+      "fixes": 0,
+      "b5_result": {
+        "romanesque": "差异：WD 1000–1200 vs 条目 1000—1150",
+        "zhangxu": "备查：生年670（作品名仍无解）",
+        "unresolved": [
+          "realism 1840-1870",
+          "donatello 术语",
+          "草书年代"
+        ]
+      },
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(176页)",
+      "audit_all": "8/8 ok",
+      "commits": 1
     }
   ]
 }
