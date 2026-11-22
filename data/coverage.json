@@ -883,8 +883,8 @@
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
@@ -919,8 +919,8 @@
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 3,
-      "verified_sources_count": 3,
+      "sources_count": 4,
+      "verified_sources_count": 4,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
@@ -1663,60 +1663,60 @@
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "birth-of-venus-work": {
       "title": "《维纳斯的诞生》",
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "sistine-ceiling-work": {
       "title": "西斯廷礼拜堂天顶画",
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "guernica-work": {
       "title": "《格尔尼卡》",
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "rite-of-spring-work": {
       "title": "《春之祭》",
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     }
   }
 }

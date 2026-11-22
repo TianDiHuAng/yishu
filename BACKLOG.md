@@ -236,3 +236,15 @@
 ### P0 轻量网络探针（curl -m 8 抓 wikipedia；出现可读正文即恢复内容建设）
 ### P1（若可读）A类建筑补盲≤14 + L3重建 + B5剩5项 + 重合度
 ### P2（若仍壳页）导读↔comparative↔正文互通 / 条目要点速览 / 站内 status.html 状态页
+
+## Cycle 14 完成记录（突破，2026-11-22）
+- 发现 Wikidata/Wikimedia API/Commons/DBpedia 可用（JSON）；新增 tools/wikidata_verify.py（三重消歧）。
+- 核验 5 作品（作者/收藏地）与条目一致；登记 5 条 wd-* 来源；春之祭 P170 异常已标注不采信（D020）。
+- 修复 merge_l2 sources 覆盖 bug → 改为并集（D021）。
+- 结果：来源 169（verified 164）；check/links/audit_all 全通过。
+
+## Cycle 15 待办队列
+### P1 人物生卒核验（P569/P570）：20+ 人物条目，出差异报告（不自动改）
+### P2 作品事实扩核（P571/P195/P2048/P2049）：按需写入待核实留痕
+### P3 A类建筑起步：用 wbsearchentities 找 Chinese architecture(Q957904) 等；匹配描述类型后建条目（≤14/轮，≥2来源）
+### P4 若 Wikidata 不可用：导读↔正文互通 / status.html

@@ -1639,6 +1639,56 @@
       "type": "权威百科",
       "verified": true,
       "verified_note": "HTTP200 <title>=The Scream - Wikipedia"
+    },
+    {
+      "id": "wd-starry-night",
+      "title": "Wikidata: The Starry Night (Q45585)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q45585",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle14 API 读取 EntityData 成功（HTTP200 JSON），并按标题/类型/作者三重消歧"
+    },
+    {
+      "id": "wd-birth-of-venus",
+      "title": "Wikidata: The Birth of Venus (Q151047)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q151047",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle14 API 读取 EntityData 成功（HTTP200 JSON），并按标题/类型/作者三重消歧"
+    },
+    {
+      "id": "wd-sistine-ceiling",
+      "title": "Wikidata: Sistine Chapel ceiling (Q844675)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q844675",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle14 API 读取 EntityData 成功（HTTP200 JSON），并按标题/类型/作者三重消歧"
+    },
+    {
+      "id": "wd-guernica",
+      "title": "Wikidata: Guernica (Q175036)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q175036",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle14 API 读取 EntityData 成功（HTTP200 JSON），并按标题/类型/作者三重消歧"
+    },
+    {
+      "id": "wd-rite-of-spring",
+      "title": "Wikidata: The Rite of Spring (Q206015)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q206015",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle14 API 读取 EntityData 成功（HTTP200 JSON），并按标题/类型/作者三重消歧"
     }
   ]
 }

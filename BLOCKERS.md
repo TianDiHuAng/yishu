@@ -28,3 +28,8 @@
   - **不可达**：en/zh.wikipedia.org、metmuseum.org、tate.org.uk（TCP 超时）
   - 但**可达的两站均返回反爬壳页**：百度百科为 `__PARIS_CHALLENGE__` JS 挑战页（4.7KB，正文为空），Khan Academy 为 `Client Challenge`（3KB）；Britannica 为 Cloudflare `Just a moment...`。
   - **结论**：本环境**无法取得可核验的权威正文**（既非"全网断网"，也非"可用"）。因此新增条目/升级 L3/B5 复核仍然无法执行；这不是判断失误，而是可抓取内容的实际缺失。证据：本机 curl 复测记录见本条。
+- **Cycle14 网络结论修正（重要）**：Cycle7–13 的"网络不可用"应修正为"**部分可用**"：
+  - 可达且返回**可用 JSON**：`www.wikidata.org`（`w/api.php`、`Special:EntityData/Qxxx.json`）、`api.wikimedia.org`、`commons.wikimedia.org`、`dbpedia.org`
+  - 不可达：`en/zh.wikipedia.org`、`metmuseum.org`、`tate.org.uk`
+  - 可达但只有反爬壳页：`baike.baidu.com`（`__PARIS_CHALLENGE__`）、`khanacademy.org`（`Client Challenge`）、`britannica.com`（Cloudflare 403）
+  - **含义**：事实**定位与交叉印证**可借 Wikidata 进行；但 Wikidata 与 Wikipedia **同源**，独立性不足，**不足以单独支撑 L3 的两方真实立场**。

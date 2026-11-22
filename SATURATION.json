@@ -181,6 +181,19 @@
       "gaps_found": {},
       "network": "partial/no usable text",
       "verdict": "本地轮：网络能力精确定位 + audit_all 一键体检；未饱和"
+    },
+    {
+      "cycle": "cycle14",
+      "date": "2026-11-22",
+      "methods_used": [
+        "网络再探测",
+        "B5复核"
+      ],
+      "gaps_found": {
+        "可核验事实": 5
+      },
+      "network": "partial(Wikidata ok)",
+      "verdict": "突破：Wikidata 可核验作品作者/收藏地；修来源并集bug；未饱和"
     }
   ]
 }

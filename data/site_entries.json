@@ -2695,6 +2695,7 @@
       ],
       "sources": [
         "enc-chinese-calligraphy",
+        "enc-calligraphy",
         "enc-clerical-script"
       ],
       "level": "L2",
@@ -2791,6 +2792,7 @@
       ],
       "sources": [
         "enc-chinese-calligraphy",
+        "enc-calligraphy",
         "enc-cursive-script-east-asia",
         "enc-huaisu"
       ],
@@ -4904,7 +4906,8 @@
       ],
       "sources": [
         "enc-starry-night",
-        "enc-moma"
+        "enc-moma",
+        "wd-starry-night"
       ],
       "level": "L2",
       "sections": {
@@ -4914,7 +4917,7 @@
         "技法或形式分析": "就来源可支撑的范围看，作品以油画完成，运用漩涡状笔触与强烈色彩两项形式特征。笔触的方向性使天空与地面形成流动感，色彩强度则承担情绪表达。关于具体颜料、画布尺寸与构图比例的细节，输入未提供，列入待核实。",
         "与前后风格的关系和争论": "作品处于后印象派脉络之中：它承接印象派对光色的关注，又以主观笔触与色彩背离其客观性，因而常被视为通向表现主义的先声。相关条目梵高与后印象派支持这一位置判断。学界主要讨论后印象派的分期与边界问题，记载较一致。",
         "一图": "示意图以梵高、后印象派与表现性笔触三者关系，标示本作品在流派脉络中的位置。",
-        "待核实": "（1）作品的画布尺寸、材质细节与馆藏编号未在输入事实中给出，待补充第二来源；（2）创作的具体起止日期与圣雷米时期的先后次序待核实；（3）同时期其他代表作品的名称与年份未在输入中列出，待补充；（4）本条目所述风格特征限于概述已述的漩涡状笔触与强烈色彩，更细的形式分析待来源支撑。 （5）关于馆藏佐证：所引 enc-moma 为维基「现代艺术博物馆」机构词条，只能佐证该馆存在与所在地，不能直接佐证本作品的馆藏登记；收藏地暂依据作品条目自身与其来源，馆藏编号与入藏年份待馆方页面核实。"
+        "待核实": "（1）作品的画布尺寸、材质细节与馆藏编号未在输入事实中给出，待补充第二来源；（2）创作的具体起止日期与圣雷米时期的先后次序待核实；（3）同时期其他代表作品的名称与年份未在输入中列出，待补充；（4）本条目所述风格特征限于概述已述的漩涡状笔触与强烈色彩，更细的形式分析待来源支撑。 （5）关于馆藏佐证：所引 enc-moma 为维基「现代艺术博物馆」机构词条，只能佐证该馆存在与所在地，不能直接佐证本作品的馆藏登记；收藏地暂依据作品条目自身与其来源，馆藏编号与入藏年份待馆方页面核实。 【已复核·Wikidata】作者与收藏：第二来源 wd-starry-night（https://www.wikidata.org/wiki/Q45585），据其结构化数据：作者=文森特·梵高；收藏=現代藝術博物館。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='《星月夜》 示意图'><title>《星月夜》</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>后印象派</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>主观表达</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>星月夜</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>漩涡笔触</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>表现主义</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>情绪化色彩</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>后印象派脉络中的表现性绘画</text></g></svg>"
     },
@@ -4936,7 +4939,8 @@
       ],
       "sources": [
         "enc-birth-venus",
-        "enc-uffizi"
+        "enc-uffizi",
+        "wd-birth-of-venus"
       ],
       "level": "L2",
       "sections": {
@@ -4946,7 +4950,7 @@
         "技法或形式分析": "定义指明作品为蛋彩画，这一媒介决定了色彩的明丽与层次。来源可支撑的形式特征为流畅线条与明丽色彩：线条承担造型与节奏，色彩承担装饰效果。关于画幅尺寸、支撑材料与具体技法的细节，输入未提供，列入待核实。",
         "与前后风格的关系和争论": "作品属早期文艺复兴脉络，与盛期文艺复兴的宏大构图和雕塑式人体形成前后对照。它把古典神话引入绘画，为后世神话题材提供范式。相关条目支持这一位置判断；学界主要讨论早期与盛期文艺复兴的分期边界，记载较一致。",
         "一图": "示意图以早期文艺复兴、波提切利与神话题材三者的关系，标示本作品的位置。",
-        "待核实": "（1）画幅尺寸、支撑材料与馆藏编号未在输入事实中给出，待补充第二来源；（2）具体创作年份在输入中记为约1485年，精确断代待核实；（3）委约人与原初陈列地点的史实待补充；（4）同期其他代表作名称未在输入中列出。"
+        "待核实": "（1）画幅尺寸、支撑材料与馆藏编号未在输入事实中给出，待补充第二来源；（2）具体创作年份在输入中记为约1485年，精确断代待核实；（3）委约人与原初陈列地点的史实待补充；（4）同期其他代表作名称未在输入中列出。 【已复核·Wikidata】作者与收藏：第二来源 wd-birth-of-venus（https://www.wikidata.org/wiki/Q151047），据其结构化数据：作者=桑德罗·波提切利；收藏=烏菲茲美術館。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='《维纳斯的诞生》 示意图'><title>《维纳斯的诞生》</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>早期文艺复兴</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>人文主义</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>维纳斯诞生</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>线条与明丽色彩</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>神话题材</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>古典母题</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>文艺复兴早期的神话题材绘画</text></g></svg>"
     },
@@ -4968,7 +4972,8 @@
       ],
       "sources": [
         "enc-sistine-ceiling",
-        "enc-michelangelo"
+        "enc-michelangelo",
+        "wd-sistine-ceiling"
       ],
       "level": "L2",
       "sections": {
@@ -4978,7 +4983,7 @@
         "技法或形式分析": "定义为天顶壁画，即在礼拜堂天顶上以湿壁画方式绘制的作品。来源可支撑的形式特征为《创世纪》场景的组织与极具体量感的人物塑造：人体通过明暗与姿态获得体积，场景沿天顶结构展开。关于脚手架的搭建、颜料层数与绘制顺序等技术细节，输入未提供，列入待核实。",
         "与前后风格的关系和争论": "作品属盛期文艺复兴，它把雕塑式人体引入壁画，与同期追求和谐比例与宏大构图的取向一致；其后样式主义对人体的夸张处理亦与之相关。相关条目支持这一位置判断。学界主要讨论盛期文艺复兴的起止边界，记载较一致。",
         "一图": "示意图以盛期文艺复兴、米开朗基罗与雕塑式绘画三者的关系，标示本作品的位置。",
-        "待核实": "（1）天顶画各幅场景的独立名称、数量与排列未在输入事实中给出，待补充第二来源；（2）绘制起止年份在输入中记为约1508—1512年，精确日期待核实；（3）湿壁画的具体技术流程与修复历史待补充；（4）委约背景的细节（如教廷与画家的关系）待来源支撑。"
+        "待核实": "（1）天顶画各幅场景的独立名称、数量与排列未在输入事实中给出，待补充第二来源；（2）绘制起止年份在输入中记为约1508—1512年，精确日期待核实；（3）湿壁画的具体技术流程与修复历史待补充；（4）委约背景的细节（如教廷与画家的关系）待来源支撑。 【已复核·Wikidata】作者与收藏：第二来源 wd-sistine-ceiling（https://www.wikidata.org/wiki/Q844675），据其结构化数据：作者=米开朗琪罗；收藏=梵蒂冈博物馆。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='西斯廷礼拜堂天顶画 示意图'><title>西斯廷礼拜堂天顶画</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>盛期文艺复兴</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>宏大均衡</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>西斯廷天顶</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>雕塑式人体</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>样式主义</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>人体夸张</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>盛期文艺复兴的雕塑式壁画</text></g></svg>"
     },
@@ -5000,7 +5005,8 @@
       ],
       "sources": [
         "enc-guernica",
-        "enc-picasso"
+        "enc-picasso",
+        "wd-guernica"
       ],
       "level": "L2",
       "sections": {
@@ -5010,7 +5016,7 @@
         "技法或形式分析": "来源可支撑的形式特征有两点：一是黑白灰的单色处理，二是变形与拼贴化的图像组织。单色使画面趋向新闻照片般的记录感与沉痛感；变形与拼贴则打破单一视点，让多重形象并置。关于画幅尺寸、构图分区与具体形象的细节，输入未提供，列入待核实。",
         "与前后风格的关系和争论": "作品立在立体主义的形式基础上，却转向明确的叙事与政治控诉，因而常被视为现代艺术介入公共事件的重要案例。相关条目支持这一位置判断。学界主要讨论现代艺术与政治的关系及其分期边界，记载较一致。",
         "一图": "示意图以立体主义形式、格尔尼卡与政治性控诉三者的关系，标示本作品的位置。",
-        "待核实": "（1）画幅尺寸、具体形象数量与构图分区未在输入事实中给出，待补充第二来源；（2）创作起止日期与首展地点待核实；（3）现藏机构在概述中记为马德里索菲亚王后艺术中心，馆藏编号待补充；（4）委约背景（如世界博览会）的细节待来源支撑。"
+        "待核实": "（1）画幅尺寸、具体形象数量与构图分区未在输入事实中给出，待补充第二来源；（2）创作起止日期与首展地点待核实；（3）现藏机构在概述中记为马德里索菲亚王后艺术中心，馆藏编号待补充；（4）委约背景（如世界博览会）的细节待来源支撑。 【已复核·Wikidata】作者与收藏：第二来源 wd-guernica（https://www.wikidata.org/wiki/Q175036），据其结构化数据：作者=巴勃羅·畢卡索；收藏=索菲亚王后国家艺术中心博物馆。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='《格尔尼卡》 示意图'><title>《格尔尼卡》</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>立体主义</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>图像分解</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>格尔尼卡</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>黑白灰控诉</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>政治性艺术</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>介入公共事件</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>从立体主义形式到政治控诉</text></g></svg>"
     },
@@ -5032,7 +5038,8 @@
       ],
       "sources": [
         "enc-rite-spring",
-        "enc-stravinsky"
+        "enc-stravinsky",
+        "wd-rite-of-spring"
       ],
       "level": "L2",
       "sections": {
@@ -5042,7 +5049,7 @@
         "技法或形式分析": "来源可支撑的形式特征有两项：强烈而不规则的节奏，以及不协和的音响组合。节奏承担结构驱动力，不协和则制造紧张与冲突，二者共同服务于祭祀场景的原始感。关于具体配器编制、段落划分与和声手法的细节，输入未提供，列入待核实。",
         "与前后风格的关系和争论": "作品属20世纪古典音乐，它延续浪漫主义晚期对规模的扩张，却以节奏与不协和背离其和声语汇，成为现代主义音乐的标志性事件。首演争议本身即是接受史的重要议题。相关条目支持这一位置判断。学界主要讨论现代音乐的分期与边界，记载较一致。",
         "一图": "示意图以20世纪古典音乐、春之祭与首演争议三者的关系，标示本作品的位置。",
-        "待核实": "（1）配器编制、段落标题与总谱细节未在输入事实中给出，待补充第二来源；（2）首演的确切日期、剧场与演出团体待核实；（3）编舞者与舞美设计者的姓名未在输入中列出，待补充；（4）首演争议的具体经过须依据史料核实后再写入，目前仅保留概述的概括表述。"
+        "待核实": "（1）配器编制、段落标题与总谱细节未在输入事实中给出，待补充第二来源；（2）首演的确切日期、剧场与演出团体待核实；（3）编舞者与舞美设计者的姓名未在输入中列出，待补充；（4）首演争议的具体经过须依据史料核实后再写入，目前仅保留概述的概括表述。 【已复核·Wikidata】作者与收藏：第二来源 wd-rite-of-spring（https://www.wikidata.org/wiki/Q206015），据其结构化数据：作者=西德尼·諾蘭；收藏=（Wikidata 未列收藏机构）。 注：该条目 P170（作者）字段标签为「西德尼·諾蘭」，与实际作品（描述明确为 Igor Stravinsky 的芭蕾音乐）不符，属 Wikidata 数据异常，本条**不采信该字段**，作者仍以原来源为准。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='《春之祭》 示意图'><title>《春之祭》</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>20世纪古典</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>调性探索</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>春之祭</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>强烈节奏</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>首演争议</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>接受史事件</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>现代主义音乐与首演争议</text></g></svg>"
     }

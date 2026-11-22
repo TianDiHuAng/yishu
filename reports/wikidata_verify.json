@@ -1,0 +1,215 @@
+[
+ {
+  "entry_id": "starry-night",
+  "accepted": {
+   "qid": "Q45585",
+   "labels": {
+    "zh": "星夜",
+    "en": "The Starry Night"
+   },
+   "desc": "painting by Vincent van Gogh",
+   "creator": [
+    "文森特·梵高"
+   ],
+   "collection": [
+    "現代藝術博物館"
+   ],
+   "inception": [
+    "+1889-01-01T00:00:00Z"
+   ],
+   "location": [
+    "現代藝術博物館"
+   ],
+   "height": [
+    "+73.7"
+   ],
+   "width": [
+    "+92.1",
+    "+36.25"
+   ]
+  },
+  "rejected": [
+   {
+    "qid": "Q18890926",
+    "label": {
+     "en": "Starry Night"
+    },
+    "desc": "painting by Edvard Munch (1922 - 2), Munch-Museum Oslo MM.M.00009",
+    "creator": [
+     "愛德華·蒙克"
+    ],
+    "rejected_reason": "标题不符作者不符"
+   }
+  ]
+ },
+ {
+  "entry_id": "birth-of-venus-work",
+  "accepted": {
+   "qid": "Q151047",
+   "labels": {
+    "en": "The Birth of Venus",
+    "zh": "维纳斯的诞生"
+   },
+   "desc": "painting by Sandro Botticelli, Uffizi",
+   "creator": [
+    "桑德罗·波提切利"
+   ],
+   "collection": [
+    "烏菲茲美術館"
+   ],
+   "inception": [
+    "+1480-00-00T00:00:00Z",
+    "+1485-00-00T00:00:00Z",
+    "+1478-00-00T00:00:00Z"
+   ],
+   "location": [
+    "Uffizi Gallery - Room 11-12, Botticelli's, Florence, Italy",
+    "卡斯特羅美第奇別墅",
+    "烏菲茲美術館",
+    "美第奇-里卡迪宫",
+    "Bedroom of Lorenzo il Magnifico of Palazzo Medici"
+   ],
+   "height": [
+    "+172.5"
+   ],
+   "width": [
+    "+278.5"
+   ]
+  },
+  "rejected": [
+   {
+    "qid": "Q130297351",
+    "label": {
+     "en": "Birth of Venus"
+    },
+    "desc": "painting by Armando Menocal",
+    "creator": [
+     "Armando Menocal"
+    ],
+    "rejected_reason": "作者不符"
+   },
+   {
+    "qid": "Q138504652",
+    "label": {
+     "en": "Birth of Venus"
+    },
+    "desc": "painting by John Roddam Spencer Stanhope",
+    "creator": [
+     "约翰·罗达姆·斯宾塞·斯坦霍普"
+    ],
+    "rejected_reason": "作者不符"
+   }
+  ]
+ },
+ {
+  "entry_id": "sistine-ceiling-work",
+  "accepted": {
+   "qid": "Q844675",
+   "labels": {
+    "en": "Sistine Chapel ceiling",
+    "zh": "创世纪"
+   },
+   "desc": "cycle of frescoes by Michelangelo",
+   "creator": [
+    "米开朗琪罗"
+   ],
+   "collection": [
+    "梵蒂冈博物馆"
+   ],
+   "inception": [
+    "+1508-01-01T00:00:00Z"
+   ],
+   "location": [
+    "西斯汀小堂"
+   ],
+   "height": [
+    "+4093"
+   ],
+   "width": [
+    "+1341"
+   ]
+  },
+  "rejected": []
+ },
+ {
+  "entry_id": "guernica-work",
+  "accepted": {
+   "qid": "Q175036",
+   "labels": {
+    "en": "Guernica",
+    "zh": "格尔尼卡"
+   },
+   "desc": "1937 oil painting by Pablo Picasso",
+   "creator": [
+    "巴勃羅·畢卡索"
+   ],
+   "collection": [
+    "索菲亚王后国家艺术中心博物馆"
+   ],
+   "inception": [
+    "+1937-01-01T00:00:00Z"
+   ],
+   "location": [
+    "索菲亚王后国家艺术中心博物馆"
+   ],
+   "height": [
+    "+349"
+   ],
+   "width": [
+    "+776"
+   ]
+  },
+  "rejected": [
+   {
+    "qid": "Q189848",
+    "label": {
+     "en": "Guernica",
+     "zh": "格尔尼卡"
+    },
+    "desc": "town in the Basque Country, Spain",
+    "creator": [],
+    "rejected_reason": "类型不符作者不符"
+   },
+   {
+    "qid": "Q94396831",
+    "label": {
+     "en": "Guernica"
+    },
+    "desc": "1982 film by Ferenc Kósa",
+    "creator": [],
+    "rejected_reason": "类型不符作者不符"
+   },
+   {
+    "qid": "Q5842628",
+    "label": {
+     "en": "Guernica train station"
+    },
+    "desc": "train station in Argentina",
+    "creator": [],
+    "rejected_reason": "类型不符作者不符"
+   }
+  ]
+ },
+ {
+  "entry_id": "rite-of-spring-work",
+  "accepted": {
+   "qid": "Q206015",
+   "labels": {
+    "en": "The Rite of Spring",
+    "zh": "春之祭"
+   },
+   "desc": "ballet music by Igor Stravinsky, composed for the ballet of the same title by Vaslav Nijinsky",
+   "creator": [
+    "西德尼·諾蘭"
+   ],
+   "collection": [],
+   "inception": [
+    "+1913-00-00T00:00:00Z"
+   ],
+   "location": [],
+   "height": [],
+   "width": []
+  },
+  "rejected": []
+ }
+]

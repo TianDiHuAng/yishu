@@ -1,26 +1,26 @@
 # REPORT.md — 覆盖报告（供每日验收）
 
 ## 1. 本轮状态
-- 轮次：**cycle13** · 日期：2026-11-22 · 状态：**正常**
+- 轮次：**cycle14** · 日期：2026-11-22 · 状态：**正常**
 
 ## 2. 本轮完成
-- 新增条目：**0** · 升级：**0** · 复核：**0** · 修复：**1**
-- 新增来源：**0**
-- 本轮特别说明：网络能力精确定位——可达站点为 github（200）、百度百科（200）、Khan Academy（200）、Britannica（403），不可达为 wikipedia/met/tate；但可达站点全部返回反爬壳页（百度返回 __PARIS_CHALLENGE__ 挑战页 4.7KB 无正文；Khan 返回 Client Challenge 3KB；Britannica 为 Cloudflare Just a moment），因此仍无可用权威正文，内容建设继续受阻。同时新增 tools/audit_all.py 一键体检（check/链接/九维体检/内容自洽/关联图/单向关联 共6项，本轮 6/6 通过）。
+- 新增条目：**0** · 升级：**0** · 复核：**5** · 修复：**6**
+- 新增来源：**5**
+- 本轮特别说明（突破）：Cycle13 的网络结论需修正——Wikipedia/Met/Tate 仍不可达、百度/Khan 仅返回反爬壳页，但 www.wikidata.org（api.php 与 Special:EntityData/*.json）、api.wikimedia.org、commons.wikimedia.org、dbpedia.org 均可达且返回可用 JSON。新增 tools/wikidata_verify.py（三重消歧：标题+描述类型词+作者名），核验 5 个作品档案的作者与收藏地，结果与条目一致（星夜/维纳斯的诞生/西斯廷天顶画/格尔尼卡/春之祭）；春之祭实体的 P170 字段异常（西德尼·諾蘭）已标注不采信。同时修复真实数据丢失 bug：merge_l2 的 sources 由覆盖改为并集（D021）。来源 164→169（verified 164），check/links/audit_all 全通过。
 
 ## 3. 累计
 - 总条目：**142** · 知识单元：**22**
 - 层级：L1 **0** · L2 **136** · L3 **6**
 - 双源校验通过：**142 / 142** · needs_verification：**0**
-- 来源总数：**164**（verified **159**）
+- 来源总数：**169**（verified **164**）
 
 ## 4. 质量
 - `tools/check.py`：**errors=0**
 - `tools/check_links.py`：**broken=0(171页)**
 
 ## 5. 缺口发现摘要（本轮 2 种）
-- 网络能力诊断
-- 工具收敛
+- 网络能力再探测(Wikidata)
+- B5待核实复核
 - B4 五十三问缺口的消化：采纳导读/跨媒介比较/分期辨析/术语类，新增10条；作品档案与轶事类因缺乏可核验来源留待后续。
 - B6 六条近期动态：仅采纳来源可核验的武王墩楚墓礼乐考古（2025-12，厦大新闻网），其余5条因来源不可达或非权威暂不采纳并记 BLOCKERS。
 

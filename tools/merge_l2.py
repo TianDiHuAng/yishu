@@ -22,7 +22,10 @@ for p in sorted(glob.glob(os.path.join(l2dir,"*.json"))):
     ov=json.load(open(p,encoding="utf-8"))
     eid=ov["id"]
     if eid not in merged: continue
+    base=list(merged[eid].get("sources",[]))
     merged[eid].update(ov)
+    # 来源并集：覆盖层只增不删
+    merged[eid]["sources"]=list(dict.fromkeys(base+list(ov.get("sources",[]))))
 
 entries=list(merged.values())
 # 全局去重：来源id不得重复（保持顺序）

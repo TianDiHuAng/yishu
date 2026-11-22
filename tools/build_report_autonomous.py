@@ -30,6 +30,8 @@ L.append("- 新增来源：**%d**"%cur.get("new_sources",0))
 if cur.get("qc_result"): L.append("- 质量闸：**%s**"%cur["qc_result"])
 if cyc=="cycle3":
     L.append("- 本轮特别说明：B5 复核 45 项待核实 → 38 项找到可核验第二来源并写入【已复核】留痕；B3 孤儿页 38→0（新增84条双向补链）；QC 收尾补 Bach/Vivaldi 来源并修正18处截断URL。")
+if cyc=="cycle14":
+    L.append("- 本轮特别说明（突破）：Cycle13 的网络结论需修正——Wikipedia/Met/Tate 仍不可达、百度/Khan 仅返回反爬壳页，但 www.wikidata.org（api.php 与 Special:EntityData/*.json）、api.wikimedia.org、commons.wikimedia.org、dbpedia.org 均可达且返回可用 JSON。新增 tools/wikidata_verify.py（三重消歧：标题+描述类型词+作者名），核验 5 个作品档案的作者与收藏地，结果与条目一致（星夜/维纳斯的诞生/西斯廷天顶画/格尔尼卡/春之祭）；春之祭实体的 P170 字段异常（西德尼·諾蘭）已标注不采信。同时修复真实数据丢失 bug：merge_l2 的 sources 由覆盖改为并集（D021）。来源 164→169（verified 164），check/links/audit_all 全通过。")
 if cyc=="cycle13":
     L.append("- 本轮特别说明：网络能力精确定位——可达站点为 github（200）、百度百科（200）、Khan Academy（200）、Britannica（403），不可达为 wikipedia/met/tate；但可达站点全部返回反爬壳页（百度返回 __PARIS_CHALLENGE__ 挑战页 4.7KB 无正文；Khan 返回 Client Challenge 3KB；Britannica 为 Cloudflare Just a moment），因此仍无可用权威正文，内容建设继续受阻。同时新增 tools/audit_all.py 一键体检（check/链接/九维体检/内容自洽/关联图/单向关联 共6项，本轮 6/6 通过）。")
 if cyc=="cycle12":
