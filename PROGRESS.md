@@ -1,46 +1,35 @@
-# PROGRESS.md — 进度游标
+# PROGRESS.md — 进度游标（自治模式）
 
-> 每次启动先读本文件，从"当前阶段/下一轮起点"续作。全部完成后写入 `ALL_DONE`。
+> 每次启动先读本文件与 BACKLOG/METRICS/SATURATION/REPORT，从"下轮起点"续作。
+> 按 AUTONOMOUS.md：不写 ALL_DONE；饱和以 SATURATION.json 为准。
 
-- 状态：进行中
-- 当前阶段：阶段4（分批写作，L1先行，按 核心→重要→补充 升级）
-- 累计已处理条目数：109 L1 + 82 L2（2样板 + 40 + 40）
-- 本轮（第2批）已处理：40 条（4核心 + 36重要）→ L2
-- 下一轮起点：剩余全部27条（23重要 + 4补充），清单见下方
+- 当前轮次：**Cycle 1 已完成** → 下轮 **Cycle 2**
+- 状态：正常（未饱和）
 - 最近更新：2026-11-22
 
-## 阶段清单
-- [x] 阶段0 范围：scope.md、coverage.json、覆盖矩阵（109条目/17单元/6大纲并集）
-- [x] 阶段1 来源库：sources.json（95条，90 verified ≥80）
-- [x] 阶段2 校验器：tools/check.py（R1-R15，当前 errors=0）
-- [x] 阶段3 样板：impressionism、baroque-music 到 L2，通过检查
-- [ ] 阶段4 分批写作：第1、2批共80条完成；剩余27条（23重要+4补充）待升级 —— 下一轮可全部完成
-- [ ] 阶段5 总览页/索引/时间线/导航/REPORT.md（骨架已生成，随条目增加需刷新）
-- [x] 站点生成：gen_site.py → index.html（113页，0断链）
-- [x] 批次复检：两批共抽16条；两批均完成返工与复核（见 reports/复检记录.md）
+## 上轮（Cycle 1）做了什么
+- 缺口发现 5 种方法（B1 权威大纲对照 / B2 覆盖矩阵 / B3 悬空引用 / B5 待核实 / B7 深度缺口）
+- B1 用新大纲发现中国史前—先秦—魏晋—隋唐 5 处缺口 → 联网核验 10 条新来源 → 新增 5 条目（D011 记录依据）
+- 27 条重要/补充 tier L1→L2；本轮共 32 任务，分 4 批执行，每批 check+commit
+- 质量闸抽检 4 条：3 PASS / 1 REWORK（early-christian-art 已返工）
+- 结果：**114 条目全部 L2**（L1=0）；check errors=0 / check_links broken=0；来源 105（100 verified）
+- 4 次 cycle1 提交：`d43aea6`、`dae8e50`、`873b300`、`63e398c`（返工在第4批后）
 
-## 续跑日志
-- 2026-11-22 14:57 初始化项目，读 TASK_art.md（63行）与 WORKFLOW.md（384行），工作区原为空，git init 完成。
-- 2026-11-22 15:10 阶段0：联网对照6份权威大纲目录取并集，生成 scope.md（109条目/17单元）、coverage.json、覆盖矩阵.md、entries.json(L1种子)。
-- 2026-11-22 15:15 阶段1：build_sources.py+reverify_sources.py 联网核对，sources.json 91条/86 verified。
-- 2026-11-22 15:20 阶段2：check.py 实现 R1-R14，修正R2公元前年份逻辑后 errors=0；commit 0ac5ce6。
-- 2026-11-22 15:30 阶段3+站点：两条样板到L2；gen_site.py 渲染113页；修正条目页 breadcrumb 的 ../ 层级错配，check_links broken=0。
-- 2026-11-22 15:45 阶段4第1批：10代理分两波写作40核心条目→L2；check errors=0。
-- 2026-11-22 15:50 批次复检1：抽8条，6 PASS/2 REWORK（gothic、greek-art），已返工并同步；commit 9bcede5 + 返工同步commit。
-- 2026-11-22 15:52 生成本轮覆盖报告 REPORT.md；记录下一轮起点。
-- 2026-11-22 16:05 阶段4第2批：40条（4核心+36重要）→L2，共82 L2；合成后 check errors=0 / broken=0。
-- 2026-11-22 16:10 来源完整性修复：发现8条 sources 重复 id，加固 check.py R15（唯一id计数+禁重复），新增4条已核验来源+source_fixes.json 修复；修复 check.py R2 接受朝代纪年（汉代/汉—唐）。
-- 2026-11-22 16:12 批次复检2：抽8条，2 PASS/6 REWORK（年代区间与技法术语无来源逐字支撑），触发整批返工；6条改概括+移入待核实+全批40条补诚实声明；recheck2b 复核又发现3条残留，二轮清理完成；程序化审计确认正文无裸断言。全链校验 errors=0/broken=0。
-- 2026-11-22 16:20 REPORT.md 改为读取 reports/复检记录.md，避免生成器覆盖手填结论。
+## 下轮起点（Cycle 2）
+1. 读 PROGRESS / BACKLOG / METRICS / SATURATION / REPORT / DECISIONS / BLOCKERS；运行 check.py（当前应 errors=0）。
+2. 缺口发现要做 ≥3 种，**本轮必须轮换到尚未用的 B4（读者问题清单）与 B6（近期动态）**，再从 B1/B2/B3/B5/B7 中选 1 种。
+   - B4：为初学者/学生/爱好者/从业者各列20个问题，检查站内能否直接找到答案。
+   - B6：联网搜近12个月艺术史/音乐史新研究、新发现、新事件，补充或更新相关条目（标日期+来源）。
+3. 排序入 BACKLOG.md；执行 ≤40 任务；每10个 check+commit。
+4. 质量闸：抽检 10%（≥3）另起子任务核对来源；异常监控（待核实占比、相似度）。
+5. 更新 coverage.json / METRICS.json / SATURATION.json / PROGRESS.md / REPORT.md；git commit。
+6. Cycle 5 时做体检 F（死链/过期数据/重复/矛盾/孤儿/重合度），替代当轮一半配额。
 
-## 下一轮操作清单（供续跑）
-1. 重读本文件、REPORT.md、DECISIONS.md、reports/复检记录.md。
-2. 剩余27条一次写完（不超过40配额）。用 make_batch2.py 同法生成输入（改为 batch3），排除已有 L2 覆盖层。
-3. workflow 写作（7个chunk）→ render_l2_svg.py → merge_l2.py → check.py → gen_site.py → check_links.py → build_report.py。
-4. 27条→抽4条复检（或按20抽4再补）；有问题返工。
-5. 全部109条到 L2 后：阶段5 刷新 REPORT.md，若有余力为核心条目做 L3；最终全链校验通过，写入 ALL_DONE，并 update_goal complete。
+## 长期待办（BACKLOG P4）
+- 32 条孤儿页补入链；82 条待核实逐项复核；核心条目 L3 深度升级；覆盖矩阵稀疏格补盲。
 
-## 下一轮27条清单
-mannerism,mona-lisa,northern-renaissance,raphael,venetian-school,fugue,monteverdi,sonata,guzheng,pipa,yayue,haydn,sonata-form,organum,debussy,impressionism-music,minimalism-music,serialism,madrigal,palestrina,lied,schubert,symphonic-poem,cave-art,paleolithic-sculpture,gongbi,early-christian-art
+## 历史日志
+- pre-autonomous（阶段0-5）：109 条目、91→95 来源、42→82 L2、两批复检返工。
+- Cycle 1（2026-11-22）：114 条目全部 L2、105 来源（100 verified）、抽检返工1条。
 
-ALL_DONE 标记：（尚未写入 — 阶段4尚有27条L1待升级）
+ALL_DONE：按 AUTONOMOUS.md 不写。

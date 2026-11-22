@@ -3,12 +3,14 @@
  "level": "L2",
  "sections": {
   "时代背景": "早期基督教艺术形成于基督教合法化之后，主要分布于地中海地区。其年代归属属于中世纪早期。",
-  "风格特征": "早期基督教艺术采用鱼与牧羊人等寓意图像。巴西利卡成为礼拜建筑的基本形制，构成其建筑方面的显著特征。",
+  "风格特征": "所引来源页可支撑的内容为巴西利卡（basilica）作为礼拜建筑形制，以及地下墓室壁画这一形态。关于「鱼」「牧羊人」等寓意图像的中文表述，在所引英文来源页无逐字对应，列入待核实，不作为本条既定特征。",
   "代表人物与作品": "现有概述未点名具体创作者或单一作品。相关条目为拜占庭艺术，可作为后续脉络的参照。",
-  "技法或形式分析": "在图像层面，早期基督教艺术以寓意性的鱼与牧羊人为代表。在空间与建筑层面，见于地下墓室壁画与巴西利卡教堂两类形态。",
+  "技法或形式分析": "在空间与建筑层面，来源可支撑的内容为地下墓室壁画与巴西利卡教堂两类形态。图像层面的具体寓意母题（如鱼、牧羊人）在所引来源页无逐字对应，待第二来源核实。",
   "与前后风格的关系和争论": "早期基督教艺术与拜占庭艺术相关，后者是重要的后续脉络。记载较一致，学界主要讨论二者的分期与边界问题。",
-  "一图": "示意图展示鱼的寓意图像与巴西利卡礼拜建筑的基本关系。",
-  "待核实": "来源给出约公元2—6世纪的年代区间，待补充第二来源逐字支撑后再写入正文。具体墓室、教堂名称、作品年份与收藏地未在输入中提及。"
+  "一图": "示意图展示巴西利卡礼拜建筑形制与地下墓室壁画两类形态的关系。",
+  "待核实": "（1）原L1种子的精确年代「约公元2—6世纪」在所引来源页无逐字支撑，此处不再声称「来源给出」，该区间待第二来源核实；（2）「鱼」「牧羊人」等寓意图像在所引英文来源页无逐字对应，待补中文或专著来源；（3）具体墓室、教堂名称、作品年份与收藏地未在输入中提及，待补充。",
+  "overview": "早期基督教艺术见于地下墓室壁画与巴西利卡教堂，后者成为礼拜建筑的基本形制；早期图像中的寓意性表现待来源核实。"
  },
- "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='早期基督教艺术 示意图'><title>早期基督教艺术</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>早期基督教</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>合法化后</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>寓意图像</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>鱼与牧羊人</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>巴西利卡</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>礼拜建筑</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>早期基督教艺术采用寓意图像与巴西利卡</text></g></svg>"
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='早期基督教艺术 示意图'><title>早期基督教艺术</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>早期基督教</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>合法化后</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>寓意图像</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>鱼与牧羊人</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>巴西利卡</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>礼拜建筑</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>早期基督教艺术采用寓意图像与巴西利卡</text></g></svg>",
+ "overview": "早期基督教艺术见于地下墓室壁画与巴西利卡教堂，后者成为礼拜建筑的基本形制；早期图像中的寓意性表现待来源核实。"
 }

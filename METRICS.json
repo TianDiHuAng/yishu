@@ -26,12 +26,25 @@
     {
       "cycle": "cycle1",
       "date": "2026-11-22",
-      "status": "in_progress",
-      "gap_methods": ["B1权威大纲对照", "B2覆盖矩阵", "B3悬空引用", "B5待核实清单", "B7深度缺口"],
-      "new_entries_planned": 5,
-      "upgrades_planned": 27,
+      "status": "completed",
+      "gap_methods": [
+        "B1权威大纲对照",
+        "B2覆盖矩阵",
+        "B3悬空引用",
+        "B5待核实清单",
+        "B7深度缺口"
+      ],
+      "new_entries": 5,
+      "upgrades": 27,
+      "reviews": 4,
+      "fixes": 1,
+      "pending_total": 0,
+      "check_result": "errors=0 (4次批次检查全通过)",
+      "check_links_result": "broken=0",
       "new_sources": 10,
-      "check_result": "errors=0(at start)"
+      "commits": 4,
+      "qc_result": "3 PASS/1 REWORK(已返工)",
+      "similarity_max": 0.297
     }
   ]
 }
