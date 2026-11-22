@@ -1,0 +1,321 @@
+{
+ "confirmed": [
+  {
+   "id": "michelangelo",
+   "title": "米开朗基罗",
+   "when": "1475—1564年",
+   "qid": "Q5592",
+   "wd_birth": 1475,
+   "wd_death": 1564,
+   "desc": "Italian artist and architect (1475-1564)"
+  },
+  {
+   "id": "raphael",
+   "title": "拉斐尔",
+   "when": "1483—1520年",
+   "qid": "Q5597",
+   "wd_birth": 1483,
+   "wd_death": 1520,
+   "desc": "Italian painter and architect (1483–1520)"
+  },
+  {
+   "id": "botticelli",
+   "title": "波提切利",
+   "when": "约1445—1510年",
+   "qid": "Q5669",
+   "wd_birth": 1445,
+   "wd_death": 1510,
+   "desc": "Italian painter (1445–1510)"
+  },
+  {
+   "id": "caravaggio",
+   "title": "卡拉瓦乔",
+   "when": "1571—1610年",
+   "qid": "Q42207",
+   "wd_birth": 1571,
+   "wd_death": 1610,
+   "desc": "Italian painter (1571–1610)"
+  },
+  {
+   "id": "rembrandt",
+   "title": "伦勃朗",
+   "when": "1606—1669年",
+   "qid": "Q5598",
+   "wd_birth": 1606,
+   "wd_death": 1669,
+   "desc": "Dutch painter and printmaker (1606–1669)"
+  },
+  {
+   "id": "rubens",
+   "title": "鲁本斯",
+   "when": "1577—1640年",
+   "qid": "Q5599",
+   "wd_birth": 1577,
+   "wd_death": 1640,
+   "desc": "Flemish painter (1577–1640)"
+  },
+  {
+   "id": "velazquez",
+   "title": "委拉斯开兹",
+   "when": "1599—1660年",
+   "qid": "Q297",
+   "wd_birth": 1599,
+   "wd_death": 1660,
+   "desc": "Spanish painter (1599–1660)"
+  },
+  {
+   "id": "van-gogh",
+   "title": "梵高",
+   "when": "1853—1890年",
+   "qid": "Q5582",
+   "wd_birth": 1853,
+   "wd_death": 1890,
+   "desc": "Dutch painter (1853–1890)"
+  },
+  {
+   "id": "cezanne",
+   "title": "塞尚",
+   "when": "1839—1906年",
+   "qid": "Q35548",
+   "wd_birth": 1839,
+   "wd_death": 1906,
+   "desc": "French painter (1839–1906)"
+  },
+  {
+   "id": "gauguin",
+   "title": "高更",
+   "when": "1848—1903年",
+   "qid": "Q37693",
+   "wd_birth": 1848,
+   "wd_death": 1903,
+   "desc": "French painter and printmaker (1848–1903)"
+  },
+  {
+   "id": "picasso",
+   "title": "毕加索",
+   "when": "1881—1973年",
+   "qid": "Q5593",
+   "wd_birth": 1881,
+   "wd_death": 1973,
+   "desc": "Spanish painter and sculptor (1881–1973)"
+  },
+  {
+   "id": "matisse",
+   "title": "马蒂斯",
+   "when": "1869—1954年",
+   "qid": "Q5589",
+   "wd_birth": 1869,
+   "wd_death": 1954,
+   "desc": "French artist (1869–1954)"
+  },
+  {
+   "id": "kandinsky",
+   "title": "康定斯基",
+   "when": "1866—1944年",
+   "qid": "Q61064",
+   "wd_birth": 1866,
+   "wd_death": 1944,
+   "desc": "avant-garde painter of Russian origin (1866–1944)"
+  },
+  {
+   "id": "dali",
+   "title": "达利",
+   "when": "1904—1989年",
+   "qid": "Q5577",
+   "wd_birth": 1904,
+   "wd_death": 1989,
+   "desc": "Spanish artist (1904–1989)"
+  },
+  {
+   "id": "warhol",
+   "title": "安迪·沃霍尔",
+   "when": "1928—1987年",
+   "qid": "Q5603",
+   "wd_birth": 1928,
+   "wd_death": 1987,
+   "desc": "American artist, film director, and producer (1928–1987)"
+  },
+  {
+   "id": "palestrina",
+   "title": "帕莱斯特里纳",
+   "when": "约1525—1594年",
+   "qid": "Q179277",
+   "wd_birth": 1525,
+   "wd_death": 1594,
+   "desc": "Italian Renaissance composer (c. 1525–1594)"
+  },
+  {
+   "id": "bach",
+   "title": "巴赫",
+   "when": "1685—1750年",
+   "qid": "Q1339",
+   "wd_birth": 1685,
+   "wd_death": 1750,
+   "desc": "German composer (1685–1750)"
+  },
+  {
+   "id": "haydn",
+   "title": "海顿",
+   "when": "1732—1809年",
+   "qid": "Q7349",
+   "wd_birth": 1732,
+   "wd_death": 1809,
+   "desc": "Austrian composer (1732–1809)"
+  },
+  {
+   "id": "mozart",
+   "title": "莫扎特",
+   "when": "1756—1791年",
+   "qid": "Q254",
+   "wd_birth": 1756,
+   "wd_death": 1791,
+   "desc": "Austrian composer of the Classical period (1756–1791)"
+  },
+  {
+   "id": "beethoven",
+   "title": "贝多芬",
+   "when": "1770—1827年",
+   "qid": "Q255",
+   "wd_birth": 1770,
+   "wd_death": 1827,
+   "desc": "German composer (1770-1827)"
+  },
+  {
+   "id": "chopin",
+   "title": "肖邦",
+   "when": "1810—1849年",
+   "qid": "Q1268",
+   "wd_birth": 1810,
+   "wd_death": 1849,
+   "desc": "Polish composer and pianist (1810–1849)"
+  },
+  {
+   "id": "wagner",
+   "title": "瓦格纳",
+   "when": "1813—1883年",
+   "qid": "Q1511",
+   "wd_birth": 1813,
+   "wd_death": 1883,
+   "desc": "German composer (1813–1883)"
+  },
+  {
+   "id": "schubert",
+   "title": "舒伯特",
+   "when": "1797—1828年",
+   "qid": "Q7312",
+   "wd_birth": 1797,
+   "wd_death": 1828,
+   "desc": "Austrian composer (1797–1828)"
+  },
+  {
+   "id": "stravinsky",
+   "title": "斯特拉文斯基",
+   "when": "1882—1971年",
+   "qid": "Q7314",
+   "wd_birth": 1882,
+   "wd_death": 1971,
+   "desc": "Russian, French, and American composer (1882–1971)"
+  },
+  {
+   "id": "schoenberg",
+   "title": "勋伯格",
+   "when": "1874—1951年",
+   "qid": "Q154770",
+   "wd_birth": 1874,
+   "wd_death": 1951,
+   "desc": "Austrian-Jewish American composer (1874-1951)"
+  },
+  {
+   "id": "debussy",
+   "title": "德彪西",
+   "when": "1862—1918年",
+   "qid": "Q4700",
+   "wd_birth": 1862,
+   "wd_death": 1918,
+   "desc": "French classical composer (1862–1918)"
+  }
+ ],
+ "mismatch": [],
+ "no_match": [
+  {
+   "id": "donatello",
+   "title": "多纳泰罗",
+   "when": "约1386—1466年",
+   "candidates": [
+    [
+     "Q323925",
+     "Donatello",
+     "fictional Teenage Mutant Ninja Turtles c"
+    ]
+   ]
+  },
+  {
+   "id": "leonardo",
+   "title": "列奥纳多·达·芬奇",
+   "when": "1452—1519年",
+   "candidates": [
+    [
+     "Q762",
+     "Leonardo da Vinci",
+     "Italian Renaissance polymath (1452−1519)"
+    ],
+    [
+     "Q19101",
+     "Roma Fiumicino Airport",
+     "international airport of Rome, in Fiumic"
+    ],
+    [
+     "Q20735682",
+     "Leonardo da Vinci University Group",
+     "Cluster of several higher education insi"
+    ]
+   ]
+  },
+  {
+   "id": "vermeer",
+   "title": "维米尔",
+   "when": "1632—1675年",
+   "candidates": [
+    [
+     "Q1392768",
+     "Wemale people",
+     "ethnic group"
+    ],
+    [
+     "Q119395007",
+     "The Image of Self and Other in the works of Vermeer:Take The Procuress and The Art of Painting as Examples",
+     ""
+    ]
+   ]
+  },
+  {
+   "id": "delacroix",
+   "title": "德拉克罗瓦",
+   "when": "1798—1863年",
+   "candidates": [
+    [
+     "Q21502167",
+     "Delacroix",
+     "family name"
+    ],
+    [
+     "Q120400039",
+     "德拉克罗瓦的艺术观",
+     "scholarly article in Journal of Northeas"
+    ]
+   ]
+  },
+  {
+   "id": "monet",
+   "title": "莫奈",
+   "when": "1840—1926年",
+   "candidates": []
+  },
+  {
+   "id": "monteverdi",
+   "title": "蒙特威尔第",
+   "when": "1567—1643年",
+   "candidates": []
+  }
+ ]
+}

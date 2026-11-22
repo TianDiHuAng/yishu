@@ -30,6 +30,8 @@ L.append("- 新增来源：**%d**"%cur.get("new_sources",0))
 if cur.get("qc_result"): L.append("- 质量闸：**%s**"%cur["qc_result"])
 if cyc=="cycle3":
     L.append("- 本轮特别说明：B5 复核 45 项待核实 → 38 项找到可核验第二来源并写入【已复核】留痕；B3 孤儿页 38→0（新增84条双向补链）；QC 收尾补 Bach/Vivaldi 来源并修正18处截断URL。")
+if cyc=="cycle15":
+    L.append("- 本轮特别说明：用 Wikidata 对全部 32 个人物条目做生卒年交叉核验（要求描述含人物类型词且生年与条目 when 相差≤2 才接受，同名实体一律拒绝）：**confirmed 26 / mismatch 0 / no_match 6**。即凡能与权威结构化数据对齐者生卒年全部一致，未发现年份错误；6 条为消歧未过（实体缺中文标签或抓取抖动），已拒绝强行匹配，明细见 reports/person_dates_c15.md。本轮未据此改动任何条目（无差异可改）。")
 if cyc=="cycle14":
     L.append("- 本轮特别说明（突破）：Cycle13 的网络结论需修正——Wikipedia/Met/Tate 仍不可达、百度/Khan 仅返回反爬壳页，但 www.wikidata.org（api.php 与 Special:EntityData/*.json）、api.wikimedia.org、commons.wikimedia.org、dbpedia.org 均可达且返回可用 JSON。新增 tools/wikidata_verify.py（三重消歧：标题+描述类型词+作者名），核验 5 个作品档案的作者与收藏地，结果与条目一致（星夜/维纳斯的诞生/西斯廷天顶画/格尔尼卡/春之祭）；春之祭实体的 P170 字段异常（西德尼·諾蘭）已标注不采信。同时修复真实数据丢失 bug：merge_l2 的 sources 由覆盖改为并集（D021）。来源 164→169（verified 164），check/links/audit_all 全通过。")
 if cyc=="cycle13":

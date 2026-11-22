@@ -248,3 +248,14 @@
 ### P2 作品事实扩核（P571/P195/P2048/P2049）：按需写入待核实留痕
 ### P3 A类建筑起步：用 wbsearchentities 找 Chinese architecture(Q957904) 等；匹配描述类型后建条目（≤14/轮，≥2来源）
 ### P4 若 Wikidata 不可用：导读↔正文互通 / status.html
+
+## Cycle 15 完成记录（2026-11-22）
+- 人物生卒核验（Wikidata via curl）：32 人物 → confirmed 26 / mismatch 0 / no_match 6。
+- 无差异可改，未修改条目；结论见 reports/person_dates_c15.md。
+- curl 重试 5 次 + 显式告警，避免网络抖动误判。
+
+## Cycle 16 待办队列
+### P1 补全 6 条未匹配人物（英文名/QID 映射；仍失败则记录放弃）
+### P2 作品事实扩核（mona-lisa 等 P571/P195 → 待核实留痕）
+### P3 A类建筑起步（须 2 来源：Wikidata + 既有论述该传统的已核验来源；凑不齐不建）
+### P4 L3 保持 6 条（同源不支持两方立场）

@@ -194,6 +194,18 @@
       },
       "network": "partial(Wikidata ok)",
       "verdict": "突破：Wikidata 可核验作品作者/收藏地；修来源并集bug；未饱和"
+    },
+    {
+      "cycle": "cycle15",
+      "date": "2026-11-22",
+      "methods_used": [
+        "Wikidata人物核验"
+      ],
+      "gaps_found": {
+        "dataconflicts": 0
+      },
+      "network": "partial",
+      "verdict": "32人物核验：26一致/0矛盾/6消歧未过；未饱和"
     }
   ]
 }
