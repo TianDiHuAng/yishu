@@ -559,7 +559,8 @@
         "renaissance",
         "high-renaissance",
         "donatello",
-        "botticelli"
+        "botticelli",
+        "birth-of-venus-work"
       ],
       "sources": [
         "enc-italian-renaissance-painting",
@@ -594,7 +595,8 @@
         "venetian-school",
         "mannerism",
         "michelangelo",
-        "raphael"
+        "raphael",
+        "sistine-ceiling-work"
       ],
       "sources": [
         "enc-high-renaissance",
@@ -792,7 +794,8 @@
       "overview": "创作《大卫》雕像与西斯廷礼拜堂天顶画，建筑方面参与圣彼得大教堂设计。",
       "related": [
         "high-renaissance",
-        "mannerism"
+        "mannerism",
+        "sistine-ceiling-work"
       ],
       "sources": [
         "enc-michelangelo",
@@ -856,7 +859,8 @@
       "overview": "代表作《春》《维纳斯的诞生》，线条流畅、色彩明丽，体现新柏拉图主义趣味。",
       "related": [
         "early-renaissance",
-        "venetian-school"
+        "venetian-school",
+        "birth-of-venus-work"
       ],
       "sources": [
         "enc-botticelli",
@@ -1521,7 +1525,8 @@
         "fauvism",
         "monet",
         "van-gogh",
-        "gauguin"
+        "gauguin",
+        "starry-night"
       ],
       "sources": [
         "enc-post-impressionism",
@@ -1620,7 +1625,8 @@
       "overview": "代表作《星月夜》《向日葵》，用色与笔触传达主观情绪，对表现主义影响深远。",
       "related": [
         "post-impressionism",
-        "expressionism"
+        "expressionism",
+        "starry-night"
       ],
       "sources": [
         "enc-van-gogh",
@@ -1785,7 +1791,8 @@
       "related": [
         "cezanne",
         "futurism",
-        "picasso"
+        "picasso",
+        "guernica-work"
       ],
       "sources": [
         "enc-cubism",
@@ -2120,7 +2127,8 @@
       "overview": "代表作《亚维农少女》《格尔尼卡》，风格多变，深刻重塑20世纪艺术语言。",
       "related": [
         "cubism",
-        "modern-art"
+        "modern-art",
+        "guernica-work"
       ],
       "sources": [
         "enc-picasso",
@@ -4097,7 +4105,8 @@
         "serialism",
         "minimalism-music",
         "stravinsky",
-        "debussy"
+        "debussy",
+        "rite-of-spring-work"
       ],
       "sources": [
         "enc-20th-century-classical",
@@ -4229,7 +4238,8 @@
       "overview": "代表作《春之祭》《彼得鲁什卡》，以强烈节奏与不协和音响引发轰动，后期转向新古典主义。",
       "related": [
         "20th-century-classical",
-        "serialism"
+        "serialism",
+        "rite-of-spring-work"
       ],
       "sources": [
         "enc-stravinsky",
@@ -5312,6 +5322,166 @@
         "待核实": "输入的 when 字段给出约公元13—18世纪，精确起讫年代待核实。sources 仅列 Zen painting 与 Japanese art 等权威百科条目，输入未给出具体人物或作品。禅画与日本艺术、中国书法史之间的详细传播路径待补充第二来源。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='禅画 示意图'><title>禅画</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>禅画</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>水墨绘画</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>中国文人画</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>文人画传统</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>日本禅宗寺院</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>独立画风</text><text class='svg-caption' x='380' y='262' text-anchor='middle'>禅画 中国文人画 日本禅宗寺院</text></g></svg>"
+    },
+    {
+      "id": "starry-night",
+      "title": "《星月夜》",
+      "kind": "作品",
+      "unit": "work-archives",
+      "era": "19世纪",
+      "region": "欧美",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "文森特·梵高创作的油画，现藏纽约现代艺术博物馆（MoMA）。",
+      "when": "1889年",
+      "overview": "此画为梵高在圣雷米疗养院期间所作，以漩涡状笔触与强烈色彩描绘夜空，是后印象派的代表作之一。",
+      "related": [
+        "van-gogh",
+        "post-impressionism"
+      ],
+      "sources": [
+        "enc-starry-night",
+        "enc-moma"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "《星月夜》作于19世纪末，属于后印象派阶段，此时欧洲绘画正从印象派对光色的客观记录转向更主观的表达。作品与梵高本人的创作生涯密切相关，相关条目为梵高与后印象派。画面题材为夜空下的村庄与柏树，反映画家对自然的个人化感受。",
+        "风格特征": "作品以漩涡状笔触与强烈色彩描绘夜空，这是概述明确给出的风格要点。形体不再是写实的再现，而被笔触的运动与色彩的强度重新组织。整体呈现明显的表现性，而非对夜景的客观描摹。",
+        "代表人物与作品": "本作品的作者为文森特·梵高，概述与定义均已点名。相关条目梵高、后印象派提供人物与流派的背景入口。输入事实未列出同期其他具体作品名称，故不在此列举，详见待核实。",
+        "技法或形式分析": "就来源可支撑的范围看，作品以油画完成，运用漩涡状笔触与强烈色彩两项形式特征。笔触的方向性使天空与地面形成流动感，色彩强度则承担情绪表达。关于具体颜料、画布尺寸与构图比例的细节，输入未提供，列入待核实。",
+        "与前后风格的关系和争论": "作品处于后印象派脉络之中：它承接印象派对光色的关注，又以主观笔触与色彩背离其客观性，因而常被视为通向表现主义的先声。相关条目梵高与后印象派支持这一位置判断。学界主要讨论后印象派的分期与边界问题，记载较一致。",
+        "一图": "示意图以梵高、后印象派与表现性笔触三者关系，标示本作品在流派脉络中的位置。",
+        "待核实": "（1）作品的画布尺寸、材质细节与馆藏编号未在输入事实中给出，待补充第二来源；（2）创作的具体起止日期与圣雷米时期的先后次序待核实；（3）同时期其他代表作品的名称与年份未在输入中列出，待补充；（4）本条目所述风格特征限于概述已述的漩涡状笔触与强烈色彩，更细的形式分析待来源支撑。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='《星月夜》 示意图'><title>《星月夜》</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>后印象派</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>主观表达</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>星月夜</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>漩涡笔触</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>表现主义</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>情绪化色彩</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>后印象派脉络中的表现性绘画</text></g></svg>"
+    },
+    {
+      "id": "birth-of-venus-work",
+      "title": "《维纳斯的诞生》",
+      "kind": "作品",
+      "unit": "work-archives",
+      "era": "15世纪",
+      "region": "意大利",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "桑德罗·波提切利的蛋彩画，现藏佛罗伦萨乌菲齐美术馆。",
+      "when": "约公元1485年",
+      "overview": "作品描绘维纳斯自海浪中诞生的场景，以流畅线条与明丽色彩著称，体现文艺复兴早期的人文主义趣味。",
+      "related": [
+        "botticelli",
+        "early-renaissance"
+      ],
+      "sources": [
+        "enc-birth-venus",
+        "enc-uffizi"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "作品作于15世纪意大利，属早期文艺复兴阶段，此时古典题材与人文主义趣味在佛罗伦萨复兴。相关条目为波提切利与早期文艺复兴。画面取材于古典神话中维纳斯诞生的情节，体现对异教母题的重拾。",
+        "风格特征": "概述给出的风格要点为流畅线条与明丽色彩，二者共同构成作品的装饰性与优雅感。人物造型强调轮廓线，形体轻盈，与同期追求体量与透视的绘画形成对照。整体体现文艺复兴早期的人文主义趣味。",
+        "代表人物与作品": "作者为桑德罗·波提切利，定义与概述均已点名。相关条目波提切利、早期文艺复兴提供人物与阶段背景。输入未列出同期其他具体作品，故不列举。",
+        "技法或形式分析": "定义指明作品为蛋彩画，这一媒介决定了色彩的明丽与层次。来源可支撑的形式特征为流畅线条与明丽色彩：线条承担造型与节奏，色彩承担装饰效果。关于画幅尺寸、支撑材料与具体技法的细节，输入未提供，列入待核实。",
+        "与前后风格的关系和争论": "作品属早期文艺复兴脉络，与盛期文艺复兴的宏大构图和雕塑式人体形成前后对照。它把古典神话引入绘画，为后世神话题材提供范式。相关条目支持这一位置判断；学界主要讨论早期与盛期文艺复兴的分期边界，记载较一致。",
+        "一图": "示意图以早期文艺复兴、波提切利与神话题材三者的关系，标示本作品的位置。",
+        "待核实": "（1）画幅尺寸、支撑材料与馆藏编号未在输入事实中给出，待补充第二来源；（2）具体创作年份在输入中记为约1485年，精确断代待核实；（3）委约人与原初陈列地点的史实待补充；（4）同期其他代表作名称未在输入中列出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='《维纳斯的诞生》 示意图'><title>《维纳斯的诞生》</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>早期文艺复兴</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>人文主义</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>维纳斯诞生</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>线条与明丽色彩</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>神话题材</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>古典母题</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>文艺复兴早期的神话题材绘画</text></g></svg>"
+    },
+    {
+      "id": "sistine-ceiling-work",
+      "title": "西斯廷礼拜堂天顶画",
+      "kind": "作品",
+      "unit": "work-archives",
+      "era": "16世纪",
+      "region": "意大利",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "米开朗基罗为梵蒂冈西斯廷礼拜堂绘制的天顶壁画。",
+      "when": "约公元1508—1512年",
+      "overview": "天顶画以《创世纪》场景为核心，塑造了极具体量感的人物形象，是盛期文艺复兴雕塑式绘画的杰作。",
+      "related": [
+        "michelangelo",
+        "high-renaissance"
+      ],
+      "sources": [
+        "enc-sistine-ceiling",
+        "enc-michelangelo"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "天顶画作于16世纪初的意大利，属盛期文艺复兴阶段，罗马为艺术中心。相关条目为米开朗基罗与盛期文艺复兴。作品位于梵蒂冈西斯廷礼拜堂，是教廷委托的大型装饰工程。",
+        "风格特征": "概述给出的风格要点为以《创世纪》场景为核心，并塑造极具体量感的人物形象。人物具有雕塑般的体积与动势，画面整体宏大而均衡。这种「雕塑式绘画」是盛期文艺复兴的典型追求。",
+        "代表人物与作品": "作者为米开朗基罗，定义与概述均已点名。相关条目米开朗基罗、盛期文艺复兴提供人物与阶段背景。输入未列出天顶画各幅的独立名称与数量，故不逐一列举。",
+        "技法或形式分析": "定义为天顶壁画，即在礼拜堂天顶上以湿壁画方式绘制的作品。来源可支撑的形式特征为《创世纪》场景的组织与极具体量感的人物塑造：人体通过明暗与姿态获得体积，场景沿天顶结构展开。关于脚手架的搭建、颜料层数与绘制顺序等技术细节，输入未提供，列入待核实。",
+        "与前后风格的关系和争论": "作品属盛期文艺复兴，它把雕塑式人体引入壁画，与同期追求和谐比例与宏大构图的取向一致；其后样式主义对人体的夸张处理亦与之相关。相关条目支持这一位置判断。学界主要讨论盛期文艺复兴的起止边界，记载较一致。",
+        "一图": "示意图以盛期文艺复兴、米开朗基罗与雕塑式绘画三者的关系，标示本作品的位置。",
+        "待核实": "（1）天顶画各幅场景的独立名称、数量与排列未在输入事实中给出，待补充第二来源；（2）绘制起止年份在输入中记为约1508—1512年，精确日期待核实；（3）湿壁画的具体技术流程与修复历史待补充；（4）委约背景的细节（如教廷与画家的关系）待来源支撑。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='西斯廷礼拜堂天顶画 示意图'><title>西斯廷礼拜堂天顶画</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>盛期文艺复兴</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>宏大均衡</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>西斯廷天顶</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>雕塑式人体</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>样式主义</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>人体夸张</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>盛期文艺复兴的雕塑式壁画</text></g></svg>"
+    },
+    {
+      "id": "guernica-work",
+      "title": "《格尔尼卡》",
+      "kind": "作品",
+      "unit": "work-archives",
+      "era": "20世纪",
+      "region": "西班牙",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "巴勃罗·毕加索的黑白灰油画，回应1937年格尔尼卡轰炸。",
+      "when": "1937年",
+      "overview": "作品以变形与拼贴化的图像控诉战争暴力，成为20世纪最具政治性的艺术作品之一，现藏马德里索菲亚王后艺术中心。",
+      "related": [
+        "picasso",
+        "cubism"
+      ],
+      "sources": [
+        "enc-guernica",
+        "enc-picasso"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "作品作于1937年，回应同年格尔尼卡轰炸事件，属20世纪现代艺术的政治介入阶段。相关条目为毕加索与立体主义。作品以战争暴力为主题，是20世纪最具政治性的艺术作品之一（概述语）。",
+        "风格特征": "定义指明作品为黑白灰油画，概述给出的风格要点为变形与拼贴化的图像，用以控诉战争暴力。画面舍弃色彩的抒情性，以黑白灰强化冲突与压抑。图像被分解重组，带有立体主义的形式遗产。",
+        "代表人物与作品": "作者为巴勃罗·毕加索，定义与概述均已点名。相关条目毕加索、立体主义提供人物与流派背景。输入未列出画面中具体形象的名称与数量，故不逐一列举。",
+        "技法或形式分析": "来源可支撑的形式特征有两点：一是黑白灰的单色处理，二是变形与拼贴化的图像组织。单色使画面趋向新闻照片般的记录感与沉痛感；变形与拼贴则打破单一视点，让多重形象并置。关于画幅尺寸、构图分区与具体形象的细节，输入未提供，列入待核实。",
+        "与前后风格的关系和争论": "作品立在立体主义的形式基础上，却转向明确的叙事与政治控诉，因而常被视为现代艺术介入公共事件的重要案例。相关条目支持这一位置判断。学界主要讨论现代艺术与政治的关系及其分期边界，记载较一致。",
+        "一图": "示意图以立体主义形式、格尔尼卡与政治性控诉三者的关系，标示本作品的位置。",
+        "待核实": "（1）画幅尺寸、具体形象数量与构图分区未在输入事实中给出，待补充第二来源；（2）创作起止日期与首展地点待核实；（3）现藏机构在概述中记为马德里索菲亚王后艺术中心，馆藏编号待补充；（4）委约背景（如世界博览会）的细节待来源支撑。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='《格尔尼卡》 示意图'><title>《格尔尼卡》</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>立体主义</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>图像分解</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>格尔尼卡</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>黑白灰控诉</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>政治性艺术</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>介入公共事件</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>从立体主义形式到政治控诉</text></g></svg>"
+    },
+    {
+      "id": "rite-of-spring-work",
+      "title": "《春之祭》",
+      "kind": "作品",
+      "unit": "work-archives",
+      "era": "20世纪",
+      "region": "俄国/法国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "伊戈尔·斯特拉文斯基的芭蕾舞剧，1913年在巴黎首演引发轰动。",
+      "when": "1913年",
+      "overview": "作品以强烈节奏与不协和音响描绘史前祭祀场景，首演时的争议成为现代音乐史上的著名事件。",
+      "related": [
+        "stravinsky",
+        "20th-century-classical"
+      ],
+      "sources": [
+        "enc-rite-spring",
+        "enc-stravinsky"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "作品为1913年在巴黎首演的芭蕾舞剧，属20世纪初现代音乐阶段。相关条目为斯特拉文斯基与20世纪古典音乐。作品以史前祭祀场景为题材，首演时的争议成为现代音乐史上的著名事件（概述语）。",
+        "风格特征": "概述给出的风格要点为强烈节奏与不协和音响，用以描绘史前祭祀场景。节奏的冲击性与和声的不协和共同削弱了传统调性音乐的听感预期。整体趋向原始、粗粝的表现力。",
+        "代表人物与作品": "作者为伊戈尔·斯特拉文斯基，定义与概述均已点名。相关条目斯特拉文斯基、20世纪古典音乐提供人物与阶段背景。输入未列出该剧各段的独立标题，故不逐一列举。",
+        "技法或形式分析": "来源可支撑的形式特征有两项：强烈而不规则的节奏，以及不协和的音响组合。节奏承担结构驱动力，不协和则制造紧张与冲突，二者共同服务于祭祀场景的原始感。关于具体配器编制、段落划分与和声手法的细节，输入未提供，列入待核实。",
+        "与前后风格的关系和争论": "作品属20世纪古典音乐，它延续浪漫主义晚期对规模的扩张，却以节奏与不协和背离其和声语汇，成为现代主义音乐的标志性事件。首演争议本身即是接受史的重要议题。相关条目支持这一位置判断。学界主要讨论现代音乐的分期与边界，记载较一致。",
+        "一图": "示意图以20世纪古典音乐、春之祭与首演争议三者的关系，标示本作品的位置。",
+        "待核实": "（1）配器编制、段落标题与总谱细节未在输入事实中给出，待补充第二来源；（2）首演的确切日期、剧场与演出团体待核实；（3）编舞者与舞美设计者的姓名未在输入中列出，待补充；（4）首演争议的具体经过须依据史料核实后再写入，目前仅保留概述的概括表述。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='《春之祭》 示意图'><title>《春之祭》</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>20世纪古典</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>调性探索</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>春之祭</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>强烈节奏</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>首演争议</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>接受史事件</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>现代主义音乐与首演争议</text></g></svg>"
     }
   ]
 }

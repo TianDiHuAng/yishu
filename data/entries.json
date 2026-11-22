@@ -2872,6 +2872,111 @@
         "enc-zen-art",
         "enc-japanese-art"
       ]
+    },
+    {
+      "id": "starry-night",
+      "title": "《星月夜》",
+      "kind": "作品",
+      "unit": "work-archives",
+      "era": "19世纪",
+      "region": "欧美",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "文森特·梵高创作的油画，现藏纽约现代艺术博物馆（MoMA）。",
+      "when": "1889年",
+      "overview": "此画为梵高在圣雷米疗养院期间所作，以漩涡状笔触与强烈色彩描绘夜空，是后印象派的代表作之一。",
+      "related": [
+        "van-gogh",
+        "post-impressionism"
+      ],
+      "sources": [
+        "enc-starry-night",
+        "enc-moma"
+      ]
+    },
+    {
+      "id": "birth-of-venus-work",
+      "title": "《维纳斯的诞生》",
+      "kind": "作品",
+      "unit": "work-archives",
+      "era": "15世纪",
+      "region": "意大利",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "桑德罗·波提切利的蛋彩画，现藏佛罗伦萨乌菲齐美术馆。",
+      "when": "约公元1485年",
+      "overview": "作品描绘维纳斯自海浪中诞生的场景，以流畅线条与明丽色彩著称，体现文艺复兴早期的人文主义趣味。",
+      "related": [
+        "botticelli",
+        "early-renaissance"
+      ],
+      "sources": [
+        "enc-birth-venus",
+        "enc-uffizi"
+      ]
+    },
+    {
+      "id": "sistine-ceiling-work",
+      "title": "西斯廷礼拜堂天顶画",
+      "kind": "作品",
+      "unit": "work-archives",
+      "era": "16世纪",
+      "region": "意大利",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "米开朗基罗为梵蒂冈西斯廷礼拜堂绘制的天顶壁画。",
+      "when": "约公元1508—1512年",
+      "overview": "天顶画以《创世纪》场景为核心，塑造了极具体量感的人物形象，是盛期文艺复兴雕塑式绘画的杰作。",
+      "related": [
+        "michelangelo",
+        "high-renaissance"
+      ],
+      "sources": [
+        "enc-sistine-ceiling",
+        "enc-michelangelo"
+      ]
+    },
+    {
+      "id": "guernica-work",
+      "title": "《格尔尼卡》",
+      "kind": "作品",
+      "unit": "work-archives",
+      "era": "20世纪",
+      "region": "西班牙",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "巴勃罗·毕加索的黑白灰油画，回应1937年格尔尼卡轰炸。",
+      "when": "1937年",
+      "overview": "作品以变形与拼贴化的图像控诉战争暴力，成为20世纪最具政治性的艺术作品之一，现藏马德里索菲亚王后艺术中心。",
+      "related": [
+        "picasso",
+        "cubism"
+      ],
+      "sources": [
+        "enc-guernica",
+        "enc-picasso"
+      ]
+    },
+    {
+      "id": "rite-of-spring-work",
+      "title": "《春之祭》",
+      "kind": "作品",
+      "unit": "work-archives",
+      "era": "20世纪",
+      "region": "俄国/法国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "伊戈尔·斯特拉文斯基的芭蕾舞剧，1913年在巴黎首演引发轰动。",
+      "when": "1913年",
+      "overview": "作品以强烈节奏与不协和音响描绘史前祭祀场景，首演时的争议成为现代音乐史上的著名事件。",
+      "related": [
+        "stravinsky",
+        "20th-century-classical"
+      ],
+      "sources": [
+        "enc-rite-spring",
+        "enc-stravinsky"
+      ]
     }
   ]
 }

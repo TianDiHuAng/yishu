@@ -1,0 +1,1847 @@
+{
+ "cycle": "cycle6b",
+ "matrix_blank": [
+  [
+   "东亚",
+   "建筑"
+  ],
+  [
+   "东亚",
+   "绘画"
+  ],
+  [
+   "东亚",
+   "雕塑"
+  ],
+  [
+   "东亚",
+   "音乐体裁"
+  ],
+  [
+   "东南亚",
+   "书法"
+  ],
+  [
+   "东南亚",
+   "绘画"
+  ],
+  [
+   "东南亚",
+   "综合"
+  ],
+  [
+   "东南亚",
+   "音乐体裁"
+  ],
+  [
+   "东罗马",
+   "书法"
+  ],
+  [
+   "东罗马",
+   "综合"
+  ],
+  [
+   "东罗马",
+   "雕塑"
+  ],
+  [
+   "东罗马",
+   "音乐体裁"
+  ],
+  [
+   "中国",
+   "建筑"
+  ],
+  [
+   "中国",
+   "综合"
+  ],
+  [
+   "佛兰德斯",
+   "书法"
+  ],
+  [
+   "佛兰德斯",
+   "建筑"
+  ],
+  [
+   "佛兰德斯",
+   "综合"
+  ],
+  [
+   "佛兰德斯",
+   "雕塑"
+  ],
+  [
+   "佛兰德斯",
+   "音乐体裁"
+  ],
+  [
+   "俄国/德国",
+   "书法"
+  ],
+  [
+   "俄国/德国",
+   "建筑"
+  ],
+  [
+   "俄国/德国",
+   "综合"
+  ],
+  [
+   "俄国/德国",
+   "雕塑"
+  ],
+  [
+   "俄国/德国",
+   "音乐体裁"
+  ],
+  [
+   "俄国/法国",
+   "书法"
+  ],
+  [
+   "俄国/法国",
+   "建筑"
+  ],
+  [
+   "俄国/法国",
+   "绘画"
+  ],
+  [
+   "俄国/法国",
+   "综合"
+  ],
+  [
+   "俄国/法国",
+   "雕塑"
+  ],
+  [
+   "俄国/美国",
+   "书法"
+  ],
+  [
+   "俄国/美国",
+   "建筑"
+  ],
+  [
+   "俄国/美国",
+   "绘画"
+  ],
+  [
+   "俄国/美国",
+   "综合"
+  ],
+  [
+   "俄国/美国",
+   "雕塑"
+  ],
+  [
+   "全球",
+   "书法"
+  ],
+  [
+   "全球",
+   "建筑"
+  ],
+  [
+   "全球",
+   "绘画"
+  ],
+  [
+   "全球",
+   "雕塑"
+  ],
+  [
+   "北欧",
+   "书法"
+  ],
+  [
+   "北欧",
+   "建筑"
+  ],
+  [
+   "北欧",
+   "综合"
+  ],
+  [
+   "北欧",
+   "雕塑"
+  ],
+  [
+   "北欧",
+   "音乐体裁"
+  ],
+  [
+   "南亚",
+   "书法"
+  ],
+  [
+   "南亚",
+   "建筑"
+  ],
+  [
+   "南亚",
+   "音乐体裁"
+  ],
+  [
+   "地中海",
+   "书法"
+  ],
+  [
+   "地中海",
+   "建筑"
+  ],
+  [
+   "地中海",
+   "绘画"
+  ],
+  [
+   "地中海",
+   "雕塑"
+  ],
+  [
+   "地中海",
+   "音乐体裁"
+  ],
+  [
+   "埃及",
+   "书法"
+  ],
+  [
+   "埃及",
+   "建筑"
+  ],
+  [
+   "埃及",
+   "绘画"
+  ],
+  [
+   "埃及",
+   "雕塑"
+  ],
+  [
+   "埃及",
+   "音乐体裁"
+  ],
+  [
+   "奥地利",
+   "书法"
+  ],
+  [
+   "奥地利",
+   "建筑"
+  ],
+  [
+   "奥地利",
+   "绘画"
+  ],
+  [
+   "奥地利",
+   "综合"
+  ],
+  [
+   "奥地利",
+   "雕塑"
+  ],
+  [
+   "奥地利/美国",
+   "书法"
+  ],
+  [
+   "奥地利/美国",
+   "建筑"
+  ],
+  [
+   "奥地利/美国",
+   "绘画"
+  ],
+  [
+   "奥地利/美国",
+   "综合"
+  ],
+  [
+   "奥地利/美国",
+   "雕塑"
+  ],
+  [
+   "希腊",
+   "书法"
+  ],
+  [
+   "希腊",
+   "建筑"
+  ],
+  [
+   "希腊",
+   "绘画"
+  ],
+  [
+   "希腊",
+   "雕塑"
+  ],
+  [
+   "希腊",
+   "音乐体裁"
+  ],
+  [
+   "德国",
+   "书法"
+  ],
+  [
+   "德国",
+   "绘画"
+  ],
+  [
+   "德国",
+   "雕塑"
+  ],
+  [
+   "德国及北欧",
+   "书法"
+  ],
+  [
+   "德国及北欧",
+   "建筑"
+  ],
+  [
+   "德国及北欧",
+   "综合"
+  ],
+  [
+   "德国及北欧",
+   "雕塑"
+  ],
+  [
+   "德国及北欧",
+   "音乐体裁"
+  ],
+  [
+   "德语地区",
+   "书法"
+  ],
+  [
+   "德语地区",
+   "建筑"
+  ],
+  [
+   "德语地区",
+   "绘画"
+  ],
+  [
+   "德语地区",
+   "综合"
+  ],
+  [
+   "德语地区",
+   "雕塑"
+  ],
+  [
+   "意大利",
+   "书法"
+  ],
+  [
+   "意大利/英国",
+   "书法"
+  ],
+  [
+   "意大利/英国",
+   "建筑"
+  ],
+  [
+   "意大利/英国",
+   "绘画"
+  ],
+  [
+   "意大利/英国",
+   "综合"
+  ],
+  [
+   "意大利/英国",
+   "雕塑"
+  ],
+  [
+   "意大利及欧洲",
+   "书法"
+  ],
+  [
+   "意大利及欧洲",
+   "建筑"
+  ],
+  [
+   "意大利及欧洲",
+   "音乐体裁"
+  ],
+  [
+   "日本",
+   "书法"
+  ],
+  [
+   "日本",
+   "建筑"
+  ],
+  [
+   "日本",
+   "综合"
+  ],
+  [
+   "日本",
+   "雕塑"
+  ],
+  [
+   "日本",
+   "音乐体裁"
+  ],
+  [
+   "欧洲",
+   "书法"
+  ],
+  [
+   "欧洲",
+   "建筑"
+  ],
+  [
+   "欧洲/美国",
+   "书法"
+  ],
+  [
+   "欧洲/美国",
+   "建筑"
+  ],
+  [
+   "欧洲/美国",
+   "绘画"
+  ],
+  [
+   "欧洲/美国",
+   "雕塑"
+  ],
+  [
+   "欧洲/美国",
+   "音乐体裁"
+  ],
+  [
+   "欧美",
+   "书法"
+  ],
+  [
+   "欧美",
+   "建筑"
+  ],
+  [
+   "欧美",
+   "雕塑"
+  ],
+  [
+   "法国",
+   "书法"
+  ],
+  [
+   "法国",
+   "建筑"
+  ],
+  [
+   "法国及欧洲",
+   "书法"
+  ],
+  [
+   "法国及欧洲",
+   "建筑"
+  ],
+  [
+   "法国及欧洲",
+   "综合"
+  ],
+  [
+   "法国及欧洲",
+   "雕塑"
+  ],
+  [
+   "法国及欧洲",
+   "音乐体裁"
+  ],
+  [
+   "波兰/法国",
+   "书法"
+  ],
+  [
+   "波兰/法国",
+   "建筑"
+  ],
+  [
+   "波兰/法国",
+   "绘画"
+  ],
+  [
+   "波兰/法国",
+   "综合"
+  ],
+  [
+   "波兰/法国",
+   "雕塑"
+  ],
+  [
+   "罗马",
+   "书法"
+  ],
+  [
+   "罗马",
+   "建筑"
+  ],
+  [
+   "罗马",
+   "绘画"
+  ],
+  [
+   "罗马",
+   "雕塑"
+  ],
+  [
+   "罗马",
+   "音乐体裁"
+  ],
+  [
+   "美国",
+   "书法"
+  ],
+  [
+   "美国",
+   "建筑"
+  ],
+  [
+   "英美",
+   "书法"
+  ],
+  [
+   "英美",
+   "建筑"
+  ],
+  [
+   "英美",
+   "雕塑"
+  ],
+  [
+   "英美",
+   "音乐体裁"
+  ],
+  [
+   "荷兰",
+   "书法"
+  ],
+  [
+   "荷兰",
+   "建筑"
+  ],
+  [
+   "荷兰",
+   "综合"
+  ],
+  [
+   "荷兰",
+   "雕塑"
+  ],
+  [
+   "荷兰",
+   "音乐体裁"
+  ],
+  [
+   "荷兰/法国",
+   "书法"
+  ],
+  [
+   "荷兰/法国",
+   "建筑"
+  ],
+  [
+   "荷兰/法国",
+   "综合"
+  ],
+  [
+   "荷兰/法国",
+   "雕塑"
+  ],
+  [
+   "荷兰/法国",
+   "音乐体裁"
+  ],
+  [
+   "西欧",
+   "书法"
+  ],
+  [
+   "西欧",
+   "绘画"
+  ],
+  [
+   "西欧",
+   "综合"
+  ],
+  [
+   "西欧",
+   "音乐体裁"
+  ],
+  [
+   "西班牙",
+   "书法"
+  ],
+  [
+   "西班牙",
+   "建筑"
+  ],
+  [
+   "西班牙",
+   "综合"
+  ],
+  [
+   "西班牙",
+   "雕塑"
+  ],
+  [
+   "西班牙",
+   "音乐体裁"
+  ],
+  [
+   "西班牙/法国",
+   "书法"
+  ],
+  [
+   "西班牙/法国",
+   "建筑"
+  ],
+  [
+   "西班牙/法国",
+   "综合"
+  ],
+  [
+   "西班牙/法国",
+   "音乐体裁"
+  ]
+ ],
+ "matrix_sparse": [
+  [
+   "古代",
+   "全球",
+   "综合",
+   "prehistoric-art"
+  ],
+  [
+   "古代",
+   "欧洲",
+   "绘画",
+   "cave-art"
+  ],
+  [
+   "古代",
+   "欧洲",
+   "雕塑",
+   "paleolithic-sculpture"
+  ],
+  [
+   "古代",
+   "埃及",
+   "综合",
+   "egyptian-art"
+  ],
+  [
+   "古代",
+   "希腊",
+   "综合",
+   "greek-art"
+  ],
+  [
+   "古代",
+   "罗马",
+   "综合",
+   "roman-art"
+  ],
+  [
+   "文艺复兴/宋元明",
+   "东罗马",
+   "绘画",
+   "byzantine-art"
+  ],
+  [
+   "文艺复兴/宋元明",
+   "东罗马",
+   "建筑",
+   "byzantine-art"
+  ],
+  [
+   "文艺复兴/宋元明",
+   "地中海",
+   "综合",
+   "early-christian-art"
+  ],
+  [
+   "中世纪",
+   "西欧",
+   "建筑",
+   "romanesque"
+  ],
+  [
+   "中世纪",
+   "西欧",
+   "雕塑",
+   "romanesque"
+  ],
+  [
+   "文艺复兴/宋元明",
+   "西欧",
+   "建筑",
+   "gothic"
+  ],
+  [
+   "文艺复兴/宋元明",
+   "西欧",
+   "雕塑",
+   "gothic"
+  ],
+  [
+   "文艺复兴/宋元明",
+   "意大利及欧洲",
+   "综合",
+   "renaissance"
+  ],
+  [
+   "文艺复兴/宋元明",
+   "意大利",
+   "建筑",
+   "high-renaissance"
+  ],
+  [
+   "文艺复兴/宋元明",
+   "北欧",
+   "绘画",
+   "northern-renaissance"
+  ],
+  [
+   "文艺复兴/宋元明",
+   "意大利及欧洲",
+   "绘画",
+   "mannerism"
+  ],
+  [
+   "文艺复兴/宋元明",
+   "意大利及欧洲",
+   "雕塑",
+   "mannerism"
+  ],
+  [
+   "跨期/术语",
+   "意大利",
+   "雕塑",
+   "donatello"
+  ],
+  [
+   "中世纪",
+   "意大利",
+   "雕塑",
+   "michelangelo"
+  ],
+  [
+   "20世纪—当代",
+   "意大利",
+   "绘画",
+   "raphael"
+  ],
+  [
+   "文艺复兴/宋元明",
+   "法国",
+   "综合",
+   "rococo"
+  ],
+  [
+   "跨期/术语",
+   "意大利",
+   "绘画",
+   "caravaggio"
+  ],
+  [
+   "跨期/术语",
+   "佛兰德斯",
+   "绘画",
+   "rubens"
+  ],
+  [
+   "跨期/术语",
+   "西班牙",
+   "绘画",
+   "velazquez"
+  ],
+  [
+   "文艺复兴/宋元明",
+   "欧洲",
+   "绘画",
+   "romanticism-art"
+  ],
+  [
+   "文艺复兴/宋元明",
+   "法国",
+   "绘画",
+   "impressionism"
+  ],
+  [
+   "文艺复兴/宋元明",
+   "法国及欧洲",
+   "绘画",
+   "post-impressionism"
+  ],
+  [
+   "17—19世纪",
+   "荷兰/法国",
+   "绘画",
+   "van-gogh"
+  ],
+  [
+   "17—19世纪",
+   "德国及北欧",
+   "绘画",
+   "expressionism"
+  ],
+  [
+   "17—19世纪",
+   "法国",
+   "雕塑",
+   "cubism"
+  ],
+  [
+   "17—19世纪",
+   "意大利",
+   "综合",
+   "futurism"
+  ],
+  [
+   "17—19世纪",
+   "欧洲/美国",
+   "综合",
+   "dada"
+  ],
+  [
+   "17—19世纪",
+   "德国",
+   "建筑",
+   "bauhaus"
+  ],
+  [
+   "17—19世纪",
+   "德国",
+   "综合",
+   "bauhaus"
+  ],
+  [
+   "17—19世纪",
+   "西班牙/法国",
+   "绘画",
+   "picasso"
+  ],
+  [
+   "17—19世纪",
+   "西班牙/法国",
+   "雕塑",
+   "picasso"
+  ],
+  [
+   "17—19世纪",
+   "俄国/德国",
+   "绘画",
+   "kandinsky"
+  ],
+  [
+   "17—19世纪",
+   "英美",
+   "绘画",
+   "pop-art"
+  ],
+  [
+   "17—19世纪",
+   "英美",
+   "综合",
+   "pop-art"
+  ],
+  [
+   "17—19世纪",
+   "美国",
+   "雕塑",
+   "minimalism"
+  ],
+  [
+   "文艺复兴/宋元明",
+   "意大利/英国",
+   "音乐体裁",
+   "madrigal"
+  ],
+  [
+   "中世纪",
+   "意大利",
+   "音乐体裁",
+   "palestrina"
+  ],
+  [
+   "跨期/术语",
+   "意大利",
+   "音乐体裁",
+   "monteverdi"
+  ],
+  [
+   "文艺复兴/宋元明",
+   "德语地区",
+   "音乐体裁",
+   "lied"
+  ],
+  [
+   "17—19世纪",
+   "波兰/法国",
+   "音乐体裁",
+   "chopin"
+  ],
+  [
+   "文艺复兴/宋元明",
+   "法国",
+   "音乐体裁",
+   "impressionism-music"
+  ],
+  [
+   "文艺复兴/宋元明",
+   "美国",
+   "音乐体裁",
+   "minimalism-music"
+  ],
+  [
+   "17—19世纪",
+   "俄国/美国",
+   "音乐体裁",
+   "stravinsky"
+  ],
+  [
+   "17—19世纪",
+   "奥地利/美国",
+   "音乐体裁",
+   "schoenberg"
+  ],
+  [
+   "17—19世纪",
+   "法国",
+   "音乐体裁",
+   "debussy"
+  ],
+  [
+   "文艺复兴/宋元明",
+   "中国",
+   "音乐体裁",
+   "jingju"
+  ],
+  [
+   "20世纪—当代",
+   "中国",
+   "音乐体裁",
+   "wuwangdu-chu-music-archaeology"
+  ],
+  [
+   "古代",
+   "南亚",
+   "综合",
+   "indian-art"
+  ],
+  [
+   "古代",
+   "南亚",
+   "雕塑",
+   "buddhist-art-india"
+  ],
+  [
+   "文艺复兴/宋元明",
+   "东南亚",
+   "雕塑",
+   "khmer-art"
+  ],
+  [
+   "文艺复兴/宋元明",
+   "东亚",
+   "综合",
+   "japanese-art"
+  ],
+  [
+   "文艺复兴/宋元明",
+   "日本",
+   "绘画",
+   "ukiyo-e"
+  ],
+  [
+   "文艺复兴/宋元明",
+   "东亚",
+   "书法",
+   "zen-painting"
+  ],
+  [
+   "17—19世纪",
+   "欧美",
+   "绘画",
+   "starry-night"
+  ],
+  [
+   "17—19世纪",
+   "俄国/法国",
+   "音乐体裁",
+   "rite-of-spring-work"
+  ]
+ ],
+ "dangling": [],
+ "depth_core_l1": [],
+ "depth_important_l1": [],
+ "pending": [
+  {
+   "id": "prehistoric-art",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 137
+  },
+  {
+   "id": "cave-art",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 62
+  },
+  {
+   "id": "paleolithic-sculpture",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 80
+  },
+  {
+   "id": "egyptian-art",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 141
+  },
+  {
+   "id": "greek-art",
+   "level": "L3",
+   "coverage_note": "",
+   "section_len": 714
+  },
+  {
+   "id": "roman-art",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 596
+  },
+  {
+   "id": "byzantine-art",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 195
+  },
+  {
+   "id": "early-christian-art",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 646
+  },
+  {
+   "id": "romanesque",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 970
+  },
+  {
+   "id": "gothic",
+   "level": "L3",
+   "coverage_note": "",
+   "section_len": 640
+  },
+  {
+   "id": "renaissance",
+   "level": "L3",
+   "coverage_note": "",
+   "section_len": 152
+  },
+  {
+   "id": "early-renaissance",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 178
+  },
+  {
+   "id": "high-renaissance",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 94
+  },
+  {
+   "id": "venetian-school",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 93
+  },
+  {
+   "id": "northern-renaissance",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 92
+  },
+  {
+   "id": "mannerism",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 87
+  },
+  {
+   "id": "donatello",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 582
+  },
+  {
+   "id": "leonardo",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 85
+  },
+  {
+   "id": "michelangelo",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 91
+  },
+  {
+   "id": "raphael",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 101
+  },
+  {
+   "id": "botticelli",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 174
+  },
+  {
+   "id": "mona-lisa",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 121
+  },
+  {
+   "id": "baroque",
+   "level": "L3",
+   "coverage_note": "",
+   "section_len": 88
+  },
+  {
+   "id": "rococo",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 146
+  },
+  {
+   "id": "caravaggio",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 96
+  },
+  {
+   "id": "rembrandt",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 82
+  },
+  {
+   "id": "rubens",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 139
+  },
+  {
+   "id": "velazquez",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 145
+  },
+  {
+   "id": "vermeer",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 148
+  },
+  {
+   "id": "neoclassicism",
+   "level": "L3",
+   "coverage_note": "",
+   "section_len": 99
+  },
+  {
+   "id": "romanticism-art",
+   "level": "L3",
+   "coverage_note": "",
+   "section_len": 98
+  },
+  {
+   "id": "realism-art",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 423
+  },
+  {
+   "id": "delacroix",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 203
+  },
+  {
+   "id": "impressionism",
+   "level": "L3",
+   "coverage_note": "",
+   "section_len": 414
+  },
+  {
+   "id": "post-impressionism",
+   "level": "L3",
+   "coverage_note": "",
+   "section_len": 105
+  },
+  {
+   "id": "monet",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 107
+  },
+  {
+   "id": "van-gogh",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 80
+  },
+  {
+   "id": "cezanne",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 82
+  },
+  {
+   "id": "gauguin",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 189
+  },
+  {
+   "id": "fauvism",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 186
+  },
+  {
+   "id": "expressionism",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 38
+  },
+  {
+   "id": "cubism",
+   "level": "L3",
+   "coverage_note": "",
+   "section_len": 34
+  },
+  {
+   "id": "futurism",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 171
+  },
+  {
+   "id": "dada",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 187
+  },
+  {
+   "id": "surrealism",
+   "level": "L3",
+   "coverage_note": "",
+   "section_len": 34
+  },
+  {
+   "id": "bauhaus",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 192
+  },
+  {
+   "id": "abstract-expressionism",
+   "level": "L3",
+   "coverage_note": "",
+   "section_len": 34
+  },
+  {
+   "id": "picasso",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 81
+  },
+  {
+   "id": "matisse",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 190
+  },
+  {
+   "id": "kandinsky",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 199
+  },
+  {
+   "id": "dali",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 193
+  },
+  {
+   "id": "modern-art",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 228
+  },
+  {
+   "id": "contemporary-art",
+   "level": "L3",
+   "coverage_note": "",
+   "section_len": 85
+  },
+  {
+   "id": "pop-art",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 151
+  },
+  {
+   "id": "minimalism",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 151
+  },
+  {
+   "id": "conceptual-art",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 159
+  },
+  {
+   "id": "warhol",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 156
+  },
+  {
+   "id": "china-painting-history",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 80
+  },
+  {
+   "id": "tang-painting",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 159
+  },
+  {
+   "id": "song-painting",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 78
+  },
+  {
+   "id": "yuan-painting",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 158
+  },
+  {
+   "id": "ming-painting",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 136
+  },
+  {
+   "id": "qing-painting",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 178
+  },
+  {
+   "id": "xieyi",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 166
+  },
+  {
+   "id": "gongbi",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 53
+  },
+  {
+   "id": "yangshao-painted-pottery",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 95
+  },
+  {
+   "id": "chinese-jade-art",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 112
+  },
+  {
+   "id": "shang-zhou-bronzes",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 107
+  },
+  {
+   "id": "dunhuang-art",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 107
+  },
+  {
+   "id": "six-dynasties-art",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 108
+  },
+  {
+   "id": "china-calligraphy-history",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 567
+  },
+  {
+   "id": "seal-script",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 134
+  },
+  {
+   "id": "clerical-script",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 542
+  },
+  {
+   "id": "regular-script",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 150
+  },
+  {
+   "id": "running-script",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 132
+  },
+  {
+   "id": "cursive-script",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 484
+  },
+  {
+   "id": "medieval-music",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 614
+  },
+  {
+   "id": "gregorian-chant",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 607
+  },
+  {
+   "id": "organum",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 115
+  },
+  {
+   "id": "polyphony",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 570
+  },
+  {
+   "id": "renaissance-music",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 34
+  },
+  {
+   "id": "madrigal",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 98
+  },
+  {
+   "id": "palestrina",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 97
+  },
+  {
+   "id": "baroque-music",
+   "level": "L3",
+   "coverage_note": "",
+   "section_len": 529
+  },
+  {
+   "id": "opera",
+   "level": "L3",
+   "coverage_note": "",
+   "section_len": 34
+  },
+  {
+   "id": "tonality",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 36
+  },
+  {
+   "id": "fugue",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 69
+  },
+  {
+   "id": "sonata",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 108
+  },
+  {
+   "id": "bach",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 31
+  },
+  {
+   "id": "monteverdi",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 105
+  },
+  {
+   "id": "classical-period-music",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 47
+  },
+  {
+   "id": "symphony",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 39
+  },
+  {
+   "id": "sonata-form",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 114
+  },
+  {
+   "id": "haydn",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 109
+  },
+  {
+   "id": "mozart",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 46
+  },
+  {
+   "id": "beethoven",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 45
+  },
+  {
+   "id": "romantic-music",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 41
+  },
+  {
+   "id": "lied",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 70
+  },
+  {
+   "id": "symphonic-poem",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 95
+  },
+  {
+   "id": "chopin",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 59
+  },
+  {
+   "id": "wagner",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 43
+  },
+  {
+   "id": "schubert",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 89
+  },
+  {
+   "id": "20th-century-classical",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 48
+  },
+  {
+   "id": "impressionism-music",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 81
+  },
+  {
+   "id": "serialism",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 82
+  },
+  {
+   "id": "minimalism-music",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 79
+  },
+  {
+   "id": "stravinsky",
+   "level": "L3",
+   "coverage_note": "",
+   "section_len": 157
+  },
+  {
+   "id": "schoenberg",
+   "level": "L3",
+   "coverage_note": "",
+   "section_len": 157
+  },
+  {
+   "id": "debussy",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 118
+  },
+  {
+   "id": "china-music-history",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 157
+  },
+  {
+   "id": "yayue",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 107
+  },
+  {
+   "id": "guzheng",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 108
+  },
+  {
+   "id": "jingju",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 140
+  },
+  {
+   "id": "pipa",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 88
+  },
+  {
+   "id": "what-is-art-history",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 184
+  },
+  {
+   "id": "what-is-music-history",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 163
+  },
+  {
+   "id": "reading-path",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 151
+  },
+  {
+   "id": "art-criticism-note",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 169
+  },
+  {
+   "id": "musicology-note",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 78
+  },
+  {
+   "id": "baroque-crossmedia",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 77
+  },
+  {
+   "id": "romantic-crossmedia",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 79
+  },
+  {
+   "id": "renaissance-crossmedia",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 83
+  },
+  {
+   "id": "impression-crossmedia",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 70
+  },
+  {
+   "id": "modern-to-contemporary",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 67
+  },
+  {
+   "id": "wuwangdu-chu-music-archaeology",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 79
+  },
+  {
+   "id": "music-notation",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 65
+  },
+  {
+   "id": "musical-mode",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 62
+  },
+  {
+   "id": "violin",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 58
+  },
+  {
+   "id": "piano",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 57
+  },
+  {
+   "id": "indian-art",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 126
+  },
+  {
+   "id": "buddhist-art-india",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 112
+  },
+  {
+   "id": "ajanta-caves",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 98
+  },
+  {
+   "id": "khmer-art",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 107
+  },
+  {
+   "id": "angkor",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 118
+  },
+  {
+   "id": "japanese-art",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 106
+  },
+  {
+   "id": "ukiyo-e",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 112
+  },
+  {
+   "id": "zen-painting",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 124
+  },
+  {
+   "id": "starry-night",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 138
+  },
+  {
+   "id": "birth-of-venus-work",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 105
+  },
+  {
+   "id": "sistine-ceiling-work",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 123
+  },
+  {
+   "id": "guernica-work",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 113
+  },
+  {
+   "id": "rite-of-spring-work",
+   "level": "L2",
+   "coverage_note": "",
+   "section_len": 121
+  }
+ ],
+ "orphan": []
+}

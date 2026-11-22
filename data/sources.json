@@ -1539,6 +1539,106 @@
       "type": "权威百科",
       "verified": true,
       "verified_note": "HTTP200 <title>=History of painting - Wikipedia"
+    },
+    {
+      "id": "enc-starry-night",
+      "title": "The Starry Night",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/The_Starry_Night",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=The Starry Night - Wikipedia"
+    },
+    {
+      "id": "enc-moma",
+      "title": "Museum of Modern Art",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Museum_of_Modern_Art",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=Museum of Modern Art - Wikipedia"
+    },
+    {
+      "id": "enc-birth-venus",
+      "title": "The Birth of Venus",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/The_Birth_of_Venus",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=The Birth of Venus - Wikipedia"
+    },
+    {
+      "id": "enc-uffizi",
+      "title": "Uffizi",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Uffizi",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=Uffizi - Wikipedia"
+    },
+    {
+      "id": "enc-sistine-ceiling",
+      "title": "Sistine Chapel ceiling",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Sistine_Chapel_ceiling",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=Sistine Chapel ceiling - Wikipedia"
+    },
+    {
+      "id": "enc-guernica",
+      "title": "Guernica (Picasso)",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Guernica_(Picasso)",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=Guernica (Picasso) - Wikipedia"
+    },
+    {
+      "id": "enc-rite-spring",
+      "title": "The Rite of Spring",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/The_Rite_of_Spring",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=The Rite of Spring - Wikipedia"
+    },
+    {
+      "id": "enc-night-watch",
+      "title": "The Night Watch",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/The_Night_Watch",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=The Night Watch - Wikipedia"
+    },
+    {
+      "id": "enc-pearl-earring",
+      "title": "Girl with a Pearl Earring",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=Girl with a Pearl Earring - Wikipedia"
+    },
+    {
+      "id": "enc-the-scream",
+      "title": "The Scream",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/The_Scream",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=The Scream - Wikipedia"
     }
   ]
 }
