@@ -1,0 +1,53 @@
+[
+  {
+    "entry_id": "realism-art",
+    "pending_item": "「约1840—1870年」精确年代区间的来源支撑",
+    "resolved": false,
+    "source": null,
+    "body_rewrite": null
+  },
+  {
+    "entry_id": "romanesque",
+    "pending_item": "厚墙小窗/半圆拱/十字拱在不同地区差异",
+    "resolved": true,
+    "source": {
+      "id": "enc-romanesque-architecture",
+      "title": "Romanesque architecture",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Romanesque_architecture",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 title=Romanesque architecture - Wikipedia；正文命中 thick walls、small windows、semicircular arches、groin vaults、regional characteristics、differs from region to region 等支撑词"
+    },
+    "body_rewrite": "罗曼式建筑以厚墙、小窗、半圆形拱以及筒形拱和十字拱为主要特征，虽在不同地区呈现各自的地域特点、使用不同材料，但这一风格仍遍及欧洲。"
+  },
+  {
+    "entry_id": "romanesque",
+    "pending_item": "精确终点1150年",
+    "resolved": false,
+    "source": null,
+    "body_rewrite": null
+  },
+  {
+    "entry_id": "donatello",
+    "pending_item": "「解剖准确性」术语是否可描述多纳泰罗",
+    "resolved": false,
+    "source": null,
+    "body_rewrite": null
+  },
+  {
+    "entry_id": "cursive-script",
+    "pending_item": "张旭具体作品名称",
+    "resolved": false,
+    "source": null,
+    "body_rewrite": null
+  },
+  {
+    "entry_id": "cursive-script",
+    "pending_item": "草书精确年代「前1世纪—至今」",
+    "resolved": false,
+    "source": null,
+    "body_rewrite": null
+  }
+]

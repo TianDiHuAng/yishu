@@ -1,0 +1,88 @@
+[
+  {
+    "id": "greek-art",
+    "level": "L3",
+    "l3": {
+      "controversies": [
+        {
+          "issue": "古希腊艺术终点的断代：采用公元前146年（科林斯之战）还是公元前31年",
+          "views": [
+            {
+              "holder": "所引主来源页（enc-greek-art）",
+              "basis": "以罗马在科林斯之战（公元前146年）征服希腊作为古希腊艺术的重要终点，本条据此采公元前146年"
+            },
+            {
+              "holder": "所引来源页（enc-hellenistic-period）",
+              "basis": "希腊化时期通常截至公元前31年（亚克兴海战与罗马征服托勒密埃及），而罗马对希腊的征服自公元前146年（科林斯）起，故并存两种断代语境"
+            }
+          ]
+        },
+        {
+          "issue": "各阶段（几何—希腊化）的精确起止边界如何划定",
+          "views": [
+            {
+              "holder": "所引来源页（enc-hellenistic-period）",
+              "basis": "给出古典希腊约公元前500—前323年、希腊化时期公元前323—前31年、罗马统治希腊自公元前146年起的分期"
+            },
+            {
+              "holder": "本条待核实说明",
+              "basis": "几何时期起点该来源未载，各阶段（几何—希腊化）的精确起止边界仍待第二来源确认"
+            }
+          ]
+        }
+      ],
+      "data": [
+        {"label": "时间范围", "value": "约公元前900—前146年", "note": "来源:enc-greek-art"},
+        {"label": "科林斯之战（终点断代）", "value": "公元前146年", "note": "来源:enc-greek-art"},
+        {"label": "希腊化时期终点（另一断代）", "value": "公元前31年", "note": "来源:enc-hellenistic-period"},
+        {"label": "三柱式", "value": "多立克、爱奥尼、科林斯", "note": "来源:enc-greek-art"},
+        {"label": "雕塑演进", "value": "古风时期程式化青年像 → 古典时期理想人体", "note": "来源:enc-greek-art"},
+        {"label": "雕塑家菲迪亚斯生年", "value": "约公元前480—430年", "note": "来源:enc-phidias"}
+      ],
+      "complex_diagram_note": "以时间轴并列展示古希腊艺术终点两种断代的争议，并对照雕塑从程式化青年像到理想人体的演进与三柱式的并列关系。"
+    }
+  },
+  {
+    "id": "gothic",
+    "level": "L3",
+    "l3": {
+      "controversies": [
+        {
+          "issue": "哥特式艺术起点的精确断代：是否以1140年为起点",
+          "views": [
+            {
+              "holder": "所引主来源页（enc-gothic）",
+              "basis": "仅给出12世纪后期至16世纪的框架，未载1140年这一精确起点，故不采信"
+            },
+            {
+              "holder": "所引来源页（enc-gothic-architecture）",
+              "basis": "巴黎附近圣但尼修道院教堂唱诗班于1140至1144年间重建，该页称其为第一座哥特式建筑，可为1140年起点提供具体对应"
+            }
+          ]
+        },
+        {
+          "issue": "肋拱、飞扶壁是否属于哥特式结构特征（术语归属）",
+          "views": [
+            {
+              "holder": "所引主来源页（enc-gothic）",
+              "basis": "来源页面明确记载的只有尖拱与彩色玻璃窗，未出现肋拱、飞扶壁的对应表述，故不写作既定特征"
+            },
+            {
+              "holder": "所引来源页（enc-gothic-architecture）",
+              "basis": "哥特式建筑以尖拱、肋拱、飞扶壁和大型花窗为典型结构特征，彩绘玻璃塑造教堂内部光线效果"
+            }
+          ]
+        }
+      ],
+      "data": [
+        {"label": "时间范围", "value": "约公元1140—1500年", "note": "来源:enc-gothic"},
+        {"label": "兴起地域与时期", "value": "12世纪后期的法国", "note": "来源:enc-gothic"},
+        {"label": "来源给出的时代框架", "value": "12世纪至16世纪", "note": "来源:enc-gothic"},
+        {"label": "圣但尼修道院教堂唱诗班重建", "value": "1140至1144年间", "note": "来源:enc-gothic-architecture"},
+        {"label": "沙特尔大教堂", "value": "1194年动工、1252年完成", "note": "来源:enc-chartres-cathedral"},
+        {"label": "明确记载的典型特征", "value": "尖拱与彩色玻璃窗", "note": "来源:enc-gothic"}
+      ],
+      "complex_diagram_note": "以时间轴并列展示哥特式艺术起点两种断代的争议，并用结构示意图对照尖拱、彩色玻璃窗与肋拱、飞扶壁的术语归属分歧。"
+    }
+  }
+]

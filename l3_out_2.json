@@ -1,0 +1,126 @@
+[
+  {
+    "id": "impressionism",
+    "level": "L3",
+    "l3": {
+      "controversies": [
+        {
+          "issue": "印象派究竟是未完成的草图还是严肃艺术？",
+          "views": [
+            {
+              "holder": "批评者（所引来源页 enc-impressionism 所述评论家一方）",
+              "basis": "指责其笔触潦草、题材琐碎，认为画面只是未经完成的草图。"
+            },
+            {
+              "holder": "支持者（所引来源页 enc-impressionism 所述）",
+              "basis": "认为它忠实记录了现代人的视觉经验，是一种严肃的艺术追求。"
+            }
+          ]
+        },
+        {
+          "issue": "印象派在光学色彩上的极端追求是否缺乏结构？（由后印象派反弹引发的争论）",
+          "views": [
+            {
+              "holder": "后印象派一方（所引来源页 enc-impressionism 所述）",
+              "basis": "批评印象派缺乏结构，主张以几何化色块重建画面秩序；梵高与高更则转向主观情感与象征。"
+            },
+            {
+              "holder": "印象派一方（所引来源页 enc-impressionism 所述）",
+              "basis": "以冷暖对比与补色并置、光学混色和边缘裁切追求光色瞬间，而非严谨的结构布局。"
+            }
+          ]
+        }
+      ],
+      "data": [
+        {
+          "label": "活跃年代",
+          "value": "约公元1870—1890年",
+          "note": "来源:enc-impressionism"
+        },
+        {
+          "label": "《印象·日出》创作年份",
+          "value": "1872年",
+          "note": "来源:enc-impressionism"
+        },
+        {
+          "label": "印象派得名文章发表年份",
+          "value": "1874年",
+          "note": "来源:enc-impressionism"
+        },
+        {
+          "label": "《煎饼磨坊的舞会》创作年份与收藏地",
+          "value": "1876年，巴黎奥赛博物馆藏",
+          "note": "来源:enc-bal-du-moulin-de-la-galette"
+        },
+        {
+          "label": "独立展览次数与时间跨度",
+          "value": "八次（1874年至1886年）",
+          "note": "来源:web-artstory-impressionism"
+        }
+      ],
+      "complex_diagram_note": "以时间轴并列展示印象派起止年代与“草图还是严肃艺术”的争议双方立场，并用箭头连接其承自现实主义、下启后印象派的风格脉络。"
+    }
+  },
+  {
+    "id": "baroque-music",
+    "level": "L3",
+    "l3": {
+      "controversies": [
+        {
+          "issue": "“巴洛克”概念是否适用于音乐？（该词原用于建筑与绘画）",
+          "views": [
+            {
+              "holder": "所引来源页 enc-baroque-music 所述20世纪以来部分学界",
+              "basis": "该词原用于建筑与绘画，移用于音乐领域的适用性仍存在讨论。"
+            },
+            {
+              "holder": "通说（所引来源页 enc-baroque-music 所述约定俗成用法）",
+              "basis": "其年代划分约1600—1750年已约定俗成，概念在音乐史中沿用。"
+            }
+          ]
+        },
+        {
+          "issue": "蒙特威尔第等人的“新音乐”在不协和音与歌词清晰度上是否可取？",
+          "views": [
+            {
+              "holder": "保守派（所引来源页 enc-baroque-music 所述）",
+              "basis": "围绕新音乐中的不协和音与歌词清晰度提出质疑与争论。"
+            },
+            {
+              "holder": "“新音乐”一方（所引来源页 enc-baroque-music 所述）",
+              "basis": "继承文艺复兴晚期复调传统并将其纳入功能和声框架，推动了歌剧等新体裁的发展。"
+            }
+          ]
+        }
+      ],
+      "data": [
+        {
+          "label": "时期年代划分",
+          "value": "约公元1600—1750年",
+          "note": "来源:enc-baroque-music"
+        },
+        {
+          "label": "《勃兰登堡协奏曲》题献年份",
+          "value": "1721年",
+          "note": "来源:enc-brandenburg-concertos"
+        },
+        {
+          "label": "《弥赛亚》都柏林首演年份",
+          "value": "1742年",
+          "note": "来源:enc-messiah-handel"
+        },
+        {
+          "label": "《奥菲欧》首演年份",
+          "value": "1607年",
+          "note": "来源:enc-l-orfeo"
+        },
+        {
+          "label": "《勃兰登堡协奏曲》题献手稿转入柏林皇家图书馆年份",
+          "value": "1914年",
+          "note": "来源:enc-brandenburg-concertos"
+        }
+      ],
+      "complex_diagram_note": "以并列图示展示通奏低音、大小调功能和声与回归曲式等支柱及其向古典主义的过渡，并在旁注标出“巴洛克”概念是否适用于音乐的争议。"
+    }
+  }
+]

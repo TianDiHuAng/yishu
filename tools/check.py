@@ -135,6 +135,17 @@ def main():
                 if sn not in sec or not sec[sn]: err("R7",e["id"],"L2缺节:%s"%sn)
             if not e.get("svg"): err("R7",e["id"],"L2缺SVG一图")
         if lv=="L3" and e["tier"]!="核心": err("R7",e["id"],"非核心条目不得L3")
+        if lv=="L3":
+            l3=e.get("l3",{})
+            cs=l3.get("controversies",[])
+            if not cs: err("R16",e["id"],"L3缺争议并列表")
+            for c in cs:
+                vs=c.get("views",[])
+                if len(vs)<2: err("R16",e["id"],"争议观点不足2方:%s"%c.get("issue",""))
+                for v in vs:
+                    if not v.get("holder") or not v.get("basis"): err("R16",e["id"],"争议观点缺holder/basis")
+            if len(l3.get("data",[]))<2: err("R16",e["id"],"L3关键数据不足2项")
+            if not l3.get("complex_diagram_note"): err("R16",e["id"],"L3缺复杂图示说明")
 
     # R11 coverage一致
     for eid,c in COV["entries"].items():

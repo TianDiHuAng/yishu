@@ -65,8 +65,8 @@
     "greek-art": {
       "title": "古希腊艺术",
       "tier": "核心",
-      "level": "L2",
-      "status": "written_l2",
+      "level": "L3",
+      "status": "written_l3",
       "sources_count": 4,
       "verified_sources_count": 4,
       "needs_verification": false,
@@ -125,8 +125,8 @@
     "gothic": {
       "title": "哥特式艺术",
       "tier": "核心",
-      "level": "L2",
-      "status": "written_l2",
+      "level": "L3",
+      "status": "written_l3",
       "sources_count": 4,
       "verified_sources_count": 4,
       "needs_verification": false,
@@ -413,8 +413,8 @@
     "impressionism": {
       "title": "印象派",
       "tier": "核心",
-      "level": "L2",
-      "status": "written_l2",
+      "level": "L3",
+      "status": "written_l3",
       "sources_count": 3,
       "verified_sources_count": 3,
       "needs_verification": false,
@@ -1013,8 +1013,8 @@
     "baroque-music": {
       "title": "巴洛克音乐",
       "tier": "核心",
-      "level": "L2",
-      "status": "written_l2",
+      "level": "L3",
+      "status": "written_l3",
       "sources_count": 7,
       "verified_sources_count": 7,
       "needs_verification": false,
