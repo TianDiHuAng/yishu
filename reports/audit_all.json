@@ -1,6 +1,11 @@
 {
  "steps": [
   {
+   "step": "py_compile（全部工具可编译）",
+   "status": "ok",
+   "tail": "103 个 .py 全部通过"
+  },
+  {
    "step": "check.py（R1-R17 硬规则）",
    "returncode": 0,
    "status": "ok",
