@@ -147,6 +147,33 @@
       "l3_added": 12,
       "healthcheck": "all_clear",
       "qc_result": "4 PASS/0 REWORK"
+    },
+    {
+      "cycle": "cycle6",
+      "date": "2026-11-22",
+      "status": "completed",
+      "gap_methods": [
+        "B4读者问题(作品档案)",
+        "B7深度缺口",
+        "B2覆盖矩阵"
+      ],
+      "gap_counts": {
+        "B4_作品档案": 5,
+        "B7_核心L2": 32,
+        "B2_空白格": 154
+      },
+      "new_entries": 5,
+      "upgrades": 12,
+      "reviews": 4,
+      "fixes": 23,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0",
+      "new_sources": 10,
+      "commits": 2,
+      "l3_added": 2,
+      "qc_result": "2 REWORK → 整批复判：22条L3降级L2，6条保留",
+      "l3_attempted": 12,
+      "l3_downgraded": 22
     }
   ]
 }

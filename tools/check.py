@@ -146,6 +146,13 @@ def main():
                     if not v.get("holder") or not v.get("basis"): err("R16",e["id"],"争议观点缺holder/basis")
             if len(l3.get("data",[]))<2: err("R16",e["id"],"L3关键数据不足2项")
             if not l3.get("complex_diagram_note"): err("R16",e["id"],"L3缺复杂图示说明")
+            # R17 争议必须真实：禁止把"编辑待办/材料缺失/本条目未提供"包装成学术分歧
+            BANNED=("未给出","未提供","未列出","缺失","材料未","待补充第二来源","暂不","以免误写","信息不足","条目未")
+            for c in cs:
+                blob=c.get("issue","")+"".join(v.get("basis","")+v.get("holder","") for v in c.get("views",[]))
+                for b in BANNED:
+                    if b in blob:
+                        err("R17",e["id"],"争议含编辑待办措辞[%s]，非真实学界分歧"%b); break
 
     # R11 coverage一致
     for eid,c in COV["entries"].items():

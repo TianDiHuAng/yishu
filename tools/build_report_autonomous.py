@@ -30,6 +30,8 @@ L.append("- 新增来源：**%d**"%cur.get("new_sources",0))
 if cur.get("qc_result"): L.append("- 质量闸：**%s**"%cur["qc_result"])
 if cyc=="cycle3":
     L.append("- 本轮特别说明：B5 复核 45 项待核实 → 38 项找到可核验第二来源并写入【已复核】留痕；B3 孤儿页 38→0（新增84条双向补链）；QC 收尾补 Bach/Vivaldi 来源并修正18处截断URL。")
+if cyc=="cycle6":
+    L.append("- 本轮特别说明：B4 新增 5 条作品档案（work-archives 单元，D015），孤儿补链后 orphan=0；B7 尝试 12 条 L3，质量闸发现「编辑待办冒充学术争议 + 虚假归因来源」26 处，判定不合格 —— 新增 check.py R17 护栏，22 条降级回 L2（D016），仅保留 6 条真实两方争议的 L3；清理 out_*.json 残留工具坑；末段 wikipedia 抓取超时，未对新断言做联网复核。")
 if cyc=="cycle5":
     L.append("- 本轮特别说明：体检轮 F 六维全通过（死链/过期/重复/矛盾/孤儿/来源重合均为0，3个「现存」为误报）；L3 深度升级12条核心，累计16条L3，争议/数据逐项获来源支撑、holder全为泛称；B6 动态4条仍不可达已记 BLOCKERS。")
 if cyc=="cycle4":

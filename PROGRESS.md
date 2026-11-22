@@ -3,34 +3,38 @@
 > 每次启动先读本文件与 BACKLOG/METRICS/SATURATION/REPORT，从"下轮起点"续作。
 > 按 AUTONOMOUS.md：不写 ALL_DONE；饱和以 SATURATION.json 为准。
 
-- 当前轮次：**Cycle 5（体检轮）已完成** → 下轮 **Cycle 6**
+- 当前轮次：**Cycle 6 已完成** → 下轮 **Cycle 7**
 - 状态：正常（未饱和）
 - 最近更新：2026-11-22
 
-## 上轮（Cycle 5）做了什么
-- **体检 F 六维全通过**：死链0 / 过期数据0（3个"现存/截至"误报）/ 重复0 / 数据矛盾0 / 孤儿0 / 来源文本重合0（5条抽样）—— 见 reports/healthcheck_c5.json、overlap_c5.json
-- 缺口发现：B6 最后回溯 5 条动态（frankfurt-rmu 可达但日期异常未采纳；4 条不可达已记 BLOCKERS）；B7 深度缺口 44 核心 L2
-- **L3 升级 12 条核心条目** → 累计 16 条 L3（新增 renaissance/baroque/neoclassicism/romanticism-art/post-impressionism/cubism/surrealism/abstract-expressionism/contemporary-art/opera/stravinsky/schoenberg）
-- QC 抽检 4 条 L3：4 PASS，无虚构学者/编造数字/无支撑争议
-- 结果：**137 条目**（L2 121 + L3 16）；check errors=0 / check_links broken=0（141页）；来源154（149 verified）
-- 提交：cycle5（体检+12 L3）
+## 上轮（Cycle 6）做了什么
+- 缺口发现 3 种（B4 作品档案 / B7 深度缺口 / B2 覆盖矩阵）
+- **B4 作品档案**：核验10条权威百科来源，新增 work-archives 单元 5 条（星月夜、维纳斯的诞生、西斯廷天顶画、格尔尼卡、春之祭），D015 记录；孤儿补链 10 条使 orphan=0
+- **B7 深度**：尝试 12 个核心条目升 L3
+- **质量闸发现重大问题**：批量 L3「争议」普遍把"本条目缺年份/缺收藏地"等**编辑待办**包装为两方学术分歧，并虚假归因给来源页（26处）。判定不合格
+- **返工**：新增 check.py **R17**（禁用编辑待办措辞）→ 22 条降级回 L2（D016），保留 6 条真实争议（greek-art/gothic/rembrandt/impressionism/monet/baroque-music）
+- **工具坑**：out_*.json 残留会覆盖人工编辑的覆盖层，已清理并把处理后的产物移入 `_processed/`
+- 结果：**142 条目**（L2 136 + L3 6）；check errors=0（含 R17）/ check_links broken=0（146页）；来源164（159 verified）；orphan=0
+- 网络：末段 en.wikipedia.org 抓取持续超时，新一轮 L3 争议未联网复核
 
-## 下轮起点（Cycle 6）
-1. 读状态文件；check.py（应 errors=0）。
-2. 缺口发现 ≥3 种，轮换到 B1/B2/B4/B5（B6 已两次回溯不可达，可暂缓）。
-3. 执行 BACKLOG：B5 剩余5项 → 覆盖矩阵150空格补盲（需权威依据）→ B4 作品档案缺口（需来源）→ L3 再升级（28核心仍L2）。
-4. 每10任务 check+commit；质量闸抽检10%；异常监控；更新状态文件；commit+push。
-5. 饱和判定：若连续3轮七种方法均无新缺口，写 SATURATED=true 进维护模式。
+## 下轮起点（Cycle 7）
+1. 读状态文件；check.py（应 errors=0，R16/R17 生效）。
+2. **先确认网络恢复**：连续抓 2 个 wikipedia 页面，若仍超时则本轮只做本地工作（覆盖矩阵补盲的记录、B5 待核实整理、孤儿/死链体检），不做需联网的新断言。
+3. 缺口发现 ≥3 种（B1/B2/B4/B5 轮换；B6 已多次不可达，暂停）。
+4. 执行：仅在**联网可复核**时新增/升级；L3 只给能提供**两方真实立场**的条目（必须过 R16+R17）。
+5. 质量闸抽检 10%（≥3）；异常监控；更新状态文件；commit+push。
+6. 饱和判定：连续3轮七种方法无新缺口 → SATURATED=true 维护模式。
 
 ## 长期待办（BACKLOG P4）
-- 28 核心条目仍 L2；150 空白格；B5 剩余5项；B4 作品档案；B6 4条不可达。
+- L3 仅 6 条（需真实两方争议+联网复核）；154 空白格；B5 剩 5 项；B6 4 条不可达；B4 尚有导览类缺口（来源不支撑，暂不写）。
 
 ## 历史日志
 - pre-autonomous：109条目、42→82 L2。
-- Cycle 1：114条目全L2、新增5中国艺术史。
-- Cycle 2：125条目全L2、新增11导读比较。
-- Cycle 3：129条目全L2、B5复核38项+孤儿清零+新增4条。
-- Cycle 4：137条目、新增8亚洲艺术、L3启动4条。
-- Cycle 5（体检）：六维体检全通过、L3升级12条至16条、抽检4全PASS。
+- Cycle 1：114全L2、新增5中国艺术史。
+- Cycle 2：125全L2、新增11导读比较。
+- Cycle 3：129全L2、B5复核38项+孤儿清零+新增4条。
+- Cycle 4：137、新增8亚洲艺术、L3启动4条。
+- Cycle 5（体检）：六维全通过、L3升至16条。
+- Cycle 6：142条目、新增5作品档案、**L3 质量闸返工（28→6，R17 新增）**、孤儿清零。
 
 ALL_DONE：按 AUTONOMOUS.md 不写。
