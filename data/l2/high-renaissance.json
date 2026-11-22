@@ -20,5 +20,10 @@
   "sistine-ceiling-work",
   "leonardo",
   "mona-lisa"
+ ],
+ "sources": [
+  "enc-high-renaissance",
+  "enc-italian-renaissance-painting",
+  "wd-anchor-high-renaissance"
  ]
 }

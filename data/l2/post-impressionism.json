@@ -20,5 +20,10 @@
   "starry-night",
   "cezanne",
   "modern-art"
+ ],
+ "sources": [
+  "enc-post-impressionism",
+  "enc-impressionism",
+  "wd-anchor-post-impressionism"
  ]
 }

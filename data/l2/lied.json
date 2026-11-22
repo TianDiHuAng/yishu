@@ -15,5 +15,10 @@
   "romantic-music",
   "schubert",
   "chopin"
+ ],
+ "sources": [
+  "enc-romantic-music",
+  "enc-classical-period-music",
+  "wd-anchor-lied"
  ]
 }

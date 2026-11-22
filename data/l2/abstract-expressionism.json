@@ -18,5 +18,10 @@
   "expressionism",
   "modern-art",
   "pop-art"
+ ],
+ "sources": [
+  "enc-abstract-expressionism",
+  "enc-surrealism",
+  "wd-anchor-abstract-expressionism"
  ]
 }

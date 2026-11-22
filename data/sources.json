@@ -2279,6 +2279,126 @@
       "type": "权威结构化数据（身份锚点）",
       "verified": true,
       "verified_note": "Cycle22 批量 wbgetentities 成功；标签与条目标题匹配、描述类型词匹配；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-dada",
+      "title": "Wikidata 实体（身份锚点）：Dada（Q6034）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q6034",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle23 英文标签与条目 id 比对命中（人工确认语义相符）；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-abstract-expressionism",
+      "title": "Wikidata 实体（身份锚点）：abstract expressionism（Q177725）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q177725",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle23 英文标签与条目 id 比对命中（人工确认语义相符）；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-pop-art",
+      "title": "Wikidata 实体（身份锚点）：pop art（Q134147）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q134147",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle23 英文标签与条目 id 比对命中（人工确认语义相符）；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-lied",
+      "title": "Wikidata 实体（身份锚点）：Lied（Q216860）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q216860",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle23 英文标签与条目 id 比对命中（人工确认语义相符）；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-ukiyo-e",
+      "title": "Wikidata 实体（身份锚点）：ukiyo-e（Q185905）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q185905",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle23 英文标签与条目 id 比对命中（人工确认语义相符）；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-early-renaissance",
+      "title": "Wikidata 实体（身份锚点）：Early Renaissance（Q1472236）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q1472236",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle23 英文标签与条目 id 比对命中（人工确认语义相符）；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-high-renaissance",
+      "title": "Wikidata 实体（身份锚点）：High Renaissance（Q1474884）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q1474884",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle23 英文标签与条目 id 比对命中（人工确认语义相符）；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-impressionism",
+      "title": "Wikidata 实体（身份锚点）：Impressionism（Q40415）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q40415",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle23 英文标签与条目 id 比对命中（人工确认语义相符）；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-post-impressionism",
+      "title": "Wikidata 实体（身份锚点）：Post-impressionism（Q166713）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q166713",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle23 英文标签与条目 id 比对命中（人工确认语义相符）；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-seal-script",
+      "title": "Wikidata 实体（身份锚点）：seal script（Q1208842）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q1208842",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle23 英文标签与条目 id 比对命中（人工确认语义相符）；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-medieval-music",
+      "title": "Wikidata 实体（身份锚点）：medieval music（Q163775）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q163775",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle23 英文标签与条目 id 比对命中（人工确认语义相符）；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-indian-art",
+      "title": "Wikidata 实体（身份锚点）：Indian art（Q831768）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q831768",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle23 英文标签与条目 id 比对命中（人工确认语义相符）；仅作身份锚点，不作事实依据"
     }
   ]
 }

@@ -10,5 +10,10 @@
   "一图": "示意图表达印度艺术中佛教传播与雕塑、壁画、石窟遗存之间的关系。",
   "待核实": "L1 种子列出约公元前3世纪—公元19世纪，来源字段未逐字支撑该精确区间，需第二来源核实。输入材料只给出宗教艺术、世俗绘画、雕塑与壁画的概括，具体分期与作品对应关系待补充。人物与具体作品名未在本条 def 与 overview 中点名，需补充第二来源。"
  },
- "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='印度艺术 示意图'><title>印度艺术</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>印度艺术</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>南亚</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>佛教艺术</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>丝路传播</text><rect class='svg-box-accent' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='665.0' y='142' text-anchor='middle'>阿旃陀石窟</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>壁画遗存</text><text class='svg-caption' x='380' y='262' text-anchor='middle'>印度艺术、佛教传播与石窟遗存</text></g></svg>"
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='印度艺术 示意图'><title>印度艺术</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>印度艺术</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>南亚</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>佛教艺术</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>丝路传播</text><rect class='svg-box-accent' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='665.0' y='142' text-anchor='middle'>阿旃陀石窟</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>壁画遗存</text><text class='svg-caption' x='380' y='262' text-anchor='middle'>印度艺术、佛教传播与石窟遗存</text></g></svg>",
+ "sources": [
+  "enc-indian-art",
+  "enc-history-painting",
+  "wd-anchor-indian-art"
+ ]
 }

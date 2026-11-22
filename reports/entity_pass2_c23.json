@@ -1,0 +1,122 @@
+[
+ {
+  "id": "dada",
+  "kind": "风格",
+  "title": "达达主义",
+  "qid": "Q6034",
+  "label": "Dada",
+  "desc": "avant-garde art movement in the early 20th ce"
+ },
+ {
+  "id": "abstract-expressionism",
+  "kind": "风格",
+  "title": "抽象表现主义",
+  "qid": "Q177725",
+  "label": "abstract expressionism",
+  "desc": "American post–World War II art movement"
+ },
+ {
+  "id": "pop-art",
+  "kind": "风格",
+  "title": "波普艺术",
+  "qid": "Q134147",
+  "label": "pop art",
+  "desc": "art movement"
+ },
+ {
+  "id": "lied",
+  "kind": "风格",
+  "title": "艺术歌曲",
+  "qid": "Q216860",
+  "label": "Lied",
+  "desc": "classical art song in the German tradition"
+ },
+ {
+  "id": "ukiyo-e",
+  "kind": "风格",
+  "title": "浮世绘",
+  "qid": "Q185905",
+  "label": "ukiyo-e",
+  "desc": "Japanese art genre, fl. 17th–19th c., consist"
+ },
+ {
+  "id": "romanesque",
+  "kind": "风格",
+  "title": "罗马式艺术",
+  "qid": "Q46261",
+  "label": "Romanesque architecture",
+  "desc": "architectural style of Medieval Europe"
+ },
+ {
+  "id": "renaissance",
+  "kind": "时期",
+  "title": "文艺复兴",
+  "qid": "Q23731823",
+  "label": "Renaissance",
+  "desc": "French political party"
+ },
+ {
+  "id": "early-renaissance",
+  "kind": "风格",
+  "title": "早期文艺复兴",
+  "qid": "Q1472236",
+  "label": "Early Renaissance",
+  "desc": "art movement"
+ },
+ {
+  "id": "high-renaissance",
+  "kind": "风格",
+  "title": "盛期文艺复兴",
+  "qid": "Q1474884",
+  "label": "High Renaissance",
+  "desc": "short period of the most exceptional artistic production dur"
+ },
+ {
+  "id": "impressionism",
+  "kind": "风格",
+  "title": "印象派",
+  "qid": "Q40415",
+  "label": "Impressionism",
+  "desc": "19th-century art movement"
+ },
+ {
+  "id": "post-impressionism",
+  "kind": "风格",
+  "title": "后印象派",
+  "qid": "Q166713",
+  "label": "Post-impressionism",
+  "desc": "predominantly French art movement that developed roughly bet"
+ },
+ {
+  "id": "seal-script",
+  "kind": "术语",
+  "title": "篆书",
+  "qid": "Q1208842",
+  "label": "seal script",
+  "desc": "general term for the various writing styles of Chinese chara"
+ },
+ {
+  "id": "medieval-music",
+  "kind": "时期",
+  "title": "中世纪音乐",
+  "qid": "Q163775",
+  "label": "medieval music",
+  "desc": "Western music written during the Middle Ages"
+ },
+ {
+  "id": "baroque-music",
+  "kind": "时期",
+  "title": "巴洛克音乐",
+  "qid": "Q3328590",
+  "label": "French baroque music",
+  "desc": "music of the Baroque era in France"
+ },
+ {
+  "id": "indian-art",
+  "kind": "时期",
+  "title": "印度艺术",
+  "qid": "Q831768",
+  "label": "Indian art",
+  "desc": "art from Indian Subcontinent cultures"
+ }
+]

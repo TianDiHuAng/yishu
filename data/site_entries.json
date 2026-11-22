@@ -515,7 +515,8 @@
       ],
       "sources": [
         "enc-italian-renaissance-painting",
-        "enc-renaissance"
+        "enc-renaissance",
+        "wd-anchor-early-renaissance"
       ],
       "level": "L2",
       "sections": {
@@ -553,7 +554,8 @@
       ],
       "sources": [
         "enc-high-renaissance",
-        "enc-italian-renaissance-painting"
+        "enc-italian-renaissance-painting",
+        "wd-anchor-high-renaissance"
       ],
       "level": "L2",
       "sections": {
@@ -1318,7 +1320,8 @@
       "sources": [
         "enc-impressionism",
         "web-artstory-impressionism",
-        "enc-bal-du-moulin-de-la-galette"
+        "enc-bal-du-moulin-de-la-galette",
+        "wd-anchor-impressionism"
       ],
       "level": "L3",
       "sections": {
@@ -1414,7 +1417,8 @@
       ],
       "sources": [
         "enc-post-impressionism",
-        "enc-impressionism"
+        "enc-impressionism",
+        "wd-anchor-post-impressionism"
       ],
       "level": "L2",
       "sections": {
@@ -1765,7 +1769,8 @@
       ],
       "sources": [
         "enc-dada",
-        "enc-futurism"
+        "enc-futurism",
+        "wd-anchor-dada"
       ],
       "level": "L2",
       "sections": {
@@ -1868,7 +1873,8 @@
       ],
       "sources": [
         "enc-abstract-expressionism",
-        "enc-surrealism"
+        "enc-surrealism",
+        "wd-anchor-abstract-expressionism"
       ],
       "level": "L2",
       "sections": {
@@ -2107,7 +2113,8 @@
       ],
       "sources": [
         "enc-pop-art",
-        "web-artstory-movements"
+        "web-artstory-movements",
+        "wd-anchor-pop-art"
       ],
       "level": "L2",
       "sections": {
@@ -2697,7 +2704,8 @@
       ],
       "sources": [
         "enc-chinese-calligraphy",
-        "enc-calligraphy"
+        "enc-calligraphy",
+        "wd-anchor-seal-script"
       ],
       "level": "L2",
       "sections": {
@@ -2865,7 +2873,8 @@
         "enc-gregorian-chant",
         "enc-perotin",
         "enc-organum",
-        "enc-machaut"
+        "enc-machaut",
+        "wd-anchor-medieval-music"
       ],
       "level": "L2",
       "sections": {
@@ -3657,7 +3666,8 @@
       ],
       "sources": [
         "enc-romantic-music",
-        "enc-classical-period-music"
+        "enc-classical-period-music",
+        "wd-anchor-lied"
       ],
       "level": "L2",
       "sections": {
@@ -4705,7 +4715,8 @@
       ],
       "sources": [
         "enc-indian-art",
-        "enc-history-painting"
+        "enc-history-painting",
+        "wd-anchor-indian-art"
       ],
       "level": "L2",
       "sections": {
@@ -4900,7 +4911,8 @@
       ],
       "sources": [
         "enc-ukiyo-e",
-        "enc-japanese-art"
+        "enc-japanese-art",
+        "wd-anchor-ukiyo-e"
       ],
       "level": "L2",
       "sections": {

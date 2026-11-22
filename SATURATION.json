@@ -292,6 +292,18 @@
       },
       "network": "partial",
       "verdict": "21 条目新增 Wikidata 身份锚点 + 实体对照页；40 歧义/43 无候选已记录；未饱和"
+    },
+    {
+      "cycle": "cycle23",
+      "date": "2026-11-22",
+      "methods_used": [
+        "实体锚定pass2"
+      ],
+      "gaps_found": {
+        "anchors": 12
+      },
+      "network": "partial",
+      "verdict": "pass2 采纳 12 条锚点（拒绝 3 条误配，已写明原因）；锚点累计 33；未饱和"
     }
   ]
 }
