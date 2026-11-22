@@ -2049,6 +2049,26 @@
       "type": "权威结构化数据",
       "verified": true,
       "verified_note": "Cycle18 curl 读取成功；标签=Angkor Wat；desc 为寺庙建筑群"
+    },
+    {
+      "id": "wd-japanese-architecture",
+      "title": "Wikidata: Japanese architecture（Q1422874）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q1422874",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle21 curl 读取成功；label=Japanese architecture；desc=Japanese process of planning, designing "
+    },
+    {
+      "id": "wd-indian-architecture",
+      "title": "Wikidata: architecture of India（Q61050）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q61050",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle21 curl 读取成功；label=architecture of India；desc=architectural style of a major geographi"
     }
   ]
 }

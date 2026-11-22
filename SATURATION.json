@@ -268,6 +268,18 @@
       },
       "network": "partial",
       "verdict": "体检全通过；修复2条新单向关联；未饱和（B2/A类缺口仍需来源）"
+    },
+    {
+      "cycle": "cycle21",
+      "date": "2026-11-22",
+      "methods_used": [
+        "作品事实扩核"
+      ],
+      "gaps_found": {
+        "facts_filled": 5
+      },
+      "network": "partial",
+      "verdict": "5 作品尺寸/材质/藏品号入档（待核实）；日本/印度建筑实体已登记但不建条；未饱和"
     }
   ]
 }

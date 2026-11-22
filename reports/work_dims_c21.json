@@ -1,0 +1,106 @@
+{
+ "mona-lisa": {
+  "qid": "Q12418",
+  "height_P2048": [
+   "+79.4"
+  ],
+  "width_P2049": [
+   "+53.4"
+  ],
+  "inventory_P217": [
+   "INV 779",
+   "MR 316"
+  ],
+  "material_P186": [
+   "油彩",
+   "poplar panel",
+   "木材"
+  ],
+  "genre_P136": [
+   "肖像"
+  ]
+ },
+ "starry-night": {
+  "qid": "Q45585",
+  "height_P2048": [
+   "+73.7"
+  ],
+  "width_P2049": [
+   "+92.1",
+   "+36.25"
+  ],
+  "inventory_P217": [
+   "472.1941"
+  ],
+  "material_P186": [
+   "油彩",
+   "画布"
+  ],
+  "genre_P136": [
+   "风景画"
+  ]
+ },
+ "birth-of-venus-work": {
+  "qid": "Q151047",
+  "height_P2048": [
+   "+172.5"
+  ],
+  "width_P2049": [
+   "+278.5"
+  ],
+  "inventory_P217": [
+   "00158551"
+  ],
+  "material_P186": [
+   "tempera",
+   "画布"
+  ],
+  "genre_P136": [
+   "神话绘画",
+   "裸体艺术"
+  ]
+ },
+ "sistine-ceiling-work": {
+  "qid": "Q844675",
+  "height_P2048": [
+   "+4093"
+  ],
+  "width_P2049": [
+   "+1341"
+  ],
+  "inventory_P217": [],
+  "material_P186": [
+   "fresco"
+  ],
+  "genre_P136": [
+   "宗教画"
+  ]
+ },
+ "guernica-work": {
+  "qid": "Q175036",
+  "height_P2048": [
+   "+349"
+  ],
+  "width_P2049": [
+   "+776"
+  ],
+  "inventory_P217": [
+   "DE00050"
+  ],
+  "material_P186": [
+   "油彩",
+   "画布"
+  ],
+  "genre_P136": [
+   "歷史畫"
+  ]
+ },
+ "rite-of-spring-work": {
+  "qid": "Q206015",
+  "height_P2048": [],
+  "width_P2049": [],
+  "inventory_P217": [],
+  "material_P186": [],
+  "genre_P136": []
+ }
+}
