@@ -1439,6 +1439,16 @@
       "type": "权威百科",
       "verified": true,
       "verified_note": "HTTP200 <title>=Piano - Wikipedia"
+    },
+    {
+      "id": "enc-vivaldi-four-seasons",
+      "title": "The Four Seasons (Vivaldi)",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/The_Four_Seasons_(Vivaldi)",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "B5收尾HTTP200; <title>=The Four Seasons (Vivaldi); 含Four Seasons"
     }
   ]
 }

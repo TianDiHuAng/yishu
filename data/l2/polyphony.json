@@ -15,5 +15,10 @@
   "enc-polyphony",
   "enc-medieval-music",
   "enc-counterpoint"
+ ],
+ "related": [
+  "organum",
+  "renaissance-music",
+  "music-notation"
  ]
 }

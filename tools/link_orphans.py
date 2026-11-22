@@ -4,13 +4,14 @@
 具体策略：对每个孤儿 O，找所有条目 E 使 O 在 E 的 related 中（正向，已存在）——若无则为孤儿。
 补法：找与 O 同 unit 且 related 中含 O 的"父"条目不存在时，改为在 O 自己的 related 里补同 unit 的核心/重要条目（双向化），
 即 O.related 里的每个 id X，确保 X.related 也含 O。这是最保守的" reciprocity 补链"，不虚构新关系。"""
-import json,os,glob
+import json,os,glob,sys
 from collections import defaultdict
 ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 D=os.path.join(ROOT,"data"); LD=os.path.join(D,"l2")
 es=json.load(open(os.path.join(D,"site_entries.json"),encoding="utf-8"))["entries"]
 byid={e["id"]:e for e in es}
-g=json.load(open(os.path.join(ROOT,"reports","gaps_cycle3.json"),encoding="utf-8"))
+gapfile=sys.argv[1] if len(sys.argv)>1 else "gaps_cycle3.json"
+g=json.load(open(os.path.join(ROOT,"reports",gapfile),encoding="utf-8"))
 orphans=g["orphan"]
 # 现有 related 映射
 rel={e["id"]:set(e.get("related",[])) for e in es}

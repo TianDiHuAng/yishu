@@ -25,6 +25,8 @@ L.append("- 新增条目：**%d** · 升级：**%d** · 复核：**%d** · 修�
     cur.get("new_entries",0),cur.get("upgrades",0),cur.get("reviews",0),cur.get("fixes",0)))
 L.append("- 新增来源：**%d**"%cur.get("new_sources",0))
 if cur.get("qc_result"): L.append("- 质量闸：**%s**"%cur["qc_result"])
+if cyc=="cycle3":
+    L.append("- 本轮特别说明：B5 复核 45 项待核实 → 38 项找到可核验第二来源并写入【已复核】留痕；B3 孤儿页 38→0（新增84条双向补链）；QC 收尾补 Bach/Vivaldi 来源并修正18处截断URL。")
 if cur.get("gap_counts"): L.append("- 缺口计数：%s"%", ".join("%s=%s"%(k,v) for k,v in cur["gap_counts"].items()))
 L.append("")
 L.append("## 3. 累计")

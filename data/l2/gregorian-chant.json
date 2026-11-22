@@ -16,5 +16,11 @@
   "enc-medieval-music",
   "enc-pope-gregory-i",
   "enc-ambrosian-chant"
+ ],
+ "related": [
+  "medieval-music",
+  "polyphony",
+  "music-notation",
+  "musical-mode"
  ]
 }
