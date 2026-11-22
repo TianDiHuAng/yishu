@@ -1,6 +1,6 @@
 {
- "total": 102,
- "ok": 102,
+ "total": 120,
+ "ok": 120,
  "failed": [],
  "rows": [
   {
@@ -716,6 +716,132 @@
    "http": "200",
    "ok": true,
    "qid": "Q1917591"
+  },
+  {
+   "id": "wd-anchor-prehistoric-art",
+   "url": "https://www.wikidata.org/wiki/Q1842924",
+   "http": "200",
+   "ok": true,
+   "qid": "Q1842924"
+  },
+  {
+   "id": "wd-anchor-cave-art",
+   "url": "https://www.wikidata.org/wiki/Q214334",
+   "http": "200",
+   "ok": true,
+   "qid": "Q214334"
+  },
+  {
+   "id": "wd-anchor-egyptian-art",
+   "url": "https://www.wikidata.org/wiki/Q318394",
+   "http": "200",
+   "ok": true,
+   "qid": "Q318394"
+  },
+  {
+   "id": "wd-anchor-greek-art",
+   "url": "https://www.wikidata.org/wiki/Q1747618",
+   "http": "200",
+   "ok": true,
+   "qid": "Q1747618"
+  },
+  {
+   "id": "wd-anchor-roman-art",
+   "url": "https://www.wikidata.org/wiki/Q3354732",
+   "http": "200",
+   "ok": true,
+   "qid": "Q3354732"
+  },
+  {
+   "id": "wd-anchor-romanesque",
+   "url": "https://www.wikidata.org/wiki/Q46805",
+   "http": "200",
+   "ok": true,
+   "qid": "Q46805"
+  },
+  {
+   "id": "wd-anchor-renaissance",
+   "url": "https://www.wikidata.org/wiki/Q1133779",
+   "http": "200",
+   "ok": true,
+   "qid": "Q1133779"
+  },
+  {
+   "id": "wd-anchor-romanticism-art",
+   "url": "https://www.wikidata.org/wiki/Q27273707",
+   "http": "200",
+   "ok": true,
+   "qid": "Q27273707"
+  },
+  {
+   "id": "wd-anchor-gregorian-chant",
+   "url": "https://www.wikidata.org/wiki/Q26473",
+   "http": "200",
+   "ok": true,
+   "qid": "Q26473"
+  },
+  {
+   "id": "wd-anchor-opera",
+   "url": "https://www.wikidata.org/wiki/Q1344",
+   "http": "200",
+   "ok": true,
+   "qid": "Q1344"
+  },
+  {
+   "id": "wd-anchor-tonality",
+   "url": "https://www.wikidata.org/wiki/Q192822",
+   "http": "200",
+   "ok": true,
+   "qid": "Q192822"
+  },
+  {
+   "id": "wd-anchor-20th-century-classical",
+   "url": "https://www.wikidata.org/wiki/Q1338153",
+   "http": "200",
+   "ok": true,
+   "qid": "Q1338153"
+  },
+  {
+   "id": "wd-anchor-minimalism-music",
+   "url": "https://www.wikidata.org/wiki/Q572901",
+   "http": "200",
+   "ok": true,
+   "qid": "Q572901"
+  },
+  {
+   "id": "wd-anchor-zen-painting",
+   "url": "https://www.wikidata.org/wiki/Q8069073",
+   "http": "200",
+   "ok": true,
+   "qid": "Q8069073"
+  },
+  {
+   "id": "wd-anchor-ming-painting",
+   "url": "https://www.wikidata.org/wiki/Q6864640",
+   "http": "200",
+   "ok": true,
+   "qid": "Q6864640"
+  },
+  {
+   "id": "wd-anchor-xieyi",
+   "url": "https://www.wikidata.org/wiki/Q10894988",
+   "http": "200",
+   "ok": true,
+   "qid": "Q10894988"
+  },
+  {
+   "id": "wd-anchor-china-music-history",
+   "url": "https://www.wikidata.org/wiki/Q277393",
+   "http": "200",
+   "ok": true,
+   "qid": "Q277393"
+  },
+  {
+   "id": "wd-anchor-pipa",
+   "url": "https://www.wikidata.org/wiki/Q6685124",
+   "http": "200",
+   "ok": true,
+   "qid": "Q6685124"
   }
  ]
 }

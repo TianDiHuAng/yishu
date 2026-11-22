@@ -30,6 +30,8 @@ L.append("- 新增来源：**%d**"%cur.get("new_sources",0))
 if cur.get("qc_result"): L.append("- 质量闸：**%s**"%cur["qc_result"])
 if cyc=="cycle3":
     L.append("- 本轮特别说明：B5 复核 45 项待核实 → 38 项找到可核验第二来源并写入【已复核】留痕；B3 孤儿页 38→0（新增84条双向补链）；QC 收尾补 Bach/Vivaldi 来源并修正18处截断URL。")
+if cyc=="cycle33":
+    L.append("- 本轮为**体检轮 + 饱和评估**。八步体检全通过；**120 条 Wikidata 来源 120/120 返回 200**。按 §5 两个条件正式评估饱和：条件②（核心48/重要85 全部≥L2、全库无 L1）**成立**；但条件①（连续3轮无新缺口）**不成立**——最近三轮仍发现新缺口（Cycle31 锚定14、Cycle32 锚定4）。故 **saturated=false**，并登记开放缺口：A类58、B2音乐地区22、B5待核实5、未锚定27（含自有页11）。性质说明写得很直白：**不是缺口没了，是内容来源进不来**；Wikidata 只能做身份锚定与结构化事实，撑不起风格/体裁/评价类陈述。这是外部阻塞，不是质量问题。")
 if cyc=="cycle32":
     L.append("- 本轮针对 15 条中国专题条目试**中文同义别名**检索，**采纳 4 条、拒绝 11 条**，锚定率 79%→**81%（118/145）**。采纳的都是口径严丝合缝者：ming-painting→Q6864640『Ming dynasty painting』、xieyi→Q10894988『xieyi painting』、china-music-history→Q277393『music of China』、pipa→Q6685124『pipa』（Chinese plucked lute，终于不是日本 biwa/古诗/馆藏器物）。11 条否决理由逐条写进 reports/entity_pass7_vetted.md：唐代绘画→Tang dynasty art 偏宽、敦煌艺术→Mogao Caves 是遗址、魏晋南北朝→是历史时期、玉器/青铜器→仅材质门类等。活性抽样 4/4 HTTP 200。")
 if cyc=="cycle31":
