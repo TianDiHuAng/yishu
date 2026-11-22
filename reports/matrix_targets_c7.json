@@ -1,0 +1,412 @@
+{
+ "total": 154,
+ "A": [
+  {
+   "region": "中国",
+   "medium": "建筑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 19
+  },
+  {
+   "region": "欧洲",
+   "medium": "建筑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 11
+  },
+  {
+   "region": "法国",
+   "medium": "建筑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 10
+  },
+  {
+   "region": "全球",
+   "medium": "建筑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 6
+  },
+  {
+   "region": "全球",
+   "medium": "绘画",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 6
+  },
+  {
+   "region": "全球",
+   "medium": "雕塑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 6
+  },
+  {
+   "region": "美国",
+   "medium": "建筑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 5
+  },
+  {
+   "region": "南亚",
+   "medium": "书法",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 4
+  },
+  {
+   "region": "南亚",
+   "medium": "建筑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 4
+  },
+  {
+   "region": "西欧",
+   "medium": "绘画",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 4
+  },
+  {
+   "region": "东南亚",
+   "medium": "书法",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 3
+  },
+  {
+   "region": "东南亚",
+   "medium": "绘画",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 3
+  },
+  {
+   "region": "意大利及欧洲",
+   "medium": "建筑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 3
+  },
+  {
+   "region": "欧美",
+   "medium": "建筑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 3
+  },
+  {
+   "region": "欧美",
+   "medium": "雕塑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 3
+  },
+  {
+   "region": "西班牙",
+   "medium": "建筑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 3
+  },
+  {
+   "region": "西班牙",
+   "medium": "雕塑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 3
+  },
+  {
+   "region": "东亚",
+   "medium": "建筑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 2
+  },
+  {
+   "region": "东亚",
+   "medium": "绘画",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 2
+  },
+  {
+   "region": "东亚",
+   "medium": "雕塑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 2
+  },
+  {
+   "region": "东罗马",
+   "medium": "雕塑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 2
+  },
+  {
+   "region": "德国",
+   "medium": "绘画",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 2
+  },
+  {
+   "region": "德国",
+   "medium": "雕塑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 2
+  },
+  {
+   "region": "英美",
+   "medium": "建筑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 2
+  },
+  {
+   "region": "英美",
+   "medium": "雕塑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 2
+  },
+  {
+   "region": "荷兰",
+   "medium": "建筑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 2
+  },
+  {
+   "region": "荷兰",
+   "medium": "雕塑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 2
+  },
+  {
+   "region": "西班牙/法国",
+   "medium": "建筑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 2
+  },
+  {
+   "region": "佛兰德斯",
+   "medium": "建筑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 1
+  },
+  {
+   "region": "佛兰德斯",
+   "medium": "雕塑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 1
+  },
+  {
+   "region": "俄国/德国",
+   "medium": "建筑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 1
+  },
+  {
+   "region": "俄国/德国",
+   "medium": "雕塑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 1
+  },
+  {
+   "region": "北欧",
+   "medium": "建筑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 1
+  },
+  {
+   "region": "北欧",
+   "medium": "雕塑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 1
+  },
+  {
+   "region": "地中海",
+   "medium": "建筑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 1
+  },
+  {
+   "region": "地中海",
+   "medium": "绘画",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 1
+  },
+  {
+   "region": "地中海",
+   "medium": "雕塑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 1
+  },
+  {
+   "region": "埃及",
+   "medium": "建筑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 1
+  },
+  {
+   "region": "埃及",
+   "medium": "绘画",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 1
+  },
+  {
+   "region": "埃及",
+   "medium": "雕塑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 1
+  },
+  {
+   "region": "希腊",
+   "medium": "建筑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 1
+  },
+  {
+   "region": "希腊",
+   "medium": "绘画",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 1
+  },
+  {
+   "region": "希腊",
+   "medium": "雕塑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 1
+  },
+  {
+   "region": "德国及北欧",
+   "medium": "建筑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 1
+  },
+  {
+   "region": "德国及北欧",
+   "medium": "雕塑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 1
+  },
+  {
+   "region": "日本",
+   "medium": "书法",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 1
+  },
+  {
+   "region": "日本",
+   "medium": "建筑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 1
+  },
+  {
+   "region": "日本",
+   "medium": "雕塑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 1
+  },
+  {
+   "region": "欧洲/美国",
+   "medium": "建筑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 1
+  },
+  {
+   "region": "欧洲/美国",
+   "medium": "绘画",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 1
+  },
+  {
+   "region": "欧洲/美国",
+   "medium": "雕塑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 1
+  },
+  {
+   "region": "法国及欧洲",
+   "medium": "建筑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 1
+  },
+  {
+   "region": "法国及欧洲",
+   "medium": "雕塑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 1
+  },
+  {
+   "region": "罗马",
+   "medium": "建筑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 1
+  },
+  {
+   "region": "罗马",
+   "medium": "绘画",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 1
+  },
+  {
+   "region": "罗马",
+   "medium": "雕塑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 1
+  },
+  {
+   "region": "荷兰/法国",
+   "medium": "建筑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 1
+  },
+  {
+   "region": "荷兰/法国",
+   "medium": "雕塑",
+   "domain": "art",
+   "class": "A",
+   "region_domain_entries": 1
+  }
+ ],
+ "B_count": 96
+}

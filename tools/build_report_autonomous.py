@@ -30,6 +30,8 @@ L.append("- 新增来源：**%d**"%cur.get("new_sources",0))
 if cur.get("qc_result"): L.append("- 质量闸：**%s**"%cur["qc_result"])
 if cyc=="cycle3":
     L.append("- 本轮特别说明：B5 复核 45 项待核实 → 38 项找到可核验第二来源并写入【已复核】留痕；B3 孤儿页 38→0（新增84条双向补链）；QC 收尾补 Bach/Vivaldi 来源并修正18处截断URL。")
+if cyc=="cycle7":
+    L.append("- 本轮特别说明：网络探针失败（wikipedia 连续超时），本轮为**本地轮**、未新增任何需联网核验的断言。补齐阶段5 缺失的「单元总览」页面类型：units.html + 每单元页 ×21（含构成、分级条目、时间线片段、待核实），站点增至 169 页、0 断链；并把 154 个矩阵空白格数据驱动分类为 A 类 58（应补，首选建筑）/ B 类 96（暂不处理），形成下一轮联网补盲清单 reports/matrix_targets_c7.md。")
 if cyc=="cycle6":
     L.append("- 本轮特别说明：B4 新增 5 条作品档案（work-archives 单元，D015），孤儿补链后 orphan=0；B7 尝试 12 条 L3，质量闸发现「编辑待办冒充学术争议 + 虚假归因来源」26 处，判定不合格 —— 新增 check.py R17 护栏，22 条降级回 L2（D016），仅保留 6 条真实两方争议的 L3；清理 out_*.json 残留工具坑；末段 wikipedia 抓取超时，未对新断言做联网复核。")
 if cyc=="cycle5":

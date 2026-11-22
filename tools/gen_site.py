@@ -132,7 +132,7 @@ def tier_badge(e):
 
 def head(title, crumb=True):
     nav='<nav class="nav">'+"".join('<a href="%s">%s</a>'%(u,t) for u,t in [
-        (REL+"index.html","首页"),(REL+"timeline.html","时间线"),
+        (REL+"index.html","首页"),(REL+"units.html","单元总览"),(REL+"timeline.html","时间线"),
         (REL+"all-index.html","全站索引"),(REL+"sources.html","来源库")])+'</nav>'
     return ("<!doctype html><html lang='zh-CN'><head><meta charset='utf-8'>"
         "<meta name='viewport' content='width=device-width,initial-scale=1'>"
@@ -170,8 +170,8 @@ def build_index(entries,units,cov):
         elif uid.startswith("art-china"): grp="中国艺术"
         elif uid.startswith("art"): grp="艺术"
         else: grp="其他"
-        s.append("<article class='card'><div class='meta'>%s · %d 条</div><h3>%s</h3>"
-            "<p><a href='all-index.html#%s'>查看本单元条目 →</a></p></article>"%(grp,len(dom[uid]),esc(uname),esc(uid)))
+        s.append("<article class='card'><div class='meta'>%s · %d 条</div><h3><a href='units/%s.html'>%s</a></h3>"
+            "<p><a href='all-index.html#%s'>全部条目 →</a></p></article>"%(grp,len(dom[uid]),esc(uid),esc(uname),esc(uid)))
     s.append("</div></div></section>")
     # 核心样板
     feat=[e for e in entries if e.get("level") in ("L2","L3")][:6]
@@ -249,6 +249,86 @@ def build_entry(e,entries):
     os.makedirs(os.path.join(OUT,"entries"),exist_ok=True)
     open(os.path.join(OUT,"entries",e["id"]+".html"),"w",encoding="utf-8").write("".join(s))
 
+def build_units_index(entries,units):
+    """单元总览索引页 units.html"""
+    dom=defaultdict(list)
+    for e in entries: dom[e["unit"]].append(e)
+    s=[head("单元总览")]
+    s.append("<div class='wrap'><h1>单元总览</h1><p class='eyebrow'>共 %d 个知识单元 · %d 条目</p>"%(len(units),len(entries)))
+    s.append("<div class='cards'>")
+    for uid,uname in units.items():
+        g=dom.get(uid,[])
+        if not g: continue
+        l3=sum(1 for e in g if e.get("level")=="L3")
+        core=sum(1 for e in g if e["tier"]=="核心")
+        s.append("<article class='card'><div class='meta'>%d 条 · 核心 %d · L3 %d</div>"
+                 "<h3><a href='units/%s.html'>%s</a></h3><p>%s</p></article>"%(
+                 len(g),core,l3,esc(uid),esc(uname),
+                 esc("、".join(e["title"] for e in g[:4])+("…" if len(g)>4 else ""))))
+    s.append("</div></div>"+FOOT)
+    open(os.path.join(OUT,"units.html"),"w",encoding="utf-8").write("".join(s))
+
+def build_unit_pages(entries,units,cov):
+    """每单元一页：统计 + 分级条目 + 时间线片段 + 缺口提示（本地数据，不新增断言）。"""
+    os.makedirs(os.path.join(OUT,"units"),exist_ok=True)
+    dom=defaultdict(list)
+    for e in entries: dom[e["unit"]].append(e)
+    order={"核心":0,"重要":1,"补充":2}
+    for uid,uname in units.items():
+        g=sorted(dom.get(uid,[]),key=lambda e:(order[e["tier"]],e["id"]))
+        if not g: continue
+        lv=Counter(e.get("level","L2") for e in g)
+        tiers=Counter(e["tier"] for e in g)
+        regions=sorted({r for e in g for r in [e["region"]]})
+        media=Counter(m for e in g for m in e["medium"].split(","))
+        pend=[e for e in g if e.get("needs_verification")]
+        s=[head(uname)]
+        s.append("<div class='wrap'><div class='breadcrumb'><a href='%sunits.html'>单元总览</a> / %s</div>"%(REL,esc(uname)))
+        s.append("<h1>%s</h1>"%esc(uname))
+        s.append("<div class='stats'>")
+        for n,l in [(len(g),"条目"),(tiers.get("核心",0),"核心"),(lv.get("L3",0),"L3 深度"),
+                    (len(media),"媒介类型"),(len(pend),"待核实")]:
+            s.append("<div class='stat'><div class='n'>%d</div><div class='l'>%s</div></div>"%(n,l))
+        s.append("</div>")
+        # 分期/地区/媒介概览
+        s.append("<div class='section-block'><h2><span class='num'>01</span>本单元构成</h2>")
+        s.append("<p>地区：%s</p>"%esc("、".join(regions)))
+        s.append("<p>媒介分布：%s</p>"%esc("、".join("%s %d"%(k,v) for k,v in media.most_common())))
+        s.append("<p>层级：L2 %d · L3 %d</p>"%(lv.get("L2",0),lv.get("L3",0)))
+        s.append("</div>")
+        # 分级条目
+        s.append("<div class='section-block'><h2><span class='num'>02</span>条目（按重要性）</h2>")
+        cur=None
+        for e in g:
+            if e["tier"]!=cur:
+                if cur is not None: s.append("</ul>")
+                cur=e["tier"]; s.append("<h3>%s</h3><ul class='rel-list'>"%esc(cur))
+            s.append("<li><a href='%sentries/%s.html'>%s</a> <span class='m' style='color:var(--ink-faint);font-size:.76rem'>%s</span></li>"%(
+                REL,esc(e["id"]),esc(e["title"]),esc(e["when"])))
+        if cur is not None: s.append("</ul>")
+        s.append("</div>")
+        # 时间线片段
+        def ykey(e):
+            import re
+            m=re.search(r"(\d{1,5})",e["when"])
+            if not m: return 99999
+            v=int(m.group(1))
+            if "前" in e["when"][:m.end()+2]: return -v
+            return v
+        s.append("<div class='section-block'><h2><span class='num'>03</span>本单元时间线</h2>")
+        for e in sorted(g,key=ykey):
+            s.append("<div class='entry-link'><a class='t' href='%sentries/%s.html'>%s</a><span class='m'>%s</span></div>"%(
+                REL,esc(e["id"]),esc(e["title"]),esc(e["when"])))
+        s.append("</div>")
+        # 待核实（诚实提示，不新增内容）
+        if pend:
+            s.append("<div class='section-block'><h2><span class='num'>04</span>待核实条目</h2><ul>")
+            for e in pend[:20]:
+                s.append("<li><a href='%sentries/%s.html'>%s</a>：%s</li>"%(REL,esc(e["id"]),esc(e["title"]),esc((e.get("pending_notes") or "")[:90])))
+            s.append("</ul></div>")
+        s.append("</div>"+FOOT)
+        open(os.path.join(OUT,"units",uid+".html"),"w",encoding="utf-8").write("".join(s))
+
 def build_all_index(entries,units):
     dom=defaultdict(list)
     for e in entries: dom[e["unit"]].append(e)
@@ -312,10 +392,11 @@ def main():
     build_css()
     # 根页面
     REL=""
-    build_index(entries,UNITS,None); build_all_index(entries,UNITS); build_timeline(entries); build_sources()
+    build_index(entries,UNITS,None); build_units_index(entries,UNITS); build_all_index(entries,UNITS); build_timeline(entries); build_sources()
     # 条目页（在 entries/ 子目录，相对路径需 ../
     REL="../"
     # 但条目页的 head/breadcrumb 用 REL 前缀；entry_card 内链在根页面已生成，无影响
+    build_unit_pages(entries,UNITS,None)
     for e in entries: build_entry(e,entries)
     # 修正：head() 的 brand/nav 在条目页应使用 ../ 前缀。build_entry 已用 head() 且 REL='../'，正确。
     # 来源表链接为绝对 URL，不受影响。
