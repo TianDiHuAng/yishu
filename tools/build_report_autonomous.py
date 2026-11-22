@@ -27,6 +27,8 @@ L.append("- 新增来源：**%d**"%cur.get("new_sources",0))
 if cur.get("qc_result"): L.append("- 质量闸：**%s**"%cur["qc_result"])
 if cyc=="cycle3":
     L.append("- 本轮特别说明：B5 复核 45 项待核实 → 38 项找到可核验第二来源并写入【已复核】留痕；B3 孤儿页 38→0（新增84条双向补链）；QC 收尾补 Bach/Vivaldi 来源并修正18处截断URL。")
+if cyc=="cycle4":
+    L.append("- 本轮特别说明：B1 对照《History of painting》发现南亚/东南亚/东亚分支零覆盖，新增8条亚洲艺术（D014）；实现 L3 深度层（check.py R16 + gen_site.py 渲染），4个核心条目升级 L3（greek-art/gothic/impressionism/baroque-music），争议观点均用泛称不虚构学者；B5 剩余6项中仅1项可核验解决，5项诚实保留待核实；B6 回溯5条来源仍4条不可达（1条日期异常未采纳）。")
 if cur.get("gap_counts"): L.append("- 缺口计数：%s"%", ".join("%s=%s"%(k,v) for k,v in cur["gap_counts"].items()))
 L.append("")
 L.append("## 3. 累计")

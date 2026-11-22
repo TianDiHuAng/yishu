@@ -95,6 +95,32 @@
       "new_sources": 30,
       "commits": 2,
       "qc_result": "4 PASS/0 REWORK"
+    },
+    {
+      "cycle": "cycle4",
+      "date": "2026-11-22",
+      "status": "completed",
+      "gap_methods": [
+        "B1权威大纲(History of painting)",
+        "B4读者问题(作品档案)",
+        "B5剩余待核实",
+        "B6回溯来源"
+      ],
+      "gap_counts": {
+        "B1_亚洲艺术空白": 8,
+        "B5_剩余未解决": 5,
+        "B6_仍不可达": 4
+      },
+      "new_entries": 8,
+      "upgrades": 4,
+      "reviews": 4,
+      "fixes": 1,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0",
+      "new_sources": 9,
+      "commits": 2,
+      "l3_added": 4,
+      "qc_result": "4 PASS/0 REWORK"
     }
   ]
 }

@@ -112,3 +112,22 @@
 - 见 BLOCKERS.md；仅当权威原始来源可达时再评估。
 ### P4 覆盖矩阵134空格补盲
 - 需权威大纲依据，优先中国音乐/书法维度。
+
+## Cycle 4 完成记录（2026-11-22）
+- B1 新增 art-asia 单元8条（印度/佛教/阿旃陀/高棉/吴哥/日本/浮世绘/禅画），9来源核验，D014。
+- L3 深度层实现：check.py R16 + gen_site.py 渲染；4核心条目升 L3（greek-art/gothic/impressionism/baroque-music）。
+- B5 剩余6项：1项解决（romanesque 地区差异），5项保留诚实待核实。
+- B6 回溯5条：4仍不可达，1日期异常未采纳。
+- QC抽检4条全PASS（含2条L3逐项验证）。结果：137条目（L2 133+L3 4），154来源（149 verified），141页0断链。
+
+## Cycle 5 待办队列（体检轮 F）
+### P0 体检 F（必做，替代一半配额）
+- 死链：check_links.py（当前0）
+- 过期数据：现状类条目（wuwangdu 2025等）核对日期
+- 重复条目：标题/id 全站比对
+- 数据矛盾：同一数据跨页一致（check.py R11 部分覆盖）
+- 孤儿页：应=0（gap_discovery）
+- 来源文本重合度：抽查5条正文与来源页的n-gram重合
+### P1 L3 再升级（4-6个有真实争议的核心条目）
+- 候选：renaissance（断代下限）、baroque（术语起源）、contemporary-art（下限）、post-impressionism（分类）、cubism（创始争议）、schoenberg（无调性争议）
+### P2 B5 剩余5项 / P3 覆盖矩阵150空格 / P4 B4作品档案 / P5 B6动态
