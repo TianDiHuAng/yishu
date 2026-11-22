@@ -1,0 +1,14 @@
+{
+ "id": "lied",
+ "level": "L2",
+ "sections": {
+  "时代背景": "艺术歌曲是德语地区的音乐体裁，发展于19世纪。它与浪漫主义音乐关系密切，并在这一时期走向成熟。",
+  "风格特征": "这是为声乐与钢琴创作的德语艺术歌曲体裁。诗歌与音乐紧密结合，钢琴在情境塑造中承担重要角色。",
+  "代表人物与作品": "舒伯特与舒曼将其发展至高峰，是本体裁最常被提及的代表人物。其中舒伯特的相关条目可作进一步参照。",
+  "技法或形式分析": "该体裁以声乐与钢琴的组合为基本形式。诗歌与音乐紧密结合，钢琴通过情境塑造参与作品表达，使文字与音响相互支撑。",
+  "与前后风格的关系和争论": "就相关条目而言，艺术歌曲与浪漫主义音乐紧密相连，舒伯特是其重要代表。记载较一致，学界主要讨论其与浪漫主义音乐之间的风格归属与边界问题。",
+  "一图": "示意图展示艺术歌曲以声乐与钢琴为核心、由舒伯特推向高峰并归入浪漫主义音乐的关系。",
+  "待核实": "种子字段所列时间表述「约公元19世纪」未在来源中逐字给出，正文改用「19世纪」的概括表述。其具体措辞与体裁边界的年代界定待补充第二来源核实。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='艺术歌曲 示意图'><title>艺术歌曲</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>艺术歌曲</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>声乐与钢琴</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>舒伯特</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>诗歌与音乐</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>浪漫主义音乐</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>19世纪</text><line class='svg-arrow' x1='305.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>艺术歌曲由舒伯特推向高峰，归入浪漫主义音乐</text></g></svg>"
+}

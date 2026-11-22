@@ -1,0 +1,14 @@
+{
+ "id": "palestrina",
+ "level": "L2",
+ "sections": {
+  "时代背景": "帕莱斯特里纳是意大利文艺复兴时期的作曲家，主要活动于16世纪。其创作与特伦托会议后的教会音乐背景相关，所属传统为文艺复兴音乐。",
+  "风格特征": "他以清晰的复调教会音乐著称。其作品以均衡、透明的声部进行见长，整体音响明净而有节制。",
+  "代表人物与作品": "本条目所述人物即帕莱斯特里纳本人。其《马尔切鲁斯教皇弥撒》常被视为特伦托会议后教会音乐的典范。",
+  "技法或形式分析": "其技法核心在于复调写作中声部的均衡与透明，各声部进行清晰可辨。通过控制声部关系，使教会音乐在保持复调密度的同时获得明净的听感，成为该时期的典范。",
+  "与前后风格的关系和争论": "就相关条目而言，帕莱斯特里纳处于文艺复兴音乐之中，并与随后的巴洛克音乐形成承接。记载较一致，学界主要讨论其与文艺复兴音乐、巴洛克音乐之间的分期与边界问题。",
+  "一图": "示意图展示帕莱斯特里纳在文艺复兴音乐与巴洛克音乐之间的位置及其复调教会音乐特征。",
+  "待核实": "种子字段所列精确生卒区间「约1525—1594年」未在来源中逐字给出，正文改用「文艺复兴时期／16世纪」的概括表述。该精确区间待补充第二来源核实，中文技法术语的英文对应输入未明确给出，亦待核实。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='帕莱斯特里纳 示意图'><title>帕莱斯特里纳</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>帕莱斯特里纳</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>复调教会音乐</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>文艺复兴音乐</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>16世纪</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>巴洛克音乐</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>教会音乐</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>帕莱斯特里纳与文艺复兴音乐、巴洛克音乐的关系</text></g></svg>"
+}

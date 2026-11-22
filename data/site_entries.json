@@ -50,7 +50,18 @@
       "sources": [
         "enc-prehistoric-art",
         "web-artstory-movements"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "洞穴壁画属于旧石器时代的史前绘画，遗存多见于欧洲的洞穴环境。相关概述将其置于史前艺术的总体脉络之中。",
+        "风格特征": "洞穴壁画以动物形象与手印为主要题材，常见于法国与西班牙的洞穴。动物形象生动，但空间布局并无统一透视。",
+        "代表人物与作品": "现有概述未点名具体创作者或单一作品。相关条目为史前艺术，可据此了解其更大的分类背景。",
+        "技法或形式分析": "壁画使用炭黑与赭石绘制于洞穴岩壁之上。形象虽生动，空间组织却不追求统一的透视规则，整体偏重直观呈现。",
+        "与前后风格的关系和争论": "洞穴壁画归入史前艺术范畴，是其重要的视觉遗存。记载较一致，学界主要讨论洞穴壁画的分期与边界问题。",
+        "一图": "示意图展示洞穴岩壁上动物形象与手印的基本布局关系。",
+        "待核实": "来源给出约公元前4万—前1万年的年代区间，待补充第二来源逐字支撑后再写入正文。具体洞穴名称、作品年份与收藏地未在输入中提及。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='洞穴壁画 示意图'><title>洞穴壁画</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>洞穴壁画</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>史前绘画</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>动物形象</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>形象生动</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>手印</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>洞穴岩壁</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>洞穴壁画以动物形象与手印为主</text></g></svg>"
     },
     {
       "id": "paleolithic-sculpture",
@@ -70,7 +81,18 @@
       "sources": [
         "enc-prehistoric-art",
         "enc-venus-figurines"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "旧石器雕塑属于旧石器时代的小型雕像传统。它与洞穴壁画同处旧石器时代，均归入史前艺术的范畴。",
+        "风格特征": "旧石器雕塑多为动物或女性形象，尺度小、造型概括。概括性与小尺度共同构成其形式上的显著特点。",
+        "代表人物与作品": "概述举出猛犸象牙雕刻与所谓《维纳斯》小像作为代表。相关条目为史前艺术，可作为分类背景的参照。",
+        "技法或形式分析": "代表作品以猛犸象牙为材料进行雕刻，显示对硬质材料的加工。造型概括、体量较小，是其形式分析的两个要点。",
+        "与前后风格的关系和争论": "旧石器雕塑归入史前艺术范畴，与洞穴壁画并列为该时期的遗存类型。记载较一致，学界主要讨论旧石器雕塑的分期与边界问题。",
+        "一图": "示意图展示小型雕像的概括造型及猛犸象牙材质的对应关系。",
+        "待核实": "来源给出约公元前4万—前1万年的年代区间，待补充第二来源逐字支撑后再写入正文。具体出土地、作品年份与收藏地未在输入中提及；所谓《维纳斯》小像的具体指称亦待核实。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='旧石器雕塑 示意图'><title>旧石器雕塑</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>旧石器雕塑</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>小型雕像</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>猛犸象牙</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>雕刻</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>维纳斯小像</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>女性形象</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>旧石器雕塑多为动物或女性形象</text></g></svg>"
     },
     {
       "id": "egyptian-art",
@@ -218,7 +240,18 @@
       "sources": [
         "enc-medieval-art",
         "enc-byzantine-art"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "早期基督教艺术形成于基督教合法化之后，主要分布于地中海地区。其年代归属属于中世纪早期。",
+        "风格特征": "早期基督教艺术采用鱼与牧羊人等寓意图像。巴西利卡成为礼拜建筑的基本形制，构成其建筑方面的显著特征。",
+        "代表人物与作品": "现有概述未点名具体创作者或单一作品。相关条目为拜占庭艺术，可作为后续脉络的参照。",
+        "技法或形式分析": "在图像层面，早期基督教艺术以寓意性的鱼与牧羊人为代表。在空间与建筑层面，见于地下墓室壁画与巴西利卡教堂两类形态。",
+        "与前后风格的关系和争论": "早期基督教艺术与拜占庭艺术相关，后者是重要的后续脉络。记载较一致，学界主要讨论二者的分期与边界问题。",
+        "一图": "示意图展示鱼的寓意图像与巴西利卡礼拜建筑的基本关系。",
+        "待核实": "来源给出约公元2—6世纪的年代区间，待补充第二来源逐字支撑后再写入正文。具体墓室、教堂名称、作品年份与收藏地未在输入中提及。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='早期基督教艺术 示意图'><title>早期基督教艺术</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>早期基督教</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>合法化后</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>寓意图像</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>鱼与牧羊人</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>巴西利卡</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>礼拜建筑</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>早期基督教艺术采用寓意图像与巴西利卡</text></g></svg>"
     },
     {
       "id": "romanesque",
@@ -2033,7 +2066,18 @@
       "sources": [
         "enc-chinese-painting",
         "enc-ink-wash"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "工笔是中国画中历代延续的一种画法。它被置于中国绘画史的脉络中加以理解。",
+        "风格特征": "工笔以细密线条与层层渲染描绘对象，注重形似与技法规范。题材上常用于人物与花鸟，并与写意形成对照。",
+        "代表人物与作品": "现有概述未点名具体的工笔作者或作品。相关条目包括写意与中国绘画史，可作为背景参照。",
+        "技法或形式分析": "工笔的核心在于细密的线条与层层渲染。对形似与技法规范的重视贯穿其描绘过程。",
+        "与前后风格的关系和争论": "工笔与写意形成对照，二者常被并列讨论。记载较一致，学界主要讨论工笔与写意的边界与分期问题。",
+        "一图": "示意图对比工笔的细密线条与层层渲染两种表现手段。",
+        "待核实": "输入未给出工笔、写意的英文对应词，中文技法术语的英文译名待补充第二来源。具体代表人物与作品未在输入中提及。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='工笔 示意图'><title>工笔</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>工笔</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>中国画画法</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>细密线条</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>层层渲染</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>写意</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>形成对照</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>工笔以细密线条与层层渲染描绘对象</text></g></svg>"
     },
     {
       "id": "yangshao-painted-pottery",
@@ -2598,7 +2642,18 @@
       "sources": [
         "enc-renaissance-music",
         "enc-medieval-music"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "帕莱斯特里纳是意大利文艺复兴时期的作曲家，主要活动于16世纪。其创作与特伦托会议后的教会音乐背景相关，所属传统为文艺复兴音乐。",
+        "风格特征": "他以清晰的复调教会音乐著称。其作品以均衡、透明的声部进行见长，整体音响明净而有节制。",
+        "代表人物与作品": "本条目所述人物即帕莱斯特里纳本人。其《马尔切鲁斯教皇弥撒》常被视为特伦托会议后教会音乐的典范。",
+        "技法或形式分析": "其技法核心在于复调写作中声部的均衡与透明，各声部进行清晰可辨。通过控制声部关系，使教会音乐在保持复调密度的同时获得明净的听感，成为该时期的典范。",
+        "与前后风格的关系和争论": "就相关条目而言，帕莱斯特里纳处于文艺复兴音乐之中，并与随后的巴洛克音乐形成承接。记载较一致，学界主要讨论其与文艺复兴音乐、巴洛克音乐之间的分期与边界问题。",
+        "一图": "示意图展示帕莱斯特里纳在文艺复兴音乐与巴洛克音乐之间的位置及其复调教会音乐特征。",
+        "待核实": "种子字段所列精确生卒区间「约1525—1594年」未在来源中逐字给出，正文改用「文艺复兴时期／16世纪」的概括表述。该精确区间待补充第二来源核实，中文技法术语的英文对应输入未明确给出，亦待核实。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='帕莱斯特里纳 示意图'><title>帕莱斯特里纳</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>帕莱斯特里纳</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>复调教会音乐</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>文艺复兴音乐</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>16世纪</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>巴洛克音乐</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>教会音乐</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>帕莱斯特里纳与文艺复兴音乐、巴洛克音乐的关系</text></g></svg>"
     },
     {
       "id": "baroque-music",
@@ -3067,7 +3122,18 @@
       "sources": [
         "enc-romantic-music",
         "enc-classical-period-music"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "艺术歌曲是德语地区的音乐体裁，发展于19世纪。它与浪漫主义音乐关系密切，并在这一时期走向成熟。",
+        "风格特征": "这是为声乐与钢琴创作的德语艺术歌曲体裁。诗歌与音乐紧密结合，钢琴在情境塑造中承担重要角色。",
+        "代表人物与作品": "舒伯特与舒曼将其发展至高峰，是本体裁最常被提及的代表人物。其中舒伯特的相关条目可作进一步参照。",
+        "技法或形式分析": "该体裁以声乐与钢琴的组合为基本形式。诗歌与音乐紧密结合，钢琴通过情境塑造参与作品表达，使文字与音响相互支撑。",
+        "与前后风格的关系和争论": "就相关条目而言，艺术歌曲与浪漫主义音乐紧密相连，舒伯特是其重要代表。记载较一致，学界主要讨论其与浪漫主义音乐之间的风格归属与边界问题。",
+        "一图": "示意图展示艺术歌曲以声乐与钢琴为核心、由舒伯特推向高峰并归入浪漫主义音乐的关系。",
+        "待核实": "种子字段所列时间表述「约公元19世纪」未在来源中逐字给出，正文改用「19世纪」的概括表述。其具体措辞与体裁边界的年代界定待补充第二来源核实。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='艺术歌曲 示意图'><title>艺术歌曲</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>艺术歌曲</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>声乐与钢琴</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>舒伯特</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>诗歌与音乐</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>浪漫主义音乐</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>19世纪</text><line class='svg-arrow' x1='305.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>艺术歌曲由舒伯特推向高峰，归入浪漫主义音乐</text></g></svg>"
     },
     {
       "id": "symphonic-poem",
@@ -3088,7 +3154,18 @@
       "sources": [
         "enc-romantic-music",
         "enc-opera"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "交响诗是19世纪欧洲的管弦乐体裁，与浪漫主义音乐及浪漫主义（艺术）的旨趣相通。它由李斯特创立，并推动标题音乐的发展。",
+        "风格特征": "这是以文学或绘画内容为标题的单乐章管弦乐体裁。它强调标题意象，属于标题音乐的范畴。",
+        "代表人物与作品": "李斯特创立了交响诗这一体裁。通过标题意象的描绘，他确立了该体裁以文学或绘画内容为标题的基本方向。",
+        "技法或形式分析": "交响诗采用单乐章的管弦乐形式，并围绕标题展开。其技法在于通过主题变形与配器描绘标题意象，使音乐与文学或绘画内容相呼应。",
+        "与前后风格的关系和争论": "就相关条目而言，交响诗与浪漫主义音乐、浪漫主义（艺术）关系密切，是标题音乐的重要载体。记载较一致，学界主要讨论其与浪漫主义音乐、浪漫主义（艺术）之间的归属与边界问题。",
+        "一图": "示意图展示李斯特创立交响诗、以主题变形与配器描绘标题意象并推动标题音乐的关系。",
+        "待核实": "种子字段所列时间表述「约公元19世纪中叶」未在来源中逐字给出，正文改用「19世纪」的概括表述。其中「中叶」的具体界定，以及「主题变形」「配器」等中文技法术语的英文对应，均待补充第二来源核实。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='交响诗 示意图'><title>交响诗</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>交响诗</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>单乐章管弦乐</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>李斯特</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>主题变形</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>浪漫主义音乐</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>标题音乐</text><line class='svg-arrow' x1='305.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>李斯特创立交响诗，以主题变形推动标题音乐</text></g></svg>"
     },
     {
       "id": "chopin",
@@ -3173,7 +3250,18 @@
       "sources": [
         "enc-romantic-music",
         "enc-classical-period-music"
-      ]
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "舒伯特是奥地利作曲家，活跃于19世纪，与浪漫主义音乐紧密相连。他被视为艺术歌曲的重要奠基者。",
+        "风格特征": "他以旋律天赋与和声色彩著称。其创作在旋律写作与和声运用上均具有鲜明特色。",
+        "代表人物与作品": "本条目所述人物即舒伯特本人，他被视为艺术歌曲的重要奠基者。其创作包括六百余首艺术歌曲及《未完成交响曲》。",
+        "技法或形式分析": "舒伯特的技法特色体现为旋律天赋与和声色彩。在艺术歌曲中，他以旋律与和声的结合支撑作品表达，形成鲜明的个人风格。",
+        "与前后风格的关系和争论": "就相关条目而言，舒伯特与艺术歌曲、浪漫主义音乐均有直接关联，是艺术歌曲的重要奠基者。记载较一致，学界主要讨论其风格分期与体裁归属问题。",
+        "一图": "示意图展示舒伯特以旋律天赋与和声色彩奠基艺术歌曲、并关联浪漫主义音乐的关系。",
+        "待核实": "种子字段所列精确生卒区间「1797—1828年」未在来源中逐字给出，正文改用「19世纪」的概括表述。该精确区间待补充第二来源核实，中文技法术语的英文对应输入未明确给出，亦待核实。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='舒伯特 示意图'><title>舒伯特</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>舒伯特</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>奥地利作曲家</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>艺术歌曲</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>旋律天赋</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>浪漫主义音乐</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>和声色彩</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>舒伯特以旋律天赋与和声色彩奠基艺术歌曲</text></g></svg>"
     },
     {
       "id": "20th-century-classical",
