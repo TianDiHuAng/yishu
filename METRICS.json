@@ -754,6 +754,25 @@
       "check_result": "errors=0",
       "check_links_result": "broken=0(176页)",
       "commits": 1
+    },
+    {
+      "cycle": "cycle29",
+      "date": "2026-11-22",
+      "status": "completed",
+      "gap_methods": [
+        "呈现层重构（无内容变更）"
+      ],
+      "network": "partial",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 145,
+      "fixes": 3,
+      "ui_change": "待核实 → 提示句 + 未解决列表 + 复核记录折叠（145 页）",
+      "fix_detail": "首次补丁未落盘→改单脚本自检；首版切分误伤状态说明→先摘句再切分",
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(176页)",
+      "audit_all": "7/7 ok",
+      "commits": 1
     }
   ]
 }

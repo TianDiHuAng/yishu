@@ -3,7 +3,7 @@
 页面：index.html / entries/<id>.html / timeline.html / all-index.html / sources.html / assets/style.css
 零 JavaScript；深色模式用 prefers-color-scheme；SVG 配色走 CSS 类。
 """
-import json, os, html, glob
+import json, os, html, glob, re
 from collections import defaultdict, Counter
 ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 D=os.path.join(ROOT,"data")
@@ -102,6 +102,12 @@ a:hover{border-bottom-color:var(--accent)}
 .controversy .view .holder{color:var(--accent);font-weight:600}
 .data-table{margin:12px 0}
 .badge-l3{background:var(--accent);color:var(--paper);padding:2px 8px;border-radius:4px;font-family:var(--mono);font-size:.7rem}
+details.rec{margin-top:10px}
+details.rec summary{cursor:pointer;font-size:.86rem;color:var(--ink-soft)}
+details.rec ol{margin:.5em 0 0;padding-left:1.4em;font-size:.84rem;color:var(--ink-soft)}
+.pending ol{margin:.4em 0 0;padding-left:1.5em}
+.pending .note{font-size:.82rem;color:var(--ink-faint);margin:0 0 8px}
+.pending li{margin:3px 0}
 .pending ol{margin:.4em 0 0;padding-left:1.3em}
 .footer{border-top:1px solid var(--rule);padding:32px 0;color:var(--ink-faint);font-size:.82rem}
 table{width:100%;border-collapse:collapse;font-size:.92rem}
@@ -201,6 +207,39 @@ def _era_key(e):
     v=int(m.group(1))
     return (0,-v) if "前" in e.get("when","")[:m.end()+2] else (0,v)
 
+def render_pending(text):
+    """待核实结构化呈现：状态说明 / 未解决项列表 / 复核记录。只改呈现，不改内容。"""
+    if not text: return ""
+    t=text.strip()
+    note=""
+    m=re.match(r"^(状态说明：[^。]*。)", t)
+    if m:
+        note=m.group(1); t=t[m.end():].strip()
+    # 复核记录：以【已复核…】开头，正文到下一个【为止
+    recs=[]
+    pattern=re.compile(r"(【已复核[^】]*】)(.*?)(?=【已复核|$)", re.S)
+    for mm in pattern.finditer(t):
+        recs.append((mm.group(1), mm.group(2).strip()))
+    open_txt=pattern.sub("", t).strip()
+    items=re.findall(r"（\d+）([^（]+)", open_txt)
+    if not items:
+        items=[x.strip() for x in re.split(r"[；;。]", open_txt) if len(x.strip())>4]
+    out=["<div class='pending'>"]
+    if note:
+        out.append("<p class='note'>%s</p>"%esc(note))
+    if items:
+        out.append("<strong>待核实（未解决）</strong><ol>")
+        for it in items:
+            out.append("<li>%s</li>"%esc(it.strip().rstrip("；;。 ")))
+        out.append("</ol>")
+    if recs:
+        out.append("<details class='rec'><summary>复核记录（%d 条，均已找到来源）</summary><ol>"%len(recs))
+        for tag,body in recs:
+            out.append("<li><span class='eyebrow'>%s</span> %s</li>"%(esc(tag.strip("【】")),esc(body[:400])))
+        out.append("</ol></details>")
+    out.append("</div>")
+    return "".join(out)
+
 def build_entry(e,entries):
     byid={x["id"]:x for x in entries}
     s=[head(e["title"])]
@@ -220,7 +259,7 @@ def build_entry(e,entries):
                 if r in byid: s.append("<li><a href='%s.html'>%s</a></li>"%(esc(r),esc(byid[r]["title"])))
             s.append("</ul></div>")
         if e.get("needs_verification"):
-            s.append("<div class='pending'><strong>待核实</strong><p>%s</p></div>"%esc(e.get("pending_notes","")))
+            s.append(render_pending(e.get("pending_notes","")))
     else:
         sec=e.get("sections",{})
         names=["时代背景","风格特征","代表人物与作品","技法或形式分析","与前后风格的关系和争论","一图","待核实"]
@@ -233,8 +272,7 @@ def build_entry(e,entries):
             if nm=="一图":
                 s.append("<p>%s</p><div class='svg-frame'>%s</div>"%(esc(sec.get(nm,"")),e.get("svg","")))
             elif nm=="待核实":
-                notes=sec.get(nm,"")
-                s.append("<div class='pending'>%s</div>"%esc(notes))
+                s.append(render_pending(sec.get(nm,"")))
             else:
                 s.append("<p>%s</p>"%esc(sec.get(nm,"")))
             s.append("</div>")

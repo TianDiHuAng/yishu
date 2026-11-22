@@ -369,6 +369,16 @@
       },
       "network": "partial",
       "verdict": "体检抓到 sitemap 漏收 2 页并修复；102/102 来源活性 200；未饱和"
+    },
+    {
+      "cycle": "cycle29",
+      "date": "2026-11-22",
+      "methods_used": [
+        "呈现重构"
+      ],
+      "gaps_found": {},
+      "network": "partial",
+      "verdict": "待核实呈现重构（145页）；文字未改；未饱和"
     }
   ]
 }

@@ -91,6 +91,12 @@ a:hover{border-bottom-color:var(--accent)}
 .controversy .view .holder{color:var(--accent);font-weight:600}
 .data-table{margin:12px 0}
 .badge-l3{background:var(--accent);color:var(--paper);padding:2px 8px;border-radius:4px;font-family:var(--mono);font-size:.7rem}
+details.rec{margin-top:10px}
+details.rec summary{cursor:pointer;font-size:.86rem;color:var(--ink-soft)}
+details.rec ol{margin:.5em 0 0;padding-left:1.4em;font-size:.84rem;color:var(--ink-soft)}
+.pending ol{margin:.4em 0 0;padding-left:1.5em}
+.pending .note{font-size:.82rem;color:var(--ink-faint);margin:0 0 8px}
+.pending li{margin:3px 0}
 .pending ol{margin:.4em 0 0;padding-left:1.3em}
 .footer{border-top:1px solid var(--rule);padding:32px 0;color:var(--ink-faint);font-size:.82rem}
 table{width:100%;border-collapse:collapse;font-size:.92rem}
