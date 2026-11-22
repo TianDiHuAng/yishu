@@ -15,7 +15,8 @@
  "bad_anchors": [],
  "sitemap_missing_files": [],
  "sitemap_unlisted_pages": [
-  "entities.html"
+  "entities.html",
+  "status.html"
  ],
  "contrast": {
   "light": {

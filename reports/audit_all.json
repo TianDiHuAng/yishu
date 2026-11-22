@@ -3,7 +3,7 @@
   {
    "step": "py_compile（全部工具可编译）",
    "status": "ok",
-   "tail": "112 个 .py 全部通过"
+   "tail": "117 个 .py 全部通过"
   },
   {
    "step": "check.py（R1-R17 硬规则）",
@@ -15,7 +15,7 @@
    "step": "check_links.py（站内链接）",
    "returncode": 0,
    "status": "ok",
-   "tail": "check_links: pages=175 broken=0"
+   "tail": "check_links: pages=176 broken=0"
   },
   {
    "step": "healthcheck_c10.py（九维体检）",

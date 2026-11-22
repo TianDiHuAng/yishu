@@ -629,6 +629,34 @@
       "check_links_result": "broken=0(175页)",
       "audit_all": "7/7 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle25",
+      "date": "2026-11-22",
+      "status": "completed",
+      "gap_methods": [
+        "实体锚定pass3(精确)",
+        "站点透明度补全"
+      ],
+      "network": "partial: wikidata ok",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 71,
+      "fixes": 0,
+      "entity_pass3": {
+        "tested": 71,
+        "matched": 1
+      },
+      "site_pages": {
+        "status.html": 176
+      },
+      "new_sources": 1,
+      "sources_total": 241,
+      "anchors_total": 34,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(176页)",
+      "audit_all": "7/7 ok",
+      "commits": 1
     }
   ]
 }

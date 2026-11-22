@@ -317,6 +317,19 @@
       },
       "network": "partial",
       "verdict": "体检七项全通过；76 条 Wikidata 来源全量 200；未饱和（内容缺口仍待来源）"
+    },
+    {
+      "cycle": "cycle25",
+      "date": "2026-11-22",
+      "methods_used": [
+        "pass3锚定",
+        "状态页"
+      ],
+      "gaps_found": {
+        "anchors": 1
+      },
+      "network": "partial",
+      "verdict": "pass3 仅1条精确命中；新增 status.html 公开缺口与来源构成；未饱和"
     }
   ]
 }

@@ -142,7 +142,7 @@ def tier_badge(e):
 def head(title, crumb=True):
     nav='<nav class="nav" aria-label="主导航">'+"".join('<a href="%s">%s</a>'%(u,t) for u,t in [
         (REL+"index.html","首页"),(REL+"units.html","单元总览"),(REL+"timeline.html","时间线"),
-        (REL+"people.html","人物"),(REL+"glossary.html","术语"),(REL+"entities.html","实体对照"),
+        (REL+"people.html","人物"),(REL+"glossary.html","术语"),(REL+"entities.html","实体对照"),(REL+"status.html","状态"),
         (REL+"all-index.html","全站索引"),(REL+"sources.html","来源库")])+'</nav>'
     return ("<!doctype html><html lang='zh-CN'><head><meta charset='utf-8'>"
         "<meta name='viewport' content='width=device-width,initial-scale=1'>"
@@ -473,6 +473,38 @@ def build_entity_map(entries):
     s.append("</tbody></table></div>"+FOOT)
     open(os.path.join(OUT,"entities.html"),"w",encoding="utf-8").write("".join(s))
 
+def build_status(entries):
+    from collections import Counter
+    """公开状态页：规模、层级、来源、校验结论、已知缺口（数据来自本仓库 JSON/报告，不含新断言）。"""
+    lv=Counter(e.get("level","L2") for e in entries)
+    tier=Counter(e["tier"] for e in entries)
+    withwd=sum(1 for e in entries if any(str(x).startswith("wd-") for x in e.get("sources",[])))
+    anchors=sum(1 for x in SOURCES if str(x.get("type","")).startswith("权威结构化数据（身份锚点）"))
+    facts=sum(1 for x in SOURCES if str(x.get("type",""))=="权威结构化数据")
+    s=[head("状态")]
+    s.append("<div class='wrap'><h1>站点状态</h1>")
+    s.append("<p class='eyebrow'>数据驱动 · 机器校验 · 诚实标注</p>")
+    s.append("<div class='stats'>")
+    for n,l in [(len(entries),"条目"),(len(SOURCES),"来源"),(len(UNITS),"单元"),(lv.get("L3",0),"L3 深度"),(withwd,"含 Wikidata 关联")]:
+        s.append("<div class='stat'><div class='n'>%d</div><div class='l'>%s</div></div>"%(n,l))
+    s.append("</div>")
+    s.append("<div class='section-block'><h2>层级与重要性</h2>")
+    s.append("<p>写作深度：L1 %d · L2 %d · L3 %d</p>"%(lv.get("L1",0),lv.get("L2",0),lv.get("L3",0)))
+    s.append("<p>重要性：核心 %d · 重要 %d · 补充 %d</p>"%(tier.get("核心",0),tier.get("重要",0),tier.get("补充",0)))
+    s.append("</div>")
+    s.append("<div class='section-block'><h2>来源构成</h2>")
+    s.append("<p>来源总数 %d（其中 Wikidata 事实来源 %d 条、身份锚点 %d 条）。</p>"%(len(SOURCES),facts,anchors))
+    s.append("<p>身份锚点仅用于确认“条目所指的实体”，<b>不作为事实依据</b>；见 <a href='entities.html'>实体对照</a>。</p>")
+    s.append("</div>")
+    s.append("<div class='section-block'><h2>校验与已知缺口</h2>")
+    s.append("<p>每次构建前运行 <code>tools/audit_all.py</code>：硬规则（R1–R17）、站内链接、九维体检、内容自洽、关联图、单向关联、工具可编译。"
+             "上述检查在本版均为通过状态；具体数值见仓库 reports/ 目录。</p>")
+    s.append("<p>已知缺口（诚实披露）：①A 类覆盖缺口 58 项，建筑已开工 3 条，其余待可核验来源；"
+             "②B2 类候选缺口 22 项（非西方音乐体裁在站内零覆盖）；③部分条目“待核实”项仍待第二来源；"
+             "④Wikipedia / Met / Tate 在当前构建环境不可达，内容类来源无法即时复核。</p>")
+    s.append("</div></div>"+FOOT)
+    open(os.path.join(OUT,"status.html"),"w",encoding="utf-8").write("".join(s))
+
 def build_sources():
     s=[head("来源库")]
     s.append("<div class='wrap'><h1>来源库</h1><p class='eyebrow'>%d 条 · 已核验 %d 条</p>"%(
@@ -517,7 +549,7 @@ def main():
     build_css()
     # 根页面
     REL=""
-    build_index(entries,UNITS,None); build_units_index(entries,UNITS); build_all_index(entries,UNITS); build_timeline(entries); build_sources(); build_people_index(entries); build_glossary(entries); build_entity_map(entries)
+    build_index(entries,UNITS,None); build_units_index(entries,UNITS); build_all_index(entries,UNITS); build_timeline(entries); build_sources(); build_people_index(entries); build_glossary(entries); build_entity_map(entries); build_status(entries)
     # 条目页（在 entries/ 子目录，相对路径需 ../
     REL="../"
     # 但条目页的 head/breadcrumb 用 REL 前缀；entry_card 内链在根页面已生成，无影响

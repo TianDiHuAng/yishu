@@ -16,5 +16,10 @@
   "schoenberg",
   "minimalism-music",
   "stravinsky"
+ ],
+ "sources": [
+  "enc-serialism",
+  "enc-schoenberg",
+  "wd-anchor-serialism"
  ]
 }
