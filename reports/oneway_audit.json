@@ -1,5 +1,22 @@
 {
- "total_oneway": 0,
- "by_class": {},
- "rows": []
+ "total_oneway": 2,
+ "by_class": {
+  "same_unit": 2
+ },
+ "rows": [
+  {
+   "from": "gothic-architecture",
+   "to": "gothic",
+   "class": "same_unit",
+   "from_unit": "art-medieval",
+   "to_unit": "art-medieval"
+  },
+  {
+   "from": "romanesque-architecture",
+   "to": "romanesque",
+   "class": "same_unit",
+   "from_unit": "art-medieval",
+   "to_unit": "art-medieval"
+  }
+ ]
 }

@@ -1,0 +1,50 @@
+{
+ "new_sources": [
+  {
+   "id": "wd-gothic-architecture",
+   "qid": "Q176483",
+   "zh": "哥特式建筑",
+   "en": "Gothic architecture",
+   "title": "Wikidata: Gothic architecture (Q176483)",
+   "ok": true
+  },
+  {
+   "id": "wd-romanesque-architecture",
+   "qid": "Q46261",
+   "zh": "罗曼式建筑",
+   "en": "Romanesque architecture",
+   "title": "Wikidata: Romanesque architecture (Q46261)",
+   "ok": true
+  }
+ ],
+ "entries": [
+  {
+   "id": "gothic-architecture",
+   "years_in_body": [
+    "12"
+   ],
+   "years_not_in_pending": [],
+   "sources": [
+    "enc-gothic-architecture",
+    "enc-gothic",
+    "wd-gothic-architecture"
+   ],
+   "level": "L2"
+  },
+  {
+   "id": "romanesque-architecture",
+   "years_in_body": [
+    "11",
+    "12"
+   ],
+   "years_not_in_pending": [],
+   "sources": [
+    "enc-romanesque",
+    "enc-romanesque-architecture",
+    "wd-romanesque-architecture"
+   ],
+   "level": "L2"
+  }
+ ],
+ "issues": []
+}

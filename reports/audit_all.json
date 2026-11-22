@@ -4,13 +4,13 @@
    "step": "check.py（R1-R17 硬规则）",
    "returncode": 0,
    "status": "ok",
-   "tail": "check.py: entries=142 svg=142 errors=0"
+   "tail": "check.py: entries=144 svg=144 errors=0"
   },
   {
    "step": "check_links.py（站内链接）",
    "returncode": 0,
    "status": "ok",
-   "tail": "check_links: pages=171 broken=0"
+   "tail": "check_links: pages=173 broken=0"
   },
   {
    "step": "healthcheck_c10.py（九维体检）",

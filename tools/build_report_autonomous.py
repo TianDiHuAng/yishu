@@ -30,6 +30,8 @@ L.append("- 新增来源：**%d**"%cur.get("new_sources",0))
 if cur.get("qc_result"): L.append("- 质量闸：**%s**"%cur["qc_result"])
 if cyc=="cycle3":
     L.append("- 本轮特别说明：B5 复核 45 项待核实 → 38 项找到可核验第二来源并写入【已复核】留痕；B3 孤儿页 38→0（新增84条双向补链）；QC 收尾补 Bach/Vivaldi 来源并修正18处截断URL。")
+if cyc=="cycle17":
+    L.append("- 本轮特别说明：按 A 类矩阵清单开工**建筑**缺口（最大缺口）：新建 哥特式建筑、罗马式建筑 两条（各挂 Wikipedia 专页 + Wikidata 实体 + 关联风格页），并在待核实写明**来源分工**——实测这两个 Wikidata 实体没有 P571 年代声明，Wikidata 只确认实体身份与正式名称，**不承担年代**，年代类断言仍在待核实。**中国建筑因只有 Wikidata 一条可核验来源，按双源规则不建**（记入 BACKLOG）。质量闸：两条 wd 来源 URL 200 且标签一致（哥特式建筑/罗曼式建筑），新建条目正文年份全部在待核实列明（issues 0）。条目 142→**144**，站点 171→**173** 页。")
 if cyc=="cycle16":
     L.append("- 本轮特别说明：把 Cycle15 遗留的 6 条未匹配人物全部补齐（补英文别名检索与个别人物类型词，如 polymath），并为 **全部 32 个人物条目** 挂上 Wikidata 来源与【已复核·Wikidata】生卒留痕 → 人物 Wikidata 覆盖率 6→**32/32**，生卒年核验 **mismatch 0**；另核验 monet（1840—1926）与 mona-lisa（1503 创作、卢浮宫、达·芬奇）与条目一致；修正 5 处「QQ」重复 QID 的标题与 URL。来源 174→**202（verified 197）**，全库平均 2.46 来源/条。")
 if cyc=="cycle15":

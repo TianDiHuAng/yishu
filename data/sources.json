@@ -2019,6 +2019,26 @@
       "type": "权威结构化数据",
       "verified": true,
       "verified_note": "Cycle16 批量 wbgetentities 成功；生年与条目 when 相差≤1（Cycle15 核验）"
+    },
+    {
+      "id": "wd-gothic-architecture",
+      "title": "Wikidata: Gothic architecture (Q176483)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q176483",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle17 curl 读取 EntityData 成功；desc 含 architectural style/médieval"
+    },
+    {
+      "id": "wd-romanesque-architecture",
+      "title": "Wikidata: Romanesque architecture (Q46261)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q46261",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle17 curl 读取 EntityData 成功；desc 含 architectural style/médieval"
     }
   ]
 }

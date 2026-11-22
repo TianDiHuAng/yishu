@@ -1,0 +1,22 @@
+{
+ "wd-gothic-architecture": {
+  "qid": "Q176483",
+  "labels": {
+   "en": "Gothic architecture",
+   "zh": "哥特式建筑"
+  },
+  "desc": "style of architecture",
+  "inception": [],
+  "style": []
+ },
+ "wd-romanesque-architecture": {
+  "qid": "Q46261",
+  "labels": {
+   "en": "Romanesque architecture",
+   "zh": "罗曼式建筑"
+  },
+  "desc": "architectural style of Medieval Europe",
+  "inception": [],
+  "style": []
+ }
+}

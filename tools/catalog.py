@@ -498,6 +498,15 @@ ROWS = [
 ("rite-of-spring-work","《春之祭》","作品","work-archives","20世纪","俄国/法国","音乐体裁","重要",
  "伊戈尔·斯特拉文斯基的芭蕾舞剧，1913年在巴黎首演引发轰动。","1913年",
  "作品以强烈节奏与不协和音响描绘史前祭祀场景，首演时的争议成为现代音乐史上的著名事件。","stravinsky,20th-century-classical","enc-rite-spring,enc-stravinsky"),
+# ==== Cycle17 新增：建筑类（A 类矩阵缺口，2 来源/条） ====
+("gothic-architecture","哥特式建筑","风格","art-medieval","中世纪晚期","西欧","建筑","重要",
+ "中世纪晚期西欧以尖拱、肋拱、飞扶壁与大面积彩色玻璃为特征的建筑样式。","约12世纪后期—16世纪",
+ "尖拱改变受力方式，肋拱与飞扶壁使墙体减薄、窗户得以扩大，彩色玻璃营造神秘光线；沙特尔大教堂为常被引用的实例。",
+ "gothic,romanesque-architecture","enc-gothic-architecture,enc-gothic,wd-gothic-architecture"),
+("romanesque-architecture","罗马式建筑","风格","art-medieval","中世纪盛期","西欧","建筑","重要",
+ "11—12世纪西欧以厚墙、小窗、半圆拱与筒形拱为特征的建筑样式。","约11—12世纪",
+ "半圆拱与厚重墙体承担荷载，门楣与柱头雕塑承担叙事功能；不同地区在材料与细部上各有差异。",
+ "romanesque,gothic-architecture","enc-romanesque,enc-romanesque-architecture,wd-romanesque-architecture"),
 ]
 
 def entries():

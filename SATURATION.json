@@ -218,6 +218,19 @@
       },
       "network": "partial",
       "verdict": "32/32人物生卒核验一致且已挂Wikidata来源；未饱和"
+    },
+    {
+      "cycle": "cycle17",
+      "date": "2026-11-22",
+      "methods_used": [
+        "B2补盲",
+        "Wikidata核验"
+      ],
+      "gaps_found": {
+        "建筑缺口开工": 2
+      },
+      "network": "partial",
+      "verdict": "A类建筑缺口开工（哥特/罗马式）；中国建筑待第二来源；未饱和"
     }
   ]
 }

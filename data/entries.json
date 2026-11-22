@@ -2977,6 +2977,50 @@
         "enc-rite-spring",
         "enc-stravinsky"
       ]
+    },
+    {
+      "id": "gothic-architecture",
+      "title": "哥特式建筑",
+      "kind": "风格",
+      "unit": "art-medieval",
+      "era": "中世纪晚期",
+      "region": "西欧",
+      "medium": "建筑",
+      "tier": "重要",
+      "def": "中世纪晚期西欧以尖拱、肋拱、飞扶壁与大面积彩色玻璃为特征的建筑样式。",
+      "when": "约12世纪后期—16世纪",
+      "overview": "尖拱改变受力方式，肋拱与飞扶壁使墙体减薄、窗户得以扩大，彩色玻璃营造神秘光线；沙特尔大教堂为常被引用的实例。",
+      "related": [
+        "gothic",
+        "romanesque-architecture"
+      ],
+      "sources": [
+        "enc-gothic-architecture",
+        "enc-gothic",
+        "wd-gothic-architecture"
+      ]
+    },
+    {
+      "id": "romanesque-architecture",
+      "title": "罗马式建筑",
+      "kind": "风格",
+      "unit": "art-medieval",
+      "era": "中世纪盛期",
+      "region": "西欧",
+      "medium": "建筑",
+      "tier": "重要",
+      "def": "11—12世纪西欧以厚墙、小窗、半圆拱与筒形拱为特征的建筑样式。",
+      "when": "约11—12世纪",
+      "overview": "半圆拱与厚重墙体承担荷载，门楣与柱头雕塑承担叙事功能；不同地区在材料与细部上各有差异。",
+      "related": [
+        "romanesque",
+        "gothic-architecture"
+      ],
+      "sources": [
+        "enc-romanesque",
+        "enc-romanesque-architecture",
+        "wd-romanesque-architecture"
+      ]
     }
   ]
 }

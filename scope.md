@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 142 个条目、22 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 144 个条目、22 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -40,6 +40,8 @@
 | early-christian-art | 早期基督教艺术 | 风格 | 中世纪早期 | 地中海 | 综合 | 补充 | O1、O2 |
 | romanesque | 罗马式艺术 | 风格 | 中世纪盛期 | 西欧 | 建筑,雕塑 | 重要 | O1、O2 |
 | gothic | 哥特式艺术 | 风格 | 中世纪晚期 | 西欧 | 建筑,雕塑 | 核心 | O1、O2 |
+| gothic-architecture | 哥特式建筑 | 风格 | 中世纪晚期 | 西欧 | 建筑 | 重要 | O1、O2 |
+| romanesque-architecture | 罗马式建筑 | 风格 | 中世纪盛期 | 西欧 | 建筑 | 重要 | O1、O2 |
 
 ## art-renaissance（艺术史·文艺复兴）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
