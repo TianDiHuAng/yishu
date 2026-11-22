@@ -356,6 +356,19 @@
       },
       "network": "partial",
       "verdict": "锚点 54→59（69%）；剩余45条停止硬凑并分类记录；未饱和"
+    },
+    {
+      "cycle": "cycle28",
+      "date": "2026-11-22",
+      "methods_used": [
+        "F体检",
+        "来源活性"
+      ],
+      "gaps_found": {
+        "sitemap_missing": 2
+      },
+      "network": "partial",
+      "verdict": "体检抓到 sitemap 漏收 2 页并修复；102/102 来源活性 200；未饱和"
     }
   ]
 }

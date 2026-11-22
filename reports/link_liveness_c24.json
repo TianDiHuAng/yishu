@@ -1,6 +1,6 @@
 {
- "total": 76,
- "ok": 76,
+ "total": 102,
+ "ok": 102,
  "failed": [],
  "rows": [
   {
@@ -534,6 +534,188 @@
    "http": "200",
    "ok": true,
    "qid": "Q831768"
+  },
+  {
+   "id": "wd-anchor-serialism",
+   "url": "https://www.wikidata.org/wiki/Q507246",
+   "http": "200",
+   "ok": true,
+   "qid": "Q507246"
+  },
+  {
+   "id": "wd-anchor-gothic",
+   "url": "https://www.wikidata.org/wiki/Q46825",
+   "http": "200",
+   "ok": true,
+   "qid": "Q46825"
+  },
+  {
+   "id": "wd-anchor-fauvism",
+   "url": "https://www.wikidata.org/wiki/Q166593",
+   "http": "200",
+   "ok": true,
+   "qid": "Q166593"
+  },
+  {
+   "id": "wd-anchor-byzantine-art",
+   "url": "https://www.wikidata.org/wiki/Q211884",
+   "http": "200",
+   "ok": true,
+   "qid": "Q211884"
+  },
+  {
+   "id": "wd-anchor-early-christian-art",
+   "url": "https://www.wikidata.org/wiki/Q429811",
+   "http": "200",
+   "ok": true,
+   "qid": "Q429811"
+  },
+  {
+   "id": "wd-anchor-china-calligraphy-history",
+   "url": "https://www.wikidata.org/wiki/Q10872835",
+   "http": "200",
+   "ok": true,
+   "qid": "Q10872835"
+  },
+  {
+   "id": "wd-anchor-clerical-script",
+   "url": "https://www.wikidata.org/wiki/Q1073960",
+   "http": "200",
+   "ok": true,
+   "qid": "Q1073960"
+  },
+  {
+   "id": "wd-anchor-running-script",
+   "url": "https://www.wikidata.org/wiki/Q1367992",
+   "http": "200",
+   "ok": true,
+   "qid": "Q1367992"
+  },
+  {
+   "id": "wd-anchor-cursive-script",
+   "url": "https://www.wikidata.org/wiki/Q607543",
+   "http": "200",
+   "ok": true,
+   "qid": "Q607543"
+  },
+  {
+   "id": "wd-anchor-organum",
+   "url": "https://www.wikidata.org/wiki/Q599877",
+   "http": "200",
+   "ok": true,
+   "qid": "Q599877"
+  },
+  {
+   "id": "wd-anchor-baroque-music",
+   "url": "https://www.wikidata.org/wiki/Q8361",
+   "http": "200",
+   "ok": true,
+   "qid": "Q8361"
+  },
+  {
+   "id": "wd-anchor-fugue",
+   "url": "https://www.wikidata.org/wiki/Q181014",
+   "http": "200",
+   "ok": true,
+   "qid": "Q181014"
+  },
+  {
+   "id": "wd-anchor-classical-period-music",
+   "url": "https://www.wikidata.org/wiki/Q17723",
+   "http": "200",
+   "ok": true,
+   "qid": "Q17723"
+  },
+  {
+   "id": "wd-anchor-sonata-form",
+   "url": "https://www.wikidata.org/wiki/Q212044",
+   "http": "200",
+   "ok": true,
+   "qid": "Q212044"
+  },
+  {
+   "id": "wd-anchor-symphonic-poem",
+   "url": "https://www.wikidata.org/wiki/Q271802",
+   "http": "200",
+   "ok": true,
+   "qid": "Q271802"
+  },
+  {
+   "id": "wd-anchor-yayue",
+   "url": "https://www.wikidata.org/wiki/Q15056301",
+   "http": "200",
+   "ok": true,
+   "qid": "Q15056301"
+  },
+  {
+   "id": "wd-anchor-jingju",
+   "url": "https://www.wikidata.org/wiki/Q335101",
+   "http": "200",
+   "ok": true,
+   "qid": "Q335101"
+  },
+  {
+   "id": "wd-anchor-musical-mode",
+   "url": "https://www.wikidata.org/wiki/Q731978",
+   "http": "200",
+   "ok": true,
+   "qid": "Q731978"
+  },
+  {
+   "id": "wd-anchor-ajanta-caves",
+   "url": "https://www.wikidata.org/wiki/Q184427",
+   "http": "200",
+   "ok": true,
+   "qid": "Q184427"
+  },
+  {
+   "id": "wd-anchor-angkor",
+   "url": "https://www.wikidata.org/wiki/Q43473",
+   "http": "200",
+   "ok": true,
+   "qid": "Q43473"
+  },
+  {
+   "id": "wd-anchor-northern-renaissance",
+   "url": "https://www.wikidata.org/wiki/Q133566778",
+   "http": "200",
+   "ok": true,
+   "qid": "Q133566778"
+  },
+  {
+   "id": "wd-anchor-mannerism",
+   "url": "https://www.wikidata.org/wiki/Q131808",
+   "http": "200",
+   "ok": true,
+   "qid": "Q131808"
+  },
+  {
+   "id": "wd-anchor-minimalism",
+   "url": "https://www.wikidata.org/wiki/Q173436",
+   "http": "200",
+   "ok": true,
+   "qid": "Q173436"
+  },
+  {
+   "id": "wd-anchor-conceptual-art",
+   "url": "https://www.wikidata.org/wiki/Q203209",
+   "http": "200",
+   "ok": true,
+   "qid": "Q203209"
+  },
+  {
+   "id": "wd-anchor-regular-script",
+   "url": "https://www.wikidata.org/wiki/Q1196029",
+   "http": "200",
+   "ok": true,
+   "qid": "Q1196029"
+  },
+  {
+   "id": "wd-anchor-polyphony",
+   "url": "https://www.wikidata.org/wiki/Q1917591",
+   "http": "200",
+   "ok": true,
+   "qid": "Q1917591"
   }
  ]
 }

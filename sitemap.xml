@@ -1,12 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
-<url><loc>https://tiandihuang.github.io/yishu/index.html</loc></url>
-<url><loc>https://tiandihuang.github.io/yishu/units.html</loc></url>
-<url><loc>https://tiandihuang.github.io/yishu/timeline.html</loc></url>
-<url><loc>https://tiandihuang.github.io/yishu/people.html</loc></url>
-<url><loc>https://tiandihuang.github.io/yishu/glossary.html</loc></url>
 <url><loc>https://tiandihuang.github.io/yishu/all-index.html</loc></url>
+<url><loc>https://tiandihuang.github.io/yishu/entities.html</loc></url>
+<url><loc>https://tiandihuang.github.io/yishu/glossary.html</loc></url>
+<url><loc>https://tiandihuang.github.io/yishu/index.html</loc></url>
+<url><loc>https://tiandihuang.github.io/yishu/people.html</loc></url>
 <url><loc>https://tiandihuang.github.io/yishu/sources.html</loc></url>
+<url><loc>https://tiandihuang.github.io/yishu/status.html</loc></url>
+<url><loc>https://tiandihuang.github.io/yishu/timeline.html</loc></url>
+<url><loc>https://tiandihuang.github.io/yishu/units.html</loc></url>
 <url><loc>https://tiandihuang.github.io/yishu/units/art-ancient.html</loc></url>
 <url><loc>https://tiandihuang.github.io/yishu/units/art-medieval.html</loc></url>
 <url><loc>https://tiandihuang.github.io/yishu/units/art-renaissance.html</loc></url>

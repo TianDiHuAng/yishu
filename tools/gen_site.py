@@ -3,7 +3,7 @@
 页面：index.html / entries/<id>.html / timeline.html / all-index.html / sources.html / assets/style.css
 零 JavaScript；深色模式用 prefers-color-scheme；SVG 配色走 CSS 类。
 """
-import json, os, html
+import json, os, html, glob
 from collections import defaultdict, Counter
 ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 D=os.path.join(ROOT,"data")
@@ -526,8 +526,8 @@ def build_css():
 def build_sitemap(entries):
     # 站点根：GitHub Pages 默认地址（用户 TianDiHuAng / 仓库 yishu）
     base="https://tiandihuang.github.io/yishu/"
-    urls=["index.html","units.html","timeline.html","people.html","glossary.html",
-          "all-index.html","sources.html"]
+    # 自动收录根目录全部 html（避免硬编码列表漏掉新页面）
+    urls=sorted(os.path.basename(p) for p in glob.glob(os.path.join(OUT,"*.html")))
     urls+= ["units/%s.html"%u for u in UNITS]
     urls+= ["entries/%s.html"%e["id"] for e in entries]
     body=["<?xml version='1.0' encoding='UTF-8'?>","<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>"]
