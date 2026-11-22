@@ -347,9 +347,24 @@ def build_units_index(entries,units):
     s.append("</div></div>"+FOOT)
     open(os.path.join(OUT,"units.html"),"w",encoding="utf-8").write("".join(s))
 
+def load_gap_targets():
+    """读取矩阵缺口清单（A 类应补 / B2 候选），缺失则返回空。"""
+    import json as _j
+    out={"A":[],"B2":[]}
+    try:
+        a=_j.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)),"..","reports","matrix_targets_c7.json"),encoding="utf-8"))
+        out["A"]=[[r["region"],r["medium"]] for r in a.get("A",[])]
+    except Exception: pass
+    try:
+        b=_j.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)),"..","reports","matrix_b_review_c19.json"),encoding="utf-8"))
+        out["B2"]=[[r[0],r[1]] for r in b.get("B2_items",[])]
+    except Exception: pass
+    return out
+
 def build_unit_pages(entries,units,cov):
     """每单元一页：统计 + 分级条目 + 时间线片段 + 缺口提示（本地数据，不新增断言）。"""
     os.makedirs(os.path.join(OUT,"units"),exist_ok=True)
+    GAPS=load_gap_targets()
     dom=defaultdict(list)
     for e in entries: dom[e["unit"]].append(e)
     order={"核心":0,"重要":1,"补充":2}
@@ -405,7 +420,22 @@ def build_unit_pages(entries,units,cov):
             for e in pend[:20]:
                 s.append("<li><a href='%sentries/%s.html'>%s</a>：%s</li>"%(REL,esc(e["id"]),esc(e["title"]),esc((e.get("pending_notes") or "")[:90])))
             s.append("</ul></div>")
+        # 本单元覆盖缺口（来自矩阵清单，仅提示，不代表可立即补写）
+        gaps=GAPS
+        regs={e["region"] for e in g}
+        meds={m for e in g for m in e["medium"].split(",")}
+        relA=[x for x in gaps.get("A",[]) if x[0] in regs and x[1] in meds]
+        relB=[x for x in gaps.get("B2",[]) if x[0] in regs and x[1] in meds]
+        if relA or relB:
+            s.append("<div class='section-block'><h2><span class='num'>05</span>本单元覆盖缺口</h2>")
+            s.append("<p class='eyebrow'>以下缺口来自覆盖矩阵分析；补写需先取得可核验来源，未取得前不写作。</p>")
+            if relA:
+                s.append("<p><strong>A 类（该地区本域已有条目、缺此媒介）：</strong>%s</p>"%esc("、".join("%s×%s"%(a,b) for a,b in relA[:8])))
+            if relB:
+                s.append("<p><strong>B2 类（候选缺口，需权威大纲确认）：</strong>%s</p>"%esc("、".join("%s×%s"%(a,b) for a,b in relB[:8])))
+            s.append("</div>")
         s.append("</div>"+FOOT)
+        os.makedirs(os.path.join(OUT,"units"),exist_ok=True)
         open(os.path.join(OUT,"units",uid+".html"),"w",encoding="utf-8").write("".join(s))
 
 def build_all_index(entries,units):
