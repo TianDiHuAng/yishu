@@ -577,21 +577,31 @@ def build_status(entries):
     s.append("</div>")
     s.append("<div class='section-block'><h2>来源构成</h2>")
     s.append("<p>来源总数 %d（其中 Wikidata 事实来源 %d 条、身份锚点 %d 条）。</p>"%(len(SOURCES),facts,anchors))
-    s.append("<p>身份锚点仅用于确认“条目所指的实体”，<b>不作为事实依据</b>；见 <a href='entities.html'>实体对照</a>。</p>")
+    s.append("<p>身份锚点仅用于确认「条目所指的实体」，<b>不作为事实依据</b>；见 <a href='entities.html'>实体对照</a>。</p>")
+    s.append("<p>来源库受 <b>R18 不变式</b>约束：库内必须全部 verified；不可核验者移入隔离区且不得被引用。</p>")
     s.append("</div>")
     s.append("<div class='section-block'><h2>校验与已知缺口</h2>")
-    s.append("<p>每次构建前运行 <code>tools/audit_all.py</code>：硬规则（R1–R17）、站内链接、九维体检、内容自洽、关联图、单向关联、工具可编译。"
+    s.append("<p>每次构建前运行 <code>tools/audit_all.py</code>：硬规则（R1–R18）、站内链接、九维体检、内容自洽、关联图、单向关联、工具可编译。"
              "上述检查在本版均为通过状态；具体数值见仓库 reports/ 目录。</p>")
-    s.append("<p>已知缺口（诚实披露）：①A 类覆盖缺口 58 项，建筑已开工 3 条，其余待可核验来源；"
-             "②B2 类候选缺口 22 项（非西方音乐体裁在站内零覆盖）；③部分条目“待核实”项仍待第二来源；"
+    _arch=sum(1 for e in entries if e["medium"]=="建筑")
+    s.append("<p>已知缺口（诚实披露）：①A 类覆盖缺口 58 项，建筑已开工 %d 条，其余待可核验来源；"%_arch
+             +"②B2 类候选缺口 22 项（非西方音乐体裁在站内零覆盖）；③部分条目「待核实」项仍待第二来源；"
              "④Wikipedia / Met / Tate 在当前构建环境不可达，内容类来源无法即时复核。</p>")
     s.append("</div></div>"+FOOT)
     open(os.path.join(OUT,"status.html"),"w",encoding="utf-8").write("".join(s))
 
 def build_sources():
     s=[head("来源库")]
-    s.append("<div class='wrap'><h1>来源库</h1><p class='eyebrow'>%d 条 · 已核验 %d 条</p>"%(
-        len(SOURCES),sum(1 for x in SOURCES if x["verified"])))
+    s.append("<div class='wrap'><h1>来源库</h1><p class='eyebrow'>%d 条 · 全部已核验</p>"%len(SOURCES))
+    _q=None
+    try:
+        import json as _j
+        _q=_j.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)),"..","data","sources_quarantine.json"),encoding="utf-8"))
+    except Exception: pass
+    if _q and _q.get("sources"):
+        s.append("<p class='pending'>隔离来源 %d 条：这些来源经尝试但当前无法核验（页面 404 / 反爬壳页 / 限流 / 403），"
+                 "已移出本库并**禁止被任何条目引用**（check.py R18 强制）。原因与记录见 "
+                 "data/sources_quarantine.json，来源通道恢复后可重新核验。</p>"%len(_q["sources"]))
     s.append("<table><thead><tr><th>id</th><th>标题</th><th>机构/作者</th><th>年份</th><th>类型</th><th>核验</th></tr></thead><tbody>")
     for x in sorted(SOURCES,key=lambda a:a["id"]):
         s.append("<tr><td><code>%s</code></td><td><a href='%s'>%s</a></td><td>%s</td><td>%s</td><td>%s</td>"

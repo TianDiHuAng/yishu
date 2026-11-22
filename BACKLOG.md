@@ -459,3 +459,11 @@
 ### P1 Cycle 38：站点/文档最后打磨（可选：sources.html 增加 quarantine 说明）
 ### P2 Cycle 39：体检 + 最终盘点
 ### P3 Cycle 40：维护模式定稿（不写 ALL_DONE）
+
+## Cycle 38 完成记录（2026-11-22）
+- sources.html 隔离来源说明；status.html 数字动态化（R1–R18）。
+- 自修两处：字符串截断（py_compile 拦）、建筑计数口径 10→4。
+
+## Cycle 39（体检轮）与 40（定稿）
+### P0 八步体检 + 活性
+### P1 维护模式定稿：PROGRESS/REPORT/STATUS 收束（不写 ALL_DONE）
