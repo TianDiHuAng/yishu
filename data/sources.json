@@ -2069,6 +2069,216 @@
       "type": "权威结构化数据",
       "verified": true,
       "verified_note": "Cycle21 curl 读取成功；label=architecture of India；desc=architectural style of a major geographi"
+    },
+    {
+      "id": "wd-anchor-venetian-school",
+      "title": "Wikidata 实体（身份锚点）：威尼斯画派（Q610687）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q610687",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle22 批量 wbgetentities 成功；标签与条目标题匹配、描述类型词匹配；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-baroque",
+      "title": "Wikidata 实体（身份锚点）：巴洛克艺术（Q37853）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q37853",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle22 批量 wbgetentities 成功；标签与条目标题匹配、描述类型词匹配；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-rococo",
+      "title": "Wikidata 实体（身份锚点）：洛可可（Q122960）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q122960",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle22 批量 wbgetentities 成功；标签与条目标题匹配、描述类型词匹配；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-neoclassicism",
+      "title": "Wikidata 实体（身份锚点）：新古典主义建筑（Q54111）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q54111",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle22 批量 wbgetentities 成功；标签与条目标题匹配、描述类型词匹配；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-expressionism",
+      "title": "Wikidata 实体（身份锚点）：表现主义（Q80113）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q80113",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle22 批量 wbgetentities 成功；标签与条目标题匹配、描述类型词匹配；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-cubism",
+      "title": "Wikidata 实体（身份锚点）：立体主义（Q42934）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q42934",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle22 批量 wbgetentities 成功；标签与条目标题匹配、描述类型词匹配；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-futurism",
+      "title": "Wikidata 实体（身份锚点）：未来主义（Q131221）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q131221",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle22 批量 wbgetentities 成功；标签与条目标题匹配、描述类型词匹配；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-surrealism",
+      "title": "Wikidata 实体（身份锚点）：超现实主义（Q39427）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q39427",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle22 批量 wbgetentities 成功；标签与条目标题匹配、描述类型词匹配；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-bauhaus",
+      "title": "Wikidata 实体（身份锚点）：包豪斯（Q124354）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q124354",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle22 批量 wbgetentities 成功；标签与条目标题匹配、描述类型词匹配；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-modern-art",
+      "title": "Wikidata 实体（身份锚点）：现代艺术（Q38166）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q38166",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle22 批量 wbgetentities 成功；标签与条目标题匹配、描述类型词匹配；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-contemporary-art",
+      "title": "Wikidata 实体（身份锚点）：当代艺术家（Q21477194）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q21477194",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle22 批量 wbgetentities 成功；标签与条目标题匹配、描述类型词匹配；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-gongbi",
+      "title": "Wikidata 实体（身份锚点）：工笔画（Q5581733）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q5581733",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle22 批量 wbgetentities 成功；标签与条目标题匹配、描述类型词匹配；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-renaissance-music",
+      "title": "Wikidata 实体（身份锚点）：文艺复兴音乐（Q201405）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q201405",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle22 批量 wbgetentities 成功；标签与条目标题匹配、描述类型词匹配；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-madrigal",
+      "title": "Wikidata 实体（身份锚点）：牧歌（Q390001）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q390001",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle22 批量 wbgetentities 成功；标签与条目标题匹配、描述类型词匹配；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-sonata",
+      "title": "Wikidata 实体（身份锚点）：奏鸣曲（Q131269）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q131269",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle22 批量 wbgetentities 成功；标签与条目标题匹配、描述类型词匹配；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-romantic-music",
+      "title": "Wikidata 实体（身份锚点）：浪漫主义音乐美学探略——论器乐的形而上学（Q63630402）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q63630402",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle22 批量 wbgetentities 成功；标签与条目标题匹配、描述类型词匹配；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-impressionism-music",
+      "title": "Wikidata 实体（身份锚点）：印象主义音乐（Q837182）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q837182",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle22 批量 wbgetentities 成功；标签与条目标题匹配、描述类型词匹配；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-guzheng",
+      "title": "Wikidata 实体（身份锚点）：古筝（Q726303）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q726303",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle22 批量 wbgetentities 成功；标签与条目标题匹配、描述类型词匹配；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-violin",
+      "title": "Wikidata 实体（身份锚点）：小提琴（Q8355）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q8355",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle22 批量 wbgetentities 成功；标签与条目标题匹配、描述类型词匹配；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-piano",
+      "title": "Wikidata 实体（身份锚点）：钢琴（Q5994）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q5994",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle22 批量 wbgetentities 成功；标签与条目标题匹配、描述类型词匹配；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-japanese-art",
+      "title": "Wikidata 实体（身份锚点）：日本艺术院（Q1632766）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q1632766",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle22 批量 wbgetentities 成功；标签与条目标题匹配、描述类型词匹配；仅作身份锚点，不作事实依据"
     }
   ]
 }

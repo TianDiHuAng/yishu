@@ -19,5 +19,10 @@
   "matisse",
   "dali",
   "modern-to-contemporary"
+ ],
+ "sources": [
+  "web-artstory-movements",
+  "enc-cubism",
+  "wd-anchor-modern-art"
  ]
 }

@@ -15,5 +15,10 @@
   "china-music-history",
   "jingju",
   "pipa"
+ ],
+ "sources": [
+  "enc-guzheng",
+  "enc-chinese-music",
+  "wd-anchor-guzheng"
  ]
 }

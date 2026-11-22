@@ -280,6 +280,18 @@
       },
       "network": "partial",
       "verdict": "5 作品尺寸/材质/藏品号入档（待核实）；日本/印度建筑实体已登记但不建条；未饱和"
+    },
+    {
+      "cycle": "cycle22",
+      "date": "2026-11-22",
+      "methods_used": [
+        "实体锚定"
+      ],
+      "gaps_found": {
+        "anchors": 21
+      },
+      "network": "partial",
+      "verdict": "21 条目新增 Wikidata 身份锚点 + 实体对照页；40 歧义/43 无候选已记录；未饱和"
     }
   ]
 }

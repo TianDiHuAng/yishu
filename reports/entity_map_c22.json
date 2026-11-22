@@ -1,0 +1,1301 @@
+{
+ "matched": [
+  {
+   "id": "venetian-school",
+   "kind": "风格",
+   "title": "威尼斯画派",
+   "qid": "Q610687",
+   "label": "威尼斯画派",
+   "desc": "Renaissance art movement"
+  },
+  {
+   "id": "baroque",
+   "kind": "风格",
+   "title": "巴洛克",
+   "qid": "Q37853",
+   "label": "巴洛克艺术",
+   "desc": "cultural movement, starting around 1600"
+  },
+  {
+   "id": "rococo",
+   "kind": "风格",
+   "title": "洛可可",
+   "qid": "Q122960",
+   "label": "洛可可",
+   "desc": "18th-century artistic movement and style"
+  },
+  {
+   "id": "neoclassicism",
+   "kind": "风格",
+   "title": "新古典主义",
+   "qid": "Q54111",
+   "label": "新古典主义建筑",
+   "desc": "18th–19th-century European classical revivalist architectura"
+  },
+  {
+   "id": "expressionism",
+   "kind": "风格",
+   "title": "表现主义",
+   "qid": "Q80113",
+   "label": "表现主义",
+   "desc": "modernist art movement"
+  },
+  {
+   "id": "cubism",
+   "kind": "风格",
+   "title": "立体主义",
+   "qid": "Q42934",
+   "label": "立体主义",
+   "desc": "early-20th-century avant-garde art movement"
+  },
+  {
+   "id": "futurism",
+   "kind": "风格",
+   "title": "未来主义",
+   "qid": "Q131221",
+   "label": "未来主义",
+   "desc": "artistic and social movement"
+  },
+  {
+   "id": "surrealism",
+   "kind": "风格",
+   "title": "超现实主义",
+   "qid": "Q39427",
+   "label": "超现实主义",
+   "desc": "international cultural movement that began in the early 1920"
+  },
+  {
+   "id": "bauhaus",
+   "kind": "风格",
+   "title": "包豪斯",
+   "qid": "Q124354",
+   "label": "包豪斯",
+   "desc": "school in Germany that combined crafts and the fine arts"
+  },
+  {
+   "id": "modern-art",
+   "kind": "时期",
+   "title": "现代艺术",
+   "qid": "Q38166",
+   "label": "现代艺术",
+   "desc": "artistic works produced during the period extending roughly "
+  },
+  {
+   "id": "contemporary-art",
+   "kind": "时期",
+   "title": "当代艺术",
+   "qid": "Q21477194",
+   "label": "当代艺术家",
+   "desc": "artist of the 20th century or in the 21st century"
+  },
+  {
+   "id": "gongbi",
+   "kind": "术语",
+   "title": "工笔",
+   "qid": "Q5581733",
+   "label": "工笔画",
+   "desc": "realist technique in Chinese painting"
+  },
+  {
+   "id": "renaissance-music",
+   "kind": "时期",
+   "title": "文艺复兴音乐",
+   "qid": "Q201405",
+   "label": "文艺复兴音乐",
+   "desc": "musical period between the 15th and 17th centuries"
+  },
+  {
+   "id": "madrigal",
+   "kind": "风格",
+   "title": "牧歌",
+   "qid": "Q390001",
+   "label": "牧歌",
+   "desc": "art genre"
+  },
+  {
+   "id": "sonata",
+   "kind": "术语",
+   "title": "奏鸣曲",
+   "qid": "Q131269",
+   "label": "奏鸣曲",
+   "desc": "type of musical composition, usually for a solo instrument o"
+  },
+  {
+   "id": "romantic-music",
+   "kind": "时期",
+   "title": "浪漫主义音乐",
+   "qid": "Q63630402",
+   "label": "浪漫主义音乐美学探略——论器乐的形而上学",
+   "desc": "scientific article published in January 1989"
+  },
+  {
+   "id": "impressionism-music",
+   "kind": "风格",
+   "title": "印象主义音乐",
+   "qid": "Q837182",
+   "label": "印象主义音乐",
+   "desc": "movement in Western classical music, mainly during early 20t"
+  },
+  {
+   "id": "guzheng",
+   "kind": "术语",
+   "title": "古筝",
+   "qid": "Q726303",
+   "label": "古筝",
+   "desc": "Chinese musical instrument"
+  },
+  {
+   "id": "violin",
+   "kind": "术语",
+   "title": "小提琴",
+   "qid": "Q8355",
+   "label": "小提琴",
+   "desc": "bowed string instrument"
+  },
+  {
+   "id": "piano",
+   "kind": "术语",
+   "title": "钢琴",
+   "qid": "Q5994",
+   "label": "钢琴",
+   "desc": "musical keyboard instrument"
+  },
+  {
+   "id": "japanese-art",
+   "kind": "时期",
+   "title": "日本艺术",
+   "qid": "Q1632766",
+   "label": "日本艺术院",
+   "desc": "artistic organization in Japan"
+  }
+ ],
+ "ambiguous": [
+  {
+   "id": "prehistoric-art",
+   "kind": "风格",
+   "title": "史前艺术",
+   "candidates": [
+    {
+     "qid": "Q1842924",
+     "label": "prehistoric art",
+     "desc": "art produced in preliterate cultures",
+     "same": false,
+     "typ": false
+    },
+    {
+     "qid": "Q11269813",
+     "label": "cave with prehistoric art",
+     "desc": "",
+     "same": true,
+     "typ": false
+    },
+    {
+     "qid": "Q120397884",
+     "label": "史前艺术形式美感的获得",
+     "desc": "scholarly article in Journal of Northeast Nor",
+     "same": true,
+     "typ": false
+    }
+   ]
+  },
+  {
+   "id": "cave-art",
+   "kind": "风格",
+   "title": "洞穴壁画",
+   "candidates": [
+    {
+     "qid": "Q2267961",
+     "label": "The Land of Painted Caves",
+     "desc": "2011 book by Jean M. Auel",
+     "same": true,
+     "typ": false
+    }
+   ]
+  },
+  {
+   "id": "egyptian-art",
+   "kind": "风格",
+   "title": "古埃及艺术",
+   "candidates": [
+    {
+     "qid": "Q121346421",
+     "label": "古埃及艺术的人物造型",
+     "desc": "scholarly article in Journal of Nanjing Arts ",
+     "same": true,
+     "typ": false
+    },
+    {
+     "qid": "Q121390916",
+     "label": "古埃及艺术中的竖琴手形象",
+     "desc": "",
+     "same": true,
+     "typ": false
+    }
+   ]
+  },
+  {
+   "id": "greek-art",
+   "kind": "风格",
+   "title": "古希腊艺术",
+   "candidates": [
+    {
+     "qid": "Q1247086",
+     "label": "Greek art",
+     "desc": "visual expression by the Hellenic civilizatio",
+     "same": true,
+     "typ": false
+    },
+    {
+     "qid": "Q120566916",
+     "label": "Theory of Arts’ Types and the Missing of Lyrical Poems in Ancient Greece",
+     "desc": "",
+     "same": true,
+     "typ": false
+    },
+    {
+     "qid": "Q119377529",
+     "label": "古希腊艺术的人本精神",
+     "desc": "",
+     "same": true,
+     "typ": false
+    }
+   ]
+  },
+  {
+   "id": "roman-art",
+   "kind": "风格",
+   "title": "古罗马艺术",
+   "candidates": [
+    {
+     "qid": "Q3354732",
+     "label": "Roman art",
+     "desc": "art made in antiquity in the territories of R",
+     "same": false,
+     "typ": false
+    }
+   ]
+  },
+  {
+   "id": "byzantine-art",
+   "kind": "风格",
+   "title": "拜占庭艺术",
+   "candidates": [
+    {
+     "qid": "Q211884",
+     "label": "Byzantine art",
+     "desc": "art of the Byzantine (Eastern Roman) Empire",
+     "same": true,
+     "typ": false
+    }
+   ]
+  },
+  {
+   "id": "early-christian-art",
+   "kind": "风格",
+   "title": "早期基督教艺术",
+   "candidates": [
+    {
+     "qid": "Q429811",
+     "label": "early Christian art",
+     "desc": "art produced by Christians before Byzantine t",
+     "same": true,
+     "typ": false
+    }
+   ]
+  },
+  {
+   "id": "northern-renaissance",
+   "kind": "风格",
+   "title": "北方文艺复兴",
+   "candidates": [
+    {
+     "qid": "Q133566778",
+     "label": "Nothern Renaissance",
+     "desc": "",
+     "same": true,
+     "typ": false
+    }
+   ]
+  },
+  {
+   "id": "mannerism",
+   "kind": "风格",
+   "title": "样式主义",
+   "candidates": [
+    {
+     "qid": "Q119326409",
+     "label": "样式主义美学及艺术观念",
+     "desc": "",
+     "same": true,
+     "typ": false
+    }
+   ]
+  },
+  {
+   "id": "dada",
+   "kind": "风格",
+   "title": "达达主义",
+   "candidates": [
+    {
+     "qid": "Q6034",
+     "label": "Dada",
+     "desc": "avant-garde art movement in the early 20th ce",
+     "same": false,
+     "typ": true
+    },
+    {
+     "qid": "Q75145862",
+     "label": "Dada Manifesto",
+     "desc": "",
+     "same": false,
+     "typ": false
+    }
+   ]
+  },
+  {
+   "id": "abstract-expressionism",
+   "kind": "风格",
+   "title": "抽象表现主义",
+   "candidates": [
+    {
+     "qid": "Q177725",
+     "label": "abstract expressionism",
+     "desc": "American post–World War II art movement",
+     "same": false,
+     "typ": true
+    },
+    {
+     "qid": "Q113524524",
+     "label": "抽象表现主义大师--巴黎专访赵无极",
+     "desc": "",
+     "same": true,
+     "typ": false
+    },
+    {
+     "qid": "Q121242210",
+     "label": "抽象表现主义画家戈尔基",
+     "desc": "scholarly article in Foreign Literature, no. ",
+     "same": true,
+     "typ": false
+    }
+   ]
+  },
+  {
+   "id": "pop-art",
+   "kind": "风格",
+   "title": "波普艺术",
+   "candidates": [
+    {
+     "qid": "Q134147",
+     "label": "pop art",
+     "desc": "art movement",
+     "same": false,
+     "typ": true
+    },
+    {
+     "qid": "Q121241997",
+     "label": "波普艺术",
+     "desc": "scholarly article in Foreign Literature, no. ",
+     "same": true,
+     "typ": false
+    },
+    {
+     "qid": "Q119342205",
+     "label": "The Cultural Heritage of Pop Art: The Origins of \"Post-modernity\"",
+     "desc": "",
+     "same": true,
+     "typ": false
+    }
+   ]
+  },
+  {
+   "id": "song-painting",
+   "kind": "风格",
+   "title": "宋代绘画",
+   "candidates": [
+    {
+     "qid": "Q119493801",
+     "label": "宋代绘画及其对日本艺术的影响",
+     "desc": "scholarly article in Jinan Journal (Philosoph",
+     "same": true,
+     "typ": false
+    },
+    {
+     "qid": "Q120657554",
+     "label": "Concept of Interpretation of Painting Art in Song Dynasty",
+     "desc": "scholarly article in Journal of Northwest Uni",
+     "same": true,
+     "typ": false
+    },
+    {
+     "qid": "Q121353676",
+     "label": "宋代绘画写实说质疑",
+     "desc": "scholarly article in Journal of Nanjing Arts ",
+     "same": true,
+     "typ": false
+    }
+   ]
+  },
+  {
+   "id": "yuan-painting",
+   "kind": "风格",
+   "title": "元代绘画",
+   "candidates": [
+    {
+     "qid": "Q63495927",
+     "label": "元代绘画的时代主调与画家的民族心理表现",
+     "desc": "scientific article published in January 1988",
+     "same": true,
+     "typ": false
+    },
+    {
+     "qid": "Q121373671",
+     "label": "元代绘画史工具书简介",
+     "desc": "scholarly article in New Arts, no. 4, 1990",
+     "same": true,
+     "typ": false
+    },
+    {
+     "qid": "Q121373668",
+     "label": "元代绘画研究综述",
+     "desc": "scholarly article in New Arts, no. 4, 1990",
+     "same": true,
+     "typ": false
+    }
+   ]
+  },
+  {
+   "id": "ming-painting",
+   "kind": "风格",
+   "title": "明代绘画",
+   "candidates": [
+    {
+     "qid": "Q121373706",
+     "label": "明代绘画研究概况",
+     "desc": "scholarly article in New Arts, no. 1, 1991",
+     "same": true,
+     "typ": false
+    },
+    {
+     "qid": "Q121375335",
+     "label": "明代绘画中的“古典”和“今典”——重读沈周《石田稿》稿本札记之一",
+     "desc": "scholarly article in New Arts, no. 3, 2003",
+     "same": true,
+     "typ": false
+    },
+    {
+     "qid": "Q121352407",
+     "label": "明代绘画专史研究",
+     "desc": "scholarly article in Journal of Nanjing Arts ",
+     "same": true,
+     "typ": false
+    }
+   ]
+  },
+  {
+   "id": "qing-painting",
+   "kind": "风格",
+   "title": "清代绘画",
+   "candidates": [
+    {
+     "qid": "Q133156627",
+     "label": "清代绘画集锦册",
+     "desc": "item from the collection of Tianjin Museum",
+     "same": true,
+     "typ": false
+    },
+    {
+     "qid": "Q121349751",
+     "label": "清代绘画史学分期特色及其成因分析",
+     "desc": "scholarly article in Journal of Nanjing Arts ",
+     "same": true,
+     "typ": false
+    },
+    {
+     "qid": "Q119387924",
+     "label": "清代绘画史学的地域特征及其成因探析",
+     "desc": "",
+     "same": true,
+     "typ": false
+    }
+   ]
+  },
+  {
+   "id": "xieyi",
+   "kind": "术语",
+   "title": "写意",
+   "candidates": [
+    {
+     "qid": "Q10894988",
+     "label": "xieyi painting",
+     "desc": "style of painting",
+     "same": true,
+     "typ": false
+    },
+    {
+     "qid": "Q119188813",
+     "label": "写意性:中日传统民间艺术共同的审美特征",
+     "desc": "scientific article published in 2011",
+     "same": true,
+     "typ": false
+    },
+    {
+     "qid": "Q119385175",
+     "label": "写意笔墨与现代构成——杨力舟的中国画艺术",
+     "desc": "",
+     "same": true,
+     "typ": false
+    }
+   ]
+  },
+  {
+   "id": "yangshao-painted-pottery",
+   "kind": "风格",
+   "title": "仰韶彩陶",
+   "candidates": [
+    {
+     "qid": "Q134869980",
+     "label": "仰韶彩陶壶",
+     "desc": "item from the collection of Guangdong Museum",
+     "same": true,
+     "typ": false
+    }
+   ]
+  },
+  {
+   "id": "chinese-jade-art",
+   "kind": "风格",
+   "title": "中国玉器",
+   "candidates": [
+    {
+     "qid": "Q119289527",
+     "label": "中国玉器起源的神话学分析——以兴隆洼文化玉玦为例",
+     "desc": "scholarly article in National Arts, no. 3, 20",
+     "same": true,
+     "typ": false
+    },
+    {
+     "qid": "Q65016364",
+     "label": "中国玉器的古代修复工艺研究——以出土玉器为例",
+     "desc": "article published in 2015",
+     "same": true,
+     "typ": false
+    },
+    {
+     "qid": "Q121469322",
+     "label": "中国玉器与玉文化研究之道的思考",
+     "desc": "scholarly article in Jianghan Archaeology, no",
+     "same": true,
+     "typ": false
+    }
+   ]
+  },
+  {
+   "id": "shang-zhou-bronzes",
+   "kind": "风格",
+   "title": "商周青铜礼器",
+   "candidates": [
+    {
+     "qid": "Q63477972",
+     "label": "商周青铜礼器铸造中焊接技术传统的形成",
+     "desc": "scientific article published in January 2018",
+     "same": true,
+     "typ": false
+    },
+    {
+     "qid": "Q118498555",
+     "label": "A Discussion on the Finishing Work of Shang-Zhou Bronze Ritual Vessels",
+     "desc": "",
+     "same": true,
+     "typ": false
+    }
+   ]
+  },
+  {
+   "id": "dunhuang-art",
+   "kind": "风格",
+   "title": "敦煌艺术",
+   "candidates": [
+    {
+     "qid": "Q120631843",
+     "label": "The Sketch of the History of Dunhuang Grotto Art",
+     "desc": "scholarly article in Journal of Northwest Nor",
+     "same": true,
+     "typ": false
+    },
+    {
+     "qid": "Q63622822",
+     "label": "敦煌艺术中“天”的形象到“天人”形象的历史嬗变",
+     "desc": "scientific article published in January 2014",
+     "same": true,
+     "typ": false
+    },
+    {
+     "qid": "Q63788356",
+     "label": "敦煌艺术展示的文化塑形思考——有关敦煌研究院陈列中心的展览设计与制作",
+     "desc": "scientific article published in January 2007",
+     "same": true,
+     "typ": false
+    }
+   ]
+  },
+  {
+   "id": "regular-script",
+   "kind": "术语",
+   "title": "楷书",
+   "candidates": [
+    {
+     "qid": "Q1196029",
+     "label": "regular script",
+     "desc": "Chinese writing style, appearing ca. 200 CE a",
+     "same": false,
+     "typ": true
+    },
+    {
+     "qid": "Q10362048",
+     "label": "Four Great Calligraphers of Regular Script",
+     "desc": "Ouyang Xun, Yan Zhenqing, Liu Gongquan, and Z",
+     "same": true,
+     "typ": false
+    },
+    {
+     "qid": "Q133056707",
+     "label": "楷书   正隆元宝",
+     "desc": "item from the collection of Gansu Provincial ",
+     "same": true,
+     "typ": false
+    }
+   ]
+  },
+  {
+   "id": "running-script",
+   "kind": "术语",
+   "title": "行书",
+   "candidates": [
+    {
+     "qid": "Q1367992",
+     "label": "semi-cursive script",
+     "desc": "cursive style of Chinese writing; not as curs",
+     "same": true,
+     "typ": false
+    },
+    {
+     "qid": "Q133049526",
+     "label": "行书    元祐通宝",
+     "desc": "item from the collection of Gansu Provincial ",
+     "same": true,
+     "typ": false
+    },
+    {
+     "qid": "Q133049510",
+     "label": "行书    元祐通宝",
+     "desc": "item from the collection of Gansu Provincial ",
+     "same": true,
+     "typ": false
+    }
+   ]
+  },
+  {
+   "id": "cursive-script",
+   "kind": "术语",
+   "title": "草书",
+   "candidates": [
+    {
+     "qid": "Q607543",
+     "label": "Chinese cursive script",
+     "desc": "handwriting, traditional calligraphic script ",
+     "same": true,
+     "typ": false
+    },
+    {
+     "qid": "Q18658301",
+     "label": "草书体",
+     "desc": "",
+     "same": true,
+     "typ": false
+    },
+    {
+     "qid": "Q133097907",
+     "label": "草书   元丰通宝（小平）",
+     "desc": "item from the collection of Gansu Provincial ",
+     "same": true,
+     "typ": false
+    }
+   ]
+  },
+  {
+   "id": "gregorian-chant",
+   "kind": "风格",
+   "title": "格里高利圣咏",
+   "candidates": [
+    {
+     "qid": "Q26473",
+     "label": "Gregorian chant",
+     "desc": "form of song",
+     "same": false,
+     "typ": false
+    }
+   ]
+  },
+  {
+   "id": "organum",
+   "kind": "术语",
+   "title": "奥尔加农",
+   "candidates": [
+    {
+     "qid": "Q599877",
+     "label": "organum",
+     "desc": "medieval polyphony most often based on a cant",
+     "same": true,
+     "typ": false
+    }
+   ]
+  },
+  {
+   "id": "polyphony",
+   "kind": "术语",
+   "title": "复调",
+   "candidates": [
+    {
+     "qid": "Q179465",
+     "label": "polyphony",
+     "desc": "music with multiple, independent melody lines",
+     "same": false,
+     "typ": false
+    },
+    {
+     "qid": "Q121243331",
+     "label": "复调",
+     "desc": "scholarly article in Foreign Literature, no. ",
+     "same": true,
+     "typ": false
+    },
+    {
+     "qid": "Q3395745",
+     "label": "Polyphonie X",
+     "desc": "composition by Pierre Boulez",
+     "same": true,
+     "typ": false
+    }
+   ]
+  },
+  {
+   "id": "classical-period-music",
+   "kind": "时期",
+   "title": "古典主义音乐",
+   "candidates": [
+    {
+     "qid": "Q17723",
+     "label": "Classical period",
+     "desc": "genre of Western music (c. 1730–1820)",
+     "same": true,
+     "typ": false
+    }
+   ]
+  },
+  {
+   "id": "symphony",
+   "kind": "术语",
+   "title": "交响曲",
+   "candidates": [
+    {
+     "qid": "Q9734",
+     "label": "symphony",
+     "desc": "extended musical composition",
+     "same": false,
+     "typ": false
+    },
+    {
+     "qid": "Q2651510",
+     "label": "Symphony",
+     "desc": "2008 album from Sarah Brightman",
+     "same": true,
+     "typ": false
+    },
+    {
+     "qid": "Q163600",
+     "label": "Symphony No. 1",
+     "desc": "symphony composed by Alexander Scriabin",
+     "same": true,
+     "typ": false
+    }
+   ]
+  },
+  {
+   "id": "sonata-form",
+   "kind": "术语",
+   "title": "奏鸣曲式",
+   "candidates": [
+    {
+     "qid": "Q212044",
+     "label": "sonata form",
+     "desc": "musical form",
+     "same": true,
+     "typ": false
+    },
+    {
+     "qid": "Q118290569",
+     "label": "The influence of tonal structure on tension experience in sonata pieces by Mozart and Beethoven",
+     "desc": "",
+     "same": true,
+     "typ": false
+    },
+    {
+     "qid": "Q119089542",
+     "label": "Dominant Extension in Sonata’s Transition with the First Movement of Beethoven’s Third Symphony as an Example",
+     "desc": "",
+     "same": true,
+     "typ": false
+    }
+   ]
+  },
+  {
+   "id": "lied",
+   "kind": "风格",
+   "title": "艺术歌曲",
+   "candidates": [
+    {
+     "qid": "Q216860",
+     "label": "Lied",
+     "desc": "classical art song in the German tradition",
+     "same": false,
+     "typ": true
+    },
+    {
+     "qid": "Q4797274",
+     "label": "art song",
+     "desc": "vocal music composition, usually written for ",
+     "same": false,
+     "typ": true
+    },
+    {
+     "qid": "Q119087245",
+     "label": "艺术歌曲在中国的历史发展脉络",
+     "desc": "",
+     "same": true,
+     "typ": false
+    }
+   ]
+  },
+  {
+   "id": "symphonic-poem",
+   "kind": "风格",
+   "title": "交响诗",
+   "candidates": [
+    {
+     "qid": "Q271802",
+     "label": "symphonic poem",
+     "desc": "piece of orchestral music in a single continu",
+     "same": true,
+     "typ": false
+    },
+    {
+     "qid": "Q119087056",
+     "label": "交响诗谈丛",
+     "desc": "",
+     "same": true,
+     "typ": false
+    },
+    {
+     "qid": "Q2699327",
+     "label": "Eureka Seven: AO",
+     "desc": "Japanese anime television series",
+     "same": false,
+     "typ": false
+    }
+   ]
+  },
+  {
+   "id": "jingju",
+   "kind": "风格",
+   "title": "京剧",
+   "candidates": [
+    {
+     "qid": "Q335101",
+     "label": "Peking opera",
+     "desc": "form of Chinese opera originating in Beijing ",
+     "same": true,
+     "typ": false
+    },
+    {
+     "qid": "Q111975768",
+     "label": "Peking opera actor",
+     "desc": "",
+     "same": true,
+     "typ": false
+    },
+    {
+     "qid": "Q10924651",
+     "label": "Four Great Dans",
+     "desc": "",
+     "same": false,
+     "typ": false
+    }
+   ]
+  },
+  {
+   "id": "pipa",
+   "kind": "术语",
+   "title": "琵琶",
+   "candidates": [
+    {
+     "qid": "Q6685124",
+     "label": "pipa",
+     "desc": "Chinese plucked lute",
+     "same": true,
+     "typ": false
+    },
+    {
+     "qid": "Q829729",
+     "label": "biwa",
+     "desc": "Japanese plucked lute",
+     "same": true,
+     "typ": false
+    },
+    {
+     "qid": "Q96761804",
+     "label": "Pipa (琵琶 )",
+     "desc": "pipa (Chinese) by Jiu-cheng (MET, 89.4.52)",
+     "same": true,
+     "typ": false
+    }
+   ]
+  },
+  {
+   "id": "what-is-art-history",
+   "kind": "术语",
+   "title": "什么是艺术史",
+   "candidates": [
+    {
+     "qid": "Q66487581",
+     "label": "What Is Art History? Why Is Art History?",
+     "desc": "article published in 2008",
+     "same": true,
+     "typ": false
+    }
+   ]
+  },
+  {
+   "id": "music-notation",
+   "kind": "术语",
+   "title": "记谱法",
+   "candidates": [
+    {
+     "qid": "Q233861",
+     "label": "musical notation",
+     "desc": "graphic writing of musical parameters",
+     "same": false,
+     "typ": false
+    }
+   ]
+  },
+  {
+   "id": "musical-mode",
+   "kind": "术语",
+   "title": "调式",
+   "candidates": [
+    {
+     "qid": "Q731978",
+     "label": "mode",
+     "desc": "each of the sequences ordered by the notes wi",
+     "same": true,
+     "typ": false
+    },
+    {
+     "qid": "Q121385856",
+     "label": "调式思维在二十世纪复调中的发展",
+     "desc": "scientific article published in 1993",
+     "same": true,
+     "typ": false
+    },
+    {
+     "qid": "Q119089773",
+     "label": "Modal Semi-tone System:Chinese Shape and Interpretation",
+     "desc": "",
+     "same": true,
+     "typ": false
+    }
+   ]
+  },
+  {
+   "id": "angkor",
+   "kind": "风格",
+   "title": "吴哥窟",
+   "candidates": [
+    {
+     "qid": "Q43473",
+     "label": "Angkor Wat",
+     "desc": "Hindu-Buddhist temple complex in Cambodia",
+     "same": true,
+     "typ": false
+    },
+    {
+     "qid": "Q121194571",
+     "label": "吴哥窟:失落的文明",
+     "desc": "",
+     "same": true,
+     "typ": false
+    }
+   ]
+  },
+  {
+   "id": "ukiyo-e",
+   "kind": "风格",
+   "title": "浮世绘",
+   "candidates": [
+    {
+     "qid": "Q185905",
+     "label": "ukiyo-e",
+     "desc": "Japanese art genre, fl. 17th–19th c., consist",
+     "same": false,
+     "typ": true
+    },
+    {
+     "qid": "Q5365193",
+     "label": "Decal",
+     "desc": "Yui Aragaki song",
+     "same": false,
+     "typ": false
+    },
+    {
+     "qid": "Q119933202",
+     "label": "浮世绘",
+     "desc": "",
+     "same": true,
+     "typ": false
+    }
+   ]
+  },
+  {
+   "id": "zen-painting",
+   "kind": "风格",
+   "title": "禅画",
+   "candidates": [
+    {
+     "qid": "Q8069073",
+     "label": "Zenga",
+     "desc": "Zen Buddhist art",
+     "same": false,
+     "typ": false
+    }
+   ]
+  }
+ ],
+ "none": [
+  {
+   "id": "paleolithic-sculpture",
+   "kind": "风格",
+   "title": "旧石器雕塑"
+  },
+  {
+   "id": "romanesque",
+   "kind": "风格",
+   "title": "罗马式艺术"
+  },
+  {
+   "id": "gothic",
+   "kind": "风格",
+   "title": "哥特式艺术"
+  },
+  {
+   "id": "renaissance",
+   "kind": "时期",
+   "title": "文艺复兴"
+  },
+  {
+   "id": "early-renaissance",
+   "kind": "风格",
+   "title": "早期文艺复兴"
+  },
+  {
+   "id": "high-renaissance",
+   "kind": "风格",
+   "title": "盛期文艺复兴"
+  },
+  {
+   "id": "romanticism-art",
+   "kind": "风格",
+   "title": "浪漫主义（艺术）"
+  },
+  {
+   "id": "realism-art",
+   "kind": "风格",
+   "title": "现实主义（艺术）"
+  },
+  {
+   "id": "impressionism",
+   "kind": "风格",
+   "title": "印象派"
+  },
+  {
+   "id": "post-impressionism",
+   "kind": "风格",
+   "title": "后印象派"
+  },
+  {
+   "id": "fauvism",
+   "kind": "风格",
+   "title": "野兽派"
+  },
+  {
+   "id": "minimalism",
+   "kind": "风格",
+   "title": "极简主义"
+  },
+  {
+   "id": "conceptual-art",
+   "kind": "风格",
+   "title": "观念艺术"
+  },
+  {
+   "id": "china-painting-history",
+   "kind": "时期",
+   "title": "中国绘画史"
+  },
+  {
+   "id": "tang-painting",
+   "kind": "风格",
+   "title": "唐代绘画"
+  },
+  {
+   "id": "six-dynasties-art",
+   "kind": "风格",
+   "title": "魏晋南北朝艺术"
+  },
+  {
+   "id": "china-calligraphy-history",
+   "kind": "时期",
+   "title": "中国书法史"
+  },
+  {
+   "id": "seal-script",
+   "kind": "术语",
+   "title": "篆书"
+  },
+  {
+   "id": "clerical-script",
+   "kind": "术语",
+   "title": "隶书"
+  },
+  {
+   "id": "medieval-music",
+   "kind": "时期",
+   "title": "中世纪音乐"
+  },
+  {
+   "id": "baroque-music",
+   "kind": "时期",
+   "title": "巴洛克音乐"
+  },
+  {
+   "id": "opera",
+   "kind": "风格",
+   "title": "歌剧"
+  },
+  {
+   "id": "tonality",
+   "kind": "术语",
+   "title": "大小调体系"
+  },
+  {
+   "id": "fugue",
+   "kind": "术语",
+   "title": "赋格"
+  },
+  {
+   "id": "20th-century-classical",
+   "kind": "时期",
+   "title": "20世纪古典音乐"
+  },
+  {
+   "id": "serialism",
+   "kind": "术语",
+   "title": "序列主义"
+  },
+  {
+   "id": "minimalism-music",
+   "kind": "风格",
+   "title": "简约主义音乐"
+  },
+  {
+   "id": "china-music-history",
+   "kind": "时期",
+   "title": "中国音乐史"
+  },
+  {
+   "id": "yayue",
+   "kind": "风格",
+   "title": "雅乐"
+  },
+  {
+   "id": "what-is-music-history",
+   "kind": "术语",
+   "title": "什么是音乐史"
+  },
+  {
+   "id": "reading-path",
+   "kind": "术语",
+   "title": "零基础阅读路径"
+  },
+  {
+   "id": "art-criticism-note",
+   "kind": "术语",
+   "title": "艺术史与艺术批评的区分"
+  },
+  {
+   "id": "musicology-note",
+   "kind": "术语",
+   "title": "音乐史与音乐学的区分"
+  },
+  {
+   "id": "baroque-crossmedia",
+   "kind": "风格",
+   "title": "巴洛克：艺术与音乐的共通美学"
+  },
+  {
+   "id": "romantic-crossmedia",
+   "kind": "风格",
+   "title": "浪漫主义：绘画与音乐两种媒介"
+  },
+  {
+   "id": "renaissance-crossmedia",
+   "kind": "风格",
+   "title": "文艺复兴：美术与音乐的同期性"
+  },
+  {
+   "id": "impression-crossmedia",
+   "kind": "风格",
+   "title": "印象主义：光与色的跨媒介追求"
+  },
+  {
+   "id": "modern-to-contemporary",
+   "kind": "时期",
+   "title": "从现代到当代的分期衔接"
+  },
+  {
+   "id": "wuwangdu-chu-music-archaeology",
+   "kind": "时期",
+   "title": "武王墩楚墓礼乐考古新进展"
+  },
+  {
+   "id": "indian-art",
+   "kind": "时期",
+   "title": "印度艺术"
+  },
+  {
+   "id": "buddhist-art-india",
+   "kind": "风格",
+   "title": "印度佛教艺术"
+  },
+  {
+   "id": "ajanta-caves",
+   "kind": "风格",
+   "title": "阿旃陀石窟"
+  },
+  {
+   "id": "khmer-art",
+   "kind": "风格",
+   "title": "高棉艺术"
+  }
+ ]
+}

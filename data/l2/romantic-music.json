@@ -22,5 +22,10 @@
   "lied",
   "schubert",
   "impressionism-music"
+ ],
+ "sources": [
+  "enc-romantic-music",
+  "enc-classical-period-music",
+  "wd-anchor-romantic-music"
  ]
 }

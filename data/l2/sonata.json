@@ -16,5 +16,10 @@
   "classical-period-music",
   "sonata-form",
   "piano"
+ ],
+ "sources": [
+  "enc-sonata",
+  "enc-baroque-music",
+  "wd-anchor-sonata"
  ]
 }

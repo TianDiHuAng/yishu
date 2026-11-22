@@ -142,7 +142,7 @@ def tier_badge(e):
 def head(title, crumb=True):
     nav='<nav class="nav" aria-label="主导航">'+"".join('<a href="%s">%s</a>'%(u,t) for u,t in [
         (REL+"index.html","首页"),(REL+"units.html","单元总览"),(REL+"timeline.html","时间线"),
-        (REL+"people.html","人物"),(REL+"glossary.html","术语"),
+        (REL+"people.html","人物"),(REL+"glossary.html","术语"),(REL+"entities.html","实体对照"),
         (REL+"all-index.html","全站索引"),(REL+"sources.html","来源库")])+'</nav>'
     return ("<!doctype html><html lang='zh-CN'><head><meta charset='utf-8'>"
         "<meta name='viewport' content='width=device-width,initial-scale=1'>"
@@ -453,6 +453,26 @@ def build_glossary(entries):
     s.append("</tbody></table></div>"+FOOT)
     open(os.path.join(OUT,"glossary.html"),"w",encoding="utf-8").write("".join(s))
 
+def build_entity_map(entries):
+    rows=[]
+    for e in entries:
+        for sid in e.get("sources",[]):
+            s=SM.get(sid)
+            if s and s.get("type","").startswith("权威结构化数据（身份锚点）"):
+                rows.append((e,s))
+    rows.sort(key=lambda t:t[0]["title"])
+    s=[head("实体对照")]
+    s.append("<div class='wrap'><h1>实体对照（Wikidata 身份锚点）</h1>")
+    s.append("<p class='eyebrow'>%d 条 · 仅用于身份锚定，不作为事实依据</p>"%len(rows))
+    s.append("<p>说明：本页列出条目与其对应的 Wikidata 实体，便于读者跳转到结构化数据核对；"
+             "条目的年代、风格与评价仍以各自条目页标注的来源为准。</p>")
+    s.append("<table><thead><tr><th>条目</th><th>Wikidata 实体</th><th>实体描述</th></tr></thead><tbody>")
+    for e,src in rows:
+        s.append("<tr><td><a href='entries/%s.html'>%s</a></td><td><a href='%s'>%s</a></td><td>%s</td></tr>"%(
+            esc(e["id"]),esc(e["title"]),esc(src["url"]),esc(src["title"].split("：")[-1]),esc(src.get("verified_note","")[60:120])))
+    s.append("</tbody></table></div>"+FOOT)
+    open(os.path.join(OUT,"entities.html"),"w",encoding="utf-8").write("".join(s))
+
 def build_sources():
     s=[head("来源库")]
     s.append("<div class='wrap'><h1>来源库</h1><p class='eyebrow'>%d 条 · 已核验 %d 条</p>"%(
@@ -497,7 +517,7 @@ def main():
     build_css()
     # 根页面
     REL=""
-    build_index(entries,UNITS,None); build_units_index(entries,UNITS); build_all_index(entries,UNITS); build_timeline(entries); build_sources(); build_people_index(entries); build_glossary(entries)
+    build_index(entries,UNITS,None); build_units_index(entries,UNITS); build_all_index(entries,UNITS); build_timeline(entries); build_sources(); build_people_index(entries); build_glossary(entries); build_entity_map(entries)
     # 条目页（在 entries/ 子目录，相对路径需 ../
     REL="../"
     # 但条目页的 head/breadcrumb 用 REL 前缀；entry_card 内链在根页面已生成，无影响

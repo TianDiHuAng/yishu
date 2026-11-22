@@ -15,5 +15,10 @@
   "rococo",
   "romanticism-art",
   "delacroix"
+ ],
+ "sources": [
+  "enc-neoclassicism",
+  "enc-romanticism",
+  "wd-anchor-neoclassicism"
  ]
 }

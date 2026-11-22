@@ -18,5 +18,10 @@
   "palestrina",
   "renaissance-crossmedia",
   "polyphony"
+ ],
+ "sources": [
+  "enc-renaissance-music",
+  "enc-polyphony",
+  "wd-anchor-renaissance-music"
  ]
 }

@@ -14,7 +14,9 @@
  "overlap": "skipped: 内容来源（Wikipedia/Met/Tate）不可达，无法抓取正文比对；Wikidata 为结构化数据（无正文），不适用 n-gram 重合度。最近有效结果：Cycle5 抽样5条，重合 0%",
  "bad_anchors": [],
  "sitemap_missing_files": [],
- "sitemap_unlisted_pages": [],
+ "sitemap_unlisted_pages": [
+  "entities.html"
+ ],
  "contrast": {
   "light": {
    "ink": [

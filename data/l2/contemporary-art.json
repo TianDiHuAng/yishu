@@ -16,5 +16,10 @@
   "conceptual-art",
   "warhol",
   "modern-to-contemporary"
+ ],
+ "sources": [
+  "enc-contemporary-art",
+  "web-artstory-movements",
+  "wd-anchor-contemporary-art"
  ]
 }

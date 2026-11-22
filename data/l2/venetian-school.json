@@ -15,5 +15,10 @@
   "high-renaissance",
   "mannerism",
   "botticelli"
+ ],
+ "sources": [
+  "enc-venetian-school",
+  "enc-italian-renaissance-painting",
+  "wd-anchor-venetian-school"
  ]
 }

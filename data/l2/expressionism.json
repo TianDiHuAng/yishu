@@ -16,5 +16,10 @@
   "abstract-expressionism",
   "van-gogh",
   "kandinsky"
+ ],
+ "sources": [
+  "enc-expressionism",
+  "enc-fauvism",
+  "wd-anchor-expressionism"
  ]
 }

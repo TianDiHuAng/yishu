@@ -19,5 +19,10 @@
   "velazquez",
   "baroque-crossmedia",
   "rembrandt"
+ ],
+ "sources": [
+  "enc-baroque",
+  "enc-mannerism",
+  "wd-anchor-baroque"
  ]
 }

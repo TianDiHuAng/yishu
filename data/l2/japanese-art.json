@@ -10,5 +10,10 @@
   "一图": "示意图表达日本艺术与浮世绘、禅画之间的关联脉络。",
   "待核实": "输入的 when 字段给出约公元6世纪—19世纪，精确起讫年代待核实。sources 仅列 Japanese art 与 Ukiyo-e 等权威百科条目，输入未给出逐项分期依据。具体人物与作品名称待补充第二来源。"
  },
- "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='日本艺术 示意图'><title>日本艺术</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>日本艺术</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>艺术传统</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>浮世绘</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>风俗画版画</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>禅画</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>水墨绘画</text><text class='svg-caption' x='380' y='262' text-anchor='middle'>日本艺术 浮世绘 禅画</text></g></svg>"
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='日本艺术 示意图'><title>日本艺术</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>日本艺术</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>艺术传统</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>浮世绘</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>风俗画版画</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>禅画</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>水墨绘画</text><text class='svg-caption' x='380' y='262' text-anchor='middle'>日本艺术 浮世绘 禅画</text></g></svg>",
+ "sources": [
+  "enc-japanese-art",
+  "enc-ukiyo-e",
+  "wd-anchor-japanese-art"
+ ]
 }

@@ -16,5 +16,10 @@
   "romantic-music",
   "debussy",
   "impression-crossmedia"
+ ],
+ "sources": [
+  "enc-20th-century-classical",
+  "enc-tonality",
+  "wd-anchor-impressionism-music"
  ]
 }

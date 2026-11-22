@@ -175,12 +175,12 @@
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "northern-renaissance": {
       "title": "北方文艺复兴",
@@ -283,24 +283,24 @@
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "rococo": {
       "title": "洛可可",
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "caravaggio": {
       "title": "卡拉瓦乔",
@@ -367,12 +367,12 @@
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "romanticism-art": {
       "title": "浪漫主义（艺术）",
@@ -499,36 +499,36 @@
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "cubism": {
       "title": "立体主义",
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "futurism": {
       "title": "未来主义",
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "dada": {
       "title": "达达主义",
@@ -547,24 +547,24 @@
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "bauhaus": {
       "title": "包豪斯",
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "abstract-expressionism": {
       "title": "抽象表现主义",
@@ -631,8 +631,8 @@
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
@@ -643,8 +643,8 @@
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
@@ -787,12 +787,12 @@
       "tier": "补充",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "yangshao-painted-pottery": {
       "title": "仰韶彩陶",
@@ -979,24 +979,24 @@
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "madrigal": {
       "title": "牧歌",
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "palestrina": {
       "title": "帕莱斯特里纳",
@@ -1063,12 +1063,12 @@
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "bach": {
       "title": "巴赫",
@@ -1171,12 +1171,12 @@
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "lied": {
       "title": "艺术歌曲",
@@ -1255,12 +1255,12 @@
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "serialism": {
       "title": "序列主义",
@@ -1351,12 +1351,12 @@
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "jingju": {
       "title": "京剧",
@@ -1543,24 +1543,24 @@
       "tier": "补充",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "piano": {
       "title": "钢琴",
       "tier": "补充",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "indian-art": {
       "title": "印度艺术",
@@ -1627,12 +1627,12 @@
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "ukiyo-e": {
       "title": "浮世绘",

@@ -15,5 +15,10 @@
   "baroque",
   "neoclassicism",
   "rubens"
+ ],
+ "sources": [
+  "enc-rococo",
+  "enc-baroque",
+  "wd-anchor-rococo"
  ]
 }

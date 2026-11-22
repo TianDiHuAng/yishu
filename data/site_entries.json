@@ -586,7 +586,8 @@
       ],
       "sources": [
         "enc-venetian-school",
-        "enc-italian-renaissance-painting"
+        "enc-italian-renaissance-painting",
+        "wd-anchor-venetian-school"
       ],
       "level": "L2",
       "sections": {
@@ -894,7 +895,8 @@
       ],
       "sources": [
         "enc-baroque",
-        "enc-mannerism"
+        "enc-mannerism",
+        "wd-anchor-baroque"
       ],
       "level": "L2",
       "sections": {
@@ -927,7 +929,8 @@
       ],
       "sources": [
         "enc-rococo",
-        "enc-baroque"
+        "enc-baroque",
+        "wd-anchor-rococo"
       ],
       "level": "L2",
       "sections": {
@@ -1175,7 +1178,8 @@
       ],
       "sources": [
         "enc-neoclassicism",
-        "enc-romanticism"
+        "enc-romanticism",
+        "wd-anchor-neoclassicism"
       ],
       "level": "L2",
       "sections": {
@@ -1660,7 +1664,8 @@
       ],
       "sources": [
         "enc-expressionism",
-        "enc-fauvism"
+        "enc-fauvism",
+        "wd-anchor-expressionism"
       ],
       "level": "L2",
       "sections": {
@@ -1694,7 +1699,8 @@
       ],
       "sources": [
         "enc-cubism",
-        "enc-cezanne"
+        "enc-cezanne",
+        "wd-anchor-cubism"
       ],
       "level": "L2",
       "sections": {
@@ -1726,7 +1732,8 @@
       ],
       "sources": [
         "enc-futurism",
-        "enc-cubism"
+        "enc-cubism",
+        "wd-anchor-futurism"
       ],
       "level": "L2",
       "sections": {
@@ -1791,7 +1798,8 @@
       ],
       "sources": [
         "enc-surrealism",
-        "enc-dada"
+        "enc-dada",
+        "wd-anchor-surrealism"
       ],
       "level": "L2",
       "sections": {
@@ -1823,7 +1831,8 @@
       ],
       "sources": [
         "enc-bauhaus",
-        "enc-minimalism"
+        "enc-minimalism",
+        "wd-anchor-bauhaus"
       ],
       "level": "L2",
       "sections": {
@@ -2029,7 +2038,8 @@
       ],
       "sources": [
         "web-artstory-movements",
-        "enc-cubism"
+        "enc-cubism",
+        "wd-anchor-modern-art"
       ],
       "level": "L2",
       "sections": {
@@ -2063,7 +2073,8 @@
       ],
       "sources": [
         "enc-contemporary-art",
-        "web-artstory-movements"
+        "web-artstory-movements",
+        "wd-anchor-contemporary-art"
       ],
       "level": "L2",
       "sections": {
@@ -2458,7 +2469,8 @@
       ],
       "sources": [
         "enc-chinese-painting",
-        "enc-ink-wash"
+        "enc-ink-wash",
+        "wd-anchor-gongbi"
       ],
       "level": "L2",
       "sections": {
@@ -2994,7 +3006,8 @@
       ],
       "sources": [
         "enc-renaissance-music",
-        "enc-polyphony"
+        "enc-polyphony",
+        "wd-anchor-renaissance-music"
       ],
       "level": "L2",
       "sections": {
@@ -3026,7 +3039,8 @@
       ],
       "sources": [
         "enc-renaissance-music",
-        "enc-medieval-music"
+        "enc-medieval-music",
+        "wd-anchor-madrigal"
       ],
       "level": "L2",
       "sections": {
@@ -3297,7 +3311,8 @@
       ],
       "sources": [
         "enc-sonata",
-        "enc-baroque-music"
+        "enc-baroque-music",
+        "wd-anchor-sonata"
       ],
       "level": "L2",
       "sections": {
@@ -3608,7 +3623,8 @@
       ],
       "sources": [
         "enc-romantic-music",
-        "enc-classical-period-music"
+        "enc-classical-period-music",
+        "wd-anchor-romantic-music"
       ],
       "level": "L2",
       "sections": {
@@ -3845,7 +3861,8 @@
       ],
       "sources": [
         "enc-20th-century-classical",
-        "enc-tonality"
+        "enc-tonality",
+        "wd-anchor-impressionism-music"
       ],
       "level": "L2",
       "sections": {
@@ -4111,7 +4128,8 @@
       ],
       "sources": [
         "enc-guzheng",
-        "enc-chinese-music"
+        "enc-chinese-music",
+        "wd-anchor-guzheng"
       ],
       "level": "L2",
       "sections": {
@@ -4621,7 +4639,8 @@
       ],
       "sources": [
         "enc-violin",
-        "enc-baroque-music"
+        "enc-baroque-music",
+        "wd-anchor-violin"
       ],
       "level": "L2",
       "sections": {
@@ -4653,7 +4672,8 @@
       ],
       "sources": [
         "enc-piano",
-        "enc-classical-period-music"
+        "enc-classical-period-music",
+        "wd-anchor-piano"
       ],
       "level": "L2",
       "sections": {
@@ -4847,7 +4867,8 @@
       ],
       "sources": [
         "enc-japanese-art",
-        "enc-ukiyo-e"
+        "enc-ukiyo-e",
+        "wd-anchor-japanese-art"
       ],
       "level": "L2",
       "sections": {

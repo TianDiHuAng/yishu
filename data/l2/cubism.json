@@ -16,5 +16,10 @@
   "futurism",
   "picasso",
   "guernica-work"
+ ],
+ "sources": [
+  "enc-cubism",
+  "enc-cezanne",
+  "wd-anchor-cubism"
  ]
 }
