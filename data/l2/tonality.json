@@ -15,5 +15,10 @@
   "baroque-music",
   "classical-period-music",
   "musical-mode"
+ ],
+ "sources": [
+  "enc-tonality",
+  "enc-baroque-music",
+  "wd-anchor-tonality"
  ]
 }

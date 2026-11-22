@@ -16,5 +16,10 @@
   "monteverdi",
   "mozart",
   "wagner"
+ ],
+ "sources": [
+  "enc-opera",
+  "enc-baroque-music",
+  "wd-anchor-opera"
  ]
 }

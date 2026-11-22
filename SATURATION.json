@@ -393,6 +393,18 @@
       },
       "network": "partial",
       "verdict": "八步体检全通过；渲染一致性0/结构错误0；守卫经注入验证有效；未饱和"
+    },
+    {
+      "cycle": "cycle31",
+      "date": "2026-11-22",
+      "methods_used": [
+        "人工指定QID"
+      ],
+      "gaps_found": {
+        "anchors": 14
+      },
+      "network": "partial",
+      "verdict": "锚定 59→73（79%）；确立口径一致否决标准；剩余31条记录在案；未饱和"
     }
   ]
 }

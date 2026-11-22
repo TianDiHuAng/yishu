@@ -10,5 +10,10 @@
   "一图": "示意图表达禅画与中国文人画传统、日本禅宗寺院之间的关联。",
   "待核实": "输入的 when 字段给出约公元13—18世纪，精确起讫年代待核实。sources 仅列 Zen painting 与 Japanese art 等权威百科条目，输入未给出具体人物或作品。禅画与日本艺术、中国书法史之间的详细传播路径待补充第二来源。"
  },
- "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='禅画 示意图'><title>禅画</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>禅画</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>水墨绘画</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>中国文人画</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>文人画传统</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>日本禅宗寺院</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>独立画风</text><text class='svg-caption' x='380' y='262' text-anchor='middle'>禅画 中国文人画 日本禅宗寺院</text></g></svg>"
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='禅画 示意图'><title>禅画</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>禅画</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>水墨绘画</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>中国文人画</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>文人画传统</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>日本禅宗寺院</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>独立画风</text><text class='svg-caption' x='380' y='262' text-anchor='middle'>禅画 中国文人画 日本禅宗寺院</text></g></svg>",
+ "sources": [
+  "enc-zen-art",
+  "enc-japanese-art",
+  "wd-anchor-zen-painting"
+ ]
 }

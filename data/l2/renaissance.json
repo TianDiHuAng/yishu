@@ -18,5 +18,10 @@
   "northern-renaissance",
   "donatello",
   "renaissance-crossmedia"
+ ],
+ "sources": [
+  "enc-renaissance",
+  "enc-italian-renaissance-painting",
+  "wd-anchor-renaissance"
  ]
 }

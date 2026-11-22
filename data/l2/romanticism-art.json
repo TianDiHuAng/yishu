@@ -17,5 +17,10 @@
   "delacroix",
   "symphonic-poem",
   "romantic-crossmedia"
+ ],
+ "sources": [
+  "enc-romanticism",
+  "enc-neoclassicism",
+  "wd-anchor-romanticism-art"
  ]
 }

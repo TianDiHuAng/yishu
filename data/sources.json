@@ -2659,6 +2659,146 @@
       "type": "权威结构化数据（身份锚点）",
       "verified": true,
       "verified_note": "Cycle27 英文/中文精确匹配 + 人工确认语义相符；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-prehistoric-art",
+      "title": "Wikidata 实体（身份锚点）：prehistoric art（Q1842924）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q1842924",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle31 人工指定检索词 + 逐条核对口径后采纳；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-cave-art",
+      "title": "Wikidata 实体（身份锚点）：cave painting（Q214334）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q214334",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle31 人工指定检索词 + 逐条核对口径后采纳；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-egyptian-art",
+      "title": "Wikidata 实体（身份锚点）：art of ancient Egypt（Q318394）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q318394",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle31 人工指定检索词 + 逐条核对口径后采纳；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-greek-art",
+      "title": "Wikidata 实体（身份锚点）：ancient Greek art（Q1747618）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q1747618",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle31 人工指定检索词 + 逐条核对口径后采纳；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-roman-art",
+      "title": "Wikidata 实体（身份锚点）：Roman art（Q3354732）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q3354732",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle31 人工指定检索词 + 逐条核对口径后采纳；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-romanesque",
+      "title": "Wikidata 实体（身份锚点）：Romanesque art（Q46805）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q46805",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle31 人工指定检索词 + 逐条核对口径后采纳；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-renaissance",
+      "title": "Wikidata 实体（身份锚点）：Renaissance art（Q1133779）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q1133779",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle31 人工指定检索词 + 逐条核对口径后采纳；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-romanticism-art",
+      "title": "Wikidata 实体（身份锚点）：Romantic art（Q27273707）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q27273707",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle31 人工指定检索词 + 逐条核对口径后采纳；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-gregorian-chant",
+      "title": "Wikidata 实体（身份锚点）：Gregorian chant（Q26473）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q26473",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle31 人工指定检索词 + 逐条核对口径后采纳；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-opera",
+      "title": "Wikidata 实体（身份锚点）：opera（Q1344）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q1344",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle31 人工指定检索词 + 逐条核对口径后采纳；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-tonality",
+      "title": "Wikidata 实体（身份锚点）：tonal system（Q192822）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q192822",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle31 人工指定检索词 + 逐条核对口径后采纳；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-20th-century-classical",
+      "title": "Wikidata 实体（身份锚点）：20th-century classical music（Q1338153）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q1338153",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle31 人工指定检索词 + 逐条核对口径后采纳；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-minimalism-music",
+      "title": "Wikidata 实体（身份锚点）：minimalist music（Q572901）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q572901",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle31 人工指定检索词 + 逐条核对口径后采纳；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "wd-anchor-zen-painting",
+      "title": "Wikidata 实体（身份锚点）：Zenga（Q8069073）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q8069073",
+      "type": "权威结构化数据（身份锚点）",
+      "verified": true,
+      "verified_note": "Cycle31 人工指定检索词 + 逐条核对口径后采纳；仅作身份锚点，不作事实依据"
     }
   ]
 }

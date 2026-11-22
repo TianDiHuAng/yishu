@@ -241,3 +241,17 @@
 - **理由**：Cycle29 大改了 145 页的渲染逻辑，仅靠 `check_links`（只查链接存在）无法发现"列表切分错位"或"标签未闭合"。守卫若从不失败，就等于没有守卫——所以必须注入故障验证一次。
 - **可逆方式**：从 STEPS 移除该步即可。
 - **代价**：体检多约 1–2 秒；解析 145 页。
+
+## D034 — Cycle31 人工指定 QID：锚定率 69% → 79%，并确立「口径一致」否决标准
+- **决定**：为 D030 列出的 19 条「其余」未锚定条目**人工指定英文检索词**（如 'Romanesque art'、'Renaissance art'、'tonal system'），逐个检索并核对口径后：**采纳 14 条、拒绝 5 条**。锚定率 100/145 → **114/145 = 79%**。
+- **采纳要点**（口径匹配的例子）：
+  - `romanesque` → **Q46805『Romanesque art』**（艺术风格，非建筑）——正好补上 Cycle23 拒绝 Q46261『Romanesque architecture』时的缺口。
+  - `tonality` → **Q192822『tonal system』**（对应条目的「大小调体系」）。
+  - `gregorian-chant` → Q26473；`opera` → Q1344；`20th-century-classical` → Q1338153；`minimalism-music` → Q572901『minimalist music』；`zen-painting` → Q8069073『Zenga』。
+- **否决标准（新明确）**：实体与条目**口径必须一致**，宽或窄都拒：
+  - `buddhist-art-india` ← Q1001041『Buddhist art』（泛佛教艺术，比"印度佛教艺术"宽）→ 拒
+  - `paleolithic-sculpture` ← Q755548『art of the Paleolithic』（比"旧石器雕塑"宽）→ 拒
+  - `realism-art`、`symphony` → 检索到的都是论文/专辑，无对应实体 → 拒
+  - `khmer-art` → Q109016942 描述为空 → 拒（沿用"空描述不采信"规则）
+- **可逆方式**：删除对应 wd-anchor-* 与覆盖层引用。
+- **代价**：仍有 31 条未锚定（自有页 11 + 中国专题 15 + 上述 5 条），已记录。

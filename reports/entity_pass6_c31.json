@@ -1,0 +1,561 @@
+{
+ "prehistoric-art": [
+  {
+   "query": "prehistoric art",
+   "qid": "Q1842924",
+   "label": "prehistoric art",
+   "desc": "art produced in preliterate cultures"
+  },
+  {
+   "query": "prehistoric art",
+   "qid": "Q103962670",
+   "label": "Prehistoric art",
+   "desc": "encyclopedia article"
+  },
+  {
+   "query": "prehistoric art",
+   "qid": "Q105666402",
+   "label": "prehistoric art in Saudi Arabia",
+   "desc": ""
+  },
+  {
+   "query": "prehistoric art",
+   "qid": "Q109030836",
+   "label": "Centre de Recherche et d'Etude pour l'Art Préhistorique",
+   "desc": ""
+  },
+  {
+   "query": "Prehistoric art",
+   "qid": "Q1842924",
+   "label": "prehistoric art",
+   "desc": "art produced in preliterate cultures"
+  },
+  {
+   "query": "Prehistoric art",
+   "qid": "Q103962670",
+   "label": "Prehistoric art",
+   "desc": "encyclopedia article"
+  },
+  {
+   "query": "Prehistoric art",
+   "qid": "Q105666402",
+   "label": "prehistoric art in Saudi Arabia",
+   "desc": ""
+  },
+  {
+   "query": "Prehistoric art",
+   "qid": "Q109030836",
+   "label": "Centre de Recherche et d'Etude pour l'Art Préhistorique",
+   "desc": ""
+  }
+ ],
+ "cave-art": [
+  {
+   "query": "cave painting",
+   "qid": "Q214334",
+   "label": "cave painting",
+   "desc": "paintings found on cave walls and ceilings"
+  },
+  {
+   "query": "cave painting",
+   "qid": "Q133575",
+   "label": "Cave of Altamira",
+   "desc": "cave with prehistoric paintings in Spain"
+  },
+  {
+   "query": "cave painting",
+   "qid": "Q103888110",
+   "label": "Cave Painting",
+   "desc": "painting by Frederick A. Spang"
+  },
+  {
+   "query": "cave painting",
+   "qid": "Q5054913",
+   "label": "Cave Painting",
+   "desc": "musical group"
+  },
+  {
+   "query": "Cave painting",
+   "qid": "Q214334",
+   "label": "cave painting",
+   "desc": "paintings found on cave walls and ceilings"
+  },
+  {
+   "query": "Cave painting",
+   "qid": "Q133575",
+   "label": "Cave of Altamira",
+   "desc": "cave with prehistoric paintings in Spain"
+  },
+  {
+   "query": "Cave painting",
+   "qid": "Q103888110",
+   "label": "Cave Painting",
+   "desc": "painting by Frederick A. Spang"
+  },
+  {
+   "query": "Cave painting",
+   "qid": "Q5054913",
+   "label": "Cave Painting",
+   "desc": "musical group"
+  }
+ ],
+ "paleolithic-sculpture": [
+  {
+   "query": "Paleolithic art",
+   "qid": "Q755548",
+   "label": "art of the Paleolithic",
+   "desc": "oldest form of prehistoric art"
+  },
+  {
+   "query": "Paleolithic art",
+   "qid": "Q38436686",
+   "label": "Conservation. Paleolithic art in peril: policy and science collide at Altamira Cave.",
+   "desc": "scientific article published on October 2011"
+  },
+  {
+   "query": "Paleolithic art",
+   "qid": "Q43802142",
+   "label": "Paleolithic Art and Cognition",
+   "desc": "scientific article published on May 1, 1992"
+  },
+  {
+   "query": "Paleolithic art",
+   "qid": "Q104209730",
+   "label": "Paleolithic Art: A Cultural History",
+   "desc": "scholarly article by Oscar Moro Abadía published in January 2013"
+  },
+  {
+   "query": "prehistoric sculpture",
+   "qid": "Q5839483",
+   "label": "prehistoric sculpture",
+   "desc": ""
+  }
+ ],
+ "egyptian-art": [
+  {
+   "query": "art of ancient Egypt",
+   "qid": "Q318394",
+   "label": "art of ancient Egypt",
+   "desc": "art produced by the ancient Egyptian civilization"
+  },
+  {
+   "query": "Egyptian art",
+   "qid": "Q67429133",
+   "label": "Egyptian Art",
+   "desc": "curatorial department of The Metropolitan Museum of Art in New York, USA"
+  },
+  {
+   "query": "Egyptian art",
+   "qid": "Q318394",
+   "label": "art of ancient Egypt",
+   "desc": "art produced by the ancient Egyptian civilization"
+  },
+  {
+   "query": "Egyptian art",
+   "qid": "Q12183557",
+   "label": "Egyptian Art Academy in Rome",
+   "desc": ""
+  },
+  {
+   "query": "Egyptian art",
+   "qid": "Q10310717",
+   "label": "Egyptian Arts Group",
+   "desc": "production and distribution company"
+  }
+ ],
+ "greek-art": [
+  {
+   "query": "ancient Greek art",
+   "qid": "Q1747618",
+   "label": "ancient Greek art",
+   "desc": "art of Ancient Greece"
+  },
+  {
+   "query": "ancient Greek art",
+   "qid": "Q109042657",
+   "label": "ancient Greek art in Roman antiquity",
+   "desc": ""
+  },
+  {
+   "query": "ancient Greek art",
+   "qid": "Q55648652",
+   "label": "sport in ancient Greek art",
+   "desc": ""
+  },
+  {
+   "query": "Greek art",
+   "qid": "Q1247086",
+   "label": "Greek art",
+   "desc": "visual expression by the Hellenic civilizations and states"
+  },
+  {
+   "query": "Greek art",
+   "qid": "Q28571874",
+   "label": "Art grec de la terre à l'image",
+   "desc": "Temporary exhibition at Saint-Raymond Museum"
+  },
+  {
+   "query": "Greek art",
+   "qid": "Q12877779",
+   "label": "Theatro Technis",
+   "desc": "Greek theater company"
+  },
+  {
+   "query": "Greek art",
+   "qid": "Q55192191",
+   "label": "Greek art, the treasures of the Saint-Raymond Museum, Toulouse Antiques Museum",
+   "desc": "exhibition presented at the Abbey of Flaran in 2000-2001"
+  }
+ ],
+ "roman-art": [
+  {
+   "query": "Roman art",
+   "qid": "Q3354732",
+   "label": "Roman art",
+   "desc": "art made in antiquity in the territories of Rome during the kingdom, republic, o"
+  },
+  {
+   "query": "Roman art",
+   "qid": "Q7361580",
+   "label": "Roman Artymowski",
+   "desc": "Polish artist (1919-1993)"
+  },
+  {
+   "query": "Roman art",
+   "qid": "Q102998688",
+   "label": "Roman Artiukh",
+   "desc": "Ph.D. Kharkiv National University of Radioelectronics 2013"
+  },
+  {
+   "query": "Roman art",
+   "qid": "Q109676720",
+   "label": "Roman art in the private sphere: new perspectives on the architecture and decor of the domus, villa, and insula",
+   "desc": "book published in 1991"
+  },
+  {
+   "query": "ancient Roman art",
+   "qid": "Q3354732",
+   "label": "Roman art",
+   "desc": "art made in antiquity in the territories of Rome during the kingdom, republic, o"
+  },
+  {
+   "query": "ancient Roman art",
+   "qid": "Q5706708",
+   "label": "Ancient Roman art in Spain",
+   "desc": ""
+  },
+  {
+   "query": "ancient Roman art",
+   "qid": "Q16494178",
+   "label": "Ancient Roman art in Portugal",
+   "desc": ""
+  }
+ ],
+ "romanesque": [
+  {
+   "query": "Romanesque art",
+   "qid": "Q46805",
+   "label": "Romanesque art",
+   "desc": "artistic style of Europe from approximately 1000 AD to the 13th century"
+  },
+  {
+   "query": "Romanesque art",
+   "qid": "Q1334868",
+   "label": "Romanesque art in Catalonia",
+   "desc": "art style"
+  },
+  {
+   "query": "Romanesque art",
+   "qid": "Q2864731",
+   "label": "Romanesque art of Provence",
+   "desc": ""
+  },
+  {
+   "query": "Romanesque art",
+   "qid": "Q3940633",
+   "label": "romanesque arte in Pisa",
+   "desc": "romanesque architectural style variant"
+  }
+ ],
+ "renaissance": [
+  {
+   "query": "Renaissance art",
+   "qid": "Q1133779",
+   "label": "Renaissance art",
+   "desc": "painting, sculpture and decorative arts of that period of European history known"
+  },
+  {
+   "query": "Renaissance art",
+   "qid": "Q3935986",
+   "label": "Sicilian Renaissance",
+   "desc": "Renaissance movement in Sicily"
+  },
+  {
+   "query": "Renaissance art",
+   "qid": "Q2625257",
+   "label": "Umbrian Renaissance",
+   "desc": ""
+  },
+  {
+   "query": "Renaissance art",
+   "qid": "Q3935973",
+   "label": "Renaissance in Ferrara",
+   "desc": "Italian pre-modern intellectual movement"
+  },
+  {
+   "query": "Italian Renaissance art",
+   "qid": "Q13053009",
+   "label": "Italian Renaissance art",
+   "desc": "art produced in the Italian Renaissance"
+  }
+ ],
+ "romanticism-art": [
+  {
+   "query": "Romantic art",
+   "qid": "Q27273707",
+   "label": "Romantic art",
+   "desc": "art movement"
+  },
+  {
+   "query": "Romantic art",
+   "qid": "Q37068",
+   "label": "Romanticism",
+   "desc": "artistic, literary, musical, and intellectual movement"
+  }
+ ],
+ "realism-art": [
+  {
+   "query": "realism in art",
+   "qid": "Q114392621",
+   "label": "Realism in Art and the Problem of Alienation",
+   "desc": "scientific article published in 1967"
+  },
+  {
+   "query": "realism in art",
+   "qid": "Q125940986",
+   "label": "Realism in Art and the Artist's Truth",
+   "desc": "scientific article published in 2023"
+  }
+ ],
+ "gregorian-chant": [
+  {
+   "query": "Gregorian chant",
+   "qid": "Q26473",
+   "label": "Gregorian chant",
+   "desc": "form of song"
+  },
+  {
+   "query": "Gregorian chant",
+   "qid": "Q66661024",
+   "label": "Gregorian Chant",
+   "desc": "instrumental recording by Kevin MacLeod"
+  },
+  {
+   "query": "Gregorian chant",
+   "qid": "Q55201080",
+   "label": "Gregorian Chant",
+   "desc": "song by Kevin MacLeod"
+  },
+  {
+   "query": "Gregorian chant",
+   "qid": "Q17190346",
+   "label": "Gregorian chant teaching",
+   "desc": ""
+  }
+ ],
+ "opera": [
+  {
+   "query": "opera",
+   "qid": "Q1344",
+   "label": "opera",
+   "desc": "artform combining sung text and musical score in a theatrical setting"
+  },
+  {
+   "query": "opera",
+   "qid": "Q215639",
+   "label": "Opera",
+   "desc": "developer of the Opera browser"
+  },
+  {
+   "query": "opera",
+   "qid": "Q41242",
+   "label": "Opera",
+   "desc": "web browser developed by Opera Software"
+  },
+  {
+   "query": "opera",
+   "qid": "Q1392037",
+   "label": "Opéra",
+   "desc": "Paris Métro station"
+  },
+  {
+   "query": "opera genre",
+   "qid": "Q20643324",
+   "label": "opera genre",
+   "desc": "subgenre within opera"
+  }
+ ],
+ "tonality": [
+  {
+   "query": "tonality",
+   "qid": "Q192822",
+   "label": "tonal system",
+   "desc": "arrangements of pitches or chords to induce a hierarchy of perceived relations, "
+  },
+  {
+   "query": "tonality",
+   "qid": "Q2441451",
+   "label": "tonality",
+   "desc": "part of the advertising message that is conveyed to the recipient through style "
+  },
+  {
+   "query": "tonality",
+   "qid": "Q1379314",
+   "label": "tonality",
+   "desc": "perceived magnitude of tonal content in relation to noisy background"
+  },
+  {
+   "query": "tonality",
+   "qid": "Q2133472",
+   "label": "spectral flatness",
+   "desc": "measure used in digital signal processing to characterize an audio spectrum"
+  },
+  {
+   "query": "tonal music",
+   "qid": "Q139859776",
+   "label": "Tonal musical instruments for outdoor installation",
+   "desc": "US patent 11410636"
+  },
+  {
+   "query": "tonal music",
+   "qid": "Q77617278",
+   "label": "Tonal Music as a Componential Code: Learning Temporal Relationships Between and Within Pitch and Timing Components",
+   "desc": "scientific article published in January 1994"
+  }
+ ],
+ "symphony": [],
+ "20th-century-classical": [
+  {
+   "query": "20th-century classical music",
+   "qid": "Q1338153",
+   "label": "20th-century classical music",
+   "desc": "art movement"
+  },
+  {
+   "query": "modern classical music",
+   "qid": "Q65937946",
+   "label": "modern classical music",
+   "desc": "genre of music"
+  }
+ ],
+ "minimalism-music": [
+  {
+   "query": "minimal music",
+   "qid": "Q572901",
+   "label": "minimalist music",
+   "desc": "form of art music or other compositional practice that employs limited or minima"
+  },
+  {
+   "query": "minimal music",
+   "qid": "Q12183214",
+   "label": "minimal music",
+   "desc": "broad category of music characterized by minimalism, repetition, and simplicity"
+  },
+  {
+   "query": "minimal music",
+   "qid": "Q141085400",
+   "label": "minimal EDM",
+   "desc": "group of electronic dance music genres"
+  },
+  {
+   "query": "minimal music",
+   "qid": "Q92835954",
+   "label": "Minimal Musical",
+   "desc": "2014 studio album by Margherita Vicario"
+  },
+  {
+   "query": "minimalist music",
+   "qid": "Q572901",
+   "label": "minimalist music",
+   "desc": "form of art music or other compositional practice that employs limited or minima"
+  }
+ ],
+ "buddhist-art-india": [
+  {
+   "query": "Buddhist art",
+   "qid": "Q1001041",
+   "label": "Buddhist art",
+   "desc": "artistic practices that are influenced by Buddhism"
+  },
+  {
+   "query": "Buddhist art",
+   "qid": "Q4796302",
+   "label": "Ars Buddhica",
+   "desc": "bi-monthly academic journal of Buddhist art, particularly that of Japan"
+  },
+  {
+   "query": "Buddhist art",
+   "qid": "Q4984265",
+   "label": "Buddhist art in Japan",
+   "desc": ""
+  },
+  {
+   "query": "Buddhist art",
+   "qid": "Q21653994",
+   "label": "Nara National Museum Buddhist Art Library",
+   "desc": ""
+  }
+ ],
+ "khmer-art": [
+  {
+   "query": "Cambodian art",
+   "qid": "Q4203993",
+   "label": "Cambodian art",
+   "desc": "art from Cambodia"
+  },
+  {
+   "query": "Khmer art",
+   "qid": "Q109016942",
+   "label": "Khmer art",
+   "desc": ""
+  },
+  {
+   "query": "Khmer art",
+   "qid": "Q59128551",
+   "label": "Khmer artefacts return to Cambodia",
+   "desc": "scholarly article by Paul Bahn published December 2000 in Antiquity"
+  }
+ ],
+ "zen-painting": [
+  {
+   "query": "Zenga",
+   "qid": "Q36923912",
+   "label": "Zenga",
+   "desc": "family name"
+  },
+  {
+   "query": "Zenga",
+   "qid": "Q8069073",
+   "label": "Zenga",
+   "desc": "Zen Buddhist art"
+  },
+  {
+   "query": "Zenga",
+   "qid": "Q109402782",
+   "label": "Zinga",
+   "desc": "human settlement in Ghana"
+  },
+  {
+   "query": "Zenga",
+   "qid": "Q114412910",
+   "label": "Zengani Chirwa",
+   "desc": "researcher"
+  },
+  {
+   "query": "Zen painting",
+   "qid": "Q122508220",
+   "label": "Deeds of the Zen Masters",
+   "desc": ""
+  }
+ ]
+}

@@ -19,20 +19,20 @@
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "cave-art": {
       "title": "洞穴壁画",
       "tier": "补充",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
@@ -55,36 +55,36 @@
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "greek-art": {
       "title": "古希腊艺术",
       "tier": "核心",
       "level": "L3",
       "status": "written_l3",
-      "sources_count": 4,
-      "verified_sources_count": 4,
+      "sources_count": 5,
+      "verified_sources_count": 5,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "roman-art": {
       "title": "古罗马艺术",
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 4,
-      "verified_sources_count": 4,
+      "sources_count": 5,
+      "verified_sources_count": 5,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "byzantine-art": {
       "title": "拜占庭艺术",
@@ -115,12 +115,12 @@
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 4,
-      "verified_sources_count": 4,
+      "sources_count": 5,
+      "verified_sources_count": 5,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "gothic": {
       "title": "哥特式艺术",
@@ -139,12 +139,12 @@
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "early-renaissance": {
       "title": "早期文艺复兴",
@@ -379,12 +379,12 @@
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "realism-art": {
       "title": "现实主义（艺术）",
@@ -943,12 +943,12 @@
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 4,
-      "verified_sources_count": 4,
+      "sources_count": 5,
+      "verified_sources_count": 5,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "organum": {
       "title": "奥尔加农",
@@ -1027,24 +1027,24 @@
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "tonality": {
       "title": "大小调体系",
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "fugue": {
       "title": "赋格",
@@ -1243,12 +1243,12 @@
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "impressionism-music": {
       "title": "印象主义音乐",
@@ -1279,12 +1279,12 @@
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "stravinsky": {
       "title": "斯特拉文斯基",
@@ -1651,12 +1651,12 @@
       "tier": "补充",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "starry-night": {
       "title": "《星月夜》",

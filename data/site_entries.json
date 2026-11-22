@@ -18,7 +18,8 @@
       ],
       "sources": [
         "enc-prehistoric-art",
-        "enc-cave-art"
+        "enc-cave-art",
+        "wd-anchor-prehistoric-art"
       ],
       "level": "L2",
       "sections": {
@@ -50,7 +51,8 @@
       ],
       "sources": [
         "enc-prehistoric-art",
-        "web-artstory-movements"
+        "web-artstory-movements",
+        "wd-anchor-cave-art"
       ],
       "level": "L2",
       "sections": {
@@ -113,7 +115,8 @@
       ],
       "sources": [
         "enc-prehistoric-art",
-        "enc-greek-art"
+        "enc-greek-art",
+        "wd-anchor-egyptian-art"
       ],
       "level": "L2",
       "sections": {
@@ -147,7 +150,8 @@
         "enc-greek-art",
         "enc-roman-art",
         "enc-hellenistic-period",
-        "enc-phidias"
+        "enc-phidias",
+        "wd-anchor-greek-art"
       ],
       "level": "L3",
       "sections": {
@@ -245,7 +249,8 @@
         "enc-roman-art",
         "enc-greek-art",
         "enc-pantheon-rome",
-        "enc-fall-western-roman-empire"
+        "enc-fall-western-roman-empire",
+        "wd-anchor-roman-art"
       ],
       "level": "L2",
       "sections": {
@@ -348,7 +353,8 @@
         "enc-romanesque",
         "enc-medieval-art",
         "enc-romanesque-architecture",
-        "enc-gothic-architecture"
+        "enc-gothic-architecture",
+        "wd-anchor-romanesque"
       ],
       "level": "L2",
       "sections": {
@@ -483,7 +489,8 @@
       ],
       "sources": [
         "enc-renaissance",
-        "enc-italian-renaissance-painting"
+        "enc-italian-renaissance-painting",
+        "wd-anchor-renaissance"
       ],
       "level": "L2",
       "sections": {
@@ -1221,7 +1228,8 @@
       ],
       "sources": [
         "enc-romanticism",
-        "enc-neoclassicism"
+        "enc-neoclassicism",
+        "wd-anchor-romanticism-art"
       ],
       "level": "L2",
       "sections": {
@@ -2924,7 +2932,8 @@
         "enc-gregorian-chant",
         "enc-medieval-music",
         "enc-pope-gregory-i",
-        "enc-ambrosian-chant"
+        "enc-ambrosian-chant",
+        "wd-anchor-gregorian-chant"
       ],
       "level": "L2",
       "sections": {
@@ -3237,7 +3246,8 @@
       ],
       "sources": [
         "enc-opera",
-        "enc-baroque-music"
+        "enc-baroque-music",
+        "wd-anchor-opera"
       ],
       "level": "L2",
       "sections": {
@@ -3270,7 +3280,8 @@
       ],
       "sources": [
         "enc-tonality",
-        "enc-baroque-music"
+        "enc-baroque-music",
+        "wd-anchor-tonality"
       ],
       "level": "L2",
       "sections": {
@@ -3857,7 +3868,8 @@
       ],
       "sources": [
         "enc-20th-century-classical",
-        "enc-serialism"
+        "enc-serialism",
+        "wd-anchor-20th-century-classical"
       ],
       "level": "L2",
       "sections": {
@@ -3959,7 +3971,8 @@
       ],
       "sources": [
         "enc-20th-century-classical",
-        "enc-serialism"
+        "enc-serialism",
+        "wd-anchor-minimalism-music"
       ],
       "level": "L2",
       "sections": {
@@ -4970,7 +4983,8 @@
       ],
       "sources": [
         "enc-zen-art",
-        "enc-japanese-art"
+        "enc-japanese-art",
+        "wd-anchor-zen-painting"
       ],
       "level": "L2",
       "sections": {

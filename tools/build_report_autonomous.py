@@ -30,6 +30,8 @@ L.append("- 新增来源：**%d**"%cur.get("new_sources",0))
 if cur.get("qc_result"): L.append("- 质量闸：**%s**"%cur["qc_result"])
 if cyc=="cycle3":
     L.append("- 本轮特别说明：B5 复核 45 项待核实 → 38 项找到可核验第二来源并写入【已复核】留痕；B3 孤儿页 38→0（新增84条双向补链）；QC 收尾补 Bach/Vivaldi 来源并修正18处截断URL。")
+if cyc=="cycle31":
+    L.append("- 本轮按 D030 的待办做**人工指定 QID**：为 19 条「其余」未锚定条目手工给出英文检索词，逐个检索并核对口径，**采纳 14 条、拒绝 5 条**，锚定率 **69% → 79%（114/145）**。亮点：romanesque 终于锚到 **Q46805『Romanesque art』**（艺术风格，而非 Cycle23 被拒的『建筑』实体）；tonality → Q192822『tonal system』对应「大小调体系」。并确立**口径一致**否决标准：宽（Buddhist art 对印度佛教艺术、Paleolithic art 对旧石器雕塑）或窄（法国巴洛克音乐）、或描述为空，一律拒绝。活性抽样 5/5 HTTP 200。")
 if cyc=="cycle30":
     L.append("- 本轮为**体检轮 F**（第六次）：audit_all 增到 **8 步并全通过**。针对 Cycle29 的大改，新增两项常驻检查：**渲染一致性**（独立重算未解决项/复核记录数并与页面比对，0 不一致）与 **HTML 结构**（html.parser 逐页解析，0 未闭合）。并做了**故障注入测试**：人为往一页尾部注入 <div><ol><li>，检查如预期报 3 处未闭合且 rc=1，重建后 rc=0 ——证明守卫真的会失败，而不是永远显示 ok。活性抽样：最新 8 个锚点全部 HTTP 200。")
 if cyc=="cycle29":

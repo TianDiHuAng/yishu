@@ -15,7 +15,8 @@
   "enc-gregorian-chant",
   "enc-medieval-music",
   "enc-pope-gregory-i",
-  "enc-ambrosian-chant"
+  "enc-ambrosian-chant",
+  "wd-anchor-gregorian-chant"
  ],
  "related": [
   "medieval-music",
