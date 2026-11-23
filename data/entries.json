@@ -3534,7 +3534,8 @@
       "overview": "晚年代表作，风格古拙而精炼；人物与山水被缩小呈现，如微型园林与案头供石，于小中见大。",
       "related": [
         "ming-painting",
-        "china-painting-history"
+        "china-painting-history",
+        "qiu-ying-garden"
       ],
       "sources": [
         "cma-1979-27"
@@ -3556,7 +3557,9 @@
         "yuan-painting",
         "china-painting-history",
         "juran-buddhist-retreat",
-        "du-jin-lin-bu"
+        "du-jin-lin-bu",
+        "dong-qichang-qingbian",
+        "lan-ying-pure-conversation"
       ],
       "sources": [
         "cma-1978-66"
@@ -5652,7 +5655,8 @@
         "zhao-mengfu-river-village",
         "muqi-dragon",
         "du-jin-lin-bu",
-        "ten-stages-bodhisattvas"
+        "ten-stages-bodhisattvas",
+        "wang-hui-bamboo"
       ],
       "sources": [
         "cma-1959-348"
@@ -5692,7 +5696,11 @@
       "overview": "画北宋隐士林逋（967—1028）月下看梅；林逋以梅为妻、以鹤为子；杜堇署款真迹存世稀少，此为其一。",
       "related": [
         "juran-buddhist-retreat",
-        "zhao-mengfu-river-village"
+        "zhao-mengfu-river-village",
+        "wang-hui-bamboo",
+        "dong-qichang-qingbian",
+        "lan-ying-pure-conversation",
+        "qiu-ying-garden"
       ],
       "sources": [
         "cma-1954-582"
@@ -5880,6 +5888,86 @@
       ],
       "sources": [
         "cma-2018-168"
+      ]
+    },
+    {
+      "id": "wang-hui-bamboo",
+      "title": "王翚《仿王蒙高竹远山图》",
+      "kind": "作品",
+      "unit": "art-china-painting",
+      "era": "17世纪",
+      "region": "中国",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "王翚纸本水墨立轴，克利夫兰艺术博物馆藏（1953.629）。",
+      "when": "1694年",
+      "overview": "王翚自1686至1712年间多次临仿王蒙；此轴将高士自亭中移入溪畔山景，并把题识一并摹入。",
+      "related": [
+        "du-jin-lin-bu",
+        "juran-buddhist-retreat"
+      ],
+      "sources": [
+        "cma-1953-629"
+      ]
+    },
+    {
+      "id": "dong-qichang-qingbian",
+      "title": "董其昌《青弁图》",
+      "kind": "作品",
+      "unit": "art-china-painting",
+      "era": "17世纪",
+      "region": "中国",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "董其昌纸本水墨立轴，克利夫兰艺术博物馆藏（1980.10）。",
+      "when": "1617年",
+      "overview": "山形被组织为近乎抽象的结构，气与势贯穿全画；笔墨获得独立于所绘物象的生命。",
+      "related": [
+        "zhao-mengfu-river-village",
+        "du-jin-lin-bu"
+      ],
+      "sources": [
+        "cma-1980-10"
+      ]
+    },
+    {
+      "id": "lan-ying-pure-conversation",
+      "title": "蓝瑛《支许清谈图》",
+      "kind": "作品",
+      "unit": "art-china-painting",
+      "era": "17世纪",
+      "region": "中国",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "蓝瑛纸本水墨立轴，克利夫兰艺术博物馆藏（1970.128）。",
+      "when": "1643年",
+      "overview": "为禅僧无云所作，绘六朝高僧支遁与道士许询；以古人友谊类比己与僧人交谊，时在明亡前一年。",
+      "related": [
+        "du-jin-lin-bu",
+        "zhao-mengfu-river-village"
+      ],
+      "sources": [
+        "cma-1970-128"
+      ]
+    },
+    {
+      "id": "qiu-ying-garden",
+      "title": "仇英《独乐园图》",
+      "kind": "作品",
+      "unit": "art-china-painting",
+      "era": "16世纪",
+      "region": "中国",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "仇英绢本设色手卷，克利夫兰艺术博物馆藏（1978.67）。",
+      "when": "1515—1552年",
+      "overview": "图写司马光1073年退居洛阳所筑独乐园；七处建筑各关联一位历史人物；后成苏州作坊摹本范式。",
+      "related": [
+        "chen-hongshou-album",
+        "du-jin-lin-bu"
+      ],
+      "sources": [
+        "cma-1978-67"
       ]
     }
   ]

@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 272 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 276 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -141,6 +141,10 @@
 | muqi-dragon | 牧溪《龙》（与《虎》对屏） | 作品 | 13世纪 | 中国 | 绘画 | 核心 | O6 |
 | du-jin-lin-bu | 杜堇《林逋行吟图》 | 作品 | 15世纪 | 中国 | 绘画 | 核心 | O6 |
 | ten-stages-bodhisattvas | 《菩萨十地》立轴（景泰五年） | 作品 | 15世纪 | 中国 | 绘画 | 核心 | O6 |
+| wang-hui-bamboo | 王翚《仿王蒙高竹远山图》 | 作品 | 17世纪 | 中国 | 绘画 | 核心 | O6 |
+| dong-qichang-qingbian | 董其昌《青弁图》 | 作品 | 17世纪 | 中国 | 绘画 | 核心 | O6 |
+| lan-ying-pure-conversation | 蓝瑛《支许清谈图》 | 作品 | 17世纪 | 中国 | 绘画 | 重要 | O6 |
+| qiu-ying-garden | 仇英《独乐园图》 | 作品 | 16世纪 | 中国 | 绘画 | 核心 | O6 |
 
 ## art-china-calligraphy（中国书法史）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

@@ -4029,6 +4029,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；胶彩、墨与金 26×17.6cm；说明含拉贾斯坦民歌调式与骆驼骑士"
+    },
+    {
+      "id": "cma-1953-629",
+      "title": "Cleveland Museum of Art — Wang Hui, Tall Bamboo and Distant Mountains after Wang Meng, 1694, acc. 1953.629",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1953.629",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；纸本水墨立轴 79.6×39.4cm；说明含1686—1712多次临仿王蒙"
+    },
+    {
+      "id": "cma-1980-10",
+      "title": "Cleveland Museum of Art — Dong Qichang, Mt. Qingbian, 1617, acc. 1980.10",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1980.10",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；纸本水墨立轴 225×67.6cm；说明含气/势与笔墨独立"
+    },
+    {
+      "id": "cma-1970-128",
+      "title": "Cleveland Museum of Art — Lan Ying, Zhi and Xu's Pure Conversation, 1643, acc. 1970.128",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1970.128",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；纸本水墨立轴 141×56cm；说明含赠僧无云与明亡前一年"
+    },
+    {
+      "id": "cma-1978-67",
+      "title": "Cleveland Museum of Art — Qiu Ying, Garden for Solitary Enjoyment, 1515–52, acc. 1978.67",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1978.67",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；绢本设色手卷 28×518.5cm；说明含司马光独乐园与苏州作坊模板"
     }
   ]
 }

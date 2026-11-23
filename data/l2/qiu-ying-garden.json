@@ -1,0 +1,19 @@
+{
+ "id": "qiu-ying-garden",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本手卷画的是**独乐园**——该馆说明为由**司马光（1019—1086）**于**1073年**在退居河南洛阳后所筑。每年春天，访客云集。园中**七处建筑各关联一位历史人物**。",
+  "风格特征": "该馆引司马光自述其造园取法：引水（如杜牧）、浇花（如白居易）、修竹（如王徽之）……并称「天地之间」更无可以替代此乐者。本条目只述大意，不整段迻录。",
+  "代表人物与作品": "作者为仇英（1494—1552）。相关条目见陈洪绶《仿古册》与杜堇《林逋行吟图》。本件为克利夫兰艺术博物馆藏品（1978.67）。",
+  "技法或形式分析": "材质为**绢本设色**手卷，画心28 × 518.5厘米、整幅32 × 1290.2厘米（据该馆藏品记录）。此长卷形制适合逐段展开，也适合安置七处建筑与不同典故。",
+  "与前后风格的关系和争论": "该馆指出，仇英此卷**作于11世纪同一题材的一个版本之后**，并「必然受到明代园主的欢迎」——因为它**成为苏州作坊众多摹本的模板**。也就是说，一幅明代绘画既是对宋代母题的再绘，又反过来成为后世工艺生产的范式。",
+  "一图": "示意图以司马光独乐园、11世纪原型与苏州作坊模板三者关系标示本卷。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）所据11世纪版本的作者与现存地点未取得；（3）「苏州作坊摹本」的清单未列；（4）司马光引文为转译，原文未核。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='qiu-ying-garden 示意图'><title>qiu-ying-garden</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>司马光·1073</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>独乐园</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>仇英长卷</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>28×518.5</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>11世纪原型</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>再绘</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>苏州作坊</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>模板</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>独乐园：原型、再绘与模板</text></g></svg>",
+ "sources": [
+  "cma-1978-67"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；原型与作坊摹本清单未取得。"
+}

@@ -1,0 +1,19 @@
+{
+ "id": "wang-hui-bamboo",
+ "level": "L2",
+ "sections": {
+  "时代背景": "该馆指出，王翚（1632—1717）**研习前人画作**并以不懈的技艺**消化其风格**。他对王蒙（约1308—85）的一幅山水怀有长久的偏爱，据该馆统计，**1686 至 1712 年间**他制作了数件摹本，本轴即其中之一。",
+  "风格特征": "本轴最可核查的**构图改变**是：王翚把画中高士**从亭内移到溪畔的山景之中**。该馆并指出，他的「忠实临仿」**连题识也包括在内**——即文字与图像一并被复制。",
+  "代表人物与作品": "该馆给出一条可核查的传承链：王蒙曾自述其意图在于**复活更早画家文同（1018—1079）的风格**；因此王翚在本作中**同时追踪王蒙与文同**。相关条目见杜堇《林逋行吟图》与巨然《溪山兰若》。本件为克利夫兰艺术博物馆藏品（1953.629）。",
+  "技法或形式分析": "材质为**纸本水墨**立轴，画心79.6 × 39.4厘米，含轴头整体215.8 × 61.6厘米（据该馆藏品记录）。摹古在此不是机械复制，而是把人物的空间位置重新安放。",
+  "与前后风格的关系和争论": "本条目据该馆说明把「摹古」写成一种**主动的构图行为**：改变高士位置、保留题识、追踪双层师承（文同→王蒙→王翚）。本条目不对这一做法作价值判断。",
+  "一图": "示意图以文同—王蒙—王翚的师承、高士位置改变与题识摹写三者关系标示本轴。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）王蒙原作的现存地点与图像未取得；（3）「数件摹本」的具体清单未列；（4）题识全文未迻录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='wang-hui-bamboo 示意图'><title>wang-hui-bamboo</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>文同→王蒙</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>摹古链</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>王翚摹本</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1694</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>高士移出亭</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>构图改变</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>题识并摹</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>图文双轨</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>王翚摹王蒙：师承与构图改变</text></g></svg>",
+ "sources": [
+  "cma-1953-629"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；原作与摹本清单未取得。"
+}
