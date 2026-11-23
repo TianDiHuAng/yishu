@@ -1,0 +1,19 @@
+{
+ "id": "sitar-instrument",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为东印度（孟加拉或孟加拉国）所制西塔，克利夫兰艺术博物馆定年为约1850年。该馆指出，西塔通常是印度**宫廷生活**中音乐表演的**核心音响**。",
+  "风格特征": "该馆给出一条关键的形制区分：与**维纳琴（vina）**不同，西塔拥有**可移动的品（frets）**——即横跨指板、**凸起的金属条**；**移动其位置，音高随之改变**。",
+  "代表人物与作品": "作者未署名（该馆记 Bengal/Bangladesh）。相关条目见科拉琴与古琴。本件为克利夫兰艺术博物馆藏品（1918.346）。",
+  "技法或形式分析": "材质为葫芦与木，并施颜料、象牙与骨；铜合金品、铁合金弦（另有一根近代铜弦替换）；整体95.2 × 15.3厘米（据该馆藏品记录）。该馆特别指出：这件**小西塔**的葫芦尺寸被选成**近似鸵鸟蛋**——19世纪确有以鸵鸟蛋材料制作的「新奇西塔」，这类琴**主要用于陈列**，仅偶尔由**女性或儿童**演奏。",
+  "与前后风格的关系和争论": "于是本件同时是**乐器**与**陈列品**：其形制仿自异材，用途偏向展示。该馆并指出**孟加拉是装饰性乐器制作的中心**。本条目据此不把它当作宫廷演奏的典型用器。",
+  "一图": "示意图以宫廷演奏、可移动品与「鸵鸟蛋」新奇形制三者关系标示本件。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「近似鸵鸟蛋」为该馆的描述，未给尺寸比对数据；（3）近代替换弦的具体年代未记录；（4）具体制作者与作坊未署名。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='sitar-instrument 示意图'><title>sitar-instrument</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>宫廷演奏</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>核心音响</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>西塔琴</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>95.2cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>可移动品</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>异于维纳</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>鸵鸟蛋形</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>陈列用</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>西塔：宫廷、可移品与新奇形制</text></g></svg>",
+ "sources": [
+  "cma-1918-346"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；尺寸比对与替换弦年代未记录。"
+}

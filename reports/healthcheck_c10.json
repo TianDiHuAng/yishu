@@ -84,6 +84,14 @@
    [
     "1998"
    ]
+  ],
+  [
+   "guqin-instrument",
+   "1584年",
+   [
+    "1547",
+    "1625"
+   ]
   ]
  ],
  "orphans": [],
@@ -140,6 +148,6 @@
  "link_audit": {
   "cross_domain": 2,
   "oneway": 0,
-  "total_links": 678
+  "total_links": 688
  }
 }

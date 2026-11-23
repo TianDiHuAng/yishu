@@ -2460,7 +2460,8 @@
         "jingju",
         "yayue",
         "pipa",
-        "wuwangdu-chu-music-archaeology"
+        "wuwangdu-chu-music-archaeology",
+        "guqin-instrument"
       ],
       "sources": [
         "enc-chinese-music",
@@ -4874,6 +4875,87 @@
       ],
       "sources": [
         "cma-1995-23"
+      ]
+    },
+    {
+      "id": "kora-instrument",
+      "title": "科拉琴（kora）",
+      "kind": "作品",
+      "unit": "music-instruments",
+      "era": "19—20世纪",
+      "region": "西非",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "西非的21弦葫芦竖琴—琉特，克利夫兰艺术博物馆藏（1918.352）。",
+      "when": "1918年以前",
+      "overview": "弦沿长颈系结、以指弹拨，声在半球形葫芦体内共鸣；背面针脚显示葫芦曾多处修补。",
+      "related": [
+        "sitar-instrument",
+        "drum-ngoma"
+      ],
+      "sources": [
+        "cma-1918-352"
+      ]
+    },
+    {
+      "id": "sitar-instrument",
+      "title": "西塔琴（sitar）",
+      "kind": "作品",
+      "unit": "music-instruments",
+      "era": "19世纪",
+      "region": "南亚",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "东印度（孟加拉／孟加拉国）所制西塔，克利夫兰艺术博物馆藏（1918.346）。",
+      "when": "约1850年",
+      "overview": "与维纳琴不同，西塔有可移动的金属品（frets），移位即变音高；宫廷演奏中常为主奏之器。",
+      "related": [
+        "kora-instrument",
+        "guqin-instrument"
+      ],
+      "sources": [
+        "cma-1918-346"
+      ]
+    },
+    {
+      "id": "guqin-instrument",
+      "title": "古琴（张瑞修制，1584）",
+      "kind": "作品",
+      "unit": "music-instruments",
+      "era": "16世纪",
+      "region": "东亚",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "明万历十二年（1584）苏州张瑞修所制七弦琴，克利夫兰艺术博物馆藏（1918.371）。",
+      "when": "1584年",
+      "overview": "中国最受尊崇的乐器，可上溯楚文化约两千五百年；此琴内款记为海虞严澂（1547—1625）所作。",
+      "related": [
+        "china-music-history",
+        "sitar-instrument",
+        "drum-ngoma"
+      ],
+      "sources": [
+        "cma-1918-371"
+      ]
+    },
+    {
+      "id": "drum-ngoma",
+      "title": "恩戈马鼓（ngoma）",
+      "kind": "作品",
+      "unit": "music-instruments",
+      "era": "20世纪",
+      "region": "东非",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "东非木腔蒙皮鼓，克利夫兰艺术博物馆藏（1929.343）。",
+      "when": "1928年以前",
+      "overview": "名称出自刚果语「鼓」；双重蒙皮以植物纤维绷紧，仅击第一层即共鸣；乌干达鼓内藏仅制作者知的仪式「心」。",
+      "related": [
+        "kora-instrument",
+        "guqin-instrument"
+      ],
+      "sources": [
+        "cma-1929-343"
       ]
     }
   ]

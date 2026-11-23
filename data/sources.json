@@ -3549,6 +3549,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；布、玻璃珠等 49.5cm；说明含 òrún 与护身小袋"
+    },
+    {
+      "id": "cma-1918-352",
+      "title": "Cleveland Museum of Art — Kora, West Africa, before 1918, acc. 1918.352",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1918.352",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；葫芦、木、皮革、弦、绳 111.8cm；说明含21弦与修补痕"
+    },
+    {
+      "id": "cma-1918-346",
+      "title": "Cleveland Museum of Art — Sitar, Eastern India (Bengal/Bangladesh), c. 1850, acc. 1918.346",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1918.346",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；葫芦与木、象牙、骨、铜品、铁弦 95.2×15.3cm"
+    },
+    {
+      "id": "cma-1918-371",
+      "title": "Cleveland Museum of Art — Guqin by Zhang Ruixiu of Suzhou, 1584, acc. 1918.371",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1918.371",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；木、漆、螺钿、丝弦 123.5×18.1×4.5cm；内款涉严澂（1547–1625）"
+    },
+    {
+      "id": "cma-1929-343",
+      "title": "Cleveland Museum of Art — Drum (ngoma), Eastern Africa, by 1928, acc. 1929.343",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1929.343",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；木、皮革、植物纤维 40cm/径31.2cm；说明含乌干达鼓中「心」"
     }
   ]
 }

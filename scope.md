@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 224 个条目、26 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 228 个条目、27 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -339,6 +339,14 @@
 | maori-hei-tiki | 毛利吊坠（hei-tiki） | 作品 | 19世纪 | 大洋洲 | 雕塑 | 重要 | O1 |
 | asmat-war-shield | 阿斯马特战盾 | 作品 | 20世纪 | 大洋洲 | 综合 | 重要 | O1 |
 | oceania-art | 太平洋艺术（大洋洲） | 风格 | 18—20世纪 | 大洋洲 | 综合 | 核心 | O1 |
+
+## music-instruments（乐器（跨文化））
+| id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
+|---|---|---|---|---|---|---|---|
+| kora-instrument | 科拉琴（kora） | 作品 | 19—20世纪 | 西非 | 音乐体裁 | 重要 | O1 |
+| sitar-instrument | 西塔琴（sitar） | 作品 | 19世纪 | 南亚 | 音乐体裁 | 重要 | O1 |
+| guqin-instrument | 古琴（张瑞修制，1584） | 作品 | 16世纪 | 东亚 | 音乐体裁 | 核心 | O1 |
+| drum-ngoma | 恩戈马鼓（ngoma） | 作品 | 20世纪 | 东非 | 音乐体裁 | 重要 | O1 |
 
 ## work-archives（作品档案）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

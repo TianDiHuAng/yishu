@@ -1,9 +1,9 @@
 {
   "meta": {
-    "total": 224,
+    "total": 228,
     "per_round_cap": 40,
     "current_round": 1,
-    "unit_count": 26,
+    "unit_count": 27,
     "outline_sources": [
       "O1",
       "O2",
@@ -2692,6 +2692,54 @@
     },
     "yoruba-ifa-necklace": {
       "title": "约鲁巴 Ifá 占卜者项链（òdìgbà Ifá）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "kora-instrument": {
+      "title": "科拉琴（kora）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "sitar-instrument": {
+      "title": "西塔琴（sitar）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "guqin-instrument": {
+      "title": "古琴（张瑞修制，1584）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "drum-ngoma": {
+      "title": "恩戈马鼓（ngoma）",
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
