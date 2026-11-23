@@ -961,6 +961,18 @@
       },
       "network": "partial (museum APIs)",
       "verdict": "日本陶瓷 0→4（总 256）；技术转移链与袭名制入正文；未饱和"
+    },
+    {
+      "cycle": "cycle77",
+      "date": "2026-11-23",
+      "methods_used": [
+        "伊斯兰写本"
+      ],
+      "gaps_found": {
+        "entries": 4
+      },
+      "network": "partial (museum APIs)",
+      "verdict": "伊斯兰写本 0→4（伊斯兰共 17，总 260）；未饱和"
     }
   ],
   "assessment_c33": {

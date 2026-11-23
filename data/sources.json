@@ -3869,6 +3869,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；釉上彩瓷 高38cm；说明含酒井田家族与柿右卫门之名"
+    },
+    {
+      "id": "cma-1943-658",
+      "title": "Cleveland Museum of Art — Bahram Gur Slays a Dragon, Great Mongol Shahnama, Tabriz, 1330–35, acc. 1943.658",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1943.658",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；纸本不透明水彩、墨、金 45.8×34.4cm；说明含中国式山石与龙"
+    },
+    {
+      "id": "cma-1956-10",
+      "title": "Cleveland Museum of Art — Royal Reception in a Landscape, Shiraz, 1444, acc. 1956.10",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1956.10",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；纸本不透明水彩、墨、金银；说明含对页另一半在 CMA 1945.169"
+    },
+    {
+      "id": "cma-1933-488",
+      "title": "Cleveland Museum of Art — Folio from a Qur'an, Seljuq, 1100s, acc. 1933.488",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1933.488",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；纸本墨、金与彩色 30.6×20cm；说明含两边经文出处"
+    },
+    {
+      "id": "cma-2013-315-2",
+      "title": "Cleveland Museum of Art — Page from the Panj Ganj of Jami, acc. 2013.315.2",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2013.315.2",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；胶彩、墨与金；说明含赫拉特抄写与德干绘画的两段工序"
     }
   ]
 }

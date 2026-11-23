@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 256 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 260 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -296,6 +296,10 @@
 | seljuq-bird-vessel | 塞尔柱鸟形水器 | 作品 | 12世纪 | 西亚·中亚 | 综合 | 重要 | O1 |
 | sultanabad-bowl | 苏丹纳巴德飞鸟纹碗 | 作品 | 13—14世纪 | 西亚·中亚 | 综合 | 重要 | O1 |
 | safavid-steel-plaque | 萨法维钢制铭文板 | 作品 | 17世纪 | 西亚·中亚 | 建筑 | 重要 | O1 |
+| great-mongol-shahnama-folio | 《大蒙古列王纪》巴赫拉姆屠龙叶 | 作品 | 14世纪 | 西亚·中亚 | 绘画 | 核心 | O1 |
+| shiraz-frontispiece | 设拉子《列王纪》对页（左半） | 作品 | 15世纪 | 西亚·中亚 | 绘画 | 重要 | O1 |
+| quran-folio-seljuq | 塞尔柱《古兰经》写本叶 | 作品 | 12世纪 | 西亚·中亚 | 书法 | 重要 | O1 |
+| panj-ganj-page | 贾米《五宝》复合册页 | 作品 | 16—17世纪 | 南亚 | 绘画 | 核心 | O1 |
 
 ## art-africa（非洲艺术（撒哈拉以南））
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

@@ -6015,7 +6015,8 @@
         "luster-dish-prince",
         "khurasan-ewer",
         "seljuq-bird-vessel",
-        "safavid-steel-plaque"
+        "safavid-steel-plaque",
+        "quran-folio-seljuq"
       ],
       "sources": [
         "cma-1944-485",
@@ -9047,6 +9048,139 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='kakiemon-beauty 示意图'><title>kakiemon-beauty</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>打挂装束</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>游女偶人?</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>柿右卫门像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>高38cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>釉上多彩</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>日本最早之一</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>酒井田袭名</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>制度性主体</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>柿右卫门像：装束、工艺与袭名</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（CMA）来源；偶人关联为推测；代际未记录。"
+    },
+    {
+      "id": "great-mongol-shahnama-folio",
+      "title": "《大蒙古列王纪》巴赫拉姆屠龙叶",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "14世纪",
+      "region": "西亚·中亚",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "伊儿汗国大不里士《列王纪》写本对页，克利夫兰艺术博物馆藏（1943.658）。",
+      "when": "1330—1335年",
+      "overview": "绘前伊斯兰时代的萨珊君主巴赫拉姆·古尔（420—438 在位）刺龙；山石、树干与龙取法中国样式。",
+      "related": [
+        "shiraz-frontispiece",
+        "quran-folio-seljuq",
+        "panj-ganj-page"
+      ],
+      "sources": [
+        "cma-1943-658"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明称，本叶出自菲尔多西（约940—1019 或 1025）《列王纪》（Shahnama）写本，属**伊儿汗国大不里士**所制，定年为1330—1335年，世称**「大蒙古列王纪」（Great Mongol Shahnama）**。",
+        "风格特征": "画面表现**巴赫拉姆·古尔（Bahram Gur）把剑刺入龙胸**。该馆解释此人物：他是**伊朗前伊斯兰历史**中最受喜爱的角色之一，为**萨珊王朝**的君主（**420—438 年在位**），也是伟大的猎手；他取「Gur」（意为**野驴**）为名，因其为最偏好的猎物，「不过他在杀龙方面同样出色」。",
+        "代表人物与作品": "画家未署名（该馆记 Ilkhanid period）。相关条目见设拉子《列王纪》对页与塞尔柱《古兰经》叶。本件为克利夫兰艺术博物馆藏品（1943.658）。",
+        "技法或形式分析": "材质为纸本**不透明水彩、墨与金**，画幅45.8 × 34.4厘米（据该馆藏品记录）。该馆具体指出**风格来源**：「由本插图的山石、树干与龙可见，蒙古时期的伊朗绘画**借用了大量中国样式的造型与空间元素**」。",
+        "与前后风格的关系和争论": "该馆对本画的评价是形式性的：「**翻涌的山水与扭动的龙以同等力度表现**，画面因此获得**非凡的统一与集中**」。也就是说，中国式母题在此并非拼贴，而参与构成了一种**整体动势**；本条目照录该判断。",
+        "一图": "示意图以萨珊君主母题、中国式造型元素与画面动势三者关系标示本叶。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）本叶出自该写本的第几册／第几页未记录；（3）「大蒙古列王纪」的分散现状（各叶分藏）未展开；（4）画家身份未定。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='great-mongol-shahnama-fo 示意图'><title>great-mongol-shahnama-fo</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>萨珊巴赫拉姆</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>420—438</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>屠龙叶</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1330—35</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>中国式山石·龙</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>造型借用</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>统一动势</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>形式评价</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>屠龙叶：母题、来源与动势</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；写本内的位置与分散现状未展开。"
+    },
+    {
+      "id": "shiraz-frontispiece",
+      "title": "设拉子《列王纪》对页（左半）",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "15世纪",
+      "region": "西亚·中亚",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "帖木儿朝设拉子《列王纪》双页卷首左半，克利夫兰艺术博物馆藏（1956.10）。",
+      "when": "1444年",
+      "overview": "画面并不图解史诗叙事，而很可能描绘**订制该写本的宫廷观众**；对页另一半在同馆（1945.169）。",
+      "related": [
+        "great-mongol-shahnama-folio",
+        "panj-ganj-page"
+      ],
+      "sources": [
+        "cma-1956-10"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本叶为**帖木儿朝设拉子**（伊朗）所制《列王纪》写本的**双页卷首图之左半**，克利夫兰艺术博物馆定年为**1444年**。",
+        "风格特征": "该馆给出一个重要的**性质说明**：此画「**并不图解《列王纪》的某个叙事**」，而**很可能表现的是该写本为其娱乐而制作的宫廷观众**——即画面画的是**读者自身**。",
+        "代表人物与作品": "画家未署名。相关条目见《大蒙古列王纪》屠龙叶与贾米《五宝》复合册页。本件为克利夫兰艺术博物馆藏品（1956.10）。",
+        "技法或形式分析": "材质为纸本不透明水彩、墨、**金与银**，画面26.1 × 20.7厘米、整叶32.7 × 22厘米（据该馆藏品记录）。该馆并指出此叶**已从原写本上拆离**，且**对页的另一半现藏同馆（CMA 1945.169）**——一部写本的两半在博物馆中被重新「配对」。",
+        "与前后风格的关系和争论": "把「画的是观众」与「双页已被拆散」并置，可以看到写本作为**整体物**在收藏史中被切分、再部分重聚的过程。本条目据此不把此叶当作单幅画作，而作为**一部失散写本的残件**来叙述。",
+        "一图": "示意图以卷首图位置（对页之一半）、宫廷观众母题与同馆另一半三者关系标示本叶。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）所出写本的完整面貌与其余各叶去向未记录；（3）「画的是观众」该馆用 likely，属推断；（4）画家与工房未署名。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='shiraz-frontispiece 示意图'><title>shiraz-frontispiece</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>双页卷首</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>左半</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>设拉子对页</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1444</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>宫廷观众</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>非叙事</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>另一半 CMA 1945</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>重新配对</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>设拉子对页：位置、母题与失散</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；写本其余部分去向未记录。"
+    },
+    {
+      "id": "quran-folio-seljuq",
+      "title": "塞尔柱《古兰经》写本叶",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "12世纪",
+      "region": "西亚·中亚",
+      "medium": "书法",
+      "tier": "重要",
+      "def": "东波斯装饰性库法体《古兰经》叶，克利夫兰艺术博物馆藏（1933.488）。",
+      "when": "1100年代",
+      "overview": "正面为《大事章》56:1—26 共23行，背面为《至仁主章》55:73—78 共23行；边框饰金蓝圆章。",
+      "related": [
+        "great-mongol-shahnama-folio",
+        "islamic-art"
+      ],
+      "sources": [
+        "cma-1933-488"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本叶为塞尔柱时期（1037—1194）的《古兰经》写本叶，克利夫兰艺术博物馆定年为1100年代，出自**东波斯**。",
+        "风格特征": "该馆指出其书体为**东波斯装饰性库法体**（ornamental Kufic，「用于抄写《古兰经》的书体」），以**黑、红、金**三色填满版面；边框另饰**金与蓝色的圆章**（medallions）。",
+        "代表人物与作品": "抄写者未署名。相关条目见《大蒙古列王纪》屠龙叶与伊斯兰艺术。本件为克利夫兰艺术博物馆藏品（1933.488）。",
+        "技法或形式分析": "材质为纸本墨、金与彩色，整叶30.6 × 20厘米（据该馆藏品记录）。该馆逐面给出**经文出处**：**正面**为《大事章》（Surah al-Waqi'ah，56:1—26）**23 行**；**背面**为《至仁主章》（Surah al-Rahman，55:73—78）**23 行**。",
+        "与前后风格的关系和争论": "装饰性库法体把**文字本身变成纹样**：可读性与装饰性在此互相挤压。该馆以「ornamental Kufic」命名这一现象，本条目据此不把它当作单纯的书法风格标签，而视为**版面设计问题**的一种解法。",
+        "一图": "示意图以装饰性库法体、两章经文的分面排布与边框圆章三者关系标示本叶。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）该写本的完整册数与现藏地未记录；（3）金蓝圆章的图案含义未展开；（4）抄写年代仅记「1100年代」。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='quran-folio-seljuq 示意图'><title>quran-folio-seljuq</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>东波斯</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1100年代</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>古兰经叶</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>30.6×20</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>装饰性库法体</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>黑·红·金</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>两章 23+23 行</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>正/背面</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>古兰经叶：书体、装饰与经文</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；写本全貌未记录。"
+    },
+    {
+      "id": "panj-ganj-page",
+      "title": "贾米《五宝》复合册页",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "16—17世纪",
+      "region": "南亚",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "贾米《五宝》诗集的册页，克利夫兰艺术博物馆藏（2013.315.2）。",
+      "when": "文本约1500—1520；绘画与边饰1603—07",
+      "overview": "文本由 Sultan-Ali Mashhadi 在赫拉特为 Badi al-Zaman Mirza 抄写；绘画与边饰由 Mushfiq 在德干为莫卧儿大臣 Abd al-Rahim 补作。",
+      "related": [
+        "shiraz-frontispiece",
+        "great-mongol-shahnama-folio"
+      ],
+      "sources": [
+        "cma-2013-315-2"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本页出自**贾米**（Abd al-Rahman Jami，1414—1492）《五宝》（Panj Ganj）诗集，含两部波斯玛斯纳维体叙事诗：《优素福与祖莱哈》与《义人之念珠》。该馆给出**分段时间**：**文本约1500—1520年抄成，绘画、边框与装饰则在1603—1607年补加**。",
+        "风格特征": "页面**正反两面**分属不同工序与地点：**文本**由 **Sultan-Ali Mashhadi** 在**赫拉特**为该地统治者 **Badi al-Zaman Mirza** 抄写；**绘画、边框与照明**由 **Mushfiq**（印度，活跃于1580年代—1600年代初）在**德干**为莫卧儿大臣 **Abd al-Rahim**（Khan Khanan）制作。",
+        "代表人物与作品": "相关条目见设拉子《列王纪》对页与《大蒙古列王纪》屠龙叶。本件为克利夫兰艺术博物馆藏品（2013.315.2）。",
+        "技法或形式分析": "材质为**胶彩、墨与金**于纸上（据该馆藏品记录；**该记录未给尺寸**，本条目因此不列尺寸）。该馆描述版面结构：**边框上斜写的一段文字**与**中央两栏**的诗文分属不同内容层次。",
+        "与前后风格的关系和争论": "该馆给出两段诗的内容：**边框**部分写优素福童年的一段——兄长们向父亲雅各建议带他去郊野「熟悉地方」，实则**图谋杀害**；**中央栏**则劝人**常带笑容**，「因为微笑比糖更甜、更讨喜」。而收藏者 **Abd al-Rahim** 是阿克巴与贾汉吉尔两朝的**重臣（vizier）**，也是**狂热的书籍收藏者与艺术赞助人**——本页因此同时是**诗集、跨地工序与收藏史**的三重物证。",
+        "一图": "示意图以赫拉特抄写（1500—1520）、德干补绘（1603—07）与莫卧儿大臣收藏三者关系标示本页。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）**该记录无尺寸字段**，本条目不提供尺寸；（3）Abd al-Rahim 获得该写本的具体经过该馆仅一句带过；（4）Mushfiq 的生平与作品谱系未取得。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='panj-ganj-page 示意图'><title>panj-ganj-page</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>赫拉特抄写</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1500—1520</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>《五宝》册页</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>复合工序</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>德干补绘</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>1603—07</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>Abd al-Rahim</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>收藏者·大臣</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='590.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>《五宝》页：两段工序与收藏</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；无尺寸；收藏经过未展开。"
     }
   ]
 }

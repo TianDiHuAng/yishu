@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 256,
+    "total": 260,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -3076,6 +3076,54 @@
     },
     "kakiemon-beauty": {
       "title": "柿右卫门美人立像",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "great-mongol-shahnama-folio": {
+      "title": "《大蒙古列王纪》巴赫拉姆屠龙叶",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "shiraz-frontispiece": {
+      "title": "设拉子《列王纪》对页（左半）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "quran-folio-seljuq": {
+      "title": "塞尔柱《古兰经》写本叶",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "panj-ganj-page": {
+      "title": "贾米《五宝》复合册页",
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",

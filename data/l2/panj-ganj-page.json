@@ -1,0 +1,19 @@
+{
+ "id": "panj-ganj-page",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本页出自**贾米**（Abd al-Rahman Jami，1414—1492）《五宝》（Panj Ganj）诗集，含两部波斯玛斯纳维体叙事诗：《优素福与祖莱哈》与《义人之念珠》。该馆给出**分段时间**：**文本约1500—1520年抄成，绘画、边框与装饰则在1603—1607年补加**。",
+  "风格特征": "页面**正反两面**分属不同工序与地点：**文本**由 **Sultan-Ali Mashhadi** 在**赫拉特**为该地统治者 **Badi al-Zaman Mirza** 抄写；**绘画、边框与照明**由 **Mushfiq**（印度，活跃于1580年代—1600年代初）在**德干**为莫卧儿大臣 **Abd al-Rahim**（Khan Khanan）制作。",
+  "代表人物与作品": "相关条目见设拉子《列王纪》对页与《大蒙古列王纪》屠龙叶。本件为克利夫兰艺术博物馆藏品（2013.315.2）。",
+  "技法或形式分析": "材质为**胶彩、墨与金**于纸上（据该馆藏品记录；**该记录未给尺寸**，本条目因此不列尺寸）。该馆描述版面结构：**边框上斜写的一段文字**与**中央两栏**的诗文分属不同内容层次。",
+  "与前后风格的关系和争论": "该馆给出两段诗的内容：**边框**部分写优素福童年的一段——兄长们向父亲雅各建议带他去郊野「熟悉地方」，实则**图谋杀害**；**中央栏**则劝人**常带笑容**，「因为微笑比糖更甜、更讨喜」。而收藏者 **Abd al-Rahim** 是阿克巴与贾汉吉尔两朝的**重臣（vizier）**，也是**狂热的书籍收藏者与艺术赞助人**——本页因此同时是**诗集、跨地工序与收藏史**的三重物证。",
+  "一图": "示意图以赫拉特抄写（1500—1520）、德干补绘（1603—07）与莫卧儿大臣收藏三者关系标示本页。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）**该记录无尺寸字段**，本条目不提供尺寸；（3）Abd al-Rahim 获得该写本的具体经过该馆仅一句带过；（4）Mushfiq 的生平与作品谱系未取得。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='panj-ganj-page 示意图'><title>panj-ganj-page</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>赫拉特抄写</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1500—1520</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>《五宝》册页</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>复合工序</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>德干补绘</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>1603—07</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>Abd al-Rahim</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>收藏者·大臣</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='590.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>《五宝》页：两段工序与收藏</text></g></svg>",
+ "sources": [
+  "cma-2013-315-2"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；无尺寸；收藏经过未展开。"
+}

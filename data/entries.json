@@ -3687,7 +3687,8 @@
         "luster-dish-prince",
         "khurasan-ewer",
         "seljuq-bird-vessel",
-        "safavid-steel-plaque"
+        "safavid-steel-plaque",
+        "quran-folio-seljuq"
       ],
       "sources": [
         "cma-1944-485",
@@ -5548,6 +5549,87 @@
       ],
       "sources": [
         "cma-1964-366"
+      ]
+    },
+    {
+      "id": "great-mongol-shahnama-folio",
+      "title": "《大蒙古列王纪》巴赫拉姆屠龙叶",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "14世纪",
+      "region": "西亚·中亚",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "伊儿汗国大不里士《列王纪》写本对页，克利夫兰艺术博物馆藏（1943.658）。",
+      "when": "1330—1335年",
+      "overview": "绘前伊斯兰时代的萨珊君主巴赫拉姆·古尔（420—438 在位）刺龙；山石、树干与龙取法中国样式。",
+      "related": [
+        "shiraz-frontispiece",
+        "quran-folio-seljuq",
+        "panj-ganj-page"
+      ],
+      "sources": [
+        "cma-1943-658"
+      ]
+    },
+    {
+      "id": "shiraz-frontispiece",
+      "title": "设拉子《列王纪》对页（左半）",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "15世纪",
+      "region": "西亚·中亚",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "帖木儿朝设拉子《列王纪》双页卷首左半，克利夫兰艺术博物馆藏（1956.10）。",
+      "when": "1444年",
+      "overview": "画面并不图解史诗叙事，而很可能描绘**订制该写本的宫廷观众**；对页另一半在同馆（1945.169）。",
+      "related": [
+        "great-mongol-shahnama-folio",
+        "panj-ganj-page"
+      ],
+      "sources": [
+        "cma-1956-10"
+      ]
+    },
+    {
+      "id": "quran-folio-seljuq",
+      "title": "塞尔柱《古兰经》写本叶",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "12世纪",
+      "region": "西亚·中亚",
+      "medium": "书法",
+      "tier": "重要",
+      "def": "东波斯装饰性库法体《古兰经》叶，克利夫兰艺术博物馆藏（1933.488）。",
+      "when": "1100年代",
+      "overview": "正面为《大事章》56:1—26 共23行，背面为《至仁主章》55:73—78 共23行；边框饰金蓝圆章。",
+      "related": [
+        "great-mongol-shahnama-folio",
+        "islamic-art"
+      ],
+      "sources": [
+        "cma-1933-488"
+      ]
+    },
+    {
+      "id": "panj-ganj-page",
+      "title": "贾米《五宝》复合册页",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "16—17世纪",
+      "region": "南亚",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "贾米《五宝》诗集的册页，克利夫兰艺术博物馆藏（2013.315.2）。",
+      "when": "文本约1500—1520；绘画与边饰1603—07",
+      "overview": "文本由 Sultan-Ali Mashhadi 在赫拉特为 Badi al-Zaman Mirza 抄写；绘画与边饰由 Mushfiq 在德干为莫卧儿大臣 Abd al-Rahim 补作。",
+      "related": [
+        "shiraz-frontispiece",
+        "great-mongol-shahnama-folio"
+      ],
+      "sources": [
+        "cma-2013-315-2"
       ]
     }
   ]
