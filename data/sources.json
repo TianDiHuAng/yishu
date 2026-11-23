@@ -3219,6 +3219,56 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；彩绘木 176.5×60.3×7cm；说明含猎首宴与红树根取材"
+    },
+    {
+      "id": "cma-2005-6",
+      "title": "Cleveland Museum of Art — Big-Eared Brown Bat Vessel, Moche, 200–850 CE, acc. 2005.6",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2005.6",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；陶器施化妆土 18.4×17.7×15.8cm；说明含2021年以莫切命名的新种"
+    },
+    {
+      "id": "cma-1957-136",
+      "title": "Cleveland Museum of Art — Tunic, Inca, c. 1400–1540, acc. 1957.136",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1957.136",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；挂毯织造 棉与驼科纤维 85.1×76.2cm；说明含 Inca Key 纹样"
+    },
+    {
+      "id": "cma-1995-21",
+      "title": "Cleveland Museum of Art — Head, Nok culture, thermoluminescence 20–620 CE, acc. 1995.21",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1995.21",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；赤陶 38.2×20cm；含热释光测年与制作者性别的史学批评"
+    },
+    {
+      "id": "cma-1918-454",
+      "title": "Cleveland Museum of Art — Bottle with Chrysanthemum Design, Goryeo, 1200s–1300s, acc. 1918.454",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1918.454",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；青瓷镶嵌白/黑泥 高40.4cm 径14.7cm；含金漆修补（kintsugi）"
+    },
+    {
+      "id": "cma-1945-172",
+      "title": "Cleveland Museum of Art — Kammavacha: Buddhist Ordination Text, Myanmar, 1800s, acc. 1945.172",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1945.172",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；漆与贴金、玻璃镶嵌；巴利文缅甸体；含 nats 装饰"
     }
   ]
 }

@@ -621,6 +621,19 @@
       },
       "network": "partial",
       "verdict": "14 处字段漂移归并 + R20 守卫；catalog 恢复为唯一真值；未饱和"
+    },
+    {
+      "cycle": "cycle51",
+      "date": "2026-11-23",
+      "methods_used": [
+        "按区块深度推进"
+      ],
+      "gaps_found": {
+        "entries": 5,
+        "note": "约鲁巴未被覆盖（所得为 Nok）"
+      },
+      "network": "partial (museum APIs)",
+      "verdict": "新增 5 条（185）；约鲁巴仍零覆盖已如实记录；未饱和"
     }
   ],
   "assessment_c33": {

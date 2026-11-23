@@ -1373,6 +1373,37 @@
       "check_links_result": "broken=0(215页)",
       "audit_all": "9/9 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle51",
+      "date": "2026-11-23",
+      "status": "completed",
+      "gap_methods": [
+        "按区块深度推进"
+      ],
+      "network": "partial: museum APIs ok",
+      "new_entries": 5,
+      "new_entry_ids": [
+        "moche-bat-vessel",
+        "inca-tunic",
+        "nok-terracotta-head",
+        "goryeo-celadon-bottle",
+        "kammavacha-manuscript"
+      ],
+      "intent_vs_result": "拟补约鲁巴，实际得到 Nok 文化（不同文化），约鲁巴仍零覆盖",
+      "multi_source_discrepancies": [
+        "Nok 年代三说（文化栏两说 + 热释光 20–620 CE）",
+        "Nok 女性制作者论据细目未取得",
+        "高丽青瓷金继修补的跨文化价值"
+      ],
+      "new_sources": 5,
+      "sources_total": 327,
+      "entries_total": 185,
+      "pages": 220,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(220页)",
+      "audit_all": "9/9 ok",
+      "commits": 1
     }
   ]
 }

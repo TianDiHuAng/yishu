@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 180 个条目、26 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 185 个条目、26 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -265,6 +265,8 @@
 | hokusai-muneyuki-poem | 《源宗于朝臣》（北斋） | 作品 | 19世纪 | 日本 | 绘画 | 重要 | O1 |
 | hokusai-hitomaro-poem | 《柿本人麻吕》（北斋） | 作品 | 19世纪 | 日本 | 绘画 | 重要 | O1 |
 | hokusai-nakahara-sagami | 《相模中原》（北斋） | 作品 | 19世纪 | 日本 | 绘画 | 重要 | O1 |
+| goryeo-celadon-bottle | 高丽青瓷镶嵌菊纹瓶 | 作品 | 13—14世纪 | 东亚 | 综合 | 重要 | O1 |
+| kammavacha-manuscript | 缅甸 Kammavacha 戒律文书 | 作品 | 19世纪 | 东南亚 | 综合 | 重要 | O1 |
 
 ## art-islamic（伊斯兰艺术（西亚·中亚））
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -281,6 +283,7 @@
 | benin-plaque | 贝宁宫庭铜牌（两名侍从扶王） | 作品 | 15—16世纪 | 非洲 | 综合 | 重要 | O1 |
 | benin-ancestral-head | 贝宁祖灵纪念头像（uhunmwun-elao） | 作品 | 16世纪 | 非洲 | 雕塑 | 重要 | O1 |
 | african-art | 非洲艺术（撒哈拉以南） | 风格 | 12—20世纪 | 非洲 | 综合 | 核心 | O1 |
+| nok-terracotta-head | Nok 文化陶塑头像 | 作品 | 公元前1世纪—公元7世纪 | 非洲 | 雕塑 | 重要 | O1 |
 
 ## art-americas（美洲原住民与前哥伦布艺术）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -288,6 +291,8 @@
 | maya-el-peru-stela | 埃尔佩鲁石碑正面（瓦卡） | 作品 | 7世纪 | 美洲 | 雕塑 | 重要 | O1 |
 | aztec-feathered-serpent | 阿兹特克羽蛇（克察尔科亚特尔） | 作品 | 15—16世纪 | 美洲 | 雕塑 | 重要 | O1 |
 | americas-art | 美洲原住民与前哥伦布艺术 | 风格 | 3—16世纪 | 美洲 | 综合 | 核心 | O1 |
+| moche-bat-vessel | 莫切蝙蝠形陶瓶 | 作品 | 3—9世纪 | 美洲 | 雕塑 | 重要 | O1 |
+| inca-tunic | 印加束腰外衣（tunic） | 作品 | 15—16世纪 | 美洲 | 综合 | 重要 | O1 |
 
 ## art-oceania（太平洋艺术（大洋洲））
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

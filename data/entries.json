@@ -3783,7 +3783,8 @@
       "overview": "构图以等级安排大小：王者居中且形体更大；两名侍从自两侧扶持被重礼服饰压住的王。",
       "related": [
         "benin-ancestral-head",
-        "african-art"
+        "african-art",
+        "nok-terracotta-head"
       ],
       "sources": [
         "cma-1999-1"
@@ -3903,7 +3904,8 @@
       "overview": "宫廷行会铸造、等级化构图、以材质象征王权（如铜的恒久）是现有节点的共同特征；其余地区尚无条目。",
       "related": [
         "benin-plaque",
-        "benin-ancestral-head"
+        "benin-ancestral-head",
+        "nok-terracotta-head"
       ],
       "sources": [
         "cma-1999-1",
@@ -3924,7 +3926,9 @@
       "overview": "统治者纪念性石碑与神祇图像是现有节点的两端；玉、格查尔羽与石灰岩等材料承担身份与神圣含义。",
       "related": [
         "maya-el-peru-stela",
-        "aztec-feathered-serpent"
+        "aztec-feathered-serpent",
+        "moche-bat-vessel",
+        "inca-tunic"
       ],
       "sources": [
         "cma-1967-29",
@@ -3950,6 +3954,104 @@
       "sources": [
         "cma-1954-147",
         "cma-1963-554"
+      ]
+    },
+    {
+      "id": "moche-bat-vessel",
+      "title": "莫切蝙蝠形陶瓶",
+      "kind": "作品",
+      "unit": "art-americas",
+      "era": "3—9世纪",
+      "region": "美洲",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "秘鲁北岸莫切文化的陶瓶，克利夫兰艺术博物馆藏（2005.6）；塑造一只展翅欲飞的大耳褐蝠。",
+      "when": "200—850年",
+      "overview": "莫切匠人对写实与「动作顶点」的把握在此可见；蝙蝠兼具飞行与兽毛的矛盾特征，可能与生死过渡相关。",
+      "related": [
+        "inca-tunic",
+        "americas-art"
+      ],
+      "sources": [
+        "cma-2005-6"
+      ]
+    },
+    {
+      "id": "inca-tunic",
+      "title": "印加束腰外衣（tunic）",
+      "kind": "作品",
+      "unit": "art-americas",
+      "era": "15—16世纪",
+      "region": "美洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "印加帝国贵族专属的挂毯织造外衣，克利夫兰艺术博物馆藏（1957.136）。",
+      "when": "约1400—1540年",
+      "overview": "以交错挂毯法织成，纹样为常见的「印加键（Inca Key）」；由国家再分配给忠诚的藩属。",
+      "related": [
+        "moche-bat-vessel",
+        "americas-art"
+      ],
+      "sources": [
+        "cma-1957-136"
+      ]
+    },
+    {
+      "id": "nok-terracotta-head",
+      "title": "Nok 文化陶塑头像",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "公元前1世纪—公元7世纪",
+      "region": "非洲",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "尼日利亚中部 Nok 文化的赤陶头像，克利夫兰艺术博物馆藏（1995.21），热释光测年为公元20—620年。",
+      "when": "热释光测年 20—620 CE",
+      "overview": "为撒哈拉以南非洲最早的巨型具象雕塑传统之一；发掘显示多件曾被有意打碎置于铺地之下，指向仪式行为。",
+      "related": [
+        "benin-plaque",
+        "african-art"
+      ],
+      "sources": [
+        "cma-1995-21"
+      ]
+    },
+    {
+      "id": "goryeo-celadon-bottle",
+      "title": "高丽青瓷镶嵌菊纹瓶",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "13—14世纪",
+      "region": "东亚",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "高丽王朝青瓷长颈酒瓶，克利夫兰艺术博物馆藏（1918.454）；镶嵌白与黑泥的野菊纹。",
+      "when": "1200—1300年代",
+      "overview": "野菊既是「饮酒」诗意象，也寓意长寿；口沿破损处曾以金漆修补（日本称 kintsugi）。",
+      "related": [
+        "kammavacha-manuscript"
+      ],
+      "sources": [
+        "cma-1918-454"
+      ]
+    },
+    {
+      "id": "kammavacha-manuscript",
+      "title": "缅甸 Kammavacha 戒律文书",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "19世纪",
+      "region": "东南亚",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "缅甸的佛教授戒仪式文书，克利夫兰艺术博物馆藏（1945.172）；漆叶、贴金与玻璃镶嵌。",
+      "when": "1800年代",
+      "overview": "在家信众为仪式出资制作；巴利文以缅甸体书写；倒数第二叶画有赞颂状的天人（nats）。",
+      "related": [
+        "goryeo-celadon-bottle"
+      ],
+      "sources": [
+        "cma-1945-172"
       ]
     }
   ]

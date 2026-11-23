@@ -1,0 +1,19 @@
+{
+ "id": "moche-bat-vessel",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本瓶出自秘鲁北岸的莫切文化，克利夫兰艺术博物馆定年为200—850年（据该馆藏品记录）。莫切文化属中央安第斯北岸传统。",
+  "风格特征": "该馆说明称，这只蝙蝠「或许正在展翅欲飞」，用以说明莫切匠人对**写实**与**动作顶点**的兴趣。也就是说，作品捕捉的不是静止的形，而是一个即将发生的动作。",
+  "代表人物与作品": "作者未见于记录。相关条目见印加束腰外衣与美洲原住民与前哥伦布艺术。",
+  "技法或形式分析": "材质为陶器施化妆土（ceramic, slip），整体18.4 × 17.7 × 15.8厘米（据该馆藏品记录）。器形与塑形结合，使器物本身成为动物的立体形象，而非仅在表面绘画。",
+  "与前后风格的关系和争论": "该馆提出一个有意思的解释：蝙蝠能飞却长毛而非羽毛，这种「矛盾特征」可能使莫切人把蝙蝠与**过渡状态**（如生死之间）联系起来。这属该馆的解读，本条目如实转述。另有一点可作为该器物学术价值的注脚：它描绘的是 **Histiotus mochica**——一个2021年才被研究者描述的大耳褐蝠新种，命名即因此瓶而致敬莫切人。",
+  "一图": "示意图以莫切写实取向、动作顶点与「过渡状态」解读三者关系标示本瓶。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「蝙蝠象征生死过渡」是该馆的解释，未核专门研究；（3）2021年新种命名的文献未取得原文，仅据该馆说明；（4）莫切陶器的制作与烧成工艺未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='moche-bat-vessel 示意图'><title>moche-bat-vessel</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>莫切·200—850</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>北岸传统</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>蝙蝠瓶</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>展翅欲飞</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>动作顶点</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>写实</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>过渡状态</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>生死?</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>莫切蝙蝠瓶：写实、动作与象征</text></g></svg>",
+ "sources": [
+  "cma-2005-6"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；象征解读与新种命名均据该馆说明，未核原文。"
+}
