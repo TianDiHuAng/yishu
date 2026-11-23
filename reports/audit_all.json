@@ -3,7 +3,7 @@
   {
    "step": "py_compile（全部工具可编译）",
    "status": "ok",
-   "tail": "239 个 .py 全部通过"
+   "tail": "242 个 .py 全部通过"
   },
   {
    "step": "check.py（R1-R19 硬规则）",
