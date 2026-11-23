@@ -1779,6 +1779,40 @@
       "check_links_result": "broken=0(243页)",
       "audit_all": "11/11 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle62",
+      "date": "2026-11-23",
+      "status": "completed",
+      "gap_methods": [
+        "SVG 窄屏可读性审计"
+      ],
+      "network": "partial",
+      "new_entries": 0,
+      "fixes": 2,
+      "problem": {
+        "viewBox": "760x300",
+        "label_px": 15,
+        "scale_at_320px": 0.37,
+        "rendered_label_px": 5.5
+      },
+      "fix": {
+        "media_query": "max-width:700px → svg min-width 680px + frame overflow-x:auto",
+        "font_bump": "label 15→16px, sub 12→13px"
+      },
+      "after": {
+        "scale_at_320px": 0.89,
+        "rendered_label_px": 14.3
+      },
+      "new_check": "usability 第 10 项（须含窄屏 SVG 规则）",
+      "audit_steps": 11,
+      "entries_total": 208,
+      "sources_total": 339,
+      "pages": 243,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(243页)",
+      "audit_all": "11/11 ok",
+      "commits": 1
     }
   ]
 }

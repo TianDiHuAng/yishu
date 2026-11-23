@@ -71,9 +71,10 @@ a:hover{border-bottom-color:var(--accent)}
 .section-block p{color:var(--ink);font-size:1.02rem}
 .svg-frame{background:var(--card);border:1px solid var(--rule);border-radius:var(--radius);padding:20px;box-shadow:var(--shadow);overflow-x:auto}
 .svg-frame svg{width:100%;height:auto;display:block}
-.svg-label{fill:var(--svg-text);font-family:var(--sans);font-size:15px;font-weight:600}
+@media (max-width:700px){.svg-frame{overflow-x:auto}.svg-frame svg{width:680px;min-width:680px;height:auto}}
+.svg-label{fill:var(--svg-text);font-family:var(--sans);font-size:16px;font-weight:600}
 .svg-label-strong{fill:var(--accent);font-size:17px}
-.svg-sub{fill:var(--ink-soft);font-family:var(--sans);font-size:12px}
+.svg-sub{fill:var(--ink-soft);font-family:var(--sans);font-size:13px}
 .svg-caption{fill:var(--ink-faint);font-family:var(--sans);font-size:12px}
 .svg-box{fill:var(--svg-box);stroke:var(--rule);stroke-width:1.5}
 .svg-box-accent{fill:var(--svg-box-strong);stroke:var(--accent-soft);stroke-width:1.5}

@@ -15,7 +15,7 @@ import json,os,glob,re,sys
 ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 pages=sorted(glob.glob(os.path.join(ROOT,"*.html"))+glob.glob(os.path.join(ROOT,"entries","*.html"))+glob.glob(os.path.join(ROOT,"units","*.html")))
 bad={"no_h1":[],"multi_h1":[],"skip_level":[],"no_viewport":[],"no_lang":[],"table_no_thead":[],
-     "broken_anchor":[],"has_img":[],"no_skip_link":[],"no_nav":[],"unwrapped_table":[]}
+     "broken_anchor":[],"has_img":[],"no_skip_link":[],"no_nav":[],"unwrapped_table":[],"svg_narrow_rule":[]}
 for p in pages:
     h=open(p,encoding="utf-8").read()
     rel=os.path.relpath(p,ROOT)
@@ -42,6 +42,8 @@ for p in pages:
     if h.count("<table")>h.count("class='table-wrap'"):
         bad["unwrapped_table"].append(rel)
 css=open(os.path.join(ROOT,"assets","style.css"),encoding="utf-8").read()
+if "@media (max-width:700px)" not in css or "min-width:680px" not in css:
+    bad["svg_narrow_rule"].append("assets/style.css")
 wide=[m.group(0) for m in re.finditer(r"width:\s*(\d{3,4})px",css) if int(m.group(1))>900]
 print("页数:",len(pages))
 tot=0
