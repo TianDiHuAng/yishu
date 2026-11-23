@@ -13,8 +13,29 @@
    "to_dom": "art"
   }
  ],
- "oneway_count": 0,
- "oneway_sample": [],
+ "oneway_count": 5,
+ "oneway_sample": [
+  [
+   "degas",
+   "impressionism"
+  ],
+  [
+   "rodin",
+   "realism-art"
+  ],
+  [
+   "rodin-age-of-bronze",
+   "realism-art"
+  ],
+  [
+   "mi-youren-cloudy-mountains",
+   "song-painting"
+  ],
+  [
+   "mi-youren-cloudy-mountains",
+   "china-painting-history"
+  ]
+ ],
  "top_inbound": [
   [
    "baroque-music",
@@ -37,6 +58,10 @@
    8
   ],
   [
+   "china-painting-history",
+   8
+  ],
+  [
    "20th-century-classical",
    8
   ],
@@ -45,17 +70,13 @@
    7
   ],
   [
+   "impressionism",
+   7
+  ],
+  [
    "modern-art",
    7
-  ],
-  [
-   "china-painting-history",
-   7
-  ],
-  [
-   "renaissance",
-   6
   ]
  ],
- "total_links": 430
+ "total_links": 439
 }

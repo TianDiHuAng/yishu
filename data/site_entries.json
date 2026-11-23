@@ -1459,7 +1459,8 @@
       "overview": "代表作《印象·日出》《睡莲》系列，长期探索光色变化与同一题材的系列画。",
       "related": [
         "impressionism",
-        "post-impressionism"
+        "post-impressionism",
+        "degas"
       ],
       "sources": [
         "enc-monet",
@@ -5265,6 +5266,137 @@
         "待核实": "（1）精确起止年代仅为概述给出的9—15世纪框架，具体分期待第二来源核实；（2）具体建造国王、建筑师姓名与各寺建造年份未在输入中给出，待补充；（3）石材种类、砌筑工法与结构跨度的数值不写入正文；（4）【来源分工说明】结构特征与形制描述依据已核验的 Wikipedia 专页（高棉艺术、吴哥）；Wikidata 仅确认实体身份与正式名称（描述为寺庙建筑群），不提供年代数据；三者同属 Wikimedia 体系，独立性不足，年代类断言一律留在待核实。 （5）「近现代被重新记录与研究」的具体年代与研究者未在输入中给出，待补充第二来源（原稿曾写「19世纪后」，因来源未支撑已删去）。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='高棉建筑 示意图'><title>高棉建筑</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>台基</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>抬高主体</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>回廊浮雕</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>叙事组织</text><rect class='svg-box-accent' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='665.0' y='142' text-anchor='middle'>中心塔</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>统摄构图</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>塔庙的台基—回廊—中心塔层级</text></g></svg>"
+    },
+    {
+      "id": "degas",
+      "title": "埃德加·德加",
+      "kind": "人物",
+      "unit": "art-impression",
+      "era": "19世纪",
+      "region": "法国",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "法国画家，以芭蕾舞者与后台场景题材著称，常被列入印象派群体但对这一标签持保留。",
+      "when": "1834—1917年",
+      "overview": "以粉彩层叠技法描绘舞者与日常瞬间，偏好非舞台正面的私密视角；芭蕾题材作品逾千件。",
+      "related": [
+        "impressionism",
+        "monet"
+      ],
+      "sources": [
+        "cma-1916-1043"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "德加1834年生于巴黎一个银行家家庭（据克利夫兰艺术博物馆艺术家记录）。他1853年依父愿入法学院，但此前已在卢浮宫登记临摹；1855年进入巴黎美术学院，师从安格尔一系的路易·拉莫特（Louis Lamothe，1822—1869）。1856年前后赴意大利三年，往来那不勒斯与佛罗伦萨，并在罗马的美第奇别墅参加人体课。1861年诺曼底之行可能使他接触赛马题材；1862年在卢浮宫结识马奈。1865至1870年间他持续在沙龙展出。普法战争爆发时他入伍炮兵，因视力不佳改在步兵服役（与马奈同队）。战后他先赴伦敦，1872—73年又到新奥尔良探望远亲。",
+        "风格特征": "德加1874年参加第一届印象派展览，此后直至1886年持续与该群体一同展出，但他从未完全自认属于该群体，更愿称自己为「现实主义者或自然主义者」（据该馆艺术家记录）。与许多印象派画家在户外写生不同，德加在画室中对着模特工作，晚年更依赖想象。芭蕾舞者与女性裸体是他反复处理的母题；他并不热衷谢幕的舞台正面，而偏好后台与排练中的私密时刻。",
+        "代表人物与作品": "德加的创作遍及油画、版画、独幅版画（monotype）、粉彩、雕塑与摄影。本条目相关作品为克利夫兰艺术博物馆藏《舞者》（Dancers，约1896年，藏品号1916.1043），该馆说明称其为粉彩与炭笔，绘三名舞者在侧台一同伸展、不为观者所觉。他与马奈、莫奈同处19世纪后半的巴黎艺术圈；相关条目见莫奈与印象派。",
+        "技法或形式分析": "《舞者》以粉彩加炭笔绘于描图纸上，后裱于纸并衬灰板；画心尺寸55.7 × 41.4厘米（据该馆藏品记录）。该馆说明指出：粉彩的黄、橙、粉色层层叠加形成粗糙表面，是他晚期粉彩的典型面貌；他曾发展出专门技法，使颜色能够一层层堆叠，并在不透明与透明之间取得不同层次，作品浓密的表面与颤动的色调由此而来。",
+        "与前后风格的关系和争论": "德加与印象派的关系本身即是一个有史料支撑的分歧点：他1874年起参加该群体的展览直至1886年，却始终拒绝被归为该群体成员，自称现实主义者或自然主义者；他坚持画室作业与素描传统，也与户外写生的同人路径不同。1886年之后他不再参加群体展览，转而通过杜朗-吕埃尔（Durand-Ruel）、沃拉尔（Ambroise Vollard）等画商出售作品。1890年代他开始自建收藏，藏有安格尔、塞尚、德拉克洛瓦、高更、梵高等人的作品；其晚年笔触更宽、色彩更艳，该馆记录将其部分归因于视力问题。",
+        "一图": "示意图以「安格尔—拉莫特」的学院训练、1874—1886年的印象派展览、以及画室作业与粉彩技法三者的关系，标示德加的位置。",
+        "待核实": "（1）本条目的人物事实取自单一机构（克利夫兰艺术博物馆）的艺术家记录与其藏品说明，未获第二独立来源，故标记待核实；（2）生卒年1834—1917与该记录一致，但未以第二来源核对；（3）「现实主义者或自然主义者」的自述出自该馆记录的转述，未核对原始文献；（4）《舞者》的创作年代该馆记为约1896年（区间1891—1901），精确年份待核。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='degas 示意图'><title>degas</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>安格尔—拉莫特</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>学院训练</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>德加</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1834—1917</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>1874—1886</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>印象派展览</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>粉彩层叠</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>舞者母题</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>德加：学院训练、印象派展览与粉彩技法的关系</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "本条目人物事实取自单一机构（克利夫兰艺术博物馆）的艺术家记录与藏品说明，尚未取得第二独立来源；生卒年、自述「现实主义/自然主义者」等均需外部核对。详见各节与待核实。"
+    },
+    {
+      "id": "rodin",
+      "title": "奥古斯特·罗丹",
+      "kind": "人物",
+      "unit": "art-modern",
+      "era": "19—20世纪",
+      "region": "法国",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "法国雕塑家，以强调人体表面起伏与心理张力著称，常被视为现代雕塑的重要起点。",
+      "when": "1840—1917年",
+      "overview": "代表作《青铜时代》《思想者》；常去除叙事道具以突出身体本身，生前声名与争议并存。",
+      "related": [
+        "realism-art",
+        "rodin-age-of-bronze"
+      ],
+      "sources": [
+        "cma-1918-328",
+        "vam-o1758562"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "罗丹1840年生于法国，1917年去世（据克利夫兰艺术博物馆对其作品的创作者记录所载「Auguste Rodin (French, 1840–1917)」）。他的成名与19世纪后半法国公共雕塑的争议环境相关：其早期等身作品《青铜时代》完成于1875—76年，1880年代起他着手为拟建的装饰艺术博物馆创作《地狱之门》，并由此衍生出《思想者》等独立作品。",
+        "风格特征": "该馆对《青铜时代》的说明指出：作品塑造一名「初醒」的男性裸体，原本一手持矛；罗丹去掉这一道具，使雕像摆脱叙事符号，转而集中于男性裸体的感官性与心理强度。这种「去除叙事、突出身体」的处理是他被反复讨论的特征。他同时重视表面质感与光影起伏，作品常以极完整的人体塑造呈现瞬间状态。",
+        "代表人物与作品": "代表作包括《青铜时代》（1875—76年；克利夫兰藏本为1916年受委托铸造，藏品号1918.328）与《思想者》。英国维多利亚与艾尔伯特博物馆藏有他的《花子面具（E 型习作）》（Mask of Hanako, Type E Study，1912年，馆藏号O1758562），该件为玻璃膏（paste/glass）材质、高22厘米，说明其面貌研究亦以非青铜材料进行。相关条目见《青铜时代》与现实主义（艺术）。",
+        "技法或形式分析": "《青铜时代》为青铜铸件，含底座整体尺寸182.2 × 66.4 × 47厘米（据该馆藏品记录）。该馆说明称：本铸件由博物馆理事拉尔夫·金（Ralph King）于1916年向艺术家本人订制以捐赠本馆，罗丹亲自监督了这次极精细的铸造，并以他偏爱的深红色泽收尾，他称之为「碎葡萄」（crushed grape）。作品底座题记可见「Rodin」署名，背面另有铸造者铭文「A. RUDIER Fondeur Paris」，即巴黎的鲁迪埃铸造坊。",
+        "与前后风格的关系和争论": "《青铜时代》引发的争议有明确记载：该馆说明称，同时代人觉得这具人体过于写实，误指罗丹是从活人身上直接翻模。这一指控构成他早期声誉的关键事件，也反映出当时学院派对「写实到何种程度仍属雕塑创作」的判断分歧。在风格脉络上，他上承19世纪学院写实与纪念性雕塑，下启以人体姿态与表面处理表达心理状态的现代雕塑路径；他与印象派的关系则常被讨论为「以雕塑回应光与表面」，但本条目未取得支撑该说法的来源，故不作断言。",
+        "一图": "示意图以学院写实、公共纪念性雕塑两条来路，与「去除叙事、突出身体」的转向及《青铜时代》争议之间的关系。",
+        "待核实": "（1）本条目事实取自机构藏品与创作者记录（克利夫兰艺术博物馆；维多利亚与艾尔伯特博物馆藏有其1912年作品），两馆均可达，但尚无传记类来源，故生平细节（学艺经历、工作室传承、与卡蜜儿·克洛岱尔的关系等）一概未写入；（2）1840—1917 生卒年取自克利夫兰的创作者记录，未以第二来源核对；（3）《青铜时代》原作现藏机构与原始尺寸未取得来源，本条目只述克利夫兰藏本；（4）「以雕塑回应光与表面」一类评价性说法缺来源，未写入正文。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='rodin 示意图'><title>rodin</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>学院写实</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>19世纪</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>罗丹</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1840—1917</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>《青铜时代》</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>1875—76</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>去叙事·重身体</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>现代雕塑</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>罗丹：从学院写实到以身体表达心理</text></g></svg>"
+    },
+    {
+      "id": "rodin-age-of-bronze",
+      "title": "罗丹《青铜时代》",
+      "kind": "作品",
+      "unit": "work-archives",
+      "era": "19世纪",
+      "region": "法国",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "奥古斯特·罗丹的青铜雕像，克利夫兰艺术博物馆藏（1918.328），为其现存最早等身雕塑。",
+      "when": "1875—76年（本铸件1916年铸造）",
+      "overview": "塑造一名初醒的男性裸体；原持矛而作者去之，使观者专注身体的感觉与心理强度；因高度写实曾被误指为真人翻模。",
+      "related": [
+        "rodin",
+        "realism-art"
+      ],
+      "sources": [
+        "cma-1918-328"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "《青铜时代》完成于1875—76年，是罗丹现存最早的等身雕塑（据克利夫兰艺术博物馆藏品说明）。本条目所记为克利夫兰的铸件：1916年由该馆理事拉尔夫·金向罗丹订制，随后捐赠入藏（1918年入藏，藏品号1918.328）。",
+        "风格特征": "作品是一具初醒的男性裸体。该馆说明称其为「谜一般的、挑衅性的」形象，表现一个人「醒向新的意识」。原像一手持矛，罗丹去掉武器后，雕像不再承担叙事符号，观者的注意力被引向男性裸体的感官性与心理强度。",
+        "代表人物与作品": "作者为奥古斯特·罗丹（1840—1917）。相关条目见罗丹与现实主义（艺术）。同名作品存在多个铸件，本条目只描述克利夫兰藏本，不推断其他版本。",
+        "技法或形式分析": "材质为青铜；含底座整体尺寸182.2 × 66.4 × 47厘米。底座题记右侧可见「Rodin」，背面有铸造者铭文「A. RUDIER Fondeur Paris」。该馆说明记载：罗丹亲自监督本次铸造，并以偏爱的深红色泽收尾，他称之为「碎葡萄」（crushed grape）。",
+        "与前后风格的关系和争论": "围绕本作最著名的争议有明确史料：同时代人因其高度写实，误指罗丹是从活人身上翻模（据该馆说明）。这一指控把「写实」与「铸造复制」的界线推到台前：质疑者认为其逼真程度超出雕塑创作的可能，罗丹一方则以作品为独立塑造回应。该事件也标示出19世纪学院雕塑规范与现代雕塑实践之间的张力。",
+        "一图": "示意图标示《青铜时代》的构成要素：罗丹、去除叙事的裸体、写实争议与1916年铸件之间的关系。",
+        "待核实": "（1）本条目全部作品事实来自单一机构（克利夫兰艺术博物馆）的藏品记录与说明，双源独立性未满足，故整条标记待核实；（2）原作（1877年沙龙展出本）的现藏机构、原始尺寸与铸造谱系未取得来源；（3）「误指翻模」的具体当事人、年份与后续澄清过程该馆说明未详述，待补充；（4）该馆说明称其为「现存最早的等身雕塑」，此一「最早」判断未以第二来源核对。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='rodin-age-of-bronze 示意图'><title>rodin-age-of-bronze</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>罗丹</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>作者</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>去矛的裸体</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>去叙事</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>写实争议</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>误指翻模</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>1916 铸件</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>A. RUDIER</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>《青铜时代》：去叙事的身体与写实争议</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "本条目作品事实取自单一机构（克利夫兰艺术博物馆）藏品记录；原作现藏机构、铸造谱系与「误指翻模」事件细节待补第二来源。"
+    },
+    {
+      "id": "mi-youren-cloudy-mountains",
+      "title": "米友仁《云山图》",
+      "kind": "作品",
+      "unit": "work-archives",
+      "era": "12世纪",
+      "region": "中国",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "米友仁作手卷，克利夫兰艺术博物馆藏（1933.220），为其南渡后有纪年与自题之作。",
+      "when": "1130年",
+      "overview": "以湿墨点累积营造云山迷蒙氛围，承其父米芾一脉的墨戏传统；卷后有作者自题纪年与记事。",
+      "related": [
+        "song-painting",
+        "china-painting-history"
+      ],
+      "sources": [
+        "cma-1933-220"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "1127年北宋亡于女真军事进攻后，米友仁（1072—1151）南渡长江。1130年他抵达浙江新昌，以此画答谢曾收留他的主人（据克利夫兰艺术博物馆藏品说明与创作者记录）。该馆将本卷定年为1130年，并归入南宋（1127—1279）语境。",
+        "风格特征": "该馆说明称，本卷呈现「葱郁而雾气弥漫的江景」，是米友仁对新环境的印象，作于一段平静的时日。他与父亲米芾（1051—1107）共同发展出一种以累积湿墨点营造朦胧氛围的山景风格；米友仁为米芾长子。本卷为手卷，纸/绢本设色（ink and color on silk）。",
+        "代表人物与作品": "作者米友仁，北宋至南宋之际的文人画家与鉴定家，其父米芾为著名的艺术批评家与书画家（该馆说明称米芾为 art critic）。相关条目见宋代绘画与中国绘画史。本卷为该馆中国艺术部藏品（1933.220），由 J. H. Wade 基金购藏。",
+        "技法或形式分析": "画心尺寸43.7 × 192.6厘米，整体（含装裱）45.5 × 646.8厘米（据该馆藏品记录）。该馆说明强调其技法核心是「累积湿墨点」以形成雾气与山的体积；这类墨点堆叠不同于轮廓勾勒与皴法的线性描写，在视觉上产生柔化边界、空间后退的效果。卷后存作者自题，文句含纪年与「辟地新昌作」等语，并钤「元晖戏作」印。",
+        "与前后风格的关系和争论": "米氏云山在画史上被视为文人墨戏一路的代表，与其父米芾并称；该馆说明把二人的做法描述为「以累积湿墨点创造朦胧氛围」的共同风格特征。关于本卷的真伪、以及「米氏云山」在图示谱系中的位置，学界长期存在不同判断，但本条目未取得可核验的两方材料，故不就争议本身下结论。",
+        "一图": "示意图以米芾—米友仁的墨点传统、南渡经历与本卷（1130年）之间的关系标示其位置。",
+        "待核实": "（1）本条目事实来自单一机构（克利夫兰艺术博物馆）的藏品记录与说明，双源独立性未满足，整条标记待核实；（2）作者生卒1072—1151取自该馆创作者记录，未以第二来源核对；（3）卷后题记的完整释文与英译在该馆记录中仅有片段，本条目只引用可与记录对应的部分，全文待补；（4）流传与鉴藏史该馆仅有 provenance 条目，未展开，待补专门研究；（5）真伪与断代的不同意见缺可核验来源，未写入正文。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='mi-youren-cloudy-mountai 示意图'><title>mi-youren-cloudy-mountai</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>米芾</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1051—1107</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>米友仁</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1072—1151</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>南渡·1130</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>新昌</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>湿墨点</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>云山氛围</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>米友仁《云山图》：墨点传统与南渡经历</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "本条目作品事实取自单一机构（克利夫兰艺术博物馆）藏品记录；题记全文、流传鉴藏史与真伪争议待补专门来源。"
     }
   ]
 }

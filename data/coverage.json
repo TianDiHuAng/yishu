@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 145,
+    "total": 149,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 22,
@@ -1753,6 +1753,54 @@
       "pending_notes": "",
       "last_update": "2026-11-22",
       "source_independence_ok": true
+    },
+    "degas": {
+      "title": "埃德加·德加",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "rodin": {
+      "title": "奥古斯特·罗丹",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 2,
+      "verified_sources_count": 2,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "rodin-age-of-bronze": {
+      "title": "罗丹《青铜时代》",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "mi-youren-cloudy-mountains": {
+      "title": "米友仁《云山图》",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
     }
   }
 }

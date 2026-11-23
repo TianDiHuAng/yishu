@@ -2789,6 +2789,46 @@
       "type": "权威结构化数据（身份锚点）",
       "verified": true,
       "verified_note": "Cycle32 中文别名检索 + 逐条核对口径后采纳；仅作身份锚点，不作事实依据"
+    },
+    {
+      "id": "cma-1916-1043",
+      "title": "Cleveland Museum of Art — Edgar Degas, Dancers (c. 1896), acc. 1916.1043",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1916.1043",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 实测 openaccess-api 端点 HTTP 200（JSON 完整记录）；机构公网页 https://clevelandart.org/art/1916.1043 在本构建环境不可达（000），如需人读页面可访问该地址"
+    },
+    {
+      "id": "cma-1918-328",
+      "title": "Cleveland Museum of Art — Auguste Rodin, The Age of Bronze (1875–76), acc. 1918.328",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1918.328",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 实测 openaccess-api 端点 HTTP 200（JSON 完整记录）；机构公网页 https://clevelandart.org/art/1918.328 在本构建环境不可达（000），如需人读页面可访问该地址"
+    },
+    {
+      "id": "vam-o1758562",
+      "title": "Victoria and Albert Museum — Auguste Rodin, Mask of Hanako, Type E Study (1912), O1758562",
+      "author": "Victoria and Albert Museum（V&A API v2）",
+      "year": "2026",
+      "url": "https://collections.vam.ac.uk/item/O1758562/",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 api.vam.ac.uk/v2/museumobject/O1758562 HTTP 200：title/材料(paste glass)/高度22cm"
+    },
+    {
+      "id": "cma-1933-220",
+      "title": "Cleveland Museum of Art — Mi Youren, Cloudy Mountains (1130), acc. 1933.220",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1933.220",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 实测 openaccess-api 端点 HTTP 200（JSON 完整记录）；机构公网页 https://clevelandart.org/art/1933.220 在本构建环境不可达（000），如需人读页面可访问该地址"
     }
   ]
 }

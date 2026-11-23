@@ -664,7 +664,8 @@
       "overview": "反对浪漫化的历史与神话题材，主张客观描绘当下社会现实，库尔贝为代表。",
       "related": [
         "romanticism-art",
-        "impressionism"
+        "impressionism",
+        "rodin"
       ],
       "sources": [
         "enc-realism-art",
@@ -706,7 +707,8 @@
       "overview": "笔触松散、色彩明亮，直接记录视觉印象；由莫奈《印象·日出》的评论得名。",
       "related": [
         "realism-art",
-        "post-impressionism"
+        "post-impressionism",
+        "degas"
       ],
       "sources": [
         "enc-impressionism",
@@ -748,7 +750,8 @@
       "overview": "代表作《印象·日出》《睡莲》系列，长期探索光色变化与同一题材的系列画。",
       "related": [
         "impressionism",
-        "post-impressionism"
+        "post-impressionism",
+        "degas"
       ],
       "sources": [
         "enc-monet",
@@ -1210,7 +1213,8 @@
       "overview": "经历人物画、山水画、花鸟画的成熟，强调笔墨、气韵与诗书画印结合。",
       "related": [
         "tang-painting",
-        "song-painting"
+        "song-painting",
+        "mi-youren-cloudy-mountains"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -1252,7 +1256,8 @@
       "overview": "郭熙、范宽等建立全景山水范式，苏轼等提倡文人画，强调意境与笔墨。",
       "related": [
         "tang-painting",
-        "yuan-painting"
+        "yuan-painting",
+        "mi-youren-cloudy-mountains"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -3042,6 +3047,87 @@
         "enc-khmer-art",
         "enc-angkor",
         "wd-angkor-wat"
+      ]
+    },
+    {
+      "id": "degas",
+      "title": "埃德加·德加",
+      "kind": "人物",
+      "unit": "art-impression",
+      "era": "19世纪",
+      "region": "法国",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "法国画家，以芭蕾舞者与后台场景题材著称，常被列入印象派群体但对这一标签持保留。",
+      "when": "1834—1917年",
+      "overview": "以粉彩层叠技法描绘舞者与日常瞬间，偏好非舞台正面的私密视角；芭蕾题材作品逾千件。",
+      "related": [
+        "impressionism",
+        "monet"
+      ],
+      "sources": [
+        "cma-1916-1043"
+      ]
+    },
+    {
+      "id": "rodin",
+      "title": "奥古斯特·罗丹",
+      "kind": "人物",
+      "unit": "art-modern",
+      "era": "19—20世纪",
+      "region": "法国",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "法国雕塑家，以强调人体表面起伏与心理张力著称，常被视为现代雕塑的重要起点。",
+      "when": "1840—1917年",
+      "overview": "代表作《青铜时代》《思想者》；常去除叙事道具以突出身体本身，生前声名与争议并存。",
+      "related": [
+        "realism-art",
+        "rodin-age-of-bronze"
+      ],
+      "sources": [
+        "cma-1918-328",
+        "vam-o1758562"
+      ]
+    },
+    {
+      "id": "rodin-age-of-bronze",
+      "title": "罗丹《青铜时代》",
+      "kind": "作品",
+      "unit": "work-archives",
+      "era": "19世纪",
+      "region": "法国",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "奥古斯特·罗丹的青铜雕像，克利夫兰艺术博物馆藏（1918.328），为其现存最早等身雕塑。",
+      "when": "1875—76年（本铸件1916年铸造）",
+      "overview": "塑造一名初醒的男性裸体；原持矛而作者去之，使观者专注身体的感觉与心理强度；因高度写实曾被误指为真人翻模。",
+      "related": [
+        "rodin",
+        "realism-art"
+      ],
+      "sources": [
+        "cma-1918-328"
+      ]
+    },
+    {
+      "id": "mi-youren-cloudy-mountains",
+      "title": "米友仁《云山图》",
+      "kind": "作品",
+      "unit": "work-archives",
+      "era": "12世纪",
+      "region": "中国",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "米友仁作手卷，克利夫兰艺术博物馆藏（1933.220），为其南渡后有纪年与自题之作。",
+      "when": "1130年",
+      "overview": "以湿墨点累积营造云山迷蒙氛围，承其父米芾一脉的墨戏传统；卷后有作者自题纪年与记事。",
+      "related": [
+        "song-painting",
+        "china-painting-history"
+      ],
+      "sources": [
+        "cma-1933-220"
       ]
     }
   ]

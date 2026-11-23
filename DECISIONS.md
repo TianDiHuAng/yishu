@@ -333,3 +333,19 @@
 - **理由**：状态页是给读者看的"承诺页"，数字必须与数据一致且口径正确。**口径错了比数字错了更危险**——10 条会让读者以为建筑覆盖已相当可观，实际只有 4 条专条。
 - **可逆方式**：回退到硬编码（不推荐）。
 - **代价**：状态页每次生成多一次统计；`_arch` 口径写死为"专条"，若将来新增"建筑"前缀媒介需同步。
+
+## D043 — Cycle40 新通道：博物馆开放数据 API 可达，新增 4 条目（145 → 149）
+- **事实（2026-11-23 实测）**：`en/zh.wikipedia.org`、`metmuseum.org`、`tate.org.uk`、`web.archive.org`、`api.wikimedia.org`、`commons`、`wikidata.org` 全部 **HTTP 000（不可达）**；而以下通道可用：
+  - **Cleveland Museum of Art 开放数据 API**（`openaccess-api.clevelandart.org`）：200，含 title/dates/technique/measurements/accession/credit/provenance/**策展说明正文**/`creators`（含生卒与传记）。
+  - **V&A API v2**（`api.vam.ac.uk`）：200，藏品检索与对象记录、材料与尺寸、部分艺术家信息。
+  - **Met object API**：**仅按对象 ID 可取**（436535 等），**检索接口已下线（410）**，无法按关键词发现藏品。
+  - **Europeana API**（demo key）：200，但针对本批作品命中的都是**无关记录**（同名图书、苔藓标本等），不可作第二来源。
+  - **DBpedia**：SPARQL 与 /data/ 均可访问，但该实例**不含英文 abstract**（仅短 description），不能当正文来源。
+- **决定**：
+  1. 新增来源类型「**权威机构藏品记录**」，URL 一律指向**实测 200 的 API 端点**；机构公网页（如 `clevelandart.org/art/…`）在本环境 000，故写入 `verified_note` 备注而非直接引用。
+  2. **新增 4 条目**：`degas`（1834—1917）、`rodin`（1840—1917）、`rodin-age-of-bronze`（罗丹《青铜时代》，CMA 1918.328）、`mi-youren-cloudy-mountains`（米友仁《云山图》，CMA 1933.220）。条目 145 → **149**。
+  3. **独立性如实标注**：`rodin` 有 2 个**不同机构**来源（CMA + V&A）；`degas`、`rodin-age-of-bronze`、`mi-youren-cloudy-mountains` 仅**单机构**，已按 R10 标 `needs_verification` 并在待核实首条写明「单一机构来源」。
+  4. 只用机构记录能支撑的内容写作：**事实**（题名/纪年/材质/尺寸/藏品号/来源/题记/铭文）与**明确署名的策展说明**；评价性、谱系性判断一律留白进待核实。
+- **理由**：这是本会话**第一次拿到可引用的机构级正文**（CMS 策展说明 + 艺术家传记），质量高于此前只能用的结构化数据；但同样必须守住"不据单一来源下断言"的红线，故单机构条目一律标记待核实，而不是靠"两条同馆文档"伪装双源。
+- **可逆方式**：删除 4 条 overlay 与 catalog 元组、移除 4 条来源；`build_scope.py` 重跑即回到 145。
+- **代价**：3 条条目带 `needs_verification`（本就如此，非新增缺陷）；Met 检索下线意味着无法系统发现 Met 藏品，只能被动获得对象 ID。

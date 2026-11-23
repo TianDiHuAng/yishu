@@ -33,3 +33,23 @@
   - 不可达：`en/zh.wikipedia.org`、`metmuseum.org`、`tate.org.uk`
   - 可达但只有反爬壳页：`baike.baidu.com`（`__PARIS_CHALLENGE__`）、`khanacademy.org`（`Client Challenge`）、`britannica.com`（Cloudflare 403）
   - **含义**：事实**定位与交叉印证**可借 Wikidata 进行；但 Wikidata 与 Wikipedia **同源**，独立性不足，**不足以单独支撑 L3 的两方真实立场**。
+
+## Cycle40 通道再测绘（2026-11-23）
+
+| 主机/端点 | 状态 | 说明 |
+|---|---|---|
+| en/zh.wikipedia.org | 000 | 不可达（此前亦如此） |
+| api.wikimedia.org / commons / wikidata.org | 000 | **本轮新增不可达**（此前 Wikidata 可用） |
+| web.archive.org | 000 | 存档读取亦不可用 |
+| dbpedia.org（/data/、/sparql） | **200** | 可查，但**无英文 abstract**，仅短 description |
+| openaccess-api.clevelandart.org | **200** | 完整藏品记录 + 策展说明 + creators 传记 ✅ |
+| clevelandart.org（网页） | 000 | API 可用但网页不可达 |
+| api.vam.ac.uk | **200** | 藏品检索/对象/材料/尺寸 ✅ |
+| collections.vam.ac.uk/item/... | **200** | 对象页可达 ✅ |
+| collectionapi.metmuseum.org（objects/{id}） | **200** | 仅按 ID；**search 已 410** |
+| api.europeana.eu（demo key） | **200** | 命中多为无关记录 |
+| api.smk.dk | **200** | 丹麦国立美术馆藏品 |
+| gutenberg / smarthistory / metmuseum.org / tate / nga / moma / unesco / persee | 000/403/503 | 不可用 |
+| WikiArt | 200 | 可达但非权威，未采用 |
+
+**结论**：内容来源从"仅 Wikidata"升级为"**博物馆 API + V&A + Europeana + SMK**"，可支撑作品级事实与策展说明；仍无法获取百科/专著级别的通史叙述。

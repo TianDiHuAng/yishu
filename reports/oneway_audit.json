@@ -1,5 +1,44 @@
 {
- "total_oneway": 0,
- "by_class": {},
- "rows": []
+ "total_oneway": 5,
+ "by_class": {
+  "same_unit": 1,
+  "same_domain": 4
+ },
+ "rows": [
+  {
+   "from": "degas",
+   "to": "impressionism",
+   "class": "same_unit",
+   "from_unit": "art-impression",
+   "to_unit": "art-impression"
+  },
+  {
+   "from": "rodin",
+   "to": "realism-art",
+   "class": "same_domain",
+   "from_unit": "art-modern",
+   "to_unit": "art-neo-romantic"
+  },
+  {
+   "from": "rodin-age-of-bronze",
+   "to": "realism-art",
+   "class": "same_domain",
+   "from_unit": "work-archives",
+   "to_unit": "art-neo-romantic"
+  },
+  {
+   "from": "mi-youren-cloudy-mountains",
+   "to": "song-painting",
+   "class": "same_domain",
+   "from_unit": "work-archives",
+   "to_unit": "art-china-painting"
+  },
+  {
+   "from": "mi-youren-cloudy-mountains",
+   "to": "china-painting-history",
+   "class": "same_domain",
+   "from_unit": "work-archives",
+   "to_unit": "art-china-painting"
+  }
+ ]
 }
