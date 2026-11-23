@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 232 个条目、27 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 236 个条目、27 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -284,6 +284,10 @@
 | mihrab-isfahan | 伊斯法罕祈祷龛 | 作品 | 16世纪 | 西亚·中亚 | 建筑 | 重要 | O1 |
 | iznik-dish-artichokes | 伊兹尼克洋蓟纹大盘 | 作品 | 16世纪 | 西亚·中亚 | 综合 | 重要 | O1 |
 | nishapur-figural-bowl | 尼沙布尔人物纹碗 | 作品 | 10世纪 | 西亚·中亚 | 综合 | 重要 | O1 |
+| iznik-mosque-lamp | 伊兹尼克清真寺灯 | 作品 | 16世纪 | 西亚·中亚 | 综合 | 重要 | O1 |
+| minai-beaker | 米纳伊人物杯（坐着的王子） | 作品 | 12—13世纪 | 西亚·中亚 | 综合 | 重要 | O1 |
+| luster-dish-prince | 卡尚光泽彩人物盘 | 作品 | 12—13世纪 | 西亚·中亚 | 综合 | 重要 | O1 |
+| iznik-tile-spandrel | 伊兹尼克花卉纹砖（拱肩） | 作品 | 16世纪 | 西亚·中亚 | 建筑 | 重要 | O1 |
 
 ## art-africa（非洲艺术（撒哈拉以南））
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

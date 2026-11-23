@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 232,
+    "total": 236,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 27,
@@ -2788,6 +2788,54 @@
     },
     "mangbetu-harp": {
       "title": "曼贝图竖琴（domu 或 kundi）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "iznik-mosque-lamp": {
+      "title": "伊兹尼克清真寺灯",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "minai-beaker": {
+      "title": "米纳伊人物杯（坐着的王子）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "luster-dish-prince": {
+      "title": "卡尚光泽彩人物盘",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "iznik-tile-spandrel": {
+      "title": "伊兹尼克花卉纹砖（拱肩）",
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
