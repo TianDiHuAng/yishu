@@ -11,25 +11,25 @@
 | 阶段 | 要求 | 状态 | 证据 |
 |---|---|---|---|
 | 阶段0 范围 | scope.md + coverage.json + 覆盖矩阵 | ✅ | `scope.md`（6 份权威大纲并集）、`data/coverage.json`、`reports/覆盖矩阵.md` |
-| 阶段1 来源库 | ≥80 条，逐页核对后 verified | ✅ | `data/sources.json` **279 条全部 verified**（另 5 条不可核验者在 `sources_quarantine.json`） |
-| 阶段2 校验器 | 必填/日期/来源/重复/链接/SVG/一致性 | ✅ | `tools/check.py` R1–R18，errors=0 |
+| 阶段1 来源库 | ≥80 条，逐页核对后 verified | ✅ | `data/sources.json` **431 条全部 verified**（另 11 预备 / 5 隔离） |
+| 阶段2 校验器 | 必填/日期/来源/重复/链接/SVG/一致性 | ✅ | `tools/check.py` R1–R22，errors=0 |
 | 阶段3 样板 | 2 条到 L2 通过检查 | ✅ | impressionism / baroque-music（后续均已扩展） |
-| 阶段4 分批写作 | L1 先行，每轮 ≤40 条，逐步升 L2/L3 | ✅ | 全部 145 条：L2 139 / L3 6 / **L1 = 0** |
-| 阶段5 总览 | 总览/索引/时间线/导航/REPORT | ✅ | index / units×22 / timeline / people / glossary / all-index / sources / entities / status + `REPORT.md` |
-| 站点生成 | `gen_site.py` 产出以 `index.html` 为首页 | ✅ | 176 页，`check_links` 0 断链 |
+| 阶段4 分批写作 | L1 先行，每轮 ≤40 条，逐步升 L2/L3 | ✅ | 全部 **300** 条：L2 296 / L3 4 / **L1 = 0** |
+| 阶段5 总览 | 总览/索引/时间线/导航/REPORT | ✅ | index / units×28 / timeline / people / glossary / all-index / sources / entities / status + `REPORT.md` |
+| 站点生成 | `gen_site.py` 产出以 `index.html` 为首页 | ✅ | 337 页，`check_links` 0 断链 |
 | 批次复检 | 每 20 条抽检 4 条 | ✅ | `reports/复检记录.md`（含返工与复核记录） |
 
-## 二、最终数字（Cycle 39 验证）
+## 二、最终数字（Cycle 89 验证）
 
 | 指标 | 数值 |
 |---|---|
-| 条目 | 292（L2 288 / L3 4 / L1 0） |
-| 重要性 | 核心 48 · 重要 85 · 补充 12（核心与重要全部 ≥L2） |
-| 单元 | **28**（新增陶瓷工艺） |
-| 来源 | 423（全部被引用且 verified；隔离区 5 + 预备 11） |
+| 条目 | **300**（L2 296 / L3 4 / L1 0） |
+| 重要性 | 核心 **89** · 重要 **199** · 补充 12（核心与重要全部 ≥L2） |
+| 单元 | **28**（新增陶瓷工艺 / 乐器 / 中国陶瓷工艺） |
+| 来源 | **431**（全部被引用且 verified；隔离区 5 + 预备 11） |
 | Wikidata 来源 | 120（43 结构化事实 + 77 身份锚点） |
-| 条目↔实体 | 118 / 145 = **81%** |
-| 页面 | 329，站内断链 **0** |
+| 条目↔实体 | 118 / 300 ≈ **39%**（Wikidata 仅为身份锚点/结构化事实） |
+| 页面 | **337**，站内断链 **0** |
 | 硬规则 | R1–R18 **errors=0** |
 | 八步体检 | **8/8 通过**（py_compile 156 工具 / 硬规则 / 链接 / 九维 / 自洽 / 关联图 / 单向 / 渲染+HTML结构） |
 | 来源活性 | **120 / 120 HTTP 200** |
