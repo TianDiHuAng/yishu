@@ -1,0 +1,19 @@
+{
+ "id": "maya-el-peru-stela",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本石碑定年为692年，出自危地马拉佩滕省埃尔佩鲁（El Perú-Waka’），属玛雅古典期（据克利夫兰艺术博物馆说明）。该馆指出，玛雅统治者以华丽的肖像纪念其统治的里程碑，本件纪念的是二十年周期 k’atun 的通过。",
+  "风格特征": "碑面为一位女性统治者的肖像。她原本立于广场上，旁边是其配偶的肖像，二人共同统治这座外省的玛雅城镇。该馆说明称，她出身邻近玛雅中心的强大家族，权威似乎高于其夫，并曾担任军事总督。",
+  "代表人物与作品": "本件为克利夫兰艺术博物馆藏品（1967.29）。相关条目见阿兹特克羽蛇。她的姓名在纪录中以称号与谱系关系呈现，本条目不臆造读音。",
+  "技法或形式分析": "材质为石灰岩，整体274.4 × 182.3厘米（据该馆藏品记录）。该馆说明指出，其头饰有一排绿色格查尔（quetzal）羽毛的扇形，首饰可能指玉——二者都是古代中美洲最受珍视的材料；玉珠也可能构成覆盖头部的网状部分。",
+  "与前后风格的关系和争论": "把女性统治者与配偶并置于广场、并以 k’atun 为纪年单位，是理解玛雅王权展示方式的关键线索；该馆据此推断她的权力位置。关于埃尔佩鲁在古典期政治网络中的角色，学界有专门研究，本条目未取得。",
+  "一图": "示意图以 k’atun 纪年、双人并置的广场设置与材质象征三者关系标示本碑。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「权威高于其夫、曾任军事总督」是该馆的解释，未与铭文研究对照；（3）石碑原址的考古语境（与配偶碑的相对位置）该馆以附图说明，本条目未取得该图；（4）石灰岩的风化与保护状况未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='maya-el-peru-stela 示意图'><title>maya-el-peru-stela</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>k’atun</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>二十年周期</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>女性统治者</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>692年</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>双碑并置</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>广场</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>玉与格查尔羽</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>身份象征</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>埃尔佩鲁石碑：纪年、并置与材质</text></g></svg>",
+ "sources": [
+  "cma-1967-29"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；对权力关系的解读未与铭文研究对照。"
+}

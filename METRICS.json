@@ -1257,6 +1257,44 @@
       "check_links_result": "broken=0(203页)",
       "audit_all": "8/8 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle47",
+      "date": "2026-11-23",
+      "status": "completed",
+      "gap_methods": [
+        "按 AP 内容区块系统排查遗漏"
+      ],
+      "network": "partial: museum APIs ok",
+      "new_entries": 6,
+      "new_entry_ids": [
+        "benin-plaque",
+        "benin-ancestral-head",
+        "maya-el-peru-stela",
+        "aztec-feathered-serpent",
+        "maori-hei-tiki",
+        "asmat-war-shield"
+      ],
+      "new_units": [
+        "art-africa",
+        "art-americas",
+        "art-oceania"
+      ],
+      "units_total": 26,
+      "finding": "除伊斯兰艺术外，非洲/美洲原住民/太平洋三区块同样从未种下（矩阵自我掩盖）",
+      "must_state_issues": [
+        "贝宁铜牌1897年被英军取走、1898入BM",
+        "贝宁头像祭坛→展柜语境转换",
+        "阿兹特克羽蛇真伪未定"
+      ],
+      "new_sources": 6,
+      "sources_total": 322,
+      "entries_total": 177,
+      "pages": 212,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(212页)",
+      "audit_all": "8/8 ok",
+      "commits": 1
     }
   ]
 }

@@ -106,7 +106,7 @@
  },
  "link_audit": {
   "cross_domain": 2,
-  "oneway": 40,
-  "total_links": 488
+  "oneway": 42,
+  "total_links": 496
  }
 }

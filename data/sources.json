@@ -3159,6 +3159,66 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；土陶釉下装饰、8×35.6cm；说明含萨珊金属器传统与狩猎母题"
+    },
+    {
+      "id": "cma-1999-1",
+      "title": "Cleveland Museum of Art — Plaque, Benin Kingdom, 1500s–1600s, acc. 1999.1",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1999.1",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；铜合金 45.7×38.1cm；说明含1897年英军取走与1898年入不列颠博物馆"
+    },
+    {
+      "id": "cma-1938-6",
+      "title": "Cleveland Museum of Art — Ancestral Commemorative Head, Benin Kingdom, acc. 1938.6",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1938.6",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；铜合金与铁 29.9×21.6×20.4cm；说明含祭祖功能与今日陈列的对比"
+    },
+    {
+      "id": "cma-1967-29",
+      "title": "Cleveland Museum of Art — Front Face of a Stela, El Perú-Waka', Maya, 692 CE, acc. 1967.29",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1967.29",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；石灰岩 274.4×182.3cm；说明含 k'atun 纪年与统治者身份"
+    },
+    {
+      "id": "cma-1941-46",
+      "title": "Cleveland Museum of Art — Feathered Serpent (Quetzalcoatl), Aztec, acc. 1941.46",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1941.46",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；石材 27.7×20.1×22cm；说明明确讨论真伪存疑"
+    },
+    {
+      "id": "cma-1954-147",
+      "title": "Cleveland Museum of Art — Pendant (Hei-tiki), Maori, 1800s, acc. 1954.147",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1954.147",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；软玉 11.2×5.5cm；说明含 mana 与 Hine-te-Iwaiwa"
+    },
+    {
+      "id": "cma-1963-554",
+      "title": "Cleveland Museum of Art — War Shield, Asmat, c. 1940, acc. 1963.554",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1963.554",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；彩绘木 176.5×60.3×7cm；说明含猎首宴与红树根取材"
     }
   ]
 }

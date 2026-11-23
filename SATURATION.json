@@ -571,6 +571,20 @@
       },
       "network": "partial (museum APIs)",
       "verdict": "新增伊斯兰艺术单元+5条（171/23单元）；两处馆方断代矛盾已如实标注；未饱和"
+    },
+    {
+      "cycle": "cycle47",
+      "date": "2026-11-23",
+      "methods_used": [
+        "AP区块排查"
+      ],
+      "gaps_found": {
+        "entries": 6,
+        "units": 3,
+        "note": "非洲/美洲/大洋洲整块遗漏"
+      },
+      "network": "partial (museum APIs)",
+      "verdict": "补 3 整块（177/26单元）；殖民来源与真伪争议写入正文；未饱和"
     }
   ],
   "assessment_c33": {

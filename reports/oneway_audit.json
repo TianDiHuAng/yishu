@@ -1,8 +1,8 @@
 {
- "total_oneway": 40,
+ "total_oneway": 42,
  "by_class": {
   "same_unit": 31,
-  "same_domain": 9
+  "same_domain": 11
  },
  "rows": [
   {
@@ -284,6 +284,20 @@
    "class": "same_unit",
    "from_unit": "art-asia",
    "to_unit": "art-asia"
+  },
+  {
+   "from": "benin-plaque",
+   "to": "islamic-art",
+   "class": "same_domain",
+   "from_unit": "art-africa",
+   "to_unit": "art-islamic"
+  },
+  {
+   "from": "benin-ancestral-head",
+   "to": "islamic-art",
+   "class": "same_domain",
+   "from_unit": "art-africa",
+   "to_unit": "art-islamic"
   }
  ]
 }
