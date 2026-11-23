@@ -514,6 +514,24 @@
       },
       "network": "partial (museum APIs)",
       "verdict": "3 条浮世绘「同作品双机构」条目（157）；未饱和"
+    },
+    {
+      "cycle": "cycle43",
+      "date": "2026-11-23",
+      "methods_used": [
+        "馆藏记录补缺口"
+      ],
+      "gaps_found": {
+        "entries": 4,
+        "closed": [
+          "印度佛教",
+          "南亚雕塑",
+          "明代",
+          "元代"
+        ]
+      },
+      "network": "partial (museum APIs)",
+      "verdict": "4 条馆藏作品填补实缺口（161）；均单机构已标记；未饱和"
     }
   ],
   "assessment_c33": {

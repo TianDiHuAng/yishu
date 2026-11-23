@@ -2969,6 +2969,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 V&A API HTTP 200；纸本 14.13 × 9.04 cm（与大判尺寸不同，版次待核）"
+    },
+    {
+      "id": "cma-1966-30",
+      "title": "Cleveland Museum of Art — Standing Buddha, Kashmir, c. 900, acc. 1966.30",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1966.30",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；黄铜嵌银铜、整体98.1cm、座上藏文题记"
+    },
+    {
+      "id": "cma-1977-34",
+      "title": "Cleveland Museum of Art — Corner Railing Pillar with Drinking Scenes, Mathura, 100s CE, acc. 1977.34",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1977.34",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；红砂岩 80×22.9×24cm"
+    },
+    {
+      "id": "cma-1979-27",
+      "title": "Cleveland Museum of Art — Chen Hongshou, Paintings after Ancient Masters, 1598–1652, acc. 1979.27",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1979.27",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；双册二十二开、30.2×26.7cm"
+    },
+    {
+      "id": "cma-1978-66",
+      "title": "Cleveland Museum of Art — Zhao Mengfu, River Village: Fisherman's Joy, c. 1302–3, acc. 1978.66",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1978.66",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；扇面裱为册页、28.6×30cm"
     }
   ]
 }

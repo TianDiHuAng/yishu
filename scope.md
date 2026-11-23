@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 157 个条目、22 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 161 个条目、22 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -256,6 +256,10 @@
 | hokusai-red-fuji | 《凯风快晴》（北斋） | 作品 | 19世纪 | 日本 | 绘画 | 重要 | O1 |
 | hiroshige-shono | 《庄野 白雨》（广重） | 作品 | 19世纪 | 日本 | 绘画 | 重要 | O1 |
 | hiroshige-ohashi-atake | 《大桥安宅骤雨》（广重） | 作品 | 19世纪 | 日本 | 绘画 | 重要 | O1 |
+| indian-standing-buddha-kashmir | 克什米尔立佛（克利夫兰藏） | 作品 | 9—10世纪 | 南亚 | 雕塑 | 重要 | O1 |
+| mathura-railing-pillar | 马图拉栏楯柱（饮酒、药叉女与乐人） | 作品 | 2世纪 | 南亚 | 雕塑 | 重要 | O1 |
+| chen-hongshou-album | 陈洪绶《仿古册》 | 作品 | 16—17世纪 | 中国 | 绘画 | 重要 | O6 |
+| zhao-mengfu-river-village | 赵孟頫《河村渔乐》 | 作品 | 14世纪 | 中国 | 绘画 | 重要 | O6 |
 
 ## work-archives（作品档案）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

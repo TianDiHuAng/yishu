@@ -1,8 +1,8 @@
 {
- "total_oneway": 19,
+ "total_oneway": 27,
  "by_class": {
-  "same_unit": 14,
-  "same_domain": 5
+  "same_unit": 18,
+  "same_domain": 9
  },
  "rows": [
   {
@@ -137,6 +137,62 @@
    "class": "same_unit",
    "from_unit": "art-asia",
    "to_unit": "art-asia"
+  },
+  {
+   "from": "indian-standing-buddha-kashmir",
+   "to": "buddhist-art-india",
+   "class": "same_unit",
+   "from_unit": "art-asia",
+   "to_unit": "art-asia"
+  },
+  {
+   "from": "indian-standing-buddha-kashmir",
+   "to": "indian-art",
+   "class": "same_unit",
+   "from_unit": "art-asia",
+   "to_unit": "art-asia"
+  },
+  {
+   "from": "mathura-railing-pillar",
+   "to": "indian-art",
+   "class": "same_unit",
+   "from_unit": "art-asia",
+   "to_unit": "art-asia"
+  },
+  {
+   "from": "mathura-railing-pillar",
+   "to": "buddhist-art-india",
+   "class": "same_unit",
+   "from_unit": "art-asia",
+   "to_unit": "art-asia"
+  },
+  {
+   "from": "chen-hongshou-album",
+   "to": "ming-painting",
+   "class": "same_domain",
+   "from_unit": "art-asia",
+   "to_unit": "art-china-painting"
+  },
+  {
+   "from": "chen-hongshou-album",
+   "to": "china-painting-history",
+   "class": "same_domain",
+   "from_unit": "art-asia",
+   "to_unit": "art-china-painting"
+  },
+  {
+   "from": "zhao-mengfu-river-village",
+   "to": "yuan-painting",
+   "class": "same_domain",
+   "from_unit": "art-asia",
+   "to_unit": "art-china-painting"
+  },
+  {
+   "from": "zhao-mengfu-river-village",
+   "to": "china-painting-history",
+   "class": "same_domain",
+   "from_unit": "art-asia",
+   "to_unit": "art-china-painting"
   }
  ]
 }

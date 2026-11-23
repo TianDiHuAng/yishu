@@ -3299,6 +3299,86 @@
         "cma-1921-318",
         "vam-o420904"
       ]
+    },
+    {
+      "id": "indian-standing-buddha-kashmir",
+      "title": "克什米尔立佛（克利夫兰藏）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "9—10世纪",
+      "region": "南亚",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "克什米尔地区所作立佛铜像，克利夫兰艺术博物馆藏（1966.30）；座上藏文题记提到一位王室僧人。",
+      "when": "约900年（座上题记涉及活动于约998—1026年的人物）",
+      "overview": "以一足微离莲座暗示佛由超越境界进入人间，右手施无畏印；表面磨蚀显示其曾受灌顶等仪式供养。",
+      "related": [
+        "buddhist-art-india",
+        "indian-art"
+      ],
+      "sources": [
+        "cma-1966-30"
+      ]
+    },
+    {
+      "id": "mathura-railing-pillar",
+      "title": "马图拉栏楯柱（饮酒、药叉女与乐人）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "2世纪",
+      "region": "南亚",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "贵霜期马图拉红砂岩栏楯柱，克利夫兰艺术博物馆藏（1977.34），雕饮酒歌舞的药叉女与乐人。",
+      "when": "公元100年代",
+      "overview": "柱身显示希腊罗马文化与犍陀罗风格对马图拉艺术的影响；基座另刻驼背女为肥硕药叉斟酒等场景。",
+      "related": [
+        "indian-art",
+        "buddhist-art-india"
+      ],
+      "sources": [
+        "cma-1977-34"
+      ]
+    },
+    {
+      "id": "chen-hongshou-album",
+      "title": "陈洪绶《仿古册》",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "16—17世纪",
+      "region": "中国",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "明末陈洪绶双册二十二开，克利夫兰艺术博物馆藏（1979.27），含山水、人物与花卉。",
+      "when": "1598—1652年",
+      "overview": "晚年代表作，风格古拙而精炼；人物与山水被缩小呈现，如微型园林与案头供石，于小中见大。",
+      "related": [
+        "ming-painting",
+        "china-painting-history"
+      ],
+      "sources": [
+        "cma-1979-27"
+      ]
+    },
+    {
+      "id": "zhao-mengfu-river-village",
+      "title": "赵孟頫《河村渔乐》",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "14世纪",
+      "region": "中国",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "赵孟頫青绿风格山水扇面（裱为册页），克利夫兰艺术博物馆藏（1978.66）。",
+      "when": "约1302—03年",
+      "overview": "融合南方平远水景与北方山水的尖峭树石特征，体现其在元代画坛的折中取向。",
+      "related": [
+        "yuan-painting",
+        "china-painting-history"
+      ],
+      "sources": [
+        "cma-1978-66"
+      ]
     }
   ]
 }
