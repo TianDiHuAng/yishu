@@ -56,6 +56,27 @@
    [
     "1600"
    ]
+  ],
+  [
+   "navajo-hubbell-rug",
+   "约1890—1910年",
+   [
+    "1540"
+   ]
+  ],
+  [
+   "navajo-chief-blanket-rug",
+   "约1900年",
+   [
+    "1860"
+   ]
+  ],
+  [
+   "hopi-canteen-katsina",
+   "1890年",
+   [
+    "1500"
+   ]
   ]
  ],
  "orphans": [],
@@ -112,6 +133,6 @@
  "link_audit": {
   "cross_domain": 2,
   "oneway": 0,
-  "total_links": 624
+  "total_links": 636
  }
 }

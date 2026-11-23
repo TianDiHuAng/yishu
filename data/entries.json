@@ -3941,7 +3941,11 @@
         "inca-tunic",
         "paracas-mantle",
         "chimu-litter-backrest",
-        "nazca-trophy-head-bowl"
+        "nazca-trophy-head-bowl",
+        "navajo-hubbell-rug",
+        "hopi-kachina-painting",
+        "navajo-chief-blanket-rug",
+        "hopi-canteen-katsina"
       ],
       "sources": [
         "cma-1967-29",
@@ -4532,6 +4536,86 @@
       ],
       "sources": [
         "cma-2010-445"
+      ]
+    },
+    {
+      "id": "navajo-hubbell-rug",
+      "title": "纳瓦霍 Hubbell 复兴风格地毯（Moki 条纹）",
+      "kind": "作品",
+      "unit": "art-americas",
+      "era": "19—20世纪",
+      "region": "北美洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "纳瓦霍（Diné）女艺人所作羊毛挂毯，克利夫兰艺术博物馆藏（1917.62）。",
+      "when": "约1890—1910年",
+      "overview": "并置两种旧纹样：阶梯状菱形与 Moki 条纹；Moki 来源不明，或来自普韦布洛，或来自1540年入西南的西班牙人。",
+      "related": [
+        "navajo-chief-blanket-rug",
+        "americas-art"
+      ],
+      "sources": [
+        "cma-1917-62"
+      ]
+    },
+    {
+      "id": "hopi-kachina-painting",
+      "title": "霍皮 Katsina 偶人图（Fred Kabotie 绘）",
+      "kind": "作品",
+      "unit": "art-americas",
+      "era": "20世纪",
+      "region": "北美洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "霍皮画家 Fred Kabotie（Naqavoy’ma）纸本水彩，克利夫兰艺术博物馆藏（1928.312）。",
+      "when": "约1920年代",
+      "overview": "画中为象征 katsina 的偶人雕刻；此类雕刻赠予霍皮女孩，用以教其认识世界与自身位置。",
+      "related": [
+        "hopi-canteen-katsina",
+        "americas-art"
+      ],
+      "sources": [
+        "cma-1928-312"
+      ]
+    },
+    {
+      "id": "navajo-chief-blanket-rug",
+      "title": "纳瓦霍「酋长毯」样式地毯（第四期）",
+      "kind": "作品",
+      "unit": "art-americas",
+      "era": "19—20世纪",
+      "region": "北美洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "仿 Diné 披肩毯样式的羊毛挂毯，克利夫兰艺术博物馆藏（1937.903）。",
+      "when": "约1900年",
+      "overview": "所谓 chief’s blanket 实为**误称**——Diné 并无酋长；1860年代 Bosque Redondo 囚禁后土著贸易网络崩解，织者转向外来收藏市场。",
+      "related": [
+        "navajo-hubbell-rug",
+        "americas-art"
+      ],
+      "sources": [
+        "cma-1937-903"
+      ]
+    },
+    {
+      "id": "hopi-canteen-katsina",
+      "title": "霍皮带 Katsina 面容水壶",
+      "kind": "作品",
+      "unit": "art-americas",
+      "era": "19世纪",
+      "region": "北美洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "霍皮陶制大水壶，克利夫兰艺术博物馆藏（1937.708）。",
+      "when": "1890年",
+      "overview": "自1500年代起霍皮女性依西班牙原型制大肚水壶；晚期为迎合欧美游客而加饰，此面容为**想象性描绘**而非真实 Katsina。",
+      "related": [
+        "hopi-kachina-painting",
+        "americas-art"
+      ],
+      "sources": [
+        "cma-1937-708"
       ]
     }
   ]

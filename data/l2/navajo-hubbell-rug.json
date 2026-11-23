@@ -1,0 +1,19 @@
+{
+ "id": "navajo-hubbell-rug",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为纳瓦霍（Diné）女艺人所作羊毛挂毯，克利夫兰艺术博物馆定年为约1890—1910年。该馆称纳瓦霍毯是「西南部文化丰富性的绝佳缩影」。",
+  "风格特征": "毯面并置**两种旧有纳瓦霍纹样**：**阶梯状菱形**与**Moki 条纹**。该馆指出，Moki 纹的来源**并不清楚**——它可能来自**普韦布洛**诸族（纳瓦霍自加拿大南迁后向他们学会了织造），也可能来自**西班牙人**（1540年进入西南，距纳瓦霍人抵达不久）。",
+  "代表人物与作品": "作者为纳瓦霍女性艺人（该馆记 female artist），个人未署名。相关条目见纳瓦霍「酋长毯」样式地毯与美洲原住民与前哥伦布艺术。本件为克利夫兰艺术博物馆藏品（1917.62）。",
+  "技法或形式分析": "材质为羊毛（Germantown 纱）挂毯织法，整体194.8 × 138.4厘米（据该馆藏品记录）。该馆指出纹样虽古，毯子却作于**约1900年**：当时纳瓦霍织者开始**为盎格鲁（白人）市场创新**，原本披在肩上的**披肩毯**由此转变为卖给外来者的**地毯**。",
+  "与前后风格的关系和争论": "该馆还引入一层观念背景：在纳瓦霍传说中，织造与**蜘蛛女（Spider-Woman）**相连——她在织机上以宇宙材料织出世界，因此织造被视为一种承载力量的活动。把这段神话与「为市场而生产」并置，本条目照录两侧，不试图调和。",
+  "一图": "示意图以旧纹样（菱形／Moki）、约1900年的市场转向与蜘蛛女传说三者关系标示本件。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）Moki 纹来源该馆明言不清，本条目并列两说而不择一；（3）「Hubbell」一名所指的交易站背景该馆说明未展开（标题含此名），需另查；（4）作者姓名与该毯的具体交易记录未取得。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='navajo-hubbell-rug 示意图'><title>navajo-hubbell-rug</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>旧纹样</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>菱形·Moki</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>约1900 挂毯</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>194.8×138.4</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'> Anglo 市场</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>披肩→地毯</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>蜘蛛女传说</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>织造即宇宙</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='590.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>纳瓦霍挂毯：纹样、市场与神话</text></g></svg>",
+ "sources": [
+  "cma-1917-62"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；Moki 来源不明；Hubbell 背景未展开。"
+}

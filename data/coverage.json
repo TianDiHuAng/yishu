@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 208,
+    "total": 212,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 26,
@@ -2500,6 +2500,54 @@
     },
     "kongo-corpus": {
       "title": "刚果基督受难像（Corpus）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "navajo-hubbell-rug": {
+      "title": "纳瓦霍 Hubbell 复兴风格地毯（Moki 条纹）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "hopi-kachina-painting": {
+      "title": "霍皮 Katsina 偶人图（Fred Kabotie 绘）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "navajo-chief-blanket-rug": {
+      "title": "纳瓦霍「酋长毯」样式地毯（第四期）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "hopi-canteen-katsina": {
+      "title": "霍皮带 Katsina 面容水壶",
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",

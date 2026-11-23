@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 208 个条目、26 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 212 个条目、26 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -316,6 +316,10 @@
 | paracas-mantle | 帕拉卡斯披巾 | 作品 | 公元前3—公元2世纪 | 美洲 | 综合 | 重要 | O1 |
 | chimu-litter-backrest | 奇穆抬舆靠背 | 作品 | 12—13世纪 | 美洲 | 综合 | 重要 | O1 |
 | nazca-trophy-head-bowl | 纳斯卡人首纹碗 | 作品 | 2—7世纪 | 美洲 | 综合 | 重要 | O1 |
+| navajo-hubbell-rug | 纳瓦霍 Hubbell 复兴风格地毯（Moki 条纹） | 作品 | 19—20世纪 | 北美洲 | 综合 | 重要 | O1 |
+| hopi-kachina-painting | 霍皮 Katsina 偶人图（Fred Kabotie 绘） | 作品 | 20世纪 | 北美洲 | 绘画 | 重要 | O1 |
+| navajo-chief-blanket-rug | 纳瓦霍「酋长毯」样式地毯（第四期） | 作品 | 19—20世纪 | 北美洲 | 综合 | 重要 | O1 |
+| hopi-canteen-katsina | 霍皮带 Katsina 面容水壶 | 作品 | 19世纪 | 北美洲 | 综合 | 重要 | O1 |
 
 ## art-oceania（太平洋艺术（大洋洲））
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

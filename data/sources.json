@@ -3389,6 +3389,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；铜合金 16.5×12.5×2.5cm；说明含几何化风格与穿孔手足"
+    },
+    {
+      "id": "cma-1917-62",
+      "title": "Cleveland Museum of Art — Hubbell Revival-Style Rug with Moki Stripes, Navajo, c. 1890–1910, acc. 1917.62",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1917.62",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；羊毛挂毯 194.8×138.4cm；说明含 Moki 纹来源不明与市场转向"
+    },
+    {
+      "id": "cma-1928-312",
+      "title": "Cleveland Museum of Art — Hopi Kachina Dolls (watercolor by Fred Kabotie), c. 1920s, acc. 1928.312",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1928.312",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；纸本水彩 47.6×31.1cm；说明含 katsina 教喻与画家 Naqavoy’ma"
+    },
+    {
+      "id": "cma-1937-903",
+      "title": "Cleveland Museum of Art — Fourth-Phase Chief Blanket Style Rug, Navajo, c. 1900, acc. 1937.903",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1937.903",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；羊毛挂毯 178.4×151.1cm；说明含「chief’s blanket」为误称与 Bosque Redondo"
+    },
+    {
+      "id": "cma-1937-708",
+      "title": "Cleveland Museum of Art — Canteen with a Katsina-like Face, Hopi, 1890, acc. 1937.708",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1937.708",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；陶器施化妆土 21.5×24.5cm；说明含西班牙原型与游客市场"
     }
   ]
 }

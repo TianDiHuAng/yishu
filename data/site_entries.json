@@ -6425,7 +6425,11 @@
         "inca-tunic",
         "paracas-mantle",
         "chimu-litter-backrest",
-        "nazca-trophy-head-bowl"
+        "nazca-trophy-head-bowl",
+        "navajo-hubbell-rug",
+        "hopi-kachina-painting",
+        "navajo-chief-blanket-rug",
+        "hopi-canteen-katsina"
       ],
       "sources": [
         "cma-1967-29",
@@ -7407,6 +7411,138 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='kongo-corpus 示意图'><title>kongo-corpus</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>交换网络</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>贸易·外交</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>刚果基督像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>铜合金</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>几何化</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>本地语汇</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>穿孔手足</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>受难图像</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>刚果基督像：网络、形式与图像</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（CMA）来源；Delenne 收藏背景与工艺未取得。"
+    },
+    {
+      "id": "navajo-hubbell-rug",
+      "title": "纳瓦霍 Hubbell 复兴风格地毯（Moki 条纹）",
+      "kind": "作品",
+      "unit": "art-americas",
+      "era": "19—20世纪",
+      "region": "北美洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "纳瓦霍（Diné）女艺人所作羊毛挂毯，克利夫兰艺术博物馆藏（1917.62）。",
+      "when": "约1890—1910年",
+      "overview": "并置两种旧纹样：阶梯状菱形与 Moki 条纹；Moki 来源不明，或来自普韦布洛，或来自1540年入西南的西班牙人。",
+      "related": [
+        "navajo-chief-blanket-rug",
+        "americas-art"
+      ],
+      "sources": [
+        "cma-1917-62"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为纳瓦霍（Diné）女艺人所作羊毛挂毯，克利夫兰艺术博物馆定年为约1890—1910年。该馆称纳瓦霍毯是「西南部文化丰富性的绝佳缩影」。",
+        "风格特征": "毯面并置**两种旧有纳瓦霍纹样**：**阶梯状菱形**与**Moki 条纹**。该馆指出，Moki 纹的来源**并不清楚**——它可能来自**普韦布洛**诸族（纳瓦霍自加拿大南迁后向他们学会了织造），也可能来自**西班牙人**（1540年进入西南，距纳瓦霍人抵达不久）。",
+        "代表人物与作品": "作者为纳瓦霍女性艺人（该馆记 female artist），个人未署名。相关条目见纳瓦霍「酋长毯」样式地毯与美洲原住民与前哥伦布艺术。本件为克利夫兰艺术博物馆藏品（1917.62）。",
+        "技法或形式分析": "材质为羊毛（Germantown 纱）挂毯织法，整体194.8 × 138.4厘米（据该馆藏品记录）。该馆指出纹样虽古，毯子却作于**约1900年**：当时纳瓦霍织者开始**为盎格鲁（白人）市场创新**，原本披在肩上的**披肩毯**由此转变为卖给外来者的**地毯**。",
+        "与前后风格的关系和争论": "该馆还引入一层观念背景：在纳瓦霍传说中，织造与**蜘蛛女（Spider-Woman）**相连——她在织机上以宇宙材料织出世界，因此织造被视为一种承载力量的活动。把这段神话与「为市场而生产」并置，本条目照录两侧，不试图调和。",
+        "一图": "示意图以旧纹样（菱形／Moki）、约1900年的市场转向与蜘蛛女传说三者关系标示本件。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）Moki 纹来源该馆明言不清，本条目并列两说而不择一；（3）「Hubbell」一名所指的交易站背景该馆说明未展开（标题含此名），需另查；（4）作者姓名与该毯的具体交易记录未取得。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='navajo-hubbell-rug 示意图'><title>navajo-hubbell-rug</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>旧纹样</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>菱形·Moki</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>约1900 挂毯</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>194.8×138.4</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'> Anglo 市场</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>披肩→地毯</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>蜘蛛女传说</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>织造即宇宙</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='590.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>纳瓦霍挂毯：纹样、市场与神话</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；Moki 来源不明；Hubbell 背景未展开。"
+    },
+    {
+      "id": "hopi-kachina-painting",
+      "title": "霍皮 Katsina 偶人图（Fred Kabotie 绘）",
+      "kind": "作品",
+      "unit": "art-americas",
+      "era": "20世纪",
+      "region": "北美洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "霍皮画家 Fred Kabotie（Naqavoy’ma）纸本水彩，克利夫兰艺术博物馆藏（1928.312）。",
+      "when": "约1920年代",
+      "overview": "画中为象征 katsina 的偶人雕刻；此类雕刻赠予霍皮女孩，用以教其认识世界与自身位置。",
+      "related": [
+        "hopi-canteen-katsina",
+        "americas-art"
+      ],
+      "sources": [
+        "cma-1928-312"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为霍皮画家 **Fred Kabotie**（原住民名 **Naqavoy’ma**）的纸本水彩，克利夫兰艺术博物馆定年为约1920年代。该馆指出，他是**美国印第安绘画现代学派**的关键艺术家之一，该学派始于1910年代**自学成才的普韦布洛画家**。",
+        "风格特征": "该馆说明先给出 katsina（katsinas）的定义：它们是自然世界中万物——植物、动物、云等——的**神圣灵性本质**，是西南部印第安普韦布洛（村落）宗教的核心；在仪式季，由**着盛装的男子在舞蹈中**将其人格化。",
+        "代表人物与作品": "画面「似乎描绘的是代表 katsina 的**偶人（dolls）**」——即雕刻偶人，而非舞蹈者本身。该馆指出，此类雕刻**赠予霍皮女孩**，用以教她们认识世界与自身在其中的位置。画面最左侧两件与**玉米**相关：男性 **Hemis katsina** 与女性 **Hemis Mana katsina**。相关条目见霍皮带面容水壶与美洲原住民与前哥伦布艺术。",
+        "技法或形式分析": "材质为纸本水彩，画面47.6 × 31.1厘米（据该馆藏品记录）。以水彩描绘木雕偶人，等于**用绘画转译雕刻**；该馆用「似乎（seems to）」描述画面内容，说明这一判断是就其视觉证据作出的。",
+        "与前后风格的关系和争论": "把「灵性本质」「男子舞蹈人格化」「赠予女孩的教具」三层并置，可以看出 katsina 并非单一物件类别，而是**宗教概念—仪式实践—教育媒介**的链条；本条目据此不把画中偶人简单称为「玩偶」。",
+        "一图": "示意图以 katsina 概念、仪式舞蹈与赠予女孩的偶人三者关系标示本画的内容层次。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）画面「描绘偶人」该馆用 seems，属依据视觉的判断；（3）画中其余偶人的名称未逐一列出；（4）Fred Kabotie 生平与该画创作缘起未取得。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='hopi-kachina-painting 示意图'><title>hopi-kachina-painting</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>katsina</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>万物灵性本质</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>水彩画</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1920s</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>男子舞蹈</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>人格化</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>赠女孩的偶人</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>教喻</text><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>Katsina：概念、仪式与教具</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；画面判读该馆用 seems；其余偶人名未列。"
+    },
+    {
+      "id": "navajo-chief-blanket-rug",
+      "title": "纳瓦霍「酋长毯」样式地毯（第四期）",
+      "kind": "作品",
+      "unit": "art-americas",
+      "era": "19—20世纪",
+      "region": "北美洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "仿 Diné 披肩毯样式的羊毛挂毯，克利夫兰艺术博物馆藏（1937.903）。",
+      "when": "约1900年",
+      "overview": "所谓 chief’s blanket 实为**误称**——Diné 并无酋长；1860年代 Bosque Redondo 囚禁后土著贸易网络崩解，织者转向外来收藏市场。",
+      "related": [
+        "navajo-hubbell-rug",
+        "americas-art"
+      ],
+      "sources": [
+        "cma-1937-903"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为纳瓦霍（Diné）羊毛挂毯，克利夫兰艺术博物馆定年为约1900年，属「第四期酋长毯样式」。",
+        "风格特征": "该馆说明称，此毯**仿自一种被珍视的 Diné 服装类型**——披在肩上的**防水毯**。到1700年代晚期，其他原住民族积极以物易物换取此类毯子，并按**图案分期**分类。",
+        "代表人物与作品": "作者为纳瓦霍织者（该馆记 Native North American, Southwest, Navajo (Diné)），个人未署名。相关条目见纳瓦霍 Hubbell 复兴风格地毯与美洲原住民与前哥伦布艺术。本件为克利夫兰艺术博物馆藏品（1937.903）。",
+        "技法或形式分析": "材质为手纺与 Germantown、bayeta 羊毛的挂毯织法，整体178.4 × 151.1厘米（据该馆藏品记录）。三种纱线并用，说明原料来源多元（家纺纱、商用纱与拆解重织的贸易布）。",
+        "与前后风格的关系和争论": "该馆点出两处**必须保留的纠正**：其一，「chief’s blanket（酋长毯）」是**误称**——**Diné 并无酋长**；其二，1860年代 Diné 被囚于 **Bosque Redondo** 的惨痛经历之后，**原住民贸易渠道崩解**，织者因此从「为本族与外族交易而制衣」转向「为外来收藏市场制作地毯」。也就是说，今天我们看到的「样式」，诞生于一场强制迁移之后的生计重构。",
+        "一图": "示意图以披肩毯功能、误称的命名与 Bosque Redondo 后的市场转向三者关系标示本件。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）Bosque Redondo 囚禁的具体年份与人数该馆只作概述，未展开；（3）「第四期」分期标准的出处未取得；（4）bayeta 纱的来源（拆解贸易布）未参见文献。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='navajo-chief-blanket-rug 示意图'><title>navajo-chief-blanket-rug</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>Diné 披肩毯</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>防水·可交易</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>仿制挂毯</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>c.1900</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>「酋长」误称</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>Diné 无酋长</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>Bosque Redon</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>1860s 后转向</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='590.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>酋长毯样式：功能、误称与转向</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；分期标准与囚禁细节未取得。"
+    },
+    {
+      "id": "hopi-canteen-katsina",
+      "title": "霍皮带 Katsina 面容水壶",
+      "kind": "作品",
+      "unit": "art-americas",
+      "era": "19世纪",
+      "region": "北美洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "霍皮陶制大水壶，克利夫兰艺术博物馆藏（1937.708）。",
+      "when": "1890年",
+      "overview": "自1500年代起霍皮女性依西班牙原型制大肚水壶；晚期为迎合欧美游客而加饰，此面容为**想象性描绘**而非真实 Katsina。",
+      "related": [
+        "hopi-kachina-painting",
+        "americas-art"
+      ],
+      "sources": [
+        "cma-1937-708"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明称，自**1500年代**起，霍皮女性便依**西班牙原型**制作**大肚水壶**，用以携带饮水。本件定年为1890年。",
+        "风格特征": "到1800年代晚期，这类水壶在**欧美游客**中变得流行——他们涌入西南部，寻求与「异域」印第安文化的相遇。该馆指出，霍皮艺人因此**为器物添加装饰**以提升吸引力。本件所绘面容**类似** Katsina（普韦布洛宗教中的灵性存在），但该馆明确说明：这是一幅**想象性的描绘（fanciful rendition），并非真实的 Katsina**。",
+        "代表人物与作品": "作者为霍皮女性陶工（该馆记 Pueblo, Hopi；性别依据见下节说明）。相关条目见霍皮 Katsina 偶人图与美洲原住民与前哥伦布艺术。本件为克利夫兰艺术博物馆藏品（1937.708）。",
+        "技法或形式分析": "材质为陶器施化妆土（ceramic, slip），整体21.5 × 24.5厘米（据该馆藏品记录）。「Since the 1500s, Hopi women made…」这一表述把制作与**女性**绑定，本条目照录该馆的性别归属，不额外推断具体个人。",
+        "与前后风格的关系和争论": "本条目最值得注意的是该馆以一个**反问**收束：既然面容并非真实 Katsina 而是想象性的，那么「**制作者是否在以这种方式掌握自己的文化，以及文化被外来者消费的过程？**」——该馆把它作为**问题**提出，未作答。本条目**原样保留为问句**，不代其给出结论。",
+        "一图": "示意图以西班牙原型、游客市场与「想象性面容」三者关系标示本件，并标注该馆的反问。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「制作者是否借此掌握文化消费」是该馆提出的**开放问题**，本条目不作判断；（3）本件制作者姓名与出土地未记录；（4）「西班牙原型」的具体器形比较未展开。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='hopi-canteen-katsina 示意图'><title>hopi-canteen-katsina</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>西班牙原型</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1500s 起源</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>大肚水壶</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1890</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>游客市场</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>加饰求售</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>想象性面容</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>非真 Katsina</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>霍皮水壶：原型、市场与想象性面容</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；馆方的反问保留为问句，未代答。"
     }
   ]
 }
