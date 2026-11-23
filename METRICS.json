@@ -1876,6 +1876,39 @@
       "check_links_result": "broken=0(251页)",
       "audit_all": "11/11 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle65",
+      "date": "2026-11-23",
+      "status": "completed",
+      "gap_methods": [
+        "enc-* 结构层复核"
+      ],
+      "network": "partial",
+      "new_entries": 0,
+      "fixes": 5,
+      "enc_entries": 145,
+      "source_count_dist": {
+        "2": 26,
+        "3": 106,
+        "4": 4,
+        "5": 7,
+        "6": 1,
+        "8": 1
+      },
+      "real_errors": [
+        "5 处 wiki/QQ 双 Q 打字错误（delacroix/donatello/leonardo/monteverdi/vermeer）"
+      ],
+      "tool_bug_fixed": "URL 正则排除 ASCII ) 导致 5 个假阳性",
+      "limits": "只能证明链接一致，不能证明正文与 Wikipedia 原文一致",
+      "audit_steps": 12,
+      "entries_total": 216,
+      "sources_total": 347,
+      "pages": 251,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(251页)",
+      "audit_all": "12/12 ok",
+      "commits": 1
     }
   ]
 }

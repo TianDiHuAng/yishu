@@ -3,7 +3,7 @@
   {
    "step": "py_compile（全部工具可编译）",
    "status": "ok",
-   "tail": "272 个 .py 全部通过"
+   "tail": "275 个 .py 全部通过"
   },
   {
    "step": "check.py（R1-R21 硬规则）",
@@ -64,6 +64,12 @@
    "returncode": 0,
    "status": "ok",
    "tail": "style.css 过大固定宽度: []"
+  },
+  {
+   "step": "enc_audit_c65.py（enc 条目结构/URL 一致）",
+   "returncode": 0,
+   "status": "ok",
+   "tail": "问题：0"
   }
  ],
  "fails": 0,
