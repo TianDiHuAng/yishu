@@ -3932,7 +3932,8 @@
         "moche-bat-vessel",
         "inca-tunic",
         "paracas-mantle",
-        "chimu-litter-backrest"
+        "chimu-litter-backrest",
+        "nazca-trophy-head-bowl"
       ],
       "sources": [
         "cma-1967-29",
@@ -4114,7 +4115,8 @@
       "overview": "竖穴墓中以多层织物裹尸并随葬器物；干燥环境保存了大量织物；双头鸟纹以红蓝黄绿绣线构成。",
       "related": [
         "chimu-litter-backrest",
-        "americas-art"
+        "americas-art",
+        "nazca-trophy-head-bowl"
       ],
       "sources": [
         "cma-1946-226"
@@ -4154,10 +4156,108 @@
       "overview": "日用青瓷是高丽墓葬中最常见的随葬品之一；以成套器物随葬被视为敬奉亡者、供其身后所需。",
       "related": [
         "goryeo-celadon-bottle",
-        "kammavacha-manuscript"
+        "kammavacha-manuscript",
+        "joseon-hollyhock-cup"
       ],
       "sources": [
         "cma-2025-180"
+      ]
+    },
+    {
+      "id": "nazca-trophy-head-bowl",
+      "title": "纳斯卡人首纹碗",
+      "kind": "作品",
+      "unit": "art-americas",
+      "era": "2—7世纪",
+      "region": "美洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "秘鲁南岸纳斯卡文化的陶碗，克利夫兰艺术博物馆藏（2009.435）；外壁重复人首（trophy head）母题。",
+      "when": "约100—650年",
+      "overview": "器壁薄、烧成温度高于更早时期；暖色化妆土多样；人首母题同时指向战争与丰产。",
+      "related": [
+        "paracas-mantle",
+        "americas-art"
+      ],
+      "sources": [
+        "cma-2009-435"
+      ]
+    },
+    {
+      "id": "joseon-hollyhock-cup",
+      "title": "朝鲜朝蜀葵形杯",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "15世纪",
+      "region": "东亚",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "朝鲜王朝官窑所制蜀葵形瓷杯，克利夫兰艺术博物馆藏（1969.85）。",
+      "when": "1400年代",
+      "overview": "口沿作蜀葵花瓣形；蜀葵向阳，寓忠君；据王室档案用于国王赐酒的国宴与接待明使的茶礼。",
+      "related": [
+        "joseon-hwarot-robe",
+        "goryeo-celadon-cup"
+      ],
+      "sources": [
+        "cma-1969-85"
+      ]
+    },
+    {
+      "id": "joseon-hwarot-robe",
+      "title": "朝鲜朝婚礼袍（hwarot）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "19世纪",
+      "region": "东亚",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "朝鲜王朝新娘礼服，克利夫兰艺术博物馆藏（1918.552）；丝缎地彩绣吉祥纹。",
+      "when": "1800年代末",
+      "overview": "蝶寓婚姻幸福、凤寓多子、莲与白鹤寓长寿；大量修补与拼补反映新儒学崇尚俭约，并显示其为可共享传承的公共资源。",
+      "related": [
+        "joseon-hollyhock-cup"
+      ],
+      "sources": [
+        "cma-1918-552"
+      ]
+    },
+    {
+      "id": "champa-planetary-deity",
+      "title": "占婆行星神坐像",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "9世纪",
+      "region": "东南亚",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "越南中部占婆东阳寺的砂岩行星神像，克利夫兰艺术博物馆藏（1935.147）。",
+      "when": "850—875年",
+      "overview": "为护持佛寺的九曜之一；左手短剑、髭须与蹙眉示其忿怒护法身份；坐姿为「王者安逸」。",
+      "related": [
+        "champa-apsara-bracket"
+      ],
+      "sources": [
+        "cma-1935-147"
+      ]
+    },
+    {
+      "id": "champa-apsara-bracket",
+      "title": "占婆飞天托架",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "10世纪",
+      "region": "东南亚",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "越南占婆的砂岩飞天构件，克利夫兰艺术博物馆藏（1990.34）。",
+      "when": "900年代",
+      "overview": "天人盛装、层叠冠与重耳饰，捧莲蕾献供；原为栏楯端头或天花托架的建筑装饰。",
+      "related": [
+        "champa-planetary-deity"
+      ],
+      "sources": [
+        "cma-1990-34"
       ]
     }
   ]

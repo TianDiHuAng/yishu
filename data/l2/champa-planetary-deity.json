@@ -1,0 +1,19 @@
+{
+ "id": "champa-planetary-deity",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本像出自越南中部广南省的占婆东阳寺（Dong Duong monastery），克利夫兰艺术博物馆定年为850—875年。该馆称其为「强大的在场者」，高约三英尺（86.5厘米），浅色砂岩。",
+  "风格特征": "他是护持佛寺的**九曜之一**的人格化形象。该馆指出，左手短剑、髭须与程式化的蹙眉共同标示其**忿怒护法**的身份；其坐姿为「王者安逸」，冠、厚重耳饰与宝座又标出其「天上之王」的地位；额上的标记则关联于**觉者**。",
+  "代表人物与作品": "作者未见于记录。相关条目见占婆飞天托架。本件为克利夫兰艺术博物馆藏品（1935.147）。",
+  "技法或形式分析": "材质为砂岩，整体86.5 × 37.5厘米（据该馆藏品记录）。该馆还提到前方雕板上的「荣耀之面」（kirtimukha）——这一母题在东南亚寺院装饰中常与护法功能相关。",
+  "与前后风格的关系和争论": "该馆给出一个具体而有趣的解释：行星神作为守护者，与寺院**开光**相关——当时行星与星辰的正确排列，使场所与信众免于灾厄。也就是说，这尊像的功能不是泛泛的「护法」，而是与一次性仪式的时间点绑定。",
+  "一图": "示意图以东阳寺开光、九曜行星神与忿怒护法标识三者关系标示本像。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）开光与行星排列的具体仪轨未取得；（3）本像在东阳寺建筑中的原位置未记录；（4）kirtimukha 与该像的构图关系该馆仅一句带过。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='champa-planetary-deity 示意图'><title>champa-planetary-deity</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>东阳寺</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>850—875</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>行星神</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>86.5cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>短剑·蹙眉</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>护法标识</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>开光·星象</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>仪式时点</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='590.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>占婆行星神：寺院、护法与开光</text></g></svg>",
+ "sources": [
+  "cma-1935-147"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；仪轨与原位置未取得。"
+}

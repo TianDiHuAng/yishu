@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 190,
+    "total": 195,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 26,
@@ -2284,6 +2284,66 @@
     },
     "goryeo-celadon-cup": {
       "title": "高丽青瓷莲瓣纹盏",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "nazca-trophy-head-bowl": {
+      "title": "纳斯卡人首纹碗",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "joseon-hollyhock-cup": {
+      "title": "朝鲜朝蜀葵形杯",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "joseon-hwarot-robe": {
+      "title": "朝鲜朝婚礼袍（hwarot）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "champa-planetary-deity": {
+      "title": "占婆行星神坐像",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "champa-apsara-bracket": {
+      "title": "占婆飞天托架",
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",

@@ -3319,6 +3319,56 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；青瓷 高11cm 口径10.7cm；说明含随葬组合"
+    },
+    {
+      "id": "cma-2009-435",
+      "title": "Cleveland Museum of Art — Bowl with Trophy Heads, Nasca, c. 100–650 CE, acc. 2009.435",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2009.435",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；陶器施化妆土 10.2×10.2cm；说明含薄壁与较高烧成温度"
+    },
+    {
+      "id": "cma-1969-85",
+      "title": "Cleveland Museum of Art — Hollyhock-shaped Cup, Joseon, 1400s, acc. 1969.85",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1969.85",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；瓷器 高3.6cm；说明含官窑限量生产与宫廷宴仪"
+    },
+    {
+      "id": "cma-1918-552",
+      "title": "Cleveland Museum of Art — Bridal Robe (Hwarot), Joseon, late 1800s, acc. 1918.552",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1918.552",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；丝缎地平绣 114.3×174cm；说明含修补与纸质衬边"
+    },
+    {
+      "id": "cma-1935-147",
+      "title": "Cleveland Museum of Art — Enthroned planetary deity, Champa, 850–75, acc. 1935.147",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1935.147",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；砂岩 86.5×37.5cm；说明含九曜护法与开光星象"
+    },
+    {
+      "id": "cma-1990-34",
+      "title": "Cleveland Museum of Art — Apsara Bracket, Champa, 900s, acc. 1990.34",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1990.34",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；砂岩 55.9×53.3cm；说明含建筑构件功能"
     }
   ]
 }

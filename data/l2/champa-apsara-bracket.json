@@ -1,0 +1,19 @@
+{
+ "id": "champa-apsara-bracket",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件出自越南占婆，克利夫兰艺术博物馆定年为900年代。该馆说明称，此天人「居住于天界」，被装饰成女神模样。",
+  "风格特征": "该馆描述其形貌：**层叠冠**、厚重耳饰与宽项饰；她恭敬地献上供物，可能是**莲蕾**。姿态与装饰共同标示其天界身份与侍奉功能。",
+  "代表人物与作品": "作者未见于记录。相关条目见占婆行星神坐像。本件为克利夫兰艺术博物馆藏品（1990.34）。",
+  "技法或形式分析": "材质为砂岩，整体55.9 × 53.3厘米。该馆指出，此像原是**占婆寺庙装饰的一部分**；她的半身自一件建筑构件中伸出，那构件**可能是栏楯端头或天花托架**。",
+  "与前后风格的关系和争论": "把「神像」与「建筑构件」合为一体，是理解占婆寺院装饰的关键：天人的宗教身份与承重/装饰的工程功能并不分离。本条目据此不把该像当作独立雕塑来叙述。",
+  "一图": "示意图以寺庙装饰体系、栏楯/天花构件与天人献供三者关系标示本件。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「栏楯端头或天花托架」该馆用 may have formed，属推测；（3）所属寺庙与出土位置未记录；（4）莲蕾判定为「可能」，未确认。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='champa-apsara-bracket 示意图'><title>champa-apsara-bracket</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>占婆寺院</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>900年代</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>飞天构件</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>55.9×53.3</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>层叠冠·献供</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>天界身份</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>栏楯/天花</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>建筑功能?</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>占婆飞天托架：装饰与结构</text></g></svg>",
+ "sources": [
+  "cma-1990-34"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；构件位置为推测。"
+}
