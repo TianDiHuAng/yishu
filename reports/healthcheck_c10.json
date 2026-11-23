@@ -92,6 +92,13 @@
     "1547",
     "1625"
    ]
+  ],
+  [
+   "safavid-steel-plaque",
+   "约1693年",
+   [
+    "1666"
+   ]
   ]
  ],
  "orphans": [],
@@ -148,6 +155,6 @@
  "link_audit": {
   "cross_domain": 2,
   "oneway": 0,
-  "total_links": 714
+  "total_links": 730
  }
 }

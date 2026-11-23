@@ -2089,6 +2089,37 @@
       "check_links_result": "broken=0(272页)",
       "audit_all": "12/12 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle72",
+      "date": "2026-11-23",
+      "status": "completed",
+      "gap_methods": [
+        "伊斯兰单元续深"
+      ],
+      "network": "partial: museum APIs ok",
+      "new_entries": 4,
+      "new_entry_ids": [
+        "khurasan-ewer",
+        "seljuq-bird-vessel",
+        "sultanabad-bowl",
+        "safavid-steel-plaque"
+      ],
+      "islamic_total": 13,
+      "must_state": [
+        "人首铭文为金属器专属",
+        "鸟形器水路与三重解释",
+        "中国母题被翻译（凤凰=西摩格）",
+        "钢材决定镂空上限；陵墓归属为传闻"
+      ],
+      "new_sources": 4,
+      "sources_total": 371,
+      "entries_total": 240,
+      "pages": 276,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(276页)",
+      "audit_all": "12/12 ok",
+      "commits": 1
     }
   ]
 }

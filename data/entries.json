@@ -3684,7 +3684,10 @@
         "mihrab-isfahan",
         "iznik-dish-artichokes",
         "nishapur-figural-bowl",
-        "luster-dish-prince"
+        "luster-dish-prince",
+        "khurasan-ewer",
+        "seljuq-bird-vessel",
+        "safavid-steel-plaque"
       ],
       "sources": [
         "cma-1944-485",
@@ -3707,7 +3710,8 @@
       "overview": "「人物化铭文（animated script）」的代表作；腹部分格内饰黄道十二宫小像。",
       "related": [
         "islamic-art",
-        "nishapur-figural-bowl"
+        "nishapur-figural-bowl",
+        "khurasan-ewer"
       ],
       "sources": [
         "cma-1944-485"
@@ -5082,7 +5086,8 @@
       "overview": "mina’i 之名出自波斯语「珐琅」；以釉上彩首次实现真正多彩瓷；图样多写宫廷列坐与王子狩猎。",
       "related": [
         "luster-dish-prince",
-        "iznik-mosque-lamp"
+        "iznik-mosque-lamp",
+        "sultanabad-bowl"
       ],
       "sources": [
         "cma-1917-977"
@@ -5102,7 +5107,8 @@
       "overview": "卡尚与巴士拉、福斯塔特并为伊斯兰陶瓷中心；此盘以**光泽地为底、蓝釉为纹**的稀有做法受称许。",
       "related": [
         "minai-beaker",
-        "islamic-art"
+        "islamic-art",
+        "sultanabad-bowl"
       ],
       "sources": [
         "cma-1951-289"
@@ -5122,10 +5128,92 @@
       "overview": "与已失的右半原构成龛、窗或门上方的装饰拱；浓烈红色由**铁质浓稠化妆土**实现，为当时技术成就。",
       "related": [
         "iznik-mosque-lamp",
-        "iznik-dish-artichokes"
+        "iznik-dish-artichokes",
+        "safavid-steel-plaque"
       ],
       "sources": [
         "cma-2004-70"
+      ]
+    },
+    {
+      "id": "khurasan-ewer",
+      "title": "呼罗珊多棱执壶（狮与斯芬克斯）",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "13—14世纪",
+      "region": "西亚·中亚",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "伊儿汗国呼罗珊锤揲铜嵌银执壶，克利夫兰艺术博物馆藏（1945.27）。",
+      "when": "1300—1350年",
+      "overview": "流与颈作伏狮与坐狮浮雕，腹部上下分别环列有翼兔形兽与斯芬克斯；底部一圈「人首铭文」。",
+      "related": [
+        "wade-cup",
+        "islamic-art",
+        "seljuq-bird-vessel"
+      ],
+      "sources": [
+        "cma-1945-27"
+      ]
+    },
+    {
+      "id": "seljuq-bird-vessel",
+      "title": "塞尔柱鸟形水器",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "12世纪",
+      "region": "西亚·中亚",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "伊朗塞尔柱青铜鸟形器，克利夫兰艺术博物馆藏（1948.458）。",
+      "when": "1100年代",
+      "overview": "或为中世纪净手用水器（aquamanile）：水自胸前孔注入、由可动喙部倒出；蓝绿眼珠或为辟邪。",
+      "related": [
+        "khurasan-ewer",
+        "islamic-art"
+      ],
+      "sources": [
+        "cma-1948-458"
+      ]
+    },
+    {
+      "id": "sultanabad-bowl",
+      "title": "苏丹纳巴德飞鸟纹碗",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "13—14世纪",
+      "region": "西亚·中亚",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "伊儿汗国（或为卡尚）釉下彩碗，克利夫兰艺术博物馆藏（1915.589）。",
+      "when": "1280—1400年",
+      "overview": "中国母题（龙、凤、莲）在伊儿汗期进入波斯艺术；凤凰与《列王纪》中的西摩格相类比；平口沿受中国器形影响。",
+      "related": [
+        "minai-beaker",
+        "luster-dish-prince"
+      ],
+      "sources": [
+        "cma-1915-589"
+      ]
+    },
+    {
+      "id": "safavid-steel-plaque",
+      "title": "萨法维钢制铭文板",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "17世纪",
+      "region": "西亚·中亚",
+      "medium": "建筑",
+      "tier": "重要",
+      "def": "伊朗萨法维锻造钢镂空铭文板，克利夫兰艺术博物馆藏（1994.1）。",
+      "when": "约1693年",
+      "overview": "据说原饰于沙阿苏莱曼二世（1666—93 在位）陵墓；铭文为《古兰经》33:56；钢材强度使繁复镂空成为可能。",
+      "related": [
+        "iznik-tile-spandrel",
+        "islamic-art"
+      ],
+      "sources": [
+        "cma-1994-1"
       ]
     }
   ]

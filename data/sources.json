@@ -3669,6 +3669,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；fritware 红化妆土与釉下彩 76×29.9×2.5cm；说明含缺右半与铁红技术"
+    },
+    {
+      "id": "cma-1945-27",
+      "title": "Cleveland Museum of Art — Twelve-sided Ewer with Sphinxes, Khurasan, 1300–1350, acc. 1945.27",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1945.27",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；锤揲铜嵌银 44.8cm；说明含人首铭文"
+    },
+    {
+      "id": "cma-1948-458",
+      "title": "Cleveland Museum of Art — Bird-shaped Vessel, Iran (Seljuq), 1100s, acc. 1948.458",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1948.458",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；青铜铸件嵌蓝玻璃 17.5×9.5cm；说明含 aquamanile 假说"
+    },
+    {
+      "id": "cma-1915-589",
+      "title": "Cleveland Museum of Art — Bowl with Flying Birds, probably Kashan, 1280–1400, acc. 1915.589",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1915.589",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；fritware 釉下彩（Sultanabad） 11.2×22cm；说明含中国母题与西摩格"
+    },
+    {
+      "id": "cma-1994-1",
+      "title": "Cleveland Museum of Art — Inscription Plaque, Iran (Safavid), c. 1693, acc. 1994.1",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1994.1",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；锻造钢镂空 27×35cm；说明含沙阿苏莱曼二世陵与33:56"
     }
   ]
 }

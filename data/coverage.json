@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 236,
+    "total": 240,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 27,
@@ -2836,6 +2836,54 @@
     },
     "iznik-tile-spandrel": {
       "title": "伊兹尼克花卉纹砖（拱肩）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "khurasan-ewer": {
+      "title": "呼罗珊多棱执壶（狮与斯芬克斯）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "seljuq-bird-vessel": {
+      "title": "塞尔柱鸟形水器",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "sultanabad-bowl": {
+      "title": "苏丹纳巴德飞鸟纹碗",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "safavid-steel-plaque": {
+      "title": "萨法维钢制铭文板",
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
