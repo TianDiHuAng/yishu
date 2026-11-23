@@ -3119,6 +3119,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 V&A API HTTP 200；与 O423295 同题同名，属另一份印本"
+    },
+    {
+      "id": "cma-1944-485",
+      "title": "Cleveland Museum of Art — The Wade Cup with Animated Script, Iran (Seljuq), 1200–1221, acc. 1944.485",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1944.485",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；黄铜嵌银、整体11.5cm/径16.1cm；说明含 animated script 与黄道十二宫"
+    },
+    {
+      "id": "cma-1962-23",
+      "title": "Cleveland Museum of Art — Prayer Niche (Mihrab), Iran, Isfahan, Safavid style, acc. 1962.23",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1962.23",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；陶瓷马赛克、290.7×245.3cm；说明含朝向麦加的 qibla 墙与 thuluth 铭文"
+    },
+    {
+      "id": "cma-1995-17",
+      "title": "Cleveland Museum of Art — Large Dish with Artichokes, Iznik, Ottoman, c. 1535–40, acc. 1995.17",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1995.17",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；fritware 釉下彩、径36.4cm；说明含意大利织物影响与苏莱曼时期"
+    },
+    {
+      "id": "cma-1959-249",
+      "title": "Cleveland Museum of Art — Nishapur Figural Bowl, Iran, Samanid, 900s, acc. 1959.249",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1959.249",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；土陶釉下装饰、8×35.6cm；说明含萨珊金属器传统与狩猎母题"
     }
   ]
 }

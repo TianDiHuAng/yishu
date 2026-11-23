@@ -557,6 +557,20 @@
       },
       "network": "partial (museum APIs)",
       "verdict": "再得 1 组双机构（166）+1 条第三来源；1 组因无策展说明不建；未饱和"
+    },
+    {
+      "cycle": "cycle46",
+      "date": "2026-11-23",
+      "methods_used": [
+        "scope漏项排查"
+      ],
+      "gaps_found": {
+        "entries": 5,
+        "units": 1,
+        "note": "伊斯兰艺术整门类此前遗漏"
+      },
+      "network": "partial (museum APIs)",
+      "verdict": "新增伊斯兰艺术单元+5条（171/23单元）；两处馆方断代矛盾已如实标注；未饱和"
     }
   ],
   "assessment_c33": {

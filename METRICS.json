@@ -1221,6 +1221,42 @@
       "check_links_result": "broken=0(197页)",
       "audit_all": "8/8 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle46",
+      "date": "2026-11-23",
+      "status": "completed",
+      "gap_methods": [
+        "scope 漏项排查（对照 AP 地理范围）"
+      ],
+      "network": "partial: museum APIs ok",
+      "new_entries": 5,
+      "new_entry_ids": [
+        "islamic-art",
+        "wade-cup",
+        "mihrab-isfahan",
+        "iznik-dish-artichokes",
+        "nishapur-figural-bowl"
+      ],
+      "new_unit": "art-islamic",
+      "units_total": 23,
+      "finding": "scope 并集含 AP Art History（含伊斯兰艺术），但清单遗漏该门类——属补正非扩张",
+      "date_discrepancies": [
+        {
+          "wade-cup": "文化栏塞尔柱1037–1194 vs 断代1200–1221"
+        },
+        {
+          "mihrab-isfahan": "约1500年代或1900年代中期（馆方未裁定）"
+        }
+      ],
+      "new_sources": 4,
+      "sources_total": 316,
+      "entries_total": 171,
+      "pages": 203,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(203页)",
+      "audit_all": "8/8 ok",
+      "commits": 1
     }
   ]
 }

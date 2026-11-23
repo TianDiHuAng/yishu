@@ -3487,6 +3487,111 @@
         "cma-1940-997",
         "vam-o422861"
       ]
+    },
+    {
+      "id": "islamic-art",
+      "title": "伊斯兰艺术",
+      "kind": "风格",
+      "unit": "art-islamic",
+      "era": "7—19世纪",
+      "region": "西亚·中亚",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "以伊斯兰信仰与宫廷赞助为背景、跨越西亚中亚北非的视觉传统；本站以四件馆藏器物为具体节点。",
+      "when": "7—19世纪（延伸至近代）",
+      "overview": "书法铭文、阿拉伯式藤蔓与花卉母题、釉下彩与金属嵌饰是其常见语汇；不同地域与王朝各有取向。",
+      "related": [
+        "wade-cup",
+        "mihrab-isfahan",
+        "iznik-dish-artichokes",
+        "nishapur-figural-bowl"
+      ],
+      "sources": [
+        "cma-1944-485",
+        "cma-1962-23",
+        "cma-1995-17",
+        "cma-1959-249"
+      ]
+    },
+    {
+      "id": "wade-cup",
+      "title": "韦德杯（人物化铭文）",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "13世纪",
+      "region": "西亚·中亚",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "伊朗塞尔柱时期黄铜嵌银杯，克利夫兰艺术博物馆藏（1944.485）；口沿铭文字母由人、兽、鸟形构成。",
+      "when": "1200—1221年",
+      "overview": "「人物化铭文（animated script）」的代表作；腹部分格内饰黄道十二宫小像。",
+      "related": [
+        "islamic-art",
+        "nishapur-figural-bowl"
+      ],
+      "sources": [
+        "cma-1944-485"
+      ]
+    },
+    {
+      "id": "mihrab-isfahan",
+      "title": "伊斯法罕祈祷龛",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "16世纪",
+      "region": "西亚·中亚",
+      "medium": "建筑",
+      "tier": "重要",
+      "def": "伊朗伊斯法罕萨法维风格祈祷龛，陶瓷马赛克，克利夫兰艺术博物馆藏（1962.23）。",
+      "when": "约16世纪（该馆另记或为20世纪中期）",
+      "overview": "位于清真寺朝向麦加的墙面上，周围以 thuluth 体铭刻《古兰经·光明章》，铭文为白釉、藤蔓为金与绿松石色。",
+      "related": [
+        "islamic-art",
+        "iznik-dish-artichokes"
+      ],
+      "sources": [
+        "cma-1962-23"
+      ]
+    },
+    {
+      "id": "iznik-dish-artichokes",
+      "title": "伊兹尼克洋蓟纹大盘",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "16世纪",
+      "region": "西亚·中亚",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "奥斯曼伊兹尼克窑釉下彩大盘，克利夫兰艺术博物馆藏（1995.17）；中心为洋蓟、蔷薇与锯齿状 saz 叶。",
+      "when": "约1535—40年",
+      "overview": "伊兹尼克陶器以花卉母题著称，洋蓟纹可能取自输入奥斯曼宫廷的意大利高档织物。",
+      "related": [
+        "islamic-art",
+        "mihrab-isfahan"
+      ],
+      "sources": [
+        "cma-1995-17"
+      ]
+    },
+    {
+      "id": "nishapur-figural-bowl",
+      "title": "尼沙布尔人物纹碗",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "10世纪",
+      "region": "西亚·中亚",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "伊朗尼沙布尔萨曼时期土陶釉下装饰碗，克利夫兰艺术博物馆藏（1959.249）。",
+      "when": "900年代",
+      "overview": "四个蓄须人物与兽鸟、带棱角文字环绕；中央骑马猎豹暗指萨珊式的皇家狩猎母题。",
+      "related": [
+        "islamic-art",
+        "wade-cup"
+      ],
+      "sources": [
+        "cma-1959-249"
+      ]
     }
   ]
 }

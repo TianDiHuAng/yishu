@@ -5951,6 +5951,176 @@
         "一图": "示意图以东海道、中原田野与富士的距离关系标示本幅的构图层次。",
         "待核实": "（1）V&A 记录未给年代，「约1835年」仅据 CMA 一家；（2）两馆尺寸著录方向不同（25.1×37.8 对 38.5×25.5），差异原因待目验；（3）作者生卒1760—1849取自 CMA 创作者记录；（4）「紧邻东海道」的地理细节该馆仅一句带过，未展开。"
       }
+    },
+    {
+      "id": "islamic-art",
+      "title": "伊斯兰艺术",
+      "kind": "风格",
+      "unit": "art-islamic",
+      "era": "7—19世纪",
+      "region": "西亚·中亚",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "以伊斯兰信仰与宫廷赞助为背景、跨越西亚中亚北非的视觉传统；本站以四件馆藏器物为具体节点。",
+      "when": "7—19世纪（延伸至近代）",
+      "overview": "书法铭文、阿拉伯式藤蔓与花卉母题、釉下彩与金属嵌饰是其常见语汇；不同地域与王朝各有取向。",
+      "related": [
+        "wade-cup",
+        "mihrab-isfahan",
+        "iznik-dish-artichokes",
+        "nishapur-figural-bowl"
+      ],
+      "sources": [
+        "cma-1944-485",
+        "cma-1962-23",
+        "cma-1995-17",
+        "cma-1959-249"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本条目不写通史，只把克利夫兰艺术博物馆的四件藏品作为可核验的节点：尼沙布尔的萨曼时期釉下彩碗（900年代）、伊朗塞尔柱时期的黄铜嵌银杯（1200—1221）、伊斯法罕的祈祷龛（该馆记为约16世纪或20世纪中期）、以及奥斯曼伊兹尼克的釉下彩大盘（约1535—40年）。这些器物跨越伊朗东北、伊朗中部与安纳托利亚，时间自10世纪延伸至16世纪。",
+        "风格特征": "据这四件器物的说明，可归纳出几种反复出现的语汇：一是**铭文与书法**（韦德杯的人物化铭文、祈祷龛的 thuluth 体经文）；二是**阿拉伯式藤蔓与花卉母题**（祈祷龛的金色藤蔓、伊兹尼克盘上的洋蓟与 saz 叶）；三是**沿袭前伊斯兰传统的图像**（尼沙布尔碗的骑马狩猎母题被认为源自萨珊金属器）。",
+        "代表人物与作品": "相关条目见韦德杯、伊斯法罕祈祷龛、伊兹尼克洋蓟纹大盘、尼沙布尔人物纹碗。四件均为克利夫兰艺术博物馆藏品，作者姓名均未见于记录，本条目不推定匠人。",
+        "技法或形式分析": "四种工艺并置：黄铜嵌银（韦德杯）、陶瓷马赛克（祈祷龛）、fritware 釉下彩（伊兹尼克盘）、土陶釉下装饰（尼沙布尔碗）。该馆说明指出，伊兹尼克器是奥斯曼宫廷用瓷中的精品，而尼沙布尔陶器则经常吸收萨珊金属器的元素——工艺与器物类型之间的借用，是理解这批材料的关键。",
+        "与前后风格的关系和争论": "该馆关于伊兹尼克盘的说明称，苏莱曼大帝时期（1520—66）的奥斯曼艺术汇聚了欧洲、波斯、中国与埃及的影响，形成独特语言——这是一种「跨文化交汇」的表述。相反的说法（强调伊斯兰艺术内部的地域断裂而非统一风格）本条目未取得来源，故不裁定。",
+        "一图": "示意图以四件器物的地域与年代分布（尼沙布尔·塞尔柱·伊斯法罕·伊兹尼克）标示本单元的可核验节点。",
+        "待核实": "（1）本条为**单元导览**，全部依据单一机构（克利夫兰艺术博物馆）四件藏品的记录与说明，不构成通史叙述，整条标记待核实；（2）本单元属**新设**：依据是本项目 scope 已引的 AP Art History（O3）地理范围含伊斯兰艺术，而此前条目清单遗漏，属补正而非扩张；（3）「伊斯兰艺术」作为统一范畴本身在学界有争议，本条目未取得两方材料；（4）四件器物的断代与地域归属均照该馆记录，未作独立核对。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='islamic-art 示意图'><title>islamic-art</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>尼沙布尔</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>900年代</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>塞尔柱</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1200—1221</text><rect class='svg-box-accent' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='475.0' y='142' text-anchor='middle'>伊斯法罕</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>16世纪?</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>伊兹尼克</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>1535—40</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>伊斯兰艺术：四件馆藏器物的年代与地域</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "本单元为导览条目，全部依据单一机构（克利夫兰艺术博物馆）四件藏品的记录与说明，未获第二独立来源；且「伊斯兰艺术」作为统一范畴在学界有争议，本条目未取得两方材料。"
+    },
+    {
+      "id": "wade-cup",
+      "title": "韦德杯（人物化铭文）",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "13世纪",
+      "region": "西亚·中亚",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "伊朗塞尔柱时期黄铜嵌银杯，克利夫兰艺术博物馆藏（1944.485）；口沿铭文字母由人、兽、鸟形构成。",
+      "when": "1200—1221年",
+      "overview": "「人物化铭文（animated script）」的代表作；腹部分格内饰黄道十二宫小像。",
+      "related": [
+        "islamic-art",
+        "nishapur-figural-bowl"
+      ],
+      "sources": [
+        "cma-1944-485"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本杯为伊朗塞尔柱时期作品，克利夫兰艺术博物馆定年为1200—1221年（该馆文化栏记「塞尔柱时期（1037—1194）」，与断代年份并不吻合，详见待核实）。说明称，人物化铭文（animated script）于1150年代中期在伊朗东北或阿富汗发展起来，随后向西传播，而本杯口沿的铭文是这一书体的顶峰之作。",
+        "风格特征": "最醒目的是口沿一圈铭文：字母本身由人、动物与鸟的形象构成，即所谓「人物化铭文」。杯身则覆以交织的带状分格，格内点缀极小的人与兽——该馆说明指出，这些形象代表占星术中的黄道十二宫。",
+        "代表人物与作品": "作者未见于记录。相关条目见伊斯兰艺术与尼沙布尔人物纹碗。本杯为克利夫兰艺术博物馆藏品（1944.485）。",
+        "技法或形式分析": "材质为黄铜嵌银（brass inlaid with silver），整体高11.5厘米、口径16.1厘米（据该馆藏品记录）。嵌银用于铭文与细部，使图案在深色铜地上显影；这类金属嵌饰工艺是呼罗珊一带的代表性做法。",
+        "与前后风格的关系和争论": "该馆说明把占星术的传播链条写成：起源于美索不达米亚、被希腊人采纳、再经翻译进入中世纪伊斯兰文化。这一叙述为杯身十二宫图像提供了语境，但它是该馆的一句概括，本条目未取得专门研究核对。",
+        "一图": "示意图以人物化铭文、黄道十二宫与金属嵌饰三者关系标示本杯的装饰结构。",
+        "待核实": "（1）本条目事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）**断代与文化栏冲突**：该馆文化栏写「塞尔柱时期（1037—1194）」，而定年为1200—1221，二者不能同时成立，本条目并列而不调和；（3）「人物化铭文起源」「占星术传播」两条概述性说法未核专门研究；（4）器物的递藏史（为何称「韦德杯」）该馆说明未展开。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='wade-cup 示意图'><title>wade-cup</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>呼罗珊</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1150年代</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>人物化铭文</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>口沿</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>黄道十二宫</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>杯身分格</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>黄铜嵌银</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>11.5cm</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>韦德杯：铭文、十二宫与嵌银工艺</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "本条目事实来自单一机构（克利夫兰艺术博物馆）藏品记录；该馆文化栏（塞尔柱1037—1194）与断代（1200—1221）互相冲突，已并列标注待核实。"
+    },
+    {
+      "id": "mihrab-isfahan",
+      "title": "伊斯法罕祈祷龛",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "16世纪",
+      "region": "西亚·中亚",
+      "medium": "建筑",
+      "tier": "重要",
+      "def": "伊朗伊斯法罕萨法维风格祈祷龛，陶瓷马赛克，克利夫兰艺术博物馆藏（1962.23）。",
+      "when": "约16世纪（该馆另记或为20世纪中期）",
+      "overview": "位于清真寺朝向麦加的墙面上，周围以 thuluth 体铭刻《古兰经·光明章》，铭文为白釉、藤蔓为金与绿松石色。",
+      "related": [
+        "islamic-art",
+        "iznik-dish-artichokes"
+      ],
+      "sources": [
+        "cma-1962-23"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "祈祷龛（mihrab）是清真寺内部的视觉焦点，位于朝向麦加的 qibla 墙上（据克利夫兰艺术博物馆说明）。本件为伊朗伊斯法罕风格、被该馆归入萨法维时期（1501—1722）样式，年代却记为「约16世纪或20世纪中期」——这一犹豫需要读者注意。",
+        "风格特征": "龛面周围环绕《古兰经》经文，书体为该馆所称的 thuluth；经文以白釉表现，文字背后的连续阿拉伯式藤蔓则以金、绿松石与绿色施釉——该馆说明指出，绿色是先知穆罕默德与乐园的颜色。",
+        "代表人物与作品": "作者未见于记录。相关条目见伊斯兰艺术与伊兹尼克洋蓟纹大盘。本件为克利夫兰艺术博物馆藏品（1962.23）。",
+        "技法或形式分析": "工艺为陶瓷马赛克（ceramic mosaic）：龛体290.7 × 245.3厘米，另有横饰带69.2 × 1563.5厘米（据该馆藏品记录）。铭文取自《光明章》（Surah An-Nur），该馆在说明中引述了「安拉是天地的光……」一段；本条目只述其意，不整段迻录。",
+        "与前后风格的关系和争论": "「约16世纪或20世纪中期」这一双重断代，本身就提示该件可能是**后世依萨法维样式制作的构件**，而非16世纪原物。这一点对该条目的性质判断至关重要：它更适合被当作「萨法维风格的祈祷龛实例」，而不是「萨法维时期原作的年代标尺」。",
+        "一图": "示意图以 qibla 墙、thuluth 铭文与陶瓷马赛克工艺三者关系标示本件的结构。",
+        "待核实": "（1）**断代存疑是本条目的核心问题**：该馆记为「约1500年代或1900年代中期」，未在两个可能之间裁定；本条目因此不把它当作16世纪的标准器；（2）全部事实来自单一机构，整条标记待核实；（3）经文引文只述意，未迻录全文；（4）该件的来源与入藏经过未取得。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='mihrab-isfahan 示意图'><title>mihrab-isfahan</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>qibla 墙</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>朝向麦加</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>祈祷龛</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>290.7×245.3</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>thuluth 铭文</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>白釉</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>陶瓷马赛克</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>藤蔓金绿</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>伊斯法罕祈祷龛：位置、铭文与工艺</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "本件断代为「约1500年代或1900年代中期」，馆方未裁定；本条目据此不将其作为16世纪标准器，并整条标记待核实（单一机构来源）。"
+    },
+    {
+      "id": "iznik-dish-artichokes",
+      "title": "伊兹尼克洋蓟纹大盘",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "16世纪",
+      "region": "西亚·中亚",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "奥斯曼伊兹尼克窑釉下彩大盘，克利夫兰艺术博物馆藏（1995.17）；中心为洋蓟、蔷薇与锯齿状 saz 叶。",
+      "when": "约1535—40年",
+      "overview": "伊兹尼克陶器以花卉母题著称，洋蓟纹可能取自输入奥斯曼宫廷的意大利高档织物。",
+      "related": [
+        "islamic-art",
+        "mihrab-isfahan"
+      ],
+      "sources": [
+        "cma-1995-17"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "据克利夫兰艺术博物馆说明，土耳其伊兹尼克为奥斯曼宫廷（伊斯坦布尔）生产的陶瓷器与瓷砖代表了伊斯兰陶瓷的最高水平。本盘定年为约1535—40年，属苏莱曼大帝（1520—66）在位期间。",
+        "风格特征": "盘心覆盖动态的洋蓟（artichoke）母题，与蔷薇花饰、锯齿状的 saz 叶交织。该馆指出，花卉与植物母题是伊兹尼克陶器的标志；洋蓟纹样**很可能受输入奥斯曼宫廷的意大利高档织物启发**。",
+        "代表人物与作品": "作者未见于记录。相关条目见伊斯兰艺术与伊斯法罕祈祷龛。本盘为克利夫兰艺术博物馆藏品（1995.17）。",
+        "技法或形式分析": "工艺为 fritware 釉下彩（fritware with underglaze-painted design），口径36.4厘米、整体高6.9厘米（据该馆藏品记录）。釉下彩使颜料被釉层封护，因而色彩明亮且耐磨——这是伊兹尼克器得以大量进入宫廷建筑与日用场景的技术前提。",
+        "与前后风格的关系和争论": "该馆把这一时期概括为：欧洲、波斯、中国与埃及的影响共同塑造出一种独特的奥斯曼艺术语言。这一「多源汇合」的判断，与把伊兹尼克视为纯粹本土发展的说法相对；本条目只转述该馆表述。",
+        "一图": "示意图以意大利织物影响、洋蓟母题、釉下彩工艺与宫廷赞助四者关系标示本盘。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）「洋蓟纹取自意大利织物」该馆用 likely 措辞，属推测；（3）苏莱曼在位年份1520—66见于说明，未以第二来源核对；（4）该盘在伊兹尼克窑址分期中的位置未取得。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='iznik-dish-artichokes 示意图'><title>iznik-dish-artichokes</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>意大利织物</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>可能来源</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>洋蓟纹大盘</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1535—40</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>釉下彩</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>fritware</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>奥斯曼宫廷</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>苏莱曼</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='590.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>伊兹尼克大盘：织物影响、母题与宫廷</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；洋蓟纹来源为「很可能」，未核专门研究。"
+    },
+    {
+      "id": "nishapur-figural-bowl",
+      "title": "尼沙布尔人物纹碗",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "10世纪",
+      "region": "西亚·中亚",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "伊朗尼沙布尔萨曼时期土陶釉下装饰碗，克利夫兰艺术博物馆藏（1959.249）。",
+      "when": "900年代",
+      "overview": "四个蓄须人物与兽鸟、带棱角文字环绕；中央骑马猎豹暗指萨珊式的皇家狩猎母题。",
+      "related": [
+        "islamic-art",
+        "wade-cup"
+      ],
+      "sources": [
+        "cma-1959-249"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "尼沙布尔最初作为萨珊帝国的城市建立，该地生产的陶瓷经常吸收萨珊金属器的元素（据克利夫兰艺术博物馆说明）。本碗定年为900年代，属萨曼时期（819—1005）。",
+        "风格特征": "装饰活泼：四个蓄须人物被兽、鸟与带棱角的文字环绕，该馆认为文字可能是「baraka（祝福）」的延伸；碗心一匹背驮猎豹的马被解释为暗示皇家狩猎——这是萨珊与伊斯兰艺术中常见的母题。",
+        "代表人物与作品": "作者未见于记录。相关条目见伊斯兰艺术与韦德杯。本碗为克利夫兰艺术博物馆藏品（1959.249）。",
+        "技法或形式分析": "材质为土陶釉下装饰（earthenware with underglaze decoration），整体8 × 35.6厘米（据该馆藏品记录）。该馆指出，尼沙布尔的多彩陶器上既有狩猎消遣，也有穆斯林与琐罗亚斯德教徒庆祝的节庆，少数还出现基督教符号。",
+        "与前后风格的关系和争论": "把萨珊金属器的母题移入陶器，是尼沙布尔材料的核心线索；该馆以此说明这一地区「文化传统丰富」。这同时提示：伊斯兰早期陶器并非从零开始，而与本地前伊斯兰工艺有直接连续性。",
+        "一图": "示意图以萨珊金属器传统、狩猎母题、祝福文字与多彩釉下装饰四者关系标示本碗。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）「文字可能是 baraka」该馆用 possibly，属推测；（3）四个蓄须人物的身份未确定；（4）萨曼时期尼沙布尔窑口的分期未取得。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='nishapur-figural-bowl 示意图'><title>nishapur-figural-bowl</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>萨珊金属器</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>母题来源</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>尼沙布尔碗</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>900年代</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>皇家狩猎</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>骑马猎豹</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>釉下彩</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>8×35.6</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>尼沙布尔碗：萨珊传统与狩猎母题</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；文字释读与人物身份均为推测性描述，已注明。"
     }
   ]
 }
