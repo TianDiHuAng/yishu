@@ -459,3 +459,14 @@
 - **附带修正**：上轮我把贝宁两件器物错连到 `islamic-art`（内容错误），已改为只连 `african-art` 与彼此。
 - **可逆方式**：还原 merge_l2 合并逻辑并移除 R19。
 - **代价**：R19 使"单向关联"从提示变为硬约束；今后新增关联必须在 catalog 中只写一侧，另一侧由构建自动补。
+
+## D053 — Cycle50 catalog 不再是真值：14 处「覆盖层静默改写」已归并，并加 R20 守卫
+- **事实**：巡检 `data/l2/*.json` 是否携带基础字段（title/kind/unit/era/region/medium/tier/def/when/overview），发现 **14 处覆盖层与 catalog 取值不同**：6 处 `when`、8 处 `overview`。由于 `merge_l2` 用 `update(ov)`，**全站显示的其实是覆盖层的值**——`check.py` 校验的是合并结果，**catalog 的原值从未被校验**。也就是说 `README`/`DECISIONS` 里「catalog.py 是单一事实源」这句话，此前**不成立**。
+- **决定**：
+  1. 把覆盖层的值**并入 catalog**（唯一字符串替换，两种引号都试，count==1 才改），再从覆盖层**删除该字段**；14 处全部完成、0 失败。
+  2. 新增 **`tools/overlay_guard.py`（R20）**：覆盖层**不得**携带基础字段，违规即返回码 1；已接入 `audit_all`（成为第 9 步）。
+- **为何采用覆盖层的值而非 catalog 的**：这些覆盖层值出现在后续轮次，措辞更**谨慎**（例如 `realism-art`：catalog「约公元1840—1870年」→「19世纪中叶」；`romanesque`：「约公元1000—1150年」→「约11—12世纪（中世纪盛期）」；`clerical-script`：「约公元前2世纪—公元3世纪」→「汉代」）。这几条精确年代**从未取得第二来源**，此前一直挂在待核实里；采用较谨慎的表述，与本项目「宁少勿编」的立场一致。
+- **验证**：合并后 `overlay_field_audit` **不一致归零**；`overlay_guard` 做**注入测试**（往 `gothic.json` 塞一个 `when` → 报 `('gothic.json', ['when'])` 且 rc=1；还原 → rc=0 且 0 违规）；`audit_all` 现为 **9 步全通过**。
+- **附带清理**：`roman-art` 最后一个 `overview` 载者（值本已相同）一并删除，覆盖层从此只承载深度字段（level/sections/svg/needs_verification/pending_notes/sources/related）。
+- **可逆方式**：还原 catalog 对应字符串、把字段写回覆盖层、移除 guard。
+- **代价**：6 个 `when` 变得更**宽泛**（如「汉代」「汉—唐」）；这是刻意取舍——宽泛但站得住，优于精确但无来源。

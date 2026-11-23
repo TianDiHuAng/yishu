@@ -1348,6 +1348,31 @@
       "check_links_result": "broken=0(215页)",
       "audit_all": "8/8 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle50",
+      "date": "2026-11-23",
+      "status": "completed",
+      "gap_methods": [
+        "全字段覆盖巡检（不止 related）"
+      ],
+      "network": "partial",
+      "new_entries": 0,
+      "fixes": 15,
+      "root_cause": "覆盖层携带基础字段，merge_l2 的 update() 使其成为全站真值，catalog 原值未被校验",
+      "synced_fields": {
+        "when": 6,
+        "overview": 8
+      },
+      "overlays_cleaned": "14 字段 + roman-art overview",
+      "new_guard": "tools/overlay_guard.py（R20）接入 audit_all，注入测试 rc=1→0",
+      "audit_steps": 9,
+      "entries_total": 180,
+      "pages": 215,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(215页)",
+      "audit_all": "9/9 ok",
+      "commits": 1
     }
   ]
 }
