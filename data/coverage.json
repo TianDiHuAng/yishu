@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 288,
+    "total": 292,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -3461,6 +3461,54 @@
     "dusart-violin-tavern": {
       "title": "杜萨特《酒馆中的小提琴手》",
       "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "gudea-statue": {
+      "title": "古迪亚雕像（新苏美尔）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "minnefer-statue": {
+      "title": "明内弗行进像",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "amenhotep-tomb-relief": {
+      "title": "阿蒙霍特普医生墓浮雕",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "nefertiti-talatat": {
+      "title": "纳芙蒂蒂 Talatat 浮雕",
+      "tier": "核心",
       "level": "L2",
       "status": "written_l2",
       "sources_count": 1,

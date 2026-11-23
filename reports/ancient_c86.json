@@ -1,0 +1,296 @@
+[
+ {
+  "acc": "1976.5",
+  "title": "Statue of Heqat, the Frog Goddess",
+  "date": "c. 2950 BCE",
+  "culture": "['Egypt, Predynastic (5000–2950 BCE), Naqada III (3200–3000 BCE)–Egypt, Early Dynastic (2950–2647 BCE), Dynasty 1']",
+  "len": 615
+ },
+ {
+  "acc": "1960.56",
+  "title": "Statue of Amenemhat III",
+  "date": "c. 1859–1814 BCE",
+  "culture": "['Egypt, Middle Kingdom (2040–1648 BCE), Dynasty 12, reign of Amenemhat III (1860–1814 BCE)']",
+  "len": 706
+ },
+ {
+  "acc": "1996.28",
+  "title": "Statue of Minemheb",
+  "date": "c. 1391–1353 BCE",
+  "culture": "['Egypt, New Kingdom (1540–1069 BCE), Dynasty 18, reign of Amenhotep III (1390–1352 BCE)']",
+  "len": 690
+ },
+ {
+  "acc": "1914.661",
+  "title": "Block Statue of Djedbastetiufankh",
+  "date": "c. 664–610 BCE",
+  "culture": "['Egypt, Late period (715–332 BCE), Dynasties 25–26']",
+  "len": 770
+ },
+ {
+  "acc": "1964.90",
+  "title": "Seated Statue of Nykara",
+  "date": "2408–2377 BCE",
+  "culture": "['Egypt, Old Kingdom (2647–2124 BCE), Dynasty 5, reign of Nyuserre (2445–2422 BCE) or later']",
+  "len": 333
+ },
+ {
+  "acc": "1948.420",
+  "title": "Striding Statue of Minnefer",
+  "date": "c. 2377–2311 BCE",
+  "culture": "['Egypt, Giza, Old Kingdom (2647–2124 BCE), Dynasty 5']",
+  "len": 848
+ },
+ {
+  "acc": "1963.154",
+  "title": "Statue of Gudea",
+  "date": "c. 2144–2124 BCE",
+  "culture": "['Mesopotamia, Neo-Sumerian, Iraq, Girsu']",
+  "len": 545
+ },
+ {
+  "acc": "1963.100",
+  "title": "Tomb Relief of the Chief Physician Amenhotep and Family",
+  "date": "c. 1279–1257 BCE",
+  "culture": "['Egypt, Asyut, New Kingdom, (1540–1069 BCE), Dynasty 19, reign of Ramesses II (1279–1213 BCE)']",
+  "len": 924
+ },
+ {
+  "acc": "1920.1979",
+  "title": "Relief of a King",
+  "date": "664–525 BCE",
+  "culture": "['Egypt, Late period (715–332 BCE), Dynasty 26 or later']",
+  "len": 330
+ },
+ {
+  "acc": "1914.666.a",
+  "title": "Double-Sided Votive Relief",
+  "date": "305–30 BCE",
+  "culture": "['Egypt, Greco-Roman period (332 BCE–395 CE), Ptolemaic dynasty (305–30 BCE)']",
+  "len": 715
+ },
+ {
+  "acc": "1930.735",
+  "title": "Relief of Nyankhnesut Seated",
+  "date": "c. 2311–2281 BCE",
+  "culture": "['Egypt, Saqqara, Old Kingdom (2647–2124 BCE), Dynasty 6']",
+  "len": 1160
+ },
+ {
+  "acc": "1914.666.b",
+  "title": "Double-Sided Votive Relief",
+  "date": "305–30 BCE",
+  "culture": "['Egypt, Greco-Roman period (332 BCE–395 CE), Ptolemaic dynasty (305–30 BCE)']",
+  "len": 715
+ },
+ {
+  "acc": "1959.188",
+  "title": "Talatat: Portrait of Nefertiti",
+  "date": "c. 1353–1347 BCE",
+  "culture": "['Egypt, Karnak, New Kingdom (1540–1069 BCE), Dynasty 18, reign of Akhenaten (1351–1334 BCE)']",
+  "len": 575
+ },
+ {
+  "acc": "1976.4",
+  "title": "Talatat: Portrait of Nefertiti",
+  "date": "c. 1353–1347 BCE",
+  "culture": "['Egypt, Karnak, New Kingdom (1540–1069 BCE), Dynasty 18, reign of Akhenaten (1351–1334 BCE)']",
+  "len": 585
+ },
+ {
+  "acc": "1921.1021.a",
+  "title": "Canopic Jar with Jackal's Head",
+  "date": "664–525 BCE",
+  "culture": "['Egypt, Late period (715–332 BCE), Dynasty 26']",
+  "len": 673
+ },
+ {
+  "acc": "1921.1021",
+  "title": "Canopic Jar with Jackal's Head",
+  "date": "664–525 BCE",
+  "culture": "['Egypt, Late period (715–332 BCE), Dynasty 26']",
+  "len": 673
+ },
+ {
+  "acc": "1921.1018",
+  "title": "Canopic Jar with Falcon's Head",
+  "date": "664–525 BCE",
+  "culture": "['Egypt, Late period (715–332 BCE), Dynasty 26']",
+  "len": 673
+ },
+ {
+  "acc": "1921.1018.b",
+  "title": "Canopic Jar with Falcon's Head (lid)",
+  "date": "664–525 BCE",
+  "culture": "['Egypt, Late period (715–332 BCE), Dynasty 26']",
+  "len": 673
+ },
+ {
+  "acc": "1921.1018.a",
+  "title": "Canopic Jar with Falcon's Head",
+  "date": "664–525 BCE",
+  "culture": "['Egypt, Late period (715–332 BCE), Dynasty 26']",
+  "len": 673
+ },
+ {
+  "acc": "1914.630",
+  "title": "Canopic Jar with Lid",
+  "date": "1540–1296 BCE",
+  "culture": "['Egypt, New Kingdom (1540–1069 BCE), Dynasty 18']",
+  "len": 654
+ },
+ {
+  "acc": "1914.631",
+  "title": "Canopic Jar with Lid",
+  "date": "1540–1296 BCE",
+  "culture": "['Egypt, New Kingdom (1540–1069 BCE), Dynasty 18']",
+  "len": 911
+ },
+ {
+  "acc": "1921.1021.b",
+  "title": "Canopic Jar with Jackal's Head (lid)",
+  "date": "664–525 BCE",
+  "culture": "['Egypt, Late period (715–332 BCE), Dynasty 26']",
+  "len": 673
+ },
+ {
+  "acc": "1971.137",
+  "title": "Funerary Portrait of a Young Girl",
+  "date": "c. 25–37 CE",
+  "culture": "['Egypt, Roman Empire, late Tiberian']",
+  "len": 727
+ },
+ {
+  "acc": "1920.1991",
+  "title": "Vulture Headdress Inlay",
+  "date": "100–1 BCE",
+  "culture": "['Egypt, Greco-Roman period (332 BCE–395 CE), Ptolemaic dynasty (305–30 BCE)']",
+  "len": 372
+ },
+ {
+  "acc": "1914.795",
+  "title": "Sidelocks and Elements of Wig Decoration",
+  "date": "1980–1801 BCE",
+  "culture": "['Egypt, Middle Kingdom (2040–1648 BCE), Dynasty 12']",
+  "len": 715
+ },
+ {
+  "acc": "1916.658",
+  "title": "Finger Ring with Frog",
+  "date": "c. 1353–1337 BCE",
+  "culture": "['Egypt, New Kingdom (1540–1069 BCE), Dynasty 18, reign of Akhenaten (1351–1334 BCE)']",
+  "len": 446
+ },
+ {
+  "acc": "1916.660",
+  "title": "Broad Collar",
+  "date": "1900–1916",
+  "culture": "['Egypt, Style of late Dynasty 18 but essentially modern']",
+  "len": 676
+ },
+ {
+  "acc": "1987.1",
+  "title": "Pendant",
+  "date": "c. 700 BCE",
+  "culture": "[\"Sudan, Napatan; lion's head component: probably Egypt, Third Intermediate (1069–715 BCE), Dynasty 25\"]",
+  "len": 562
+ },
+ {
+  "acc": "1943.246",
+  "title": "Saluting Protective Spirit",
+  "date": "883–859 BCE",
+  "culture": "['Neo-Assyrian (911–609 BCE), Iraq, Nimrud, Northwest Palace, reign of Ashurnasirpal II (883–859 BCE)']",
+  "len": 332
+ },
+ {
+  "acc": "1962.150",
+  "title": "Dish with King Hormizd II or Hormizd III Hunting Lions",
+  "date": "400–600 CE",
+  "culture": "['Iran, Sasanian Empire (224–651 CE)']",
+  "len": 570
+ },
+ {
+  "acc": "1968.45",
+  "title": "Decorative Plaque: Man; and Griffin in Combat",
+  "date": "900–800 BCE",
+  "culture": "['Phoenicia, Iraq, Nimrud']",
+  "len": 607
+ },
+ {
+  "acc": "1968.48",
+  "title": "Decorative Plaque: Cow Nursing Its Calf",
+  "date": "900–800 BCE",
+  "culture": "['Phoenicia, Iraq, Nimrud']",
+  "len": 607
+ },
+ {
+  "acc": "1968.46",
+  "title": "Decorative Plaque: Winged Sphinx",
+  "date": "900–800 BCE",
+  "culture": "['Phoenicia, Iraq, Nimrud']",
+  "len": 607
+ },
+ {
+  "acc": "1968.47",
+  "title": "Decorative Plaque: Ram-Headed Sphinxes Flanking a Sacred Tree",
+  "date": "900–800 BCE",
+  "culture": "['Phoenicia, Iraq, Nimrud']",
+  "len": 607
+ },
+ {
+  "acc": "1968.49",
+  "title": "Decorative Plaque: Browsing Stag",
+  "date": "900–800 BCE",
+  "culture": "['Phoenicia, Iraq, Nimrud']",
+  "len": 607
+ },
+ {
+  "acc": "1970.61",
+  "title": "Bull Calf Polemount",
+  "date": "c. 2700 BCE",
+  "culture": "['Sumerian, Iraq']",
+  "len": 350
+ },
+ {
+  "acc": "1971.135",
+  "title": "Funerary Panel of a Man",
+  "date": "about 138–92 CE",
+  "culture": "['Antonine-era Roman Empire (Egypt), unknown painter']",
+  "len": 612
+ },
+ {
+  "acc": "1914.714",
+  "title": "Coffin of Nesykhonsu",
+  "date": "c. 976–889 BCE",
+  "culture": "['Egypt, Thebes, Third Intermediate (1069–715 BCE), Dynasties 21–22']",
+  "len": 305
+ },
+ {
+  "acc": "1914.561",
+  "title": "Coffin of Bakenmut",
+  "date": "c. 1000–900 BCE",
+  "culture": "['Egypt, Thebes, Third Intermediate (1069–715 BCE), Dynasties 21–22']",
+  "len": 1803
+ },
+ {
+  "acc": "1917.998",
+  "title": "Cat Coffin",
+  "date": "305–30 BCE",
+  "culture": "['Egypt, Greco-Roman period (332 BCE–395 CE), Ptolemaic dynasty (305–30 BCE)']",
+  "len": 349
+ },
+ {
+  "acc": "1971.136",
+  "title": "Funerary Portrait of a Woman",
+  "date": "c. 138–92 CE",
+  "culture": "['Egypt, Roman Empire, Antonine']",
+  "len": 322
+ },
+ {
+  "acc": "1914.561.a",
+  "title": "Coffin of Bakenmut",
+  "date": "c. 1000–900 BCE",
+  "culture": "['Egypt, Thebes, Third Intermediate (1069–715 BCE), Dynasties 21–22']",
+  "len": 1803
+ }
+]

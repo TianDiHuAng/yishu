@@ -4189,6 +4189,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；蚀刻 版口28.1×25cm；说明含酒馆场景与西勒诺斯典故"
+    },
+    {
+      "id": "cma-1963-154",
+      "title": "Cleveland Museum of Art — Statue of Gudea, Neo-Sumerian, c. 2144–2124 BCE, acc. 1963.154",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1963.154",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；闪长岩 126×55×36cm；说明含30余尊古迪亚像与2400余条铭文"
+    },
+    {
+      "id": "cma-1948-420",
+      "title": "Cleveland Museum of Art — Striding Statue of Minnefer, Old Kingdom, c. 2377–2311 BCE, acc. 1948.420",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1948.420",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；彩绘石灰岩 53.8×14.4×23.4cm；说明含 serdab 与 ka"
+    },
+    {
+      "id": "cma-1963-100",
+      "title": "Cleveland Museum of Art — Tomb Relief of Amenhotep and Family, New Kingdom, c. 1279–1257 BCE, acc. 1963.100",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1963.100",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；石灰岩存彩 128×119.5cm；说明含1913—14发掘与四城分藏"
+    },
+    {
+      "id": "cma-1959-188",
+      "title": "Cleveland Museum of Art — Talatat: Portrait of Nefertiti, Karnak, c. 1353–1347 BCE, acc. 1959.188",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1959.188",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；彩绘砂岩 22×22.7cm；说明含阿顿神庙拆解与王后形象频度"
     }
   ]
 }

@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 288 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 292 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -32,6 +32,10 @@
 | egyptian-art | 古埃及艺术 | 风格 | 古王国—新王国 | 埃及 | 综合 | 核心 | O1、O2 |
 | greek-art | 古希腊艺术 | 风格 | 几何—希腊化 | 希腊 | 综合 | 核心 | O1、O2 |
 | roman-art | 古罗马艺术 | 风格 | 共和—帝国 | 罗马 | 综合 | 重要 | O1、O2 |
+| gudea-statue | 古迪亚雕像（新苏美尔） | 作品 | 公元前22世纪 | 西亚·中亚 | 雕塑 | 核心 | O2 |
+| minnefer-statue | 明内弗行进像 | 作品 | 公元前24世纪 | 埃及 | 雕塑 | 核心 | O2 |
+| amenhotep-tomb-relief | 阿蒙霍特普医生墓浮雕 | 作品 | 公元前13世纪 | 埃及 | 雕塑 | 重要 | O2 |
+| nefertiti-talatat | 纳芙蒂蒂 Talatat 浮雕 | 作品 | 公元前14世纪 | 埃及 | 雕塑 | 核心 | O2 |
 
 ## art-medieval（艺术史·中世纪）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

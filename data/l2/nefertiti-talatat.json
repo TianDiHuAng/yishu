@@ -1,0 +1,19 @@
+{
+ "id": "nefertiti-talatat",
+ "level": "L2",
+ "sections": {
+  "时代背景": "该馆说明，阿蒙霍特普三世之子**阿肯那顿（Akhenaten）**在第十八王朝晚期发动了短暂的「**一神教式**」宗教变革；他在卡纳克为**日轮阿顿（Aten）**建神庙，随后迁都阿马尔纳。本件出自该神庙。",
+  "风格特征": "该馆指出一个值得注意的**图像频率**问题：「出于尚未知晓的原因」，在这些浮雕中**王后纳芙蒂蒂的形象出现得远比国王频繁**。本条目照录这层「未知」，不代为解释。",
+  "代表人物与作品": "所绘者为纳芙蒂蒂；作者未署名。相关条目见明内弗像与埃及艺术。本件为克利夫兰艺术博物馆藏品（1959.188）。",
+  "技法或形式分析": "材质为**彩绘砂岩**，整体22 × 22.7厘米（据该馆藏品记录）。「talatat」指阿顿神庙所用的小型标准化石块，便于快速搭建；本条目只据该馆所记材质与尺寸陈述，不推断模块尺度。",
+  "与前后风格的关系和争论": "该馆给出一个带反讽意味的后续：阿顿神庙后来被**拆解**，用作**阿蒙大神庙增建工程的基础与填料**——而阿顿一度取代的正是阿蒙。本条目据此指出，这块浮雕的「材料生命」与宗教政治的反复直接相关。",
+  "一图": "示意图以阿顿改革、纳芙蒂蒂的高出现率与神庙拆解再填三者关系标示本件。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）王后出现频率的原因该馆明言未知；（3）talatat 的标准化尺寸与砌筑方式未展开；（4）本块在神庙中的原位置未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='nefertiti-talatat 示意图'><title>nefertiti-talatat</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>阿顿改革</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>前14世纪</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>纳芙蒂蒂 talatat</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>22×22.7</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>王后频度</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>原因未知</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>拆作填料</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>阿蒙神庙</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>纳芙蒂蒂 talatat：改革、图像与拆解</text></g></svg>",
+ "sources": [
+  "cma-1959-188"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；图像频率原因馆方明言未知。"
+}

@@ -111,7 +111,10 @@
       "overview": "雕塑与壁画中人物采用正面律：头侧、眼正、肩正、腿侧；色彩与尺寸具有象征意义。",
       "related": [
         "greek-art",
-        "roman-art"
+        "roman-art",
+        "gudea-statue",
+        "minnefer-statue",
+        "nefertiti-talatat"
       ],
       "sources": [
         "enc-prehistoric-art",
@@ -2621,7 +2624,8 @@
       "overview": "青铜器用于祭祀与宴飨，器型多样，纹饰以饕餮纹、夔龙纹为主，体现礼制秩序与铸造工艺。",
       "related": [
         "chinese-jade-art",
-        "six-dynasties-art"
+        "six-dynasties-art",
+        "gudea-statue"
       ],
       "sources": [
         "enc-bronze",
@@ -10153,6 +10157,142 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='dusart-violin-tavern 示意图'><title>dusart-violin-tavern</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>音乐·酒</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>酒馆</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>蚀刻版画</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1685</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>西勒诺斯联想</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>纵酒警示</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>拉丁诗句</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>社会对照</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>酒馆小提琴手：娱乐与警示</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（CMA）来源；诗句全文与图像谱系未取得。"
+    },
+    {
+      "id": "gudea-statue",
+      "title": "古迪亚雕像（新苏美尔）",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元前22世纪",
+      "region": "西亚·中亚",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "拉伽什统治者古迪亚雕像，克利夫兰艺术博物馆藏（1963.154）。",
+      "when": "约公元前2144—公元前2124年",
+      "overview": "双手交握的姿势见于30余尊古迪亚像；该馆记已辨识2400余条关于其统治的铭文。",
+      "related": [
+        "shang-zhou-bronzes",
+        "egyptian-art",
+        "minnefer-statue",
+        "amenhotep-tomb-relief"
+      ],
+      "sources": [
+        "cma-1963-154"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明，这尊无头像的**双手交握**姿势在其有记录的**30余尊古迪亚像**中反复出现。古迪亚于约公元前2144—2124年任拉伽什城邦的**ensi（总督）**，城邦位于今伊拉克。",
+        "风格特征": "该馆进一步指出，学界已辨识出**2400余条**描述其统治的铭文，内容包括**赞助艺术**与**大规模营建**。本条目据此把反复出现的雕像姿势理解为一种可被文字与图像共同确认的**统治形象**。",
+        "代表人物与作品": "所塑者为古迪亚；作者未署名。相关条目见埃及艺术与商周青铜礼器。本件为克利夫兰艺术博物馆藏品（1963.154）。",
+        "技法或形式分析": "材质为**闪长岩（dolerite）**，整体126 × 55 × 36厘米（据该馆藏品记录）。头部已失，但交握双手与坐姿仍完整——该馆未说明头部缺失的原因，本条目不推测。",
+        "与前后风格的关系和争论": "该馆给出雕像的功能判断：这类像会**置于神庙中作为古迪亚本人的替身**，以展示他的**虔诚与敬神**。本条目照录，不把它简单称为「肖像」。",
+        "一图": "示意图以ensi身份、2400余条铭文、30余尊重复姿势与神庙替身功能四者关系标示本像。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）头部缺失原因未记录；（3）铭文内容为概述，原文未迻录；（4）出土地吉尔苏的具体神庙未取得。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='gudea-statue 示意图'><title>gudea-statue</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>拉伽什 ensi</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>约前2144—2124</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>古迪亚像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>126cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>交握双手</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>30余尊反复</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>神庙替身</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>虔诚</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>古迪亚像：身份、重复与替身</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；头部缺失原因与神庙未取得。"
+    },
+    {
+      "id": "minnefer-statue",
+      "title": "明内弗行进像",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元前24世纪",
+      "region": "埃及",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "古王国第五王朝彩绘石灰岩雕像，克利夫兰艺术博物馆藏（1948.420）。",
+      "when": "约公元前2377—公元前2311年",
+      "overview": "出土于吉萨马斯塔巴密封雕像室（serdab）；仪式后作为亡者替身，享用供品以维系 ka。",
+      "related": [
+        "gudea-statue",
+        "egyptian-art",
+        "amenhotep-tomb-relief",
+        "nefertiti-talatat"
+      ],
+      "sources": [
+        "cma-1948-420"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本像为古王国第五王朝（约公元前2377—2311年）作品，克利夫兰艺术博物馆藏（1948.420）。底座刻有**宫殿侍从主管明内弗**的姓名与职衔。",
+        "风格特征": "该馆描述形象：他被表现为**年轻而矫健**，双手垂于体侧、**左脚前迈**——该馆称这是男性像的**典型行进姿势**。为使雕像更逼真，**肌肤原涂红褐色、假发黑、短裙白**。",
+        "代表人物与作品": "所塑者为明内弗；作者未署名。相关条目见古迪亚像与埃及艺术。本件为克利夫兰艺术博物馆藏品（1948.420）。",
+        "技法或形式分析": "材质为**彩绘石灰岩**，整体53.8 × 14.4 × 23.4厘米（据该馆藏品记录）。本件是四尊明内弗像之一，出土于其**损毁马斯塔巴墓**的**封闭雕像室（serdab）**；该馆指出多数古王国私人雕像都以这种方式藏匿。",
+        "与前后风格的关系和争论": "该馆说明这类雕像「**不只是一个再现**」：在举行适当仪式后，它成为**亡者的替身**，可享用供品，以维系其 **ka（生命力）**。本条目据此把彩绘、封闭空间与仪式并置，而不只谈造型。",
+        "一图": "示意图以典型行进姿势、serdab 密室与 ka 的供品维系三者关系标示本像。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）四尊像的其余现藏地未列；（3）ka 的神学解释该馆仅一句带过；（4）色彩为依据残存颜料的复原判断。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='minnefer-statue 示意图'><title>minnefer-statue</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>典型行进姿</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>左脚前迈</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>明内弗像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>53.8cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>serdab 密室</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>四尊之一</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>ka 生命力</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>供品</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>明内弗像：姿势、密室与 ka</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；其余三尊下落与 ka 细节未取得。"
+    },
+    {
+      "id": "amenhotep-tomb-relief",
+      "title": "阿蒙霍特普医生墓浮雕",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元前13世纪",
+      "region": "埃及",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "拉美西斯二世时期阿西尤特墓室浮雕，克利夫兰艺术博物馆藏（1963.100）。",
+      "when": "约公元前1279—公元前1257年",
+      "overview": "医生率家人举手祈祷；1913—14年发掘后分藏四城，紧邻右半在苏黎世。",
+      "related": [
+        "gudea-statue",
+        "minnefer-statue"
+      ],
+      "sources": [
+        "cma-1963-100"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本浮雕出自埃及阿西尤特（Asyut）的**首席医师阿蒙霍特普**墓室，定年为拉美西斯二世（前1279—1213）统治时期。该馆先给一条社会史判断：**古埃及医学备受尊重，医生收入颇丰**。",
+        "风格特征": "画面中阿蒙霍特普**率家人举手祈祷**；众人皆戴精编假发、穿层叠打褶的亚麻衣物——该馆称这是拉美西斯二世长期繁荣统治时期的时尚。",
+        "代表人物与作品": "所绘者为首席医师阿蒙霍特普及其家人；作者未署名。相关条目见古迪亚像与明内弗像。本件为克利夫兰艺术博物馆藏品（1963.100）。",
+        "技法或形式分析": "材质为**石灰岩，残存颜料痕迹**，整体128 × 119.5厘米（据该馆藏品记录）。该馆给出一处精细观察：面部具该时期特征（**长鼻侧影、小口、颈部皱褶**）；眼部**只有上眼睑以浮雕表现**，其余细节用黑白颜料绘成。",
+        "与前后风格的关系和争论": "该馆还记录了**现代分藏史**：墓室由埃及古物局于**1913—14年**发掘，浮雕现分藏**四座城市**；与本件**右侧直接相接的墙面在苏黎世**，其余在托莱多艺术博物馆等处。本条目据此把「原初整体」与「今日分藏」并列。",
+        "一图": "示意图以医师祈祷、时期风格细节与四城分藏三者关系标示本件。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）其余分藏城市的完整清单该馆说明被截断；（3）发掘报告未取得；（4）雕塑家姓名未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='amenhotep-tomb-relief 示意图'><title>amenhotep-tomb-relief</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>首席医师</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>拉美西斯二世朝</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>墓室浮雕</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>128×119.5</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>长鼻·小口</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>时期风格</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>四城分藏</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>右半在苏黎世</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>医师浮雕：身份、风格与分藏</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；发掘报告与完整分藏清单未取得。"
+    },
+    {
+      "id": "nefertiti-talatat",
+      "title": "纳芙蒂蒂 Talatat 浮雕",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元前14世纪",
+      "region": "埃及",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "卡纳克阿顿神庙彩绘砂岩浮雕块，克利夫兰艺术博物馆藏（1959.188）。",
+      "when": "约公元前1353—公元前1347年",
+      "overview": "阿肯那顿短命宗教改革时期作品；王后形象频度远超国王；神庙后被拆作阿蒙神庙基填。",
+      "related": [
+        "minnefer-statue",
+        "egyptian-art"
+      ],
+      "sources": [
+        "cma-1959-188"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明，阿蒙霍特普三世之子**阿肯那顿（Akhenaten）**在第十八王朝晚期发动了短暂的「**一神教式**」宗教变革；他在卡纳克为**日轮阿顿（Aten）**建神庙，随后迁都阿马尔纳。本件出自该神庙。",
+        "风格特征": "该馆指出一个值得注意的**图像频率**问题：「出于尚未知晓的原因」，在这些浮雕中**王后纳芙蒂蒂的形象出现得远比国王频繁**。本条目照录这层「未知」，不代为解释。",
+        "代表人物与作品": "所绘者为纳芙蒂蒂；作者未署名。相关条目见明内弗像与埃及艺术。本件为克利夫兰艺术博物馆藏品（1959.188）。",
+        "技法或形式分析": "材质为**彩绘砂岩**，整体22 × 22.7厘米（据该馆藏品记录）。「talatat」指阿顿神庙所用的小型标准化石块，便于快速搭建；本条目只据该馆所记材质与尺寸陈述，不推断模块尺度。",
+        "与前后风格的关系和争论": "该馆给出一个带反讽意味的后续：阿顿神庙后来被**拆解**，用作**阿蒙大神庙增建工程的基础与填料**——而阿顿一度取代的正是阿蒙。本条目据此指出，这块浮雕的「材料生命」与宗教政治的反复直接相关。",
+        "一图": "示意图以阿顿改革、纳芙蒂蒂的高出现率与神庙拆解再填三者关系标示本件。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）王后出现频率的原因该馆明言未知；（3）talatat 的标准化尺寸与砌筑方式未展开；（4）本块在神庙中的原位置未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='nefertiti-talatat 示意图'><title>nefertiti-talatat</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>阿顿改革</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>前14世纪</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>纳芙蒂蒂 talatat</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>22×22.7</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>王后频度</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>原因未知</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>拆作填料</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>阿蒙神庙</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>纳芙蒂蒂 talatat：改革、图像与拆解</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；图像频率原因馆方明言未知。"
     }
   ]
 }
