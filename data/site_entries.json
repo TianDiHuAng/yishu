@@ -5559,6 +5559,102 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='ingres 示意图'><title>ingres</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>大卫画室</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1797</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>安格尔</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1780—1867</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>1824 沙龙之争</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>新古典领袖</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>素描传统</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>德加·毕加索</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>安格尔：学院训练、沙龙之争与素描传统</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "本条目人物事实仅取自单一机构（克利夫兰艺术博物馆）的艺术家记录，未获第二独立来源；生卒年与生平细节均待外部核对。详见待核实。"
+    },
+    {
+      "id": "hokusai-red-fuji",
+      "title": "《凯风快晴》（北斋）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "19世纪",
+      "region": "日本",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "葛饰北斋《富岳三十六景》之一，通称「赤富士」；克利夫兰艺术博物馆（1930.189）与维多利亚与艾尔伯特博物馆（O129067）各藏印本。",
+      "when": "early 1830s（系列作于1829—1833年）",
+      "overview": "以夏末秋初山体转红的时刻描绘富士山，是浮世绘风景版画中最广为人知的图像之一。",
+      "related": [
+        "ukiyo-e",
+        "japanese-art"
+      ],
+      "sources": [
+        "cma-1930-189",
+        "vam-o129067"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "富士山是日本最高峰，出现在19世纪多数日本旅行文学中；该馆说明指出，当时的地图有时以富士形的图标标示其位置，并标注旅人可获得最佳观景处的地点。据克利夫兰艺术博物馆的策展说明，北斋在1829至1833年间创作了描绘富士山三十六景的系列版画，本幅即其中之一，常被称为「赤富士」。",
+        "风格特征": "该馆说明称，画中所取时节为夏末秋初之间，此时山体呈现偏红的色调。系列以同一座山在不同天气、不同角度下的样貌为主题，本幅以晴日南风为题，山体轮廓清晰、色彩偏赤，与同系列其他作品的雪景、雨景形成对照。",
+        "代表人物与作品": "作者为葛饰北斋（1760—1849，据该馆创作者记录）。相关条目见浮世绘与日本艺术。英国维多利亚与艾尔伯特博物馆藏有同一构图的印本，题名《晴日南风（Gaifū kaisei）》，属《富岳三十六景》，纸本，高25.2厘米、宽37.4厘米。",
+        "技法或形式分析": "作品为木版画（多色摺）。据 V&A 藏品记录，其馆藏印本为纸本，尺寸25.2 × 37.4厘米；克利夫兰的记录把创作年代定为1830年代初，未在该馆说明中给出本幅尺寸，故本条目不以尺寸比较两馆藏本。",
+        "与前后风格的关系和争论": "本幅属浮世绘风景版画一路，与同系列其他作品共同构成对富士山的系列化观看；「赤富士」这一通称即出自该馆说明。关于两馆藏本是否为同一版次、以及各自印造先后，本条目未取得可核验材料。",
+        "一图": "示意图以系列（1829—1833）、赤富士母题、两馆藏本三者关系标示本作品的位置。",
+        "待核实": "（1）两馆藏本的关系（同版次或不同印次）未获来源判定，暂并列而不合并；（2）克利夫兰记录未给尺寸，故尺寸仅据 V&A 一家；（3）作者生卒1760—1849取自 CMA 创作者记录，未以第二来源核对；（4）「赤富士」「夏末秋初」等表述均出自 CMA 策展说明，属单一机构的解释。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='hokusai-red-fuji 示意图'><title>hokusai-red-fuji</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>北斋</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1760—1849</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>富岳三十六景</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1829—1833</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>赤富士</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>夏末秋初</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>CMA / V&amp;</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>各藏印本</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>《凯风快晴》：系列、母题与两馆藏本</text></g></svg>"
+    },
+    {
+      "id": "hiroshige-shono",
+      "title": "《庄野 白雨》（广重）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "19世纪",
+      "region": "日本",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "歌川广重《东海道五十三次》中的雨景，CMA（1948.306）与 V&A（O410702）各藏印本。",
+      "when": "1833年",
+      "overview": "以三层灰版表现竹林的空间深度，并把出版商名与系列名题写在旅人的伞面上。",
+      "related": [
+        "ukiyo-e",
+        "japanese-art"
+      ],
+      "sources": [
+        "cma-1948-306",
+        "vam-o410702"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "歌川广重（1797—1858）为《东海道五十三次》所作。该馆说明指出，东海道是自京都通往江户（今东京）的道路，广重曾以这条路为题材创作过多种不同的系列；本幅属1833年的那一组。",
+        "风格特征": "该馆说明称，这一构图把握了雨的气氛，以及雨对两组旅人造成的影响。背景竹林中以三层灰色暗示距离，使画面在平面版画中取得纵深。",
+        "代表人物与作品": "相关条目见浮世绘与日本艺术。英国维多利亚与艾尔伯特博物馆藏有同图印本，题名《庄野 白雨（Shōno, hakuu）》，纸本，高22.9厘米、宽34.9厘米。日本方面的收藏与其它印本情况本条目未取得来源。",
+        "技法或形式分析": "据该馆说明，此图需要三块版才能印出背景竹林所用的三层灰——这直接说明多版套色如何在有限色数下构造空间层次。同一说明还指出，出版商名「Takenouchi」与系列名的一部分被写在某位旅人的伞面上，使文字成为画面叙事的一部分。",
+        "与前后风格的关系和争论": "把文字题写融入画面（伞面上的出版信息）是这批商业版画的生产痕迹，也是版本研究的重要线索；该馆说明以之作为辨识依据。广重对同一道路的反复处理，构成其风景版画的主要脉络之一。",
+        "一图": "示意图以东海的五十三次系列、三版套色的灰阶层次与两馆藏本三者关系标示本作品。",
+        "待核实": "（1）两馆藏本是否为同一版次未获判定；尺寸仅据 V&A（22.9 × 34.9 cm），CMA 未在说明中给出；（2）作者生卒1797—1858取自 CMA 创作者记录；（3）「庄野」作为宿场的地理与史料细节该馆仅简述，未展开；（4）伞面题字的完整释文未取得。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='hiroshige-shono 示意图'><title>hiroshige-shono</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>广重</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1797—1858</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>东海道五十三次</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1833</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>三版三层灰</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>空间深度</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>CMA / V&amp;</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>各藏印本</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>《庄野 白雨》：系列、套色层次与两馆藏本</text></g></svg>"
+    },
+    {
+      "id": "hiroshige-ohashi-atake",
+      "title": "《大桥安宅骤雨》（广重）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "19世纪",
+      "region": "日本",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "歌川广重《名所江户百景》之一，绘隅田川大桥上突遇阵雨的行人；CMA（1921.318）与 V&A（O420904）各藏印本。",
+      "when": "1857年",
+      "overview": "出版于1855年大地震与大火后两年，画面焦点是雨中仓皇遮护的行人与远处安宅一带。",
+      "related": [
+        "ukiyo-e",
+        "japanese-art"
+      ],
+      "sources": [
+        "cma-1921-318",
+        "vam-o420904"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明指出，本幅出版于1855年大地震与大火灾之后两年，描绘的是江户（今东京）隅田川上新近重建的大桥。画面远处的安宅一带，是当时的街区名。",
+        "风格特征": "该馆说明把此图视为广重捕捉大气状况的能力的例证：突降的雨幕中，桥上行人相向而行，各自设法遮护自己。斜向的雨线与桥的横向结构相交，构成画面的主导动势。",
+        "代表人物与作品": "作者为歌川广重，属《名所江户百景》系列。相关条目见浮世绘与日本艺术。英国维多利亚与艾尔伯特博物馆藏有同图印本，题名《大桥安宅骤雨（Ōhashi Atake no yūdachi）》，纸本，高14.13厘米、宽9.04厘米。",
+        "技法或形式分析": "作品为木版画。两馆记录的尺寸差异明显：V&A 藏本14.13 × 9.04厘米，明显小于通常的大判尺寸；CMA 的说明未给出其藏本尺寸。本条目据实并列两馆记录，不推断何者为初印。",
+        "与前后风格的关系和争论": "本幅常被作为广重雨景表现的代表之一；它与《庄野 白雨》同属雨景母题，但一为东海道系列的旅人，一为江户名胜的桥上行众。关于本图在后世欧洲的接受情况，本条目未取得可核验来源。",
+        "一图": "示意图以1855年震后重建、名所江户百景系列、两馆藏本（含尺寸差异）三者关系标示本作品。",
+        "待核实": "（1）V&A 藏本14.13 × 9.04厘米与大判尺寸差距较大，是否为不同版次、缩印或裁切，缺来源判定；（2）CMA 藏本尺寸未取得；（3）作者生卒1797—1858取自 CMA 创作者记录；（4）该图在欧洲的接受史（如后世画家的临摹）虽有通说，但本条目未取得可核验来源，故未写入正文。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='hiroshige-ohashi-atake 示意图'><title>hiroshige-ohashi-atake</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>1855 震后</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>桥重建</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>名所江户百景</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1857</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>雨景母题</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>桥上行众</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>尺寸差异</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>14.1×9.0</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>《大桥安宅骤雨》：震后重建、系列与藏本差异</text></g></svg>"
     }
   ]
 }

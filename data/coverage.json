@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 154,
+    "total": 157,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 22,
@@ -1861,6 +1861,42 @@
       "pending_notes": "关键事实需≥2个verified来源，当前1个",
       "last_update": "2026-11-22",
       "source_independence_ok": false
+    },
+    "hokusai-red-fuji": {
+      "title": "《凯风快晴》（北斋）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 2,
+      "verified_sources_count": 2,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "hiroshige-shono": {
+      "title": "《庄野 白雨》（广重）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 2,
+      "verified_sources_count": 2,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "hiroshige-ohashi-atake": {
+      "title": "《大桥安宅骤雨》（广重）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 2,
+      "verified_sources_count": 2,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
     }
   }
 }

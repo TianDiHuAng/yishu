@@ -1106,6 +1106,31 @@
       "check_links_result": "broken=0(185页)",
       "audit_all": "8/8 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle42",
+      "date": "2026-11-23",
+      "status": "completed",
+      "gap_methods": [
+        "同作品跨机构比对（CMA↔V&A）"
+      ],
+      "network": "partial: museum APIs ok",
+      "new_entries": 3,
+      "new_entry_ids": [
+        "hokusai-red-fuji",
+        "hiroshige-shono",
+        "hiroshige-ohashi-atake"
+      ],
+      "dual_institution_all": true,
+      "new_sources": 6,
+      "sources_total": 297,
+      "entries_total": 157,
+      "pages": 188,
+      "finding": "自动标题比对因变音符漏判，需按系列名/罗马字并查；人工确认后得 3 组同作品双机构",
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(188页)",
+      "audit_all": "8/8 ok",
+      "commits": 1
     }
   ]
 }

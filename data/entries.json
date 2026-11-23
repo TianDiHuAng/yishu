@@ -3236,6 +3236,69 @@
       "sources": [
         "cma-artist-ingres"
       ]
+    },
+    {
+      "id": "hokusai-red-fuji",
+      "title": "《凯风快晴》（北斋）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "19世纪",
+      "region": "日本",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "葛饰北斋《富岳三十六景》之一，通称「赤富士」；克利夫兰艺术博物馆（1930.189）与维多利亚与艾尔伯特博物馆（O129067）各藏印本。",
+      "when": "early 1830s（系列作于1829—1833年）",
+      "overview": "以夏末秋初山体转红的时刻描绘富士山，是浮世绘风景版画中最广为人知的图像之一。",
+      "related": [
+        "ukiyo-e",
+        "japanese-art"
+      ],
+      "sources": [
+        "cma-1930-189",
+        "vam-o129067"
+      ]
+    },
+    {
+      "id": "hiroshige-shono",
+      "title": "《庄野 白雨》（广重）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "19世纪",
+      "region": "日本",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "歌川广重《东海道五十三次》中的雨景，CMA（1948.306）与 V&A（O410702）各藏印本。",
+      "when": "1833年",
+      "overview": "以三层灰版表现竹林的空间深度，并把出版商名与系列名题写在旅人的伞面上。",
+      "related": [
+        "ukiyo-e",
+        "japanese-art"
+      ],
+      "sources": [
+        "cma-1948-306",
+        "vam-o410702"
+      ]
+    },
+    {
+      "id": "hiroshige-ohashi-atake",
+      "title": "《大桥安宅骤雨》（广重）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "19世纪",
+      "region": "日本",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "歌川广重《名所江户百景》之一，绘隅田川大桥上突遇阵雨的行人；CMA（1921.318）与 V&A（O420904）各藏印本。",
+      "when": "1857年",
+      "overview": "出版于1855年大地震与大火后两年，画面焦点是雨中仓皇遮护的行人与远处安宅一带。",
+      "related": [
+        "ukiyo-e",
+        "japanese-art"
+      ],
+      "sources": [
+        "cma-1921-318",
+        "vam-o420904"
+      ]
     }
   ]
 }

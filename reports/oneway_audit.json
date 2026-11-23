@@ -1,7 +1,7 @@
 {
- "total_oneway": 13,
+ "total_oneway": 19,
  "by_class": {
-  "same_unit": 8,
+  "same_unit": 14,
   "same_domain": 5
  },
  "rows": [
@@ -95,6 +95,48 @@
    "class": "same_unit",
    "from_unit": "art-neo-romantic",
    "to_unit": "art-neo-romantic"
+  },
+  {
+   "from": "hokusai-red-fuji",
+   "to": "ukiyo-e",
+   "class": "same_unit",
+   "from_unit": "art-asia",
+   "to_unit": "art-asia"
+  },
+  {
+   "from": "hokusai-red-fuji",
+   "to": "japanese-art",
+   "class": "same_unit",
+   "from_unit": "art-asia",
+   "to_unit": "art-asia"
+  },
+  {
+   "from": "hiroshige-shono",
+   "to": "ukiyo-e",
+   "class": "same_unit",
+   "from_unit": "art-asia",
+   "to_unit": "art-asia"
+  },
+  {
+   "from": "hiroshige-shono",
+   "to": "japanese-art",
+   "class": "same_unit",
+   "from_unit": "art-asia",
+   "to_unit": "art-asia"
+  },
+  {
+   "from": "hiroshige-ohashi-atake",
+   "to": "ukiyo-e",
+   "class": "same_unit",
+   "from_unit": "art-asia",
+   "to_unit": "art-asia"
+  },
+  {
+   "from": "hiroshige-ohashi-atake",
+   "to": "japanese-art",
+   "class": "same_unit",
+   "from_unit": "art-asia",
+   "to_unit": "art-asia"
   }
  ]
 }

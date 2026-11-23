@@ -2909,6 +2909,66 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 V&A API HTTP 200：title/material(oil paint, canvas) 取到"
+    },
+    {
+      "id": "cma-1930-189",
+      "title": "Cleveland Museum of Art — Katsushika Hokusai, South Wind, Clear Sky (Red Fuji), early 1830s, acc. 1930.189",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1930.189",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；curators 说明含系列年代 1829–1833 与「赤富士」称谓"
+    },
+    {
+      "id": "cma-1948-306",
+      "title": "Cleveland Museum of Art — Utagawa Hiroshige, Driving Rain at Shōno, 1833, acc. 1948.306",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1948.306",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；说明含三版三层灰、出版商 Takenouchi"
+    },
+    {
+      "id": "cma-1921-318",
+      "title": "Cleveland Museum of Art — Utagawa Hiroshige, Sudden Shower over Shin-Ōhashi Bridge and Atake, 1857, acc. 1921.318",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1921.318",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；说明含 1855 震后重建、系列名"
+    },
+    {
+      "id": "vam-o129067",
+      "title": "Victoria and Albert Museum — Hokusai, Clear Day with a Southern Breeze (Gaifū kaisei), O129067",
+      "year": "2026",
+      "url": "https://collections.vam.ac.uk/item/O129067/",
+      "author": "Victoria and Albert Museum（V&A API v2）",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 V&A API HTTP 200；题名含系列《富岳三十六景》，纸本 25.2 × 37.4 cm"
+    },
+    {
+      "id": "vam-o410702",
+      "title": "Victoria and Albert Museum — Hiroshige, Shōno: Driving Rain (Shōno, hakuu), O410702",
+      "year": "2026",
+      "url": "https://collections.vam.ac.uk/item/O410702/",
+      "author": "Victoria and Albert Museum（V&A API v2）",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 V&A API HTTP 200；纸本 22.9 × 34.9 cm"
+    },
+    {
+      "id": "vam-o420904",
+      "title": "Victoria and Albert Museum — Hiroshige, Sudden Shower over Shin-Ōhashi Bridge and Atake, O420904",
+      "year": "2026",
+      "url": "https://collections.vam.ac.uk/item/O420904/",
+      "author": "Victoria and Albert Museum（V&A API v2）",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 V&A API HTTP 200；纸本 14.13 × 9.04 cm（与大判尺寸不同，版次待核）"
     }
   ]
 }

@@ -13,7 +13,7 @@
    "to_dom": "art"
   }
  ],
- "oneway_count": 13,
+ "oneway_count": 19,
  "oneway_sample": [
   [
    "degas",
@@ -98,5 +98,5 @@
    7
   ]
  ],
- "total_links": 449
+ "total_links": 455
 }

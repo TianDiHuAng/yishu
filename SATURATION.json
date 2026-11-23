@@ -502,6 +502,18 @@
       },
       "network": "partial (museum APIs)",
       "verdict": "新增 5 人物（154）；3 双机构 / 2 单机构已标记；未饱和"
+    },
+    {
+      "cycle": "cycle42",
+      "date": "2026-11-23",
+      "methods_used": [
+        "同作品比对"
+      ],
+      "gaps_found": {
+        "entries": 3
+      },
+      "network": "partial (museum APIs)",
+      "verdict": "3 条浮世绘「同作品双机构」条目（157）；未饱和"
     }
   ],
   "assessment_c33": {
