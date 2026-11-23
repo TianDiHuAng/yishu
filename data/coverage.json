@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 320,
+    "total": 324,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -3844,6 +3844,54 @@
     },
     "picasso-bottle-glass-fork": {
       "title": "毕加索《瓶、杯、叉》",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "luba-bowl-figure": {
+      "title": "卢巴持碗女像",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "dogon-female-figure": {
+      "title": "多贡女像（举臂）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "dogon-satimbe-mask": {
+      "title": "多贡 satimbe 面具（顶立女像）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "kuba-bwoom-mask": {
+      "title": "库巴 bwoom 面具",
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",

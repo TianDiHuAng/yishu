@@ -6482,7 +6482,11 @@
         "ethiopian-amulet-necklace",
         "ethiopian-harar-necklace",
         "kongo-nkisi-nkondi",
-        "vili-ivory-tusk"
+        "vili-ivory-tusk",
+        "luba-bowl-figure",
+        "dogon-female-figure",
+        "dogon-satimbe-mask",
+        "kuba-bwoom-mask"
       ],
       "sources": [
         "cma-1999-1",
@@ -7467,7 +7471,8 @@
         "kongo-crucifix",
         "african-art",
         "kongo-corpus",
-        "vili-ivory-tusk"
+        "vili-ivory-tusk",
+        "luba-bowl-figure"
       ],
       "sources": [
         "cma-2010-432"
@@ -11273,6 +11278,139 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='picasso-bottle-glass-for 示意图'><title>picasso-bottle-glass-for</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>分析立体主义</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1908—12</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>瓶·杯·叉</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>72×52.7</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>多视点·叠面</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>碎裂外观</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>字母数字</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>含义未知</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>《瓶、杯、叉》：立体主义与谜样文字</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（CMA）来源；字母含义馆方明言未知。"
+    },
+    {
+      "id": "luba-bowl-figure",
+      "title": "卢巴持碗女像",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "19—20世纪",
+      "region": "非洲",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "卢巴风格木雕持碗女像，克利夫兰艺术博物馆藏（2010.454）。",
+      "when": "1800年代末—1900年代初",
+      "overview": "卢巴美学认为「器物的美影响其效力」；像身残留 mpemba 白垩，说明曾盛圣粉；腰间胸前有菱形瘢纹。",
+      "related": [
+        "kongo-nkisi-nkondi",
+        "african-art",
+        "kuba-bwoom-mask"
+      ],
+      "sources": [
+        "cma-2010-454"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明，在**卢巴风格艺术**中，「**器物的美影响它运作的效果**」——审美与效力不可分。持碗女像用途有多种，本件很可能是**王室占卜者**在仪式中使用。",
+        "风格特征": "该馆给出多处可核查的细节：**mpemba（白垩）**的尘迹散落在**光亮的外表与碗内**，说明它曾盛此**圣粉**；**腰间、胸前与背部的菱形瘢纹**「增添她的美」；**头发**雕成20世纪之交卢巴地区流行的**层叠垂发型**；**进口玻璃珠**环绕腰颈并从发间垂落。",
+        "代表人物与作品": "作者为卢巴风格雕刻者。相关条目见刚果灵力像与非洲艺术。本件为克利夫兰艺术博物馆藏品（2010.454）。",
+        "技法或形式分析": "材质为**木、玻璃珠、包钉、植物纤维与铁**，整体40.8 × 16.1 × 27.3厘米（据该馆藏品记录）。该馆指出，**交替的白珠与蓝珠**可能象征**月亮**与**Mbidi Kiluwe**——一位与王权实践和**锻造**相关的文化英雄。",
+        "与前后风格的关系和争论": "该馆记录了一个**性别悖论**：卢巴风格艺术**大量描绘女性**（女性在社会中很重要），但**多数此类作品由男性创作并拥有**。本条目照录，不代其解释。",
+        "一图": "示意图以「美即效力」、mpemba 圣粉与白/蓝珠的象征三者关系标示本像。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「王室占卜者使用」该馆用 likely；（3）珠饰象征的解释为该馆说法；（4）瘢纹的具体含义未展开。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='luba-bowl-figure 示意图'><title>luba-bowl-figure</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>美即效力</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>卢巴美学</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>持碗女像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>40.8cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>mpemba 白垩</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>圣粉残留</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>白/蓝珠</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>月亮·Mbidi</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>卢巴女像：美学、圣粉与珠饰</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；用途为推测；珠象征为馆方解释。"
+    },
+    {
+      "id": "dogon-female-figure",
+      "title": "多贡女像（举臂）",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "20世纪",
+      "region": "非洲",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "多贡风格木雕女像，克利夫兰艺术博物馆藏（1976.172）。",
+      "when": "约1940年",
+      "overview": "举臂可能指 Amma 所造第一个存在；另一说与求雨有关（黑化像象征祈求乌云）；第三说关联播种仪式。",
+      "related": [
+        "dogon-satimbe-mask",
+        "african-art"
+      ],
+      "sources": [
+        "cma-1976-172"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明，多数**多贡艺术是宗教性的**，表现**祖先、祭司与女祭司，或神话存在**——他们在生者与创世神 **Amma** 之间充当**中介**。",
+        "风格特征": "该馆对同一造像给出**三种解释**，并列而不裁定：其一，**举起的双臂**可能指 Amma 所创造的**第一个存在**，其职责是整理并净化天地；其二，与**求雨仪式**相关——**黑化的像**象征对**乌云**的祈求；其三，与**年度播种仪式**相关——祭司把**小米粒**撒在人头上，象征性地「以雨与丰收的祝福浇灌他们」。",
+        "代表人物与作品": "作者为多贡风格制作者。相关条目见多贡 satimbe 面具与非洲艺术。本件为克利夫兰艺术博物馆藏品（1976.172）。",
+        "技法或形式分析": "材质为**木**，整体高74.9厘米（据该馆藏品记录）。该馆未展开雕刻工艺，本条目不推断；「黑化」被作为象征层面的解释而非材料事实。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「举臂」当作**多义符号**：同一姿态可指创世、求雨或播种。三说并列，正体现了对同一物件的解释张力。",
+        "一图": "示意图以 Amma 中介、举臂姿态与三说（创世/求雨/播种）三者关系标示本像。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）三说均未指定原始文献；（3）「黑化」是仪式性还是材质/年代所致未定；（4）具体使用村落未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='dogon-female-figure 示意图'><title>dogon-female-figure</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>Amma 中介</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>宗教</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>举臂女像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>74.9cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>创世/求雨/播种</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>三说并列</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>黑化</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>祈乌云?</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>多贡女像：中介、姿态与三说</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；三说未附文献；黑化成因未定。"
+    },
+    {
+      "id": "dogon-satimbe-mask",
+      "title": "多贡 satimbe 面具（顶立女像）",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "20世纪",
+      "region": "非洲",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "多贡铁匠雕刻者木面具，克利夫兰艺术博物馆藏（1960.169）。",
+      "when": "1900年代初至中期",
+      "overview": "用于 dama 终丧仪式，面具化身祖先；顶部举臂女像为神话人物 Yasigine，关乎首次 sigi（每60年一次）。",
+      "related": [
+        "dogon-female-figure",
+        "african-art"
+      ],
+      "sources": [
+        "cma-1960-169"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明，多贡面具在称为 **dama** 的**终丧仪式**上佩戴；面具**化身祖先**，这些祖先可以是**人、动物或植物**。",
+        "风格特征": "本件为**satimbe**——面具顶部立有一位**举臂的女性像**，代表神话人物 **Yasigine**，她在**首次 sigi 庆典**中起了关键作用。该馆并指出，**sigi 每60年举行一次**，纪念**死亡的降临**。",
+        "代表人物与作品": "作者为多贡**铁匠雕刻者**（blacksmith-carver）。相关条目见多贡女像与非洲艺术。本件为克利夫兰艺术博物馆藏品（1960.169）。",
+        "技法或形式分析": "材质为**木与有机物**，整体高111.1厘米（据该馆藏品记录）。该馆未展开具体有机材料的成分，本条目只据记录陈述。",
+        "与前后风格的关系和争论": "把「终丧（dama）」与「六十年一次的 sigi」并置，可以看出多贡仪式时间的**双轨**：一类为个体死亡而办，一类为「死亡之降临」这一宇宙事件而办。本条目不混淆二者层级。",
+        "一图": "示意图以 dama 终丧、Yasigine 与六十年 sigi 三者关系标示本面具。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「有机物」的具体成分未列；（3）Yasigine 神话的完整版本未取得；（4）本面具的制作者与村落未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='dogon-satimbe-mask 示意图'><title>dogon-satimbe-mask</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>dama 终丧</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>化身祖先</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>satimbe 面具</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>111.1cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>Yasigine</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>首祭关键</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>sigi 60年</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>死亡降临</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>satimbe：终丧、神话与六十年祭</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；材料成分与神话全文未取得。"
+    },
+    {
+      "id": "kuba-bwoom-mask",
+      "title": "库巴 bwoom 面具",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "19世纪",
+      "region": "非洲",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "库巴风格木彩绘面具，克利夫兰艺术博物馆藏（1935.304）。",
+      "when": "1800年代中—后期",
+      "overview": "与一女一男面具组成三件，为王国的建立重演的主角；在京外则见于男子入会仪式等非王室场合。",
+      "related": [
+        "luba-bowl-figure",
+        "african-art"
+      ],
+      "sources": [
+        "cma-1935-304"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明，在**布松（Bushoong）**——库巴的核心群体中，称为 **bwoom** 的面具「最典型地被认作**狩猎采集者的头**」，它与**一个女性面具和另一个男性面具**共同组成**三件一组**。",
+        "风格特征": "该馆指出，这三件**都是「库巴王国建立」重演中的主角**。也就是说，面具的身份并非孤立，而是在**叙事组合**中被定义。",
+        "代表人物与作品": "作者为库巴风格雕刻者。相关条目见卢巴持碗女像与非洲艺术。本件为克利夫兰艺术博物馆藏品（1935.304）。",
+        "技法或形式分析": "材质为**木与颜料**，整体43.3 × 31.2 × 28.3厘米（据该馆藏品记录）。该馆未展开具体的彩绘图案，本条目不推断。",
+        "与前后风格的关系和争论": "该馆给出一处**语境分流**：在**都城之外**，bwoom 出现在**不同的非王室语境**（如**男子入会会社**）。同一面具类型，在**王廷**与**地方**承担不同的社会功能——本条目照录这层差异。",
+        "一图": "示意图以三件组合、建国叙事与京外男子会社三者关系标示本面具。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「狩猎采集者头」为该馆表述；（3）另外两件面具的现藏地未取得；（4）入会仪式的具体程序未展开。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='kuba-bwoom-mask 示意图'><title>kuba-bwoom-mask</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>三件组合</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>女·男·bwoom</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>bwoom 面具</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>43.3cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>建国重演</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>王廷</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>男子入会</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>京外</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>bwoom：组合、建国与京外语境</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；配套面具下落未取得。"
     }
   ]
 }

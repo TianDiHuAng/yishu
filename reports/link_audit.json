@@ -113,6 +113,10 @@
  "oneway_sample": [],
  "top_inbound": [
   [
+   "african-art",
+   17
+  ],
+  [
    "americas-art",
    17
   ],
@@ -127,10 +131,6 @@
   [
    "baroque",
    14
-  ],
-  [
-   "african-art",
-   13
   ],
   [
    "china-painting-history",
@@ -153,5 +153,5 @@
    9
   ]
  ],
- "total_links": 1018
+ "total_links": 1032
 }

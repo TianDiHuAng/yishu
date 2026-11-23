@@ -4509,6 +4509,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；布面油画 72×52.7cm；说明含分析立体主义与字母数字"
+    },
+    {
+      "id": "cma-2010-454",
+      "title": "Cleveland Museum of Art — Female Bowl-Bearing Figure, Luba style, late 1800s–early 1900s, acc. 2010.454",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2010.454",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；木、玻璃珠、包钉、纤维、铁 40.8×16.1×27.3cm；说明含 mpemba 白垩与「美影响效力」"
+    },
+    {
+      "id": "cma-1976-172",
+      "title": "Cleveland Museum of Art — Female Figure, Dogon style, c. 1940, acc. 1976.172",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1976.172",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；木 74.9cm；说明含三种解释"
+    },
+    {
+      "id": "cma-1960-169",
+      "title": "Cleveland Museum of Art — Face Mask with Female Figure (satimbe), Dogon, acc. 1960.169",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1960.169",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；木与有机物 111.1cm；说明含 dama 与六十年 sigi"
+    },
+    {
+      "id": "cma-1935-304",
+      "title": "Cleveland Museum of Art — Mask (Bwoom), Kuba style, mid–late 1800s, acc. 1935.304",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1935.304",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；木与颜料 43.3×31.2×28.3cm；说明含三面具组合与建国叙事"
     }
   ]
 }

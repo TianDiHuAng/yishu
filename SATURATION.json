@@ -1174,6 +1174,18 @@
       },
       "network": "partial (museum APIs)",
       "verdict": "现代名作 0→4（总 320）；未饱和"
+    },
+    {
+      "cycle": "cycle95",
+      "date": "2026-11-23",
+      "methods_used": [
+        "非洲面具/雕像"
+      ],
+      "gaps_found": {
+        "entries": 4
+      },
+      "network": "partial (museum APIs)",
+      "verdict": "非洲 320→324（总324）；R22 再拦截；未饱和"
     }
   ],
   "assessment_c33": {

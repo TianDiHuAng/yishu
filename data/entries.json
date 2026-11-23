@@ -4011,7 +4011,11 @@
         "ethiopian-amulet-necklace",
         "ethiopian-harar-necklace",
         "kongo-nkisi-nkondi",
-        "vili-ivory-tusk"
+        "vili-ivory-tusk",
+        "luba-bowl-figure",
+        "dogon-female-figure",
+        "dogon-satimbe-mask",
+        "kuba-bwoom-mask"
       ],
       "sources": [
         "cma-1999-1",
@@ -4619,7 +4623,8 @@
         "kongo-crucifix",
         "african-art",
         "kongo-corpus",
-        "vili-ivory-tusk"
+        "vili-ivory-tusk",
+        "luba-bowl-figure"
       ],
       "sources": [
         "cma-2010-432"
@@ -6942,6 +6947,87 @@
       ],
       "sources": [
         "cma-1972-8"
+      ]
+    },
+    {
+      "id": "luba-bowl-figure",
+      "title": "卢巴持碗女像",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "19—20世纪",
+      "region": "非洲",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "卢巴风格木雕持碗女像，克利夫兰艺术博物馆藏（2010.454）。",
+      "when": "1800年代末—1900年代初",
+      "overview": "卢巴美学认为「器物的美影响其效力」；像身残留 mpemba 白垩，说明曾盛圣粉；腰间胸前有菱形瘢纹。",
+      "related": [
+        "kongo-nkisi-nkondi",
+        "african-art",
+        "kuba-bwoom-mask"
+      ],
+      "sources": [
+        "cma-2010-454"
+      ]
+    },
+    {
+      "id": "dogon-female-figure",
+      "title": "多贡女像（举臂）",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "20世纪",
+      "region": "非洲",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "多贡风格木雕女像，克利夫兰艺术博物馆藏（1976.172）。",
+      "when": "约1940年",
+      "overview": "举臂可能指 Amma 所造第一个存在；另一说与求雨有关（黑化像象征祈求乌云）；第三说关联播种仪式。",
+      "related": [
+        "dogon-satimbe-mask",
+        "african-art"
+      ],
+      "sources": [
+        "cma-1976-172"
+      ]
+    },
+    {
+      "id": "dogon-satimbe-mask",
+      "title": "多贡 satimbe 面具（顶立女像）",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "20世纪",
+      "region": "非洲",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "多贡铁匠雕刻者木面具，克利夫兰艺术博物馆藏（1960.169）。",
+      "when": "1900年代初至中期",
+      "overview": "用于 dama 终丧仪式，面具化身祖先；顶部举臂女像为神话人物 Yasigine，关乎首次 sigi（每60年一次）。",
+      "related": [
+        "dogon-female-figure",
+        "african-art"
+      ],
+      "sources": [
+        "cma-1960-169"
+      ]
+    },
+    {
+      "id": "kuba-bwoom-mask",
+      "title": "库巴 bwoom 面具",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "19世纪",
+      "region": "非洲",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "库巴风格木彩绘面具，克利夫兰艺术博物馆藏（1935.304）。",
+      "when": "1800年代中—后期",
+      "overview": "与一女一男面具组成三件，为王国的建立重演的主角；在京外则见于男子入会仪式等非王室场合。",
+      "related": [
+        "luba-bowl-figure",
+        "african-art"
+      ],
+      "sources": [
+        "cma-1935-304"
       ]
     }
   ]
