@@ -1298,7 +1298,8 @@
         "yangshao-painted-pottery",
         "chinese-jade-art",
         "chen-hongshou-album",
-        "zhao-mengfu-river-village"
+        "zhao-mengfu-river-village",
+        "lizong-wangwei-album"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -1344,7 +1345,8 @@
         "tang-painting",
         "yuan-painting",
         "mi-youren-cloudy-mountains",
-        "china-painting-history"
+        "china-painting-history",
+        "lizong-wangwei-album"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -1580,7 +1582,10 @@
         "seal-script",
         "clerical-script",
         "cursive-script",
-        "zen-painting"
+        "zen-painting",
+        "yueshan-daizong-calligraphy",
+        "lanting-lacquer-panel",
+        "chen-jiru-four-poems"
       ],
       "sources": [
         "enc-chinese-calligraphy",
@@ -1665,7 +1670,8 @@
       "overview": "王羲之《兰亭序》被誉为行书典范，兼顾节奏与可读性。",
       "related": [
         "regular-script",
-        "cursive-script"
+        "cursive-script",
+        "lanting-lacquer-panel"
       ],
       "sources": [
         "enc-chinese-calligraphy",
@@ -3002,7 +3008,8 @@
         "hiroshige-karasaki-night-rain",
         "hokusai-muneyuki-poem",
         "hokusai-hitomaro-poem",
-        "hokusai-nakahara-sagami"
+        "hokusai-nakahara-sagami",
+        "yueshan-daizong-calligraphy"
       ],
       "sources": [
         "enc-japanese-art",
@@ -3052,7 +3059,8 @@
       "overview": "禅画以简练的笔触与留白传达禅意，与中国文人画传统相通，在日本禅宗寺院中发展为独立画风。",
       "related": [
         "japanese-art",
-        "china-calligraphy-history"
+        "china-calligraphy-history",
+        "yueshan-daizong-calligraphy"
       ],
       "sources": [
         "enc-zen-art",
@@ -5924,7 +5932,8 @@
       "overview": "山形被组织为近乎抽象的结构，气与势贯穿全画；笔墨获得独立于所绘物象的生命。",
       "related": [
         "zhao-mengfu-river-village",
-        "du-jin-lin-bu"
+        "du-jin-lin-bu",
+        "chen-jiru-four-poems"
       ],
       "sources": [
         "cma-1980-10"
@@ -5968,6 +5977,87 @@
       ],
       "sources": [
         "cma-1978-67"
+      ]
+    },
+    {
+      "id": "yueshan-daizong-calligraphy",
+      "title": "越山道宗行草书轴",
+      "kind": "作品",
+      "unit": "art-china-calligraphy",
+      "era": "17世纪",
+      "region": "东亚",
+      "medium": "书法",
+      "tier": "重要",
+      "def": "中国福建僧越山道宗行草书轴，克利夫兰艺术博物馆藏（2003.353）。",
+      "when": "约1660—1709年",
+      "overview": "笔致圆转并连笔连字；越山赴日后任黄檗宗万福寺僧职，后为该寺第七代住持。",
+      "related": [
+        "zen-painting",
+        "japanese-art",
+        "china-calligraphy-history"
+      ],
+      "sources": [
+        "cma-2003-353"
+      ]
+    },
+    {
+      "id": "lizong-wangwei-album",
+      "title": "宋理宗书王维诗册页",
+      "kind": "作品",
+      "unit": "art-china-calligraphy",
+      "era": "13世纪",
+      "region": "中国",
+      "medium": "书法",
+      "tier": "核心",
+      "def": "南宋理宗书、马麟画合装一扇之册页，克利夫兰艺术博物馆藏（1961.421.2）。",
+      "when": "1256年",
+      "overview": "帝书引王维诗句，马麟以淡墨与渲染回应；与杭州宫廷、文官和寺院间的禅美学互动有关。",
+      "related": [
+        "song-painting",
+        "china-painting-history"
+      ],
+      "sources": [
+        "cma-1961-421-2"
+      ]
+    },
+    {
+      "id": "lanting-lacquer-panel",
+      "title": "兰亭雅集朱漆雕板",
+      "kind": "作品",
+      "unit": "art-china-calligraphy",
+      "era": "15—16世纪",
+      "region": "中国",
+      "medium": "书法",
+      "tier": "重要",
+      "def": "明式朱漆雕板，克利夫兰艺术博物馆藏（1974.72）。",
+      "when": "1400—1500年代",
+      "overview": "刻353年兰亭修禊、曲水流觞；主纹「王羲之观鹅」上移至画面上段。",
+      "related": [
+        "china-calligraphy-history",
+        "running-script"
+      ],
+      "sources": [
+        "cma-1974-72"
+      ]
+    },
+    {
+      "id": "chen-jiru-four-poems",
+      "title": "陈继儒行书四诗卷",
+      "kind": "作品",
+      "unit": "art-china-calligraphy",
+      "era": "16—17世纪",
+      "region": "中国",
+      "medium": "书法",
+      "tier": "核心",
+      "def": "陈继儒金笺行书手卷，克利夫兰艺术博物馆藏（2004.65）。",
+      "when": "1500—1600年代",
+      "overview": "四诗写心绪；字用浓墨厚重处示节奏，可见停笔再蘸墨的瞬间；书风近董其昌。",
+      "related": [
+        "dong-qichang-qingbian",
+        "china-calligraphy-history"
+      ],
+      "sources": [
+        "cma-2004-65"
       ]
     }
   ]

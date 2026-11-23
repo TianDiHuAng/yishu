@@ -4069,6 +4069,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；绢本设色手卷 28×518.5cm；说明含司马光独乐园与苏州作坊模板"
+    },
+    {
+      "id": "cma-2003-353",
+      "title": "Cleveland Museum of Art — Yueshan Daozong, Calligraphy in Semi-Cursive Style, c. 1660–1709, acc. 2003.353",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2003.353",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；纸本水墨 28.6×64.1cm；说明含黄檗宗与万福寺第七代住持"
+    },
+    {
+      "id": "cma-1961-421-2",
+      "title": "Cleveland Museum of Art — Emperor Lizong, Poem by Wang Wei in Cursive Script, 1256, acc. 1961.421.2",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1961.421.2",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；绢本册页 25.1×25.3cm；说明含帝书与马麟画合装一扇"
+    },
+    {
+      "id": "cma-1974-72",
+      "title": "Cleveland Museum of Art — Gathering at Lanting (Orchid Pavilion), lacquer panel, 1400s–1500s, acc. 1974.72",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1974.72",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；朱漆雕板 48.5×21cm；说明含曲水流觞与王羲之观鹅"
+    },
+    {
+      "id": "cma-2004-65",
+      "title": "Cleveland Museum of Art — Chen Jiru, Four Poems in Running Script, 1500s–1600s, acc. 2004.65",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2004.65",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；金笺手卷 27×195cm；说明含与董其昌风格相近及焚儒服拒征"
     }
   ]
 }

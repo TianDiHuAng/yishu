@@ -151,6 +151,13 @@
    [
     "1073"
    ]
+  ],
+  [
+   "lanting-lacquer-panel",
+   "1400—1500年代",
+   [
+    "353"
+   ]
   ]
  ],
  "orphans": [],
@@ -207,6 +214,6 @@
  "link_audit": {
   "cross_domain": 2,
   "oneway": 0,
-  "total_links": 836
+  "total_links": 854
  }
 }

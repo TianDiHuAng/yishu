@@ -1,0 +1,19 @@
+{
+ "id": "chen-jiru-four-poems",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本卷为**陈继儒（1558—1639）**行书四诗，克利夫兰艺术博物馆定年为1500—1600年代。该馆说明他籍**华亭**（今上海）。",
+  "风格特征": "该馆称其书「**优雅**」而字结构妥帖；四首诗传达他的**思绪与心境**。**浓墨重笔**处传达节奏，并提示书写者**停笔再蘸墨**的瞬间。",
+  "代表人物与作品": "作者陈继儒。该馆指出，其书风**近似友人董其昌（1555—1636）**；但与董不同，陈**未追逐仕途**——**焚去儒服**、**拒绝朝廷征召**，沉浸于文学、书法与绘画。相关条目见董其昌《青弁图》与中国书法史。",
+  "技法或形式分析": "材质为**洒金笺手卷**，书法部分27 × 195厘米（据该馆藏品记录）。手卷的逐步展开，使墨色由浓到淡的节奏成为可阅读的时间过程。",
+  "与前后风格的关系和争论": "该馆同时给出**风格的相近**与**人生选择的相反**：陈继儒书风近董其昌，却拒绝董所代表的仕宦道路。本条目据此不把两人归为同一类文人。",
+  "一图": "示意图以书风近似董其昌、焚儒服拒征与浓墨蘸笔的节奏三者关系标示本卷。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）馆方英文标题写 cursive script 而括注 xingshu（行书），本条依括注定体，待核原作；（3）四诗全文未迻录；（4）「焚儒服」的具体年代未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='chen-jiru-four-poems 示意图'><title>chen-jiru-four-poems</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>华亭·陈继儒</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1558—1639</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>行书四诗</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>27×195</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>近董其昌</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>书风</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>焚儒服·拒征</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>人生选择</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>陈继儒卷：书风与人生选择</text></g></svg>",
+ "sources": [
+  "cma-2004-65"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；书体名称与诗全文待核。"
+}

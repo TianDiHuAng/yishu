@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 276,
+    "total": 280,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -3316,6 +3316,54 @@
     },
     "qiu-ying-garden": {
       "title": "仇英《独乐园图》",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "yueshan-daizong-calligraphy": {
+      "title": "越山道宗行草书轴",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "lizong-wangwei-album": {
+      "title": "宋理宗书王维诗册页",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "lanting-lacquer-panel": {
+      "title": "兰亭雅集朱漆雕板",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "chen-jiru-four-poems": {
+      "title": "陈继儒行书四诗卷",
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",
