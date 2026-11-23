@@ -2,8 +2,8 @@
  "steps": [
   {
    "step": "py_compile（全部工具可编译）",
-   "status": "FAIL",
-   "tail": "[('build_report_autonomous.py', '  File \"E:\\\\ai_project\\\\yishu\\\\tools\\\\build_report_autonomous.py\", line 34\\n    L.app')]"
+   "status": "ok",
+   "tail": "232 个 .py 全部通过"
   },
   {
    "step": "check.py（R1-R19 硬规则）",
@@ -60,5 +60,5 @@
    "tail": "  [review] baroque-music 未检出两方关键词（需人工判读）"
   }
  ],
- "fails": 1
+ "fails": 0
 }
