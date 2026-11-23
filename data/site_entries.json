@@ -5838,7 +5838,8 @@
       ],
       "sources": [
         "cma-1985-312",
-        "vam-o423295"
+        "vam-o423295",
+        "vam-o407359"
       ],
       "level": "L2",
       "sections": {
@@ -5917,6 +5918,39 @@
         "待核实": "（1）V&A 记录未给年代且尺寸方向与 CMA 相反，二者关系需目验判定；（2）「1835—36年」仅据 CMA；（3）人麻吕生卒约660—739取自该馆说明，未以第二来源核对；（4）和歌原文未迻录。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='hokusai-hitomaro-poem 示意图'><title>hokusai-hitomaro-poem</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>人麻吕和歌</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>约660—739</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>乳母绘解</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1835—36</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>长夜独眠</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>图像具体化</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>CMA / V&amp;</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>尺寸方向相反</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>《柿本人麻吕》：和歌、误读与藏本差异</text></g></svg>"
+    },
+    {
+      "id": "hokusai-nakahara-sagami",
+      "title": "《相模中原》（北斋）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "19世纪",
+      "region": "日本",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "葛饰北斋《富岳三十六景》之一，自中原田野远望富士；CMA（1940.997）与 V&A（O422861）各藏印本。",
+      "when": "约1835年",
+      "overview": "前景为神祠茅草屋顶与溪畔石像，中景为中原田野，富士在远处；该地紧邻东海道主线。",
+      "related": [
+        "ukiyo-e",
+        "japanese-art",
+        "hokusai-red-fuji"
+      ],
+      "sources": [
+        "cma-1940-997",
+        "vam-o422861"
+      ],
+      "level": "L2",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='hokusai-nakahara-sagami 示意图'><title>hokusai-nakahara-sagami</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>东海道</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>主线</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>中原田野</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>中景</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>富士</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>远景</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>CMA / V&amp;</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>各藏印本</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>《相模中原》：田野、东海道与富士</text></g></svg>",
+      "sections": {
+        "时代背景": "本幅属葛饰北斋《富岳三十六景》系列。该馆说明指出，中原一带的田野紧邻东海道——即沿东海岸连接江户与京都的主干道；画面正是自这片田野远望富士。",
+        "风格特征": "该馆说明以三层交代画面：前景是神祠的茅草屋顶与溪畔的石像，中景是中原田野，富士山在远处。这一由近及远的分层，使「远望」成为构图的核心动作，而非把山当作孤立的主像。",
+        "代表人物与作品": "作者葛饰北斋（1760—1849）。相关条目见浮世绘、日本艺术与《凯风快晴》。英国维多利亚与艾尔伯特博物馆藏有同图印本，题名《相模中原（Sōshū Nakahara）》，属《富岳三十六景》，38.5 × 25.5厘米。",
+        "技法或形式分析": "克利夫兰记录本幅尺寸为 sheet 25.1 × 37.8厘米；V&A 记录38.5 × 25.5厘米（宽×高著录方式不同，横向尺寸略大），二者为不同印本。两馆记录均未提供版木或摺数信息。",
+        "与前后风格的关系和争论": "该系列以同一座山在不同地点、不同天气下的观看为主题；本幅把山放在田野尽处，与《凯风快晴》把山推到画面中心的做法形成对照，可见系列内部的构图策略变化。",
+        "一图": "示意图以东海道、中原田野与富士的距离关系标示本幅的构图层次。",
+        "待核实": "（1）V&A 记录未给年代，「约1835年」仅据 CMA 一家；（2）两馆尺寸著录方向不同（25.1×37.8 对 38.5×25.5），差异原因待目验；（3）作者生卒1760—1849取自 CMA 创作者记录；（4）「紧邻东海道」的地理细节该馆仅一句带过，未展开。"
+      }
     }
   ]
 }

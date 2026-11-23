@@ -3089,6 +3089,36 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 V&A API HTTP 200；题名含系列《百人一首》，35.6×24.1cm（方向与 CMA 记录相反）"
+    },
+    {
+      "id": "cma-1940-997",
+      "title": "Cleveland Museum of Art — Hokusai, Nakahara in Sagami Province, ca. 1835, acc. 1940.997",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1940.997",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；sheet 25.1×37.8cm；说明含中原田野与东海道、神祠茅顶与石像"
+    },
+    {
+      "id": "vam-o422861",
+      "title": "Victoria and Albert Museum — Nakahara in Sagami Province (Sōshū Nakahara), O422861",
+      "author": "Victoria and Albert Museum（V&A API v2）",
+      "year": "2026",
+      "url": "https://collections.vam.ac.uk/item/O422861/",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 V&A API HTTP 200；题名含系列《富岳三十六景》，38.5×25.5cm"
+    },
+    {
+      "id": "vam-o407359",
+      "title": "Victoria and Albert Museum — Night Rain at Karasaki (Karasaki yau), O407359（同一构图另一印本）",
+      "author": "Victoria and Albert Museum（V&A API v2）",
+      "year": "2026",
+      "url": "https://collections.vam.ac.uk/item/O407359/",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 V&A API HTTP 200；与 O423295 同题同名，属另一份印本"
     }
   ]
 }

@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 165 个条目、22 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 166 个条目、22 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -264,6 +264,7 @@
 | hiroshige-karasaki-night-rain | 《唐崎夜雨》（广重） | 作品 | 19世纪 | 日本 | 绘画 | 重要 | O1 |
 | hokusai-muneyuki-poem | 《源宗于朝臣》（北斋） | 作品 | 19世纪 | 日本 | 绘画 | 重要 | O1 |
 | hokusai-hitomaro-poem | 《柿本人麻吕》（北斋） | 作品 | 19世纪 | 日本 | 绘画 | 重要 | O1 |
+| hokusai-nakahara-sagami | 《相模中原》（北斋） | 作品 | 19世纪 | 日本 | 绘画 | 重要 | O1 |
 
 ## work-archives（作品档案）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

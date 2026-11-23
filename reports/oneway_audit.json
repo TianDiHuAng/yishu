@@ -1,7 +1,7 @@
 {
- "total_oneway": 37,
+ "total_oneway": 40,
  "by_class": {
-  "same_unit": 28,
+  "same_unit": 31,
   "same_domain": 9
  },
  "rows": [
@@ -259,6 +259,27 @@
   },
   {
    "from": "hokusai-hitomaro-poem",
+   "to": "hokusai-red-fuji",
+   "class": "same_unit",
+   "from_unit": "art-asia",
+   "to_unit": "art-asia"
+  },
+  {
+   "from": "hokusai-nakahara-sagami",
+   "to": "ukiyo-e",
+   "class": "same_unit",
+   "from_unit": "art-asia",
+   "to_unit": "art-asia"
+  },
+  {
+   "from": "hokusai-nakahara-sagami",
+   "to": "japanese-art",
+   "class": "same_unit",
+   "from_unit": "art-asia",
+   "to_unit": "art-asia"
+  },
+  {
+   "from": "hokusai-nakahara-sagami",
    "to": "hokusai-red-fuji",
    "class": "same_unit",
    "from_unit": "art-asia",

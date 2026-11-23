@@ -13,7 +13,7 @@
    "to_dom": "art"
   }
  ],
- "oneway_count": 37,
+ "oneway_count": 40,
  "oneway_sample": [
   [
    "degas",
@@ -62,6 +62,10 @@
    12
   ],
   [
+   "ukiyo-e",
+   10
+  ],
+  [
    "china-painting-history",
    10
   ],
@@ -70,15 +74,11 @@
    10
   ],
   [
-   "ukiyo-e",
-   9
+   "japanese-art",
+   10
   ],
   [
    "classical-period-music",
-   9
-  ],
-  [
-   "japanese-art",
    9
   ],
   [
@@ -98,5 +98,5 @@
    8
   ]
  ],
- "total_links": 473
+ "total_links": 476
 }

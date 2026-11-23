@@ -771,6 +771,19 @@ ROWS = [
  '画面与「长夜独眠」的和歌相配，属该系列以错解制造反差的典型手法。',
  'ukiyo-e,japanese-art,hokusai-red-fuji',
  'cma-1930-190,vam-o424258'),
+('hokusai-nakahara-sagami',
+ '《相模中原》（北斋）',
+ '作品',
+ 'art-asia',
+ '19世纪',
+ '日本',
+ '绘画',
+ '重要',
+ '葛饰北斋《富岳三十六景》之一，自中原田野远望富士；CMA（1940.997）与 V&A（O422861）各藏印本。',
+ '约1835年',
+ '前景为神祠茅草屋顶与溪畔石像，中景为中原田野，富士在远处；该地紧邻东海道主线。',
+ 'ukiyo-e,japanese-art,hokusai-red-fuji',
+ 'cma-1940-997,vam-o422861'),
 ]
 
 def entries():

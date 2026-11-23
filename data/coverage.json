@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 165,
+    "total": 166,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 22,
@@ -1963,8 +1963,8 @@
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
@@ -1984,6 +1984,18 @@
     },
     "hokusai-hitomaro-poem": {
       "title": "《柿本人麻吕》（北斋）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 2,
+      "verified_sources_count": 2,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "hokusai-nakahara-sagami": {
+      "title": "《相模中原》（北斋）",
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",

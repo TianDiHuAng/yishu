@@ -3465,6 +3465,28 @@
         "cma-1930-190",
         "vam-o424258"
       ]
+    },
+    {
+      "id": "hokusai-nakahara-sagami",
+      "title": "《相模中原》（北斋）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "19世纪",
+      "region": "日本",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "葛饰北斋《富岳三十六景》之一，自中原田野远望富士；CMA（1940.997）与 V&A（O422861）各藏印本。",
+      "when": "约1835年",
+      "overview": "前景为神祠茅草屋顶与溪畔石像，中景为中原田野，富士在远处；该地紧邻东海道主线。",
+      "related": [
+        "ukiyo-e",
+        "japanese-art",
+        "hokusai-red-fuji"
+      ],
+      "sources": [
+        "cma-1940-997",
+        "vam-o422861"
+      ]
     }
   ]
 }
