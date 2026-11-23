@@ -11,16 +11,6 @@
       "verified_note": "HTTP 200；标题关键词[Prehistoric art]命中"
     },
     {
-      "id": "enc-egyptian-art",
-      "title": "Ancient Egyptian art",
-      "author": "Wikipedia contributors",
-      "year": "2026",
-      "url": "https://en.wikipedia.org/wiki/Ancient_Egyptian_art",
-      "type": "权威百科",
-      "verified": true,
-      "verified_note": "HTTP 200; <title>=Art of ancient Egypt - Wikipedia"
-    },
-    {
       "id": "enc-greek-art",
       "title": "Ancient Greek art",
       "author": "Wikipedia contributors",
@@ -209,26 +199,6 @@
       "type": "权威百科",
       "verified": true,
       "verified_note": "HTTP 200；标题关键词[Post-Impressionism]命中"
-    },
-    {
-      "id": "enc-symbolism",
-      "title": "Symbolism (arts)",
-      "author": "Wikipedia contributors",
-      "year": "2026",
-      "url": "https://en.wikipedia.org/wiki/Symbolism_(arts)",
-      "type": "权威百科",
-      "verified": true,
-      "verified_note": "HTTP 200；标题关键词[Symbolism]命中"
-    },
-    {
-      "id": "enc-art-nouveau",
-      "title": "Art Nouveau",
-      "author": "Wikipedia contributors",
-      "year": "2026",
-      "url": "https://en.wikipedia.org/wiki/Art_Nouveau",
-      "type": "权威百科",
-      "verified": true,
-      "verified_note": "HTTP 200；标题关键词[Art Nouveau]命中"
     },
     {
       "id": "enc-fauvism",
@@ -821,16 +791,6 @@
       "verified_note": "HTTP 200; <title>=Peking opera - Wikipedia"
     },
     {
-      "id": "inst-tate-art-terms",
-      "title": "Tate Art & Artists glossary",
-      "author": "Tate",
-      "year": "2026",
-      "url": "https://www.tate.org.uk/art/art-terms",
-      "type": "官方机构",
-      "verified": true,
-      "verified_note": "HTTP 200；标题关键词[Art terms]命中"
-    },
-    {
       "id": "web-artstory-movements",
       "title": "Classical and Modern Art Movements",
       "author": "The Art Story Foundation",
@@ -849,16 +809,6 @@
       "type": "权威百科",
       "verified": true,
       "verified_note": "HTTP 200；标题关键词[Impressionism]命中"
-    },
-    {
-      "id": "web-artstory-cubism",
-      "title": "Cubism — Art Movement",
-      "author": "The Art Story Foundation",
-      "year": "2026",
-      "url": "https://www.theartstory.org/movement/cubism/",
-      "type": "权威百科",
-      "verified": true,
-      "verified_note": "HTTP 200；标题关键词[Cubism]命中"
     },
     {
       "id": "enc-cave-art",
@@ -989,16 +939,6 @@
       "type": "权威百科",
       "verified": true,
       "verified_note": "HTTP200 <title>=Sanxingdui - Wikipedia"
-    },
-    {
-      "id": "enc-longshan",
-      "title": "Longshan culture",
-      "author": "Wikipedia contributors",
-      "year": "2026",
-      "url": "https://en.wikipedia.org/wiki/Longshan_culture",
-      "type": "权威百科",
-      "verified": true,
-      "verified_note": "HTTP200 <title>=Longshan culture - Wikipedia"
     },
     {
       "id": "enc-impressionist-music",
@@ -1561,36 +1501,6 @@
       "verified_note": "HTTP200 <title>=The Rite of Spring - Wikipedia"
     },
     {
-      "id": "enc-night-watch",
-      "title": "The Night Watch",
-      "author": "Wikipedia contributors",
-      "year": "2026",
-      "url": "https://en.wikipedia.org/wiki/The_Night_Watch",
-      "type": "权威百科",
-      "verified": true,
-      "verified_note": "HTTP200 <title>=The Night Watch - Wikipedia"
-    },
-    {
-      "id": "enc-pearl-earring",
-      "title": "Girl with a Pearl Earring",
-      "author": "Wikipedia contributors",
-      "year": "2026",
-      "url": "https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring",
-      "type": "权威百科",
-      "verified": true,
-      "verified_note": "HTTP200 <title>=Girl with a Pearl Earring - Wikipedia"
-    },
-    {
-      "id": "enc-the-scream",
-      "title": "The Scream",
-      "author": "Wikipedia contributors",
-      "year": "2026",
-      "url": "https://en.wikipedia.org/wiki/The_Scream",
-      "type": "权威百科",
-      "verified": true,
-      "verified_note": "HTTP200 <title>=The Scream - Wikipedia"
-    },
-    {
       "id": "wd-starry-night",
       "title": "Wikidata: The Starry Night (Q45585)",
       "author": "Wikimedia Foundation（Wikidata 社区维护）",
@@ -1999,26 +1909,6 @@
       "type": "权威结构化数据",
       "verified": true,
       "verified_note": "Cycle18 curl 读取成功；标签=Angkor Wat；desc 为寺庙建筑群"
-    },
-    {
-      "id": "wd-japanese-architecture",
-      "title": "Wikidata: Japanese architecture（Q1422874）",
-      "author": "Wikimedia Foundation（Wikidata 社区维护）",
-      "year": "2026",
-      "url": "https://www.wikidata.org/wiki/Q1422874",
-      "type": "权威结构化数据",
-      "verified": true,
-      "verified_note": "Cycle21 curl 读取成功；label=Japanese architecture；desc=Japanese process of planning, designing "
-    },
-    {
-      "id": "wd-indian-architecture",
-      "title": "Wikidata: architecture of India（Q61050）",
-      "author": "Wikimedia Foundation（Wikidata 社区维护）",
-      "year": "2026",
-      "url": "https://www.wikidata.org/wiki/Q61050",
-      "type": "权威结构化数据",
-      "verified": true,
-      "verified_note": "Cycle21 curl 读取成功；label=architecture of India；desc=architectural style of a major geographi"
     },
     {
       "id": "wd-anchor-venetian-school",

@@ -2,8 +2,8 @@
  "steps": [
   {
    "step": "py_compile（全部工具可编译）",
-   "status": "ok",
-   "tail": "227 个 .py 全部通过"
+   "status": "FAIL",
+   "tail": "[('build_report_autonomous.py', '  File \"E:\\\\ai_project\\\\yishu\\\\tools\\\\build_report_autonomous.py\", line 34\\n    L.app')]"
   },
   {
    "step": "check.py（R1-R19 硬规则）",
@@ -52,7 +52,13 @@
    "returncode": 0,
    "status": "ok",
    "tail": "overlay_guard: 违规 0 个文件"
+  },
+  {
+   "step": "invariants_c54.py（不变式盘点：死重/孤儿/L3/单元页）",
+   "returncode": 0,
+   "status": "ok",
+   "tail": "  [review] baroque-music 未检出两方关键词（需人工判读）"
   }
  ],
- "fails": 0
+ "fails": 1
 }

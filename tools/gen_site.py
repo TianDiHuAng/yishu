@@ -579,9 +579,17 @@ def build_status(entries):
     s.append("<p>来源总数 %d（其中 Wikidata 事实来源 %d 条、身份锚点 %d 条）。</p>"%(len(SOURCES),facts,anchors))
     s.append("<p>身份锚点仅用于确认「条目所指的实体」，<b>不作为事实依据</b>；见 <a href='entities.html'>实体对照</a>。</p>")
     s.append("<p>来源库受 <b>R18 不变式</b>约束：库内必须全部 verified；不可核验者移入隔离区且不得被引用。</p>")
+    _res=0
+    try:
+        import json as _j2
+        _res=len(_j2.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)),"..","data","sources_reserve.json"),encoding="utf-8")).get("sources",[]))
+    except Exception: pass
+    if _res:
+        s.append("<p>另有 <b>%d 条预备来源</b>（已核验但当前未被任何条目引用），见 data/sources_reserve.json；"
+                 "它们不计入上列来源总数，以免虚增。</p>"%_res)
     s.append("</div>")
     s.append("<div class='section-block'><h2>校验与已知缺口</h2>")
-    s.append("<p>每次构建前运行 <code>tools/audit_all.py</code>：硬规则（R1–R18）、站内链接、九维体检、内容自洽、关联图、单向关联、工具可编译。"
+    s.append("<p>每次构建前运行 <code>tools/audit_all.py</code>：硬规则（R1–R19）、站内链接、九维体检、内容自洽、关联图、单向关联、工具可编译。"
              "上述检查在本版均为通过状态；具体数值见仓库 reports/ 目录。</p>")
     _arch=sum(1 for e in entries if e["medium"]=="建筑")
     s.append("<p>已知缺口（诚实披露）：①A 类覆盖缺口 58 项，建筑已开工 %d 条，其余待可核验来源；"%_arch

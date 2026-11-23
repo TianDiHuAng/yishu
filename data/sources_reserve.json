@@ -1,0 +1,115 @@
+{
+  "note": "预备来源：已核验但当前**未被任何条目引用**。多为「曾计划建条但未建」的对象（如《夜巡》《珍珠耳环的少女》《呐喊》）或未采用的机构词表/专题页。保留以备后续建条使用；与 sources.json（仅存被引用者）分工明确。",
+  "sources": [
+    {
+      "id": "enc-egyptian-art",
+      "title": "Ancient Egyptian art",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Ancient_Egyptian_art",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200; <title>=Art of ancient Egypt - Wikipedia"
+    },
+    {
+      "id": "enc-symbolism",
+      "title": "Symbolism (arts)",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Symbolism_(arts)",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Symbolism]命中"
+    },
+    {
+      "id": "enc-art-nouveau",
+      "title": "Art Nouveau",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Art_Nouveau",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Art Nouveau]命中"
+    },
+    {
+      "id": "inst-tate-art-terms",
+      "title": "Tate Art & Artists glossary",
+      "author": "Tate",
+      "year": "2026",
+      "url": "https://www.tate.org.uk/art/art-terms",
+      "type": "官方机构",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Art terms]命中"
+    },
+    {
+      "id": "web-artstory-cubism",
+      "title": "Cubism — Art Movement",
+      "author": "The Art Story Foundation",
+      "year": "2026",
+      "url": "https://www.theartstory.org/movement/cubism/",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP 200；标题关键词[Cubism]命中"
+    },
+    {
+      "id": "enc-longshan",
+      "title": "Longshan culture",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Longshan_culture",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=Longshan culture - Wikipedia"
+    },
+    {
+      "id": "enc-night-watch",
+      "title": "The Night Watch",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/The_Night_Watch",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=The Night Watch - Wikipedia"
+    },
+    {
+      "id": "enc-pearl-earring",
+      "title": "Girl with a Pearl Earring",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=Girl with a Pearl Earring - Wikipedia"
+    },
+    {
+      "id": "enc-the-scream",
+      "title": "The Scream",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/The_Scream",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "HTTP200 <title>=The Scream - Wikipedia"
+    },
+    {
+      "id": "wd-japanese-architecture",
+      "title": "Wikidata: Japanese architecture（Q1422874）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q1422874",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle21 curl 读取成功；label=Japanese architecture；desc=Japanese process of planning, designing "
+    },
+    {
+      "id": "wd-indian-architecture",
+      "title": "Wikidata: architecture of India（Q61050）",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q61050",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "Cycle21 curl 读取成功；label=architecture of India；desc=architectural style of a major geographi"
+    }
+  ]
+}

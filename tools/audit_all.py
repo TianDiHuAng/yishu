@@ -21,6 +21,7 @@ STEPS=[
  ("oneway_audit.py（单向关联）","tools/oneway_audit.py"),
  ("pending_render_audit_c30.py（渲染一致性+HTML结构）","tools/pending_render_audit_c30.py"),
  ("overlay_guard.py（覆盖层不得改基础字段）","tools/overlay_guard.py"),
+ ("invariants_c54.py（不变式盘点：死重/孤儿/L3/单元页）","tools/invariants_c54.py"),
 ]
 summary=[]
 fails=0
