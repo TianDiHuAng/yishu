@@ -1126,6 +1126,18 @@
       },
       "network": "partial (museum APIs)",
       "verdict": "青铜实物 0→4（总 304）；未饱和"
+    },
+    {
+      "cycle": "cycle91",
+      "date": "2026-11-23",
+      "methods_used": [
+        "日本佛教雕塑"
+      ],
+      "gaps_found": {
+        "entries": 4
+      },
+      "network": "partial (museum APIs)",
+      "verdict": "日本佛教雕塑 0→4（总 308）；未饱和"
     }
   ],
   "assessment_c33": {

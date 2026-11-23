@@ -1,0 +1,19 @@
+{
+ "id": "miroku-asuka",
+ "level": "L2",
+ "sections": {
+  "时代背景": "该馆说明，佛教于**6世纪**传入日本；对早期日本信众而言，佛教提供了通过对**未来佛**的信仰获得救赎的许诺——这位佛将在世界终结时出现。",
+  "风格特征": "该馆指出，「**永恒的救赎**」观念对日本贵族尤其有共鸣，他们成为这一新信仰最坚定的支持者。此像被描述为具有「**温柔的优雅与强有力的存在感**」，属当时流行的**小型礼拜像**。",
+  "代表人物与作品": "作者未署名。相关条目见印度佛教艺术与日本艺术。本件为克利夫兰艺术博物馆藏品（1950.86）。",
+  "技法或形式分析": "材质为**铸青铜**，带**刻线与鎏金痕迹**；整体高45.8厘米、像身高39.4厘米（据该馆藏品记录）。该馆未说明铸造技术来源，本条目不推断。",
+  "与前后风格的关系和争论": "本条目据该馆说明把「救赎承诺—贵族支持—小型礼拜像」连成一条线：宗教信仰的社会基础影响了器物的尺度与功能。",
+  "一图": "示意图以6世纪传入、未来佛救赎与贵族支持三者关系标示本像。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）鎏金残存程度未量化；（3）本像的原供奉地点未记录；（4）佛教传入年代的精确性未核史著。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='miroku-asuka 示意图'><title>miroku-asuka</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>6世纪传入</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>佛教</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>弥勒像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>高45.8</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>未来佛救赎</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>末世</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>贵族支持</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>社会基础</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='590.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>飞鸟弥勒：传入、救赎与支持</text></g></svg>",
+ "sources": [
+  "cma-1950-86"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；供奉地点与鎏金程度未取得。"
+}

@@ -2956,7 +2956,11 @@
         "ajanta-caves",
         "khmer-art",
         "indian-standing-buddha-kashmir",
-        "mathura-railing-pillar"
+        "mathura-railing-pillar",
+        "miroku-asuka",
+        "nikko-bodhisattva",
+        "kofukuji-seated-buddha",
+        "amida-shitennoji"
       ],
       "sources": [
         "enc-buddhist-art-india",
@@ -3051,7 +3055,11 @@
         "hokusai-muneyuki-poem",
         "hokusai-hitomaro-poem",
         "hokusai-nakahara-sagami",
-        "yueshan-daizong-calligraphy"
+        "yueshan-daizong-calligraphy",
+        "miroku-asuka",
+        "nikko-bodhisattva",
+        "kofukuji-seated-buddha",
+        "amida-shitennoji"
       ],
       "sources": [
         "enc-japanese-art",
@@ -6590,6 +6598,86 @@
       ],
       "sources": [
         "cma-1989-3"
+      ]
+    },
+    {
+      "id": "miroku-asuka",
+      "title": "飞鸟期弥勒菩萨像",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "7世纪",
+      "region": "日本",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "日本飞鸟期铸青铜弥勒菩萨像，克利夫兰艺术博物馆藏（1950.86）。",
+      "when": "7世纪末",
+      "overview": "佛教6世纪传入日本；对末世出现的未来佛的信仰，为贵族提供永恒救赎许诺。",
+      "related": [
+        "buddhist-art-india",
+        "japanese-art"
+      ],
+      "sources": [
+        "cma-1950-86"
+      ]
+    },
+    {
+      "id": "nikko-bodhisattva",
+      "title": "日光菩萨木像",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "9世纪",
+      "region": "日本",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "平安期日本粗榧木彩绘金饰菩萨像，克利夫兰艺术博物馆藏（1961.48）。",
+      "when": "约公元800年",
+      "overview": "流畅衣纹与曲姿取自中国佛教雕塑；单块黄檗木纹与细腻雕刻的结合为日本创新；原与月光菩萨成对。",
+      "related": [
+        "buddhist-art-india",
+        "japanese-art"
+      ],
+      "sources": [
+        "cma-1961-48"
+      ]
+    },
+    {
+      "id": "kofukuji-seated-buddha",
+      "title": "兴福寺周边坐佛像",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "12世纪",
+      "region": "日本",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "平安期木胎漆金坐佛，克利夫兰艺术博物馆藏（1973.85）。",
+      "when": "12世纪",
+      "overview": "由多块中空木件拼合、再覆漆与金箔；右手施无畏印；左手为后配，原手印不明。",
+      "related": [
+        "buddhist-art-india",
+        "japanese-art"
+      ],
+      "sources": [
+        "cma-1973-85"
+      ]
+    },
+    {
+      "id": "amida-shitennoji",
+      "title": "四天王寺阿弥陀佛像",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "13世纪",
+      "region": "日本",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "镰仓期桧木漆彩金、嵌水晶眼阿弥陀佛像，克利夫兰艺术博物馆藏（1960.197）。",
+      "when": "1269年",
+      "overview": "呈迎接姿态；像内文献含《阿弥陀经》、结缘名簿与33日造成记录。",
+      "related": [
+        "buddhist-art-india",
+        "japanese-art"
+      ],
+      "sources": [
+        "cma-1960-197"
       ]
     }
   ]

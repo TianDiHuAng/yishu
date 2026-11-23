@@ -4859,7 +4859,11 @@
         "ajanta-caves",
         "khmer-art",
         "indian-standing-buddha-kashmir",
-        "mathura-railing-pillar"
+        "mathura-railing-pillar",
+        "miroku-asuka",
+        "nikko-bodhisattva",
+        "kofukuji-seated-buddha",
+        "amida-shitennoji"
       ],
       "sources": [
         "enc-buddhist-art-india",
@@ -5000,7 +5004,11 @@
         "hokusai-muneyuki-poem",
         "hokusai-hitomaro-poem",
         "hokusai-nakahara-sagami",
-        "yueshan-daizong-calligraphy"
+        "yueshan-daizong-calligraphy",
+        "miroku-asuka",
+        "nikko-bodhisattva",
+        "kofukuji-seated-buddha",
+        "amida-shitennoji"
       ],
       "sources": [
         "enc-japanese-art",
@@ -10713,6 +10721,138 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='lai-zhong-bell 示意图'><title>lai-zhong-bell</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>八件套钟</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>礼乐制度</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>逨钟</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>70.3cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>118字铭文</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>世职·孝</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>书法实例</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>抽象线条</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>逨钟：礼乐、铭文与书法</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（CMA）来源；铭文原文与同组下落未取得。"
+    },
+    {
+      "id": "miroku-asuka",
+      "title": "飞鸟期弥勒菩萨像",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "7世纪",
+      "region": "日本",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "日本飞鸟期铸青铜弥勒菩萨像，克利夫兰艺术博物馆藏（1950.86）。",
+      "when": "7世纪末",
+      "overview": "佛教6世纪传入日本；对末世出现的未来佛的信仰，为贵族提供永恒救赎许诺。",
+      "related": [
+        "buddhist-art-india",
+        "japanese-art"
+      ],
+      "sources": [
+        "cma-1950-86"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明，佛教于**6世纪**传入日本；对早期日本信众而言，佛教提供了通过对**未来佛**的信仰获得救赎的许诺——这位佛将在世界终结时出现。",
+        "风格特征": "该馆指出，「**永恒的救赎**」观念对日本贵族尤其有共鸣，他们成为这一新信仰最坚定的支持者。此像被描述为具有「**温柔的优雅与强有力的存在感**」，属当时流行的**小型礼拜像**。",
+        "代表人物与作品": "作者未署名。相关条目见印度佛教艺术与日本艺术。本件为克利夫兰艺术博物馆藏品（1950.86）。",
+        "技法或形式分析": "材质为**铸青铜**，带**刻线与鎏金痕迹**；整体高45.8厘米、像身高39.4厘米（据该馆藏品记录）。该馆未说明铸造技术来源，本条目不推断。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「救赎承诺—贵族支持—小型礼拜像」连成一条线：宗教信仰的社会基础影响了器物的尺度与功能。",
+        "一图": "示意图以6世纪传入、未来佛救赎与贵族支持三者关系标示本像。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）鎏金残存程度未量化；（3）本像的原供奉地点未记录；（4）佛教传入年代的精确性未核史著。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='miroku-asuka 示意图'><title>miroku-asuka</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>6世纪传入</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>佛教</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>弥勒像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>高45.8</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>未来佛救赎</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>末世</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>贵族支持</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>社会基础</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='590.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>飞鸟弥勒：传入、救赎与支持</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；供奉地点与鎏金程度未取得。"
+    },
+    {
+      "id": "nikko-bodhisattva",
+      "title": "日光菩萨木像",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "9世纪",
+      "region": "日本",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "平安期日本粗榧木彩绘金饰菩萨像，克利夫兰艺术博物馆藏（1961.48）。",
+      "when": "约公元800年",
+      "overview": "流畅衣纹与曲姿取自中国佛教雕塑；单块黄檗木纹与细腻雕刻的结合为日本创新；原与月光菩萨成对。",
+      "related": [
+        "buddhist-art-india",
+        "japanese-art"
+      ],
+      "sources": [
+        "cma-1961-48"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆先给定义：菩萨是**已证悟却推迟成佛**、以履行各种誓愿帮助他人走上觉悟之路的存在。本件为平安期（约公元800年）的**日光菩萨（Nikkō Bosatsu）**。",
+        "风格特征": "该馆指出，此像的**流畅衣袍**与**弯曲姿态**受**中国佛教雕塑**启发；但「以单块粗榧木的木纹与艺术家的细腻雕刻相互作用」则是**日本创新**。本像**原与月光菩萨（Gekkō Bosatsu）成对**，很可能夹护**药师如来（Yakushi Nyorai）**。",
+        "代表人物与作品": "作者未署名。相关条目见日本艺术与印度佛教艺术。本件为克利夫兰艺术博物馆藏品（1961.48）。",
+        "技法或形式分析": "材质为**日本粗榧木**，存彩与金痕迹；整体高46.7厘米（据该馆藏品记录）。单块木材保留了木纹可见性——材料本身成为形式的一部分。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「中国母题」与「日本材料意识」并置：这不是对原型的复制，而是以本地材料重新组织视觉经验。",
+        "一图": "示意图以中国样式、单块木纹的日本创新与日光/月光夹护药师三者关系标示本像。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「很可能夹护药师」该馆用 likely；（3）月光菩萨像现藏地未取得；（4）彩与金的原有范围未列。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='nikko-bodhisattva 示意图'><title>nikko-bodhisattva</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>中国样式</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>衣袍·曲姿</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>日光菩萨</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>c.800</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>单块木纹</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>日本创新</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>夹护药师</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>与月光成对</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>日光菩萨：样式、材料与组合</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；配对像下落未取得。"
+    },
+    {
+      "id": "kofukuji-seated-buddha",
+      "title": "兴福寺周边坐佛像",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "12世纪",
+      "region": "日本",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "平安期木胎漆金坐佛，克利夫兰艺术博物馆藏（1973.85）。",
+      "when": "12世纪",
+      "overview": "由多块中空木件拼合、再覆漆与金箔；右手施无畏印；左手为后配，原手印不明。",
+      "related": [
+        "buddhist-art-india",
+        "japanese-art"
+      ],
+      "sources": [
+        "cma-1973-85"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为平安期（12世纪）木胎漆金坐佛，克利夫兰艺术博物馆藏（1973.85）。该馆说明，它曾是日本奈良**兴福寺**周围某座小寺的**礼拜像**。",
+        "风格特征": "该馆记录了两处重要细节：右手作**施无畏印**（「勿惧」）；**左手为替换件**，因此原式手印不明——而原式手印本是辨认佛尊身份的线索。又因**左足露出衣外、呈莲座姿势**，本像可能为**药师如来**，或为现世佛**释迦牟尼**。",
+        "代表人物与作品": "作者未署名。相关条目见日本艺术与佛教艺术。本件为克利夫兰艺术博物馆藏品（1973.85）。",
+        "技法或形式分析": "材质结构为**多块中空木件拼合，再覆漆与金箔**；整体高145.4厘米、像身高88.2厘米、台座57.2厘米（据该馆藏品记录）。中空拼合既减轻重量，也便于大型像的制作。",
+        "与前后风格的关系和争论": "本条目把「左手缺失」作为可核查的知识边界：身份判断因 替换件 而变得不确定；馆方亦只以 may 提出两种可能。本条目照录，不择一。",
+        "一图": "示意图以兴福寺小寺、施无畏印与左手缺失导致的身份未定三者关系标示本像。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）身份为药师或释迦该馆用 may，未定；（3）左手替换的时间与原因未记录；（4）所属小寺名称未取得。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='kofukuji-seated-buddha 示意图'><title>kofukuji-seated-buddha</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>兴福寺小寺</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>礼拜像</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>坐佛</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>12世纪</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>施无畏印</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>勿惧</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>左手后配</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>身份未定</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='590.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>坐佛：礼拜、手印与身份边界</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；身份两说未定；小寺名称未记录。"
+    },
+    {
+      "id": "amida-shitennoji",
+      "title": "四天王寺阿弥陀佛像",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "13世纪",
+      "region": "日本",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "镰仓期桧木漆彩金、嵌水晶眼阿弥陀佛像，克利夫兰艺术博物馆藏（1960.197）。",
+      "when": "1269年",
+      "overview": "呈迎接姿态；像内文献含《阿弥陀经》、结缘名簿与33日造成记录。",
+      "related": [
+        "buddhist-art-india",
+        "japanese-art"
+      ],
+      "sources": [
+        "cma-1960-197"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为镰仓期（1269年）**阿弥陀如来（Amida Nyorai）**立像，克利夫兰艺术博物馆藏（1960.197）。该馆说明，此像作**迎接**姿态，迎接受临终者并伴其返回**极乐净土**。",
+        "风格特征": "该馆记录的关键证据来自**像内文献**：在造像不久后放入中空像身的文书，包括《阿弥陀经》一部、**结缘（kechien）名簿**——记录希望通过造像与供养共同积聚功德的参与者——以及一条记载：此像于**1269年在大阪四天王寺**、历时**33日**完成。",
+        "代表人物与作品": "作者未署名。相关条目见日本艺术与印度佛教艺术。本件为克利夫兰艺术博物馆藏品（1960.197）。",
+        "技法或形式分析": "材质为**桧木**，施漆、彩、金与切金，双眼**嵌水晶**，另用石英；整体高94.6厘米（据该馆藏品记录）。像内中空，故可容纳文书。",
+        "与前后风格的关系和争论": "本条目把「造像—文书—结缘」视为同一事件：像内文献使的不仅保存了作品年代，也保存了**集体发愿的社会网络**。此为单件作品提供的历史信息密度极高。",
+        "一图": "示意图以迎接姿态、33日造成与像内文书（经/名簿/记录）三者关系标示本像。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）文书原文未迻录；（3）结缘名簿人数未列；（4）切金与石英工艺细节未展开。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='amida-shitennoji 示意图'><title>amida-shitennoji</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>迎接姿态</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>净土</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>阿弥陀像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1269</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>33日造成</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>四天王寺</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>像内文书</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>经·名簿</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>阿弥陀像：迎接、造期与文书</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；文书原文与结缘人数未取得。"
     }
   ]
 }

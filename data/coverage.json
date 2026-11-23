@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 304,
+    "total": 308,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -3652,6 +3652,54 @@
     },
     "lai-zhong-bell": {
       "title": "逨钟（青铜编钟）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "miroku-asuka": {
+      "title": "飞鸟期弥勒菩萨像",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "nikko-bodhisattva": {
+      "title": "日光菩萨木像",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "kofukuji-seated-buddha": {
+      "title": "兴福寺周边坐佛像",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "amida-shitennoji": {
+      "title": "四天王寺阿弥陀佛像",
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",

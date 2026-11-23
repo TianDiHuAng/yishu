@@ -4349,6 +4349,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；青铜 70.3×37×26.6cm；说明含118字铭文与乐悬制度"
+    },
+    {
+      "id": "cma-1950-86",
+      "title": "Cleveland Museum of Art — Miroku Bosatsu (Buddha of the Future), Asuka, late 600s, acc. 1950.86",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1950.86",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；铸青铜存鎏金 45.8cm；说明含6世纪佛教传入日本"
+    },
+    {
+      "id": "cma-1961-48",
+      "title": "Cleveland Museum of Art — Nikkō Bosatsu (Sun Bodhisattva), Heian, c. 800, acc. 1961.48",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1961.48",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；日本粗榧木存彩与金 46.7cm；说明含与月菩萨成对"
+    },
+    {
+      "id": "cma-1973-85",
+      "title": "Cleveland Museum of Art — Seated Buddha, Heian, 1100s, acc. 1973.85",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1973.85",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；木胎漆金 145.4cm；说明含兴福寺周围小寺与左手缺失"
+    },
+    {
+      "id": "cma-1960-197",
+      "title": "Cleveland Museum of Art — Amida Nyorai, Kamakura, 1269, acc. 1960.197",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1960.197",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；桧木漆彩金嵌水晶眼 94.6cm；说明含像内文献与四天王寺33日成造"
     }
   ]
 }

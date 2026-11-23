@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 304 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 308 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -319,6 +319,10 @@
 | murad-bakhsh-jewel | 《穆拉德·巴赫什像》（肖像宝石） | 作品 | 17世纪 | 南亚 | 绘画 | 重要 | O1 |
 | utka-nayika | 《乌特卡·纳伊卡》（等待情人的女主人公） | 作品 | 19世纪 | 南亚 | 绘画 | 重要 | O1 |
 | maru-ragini | 《马鲁·拉吉尼》（Ragamala） | 作品 | 17世纪 | 南亚 | 绘画 | 重要 | O1 |
+| miroku-asuka | 飞鸟期弥勒菩萨像 | 作品 | 7世纪 | 日本 | 雕塑 | 核心 | O1 |
+| nikko-bodhisattva | 日光菩萨木像 | 作品 | 9世纪 | 日本 | 雕塑 | 重要 | O1 |
+| kofukuji-seated-buddha | 兴福寺周边坐佛像 | 作品 | 12世纪 | 日本 | 雕塑 | 核心 | O1 |
+| amida-shitennoji | 四天王寺阿弥陀佛像 | 作品 | 13世纪 | 日本 | 雕塑 | 核心 | O1 |
 
 ## art-islamic（伊斯兰艺术（西亚·中亚））
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

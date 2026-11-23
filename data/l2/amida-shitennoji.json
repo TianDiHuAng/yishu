@@ -1,0 +1,19 @@
+{
+ "id": "amida-shitennoji",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为镰仓期（1269年）**阿弥陀如来（Amida Nyorai）**立像，克利夫兰艺术博物馆藏（1960.197）。该馆说明，此像作**迎接**姿态，迎接受临终者并伴其返回**极乐净土**。",
+  "风格特征": "该馆记录的关键证据来自**像内文献**：在造像不久后放入中空像身的文书，包括《阿弥陀经》一部、**结缘（kechien）名簿**——记录希望通过造像与供养共同积聚功德的参与者——以及一条记载：此像于**1269年在大阪四天王寺**、历时**33日**完成。",
+  "代表人物与作品": "作者未署名。相关条目见日本艺术与印度佛教艺术。本件为克利夫兰艺术博物馆藏品（1960.197）。",
+  "技法或形式分析": "材质为**桧木**，施漆、彩、金与切金，双眼**嵌水晶**，另用石英；整体高94.6厘米（据该馆藏品记录）。像内中空，故可容纳文书。",
+  "与前后风格的关系和争论": "本条目把「造像—文书—结缘」视为同一事件：像内文献使的不仅保存了作品年代，也保存了**集体发愿的社会网络**。此为单件作品提供的历史信息密度极高。",
+  "一图": "示意图以迎接姿态、33日造成与像内文书（经/名簿/记录）三者关系标示本像。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）文书原文未迻录；（3）结缘名簿人数未列；（4）切金与石英工艺细节未展开。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='amida-shitennoji 示意图'><title>amida-shitennoji</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>迎接姿态</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>净土</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>阿弥陀像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1269</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>33日造成</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>四天王寺</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>像内文书</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>经·名簿</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>阿弥陀像：迎接、造期与文书</text></g></svg>",
+ "sources": [
+  "cma-1960-197"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；文书原文与结缘人数未取得。"
+}
