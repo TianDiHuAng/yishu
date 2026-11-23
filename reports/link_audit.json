@@ -37,6 +37,10 @@
    11
   ],
   [
+   "baroque",
+   10
+  ],
+  [
    "ukiyo-e",
    10
   ],
@@ -51,11 +55,7 @@
   [
    "islamic-art",
    9
-  ],
-  [
-   "high-renaissance",
-   8
   ]
  ],
- "total_links": 854
+ "total_links": 872
 }

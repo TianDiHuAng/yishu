@@ -905,7 +905,10 @@
         "rembrandt",
         "rubens",
         "velazquez",
-        "baroque-crossmedia"
+        "baroque-crossmedia",
+        "pedro-de-mena-peter",
+        "soldani-apollo-daphne",
+        "caravaggio-andrew"
       ],
       "sources": [
         "enc-baroque",
@@ -972,7 +975,10 @@
       "overview": "代表作《圣马太蒙召》，以暗背景与聚光式照明营造戏剧性，影响欧洲一代画家。",
       "related": [
         "baroque",
-        "rembrandt"
+        "rembrandt",
+        "soldani-apollo-daphne",
+        "caravaggio-andrew",
+        "la-tour-peter"
       ],
       "sources": [
         "enc-caravaggio",
@@ -1006,7 +1012,8 @@
       "related": [
         "baroque",
         "vermeer",
-        "caravaggio"
+        "caravaggio",
+        "la-tour-peter"
       ],
       "sources": [
         "enc-rembrandt",
@@ -1121,7 +1128,8 @@
       "overview": "代表作《宫娥》《教皇英诺森十世肖像》，笔触松动、光线处理精妙。",
       "related": [
         "baroque",
-        "impressionism"
+        "impressionism",
+        "pedro-de-mena-peter"
       ],
       "sources": [
         "enc-velazquez",
@@ -5363,7 +5371,8 @@
       "overview": "代表作《青铜时代》《思想者》；常去除叙事道具以突出身体本身，生前声名与争议并存。",
       "related": [
         "realism-art",
-        "rodin-age-of-bronze"
+        "rodin-age-of-bronze",
+        "pedro-de-mena-peter"
       ],
       "sources": [
         "cma-1918-328",
@@ -9869,6 +9878,139 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='chen-jiru-four-poems 示意图'><title>chen-jiru-four-poems</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>华亭·陈继儒</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1558—1639</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>行书四诗</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>27×195</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>近董其昌</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>书风</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>焚儒服·拒征</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>人生选择</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>陈继儒卷：书风与人生选择</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（CMA）来源；书体名称与诗全文待核。"
+    },
+    {
+      "id": "pedro-de-mena-peter",
+      "title": "佩德罗·德·梅纳《圣佩德罗·德·阿尔坎塔拉》",
+      "kind": "作品",
+      "unit": "art-baroque",
+      "era": "17世纪",
+      "region": "欧洲",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "西班牙彩绘木雕，克利夫兰艺术博物馆藏（2009.81）。",
+      "when": "约1663—1670年",
+      "overview": "由主雕刻师与工匠协作完成；粗布以黄色笔触表现，玻璃眼可能来自威尼斯，加上睫毛以求逼真。",
+      "related": [
+        "baroque",
+        "velazquez",
+        "rodin"
+      ],
+      "sources": [
+        "cma-2009-81"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明，17世纪西班牙的**彩绘木雕**由一位主雕刻师带领的**工匠团队**完成：先由雕刻师雕出多个复杂部件，再覆以**gesso**（白垩与动物胶的混合物）使颜料附着，同时保留细部。",
+        "风格特征": "该馆给出多处**材料与错觉**关系：圣者面部的**粗糙质感**来自以刷子在gesso上做出的纹理，以表现其年迈与苦修；**玻璃眼**（很可能自威尼斯进口）在木件组装前自背面嵌入；最后又加上**睫毛**以增强真实感。衣袍的粗布则由画家以**向上凸起的黄色笔触**表现。",
+        "代表人物与作品": "主雕刻师为佩德罗·德·梅纳（1628—1688），该馆另记其**作坊**（Workshop）。相关条目见巴洛克与罗丹。本件为克利夫兰艺术博物馆藏品（2009.81）。",
+        "技法或形式分析": "材质为**彩绘木、象牙与玻璃**，整体72.2 × 32 × 32厘米（据该馆藏品记录）。该馆还指出，肌肤部分以**更平滑的笔触**处理，甚至露出人物的**傍晚胡茬**——即视觉真实性来自不同表面处理法的分工。",
+        "与前后风格的关系和争论": "本条目把「彩绘木雕」理解为一种**集体工艺**：雕刻、塑底、上色、嵌入异材（玻璃/象牙）分属不同工序，最终效果却呈现为一个统一的人体。这使它与罗丹那种以雕塑家个人为核心的现代观念形成对照。",
+        "一图": "示意图以工匠分工、gesso与玻璃眼、粗布/肌肤的笔触差异三者关系标示本作。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）玻璃眼「很可能来自威尼斯」为推测；（3）作坊中 painter 的具体姓名未记录；（4）本件的委托背景与原始陈列地点未取得。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='pedro-de-mena-peter 示意图'><title>pedro-de-mena-peter</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>工匠团队</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>分工</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>彩绘木雕</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>72.2cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>gesso·玻璃眼</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>错觉材料</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>粗布/肌肤</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>笔触差异</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>德·梅纳雕像：分工、材料与笔触</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；玻璃眼来源为推测；作坊成员未记录。"
+    },
+    {
+      "id": "soldani-apollo-daphne",
+      "title": "索尔达尼《阿波罗与达芙妮》",
+      "kind": "作品",
+      "unit": "art-baroque",
+      "era": "18世纪",
+      "region": "欧洲",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "佛罗伦萨陶土小稿，克利夫兰艺术博物馆藏（1992.230）。",
+      "when": "约1700年",
+      "overview": "取材达芙妮化月桂的瞬间；以动态构图、转瞬即逝与形体转化体现1600年代意大利关注；据贝尼尼1622—25大理石像。",
+      "related": [
+        "baroque",
+        "caravaggio"
+      ],
+      "sources": [
+        "cma-1992-230"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为佛罗伦萨雕塑家**马西米利亚诺·索尔达尼**（1656—1740）所作陶土小像，克利夫兰艺术博物馆定年约1700年。该馆说明，作品**依据罗马艺术家贝尼尼 1622—25 年的大型大理石像**。",
+        "风格特征": "该馆先叙述题材：阿波罗追逐宁芙达芙妮；达芙妮在河岸向河神父亲佩纽斯求助；在阿波罗触碰她的一刻，她**化为月桂树**，枝与根自身体生出。该馆以此说明1600年代意大利艺术家的三个主要关切：**新颖而主动的构图、转瞬即逝的瞬间、从一种物质形态向另一种的转化**。",
+        "代表人物与作品": "作者索尔达尼。相关条目见巴洛克与卡拉瓦乔。本件为克利夫兰艺术博物馆藏品（1992.230）。",
+        "技法或形式分析": "材质为**陶土**（terracotta），整体55.5 × 34.2 × 21.9厘米（据该馆藏品记录）。作为依据大理石名作的小稿，它使「大型公共雕塑—可手持的小型作品」之间的距离成为可讨论的问题；该馆未展开其具体用途，本条目亦不推断。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「变形的瞬间」视作巴洛克形式的核心：作品并不表现变形之前或之后，而表现**正在发生**的那一瞬。这不是题材偏好，而是对运动与时间的处理。",
+        "一图": "示意图以追逐、化树瞬间与「新构图/瞬间/变形」三要点关系标示本作。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）贝尼尼原作与该陶土稿的具体对应关系未列图像证据；（3）本件是否为献呈稿或收藏品未记录；（4）陶土烧成与着色情况未展开。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='soldani-apollo-daphne 示意图'><title>soldani-apollo-daphne</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>贝尼尼原作</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1622—25</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>阿波罗·达芙妮</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>c.1700</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>瞬间转化</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>化月桂</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>新构图</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>巴洛克关切</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>阿波罗与达芙妮：瞬间与变形</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；与原作的具体对应证据未列。"
+    },
+    {
+      "id": "caravaggio-andrew",
+      "title": "卡拉瓦乔《圣安德烈受难》",
+      "kind": "作品",
+      "unit": "art-baroque",
+      "era": "17世纪",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "那不勒斯祭坛画，克利夫兰艺术博物馆藏（1976.2）。",
+      "when": "1606—1607年",
+      "overview": "以亲密、私人的受难场景替代公开酷刑；强烈明暗暗示神在场；该馆称为画家在美国的唯一祭坛画。",
+      "related": [
+        "caravaggio",
+        "baroque"
+      ],
+      "sources": [
+        "cma-1976-2"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明，圣安德烈在公元1世纪赴希腊传布基督教，遭地方当局敌视；因拒绝承认异教诸神而被判钉十字架。他在刑架上**连续两天向围观者布道**，群众渐生同情；行刑者试图松绑时，**双手神秘地瘫痪**，于是安德烈殉道，并「在神光中」死去。",
+        "风格特征": "该馆将卡拉瓦乔的处理称为**创新**：他把这桩受难呈现为**亲密而私密**的事件，而不是**可怖的公开表演**，从而让观者更贴近现场。**强烈明暗对比**则被解释为一种**神在场**的暗示。",
+        "代表人物与作品": "作者为卡拉瓦乔（1571—1610）。相关条目见卡拉瓦乔人物条目与巴洛克。",
+        "技法或形式分析": "材质为**布面油画**，画心202.5 × 152.7厘米，含框233.5 × 184 × 12厘米（据该馆藏品记录）。该馆并称此作为「**巴洛克绘画的杰作**」，且是**卡拉瓦乔在美洲的唯一祭坛画**。",
+        "与前后风格的关系和争论": "本条目照录该馆两项判断：其一，「明暗暗示神在场」；其二，「唯一在美洲的祭坛画」。两者分别属于形式解释与作品流传，本条目不把它们混为一谈，也不扩大为对卡拉瓦乔全部宗教画的判断。",
+        "一图": "示意图以殉道叙事、亲密化构图与明暗中的神性三者关系标示本画。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「唯一祭坛画」的统计范围未说明；（3）圣经/圣徒传文本的出处未列；（4）原初陈设教堂与委托记录未取得。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='caravaggio-andrew 示意图'><title>caravaggio-andrew</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>圣安德烈殉道</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1606—07</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>卡拉瓦乔祭坛画</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>202.5×152.7</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>亲密化</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>非公开酷刑</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>明暗=神在</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>形式解释</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>圣安德烈：叙事、亲密化与明暗</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；唯一性与原初陈设未取得。"
+    },
+    {
+      "id": "la-tour-peter",
+      "title": "拉图尔《悔悟的圣彼得》",
+      "kind": "作品",
+      "unit": "art-baroque",
+      "era": "17世纪",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "法国布面油画，克利夫兰艺术博物馆藏（1951.454）。",
+      "when": "1645年",
+      "overview": "红眼与不确定灯火写长夜焦虑；色彩沉静、形体简朴；与卡拉瓦乔的关系该馆称仍不清楚。",
+      "related": [
+        "caravaggio",
+        "rembrandt"
+      ],
+      "sources": [
+        "cma-1951-454"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆叙述题材：在最后的晚餐之后的被捕之夜，彼得三次不认耶稣；虽然基督已宽恕其背叛，彼得仍**被愧疚所吞噬**。拉图尔把他画成一位**老人**，在持续不断的悔悟中回顾往事。",
+        "风格特征": "该馆给出多处**可观察的细节**：**眼眶发红**与**灯火的不确定**暗示焦虑的无眠之夜；**收敛的色彩**与**简朴的形体**则使彼得的阴郁情绪获得视觉表达。",
+        "代表人物与作品": "作者为乔治·德·拉图尔（1593—1652）。相关条目见卡拉瓦乔与伦勃朗。本件为克利夫兰艺术博物馆藏品（1951.454）。",
+        "技法或形式分析": "材质为**布面油画**，画心114 × 95厘米，含框140.3 × 119.1 × 7厘米（据该馆藏品记录）。光源（灯笼）与暗部的对比是主题的一部分：光并不带来确定，反而加剧了不安。",
+        "与前后风格的关系和争论": "该馆明确写道：与**其他受卡拉瓦乔启发的画家**不同，拉图尔在**法国东北部相对孤立地工作**，他与这位意大利同行的关系「**仍不清楚**」。本条目据此**不把两者说成师承**，只并列其明暗语言与题材上的相似。",
+        "一图": "示意图以彼得的愧疚、红眼与灯火、以及「关系未明」的卡拉瓦乔影响三者关系标示本画。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）拉图尔与卡拉瓦乔的关系该馆明言不清；（3）本件的委托背景未记录；（4）「无眠之夜」为图像解释，未核文本来源。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='la-tour-peter 示意图'><title>la-tour-peter</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>彼得不认主</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>愧疚</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>悔悟的彼得</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1645</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>红眼·灯火</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>无眠</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>卡拉瓦乔关系?</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>未明</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='590.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>拉图尔彼得：愧疚、光与未明影响</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；与卡拉瓦乔关系馆方明言不清。"
     }
   ]
 }

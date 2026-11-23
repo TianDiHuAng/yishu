@@ -504,7 +504,10 @@
         "rembrandt",
         "rubens",
         "velazquez",
-        "baroque-crossmedia"
+        "baroque-crossmedia",
+        "pedro-de-mena-peter",
+        "soldani-apollo-daphne",
+        "caravaggio-andrew"
       ],
       "sources": [
         "enc-baroque",
@@ -547,7 +550,10 @@
       "overview": "代表作《圣马太蒙召》，以暗背景与聚光式照明营造戏剧性，影响欧洲一代画家。",
       "related": [
         "baroque",
-        "rembrandt"
+        "rembrandt",
+        "soldani-apollo-daphne",
+        "caravaggio-andrew",
+        "la-tour-peter"
       ],
       "sources": [
         "enc-caravaggio",
@@ -569,7 +575,8 @@
       "related": [
         "baroque",
         "vermeer",
-        "caravaggio"
+        "caravaggio",
+        "la-tour-peter"
       ],
       "sources": [
         "enc-rembrandt",
@@ -611,7 +618,8 @@
       "overview": "代表作《宫娥》《教皇英诺森十世肖像》，笔触松动、光线处理精妙。",
       "related": [
         "baroque",
-        "impressionism"
+        "impressionism",
+        "pedro-de-mena-peter"
       ],
       "sources": [
         "enc-velazquez",
@@ -3272,7 +3280,8 @@
       "overview": "代表作《青铜时代》《思想者》；常去除叙事道具以突出身体本身，生前声名与争议并存。",
       "related": [
         "realism-art",
-        "rodin-age-of-bronze"
+        "rodin-age-of-bronze",
+        "pedro-de-mena-peter"
       ],
       "sources": [
         "cma-1918-328",
@@ -6058,6 +6067,87 @@
       ],
       "sources": [
         "cma-2004-65"
+      ]
+    },
+    {
+      "id": "pedro-de-mena-peter",
+      "title": "佩德罗·德·梅纳《圣佩德罗·德·阿尔坎塔拉》",
+      "kind": "作品",
+      "unit": "art-baroque",
+      "era": "17世纪",
+      "region": "欧洲",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "西班牙彩绘木雕，克利夫兰艺术博物馆藏（2009.81）。",
+      "when": "约1663—1670年",
+      "overview": "由主雕刻师与工匠协作完成；粗布以黄色笔触表现，玻璃眼可能来自威尼斯，加上睫毛以求逼真。",
+      "related": [
+        "baroque",
+        "velazquez",
+        "rodin"
+      ],
+      "sources": [
+        "cma-2009-81"
+      ]
+    },
+    {
+      "id": "soldani-apollo-daphne",
+      "title": "索尔达尼《阿波罗与达芙妮》",
+      "kind": "作品",
+      "unit": "art-baroque",
+      "era": "18世纪",
+      "region": "欧洲",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "佛罗伦萨陶土小稿，克利夫兰艺术博物馆藏（1992.230）。",
+      "when": "约1700年",
+      "overview": "取材达芙妮化月桂的瞬间；以动态构图、转瞬即逝与形体转化体现1600年代意大利关注；据贝尼尼1622—25大理石像。",
+      "related": [
+        "baroque",
+        "caravaggio"
+      ],
+      "sources": [
+        "cma-1992-230"
+      ]
+    },
+    {
+      "id": "caravaggio-andrew",
+      "title": "卡拉瓦乔《圣安德烈受难》",
+      "kind": "作品",
+      "unit": "art-baroque",
+      "era": "17世纪",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "那不勒斯祭坛画，克利夫兰艺术博物馆藏（1976.2）。",
+      "when": "1606—1607年",
+      "overview": "以亲密、私人的受难场景替代公开酷刑；强烈明暗暗示神在场；该馆称为画家在美国的唯一祭坛画。",
+      "related": [
+        "caravaggio",
+        "baroque"
+      ],
+      "sources": [
+        "cma-1976-2"
+      ]
+    },
+    {
+      "id": "la-tour-peter",
+      "title": "拉图尔《悔悟的圣彼得》",
+      "kind": "作品",
+      "unit": "art-baroque",
+      "era": "17世纪",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "法国布面油画，克利夫兰艺术博物馆藏（1951.454）。",
+      "when": "1645年",
+      "overview": "红眼与不确定灯火写长夜焦虑；色彩沉静、形体简朴；与卡拉瓦乔的关系该馆称仍不清楚。",
+      "related": [
+        "caravaggio",
+        "rembrandt"
+      ],
+      "sources": [
+        "cma-1951-454"
       ]
     }
   ]

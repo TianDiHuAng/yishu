@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 280,
+    "total": 284,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -3364,6 +3364,54 @@
     },
     "chen-jiru-four-poems": {
       "title": "陈继儒行书四诗卷",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "pedro-de-mena-peter": {
+      "title": "佩德罗·德·梅纳《圣佩德罗·德·阿尔坎塔拉》",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "soldani-apollo-daphne": {
+      "title": "索尔达尼《阿波罗与达芙妮》",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "caravaggio-andrew": {
+      "title": "卡拉瓦乔《圣安德烈受难》",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "la-tour-peter": {
+      "title": "拉图尔《悔悟的圣彼得》",
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",

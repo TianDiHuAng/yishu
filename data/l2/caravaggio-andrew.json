@@ -1,0 +1,19 @@
+{
+ "id": "caravaggio-andrew",
+ "level": "L2",
+ "sections": {
+  "时代背景": "该馆说明，圣安德烈在公元1世纪赴希腊传布基督教，遭地方当局敌视；因拒绝承认异教诸神而被判钉十字架。他在刑架上**连续两天向围观者布道**，群众渐生同情；行刑者试图松绑时，**双手神秘地瘫痪**，于是安德烈殉道，并「在神光中」死去。",
+  "风格特征": "该馆将卡拉瓦乔的处理称为**创新**：他把这桩受难呈现为**亲密而私密**的事件，而不是**可怖的公开表演**，从而让观者更贴近现场。**强烈明暗对比**则被解释为一种**神在场**的暗示。",
+  "代表人物与作品": "作者为卡拉瓦乔（1571—1610）。相关条目见卡拉瓦乔人物条目与巴洛克。",
+  "技法或形式分析": "材质为**布面油画**，画心202.5 × 152.7厘米，含框233.5 × 184 × 12厘米（据该馆藏品记录）。该馆并称此作为「**巴洛克绘画的杰作**」，且是**卡拉瓦乔在美洲的唯一祭坛画**。",
+  "与前后风格的关系和争论": "本条目照录该馆两项判断：其一，「明暗暗示神在场」；其二，「唯一在美洲的祭坛画」。两者分别属于形式解释与作品流传，本条目不把它们混为一谈，也不扩大为对卡拉瓦乔全部宗教画的判断。",
+  "一图": "示意图以殉道叙事、亲密化构图与明暗中的神性三者关系标示本画。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「唯一祭坛画」的统计范围未说明；（3）圣经/圣徒传文本的出处未列；（4）原初陈设教堂与委托记录未取得。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='caravaggio-andrew 示意图'><title>caravaggio-andrew</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>圣安德烈殉道</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1606—07</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>卡拉瓦乔祭坛画</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>202.5×152.7</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>亲密化</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>非公开酷刑</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>明暗=神在</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>形式解释</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>圣安德烈：叙事、亲密化与明暗</text></g></svg>",
+ "sources": [
+  "cma-1976-2"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；唯一性与原初陈设未取得。"
+}

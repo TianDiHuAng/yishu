@@ -1,0 +1,19 @@
+{
+ "id": "soldani-apollo-daphne",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为佛罗伦萨雕塑家**马西米利亚诺·索尔达尼**（1656—1740）所作陶土小像，克利夫兰艺术博物馆定年约1700年。该馆说明，作品**依据罗马艺术家贝尼尼 1622—25 年的大型大理石像**。",
+  "风格特征": "该馆先叙述题材：阿波罗追逐宁芙达芙妮；达芙妮在河岸向河神父亲佩纽斯求助；在阿波罗触碰她的一刻，她**化为月桂树**，枝与根自身体生出。该馆以此说明1600年代意大利艺术家的三个主要关切：**新颖而主动的构图、转瞬即逝的瞬间、从一种物质形态向另一种的转化**。",
+  "代表人物与作品": "作者索尔达尼。相关条目见巴洛克与卡拉瓦乔。本件为克利夫兰艺术博物馆藏品（1992.230）。",
+  "技法或形式分析": "材质为**陶土**（terracotta），整体55.5 × 34.2 × 21.9厘米（据该馆藏品记录）。作为依据大理石名作的小稿，它使「大型公共雕塑—可手持的小型作品」之间的距离成为可讨论的问题；该馆未展开其具体用途，本条目亦不推断。",
+  "与前后风格的关系和争论": "本条目据该馆说明把「变形的瞬间」视作巴洛克形式的核心：作品并不表现变形之前或之后，而表现**正在发生**的那一瞬。这不是题材偏好，而是对运动与时间的处理。",
+  "一图": "示意图以追逐、化树瞬间与「新构图/瞬间/变形」三要点关系标示本作。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）贝尼尼原作与该陶土稿的具体对应关系未列图像证据；（3）本件是否为献呈稿或收藏品未记录；（4）陶土烧成与着色情况未展开。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='soldani-apollo-daphne 示意图'><title>soldani-apollo-daphne</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>贝尼尼原作</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1622—25</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>阿波罗·达芙妮</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>c.1700</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>瞬间转化</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>化月桂</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>新构图</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>巴洛克关切</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>阿波罗与达芙妮：瞬间与变形</text></g></svg>",
+ "sources": [
+  "cma-1992-230"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；与原作的具体对应证据未列。"
+}

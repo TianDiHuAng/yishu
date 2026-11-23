@@ -1044,6 +1044,18 @@
       },
       "network": "partial (museum APIs)",
       "verdict": "书法作品 0→4（总 280）；未饱和"
+    },
+    {
+      "cycle": "cycle84",
+      "date": "2026-11-23",
+      "methods_used": [
+        "欧洲巴洛克作品"
+      ],
+      "gaps_found": {
+        "entries": 4
+      },
+      "network": "partial (museum APIs)",
+      "verdict": "欧洲巴洛克 0→4（总 284）；未饱和"
     }
   ],
   "assessment_c33": {

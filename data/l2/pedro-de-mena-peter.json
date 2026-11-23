@@ -1,0 +1,19 @@
+{
+ "id": "pedro-de-mena-peter",
+ "level": "L2",
+ "sections": {
+  "时代背景": "该馆说明，17世纪西班牙的**彩绘木雕**由一位主雕刻师带领的**工匠团队**完成：先由雕刻师雕出多个复杂部件，再覆以**gesso**（白垩与动物胶的混合物）使颜料附着，同时保留细部。",
+  "风格特征": "该馆给出多处**材料与错觉**关系：圣者面部的**粗糙质感**来自以刷子在gesso上做出的纹理，以表现其年迈与苦修；**玻璃眼**（很可能自威尼斯进口）在木件组装前自背面嵌入；最后又加上**睫毛**以增强真实感。衣袍的粗布则由画家以**向上凸起的黄色笔触**表现。",
+  "代表人物与作品": "主雕刻师为佩德罗·德·梅纳（1628—1688），该馆另记其**作坊**（Workshop）。相关条目见巴洛克与罗丹。本件为克利夫兰艺术博物馆藏品（2009.81）。",
+  "技法或形式分析": "材质为**彩绘木、象牙与玻璃**，整体72.2 × 32 × 32厘米（据该馆藏品记录）。该馆还指出，肌肤部分以**更平滑的笔触**处理，甚至露出人物的**傍晚胡茬**——即视觉真实性来自不同表面处理法的分工。",
+  "与前后风格的关系和争论": "本条目把「彩绘木雕」理解为一种**集体工艺**：雕刻、塑底、上色、嵌入异材（玻璃/象牙）分属不同工序，最终效果却呈现为一个统一的人体。这使它与罗丹那种以雕塑家个人为核心的现代观念形成对照。",
+  "一图": "示意图以工匠分工、gesso与玻璃眼、粗布/肌肤的笔触差异三者关系标示本作。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）玻璃眼「很可能来自威尼斯」为推测；（3）作坊中 painter 的具体姓名未记录；（4）本件的委托背景与原始陈列地点未取得。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='pedro-de-mena-peter 示意图'><title>pedro-de-mena-peter</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>工匠团队</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>分工</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>彩绘木雕</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>72.2cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>gesso·玻璃眼</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>错觉材料</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>粗布/肌肤</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>笔触差异</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>德·梅纳雕像：分工、材料与笔触</text></g></svg>",
+ "sources": [
+  "cma-2009-81"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；玻璃眼来源为推测；作坊成员未记录。"
+}

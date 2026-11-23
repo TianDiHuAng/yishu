@@ -4109,6 +4109,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；金笺手卷 27×195cm；说明含与董其昌风格相近及焚儒服拒征"
+    },
+    {
+      "id": "cma-2009-81",
+      "title": "Cleveland Museum of Art — Pedro de Mena, Saint Peter of Alcántara, c. 1663–70, acc. 2009.81",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2009.81",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；彩绘木、象牙与玻璃 72.2×32×32cm；说明含分层工序与威尼斯玻璃眼"
+    },
+    {
+      "id": "cma-1992-230",
+      "title": "Cleveland Museum of Art — Massimiliano Soldani, Apollo and Daphne, c. 1700, acc. 1992.230",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1992.230",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；陶土 55.5×34.2×21.9cm；说明含据贝尼尼1622—25大理石稿"
+    },
+    {
+      "id": "cma-1976-2",
+      "title": "Cleveland Museum of Art — Caravaggio, The Crucifixion of Saint Andrew, 1606–7, acc. 1976.2",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1976.2",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；布面油画 202.5×152.7cm；说明含美国唯一祭坛画"
+    },
+    {
+      "id": "cma-1951-454",
+      "title": "Cleveland Museum of Art — Georges de La Tour, Saint Peter Repentant, 1645, acc. 1951.454",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1951.454",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；布面油画 114×95cm；说明含与卡拉瓦乔关系未明"
     }
   ]
 }
