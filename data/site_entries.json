@@ -115,7 +115,8 @@
         "gudea-statue",
         "minnefer-statue",
         "nefertiti-talatat",
-        "kouros-torso"
+        "kouros-torso",
+        "sumer-bull-polemount"
       ],
       "sources": [
         "enc-prehistoric-art",
@@ -152,7 +153,8 @@
         "kouros-torso",
         "herakles-bronze",
         "roman-athlete-statue",
-        "vespasian-recut-head"
+        "vespasian-recut-head",
+        "xerxes-guard-relief"
       ],
       "sources": [
         "enc-greek-art",
@@ -254,7 +256,9 @@
         "egyptian-art",
         "herakles-bronze",
         "roman-athlete-statue",
-        "vespasian-recut-head"
+        "vespasian-recut-head",
+        "xerxes-guard-relief",
+        "sasanian-hunting-dish"
       ],
       "sources": [
         "enc-roman-art",
@@ -2644,7 +2648,8 @@
         "shang-jia-vessel",
         "shang-ding-small",
         "zhou-ding-large",
-        "lai-zhong-bell"
+        "lai-zhong-bell",
+        "luristan-master-cheekpiece"
       ],
       "sources": [
         "enc-bronze",
@@ -6081,7 +6086,8 @@
         "khurasan-ewer",
         "seljuq-bird-vessel",
         "safavid-steel-plaque",
-        "quran-folio-seljuq"
+        "quran-folio-seljuq",
+        "sasanian-hunting-dish"
       ],
       "sources": [
         "cma-1944-485",
@@ -10205,7 +10211,9 @@
         "shang-zhou-bronzes",
         "egyptian-art",
         "minnefer-statue",
-        "amenhotep-tomb-relief"
+        "amenhotep-tomb-relief",
+        "sumer-bull-polemount",
+        "luristan-master-cheekpiece"
       ],
       "sources": [
         "cma-1963-154"
@@ -10853,6 +10861,138 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='amida-shitennoji 示意图'><title>amida-shitennoji</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>迎接姿态</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>净土</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>阿弥陀像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1269</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>33日造成</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>四天王寺</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>像内文书</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>经·名簿</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>阿弥陀像：迎接、造期与文书</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（CMA）来源；文书原文与结缘人数未取得。"
+    },
+    {
+      "id": "sumer-bull-polemount",
+      "title": "苏美尔牛犊杆头饰",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元前27世纪",
+      "region": "西亚·中亚",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "苏美尔玄武岩小牛像，克利夫兰艺术博物馆藏（1970.61）。",
+      "when": "约公元前2700年",
+      "overview": "原为神庙崇拜物；眼、额部三角与绳索纹曾嵌异色石或骨，镶嵌已失。",
+      "related": [
+        "gudea-statue",
+        "egyptian-art"
+      ],
+      "sources": [
+        "cma-1970-61"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明，与多数两河流域圆雕一样，这件小牛曾是**神庙中的崇拜对象**。约公元前2700年，属苏美尔早期。",
+        "风格特征": "该馆指出，小牛的**双眼、前额三角形与绳索上的条纹**原本以**异色石材或骨**镶嵌。镶嵌今已不存，但雕像本身是「极少数幸存的**原初祭祀像**」之一。",
+        "代表人物与作品": "作者未署名。相关条目见古迪亚像与埃及艺术。本件为克利夫兰艺术博物馆藏品（1970.61）。",
+        "技法或形式分析": "材质为**玄武岩**，整体7.7 × 5.1 × 13.1厘米（据该馆藏品记录）。小而坚硬的材料适合承载镶嵌凹槽，其技术前提与石材加工能力直接相关。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「镶嵌遗失」作为信息本身：今日所见的素面并非原貌；崇拜像的物质光辉原本依赖异材嵌饰。",
+        "一图": "示意图以神庙崇拜、异色镶嵌与极少数原作幸存三者关系标示本件。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）原出土地与神庙名称未记录；（3）镶嵌材质仅知为石或骨之可能；（4）「极少数幸存」的统计范围未列。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='sumer-bull-polemount 示意图'><title>sumer-bull-polemount</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>苏美尔·约前2700</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>神庙崇拜</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>牛犊杆头饰</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>7.7cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>异色镶嵌</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>已失</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>原作幸存</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>罕见</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>苏美尔牛像：崇拜、镶嵌与幸存</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；神庙与镶嵌材质未取得。"
+    },
+    {
+      "id": "xerxes-guard-relief",
+      "title": "薛西斯宫卫兵浮雕残块",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元前5世纪",
+      "region": "西亚·中亚",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "波斯波利斯宫殿灰石灰岩浮雕，克利夫兰艺术博物馆藏（1943.279）。",
+      "when": "公元前486—前465年",
+      "overview": "或出自宫殿西阶梯；希罗多德记希腊以民主对君主制击败薛西斯。",
+      "related": [
+        "greek-art",
+        "roman-art"
+      ],
+      "sources": [
+        "cma-1943-279"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明，公元前486年**薛西斯**继承大流士一世为波斯王；其帝国当时是「世界上最大、最强」的政权，疆域**自利比亚至印度西部、自埃塞俄比亚至阿富汗**。本件为其**波斯波利斯宫殿**中一名卫兵的浮雕残块，或出自**西阶梯**。",
+        "风格特征": "该馆以希罗多德的记述点出历史语境：希腊人在一场**政治制度的冲突**中击败薛西斯——**民主制对君主制**。浮雕所表现的正是帝国宫廷的仪卫队列。",
+        "代表人物与作品": "所表现者为薛西斯的卫兵；作者未署名。相关条目见古希腊艺术与罗马艺术。本件为克利夫兰艺术博物馆藏品（1943.279）。",
+        "技法或形式分析": "材质为**灰色石灰岩**，整体53 × 43.6厘米（据该馆藏品记录）。该馆未展开雕刻程序，本条目只据材料与出土语境陈述。",
+        "与前后风格的关系和争论": "本条目把「宫殿装饰—帝国规模—希罗多德的叙事」并置：一块卫兵浮雕既是波斯王权的视觉制度，也是后来希腊叙述中的对手形象。本条目照录该馆引述，不代为评价。",
+        "一图": "示意图以波斯波利斯宫殿、帝国疆域与民主/君主冲突三者关系标示本残块。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「或出自西阶梯」为推测；（3）希罗多德原文未迻录；（4）原建筑构件的完整布局未取得。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='xerxes-guard-relief 示意图'><title>xerxes-guard-relief</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>波斯波利斯</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>薛西斯宫殿</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>卫兵浮雕</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>前486—465</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>帝国疆域</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>利比亚→印度</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>希罗多德</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>民主对君主</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>薛西斯浮雕：宫殿、帝国与叙事</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；位置与引文未展开。"
+    },
+    {
+      "id": "luristan-master-cheekpiece",
+      "title": "卢里斯坦「动物主人」马颊饰",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元前8—前7世纪",
+      "region": "西亚·中亚",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "伊朗卢里斯坦铸造刻线青铜马具，克利夫兰艺术博物馆藏（1961.33）。",
+      "when": "约公元前700年",
+      "overview": "有角男子抓双翼兽前腿，翼兽踩兔；环供连接马衔，另一片颊饰已失。",
+      "related": [
+        "gudea-statue",
+        "shang-zhou-bronzes"
+      ],
+      "sources": [
+        "cma-1961-33"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明，此青铜马颊饰**很可能**出自伊朗西北部的**卢里斯坦**——该地区在铁器时代以**金属工艺与养马**著称。年代约为公元前700年。",
+        "风格特征": "画面为古代近东母题「**动物主人**」（Master of Animals）：一名**有角、带侧辫的男子**抓住两只**有翼猫科动物**的前腿；每只翼兽又**踩住一只兔**。男子与翼兽身上装饰刻线的**人字纹、线与十字**。",
+        "代表人物与作品": "作者未署名。相关条目见古迪亚像与商周青铜礼器。本件为克利夫兰艺术博物馆藏品（1961.33）。",
+        "技法或形式分析": "材质为**铸造并刻线的青铜**，整体14.9 × 21.3厘米（据该馆藏品记录）。男子躯干上的**环**用于连接今日已失的金属马衔，以及很可能几乎相同的另一片颊饰。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「动物主人」与具体的马具功能并置：母题并不是抽象纹样，而安装在**控制坐骑**的器具上。人、翼兽、兔构成一条支配链。",
+        "一图": "示意图以动物主人母题、马具环与卢里斯坦养马/金属工艺三者关系标示本件。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）产地该馆用 likely，属推断；（3）另一片颊饰与马衔今已失；（4）母题的宗教含义未展开。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='luristan-master-cheekpie 示意图'><title>luristan-master-cheekpie</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>卢里斯坦</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>养马·金属</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>动物主人</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>约前700</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>环</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>连接马衔</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>翼兽踩兔</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>支配链</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>马颊饰：母题、功能与产地</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；产地为推断；配套马具已失。"
+    },
+    {
+      "id": "sasanian-hunting-dish",
+      "title": "萨珊狩猎纹银盘",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元5—6世纪",
+      "region": "西亚·中亚",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "萨珊鎏金银盘，克利夫兰艺术博物馆藏（1962.150）。",
+      "when": "公元400—600年",
+      "overview": "以王冠识为霍尔米兹德二世，但风格提示或为后世同理之名君主的纪念作。",
+      "related": [
+        "islamic-art",
+        "roman-art"
+      ],
+      "sources": [
+        "cma-1962-150"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明，猎狮是古代近东诸文化中**传统的王室运动**，常见于艺术，如亚述（约公元前912—612年）宫殿浮雕。此类狩猎图像在**伊斯兰前后**的王室艺术中持续出现。本件为萨珊帝国银盘，定年公元400—600年。",
+        "风格特征": "盘上人物以**独特的王冠**被辨认为霍尔米兹德二世（303—309年在位）。但该馆指出，国王与马的**装备风格**提示此盘可能制成于他死后很久——或为后世同为霍尔米兹德三世（457—459年在位）所作的**纪念物**。",
+        "代表人物与作品": "作者未署名。相关条目见伊斯兰艺术与罗马艺术。本件为克利夫兰艺术博物馆藏品（1962.150）。",
+        "技法或形式分析": "材质为**鎏金银**，整体4.6 × 20.8厘米（据该馆藏品记录）。浅盘形制适合展示而非使用；该馆未说明铸造或锤揲工艺，本条目不推断。",
+        "与前后风格的关系和争论": "本条目保留馆方提出的两难：**图像身份**（王冠）指向二世，**风格年代**指向三世或更晚。二者并列，不代其裁定。",
+        "一图": "示意图以王冠辨识、装备风格与「二世或三世」的归属未定三者关系标示本盘。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）王冠辨识与风格断代冲突，馆方只称 perhaps；（3）制作地点未记录；（4）鎏金工艺细节未展开。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='sasanian-hunting-dish 示意图'><title>sasanian-hunting-dish</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>猎狮传统</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>近东王权</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>萨珊银盘</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>400—600</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>王冠=二世</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>图像身份</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>风格=后世?</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>纪念作</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='590.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>萨珊银盘：图像身份与风格年代</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；归属两说未定。"
     }
   ]
 }

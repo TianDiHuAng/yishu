@@ -1,0 +1,19 @@
+{
+ "id": "luristan-master-cheekpiece",
+ "level": "L2",
+ "sections": {
+  "时代背景": "该馆说明，此青铜马颊饰**很可能**出自伊朗西北部的**卢里斯坦**——该地区在铁器时代以**金属工艺与养马**著称。年代约为公元前700年。",
+  "风格特征": "画面为古代近东母题「**动物主人**」（Master of Animals）：一名**有角、带侧辫的男子**抓住两只**有翼猫科动物**的前腿；每只翼兽又**踩住一只兔**。男子与翼兽身上装饰刻线的**人字纹、线与十字**。",
+  "代表人物与作品": "作者未署名。相关条目见古迪亚像与商周青铜礼器。本件为克利夫兰艺术博物馆藏品（1961.33）。",
+  "技法或形式分析": "材质为**铸造并刻线的青铜**，整体14.9 × 21.3厘米（据该馆藏品记录）。男子躯干上的**环**用于连接今日已失的金属马衔，以及很可能几乎相同的另一片颊饰。",
+  "与前后风格的关系和争论": "本条目据该馆说明把「动物主人」与具体的马具功能并置：母题并不是抽象纹样，而安装在**控制坐骑**的器具上。人、翼兽、兔构成一条支配链。",
+  "一图": "示意图以动物主人母题、马具环与卢里斯坦养马/金属工艺三者关系标示本件。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）产地该馆用 likely，属推断；（3）另一片颊饰与马衔今已失；（4）母题的宗教含义未展开。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='luristan-master-cheekpie 示意图'><title>luristan-master-cheekpie</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>卢里斯坦</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>养马·金属</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>动物主人</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>约前700</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>环</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>连接马衔</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>翼兽踩兔</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>支配链</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>马颊饰：母题、功能与产地</text></g></svg>",
+ "sources": [
+  "cma-1961-33"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；产地为推断；配套马具已失。"
+}

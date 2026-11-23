@@ -4389,6 +4389,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；桧木漆彩金嵌水晶眼 94.6cm；说明含像内文献与四天王寺33日成造"
+    },
+    {
+      "id": "cma-1970-61",
+      "title": "Cleveland Museum of Art — Bull Calf Polemount, Sumerian, c. 2700 BCE, acc. 1970.61",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1970.61",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；玄武岩 7.7×5.1×13.1cm；说明含镶嵌丢失与极少数幸存的祭祀像"
+    },
+    {
+      "id": "cma-1943-279",
+      "title": "Cleveland Museum of Art — Guardsman relief from Palace of Xerxes, Persepolis, 486–465 BCE, acc. 1943.279",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1943.279",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；灰石灰岩 53×43.6cm；说明含波斯波利斯西楼梯与希罗多德"
+    },
+    {
+      "id": "cma-1961-33",
+      "title": "Cleveland Museum of Art — Master of Animals Cheekpiece, Luristan, c. 700 BCE, acc. 1961.33",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1961.33",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；铸造刻线青铜 14.9×21.3cm；说明含动物主人母题与马具"
+    },
+    {
+      "id": "cma-1962-150",
+      "title": "Cleveland Museum of Art — Sasanian hunting dish of Hormizd II/III, 400–600 CE, acc. 1962.150",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1962.150",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；鎏金银盘 4.6×20.8cm；说明含王冠辨识与后世纪念作"
     }
   ]
 }

@@ -1138,6 +1138,18 @@
       },
       "network": "partial (museum APIs)",
       "verdict": "日本佛教雕塑 0→4（总 308）；未饱和"
+    },
+    {
+      "cycle": "cycle92",
+      "date": "2026-11-23",
+      "methods_used": [
+        "两河/波斯早期"
+      ],
+      "gaps_found": {
+        "entries": 4
+      },
+      "network": "partial (museum APIs)",
+      "verdict": "两河/波斯早期 0→4（总 312）；未饱和"
     }
   ],
   "assessment_c33": {
