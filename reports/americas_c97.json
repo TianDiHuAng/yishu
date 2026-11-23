@@ -1,0 +1,219 @@
+[
+ {
+  "acc": "1990.180",
+  "title": "Vessel with Ballplayer",
+  "date": "c. 600–1000",
+  "culture": "['Mexico, Yucatán, Maya (Chocholá) style (250-900)']",
+  "len": 356
+ },
+ {
+  "acc": "1990.173",
+  "title": "Carved Vessel",
+  "date": "c. 600–1000",
+  "culture": "['Mexico, Campeche, Maya, Chocholá Style']",
+  "len": 297
+ },
+ {
+  "acc": "1990.170",
+  "title": "Ring-Base Vessel",
+  "date": "c. 600–1000",
+  "culture": "['Honduras, Maya, Ulúa Valley']",
+  "len": 350
+ },
+ {
+  "acc": "2012.32",
+  "title": "Vessel with Battle Scene",
+  "date": "600–900",
+  "culture": "['Mesoamerica, Maya, Nebaj region, Late Classic Period, 7th-10th century']",
+  "len": 423
+ },
+ {
+  "acc": "1967.203",
+  "title": "Cylindrical Vessel with Palace Scene",
+  "date": "600–900",
+  "culture": "['Mexico or Central America, Maya']",
+  "len": 385
+ },
+ {
+  "acc": "1997.60",
+  "title": "Deer Effigy Vessel",
+  "date": "250–600 CE",
+  "culture": "['Mesoamerica, Maya style, Classic Period (250-900)']",
+  "len": 729
+ },
+ {
+  "acc": "1954.391",
+  "title": "Cylinder Vessel with Deities",
+  "date": "600–900",
+  "culture": "['Guatemala, Kixpek, Maya (Chamá) style (250-900)']",
+  "len": 384
+ },
+ {
+  "acc": "1949.555",
+  "title": "Seated Male Carrying Maize",
+  "date": "1325–1521",
+  "culture": "['Central Mexico, Aztec style, 13th-16th century']",
+  "len": 498
+ },
+ {
+  "acc": "1990.136",
+  "title": "Seated Deity",
+  "date": "1350–1519",
+  "culture": "['Mexico, Aztec, Valley of Mexico near Teotihuacan, Macuilxochitl (?), 14th-16th century']",
+  "len": 404
+ },
+ {
+  "acc": "1941.46",
+  "title": "Feathered Serpent (Quetzalcoatl)",
+  "date": "1325–1521",
+  "culture": "['Central Mexico, Aztec or modern, Post-Classic Period or modern']",
+  "len": 1077
+ },
+ {
+  "acc": "1966.361",
+  "title": "Tlaloc",
+  "date": "c. 1200–1519",
+  "culture": "['Central Mexico, Aztec, 13th-16th century']",
+  "len": 413
+ },
+ {
+  "acc": "1990.246",
+  "title": "Seated Figure Wearing a Skin",
+  "date": "600–1000",
+  "culture": "['Mexico, Gulf Coast']",
+  "len": 454
+ },
+ {
+  "acc": "1957.136",
+  "title": "Tunic",
+  "date": "c. 1400–1540",
+  "culture": "['Peru, Inca, 15th-16th century']",
+  "len": 585
+ },
+ {
+  "acc": "1949.12",
+  "title": "Tunic with Profile Animal and Human Heads",
+  "date": "c. 700–1100",
+  "culture": "['Peru, South Coast, Wari Culture, Middle Horizon, 8th-12th Century']",
+  "len": 665
+ },
+ {
+  "acc": "1946.226",
+  "title": "Mantle",
+  "date": "c. 300 BCE–200 CE",
+  "culture": "['Peru, South Coast, Paracas (Cavernas) style']",
+  "len": 630
+ },
+ {
+  "acc": "1946.228",
+  "title": "Turban Band (Llauto)",
+  "date": "c. 300–100 BCE",
+  "culture": "['Peru, South Coast, Paracas, Late Period']",
+  "len": 363
+ },
+ {
+  "acc": "1940.516",
+  "title": "Mummy Bundle \"Mask\"",
+  "date": "200–1 BCE",
+  "culture": "['Peru, South Coast, Ica Valley, Ocucaje site, Paracas style']",
+  "len": 473
+ },
+ {
+  "acc": "1946.227",
+  "title": "Tunic",
+  "date": "c. 300 BCE–200 CE",
+  "culture": "['Peru, South Coast, Paracas (Cavernas) style']",
+  "len": 435
+ },
+ {
+  "acc": "1973.3",
+  "title": "Ballgame Palma",
+  "date": "c. 900–1100",
+  "culture": "['Mexico, Gulf Coast, Classic Veracruz style (600-1100)']",
+  "len": 524
+ },
+ {
+  "acc": "1967.154",
+  "title": "Elongated Mask Ornament",
+  "date": "c. 900–300 BCE",
+  "culture": "['Mesoamerica, Mexico, Olmec']",
+  "len": 330
+ },
+ {
+  "acc": "2008.20",
+  "title": "Standing Figurine",
+  "date": "200 BCE–300 CE",
+  "culture": "['Mesoamerica, West Mexico, Michoacán']",
+  "len": 290
+ },
+ {
+  "acc": "1940.517",
+  "title": "Mummy Bundle \"Mask\"",
+  "date": "200 BCE–1 CE",
+  "culture": "['Peru, South Coast, Ica Valley, Ocucaje site, Paracas style']",
+  "len": 473
+ },
+ {
+  "acc": "1940.520",
+  "title": "Mummy Bundle \"Mask\"",
+  "date": "200–1 BCE",
+  "culture": "['Peru, South Coast, Ica Valley, Ocucaje site, Paracas style']",
+  "len": 473
+ },
+ {
+  "acc": "2005.13",
+  "title": "Textile Fragment with Three Frontal Deities and Interlace Pattern",
+  "date": "700–400 BCE",
+  "culture": "['Peru, South Coast, Paracas (700 BC -AD 1), Yauca Valley?']",
+  "len": 556
+ },
+ {
+  "acc": "1963.93",
+  "title": "Warrior Figurine with Removable Headdress",
+  "date": "600–900",
+  "culture": "['Mexico, Yucatán, Jaina Island region, Campeche, Maya style (250-900)']",
+  "len": 373
+ },
+ {
+  "acc": "1990.172",
+  "title": "Figurine with Back Rack",
+  "date": "300–900 CE",
+  "culture": "['Mexico, Maya, Jaina style']",
+  "len": 364
+ },
+ {
+  "acc": "1990.178",
+  "title": "Warrior Figurine with Shield",
+  "date": "600–900",
+  "culture": "['Mexico, Classic Maya, Jaina style']",
+  "len": 288
+ },
+ {
+  "acc": "1963.93.a",
+  "title": "Warrior Figurine with Removable Headdress",
+  "date": "600–900",
+  "culture": "['Mexico, Yucatán, Jaina Island region, Campeche, Maya style (250-900)']",
+  "len": 373
+ },
+ {
+  "acc": "1963.93.b",
+  "title": "Warrior Figurine with Removable Headdress (headdress)",
+  "date": "600–900",
+  "culture": "['Mexico, Yucatán, Jaina Island region, Campeche, Maya style (250-900)']",
+  "len": 391
+ },
+ {
+  "acc": "2012.33",
+  "title": "Seated Lord with Removable Headdress",
+  "date": "600–800",
+  "culture": "['Mesoamerica, Maya, probably Jaina Island, Late Classical period, 7th-9th century']",
+  "len": 491
+ },
+ {
+  "acc": "2012.33.a",
+  "title": "Seated Lord with Removable Headdress: Figure",
+  "date": "600–800",
+  "culture": "['Mesoamerica, Maya, probably Jaina Island, Late Classical period, 7th-9th century']",
+  "len": 330
+ }
+]

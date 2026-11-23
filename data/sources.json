@@ -4589,6 +4589,36 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；木 35.6cm；说明含腰带佩挂与 mana 小人像"
+    },
+    {
+      "id": "cma-1997-60",
+      "title": "Cleveland Museum of Art — Deer Effigy Vessel, Maya, 250–600 CE, acc. 1997.60",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1997.60",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；陶 22.8×24.7×18cm；说明含还原烧成与金星/海螺/蛙"
+    },
+    {
+      "id": "cma-1949-12",
+      "title": "Cleveland Museum of Art — Tunic with Profile Animal and Human Heads, Wari, c. 700–1100, acc. 1949.12",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1949.12",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；驼毛棉挂毯 97.8×99.1cm；说明含横向经线与影响印加"
+    },
+    {
+      "id": "cma-1949-555",
+      "title": "Cleveland Museum of Art — Seated Male Carrying Maize, Aztec, 1325–1521, acc. 1949.555",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1949.555",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；石与颜料 31.1×24.1×30.5cm；说明含花与玉米的象征"
     }
   ]
 }

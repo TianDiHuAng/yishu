@@ -3940,7 +3940,8 @@
       "overview": "盘绕躯体呈胸肌、膝与臀的隆起，状若人披蛇装；面具与真实阿兹特克蛇像惯例不合。",
       "related": [
         "maya-el-peru-stela",
-        "americas-art"
+        "americas-art",
+        "aztec-xochipilli-maize"
       ],
       "sources": [
         "cma-1941-46"
@@ -4051,7 +4052,9 @@
         "inuit-devil-fish",
         "maria-martinez-olla",
         "ma-pe-wi-three-antelope",
-        "haida-raven-rattle"
+        "haida-raven-rattle",
+        "maya-deer-vessel",
+        "aztec-xochipilli-maize"
       ],
       "sources": [
         "cma-1967-29",
@@ -4097,7 +4100,8 @@
       "overview": "莫切匠人对写实与「动作顶点」的把握在此可见；蝙蝠兼具飞行与兽毛的矛盾特征，可能与生死过渡相关。",
       "related": [
         "inca-tunic",
-        "americas-art"
+        "americas-art",
+        "maya-deer-vessel"
       ],
       "sources": [
         "cma-2005-6"
@@ -4117,7 +4121,9 @@
       "overview": "以交错挂毯法织成，纹样为常见的「印加键（Inca Key）」；由国家再分配给忠诚的藩属。",
       "related": [
         "moche-bat-vessel",
-        "americas-art"
+        "americas-art",
+        "wari-tunic",
+        "inca-tunic-1957"
       ],
       "sources": [
         "cma-1957-136"
@@ -4242,7 +4248,8 @@
       "related": [
         "chimu-litter-backrest",
         "americas-art",
-        "nazca-trophy-head-bowl"
+        "nazca-trophy-head-bowl",
+        "wari-tunic"
       ],
       "sources": [
         "cma-1946-226"
@@ -7114,6 +7121,87 @@
       ],
       "sources": [
         "cma-1965-322"
+      ]
+    },
+    {
+      "id": "maya-deer-vessel",
+      "title": "玛雅鹿形陶瓶",
+      "kind": "作品",
+      "unit": "art-americas",
+      "era": "公元3—7世纪",
+      "region": "美洲",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "玛雅黑陶鹿形瓶，克利夫兰艺术博物馆藏（1997.60）。",
+      "when": "公元250—600年",
+      "overview": "还原气氛烧成的黑陶；鹿常为狩猎或献祭对象；金星纹与海螺示死亡，蹄下蛙蟾关乎农事丰产（鸣声报雨）。",
+      "related": [
+        "moche-bat-vessel",
+        "americas-art"
+      ],
+      "sources": [
+        "cma-1997-60"
+      ]
+    },
+    {
+      "id": "wari-tunic",
+      "title": "瓦里束腰外衣",
+      "kind": "作品",
+      "unit": "art-americas",
+      "era": "公元8—12世纪",
+      "region": "美洲",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "瓦里文化驼毛棉挂毯束腰衣，克利夫兰艺术博物馆藏（1949.12）。",
+      "when": "约700—1100年",
+      "overview": "两长幅折肩缝合；经线横向（异于常态），似影响后期印加束腰衣；纹样为人与兽（鹿或蝠）侧首交替。",
+      "related": [
+        "inca-tunic",
+        "paracas-mantle",
+        "inca-tunic-1957"
+      ],
+      "sources": [
+        "cma-1949-12"
+      ]
+    },
+    {
+      "id": "inca-tunic-1957",
+      "title": "印加束腰外衣（1957号）",
+      "kind": "作品",
+      "unit": "art-americas",
+      "era": "15—16世纪",
+      "region": "美洲",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "印加挂毯束腰外衣，克利夫兰艺术博物馆藏（1957.136）。",
+      "when": "约1400—1540年",
+      "overview": "细密挂毯为贵族特权；由贵族妇女、职业织工与 Aclla（选女）织造，由国家再分配为赏赐；纹样为「印加之钥」。",
+      "related": [
+        "inca-tunic",
+        "wari-tunic"
+      ],
+      "sources": [
+        "cma-1957-136"
+      ]
+    },
+    {
+      "id": "aztec-xochipilli-maize",
+      "title": "阿兹特克持玉米坐像",
+      "kind": "作品",
+      "unit": "art-americas",
+      "era": "14—16世纪",
+      "region": "美洲",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "阿兹特克石雕坐像，克利夫兰艺术博物馆藏（1949.555）。",
+      "when": "1325—1521年",
+      "overview": "或为 Macuilxochitl 或 Xochipilli，司美、艺术与嬉戏舞蹈；手持花锥；背负玉米棒或喻其创造力。",
+      "related": [
+        "aztec-feathered-serpent",
+        "americas-art"
+      ],
+      "sources": [
+        "cma-1949-555"
       ]
     }
   ]

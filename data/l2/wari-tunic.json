@@ -1,0 +1,19 @@
+{
+ "id": "wari-tunic",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为瓦里文化（中部安第斯，约公元700—1100）挂毯束腰衣，克利夫兰艺术博物馆藏（1949.12）。",
+  "风格特征": "该馆先描述**结构**：瓦里束腰衣由**两块长幅在肩线处折叠**，并在**中央与两侧缝合**，留出头与臂的开口。织造这两块的织机约为**80 × 20 英寸**，**经线沿短边**。",
+  "代表人物与作品": "作者未署名（瓦里织工）。相关条目见印加束腰外衣与帕拉卡斯披巾。本件为克利夫兰艺术博物馆藏品（1949.12）。",
+  "技法或形式分析": "材质为**驼毛与棉的挂毯织法**，平均97.8 × 99.1厘米（据该馆藏品记录）。该馆给出一个关键推论：因此穿在身上时，**经线是横向而非纵向**——这一取向「不同寻常」，且**似影响了后期印加束腰衣的构造**。",
+  "与前后风格的关系和争论": "该馆指出纹样为**两个侧首交替**：一为人首，一为或代表鹿或蝠的兽首；并说明此类束腰衣是**只有特权者才能穿的奢侈品**。本条目据此把「奢侈品」与「技术选择」并置。",
+  "一图": "示意图以两幅折肩缝合、横向经线与影响印加三者关系标示本衣。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「影响印加」该馆用 seem 语气；（3）具体出土地与墓葬未记录；（4）染料与色系未分析。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='wari-tunic 示意图'><title>wari-tunic</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>两幅折肩</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>缝合</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>瓦里束腰衣</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>97.8×99.1</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>横向经线</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>异于常态</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>影响印加</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>技术传承</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>瓦里束腰衣：结构、经线与传承</text></g></svg>",
+ "sources": [
+  "cma-1949-12"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；出土地与染料未取得。"
+}

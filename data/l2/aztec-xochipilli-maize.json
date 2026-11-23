@@ -1,0 +1,19 @@
+{
+ "id": "aztec-xochipilli-maize",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为阿兹特克石雕坐像（1325—1521），克利夫兰艺术博物馆藏（1949.555）。该馆说明，此像**很可能**表现阿兹特克神祇 **Macuilxochitl 或 Xochipilli**——其领域为**美、艺术**，以及**嬉戏、舞蹈与性**等愉悦之事。",
+  "风格特征": "该馆指出，两个神名都含阿兹特克语中「**花**」一词；像的**一只手中握着花锥**，或为**仙人掌盛开的花冠**。对阿兹特克人而言，**花象征美、精致与丰产**，尤其象征**性**。",
+  "代表人物与作品": "作者未署名。相关条目见阿兹特克羽蛇与美洲艺术。本件为克利夫兰艺术博物馆藏品（1949.555）。",
+  "技法或形式分析": "材质为**石与颜料**，整体31.1 × 24.1 × 30.5厘米（据该馆藏品记录）。该馆指出，像**背上所负的玉米棒**也可能暗指其**创造力**。",
+  "与前后风格的关系和争论": "本条目据该馆说明把握「花—丰产—性—创造」的**象征链**：一件持花坐像，通过花与玉米把审美、生育与创造力连为一体。本条目只陈述该馆的解释。",
+  "一图": "示意图以神祇身份、花锥与「花=美/丰产/性」三者关系标示本像。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）神祇身份该馆用 probably（两说）；（3）玉米棒的象征为该馆推断；（4）出土地与制作年代细分未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='aztec-xochipilli-maize 示意图'><title>aztec-xochipilli-maize</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>Macuilxochit</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>美·艺术</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>持玉米坐像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>31.1cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>花锥</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>花=美/丰产/性</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>背负玉米</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>创造力?</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>阿兹特克坐像：神祇、花与玉米</text></g></svg>",
+ "sources": [
+  "cma-1949-555"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；神祇两说；出土地未记录。"
+}
