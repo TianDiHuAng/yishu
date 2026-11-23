@@ -597,6 +597,18 @@
       },
       "network": "partial (museum APIs)",
       "verdict": "3 单元各补导览（180）；一次关系编辑事故已回退并记录；未饱和"
+    },
+    {
+      "cycle": "cycle49",
+      "date": "2026-11-23",
+      "methods_used": [
+        "根因排查"
+      ],
+      "gaps_found": {
+        "bug": "related 被覆盖"
+      },
+      "network": "partial",
+      "verdict": "修复字段覆盖复发的同类 bug；单向关联 16→0；新增 R19 硬约束；未饱和"
     }
   ],
   "assessment_c33": {

@@ -37,26 +37,7 @@
    ]
   ]
  ],
- "orphans": [
-  "mi-youren-cloudy-mountains",
-  "manet",
-  "courbet",
-  "ingres",
-  "hiroshige-shono",
-  "hiroshige-ohashi-atake",
-  "indian-standing-buddha-kashmir",
-  "mathura-railing-pillar",
-  "chen-hongshou-album",
-  "zhao-mengfu-river-village",
-  "hiroshige-ryogoku-fireworks",
-  "hiroshige-karasaki-night-rain",
-  "hokusai-muneyuki-poem",
-  "hokusai-hitomaro-poem",
-  "hokusai-nakahara-sagami",
-  "african-art",
-  "americas-art",
-  "oceania-art"
- ],
+ "orphans": [],
  "overlap": "skipped: 内容来源（Wikipedia/Met/Tate）不可达，无法抓取正文比对；Wikidata 为结构化数据（无正文），不适用 n-gram 重合度。最近有效结果：Cycle5 抽样5条，重合 0%",
  "bad_anchors": [],
  "sitemap_missing_files": [],
@@ -109,7 +90,7 @@
  },
  "link_audit": {
   "cross_domain": 2,
-  "oneway": 48,
-  "total_links": 502
+  "oneway": 0,
+  "total_links": 546
  }
 }

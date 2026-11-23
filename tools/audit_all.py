@@ -13,7 +13,7 @@ for _p in sorted(glob.glob(os.path.join(ROOT,"tools","*.py"))):
     except Exception as _e: _bad.append((os.path.basename(_p),str(_e)[:80]))
 STEPS=[
  ("py_compile（全部工具可编译）", "__COMPILE__"),
- ("check.py（R1-R17 硬规则）","tools/check.py"),
+ ("check.py（R1-R19 硬规则）","tools/check.py"),
  ("check_links.py（站内链接）","tools/check_links.py"),
  ("healthcheck_c10.py（九维体检）","tools/healthcheck_c10.py"),
  ("consistency_audit.py（内容自洽）","tools/consistency_audit.py"),

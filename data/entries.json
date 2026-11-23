@@ -34,7 +34,8 @@
       "when": "约公元前4万—前1万年",
       "overview": "常见于法国与西班牙洞穴，使用炭黑与赭石，动物形象生动，空间布局无统一透视。",
       "related": [
-        "prehistoric-art"
+        "prehistoric-art",
+        "yangshao-painted-pottery"
       ],
       "sources": [
         "enc-prehistoric-art",
@@ -117,7 +118,8 @@
       "overview": "以混凝土拱券与穹顶技术、写实肖像与历史叙事浮雕见长，万神殿为其建筑代表。",
       "related": [
         "greek-art",
-        "byzantine-art"
+        "byzantine-art",
+        "egyptian-art"
       ],
       "sources": [
         "enc-roman-art",
@@ -138,7 +140,8 @@
       "overview": "强调金色背景与平面化人物，圣像具有神学象征功能，圣索菲亚大教堂代表其建筑成就。",
       "related": [
         "early-christian-art",
-        "romanesque"
+        "romanesque",
+        "roman-art"
       ],
       "sources": [
         "enc-byzantine-art",
@@ -179,7 +182,8 @@
       "overview": "建筑特征为厚墙、小窗、半圆拱与十字拱，雕塑多用于教堂门楣与柱头，叙事性强。",
       "related": [
         "byzantine-art",
-        "gothic"
+        "gothic",
+        "romanesque-architecture"
       ],
       "sources": [
         "enc-romanesque",
@@ -200,7 +204,8 @@
       "overview": "尖拱与飞扶壁使墙体变薄、窗户扩大，彩色玻璃营造神秘光线；雕塑渐趋自然主义。",
       "related": [
         "romanesque",
-        "renaissance"
+        "renaissance",
+        "gothic-architecture"
       ],
       "sources": [
         "enc-gothic",
@@ -222,7 +227,10 @@
       "related": [
         "gothic",
         "early-renaissance",
-        "mannerism"
+        "mannerism",
+        "northern-renaissance",
+        "donatello",
+        "renaissance-crossmedia"
       ],
       "sources": [
         "enc-renaissance",
@@ -243,7 +251,10 @@
       "overview": "布鲁内莱斯基建立线性透视，马萨乔将其用于绘画；多纳泰罗复兴古典雕塑。",
       "related": [
         "renaissance",
-        "high-renaissance"
+        "high-renaissance",
+        "donatello",
+        "botticelli",
+        "birth-of-venus-work"
       ],
       "sources": [
         "enc-italian-renaissance-painting",
@@ -265,7 +276,12 @@
       "related": [
         "early-renaissance",
         "venetian-school",
-        "mannerism"
+        "mannerism",
+        "leonardo",
+        "michelangelo",
+        "raphael",
+        "mona-lisa",
+        "sistine-ceiling-work"
       ],
       "sources": [
         "enc-high-renaissance",
@@ -286,7 +302,8 @@
       "overview": "采用油彩与渐进色塑造氛围，题材包括宗教、神话与肖像，乔尔乔内、提香为代表。",
       "related": [
         "high-renaissance",
-        "mannerism"
+        "mannerism",
+        "botticelli"
       ],
       "sources": [
         "enc-venetian-school",
@@ -328,7 +345,11 @@
       "overview": "人物体态修长、姿态扭动，色彩与空间处理刻意反自然，被视为对古典均衡的有意偏离。",
       "related": [
         "high-renaissance",
-        "baroque"
+        "baroque",
+        "renaissance",
+        "venetian-school",
+        "northern-renaissance",
+        "michelangelo"
       ],
       "sources": [
         "enc-mannerism",
@@ -370,7 +391,8 @@
       "overview": "代表作《蒙娜丽莎》《最后的晚餐》，运用明暗法与空气透视，留下大量手稿。",
       "related": [
         "high-renaissance",
-        "mona-lisa"
+        "mona-lisa",
+        "raphael"
       ],
       "sources": [
         "enc-leonardo",
@@ -391,7 +413,8 @@
       "overview": "创作《大卫》雕像与西斯廷礼拜堂天顶画，建筑方面参与圣彼得大教堂设计。",
       "related": [
         "high-renaissance",
-        "mannerism"
+        "mannerism",
+        "sistine-ceiling-work"
       ],
       "sources": [
         "enc-michelangelo",
@@ -433,7 +456,8 @@
       "overview": "代表作《春》《维纳斯的诞生》，线条流畅、色彩明丽，体现新柏拉图主义趣味。",
       "related": [
         "early-renaissance",
-        "venetian-school"
+        "venetian-school",
+        "birth-of-venus-work"
       ],
       "sources": [
         "enc-botticelli",
@@ -475,7 +499,12 @@
       "overview": "运用明暗对照与对角线构图制造动势，绘画、雕塑与建筑结合，服务于反宗教改革与宫廷炫耀。",
       "related": [
         "mannerism",
-        "rococo"
+        "rococo",
+        "caravaggio",
+        "rembrandt",
+        "rubens",
+        "velazquez",
+        "baroque-crossmedia"
       ],
       "sources": [
         "enc-baroque",
@@ -496,7 +525,8 @@
       "overview": "常用C形与S形曲线、粉彩色调与贝壳花纹，题材多为贵族宴乐与田园爱情。",
       "related": [
         "baroque",
-        "neoclassicism"
+        "neoclassicism",
+        "rubens"
       ],
       "sources": [
         "enc-rococo",
@@ -538,7 +568,8 @@
       "overview": "代表作《夜巡》《自画像》，运用层层罩染与聚光式明暗刻画心理深度。",
       "related": [
         "baroque",
-        "vermeer"
+        "vermeer",
+        "caravaggio"
       ],
       "sources": [
         "enc-rembrandt",
@@ -622,7 +653,9 @@
       "overview": "以对称构图、清晰轮廓与古典题材为特征，与启蒙思想及考古发现相关，大卫为代表。",
       "related": [
         "rococo",
-        "romanticism-art"
+        "romanticism-art",
+        "delacroix",
+        "ingres"
       ],
       "sources": [
         "enc-neoclassicism",
@@ -645,7 +678,11 @@
         "neoclassicism",
         "realism-art",
         "turner",
-        "constable"
+        "constable",
+        "delacroix",
+        "symphonic-poem",
+        "romantic-crossmedia",
+        "courbet"
       ],
       "sources": [
         "enc-romanticism",
@@ -668,7 +705,10 @@
         "romanticism-art",
         "impressionism",
         "rodin",
-        "courbet"
+        "courbet",
+        "vermeer",
+        "rodin-age-of-bronze",
+        "manet"
       ],
       "sources": [
         "enc-realism-art",
@@ -689,7 +729,8 @@
       "overview": "代表作《自由引导人民》，色彩奔放、动势强烈，对印象派有启发。",
       "related": [
         "romanticism-art",
-        "neoclassicism"
+        "neoclassicism",
+        "ingres"
       ],
       "sources": [
         "enc-romanticism",
@@ -712,7 +753,11 @@
         "realism-art",
         "post-impressionism",
         "degas",
-        "manet"
+        "manet",
+        "velazquez",
+        "monet",
+        "impression-crossmedia",
+        "ukiyo-e"
       ],
       "sources": [
         "enc-impressionism",
@@ -733,7 +778,13 @@
       "overview": "塞尚追求结构、梵高追求情感表现、高更追求象征与平面色彩，共同背离纯客观再现。",
       "related": [
         "impressionism",
-        "fauvism"
+        "fauvism",
+        "monet",
+        "van-gogh",
+        "cezanne",
+        "gauguin",
+        "modern-art",
+        "starry-night"
       ],
       "sources": [
         "enc-post-impressionism",
@@ -776,7 +827,8 @@
       "overview": "代表作《星月夜》《向日葵》，用色与笔触传达主观情绪，对表现主义影响深远。",
       "related": [
         "post-impressionism",
-        "expressionism"
+        "expressionism",
+        "starry-night"
       ],
       "sources": [
         "enc-van-gogh",
@@ -797,7 +849,8 @@
       "overview": "代表作《圣维克多山》《静物》，以几何化结构色块重组对象，启发立体主义。",
       "related": [
         "post-impressionism",
-        "cubism"
+        "cubism",
+        "gauguin"
       ],
       "sources": [
         "enc-cezanne",
@@ -839,7 +892,8 @@
       "overview": "色彩脱离描述功能而独立表达情感，笔触自由，马蒂斯与德朗为代表。",
       "related": [
         "post-impressionism",
-        "expressionism"
+        "expressionism",
+        "matisse"
       ],
       "sources": [
         "enc-fauvism",
@@ -860,7 +914,9 @@
       "overview": "常以扭曲线条、强烈色彩表现焦虑与激情，桥社（Die Brücke）与青骑士社为重要团体。",
       "related": [
         "fauvism",
-        "abstract-expressionism"
+        "abstract-expressionism",
+        "van-gogh",
+        "kandinsky"
       ],
       "sources": [
         "enc-expressionism",
@@ -881,7 +937,9 @@
       "overview": "将对象分解为几何块面并重新组合，打破单一视点透视，催生综合材料与拼贴。",
       "related": [
         "cezanne",
-        "futurism"
+        "futurism",
+        "picasso",
+        "guernica-work"
       ],
       "sources": [
         "enc-cubism",
@@ -944,7 +1002,8 @@
       "overview": "以怪诞并置与精确写实描绘非理性场景，达利与马格利特为代表。",
       "related": [
         "dada",
-        "abstract-expressionism"
+        "abstract-expressionism",
+        "dali"
       ],
       "sources": [
         "enc-surrealism",
@@ -986,7 +1045,11 @@
       "overview": "强调自发行动与潜意识表达，波洛克以滴画法、罗斯科以色彩场为代表。",
       "related": [
         "surrealism",
-        "minimalism"
+        "minimalism",
+        "expressionism",
+        "kandinsky",
+        "modern-art",
+        "pop-art"
       ],
       "sources": [
         "enc-abstract-expressionism",
@@ -1007,7 +1070,8 @@
       "overview": "代表作《亚维农少女》《格尔尼卡》，风格多变，深刻重塑20世纪艺术语言。",
       "related": [
         "cubism",
-        "modern-art"
+        "modern-art",
+        "guernica-work"
       ],
       "sources": [
         "enc-picasso",
@@ -1091,7 +1155,12 @@
       "overview": "以不断突破传统为特征，从后印象派到抽象表现主义，艺术语言持续激进革新。",
       "related": [
         "post-impressionism",
-        "abstract-expressionism"
+        "abstract-expressionism",
+        "bauhaus",
+        "picasso",
+        "matisse",
+        "dali",
+        "modern-to-contemporary"
       ],
       "sources": [
         "web-artstory-movements",
@@ -1112,7 +1181,9 @@
       "overview": "跨越绘画、装置、行为与数字媒介，强调观念、语境与跨学科，全球化特征显著。",
       "related": [
         "pop-art",
-        "conceptual-art"
+        "conceptual-art",
+        "warhol",
+        "modern-to-contemporary"
       ],
       "sources": [
         "enc-contemporary-art",
@@ -1133,7 +1204,8 @@
       "overview": "使用丝网印刷、重复图像与鲜艳色彩，模糊高雅与通俗艺术边界，沃霍尔为代表。",
       "related": [
         "abstract-expressionism",
-        "contemporary-art"
+        "contemporary-art",
+        "warhol"
       ],
       "sources": [
         "enc-pop-art",
@@ -1154,7 +1226,8 @@
       "overview": "常用几何基本形体与工业材料，强调作品与空间的物理关系，减少主观痕迹。",
       "related": [
         "abstract-expressionism",
-        "conceptual-art"
+        "conceptual-art",
+        "bauhaus"
       ],
       "sources": [
         "enc-minimalism",
@@ -1218,7 +1291,14 @@
       "related": [
         "tang-painting",
         "song-painting",
-        "mi-youren-cloudy-mountains"
+        "mi-youren-cloudy-mountains",
+        "qing-painting",
+        "xieyi",
+        "gongbi",
+        "yangshao-painted-pottery",
+        "chinese-jade-art",
+        "chen-hongshou-album",
+        "zhao-mengfu-river-village"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -1239,7 +1319,9 @@
       "overview": "吴道子以线描著称，阎立本擅人物，青绿山水与水墨山水并行发展。",
       "related": [
         "china-painting-history",
-        "song-painting"
+        "song-painting",
+        "dunhuang-art",
+        "six-dynasties-art"
       ],
       "sources": [
         "enc-tang-dynasty-art",
@@ -1261,7 +1343,8 @@
       "related": [
         "tang-painting",
         "yuan-painting",
-        "mi-youren-cloudy-mountains"
+        "mi-youren-cloudy-mountains",
+        "china-painting-history"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -1282,7 +1365,8 @@
       "overview": "赵孟頫提倡复古与书画同源，元四家以水墨山水与题跋拓展文人画表现。",
       "related": [
         "song-painting",
-        "ming-painting"
+        "ming-painting",
+        "zhao-mengfu-river-village"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -1303,7 +1387,8 @@
       "overview": "吴门画派、浙派与董其昌的南北宗论影响深远，花鸟画与册页流行。",
       "related": [
         "yuan-painting",
-        "qing-painting"
+        "qing-painting",
+        "chen-hongshou-album"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -1471,7 +1556,8 @@
       "overview": "此期石窟开凿与佛教造像兴盛，顾恺之等画家与画论著作出现，为隋唐艺术的繁荣奠定基础。",
       "related": [
         "dunhuang-art",
-        "tang-painting"
+        "tang-painting",
+        "shang-zhou-bronzes"
       ],
       "sources": [
         "enc-six-dynasties",
@@ -1492,7 +1578,9 @@
       "overview": "书法与文字演变、文人传统密切相关，讲究笔法、结构与章法，兼具实用与审美。",
       "related": [
         "seal-script",
-        "clerical-script"
+        "clerical-script",
+        "cursive-script",
+        "zen-painting"
       ],
       "sources": [
         "enc-chinese-calligraphy",
@@ -1534,7 +1622,8 @@
       "overview": "由篆书简化而来，笔画出现蚕头燕尾，是汉字由古文字向今文字转变的关键。",
       "related": [
         "seal-script",
-        "regular-script"
+        "regular-script",
+        "china-calligraphy-history"
       ],
       "sources": [
         "enc-chinese-calligraphy",
@@ -1618,7 +1707,8 @@
       "overview": "格里高利圣咏为代表性单声部传统，晚期出现奥尔加农与经文歌等复调形式。",
       "related": [
         "gregorian-chant",
-        "polyphony"
+        "polyphony",
+        "renaissance-music"
       ],
       "sources": [
         "enc-medieval-music",
@@ -1639,7 +1729,10 @@
       "overview": "采用自由节奏与教会调式，旋律随歌词韵律展开，是西方记谱与复调的基础。",
       "related": [
         "medieval-music",
-        "polyphony"
+        "polyphony",
+        "organum",
+        "music-notation",
+        "musical-mode"
       ],
       "sources": [
         "enc-gregorian-chant",
@@ -1681,7 +1774,10 @@
       "overview": "与单声部相对，中世纪后期在教堂与宫廷发展成熟，成为西方音乐的核心技术。",
       "related": [
         "organum",
-        "renaissance-music"
+        "renaissance-music",
+        "medieval-music",
+        "gregorian-chant",
+        "music-notation"
       ],
       "sources": [
         "enc-polyphony",
@@ -1702,7 +1798,11 @@
       "overview": "若斯坎、帕莱斯特里纳完善无伴奏合唱复调，牧歌等世俗体裁繁荣，印刷术推动传播。",
       "related": [
         "medieval-music",
-        "baroque-music"
+        "baroque-music",
+        "polyphony",
+        "madrigal",
+        "palestrina",
+        "renaissance-crossmedia"
       ],
       "sources": [
         "enc-renaissance-music",
@@ -1765,7 +1865,17 @@
       "overview": "歌剧、清唱剧、协奏曲与组曲兴起，大小调体系确立，巴赫与亨德尔为代表。",
       "related": [
         "renaissance-music",
-        "classical-period-music"
+        "classical-period-music",
+        "madrigal",
+        "palestrina",
+        "opera",
+        "tonality",
+        "fugue",
+        "sonata",
+        "bach",
+        "monteverdi",
+        "baroque-crossmedia",
+        "violin"
       ],
       "sources": [
         "enc-baroque-music",
@@ -1786,7 +1896,9 @@
       "overview": "融合宣叙调、咏叹调、重唱与管弦乐，蒙特威尔第《奥菲欧》为早期杰作。",
       "related": [
         "baroque-music",
-        "monteverdi"
+        "monteverdi",
+        "mozart",
+        "wagner"
       ],
       "sources": [
         "enc-opera",
@@ -1807,7 +1919,8 @@
       "overview": "取代中世纪教会调式，确立主—属—下属的功能关系，是巴洛克至浪漫主义音乐的结构基础。",
       "related": [
         "baroque-music",
-        "classical-period-music"
+        "classical-period-music",
+        "musical-mode"
       ],
       "sources": [
         "enc-tonality",
@@ -1849,7 +1962,9 @@
       "overview": "从教堂奏鸣曲与室内奏鸣曲发展而来，古典时期确立奏鸣曲式与多乐章布局。",
       "related": [
         "baroque-music",
-        "classical-period-music"
+        "classical-period-music",
+        "sonata-form",
+        "piano"
       ],
       "sources": [
         "enc-sonata",
@@ -1912,7 +2027,14 @@
       "overview": "海顿、莫扎特与贝多芬确立交响曲、协奏曲与弦乐四重奏的古典范式，主调音乐占主导。",
       "related": [
         "baroque-music",
-        "romantic-music"
+        "romantic-music",
+        "tonality",
+        "sonata",
+        "symphony",
+        "sonata-form",
+        "haydn",
+        "mozart",
+        "beethoven"
       ],
       "sources": [
         "enc-classical-period-music",
@@ -1933,7 +2055,9 @@
       "overview": "古典时期通常含四个乐章，第一乐章多用奏鸣曲式，海顿与莫扎特奠定其规范。",
       "related": [
         "classical-period-music",
-        "beethoven"
+        "beethoven",
+        "haydn",
+        "violin"
       ],
       "sources": [
         "enc-symphony",
@@ -2017,7 +2141,8 @@
       "overview": "九部交响曲与《月光》《热情》等奏鸣曲拓展了结构规模与情感张力，晚期转向浪漫语汇。",
       "related": [
         "classical-period-music",
-        "romantic-music"
+        "romantic-music",
+        "symphony"
       ],
       "sources": [
         "enc-beethoven",
@@ -2038,7 +2163,15 @@
       "overview": "艺术歌曲、标题交响诗与大型歌剧兴盛，和声语言复杂化，古典时期的均衡形式被突破。",
       "related": [
         "classical-period-music",
-        "20th-century-classical"
+        "20th-century-classical",
+        "beethoven",
+        "lied",
+        "symphonic-poem",
+        "chopin",
+        "wagner",
+        "schubert",
+        "impressionism-music",
+        "romantic-crossmedia"
       ],
       "sources": [
         "enc-romantic-music",
@@ -2059,7 +2192,8 @@
       "overview": "舒伯特、舒曼将其发展至高峰，诗歌与音乐紧密结合，钢琴承担重要的情境塑造。",
       "related": [
         "romantic-music",
-        "schubert"
+        "schubert",
+        "chopin"
       ],
       "sources": [
         "enc-romantic-music",
@@ -2101,7 +2235,8 @@
       "overview": "代表作《夜曲》《练习曲》《玛祖卡》，将钢琴的表现力与波兰民间节奏结合。",
       "related": [
         "romantic-music",
-        "lied"
+        "lied",
+        "piano"
       ],
       "sources": [
         "enc-chopin",
@@ -2164,7 +2299,13 @@
       "overview": "印象主义、表现主义、序列主义、新古典主义与电子音乐并存，德彪西、勋伯格、斯特拉文斯基为代表。",
       "related": [
         "romantic-music",
-        "serialism"
+        "serialism",
+        "impressionism-music",
+        "minimalism-music",
+        "stravinsky",
+        "schoenberg",
+        "debussy",
+        "rite-of-spring-work"
       ],
       "sources": [
         "enc-20th-century-classical",
@@ -2185,7 +2326,9 @@
       "overview": "德彪西与拉威尔以全音阶、平行和弦与精致配器营造光影氛围，弱化和声功能。",
       "related": [
         "20th-century-classical",
-        "romantic-music"
+        "romantic-music",
+        "debussy",
+        "impression-crossmedia"
       ],
       "sources": [
         "enc-20th-century-classical",
@@ -2206,7 +2349,9 @@
       "overview": "勋伯格创立十二音技法，后扩展为整体序列主义，彻底突破传统调性中心。",
       "related": [
         "20th-century-classical",
-        "schoenberg"
+        "schoenberg",
+        "minimalism-music",
+        "stravinsky"
       ],
       "sources": [
         "enc-serialism",
@@ -2248,7 +2393,8 @@
       "overview": "代表作《春之祭》《彼得鲁什卡》，以强烈节奏与不协和音响引发轰动，后期转向新古典主义。",
       "related": [
         "20th-century-classical",
-        "serialism"
+        "serialism",
+        "rite-of-spring-work"
       ],
       "sources": [
         "enc-stravinsky",
@@ -2311,7 +2457,10 @@
       "overview": "经历远古乐舞、周代礼乐、汉唐燕乐、宋元词曲与明清戏曲的发展，形成独特体系。",
       "related": [
         "guzheng",
-        "jingju"
+        "jingju",
+        "yayue",
+        "pipa",
+        "wuwangdu-chu-music-archaeology"
       ],
       "sources": [
         "enc-chinese-music",
@@ -2332,7 +2481,7 @@
       "overview": "与周代礼制结合，强调等级秩序与中和之美，历代宫廷均有沿革。",
       "related": [
         "china-music-history",
-        "china-music-history"
+        "wuwangdu-chu-music-archaeology"
       ],
       "sources": [
         "enc-chinese-music",
@@ -2353,7 +2502,8 @@
       "overview": "现代常见为21弦，演奏以右手弹拨、左手按滑为特征，代表作《渔舟唱晚》。",
       "related": [
         "china-music-history",
-        "jingju"
+        "jingju",
+        "pipa"
       ],
       "sources": [
         "enc-guzheng",
@@ -2729,7 +2879,9 @@
       "overview": "印度艺术以雕塑与壁画见长，佛教艺术随丝路传播影响中亚与东亚，宗教图像具有象征与叙事功能。",
       "related": [
         "buddhist-art-india",
-        "ajanta-caves"
+        "ajanta-caves",
+        "indian-standing-buddha-kashmir",
+        "mathura-railing-pillar"
       ],
       "sources": [
         "enc-indian-art",
@@ -2750,7 +2902,10 @@
       "overview": "佛像雕刻在犍陀罗与马图拉等地发展，阿旃陀石窟壁画保存了杰出的佛教绘画遗存，并随佛教传播影响亚洲各地。",
       "related": [
         "indian-art",
-        "ajanta-caves"
+        "ajanta-caves",
+        "khmer-art",
+        "indian-standing-buddha-kashmir",
+        "mathura-railing-pillar"
       ],
       "sources": [
         "enc-buddhist-art-india",
@@ -2792,7 +2947,8 @@
       "overview": "高棉艺术以大规模寺庙建筑与浮雕叙事见长，吴哥建筑群体现印度教宇宙观与王权象征，是高棉文化的巅峰。",
       "related": [
         "angkor",
-        "buddhist-art-india"
+        "buddhist-art-india",
+        "khmer-architecture"
       ],
       "sources": [
         "enc-khmer-art",
@@ -2812,7 +2968,8 @@
       "when": "约公元9—15世纪",
       "overview": "吴哥建筑以层叠的塔庙与环绕的护城河象征印度教宇宙观，浮雕描绘史诗与王室场景，是世界最大的宗教建筑群之一。",
       "related": [
-        "khmer-art"
+        "khmer-art",
+        "khmer-architecture"
       ],
       "sources": [
         "enc-angkor",
@@ -2833,7 +2990,15 @@
       "overview": "日本艺术在吸收中国与韩国影响后形成独特风格，佛教造像、水墨画与浮世绘等门类成就突出，对近代西方艺术亦有影响。",
       "related": [
         "ukiyo-e",
-        "zen-painting"
+        "zen-painting",
+        "hokusai-red-fuji",
+        "hiroshige-shono",
+        "hiroshige-ohashi-atake",
+        "hiroshige-ryogoku-fireworks",
+        "hiroshige-karasaki-night-rain",
+        "hokusai-muneyuki-poem",
+        "hokusai-hitomaro-poem",
+        "hokusai-nakahara-sagami"
       ],
       "sources": [
         "enc-japanese-art",
@@ -2854,7 +3019,15 @@
       "overview": "浮世绘以套色木版印刷与平面化构图见长，葛饰北斋与歌川广重等画家提升其艺术地位，19世纪传入欧洲后影响印象派与后印象派。",
       "related": [
         "japanese-art",
-        "impressionism"
+        "impressionism",
+        "hokusai-red-fuji",
+        "hiroshige-shono",
+        "hiroshige-ohashi-atake",
+        "hiroshige-ryogoku-fireworks",
+        "hiroshige-karasaki-night-rain",
+        "hokusai-muneyuki-poem",
+        "hokusai-hitomaro-poem",
+        "hokusai-nakahara-sagami"
       ],
       "sources": [
         "enc-ukiyo-e",
@@ -3251,7 +3424,10 @@
       "overview": "以夏末秋初山体转红的时刻描绘富士山，是浮世绘风景版画中最广为人知的图像之一。",
       "related": [
         "ukiyo-e",
-        "japanese-art"
+        "japanese-art",
+        "hokusai-muneyuki-poem",
+        "hokusai-hitomaro-poem",
+        "hokusai-nakahara-sagami"
       ],
       "sources": [
         "cma-1930-189",
@@ -3607,7 +3783,7 @@
       "overview": "构图以等级安排大小：王者居中且形体更大；两名侍从自两侧扶持被重礼服饰压住的王。",
       "related": [
         "benin-ancestral-head",
-        "islamic-art"
+        "african-art"
       ],
       "sources": [
         "cma-1999-1"
@@ -3627,7 +3803,7 @@
       "overview": "新王为先王设祭坛时所铸；珊瑚珠层叠于颈，面部理想化，厚铸的头部原承象牙。",
       "related": [
         "benin-plaque",
-        "islamic-art"
+        "african-art"
       ],
       "sources": [
         "cma-1938-6"
@@ -3646,7 +3822,8 @@
       "when": "692年",
       "overview": "刻一位女性统治者，纪念二十年周期 k’atun 的通过；头饰用绿咬鹃羽毛、佩饰可能为玉，或曾掌军政。",
       "related": [
-        "aztec-feathered-serpent"
+        "aztec-feathered-serpent",
+        "americas-art"
       ],
       "sources": [
         "cma-1967-29"
@@ -3665,7 +3842,8 @@
       "when": "1325—1521年（或为近代）",
       "overview": "盘绕躯体呈胸肌、膝与臀的隆起，状若人披蛇装；面具与真实阿兹特克蛇像惯例不合。",
       "related": [
-        "maya-el-peru-stela"
+        "maya-el-peru-stela",
+        "americas-art"
       ],
       "sources": [
         "cma-1941-46"
@@ -3684,7 +3862,8 @@
       "when": "1800年代",
       "overview": "为承载 mana（威望与灵力）的祖传之物，连接生者与前欧洲时代的祖先；或指传说女性始祖 Hine-te-Iwaiwa。",
       "related": [
-        "asmat-war-shield"
+        "asmat-war-shield",
+        "oceania-art"
       ],
       "sources": [
         "cma-1954-147"
@@ -3703,7 +3882,8 @@
       "when": "约1940年",
       "overview": "以红树板根雕成，白（石灰）、红（赭石）、黑（炭）三色；蹲踞祖先与食果动物纹样，以果喻人头。",
       "related": [
-        "maori-hei-tiki"
+        "maori-hei-tiki",
+        "oceania-art"
       ],
       "sources": [
         "cma-1963-554"

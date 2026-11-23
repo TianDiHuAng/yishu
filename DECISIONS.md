@@ -447,3 +447,15 @@
 - **教训**：`catalog.py` 是**带注释的多行元组列表**，用正则按行改字段风险极高。正确做法是**改数据模型**（例如给 `entries()` 加一步对称化处理），而不是手改文本。已把「反向关联补全」记入 BACKLOG，留待用安全机制完成。
 - **代价**：三个新单元的导览条目目前**只有单向关联**（导览→器物），器物页不指引导览；`oneway_audit` 仅作提示、不影响体检通过。
 - **可逆方式**：删 3 条导览 overlay 与 catalog 元组，重跑 `build_scope.py`。
+
+## D052 — Cycle49 找到「单向关联」的真凶：merge_l2 用 update() 覆盖 related（与 D021 的 sources 同型）
+- **事实**：上轮我在 `build_scope.py` 里加了 related 对称化，`data/entries.json` **确实对称**；但 `oneway_audit` 仍报 **16 条**单向。逐条比对发现：`data/site_entries.json` 里 `impressionism` **没有** `degas`，而 `entries.json` 里有。
+- **根因**：`merge_l2.py` 对每个条目执行 `merged[eid].update(ov)`，而 **63 个覆盖层都带 `related` 字段**——整段覆盖了底层的 related，把对称化结果与基础关联一并抹掉。**这正是 D021 修过的 sources 覆盖 bug 的同型复发**，只是换了个字段。
+- **修复（三处）**：
+  1. `merge_l2.py`：合并前记 `base_rel`，合并后 **related 取并集**（与 sources 并集同构）；
+  2. `merge_l2.py`：合并完成、写出 `site_entries.json` 之前，**再跑一次 `_symmetrize`**，保证输出文件本身对称；
+  3. `check.py` **新增 R19**：related 不得悬空、且必须双向 —— 任何一次漏补反向，构建直接失败。
+- **验证**：`oneway_audit` 由 **16 → 0**（历史：Cycle12 曾 47 → 0，后因字段覆盖复发到 16）；R19 做**注入测试**：手动删掉 `impressionism → degas` 一条反向，check 立即报 `[R19] degas: 单向关联`，还原后恢复 0 错误。
+- **附带修正**：上轮我把贝宁两件器物错连到 `islamic-art`（内容错误），已改为只连 `african-art` 与彼此。
+- **可逆方式**：还原 merge_l2 合并逻辑并移除 R19。
+- **代价**：R19 使"单向关联"从提示变为硬约束；今后新增关联必须在 catalog 中只写一侧，另一侧由构建自动补。

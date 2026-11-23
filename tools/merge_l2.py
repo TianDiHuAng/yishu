@@ -23,15 +23,32 @@ for p in sorted(glob.glob(os.path.join(l2dir,"*.json"))):
     eid=ov["id"]
     if eid not in merged: continue
     base=list(merged[eid].get("sources",[]))
+    base_rel=list(merged[eid].get("related",[]))
     merged[eid].update(ov)
     # 来源并集：覆盖层只增不删
     merged[eid]["sources"]=list(dict.fromkeys(base+list(ov.get("sources",[]))))
+    merged[eid]["related"]=list(dict.fromkeys(base_rel+list(ov.get("related",[]))))
 
 entries=list(merged.values())
 # 全局去重：来源id不得重复（保持顺序）
 for e in entries:
     if "sources" in e:
         e["sources"]=list(dict.fromkeys(e["sources"]))
+def _symmetrize(es_list):
+    """related 双向补全（在内存中），返回新增条数。"""
+    by={e["id"]:e for e in es_list}
+    added=0
+    for e in es_list:
+        e["related"]=[r for r in dict.fromkeys(e.get("related",[])) if r!=e["id"] and r in by]
+    for e in es_list:
+        for r in list(e["related"]):
+            t=by[r]
+            if e["id"] not in t["related"]:
+                t["related"].append(e["id"]); added+=1
+    return added
+
+_sym_add=_symmetrize(entries)
+print("merge: related 对称化新增 %d 条"%_sym_add)
 json.dump({"entries":entries},open(os.path.join(D,"site_entries.json"),"w",encoding="utf-8"),
           ensure_ascii=False,indent=2)
 

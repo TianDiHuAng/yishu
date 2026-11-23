@@ -154,6 +154,16 @@ def main():
                     if b in blob:
                         err("R17",e["id"],"争议含编辑待办措辞[%s]，非真实学界分歧"%b); break
 
+    # R19 关联对称性：related 不得悬空，且必须双向
+    byid={x["id"]:x for x in ENTRIES}
+    for e in ENTRIES:
+        for r in e.get("related",[]):
+            t=byid.get(r)
+            if t is None:
+                err("R19",e["id"],"related 指向不存在的条目:%s"%r); continue
+            if e["id"] not in t.get("related",[]):
+                err("R19",e["id"],"单向关联（%s 未指回）"%r)
+
     # R18 来源库不变式：库内全部 verified；被引用者必须在库内
     for x in S:
         if not x.get("verified"): err("R18",x.get("id","?"),"来源库含未核验来源（应移入 quarantine）")

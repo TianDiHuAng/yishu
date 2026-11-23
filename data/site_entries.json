@@ -556,11 +556,11 @@
         "early-renaissance",
         "venetian-school",
         "mannerism",
+        "leonardo",
         "michelangelo",
         "raphael",
-        "sistine-ceiling-work",
-        "leonardo",
-        "mona-lisa"
+        "mona-lisa",
+        "sistine-ceiling-work"
       ],
       "sources": [
         "enc-high-renaissance",
@@ -661,10 +661,10 @@
       "related": [
         "high-renaissance",
         "baroque",
-        "northern-renaissance",
-        "michelangelo",
         "renaissance",
-        "venetian-school"
+        "venetian-school",
+        "northern-renaissance",
+        "michelangelo"
       ],
       "sources": [
         "enc-mannerism",
@@ -902,10 +902,10 @@
         "mannerism",
         "rococo",
         "caravaggio",
+        "rembrandt",
         "rubens",
         "velazquez",
-        "baroque-crossmedia",
-        "rembrandt"
+        "baroque-crossmedia"
       ],
       "sources": [
         "enc-baroque",
@@ -1188,7 +1188,8 @@
       "related": [
         "rococo",
         "romanticism-art",
-        "delacroix"
+        "delacroix",
+        "ingres"
       ],
       "sources": [
         "enc-neoclassicism",
@@ -1222,9 +1223,12 @@
       "related": [
         "neoclassicism",
         "realism-art",
+        "turner",
+        "constable",
         "delacroix",
         "symphonic-poem",
-        "romantic-crossmedia"
+        "romantic-crossmedia",
+        "courbet"
       ],
       "sources": [
         "enc-romanticism",
@@ -1258,7 +1262,11 @@
       "related": [
         "romanticism-art",
         "impressionism",
-        "vermeer"
+        "rodin",
+        "courbet",
+        "vermeer",
+        "rodin-age-of-bronze",
+        "manet"
       ],
       "sources": [
         "enc-realism-art",
@@ -1291,7 +1299,8 @@
       "overview": "代表作《自由引导人民》，色彩奔放、动势强烈，对印象派有启发。",
       "related": [
         "romanticism-art",
-        "neoclassicism"
+        "neoclassicism",
+        "ingres"
       ],
       "sources": [
         "enc-romanticism",
@@ -1325,6 +1334,8 @@
       "related": [
         "realism-art",
         "post-impressionism",
+        "degas",
+        "manet",
         "velazquez",
         "monet",
         "impression-crossmedia",
@@ -1423,10 +1434,10 @@
         "fauvism",
         "monet",
         "van-gogh",
-        "gauguin",
-        "starry-night",
         "cezanne",
-        "modern-art"
+        "gauguin",
+        "modern-art",
+        "starry-night"
       ],
       "sources": [
         "enc-post-impressionism",
@@ -1881,8 +1892,8 @@
       "related": [
         "surrealism",
         "minimalism",
-        "kandinsky",
         "expressionism",
+        "kandinsky",
         "modern-art",
         "pop-art"
       ],
@@ -2258,11 +2269,14 @@
       "related": [
         "tang-painting",
         "song-painting",
-        "yangshao-painted-pottery",
+        "mi-youren-cloudy-mountains",
         "qing-painting",
         "xieyi",
         "gongbi",
-        "chinese-jade-art"
+        "yangshao-painted-pottery",
+        "chinese-jade-art",
+        "chen-hongshou-album",
+        "zhao-mengfu-river-village"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -2329,6 +2343,7 @@
       "related": [
         "tang-painting",
         "yuan-painting",
+        "mi-youren-cloudy-mountains",
         "china-painting-history"
       ],
       "sources": [
@@ -2361,7 +2376,8 @@
       "overview": "赵孟頫提倡复古与书画同源，元四家以水墨山水与题跋拓展文人画表现。",
       "related": [
         "song-painting",
-        "ming-painting"
+        "ming-painting",
+        "zhao-mengfu-river-village"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -2393,7 +2409,8 @@
       "overview": "吴门画派、浙派与董其昌的南北宗论影响深远，花鸟画与册页流行。",
       "related": [
         "yuan-painting",
-        "qing-painting"
+        "qing-painting",
+        "chen-hongshou-album"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -2927,9 +2944,9 @@
       "related": [
         "medieval-music",
         "polyphony",
+        "organum",
         "music-notation",
-        "musical-mode",
-        "organum"
+        "musical-mode"
       ],
       "sources": [
         "enc-gregorian-chant",
@@ -2998,9 +3015,9 @@
       "related": [
         "organum",
         "renaissance-music",
-        "music-notation",
         "medieval-music",
-        "gregorian-chant"
+        "gregorian-chant",
+        "music-notation"
       ],
       "sources": [
         "enc-polyphony",
@@ -3035,10 +3052,10 @@
       "related": [
         "medieval-music",
         "baroque-music",
+        "polyphony",
         "madrigal",
         "palestrina",
-        "renaissance-crossmedia",
-        "polyphony"
+        "renaissance-crossmedia"
       ],
       "sources": [
         "enc-renaissance-music",
@@ -3140,14 +3157,14 @@
         "classical-period-music",
         "madrigal",
         "palestrina",
-        "tonality",
-        "baroque-crossmedia",
-        "violin",
         "opera",
+        "tonality",
         "fugue",
         "sonata",
         "bach",
-        "monteverdi"
+        "monteverdi",
+        "baroque-crossmedia",
+        "violin"
       ],
       "sources": [
         "enc-baroque-music",
@@ -3448,11 +3465,11 @@
         "baroque-music",
         "romantic-music",
         "tonality",
+        "sonata",
+        "symphony",
         "sonata-form",
         "haydn",
         "mozart",
-        "sonata",
-        "symphony",
         "beethoven"
       ],
       "sources": [
@@ -3654,14 +3671,14 @@
       "related": [
         "classical-period-music",
         "20th-century-classical",
+        "beethoven",
+        "lied",
         "symphonic-poem",
         "chopin",
         "wagner",
-        "romantic-crossmedia",
-        "beethoven",
-        "lied",
         "schubert",
-        "impressionism-music"
+        "impressionism-music",
+        "romantic-crossmedia"
       ],
       "sources": [
         "enc-romantic-music",
@@ -3862,12 +3879,12 @@
       "related": [
         "romantic-music",
         "serialism",
+        "impressionism-music",
         "minimalism-music",
         "stravinsky",
+        "schoenberg",
         "debussy",
-        "rite-of-spring-work",
-        "impressionism-music",
-        "schoenberg"
+        "rite-of-spring-work"
       ],
       "sources": [
         "enc-20th-century-classical",
@@ -4104,9 +4121,9 @@
       "related": [
         "guzheng",
         "jingju",
+        "yayue",
         "pipa",
-        "wuwangdu-chu-music-archaeology",
-        "yayue"
+        "wuwangdu-chu-music-archaeology"
       ],
       "sources": [
         "enc-chinese-music",
@@ -4753,7 +4770,9 @@
       "overview": "印度艺术以雕塑与壁画见长，佛教艺术随丝路传播影响中亚与东亚，宗教图像具有象征与叙事功能。",
       "related": [
         "buddhist-art-india",
-        "ajanta-caves"
+        "ajanta-caves",
+        "indian-standing-buddha-kashmir",
+        "mathura-railing-pillar"
       ],
       "sources": [
         "enc-indian-art",
@@ -4787,7 +4806,9 @@
       "related": [
         "indian-art",
         "ajanta-caves",
-        "khmer-art"
+        "khmer-art",
+        "indian-standing-buddha-kashmir",
+        "mathura-railing-pillar"
       ],
       "sources": [
         "enc-buddhist-art-india",
@@ -4918,7 +4939,15 @@
       "overview": "日本艺术在吸收中国与韩国影响后形成独特风格，佛教造像、水墨画与浮世绘等门类成就突出，对近代西方艺术亦有影响。",
       "related": [
         "ukiyo-e",
-        "zen-painting"
+        "zen-painting",
+        "hokusai-red-fuji",
+        "hiroshige-shono",
+        "hiroshige-ohashi-atake",
+        "hiroshige-ryogoku-fireworks",
+        "hiroshige-karasaki-night-rain",
+        "hokusai-muneyuki-poem",
+        "hokusai-hitomaro-poem",
+        "hokusai-nakahara-sagami"
       ],
       "sources": [
         "enc-japanese-art",
@@ -4951,7 +4980,15 @@
       "overview": "浮世绘以套色木版印刷与平面化构图见长，葛饰北斋与歌川广重等画家提升其艺术地位，19世纪传入欧洲后影响印象派与后印象派。",
       "related": [
         "japanese-art",
-        "impressionism"
+        "impressionism",
+        "hokusai-red-fuji",
+        "hiroshige-shono",
+        "hiroshige-ohashi-atake",
+        "hiroshige-ryogoku-fireworks",
+        "hiroshige-karasaki-night-rain",
+        "hokusai-muneyuki-poem",
+        "hokusai-hitomaro-poem",
+        "hokusai-nakahara-sagami"
       ],
       "sources": [
         "enc-ukiyo-e",
@@ -5574,7 +5611,10 @@
       "overview": "以夏末秋初山体转红的时刻描绘富士山，是浮世绘风景版画中最广为人知的图像之一。",
       "related": [
         "ukiyo-e",
-        "japanese-art"
+        "japanese-art",
+        "hokusai-muneyuki-poem",
+        "hokusai-hitomaro-poem",
+        "hokusai-nakahara-sagami"
       ],
       "sources": [
         "cma-1930-189",
@@ -6136,7 +6176,7 @@
       "overview": "构图以等级安排大小：王者居中且形体更大；两名侍从自两侧扶持被重礼服饰压住的王。",
       "related": [
         "benin-ancestral-head",
-        "islamic-art"
+        "african-art"
       ],
       "sources": [
         "cma-1999-1"
@@ -6169,7 +6209,7 @@
       "overview": "新王为先王设祭坛时所铸；珊瑚珠层叠于颈，面部理想化，厚铸的头部原承象牙。",
       "related": [
         "benin-plaque",
-        "islamic-art"
+        "african-art"
       ],
       "sources": [
         "cma-1938-6"
@@ -6201,7 +6241,8 @@
       "when": "692年",
       "overview": "刻一位女性统治者，纪念二十年周期 k’atun 的通过；头饰用绿咬鹃羽毛、佩饰可能为玉，或曾掌军政。",
       "related": [
-        "aztec-feathered-serpent"
+        "aztec-feathered-serpent",
+        "americas-art"
       ],
       "sources": [
         "cma-1967-29"
@@ -6233,7 +6274,8 @@
       "when": "1325—1521年（或为近代）",
       "overview": "盘绕躯体呈胸肌、膝与臀的隆起，状若人披蛇装；面具与真实阿兹特克蛇像惯例不合。",
       "related": [
-        "maya-el-peru-stela"
+        "maya-el-peru-stela",
+        "americas-art"
       ],
       "sources": [
         "cma-1941-46"
@@ -6265,7 +6307,8 @@
       "when": "1800年代",
       "overview": "为承载 mana（威望与灵力）的祖传之物，连接生者与前欧洲时代的祖先；或指传说女性始祖 Hine-te-Iwaiwa。",
       "related": [
-        "asmat-war-shield"
+        "asmat-war-shield",
+        "oceania-art"
       ],
       "sources": [
         "cma-1954-147"
@@ -6297,7 +6340,8 @@
       "when": "约1940年",
       "overview": "以红树板根雕成，白（石灰）、红（赭石）、黑（炭）三色；蹲踞祖先与食果动物纹样，以果喻人头。",
       "related": [
-        "maori-hei-tiki"
+        "maori-hei-tiki",
+        "oceania-art"
       ],
       "sources": [
         "cma-1963-554"

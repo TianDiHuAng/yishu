@@ -13,49 +13,8 @@
    "to_dom": "art"
   }
  ],
- "oneway_count": 48,
- "oneway_sample": [
-  [
-   "degas",
-   "impressionism"
-  ],
-  [
-   "rodin",
-   "realism-art"
-  ],
-  [
-   "rodin-age-of-bronze",
-   "realism-art"
-  ],
-  [
-   "mi-youren-cloudy-mountains",
-   "song-painting"
-  ],
-  [
-   "mi-youren-cloudy-mountains",
-   "china-painting-history"
-  ],
-  [
-   "manet",
-   "impressionism"
-  ],
-  [
-   "manet",
-   "realism-art"
-  ],
-  [
-   "turner",
-   "romanticism-art"
-  ],
-  [
-   "constable",
-   "romanticism-art"
-  ],
-  [
-   "courbet",
-   "realism-art"
-  ]
- ],
+ "oneway_count": 0,
+ "oneway_sample": [],
  "top_inbound": [
   [
    "baroque-music",
@@ -98,5 +57,5 @@
    8
   ]
  ],
- "total_links": 502
+ "total_links": 546
 }

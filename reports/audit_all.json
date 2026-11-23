@@ -3,10 +3,10 @@
   {
    "step": "py_compile（全部工具可编译）",
    "status": "ok",
-   "tail": "203 个 .py 全部通过"
+   "tail": "207 个 .py 全部通过"
   },
   {
-   "step": "check.py（R1-R17 硬规则）",
+   "step": "check.py（R1-R19 硬规则）",
    "returncode": 0,
    "status": "ok",
    "tail": "check.py: entries=180 svg=180 errors=0"
@@ -39,7 +39,7 @@
    "step": "oneway_audit.py（单向关联）",
    "returncode": 0,
    "status": "ok",
-   "tail": "same_domain 示例: [('rodin', 'realism-art'), ('rodin-age-of-bronze', 'realism-art'), ('mi-youren-cloudy-mountain"
+   "tail": "same_domain 示例: []"
   },
   {
    "step": "pending_render_audit_c30.py（渲染一致性+HTML结构）",

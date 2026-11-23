@@ -18,6 +18,28 @@ OUTLINES=[
  ("O6","Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目","https://en.wikipedia.org/wiki/Chinese_painting"),
 ]
 es=entries()
+def symmetrize(es):
+    """related 双向补全 + 清理悬空引用（在内存中完成）。返回 (补全条数, 悬空列表)。"""
+    ids={e["id"] for e in es}
+    by={e["id"]:e for e in es}
+    dangling=[]
+    for e in es:
+        keep=[]
+        for r in e.get("related",[]):
+            if r==e["id"]: continue
+            if r in ids: keep.append(r)
+            else: dangling.append((e["id"],r))
+        e["related"]=list(dict.fromkeys(keep))
+    added=0
+    for e in es:
+        for r in list(e["related"]):
+            tgt=by[r]
+            if e["id"] not in tgt["related"]:
+                tgt["related"].append(e["id"]); added+=1
+    return added,dangling
+
+_added,_dangling=symmetrize(es)
+print("related 对称化：新增 %d 条；悬空引用 %d 条%s"%(_added,len(_dangling),(" → %s"%_dangling[:5]) if _dangling else ""))
 
 # ---- scope.md ----
 lines=["# scope.md — 《艺术史与音乐史导读》入选清单（编辑基准线）","",
