@@ -1572,7 +1572,8 @@
         "shang-ding-small",
         "zhou-ding-large",
         "lai-zhong-bell",
-        "luristan-master-cheekpiece"
+        "luristan-master-cheekpiece",
+        "shang-jade-ge"
       ],
       "sources": [
         "enc-bronze",
@@ -7202,6 +7203,87 @@
       ],
       "sources": [
         "cma-1949-555"
+      ]
+    },
+    {
+      "id": "liangzhu-bi-disc",
+      "title": "良渚玉璧",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "新石器时代",
+      "region": "中国",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "良渚文化软玉璧，克利夫兰艺术博物馆藏（1917.974）。",
+      "when": "约公元前3300—2200年",
+      "overview": "良渚以治玉著称；此大璧罕见，常置于墓主胸前；璧与琮为高等级墓葬必备的礼器配对。",
+      "related": [
+        "shang-cong-tube",
+        "qijia-jade-dao"
+      ],
+      "sources": [
+        "cma-1917-974"
+      ]
+    },
+    {
+      "id": "shang-cong-tube",
+      "title": "商代玉琮",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "商代",
+      "region": "中国",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "商代软玉琮，克利夫兰艺术博物馆藏（1915.630）。",
+      "when": "约公元前1600—1056年",
+      "overview": "圆筒外套方体，为古代礼仪中最显赫的玉器之一；《周礼》记以苍璧礼天、黄琮礼地。",
+      "related": [
+        "liangzhu-bi-disc",
+        "shang-jade-ge"
+      ],
+      "sources": [
+        "cma-1915-630"
+      ]
+    },
+    {
+      "id": "shang-jade-ge",
+      "title": "商代玉戈（饕餮纹）",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "商代",
+      "region": "中国",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "商代软玉戈，克利夫兰艺术博物馆藏（1983.2）。",
+      "when": "约公元前1600—1050年",
+      "overview": "玉极硬，以石英砂等细磨料附着工具研磨；戈形可能源自青铜兵器；刃自饕餮口部生出。",
+      "related": [
+        "shang-zhou-bronzes",
+        "shang-cong-tube",
+        "qijia-jade-dao"
+      ],
+      "sources": [
+        "cma-1983-2"
+      ]
+    },
+    {
+      "id": "qijia-jade-dao",
+      "title": "齐家文化三孔玉刀",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "新石器—青铜时代",
+      "region": "中国",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "齐家文化软玉三孔刀，克利夫兰艺术博物馆藏（2009.83）。",
+      "when": "约公元前2000—1700年",
+      "overview": "抛光细腻、丝般光泽、仅厚2毫米；齐家祭祀坑出土同类刀原以刃立、平行排列。",
+      "related": [
+        "liangzhu-bi-disc",
+        "shang-jade-ge"
+      ],
+      "sources": [
+        "cma-2009-83"
       ]
     }
   ]

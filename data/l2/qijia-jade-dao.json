@@ -1,0 +1,19 @@
+{
+ "id": "qijia-jade-dao",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为**齐家文化**（中国西北，约公元前2000—1700年）三孔玉刀，克利夫兰艺术博物馆藏（2009.83）。",
+  "风格特征": "该馆以三方面概括其品质：**材料之美、几何之精确、技术之娴熟**。",
+  "代表人物与作品": "作者未署名。相关条目见良渚玉璧与商代玉戈。本件为克利夫兰艺术博物馆藏品（2009.83）。",
+  "技法或形式分析": "材质为**软玉**，整体长35.2厘米（据该馆藏品记录）。该馆点出两项可核查的工艺指标：**抛光细腻、丝般光泽**，以及**极薄——仅2毫米**，使其成为古代玉作中**精工**的杰出范例。",
+  "与前后风格的关系和争论": "该馆给出一条**考古背景**：近年从中国西北一处**齐家文化遗址的坑**中发现的同类玉刀显示，它们原本**以刃立起**，并**成平行排列**置于**祭祀场地**。本条目据此把「薄刃」与「仪式性立置」联系起来——形制服务于陈列方式。",
+  "一图": "示意图以2毫米薄度、精密几何与祭祀坑平行立置三者关系标示本刀。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「2毫米」为估值，未给检测方法；（3）三孔的钻孔技术未展开；（4）具体祭祀遗址名称未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='qijia-jade-dao 示意图'><title>qijia-jade-dao</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>齐家文化</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>前2000—1700</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>三孔玉刀</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>35.2cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>2毫米薄度</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>精工</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>祭祀坑立置</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>陈列方式</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>齐家玉刀：工艺、薄度与立置</text></g></svg>",
+ "sources": [
+  "cma-2009-83"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；遗址名与钻法未记录。"
+}

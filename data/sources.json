@@ -4619,6 +4619,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；石与颜料 31.1×24.1×30.5cm；说明含花与玉米的象征"
+    },
+    {
+      "id": "cma-1917-974",
+      "title": "Cleveland Museum of Art — Ceremonial Disc (Bi), Liangzhu, 3300–2200 BCE, acc. 1917.974",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1917.974",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；软玉 直径32cm；说明含璧琮配对与高等级葬仪"
+    },
+    {
+      "id": "cma-1915-630",
+      "title": "Cleveland Museum of Art — Ceremonial Tube (Cong), Shang, c. 1600–1056 BCE, acc. 1915.630",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1915.630",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；软玉 20.6cm；说明含《周礼》祭地与史前功能未明"
+    },
+    {
+      "id": "cma-1983-2",
+      "title": "Cleveland Museum of Art — Ceremonial Dagger-Axe (Ge) with Animal Masks, Shang, acc. 1983.2",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1983.2",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；软玉 4.4cm；说明含石英砂研磨与饕餮纹"
+    },
+    {
+      "id": "cma-2009-83",
+      "title": "Cleveland Museum of Art — Ceremonial Blade (Dao) with Three Perforations, Qijia, acc. 2009.83",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2009.83",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；软玉 35.2cm；说明含2毫米薄度与齐家祭祀坑立置"
     }
   ]
 }

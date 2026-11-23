@@ -2663,7 +2663,8 @@
         "shang-ding-small",
         "zhou-ding-large",
         "lai-zhong-bell",
-        "luristan-master-cheekpiece"
+        "luristan-master-cheekpiece",
+        "shang-jade-ge"
       ],
       "sources": [
         "enc-bronze",
@@ -11689,6 +11690,139 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='aztec-xochipilli-maize 示意图'><title>aztec-xochipilli-maize</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>Macuilxochit</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>美·艺术</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>持玉米坐像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>31.1cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>花锥</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>花=美/丰产/性</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>背负玉米</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>创造力?</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>阿兹特克坐像：神祇、花与玉米</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（CMA）来源；神祇两说；出土地未记录。"
+    },
+    {
+      "id": "liangzhu-bi-disc",
+      "title": "良渚玉璧",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "新石器时代",
+      "region": "中国",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "良渚文化软玉璧，克利夫兰艺术博物馆藏（1917.974）。",
+      "when": "约公元前3300—2200年",
+      "overview": "良渚以治玉著称；此大璧罕见，常置于墓主胸前；璧与琮为高等级墓葬必备的礼器配对。",
+      "related": [
+        "shang-cong-tube",
+        "qijia-jade-dao"
+      ],
+      "sources": [
+        "cma-1917-974"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明，**良渚文化**是华东**新石器时代晚期**文化之一，以**治玉**见长。本件为良渚玉璧，定年约公元前3300—2200年。",
+        "风格特征": "该馆指出，像此件这样**格外大**的玉璧**罕见**，通常**置于墓主胸前**的显著位置。此类**素面圆盘**古称 **bi（璧）**，与 **cong（琮，方柱形管）**共同构成良渚**高等级墓葬**中的**基本礼器配对**。",
+        "代表人物与作品": "作者未署名。相关条目见商代玉琮与齐家三孔刀。本件为克利夫兰艺术博物馆藏品（1917.974）。",
+        "技法或形式分析": "材质为**软玉（nephrite）**，直径32厘米、内径5.4厘米、厚1厘米（据该馆藏品记录）。素面无纹，其价值主要来自**材料、尺度与磨制精度**。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「璧与琮的配对」理解为**墓葬等级的标志**：玉器在此不只是装饰，而是**社会组织与身份秩序**的物质表达。",
+        "一图": "示意图以良渚治玉、璧琮配对与墓主胸前位置三者关系标示本璧。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）具体出土墓与墓主身份未记录；（3）璧琮的礼制含义该馆只作概述；（4）玉料产地未鉴定。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='liangzhu-bi-disc 示意图'><title>liangzhu-bi-disc</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>良渚治玉</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>新石器晚期</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>玉璧</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>直径32cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>璧琮配对</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>礼器</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>墓主胸前</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>身份标志</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>良渚玉璧：治玉、配对与身份</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；出土墓与玉料未记录。"
+    },
+    {
+      "id": "shang-cong-tube",
+      "title": "商代玉琮",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "商代",
+      "region": "中国",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "商代软玉琮，克利夫兰艺术博物馆藏（1915.630）。",
+      "when": "约公元前1600—1056年",
+      "overview": "圆筒外套方体，为古代礼仪中最显赫的玉器之一；《周礼》记以苍璧礼天、黄琮礼地。",
+      "related": [
+        "liangzhu-bi-disc",
+        "shang-jade-ge"
+      ],
+      "sources": [
+        "cma-1915-630"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为商代玉琮，克利夫兰艺术博物馆藏（1915.630），定年约公元前1600—1056年。",
+        "风格特征": "该馆先给定义：**琮**是**圆筒外套方体**的玉器，是古代礼仪中**最显赫的玉器之一**。",
+        "代表人物与作品": "作者未署名。相关条目见良渚玉璧与商代玉戈。本件为克利夫兰艺术博物馆藏品（1915.630）。",
+        "技法或形式分析": "材质为**软玉**，整体高20.6厘米（据该馆藏品记录）。该馆未展开具体纹样与切割工艺，本条目亦不推断。",
+        "与前后风格的关系和争论": "该馆给出两条**证据链**并明确其张力：《周礼》（《周礼》）提到以琮**祭地**；但在**更早的新石器社会**中，其**功能与含义「并不完全被理解」**。本条目据此把「文献记载」与「考古实情」并列，不以后者强解前者。",
+        "一图": "示意图以琮的形制、《周礼》祭地与史前功能未明三者关系标示本琮。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）《周礼》原文与成书年代未核；（3）本琮纹样与出土地未记录；（4）史前功能为学术悬案。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='shang-cong-tube 示意图'><title>shang-cong-tube</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>圆筒方体</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>形制</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>商代玉琮</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>20.6cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>《周礼》祭地</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>文献</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>史前功能未明</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>考古</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>玉琮：形制、文献与悬案</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；文献与出土地未取得。"
+    },
+    {
+      "id": "shang-jade-ge",
+      "title": "商代玉戈（饕餮纹）",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "商代",
+      "region": "中国",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "商代软玉戈，克利夫兰艺术博物馆藏（1983.2）。",
+      "when": "约公元前1600—1050年",
+      "overview": "玉极硬，以石英砂等细磨料附着工具研磨；戈形可能源自青铜兵器；刃自饕餮口部生出。",
+      "related": [
+        "shang-zhou-bronzes",
+        "shang-cong-tube",
+        "qijia-jade-dao"
+      ],
+      "sources": [
+        "cma-1983-2"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为商代玉戈，克利夫兰艺术博物馆藏（1983.2），定年约公元前1600—1050年。",
+        "风格特征": "该馆先讲**材料难度**：**玉是极硬的材料**；在古代中国，它以**石英砂等细磨料**附着于切割或钻孔工具上来**雕磨**。",
+        "代表人物与作品": "作者未署名。相关条目见商周青铜礼器与商代玉琮。本件为克利夫兰艺术博物馆藏品（1983.2）。",
+        "技法或形式分析": "材质为**软玉**，整体4.4厘米（据该馆藏品记录）。该馆指出，**戈（ge，礼仪性匕首斧）**之形**很可能源自同形的青铜兵器**；尖而微弯的刃**对称**雕成，**似自饕餮（taotie）口部生出**。",
+        "与前后风格的关系和争论": "该馆给出纹样与工艺细节：饕餮的**弯角以浮雕带刻出**，**眼、鼻与上颚以细线状浮雕**表现；并指出**同类饕餮纹也见于同期青铜器**。**柄上的孔**说明刃原先缚于木柲。本条目据此把玉戈与青铜器纳入同一**图像系统**。",
+        "一图": "示意图以玉的研磨工艺、戈形源自青铜与饕餮纹共用三者关系标示本戈。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）木柲已失，仅存玉刃；（3）出土地与墓葬未记录；（4）饕餮纹的具体解读未展开。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='shang-jade-ge 示意图'><title>shang-jade-ge</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>石英砂研磨</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>玉极硬</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>商代玉戈</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>4.4cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>源自青铜兵器</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>戈形</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>饕餮口生刃</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>纹样共用</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>玉戈：工艺、形制与纹样</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；木柲与出土地未取得。"
+    },
+    {
+      "id": "qijia-jade-dao",
+      "title": "齐家文化三孔玉刀",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "新石器—青铜时代",
+      "region": "中国",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "齐家文化软玉三孔刀，克利夫兰艺术博物馆藏（2009.83）。",
+      "when": "约公元前2000—1700年",
+      "overview": "抛光细腻、丝般光泽、仅厚2毫米；齐家祭祀坑出土同类刀原以刃立、平行排列。",
+      "related": [
+        "liangzhu-bi-disc",
+        "shang-jade-ge"
+      ],
+      "sources": [
+        "cma-2009-83"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**齐家文化**（中国西北，约公元前2000—1700年）三孔玉刀，克利夫兰艺术博物馆藏（2009.83）。",
+        "风格特征": "该馆以三方面概括其品质：**材料之美、几何之精确、技术之娴熟**。",
+        "代表人物与作品": "作者未署名。相关条目见良渚玉璧与商代玉戈。本件为克利夫兰艺术博物馆藏品（2009.83）。",
+        "技法或形式分析": "材质为**软玉**，整体长35.2厘米（据该馆藏品记录）。该馆点出两项可核查的工艺指标：**抛光细腻、丝般光泽**，以及**极薄——仅2毫米**，使其成为古代玉作中**精工**的杰出范例。",
+        "与前后风格的关系和争论": "该馆给出一条**考古背景**：近年从中国西北一处**齐家文化遗址的坑**中发现的同类玉刀显示，它们原本**以刃立起**，并**成平行排列**置于**祭祀场地**。本条目据此把「薄刃」与「仪式性立置」联系起来——形制服务于陈列方式。",
+        "一图": "示意图以2毫米薄度、精密几何与祭祀坑平行立置三者关系标示本刀。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「2毫米」为估值，未给检测方法；（3）三孔的钻孔技术未展开；（4）具体祭祀遗址名称未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='qijia-jade-dao 示意图'><title>qijia-jade-dao</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>齐家文化</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>前2000—1700</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>三孔玉刀</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>35.2cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>2毫米薄度</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>精工</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>祭祀坑立置</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>陈列方式</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>齐家玉刀：工艺、薄度与立置</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；遗址名与钻法未记录。"
     }
   ]
 }

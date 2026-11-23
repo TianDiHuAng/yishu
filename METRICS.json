@@ -2801,6 +2801,31 @@
       "check_links_result": "broken=0(369页)",
       "audit_all": "12/12 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle98",
+      "date": "2026-11-23",
+      "status": "completed",
+      "gap_methods": [
+        "中国玉器实物"
+      ],
+      "network": "partial: museum APIs ok",
+      "new_entries": 4,
+      "new_entry_ids": [
+        "liangzhu-bi-disc",
+        "shang-cong-tube",
+        "shang-jade-ge",
+        "qijia-jade-dao"
+      ],
+      "jade_objects": 4,
+      "new_sources": 4,
+      "sources_total": 466,
+      "entries_total": 336,
+      "pages": 373,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(373页)",
+      "audit_all": "12/12 ok",
+      "commits": 1
     }
   ]
 }

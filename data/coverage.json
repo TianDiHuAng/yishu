@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 332,
+    "total": 336,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -3989,6 +3989,54 @@
     "aztec-xochipilli-maize": {
       "title": "阿兹特克持玉米坐像",
       "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "liangzhu-bi-disc": {
+      "title": "良渚玉璧",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "shang-cong-tube": {
+      "title": "商代玉琮",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "shang-jade-ge": {
+      "title": "商代玉戈（饕餮纹）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "qijia-jade-dao": {
+      "title": "齐家文化三孔玉刀",
+      "tier": "核心",
       "level": "L2",
       "status": "written_l2",
       "sources_count": 1,

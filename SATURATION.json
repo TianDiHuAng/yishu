@@ -1210,6 +1210,18 @@
       },
       "network": "partial (museum APIs)",
       "verdict": "美洲 21→25（总332）；未饱和"
+    },
+    {
+      "cycle": "cycle98",
+      "date": "2026-11-23",
+      "methods_used": [
+        "中国玉器实物"
+      ],
+      "gaps_found": {
+        "entries": 4
+      },
+      "network": "partial (museum APIs)",
+      "verdict": "中国玉器 0→4（总336）；未饱和"
     }
   ],
   "assessment_c33": {

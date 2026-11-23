@@ -1,0 +1,19 @@
+{
+ "id": "liangzhu-bi-disc",
+ "level": "L2",
+ "sections": {
+  "时代背景": "该馆说明，**良渚文化**是华东**新石器时代晚期**文化之一，以**治玉**见长。本件为良渚玉璧，定年约公元前3300—2200年。",
+  "风格特征": "该馆指出，像此件这样**格外大**的玉璧**罕见**，通常**置于墓主胸前**的显著位置。此类**素面圆盘**古称 **bi（璧）**，与 **cong（琮，方柱形管）**共同构成良渚**高等级墓葬**中的**基本礼器配对**。",
+  "代表人物与作品": "作者未署名。相关条目见商代玉琮与齐家三孔刀。本件为克利夫兰艺术博物馆藏品（1917.974）。",
+  "技法或形式分析": "材质为**软玉（nephrite）**，直径32厘米、内径5.4厘米、厚1厘米（据该馆藏品记录）。素面无纹，其价值主要来自**材料、尺度与磨制精度**。",
+  "与前后风格的关系和争论": "本条目据该馆说明把「璧与琮的配对」理解为**墓葬等级的标志**：玉器在此不只是装饰，而是**社会组织与身份秩序**的物质表达。",
+  "一图": "示意图以良渚治玉、璧琮配对与墓主胸前位置三者关系标示本璧。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）具体出土墓与墓主身份未记录；（3）璧琮的礼制含义该馆只作概述；（4）玉料产地未鉴定。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='liangzhu-bi-disc 示意图'><title>liangzhu-bi-disc</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>良渚治玉</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>新石器晚期</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>玉璧</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>直径32cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>璧琮配对</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>礼器</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>墓主胸前</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>身份标志</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>良渚玉璧：治玉、配对与身份</text></g></svg>",
+ "sources": [
+  "cma-1917-974"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；出土墓与玉料未记录。"
+}

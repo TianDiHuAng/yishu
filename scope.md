@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 332 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 336 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -48,6 +48,10 @@
 | xerxes-guard-relief | 薛西斯宫卫兵浮雕残块 | 作品 | 公元前5世纪 | 西亚·中亚 | 雕塑 | 核心 | O2 |
 | luristan-master-cheekpiece | 卢里斯坦「动物主人」马颊饰 | 作品 | 公元前8—前7世纪 | 西亚·中亚 | 综合 | 重要 | O2 |
 | sasanian-hunting-dish | 萨珊狩猎纹银盘 | 作品 | 公元5—6世纪 | 西亚·中亚 | 综合 | 重要 | O2 |
+| liangzhu-bi-disc | 良渚玉璧 | 作品 | 新石器时代 | 中国 | 雕塑 | 核心 | O2、O6 |
+| shang-cong-tube | 商代玉琮 | 作品 | 商代 | 中国 | 雕塑 | 核心 | O2、O6 |
+| shang-jade-ge | 商代玉戈（饕餮纹） | 作品 | 商代 | 中国 | 雕塑 | 重要 | O2、O6 |
+| qijia-jade-dao | 齐家文化三孔玉刀 | 作品 | 新石器—青铜时代 | 中国 | 雕塑 | 核心 | O2、O6 |
 
 ## art-medieval（艺术史·中世纪）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
