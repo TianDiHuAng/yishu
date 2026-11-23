@@ -3589,6 +3589,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；木、皮革、植物纤维 40cm/径31.2cm；说明含乌干达鼓中「心」"
+    },
+    {
+      "id": "cma-1918-344",
+      "title": "Cleveland Museum of Art — Pipa, China (Qing), 1800s, acc. 1918.344",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1918.344",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；木、象牙、骨、肠弦 95.4×27.4×8cm；说明含琵琶名义与丝路传播"
+    },
+    {
+      "id": "cma-1918-359",
+      "title": "Cleveland Museum of Art — Koto (Zither), Japan (Edo), early–mid 1800s, acc. 1918.359",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1918.359",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；木、彩漆、蒔绘、织物、丝弦 117.8cm；说明含装饰性用途"
+    },
+    {
+      "id": "cma-1921-914",
+      "title": "Cleveland Museum of Art — End-blown Flute (Hitoyogiri), Japan (Meiji), late 1800s, acc. 1921.914",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1921.914",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；漆竹、金银蒔绘 33.5×2.6cm；说明含与普化尺八之别"
+    },
+    {
+      "id": "cma-1929-344",
+      "title": "Cleveland Museum of Art — Figurative harp (domu or kundi), Mangbetu, by 1928, acc. 1929.344",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1929.344",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；木、皮革、纤维、金属、玻璃珠；柄36.9cm 鼓18.2cm；说明含 Paul Travis 1928 年采集"
     }
   ]
 }

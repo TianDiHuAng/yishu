@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 228,
+    "total": 232,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 27,
@@ -2740,6 +2740,54 @@
     },
     "drum-ngoma": {
       "title": "恩戈马鼓（ngoma）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "pipa-instrument": {
+      "title": "琵琶（清代实物）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "koto-instrument": {
+      "title": "筝（koto，日本）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "hitoyogiri-flute": {
+      "title": "一節切（hitoyogiri 竹笛）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "mangbetu-harp": {
+      "title": "曼贝图竖琴（domu 或 kundi）",
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
