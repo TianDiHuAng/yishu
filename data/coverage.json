@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 177,
+    "total": 180,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 26,
@@ -2135,6 +2135,42 @@
       "verified_sources_count": 1,
       "needs_verification": true,
       "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "african-art": {
+      "title": "非洲艺术（撒哈拉以南）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 2,
+      "verified_sources_count": 2,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "americas-art": {
+      "title": "美洲原住民与前哥伦布艺术",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 2,
+      "verified_sources_count": 2,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "oceania-art": {
+      "title": "太平洋艺术（大洋洲）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 2,
+      "verified_sources_count": 2,
+      "needs_verification": false,
+      "pending_notes": "",
       "last_update": "2026-11-22",
       "source_independence_ok": false
     }

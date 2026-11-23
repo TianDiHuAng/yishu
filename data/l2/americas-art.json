@@ -1,0 +1,20 @@
+{
+ "id": "americas-art",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本条目不写通史，只把两件中美洲器物当作可核验节点：危地马拉埃尔佩鲁（El Perú-Waka’）的玛雅石碑（692年）与中墨西哥的阿兹特克羽蛇石雕（记为1325—1521年或近代）。二者相隔约六百年，分属玛雅古典期与阿兹特克后古典期。",
+  "风格特征": "两件展示了前哥伦布石雕的两种取向：**统治者纪念性石碑**（女性统治者立于广场，以 k’atun 二十年周期纪年，头饰用格查尔羽、佩饰指玉）与**神祇图像**（羽蛇盘绕的躯体）。前者服务于王权的公共展示，后者服务于神格的可辨识性。",
+  "代表人物与作品": "相关条目见埃尔佩鲁石碑与阿兹特克羽蛇。石碑所刻女性统治者的姓名在记录中以称号与谱系呈现，本条目不臆造读音。",
+  "技法或形式分析": "两件均为石雕：石碑为石灰岩（274.4×182.3厘米），羽蛇为石材（27.7×20.1×22厘米）。材料选择与身份表达相关——玉与格查尔羽在古代中美洲是最受珍视的材料，石碑以之标示统治者的地位。",
+  "与前后风格的关系和争论": "**真伪问题是本单元不能回避的一环**：阿兹特克羽蛇该馆明确「无法断定是伪作」，其躯体盘绕呈人形隆起、口部面具不合惯例，表面分析亦无结论。本条目把这一悬置状态作为内容呈现，不把该件当作确证的时代标尺。",
+  "一图": "示意图标示本条目现有的两个节点（玛雅统治者石碑与阿兹特克神祇石雕）及其相隔约六百年的时段关系。",
+  "待核实": "（1）本条目为**单元导览**，依据单一机构（CMA）两件藏品记录，整条标记待核实；（2）**覆盖极窄**：安第斯地区（莫切、纳斯卡、印加）与北美原住民尚无条目；（3）羽蛇真伪未定，馆方明言无法断伪；（4）「美洲原住民艺术」范畴内部的巨大差异（中美洲/安第斯/北美）本条目未展开。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='americas-art 示意图'><title>americas-art</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>玛雅·692</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>石碑</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>六百年</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>时段跨度</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>阿兹特克</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>1325—1521</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>真伪未定</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>羽蛇</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>美洲艺术：两个节点与一段悬置</text></g></svg>",
+ "sources": [
+  "cma-1967-29",
+  "cma-1941-46"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单元导览：仅据 CMA 两件藏品；安第斯与北美原住民零覆盖；羽蛇真伪未定。"
+}

@@ -3708,6 +3708,69 @@
       "sources": [
         "cma-1963-554"
       ]
+    },
+    {
+      "id": "african-art",
+      "title": "非洲艺术（撒哈拉以南）",
+      "kind": "风格",
+      "unit": "art-africa",
+      "era": "12—20世纪",
+      "region": "非洲",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "撒哈拉以南非洲的视觉传统；本站目前以尼日利亚贝宁王国的两件王室铸造品为可核验节点。",
+      "when": "12—20世纪（本条目节点集中于15—17世纪）",
+      "overview": "宫廷行会铸造、等级化构图、以材质象征王权（如铜的恒久）是现有节点的共同特征；其余地区尚无条目。",
+      "related": [
+        "benin-plaque",
+        "benin-ancestral-head"
+      ],
+      "sources": [
+        "cma-1999-1",
+        "cma-1938-6"
+      ]
+    },
+    {
+      "id": "americas-art",
+      "title": "美洲原住民与前哥伦布艺术",
+      "kind": "风格",
+      "unit": "art-americas",
+      "era": "3—16世纪",
+      "region": "美洲",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "前哥伦布时期中美洲与南美的视觉传统；本站目前以玛雅石碑与阿兹特克石雕两件为可核验节点。",
+      "when": "3—16世纪（本条目节点为692年与1325—1521年）",
+      "overview": "统治者纪念性石碑与神祇图像是现有节点的两端；玉、格查尔羽与石灰岩等材料承担身份与神圣含义。",
+      "related": [
+        "maya-el-peru-stela",
+        "aztec-feathered-serpent"
+      ],
+      "sources": [
+        "cma-1967-29",
+        "cma-1941-46"
+      ]
+    },
+    {
+      "id": "oceania-art",
+      "title": "太平洋艺术（大洋洲）",
+      "kind": "风格",
+      "unit": "art-oceania",
+      "era": "18—20世纪",
+      "region": "大洋洲",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "太平洋岛屿的视觉与物质传统；本站目前以毛利软玉吊坠与阿斯马特战盾两件为可核验节点。",
+      "when": "18—20世纪（现有节点为1800年代与约1940年）",
+      "overview": "承载 mana 的祖传之物与军事—祖灵功能的器物，构成现有节点的两端；材料（软玉、红树板根）与技艺直接关系其意义。",
+      "related": [
+        "maori-hei-tiki",
+        "asmat-war-shield"
+      ],
+      "sources": [
+        "cma-1954-147",
+        "cma-1963-554"
+      ]
     }
   ]
 }
