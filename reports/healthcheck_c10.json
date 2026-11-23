@@ -114,6 +114,14 @@
     "169",
     "1945"
    ]
+  ],
+  [
+   "du-jin-lin-bu",
+   "1400年代末",
+   [
+    "1028",
+    "967"
+   ]
   ]
  ],
  "orphans": [],
@@ -170,6 +178,6 @@
  "link_audit": {
   "cross_domain": 2,
   "oneway": 0,
-  "total_links": 786
+  "total_links": 798
  }
 }

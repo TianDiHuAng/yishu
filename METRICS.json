@@ -2308,6 +2308,37 @@
       "check_links_result": "broken=0(297页)",
       "audit_all": "12/12 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle79",
+      "date": "2026-11-23",
+      "status": "completed",
+      "gap_methods": [
+        "中国绘画作品填补"
+      ],
+      "network": "partial: museum APIs ok",
+      "new_entries": 4,
+      "new_entry_ids": [
+        "juran-buddhist-retreat",
+        "muqi-dragon",
+        "du-jin-lin-bu",
+        "ten-stages-bodhisattvas"
+      ],
+      "chinese_painting_works": 7,
+      "must_state": [
+        "巨然：南唐降宋北迁与院体主峰混合",
+        "牧溪龙虎=阴阳+三件一组（中央观音为推断）",
+        "杜堇签款真迹稀少",
+        "十地轴=水陆法会+景泰五年金字题记+奉旨"
+      ],
+      "new_sources": 4,
+      "sources_total": 395,
+      "entries_total": 264,
+      "pages": 301,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(301页)",
+      "audit_all": "12/12 ok",
+      "commits": 1
     }
   ]
 }

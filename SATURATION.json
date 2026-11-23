@@ -983,6 +983,18 @@
       "gaps_found": {},
       "network": "partial (museum APIs)",
       "verdict": "115 条机构来源全量复核：74/74 命中、0 真问题；修校验器 2 处误判；未饱和"
+    },
+    {
+      "cycle": "cycle79",
+      "date": "2026-11-23",
+      "methods_used": [
+        "中国绘画作品"
+      ],
+      "gaps_found": {
+        "entries": 4
+      },
+      "network": "partial (museum APIs)",
+      "verdict": "中国绘画作品 3→7（总 264）；未饱和"
     }
   ],
   "assessment_c33": {

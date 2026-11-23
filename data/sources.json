@@ -3909,6 +3909,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；胶彩、墨与金；说明含赫拉特抄写与德干绘画的两段工序"
+    },
+    {
+      "id": "cma-1959-348",
+      "title": "Cleveland Museum of Art — Juran, Buddhist Retreat by Stream and Mountains, 960–85, acc. 1959.348",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1959.348",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；绢本水墨立轴 184.5×56.1cm；说明含江南画派与南唐降宋"
+    },
+    {
+      "id": "cma-1958-427-1",
+      "title": "Cleveland Museum of Art — Muqi Fachang, Dragon, c. 1250–79, acc. 1958.427.1",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1958.427.1",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；绢本水墨立轴 125.2×57.2cm；说明含阴阳对屏与禅寺语境"
+    },
+    {
+      "id": "cma-1954-582",
+      "title": "Cleveland Museum of Art — Du Jin, The Poet Lin Bu Wandering in the Moonlight, late 1400s, acc. 1954.582",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1954.582",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；纸本设色立轴 156.4×72.4cm；说明含林逋生平与杜堇真迹之罕"
+    },
+    {
+      "id": "cma-1973-70-1",
+      "title": "Cleveland Museum of Art — Bodhisattvas of the Ten Stages, 1454, acc. 1973.70.1",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1973.70.1",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；绢本设色立轴 140.8×79.3cm；说明含景泰五年金字题记与水陆法会"
     }
   ]
 }

@@ -1,0 +1,19 @@
+{
+ "id": "du-jin-lin-bu",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为明人**杜堇**（该馆记 1446—约1519）所作立轴，定年为1400年代末。",
+  "风格特征": "该馆先介绍画中人物：**林逋**（967—1028）是**北宋诗人与隐士**，居**杭州西湖**，以「**以梅为妻、以鹤为子**」著称。此轴画他**月下行走、回望梅树**——正是其**最著名的咏梅诗**所描写的场景。",
+  "代表人物与作品": "作者杜堇。相关条目见巨然《溪山兰若》与赵孟頫《河村渔乐》。本件为克利夫兰艺术博物馆藏品（1954.582）。",
+  "技法或形式分析": "材质为**纸本设色**立轴，画心156.4 × 72.4厘米，含轴头286.4 × 99厘米（据该馆藏品记录）。该馆说明其笔法：梅树与岩石以**活泼的用笔**写成，表现为**深浅不同的点、线与扫笔**——即以笔触的**多样**代替均匀的描绘。",
+  "与前后风格的关系和争论": "该馆附带一条**作品鉴定的要点**：「**杜堇署款的真迹存世稀少，此画即为其中之一**」。也就是说，本件的价值部分在于**它是一份罕见的签款实物**；本条目照录该表述，不扩大为对杜堇全部作品的判断。",
+  "一图": "示意图以林逋「梅妻鹤子」典故、月下看梅的场景与杜堇签款之罕三者关系标示本画。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）所引「最著名的咏梅诗」该馆未给诗题；（3）杜堇生卒（1446—约1519）该馆以 circa 记卒年；（4）本画的鉴藏与题跋未取得。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='du-jin-lin-bu 示意图'><title>du-jin-lin-bu</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>林逋·梅妻鹤子</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>967—1028</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>月下看梅</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1400s末</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>诗意场景</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>咏梅诗</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>杜堇签款罕</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>鉴定要点</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>林逋图：典故、场景与签款</text></g></svg>",
+ "sources": [
+  "cma-1954-582"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；诗题与题跋未取得。"
+}
