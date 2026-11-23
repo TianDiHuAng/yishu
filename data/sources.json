@@ -3749,6 +3749,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；瓷质石陶 23.5×8cm；说明含数字款与蚯蚓走泥纹"
+    },
+    {
+      "id": "cma-2000-118-1",
+      "title": "Cleveland Museum of Art — Tomb Guardian with Animal Head (sancai), Tang, early 700s, acc. 2000.118.1",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2000.118.1",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；三彩釉陶 92.3×43.8×41.9cm；说明含出丧游行与孝道"
+    },
+    {
+      "id": "cma-2020-173-1-a",
+      "title": "Cleveland Museum of Art — Qingbai Ware Bowl, Southern Song, 1100s–1200s, acc. 2020.173.1.a",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2020.173.1.a",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；青白瓷配银扣 8.2×14.5cm；说明含三种釉色对三种材质的模仿"
+    },
+    {
+      "id": "cma-1929-995",
+      "title": "Cleveland Museum of Art — Bowl with Ducks among Waves and Reeds, Ding ware, 1100s, acc. 1929.995",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1929.995",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；奶油釉白瓷 20.3×5.4cm；说明含倒烧与「泪痕」"
+    },
+    {
+      "id": "cma-1957-61",
+      "title": "Cleveland Museum of Art — Wine Cup with Children at Play, Chenghua, 1465–87, acc. 1957.61",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1957.61",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；釉下青花加釉上彩（斗彩） 高4.8cm；说明含二次烧工艺"
     }
   ]
 }

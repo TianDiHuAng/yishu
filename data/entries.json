@@ -5231,7 +5231,9 @@
       "related": [
         "longquan-export-bowl",
         "ding-tea-bowl",
-        "jun-numbered-bulb-bowl"
+        "jun-numbered-bulb-bowl",
+        "tang-tomb-guardian",
+        "chenghua-doucai-cup"
       ],
       "sources": [
         "cma-1962-154"
@@ -5272,7 +5274,9 @@
       "overview": "此类碗用于饮茶，远销至萨马拉（今伊拉克）；唐人以红茶宜配淡青或白釉碗。",
       "related": [
         "yuan-blue-white-jar",
-        "longquan-export-bowl"
+        "longquan-export-bowl",
+        "qingbai-silver-bowl",
+        "ding-duck-bowl"
       ],
       "sources": [
         "cma-2020-186"
@@ -5292,10 +5296,92 @@
       "overview": "底刻「二」字，数字标尺寸（一最大、十最小）；内壁蓝色乳光釉有「蚯蚓走泥纹」，外壁紫调来自铜呈色。",
       "related": [
         "longquan-export-bowl",
-        "yuan-blue-white-jar"
+        "yuan-blue-white-jar",
+        "tang-tomb-guardian",
+        "chenghua-doucai-cup"
       ],
       "sources": [
         "cma-1957-33"
+      ]
+    },
+    {
+      "id": "tang-tomb-guardian",
+      "title": "唐三彩镇墓兽",
+      "kind": "作品",
+      "unit": "art-ceramics",
+      "era": "8世纪",
+      "region": "中国",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "陕西（推定西安）唐三彩釉陶镇墓兽，克利夫兰艺术博物馆藏（2000.118.1）。",
+      "when": "700年代初",
+      "overview": "兽面长双角，另一件人面巨耳；用于守墓门、辟邪并防亡魂游荡；出丧时先经街市游行。",
+      "related": [
+        "jun-numbered-bulb-bowl",
+        "yuan-blue-white-jar"
+      ],
+      "sources": [
+        "cma-2000-118-1"
+      ]
+    },
+    {
+      "id": "qingbai-silver-bowl",
+      "title": "青白瓷银扣碗",
+      "kind": "作品",
+      "unit": "art-ceramics",
+      "era": "12—13世纪",
+      "region": "中国",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "南宋青白瓷碗，配银扣，克利夫兰艺术博物馆藏（2020.173.1.a）。",
+      "when": "1100—1200年代",
+      "overview": "深釉仿黑漆、青瓷比绿玉、青白瓷则仿银；口沿银带强化「贵重」观感；莲纹亦可能指佛教语境。",
+      "related": [
+        "ding-tea-bowl",
+        "ding-duck-bowl"
+      ],
+      "sources": [
+        "cma-2020-173-1-a"
+      ]
+    },
+    {
+      "id": "ding-duck-bowl",
+      "title": "定窑鸭纹碗",
+      "kind": "作品",
+      "unit": "art-ceramics",
+      "era": "12世纪",
+      "region": "中国",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "曲阳定窑刻花碗，克利夫兰艺术博物馆藏（1929.995）。",
+      "when": "1100年代",
+      "overview": "胎薄釉润，上品为北宋宫廷选用；倒烧故口沿无釉，可加铜或金银包边；釉流成「泪痕」。",
+      "related": [
+        "ding-tea-bowl",
+        "qingbai-silver-bowl"
+      ],
+      "sources": [
+        "cma-1929-995"
+      ]
+    },
+    {
+      "id": "chenghua-doucai-cup",
+      "title": "成化斗彩儿童纹杯",
+      "kind": "作品",
+      "unit": "art-ceramics",
+      "era": "15世纪",
+      "region": "中国",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "景德镇成化款斗彩酒杯，克利夫兰艺术博物馆藏（1957.61）。",
+      "when": "1465—1487年",
+      "overview": "高仅约两英寸；先以钴蓝勾线、施釉烧成青花，再于釉上加彩二次入窑；胎极薄透、质轻。",
+      "related": [
+        "yuan-blue-white-jar",
+        "jun-numbered-bulb-bowl"
+      ],
+      "sources": [
+        "cma-1957-61"
       ]
     }
   ]

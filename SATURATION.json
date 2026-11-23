@@ -924,6 +924,19 @@
       },
       "network": "partial (museum APIs)",
       "verdict": "新增陶瓷单元+4条（244/28单元）；技术与制度关系入正文；未饱和"
+    },
+    {
+      "cycle": "cycle74",
+      "date": "2026-11-23",
+      "methods_used": [
+        "陶瓷续深",
+        "单元改名"
+      ],
+      "gaps_found": {
+        "entries": 4
+      },
+      "network": "partial (museum APIs)",
+      "verdict": "中国陶瓷 4→8（总 248）；单元改名消边界含混；未饱和"
     }
   ],
   "assessment_c33": {

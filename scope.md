@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 244 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 248 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -360,13 +360,17 @@
 | hitoyogiri-flute | 一節切（hitoyogiri 竹笛） | 作品 | 19世纪 | 东亚 | 音乐体裁 | 重要 | O1 |
 | mangbetu-harp | 曼贝图竖琴（domu 或 kundi） | 作品 | 20世纪 | 非洲 | 音乐体裁 | 重要 | O1 |
 
-## art-ceramics（陶瓷工艺）
+## art-ceramics（中国陶瓷工艺）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
 |---|---|---|---|---|---|---|---|
 | yuan-blue-white-jar | 元青花狮耳罐（景德镇） | 作品 | 14世纪 | 中国 | 综合 | 核心 | O6 |
 | longquan-export-bowl | 龙泉窑模印大碗 | 作品 | 14—15世纪 | 中国 | 综合 | 重要 | O6 |
 | ding-tea-bowl | 定窑「邢式」白瓷碗 | 作品 | 10世纪 | 中国 | 综合 | 重要 | O6 |
 | jun-numbered-bulb-bowl | 钧窑数字款钵 | 作品 | 15世纪 | 中国 | 综合 | 重要 | O6 |
+| tang-tomb-guardian | 唐三彩镇墓兽 | 作品 | 8世纪 | 中国 | 雕塑 | 核心 | O6 |
+| qingbai-silver-bowl | 青白瓷银扣碗 | 作品 | 12—13世纪 | 中国 | 综合 | 重要 | O6 |
+| ding-duck-bowl | 定窑鸭纹碗 | 作品 | 12世纪 | 中国 | 综合 | 重要 | O6 |
+| chenghua-doucai-cup | 成化斗彩儿童纹杯 | 作品 | 15世纪 | 中国 | 综合 | 核心 | O6 |
 
 ## work-archives（作品档案）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
