@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 252 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 256 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -275,6 +275,10 @@
 | joseon-auspicious-jar | 朝鲜朝白瓷四字纹罐 | 作品 | 19世纪 | 东亚 | 综合 | 重要 | O1 |
 | joseon-buncheong-flask | 朝鲜朝粉青刻花酒壶 | 作品 | 16世纪 | 东亚 | 综合 | 重要 | O1 |
 | khmer-thai-fruit-jar | 泰东北窑果形罐 | 作品 | 12世纪 | 东南亚 | 综合 | 重要 | O1 |
+| arita-sake-bottle | 有田伊万里风格酒瓶 | 作品 | 17世纪 | 日本 | 综合 | 重要 | O1 |
+| imari-jar | 伊万里花木纹大罐 | 作品 | 17世纪 | 日本 | 综合 | 重要 | O1 |
+| shino-mizusashi | 志野「绘」水指 | 作品 | 16—17世纪 | 日本 | 综合 | 重要 | O1 |
+| kakiemon-beauty | 柿右卫门美人立像 | 作品 | 17世纪 | 日本 | 综合 | 核心 | O1 |
 
 ## art-islamic（伊斯兰艺术（西亚·中亚））
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

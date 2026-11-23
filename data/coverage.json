@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 252,
+    "total": 256,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -3029,6 +3029,54 @@
     "cizhou-floral-vase": {
       "title": "北宋磁州窑花卉纹瓶",
       "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "arita-sake-bottle": {
+      "title": "有田伊万里风格酒瓶",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "imari-jar": {
+      "title": "伊万里花木纹大罐",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "shino-mizusashi": {
+      "title": "志野「绘」水指",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "kakiemon-beauty": {
+      "title": "柿右卫门美人立像",
+      "tier": "核心",
       "level": "L2",
       "status": "written_l2",
       "sources_count": 1,

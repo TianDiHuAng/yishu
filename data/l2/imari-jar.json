@@ -1,0 +1,19 @@
+{
+ "id": "imari-jar",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为伊万里釉下青花大罐，克利夫兰艺术博物馆定年为1600年代末。",
+  "风格特征": "**春牡丹、夏兰、秋菊同时盛开**于庭石之间——即把三个季节的花并置在同一器面上。该馆指出，这些釉下青花纹样**受到输往欧洲的中国瓷器上同类设计的启发**。",
+  "代表人物与作品": "作者未署名。相关条目见有田伊万里风格酒瓶与志野水指。本件为克利夫兰艺术博物馆藏品（1964.266）。",
+  "技法或形式分析": "材质为釉下青花瓷，高40.1厘米、口径30.5厘米（据该馆藏品记录）。大罐的器形与尺幅适合作为陈设器或外销商品。",
+  "与前后风格的关系和争论": "**该馆给出两个条件叠加的「机遇结构」**：其一是**1600年代初朝鲜陶工在日本发现高岭土**；其二是**明亡（1644）后的政治动荡打断了中国的外销**。二者**共同**为日本创造了**向欧洲市场供应瓷器**的机会。而日本陶工对**中国原型的仔细研究**，则同时服务于**国内与海外**两类受众。",
+  "一图": "示意图以高岭土发现、明亡断供与日本接管欧洲市场三者关系标示本罐。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「明亡导致外销中断」的具体年份与规模该馆只作概述；（3）本罐是否外销品未记录；（4）四季花卉的象征系统未展开。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='imari-jar 示意图'><title>imari-jar</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>高岭土发现</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1600s初</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>伊万里大罐</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>高40.1cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>明亡·断供</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>1644 后</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>供应欧洲</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>机遇</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>伊万里罐：两条件叠加的机遇</text></g></svg>",
+ "sources": [
+  "cma-1964-266"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；断供规模未量化；外销属性未记录。"
+}

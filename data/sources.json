@@ -3829,6 +3829,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；釉石陶刻花嵌白 高41.3cm；说明含化妆土与胎色对比"
+    },
+    {
+      "id": "cma-1992-117",
+      "title": "Cleveland Museum of Art — Sake Bottle, Arita/Imari style, mid–late 1600s, acc. 1992.117",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1992.117",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；釉下青花瓷 20cm 径10.2cm；说明含朝鲜陶工与高岭土发现"
+    },
+    {
+      "id": "cma-1964-266",
+      "title": "Cleveland Museum of Art — Large Jar with Peonies, Orchids, Chrysanthemums, late 1600s, acc. 1964.266",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1964.266",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；伊万里釉下青花 高40.1cm 径30.5cm；说明含明亡与欧洲市场"
+    },
+    {
+      "id": "cma-1972.9",
+      "title": "Cleveland Museum of Art — Water Container (Mizusashi) with Riverscape, Shino ware, acc. 1972.9",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1972.9",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；美浓志野石陶 径19.6cm 高18.4cm；说明含「绘志野」与茶人品味"
+    },
+    {
+      "id": "cma-1964-366",
+      "title": "Cleveland Museum of Art — Standing Figure of a Beauty (Kakiemon), c. 1690, acc. 1964.366",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1964.366",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；釉上彩瓷 高38cm；说明含酒井田家族与柿右卫门之名"
     }
   ]
 }

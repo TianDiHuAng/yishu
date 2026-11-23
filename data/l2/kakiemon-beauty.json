@@ -1,0 +1,19 @@
+{
+ "id": "kakiemon-beauty",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为肥前（今佐贺县，九州）**柿右卫门**类型釉上彩瓷美人立像，克利夫兰艺术博物馆定年为约1690年。",
+  "风格特征": "该馆描述其装束：**层叠的和服**外罩一件称为 **uchikake（打挂）** 的外衣，上有**活泼的花卉纹**。并指出此类人物「**可能源自以游女（courtesan）为形制作的偶人**」。",
+  "代表人物与作品": "作者为**酒井田家族**（Sakaida family）陶工；该馆说明其历代家长**袭名「柿右卫门」**，故该工房的历史作品被称为**柿右卫门烧**。相关条目见有田伊万里风格酒瓶与伊万里花木纹大罐。本件为克利夫兰艺术博物馆藏品（1964.366）。",
+  "技法或形式分析": "材质为釉上彩瓷（Hizen ware, Kakiemon type），整体高38厘米（据该馆藏品记录）。该馆点出该工房两项标志：它是日本**最早使用多彩釉上珐琅**的工房之一，且以**乳白色瓷胎**见称。",
+  "与前后风格的关系和争论": "**「袭名制」是本条目的关键制度信息**：作品不署名于个人，而归属于一个**世代承袭的名字**。这使「作者」在柿右卫门烧中成为一个**制度性主体**，而非个体；本条目据此不指认具体某代传人。",
+  "一图": "示意图以打挂装束、釉上多彩珐琅与酒井田袭名制三者关系标示本像。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「源自游女偶人」该馆用 may have derived，属推测；（3）本像属第几代柿右卫门未记录；（4）乳白瓷胎的原料与烧成未展开。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='kakiemon-beauty 示意图'><title>kakiemon-beauty</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>打挂装束</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>游女偶人?</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>柿右卫门像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>高38cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>釉上多彩</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>日本最早之一</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>酒井田袭名</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>制度性主体</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>柿右卫门像：装束、工艺与袭名</text></g></svg>",
+ "sources": [
+  "cma-1964-366"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；偶人关联为推测；代际未记录。"
+}

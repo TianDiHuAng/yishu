@@ -5467,6 +5467,88 @@
       "sources": [
         "cma-1948-226"
       ]
+    },
+    {
+      "id": "arita-sake-bottle",
+      "title": "有田伊万里风格酒瓶",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "17世纪",
+      "region": "日本",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "有田（肥前）伊万里风格釉下青花酒瓶，克利夫兰艺术博物馆藏（1992.117）。",
+      "when": "1600年代中—后期",
+      "overview": "日本早期白瓷的出现与朝鲜陶工带来多室窑技术、并在日本发现高岭土直接相关。",
+      "related": [
+        "imari-jar",
+        "kakiemon-beauty"
+      ],
+      "sources": [
+        "cma-1992-117"
+      ]
+    },
+    {
+      "id": "imari-jar",
+      "title": "伊万里花木纹大罐",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "17世纪",
+      "region": "日本",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "伊万里釉下青花大罐，克利夫兰艺术博物馆藏（1964.266）。",
+      "when": "1600年代末",
+      "overview": "春牡丹、夏兰、秋菊同时开放于石间；纹样仿自输欧中国瓷器；明亡后中国外销中断，日本乘势供应欧洲市场。",
+      "related": [
+        "arita-sake-bottle",
+        "shino-mizusashi",
+        "kakiemon-beauty"
+      ],
+      "sources": [
+        "cma-1964-266"
+      ]
+    },
+    {
+      "id": "shino-mizusashi",
+      "title": "志野「绘」水指",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "16—17世纪",
+      "region": "日本",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "美浓志野石陶水指，克利夫兰艺术博物馆藏（1972.9），漆盖为近代配换。",
+      "when": "1570年代末—1600年代初",
+      "overview": "茶会备水之器；一面抽象纹样似芦苇小舟的水墨画，另一面为几何纹；形不规则、釉厚而莹。",
+      "related": [
+        "imari-jar",
+        "kakiemon-beauty"
+      ],
+      "sources": [
+        "cma-1972.9"
+      ]
+    },
+    {
+      "id": "kakiemon-beauty",
+      "title": "柿右卫门美人立像",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "17世纪",
+      "region": "日本",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "肥前柿右卫门釉上彩瓷美人像，克利夫兰艺术博物馆藏（1964.366）。",
+      "when": "约1690年",
+      "overview": "着层叠和服外罩「打挂」；原型或出自以游女为形的偶人；出酒井田家族，历代家长袭名柿右卫门。",
+      "related": [
+        "arita-sake-bottle",
+        "imari-jar",
+        "shino-mizusashi"
+      ],
+      "sources": [
+        "cma-1964-366"
+      ]
     }
   ]
 }
