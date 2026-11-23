@@ -4469,6 +4469,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；彩绘陶与木 57.2×53.3×29.2cm；说明含工坊复制与分工"
+    },
+    {
+      "id": "cma-1945-24",
+      "title": "Cleveland Museum of Art — Pablo Picasso, La Vie, 1903, acc. 1945.24",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1945.24",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；布面油画 196.5×129.2cm；说明含蓝色时期与 Casagemas 之死"
+    },
+    {
+      "id": "cma-2020-104",
+      "title": "Cleveland Museum of Art — Georges Braque, The Port of l'Estaque, the Pier, 1906, acc. 2020.104",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2020.104",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；布面油画 59.7×73cm；说明含野兽派与互补色"
+    },
+    {
+      "id": "cma-1960-81",
+      "title": "Cleveland Museum of Art — Claude Monet, Water Lilies (Agapanthus), c. 1915–26, acc. 1960.81",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1960.81",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；布面油画 201.3×425.6cm；说明含吉维尼花园与无地平线"
+    },
+    {
+      "id": "cma-1972-8",
+      "title": "Cleveland Museum of Art — Pablo Picasso, Bottle, Glass, Fork, 1911–12, acc. 1972.8",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1972.8",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；布面油画 72×52.7cm；说明含分析立体主义与字母数字"
     }
   ]
 }

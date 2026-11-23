@@ -173,6 +173,13 @@
    [
     "1620"
    ]
+  ],
+  [
+   "picasso-la-vie",
+   "1903年",
+   [
+    "1901"
+   ]
   ]
  ],
  "orphans": [],
@@ -227,8 +234,8 @@
   }
  },
  "link_audit": {
-  "cross_domain": 16,
+  "cross_domain": 18,
   "oneway": 0,
-  "total_links": 1002
+  "total_links": 1018
  }
 }

@@ -67,6 +67,12 @@
    "to_dom": "art"
   },
   {
+   "from": "braque-violin-collage",
+   "to": "braque-estaque-port",
+   "from_dom": "music",
+   "to_dom": "art"
+  },
+  {
    "from": "dumont-harpsichord-miniature",
    "to": "rococo",
    "from_dom": "music",
@@ -93,6 +99,12 @@
   {
    "from": "lai-zhong-bell",
    "to": "yayue",
+   "from_dom": "art",
+   "to_dom": "music"
+  },
+  {
+   "from": "braque-estaque-port",
+   "to": "braque-violin-collage",
    "from_dom": "art",
    "to_dom": "music"
   }
@@ -141,5 +153,5 @@
    9
   ]
  ],
- "total_links": 1002
+ "total_links": 1018
 }

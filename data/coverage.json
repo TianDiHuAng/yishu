@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 316,
+    "total": 320,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -3796,6 +3796,54 @@
     },
     "verrocchio-christ-bust": {
       "title": "韦罗基奥《基督胸像》",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "picasso-la-vie": {
+      "title": "毕加索《人生》（La Vie）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "braque-estaque-port": {
+      "title": "布拉克《埃斯塔克港：码头》",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "monet-water-lilies-agapanthus": {
+      "title": "莫奈《睡莲（百子莲）》",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "picasso-bottle-glass-fork": {
+      "title": "毕加索《瓶、杯、叉》",
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",
