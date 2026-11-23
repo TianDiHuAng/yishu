@@ -1964,6 +1964,37 @@
       "check_links_result": "broken=0(255页)",
       "audit_all": "12/12 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle68",
+      "date": "2026-11-23",
+      "status": "completed",
+      "gap_methods": [
+        "非洲余量推进"
+      ],
+      "network": "partial: museum APIs ok",
+      "new_entries": 4,
+      "new_entry_ids": [
+        "vili-ivory-tusk",
+        "asante-knife-sheath",
+        "yoruba-veranda-post",
+        "yoruba-ifa-necklace"
+      ],
+      "africa_total": 19,
+      "must_state": [
+        "维利象牙雕：为欧洲客户而作却含自我再现",
+        "金鞘：kra + 行会垄断",
+        "门廊柱：权力分配的可视化（女性形象含义未展开）",
+        "Ifá 项链：袋内成分属不宜公开知识，不追问"
+      ],
+      "new_sources": 4,
+      "sources_total": 355,
+      "entries_total": 224,
+      "pages": 259,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(259页)",
+      "audit_all": "12/12 ok",
+      "commits": 1
     }
   ]
 }

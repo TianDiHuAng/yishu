@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 220,
+    "total": 224,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 26,
@@ -2644,6 +2644,54 @@
     },
     "haida-raven-rattle": {
       "title": "海达渡鸦响器",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "vili-ivory-tusk": {
+      "title": "维利象牙雕刻（殖民期纪念品）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "asante-knife-sheath": {
+      "title": "阿散蒂金刀鞘尖（sika boha）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "yoruba-veranda-post": {
+      "title": "约鲁巴门廊柱（Òpó）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "yoruba-ifa-necklace": {
+      "title": "约鲁巴 Ifá 占卜者项链（òdìgbà Ifá）",
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",

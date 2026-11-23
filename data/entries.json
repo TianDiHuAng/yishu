@@ -3915,7 +3915,8 @@
         "ethiopian-diptych",
         "ethiopian-amulet-necklace",
         "ethiopian-harar-necklace",
-        "kongo-nkisi-nkondi"
+        "kongo-nkisi-nkondi",
+        "vili-ivory-tusk"
       ],
       "sources": [
         "cma-1999-1",
@@ -4093,7 +4094,9 @@
       "overview": "由男性在年度化装游行中佩戴，敬奉「大母」Ìyá Nlá；面具塑「美丽少女」，头巾上栖鳄鱼，尾节可摆动。",
       "related": [
         "asante-memorial-head",
-        "african-art"
+        "african-art",
+        "yoruba-veranda-post",
+        "yoruba-ifa-necklace"
       ],
       "sources": [
         "cma-1975-168"
@@ -4437,7 +4440,8 @@
       "overview": "至少自1600年起用于称量金粉与金块；王廷收藏最丰，平民常仅十余枚；图像分几何与具象两类，后者多以谚语为据。",
       "related": [
         "asante-soul-disc",
-        "asante-memorial-head"
+        "asante-memorial-head",
+        "asante-knife-sheath"
       ],
       "sources": [
         "cma-1961-399"
@@ -4457,7 +4461,8 @@
       "overview": "为 akrafo（「灵魂之人」）官员佩于胸前以示等级与职守；造型或受北非伊斯兰金币影响，同心水波纹影响其构图。",
       "related": [
         "asante-goldweight",
-        "asante-memorial-head"
+        "asante-memorial-head",
+        "asante-knife-sheath"
       ],
       "sources": [
         "cma-1944-290"
@@ -4518,7 +4523,8 @@
       "related": [
         "kongo-crucifix",
         "african-art",
-        "kongo-corpus"
+        "kongo-corpus",
+        "vili-ivory-tusk"
       ],
       "sources": [
         "cma-2010-432"
@@ -4788,6 +4794,86 @@
       ],
       "sources": [
         "cma-1921-1577"
+      ]
+    },
+    {
+      "id": "vili-ivory-tusk",
+      "title": "维利象牙雕刻（殖民期纪念品）",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "19—20世纪",
+      "region": "非洲",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "刚果／维利雕刻者所作小象牙雕，克利夫兰艺术博物馆藏（1969.138）。",
+      "when": "约1900年",
+      "overview": "为欧洲客户而作的「纪念品」，却也在其中选择性地再现刚果人的衣着——自本地腰布到欧洲呢帽。",
+      "related": [
+        "kongo-nkisi-nkondi",
+        "african-art"
+      ],
+      "sources": [
+        "cma-1969-138"
+      ]
+    },
+    {
+      "id": "asante-knife-sheath",
+      "title": "阿散蒂金刀鞘尖（sika boha）",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "19世纪",
+      "region": "非洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "阿散蒂金匠行会所制金鞘尖，克利夫兰艺术博物馆藏（1935.312）。",
+      "when": "1800年代",
+      "overview": "金鞘包覆国王仪式用刀（sikay）的铁刃；金在阿坎诸国象征生命之力 kra，是太阳在世间的对应物。",
+      "related": [
+        "asante-goldweight",
+        "asante-soul-disc"
+      ],
+      "sources": [
+        "cma-1935-312"
+      ]
+    },
+    {
+      "id": "yoruba-veranda-post",
+      "title": "约鲁巴门廊柱（Òpó）",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "20世纪",
+      "region": "非洲",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "尼日利亚埃基蒂州（推定）约鲁巴宫殿雕柱，克利夫兰艺术博物馆藏（1969.55）。",
+      "when": "1900年代初至中期",
+      "overview": "宫廷由数进院落组成，围以具象雕柱；骑马武士与跪姿女性为埃基蒂常见主题，象征约鲁巴社会的权力分配。",
+      "related": [
+        "yoruba-gelede-masks",
+        "yoruba-ifa-necklace"
+      ],
+      "sources": [
+        "cma-1969-55"
+      ]
+    },
+    {
+      "id": "yoruba-ifa-necklace",
+      "title": "约鲁巴 Ifá 占卜者项链（òdìgbà Ifá）",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "20世纪",
+      "region": "非洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "约鲁巴占卜者随身项链，克利夫兰艺术博物馆藏（1995.23）。",
+      "when": "1900年代",
+      "overview": "彩玻璃珠为占卜增辉并标示占卜者的高地位；如同国王，其权威源自彼岸 òrún；小袋内缝入护身之物。",
+      "related": [
+        "yoruba-veranda-post",
+        "yoruba-gelede-masks"
+      ],
+      "sources": [
+        "cma-1995-23"
       ]
     }
   ]

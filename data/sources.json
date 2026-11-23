@@ -3509,6 +3509,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；木与颜料 31.8×9.3×11.2cm；说明含萨满与世俗酋长的双重使用"
+    },
+    {
+      "id": "cma-1969-138",
+      "title": "Cleveland Museum of Art — Carving (ivory tusk), Kongo/Vili, c. 1900, acc. 1969.138",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1969.138",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；象牙 17.8cm；说明含欧洲客户与自我再现"
+    },
+    {
+      "id": "cma-1935-312",
+      "title": "Cleveland Museum of Art — Knife-sheath tip (sika boha), Asante, 1800s, acc. 1935.312",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1935.312",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；金 8.7cm；说明含 kra 生命之力与 repoussé 技法"
+    },
+    {
+      "id": "cma-1969-55",
+      "title": "Cleveland Museum of Art — Veranda Post (Òpó), Yorùbá (probably Ekiti), early–mid 1900s, acc. 1969.55",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1969.55",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；木等 106.6cm；说明含权力分配主题"
+    },
+    {
+      "id": "cma-1995-23",
+      "title": "Cleveland Museum of Art — Ifá diviner's necklace (òdìgbà Ifá), Yorùbá, 1900s, acc. 1995.23",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1995.23",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；布、玻璃珠等 49.5cm；说明含 òrún 与护身小袋"
     }
   ]
 }
