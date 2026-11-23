@@ -4229,6 +4229,86 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；彩绘砂岩 22×22.7cm；说明含阿顿神庙拆解与王后形象频度"
+    },
+    {
+      "id": "cma-1953-125",
+      "title": "Cleveland Museum of Art — Torso of a Kouros, c. 550 BCE, acc. 1953.125",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1953.125",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；大理石 62.5cm；说明含埃及影响与希腊化发展"
+    },
+    {
+      "id": "cma-2000-6",
+      "title": "Cleveland Museum of Art — Statuette of Herakles, 510–500 BCE, acc. 2000.6",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2000.6",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；实心青铜 21.5cm；说明含从运动员到赫拉克勒斯的再认定"
+    },
+    {
+      "id": "cma-1924-1046",
+      "title": "Cleveland Museum of Art — Statue of an Athlete, 1–100 CE, acc. 1924.1046",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1924.1046",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；大理石 173.9cm；说明含罗马摹希腊与支撑结构"
+    },
+    {
+      "id": "cma-1929-998",
+      "title": "Cleveland Museum of Art — Portrait Head of Vespasian Recut from Nero, 64–79 CE, acc. 1929.998",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1929.998",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；大理石 40×21.6×24.9cm；说明含记忆抹除与1973年分离"
+    },
+    {
+      "id": "cma-1964-36",
+      "title": "Cleveland Museum of Art — Pierre Puget, Study for The Blessed Alessandro Sauli, 1663–68, acc. 1964.36",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1964.36",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；陶土 69.7cm；说明含热那亚教堂大型雕像小稿与改革家身份"
+    },
+    {
+      "id": "cma-2018-257",
+      "title": "Cleveland Museum of Art — Filippo Parodi, Sleeping Christ Child, c. 1675, acc. 2018.257",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2018.257",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；大理石 63×102×42cm；说明含抛光差异与死亡隐喻"
+    },
+    {
+      "id": "cma-1999-213",
+      "title": "Cleveland Museum of Art — Doccia Porcelain Factory / Soldani, Spring, mid-1700s, acc. 1999.213",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1999.213",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；瓷 40.6×55.9cm；说明含1743年购模型与1708四季浮雕"
+    },
+    {
+      "id": "cma-1971-100",
+      "title": "Cleveland Museum of Art — Johann Liss, Cupid (Amor), c. 1630, acc. 1971.100",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1971.100",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；布面油画 87.7×65.7cm；说明含威尼斯色彩与卡拉瓦乔明暗"
     }
   ]
 }

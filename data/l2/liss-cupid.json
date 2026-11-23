@@ -1,0 +1,19 @@
+{
+ "id": "liss-cupid",
+ "level": "L2",
+ "sections": {
+  "时代背景": "该馆说明，约翰·利斯（约1597—1631）曾**在荷兰与安特卫普学习**，后于**约1620年**前往**罗马与威尼斯**。本件约作于1630年。",
+  "风格特征": "该馆给出两条风格来源：画中**丰富的色彩与流畅的笔触**受威尼斯前辈（提香、丁托列托或委罗内塞）影响；而**强烈的明暗对比**则显示对**卡拉瓦乔**的风格性欠债。",
+  "代表人物与作品": "作者利斯。相关条目见卡拉瓦乔与巴洛克。本件为克利夫兰艺术博物馆藏品（1971.100）。",
+  "技法或形式分析": "材质为**布面油画**，画心87.7 × 65.7厘米，含框108 × 86 × 6.5厘米（据该馆藏品记录）。该馆指出，丘比特**直接的目光**与姿态中**集中的能量**与观者建立强烈联系。",
+  "与前后风格的关系和争论": "本条目照录该馆把「威尼斯色彩」与「卡拉瓦乔明暗」并列的做法，不把两者合成一种风格标签；同时保留「提香、丁托列托或委罗内塞」三选一的未定性。",
+  "一图": "示意图以荷兰/安特卫普学习、威尼斯色彩与卡拉瓦乔明暗三者关系标示本画。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）威尼斯前辈的具体影响者该馆用「或」，未定；（3）「风格性欠债」为馆方术语，本条照录；（4）委托者与原始陈列未取得。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='liss-cupid 示意图'><title>liss-cupid</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>荷兰·安特卫普</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>学习</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>利斯《丘比特》</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>c.1630</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>威尼斯色彩</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>三选一</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>卡拉瓦乔明暗</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>强对比</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='590.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>利斯丘比特：学习、色彩与明暗</text></g></svg>",
+ "sources": [
+  "cma-1971-100"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；影响者该馆未定。"
+}

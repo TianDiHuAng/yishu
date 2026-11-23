@@ -1,0 +1,19 @@
+{
+ "id": "vespasian-recut-head",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为罗马大理石头像，克利夫兰艺术博物馆定年为公元64—79年。该馆说明，它虽被设计成嵌入一具躯体雕像，但**1929年入藏时与之相接的着袍躯体并非原配**；**1973年二者被分开**，躯体现藏库房。",
+  "风格特征": "该馆给出的核心事实是：这颗头像在**古代即被改刻**——从尼禄的形象改为韦斯巴芗，原因是前者死后遭到**记忆抹除（damnatio memoriae）**。改刻痕迹包括：**后脑一道线显示尼禄的长发被剪短**，而其他尼禄特征（如**下唇后削**）仍保留。",
+  "代表人物与作品": "所塑者为韦斯巴芗；原为尼禄像。作者未署名。相关条目见罗马艺术与希腊艺术。本件为克利夫兰艺术博物馆藏品（1929.998）。",
+  "技法或形式分析": "材质为**大理石**，整体40 × 21.6 × 24.9厘米（据该馆藏品记录）。「改刻」不是修复，而是**在原有石材上重做身份**：短发与残留的唇形，使两个统治者的形象在同一块石头上叠加。",
+  "与前后风格的关系和争论": "本条目把「记忆抹除」作为政治技术来叙述：图像并非被销毁，而是**被改作另一个人**。该馆未展开这一制度的具体运作，本条目亦不推测。",
+  "一图": "示意图以尼禄像、记忆抹除、改刻为韦斯巴芗与1973年躯体分离四者关系标示本件。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）非原配躯体的来源未记录；（3）记忆抹除的诏令原文未取得；（4）改刻的具体年代仅在64—79年区间内。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='vespasian-recut-head 示意图'><title>vespasian-recut-head</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>尼禄像</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>原像</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>记忆抹除</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>政治</text><rect class='svg-box-accent' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='475.0' y='142' text-anchor='middle'>改刻韦斯巴芗</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>64—79</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>1973 分离</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>躯体非原配</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>韦斯巴芗头像：改刻与政治</text></g></svg>",
+ "sources": [
+  "cma-1929-998"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；躯体来源与诏令原文未取得。"
+}

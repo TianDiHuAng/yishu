@@ -1,0 +1,19 @@
+{
+ "id": "herakles-bronze",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为希腊实心青铜小像，克利夫兰艺术博物馆定年为公元前510—前500年。该馆说明它原被称为**运动员**，并被假定手持标枪或铁饼。",
+  "风格特征": "该馆重新认定为**英雄赫拉克勒斯**：他因力量受崇拜，常以「击打姿态」持棍出现。虽然这一时期他通常被画成**有须者**，本件却强调**年轻**：理想化面容与精心安排的头发。",
+  "代表人物与作品": "所塑者为赫拉克勒斯；作者未署名。相关条目见古希腊艺术与罗马艺术。本件为克利夫兰艺术博物馆藏品（2000.6）。",
+  "技法或形式分析": "材质为**实心青铜**（solid cast），整体高21.5厘米（据该馆藏品记录）。该馆称其**最显著的特征是强健体魄**——肌肉隆起且轮廓鲜明；身体向左迈步、躯干扭转、右臂紧屈举至头后。",
+  "与前后风格的关系和争论": "本条目把「运动员→赫拉克勒斯」的**再认定**作为内容：这不是对象的改变，而是图像学判断的改变。该馆以「很可能表现」表述，本条目保留推测语气。",
+  "一图": "示意图以实心青铜、肌肉体魄、击打姿态与再认定四者关系标示本像。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）对象认定该馆用 很可能；（3）原出土地与铭文未记录；（4）缺失的兵器（棍/其他）未取得。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='herakles-bronze 示意图'><title>herakles-bronze</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>实心青铜</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>21.5cm</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>赫拉克勒斯</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>前510—500</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>隆起肌肉</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>力量</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>运动员→英雄</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>再认定</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>赫拉克勒斯像：体魄与再认定</text></g></svg>",
+ "sources": [
+  "cma-2000-6"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；对象认定为推测。"
+}

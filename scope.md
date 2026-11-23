@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 292 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 300 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -36,6 +36,10 @@
 | minnefer-statue | 明内弗行进像 | 作品 | 公元前24世纪 | 埃及 | 雕塑 | 核心 | O2 |
 | amenhotep-tomb-relief | 阿蒙霍特普医生墓浮雕 | 作品 | 公元前13世纪 | 埃及 | 雕塑 | 重要 | O2 |
 | nefertiti-talatat | 纳芙蒂蒂 Talatat 浮雕 | 作品 | 公元前14世纪 | 埃及 | 雕塑 | 核心 | O2 |
+| kouros-torso | 库罗斯青年像残躯 | 作品 | 公元前6世纪 | 希腊 | 雕塑 | 核心 | O2 |
+| herakles-bronze | 赫拉克勒斯青铜小像 | 作品 | 公元前6世纪 | 希腊 | 雕塑 | 核心 | O2 |
+| roman-athlete-statue | 罗马运动员像 | 作品 | 公元1世纪 | 意大利 | 雕塑 | 重要 | O2 |
+| vespasian-recut-head | 韦斯巴芗头像（由尼禄像改刻） | 作品 | 公元1世纪 | 意大利 | 雕塑 | 核心 | O2 |
 
 ## art-medieval（艺术史·中世纪）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -77,6 +81,10 @@
 | soldani-apollo-daphne | 索尔达尼《阿波罗与达芙妮》 | 作品 | 18世纪 | 欧洲 | 雕塑 | 重要 | O1 |
 | caravaggio-andrew | 卡拉瓦乔《圣安德烈受难》 | 作品 | 17世纪 | 欧洲 | 绘画 | 核心 | O1 |
 | la-tour-peter | 拉图尔《悔悟的圣彼得》 | 作品 | 17世纪 | 欧洲 | 绘画 | 核心 | O1 |
+| puget-sauli-study | 皮热《圣阿莱桑德罗·绍利》小稿 | 作品 | 17世纪 | 欧洲 | 雕塑 | 重要 | O1 |
+| parodi-sleeping-christ | 帕罗迪《睡着的基督圣婴》 | 作品 | 17世纪 | 欧洲 | 雕塑 | 核心 | O1 |
+| doccia-spring-relief | 多西亚瓷厂《春》浮雕 | 作品 | 18世纪 | 欧洲 | 雕塑 | 重要 | O1 |
+| liss-cupid | 利斯《丘比特》 | 作品 | 17世纪 | 欧洲 | 绘画 | 核心 | O1 |
 
 ## art-neo-romantic（艺术史·新古典与浪漫）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

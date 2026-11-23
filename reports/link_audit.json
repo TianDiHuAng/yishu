@@ -97,6 +97,10 @@
    15
   ],
   [
+   "baroque",
+   14
+  ],
+  [
    "african-art",
    13
   ],
@@ -107,10 +111,6 @@
   [
    "japanese-art",
    11
-  ],
-  [
-   "baroque",
-   10
   ],
   [
    "ukiyo-e",
@@ -129,5 +129,5 @@
    9
   ]
  ],
- "total_links": 906
+ "total_links": 938
 }

@@ -114,7 +114,8 @@
         "roman-art",
         "gudea-statue",
         "minnefer-statue",
-        "nefertiti-talatat"
+        "nefertiti-talatat",
+        "kouros-torso"
       ],
       "sources": [
         "enc-prehistoric-art",
@@ -147,7 +148,11 @@
       "overview": "雕塑从古风时期的程式化青年像发展到古典时期的理想人体，建筑形成多立克、爱奥尼、科林斯三柱式；断代终点采来源明确记载的前146年。",
       "related": [
         "egyptian-art",
-        "roman-art"
+        "roman-art",
+        "kouros-torso",
+        "herakles-bronze",
+        "roman-athlete-statue",
+        "vespasian-recut-head"
       ],
       "sources": [
         "enc-greek-art",
@@ -246,7 +251,10 @@
       "related": [
         "greek-art",
         "byzantine-art",
-        "egyptian-art"
+        "egyptian-art",
+        "herakles-bronze",
+        "roman-athlete-statue",
+        "vespasian-recut-head"
       ],
       "sources": [
         "enc-roman-art",
@@ -911,7 +919,11 @@
         "baroque-crossmedia",
         "pedro-de-mena-peter",
         "soldani-apollo-daphne",
-        "caravaggio-andrew"
+        "caravaggio-andrew",
+        "puget-sauli-study",
+        "parodi-sleeping-christ",
+        "doccia-spring-relief",
+        "liss-cupid"
       ],
       "sources": [
         "enc-baroque",
@@ -983,7 +995,9 @@
         "rembrandt",
         "soldani-apollo-daphne",
         "caravaggio-andrew",
-        "la-tour-peter"
+        "la-tour-peter",
+        "parodi-sleeping-christ",
+        "liss-cupid"
       ],
       "sources": [
         "enc-caravaggio",
@@ -9907,7 +9921,8 @@
       "related": [
         "baroque",
         "velazquez",
-        "rodin"
+        "rodin",
+        "puget-sauli-study"
       ],
       "sources": [
         "cma-2009-81"
@@ -9940,7 +9955,8 @@
       "overview": "取材达芙妮化月桂的瞬间；以动态构图、转瞬即逝与形体转化体现1600年代意大利关注；据贝尼尼1622—25大理石像。",
       "related": [
         "baroque",
-        "caravaggio"
+        "caravaggio",
+        "doccia-spring-relief"
       ],
       "sources": [
         "cma-1992-230"
@@ -10293,6 +10309,270 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='nefertiti-talatat 示意图'><title>nefertiti-talatat</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>阿顿改革</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>前14世纪</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>纳芙蒂蒂 talatat</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>22×22.7</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>王后频度</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>原因未知</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>拆作填料</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>阿蒙神庙</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>纳芙蒂蒂 talatat：改革、图像与拆解</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（CMA）来源；图像频率原因馆方明言未知。"
+    },
+    {
+      "id": "kouros-torso",
+      "title": "库罗斯青年像残躯",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元前6世纪",
+      "region": "希腊",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "古希腊古风时期大理石库罗斯残躯，克利夫兰艺术博物馆藏（1953.125）。",
+      "when": "约公元前550年",
+      "overview": "裸体青年直立、双臂贴身、一足略前；类型可能受埃及影响，后按希腊路线发展。",
+      "related": [
+        "greek-art",
+        "egyptian-art"
+      ],
+      "sources": [
+        "cma-1953-125"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明，古希腊语 kouros 意为「青年」；本残躯属于大型石雕中相对罕见的一类，制作时间约为**公元前600年前后至公元前500年后**，仅延续一个多世纪。",
+        "风格特征": "其类型为**裸体青年直立、双臂贴身、一足略向前**。该馆指出，这一类型「可能源自埃及影响，但随后完全按希腊路线发展」。它出土于圣所与墓地，既可表现神（尤其阿波罗），也可表现凡人。",
+        "代表人物与作品": "作者未署名。相关条目见古希腊艺术与埃及艺术。本件为克利夫兰艺术博物馆藏品（1953.125）。",
+        "技法或形式分析": "材质为**大理石**，残高62.5厘米（据该馆藏品记录）。该馆指出，尽管已残损，雕像仍保留「 精工完成 与带纹样」的表面；本条据此强调**表面处理**是判断其年代与类型的重要依据。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「埃及影响→希腊化发展」作为可核查的风格线索，但不把这种影响说成单向复制：馆方措辞是「可能起源」，本条目保留其不确定性。",
+        "一图": "示意图以埃及影响、希腊本土发展、圣所/墓地用途与残存表面四者关系标示本像。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「埃及影响」该馆用 probably，属推测；（3）出土地与完整像的原貌未取得；（4）表面纹样的具体图案未列。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='kouros-torso 示意图'><title>kouros-torso</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>埃及影响?</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>类型起源</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>库罗斯残躯</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>约前550</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>圣所/墓地</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>用途</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>残存表面</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>纹样</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>库罗斯：起源、用途与表面</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；起源为推测；出土地未取得。"
+    },
+    {
+      "id": "herakles-bronze",
+      "title": "赫拉克勒斯青铜小像",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元前6世纪",
+      "region": "希腊",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "希腊实心青铜小像，克利夫兰艺术博物馆藏（2000.6）。",
+      "when": "公元前510—前500年",
+      "overview": "曾被认为是运动员，今更可能表现赫拉克勒斯的击打姿态；强调年轻化和理想面容。",
+      "related": [
+        "greek-art",
+        "roman-art"
+      ],
+      "sources": [
+        "cma-2000-6"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为希腊实心青铜小像，克利夫兰艺术博物馆定年为公元前510—前500年。该馆说明它原被称为**运动员**，并被假定手持标枪或铁饼。",
+        "风格特征": "该馆重新认定为**英雄赫拉克勒斯**：他因力量受崇拜，常以「击打姿态」持棍出现。虽然这一时期他通常被画成**有须者**，本件却强调**年轻**：理想化面容与精心安排的头发。",
+        "代表人物与作品": "所塑者为赫拉克勒斯；作者未署名。相关条目见古希腊艺术与罗马艺术。本件为克利夫兰艺术博物馆藏品（2000.6）。",
+        "技法或形式分析": "材质为**实心青铜**（solid cast），整体高21.5厘米（据该馆藏品记录）。该馆称其**最显著的特征是强健体魄**——肌肉隆起且轮廓鲜明；身体向左迈步、躯干扭转、右臂紧屈举至头后。",
+        "与前后风格的关系和争论": "本条目把「运动员→赫拉克勒斯」的**再认定**作为内容：这不是对象的改变，而是图像学判断的改变。该馆以「很可能表现」表述，本条目保留推测语气。",
+        "一图": "示意图以实心青铜、肌肉体魄、击打姿态与再认定四者关系标示本像。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）对象认定该馆用 很可能；（3）原出土地与铭文未记录；（4）缺失的兵器（棍/其他）未取得。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='herakles-bronze 示意图'><title>herakles-bronze</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>实心青铜</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>21.5cm</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>赫拉克勒斯</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>前510—500</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>隆起肌肉</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>力量</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>运动员→英雄</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>再认定</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>赫拉克勒斯像：体魄与再认定</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；对象认定为推测。"
+    },
+    {
+      "id": "roman-athlete-statue",
+      "title": "罗马运动员像",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元1世纪",
+      "region": "意大利",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "罗马大理石运动员像，克利夫兰艺术博物馆藏（1924.1046）。",
+      "when": "公元1—100年",
+      "overview": "追溯公元前5世纪希腊原型，罗马工匠改用大理石并加支撑（树干与撑杆）以求稳固。",
+      "related": [
+        "roman-art",
+        "greek-art"
+      ],
+      "sources": [
+        "cma-1924-1046"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为罗马大理石运动员像，克利夫兰艺术博物馆定年为公元1—100年。该馆说明，这种理想化运动员像**追溯公元前5世纪希腊创造并流行的雕塑类型**。",
+        "风格特征": "该馆解释其生产逻辑：大型运动员等雕塑原由著名艺术家创作，作为**圣所奉献**；数世纪后被罗马雕塑家广泛**复制与改编**，以满足客户对早期杰作「自有版本」的需求。",
+        "代表人物与作品": "作者未署名。相关条目见罗马艺术与希腊艺术。本件为克利夫兰艺术博物馆藏品（1924.1046）。",
+        "技法或形式分析": "材质由希腊原型的青铜**改为大理石**；该馆特别指出，罗马雕塑家因此添加了某些**稳定性构件**——如**撑杆**与右腿旁的**大树干**。整体高173.9厘米（据该馆藏品记录）。",
+        "与前后风格的关系和争论": "该馆称这类雕塑「极其复杂」：**由罗马人制作、为罗马人制作，却源自希腊祖先**。本条目照录这一判断，不把罗马复制品贬为次级摹本。",
+        "一图": "示意图以希腊原型、罗马复制需求、大理石转换与支撑构件四者关系标示本像。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）所据希腊原作的具体作者未列；（3）原出土地与委托者未记录；（4）支撑构件的修复史未展开。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='roman-athlete-statue 示意图'><title>roman-athlete-statue</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>希腊原型</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>前5世纪</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>罗马运动员像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1—100 CE</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>青铜→大理石</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>材料转换</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>树干·撑杆</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>稳定性</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>罗马运动员像：原型、材料与支撑</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；原作与委托者未取得。"
+    },
+    {
+      "id": "vespasian-recut-head",
+      "title": "韦斯巴芗头像（由尼禄像改刻）",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元1世纪",
+      "region": "意大利",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "罗马大理石头像，克利夫兰艺术博物馆藏（1929.998）。",
+      "when": "公元64—79年",
+      "overview": "古代由尼禄像改刻为韦斯巴芗；后脑发际线缩短，下唇后削等尼禄特征仍存。",
+      "related": [
+        "roman-art",
+        "greek-art"
+      ],
+      "sources": [
+        "cma-1929-998"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为罗马大理石头像，克利夫兰艺术博物馆定年为公元64—79年。该馆说明，它虽被设计成嵌入一具躯体雕像，但**1929年入藏时与之相接的着袍躯体并非原配**；**1973年二者被分开**，躯体现藏库房。",
+        "风格特征": "该馆给出的核心事实是：这颗头像在**古代即被改刻**——从尼禄的形象改为韦斯巴芗，原因是前者死后遭到**记忆抹除（damnatio memoriae）**。改刻痕迹包括：**后脑一道线显示尼禄的长发被剪短**，而其他尼禄特征（如**下唇后削**）仍保留。",
+        "代表人物与作品": "所塑者为韦斯巴芗；原为尼禄像。作者未署名。相关条目见罗马艺术与希腊艺术。本件为克利夫兰艺术博物馆藏品（1929.998）。",
+        "技法或形式分析": "材质为**大理石**，整体40 × 21.6 × 24.9厘米（据该馆藏品记录）。「改刻」不是修复，而是**在原有石材上重做身份**：短发与残留的唇形，使两个统治者的形象在同一块石头上叠加。",
+        "与前后风格的关系和争论": "本条目把「记忆抹除」作为政治技术来叙述：图像并非被销毁，而是**被改作另一个人**。该馆未展开这一制度的具体运作，本条目亦不推测。",
+        "一图": "示意图以尼禄像、记忆抹除、改刻为韦斯巴芗与1973年躯体分离四者关系标示本件。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）非原配躯体的来源未记录；（3）记忆抹除的诏令原文未取得；（4）改刻的具体年代仅在64—79年区间内。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='vespasian-recut-head 示意图'><title>vespasian-recut-head</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>尼禄像</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>原像</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>记忆抹除</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>政治</text><rect class='svg-box-accent' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='475.0' y='142' text-anchor='middle'>改刻韦斯巴芗</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>64—79</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>1973 分离</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>躯体非原配</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>韦斯巴芗头像：改刻与政治</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；躯体来源与诏令原文未取得。"
+    },
+    {
+      "id": "puget-sauli-study",
+      "title": "皮热《圣阿莱桑德罗·绍利》小稿",
+      "kind": "作品",
+      "unit": "art-baroque",
+      "era": "17世纪",
+      "region": "欧洲",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "法国雕塑家皮热为热那亚教堂大型像所作陶土小稿，克利夫兰艺术博物馆藏（1964.36）。",
+      "when": "1663—1668年",
+      "overview": "王室改革家绍利扭转身体、神情专注；摊开的书指向其改革事业。",
+      "related": [
+        "baroque",
+        "pedro-de-mena-peter"
+      ],
+      "sources": [
+        "cma-1964-36"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明，绍利（1534—1591）出自热那亚贵族家庭，是著名布道者，并推动重要天主教改革，包括**通俗布道**与**教会重组**，以覆盖更广的信众。本件是为绍利家族委托、置于热那亚一座教堂的大型雕像所作的**陶土小稿**。",
+        "风格特征": "该馆给出两处可核查的图像要素：**摊开的书**指向绍利的改革者身份；而**扭转的身体与面部表情**则表示他「全然沉浸于一种极为个人的异象」。",
+        "代表人物与作品": "作者为皮埃尔·皮热（1620—1694）。相关条目见巴洛克与德·梅纳雕像。本件为克利夫兰艺术博物馆藏品（1964.36）。",
+        "技法或形式分析": "材质为**陶土**，高69.7厘米（据该馆藏品记录）。作为大型像的小稿，它以可塑材料快速确定动态与神情，而非最终表面效果。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「改革者身份」与「个人异象」并置：书是公共事业的标志，身体扭动则指向私密经验。二者共同构成这件小稿的表现张力。",
+        "一图": "示意图以改革家身份、教堂委托与身体/表情的异象三者关系标示本稿。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）教堂名称与最终像的现址未取得；（3）「个人异象」为该馆解释；（4）小稿与成品的差异未列。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='puget-sauli-study 示意图'><title>puget-sauli-study</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>热那亚改革家</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1534—1591</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>绍利小稿</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1663—68</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>摊开的书</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>改革事业</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>身体扭动</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>个人异象</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>绍利小稿：身份、委托与异象</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；教堂与成品下落未取得。"
+    },
+    {
+      "id": "parodi-sleeping-christ",
+      "title": "帕罗迪《睡着的基督圣婴》",
+      "kind": "作品",
+      "unit": "art-baroque",
+      "era": "17世纪",
+      "region": "欧洲",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "意大利大理石雕塑，克利夫兰艺术博物馆藏（2018.257）。",
+      "when": "约1675年",
+      "overview": "以抛光差异区分肌肤（柔和发亮）与头发/稻草（粗糙吸光）；睡眠隐喻死亡，引向对基督人性受难的冥想。",
+      "related": [
+        "baroque",
+        "caravaggio"
+      ],
+      "sources": [
+        "cma-2018-257"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为意大利雕塑家菲利波·帕罗迪（1630—1702）约1675年的大理石雕塑，克利夫兰艺术博物馆藏（2018.257）。该馆说明，所塑者**不再是婴儿，而是幼童**，身体摊开卧于稻草之上，头向后仰、右臂垂落。",
+        "风格特征": "该馆指出两条理解路径：其一，头部的**朴素光晕**标示其神性；其二，「睡着的基督圣婴」题材长期流行，固然因为题材本身的魅力，但**睡眠作为死亡的隐喻**也促使虔信者冥想基督的人性及其最终的受难与死亡。",
+        "代表人物与作品": "作者帕罗迪。相关条目见巴洛克与卡拉瓦乔。本件为克利夫兰艺术博物馆藏品（2018.257）。",
+        "技法或形式分析": "材质为**大理石**，整体63 × 102 × 42厘米（据该馆藏品记录）。该馆特别描述**抛光程度**的差异：基督身体被磨至柔和微光，而头发与稻草则雕得更粗，因而**吸光而非反光**——同一块石材模拟出不同质感。该馆并称这是向「意大利巴洛克大师」学来的手法（原文在此截断，未点名）。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「触觉」作为主题：抛光差异不只是工艺，更服务于情感冲击。该馆未点明所师法的大师，本条目不补写姓名。",
+        "一图": "示意图以抛光差异、睡眠/死亡隐喻与神性光晕三者关系标示本作。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）该馆说明在大师姓名处截断，不补写；（3）稻草与身体的写实依据未列；（4）原初陈设地点未取得。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='parodi-sleeping-christ 示意图'><title>parodi-sleeping-christ</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>抛光差异</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>光/吸光</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>睡着的基督</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>c.1675</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>睡眠=死亡</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>冥想</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>朴素光晕</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>神性</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>睡着的基督：材质、隐喻与神性</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；馆方说明截断，未补大师姓名。"
+    },
+    {
+      "id": "doccia-spring-relief",
+      "title": "多西亚瓷厂《春》浮雕",
+      "kind": "作品",
+      "unit": "art-baroque",
+      "era": "18世纪",
+      "region": "欧洲",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "佛罗伦萨近郊多西亚瓷厂烧制瓷浮雕，克利夫兰艺术博物馆藏（1999.213）。",
+      "when": "18世纪中期",
+      "overview": "瓷厂1743年购得索尔达尼后裔手中的模型，其中包括1708为费迪南多·德·美第奇所作四季浮雕；本件为其中《春》。",
+      "related": [
+        "soldani-apollo-daphne",
+        "baroque"
+      ],
+      "sources": [
+        "cma-1999-213"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明，18世纪欧洲多数瓷厂也制立体作品，但通常是装饰餐桌或壁炉架的小像；佛罗伦萨近郊的**多西亚瓷厂**则更有雄心，转而请本地伟大的巴洛克雕塑传统提供瓷作模型。",
+        "风格特征": "本件题材为**《春》或「花之王国」**，属于**四季**浮雕组。该馆指出，瓷厂于**1743年**从著名佛罗伦萨雕塑家马西米利亚诺·索尔达尼（1656—1740）的后裔手中购得若干模型，其中包括他**1708年为费迪南多·德·美第奇**所作的一组四季浮雕。",
+        "代表人物与作品": "模型作者为索尔达尼，烧制者为多西亚瓷厂。相关条目见索尔达尼《阿波罗与达芙妮》与巴洛克。本件为克利夫兰艺术博物馆藏品（1999.213）。",
+        "技法或形式分析": "材质为**瓷**，整体40.6 × 55.9厘米（据该馆藏品记录）。把雕塑家的模型转译为瓷浮雕，意味着从**陶土/大理石**的体量感转向更轻、更脆、更适合室内陈设的材料。",
+        "与前后风格的关系和争论": "该馆特别强调「由巴洛克雕塑家提供模型」这一制度性安排：瓷厂不是自行设计，而是**购买并转译已成名雕塑家的稿本**。本条目据此把此作视为**工业与名匠声望**的结合。",
+        "一图": "示意图以多西亚瓷厂、1743年购模型、1708年四季原型与瓷的材料转换四者关系标示本件。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）1708年原型的具体材质与现存地点未取得；（3）瓷厂转译时的尺寸变化未列；（4）其余三季浮雕的去处未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='doccia-spring-relief 示意图'><title>doccia-spring-relief</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>1708 四季原型</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>索尔达尼</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>1743 购模型</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>多西亚瓷厂</text><rect class='svg-box-accent' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='475.0' y='142' text-anchor='middle'>《春》瓷浮雕</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>40.6×55.9</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>雕塑转瓷</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>室内陈设</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>《春》：原型、购藏与材料转译</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；原型与其余三季去向未取得。"
+    },
+    {
+      "id": "liss-cupid",
+      "title": "利斯《丘比特》",
+      "kind": "作品",
+      "unit": "art-baroque",
+      "era": "17世纪",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "德国画家约翰·利斯布面油画，克利夫兰艺术博物馆藏（1971.100）。",
+      "when": "约1630年",
+      "overview": "曾学于荷兰与安特卫普，约1620年赴罗马与威尼斯；色彩与运笔承威尼斯传统，强烈明暗受卡拉瓦乔影响。",
+      "related": [
+        "caravaggio",
+        "baroque"
+      ],
+      "sources": [
+        "cma-1971-100"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明，约翰·利斯（约1597—1631）曾**在荷兰与安特卫普学习**，后于**约1620年**前往**罗马与威尼斯**。本件约作于1630年。",
+        "风格特征": "该馆给出两条风格来源：画中**丰富的色彩与流畅的笔触**受威尼斯前辈（提香、丁托列托或委罗内塞）影响；而**强烈的明暗对比**则显示对**卡拉瓦乔**的风格性欠债。",
+        "代表人物与作品": "作者利斯。相关条目见卡拉瓦乔与巴洛克。本件为克利夫兰艺术博物馆藏品（1971.100）。",
+        "技法或形式分析": "材质为**布面油画**，画心87.7 × 65.7厘米，含框108 × 86 × 6.5厘米（据该馆藏品记录）。该馆指出，丘比特**直接的目光**与姿态中**集中的能量**与观者建立强烈联系。",
+        "与前后风格的关系和争论": "本条目照录该馆把「威尼斯色彩」与「卡拉瓦乔明暗」并列的做法，不把两者合成一种风格标签；同时保留「提香、丁托列托或委罗内塞」三选一的未定性。",
+        "一图": "示意图以荷兰/安特卫普学习、威尼斯色彩与卡拉瓦乔明暗三者关系标示本画。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）威尼斯前辈的具体影响者该馆用「或」，未定；（3）「风格性欠债」为馆方术语，本条照录；（4）委托者与原始陈列未取得。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='liss-cupid 示意图'><title>liss-cupid</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>荷兰·安特卫普</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>学习</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>利斯《丘比特》</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>c.1630</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>威尼斯色彩</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>三选一</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>卡拉瓦乔明暗</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>强对比</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='590.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>利斯丘比特：学习、色彩与明暗</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；影响者该馆未定。"
     }
   ]
 }

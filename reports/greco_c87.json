@@ -1,0 +1,408 @@
+[
+ {
+  "acc": "2000.6",
+  "title": "Statuette of Herakles",
+  "date": "510–500 BCE",
+  "culture": "['Greek']",
+  "len": 677
+ },
+ {
+  "acc": "1988.9",
+  "title": "Aphrodite Torso",
+  "date": "c. 200–1 BCE",
+  "culture": "['Greek/South Italian, Taranto']",
+  "len": 641
+ },
+ {
+  "acc": "1953.125",
+  "title": "Torso of a Kouros",
+  "date": "c. 550 BCE",
+  "culture": "['Greece, Archaic period']",
+  "len": 640
+ },
+ {
+  "acc": "1928.659",
+  "title": "Mirror Support: Athlete",
+  "date": "460–450 BCE",
+  "culture": "['South Italy, Locri (?), Greek']",
+  "len": 541
+ },
+ {
+  "acc": "1930.336",
+  "title": "Pawing Bull",
+  "date": "500–475 BCE",
+  "culture": "['South Italy, Lucania, Greek']",
+  "len": 513
+ },
+ {
+  "acc": "2005.52",
+  "title": "Grave Stele (Relief)",
+  "date": "c. 50 BCE",
+  "culture": "['Southern Anatolia, Pamphylia, Hellenistic Greek']",
+  "len": 867
+ },
+ {
+  "acc": "1991.49",
+  "title": "Statuette of a Horse",
+  "date": "750–725 BCE",
+  "culture": "['Greek, Geometric, probably Arcadian']",
+  "len": 401
+ },
+ {
+  "acc": "1926.516",
+  "title": "Woman's Head with Crown",
+  "date": "500s BCE",
+  "culture": "['Greek, Sicily(?)']",
+  "len": 352
+ },
+ {
+  "acc": "1924.1046",
+  "title": "Statue of an Athlete",
+  "date": "1–100 CE",
+  "culture": "['Italy, Roman']",
+  "len": 627
+ },
+ {
+  "acc": "1925.943",
+  "title": "Portrait Bust of the Empress Claudia Octavia",
+  "date": "50–70 CE",
+  "culture": "['Italy, Roman']",
+  "len": 531
+ },
+ {
+  "acc": "1924.125",
+  "title": "Idealized Head",
+  "date": "50 BCE–100 CE",
+  "culture": "['Italy, Roman']",
+  "len": 467
+ },
+ {
+  "acc": "1974.3",
+  "title": "Ibis Eating a Lizard",
+  "date": "100 BCE–100 CE",
+  "culture": "['Italy, Rome, Roman Empire']",
+  "len": 472
+ },
+ {
+  "acc": "1929.998",
+  "title": "Portrait Head of Emperor Vespasian, Recut from Head of Nero",
+  "date": "64–79 CE",
+  "culture": "['Italy, Roman']",
+  "len": 556
+ },
+ {
+  "acc": "1928.856",
+  "title": "Sarcophagus",
+  "date": "c. 100–125 CE",
+  "culture": "['Italy, Rome, Roman Empire']",
+  "len": 737
+ },
+ {
+  "acc": "1952.260",
+  "title": "Portrait Head of a Noble or Official",
+  "date": "175–200 CE",
+  "culture": "['Italy, Roman, Antonine period']",
+  "len": 451
+ },
+ {
+  "acc": "1974.88",
+  "title": "Silenus Bust for a Couch",
+  "date": "1–125 CE",
+  "culture": "['Italy, Roman']",
+  "len": 596
+ },
+ {
+  "acc": "1970.16",
+  "title": "Black-Figure Neck-Amphora (Storage Vessel): Herakles and Nemean Lion (A); Dionysos, Satyrs, and Maenads (B)",
+  "date": "515–510 BCE",
+  "culture": "['Greek, Attic']",
+  "len": 685
+ },
+ {
+  "acc": "1966.114",
+  "title": "White-Ground Lekythos (Oil Vessel): Atalanta and Erotes",
+  "date": "c. 500–490 BCE",
+  "culture": "['Greek, Attic']",
+  "len": 632
+ },
+ {
+  "acc": "1978.59",
+  "title": "Red-Figure Lekythos (Oil Vessel): Athena Slaying Giant (body); Satyr between Maenads (shoulder)",
+  "date": "c. 490 BCE",
+  "culture": "['Greek, Attic']",
+  "len": 760
+ },
+ {
+  "acc": "1928.660",
+  "title": "Red-Figure Lekythos (Oil Vessel): Warrior Cutting Hair",
+  "date": "c. 480–470 BCE",
+  "culture": "['Greek, Attic']",
+  "len": 700
+ },
+ {
+  "acc": "1971.46",
+  "title": "Black-Figure Dinos (Mixing Vessel): Warships (Int.); Heroic Scenes (Top)",
+  "date": "c. 520–515 BCE",
+  "culture": "['Greek, Attic']",
+  "len": 779
+ },
+ {
+  "acc": "1927.6",
+  "title": "Geometric Neck-Handled Amphora (Storage Vessel): Prothesis (Laying out of Corpse), Mourners, Chariots",
+  "date": "c. 720–700 BCE",
+  "culture": "['Greek, Attic']",
+  "len": 452
+ },
+ {
+  "acc": "1924.197",
+  "title": "Red-Figure Column Krater (Mixing Vessel): Komos (Revel)",
+  "date": "470–460 BCE",
+  "culture": "['Greek, Attic']",
+  "len": 568
+ },
+ {
+  "acc": "1930.104",
+  "title": "Red-Figure Column Krater (Mixing Vessel): Apollo and Goddesses with Chariot (A); Komos (Revel) (B)",
+  "date": "c. 470–460 BCE",
+  "culture": "['Greek, Attic']",
+  "len": 734
+ },
+ {
+  "acc": "1929.978",
+  "title": "Black-Figure Trefoil Oinochoe (Wine Jug): Europa on Bull",
+  "date": "c. 530 BCE",
+  "culture": "['Greek, Attic']",
+  "len": 429
+ },
+ {
+  "acc": "2022.42",
+  "title": "Black-Figure White-Ground Lekythos (Oil Vessel): Athena between Cocks and Hieropoioi (Officials)",
+  "date": "500–485 BCE",
+  "culture": "['Greek, Attic']",
+  "len": 531
+ },
+ {
+  "acc": "1992.368",
+  "title": "Black-Figure Band Skyphos (Drinking Cup): Sirens, Stags, and Panthers",
+  "date": "c. 540 BCE",
+  "culture": "['Greek, Attic']",
+  "len": 343
+ },
+ {
+  "acc": "1976.89",
+  "title": "Red-Figure Eye Cup: Warriors (A), Musician and Youths (B)",
+  "date": "c. 520 BCE",
+  "culture": "['Greek, Attic']",
+  "len": 680
+ },
+ {
+  "acc": "1929.135",
+  "title": "Black-Figure White-Ground Lekythos (Oil Vessel): Horseman, Horse between Warriors, Dog",
+  "date": "c. 500 BCE",
+  "culture": "['Greek, Attic']",
+  "len": 382
+ },
+ {
+  "acc": "1975.1",
+  "title": "Black-Figure Hydria (Water Vessel): Frontal Quadriga (Body); Theseus and Minotaur (Shoulder)",
+  "date": "c. 520 BCE",
+  "culture": "['Greece, Attic']",
+  "len": 600
+ },
+ {
+  "acc": "1951.538",
+  "title": "Fragment of a Reclining Male Figure",
+  "date": "450–350 BCE",
+  "culture": "['Greek/South Italian, Taranto (ancient Taras)']",
+  "len": 522
+ },
+ {
+  "acc": "2021.3",
+  "title": "Gorgoneion Antefix (Ornamental Roof Tile)",
+  "date": "c. 500 BCE",
+  "culture": "['Greek / South Italian, Taranto']",
+  "len": 423
+ },
+ {
+  "acc": "1951.27",
+  "title": "Head of Bearded Banqueter",
+  "date": "525–500 BCE",
+  "culture": "['Greek/South Italian, Taranto']",
+  "len": 359
+ },
+ {
+  "acc": "1926.552",
+  "title": "Antefix with Satyr Face",
+  "date": "c. 525–480 BCE",
+  "culture": "['Greek/South Italian, Taranto']",
+  "len": 448
+ },
+ {
+  "acc": "1951.536",
+  "title": "Figurine",
+  "date": "300–100 BCE",
+  "culture": "['South Italy, Tarentum']",
+  "len": 364
+ },
+ {
+  "acc": "1992.352",
+  "title": "Dancing Satyr Group",
+  "date": "500–475 BCE",
+  "culture": "['Greece, Boeotia']",
+  "len": 390
+ },
+ {
+  "acc": "1927.489",
+  "title": "Aphrodite",
+  "date": "400–200 BCE",
+  "culture": "['Greece']",
+  "len": 298
+ },
+ {
+  "acc": "1928.860",
+  "title": "Portrait Bust of a Man",
+  "date": "27 BCE–14 CE",
+  "culture": "['Italy, Roman, Augustan period']",
+  "len": 437
+ },
+ {
+  "acc": "1951.288",
+  "title": "Portrait Bust of a Girl",
+  "date": "c. 250–75 CE",
+  "culture": "['Italy, Roman']",
+  "len": 540
+ },
+ {
+  "acc": "1965.245",
+  "title": "Portrait Bust of an Aristocratic Man",
+  "date": "280–90 CE",
+  "culture": "['Anatolia, late Roman-early Christian']",
+  "len": 302
+ },
+ {
+  "acc": "1965.246",
+  "title": "Portrait Bust of an Aristocratic Woman",
+  "date": "280–90 CE",
+  "culture": "['Anatolia, late Roman-early Christian']",
+  "len": 1416
+ },
+ {
+  "acc": "1965.243",
+  "title": "Portrait Bust of an Aristocratic Woman",
+  "date": "280–90 CE",
+  "culture": "['Anatolia, late Roman-early Christian']",
+  "len": 302
+ },
+ {
+  "acc": "1965.244",
+  "title": "Portrait Bust of an Aristocratic Woman",
+  "date": "280–90 CE",
+  "culture": "['Anatolia, late Roman-early Christian']",
+  "len": 302
+ },
+ {
+  "acc": "1945.13",
+  "title": "Sleep and Death Cista Handle",
+  "date": "400–375 BCE",
+  "culture": "['Etruscan']",
+  "len": 672
+ },
+ {
+  "acc": "1971.264",
+  "title": "Statuette of a Kouros",
+  "date": "600–480 BCE",
+  "culture": "['Etruscan']",
+  "len": 557
+ },
+ {
+  "acc": "1928.196",
+  "title": "Statuette of Tinia (Zeus)",
+  "date": "c. 500 BCE, perhaps with modern patina",
+  "culture": "['Etruscan']",
+  "len": 600
+ },
+ {
+  "acc": "2024.56",
+  "title": "Antefix in the Form of a Maiden",
+  "date": "late 500s–early 400s BCE",
+  "culture": "['Etruscan']",
+  "len": 637
+ },
+ {
+  "acc": "1974.16",
+  "title": "Kottabos Element of a Dancing Satyr",
+  "date": "470–450 BCE",
+  "culture": "['Etruscan']",
+  "len": 594
+ },
+ {
+  "acc": "1985.3",
+  "title": "Male Votive Figure",
+  "date": "300s BCE",
+  "culture": "['Etruscan']",
+  "len": 753
+ },
+ {
+  "acc": "1952.259",
+  "title": "Mirror with Engraved Scene: Thesan and Memnun (Eos and Memnon)",
+  "date": "c. 470–460 BCE",
+  "culture": "['Etruscan']",
+  "len": 564
+ },
+ {
+  "acc": "1988.155",
+  "title": "Vessel Ornament of Banqueter",
+  "date": "probably 400–375 BCE",
+  "culture": "['Etruscan']",
+  "len": 978
+ },
+ {
+  "acc": "1916.831",
+  "title": "Head of a Woman",
+  "date": "300–200 BCE",
+  "culture": "['Greece, Hellenistic period']",
+  "len": 319
+ },
+ {
+  "acc": "1927.209",
+  "title": "Head of Alexander the Great",
+  "date": "c. 300–200 BCE",
+  "culture": "['Greece, Alexandria, Hellenistic']",
+  "len": 359
+ },
+ {
+  "acc": "1986.24",
+  "title": "Bowl",
+  "date": "200–1 BCE",
+  "culture": "['Greece, late Hellenistic period']",
+  "len": 382
+ },
+ {
+  "acc": "1943.68",
+  "title": "Mule-Head Attachment for a Couch",
+  "date": "200–100 BCE",
+  "culture": "['Greece, Hellenistic period']",
+  "len": 325
+ },
+ {
+  "acc": "1968.102",
+  "title": "Pair of Earrings or Hair Ringlets with Ram Head",
+  "date": "400s BCE",
+  "culture": "['Greece, Hellenistic period']",
+  "len": 468
+ },
+ {
+  "acc": "1985.184",
+  "title": "Tritoness or Scylla Relief Applique",
+  "date": "late 200s BCE",
+  "culture": "['Greece, Hellenistic period']",
+  "len": 583
+ },
+ {
+  "acc": "1971.71",
+  "title": "Head of Herakles Refashioned as a Weight",
+  "date": "300–200 BCE",
+  "culture": "['Greece, Hellenistic period']",
+  "len": 596
+ }
+]

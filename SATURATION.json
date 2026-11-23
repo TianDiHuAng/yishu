@@ -1080,6 +1080,18 @@
       },
       "network": "partial (museum APIs)",
       "verdict": "古埃及/近东 0→4（总 292）；未饱和"
+    },
+    {
+      "cycle": "cycle88",
+      "date": "2026-11-23",
+      "methods_used": [
+        "巴洛克作品"
+      ],
+      "gaps_found": {
+        "entries": 4
+      },
+      "network": "partial (museum APIs)",
+      "verdict": "达到 300 条目；未饱和（覆盖不均衡）"
     }
   ],
   "assessment_c33": {

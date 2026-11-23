@@ -79,7 +79,8 @@
         "roman-art",
         "gudea-statue",
         "minnefer-statue",
-        "nefertiti-talatat"
+        "nefertiti-talatat",
+        "kouros-torso"
       ],
       "sources": [
         "enc-prehistoric-art",
@@ -100,7 +101,11 @@
       "overview": "雕塑从古风时期的程式化青年像发展到古典时期的理想人体，建筑形成多立克、爱奥尼、科林斯三柱式；断代终点采来源明确记载的前146年。",
       "related": [
         "egyptian-art",
-        "roman-art"
+        "roman-art",
+        "kouros-torso",
+        "herakles-bronze",
+        "roman-athlete-statue",
+        "vespasian-recut-head"
       ],
       "sources": [
         "enc-greek-art",
@@ -122,7 +127,10 @@
       "related": [
         "greek-art",
         "byzantine-art",
-        "egyptian-art"
+        "egyptian-art",
+        "herakles-bronze",
+        "roman-athlete-statue",
+        "vespasian-recut-head"
       ],
       "sources": [
         "enc-roman-art",
@@ -510,7 +518,11 @@
         "baroque-crossmedia",
         "pedro-de-mena-peter",
         "soldani-apollo-daphne",
-        "caravaggio-andrew"
+        "caravaggio-andrew",
+        "puget-sauli-study",
+        "parodi-sleeping-christ",
+        "doccia-spring-relief",
+        "liss-cupid"
       ],
       "sources": [
         "enc-baroque",
@@ -558,7 +570,9 @@
         "rembrandt",
         "soldani-apollo-daphne",
         "caravaggio-andrew",
-        "la-tour-peter"
+        "la-tour-peter",
+        "parodi-sleeping-christ",
+        "liss-cupid"
       ],
       "sources": [
         "enc-caravaggio",
@@ -6097,7 +6111,8 @@
       "related": [
         "baroque",
         "velazquez",
-        "rodin"
+        "rodin",
+        "puget-sauli-study"
       ],
       "sources": [
         "cma-2009-81"
@@ -6117,7 +6132,8 @@
       "overview": "取材达芙妮化月桂的瞬间；以动态构图、转瞬即逝与形体转化体现1600年代意大利关注；据贝尼尼1622—25大理石像。",
       "related": [
         "baroque",
-        "caravaggio"
+        "caravaggio",
+        "doccia-spring-relief"
       ],
       "sources": [
         "cma-1992-230"
@@ -6326,6 +6342,166 @@
       ],
       "sources": [
         "cma-1959-188"
+      ]
+    },
+    {
+      "id": "kouros-torso",
+      "title": "库罗斯青年像残躯",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元前6世纪",
+      "region": "希腊",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "古希腊古风时期大理石库罗斯残躯，克利夫兰艺术博物馆藏（1953.125）。",
+      "when": "约公元前550年",
+      "overview": "裸体青年直立、双臂贴身、一足略前；类型可能受埃及影响，后按希腊路线发展。",
+      "related": [
+        "greek-art",
+        "egyptian-art"
+      ],
+      "sources": [
+        "cma-1953-125"
+      ]
+    },
+    {
+      "id": "herakles-bronze",
+      "title": "赫拉克勒斯青铜小像",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元前6世纪",
+      "region": "希腊",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "希腊实心青铜小像，克利夫兰艺术博物馆藏（2000.6）。",
+      "when": "公元前510—前500年",
+      "overview": "曾被认为是运动员，今更可能表现赫拉克勒斯的击打姿态；强调年轻化和理想面容。",
+      "related": [
+        "greek-art",
+        "roman-art"
+      ],
+      "sources": [
+        "cma-2000-6"
+      ]
+    },
+    {
+      "id": "roman-athlete-statue",
+      "title": "罗马运动员像",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元1世纪",
+      "region": "意大利",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "罗马大理石运动员像，克利夫兰艺术博物馆藏（1924.1046）。",
+      "when": "公元1—100年",
+      "overview": "追溯公元前5世纪希腊原型，罗马工匠改用大理石并加支撑（树干与撑杆）以求稳固。",
+      "related": [
+        "roman-art",
+        "greek-art"
+      ],
+      "sources": [
+        "cma-1924-1046"
+      ]
+    },
+    {
+      "id": "vespasian-recut-head",
+      "title": "韦斯巴芗头像（由尼禄像改刻）",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元1世纪",
+      "region": "意大利",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "罗马大理石头像，克利夫兰艺术博物馆藏（1929.998）。",
+      "when": "公元64—79年",
+      "overview": "古代由尼禄像改刻为韦斯巴芗；后脑发际线缩短，下唇后削等尼禄特征仍存。",
+      "related": [
+        "roman-art",
+        "greek-art"
+      ],
+      "sources": [
+        "cma-1929-998"
+      ]
+    },
+    {
+      "id": "puget-sauli-study",
+      "title": "皮热《圣阿莱桑德罗·绍利》小稿",
+      "kind": "作品",
+      "unit": "art-baroque",
+      "era": "17世纪",
+      "region": "欧洲",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "法国雕塑家皮热为热那亚教堂大型像所作陶土小稿，克利夫兰艺术博物馆藏（1964.36）。",
+      "when": "1663—1668年",
+      "overview": "王室改革家绍利扭转身体、神情专注；摊开的书指向其改革事业。",
+      "related": [
+        "baroque",
+        "pedro-de-mena-peter"
+      ],
+      "sources": [
+        "cma-1964-36"
+      ]
+    },
+    {
+      "id": "parodi-sleeping-christ",
+      "title": "帕罗迪《睡着的基督圣婴》",
+      "kind": "作品",
+      "unit": "art-baroque",
+      "era": "17世纪",
+      "region": "欧洲",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "意大利大理石雕塑，克利夫兰艺术博物馆藏（2018.257）。",
+      "when": "约1675年",
+      "overview": "以抛光差异区分肌肤（柔和发亮）与头发/稻草（粗糙吸光）；睡眠隐喻死亡，引向对基督人性受难的冥想。",
+      "related": [
+        "baroque",
+        "caravaggio"
+      ],
+      "sources": [
+        "cma-2018-257"
+      ]
+    },
+    {
+      "id": "doccia-spring-relief",
+      "title": "多西亚瓷厂《春》浮雕",
+      "kind": "作品",
+      "unit": "art-baroque",
+      "era": "18世纪",
+      "region": "欧洲",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "佛罗伦萨近郊多西亚瓷厂烧制瓷浮雕，克利夫兰艺术博物馆藏（1999.213）。",
+      "when": "18世纪中期",
+      "overview": "瓷厂1743年购得索尔达尼后裔手中的模型，其中包括1708为费迪南多·德·美第奇所作四季浮雕；本件为其中《春》。",
+      "related": [
+        "soldani-apollo-daphne",
+        "baroque"
+      ],
+      "sources": [
+        "cma-1999-213"
+      ]
+    },
+    {
+      "id": "liss-cupid",
+      "title": "利斯《丘比特》",
+      "kind": "作品",
+      "unit": "art-baroque",
+      "era": "17世纪",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "德国画家约翰·利斯布面油画，克利夫兰艺术博物馆藏（1971.100）。",
+      "when": "约1630年",
+      "overview": "曾学于荷兰与安特卫普，约1620年赴罗马与威尼斯；色彩与运笔承威尼斯传统，强烈明暗受卡拉瓦乔影响。",
+      "related": [
+        "caravaggio",
+        "baroque"
+      ],
+      "sources": [
+        "cma-1971-100"
       ]
     }
   ]
