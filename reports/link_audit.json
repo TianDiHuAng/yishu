@@ -17,16 +17,16 @@
  "oneway_sample": [],
  "top_inbound": [
   [
+   "americas-art",
+   14
+  ],
+  [
    "baroque-music",
    12
   ],
   [
    "african-art",
    12
-  ],
-  [
-   "americas-art",
-   11
   ],
   [
    "ukiyo-e",
@@ -57,5 +57,5 @@
    8
   ]
  ],
- "total_links": 636
+ "total_links": 650
 }

@@ -3945,7 +3945,10 @@
         "navajo-hubbell-rug",
         "hopi-kachina-painting",
         "navajo-chief-blanket-rug",
-        "hopi-canteen-katsina"
+        "hopi-canteen-katsina",
+        "tlingit-totem-pole",
+        "sikyatki-jar",
+        "inuit-devil-fish"
       ],
       "sources": [
         "cma-1967-29",
@@ -4552,7 +4555,8 @@
       "overview": "并置两种旧纹样：阶梯状菱形与 Moki 条纹；Moki 来源不明，或来自普韦布洛，或来自1540年入西南的西班牙人。",
       "related": [
         "navajo-chief-blanket-rug",
-        "americas-art"
+        "americas-art",
+        "navajo-biilee-dress"
       ],
       "sources": [
         "cma-1917-62"
@@ -4612,10 +4616,92 @@
       "overview": "自1500年代起霍皮女性依西班牙原型制大肚水壶；晚期为迎合欧美游客而加饰，此面容为**想象性描绘**而非真实 Katsina。",
       "related": [
         "hopi-kachina-painting",
-        "americas-art"
+        "americas-art",
+        "sikyatki-jar"
       ],
       "sources": [
         "cma-1937-708"
+      ]
+    },
+    {
+      "id": "tlingit-totem-pole",
+      "title": "特林吉特图腾柱（模型）",
+      "kind": "作品",
+      "unit": "art-americas",
+      "era": "19世纪",
+      "region": "北美洲",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "特林吉特人所作彩绘木雕图腾柱模型，克利夫兰艺术博物馆藏（1989.89）。",
+      "when": "约1880年",
+      "overview": "村落以高大图腾柱标示所有者等级与谱系；此小型模型曾属一位「银鲑氏族·渡鸦部落」的说故事者。",
+      "related": [
+        "navajo-biilee-dress",
+        "americas-art",
+        "inuit-devil-fish"
+      ],
+      "sources": [
+        "cma-1989-89"
+      ]
+    },
+    {
+      "id": "navajo-biilee-dress",
+      "title": "纳瓦霍两片式女装（biil’éé）",
+      "kind": "作品",
+      "unit": "art-americas",
+      "era": "19世纪",
+      "region": "北美洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "纳瓦霍（Diné）羊毛挂毯女装，克利夫兰艺术博物馆藏（1929.921）。",
+      "when": "约1880—85年",
+      "overview": "由两片相同织片在侧缝与肩部相接；据当代织者 D. Y. Begay 转述，biil’éé 承载灵力、护佑并记述审美故事。",
+      "related": [
+        "navajo-hubbell-rug",
+        "tlingit-totem-pole"
+      ],
+      "sources": [
+        "cma-1929-921"
+      ]
+    },
+    {
+      "id": "sikyatki-jar",
+      "title": "西基亚茨基风格罐（祖先普韦布洛）",
+      "kind": "作品",
+      "unit": "art-americas",
+      "era": "15—16世纪",
+      "region": "北美洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "祖先普韦布洛西基亚茨基风格陶罐，克利夫兰艺术博物馆藏（1990.10）。",
+      "when": "1400—1600年",
+      "overview": "器形硕大、表面经石磨精修、壁薄叩之「作响」；红橙色调异于更早的黑白偏好；为现代霍皮陶之祖。",
+      "related": [
+        "hopi-canteen-katsina",
+        "americas-art"
+      ],
+      "sources": [
+        "cma-1990-10"
+      ]
+    },
+    {
+      "id": "inuit-devil-fish",
+      "title": "因纽特石版画《魔鬼鱼》（Devil Fish）",
+      "kind": "作品",
+      "unit": "art-americas",
+      "era": "20世纪",
+      "region": "北美洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "因纽特艺术家 Peter Aliknak Banksland（1928—1998）石版作品，克利夫兰艺术博物馆藏（1972.1054）。",
+      "when": "1972年",
+      "overview": "石版（stonecut）为北极因纽特发展之法：石上绘图、铲除不印处、上墨压纸，一次仅得一版。",
+      "related": [
+        "tlingit-totem-pole",
+        "americas-art"
+      ],
+      "sources": [
+        "cma-1972-1054"
       ]
     }
   ]

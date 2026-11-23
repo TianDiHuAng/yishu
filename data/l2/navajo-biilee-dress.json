@@ -1,0 +1,19 @@
+{
+ "id": "navajo-biilee-dress",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为纳瓦霍（Diné）羊毛挂毯女装 biil’éé，克利夫兰艺术博物馆定年为约1880—85年。",
+  "风格特征": "该馆引当代 Diné 织者 **D. Y. Begay** 的说法：**每一位 Diné 女性都应拥有一件 biil’éé**——它承载**灵力**、给予**护佑**、**记述 Diné 文化审美的故事**，并确保她在社会中的位置。",
+  "代表人物与作品": "作者未署名（纳瓦霍织者）。相关条目见纳瓦霍 Hubbell 复兴风格地毯与特林吉特图腾柱。本件为克利夫兰艺术博物馆藏品（1929.921）。",
+  "技法或形式分析": "材质为羊毛挂毯织法，整体145 × 99厘米（据该馆藏品记录）。结构上由**两片相同的织片**在**侧缝与肩部**相接；该馆指出，这一类型由**单片式**女装在**18世纪晚期**发展而来。穿用时原本以**织物腰带**束腰，也可用 Diné 自制**银 concha 腰带**收紧。",
+  "与前后风格的关系和争论": "该馆最后指出，biil’éé **今天仍在回应时尚趋势**，并在特殊场合穿着。也就是说，它既是**承载灵力与身份的传统物**，也是**持续变化的服饰**——本条目并列两侧，不把它冻结为「不变的传统」。",
+  "一图": "示意图以灵力与身份、两片式结构、以及持续变化的时尚三者关系标示本件。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）D. Y. Begay 的说法是该馆转述，未核其原文；（3）本件织者与所属家族未记录；（4）银 concha 腰带与本件的搭配关系属该馆概述，未具体到本件。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='navajo-biilee-dress 示意图'><title>navajo-biilee-dress</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>灵力·护佑</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>Begay 转述</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>biil’éé</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1880—85</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>两片式结构</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>18世纪晚期起</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>仍在变化</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>时尚·场合</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>纳瓦霍女装：灵力、结构与变化</text></g></svg>",
+ "sources": [
+  "cma-1929-921"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；Begay 说法为转述；织者未记录。"
+}

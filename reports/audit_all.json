@@ -3,19 +3,19 @@
   {
    "step": "py_compile（全部工具可编译）",
    "status": "ok",
-   "tail": "267 个 .py 全部通过"
+   "tail": "272 个 .py 全部通过"
   },
   {
    "step": "check.py（R1-R21 硬规则）",
    "returncode": 0,
    "status": "ok",
-   "tail": "check.py: entries=212 svg=212 errors=0"
+   "tail": "check.py: entries=216 svg=216 errors=0"
   },
   {
    "step": "check_links.py（站内链接）",
    "returncode": 0,
    "status": "ok",
-   "tail": "check_links: pages=247 broken=0"
+   "tail": "check_links: pages=251 broken=0"
   },
   {
    "step": "healthcheck_c10.py（九维体检）",
@@ -33,7 +33,7 @@
    "step": "link_audit.py（关联图）",
    "returncode": 0,
    "status": "ok",
-   "tail": "top inbound: [('baroque-music', 12), ('african-art', 12), ('americas-art', 11), ('ukiyo-e', 10), ('china-paint"
+   "tail": "top inbound: [('americas-art', 14), ('baroque-music', 12), ('african-art', 12), ('ukiyo-e', 10), ('china-paint"
   },
   {
    "step": "oneway_audit.py（单向关联）",
