@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 264 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 268 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -283,6 +283,10 @@
 | imari-jar | 伊万里花木纹大罐 | 作品 | 17世纪 | 日本 | 综合 | 重要 | O1 |
 | shino-mizusashi | 志野「绘」水指 | 作品 | 16—17世纪 | 日本 | 综合 | 重要 | O1 |
 | kakiemon-beauty | 柿右卫门美人立像 | 作品 | 17世纪 | 日本 | 综合 | 核心 | O1 |
+| shri-raga-mewar | 《室利拉格》（Ragamala，梅瓦尔） | 作品 | 17世纪 | 南亚 | 绘画 | 核心 | O1 |
+| sursagar-krishna | 《黑天诞生》（苏尔达斯《苏尔萨加尔》） | 作品 | 18世纪 | 南亚 | 绘画 | 核心 | O1 |
+| jagat-singh-hunting | 《贾加特·辛格二世狩猎图》 | 作品 | 18世纪 | 南亚 | 绘画 | 重要 | O1 |
+| kausa-ragaputra | 《考萨拉格普特拉》（Ragamala，帕哈里） | 作品 | 18世纪 | 南亚 | 绘画 | 重要 | O1 |
 
 ## art-islamic（伊斯兰艺术（西亚·中亚））
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

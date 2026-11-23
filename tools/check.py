@@ -155,6 +155,18 @@ def main():
                     if b in blob:
                         err("R17",e["id"],"争议含编辑待办措辞[%s]，非真实学界分歧"%b); break
 
+    # R22 id 格式：条目 id 与来源 id 只允许小写字母、数字与连字符（禁点号/大写/下划线）
+    _idre=re.compile(r"^[a-z0-9-]+$")
+    for e in ENTRIES:
+        if not _idre.match(e["id"]):
+            err("R22",e["id"],"条目 id 含非法字符")
+        for sid in e.get("sources",[]):
+            if not _idre.match(sid):
+                err("R22",e["id"],"来源 id 含非法字符:%s"%sid)
+    for x in S:
+        if not _idre.match(x["id"]):
+            err("R22",x["id"],"来源库 id 含非法字符")
+
     # R21 when 表述规范：不得出现拉丁字母（本站统一中文表述，如 1940年代 / 公元620年）
     for e in ENTRIES:
         w=str(e.get("when","") or "")

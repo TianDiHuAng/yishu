@@ -2818,7 +2818,8 @@
       "overview": "调式决定旋律的音高素材与色彩；欧洲中世纪教会调式、大小调体系与世界各地民歌调式各有规则。",
       "related": [
         "tonality",
-        "gregorian-chant"
+        "gregorian-chant",
+        "kausa-ragaputra"
       ],
       "sources": [
         "enc-mode",
@@ -5529,7 +5530,7 @@
         "kakiemon-beauty"
       ],
       "sources": [
-        "cma-1972.9"
+        "cma-1972-9"
       ]
     },
     {
@@ -5714,6 +5715,87 @@
       ],
       "sources": [
         "cma-1973-70-1"
+      ]
+    },
+    {
+      "id": "shri-raga-mewar",
+      "title": "《室利拉格》（Ragamala，梅瓦尔）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "17世纪",
+      "region": "南亚",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "梅瓦尔（拉贾斯坦）《旋律花环》组画之一，克利夫兰艺术博物馆藏（1931.451）。",
+      "when": "约1695年",
+      "overview": "绘王者夫妇听诵；赞助人阿马尔·辛格二世以自己的肖像替换通用的王者形象。",
+      "related": [
+        "kausa-ragaputra",
+        "sursagar-krishna",
+        "jagat-singh-hunting"
+      ],
+      "sources": [
+        "cma-1931-451"
+      ]
+    },
+    {
+      "id": "sursagar-krishna",
+      "title": "《黑天诞生》（苏尔达斯《苏尔萨加尔》）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "18世纪",
+      "region": "南亚",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "梅瓦尔《苏尔萨加尔》写本插图，克利夫兰艺术博物馆藏（1984.65）。",
+      "when": "1705—10年",
+      "overview": "盲诗人苏尔达斯在右下小屋击铙诵诗；第5诗节题于页上；画面铺陈黑天降生的庆贺场面。",
+      "related": [
+        "shri-raga-mewar",
+        "jagat-singh-hunting"
+      ],
+      "sources": [
+        "cma-1984-65"
+      ]
+    },
+    {
+      "id": "jagat-singh-hunting",
+      "title": "《贾加特·辛格二世狩猎图》",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "18世纪",
+      "region": "南亚",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "梅瓦尔乌代浦宫廷狩猎图，克利夫兰艺术博物馆藏（1998.102）。",
+      "when": "1747年",
+      "overview": "画面大于一般印度绘画；背面题记列王名与同行者；仆役放爆竹驱兽至中央射台。",
+      "related": [
+        "sursagar-krishna",
+        "shri-raga-mewar"
+      ],
+      "sources": [
+        "cma-1998-102"
+      ]
+    },
+    {
+      "id": "kausa-ragaputra",
+      "title": "《考萨拉格普特拉》（Ragamala，帕哈里）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "18世纪",
+      "region": "南亚",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "帕哈里《旋律花环》组画之一，克利夫兰艺术博物馆藏（2001.111）。",
+      "when": "约1750年",
+      "overview": "宫廷男女执驯鹰；帕哈里以猎鹰著称；此名亦为印度古典音乐的一种调式，画面对应该调式的听感。",
+      "related": [
+        "shri-raga-mewar",
+        "musical-mode"
+      ],
+      "sources": [
+        "cma-2001-111"
       ]
     }
   ]

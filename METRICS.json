@@ -2339,6 +2339,38 @@
       "check_links_result": "broken=0(301页)",
       "audit_all": "12/12 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle80",
+      "date": "2026-11-23",
+      "status": "completed",
+      "gap_methods": [
+        "印度绘画填补",
+        "id 格式治理"
+      ],
+      "network": "partial: museum APIs ok",
+      "new_entries": 4,
+      "new_entry_ids": [
+        "shri-raga-mewar",
+        "sursagar-krishna",
+        "jagat-singh-hunting",
+        "kausa-ragaputra"
+      ],
+      "indian_paintings": 4,
+      "new_rule": "R22 id 格式（^[a-z0-9-]+$），注入测试通过",
+      "incidents": [
+        "点号 id 第三次复发（cma-1998.102 / cma-1972.9）",
+        "批量正则改写 id 时 \\1 被当八进制转义，产生 \\x01 控制字符，已脚本修复"
+      ],
+      "checks_r": 22,
+      "new_sources": 4,
+      "sources_total": 399,
+      "entries_total": 268,
+      "pages": 305,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(305页)",
+      "audit_all": "12/12 ok",
+      "commits": 1
     }
   ]
 }

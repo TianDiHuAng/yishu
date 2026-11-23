@@ -4673,7 +4673,8 @@
       "overview": "调式决定旋律的音高素材与色彩；欧洲中世纪教会调式、大小调体系与世界各地民歌调式各有规则。",
       "related": [
         "tonality",
-        "gregorian-chant"
+        "gregorian-chant",
+        "kausa-ragaputra"
       ],
       "sources": [
         "enc-mode",
@@ -9001,7 +9002,7 @@
         "kakiemon-beauty"
       ],
       "sources": [
-        "cma-1972.9"
+        "cma-1972-9"
       ],
       "level": "L2",
       "sections": {
@@ -9317,6 +9318,139 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='ten-stages-bodhisattvas 示意图'><title>ten-stages-bodhisattvas</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>菩萨十地</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1454</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>水陆法会</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>仪式功能</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>御玺·金字题</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>景泰五年</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>奉旨所制</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>大隆福寺?</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>十地轴：题材、仪式与题记</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（CMA）来源；施寺对象为推测；组画总数未记录。"
+    },
+    {
+      "id": "shri-raga-mewar",
+      "title": "《室利拉格》（Ragamala，梅瓦尔）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "17世纪",
+      "region": "南亚",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "梅瓦尔（拉贾斯坦）《旋律花环》组画之一，克利夫兰艺术博物馆藏（1931.451）。",
+      "when": "约1695年",
+      "overview": "绘王者夫妇听诵；赞助人阿马尔·辛格二世以自己的肖像替换通用的王者形象。",
+      "related": [
+        "kausa-ragaputra",
+        "sursagar-krishna",
+        "jagat-singh-hunting"
+      ],
+      "sources": [
+        "cma-1931-451"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本页出自**拉贾斯坦梅瓦尔（Mewar）**的《Ragamala》（旋律花环）组画，克利夫兰艺术博物馆定年为约1695年。该馆称，此组画作于**梅瓦尔宫廷绘画史的转折点**：**王室赞助人阿马尔·辛格二世（Amar Singh II，1698—1710 在位）**在其**即位之前**，便决定把**莫卧儿要素引入世俗绘画**。",
+        "风格特征": "该馆指出这些**莫卧儿要素**具体表现为：**白色穹顶建筑**与对**空间纵深**的兴趣。但与此同时，画家**仍坚持使用水平分栏与粗放色块**——即新旧两种手法并存，而非替代。",
+        "代表人物与作品": "赞助人为阿马尔·辛格二世；画家未署名。相关条目见《考萨拉格普特拉》（帕哈里）与《黑天诞生》。本件为克利夫兰艺术博物馆藏品（1931.451）。",
+        "技法或形式分析": "材质为**纸本胶彩与金**，画心34.4 × 22.5厘米、整叶38 × 25厘米（据该馆藏品记录）。",
+        "与前后风格的关系和争论": "该馆给出一段**图像程式（iconography）**：**Shri Raga** 的固定表现是「**王者夫妇听诵**」，其程式化描述为「华丽登座、美貌无双、明艳如秋月，坐听那罗陀与通巴鲁讲故事；诸大仙称之为室利拉格王」。而本页最值得注意之处是：**阿马尔·辛格把自己的肖像替换进了那位「通用的王者」**——赞助人由此**进入画面**。本条目照录该馆「playfully」的措辞。",
+        "一图": "示意图以莫卧儿要素引入、水平分栏的保留与赞助人入画三者关系标示本页。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）引文为英文转译，原始梵文／印地文未见；（3）「阿马尔·辛格自画像」的认定依据未列；（4）该组画的完整幅数未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='shri-raga-mewar 示意图'><title>shri-raga-mewar</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>莫卧儿要素</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>穹顶·纵深</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>《室利拉格》</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>c.1695</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>水平分栏</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>旧法保留</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>赞助人入画</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>替换王者</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>《室利拉格》：新要素、旧格局与赞助人</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；引文为转译；自画像依据未列。"
+    },
+    {
+      "id": "sursagar-krishna",
+      "title": "《黑天诞生》（苏尔达斯《苏尔萨加尔》）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "18世纪",
+      "region": "南亚",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "梅瓦尔《苏尔萨加尔》写本插图，克利夫兰艺术博物馆藏（1984.65）。",
+      "when": "1705—10年",
+      "overview": "盲诗人苏尔达斯在右下小屋击铙诵诗；第5诗节题于页上；画面铺陈黑天降生的庆贺场面。",
+      "related": [
+        "shri-raga-mewar",
+        "jagat-singh-hunting"
+      ],
+      "sources": [
+        "cma-1984-65"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本页出自梅瓦尔（拉贾斯坦）的《苏尔萨加尔》（Sursagar）写本插图，克利夫兰艺术博物馆定年为1705—10年；诗人为**盲诗人与印度教圣者苏尔达斯**（Surdas，该馆记 1578/79—约1581）。",
+        "风格特征": "该馆先交代**诗人自身入画**：苏尔达斯作为**黑天的虔信者**，被画在**右下角的小屋**中，**击铙以计节拍**、同时**诵唱他的诗作**。**诗的第5节写在页面上方**。",
+        "代表人物与作品": "相关条目见《室利拉格》与《贾加特·辛格二世狩猎图》。本件为克利夫兰艺术博物馆藏品（1984.65）。",
+        "技法或形式分析": "材质为**纸本胶彩、墨与金**，画心33.6 × 22.2厘米、整叶37 × 25.4厘米（含衬纸49 × 36.3厘米，据该馆藏品记录）。画面以**分景叙事**铺陈：上左室内为**养母耶输陀罗**与婴儿同卧；门前妇女争睹；左侧村中长老**难陀**（黑天养父）坐受两位道贺者，同时**分发银币**；下方牧童村的男子与孩童**互泼凝乳与酥油**庆贺。",
+        "与前后风格的关系和争论": "该馆给出一条**名与色的解释**：黑天「**因肤色深而得名（Krishna 意为「深色」），故被画成蓝色**」。这解释了印度绘画中蓝肤神像的直接来由，本条目据此不把它当作任意设色。",
+        "一图": "示意图以诗人在场、分景叙事与「名由肤色、故画为蓝」三者关系标示本页。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）苏尔达斯生卒在该馆记录中给出为 1578/79—约1581，与通常所说年代不符，**本条目不调和**，照录原文；（3）第5节的原文与译文未取得；（4）写本其余页的分布未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='sursagar-krishna 示意图'><title>sursagar-krishna</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>苏尔达斯击铙</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>计节拍</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>《黑天诞生》</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1705—10</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>分景叙事</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>耶输陀罗·难陀</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>名由肤色</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>故画为蓝</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>黑天诞生：诗人、分景与蓝肤的来由</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；苏尔达斯生卒与该馆记录并存疑，照录不调和。"
+    },
+    {
+      "id": "jagat-singh-hunting",
+      "title": "《贾加特·辛格二世狩猎图》",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "18世纪",
+      "region": "南亚",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "梅瓦尔乌代浦宫廷狩猎图，克利夫兰艺术博物馆藏（1998.102）。",
+      "when": "1747年",
+      "overview": "画面大于一般印度绘画；背面题记列王名与同行者；仆役放爆竹驱兽至中央射台。",
+      "related": [
+        "sursagar-krishna",
+        "shri-raga-mewar"
+      ],
+      "sources": [
+        "cma-1998-102"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本图为梅瓦尔（乌代浦）**贾加特·辛格二世宫廷**的狩猎图，克利夫兰艺术博物馆定年为1747年（该王 1734—51 在位）。",
+        "风格特征": "该馆指出，**狩猎是拉贾特贵族最喜爱的消遣之一**，也是拉贾斯坦世俗绘画中常见的题材。此类狩猎图**往往比其他印度绘画大得多**，用以**颂扬这类盛大活动的欢愉与排场**。",
+        "代表人物与作品": "画面主人公为**乌代浦的贾加特·辛格二世**。相关条目见《黑天诞生》与《室利拉格》。本件为克利夫兰艺术博物馆藏品（1998.102）。",
+        "技法或形式分析": "材质为**纸本胶彩与金**，整幅42.5 × 47厘米（据该馆藏品记录）。该馆记录了一处**背面题记**：其上**列出大君之名以及狩猎队其他参与者，包括其兄弟**——即文字与图像互为索引。",
+        "与前后风格的关系和争论": "该馆把狩猎的**组织方式**写得很具体：画中为**丘陵与多样植被的细致景观**；**虎、熊、野猪、鹿、牡鹿、羚羊**等兽被**仆役驱赶**——**仆役施放爆竹**——将它们**赶向构图中央的射台**，王室成员在那里候猎。也就是说，这是一幅**有程序、有分工的围猎记录**，而非即兴的风景。",
+        "一图": "示意图以围猎程序（驱兽—爆竹—射台）、背面题记与画面尺寸三者关系标示本图。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）背面题记的原文与参与者名单未取得；（3）「比其他印度绘画大」的判断未给统计数据；（4）本图的委托与展示场合未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='jagat-singh-hunting 示意图'><title>jagat-singh-hunting</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>驱兽仆役</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>放爆竹</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>狩猎图</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>42.5×47</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>中央射台</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>王室成员</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>背面题记</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>参与者</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>狩猎图：程序、射台与题记</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；题记原文未取得。"
+    },
+    {
+      "id": "kausa-ragaputra",
+      "title": "《考萨拉格普特拉》（Ragamala，帕哈里）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "18世纪",
+      "region": "南亚",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "帕哈里《旋律花环》组画之一，克利夫兰艺术博物馆藏（2001.111）。",
+      "when": "约1750年",
+      "overview": "宫廷男女执驯鹰；帕哈里以猎鹰著称；此名亦为印度古典音乐的一种调式，画面对应该调式的听感。",
+      "related": [
+        "shri-raga-mewar",
+        "musical-mode"
+      ],
+      "sources": [
+        "cma-2001-111"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本页出自**帕哈里（Pahari）**地区的《Ragamala》组画，克利夫兰艺术博物馆定年为约1750年。帕哈里指**西北喜马拉雅**一带的诸小邦。",
+        "风格特征": "该馆描述画面：**一对宫廷男女手持驯养的猎鸟**，「呈现浪漫的情调与与自然的联结」。该馆并说明这一题材的**地方背景**：**帕哈里地区以本土猎鹰著称**，其鸟在整个南亚的贵族间都受珍视。",
+        "代表人物与作品": "作者未署名。相关条目见《室利拉格》（梅瓦尔）与「调式」条目。本件为克利夫兰艺术博物馆藏品（2001.111）。",
+        "技法或形式分析": "材质为**纸本胶彩、墨与金**，画心18 × 14.8厘米、纸22.4 × 18.7厘米（据该馆藏品记录）。尺寸小于梅瓦尔的《室利拉格》，符合帕哈里小形的做法（该馆未作此比较，本条目亦不代其推断）。",
+        "与前后风格的关系和争论": "**本页最关键的观念在于「画＝听感」**：该馆指出，**Kausa Ragaputra 也是印度古典音乐中一种调式（mode，或「key」）的名称**；**以此调式即兴演奏的乐曲，与画面意象相合**。本页属于一组画作，该组表现的是「**听者在听到相应音乐演出时的感受**」，整组即称 **Ragamala（「旋律花环」）**。这就把绘画、音乐与情绪三者结构性地连在一起。",
+        "一图": "示意图以调式（音乐）、情绪（听感）与画面意象三者的对应关系标示本页。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）Kausa Ragaputra 调式的音阶与演奏规范未取得；（3）「与意象相合」的具体对应关系该馆未展开；（4）组画其余各页的分布未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='kausa-ragaputra 示意图'><title>kausa-ragaputra</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>调式 Kausa</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>音乐</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>画面意象</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>驯鹰男女</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>听者感受</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>情绪</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>Ragamala</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>旋律花环</text><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>Kausa Ragaputra：调式、情绪与画面</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；调式规范与对应关系未展开。"
     }
   ]
 }

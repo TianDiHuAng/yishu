@@ -12,7 +12,7 @@
  },
  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='shino-mizusashi 示意图'><title>shino-mizusashi</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>茶事备水</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>mizusashi</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>绘志野水指</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>高18.4cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>两面不同</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>摆放角度</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>桃山茶人品味</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>不规则·厚釉</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='590.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>志野水指：功能、两面与品味</text></g></svg>",
  "sources": [
-  "cma-1972.9"
+  "cma-1972-9"
  ],
  "needs_verification": true,
  "pending_notes": "单一机构（CMA）来源；比拟性描述；原盖未记录。"

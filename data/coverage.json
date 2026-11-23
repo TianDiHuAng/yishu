@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 264,
+    "total": 268,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -3173,6 +3173,54 @@
     "ten-stages-bodhisattvas": {
       "title": "《菩萨十地》立轴（景泰五年）",
       "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "shri-raga-mewar": {
+      "title": "《室利拉格》（Ragamala，梅瓦尔）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "sursagar-krishna": {
+      "title": "《黑天诞生》（苏尔达斯《苏尔萨加尔》）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "jagat-singh-hunting": {
+      "title": "《贾加特·辛格二世狩猎图》",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "kausa-ragaputra": {
+      "title": "《考萨拉格普特拉》（Ragamala，帕哈里）",
+      "tier": "重要",
       "level": "L2",
       "status": "written_l2",
       "sources_count": 1,

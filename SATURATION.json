@@ -995,6 +995,19 @@
       },
       "network": "partial (museum APIs)",
       "verdict": "中国绘画作品 3→7（总 264）；未饱和"
+    },
+    {
+      "cycle": "cycle80",
+      "date": "2026-11-23",
+      "methods_used": [
+        "印度绘画",
+        "id 治理"
+      ],
+      "gaps_found": {
+        "entries": 4
+      },
+      "network": "partial (museum APIs)",
+      "verdict": "印度绘画 0→4（总 268）；R22 立规；未饱和"
     }
   ],
   "assessment_c33": {

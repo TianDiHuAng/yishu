@@ -1,0 +1,19 @@
+{
+ "id": "shri-raga-mewar",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本页出自**拉贾斯坦梅瓦尔（Mewar）**的《Ragamala》（旋律花环）组画，克利夫兰艺术博物馆定年为约1695年。该馆称，此组画作于**梅瓦尔宫廷绘画史的转折点**：**王室赞助人阿马尔·辛格二世（Amar Singh II，1698—1710 在位）**在其**即位之前**，便决定把**莫卧儿要素引入世俗绘画**。",
+  "风格特征": "该馆指出这些**莫卧儿要素**具体表现为：**白色穹顶建筑**与对**空间纵深**的兴趣。但与此同时，画家**仍坚持使用水平分栏与粗放色块**——即新旧两种手法并存，而非替代。",
+  "代表人物与作品": "赞助人为阿马尔·辛格二世；画家未署名。相关条目见《考萨拉格普特拉》（帕哈里）与《黑天诞生》。本件为克利夫兰艺术博物馆藏品（1931.451）。",
+  "技法或形式分析": "材质为**纸本胶彩与金**，画心34.4 × 22.5厘米、整叶38 × 25厘米（据该馆藏品记录）。",
+  "与前后风格的关系和争论": "该馆给出一段**图像程式（iconography）**：**Shri Raga** 的固定表现是「**王者夫妇听诵**」，其程式化描述为「华丽登座、美貌无双、明艳如秋月，坐听那罗陀与通巴鲁讲故事；诸大仙称之为室利拉格王」。而本页最值得注意之处是：**阿马尔·辛格把自己的肖像替换进了那位「通用的王者」**——赞助人由此**进入画面**。本条目照录该馆「playfully」的措辞。",
+  "一图": "示意图以莫卧儿要素引入、水平分栏的保留与赞助人入画三者关系标示本页。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）引文为英文转译，原始梵文／印地文未见；（3）「阿马尔·辛格自画像」的认定依据未列；（4）该组画的完整幅数未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='shri-raga-mewar 示意图'><title>shri-raga-mewar</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>莫卧儿要素</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>穹顶·纵深</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>《室利拉格》</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>c.1695</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>水平分栏</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>旧法保留</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>赞助人入画</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>替换王者</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>《室利拉格》：新要素、旧格局与赞助人</text></g></svg>",
+ "sources": [
+  "cma-1931-451"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；引文为转译；自画像依据未列。"
+}
