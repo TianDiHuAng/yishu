@@ -2185,6 +2185,37 @@
       "check_links_result": "broken=0(285页)",
       "audit_all": "12/12 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle75",
+      "date": "2026-11-23",
+      "status": "completed",
+      "gap_methods": [
+        "中国陶瓷续深"
+      ],
+      "network": "partial: museum APIs ok",
+      "new_entries": 4,
+      "new_entry_ids": [
+        "cizhou-toy-figurine",
+        "transitional-square-bottle",
+        "kangxi-lobed-vase",
+        "cizhou-floral-vase"
+      ],
+      "ceramics_total": 12,
+      "must_state": [
+        "磁州窑为釉上彩先声",
+        "过渡期方瓶源自欧洲酒瓶形",
+        "康熙青花与博纳尔画中瓷器的跨藏品关联（不扩大）",
+        "磁州窑的「白」靠覆盖而非描绘"
+      ],
+      "new_sources": 4,
+      "sources_total": 383,
+      "entries_total": 252,
+      "pages": 289,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(289页)",
+      "audit_all": "12/12 ok",
+      "commits": 1
     }
   ]
 }

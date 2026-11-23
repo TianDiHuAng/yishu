@@ -8523,7 +8523,8 @@
         "ding-tea-bowl",
         "jun-numbered-bulb-bowl",
         "tang-tomb-guardian",
-        "chenghua-doucai-cup"
+        "chenghua-doucai-cup",
+        "transitional-square-bottle"
       ],
       "sources": [
         "cma-1962-154"
@@ -8627,7 +8628,8 @@
         "longquan-export-bowl",
         "yuan-blue-white-jar",
         "tang-tomb-guardian",
-        "chenghua-doucai-cup"
+        "chenghua-doucai-cup",
+        "cizhou-floral-vase"
       ],
       "sources": [
         "cma-1957-33"
@@ -8726,7 +8728,8 @@
       "overview": "胎薄釉润，上品为北宋宫廷选用；倒烧故口沿无釉，可加铜或金银包边；釉流成「泪痕」。",
       "related": [
         "ding-tea-bowl",
-        "qingbai-silver-bowl"
+        "qingbai-silver-bowl",
+        "cizhou-toy-figurine"
       ],
       "sources": [
         "cma-1929-995"
@@ -8759,7 +8762,8 @@
       "overview": "高仅约两英寸；先以钴蓝勾线、施釉烧成青花，再于釉上加彩二次入窑；胎极薄透、质轻。",
       "related": [
         "yuan-blue-white-jar",
-        "jun-numbered-bulb-bowl"
+        "jun-numbered-bulb-bowl",
+        "kangxi-lobed-vase"
       ],
       "sources": [
         "cma-1957-61"
@@ -8777,6 +8781,138 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='chenghua-doucai-cup 示意图'><title>chenghua-doucai-cup</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>钴蓝勾线</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>第一次烧</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>斗彩杯</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>高4.8cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>釉上填彩</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>第二次烧</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>胎薄透光</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>质轻</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>斗彩杯：两次烧成的分工</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（CMA）来源；款识鉴定与递藏未记录。"
+    },
+    {
+      "id": "cizhou-toy-figurine",
+      "title": "磁州窑持瓶女俑（玩具）",
+      "kind": "作品",
+      "unit": "art-ceramics",
+      "era": "12—13世纪",
+      "region": "中国",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "磁州窑模制彩绘女俑，克利夫兰艺术博物馆藏（1957.56）。",
+      "when": "1100—1200年代",
+      "overview": "持长颈花瓶（浇花用）；磁州窑不供御用，只做日用器与陶俑，后者被认为作**玩具**。",
+      "related": [
+        "cizhou-floral-vase",
+        "ding-duck-bowl"
+      ],
+      "sources": [
+        "cma-1957-56"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为磁州窑模制彩绘女俑，克利夫兰艺术博物馆定年为1100—1200年代（北宋至金）。",
+        "风格特征": "该馆先给出一条**窑场定位**：磁州窑**从不**为宫廷生产，而是制作**日常生活所需的器物**。它也烧造**陶俑**，并被**认为是用作玩具**。此俑为**侍女或宫装女子**，手**持一件长颈花瓶**——那种瓶用于**浇花**。",
+        "代表人物与作品": "作者未署名。相关条目见北宋磁州窑花卉纹瓶与定窑鸭纹碗。本件为克利夫兰艺术博物馆藏品（1957.56）。",
+        "技法或形式分析": "材质为石陶施化妆土（stoneware with slip decoration），整体19.7 × 9.5厘米（据该馆藏品记录）。该馆给出完整工序：**黏土模制**，覆**白色化妆土**与**透明釉**，其上再施**红、绿、赭**等彩。",
+        "与前后风格的关系和争论": "**本条目最有价值的判断在技术史**：该馆称磁州窑陶工是**中国最早在已烧成的高温釉面上施加釉上彩的一批人之一**——即**釉上彩的先声**。这与景德镇后来的斗彩/粉彩构成了一条可追踪的技术线。此外「可能为女孩所作玩具」是该馆措辞，条目保留其推测性。",
+        "一图": "示意图以磁州日用器定位、模制加彩工序与「釉上彩先声」三者关系标示此俑。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「用作玩具」该馆用 believed，属推测；（3）釉上彩的呈色剂与烧成温度未记录；（4）此俑的出土地与制作窑口未取得。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cizhou-toy-figurine 示意图'><title>cizhou-toy-figurine</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>磁州日用器</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>不供御用</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>彩绘女俑</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>19.7cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>模制＋化妆土</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>工序</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>釉上彩先声</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>技术史</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>磁州俑：定位、工序与技术史</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；玩具用途为推测；窑口未取得。"
+    },
+    {
+      "id": "transitional-square-bottle",
+      "title": "过渡期青花方瓶",
+      "kind": "作品",
+      "unit": "art-ceramics",
+      "era": "17世纪",
+      "region": "中国",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "景德镇釉下青花方瓶，克利夫兰艺术博物馆藏（2018.293）。",
+      "when": "1628—1722年",
+      "overview": "器形源自**欧洲杜松子酒瓶**；纹样为豹、麒麟、马等异兽；属明末清初「过渡期」，窑场失去宫廷订单后转向新客源。",
+      "related": [
+        "kangxi-lobed-vase",
+        "yuan-blue-white-jar"
+      ],
+      "sources": [
+        "cma-2018-293"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为景德镇釉下青花**方瓶**，克利夫兰艺术博物馆将其定年区间写作**1628—1722年**，并注明属明崇祯朝或清康熙朝。",
+        "风格特征": "该馆首先指出**器形的外来来源**：此瓶的形状**源自欧洲的杜松子酒瓶（gin bottle）**。装饰为**明艳蓝色**的**幻想性动物**——**豹、麒麟、马**以及另一种想象之兽。",
+        "代表人物与作品": "作者未署名。相关条目见康熙青花瓣瓶与元青花狮耳罐。本件为克利夫兰艺术博物馆藏品（2018.293）。",
+        "技法或形式分析": "材质为釉下青花瓷（porcelain with underglaze cobalt blue decoration），整体高31.1厘米（据该馆藏品记录）。方形器身在成型与烧成上难度高于圆器（棱角易变形），本条目只据尺寸与釉下青花记录，不推断具体成型手法。",
+        "与前后风格的关系和争论": "**本条的史论核心是「失去订单之后」**：该馆说明此风格属明清**过渡期**，当时陶工**失去宫廷的赞助**，于是**实验性地寻找中国与海外的新客户**。于是我们看到的「异兽＋欧洲器形」并非趣味偶然，而是**市场重构的产物**。",
+        "一图": "示意图以欧洲酒瓶形、异兽纹样与「失去宫廷订单后的市场转向」三者关系标示此瓶。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）定年区间跨两朝（1628—1722），该馆未细化到某一朝；（3）「源自欧洲 gin bottle」的比对样本未列出；（4）外销目的地未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='transitional-square-bott 示意图'><title>transitional-square-bott</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>欧洲酒瓶形</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>外来器形</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>过渡期方瓶</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>高31.1cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>异兽纹</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>豹·麒麟·马</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>寻找新客源</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>失去宫廷订单</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>过渡期方瓶：器形、纹样与市场</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；定年未细化；比对样本未列。"
+    },
+    {
+      "id": "kangxi-lobed-vase",
+      "title": "康熙青花瓣瓶",
+      "kind": "作品",
+      "unit": "art-ceramics",
+      "era": "17—18世纪",
+      "region": "中国",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "康熙朝景德镇釉下青花瓣瓶，克利夫兰艺术博物馆藏（2020.174）。",
+      "when": "1661—1722年",
+      "overview": "青花绘画性在康熙朝达最高；画工技艺可比专业画家；蓝彩迎合士人、宫廷与海外市场。",
+      "related": [
+        "transitional-square-bottle",
+        "chenghua-doucai-cup"
+      ],
+      "sources": [
+        "cma-2020-174"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为康熙朝（1661—1722）景德镇釉下青花瓣瓶，克利夫兰艺术博物馆藏（2020.174）。",
+        "风格特征": "该馆给出一句**风格史判断**：釉下青花的装饰在**康熙皇帝在位期间（1662—1722）达到最高的绘画性品质**；瓷器画工所达到的艺术与技术水准**可与专业画家相比**。",
+        "代表人物与作品": "作者未署名。相关条目见过渡期青花方瓶与成化斗彩儿童纹杯。",
+        "技法或形式分析": "材质为釉下青花瓷，整体20.4 × 12.2厘米（据该馆藏品记录）。该馆指出蓝彩「**明艳的钴蓝**」同时迎合三类品味：**士人阶层、宫廷与海外市场**——即一种颜色承担多重市场功能。",
+        "与前后风格的关系和争论": "**本条目含一条罕见的跨藏品互证**：该馆提请读者注意**同馆所藏皮埃尔·博纳尔（Pierre Bonnard）的《水果与果盘》（CMA 2020.100）**中的青花瓷；并指出「**这样的瓷器出现在法国餐桌上，所受启发的正是此类中国青花**」。也就是说，一件 17 世纪中国瓷器与本馆一件 20 世纪初法国绘画之间存在**可核查的图像关联**。本条目照录该关联，不扩大其含义。",
+        "一图": "示意图以康熙青花的绘画性、三类市场与博纳尔画中青花三者关系标示本瓶。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「可与专业画家相比」为该馆评价；（3）博纳尔画中器物与本瓶的**具体对应关系**该馆只说「此类」，未指同一器形；（4）本件的款识与递藏未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='kangxi-lobed-vase 示意图'><title>kangxi-lobed-vase</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>康熙青花</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1661—1722</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>绘画性达峰</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>比肩画家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>士人·宫廷·海外</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>三重市场</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>博纳尔画中青花</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>CMA 2020.100</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>康熙瓣瓶：绘画性、市场与跨藏品关联</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；评价性表述与具体对应关系未核。"
+    },
+    {
+      "id": "cizhou-floral-vase",
+      "title": "北宋磁州窑花卉纹瓶",
+      "kind": "作品",
+      "unit": "art-ceramics",
+      "era": "10—11世纪",
+      "region": "中国",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "北宋磁州窑刻花嵌白瓶，克利夫兰艺术博物馆藏（1948.226）。",
+      "when": "900—1000年代",
+      "overview": "磁州窑以化妆土、粗放纹样与色差见长；此瓶以刻划与嵌白取得韵律感；烧成后化妆土呈象牙色、露胎呈肉桂褐。",
+      "related": [
+        "cizhou-toy-figurine",
+        "jun-numbered-bulb-bowl"
+      ],
+      "sources": [
+        "cma-1948-226"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为北宋磁州窑（河南）花卉纹瓶，克利夫兰艺术博物馆定年为900—1000年代。",
+        "风格特征": "该馆先给磁州窑的一般特征：**使用化妆土涂层、纹样粗放、以色彩对比取得强烈视觉效果**。而本件被特别标为「**极其罕见**」：其花卉纹的**刻划与嵌白装饰**呈现出**显著的韵律感**。",
+        "代表人物与作品": "作者未署名。相关条目见磁州窑持瓶女俑与钧窑数字款钵。本件为克利夫兰艺术博物馆藏品（1948.226）。",
+        "技法或形式分析": "材质为釉石陶，刻划与嵌白装饰（incised and slip-inlaid），整体高41.3厘米、口径12.7厘米（据该馆藏品记录）。该馆说明了**烧成后的色差机制**：**化妆土涂层与嵌白装饰**经烧成呈**柔和的象牙色**，而**裸露的胎体**则呈**温暖的肉桂褐**——即装饰不是靠颜料，而是靠**覆盖与暴露的对比**。",
+        "与前后风格的关系和争论": "把「化妆土」理解为**遮覆手段**，才能解释磁州窑的视觉逻辑：它所追求的并非精细描绘，而是**覆盖层与胎体的色差**。本条目据此把该窑与同时期追求薄胎白釉的定窑区分开——两者对「白」的实现路径不同。",
+        "一图": "示意图以化妆土覆盖、嵌白装饰与烧成后的象牙/肉桂色差三者关系标示本瓶。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「极其罕见」为该馆判断，未给统计；（3）磁州窑具体窑口（观台/彭城）未记录；（4）嵌白工艺的工序细节未展开。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cizhou-floral-vase 示意图'><title>cizhou-floral-vase</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>化妆土覆盖</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>遮覆手段</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>磁州瓶</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>41.3cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>刻划嵌白</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>韵律</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>象牙/肉桂色差</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>烧成结果</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>磁州瓶：覆盖、嵌白与色差</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；罕见性判断与窑口未核。"
     }
   ]
 }

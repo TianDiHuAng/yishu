@@ -937,6 +937,18 @@
       },
       "network": "partial (museum APIs)",
       "verdict": "中国陶瓷 4→8（总 248）；单元改名消边界含混；未饱和"
+    },
+    {
+      "cycle": "cycle75",
+      "date": "2026-11-23",
+      "methods_used": [
+        "陶瓷续深"
+      ],
+      "gaps_found": {
+        "entries": 4
+      },
+      "network": "partial (museum APIs)",
+      "verdict": "陶瓷 8→12（总 252）；跨藏品关联如实限定；未饱和"
     }
   ],
   "assessment_c33": {

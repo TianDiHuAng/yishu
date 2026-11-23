@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 248 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 252 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -371,6 +371,10 @@
 | qingbai-silver-bowl | 青白瓷银扣碗 | 作品 | 12—13世纪 | 中国 | 综合 | 重要 | O6 |
 | ding-duck-bowl | 定窑鸭纹碗 | 作品 | 12世纪 | 中国 | 综合 | 重要 | O6 |
 | chenghua-doucai-cup | 成化斗彩儿童纹杯 | 作品 | 15世纪 | 中国 | 综合 | 核心 | O6 |
+| cizhou-toy-figurine | 磁州窑持瓶女俑（玩具） | 作品 | 12—13世纪 | 中国 | 雕塑 | 重要 | O6 |
+| transitional-square-bottle | 过渡期青花方瓶 | 作品 | 17世纪 | 中国 | 综合 | 重要 | O6 |
+| kangxi-lobed-vase | 康熙青花瓣瓶 | 作品 | 17—18世纪 | 中国 | 综合 | 核心 | O6 |
+| cizhou-floral-vase | 北宋磁州窑花卉纹瓶 | 作品 | 10—11世纪 | 中国 | 综合 | 重要 | O6 |
 
 ## work-archives（作品档案）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

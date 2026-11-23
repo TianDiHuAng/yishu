@@ -3789,6 +3789,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；釉下青花加釉上彩（斗彩） 高4.8cm；说明含二次烧工艺"
+    },
+    {
+      "id": "cma-1957-56",
+      "title": "Cleveland Museum of Art — Lady Holding a Vase, Cizhou ware, 1100s–1200s, acc. 1957.56",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1957.56",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；石陶化妆土 19.7×9.5cm；说明含玩具用途与釉上彩先行"
+    },
+    {
+      "id": "cma-2018-293",
+      "title": "Cleveland Museum of Art — Transitional Blue-and-White Square Bottle, 1628–1722, acc. 2018.293",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2018.293",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；釉下青花瓷 高31.1cm；说明含欧洲杜松子酒瓶形与失去宫廷订单"
+    },
+    {
+      "id": "cma-2020-174",
+      "title": "Cleveland Museum of Art — Lobed vase, underglaze cobalt blue, Kangxi, 1661–1722, acc. 2020.174",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2020.174",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；釉下青花瓷 20.4×12.2cm；说明含与博纳尔画作的关联"
+    },
+    {
+      "id": "cma-1948-226",
+      "title": "Cleveland Museum of Art — Vase with Floral Scrolls, Cizhou, 900s–1000s, acc. 1948.226",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1948.226",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；釉石陶刻花嵌白 高41.3cm；说明含化妆土与胎色对比"
     }
   ]
 }

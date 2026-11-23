@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 248,
+    "total": 252,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -2981,6 +2981,54 @@
     "chenghua-doucai-cup": {
       "title": "成化斗彩儿童纹杯",
       "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "cizhou-toy-figurine": {
+      "title": "磁州窑持瓶女俑（玩具）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "transitional-square-bottle": {
+      "title": "过渡期青花方瓶",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "kangxi-lobed-vase": {
+      "title": "康熙青花瓣瓶",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "cizhou-floral-vase": {
+      "title": "北宋磁州窑花卉纹瓶",
+      "tier": "重要",
       "level": "L2",
       "status": "written_l2",
       "sources_count": 1,
