@@ -1092,6 +1092,28 @@
       },
       "network": "partial (museum APIs)",
       "verdict": "达到 300 条目；未饱和（覆盖不均衡）"
+    },
+    {
+      "cycle": "cycle87",
+      "date": "2026-11-23",
+      "methods_used": [
+        "希腊罗马实物"
+      ],
+      "gaps_found": {
+        "entries": 4
+      },
+      "network": "partial (museum APIs)",
+      "verdict": "希腊罗马 0→4（总 296）；未饱和"
+    },
+    {
+      "cycle": "cycle89",
+      "date": "2026-11-23",
+      "methods_used": [
+        "文档对齐"
+      ],
+      "gaps_found": {},
+      "network": "partial",
+      "verdict": "文档数字对齐 300/431/337；未饱和"
     }
   ],
   "assessment_c33": {

@@ -2530,6 +2530,32 @@
       "commits": 1
     },
     {
+      "cycle": "cycle87",
+      "date": "2026-11-23",
+      "status": "completed",
+      "gap_methods": [
+        "希腊罗马实物填补"
+      ],
+      "network": "partial: museum APIs ok",
+      "new_entries": 4,
+      "new_entry_ids": [
+        "kouros-torso",
+        "herakles-bronze",
+        "roman-athlete-statue",
+        "vespasian-recut-head"
+      ],
+      "greco_roman_objects": 4,
+      "new_sources": 4,
+      "sources_total": 427,
+      "entries_total": 296,
+      "pages": 333,
+      "checker_catch": "R2 抓到公元前区间写法歧义（已双写公元前）",
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(333页)",
+      "audit_all": "12/12 ok",
+      "commits": 1
+    },
+    {
       "cycle": "cycle88",
       "date": "2026-11-23",
       "status": "completed",
@@ -2548,6 +2574,25 @@
       "new_sources": 4,
       "sources_total": 431,
       "entries_total": 300,
+      "pages": 337,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(337页)",
+      "audit_all": "12/12 ok",
+      "commits": 1
+    },
+    {
+      "cycle": "cycle89",
+      "date": "2026-11-23",
+      "status": "completed",
+      "gap_methods": [
+        "交付前文档一致性收束"
+      ],
+      "network": "partial",
+      "new_entries": 0,
+      "fixes": 1,
+      "fix_detail": "README/PROGRESS/PROJECT_STATUS 数字对齐为 300/431/337/R1-R22/12步；补齐 cycle87 报告块",
+      "entries_total": 300,
+      "sources_total": 431,
       "pages": 337,
       "check_result": "errors=0",
       "check_links_result": "broken=0(337页)",

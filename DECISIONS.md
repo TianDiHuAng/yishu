@@ -939,3 +939,14 @@
 ④利斯融合**威尼斯色彩**与**卡拉瓦乔明暗**，该馆对威尼斯前辈未定（提香/丁托列托/委罗内塞）。
 可逆方式：删 4 条 overlay 与 catalog 元组、移除 4 条来源。
 代价：4 条均单机构；达到 300 条目，但**覆盖仍不均衡**（欧洲与中国仍占多数，非西方地区虽已起步仍薄）。
+
+## D092 — Cycle89 补记 cycle87 轮次 + 文档数字对齐
+- 发现 cycle87（希腊罗马 4 条，292→296）的条目随 cycle88 一并提交，但 **METRICS / DECISIONS / REPORT 均未记录**，
+  导致 REPORT 生成器虽已补 cycle87 块却永远不会被执行。
+- 处置：在 METRICS 的 cycle86 与 cycle88 之间**插入 cycle87 记录**（entries_total=296, sources_total=427, pages=333）；
+  SATURATION 同步补记；DECISIONS 本条即补记。另在 METRICS 末尾追加 cycle89（文档对齐）记录，使 REPORT 指向最新轮次。
+- 同时对齐 README / PROGRESS / PROJECT_STATUS 的汇总数字为 **300 条 / 431 来源 / 28 单元 / 337 页 / R1–R22 / 12 步**；
+  这些此前散落在旧数字（145/279/176/R17 等），属"交接文档滞后"，不影响数据与站点本身。
+- 强调：**300 是数量里程碑，不等于覆盖均衡**；未写 ALL_DONE，饱和以 `SATURATION.json` 为准（当前未饱和）。
+- 可逆方式：删除 cycle87/cycle89 记录并把文档数字回滚（不建议）。
+- 代价：METRICS 中 cycle87 为事后补记（日期同为 2026-11-23），但条目与 commit 均在仓库中可核。
