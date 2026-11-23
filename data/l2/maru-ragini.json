@@ -1,0 +1,19 @@
+{
+ "id": "maru-ragini",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本页出自《Ragamala》（旋律花环）组画，克利夫兰艺术博物馆定年为1650—80年，产地记为**拉贾斯坦安贝尔（Amber）或德干西南部**。",
+  "风格特征": "该馆描述画面：一名**拉杰普特武士**手持**长矛**，腰带系着**刺击匕首（katar）与剑**，**独自与其骆驼**立于景中。他们**行至溪岸**，此处**草木葱绿**，与身后**灼热的浓黄地面**形成对比。",
+  "代表人物与作品": "作者未署名。相关条目见《考萨拉格普特拉》与《乌特卡·纳伊卡》。本件为克利夫兰艺术博物馆藏品（2018.168）。",
+  "技法或形式分析": "材质为**纸本胶彩、墨与金**，画面26 × 17.6厘米（据该馆藏品记录）。该馆未展开颜料与金的用法，本条目因此只述色面对比（绿／黄）而不推断工艺。",
+  "与前后风格的关系和争论": "该馆点明**画面与音乐的对应**：与本画相关的**调式基于拉贾斯坦的民歌**，而**当地故事中的主角正是一位以骆驼为坐骑的英雄**。这与 Ragamala 的整体逻辑一致——画的是**某种调式所引发的情境**，而非任意叙事。本条目据此把「骆驼」理解为**调式的地域标记**，而不只是坐骑。",
+  "一图": "示意图以拉贾斯坦民歌调式、骆驼骑士的地域故事与绿/黄色面对比三者关系标示本页。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）产地「安贝尔或德干」该馆并列两说，未定；（3）该调式的音阶与演奏规范未取得；（4）组画其余各页分布未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='maru-ragini 示意图'><title>maru-ragini</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>拉贾斯坦民歌</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>调式来源</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>《马鲁·拉吉尼》</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>26×17.6</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>骆驼骑士</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>地域故事</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>绿岸/黄地</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>色面对比</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>马鲁·拉吉尼：调式、故事与色面</text></g></svg>",
+ "sources": [
+  "cma-2018-168"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；产地两说未定；调式规范未取得。"
+}

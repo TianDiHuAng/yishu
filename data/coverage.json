@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 268,
+    "total": 272,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -3220,6 +3220,54 @@
     },
     "kausa-ragaputra": {
       "title": "《考萨拉格普特拉》（Ragamala，帕哈里）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "jagat-singh-portrait": {
+      "title": "《努尔普尔王贾加特·辛格像》",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "murad-bakhsh-jewel": {
+      "title": "《穆拉德·巴赫什像》（肖像宝石）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "utka-nayika": {
+      "title": "《乌特卡·纳伊卡》（等待情人的女主人公）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "maru-ragini": {
+      "title": "《马鲁·拉吉尼》（Ragamala）",
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",

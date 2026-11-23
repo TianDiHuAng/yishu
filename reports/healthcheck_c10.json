@@ -122,6 +122,20 @@
     "1028",
     "967"
    ]
+  ],
+  [
+   "jagat-singh-portrait",
+   "约1619年",
+   [
+    "1624"
+   ]
+  ],
+  [
+   "murad-bakhsh-jewel",
+   "约1635（边饰约1700年代）",
+   [
+    "1616"
+   ]
   ]
  ],
  "orphans": [],
@@ -178,6 +192,6 @@
  "link_audit": {
   "cross_domain": 2,
   "oneway": 0,
-  "total_links": 808
+  "total_links": 820
  }
 }

@@ -3989,6 +3989,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；胶彩、墨与金 18×14.8cm；说明含调式与「旋律花环」组画"
+    },
+    {
+      "id": "cma-2013-324",
+      "title": "Cleveland Museum of Art — Portrait of Raja Jagat Singh of Nurpur, probably 1619, acc. 2013.324",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2013.324",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；胶彩与金 19.1×11.6cm；说明含山国贵族在莫卧儿宫廷之罕与1624年斡旋"
+    },
+    {
+      "id": "cma-2013-327",
+      "title": "Cleveland Museum of Art — Portrait of Murad Bakhsh (1624–61), c. 1635, acc. 2013.327",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2013.327",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；胶彩与金 画面4.3×3.5cm；说明含「肖像宝石」与1616年英国使节赠礼"
+    },
+    {
+      "id": "cma-1932-118",
+      "title": "Cleveland Museum of Art — Utka Nayika (the heroine waiting), Pahari, c. 1800, acc. 1932.118",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1932.118",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；胶彩 16×10.2cm；说明含焦虑的手势与帕哈里人体比例"
+    },
+    {
+      "id": "cma-2018-168",
+      "title": "Cleveland Museum of Art — Maru Ragini, from a Ragamala, 1650–80, acc. 2018.168",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2018.168",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；胶彩、墨与金 26×17.6cm；说明含拉贾斯坦民歌调式与骆驼骑士"
     }
   ]
 }
