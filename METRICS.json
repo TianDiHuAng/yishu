@@ -1909,6 +1909,29 @@
       "check_links_result": "broken=0(251页)",
       "audit_all": "12/12 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle66",
+      "date": "2026-11-23",
+      "status": "completed",
+      "gap_methods": [
+        "def/overview 与 when 年份一致性"
+      ],
+      "network": "partial",
+      "new_entries": 0,
+      "fixes": 0,
+      "result": "negative：47→14→人工判读 14 项全为合理内容（语境年份/馆藏号/艺人年）",
+      "verdict": "年份集合包含不可作不变量（第三次验证），停止投入；保留可工作的两项（机构记录比对、R21）",
+      "b_check_empty": 0,
+      "c_check_duplicate": 0,
+      "audit_steps": 12,
+      "entries_total": 216,
+      "sources_total": 347,
+      "pages": 251,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(251页)",
+      "audit_all": "12/12 ok",
+      "commits": 1
     }
   ]
 }
