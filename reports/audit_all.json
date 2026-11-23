@@ -3,10 +3,10 @@
   {
    "step": "py_compile（全部工具可编译）",
    "status": "ok",
-   "tail": "242 个 .py 全部通过"
+   "tail": "245 个 .py 全部通过"
   },
   {
-   "step": "check.py（R1-R19 硬规则）",
+   "step": "check.py（R1-R21 硬规则）",
    "returncode": 0,
    "status": "ok",
    "tail": "check.py: entries=200 svg=200 errors=0"

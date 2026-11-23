@@ -1601,6 +1601,43 @@
       "check_links_result": "broken=0(235页)",
       "audit_all": "10/10 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle57",
+      "date": "2026-11-23",
+      "status": "completed",
+      "gap_methods": [
+        "when 字段抽查（先启发式后结构性）"
+      ],
+      "network": "partial",
+      "new_entries": 0,
+      "fixes": 6,
+      "abandoned_heuristic": {
+        "name": "when 与正文年份集合包含关系",
+        "false_positives": "55 命中中 41 为设计性误报",
+        "causes": [
+          "馆藏号被当年代(1918/1043/1979)",
+          "人物生卒 vs 事件年份",
+          "流派存续期 vs 展览年份"
+        ]
+      },
+      "new_rule": "R21 when 不得含拉丁字母（注入测试通过）",
+      "normalized": [
+        "约1940s→约1940年代",
+        "约1950s→约1950年代",
+        "约1960s→约1960年代",
+        "early 1830s→1830年代初",
+        "20—620 CE→公元20—620年"
+      ],
+      "false_alarm_avoided": "10 条 when 长度<3（历代/汉代）为合法，未改",
+      "checks_r": 21,
+      "entries_total": 200,
+      "sources_total": 331,
+      "pages": 235,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(235页)",
+      "audit_all": "10/10 ok",
+      "commits": 1
     }
   ]
 }

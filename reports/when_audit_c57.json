@@ -1,0 +1,619 @@
+{
+ "total_entries": 200,
+ "review": [
+  {
+   "id": "romanesque",
+   "type": "when无年份但正文有",
+   "when": "约11—12世纪（中世纪盛期）",
+   "extra": [
+    "1000",
+    "1150"
+   ],
+   "level": "提示"
+  },
+  {
+   "id": "gothic",
+   "type": "正文年份不在when",
+   "when": "约公元1140—1500年",
+   "extra": [
+    "1144"
+   ],
+   "level": "提示"
+  },
+  {
+   "id": "impressionism",
+   "type": "正文年份不在when",
+   "when": "约公元1870—1890年",
+   "extra": [
+    "1863",
+    "1872",
+    "1874",
+    "1876",
+    "1886"
+   ],
+   "level": "重点"
+  },
+  {
+   "id": "baroque-music",
+   "type": "正文年份不在when",
+   "when": "约公元1600—1750年",
+   "extra": [
+    "1607",
+    "1721",
+    "1742"
+   ],
+   "level": "重点"
+  },
+  {
+   "id": "degas",
+   "type": "正文年份不在when",
+   "when": "1834—1917年",
+   "extra": [
+    "1043",
+    "1822",
+    "1853",
+    "1855",
+    "1856",
+    "1861"
+   ],
+   "level": "重点"
+  },
+  {
+   "id": "rodin",
+   "type": "正文年份不在when",
+   "when": "1840—1917年",
+   "extra": [
+    "182",
+    "1875",
+    "1880",
+    "1912",
+    "1916",
+    "1918"
+   ],
+   "level": "重点"
+  },
+  {
+   "id": "rodin-age-of-bronze",
+   "type": "正文年份不在when",
+   "when": "1875—76年（本铸件1916年铸造）",
+   "extra": [
+    "182",
+    "1840",
+    "1917",
+    "1918",
+    "328"
+   ],
+   "level": "重点"
+  },
+  {
+   "id": "mi-youren-cloudy-mountains",
+   "type": "正文年份不在when",
+   "when": "1130年",
+   "extra": [
+    "1051",
+    "1072",
+    "1107",
+    "1127",
+    "1151",
+    "1279"
+   ],
+   "level": "重点"
+  },
+  {
+   "id": "manet",
+   "type": "正文年份不在when",
+   "when": "1832—1883年",
+   "extra": [
+    "1847",
+    "1850",
+    "1855",
+    "1863",
+    "1865",
+    "1867"
+   ],
+   "level": "重点"
+  },
+  {
+   "id": "turner",
+   "type": "正文年份不在when",
+   "when": "1775—1851年",
+   "extra": [
+    "1726",
+    "1752",
+    "1789",
+    "1790",
+    "1796",
+    "1799"
+   ],
+   "level": "重点"
+  },
+  {
+   "id": "constable",
+   "type": "正文年份不在when",
+   "when": "1776—1837年",
+   "extra": [
+    "1747",
+    "1753",
+    "1766",
+    "1796",
+    "1799",
+    "1802"
+   ],
+   "level": "重点"
+  },
+  {
+   "id": "courbet",
+   "type": "正文年份不在when",
+   "when": "1819—1877年",
+   "extra": [
+    "1593",
+    "1774",
+    "1788",
+    "1831",
+    "1833",
+    "1837"
+   ],
+   "level": "重点"
+  },
+  {
+   "id": "ingres",
+   "type": "正文年份不在when",
+   "when": "1780—1867年",
+   "extra": [
+    "1797",
+    "1801",
+    "1806",
+    "1824",
+    "1833",
+    "1834"
+   ],
+   "level": "重点"
+  },
+  {
+   "id": "hokusai-red-fuji",
+   "type": "正文年份不在when",
+   "when": "early 1830s（系列作于1829—1833年）",
+   "extra": [
+    "1760",
+    "1849"
+   ],
+   "level": "重点"
+  },
+  {
+   "id": "hiroshige-shono",
+   "type": "正文年份不在when",
+   "when": "1833年",
+   "extra": [
+    "1797",
+    "1858"
+   ],
+   "level": "重点"
+  },
+  {
+   "id": "hiroshige-ohashi-atake",
+   "type": "正文年份不在when",
+   "when": "1857年",
+   "extra": [
+    "1855"
+   ],
+   "level": "提示"
+  },
+  {
+   "id": "chen-hongshou-album",
+   "type": "正文年份不在when",
+   "when": "1598—1652年",
+   "extra": [
+    "1979"
+   ],
+   "level": "提示"
+  },
+  {
+   "id": "zhao-mengfu-river-village",
+   "type": "正文年份不在when",
+   "when": "约1302—03年",
+   "extra": [
+    "1286"
+   ],
+   "level": "提示"
+  },
+  {
+   "id": "hiroshige-ryogoku-fireworks",
+   "type": "正文年份不在when",
+   "when": "1858年",
+   "extra": [
+    "1797",
+    "1850"
+   ],
+   "level": "重点"
+  },
+  {
+   "id": "hokusai-muneyuki-poem",
+   "type": "正文年份不在when",
+   "when": "1835—36年",
+   "extra": [
+    "1760",
+    "1849"
+   ],
+   "level": "重点"
+  },
+  {
+   "id": "hokusai-hitomaro-poem",
+   "type": "正文年份不在when",
+   "when": "1835—36年",
+   "extra": [
+    "660",
+    "739"
+   ],
+   "level": "重点"
+  },
+  {
+   "id": "hokusai-nakahara-sagami",
+   "type": "正文年份不在when",
+   "when": "约1835年",
+   "extra": [
+    "1760",
+    "1849"
+   ],
+   "level": "重点"
+  },
+  {
+   "id": "islamic-art",
+   "type": "when无年份但正文有",
+   "when": "7—19世纪（延伸至近代）",
+   "extra": [
+    "1200",
+    "1221",
+    "1520",
+    "1535",
+    "900"
+   ],
+   "level": "提示"
+  },
+  {
+   "id": "wade-cup",
+   "type": "正文年份不在when",
+   "when": "1200—1221年",
+   "extra": [
+    "1037",
+    "1150",
+    "1194",
+    "1944",
+    "485"
+   ],
+   "level": "重点"
+  },
+  {
+   "id": "mihrab-isfahan",
+   "type": "when无年份但正文有",
+   "when": "约16世纪（该馆另记或为20世纪中期）",
+   "extra": [
+    "1501",
+    "1563",
+    "1722",
+    "1962",
+    "245",
+    "290"
+   ],
+   "level": "提示"
+  },
+  {
+   "id": "iznik-dish-artichokes",
+   "type": "正文年份不在when",
+   "when": "约1535—40年",
+   "extra": [
+    "1520",
+    "1995"
+   ],
+   "level": "重点"
+  },
+  {
+   "id": "nishapur-figural-bowl",
+   "type": "正文年份不在when",
+   "when": "900年代",
+   "extra": [
+    "1005",
+    "1959",
+    "249",
+    "819"
+   ],
+   "level": "重点"
+  },
+  {
+   "id": "benin-plaque",
+   "type": "正文年份不在when",
+   "when": "1500—1600年代",
+   "extra": [
+    "1897",
+    "1898",
+    "1999"
+   ],
+   "level": "重点"
+  },
+  {
+   "id": "benin-ancestral-head",
+   "type": "when无年份但正文有",
+   "when": "约16世纪中或17世纪初",
+   "extra": [
+    "1938"
+   ],
+   "level": "提示"
+  },
+  {
+   "id": "maya-el-peru-stela",
+   "type": "正文年份不在when",
+   "when": "692年",
+   "extra": [
+    "182",
+    "1967",
+    "274"
+   ],
+   "level": "重点"
+  },
+  {
+   "id": "aztec-feathered-serpent",
+   "type": "正文年份不在when",
+   "when": "1325—1521年（或为近代）",
+   "extra": [
+    "1941"
+   ],
+   "level": "提示"
+  },
+  {
+   "id": "maori-hei-tiki",
+   "type": "正文年份不在when",
+   "when": "1800年代",
+   "extra": [
+    "147",
+    "1954"
+   ],
+   "level": "重点"
+  },
+  {
+   "id": "asmat-war-shield",
+   "type": "正文年份不在when",
+   "when": "约1940年",
+   "extra": [
+    "176",
+    "1963",
+    "554"
+   ],
+   "level": "重点"
+  },
+  {
+   "id": "african-art",
+   "type": "when无年份但正文有",
+   "when": "12—20世纪（本条目节点集中于15—17世纪）",
+   "extra": [
+    "1500",
+    "1600",
+    "1897",
+    "1898"
+   ],
+   "level": "提示"
+  },
+  {
+   "id": "americas-art",
+   "type": "正文年份不在when",
+   "when": "3—16世纪（本条目节点为692年与1325—1521年）",
+   "extra": [
+    "182",
+    "274"
+   ],
+   "level": "重点"
+  },
+  {
+   "id": "oceania-art",
+   "type": "正文年份不在when",
+   "when": "18—20世纪（现有节点为1800年代与约1940年）",
+   "extra": [
+    "176"
+   ],
+   "level": "提示"
+  },
+  {
+   "id": "moche-bat-vessel",
+   "type": "正文年份不在when",
+   "when": "200—850年",
+   "extra": [
+    "2021"
+   ],
+   "level": "提示"
+  },
+  {
+   "id": "inca-tunic",
+   "type": "正文年份不在when",
+   "when": "约1400—1540年",
+   "extra": [
+    "136",
+    "1957"
+   ],
+   "level": "重点"
+  },
+  {
+   "id": "nok-terracotta-head",
+   "type": "正文年份不在when",
+   "when": "热释光测年 20—620 CE",
+   "extra": [
+    "1500",
+    "1920",
+    "200",
+    "2000",
+    "500"
+   ],
+   "level": "重点"
+  },
+  {
+   "id": "goryeo-celadon-bottle",
+   "type": "正文年份不在when",
+   "when": "1200—1300年代",
+   "extra": [
+    "1392",
+    "918"
+   ],
+   "level": "重点"
+  },
+  {
+   "id": "kammavacha-manuscript",
+   "type": "正文年份不在when",
+   "when": "1800年代",
+   "extra": [
+    "172",
+    "1945"
+   ],
+   "level": "重点"
+  },
+  {
+   "id": "asante-memorial-head",
+   "type": "when无年份但正文有",
+   "when": "约17世纪末—18世纪初",
+   "extra": [
+    "1400"
+   ],
+   "level": "提示"
+  },
+  {
+   "id": "paracas-mantle",
+   "type": "正文年份不在when",
+   "when": "约公元前300—公元200年",
+   "extra": [
+    "154",
+    "1946",
+    "226",
+    "227",
+    "228",
+    "292"
+   ],
+   "level": "重点"
+  },
+  {
+   "id": "chimu-litter-backrest",
+   "type": "正文年份不在when",
+   "when": "放射性碳测年 1185—1275（95.4%）",
+   "extra": [
+    "1952",
+    "233"
+   ],
+   "level": "重点"
+  },
+  {
+   "id": "goryeo-celadon-cup",
+   "type": "正文年份不在when",
+   "when": "1100—1200年代",
+   "extra": [
+    "1392",
+    "180",
+    "2025",
+    "918"
+   ],
+   "level": "重点"
+  },
+  {
+   "id": "nazca-trophy-head-bowl",
+   "type": "正文年份不在when",
+   "when": "约100—650年",
+   "extra": [
+    "2009",
+    "435"
+   ],
+   "level": "重点"
+  },
+  {
+   "id": "joseon-hollyhock-cup",
+   "type": "正文年份不在when",
+   "when": "1400年代",
+   "extra": [
+    "1392",
+    "1910",
+    "1969"
+   ],
+   "level": "重点"
+  },
+  {
+   "id": "joseon-hwarot-robe",
+   "type": "正文年份不在when",
+   "when": "1800年代末",
+   "extra": [
+    "114",
+    "1392",
+    "174",
+    "1910",
+    "1918",
+    "552"
+   ],
+   "level": "重点"
+  },
+  {
+   "id": "champa-planetary-deity",
+   "type": "正文年份不在when",
+   "when": "850—875年",
+   "extra": [
+    "147",
+    "1935"
+   ],
+   "level": "重点"
+  },
+  {
+   "id": "champa-apsara-bracket",
+   "type": "正文年份不在when",
+   "when": "900年代",
+   "extra": [
+    "1990"
+   ],
+   "level": "提示"
+  },
+  {
+   "id": "joseon-auspicious-jar",
+   "type": "正文年份不在when",
+   "when": "1800年代",
+   "extra": [
+    "1392",
+    "1910",
+    "1924",
+    "1981"
+   ],
+   "level": "重点"
+  },
+  {
+   "id": "joseon-buncheong-flask",
+   "type": "正文年份不在when",
+   "when": "1500年代",
+   "extra": [
+    "1921",
+    "649"
+   ],
+   "level": "重点"
+  },
+  {
+   "id": "kongo-prestige-cap",
+   "type": "正文年份不在when",
+   "when": "1800年代末—1900年代初",
+   "extra": [
+    "1607",
+    "180",
+    "1997"
+   ],
+   "level": "重点"
+  },
+  {
+   "id": "kongo-crucifix",
+   "type": "正文年份不在when",
+   "when": "1800年代末—1900年代初",
+   "extra": [
+    "1491",
+    "2010",
+    "444"
+   ],
+   "level": "重点"
+  },
+  {
+   "id": "khmer-thai-fruit-jar",
+   "type": "正文年份不在when",
+   "when": "1100年代",
+   "extra": [
+    "156",
+    "1983"
+   ],
+   "level": "重点"
+  }
+ ]
+}

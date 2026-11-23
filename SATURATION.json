@@ -708,6 +708,18 @@
       },
       "network": "partial (museum APIs)",
       "verdict": "抽查抓到 4 条事实性错误并更正；55 条机构来源尺寸 36/36 命中；未饱和"
+    },
+    {
+      "cycle": "cycle57",
+      "date": "2026-11-23",
+      "methods_used": [
+        "when 抽查"
+      ],
+      "gaps_found": {
+        "when_formatting": 6
+      },
+      "network": "partial",
+      "verdict": "弃用坏启发式，改立 R21；6 条 when 规范化；未饱和"
     }
   ],
   "assessment_c33": {

@@ -1,3 +1,4 @@
+import re
 # -*- coding: utf-8 -*-
 """check.py — 全站质量守门员。
 校验：R1必填/R2年代合法/R3生卒逻辑/R4来源合法且verified/R5重复/R6 SVG合法与不出界/
@@ -153,6 +154,12 @@ def main():
                 for b in BANNED:
                     if b in blob:
                         err("R17",e["id"],"争议含编辑待办措辞[%s]，非真实学界分歧"%b); break
+
+    # R21 when 表述规范：不得出现拉丁字母（本站统一中文表述，如 1940年代 / 公元620年）
+    for e in ENTRIES:
+        w=str(e.get("when","") or "")
+        if re.search(r"[A-Za-z]",w):
+            err("R21",e["id"],"when 含拉丁字母:%s"%w[:30])
 
     # R19 关联对称性：related 不得悬空，且必须双向
     byid={x["id"]:x for x in ENTRIES}

@@ -589,7 +589,7 @@ def build_status(entries):
                  "它们不计入上列来源总数，以免虚增。</p>"%_res)
     s.append("</div>")
     s.append("<div class='section-block'><h2>校验与已知缺口</h2>")
-    s.append("<p>每次构建前运行 <code>tools/audit_all.py</code>：硬规则（R1–R19）、站内链接、九维体检、内容自洽、关联图、单向关联、工具可编译。"
+    s.append("<p>每次构建前运行 <code>tools/audit_all.py</code>：硬规则（R1–R21）、站内链接、九维体检、内容自洽、关联图、单向关联、工具可编译。"
              "上述检查在本版均为通过状态；具体数值见仓库 reports/ 目录。</p>")
     _arch=sum(1 for e in entries if e["medium"]=="建筑")
     s.append("<p>已知缺口（诚实披露）：①A 类覆盖缺口 58 项，建筑已开工 %d 条，其余待可核验来源；"%_arch
