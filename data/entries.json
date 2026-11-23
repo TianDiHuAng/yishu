@@ -5215,6 +5215,88 @@
       "sources": [
         "cma-1994-1"
       ]
+    },
+    {
+      "id": "yuan-blue-white-jar",
+      "title": "元青花狮耳罐（景德镇）",
+      "kind": "作品",
+      "unit": "art-ceramics",
+      "era": "14世纪",
+      "region": "中国",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "元 dynasty 景德镇釉下青花罐，克利夫兰艺术博物馆藏（1962.154）。",
+      "when": "1300年代",
+      "overview": "不晚于1330年代已生产，供宫廷与民间及外销；青花钴料自伊朗（很可能卡尚）进口。",
+      "related": [
+        "longquan-export-bowl",
+        "ding-tea-bowl",
+        "jun-numbered-bulb-bowl"
+      ],
+      "sources": [
+        "cma-1962-154"
+      ]
+    },
+    {
+      "id": "longquan-export-bowl",
+      "title": "龙泉窑模印大碗",
+      "kind": "作品",
+      "unit": "art-ceramics",
+      "era": "14—15世纪",
+      "region": "中国",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "龙泉窑青瓷大碗，克利夫兰艺术博物馆藏（2020.188）。",
+      "when": "1300—1400年代",
+      "overview": "瓣状壁如花开放、口沿具模印尖棱近金属器；釉厚且亮如玉；窑工已掌握烧造巨形器以供外销。",
+      "related": [
+        "yuan-blue-white-jar",
+        "jun-numbered-bulb-bowl",
+        "ding-tea-bowl"
+      ],
+      "sources": [
+        "cma-2020-188"
+      ]
+    },
+    {
+      "id": "ding-tea-bowl",
+      "title": "定窑「邢式」白瓷碗",
+      "kind": "作品",
+      "unit": "art-ceramics",
+      "era": "10世纪",
+      "region": "中国",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "巩县窑（定窑系）象牙白釉碗，克利夫兰艺术博物馆藏（2020.186）。",
+      "when": "907—960年",
+      "overview": "此类碗用于饮茶，远销至萨马拉（今伊拉克）；唐人以红茶宜配淡青或白釉碗。",
+      "related": [
+        "yuan-blue-white-jar",
+        "longquan-export-bowl"
+      ],
+      "sources": [
+        "cma-2020-186"
+      ]
+    },
+    {
+      "id": "jun-numbered-bulb-bowl",
+      "title": "钧窑数字款钵",
+      "kind": "作品",
+      "unit": "art-ceramics",
+      "era": "15世纪",
+      "region": "中国",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "钧台窑带数字款钵，克利夫兰艺术博物馆藏（1957.33）。",
+      "when": "1400年代初",
+      "overview": "底刻「二」字，数字标尺寸（一最大、十最小）；内壁蓝色乳光釉有「蚯蚓走泥纹」，外壁紫调来自铜呈色。",
+      "related": [
+        "longquan-export-bowl",
+        "yuan-blue-white-jar"
+      ],
+      "sources": [
+        "cma-1957-33"
+      ]
     }
   ]
 }

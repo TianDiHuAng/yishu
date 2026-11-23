@@ -8505,6 +8505,140 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='safavid-steel-plaque 示意图'><title>safavid-steel-plaque</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>陵墓门饰</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>据说</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>钢铭文板</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>27×35</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>钢材抗拉</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>材料上限</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>镂空工艺</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>高技艺</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>萨法维钢板：位置、材料与工艺</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（CMA）来源；陵墓归属为传闻；匠人未记录。"
+    },
+    {
+      "id": "yuan-blue-white-jar",
+      "title": "元青花狮耳罐（景德镇）",
+      "kind": "作品",
+      "unit": "art-ceramics",
+      "era": "14世纪",
+      "region": "中国",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "元 dynasty 景德镇釉下青花罐，克利夫兰艺术博物馆藏（1962.154）。",
+      "when": "1300年代",
+      "overview": "不晚于1330年代已生产，供宫廷与民间及外销；青花钴料自伊朗（很可能卡尚）进口。",
+      "related": [
+        "longquan-export-bowl",
+        "ding-tea-bowl",
+        "jun-numbered-bulb-bowl"
+      ],
+      "sources": [
+        "cma-1962-154"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为元 dynasty 景德镇釉下青花罐，克利夫兰艺术博物馆定年为1300年代。该馆指出，此类青花瓷**不晚于1330年代**已生产，**同时供应宫廷、民间与外销**。",
+        "风格特征": "该馆称其「以**挺拔的器形、明艳的蓝色、清晰的纹样分界**见称」，是**元青花的典型例**。装饰主体为**云肩（cloud-collar）带状纹内的凤凰**，衬以花卉地。",
+        "代表人物与作品": "作者未署名。相关条目见龙泉窑模印大碗与定窑白瓷碗。本件为克利夫兰艺术博物馆藏品（1962.154）。",
+        "技法或形式分析": "材质为釉下青花瓷，整体高39.4厘米、宽37.5厘米、口径15.6厘米（据该馆藏品记录）。该馆给出**材料来源**：用于蓝彩的**钴料自伊朗进口，很可能来自卡尚**。这就把「元青花」的技术条件与波斯矿区直接连起来。",
+        "与前后风格的关系和争论": "该馆进一步指出，**云肩纹内凤凰加花卉地**这一套「艺术语汇」，在**伊儿汗时期的伊朗装饰艺术（1256—1353）**中同样可以见到。物品本身因此成为**跨蒙古帝国交流的证物**——技法与母题双向流动，而非单向传入。",
+        "一图": "示意图以伊朗钴料、云肩凤凰母题与跨帝国流通三者关系标示本罐。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「很可能来自卡尚」为该馆推测，未做钴料成分比对；（3）本件的出土与流转未记录；（4）凤凰与花卉母题在两地之间的先后关系未判定。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='yuan-blue-white-jar 示意图'><title>yuan-blue-white-jar</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>伊朗钴料</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>→景德镇</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>元青花罐</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1300s</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>云肩凤凰</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>跨地母题</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>宫廷·民间·外销</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>三类用途</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>元青花：钴料、母题与流通</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；钴料产地为推测；流转未记录。"
+    },
+    {
+      "id": "longquan-export-bowl",
+      "title": "龙泉窑模印大碗",
+      "kind": "作品",
+      "unit": "art-ceramics",
+      "era": "14—15世纪",
+      "region": "中国",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "龙泉窑青瓷大碗，克利夫兰艺术博物馆藏（2020.188）。",
+      "when": "1300—1400年代",
+      "overview": "瓣状壁如花开放、口沿具模印尖棱近金属器；釉厚且亮如玉；窑工已掌握烧造巨形器以供外销。",
+      "related": [
+        "yuan-blue-white-jar",
+        "jun-numbered-bulb-bowl",
+        "ding-tea-bowl"
+      ],
+      "sources": [
+        "cma-2020-188"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为龙泉窑大碗，克利夫兰艺术博物馆定年为1300—1400年代（明代语境）。",
+        "风格特征": "该馆描述器形：**瓣状壁如花般张开**，升至**坚实模印的尖棱口沿**，令人想起**金属器**。釉色为**厚重、光亮、如玉的青绿**。",
+        "代表人物与作品": "作者未署名。相关条目见元青花狮耳罐与钧窑数字款钵。本件为克利夫兰艺术博物馆藏品（2020.188）。",
+        "技法或形式分析": "材质为瓷质石陶（porcelaneous stoneware），整体15.1 × 42厘米（据该馆藏品记录）。该馆指出其技术难度在于**尺寸**：匠人「已掌握烧造**巨形器**的技艺」，目的是**外销市场**。",
+        "与前后风格的关系和争论": "该馆给出明确的**使用场景与流向**：**大碗与大碟主要运往中东**，用于**宴会**——在那种场合，食物**置于围坐者的中央**。也就是说，器形与尺寸不是审美偶然，而是**餐具制度**的产物。",
+        "一图": "示意图以巨形烧造、外销中东与围坐共食的宴会形制三者关系标示本碗。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「主要运往中东」的贸易规模未量化；（3）本件的出土地与船货记录未取得；（4）釉料配方未展开。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='longquan-export-bowl 示意图'><title>longquan-export-bowl</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>巨形烧造</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>技术极限</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>龙泉大碗</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>42cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>外销中东</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>宴会</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>围坐共食</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>器形动因</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>龙泉大碗：技术、流向与用途</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；贸易规模未量化；出土地未记录。"
+    },
+    {
+      "id": "ding-tea-bowl",
+      "title": "定窑「邢式」白瓷碗",
+      "kind": "作品",
+      "unit": "art-ceramics",
+      "era": "10世纪",
+      "region": "中国",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "巩县窑（定窑系）象牙白釉碗，克利夫兰艺术博物馆藏（2020.186）。",
+      "when": "907—960年",
+      "overview": "此类碗用于饮茶，远销至萨马拉（今伊拉克）；唐人以红茶宜配淡青或白釉碗。",
+      "related": [
+        "yuan-blue-white-jar",
+        "longquan-export-bowl"
+      ],
+      "sources": [
+        "cma-2020-186"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为巩县窑（定窑系）白瓷碗，克利夫兰艺术博物馆定年为**907—960年**（五代）。该馆称其为「**邢式**」并注意到其**壁足（bi-disc foot）**形制。",
+        "风格特征": "釉为**象牙白**，覆于**浅腹碗**上；**平底实足**使**近乎纯白的胎体**显露。",
+        "代表人物与作品": "作者未署名。相关条目见元青花狮耳罐与龙泉窑模印大碗。本件为克利夫兰艺术博物馆藏品（2020.186）。",
+        "技法或形式分析": "材质为白瓷（white stoneware with ivory-white glaze），整体4.7 × 18.5厘米（据该馆藏品记录）。该馆指出此类碗**用于饮茶**，并**远销至萨马拉（今伊拉克）**——一件日用器由此成为贸易证据。",
+        "与前后风格的关系和争论": "**本条目最有价值的是「茶色—釉色」的联动**：该馆说明，**唐代（618—906）**人们饮**红色茶**，认为茶色**在淡青或白釉碗中最显好**；一个世纪后的**宋代（960—1279）**引入**白色点拂（whisked）末茶**，品味与审美随之改变，**深色釉茶碗**转而受偏好。即**釉色的流行由饮茶方式决定**。",
+        "一图": "示意图以唐代红茶—白釉、宋代末茶—深釉的转向，与远销萨马拉三者关系标示本碗。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「邢式」与邢窑／定窑的窑口关系该馆未展开；（3）萨马拉出土的同类器物清单未取得；（4）「bi-disc foot」的中文定名未核。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='ding-tea-bowl 示意图'><title>ding-tea-bowl</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>唐·红茶</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>白釉宜</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>定窑白碗</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>907—960</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>宋·末茶</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>深釉转盛</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>远销萨马拉</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>伊拉克</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>定窑碗：茶色与釉色的联动</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；窑口关系与出土清单未取得。"
+    },
+    {
+      "id": "jun-numbered-bulb-bowl",
+      "title": "钧窑数字款钵",
+      "kind": "作品",
+      "unit": "art-ceramics",
+      "era": "15世纪",
+      "region": "中国",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "钧台窑带数字款钵，克利夫兰艺术博物馆藏（1957.33）。",
+      "when": "1400年代初",
+      "overview": "底刻「二」字，数字标尺寸（一最大、十最小）；内壁蓝色乳光釉有「蚯蚓走泥纹」，外壁紫调来自铜呈色。",
+      "related": [
+        "longquan-export-bowl",
+        "yuan-blue-white-jar"
+      ],
+      "sources": [
+        "cma-1957-33"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为钧台窑**带数字款**的钧窑钵，克利夫兰艺术博物馆定年为1400年代初。该馆指出，此类「数字钧」被认为**最初为明初宫廷制作**。",
+        "风格特征": "该馆解释款识制度：底部刻一数字——本件为「**二**」；**数字指示尺寸**，**「一」最大，「十」最小**。另一特征是釉面留下的「**蚯蚓走泥纹**」（earthworm trail），见于本钵**内壁**：乳光蓝釉在烧成中**多处开裂**而形成。**外壁的浓郁紫调**则来自釉中**铜呈色**。",
+        "代表人物与作品": "作者未署名。相关条目见龙泉窑模印大碗与元青花狮耳罐。本件为克利夫兰艺术博物馆藏品（1957.33）。",
+        "技法或形式分析": "材质为瓷质石陶（porcelaneous stoneware，numbered Jun ware），整体高8厘米、口径23.5厘米（据该馆藏品记录）。铜呈色（紫/红）与铁呈色（青）在同一器物上的分区控制，是该窑的技术标志；本条目只述该馆说明的紫调成因。",
+        "与前后风格的关系和争论": "「数字款」的意义在于它把**器物尺寸纳入可管理的序列**——这与宫廷用器的配套需求相关。该馆的表述把款识、尺寸与「为宫廷而作」三者相连；本条目照录，不推演具体配套制度。",
+        "一图": "示意图以数字款（尺寸序列）、蚯蚓走泥纹与铜呈紫调三者关系标示本钵。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「最初为明初宫廷制作」为该馆判断，未给文献；（3）「蚯蚓走泥纹」的成因（釉与胎收缩差）该馆只作现象描述；（4）钧台窑的分期未展开。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='jun-numbered-bulb-bowl 示意图'><title>jun-numbered-bulb-bowl</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>数字款</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>「二」=尺寸</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>钧窑钵</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1400s初</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>蚯蚓走泥纹</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>烧成开裂</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>铜呈紫调</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>外壁</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>钧窑钵：款识、纹与呈色</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；宫廷用途为判断；纹成因只作现象描述。"
     }
   ]
 }

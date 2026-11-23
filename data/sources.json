@@ -3709,6 +3709,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；锻造钢镂空 27×35cm；说明含沙阿苏莱曼二世陵与33:56"
+    },
+    {
+      "id": "cma-1962-154",
+      "title": "Cleveland Museum of Art — Jar with Lion-Head Handles, Jingdezhen (Yuan), 1300s, acc. 1962.154",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1962.154",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；釉下青花瓷 39.4×37.5cm；说明含伊朗钴料与伊儿汗母题"
+    },
+    {
+      "id": "cma-2020-188",
+      "title": "Cleveland Museum of Art — Large Bowl with Molded Decoration, Longquan, 1300s–1400s, acc. 2020.188",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2020.188",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；瓷质石陶 15.1×42cm；说明含中东宴会用途"
+    },
+    {
+      "id": "cma-2020-186",
+      "title": "Cleveland Museum of Art — Ding Ware Bowl of the Xing Type, Gongxian, 907–60, acc. 2020.186",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2020.186",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；白瓷象牙釉 4.7×18.5cm；说明含 Tea 色与釉色的关系"
+    },
+    {
+      "id": "cma-1957-33",
+      "title": "Cleveland Museum of Art — Bulb Bowl, numbered Jun ware, early 1400s, acc. 1957.33",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1957.33",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；瓷质石陶 23.5×8cm；说明含数字款与蚯蚓走泥纹"
     }
   ]
 }

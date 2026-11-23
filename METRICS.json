@@ -2120,6 +2120,40 @@
       "check_links_result": "broken=0(276页)",
       "audit_all": "12/12 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle73",
+      "date": "2026-11-23",
+      "status": "completed",
+      "gap_methods": [
+        "中国陶瓷缺位填补"
+      ],
+      "network": "partial: museum APIs ok",
+      "new_entries": 4,
+      "new_entry_ids": [
+        "yuan-blue-white-jar",
+        "longquan-export-bowl",
+        "ding-tea-bowl",
+        "jun-numbered-bulb-bowl"
+      ],
+      "new_unit": "art-ceramics",
+      "units_total": 28,
+      "candidates": 45,
+      "must_state": [
+        "元青花钴料自伊朗（很可能卡尚）",
+        "龙泉尺寸即中东宴会市场",
+        "茶色决定釉色（唐→宋转向）",
+        "钧窑数字款＝尺寸序列；蚯蚓走泥纹与铜呈紫"
+      ],
+      "new_sources": 4,
+      "sources_total": 375,
+      "entries_total": 244,
+      "pages": 281,
+      "note": "陶瓷单元与 art-asia 内的朝鲜/日本陶瓷边界待统一",
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(281页)",
+      "audit_all": "12/12 ok",
+      "commits": 1
     }
   ]
 }
