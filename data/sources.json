@@ -2829,6 +2829,86 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 实测 openaccess-api 端点 HTTP 200（JSON 完整记录）；机构公网页 https://clevelandart.org/art/1933.220 在本构建环境不可达（000），如需人读页面可访问该地址"
+    },
+    {
+      "id": "cma-artist-manet",
+      "title": "Cleveland Museum of Art — 艺术家记录：Édouard Manet (1832–1883)",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1956.718",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；creators 记录含生卒与馆方传记正文（经藏品 1956.718 取得）"
+    },
+    {
+      "id": "cma-artist-turner",
+      "title": "Cleveland Museum of Art — 艺术家记录：J. M. W. Turner (1775–1851)",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1942.647",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；含馆方传记正文（经藏品 1942.647《上下两院火灾》取得）"
+    },
+    {
+      "id": "cma-artist-constable",
+      "title": "Cleveland Museum of Art — 艺术家记录：John Constable (1776–1837)",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1972.48",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；含馆方传记正文（经藏品 1972.48《汉普斯特德布兰奇山池塘》取得）"
+    },
+    {
+      "id": "cma-artist-courbet",
+      "title": "Cleveland Museum of Art — 艺术家记录：Gustave Courbet (1819–1877)",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1962.2",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；含馆方传记正文（经藏品 1962.2 取得）"
+    },
+    {
+      "id": "cma-artist-ingres",
+      "title": "Cleveland Museum of Art — 艺术家记录：J.-A.-D. Ingres (1780–1867)",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1927.437",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；含馆方传记正文（经藏品 1927.437 取得）"
+    },
+    {
+      "id": "vam-o652344",
+      "title": "Victoria and Albert Museum — Édouard Manet, Lola de Valence (1863–64), O652344",
+      "author": "Victoria and Albert Museum（V&A API v2）",
+      "year": "2026",
+      "url": "https://collections.vam.ac.uk/item/O652344/",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 V&A API HTTP 200：title=Lola de Valence；材料 paper"
+    },
+    {
+      "id": "vam-o84528",
+      "title": "Victoria and Albert Museum — John Constable, Branch Hill Pond, Hampstead (1819), O84528",
+      "author": "Victoria and Albert Museum（V&A API v2）",
+      "year": "2026",
+      "url": "https://collections.vam.ac.uk/item/O84528/",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 V&A API HTTP 200：title/material(oil paint, canvas) 取到"
+    },
+    {
+      "id": "vam-o81593",
+      "title": "Victoria and Albert Museum — Gustave Courbet, Landscape with the Châtel St Denis, Scey-en-Varais (1873), O81593",
+      "author": "Victoria and Albert Museum（V&A API v2）",
+      "year": "2026",
+      "url": "https://collections.vam.ac.uk/item/O81593/",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 V&A API HTTP 200：title/material(oil paint, canvas) 取到"
     }
   ]
 }

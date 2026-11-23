@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 149,
+    "total": 154,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 22,
@@ -1792,6 +1792,66 @@
     },
     "mi-youren-cloudy-mountains": {
       "title": "米友仁《云山图》",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "manet": {
+      "title": "爱德华·马奈",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 2,
+      "verified_sources_count": 2,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "turner": {
+      "title": "约瑟夫·马洛德·威廉·透纳",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "constable": {
+      "title": "约翰·康斯太勃尔",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 2,
+      "verified_sources_count": 2,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "courbet": {
+      "title": "居斯塔夫·库尔贝",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 2,
+      "verified_sources_count": 2,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "ingres": {
+      "title": "让-奥古斯特-多米尼克·安格尔",
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",

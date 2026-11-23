@@ -643,7 +643,9 @@
       "overview": "偏爱戏剧性题材、异国情调与壮丽风景，色彩与笔触更具表现力，德拉克罗瓦为代表。",
       "related": [
         "neoclassicism",
-        "realism-art"
+        "realism-art",
+        "turner",
+        "constable"
       ],
       "sources": [
         "enc-romanticism",
@@ -665,7 +667,8 @@
       "related": [
         "romanticism-art",
         "impressionism",
-        "rodin"
+        "rodin",
+        "courbet"
       ],
       "sources": [
         "enc-realism-art",
@@ -708,7 +711,8 @@
       "related": [
         "realism-art",
         "post-impressionism",
-        "degas"
+        "degas",
+        "manet"
       ],
       "sources": [
         "enc-impressionism",
@@ -3128,6 +3132,109 @@
       ],
       "sources": [
         "cma-1933-220"
+      ]
+    },
+    {
+      "id": "manet",
+      "title": "爱德华·马奈",
+      "kind": "人物",
+      "unit": "art-impression",
+      "era": "19世纪",
+      "region": "法国",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "法国画家，被视为19世纪绘画转向现代的关键人物；《草地上的午餐》《奥林匹亚》在沙龙引发争议。",
+      "when": "1832—1883年",
+      "overview": "以当代生活为题材，吸收库图尔的底层颜料技法，晚年受印象派影响而调色更亮、笔触更自由；始终以官方沙龙为竞技场，未参加印象派展览。",
+      "related": [
+        "impressionism",
+        "realism-art"
+      ],
+      "sources": [
+        "cma-artist-manet",
+        "vam-o652344"
+      ]
+    },
+    {
+      "id": "turner",
+      "title": "约瑟夫·马洛德·威廉·透纳",
+      "kind": "人物",
+      "unit": "art-neo-romantic",
+      "era": "19世纪",
+      "region": "英国",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "英国浪漫主义风景画代表，以光线、气象与崇高感的表现著称，生前即为皇家美术学院院士并任透视学教授。",
+      "when": "1775—1851年",
+      "overview": "早年以地形水彩与版画起家，1819年后调色转亮、构图以色彩主导；晚年作品以海雾与蒸汽为题，影响后世对光的处理。",
+      "related": [
+        "romanticism-art",
+        "constable"
+      ],
+      "sources": [
+        "cma-artist-turner"
+      ]
+    },
+    {
+      "id": "constable",
+      "title": "约翰·康斯太勃尔",
+      "kind": "人物",
+      "unit": "art-neo-romantic",
+      "era": "19世纪",
+      "region": "英国",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "英国风景画家，以家乡斯图尔河谷与汉普斯特德的自然写生著称，1824年巴黎沙龙展出引起关注。",
+      "when": "1776—1837年",
+      "overview": "坚持户外写生并以前所未有的规模绘制六英尺幅面风景，强调对特定地点的真实再现，晚期笔触更具表现性。",
+      "related": [
+        "romanticism-art",
+        "turner"
+      ],
+      "sources": [
+        "cma-artist-constable",
+        "vam-o84528"
+      ]
+    },
+    {
+      "id": "courbet",
+      "title": "居斯塔夫·库尔贝",
+      "kind": "人物",
+      "unit": "art-neo-romantic",
+      "era": "19世纪",
+      "region": "法国",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "法国画家，现实主义（Réalisme）旗手，1855年自办「现实主义馆」展出个人作品。",
+      "when": "1819—1877年",
+      "overview": "以不加理想化地描绘农民与日常场景著称；1871年参与巴黎公社并因旺多姆圆柱事件被判刑，晚年流亡瑞士。",
+      "related": [
+        "realism-art",
+        "romanticism-art"
+      ],
+      "sources": [
+        "cma-artist-courbet",
+        "vam-o81593"
+      ]
+    },
+    {
+      "id": "ingres",
+      "title": "让-奥古斯特-多米尼克·安格尔",
+      "kind": "人物",
+      "unit": "art-neo-romantic",
+      "era": "19世纪",
+      "region": "法国",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "法国新古典主义代表，大卫的学生，1824年沙龙后成为法国新古典派的领袖。",
+      "when": "1780—1867年",
+      "overview": "重视线条与素描，长于肖像与女性裸体；与德拉克洛瓦长期对立，其素描传统影响德加与毕加索。",
+      "related": [
+        "neoclassicism",
+        "delacroix"
+      ],
+      "sources": [
+        "cma-artist-ingres"
       ]
     }
   ]

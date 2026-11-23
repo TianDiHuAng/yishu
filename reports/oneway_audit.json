@@ -1,8 +1,8 @@
 {
- "total_oneway": 5,
+ "total_oneway": 13,
  "by_class": {
-  "same_unit": 1,
-  "same_domain": 4
+  "same_unit": 8,
+  "same_domain": 5
  },
  "rows": [
   {
@@ -39,6 +39,62 @@
    "class": "same_domain",
    "from_unit": "work-archives",
    "to_unit": "art-china-painting"
+  },
+  {
+   "from": "manet",
+   "to": "impressionism",
+   "class": "same_unit",
+   "from_unit": "art-impression",
+   "to_unit": "art-impression"
+  },
+  {
+   "from": "manet",
+   "to": "realism-art",
+   "class": "same_domain",
+   "from_unit": "art-impression",
+   "to_unit": "art-neo-romantic"
+  },
+  {
+   "from": "turner",
+   "to": "romanticism-art",
+   "class": "same_unit",
+   "from_unit": "art-neo-romantic",
+   "to_unit": "art-neo-romantic"
+  },
+  {
+   "from": "constable",
+   "to": "romanticism-art",
+   "class": "same_unit",
+   "from_unit": "art-neo-romantic",
+   "to_unit": "art-neo-romantic"
+  },
+  {
+   "from": "courbet",
+   "to": "realism-art",
+   "class": "same_unit",
+   "from_unit": "art-neo-romantic",
+   "to_unit": "art-neo-romantic"
+  },
+  {
+   "from": "courbet",
+   "to": "romanticism-art",
+   "class": "same_unit",
+   "from_unit": "art-neo-romantic",
+   "to_unit": "art-neo-romantic"
+  },
+  {
+   "from": "ingres",
+   "to": "neoclassicism",
+   "class": "same_unit",
+   "from_unit": "art-neo-romantic",
+   "to_unit": "art-neo-romantic"
+  },
+  {
+   "from": "ingres",
+   "to": "delacroix",
+   "class": "same_unit",
+   "from_unit": "art-neo-romantic",
+   "to_unit": "art-neo-romantic"
   }
  ]
 }

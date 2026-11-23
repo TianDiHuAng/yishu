@@ -13,7 +13,7 @@
    "to_dom": "art"
   }
  ],
- "oneway_count": 5,
+ "oneway_count": 13,
  "oneway_sample": [
   [
    "degas",
@@ -34,6 +34,26 @@
   [
    "mi-youren-cloudy-mountains",
    "china-painting-history"
+  ],
+  [
+   "manet",
+   "impressionism"
+  ],
+  [
+   "manet",
+   "realism-art"
+  ],
+  [
+   "turner",
+   "romanticism-art"
+  ],
+  [
+   "constable",
+   "romanticism-art"
+  ],
+  [
+   "courbet",
+   "realism-art"
   ]
  ],
  "top_inbound": [
@@ -54,6 +74,14 @@
    8
   ],
   [
+   "impressionism",
+   8
+  ],
+  [
+   "romanticism-art",
+   8
+  ],
+  [
    "post-impressionism",
    8
   ],
@@ -68,15 +96,7 @@
   [
    "baroque",
    7
-  ],
-  [
-   "impressionism",
-   7
-  ],
-  [
-   "modern-art",
-   7
   ]
  ],
- "total_links": 439
+ "total_links": 449
 }

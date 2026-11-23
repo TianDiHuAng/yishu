@@ -1,0 +1,18 @@
+{
+ "id": "constable",
+ "level": "L2",
+ "sections": {
+  "时代背景": "康斯太勃尔1776年生，是富裕磨坊主与农场主之子；据该馆记录，他入行晚且基本自学。1796至1799年间，他得到伦敦艺术圈内几位画家与鉴赏家的指点，主要有 George Beaumont 爵士（1753—1827）、John Thomas Smith（1766—1833）与 Joseph Farington（1747—1821）。在父母勉强同意下，他1799年进入皇家美术学院学校——同年透纳当选准院士，而学院要再等二十年才给康斯太勃尔同样的认可。1802年他首展油画，公开以自然主义风景画家身份出现。",
+  "风格特征": "该馆记录称他与透纳「共同界定了此后一代浪漫主义风景画家的天才标尺」。1802年首展后他迁回家乡东伯格霍尔特，目标是获得「对我所选场景的纯粹而不做作的再现」。1806年的旅行产生了重要的湖区素材，尤以水彩与石墨写生为多。1808年起他进入密集的户外油画写生期；到1814年，他已完全在户外完成成品画。",
+  "代表人物与作品": "该馆记录列举《斯图尔河谷与德德姆村》（波士顿美术馆）、《Wivenhoe Park》（华盛顿国家美术馆）、《白马》（1819，纽约弗里克收藏）、《干草车》（伦敦国家美术馆）、《从草地看索尔兹伯里大教堂》（1831）、《滑铁卢桥开通》（1832）、《阿伦德尔磨坊与城堡》（1837）。英国维多利亚与艾尔伯特博物馆藏有《汉普斯特德布兰奇山池塘》（Branch Hill Pond, Hampstead，1819年，馆藏号O84528，布面油画）。",
+  "技法或形式分析": "斯图尔河、弗拉特福德磨坊与德德姆谷是他反复回到的题材。1816年他与 Maria Bicknell 婚后定居伦敦，题材扩展至布莱顿、索尔兹伯里与汉普斯特德荒地；他开始在伦敦画室绘制六英尺幅面的萨福克风景，这一尺幅对他在1819年当选准院士显然有助。1824年巴黎沙龙他与劳伦斯、博宁顿一同引起轰动，展出《干草车》与《斯图尔河畔的德德姆近景》。",
+  "与前后风格的关系和争论": "1828年妻子去世、1829年当选正式院士后，他转向以写作、讲演与版画巩固名声，与美柔汀版画家 David Lucas 合作出版《英国风景》（1830—32），商业上并不成功。该馆记录指出，他从未停止对自然的写生，但晚期杰作中「表现性地使用媒介」与「对自然母题日益增加的想象性形式化」之间存在张力。",
+  "一图": "示意图以家乡写生、六英尺画室作品、1824年巴黎沙龙与晚期版画事业四者的关系标示康斯太勃尔。",
+  "待核实": "（1）人物事实取自克利夫兰艺术博物馆的艺术家记录；V&A 提供了其1819年《汉普斯特德布兰奇山池塘》藏品记录作为**第二机构佐证**（仅佐证其创作与该作品的存在，不核对生卒）；（2）生卒1776—1837取自 CMA 创作者记录；（3）文中列举作品的现藏机构本环境不可达，未逐一核对；（4）该馆记录中的脚注编号与引用文献（Reynolds 1984/1996）未取得原文。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='constable 示意图'><title>constable</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>家乡写生</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>东伯格霍尔特</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>康斯太勃尔</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1776—1837</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>六英尺画室</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>1819 准院士</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>《英国风景》</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>1830—32 版画</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>康斯太勃尔：写生、画室巨幅与晚期版画</text></g></svg>",
+ "sources": [
+  "cma-artist-constable",
+  "vam-o84528"
+ ]
+}

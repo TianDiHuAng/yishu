@@ -30,6 +30,8 @@ L.append("- 新增来源：**%d**"%cur.get("new_sources",0))
 if cur.get("qc_result"): L.append("- 质量闸：**%s**"%cur["qc_result"])
 if cyc=="cycle3":
     L.append("- 本轮特别说明：B5 复核 45 项待核实 → 38 项找到可核验第二来源并写入【已复核】留痕；B3 孤儿页 38→0（新增84条双向补链）；QC 收尾补 Bach/Vivaldi 来源并修正18处截断URL。")
+if cyc=="cycle41":
+    L.append("- 同批第二次扩充：用 Cleveland 馆方撰写的**艺术家传记正文**新增 5 位缺席人物——马奈、透纳、康斯太勃尔、库尔贝、安格尔（149 → 154）。双源如实：马奈 / 康斯太勃尔 / 库尔贝各有 V&A 藏品记录作第二机构；透纳与安格尔仅 CMA（V&A 命中同名者非本人作品、Ingres 命中为仿作），已标 needs_verification。写作只取传记与藏品能支撑的事实（学艺、展览、任职、技法演变、可查争议），转引性评语一律注明「系该馆转引，未核原刊」。站点 180 → 185 页，八步体检 8/8。")
 if cyc=="cycle40":
     L.append("- 通道再测绘后的实质扩充：Wikipedia / Wikidata / archive.org 本轮均为 000，但博物馆开放数据 API 全部可达（Cleveland 开放数据 API、V&A API v2、Met 对象端点、Europeana、SMK）。据此新增 4 个条目（145 → 149）：德加、罗丹、罗丹《青铜时代》、米友仁《云山图》；来源类型新增「权威机构藏品记录」，URL 指向实测 200 的 API 端点（机构网页 000 已在 verified_note 注明）。独立性如实区分：罗丹为 CMA + V&A 双机构；其余 3 条单机构，按 R10 标 needs_verification 并在待核实首条写明。本次首次取得可引用的机构级正文（策展说明与艺术家传记），评价性判断仍一律留白。站点 176 → 180 页，八步体检 8/8。")
 if cyc=="cycle38":

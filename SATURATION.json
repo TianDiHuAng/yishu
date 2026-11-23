@@ -489,6 +489,19 @@
       },
       "network": "partial (museum APIs)",
       "verdict": "新通道打开：新增 4 条目（149）；1 条双机构、3 条单机构已标记；未饱和"
+    },
+    {
+      "cycle": "cycle41",
+      "date": "2026-11-23",
+      "methods_used": [
+        "馆方传记",
+        "V&A核验"
+      ],
+      "gaps_found": {
+        "entries": 5
+      },
+      "network": "partial (museum APIs)",
+      "verdict": "新增 5 人物（154）；3 双机构 / 2 单机构已标记；未饱和"
     }
   ],
   "assessment_c33": {
