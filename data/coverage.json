@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 284,
+    "total": 288,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -3413,6 +3413,54 @@
     "la-tour-peter": {
       "title": "拉图尔《悔悟的圣彼得》",
       "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "braque-violin-collage": {
+      "title": "布拉克《小提琴》拼贴画",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "dumont-harpsichord-miniature": {
+      "title": "杜蒙《羽管键琴前的女子》细密画",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "lancret-cello-drawing": {
+      "title": "朗克雷《演奏大提琴的男子》",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "dusart-violin-tavern": {
+      "title": "杜萨特《酒馆中的小提琴手》",
+      "tier": "重要",
       "level": "L2",
       "status": "written_l2",
       "sources_count": 1,

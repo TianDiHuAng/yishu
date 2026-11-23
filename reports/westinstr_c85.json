@@ -1,0 +1,44 @@
+[
+ {
+  "acc": "1968.196",
+  "title": "Violin",
+  "date": "early 1914",
+  "culture": "['France, 20th century']",
+  "len": 748
+ },
+ {
+  "acc": "1975.2",
+  "title": "Harlequin with Violin",
+  "date": "1918",
+  "culture": "['Spain']",
+  "len": 582
+ },
+ {
+  "acc": "2018.25",
+  "title": "Violin Player with a Wine Glass",
+  "date": "1623",
+  "culture": "['Netherlands']",
+  "len": 415
+ },
+ {
+  "acc": "1943.562",
+  "title": "Violin Player Seated in the Inn",
+  "date": "1685",
+  "culture": "['Netherlands']",
+  "len": 683
+ },
+ {
+  "acc": "1942.1139",
+  "title": "Portrait of a Woman at a Harpsichord",
+  "date": "c. 1788",
+  "culture": "['France']",
+  "len": 1042
+ },
+ {
+  "acc": "2018.1058",
+  "title": "Man Playing a Cello",
+  "date": "c. 1725–30",
+  "culture": "['France']",
+  "len": 335
+ }
+]

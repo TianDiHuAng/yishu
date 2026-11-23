@@ -942,7 +942,9 @@
       "related": [
         "baroque",
         "neoclassicism",
-        "rubens"
+        "rubens",
+        "dumont-harpsichord-miniature",
+        "lancret-cello-drawing"
       ],
       "sources": [
         "enc-rococo",
@@ -1013,7 +1015,8 @@
         "baroque",
         "vermeer",
         "caravaggio",
-        "la-tour-peter"
+        "la-tour-peter",
+        "dusart-violin-tavern"
       ],
       "sources": [
         "enc-rembrandt",
@@ -1162,7 +1165,8 @@
       "overview": "代表作《戴珍珠耳环的少女》《倒牛奶的女仆》，善绘自然光与日常静谧氛围。",
       "related": [
         "rembrandt",
-        "realism-art"
+        "realism-art",
+        "dusart-violin-tavern"
       ],
       "sources": [
         "enc-vermeer",
@@ -1733,7 +1737,8 @@
         "cezanne",
         "futurism",
         "picasso",
-        "guernica-work"
+        "guernica-work",
+        "braque-violin-collage"
       ],
       "sources": [
         "enc-cubism",
@@ -1937,7 +1942,8 @@
       "related": [
         "cubism",
         "modern-art",
-        "guernica-work"
+        "guernica-work",
+        "braque-violin-collage"
       ],
       "sources": [
         "enc-picasso",
@@ -3178,7 +3184,10 @@
         "bach",
         "monteverdi",
         "baroque-crossmedia",
-        "violin"
+        "violin",
+        "dumont-harpsichord-miniature",
+        "lancret-cello-drawing",
+        "dusart-violin-tavern"
       ],
       "sources": [
         "enc-baroque-music",
@@ -10011,6 +10020,139 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='la-tour-peter 示意图'><title>la-tour-peter</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>彼得不认主</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>愧疚</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>悔悟的彼得</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1645</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>红眼·灯火</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>无眠</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>卡拉瓦乔关系?</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>未明</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='590.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>拉图尔彼得：愧疚、光与未明影响</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（CMA）来源；与卡拉瓦乔关系馆方明言不清。"
+    },
+    {
+      "id": "braque-violin-collage",
+      "title": "布拉克《小提琴》拼贴画",
+      "kind": "作品",
+      "unit": "music-instruments",
+      "era": "20世纪",
+      "region": "欧洲",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "布拉克1914年初剪纸拼贴画，克利夫兰艺术博物馆藏（1968.196）。",
+      "when": "1914年初",
+      "overview": "以报纸、仿木纹纸与花纹纸片加上炭笔勾线构成小提琴与玻璃杯；主题置于交错平面中。",
+      "related": [
+        "cubism",
+        "picasso"
+      ],
+      "sources": [
+        "cma-1968-196"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明，本作属于布拉克用**拼贴纸（papier collé）**制作的一组作品；他在**1912年**发明这一技法，通常使用廉价的**木纹壁纸**作为拼贴元素。同期毕加索也在尝试拼贴，两人在**1914年一战爆发前**密切合作。",
+        "风格特征": "该馆具体列出画面中的材料：一把**小提琴**与桌上的**玻璃杯**，由**炭笔线条、一张报纸碎片、一块木纹纸和一条花纹纸带**共同构成。作品把这些材料放进「**交错平面**」的复杂空间，因而**违背再现的逻辑**。",
+        "代表人物与作品": "作者为乔治·布拉克（1882—1963）。相关条目见立体主义与毕加索。本件为克利夫兰艺术博物馆藏品（1968.196）。",
+        "技法或形式分析": "材质为**剪贴与粘贴纸张**（报纸、木刻或镂空花纸、仿木纹纸）并加炭笔与石墨，画面71.8 × 51.8厘米（据该馆藏品记录）。小提琴并非被绘成完整幻觉，而是**由异质纸片拼出**。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「乐器」理解为**立体主义空间实验的借口**： 小提琴与玻璃杯是稳定可辨的日常物，正适合被拆散并重组到多平面中。本条目不对立体主义作总体判断。",
+        "一图": "示意图以1912拼贴法、异质纸片与交错平面三者关系标示本作。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）1912年技法发明的优先性问题该馆仅作表述，未展开与毕加索之争；（3）本件的具体创作月份未记录；（4）纸张来源未鉴定。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='braque-violin-collage 示意图'><title>braque-violin-collage</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>1912 拼贴纸</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>布拉克</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>《小提琴》</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>71.8×51.8</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>报纸·木纹纸</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>异质材料</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>交错平面</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>反再现</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>布拉克《小提琴》：材料与空间</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；技法优先性与纸张来源未展开。"
+    },
+    {
+      "id": "dumont-harpsichord-miniature",
+      "title": "杜蒙《羽管键琴前的女子》细密画",
+      "kind": "作品",
+      "unit": "music-instruments",
+      "era": "18世纪",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "法国象牙水彩细密画，克利夫兰艺术博物馆藏（1942.1139）。",
+      "when": "约1788年",
+      "overview": "女子身份不明；两件 被归于他人的副本定名为索菲·阿尔努；弹琴被视为贵族女性的必要修养。",
+      "related": [
+        "baroque-music",
+        "rococo"
+      ],
+      "sources": [
+        "cma-1942-1139"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明：这件穿著雅致的女子在**羽管键琴上演奏奏鸣曲**，但其**身份不明**。另有两件归于其他画家（Peter Adolphe Hall、Marie Christine Campana）的副本，都把画中人认作**索菲·阿尔努（Sophie Arnould）**——一位极受赞誉的法国女高音。",
+        "风格特征": "该馆指出，杜蒙惯于用人物周围的**物件**表达其性格，这是肖像画的常见做法。因此本画中的羽管键琴可能说明她是一位音乐家。该馆同时给出一项**社会史解释**：在18世纪，能弹奏乐器被视为贵族女性的**必备修养**，与时尚衣着一样传达优雅。",
+        "代表人物与作品": "作者为弗朗索瓦·杜蒙（1751—1831）。相关条目见巴洛克音乐与洛可可。本件为克利夫兰艺术博物馆藏品（1942.1139）。",
+        "技法或形式分析": "材质为**象牙水彩**，直径7.3厘米；19世纪 stamped gold 与 gilt metal 镜框直径9.3厘米（据该馆藏品记录）。极小尺寸说明它是近距离手持观看的细密画。",
+        "与前后风格的关系和争论": "该馆把本作定在**约1788年**——「法国大革命前夕」，也是索菲**48岁退隐舞台之年**（如果画中人确为她）。本条目把这段身份推断称作**可能**，不作定论。",
+        "一图": "示意图以羽管键琴、贵族女性修养与索菲·阿尔努归属争议三者关系标示本件。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）画中人身份不明，索菲说仅来自副本归属；（3）「1788年」该馆写 probably；（4）两件副本的现藏地未取得。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='dumont-harpsichord-minia 示意图'><title>dumont-harpsichord-minia</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>羽管键琴</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>奏鸣曲</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>细密画</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>直径7.3cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>贵族女性修养</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>18世纪</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>索菲·阿尔努?</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>归属争议</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>羽管键琴女子：修养与身份</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；身份与年代均为推测性表述。"
+    },
+    {
+      "id": "lancret-cello-drawing",
+      "title": "朗克雷《演奏大提琴的男子》",
+      "kind": "作品",
+      "unit": "music-instruments",
+      "era": "18世纪",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "法国红粉笔素描，克利夫兰艺术博物馆藏（2018.1058）。",
+      "when": "约1725—1730年",
+      "overview": "为户外音乐会油画所作的人物稿；右上角特意刻画运弓之手的位置与紧握。",
+      "related": [
+        "baroque-music",
+        "rococo"
+      ],
+      "sources": [
+        "cma-2018-1058"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为尼古拉·朗克雷（1690—1743）约1725—1730年的红粉笔素描，克利夫兰艺术博物馆藏（2018.1058）。该馆指出，朗克雷以使用**红粉笔**著称，本件即用此媒材。",
+        "风格特征": "画面描绘一位**大提琴手**。该馆说明，朗克雷后来把这一人物**纳入一幅描绘户外音乐会的油画**——因此本件是一件可核查的**构图草稿**。",
+        "代表人物与作品": "作者朗克雷。相关条目见巴洛克音乐与洛可可。",
+        "技法或形式分析": "材质为**旧式帘纹纸上的红粉笔**，画纸20.7 × 16厘米，装裱后25.7 × 21.1厘米（据该馆藏品记录）。该馆特别指出，画家在右上角**仔细刻画作曲者运弓之手的位置与紧握状态**——即画面的重心之一不是面容，而是手。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「演奏姿态」视为可独立研究的主题：手与弓的紧张关系先于整幅油画而被反复推敲。本条目不据此推断郎克雷其他作品的程序。",
+        "一图": "示意图以红粉笔媒材、户外音乐会油画与运弓手的特写三者关系标示本稿。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）后来那幅油画的名称与现藏地未取得；（3）画中人身份未记录；（4）装裱年代未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='lancret-cello-drawing 示意图'><title>lancret-cello-drawing</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>红粉笔</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>朗克雷</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>大提琴手稿</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>20.7×16</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>户外音乐会</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>后来的油画</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>运弓之手</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>紧握</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>大提琴手稿：媒材、后续与手</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；后续油画与画中人身份未取得。"
+    },
+    {
+      "id": "dusart-violin-tavern",
+      "title": "杜萨特《酒馆中的小提琴手》",
+      "kind": "作品",
+      "unit": "music-instruments",
+      "era": "17世纪",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "荷兰蚀刻版画，克利夫兰艺术博物馆藏（1943.562）。",
+      "when": "1685年",
+      "overview": "音乐、欢笑与酒构成酒馆场景；站立者的姿态令人联想到西勒诺斯，警示纵酒。",
+      "related": [
+        "baroque-music",
+        "rembrandt",
+        "vermeer"
+      ],
+      "sources": [
+        "cma-1943-562"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为荷兰蚀刻版画《酒馆中的小提琴手》，克利夫兰艺术博物馆定年1685年，作者科内利斯·杜萨特（1660—1704）。",
+        "风格特征": "该馆称这幅酒馆场景「具备尽兴的一切要素」：**音乐、欢乐者与大量酒精**。 坐姿男子举臂握着一只**传递饮用的杆形玻璃杯**。右侧站立者衣着讲究，手持酒杯，带着笑意观看。",
+        "代表人物与作品": "作者杜萨特。相关条目见巴洛克音乐、伦勃朗与维米尔。本件为克利夫兰艺术博物馆藏品（1943.562）。",
+        "技法或形式分析": "材质为**蚀刻**，版口28.1 × 25厘米、纸张29.6 × 26.1厘米（据该馆藏品记录）。该馆指出，站立者的形象令人联想到**西勒诺斯（Silenus，巴克斯之师）**——在神话场景中反复出现；他在此引导观者思考**酒对失控者的影响**。",
+        "与前后风格的关系和争论": "该馆还记录画面上的**拉丁诗句**：它把所绘的「乡野之人」与 presumed 更高社会阶层的观者相比较。本条目据此把此画理解为一种**带道德警示的社会对照**，而不是单纯的风俗速写。",
+        "一图": "示意图以音乐/酒、西勒诺斯联想与拉丁诗句的社会对照三者关系标示本作。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）拉丁诗句全文与译文未取得；（3）「西勒诺斯」的对应依据该馆仅作联想，未展开图像谱系；（4）版画印次未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='dusart-violin-tavern 示意图'><title>dusart-violin-tavern</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>音乐·酒</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>酒馆</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>蚀刻版画</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1685</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>西勒诺斯联想</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>纵酒警示</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>拉丁诗句</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>社会对照</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>酒馆小提琴手：娱乐与警示</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；诗句全文与图像谱系未取得。"
     }
   ]
 }

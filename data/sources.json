@@ -4149,6 +4149,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；布面油画 114×95cm；说明含与卡拉瓦乔关系未明"
+    },
+    {
+      "id": "cma-1968-196",
+      "title": "Cleveland Museum of Art — Georges Braque, Violin, early 1914, acc. 1968.196",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1968.196",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；剪纸拼贴与炭笔 71.8×51.8cm；说明含1912年发明的 拼贴纸（papier collé）"
+    },
+    {
+      "id": "cma-1942-1139",
+      "title": "Cleveland Museum of Art — François Dumont, Portrait of a Woman at a Harpsichord, c. 1788, acc. 1942.1139",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1942.1139",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；象牙水彩细密画 直径7.3cm；说明含索菲·阿尔努归属争议"
+    },
+    {
+      "id": "cma-2018-1058",
+      "title": "Cleveland Museum of Art — Nicolas Lancret, Man Playing a Cello, c. 1725–30, acc. 2018.1058",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2018.1058",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；红粉笔 20.7×16cm；说明含右手运弓握法的特写"
+    },
+    {
+      "id": "cma-1943-562",
+      "title": "Cleveland Museum of Art — Cornelis Dusart, Violin Player Seated in the Inn, 1685, acc. 1943.562",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1943.562",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；蚀刻 版口28.1×25cm；说明含酒馆场景与西勒诺斯典故"
     }
   ]
 }

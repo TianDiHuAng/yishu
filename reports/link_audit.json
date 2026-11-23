@@ -1,14 +1,86 @@
 {
  "cross_domain": [
   {
+   "from": "rococo",
+   "to": "dumont-harpsichord-miniature",
+   "from_dom": "art",
+   "to_dom": "music"
+  },
+  {
+   "from": "rococo",
+   "to": "lancret-cello-drawing",
+   "from_dom": "art",
+   "to_dom": "music"
+  },
+  {
+   "from": "rembrandt",
+   "to": "dusart-violin-tavern",
+   "from_dom": "art",
+   "to_dom": "music"
+  },
+  {
+   "from": "vermeer",
+   "to": "dusart-violin-tavern",
+   "from_dom": "art",
+   "to_dom": "music"
+  },
+  {
    "from": "romanticism-art",
    "to": "symphonic-poem",
    "from_dom": "art",
    "to_dom": "music"
   },
   {
+   "from": "cubism",
+   "to": "braque-violin-collage",
+   "from_dom": "art",
+   "to_dom": "music"
+  },
+  {
+   "from": "picasso",
+   "to": "braque-violin-collage",
+   "from_dom": "art",
+   "to_dom": "music"
+  },
+  {
    "from": "symphonic-poem",
    "to": "romanticism-art",
+   "from_dom": "music",
+   "to_dom": "art"
+  },
+  {
+   "from": "braque-violin-collage",
+   "to": "cubism",
+   "from_dom": "music",
+   "to_dom": "art"
+  },
+  {
+   "from": "braque-violin-collage",
+   "to": "picasso",
+   "from_dom": "music",
+   "to_dom": "art"
+  },
+  {
+   "from": "dumont-harpsichord-miniature",
+   "to": "rococo",
+   "from_dom": "music",
+   "to_dom": "art"
+  },
+  {
+   "from": "lancret-cello-drawing",
+   "to": "rococo",
+   "from_dom": "music",
+   "to_dom": "art"
+  },
+  {
+   "from": "dusart-violin-tavern",
+   "to": "rembrandt",
+   "from_dom": "music",
+   "to_dom": "art"
+  },
+  {
+   "from": "dusart-violin-tavern",
+   "to": "vermeer",
    "from_dom": "music",
    "to_dom": "art"
   }
@@ -21,12 +93,12 @@
    17
   ],
   [
-   "african-art",
-   13
+   "baroque-music",
+   15
   ],
   [
-   "baroque-music",
-   12
+   "african-art",
+   13
   ],
   [
    "china-painting-history",
@@ -57,5 +129,5 @@
    9
   ]
  ],
- "total_links": 872
+ "total_links": 890
 }

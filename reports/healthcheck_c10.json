@@ -220,8 +220,8 @@
   }
  },
  "link_audit": {
-  "cross_domain": 2,
+  "cross_domain": 14,
   "oneway": 0,
-  "total_links": 872
+  "total_links": 890
  }
 }

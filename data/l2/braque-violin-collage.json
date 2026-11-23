@@ -1,0 +1,19 @@
+{
+ "id": "braque-violin-collage",
+ "level": "L2",
+ "sections": {
+  "时代背景": "该馆说明，本作属于布拉克用**拼贴纸（papier collé）**制作的一组作品；他在**1912年**发明这一技法，通常使用廉价的**木纹壁纸**作为拼贴元素。同期毕加索也在尝试拼贴，两人在**1914年一战爆发前**密切合作。",
+  "风格特征": "该馆具体列出画面中的材料：一把**小提琴**与桌上的**玻璃杯**，由**炭笔线条、一张报纸碎片、一块木纹纸和一条花纹纸带**共同构成。作品把这些材料放进「**交错平面**」的复杂空间，因而**违背再现的逻辑**。",
+  "代表人物与作品": "作者为乔治·布拉克（1882—1963）。相关条目见立体主义与毕加索。本件为克利夫兰艺术博物馆藏品（1968.196）。",
+  "技法或形式分析": "材质为**剪贴与粘贴纸张**（报纸、木刻或镂空花纸、仿木纹纸）并加炭笔与石墨，画面71.8 × 51.8厘米（据该馆藏品记录）。小提琴并非被绘成完整幻觉，而是**由异质纸片拼出**。",
+  "与前后风格的关系和争论": "本条目据该馆说明把「乐器」理解为**立体主义空间实验的借口**： 小提琴与玻璃杯是稳定可辨的日常物，正适合被拆散并重组到多平面中。本条目不对立体主义作总体判断。",
+  "一图": "示意图以1912拼贴法、异质纸片与交错平面三者关系标示本作。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）1912年技法发明的优先性问题该馆仅作表述，未展开与毕加索之争；（3）本件的具体创作月份未记录；（4）纸张来源未鉴定。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='braque-violin-collage 示意图'><title>braque-violin-collage</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>1912 拼贴纸</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>布拉克</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>《小提琴》</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>71.8×51.8</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>报纸·木纹纸</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>异质材料</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>交错平面</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>反再现</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>布拉克《小提琴》：材料与空间</text></g></svg>",
+ "sources": [
+  "cma-1968-196"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；技法优先性与纸张来源未展开。"
+}

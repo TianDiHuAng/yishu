@@ -1056,6 +1056,18 @@
       },
       "network": "partial (museum APIs)",
       "verdict": "欧洲巴洛克 0→4（总 284）；未饱和"
+    },
+    {
+      "cycle": "cycle85",
+      "date": "2026-11-23",
+      "methods_used": [
+        "西方演奏图像"
+      ],
+      "gaps_found": {
+        "entries": 4
+      },
+      "network": "partial (museum APIs)",
+      "verdict": "西方乐器/演奏图像 0→4（总 288）；未饱和"
     }
   ],
   "assessment_c33": {

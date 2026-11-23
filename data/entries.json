@@ -529,7 +529,9 @@
       "related": [
         "baroque",
         "neoclassicism",
-        "rubens"
+        "rubens",
+        "dumont-harpsichord-miniature",
+        "lancret-cello-drawing"
       ],
       "sources": [
         "enc-rococo",
@@ -576,7 +578,8 @@
         "baroque",
         "vermeer",
         "caravaggio",
-        "la-tour-peter"
+        "la-tour-peter",
+        "dusart-violin-tavern"
       ],
       "sources": [
         "enc-rembrandt",
@@ -640,7 +643,8 @@
       "overview": "代表作《戴珍珠耳环的少女》《倒牛奶的女仆》，善绘自然光与日常静谧氛围。",
       "related": [
         "rembrandt",
-        "realism-art"
+        "realism-art",
+        "dusart-violin-tavern"
       ],
       "sources": [
         "enc-vermeer",
@@ -947,7 +951,8 @@
         "cezanne",
         "futurism",
         "picasso",
-        "guernica-work"
+        "guernica-work",
+        "braque-violin-collage"
       ],
       "sources": [
         "enc-cubism",
@@ -1079,7 +1084,8 @@
       "related": [
         "cubism",
         "modern-art",
-        "guernica-work"
+        "guernica-work",
+        "braque-violin-collage"
       ],
       "sources": [
         "enc-picasso",
@@ -1889,7 +1895,10 @@
         "bach",
         "monteverdi",
         "baroque-crossmedia",
-        "violin"
+        "violin",
+        "dumont-harpsichord-miniature",
+        "lancret-cello-drawing",
+        "dusart-violin-tavern"
       ],
       "sources": [
         "enc-baroque-music",
@@ -6148,6 +6157,87 @@
       ],
       "sources": [
         "cma-1951-454"
+      ]
+    },
+    {
+      "id": "braque-violin-collage",
+      "title": "布拉克《小提琴》拼贴画",
+      "kind": "作品",
+      "unit": "music-instruments",
+      "era": "20世纪",
+      "region": "欧洲",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "布拉克1914年初剪纸拼贴画，克利夫兰艺术博物馆藏（1968.196）。",
+      "when": "1914年初",
+      "overview": "以报纸、仿木纹纸与花纹纸片加上炭笔勾线构成小提琴与玻璃杯；主题置于交错平面中。",
+      "related": [
+        "cubism",
+        "picasso"
+      ],
+      "sources": [
+        "cma-1968-196"
+      ]
+    },
+    {
+      "id": "dumont-harpsichord-miniature",
+      "title": "杜蒙《羽管键琴前的女子》细密画",
+      "kind": "作品",
+      "unit": "music-instruments",
+      "era": "18世纪",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "法国象牙水彩细密画，克利夫兰艺术博物馆藏（1942.1139）。",
+      "when": "约1788年",
+      "overview": "女子身份不明；两件 被归于他人的副本定名为索菲·阿尔努；弹琴被视为贵族女性的必要修养。",
+      "related": [
+        "baroque-music",
+        "rococo"
+      ],
+      "sources": [
+        "cma-1942-1139"
+      ]
+    },
+    {
+      "id": "lancret-cello-drawing",
+      "title": "朗克雷《演奏大提琴的男子》",
+      "kind": "作品",
+      "unit": "music-instruments",
+      "era": "18世纪",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "法国红粉笔素描，克利夫兰艺术博物馆藏（2018.1058）。",
+      "when": "约1725—1730年",
+      "overview": "为户外音乐会油画所作的人物稿；右上角特意刻画运弓之手的位置与紧握。",
+      "related": [
+        "baroque-music",
+        "rococo"
+      ],
+      "sources": [
+        "cma-2018-1058"
+      ]
+    },
+    {
+      "id": "dusart-violin-tavern",
+      "title": "杜萨特《酒馆中的小提琴手》",
+      "kind": "作品",
+      "unit": "music-instruments",
+      "era": "17世纪",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "荷兰蚀刻版画，克利夫兰艺术博物馆藏（1943.562）。",
+      "when": "1685年",
+      "overview": "音乐、欢笑与酒构成酒馆场景；站立者的姿态令人联想到西勒诺斯，警示纵酒。",
+      "related": [
+        "baroque-music",
+        "rembrandt",
+        "vermeer"
+      ],
+      "sources": [
+        "cma-1943-562"
       ]
     }
   ]
