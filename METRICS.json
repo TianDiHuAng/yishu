@@ -1404,6 +1404,42 @@
       "check_links_result": "broken=0(220页)",
       "audit_all": "9/9 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle52",
+      "date": "2026-11-23",
+      "status": "completed",
+      "gap_methods": [
+        "定向检索补缺（约鲁巴）",
+        "区块加深（安第斯/朝鲜）"
+      ],
+      "network": "partial: museum APIs ok",
+      "new_entries": 5,
+      "new_entry_ids": [
+        "yoruba-gelede-masks",
+        "asante-memorial-head",
+        "paracas-mantle",
+        "chimu-litter-backrest",
+        "goryeo-celadon-cup"
+      ],
+      "gaps_closed": [
+        "约鲁巴（上轮未竟）",
+        "阿散蒂/阿坎",
+        "帕拉卡斯",
+        "奇穆",
+        "高丽日用青瓷"
+      ],
+      "explicit_unknowns": [
+        "帕拉卡斯双头鸟纹含义（馆方明言未知）"
+      ],
+      "new_sources": 5,
+      "sources_total": 332,
+      "entries_total": 190,
+      "pages": 225,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(225页)",
+      "audit_all": "9/9 ok",
+      "commits": 1
     }
   ]
 }

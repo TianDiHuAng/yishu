@@ -3905,7 +3905,9 @@
       "related": [
         "benin-plaque",
         "benin-ancestral-head",
-        "nok-terracotta-head"
+        "nok-terracotta-head",
+        "yoruba-gelede-masks",
+        "asante-memorial-head"
       ],
       "sources": [
         "cma-1999-1",
@@ -3928,7 +3930,9 @@
         "maya-el-peru-stela",
         "aztec-feathered-serpent",
         "moche-bat-vessel",
-        "inca-tunic"
+        "inca-tunic",
+        "paracas-mantle",
+        "chimu-litter-backrest"
       ],
       "sources": [
         "cma-1967-29",
@@ -4029,7 +4033,8 @@
       "when": "1200—1300年代",
       "overview": "野菊既是「饮酒」诗意象，也寓意长寿；口沿破损处曾以金漆修补（日本称 kintsugi）。",
       "related": [
-        "kammavacha-manuscript"
+        "kammavacha-manuscript",
+        "goryeo-celadon-cup"
       ],
       "sources": [
         "cma-1918-454"
@@ -4048,10 +4053,111 @@
       "when": "1800年代",
       "overview": "在家信众为仪式出资制作；巴利文以缅甸体书写；倒数第二叶画有赞颂状的天人（nats）。",
       "related": [
-        "goryeo-celadon-bottle"
+        "goryeo-celadon-bottle",
+        "goryeo-celadon-cup"
       ],
       "sources": [
         "cma-1945-172"
+      ]
+    },
+    {
+      "id": "yoruba-gelede-masks",
+      "title": "约鲁巴 Gelede 成对面具",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "20世纪",
+      "region": "非洲",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "尼日利亚约鲁巴人 Gelede 社的成对面具，克利夫兰艺术博物馆藏（1975.168）。",
+      "when": "约1945—50年",
+      "overview": "由男性在年度化装游行中佩戴，敬奉「大母」Ìyá Nlá；面具塑「美丽少女」，头巾上栖鳄鱼，尾节可摆动。",
+      "related": [
+        "asante-memorial-head",
+        "african-art"
+      ],
+      "sources": [
+        "cma-1975-168"
+      ]
+    },
+    {
+      "id": "asante-memorial-head",
+      "title": "阿散蒂纪念头像（nsodie）",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "17—18世纪",
+      "region": "非洲",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "加纳阿坎（Asante）风格的赤陶纪念头像，克利夫兰艺术博物馆藏（1990.22）。",
+      "when": "约17世纪末—18世纪初",
+      "overview": "王室在世时委托女性艺人依记忆塑像，逝后置于圣林；理想化的贵人形貌与个人细节并存。",
+      "related": [
+        "yoruba-gelede-masks",
+        "african-art"
+      ],
+      "sources": [
+        "cma-1990-22"
+      ]
+    },
+    {
+      "id": "paracas-mantle",
+      "title": "帕拉卡斯披巾",
+      "kind": "作品",
+      "unit": "art-americas",
+      "era": "公元前3—公元2世纪",
+      "region": "美洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "秘鲁南岸帕拉卡斯（Cavernas）风格驼科纤维披巾，克利夫兰艺术博物馆藏（1946.226）。",
+      "when": "约公元前300—公元200年",
+      "overview": "竖穴墓中以多层织物裹尸并随葬器物；干燥环境保存了大量织物；双头鸟纹以红蓝黄绿绣线构成。",
+      "related": [
+        "chimu-litter-backrest",
+        "americas-art"
+      ],
+      "sources": [
+        "cma-1946-226"
+      ]
+    },
+    {
+      "id": "chimu-litter-backrest",
+      "title": "奇穆抬舆靠背",
+      "kind": "作品",
+      "unit": "art-americas",
+      "era": "12—13世纪",
+      "region": "美洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "秘鲁北岸奇穆文化的抬舆靠背，克利夫兰艺术博物馆藏（1952.233）。",
+      "when": "放射性碳测年 1185—1275（95.4%）",
+      "overview": "抬舆由人力肩抬，是无畜力与车轮社会里尊者的交通方式；图中人物或为奇穆领主与四名官员。",
+      "related": [
+        "paracas-mantle",
+        "americas-art"
+      ],
+      "sources": [
+        "cma-1952-233"
+      ]
+    },
+    {
+      "id": "goryeo-celadon-cup",
+      "title": "高丽青瓷莲瓣纹盏",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "12世纪",
+      "region": "东亚",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "高丽王朝青瓷盏，克利夫兰艺术博物馆藏（2025.180）；模印莲瓣纹。",
+      "when": "1100—1200年代",
+      "overview": "日用青瓷是高丽墓葬中最常见的随葬品之一；以成套器物随葬被视为敬奉亡者、供其身后所需。",
+      "related": [
+        "goryeo-celadon-bottle",
+        "kammavacha-manuscript"
+      ],
+      "sources": [
+        "cma-2025-180"
       ]
     }
   ]

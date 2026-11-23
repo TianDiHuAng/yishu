@@ -634,6 +634,19 @@
       },
       "network": "partial (museum APIs)",
       "verdict": "新增 5 条（185）；约鲁巴仍零覆盖已如实记录；未饱和"
+    },
+    {
+      "cycle": "cycle52",
+      "date": "2026-11-23",
+      "methods_used": [
+        "定向检索",
+        "区块加深"
+      ],
+      "gaps_found": {
+        "entries": 5
+      },
+      "network": "partial (museum APIs)",
+      "verdict": "补约鲁巴/阿散蒂/帕拉卡斯/奇穆/高丽（190）；未饱和"
     }
   ],
   "assessment_c33": {

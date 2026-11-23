@@ -3269,6 +3269,56 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；漆与贴金、玻璃镶嵌；巴利文缅甸体；含 nats 装饰"
+    },
+    {
+      "id": "cma-1975-168",
+      "title": "Cleveland Museum of Art — Pair of Masks (Gẹ̀lẹ̀dẹ́), Yorùbá, c. 1945–50, acc. 1975.168",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1975.168",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；木与颜料；两件高77.7/86cm；说明含 Ìyá Nlá 与 Duga 名声"
+    },
+    {
+      "id": "cma-1990-22",
+      "title": "Cleveland Museum of Art — Memorial head (nsodie), Akan style, late 1600s–early 1700s, acc. 1990.22",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1990.22",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；赤陶 19.1×13.6×15.5cm；作者记为 unknown female ceramicist"
+    },
+    {
+      "id": "cma-1946-226",
+      "title": "Cleveland Museum of Art — Mantle, Paracas (Cavernas) style, c. 300 BCE–200 CE, acc. 1946.226",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1946.226",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；驼科纤维平织加刺绣 154.9×292.1cm"
+    },
+    {
+      "id": "cma-1952-233",
+      "title": "Cleveland Museum of Art — Backrest of a Litter, Chimú, 1185–1275 (radiocarbon), acc. 1952.233",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1952.233",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；木、金合金、颜料、贝壳镶嵌 60.4×95cm"
+    },
+    {
+      "id": "cma-2025-180",
+      "title": "Cleveland Museum of Art — Celadon Cup with Molded Lotus Petal Design, Goryeo, 1100s–1200s, acc. 2025.180",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2025.180",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；青瓷 高11cm 口径10.7cm；说明含随葬组合"
     }
   ]
 }

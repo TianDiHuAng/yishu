@@ -1,0 +1,19 @@
+{
+ "id": "chimu-litter-backrest",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件出自秘鲁北岸奇穆文化，属晚期中间期，放射性碳测年为1185—1275年（95.4% 概率，据该馆藏品记录）。该馆称其为「罕见而戏剧性」的器物。",
+  "风格特征": "画面为简洁有力的人物，**或为一位奇穆领主与四名官员**，皆戴宽领、穿通衣、戴新月形头饰；这些服饰或以鲜彩绘制，或覆以今已锈蚀的金箔。",
+  "代表人物与作品": "作者未见于记录。相关条目见帕拉卡斯披巾与美洲原住民与前哥伦布艺术。本件为克利夫兰艺术博物馆藏品（1952.233）。",
+  "技法或形式分析": "混合媒材：木、金合金、颜料与贝壳镶嵌，整体60.4 × 95厘米。该馆指出，底部的孔洞很可能用于**绑扎**支撑座面的横梁——即这件「雕塑」本身是结构件。",
+  "与前后风格的关系和争论": "该馆把抬舆放进一个比较性的判断：在没有**畜力与车轮**的社会里，由人力肩抬的交通方式**专属**于受尊崇者。因此抬舆不是奢侈品装饰，而是社会等级的物质标志。",
+  "一图": "示意图以抬舆的人力承载、等级专属与人物头饰三者关系标示本件。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「或为领主与四名官员」该馆用 perhaps，属推测；（3）金箔的残存面积与合金成分未记录；（4）抬舆整体的形制（座面、抬杆）未取得复原资料。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='chimu-litter-backrest 示意图'><title>chimu-litter-backrest</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>无畜力·无车轮</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>交通条件</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>抬舆靠背</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1185—1275</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>等级专属</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>受尊者</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>金箔·贝壳</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>混合媒材</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>奇穆抬舆靠背：条件、等级与媒材</text></g></svg>",
+ "sources": [
+  "cma-1952-233"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；人物身份为推测；抬舆整体形制未取得。"
+}

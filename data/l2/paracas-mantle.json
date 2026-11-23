@@ -1,0 +1,19 @@
+{
+ "id": "paracas-mantle",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件属秘鲁南岸帕拉卡斯（Cavernas）风格，克利夫兰艺术博物馆定年为约公元前300—公元200年。该馆说明称，帕拉卡斯的死者葬于**竖穴墓**（长方形下沉墓室），以多层织物包裹，并随葬陶器、食物等。",
+  "风格特征": "披巾可能作斗篷之用。该馆指出，它与同馆藏的通衣（1946.227）与长头带（1946.228）**图像相通**，应属同一组合。主要纹样为**双头鸟**，以红、蓝、黄、绿绣线构成。",
+  "代表人物与作品": "作者未见于记录。相关条目见奇穆抬舆靠背与美洲原住民与前哥伦布艺术。本件为克利夫兰艺术博物馆藏品（1946.226）。",
+  "技法或形式分析": "材质为驼科纤维，平织加刺绣（plain weave with embroidery），整体154.9 × 292.1厘米（据该馆藏品记录）。帕拉卡斯半岛的干燥环境使大量织物得以保存——材料与气候共同构成了我们今天能看到的证据面。",
+  "与前后风格的关系和争论": "该馆明确写：「双头鸟纹样**很可能**具有象征意义，但其**具体含义仍未知**」。这是少数在说明里直接承认未知的地方，本条目照录，不填补。",
+  "一图": "示意图以竖穴墓埋葬方式、多层织物与双头鸟纹样三者关系标示本件。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）双头鸟纹的含义该馆明言未知，本条目不作推测；（3）本件与1946.227、1946.228 是否出自同一墓，记录未明确；（4）帕拉卡斯分期（Cavernas / Necrópolis）与本件的对应关系未取得。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='paracas-mantle 示意图'><title>paracas-mantle</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>竖穴墓</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>多层包裹</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>帕拉卡斯披巾</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>前300—200</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>双头鸟纹</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>含义未知</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>干燥保存</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>证据条件</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='590.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>帕拉卡斯披巾：埋葬、纹样与保存</text></g></svg>",
+ "sources": [
+  "cma-1946-226"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；纹样含义馆方明言未知。"
+}

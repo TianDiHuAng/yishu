@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 185,
+    "total": 190,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 26,
@@ -2224,6 +2224,66 @@
     },
     "kammavacha-manuscript": {
       "title": "缅甸 Kammavacha 戒律文书",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "yoruba-gelede-masks": {
+      "title": "约鲁巴 Gelede 成对面具",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "asante-memorial-head": {
+      "title": "阿散蒂纪念头像（nsodie）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "paracas-mantle": {
+      "title": "帕拉卡斯披巾",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "chimu-litter-backrest": {
+      "title": "奇穆抬舆靠背",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "goryeo-celadon-cup": {
+      "title": "高丽青瓷莲瓣纹盏",
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
