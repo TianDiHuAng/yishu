@@ -2749,6 +2749,32 @@
       "check_links_result": "broken=0(361页)",
       "audit_all": "12/12 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle96",
+      "date": "2026-11-23",
+      "status": "completed",
+      "gap_methods": [
+        "大洋洲艺术"
+      ],
+      "network": "partial: museum APIs ok",
+      "new_entries": 4,
+      "new_entry_ids": [
+        "maori-hei-tiki-1969",
+        "maori-wakahuia",
+        "maori-wahaika-club",
+        "tami-bowl"
+      ],
+      "oceania_objects": 4,
+      "incident": "hei-tiki/asmat id 与既有重名并覆盖 overlay；已 git 恢复改用唯一 id",
+      "new_sources": 5,
+      "sources_total": 459,
+      "entries_total": 328,
+      "pages": 365,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(365页)",
+      "audit_all": "12/12 ok",
+      "commits": 1
     }
   ]
 }

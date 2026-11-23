@@ -180,6 +180,13 @@
    [
     "1901"
    ]
+  ],
+  [
+   "maori-wakahuia",
+   "1800年代",
+   [
+    "1769"
+   ]
   ]
  ],
  "orphans": [],
@@ -236,6 +243,6 @@
  "link_audit": {
   "cross_domain": 18,
   "oneway": 0,
-  "total_links": 1032
+  "total_links": 1046
  }
 }

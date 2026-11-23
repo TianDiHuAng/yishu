@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 324 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 328 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -415,6 +415,10 @@
 | maori-hei-tiki | 毛利吊坠（hei-tiki） | 作品 | 19世纪 | 大洋洲 | 雕塑 | 重要 | O1 |
 | asmat-war-shield | 阿斯马特战盾 | 作品 | 20世纪 | 大洋洲 | 综合 | 重要 | O1 |
 | oceania-art | 太平洋艺术（大洋洲） | 风格 | 18—20世纪 | 大洋洲 | 综合 | 核心 | O1 |
+| maori-hei-tiki-1969 | 毛利绿玉颈坠（hei-tiki，1969号） | 作品 | 19世纪 | 大洋洲 | 雕塑 | 核心 | O1 |
+| maori-wakahuia | 毛利 Wakahuia 宝盒 | 作品 | 19世纪 | 大洋洲 | 雕塑 | 核心 | O1 |
+| maori-wahaika-club | 毛利 Wahaika 短棍 | 作品 | 19世纪 | 大洋洲 | 雕塑 | 重要 | O1 |
+| tami-bowl | 塔米群岛木碗 | 作品 | 19世纪 | 大洋洲 | 综合 | 重要 | O1 |
 
 ## music-instruments（乐器（跨文化））
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

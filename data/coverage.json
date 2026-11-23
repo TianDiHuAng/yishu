@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 324,
+    "total": 328,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -3893,6 +3893,54 @@
     "kuba-bwoom-mask": {
       "title": "库巴 bwoom 面具",
       "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "maori-hei-tiki-1969": {
+      "title": "毛利绿玉颈坠（hei-tiki，1969号）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "maori-wakahuia": {
+      "title": "毛利 Wakahuia 宝盒",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "maori-wahaika-club": {
+      "title": "毛利 Wahaika 短棍",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "tami-bowl": {
+      "title": "塔米群岛木碗",
+      "tier": "重要",
       "level": "L2",
       "status": "written_l2",
       "sources_count": 1,

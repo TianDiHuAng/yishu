@@ -4549,6 +4549,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；木与颜料 43.3×31.2×28.3cm；说明含三面具组合与建国叙事"
+    },
+    {
+      "id": "cma-1969-107",
+      "title": "Cleveland Museum of Art — Hei-tiki Neck Pendant, Māori, 1800s, acc. 1969.107",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1969.107",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；绿玉（pounamu）16.9×10.2cm；说明含 mana 与 Hine-te-Iwaiwa"
+    },
+    {
+      "id": "cma-1961-405",
+      "title": "Cleveland Museum of Art — Treasure Box (Wakahuia), Māori, 1800s, acc. 1961.405",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1961.405",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；木与鲍鱼壳 17.2cm；说明含 tapu 与库克船长1769—70"
+    },
+    {
+      "id": "cma-1965-322",
+      "title": "Cleveland Museum of Art — Bowl, Tami Islands, 1800s, acc. 1965.322",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1965.322",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；彩绘木 9.9×40.3×17.4cm；说明含骨质工具与家族花纹所有权"
+    },
+    {
+      "id": "cma-1964-455",
+      "title": "Cleveland Museum of Art — Short Club (Wahaika), Māori, mid-19th c., acc. 1964.455",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1964.455",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；木 35.6cm；说明含腰带佩挂与 mana 小人像"
     }
   ]
 }

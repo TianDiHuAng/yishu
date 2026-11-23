@@ -4072,7 +4072,11 @@
       "overview": "承载 mana 的祖传之物与军事—祖灵功能的器物，构成现有节点的两端；材料（软玉、红树板根）与技艺直接关系其意义。",
       "related": [
         "maori-hei-tiki",
-        "asmat-war-shield"
+        "asmat-war-shield",
+        "maori-hei-tiki-1969",
+        "maori-wakahuia",
+        "maori-wahaika-club",
+        "tami-bowl"
       ],
       "sources": [
         "cma-1954-147",
@@ -7028,6 +7032,88 @@
       ],
       "sources": [
         "cma-1935-304"
+      ]
+    },
+    {
+      "id": "maori-hei-tiki-1969",
+      "title": "毛利绿玉颈坠（hei-tiki，1969号）",
+      "kind": "作品",
+      "unit": "art-oceania",
+      "era": "19世纪",
+      "region": "大洋洲",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "毛利绿玉颈坠，克利夫兰艺术博物馆藏（1969.107）。",
+      "when": "1800年代",
+      "overview": "首领世袭并承载 mana；此坠为连接生者与前欧祖先的传家宝；或表现 Hine-te-Iwaiwa，生育守护者。",
+      "related": [
+        "maori-wakahuia",
+        "oceania-art",
+        "maori-wahaika-club"
+      ],
+      "sources": [
+        "cma-1969-107"
+      ]
+    },
+    {
+      "id": "maori-wakahuia",
+      "title": "毛利 Wakahuia 宝盒",
+      "kind": "作品",
+      "unit": "art-oceania",
+      "era": "19世纪",
+      "region": "大洋洲",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "毛利木雕鲍鱼壳宝盒，克利夫兰艺术博物馆藏（1961.405）。",
+      "when": "1800年代",
+      "overview": "浅浮雕螺旋与两端小人像；盛首领饰物；因首级与颈部为 tapu，故悬于屋梁；库克1769—70所见即此类。",
+      "related": [
+        "maori-hei-tiki-1969",
+        "oceania-art",
+        "tami-bowl"
+      ],
+      "sources": [
+        "cma-1961-405"
+      ]
+    },
+    {
+      "id": "maori-wahaika-club",
+      "title": "毛利 Wahaika 短棍",
+      "kind": "作品",
+      "unit": "art-oceania",
+      "era": "19世纪",
+      "region": "大洋洲",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "毛利木制短棍，克利夫兰艺术博物馆藏（1964.455）。",
+      "when": "1800年代中期",
+      "overview": "佩于腰带，用于近身格斗；早期无饰石制，后骨木制装饰渐繁；侧附小人像或表武器之 mana，柄端人面表战斗的攻击性。",
+      "related": [
+        "maori-hei-tiki-1969",
+        "oceania-art"
+      ],
+      "sources": [
+        "cma-1964-455"
+      ]
+    },
+    {
+      "id": "tami-bowl",
+      "title": "塔米群岛木碗",
+      "kind": "作品",
+      "unit": "art-oceania",
+      "era": "19世纪",
+      "region": "大洋洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "塔米群岛彩绘木碗，克利夫兰艺术博物馆藏（1965.322）。",
+      "when": "1800年代",
+      "overview": "以石斧、竹刀、树熊牙与猪/鹤鸵/狗骨为工具；用杜鹃木，刻纹深浅不一，多施石墨并抛光；花纹为家族所有。",
+      "related": [
+        "maori-wakahuia",
+        "oceania-art"
+      ],
+      "sources": [
+        "cma-1965-322"
       ]
     }
   ]

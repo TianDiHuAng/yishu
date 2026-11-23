@@ -6569,7 +6569,11 @@
       "overview": "承载 mana 的祖传之物与军事—祖灵功能的器物，构成现有节点的两端；材料（软玉、红树板根）与技艺直接关系其意义。",
       "related": [
         "maori-hei-tiki",
-        "asmat-war-shield"
+        "asmat-war-shield",
+        "maori-hei-tiki-1969",
+        "maori-wakahuia",
+        "maori-wahaika-club",
+        "tami-bowl"
       ],
       "sources": [
         "cma-1954-147",
@@ -11411,6 +11415,140 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='kuba-bwoom-mask 示意图'><title>kuba-bwoom-mask</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>三件组合</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>女·男·bwoom</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>bwoom 面具</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>43.3cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>建国重演</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>王廷</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>男子入会</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>京外</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>bwoom：组合、建国与京外语境</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（CMA）来源；配套面具下落未取得。"
+    },
+    {
+      "id": "maori-hei-tiki-1969",
+      "title": "毛利绿玉颈坠（hei-tiki，1969号）",
+      "kind": "作品",
+      "unit": "art-oceania",
+      "era": "19世纪",
+      "region": "大洋洲",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "毛利绿玉颈坠，克利夫兰艺术博物馆藏（1969.107）。",
+      "when": "1800年代",
+      "overview": "首领世袭并承载 mana；此坠为连接生者与前欧祖先的传家宝；或表现 Hine-te-Iwaiwa，生育守护者。",
+      "related": [
+        "maori-wakahuia",
+        "oceania-art",
+        "maori-wahaika-club"
+      ],
+      "sources": [
+        "cma-1969-107"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明，在毛利人中，**首领是世袭的**，并被赋予 **mana**（权力与威望）；mana 可以**寄托并世代相传于与其相关的艺术品中**。本件为19世纪绿玉颈坠。",
+        "风格特征": "该馆指出，**hei-tiki** 正是这类**受珍视、承载 mana 的传家宝**——它们把生者与**岛屿前欧洲时代的祖先**连接起来。它可能表现 **Hine-te-Iwaiwa**，一位传说中的女祖先：她是**毛利女性气质的典范**，也是**生育的守护者**。",
+        "代表人物与作品": "作者未署名。相关条目见 Wakahuia 宝盒与大洋洲艺术。本件为克利夫兰艺术博物馆藏品（1969.107）。",
+        "技法或形式分析": "材质为**绿玉（pounamu，或为软玉）**，整体16.9 × 10.2厘米（据该馆藏品记录）。该馆对石种用疑问号（nephrite?），本条目亦不确断具体玉种。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「mana 的传递」作为核心：坠饰的价值不只在其形，而在它**储存并传递社会身份**。这使一件小型佩饰成为**世系与权威的载体**。",
+        "一图": "示意图以世袭 mana、前欧祖先连接与 Hine-te-Iwaiwa 三者关系标示本坠。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）玉种该馆用 nephrite?，未定；（3）本坠的具体递藏谱系未取得；（4）「可能表现 Hine-te-Iwaiwa」为推测。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='maori-hei-tiki-1969 示意图'><title>maori-hei-tiki-1969</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>世袭 mana</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>权力·威望</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>hei-tiki</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>16.9cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>连接祖先</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>前欧时代</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>Hine-te-Iwai</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>生育守护</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>hei-tiki：mana、祖先与女祖神</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；玉种未定；递藏谱系未取得。"
+    },
+    {
+      "id": "maori-wakahuia",
+      "title": "毛利 Wakahuia 宝盒",
+      "kind": "作品",
+      "unit": "art-oceania",
+      "era": "19世纪",
+      "region": "大洋洲",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "毛利木雕鲍鱼壳宝盒，克利夫兰艺术博物馆藏（1961.405）。",
+      "when": "1800年代",
+      "overview": "浅浮雕螺旋与两端小人像；盛首领饰物；因首级与颈部为 tapu，故悬于屋梁；库克1769—70所见即此类。",
+      "related": [
+        "maori-hei-tiki-1969",
+        "oceania-art",
+        "tami-bowl"
+      ],
+      "sources": [
+        "cma-1961-405"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为19世纪毛利 **Wakahuia（宝盒）**，克利夫兰艺术博物馆藏（1961.405）。该馆说明，此类宝盒在**库克船长1769—70年造访新西兰**时即已在使用。",
+        "风格特征": "该馆描述形制：装饰以**浅浮雕螺旋纹**，**两端各刻小人像**。其用途是**存放首领所佩戴的饰物**——包括 **huia 鸟的羽毛、梳子与 hei-tiki 坠饰**。",
+        "代表人物与作品": "作者未署名。相关条目见 hei-tiki 与大洋洲艺术。本件为克利夫兰艺术博物馆藏品（1961.405）。",
+        "技法或形式分析": "材质为**木嵌鲍鱼壳**，整体高17.2厘米（据该馆藏品记录）。该馆给出一个关键的**制度性原因**：因**高阶首领的头与颈是 tapu（神圣）**，其**个人饰物对儿童或地位较低者具有危险性**——因此宝盒要**悬挂于首领屋内的椽上**。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「悬挂」理解为**tapu 的空间管理**：危险不是道德判断，而是需要通过高度与隔离来处理的**神圣属性**。物件的存放方式因此是社会秩序的一部分。",
+        "一图": "示意图以首领饰物、tapu 的危险性与悬于屋椽三者关系标示本盒。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）本盒的具体所属首领与部族未记录；（3）huia 羽毛的具体数量与种类未列；（4）鲍鱼壳镶嵌的工艺未展开。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='maori-wakahuia 示意图'><title>maori-wakahuia</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>首领饰物</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>羽·梳·坠</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>Wakahuia</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>17.2cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>tapu 危险</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>头颈神圣</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>悬于屋椽</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>空间隔离</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>Wakahuia：饰物、tapu 与悬挂</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；所属首领与部族未记录。"
+    },
+    {
+      "id": "maori-wahaika-club",
+      "title": "毛利 Wahaika 短棍",
+      "kind": "作品",
+      "unit": "art-oceania",
+      "era": "19世纪",
+      "region": "大洋洲",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "毛利木制短棍，克利夫兰艺术博物馆藏（1964.455）。",
+      "when": "1800年代中期",
+      "overview": "佩于腰带，用于近身格斗；早期无饰石制，后骨木制装饰渐繁；侧附小人像或表武器之 mana，柄端人面表战斗的攻击性。",
+      "related": [
+        "maori-hei-tiki-1969",
+        "oceania-art"
+      ],
+      "sources": [
+        "cma-1964-455"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明，**wahaika** 佩于腰带，毛利人用于**近身格斗**。本件为19世纪中期木制短棍。",
+        "风格特征": "该馆指出一个**材质演变**：早期**无饰**的短棍以**石**制；后来的**骨与木**制短棍则装饰**日益复杂的雕刻图案**。",
+        "代表人物与作品": "作者未署名。相关条目见 hei-tiki 与大洋洲艺术。本件为克利夫兰艺术博物馆藏品（1964.455）。",
+        "技法或形式分析": "材质为**木**，整体长35.6厘米（据该馆藏品记录）。该馆给出两处**图像—语义**说明：**紧贴于棍侧的小人像**很可能表现**武器的超自然力（mana）**；而**握柄末端的人面**表达**战斗的攻击性**。",
+        "与前后风格的关系和争论": "本条目据该馆说明把兵器视为**承载 mana 的物**：一件格斗武器的力量，部分来自其雕刻所象征的超自然属性，而不只是物理形制。本条目只陈述该馆的解释。",
+        "一图": "示意图以腰带佩挂、mana 小人像与柄端攻击性人面三者关系标示本棍。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「很可能表现 mana」为推测；（3）本棍所属部族与所有者未记录；（4）石制早期型与木制的年代关系未细化。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='maori-wahaika-club 示意图'><title>maori-wahaika-club</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>腰带佩挂</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>近身格斗</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>Wahaika</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>35.6cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>侧附小人像</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>mana?</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>柄端人面</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>攻击性</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>Wahaika：佩挂、mana 与攻击性</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；mana 为推测；所有者未记录。"
+    },
+    {
+      "id": "tami-bowl",
+      "title": "塔米群岛木碗",
+      "kind": "作品",
+      "unit": "art-oceania",
+      "era": "19世纪",
+      "region": "大洋洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "塔米群岛彩绘木碗，克利夫兰艺术博物馆藏（1965.322）。",
+      "when": "1800年代",
+      "overview": "以石斧、竹刀、树熊牙与猪/鹤鸵/狗骨为工具；用杜鹃木，刻纹深浅不一，多施石墨并抛光；花纹为家族所有。",
+      "related": [
+        "maori-wakahuia",
+        "oceania-art"
+      ],
+      "sources": [
+        "cma-1965-322"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明，**塔米群岛（Tami Islands）**的居民制造**独木舟、屋梁、鼓、碗、石灰刮刀与颈枕**，使用的工具包括**石斧、竹刀、树熊牙，以及猪、鹤鸵与狗的骨**。本件为19世纪木碗。",
+        "风格特征": "该馆指出，塔米碗以**杜鹃木（azalea）的硬木**雕成，饰纹从**深蚀刻到高浮雕**不等；许多碗**以石墨化合物染黑并高度抛光**。",
+        "代表人物与作品": "作者未署名。相关条目见阿斯马特战盾与大洋洲艺术。本件为克利夫兰艺术博物馆藏品（1965.322）。",
+        "技法或形式分析": "材质为**彩绘木**，整体9.9 × 40.3 × 17.4厘米（据该馆藏品记录）。工具清单显示其木作传统依赖**骨、牙、竹**等非金属刃具。",
+        "与前后风格的关系和争论": "该馆点明一项**知识产权**式的制度：**装饰花纹为特定家族所有，其他雕刻者不得使用**。本条目据此把「纹样」理解为**可继承的家族财产**，而非公共装饰母题。",
+        "一图": "示意图以骨质工具、杜鹃木与石墨抛光、家族花纹所有权三者关系标示本碗。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）本碗花纹所属家族未记录；（3）石墨抛光的工艺细节未展开；（4）群岛内部的具体村落未注明。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='tami-bowl 示意图'><title>tami-bowl</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>骨·牙·竹工具</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>无金属刃</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>塔米木碗</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>40.3cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>杜鹃木·石墨</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>硬木抛光</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>花纹家族所有</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>不可借用</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>塔米木碗：工具、材料与纹样所有权</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；花纹家族与村落未记录。"
     }
   ]
 }

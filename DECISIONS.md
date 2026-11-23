@@ -1010,3 +1010,17 @@
 **工程记录**：元组里再次误写 `cma-1935.304`（点号），**R22 立刻报「来源 id 含非法字符」**并阻断构建；改为连字符后通过。R22 自 Cycle80 建立以来已第 2 次拦住此类错误。
 可逆方式：删 4 条 overlay 与 catalog 元组、移除 4 条来源。
 代价：4 条均单机构；非洲 15 → 19 条（含本批），但区域仍集中西非/中非/东非。
+
+## D099 — Cycle96 大洋洲 4 条（324 → 328）＋ 一次重名重复事故的修复
+新增 `maori-hei-tiki-1969`（毛利绿玉颈坠，1800s，**核心**）、`maori-wakahuia`（毛利宝盒，1800s，**核心**）、
+`maori-wahaika-club`（毛利短棍，mid-1800s）、`tami-bowl`（塔米群岛木碗，1800s）。
+四处要点：①hei-tiki 承载世袭 **mana**，连接前欧祖先，或表现生育守护者 Hine-te-Iwaiwa；
+②Wakahuia 因首领头颈 **tapu** 而悬于屋椽，库克1769—70 已见此类；
+③Wahaika 侧附小人像或表武器 mana、柄端人面表攻击性；④塔米木碗以**骨牙竹**为工具，**花纹为家族所有、不得借用**。
+**【事故与修复】** 本轮初次写入时，`maori-hei-tiki` 与 `asmat-war-shield` 两 id **与既有条目重名**（既有 hei-tiki 用 1954.147；既有阿斯马特战盾与本轮同一件 1963.554），
+且 `write_*.py` **覆盖了这两个既有 overlay**，导致 build_scope=328 而合并后仅 326、并触发 `R11 coverage 与条目数不符`。
+**处置**：`git checkout HEAD -- data/l2/maori-hei-tiki.json data/l2/asmat-war-shield.json` 恢复原覆盖层；把本轮 hei-tiki 改用 **`maori-hei-tiki-1969`**（唯一 id）；
+**删除**与既有重复的 asmat 元组，改用第 4 件 **Wahaika 短棍（1964.455）**补齐。修复后 328 条目、check errors=0、audit 12/12。
+**教训**：每轮新增前必须**先查 catalog 是否已有同名 id**；`check.py` 的 R5/R11 是最后防线，但不能替代写前的 id 查重。
+可逆方式：删 4 条 overlay 与 catalog 元组、移除 4 条来源、还原两处 git 恢复。
+代价：4 条均单机构；大洋洲由 4 → 8 条，仍以波利尼西亚/美拉尼西亚为主，密克罗尼西亚与澳洲原住民缺失。
