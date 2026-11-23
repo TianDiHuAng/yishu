@@ -532,6 +532,18 @@
       },
       "network": "partial (museum APIs)",
       "verdict": "4 条馆藏作品填补实缺口（161）；均单机构已标记；未饱和"
+    },
+    {
+      "cycle": "cycle44",
+      "date": "2026-11-23",
+      "methods_used": [
+        "系列批量配对"
+      ],
+      "gaps_found": {
+        "entries": 4
+      },
+      "network": "partial (museum APIs)",
+      "verdict": "4 组同作品双机构（165）；5 候选被否并记录原因；未饱和"
     }
   ],
   "assessment_c33": {

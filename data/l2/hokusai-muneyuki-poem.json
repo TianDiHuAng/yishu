@@ -1,0 +1,18 @@
+{
+ "id": "hokusai-muneyuki-poem",
+ "level": "L2",
+ "sections": {
+  "时代背景": "该馆说明指出，北斋设计《百人一首乳母绘解》系列时，采取「一位困惑的乳母试图图解古典和歌、却错失其中微妙典故」的视角。这一设定并非失误，而是有意的设计。",
+  "风格特征": "由于乳母「误解」和歌，画面与诗句之间形成当时读者会视为**滑稽的错位**（该馆用 comical disconnect）。也就是说，图像不是诗句的忠实插图，而是对误读的表演。",
+  "代表人物与作品": "作者葛饰北斋（1760—1849）。本幅取源宗于朝臣的和歌。相关条目见浮世绘、日本艺术与《凯风快晴》。英国维多利亚与艾尔伯特博物馆藏有同图印本，题名《源宗于朝臣》，属《百人一首乳母绘解》，纸本，高24.92厘米、宽37.3厘米。",
+  "技法或形式分析": "克利夫兰记录本幅24.2 × 35.3厘米；V&A 记录24.92 × 37.3厘米，属不同印本。该馆附有和歌英译，大意诉山中冬日的孤寂：草木枯萎、访客稀少，两皆断绝。译文原为分行诗体，本条目只述其意，不整段迻录。",
+  "与前后风格的关系和争论": "以「误读」为结构原则的系列在浮世绘中并不多见；它与同一时期以典故精确取胜的做法相反，把错解本身做成卖点，可视为对古典教养的一种戏仿。",
+  "一图": "示意图以百人一首母题、乳母误读的构思与两馆藏本三者关系标示本作品。",
+  "待核实": "（1）V&A 记录未给年代，「1835—36年」仅据 CMA；（2）和歌原文与英译的分行情形本条目未迻录，仅存其意；（3）「滑稽错位」是该馆的解释，未与日本学界研究对照；（4）该系列总幅数与该图在系列中的序号未取得。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='hokusai-muneyuki-poem 示意图'><title>hokusai-muneyuki-poem</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>百人一首</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>母题</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>乳母误读</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>结构原则</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>诗画错位</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>滑稽</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>CMA / V&amp;</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>各藏印本</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>《源宗于朝臣》：误读结构与诗画错位</text></g></svg>",
+ "sources": [
+  "cma-1985-327",
+  "vam-o422853"
+ ]
+}

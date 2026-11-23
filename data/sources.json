@@ -3009,6 +3009,86 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；扇面裱为册页、28.6×30cm"
+    },
+    {
+      "id": "cma-1940-986",
+      "title": "Cleveland Museum of Art — Hiroshige, Fireworks at Ryōgoku, 1858, acc. 1940.986",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1940.986",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；sheet 33.7×22cm；说明含1850年代赞助放焰火背景"
+    },
+    {
+      "id": "vam-o420241",
+      "title": "Victoria and Albert Museum — Ryōgoku Fireworks (Ryōgoku hanabi), O420241",
+      "author": "Victoria and Albert Museum（V&A API v2）",
+      "year": "2026",
+      "url": "https://collections.vam.ac.uk/item/O420241/",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 V&A API HTTP 200；题名含系列《江户名所百景》，36.2×24.8cm；该馆未记年代"
+    },
+    {
+      "id": "cma-1985-312",
+      "title": "Cleveland Museum of Art — Hiroshige, Night Rain at Karasaki, c. 1835, acc. 1985.312",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1985.312",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；24.4×36.8cm；说明含唐崎松与和歌英译（Matthi Forrer 译）"
+    },
+    {
+      "id": "vam-o423295",
+      "title": "Victoria and Albert Museum — Night Rain at Karasaki (Karasaki yau), O423295",
+      "author": "Victoria and Albert Museum（V&A API v2）",
+      "year": "2026",
+      "url": "https://collections.vam.ac.uk/item/O423295/",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 V&A API HTTP 200；题名含系列《近江八景》，22.9×35.6cm"
+    },
+    {
+      "id": "cma-1985-327",
+      "title": "Cleveland Museum of Art — Hokusai, Poem by Minamoto no Muneyuki, 1835–36, acc. 1985.327",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1985.327",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；24.2×35.3cm；说明含系列构思与和歌英译"
+    },
+    {
+      "id": "vam-o422853",
+      "title": "Victoria and Albert Museum — Poem by Minamoto no Muneyuki Ason, O422853",
+      "author": "Victoria and Albert Museum（V&A API v2）",
+      "year": "2026",
+      "url": "https://collections.vam.ac.uk/item/O422853/",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 V&A API HTTP 200；题名含系列《百人一首乳母绘解》，24.92×37.3cm"
+    },
+    {
+      "id": "cma-1930-190",
+      "title": "Cleveland Museum of Art — Hokusai, Poem by Kakinomoto no Hitomaro, 1835–36, acc. 1930.190",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1930.190",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；25.8×37.8cm；说明含人麻吕生卒与和歌英译"
+    },
+    {
+      "id": "vam-o424258",
+      "title": "Victoria and Albert Museum — Poem by Kakinomoto no Hitomaro, O424258",
+      "author": "Victoria and Albert Museum（V&A API v2）",
+      "year": "2026",
+      "url": "https://collections.vam.ac.uk/item/O424258/",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 V&A API HTTP 200；题名含系列《百人一首》，35.6×24.1cm（方向与 CMA 记录相反）"
     }
   ]
 }

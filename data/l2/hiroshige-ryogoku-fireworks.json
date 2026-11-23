@@ -1,0 +1,18 @@
+{
+ "id": "hiroshige-ryogoku-fireworks",
+ "level": "L2",
+ "sections": {
+  "时代背景": "两国桥横跨隅田川，连接江户（今东京）两岸热闹的街区，是广重版画中反复出现的题材（据克利夫兰艺术博物馆说明）。该馆指出，1850年代河岸的料理店与其他商家经常赞助焰火表演，这类表演吸引大量人群——桥上、岸边、茶屋与租用的游船上都挤满观者。",
+  "风格特征": "该馆说明称，广重在此把**近一半画面**留给闪耀焰火的夜空。这一构图安排使「看火」这件事本身成为主体：桥、人群与水面退为陪衬，夜色与火光构成画面的主调。",
+  "代表人物与作品": "作者歌川广重（1797—1858）。相关条目见浮世绘与日本艺术。英国维多利亚与艾尔伯特博物馆藏有同图印本，题名《两国花火（Ryōgoku hanabi）》，属《江户名所百景》，纸本，高36.2厘米、宽24.8厘米；该馆记录未给出年代。",
+  "技法或形式分析": "克利夫兰记录本幅为纸本，sheet 尺寸33.7 × 22厘米。两馆尺寸略有差异（33.7×22 对 36.2×24.8），说明二者是不同印本，具体裁切与修边情况本条目未取得记录。",
+  "与前后风格的关系和争论": "广重对同一座桥与同一片河面的反复处理，构成其江户名所系列的主线之一；焰火题材把商业赞助、城市娱乐与版画的销售结合起来，是该系列面向城市读者的直接证据。",
+  "一图": "示意图以两国桥、焰火赞助与两馆藏本三者关系标示本作品。",
+  "待核实": "（1）两馆藏本版次关系未判定，尺寸差异原因（裁切或印次）缺记录；（2）V&A 记录未给年代，「1858年」仅据 CMA 一家；（3）作者生卒1797—1858取自 CMA 创作者记录；（4）焰火赞助的具体商家名与场次该馆未列出。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='hiroshige-ryogoku-firewo 示意图'><title>hiroshige-ryogoku-firewo</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>两国桥</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>隅田川</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>焰火·1858</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>近半幅夜空</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>商家赞助</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>1850年代</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>CMA / V&amp;</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>各藏印本</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>《两国花火》：桥、焰火与两馆藏本</text></g></svg>",
+ "sources": [
+  "cma-1940-986",
+  "vam-o420241"
+ ]
+}

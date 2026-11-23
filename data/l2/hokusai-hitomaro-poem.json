@@ -1,0 +1,18 @@
+{
+ "id": "hokusai-hitomaro-poem",
+ "level": "L2",
+ "sections": {
+  "时代背景": "该馆说明指出，北斋此系列以「困惑的乳母图解古典和歌」为设定，图像与诗句之间常出现有意的错位。本幅取柿本人麻吕（约660—739，据该馆说明）的和歌。",
+  "风格特征": "与《源宗于朝臣》同属一个系列，画面服务于「误读」的结构：和歌写长夜独眠的漫长，图像则以可见的物象把「长」具体化，二者之间的对不上正是趣味所在。",
+  "代表人物与作品": "作者葛饰北斋。相关条目见浮世绘、日本艺术与《凯风快晴》。英国维多利亚与艾尔伯特博物馆藏有同图印本，题名《柿本人麻吕》，纸本；该馆记录的尺寸为高35.6厘米、宽24.1厘米，与 CMA 记录（25.8×37.8）方向相反，属不同印本或著录方向差异。",
+  "技法或形式分析": "克利夫兰记录本幅25.8 × 37.8厘米。该馆附有和歌英译，大意以「山鸟的长尾」比喻漫长秋夜，写独眠之苦；译文原为分行诗体，本条目只述其意，不整段迻录。",
+  "与前后风格的关系和争论": "同一系列内两幅（本幅与《源宗于朝臣》）显示了北斋处理古典和歌的一致策略：把文本的权威交给「不可靠的图解者」，让错读成为画面的一部分。",
+  "一图": "示意图以百人一首母题、人麻吕和歌与两馆藏本三者关系标示本作品。",
+  "待核实": "（1）V&A 记录未给年代且尺寸方向与 CMA 相反，二者关系需目验判定；（2）「1835—36年」仅据 CMA；（3）人麻吕生卒约660—739取自该馆说明，未以第二来源核对；（4）和歌原文未迻录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='hokusai-hitomaro-poem 示意图'><title>hokusai-hitomaro-poem</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>人麻吕和歌</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>约660—739</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>乳母绘解</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1835—36</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>长夜独眠</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>图像具体化</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>CMA / V&amp;</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>尺寸方向相反</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>《柿本人麻吕》：和歌、误读与藏本差异</text></g></svg>",
+ "sources": [
+  "cma-1930-190",
+  "vam-o424258"
+ ]
+}

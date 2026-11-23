@@ -1,7 +1,7 @@
 {
- "total_oneway": 27,
+ "total_oneway": 37,
  "by_class": {
-  "same_unit": 18,
+  "same_unit": 28,
   "same_domain": 9
  },
  "rows": [
@@ -193,6 +193,76 @@
    "class": "same_domain",
    "from_unit": "art-asia",
    "to_unit": "art-china-painting"
+  },
+  {
+   "from": "hiroshige-ryogoku-fireworks",
+   "to": "ukiyo-e",
+   "class": "same_unit",
+   "from_unit": "art-asia",
+   "to_unit": "art-asia"
+  },
+  {
+   "from": "hiroshige-ryogoku-fireworks",
+   "to": "japanese-art",
+   "class": "same_unit",
+   "from_unit": "art-asia",
+   "to_unit": "art-asia"
+  },
+  {
+   "from": "hiroshige-karasaki-night-rain",
+   "to": "ukiyo-e",
+   "class": "same_unit",
+   "from_unit": "art-asia",
+   "to_unit": "art-asia"
+  },
+  {
+   "from": "hiroshige-karasaki-night-rain",
+   "to": "japanese-art",
+   "class": "same_unit",
+   "from_unit": "art-asia",
+   "to_unit": "art-asia"
+  },
+  {
+   "from": "hokusai-muneyuki-poem",
+   "to": "ukiyo-e",
+   "class": "same_unit",
+   "from_unit": "art-asia",
+   "to_unit": "art-asia"
+  },
+  {
+   "from": "hokusai-muneyuki-poem",
+   "to": "japanese-art",
+   "class": "same_unit",
+   "from_unit": "art-asia",
+   "to_unit": "art-asia"
+  },
+  {
+   "from": "hokusai-muneyuki-poem",
+   "to": "hokusai-red-fuji",
+   "class": "same_unit",
+   "from_unit": "art-asia",
+   "to_unit": "art-asia"
+  },
+  {
+   "from": "hokusai-hitomaro-poem",
+   "to": "ukiyo-e",
+   "class": "same_unit",
+   "from_unit": "art-asia",
+   "to_unit": "art-asia"
+  },
+  {
+   "from": "hokusai-hitomaro-poem",
+   "to": "japanese-art",
+   "class": "same_unit",
+   "from_unit": "art-asia",
+   "to_unit": "art-asia"
+  },
+  {
+   "from": "hokusai-hitomaro-poem",
+   "to": "hokusai-red-fuji",
+   "class": "same_unit",
+   "from_unit": "art-asia",
+   "to_unit": "art-asia"
   }
  ]
 }

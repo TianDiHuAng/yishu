@@ -3379,6 +3379,92 @@
       "sources": [
         "cma-1978-66"
       ]
+    },
+    {
+      "id": "hiroshige-ryogoku-fireworks",
+      "title": "《两国花火》（广重）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "19世纪",
+      "region": "日本",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "歌川广重《江户名所百景》之一，绘两国桥上空的焰火；CMA（1940.986）与 V&A（O420241）各藏印本。",
+      "when": "1858年",
+      "overview": "以近半幅画面描绘夜空与焰火，河岸茶屋与游船赞助的烟火在1850年代的江户吸引大量人群围观。",
+      "related": [
+        "ukiyo-e",
+        "japanese-art"
+      ],
+      "sources": [
+        "cma-1940-986",
+        "vam-o420241"
+      ]
+    },
+    {
+      "id": "hiroshige-karasaki-night-rain",
+      "title": "《唐崎夜雨》（广重）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "19世纪",
+      "region": "日本",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "歌川广重《近江八景》之一，绘琵琶湖畔唐崎松与夜雨；CMA（1985.312）与 V&A（O423295）各藏印本。",
+      "when": "约1835年",
+      "overview": "唐崎松为湖畔名胜，枝干以竹架支撑、下护神社；画面题咏和歌，将雨声与松名连在一起。",
+      "related": [
+        "ukiyo-e",
+        "japanese-art"
+      ],
+      "sources": [
+        "cma-1985-312",
+        "vam-o423295"
+      ]
+    },
+    {
+      "id": "hokusai-muneyuki-poem",
+      "title": "《源宗于朝臣》（北斋）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "19世纪",
+      "region": "日本",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "葛饰北斋《百人一首乳母绘解》之一；CMA（1985.327）与 V&A（O422853）各藏印本。",
+      "when": "1835—36年",
+      "overview": "系列以「乳母误解和歌」的视角作图，刻意错解典故，造成诗与画之间被视为滑稽的错位。",
+      "related": [
+        "ukiyo-e",
+        "japanese-art",
+        "hokusai-red-fuji"
+      ],
+      "sources": [
+        "cma-1985-327",
+        "vam-o422853"
+      ]
+    },
+    {
+      "id": "hokusai-hitomaro-poem",
+      "title": "《柿本人麻吕》（北斋）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "19世纪",
+      "region": "日本",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "葛饰北斋《百人一首乳母绘解》之一，取柿本人麻吕（约660—739）和歌；CMA（1930.190）与 V&A（O424258）各藏印本。",
+      "when": "1835—36年",
+      "overview": "画面与「长夜独眠」的和歌相配，属该系列以错解制造反差的典型手法。",
+      "related": [
+        "ukiyo-e",
+        "japanese-art",
+        "hokusai-red-fuji"
+      ],
+      "sources": [
+        "cma-1930-190",
+        "vam-o424258"
+      ]
     }
   ]
 }
