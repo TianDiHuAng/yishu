@@ -100,6 +100,9 @@ details.rec ol{margin:.5em 0 0;padding-left:1.4em;font-size:.84rem;color:var(--i
 .pending ol{margin:.4em 0 0;padding-left:1.3em}
 .footer{border-top:1px solid var(--rule);padding:32px 0;color:var(--ink-faint);font-size:.82rem}
 table{width:100%;border-collapse:collapse;font-size:.92rem}
+.table-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:12px 0}
+.table-wrap table{margin:0}
+th,td{word-break:break-word;overflow-wrap:anywhere}
 th,td{text-align:left;padding:9px 10px;border-bottom:1px solid var(--rule)}
 th{font-family:var(--sans);color:var(--ink-soft);font-size:.82rem}
 .eyebrow{font-family:var(--mono);font-size:.7rem;letter-spacing:.16em;color:var(--ink-faint);text-transform:uppercase}

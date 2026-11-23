@@ -1744,6 +1744,41 @@
       "check_links_result": "broken=0(243页)",
       "audit_all": "11/11 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle61",
+      "date": "2026-11-23",
+      "status": "completed",
+      "gap_methods": [
+        "窄屏溢出审计（表格）"
+      ],
+      "network": "partial",
+      "new_entries": 0,
+      "fixes": 3,
+      "tables": {
+        "total": 215,
+        "pages": 211,
+        "wrapped_after": 215,
+        "max_cols": 7,
+        "longest_cell": 113
+      },
+      "fixes_detail": [
+        "gen_site 后处理包裹 .table-wrap（幂等）",
+        "CSS overflow-x:auto + word-break",
+        "usability 新增 unwrapped_table 检查"
+      ],
+      "guard_test": "去包裹 → rc=1；还原 → rc=0",
+      "impl_pitfalls": [
+        "调用插入条件被函数定义命中",
+        "正则前瞻失败导致重复包裹→改为整页跳过"
+      ],
+      "entries_total": 208,
+      "sources_total": 339,
+      "pages": 243,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(243页)",
+      "audit_all": "11/11 ok",
+      "commits": 1
     }
   ]
 }

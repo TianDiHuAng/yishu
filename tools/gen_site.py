@@ -3,7 +3,7 @@
 页面：index.html / entries/<id>.html / timeline.html / all-index.html / sources.html / assets/style.css
 零 JavaScript；深色模式用 prefers-color-scheme；SVG 配色走 CSS 类。
 """
-import json, os, html, glob, re
+import json, os, html, glob, re, io
 from collections import defaultdict, Counter
 ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 D=os.path.join(ROOT,"data")
@@ -111,6 +111,9 @@ details.rec ol{margin:.5em 0 0;padding-left:1.4em;font-size:.84rem;color:var(--i
 .pending ol{margin:.4em 0 0;padding-left:1.3em}
 .footer{border-top:1px solid var(--rule);padding:32px 0;color:var(--ink-faint);font-size:.82rem}
 table{width:100%;border-collapse:collapse;font-size:.92rem}
+.table-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:12px 0}
+.table-wrap table{margin:0}
+th,td{word-break:break-word;overflow-wrap:anywhere}
 th,td{text-align:left;padding:9px 10px;border-bottom:1px solid var(--rule)}
 th{font-family:var(--sans);color:var(--ink-soft);font-size:.82rem}
 .eyebrow{font-family:var(--mono);font-size:.7rem;letter-spacing:.16em;color:var(--ink-faint);text-transform:uppercase}
@@ -573,6 +576,18 @@ def build_entity_map(entries):
     s.append("</tbody></table></div>"+FOOT)
     open(os.path.join(OUT,"entities.html"),"w",encoding="utf-8").write("".join(s))
 
+def postprocess_tables():
+    """后处理：为所有页面的表格包一层可横向滚动容器（幂等）。"""
+    n=0
+    files=glob.glob(os.path.join(OUT,"*.html"))+glob.glob(os.path.join(OUT,"entries","*.html"))+glob.glob(os.path.join(OUT,"units","*.html"))
+    for p in files:
+        h=io.open(p,encoding="utf-8").read()
+        if "<table" not in h or "class='table-wrap'" in h: continue
+        new=re.sub(r"<table(.*?)</table>", lambda m: "<div class='table-wrap'><table%s</table></div>"%m.group(1), h, flags=re.S)
+        if new!=h:
+            io.open(p,"w",encoding="utf-8").write(new); n+=1
+    return n
+
 def build_status(entries):
     from collections import Counter
     """公开状态页：规模、层级、来源、校验结论、已知缺口（数据来自本仓库 JSON/报告，不含新断言）。"""
@@ -677,6 +692,8 @@ def main():
     # 来源表链接为绝对 URL，不受影响。
     n=len(entries)
     build_sitemap(entries)
+    _wrapped=postprocess_tables()
+    print("表格容器包裹：%d 页"%_wrapped)
     print("generated index.html + %d entry pages + indexes + sitemap.xml"%n)
 
 if __name__=="__main__": main()

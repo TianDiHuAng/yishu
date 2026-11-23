@@ -757,6 +757,18 @@
       },
       "network": "partial",
       "verdict": "243 页可用性审计，1 处跳级已修；体检增至 11 步；未饱和"
+    },
+    {
+      "cycle": "cycle61",
+      "date": "2026-11-23",
+      "methods_used": [
+        "表格溢出审计"
+      ],
+      "gaps_found": {
+        "unwrapped_tables": 215
+      },
+      "network": "partial",
+      "verdict": "215 表统一包裹 + 断词；新增检查；未饱和"
     }
   ],
   "assessment_c33": {

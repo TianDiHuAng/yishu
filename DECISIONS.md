@@ -612,3 +612,16 @@
 - **验证**：修后全站 0 问题；守卫做**注入测试**（删掉一个 h2 → 报 `skip_level` 且 **rc=1**；还原 → rc=0）。顺带再次踩到「管道吞退出码」——`| head` 会让 `$?` 变成 head 的状态，**必须直接运行才看得到真实返回码**。
 - **可逆方式**：还原 `build_units_index` 的平铺结构、移除审计第 11 步。
 - **代价**：`units.html` 多出 7 个小标题；体检增至 **11 步**（约多 1 秒）。
+
+## D065 — Cycle61 表格窄屏溢出：215 个表格统一包裹可滚动容器（并立检查防回归）
+- **事实**：全站 **215 个表格**（分布 211 页）**都没有横向滚动容器**；CSS 只有 `table{width:100%}`。其中 `sources.html` 的表有 **7 列**、单元格文字最长 **113 字符**，条目页来源表 **5 列**且含长 URL——窄屏下必然挤压或溢出。
+- **决定（三步）**：
+  1. `gen_site.py` 增加**生成后处理** `postprocess_tables()`：把每个 `<table>…</table>` 包进 `<div class='table-wrap'>`，幂等（已包裹则跳过）；本次覆盖 **211 页 / 215 个表格**。
+  2. CSS 增补：`.table-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch}`、`th,td{word-break:break-word;overflow-wrap:anywhere}`（长 URL 可断）。
+  3. `usability_c60.py` **新增第 9 项检查**：`<table>` 数不得超过 `class='table-wrap'` 数。
+- **验证**：修后 `表格 215 ｜包裹 215`、可用性问题 0；**注入测试**——手工去掉 `sources.html` 的一个包裹 → 报 `unwrapped_table 1 例 ['sources.html']` 且 **rc=1**；还原 → **rc=0**。
+- **两个实现坑（记下来）**：
+  1. 首次插入调用因判断条件写成 `if "postprocess_tables()" not in s` 而被**函数定义本身**命中，调用没插上（生成后看不到「表格容器包裹」那行才发现）——改为以 `_wrapped=` 作标记；
+  2. 后处理的正则用了 `(?<!<div …>)` 前瞻否定，第二次运行仍重复包裹，改为**按页内含 `class='table-wrap'` 即整页跳过**（幂等更可靠）。
+- **可逆方式**：删除 `postprocess_tables()` 与两条 CSS，回退可用性第 9 项。
+- **代价**：每页多一层 div；页面体积略增（约每表 +34 字节）。
