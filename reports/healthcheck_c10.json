@@ -77,6 +77,13 @@
    [
     "1500"
    ]
+  ],
+  [
+   "tlingit-mask",
+   "1800年代末—1900年代初",
+   [
+    "1998"
+   ]
   ]
  ],
  "orphans": [],
@@ -133,6 +140,6 @@
  "link_audit": {
   "cross_domain": 2,
   "oneway": 0,
-  "total_links": 650
+  "total_links": 664
  }
 }

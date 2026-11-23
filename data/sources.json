@@ -3469,6 +3469,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；石版 50.8×76.2cm；说明含强制定居背景与石版技法"
+    },
+    {
+      "id": "cma-1986-1131",
+      "title": "Cleveland Museum of Art — Water Jar (Olla), Maria Martinez, San Ildefonso Pueblo, before 1920, acc. 1986.1131",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1986.1131",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；陶器施化妆土 28.5×34cm；作者 Maria Martinez (c.1887–1980)"
+    },
+    {
+      "id": "cma-1928-313",
+      "title": "Cleveland Museum of Art — Three Antelope, Ma Pe Wi (Velino Shije Herrera), 1920s, acc. 1928.313",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1928.313",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；纸本水粉 50.8×38.1cm；作者 Zia Pueblo, 1902–1973"
+    },
+    {
+      "id": "cma-1979-83",
+      "title": "Cleveland Museum of Art — Mask, Tlingit, late 1800s–early 1900s, acc. 1979.83",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1979.83",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；桤木彩绘 21.4×17.2×8.9cm；说明含 Robert Joseph 1998 年追述"
+    },
+    {
+      "id": "cma-1921-1577",
+      "title": "Cleveland Museum of Art — Raven Rattle, Haida, late 1800s–early 1900s, acc. 1921.1577",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1921.1577",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；木与颜料 31.8×9.3×11.2cm；说明含萨满与世俗酋长的双重使用"
     }
   ]
 }

@@ -6432,7 +6432,10 @@
         "hopi-canteen-katsina",
         "tlingit-totem-pole",
         "sikyatki-jar",
-        "inuit-devil-fish"
+        "inuit-devil-fish",
+        "maria-martinez-olla",
+        "ma-pe-wi-three-antelope",
+        "haida-raven-rattle"
       ],
       "sources": [
         "cma-1967-29",
@@ -7564,7 +7567,8 @@
       "related": [
         "navajo-biilee-dress",
         "americas-art",
-        "inuit-devil-fish"
+        "inuit-devil-fish",
+        "tlingit-mask"
       ],
       "sources": [
         "cma-1989-89"
@@ -7630,7 +7634,8 @@
       "overview": "器形硕大、表面经石磨精修、壁薄叩之「作响」；红橙色调异于更早的黑白偏好；为现代霍皮陶之祖。",
       "related": [
         "hopi-canteen-katsina",
-        "americas-art"
+        "americas-art",
+        "maria-martinez-olla"
       ],
       "sources": [
         "cma-1990-10"
@@ -7681,6 +7686,139 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='inuit-devil-fish 示意图'><title>inuit-devil-fish</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>石版技法</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>铲除非印处</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>Devil Fish</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1972</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>因纽特传统</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>题材</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>强制定居</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>同时期背景</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='590.0' y1='145' x2='550.0' y2='145'/><polygon class='svg-arrowhead' points='550.0,145 559.0,140 559.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>因纽特石版画：技法、题材与时代</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（CMA）来源；强制定居细节未展开；印数未记录。"
+    },
+    {
+      "id": "maria-martinez-olla",
+      "title": "玛丽亚·马丁内斯黑陶水罐（olla）",
+      "kind": "作品",
+      "unit": "art-americas",
+      "era": "20世纪",
+      "region": "北美洲",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "圣伊尔德丰索普韦布洛陶艺家 Maria Martinez 早期黑陶水罐，克利夫兰艺术博物馆藏（1986.1131）。",
+      "when": "1920年以前",
+      "overview": "被该馆称为「或许最著名的原住民艺术家」；她把原住民陶器从日用推向装饰艺术，黑亮釉色出自烧成技法。",
+      "related": [
+        "sikyatki-jar",
+        "americas-art",
+        "ma-pe-wi-three-antelope"
+      ],
+      "sources": [
+        "cma-1986-1131"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆称 **Maria Martinez**（圣伊尔德丰索普韦布洛，约1887—1980）「**或许是所有原住民艺术家中最著名者**」，并指出她对「把现代原住民陶器从**日用之器**转变为**精细装饰艺术**」起了关键作用。本件定年为1920年以前。",
+        "风格特征": "她少年时便练就手艺，**向其他普韦布洛女性学习传统技法**。该馆说明称，她所擅长的**黑亮陶**风格——在社群内外都受推崇——部分来自对**古代祖先普韦布洛遗址陶片**的研究。",
+        "代表人物与作品": "作者即 Maria Martinez。相关条目见西基亚茨基风格罐与《三只羚羊》。本件为克利夫兰艺术博物馆藏品（1986.1131）。",
+        "技法或形式分析": "材质为陶器施化妆土（ceramic, slip），整体28.5 × 34厘米（据该馆藏品记录）。该馆称此大型水罐（olla）比例优美，是她在该风格中的**最早作品之一**，其**深色由烧成技法造成**——即颜色不是颜料，而是烧制条件的结果。",
+        "与前后风格的关系和争论": "把「向古人陶片学习」与「面向外部市场的装饰艺术」并置，正是本条目的要点：Martinez 的成就既是**对古代传统的再发现**，也是**对现代艺术市场的进入**。该馆的表述把两者视为同一过程。",
+        "一图": "示意图以普韦布洛女性传承、祖先陶片研究、黑亮烧成技法与装饰艺术转向四者关系标示本件。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「最早作品之一」为该馆判断，未给序列依据；（3）作者生卒约1887—1980取自该馆记录；（4）黑陶烧成（还原焰／闷烧）的具体工艺该馆未展开。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='maria-martinez-olla 示意图'><title>maria-martinez-olla</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>普韦布洛传承</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>女性技法</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>黑陶水罐</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1920前</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>祖先陶片</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>研究再发现</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>烧成定色</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>非颜料</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>Martinez 黑陶：传承、再发现与烧成</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；序列依据与烧成工艺未展开。"
+    },
+    {
+      "id": "ma-pe-wi-three-antelope",
+      "title": "《三只羚羊》（Ma Pe Wi 绘）",
+      "kind": "作品",
+      "unit": "art-americas",
+      "era": "20世纪",
+      "region": "北美洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "齐亚普韦布洛画家 Ma Pe Wi（Velino Shije Herrera）纸上水粉，克利夫兰艺术博物馆藏（1928.313）。",
+      "when": "1920年代",
+      "overview": "三只羚羊跃过饰云纹的阶状形，上方有彩虹、雨云与太阳；用水彩等非传统媒材取自仪式的非神圣部分与陶绘母题。",
+      "related": [
+        "maria-martinez-olla",
+        "americas-art"
+      ],
+      "sources": [
+        "cma-1928-313"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "作者 **Ma Pe Wi**（本名 Velino Shije Herrera，齐亚普韦布洛，1902—1973）为**自学**画家。该馆指出，1900年代初他是西南部原住民艺术一次**重大发展**的关键人物：原住民艺术家在「**数世纪的压迫与边缘化之后**」**夺回对自身文化的解释与再现**。",
+        "风格特征": "画面中三只羚羊**轻巧地跃过饰有云纹的阶状形**；上方天空布满**彩虹、雨云与太阳**。该馆说明称，这批艺术家**使用非传统媒材（尤以水彩）**，题材取自**仪式的非神圣部分**以及**传统陶绘与壁画图像**。",
+        "代表人物与作品": "作者 Ma Pe Wi。相关条目见玛丽亚·马丁内斯黑陶水罐与美洲原住民与前哥伦布艺术。本件为克利夫兰艺术博物馆藏品（1928.313）。",
+        "技法或形式分析": "材质为纸上水粉（gouache）并带石墨底稿，画面50.8 × 38.1厘米（据该馆藏品记录）。石墨打底加水粉覆盖，说明其创作仍以**素描起稿**为基础，而非纯粹即兴。",
+        "与前后风格的关系和争论": "「取材自仪式的**非神圣部分**」这一限定值得注意：它表明这批画家在**可公开**与**不可公开**的宗教内容之间划了界线。本条目照录该馆的措辞，不把画面内容笼统称为「仪式图像」。",
+        "一图": "示意图以自学路径、非传统媒材与「夺回自我再现」三者关系标示本画的位置。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「仪式的非神圣部分」的具体划分标准该馆未展开；（3）作者生卒1902—1973取自该馆记录；（4）该画创作缘起与展出史未取得。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='ma-pe-wi-three-antelope 示意图'><title>ma-pe-wi-three-antelope</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>自学画家</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>Zia Pueblo</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>《三只羚羊》</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1920s</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>水粉·石墨</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>非传统媒材</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>夺回再现</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>压迫之后</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>《三只羚羊》：媒材与自我再现</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；「非神圣部分」划分未展开。"
+    },
+    {
+      "id": "tlingit-mask",
+      "title": "特林吉特面具",
+      "kind": "作品",
+      "unit": "art-americas",
+      "era": "19—20世纪",
+      "region": "北美洲",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "特林吉特桤木彩绘面具，克利夫兰艺术博物馆藏（1979.83）。",
+      "when": "1800年代末—1900年代初",
+      "overview": "面具身份已佚，或为某家族的神话祖先、或用于冬季仪式；该馆引 1998 年 Robert Joseph 的追述说明佩戴体验。",
+      "related": [
+        "tlingit-totem-pole",
+        "haida-raven-rattle"
+      ],
+      "sources": [
+        "cma-1979-83"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为特林吉特（阿拉斯加）桤木彩绘面具，克利夫兰艺术博物馆定年为1800年代末—1900年代初。",
+        "风格特征": "该馆明确指出：**这张面具的身份已经失传**（identity is lost）。它**可能**表现某个特林吉特家族的神话祖先，**或许**用于冬季仪式。",
+        "代表人物与作品": "作者未署名。相关条目见特林吉特图腾柱与海达渡鸦响器。本件为克利夫兰艺术博物馆藏品（1979.83）。",
+        "技法或形式分析": "材质为桤木与颜料，整体21.4 × 17.2 × 8.9厘米（据该馆藏品记录）。该馆以一段**1998年的追述**说明佩戴体验：西北岸酋长 **Robert Joseph** 回忆少年时戴仪式舞面具的感受——大意是「世界在别处……**我就是面具**……鸟……兽……灵；我**越入**面具的存在」。本条目只摘其大意并署其名。",
+        "与前后风格的关系和争论": "把「身份失传」与「佩戴者自述」并置，构成本条目最重要的张力：**物件的形式仍在，但它的所指已然断裂**；而佩戴者的追述说明这断裂不发生在身体经验层面。本条目并列两侧，不试图用形制推断名号。",
+        "一图": "示意图以「身份已佚」、可能的祖先/仪式用途与佩戴者自述三者关系标示本面具。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）**面具身份已佚**为该馆明言，本条目不作形制推断；（3）「神话祖先」「冬季仪式」该馆均用 may/perhaps，属推测；（4）Robert Joseph 的原始访谈未取得，引语仅为该馆转述之节译。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='tlingit-mask 示意图'><title>tlingit-mask</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>身份已佚</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>所指断裂</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>Tlingit 面具</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>21.4×8.9</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>神话祖先?</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>推测</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>佩戴者自述</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>1998 Joseph</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='590.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>特林吉特面具：断裂与身体经验</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；身份已佚；引语为该馆转述的节译。"
+    },
+    {
+      "id": "haida-raven-rattle",
+      "title": "海达渡鸦响器",
+      "kind": "作品",
+      "unit": "art-americas",
+      "era": "19—20世纪",
+      "region": "北美洲",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "海达木制彩绘响器，克利夫兰艺术博物馆藏（1921.1577）。",
+      "when": "1800年代末—1900年代初",
+      "overview": "渡鸦背负人形的响器或表现萨满作为（控天候、疗疾、寻兽）；后亦为世俗酋长于冬季仪式所用，成为权力象征。",
+      "related": [
+        "tlingit-mask",
+        "americas-art"
+      ],
+      "sources": [
+        "cma-1921-1577"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为海达（不列颠哥伦比亚与阿拉斯加）木制彩绘响器，克利夫兰艺术博物馆定年为1800年代末—1900年代初。",
+        "风格特征": "该馆说明称，**背负人形的渡鸦**这类响器「**可能表现萨满的作为**」——萨满以其异常能力与**非人存在**交往，从而控制天气、治疗疾病或为狩猎寻找兽群。",
+        "代表人物与作品": "作者未署名。相关条目见特林吉特面具与美洲原住民与前哥伦布艺术。本件为克利夫兰艺术博物馆藏品（1921.1577）。",
+        "技法或形式分析": "材质为木与颜料，整体31.8 × 9.3 × 11.2厘米（据该馆藏品记录）。「响器」的器形与内部结构未在该馆记录中详述，本条目因此只述外观尺寸而不推断发声构造。",
+        "与前后风格的关系和争论": "该馆给出一个**功能的转移**：这类响器「可能始于萨满」，但**世俗酋长亦常于冬季仪式使用**，因而「**意味着它们是权力的象征**」。也就是说，同一器物从**宗教职能**转向**政治标识**，而形态不必改变。",
+        "一图": "示意图以萨满作为、冬季仪式与酋长权力象征三者关系标示本响器。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「可能始于萨满」该馆用 may，属推断；（3）响器内部构造与发声方式未记录；（4）「控制天气／疗疾／寻兽」为一般性说明，未与具体萨满实践对应。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='haida-raven-rattle 示意图'><title>haida-raven-rattle</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>萨满作为</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>控天候·疗疾</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>渡鸦响器</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>31.8×11.2</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>冬季仪式</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>世俗酋长</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>权力象征</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>功能转移</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>海达响器：萨满与酋长</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；构造未记录；功能起源于推断。"
     }
   ]
 }

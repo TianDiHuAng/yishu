@@ -828,6 +828,28 @@
       "gaps_found": {},
       "network": "partial",
       "verdict": "否定结论：年份集合包含不可作不变量（第三次），停止投入；未饱和"
+    },
+    {
+      "cycle": "cycle67",
+      "date": "2026-11-23",
+      "methods_used": [
+        "§5 饱和评估"
+      ],
+      "gaps_found": {},
+      "network": "partial",
+      "verdict": "未饱和：条件②成立，条件①不成立（近 6 轮仍有新条目与明确可补缺口）"
+    },
+    {
+      "cycle": "cycle67b",
+      "date": "2026-11-23",
+      "methods_used": [
+        "北美候选筛选"
+      ],
+      "gaps_found": {
+        "entries": 4
+      },
+      "network": "partial (museum APIs)",
+      "verdict": "北美 8→12（总 220）；仍未饱和"
     }
   ],
   "assessment_c33": {
@@ -857,5 +879,64 @@
       "B5 剩余 5 项复核",
       "为 27 条未锚定条目人工指定 QID 或确认无需锚定"
     ]
+  },
+  "assessment_c67": {
+    "cycle": "cycle67",
+    "saturated": false,
+    "condition_1_no_new_gaps_3_rounds": false,
+    "condition_2_core_important_L2": {
+      "核心": true,
+      "重要": true,
+      "levels": {
+        "L2": 212,
+        "L3": 4
+      },
+      "tiers": {
+        "重要": 149,
+        "补充": 12,
+        "核心": 55
+      }
+    },
+    "evidence_recent_rounds": [
+      [
+        "cycle61",
+        0
+      ],
+      [
+        "cycle62",
+        0
+      ],
+      [
+        "cycle63",
+        4
+      ],
+      [
+        "cycle64",
+        4
+      ],
+      [
+        "cycle65",
+        0
+      ],
+      [
+        "cycle66",
+        0
+      ]
+    ],
+    "recent_new_entries_total": 8,
+    "why_not_saturated": "条件①不成立：最近 6 轮仍在持续产出**新的有来源条目**（cycle52–64 共新增 8 条），且缺口清单中仍有明确可补项（北美平原/东南、非洲余量、东南亚泰越窑）。条件②成立：核心与重要条目全部 ≥L2。",
+    "open_gaps": {
+      "A_class_matrix": "见 reports/覆盖矩阵.md（建筑已建 4 条，其余需内容来源）",
+      "B2_music_regions": "非西方音乐体裁仍有空白",
+      "B5_pending": "少量待核实项",
+      "geo_blocks": {
+        "东南亚泰/越窑": "确认不可得（CMA 无对象）",
+        "北美平原/东南": "CMA 有候选未用尽",
+        "大洋洲": "仅 2 条"
+      },
+      "unanchored": "部分条目无 Wikidata 锚点（自有页/中国专题）"
+    },
+    "saturation_blockers": "外部来源可达性（Wikipedia/Met/Tate 不可达）",
+    "recommendation": "继续以博物馆 API 推进内容；饱和度判定需连续 3 轮无新增缺口才可成立"
   }
 }
