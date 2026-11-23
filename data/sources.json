@@ -3259,6 +3259,56 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；砂岩 55.9×53.3cm；说明含建筑构件功能"
+    },
+    {
+      "id": "cma-1981-3",
+      "title": "Cleveland Museum of Art — Jar with Four Auspicious Characters, Joseon, 1800s, acc. 1981.3",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1981.3",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；釉瓷 高19.4cm 径22.1cm；说明含1981年自东京古美术商购入与殖民期背景"
+    },
+    {
+      "id": "cma-1921-649",
+      "title": "Cleveland Museum of Art — Wine Flask with Incised and Sgraffito Peony Design (Buncheong), 1500s, acc. 1921.649",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1921.649",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；粉青石陶 高22.6cm；说明含铁分高的粗炼土与高丽技法沿用"
+    },
+    {
+      "id": "cma-1997-180",
+      "title": "Cleveland Museum of Art — Prestige Cap (mpu ngola), Kongo style, late 1800s–early 1900s, acc. 1997.180",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1997.180",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；拉菲草与豹爪 42×19.3×19cm；说明含1607年以来的记载与修复支架"
+    },
+    {
+      "id": "cma-2010-444",
+      "title": "Cleveland Museum of Art — Crucifix, Kongo style, late 1800s–early 1900s, acc. 2010.444",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2010.444",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；铜合金、木、包钉、铁 44.7×22.2×3.2cm；说明含1491年改宗与 dikenga 符号"
+    },
+    {
+      "id": "cma-1983-156",
+      "title": "Cleveland Museum of Art — Jar in the Shape of a Fruit, Khmer ware, 1100s, acc. 1983.156",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1983.156",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；施釉陶带褐化妆土 高24cm；说明含泰东北窑与果种待定"
     }
   ]
 }

@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 195 个条目、26 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 200 个条目、26 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -272,6 +272,9 @@
 | joseon-hwarot-robe | 朝鲜朝婚礼袍（hwarot） | 作品 | 19世纪 | 东亚 | 综合 | 重要 | O1 |
 | champa-planetary-deity | 占婆行星神坐像 | 作品 | 9世纪 | 东南亚 | 雕塑 | 重要 | O1 |
 | champa-apsara-bracket | 占婆飞天托架 | 作品 | 10世纪 | 东南亚 | 雕塑 | 重要 | O1 |
+| joseon-auspicious-jar | 朝鲜朝白瓷四字纹罐 | 作品 | 19世纪 | 东亚 | 综合 | 重要 | O1 |
+| joseon-buncheong-flask | 朝鲜朝粉青刻花酒壶 | 作品 | 16世纪 | 东亚 | 综合 | 重要 | O1 |
+| khmer-thai-fruit-jar | 泰东北窑果形罐 | 作品 | 12世纪 | 东南亚 | 综合 | 重要 | O1 |
 
 ## art-islamic（伊斯兰艺术（西亚·中亚））
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -291,6 +294,8 @@
 | nok-terracotta-head | Nok 文化陶塑头像 | 作品 | 公元前1世纪—公元7世纪 | 非洲 | 雕塑 | 重要 | O1 |
 | yoruba-gelede-masks | 约鲁巴 Gelede 成对面具 | 作品 | 20世纪 | 非洲 | 雕塑 | 重要 | O1 |
 | asante-memorial-head | 阿散蒂纪念头像（nsodie） | 作品 | 17—18世纪 | 非洲 | 雕塑 | 重要 | O1 |
+| kongo-prestige-cap | 刚果权贵帽（mpu ngola） | 作品 | 19—20世纪 | 非洲 | 综合 | 重要 | O1 |
+| kongo-crucifix | 刚果十字架 | 作品 | 19—20世纪 | 非洲 | 综合 | 重要 | O1 |
 
 ## art-americas（美洲原住民与前哥伦布艺术）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

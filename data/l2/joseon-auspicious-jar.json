@@ -1,0 +1,19 @@
+{
+ "id": "joseon-auspicious-jar",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本罐为朝鲜王朝（1392—1910）白瓷，克利夫兰艺术博物馆定年为1800年代，藏号1981.3。",
+  "风格特征": "该馆说明称，器表饰四个汉字吉语——**长寿、福、康宁、平安**——各置于花形开光之内。此类罐常作**寿礼或婚礼赠品**，以传达赠予者对长寿与和睦生活的祝愿。",
+  "代表人物与作品": "作者未见于记录。相关条目见朝鲜朝粉青刻花酒壶与朝鲜朝蜀葵形杯。",
+  "技法或形式分析": "材质为釉瓷（glazed porcelain），高19.4厘米、外径22.1厘米（据该馆藏品记录）。四字以浮雕形式与器身结合，字与花形开光的排布需要先在胎上定位再施釉烧成。",
+  "与前后风格的关系和争论": "该馆在说明中写入了一条**来源史**：本件于**1981年购自东京古美术商「壶中居」**（1924年创立）。该馆并指出，**许多重要韩国文物在日据时期（1910—45）被带往日本，留在私人收藏中**；因此日本古美术商至今仍经手韩国古物，成为重要的流通渠道。这一说明把「器物的美」与「它如何来到此处」并置，本条目照录，不回避。",
+  "一图": "示意图以吉语四字、赠礼功能与1981年购藏及殖民期背景三者关系标示本罐。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）本件离开朝鲜半岛的具体时间与路径未记录，只知1981年经东京商家购入；（3）「壶中居」与该馆的交易细节未公开；（4）日据期文物外流的总体规模未取得专门研究。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='joseon-auspicious-jar 示意图'><title>joseon-auspicious-jar</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>四字吉语</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>长寿·福·康宁·平安</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>白瓷罐</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1800s</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>寿礼/婚礼</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>用途</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>1981 东京购藏</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>殖民期背景</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>朝鲜朝白瓷罐：吉语、用途与来源</text></g></svg>",
+ "sources": [
+  "cma-1981-3"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；器物离境路径未记录，仅有购藏渠道。"
+}

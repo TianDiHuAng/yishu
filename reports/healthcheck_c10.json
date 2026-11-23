@@ -35,6 +35,20 @@
    [
     "1850"
    ]
+  ],
+  [
+   "joseon-auspicious-jar",
+   "1800年代",
+   [
+    "1981"
+   ]
+  ],
+  [
+   "kongo-crucifix",
+   "1800年代末—1900年代初",
+   [
+    "1491"
+   ]
   ]
  ],
  "orphans": [],
@@ -91,6 +105,6 @@
  "link_audit": {
   "cross_domain": 2,
   "oneway": 0,
-  "total_links": 584
+  "total_links": 598
  }
 }

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 195,
+    "total": 200,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 26,
@@ -2344,6 +2344,66 @@
     },
     "champa-apsara-bracket": {
       "title": "占婆飞天托架",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "joseon-auspicious-jar": {
+      "title": "朝鲜朝白瓷四字纹罐",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "joseon-buncheong-flask": {
+      "title": "朝鲜朝粉青刻花酒壶",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "kongo-prestige-cap": {
+      "title": "刚果权贵帽（mpu ngola）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "kongo-crucifix": {
+      "title": "刚果十字架",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "khmer-thai-fruit-jar": {
+      "title": "泰东北窑果形罐",
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",

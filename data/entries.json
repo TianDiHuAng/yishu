@@ -2969,7 +2969,8 @@
       "overview": "吴哥建筑以层叠的塔庙与环绕的护城河象征印度教宇宙观，浮雕描绘史诗与王室场景，是世界最大的宗教建筑群之一。",
       "related": [
         "khmer-art",
-        "khmer-architecture"
+        "khmer-architecture",
+        "khmer-thai-fruit-jar"
       ],
       "sources": [
         "enc-angkor",
@@ -3907,7 +3908,9 @@
         "benin-ancestral-head",
         "nok-terracotta-head",
         "yoruba-gelede-masks",
-        "asante-memorial-head"
+        "asante-memorial-head",
+        "kongo-prestige-cap",
+        "kongo-crucifix"
       ],
       "sources": [
         "cma-1999-1",
@@ -4197,7 +4200,8 @@
       "overview": "口沿作蜀葵花瓣形；蜀葵向阳，寓忠君；据王室档案用于国王赐酒的国宴与接待明使的茶礼。",
       "related": [
         "joseon-hwarot-robe",
-        "goryeo-celadon-cup"
+        "goryeo-celadon-cup",
+        "joseon-auspicious-jar"
       ],
       "sources": [
         "cma-1969-85"
@@ -4254,10 +4258,110 @@
       "when": "900年代",
       "overview": "天人盛装、层叠冠与重耳饰，捧莲蕾献供；原为栏楯端头或天花托架的建筑装饰。",
       "related": [
-        "champa-planetary-deity"
+        "champa-planetary-deity",
+        "khmer-thai-fruit-jar"
       ],
       "sources": [
         "cma-1990-34"
+      ]
+    },
+    {
+      "id": "joseon-auspicious-jar",
+      "title": "朝鲜朝白瓷四字纹罐",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "19世纪",
+      "region": "东亚",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "朝鲜王朝白瓷罐，克利夫兰艺术博物馆藏（1981.3）；四字吉语各置于花形开光内。",
+      "when": "1800年代",
+      "overview": "四字寓长寿、福、康宁、平安；此类罐常作寿礼与婚礼赠品；本件1981年购自东京古美术商。",
+      "related": [
+        "joseon-buncheong-flask",
+        "joseon-hollyhock-cup"
+      ],
+      "sources": [
+        "cma-1981-3"
+      ]
+    },
+    {
+      "id": "joseon-buncheong-flask",
+      "title": "朝鲜朝粉青刻花酒壶",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "16世纪",
+      "region": "东亚",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "朝鲜王朝粉青（buncheong）石陶酒壶，克利夫兰艺术博物馆藏（1921.649）。",
+      "when": "1500年代",
+      "overview": "粉青意为「粉绿」，因用铁分高的粗炼土而呈灰青釉；沿用高丽的白化妆土、镶嵌、印花与刻划技法。",
+      "related": [
+        "joseon-auspicious-jar"
+      ],
+      "sources": [
+        "cma-1921-649"
+      ]
+    },
+    {
+      "id": "kongo-prestige-cap",
+      "title": "刚果权贵帽（mpu ngola）",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "19—20世纪",
+      "region": "非洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "刚果风格拉菲草编帽，缘饰豹爪，克利夫兰艺术博物馆藏（1997.180）。",
+      "when": "1800年代末—1900年代初",
+      "overview": "此类编帽为高位男子所戴，豹爪以其「领地之主」的品性比拟佩戴者；纹样在刚果、维利、尤姆贝诸族共通。",
+      "related": [
+        "kongo-crucifix",
+        "african-art"
+      ],
+      "sources": [
+        "cma-1997-180"
+      ]
+    },
+    {
+      "id": "kongo-crucifix",
+      "title": "刚果十字架",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "19—20世纪",
+      "region": "非洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "刚果王国以木与金属制成的十字架，克利夫兰艺术博物馆藏（2010.444）。",
+      "when": "1800年代末—1900年代初",
+      "overview": "1491年国王改宗后天主教成为刚果国教；此像作于其后数世纪，基督结刚果式发辫；腰布上的 X 形纹指 dikenga。",
+      "related": [
+        "kongo-prestige-cap",
+        "african-art"
+      ],
+      "sources": [
+        "cma-2010-444"
+      ]
+    },
+    {
+      "id": "khmer-thai-fruit-jar",
+      "title": "泰东北窑果形罐",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "12世纪",
+      "region": "东南亚",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "柬埔寨／泰东北窑的施釉陶罐，克利夫兰艺术博物馆藏（1983.156）。",
+      "when": "1100年代",
+      "overview": "深褐釉、胎厚，盖沿下方刻波纹，盖上作卷曲果柄为钮；所拟果种难以判定，或为瓜类。",
+      "related": [
+        "angkor",
+        "champa-apsara-bracket"
+      ],
+      "sources": [
+        "cma-1983-156"
       ]
     }
   ]
