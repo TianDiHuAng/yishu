@@ -245,7 +245,8 @@
         "mannerism",
         "northern-renaissance",
         "donatello",
-        "renaissance-crossmedia"
+        "renaissance-crossmedia",
+        "lotto-portrait-man"
       ],
       "sources": [
         "enc-renaissance",
@@ -269,7 +270,9 @@
         "high-renaissance",
         "donatello",
         "botticelli",
-        "birth-of-venus-work"
+        "birth-of-venus-work",
+        "lippi-holy-family-tondo",
+        "buglioni-glazed-terracotta"
       ],
       "sources": [
         "enc-italian-renaissance-painting",
@@ -296,7 +299,8 @@
         "michelangelo",
         "raphael",
         "mona-lisa",
-        "sistine-ceiling-work"
+        "sistine-ceiling-work",
+        "lotto-portrait-man"
       ],
       "sources": [
         "enc-high-renaissance",
@@ -385,7 +389,9 @@
       "overview": "作品包括青铜《大卫》与《圣乔治》，推动古典雕塑复兴。",
       "related": [
         "early-renaissance",
-        "renaissance"
+        "renaissance",
+        "buglioni-glazed-terracotta",
+        "verrocchio-christ-bust"
       ],
       "sources": [
         "enc-donatello",
@@ -407,7 +413,8 @@
       "related": [
         "high-renaissance",
         "mona-lisa",
-        "raphael"
+        "raphael",
+        "verrocchio-christ-bust"
       ],
       "sources": [
         "enc-leonardo",
@@ -472,7 +479,8 @@
       "related": [
         "early-renaissance",
         "venetian-school",
-        "birth-of-venus-work"
+        "birth-of-venus-work",
+        "lippi-holy-family-tondo"
       ],
       "sources": [
         "enc-botticelli",
@@ -6766,6 +6774,86 @@
       ],
       "sources": [
         "cma-1962-150"
+      ]
+    },
+    {
+      "id": "lippi-holy-family-tondo",
+      "title": "利皮《圣家族与施洗约翰、圣玛格丽特》圆形画",
+      "kind": "作品",
+      "unit": "art-renaissance",
+      "era": "15世纪",
+      "region": "意大利",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "Filippino Lippi 木板蛋彩油圆形画，克利夫兰艺术博物馆藏（1932.227）。",
+      "when": "约1488—1493年",
+      "overview": "红衣主教 Carafa 委托；五个盛彩人物在圆形画幅中交叠；草图中古维纳斯像被改写为圣玛格丽特。",
+      "related": [
+        "botticelli",
+        "early-renaissance"
+      ],
+      "sources": [
+        "cma-1932-227"
+      ]
+    },
+    {
+      "id": "lotto-portrait-man",
+      "title": "洛托《男子肖像（或为罗萨蒂）》",
+      "kind": "作品",
+      "unit": "art-renaissance",
+      "era": "16世纪",
+      "region": "意大利",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "Lorenzo Lotto 布面油画，克利夫兰艺术博物馆藏（1950.250）。",
+      "when": "1533—1534年",
+      "overview": "手势之谜；桌上三叶草寓丰饶/婚姻、茉莉与玫瑰寓纯洁与爱；「被打断的瞬间」是洛托的自然主义特征。",
+      "related": [
+        "renaissance",
+        "high-renaissance"
+      ],
+      "sources": [
+        "cma-1950-250"
+      ]
+    },
+    {
+      "id": "buglioni-glazed-terracotta",
+      "title": "布利奥尼《圣母圣婴与二圣》釉陶",
+      "kind": "作品",
+      "unit": "art-renaissance",
+      "era": "16世纪",
+      "region": "意大利",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "Benedetto Buglioni 釉陶祭坛，克利夫兰艺术博物馆藏（1921.1180）。",
+      "when": "约1510—1520年",
+      "overview": "三圣与圣母着色对比亮蓝底，半圆天空现三天使首；釉陶洁白耐久，在幽暗教堂中醒目，由 della Robbia 推广以替代大理石。",
+      "related": [
+        "donatello",
+        "early-renaissance"
+      ],
+      "sources": [
+        "cma-1921-1180"
+      ]
+    },
+    {
+      "id": "verrocchio-christ-bust",
+      "title": "韦罗基奥《基督胸像》",
+      "kind": "作品",
+      "unit": "art-renaissance",
+      "era": "15世纪",
+      "region": "意大利",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "Andrea del Verrocchio 彩绘陶与木胸像，克利夫兰艺术博物馆藏（1921.956）。",
+      "when": "约1470—1500年",
+      "overview": "仿 Orsanmichele《基督与圣多马》青铜像；陶比青铜大理石价廉；躯干由助手、面容与头发由韦罗基奥本人完成。",
+      "related": [
+        "leonardo",
+        "donatello"
+      ],
+      "sources": [
+        "cma-1921-956"
       ]
     }
   ]

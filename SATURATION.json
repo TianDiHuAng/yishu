@@ -1150,6 +1150,18 @@
       },
       "network": "partial (museum APIs)",
       "verdict": "两河/波斯早期 0→4（总 312）；未饱和"
+    },
+    {
+      "cycle": "cycle93",
+      "date": "2026-11-23",
+      "methods_used": [
+        "文艺复兴实物"
+      ],
+      "gaps_found": {
+        "entries": 4
+      },
+      "network": "partial (museum APIs)",
+      "verdict": "文艺复兴实物 0→4（总 316）；未饱和"
     }
   ],
   "assessment_c33": {

@@ -2673,6 +2673,31 @@
       "check_links_result": "broken=0(349页)",
       "audit_all": "12/12 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle93",
+      "date": "2026-11-23",
+      "status": "completed",
+      "gap_methods": [
+        "文艺复兴实物填补"
+      ],
+      "network": "partial: museum APIs ok",
+      "new_entries": 4,
+      "new_entry_ids": [
+        "lippi-holy-family-tondo",
+        "lotto-portrait-man",
+        "buglioni-glazed-terracotta",
+        "verrocchio-christ-bust"
+      ],
+      "renaissance_objects": 4,
+      "new_sources": 4,
+      "sources_total": 447,
+      "entries_total": 316,
+      "pages": 353,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(353页)",
+      "audit_all": "12/12 ok",
+      "commits": 1
     }
   ]
 }

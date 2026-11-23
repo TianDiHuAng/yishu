@@ -4429,6 +4429,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；鎏金银盘 4.6×20.8cm；说明含王冠辨识与后世纪念作"
+    },
+    {
+      "id": "cma-1932-227",
+      "title": "Cleveland Museum of Art — Filippino Lippi, Holy Family with Saints John the Baptist and Margaret, c. 1488–93, acc. 1932.227",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1932.227",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；木板蛋彩与油 直径153cm；说明含 Carafa 委托与古维纳斯改写为圣玛格丽特"
+    },
+    {
+      "id": "cma-1950-250",
+      "title": "Cleveland Museum of Art — Lorenzo Lotto, Portrait of a Man, Possibly Girolamo Rosati, 1533–34, acc. 1950.250",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1950.250",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；布面油画 108.2×100.5cm；说明含手势之谜与三叶草/茉莉/玫瑰象征"
+    },
+    {
+      "id": "cma-1921-1180",
+      "title": "Cleveland Museum of Art — Benedetto Buglioni, Virgin and Child Enthroned with Saints, c. 1510–20, acc. 1921.1180",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1921.1180",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；釉陶 174×96×27cm；说明含 della Robbia 推广釉陶与替代大理石"
+    },
+    {
+      "id": "cma-1921-956",
+      "title": "Cleveland Museum of Art — Andrea del Verrocchio, Bust of Christ, c. 1470–1500, acc. 1921.956",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1921.956",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；彩绘陶与木 57.2×53.3×29.2cm；说明含工坊复制与分工"
     }
   ]
 }

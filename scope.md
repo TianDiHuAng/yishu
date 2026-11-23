@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 312 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 316 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -74,6 +74,10 @@
 | raphael | 拉斐尔 | 人物 | 16世纪 | 意大利 | 绘画 | 重要 | O1、O3 |
 | botticelli | 波提切利 | 人物 | 15世纪 | 意大利 | 绘画 | 重要 | O1、O3 |
 | mona-lisa | 《蒙娜丽莎》 | 作品 | 16世纪 | 意大利 | 绘画 | 重要 | O1、O3 |
+| lippi-holy-family-tondo | 利皮《圣家族与施洗约翰、圣玛格丽特》圆形画 | 作品 | 15世纪 | 意大利 | 绘画 | 核心 | O1、O3 |
+| lotto-portrait-man | 洛托《男子肖像（或为罗萨蒂）》 | 作品 | 16世纪 | 意大利 | 绘画 | 核心 | O1、O3 |
+| buglioni-glazed-terracotta | 布利奥尼《圣母圣婴与二圣》釉陶 | 作品 | 16世纪 | 意大利 | 雕塑 | 重要 | O1、O3 |
+| verrocchio-christ-bust | 韦罗基奥《基督胸像》 | 作品 | 15世纪 | 意大利 | 雕塑 | 核心 | O1、O3 |
 
 ## art-baroque（艺术史·巴洛克与洛可可）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 312,
+    "total": 316,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -3749,6 +3749,54 @@
     "sasanian-hunting-dish": {
       "title": "萨珊狩猎纹银盘",
       "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "lippi-holy-family-tondo": {
+      "title": "利皮《圣家族与施洗约翰、圣玛格丽特》圆形画",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "lotto-portrait-man": {
+      "title": "洛托《男子肖像（或为罗萨蒂）》",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "buglioni-glazed-terracotta": {
+      "title": "布利奥尼《圣母圣婴与二圣》釉陶",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "verrocchio-christ-bust": {
+      "title": "韦罗基奥《基督胸像》",
+      "tier": "核心",
       "level": "L2",
       "status": "written_l2",
       "sources_count": 1,
