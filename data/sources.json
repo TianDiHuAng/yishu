@@ -4309,6 +4309,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；布面油画 87.7×65.7cm；说明含威尼斯色彩与卡拉瓦乔明暗"
+    },
+    {
+      "id": "cma-2005-54",
+      "title": "Cleveland Museum of Art — Wine Vessel (Jia), Shang, c. 1250–1046 BCE, acc. 2005.54",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2005.54",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；青铜 50.8cm；说明含安阳王都与祖先祭祀"
+    },
+    {
+      "id": "cma-1960-288",
+      "title": "Cleveland Museum of Art — Tripod Cauldron (Ding), Shang, 1200–1100 BCE, acc. 1960.288",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1960.288",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；青铜 14.3×12.5cm；说明含宋代以来青铜著录传统"
+    },
+    {
+      "id": "cma-2003-2",
+      "title": "Cleveland Museum of Art — Tripod (Ding), Western Zhou, 1000s BCE, acc. 2003.2",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2003.2",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；青铜 57.4cm；说明含饕餮纹与政治合法性"
+    },
+    {
+      "id": "cma-1989-3",
+      "title": "Cleveland Museum of Art — Bell (Lai Zhong), Western Zhou, c. 800–700 BCE, acc. 1989.3",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1989.3",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；青铜 70.3×37×26.6cm；说明含118字铭文与乐悬制度"
     }
   ]
 }

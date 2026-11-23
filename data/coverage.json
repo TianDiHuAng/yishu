@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 300,
+    "total": 304,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -3604,6 +3604,54 @@
     },
     "liss-cupid": {
       "title": "利斯《丘比特》",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "shang-jia-vessel": {
+      "title": "商代青铜爵（jia）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "shang-ding-small": {
+      "title": "商代青铜鼎",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "zhou-ding-large": {
+      "title": "西周大型青铜鼎",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "lai-zhong-bell": {
+      "title": "逨钟（青铜编钟）",
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",

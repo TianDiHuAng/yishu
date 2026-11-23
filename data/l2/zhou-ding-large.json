@@ -1,0 +1,19 @@
+{
+ "id": "zhou-ding-large",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为西周大型青铜鼎，克利夫兰艺术博物馆定年为公元前1000年代。该馆以「宏大而庄严」形容其整体效果。",
+  "风格特征": "装饰带上有**三个饕餮（taotie）面具**，与盘绕的兽纹并置。该馆指出，面具**凝视的双眼**「宣示宗教存在并意在激起恐惧」。三足则饰以**公羊**的鲜明图像。",
+  "代表人物与作品": "作者未署名。相关条目见商周青铜礼器与商代小鼎。本件为克利夫兰艺术博物馆藏品（2003.2）。",
+  "技法或形式分析": "材质为**青铜**，整体高57.4厘米（据该馆藏品记录）。该馆还引述器物的铸铭愿望：愿「**子子孙孙永宝用之**」——把器物的长久保存与家族延续直接联结。",
+  "与前后风格的关系和争论": "该馆说明，鼎在祭祀与丧葬中用于向祖先献食，并**兼具政治权力与合法性的象征**；在层级社会中，这类重器是身份标志。本条目据此同时呈现宗教、政治与家族三重功能。",
+  "一图": "示意图以饕餮纹、献食仪式与政治—家族象征三者关系标示本鼎。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）铭文该馆只译其意，原文未迻录；（3）具体出土地和器组未记录；（4）「激起恐惧」为该馆解释。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='zhou-ding-large 示意图'><title>zhou-ding-large</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>饕餮纹</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>凝视·敬畏</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>西周大鼎</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>57.4cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>祖先献食</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>祭仪</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>永宝用</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>政治·家族</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>西周大鼎：纹样、祭仪与权力</text></g></svg>",
+ "sources": [
+  "cma-2003-2"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；铭文原典与出土器组未取得。"
+}

@@ -2606,7 +2606,8 @@
       "overview": "良渚、红山等文化的玉器已具复杂造型，商周以后玉器与礼制结合，象征身份与权力。",
       "related": [
         "shang-zhou-bronzes",
-        "china-painting-history"
+        "china-painting-history",
+        "shang-jia-vessel"
       ],
       "sources": [
         "enc-chinese-jade",
@@ -2639,7 +2640,11 @@
       "related": [
         "chinese-jade-art",
         "six-dynasties-art",
-        "gudea-statue"
+        "gudea-statue",
+        "shang-jia-vessel",
+        "shang-ding-small",
+        "zhou-ding-large",
+        "lai-zhong-bell"
       ],
       "sources": [
         "enc-bronze",
@@ -2842,7 +2847,8 @@
       "overview": "欧阳询、颜真卿、柳公权等确立楷书法度，成为后世通行书体。",
       "related": [
         "clerical-script",
-        "running-script"
+        "running-script",
+        "shang-ding-small"
       ],
       "sources": [
         "enc-chinese-calligraphy",
@@ -4198,7 +4204,8 @@
       "overview": "与周代礼制结合，强调等级秩序与中和之美，历代宫廷均有沿革。",
       "related": [
         "china-music-history",
-        "wuwangdu-chu-music-archaeology"
+        "wuwangdu-chu-music-archaeology",
+        "lai-zhong-bell"
       ],
       "sources": [
         "enc-chinese-music",
@@ -10573,6 +10580,139 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='liss-cupid 示意图'><title>liss-cupid</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>荷兰·安特卫普</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>学习</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>利斯《丘比特》</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>c.1630</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>威尼斯色彩</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>三选一</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>卡拉瓦乔明暗</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>强对比</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='590.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>利斯丘比特：学习、色彩与明暗</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（CMA）来源；影响者该馆未定。"
+    },
+    {
+      "id": "shang-jia-vessel",
+      "title": "商代青铜爵（jia）",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元前13—前11世纪",
+      "region": "中国",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "安阳期大型青铜酒器，克利夫兰艺术博物馆藏（2005.54）。",
+      "when": "约公元前1250—公元前1046年",
+      "overview": "三足外撇可架火加热；用于商王室祖先祭祀，祈求丰收与战功。",
+      "related": [
+        "shang-zhou-bronzes",
+        "chinese-jade-art"
+      ],
+      "sources": [
+        "cma-2005-54"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明，这件大型酒器（爵/jia）出自**安阳**——商代最后的王都；此类「纪念性青铜器」极为罕见，制作成本巨大，用于标识**高层级（常为王室）身份**，保存至今者更少。",
+        "风格特征": "器中空，三足外撇，可在其下架火；该馆据此推测其中的酒可能被**加热**。器身以青铜铸造，用于商代**祖先祭祀**。",
+        "代表人物与作品": "作者未署名。相关条目见商周青铜礼器与中国玉器。本件为克利夫兰艺术博物馆藏品（2005.54）。",
+        "技法或形式分析": "材质为**青铜**，整体高50.8厘米（据该馆藏品记录）。三足不仅是造型，也是加热结构的组成部分。",
+        "与前后风格的关系和争论": "该馆说明祭祀逻辑：商王室与贵族向亡故祖先献酒食，相信祖先能**代向至高神祈求丰收与战功**。本条目据此把器形、火与祖先沟通串成同一套仪式。",
+        "一图": "示意图以安阳王都、三足加热结构与祖先祭仪三者关系标示本器。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「酒可能被加热」该馆用 suggesting，属推测；（3）具体出土墓与年代细分未记录；（4）铭文或族徽未展开。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='shang-jia-vessel 示意图'><title>shang-jia-vessel</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>安阳·商晚期</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>前1250—1046</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>青铜爵</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>50.8cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>三足架火</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>加热?</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>祖先祭</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>祈丰收战功</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>商爵：王都、结构与祭仪</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；加热功能为推测；出土墓未记录。"
+    },
+    {
+      "id": "shang-ding-small",
+      "title": "商代青铜鼎",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元前13—前12世纪",
+      "region": "中国",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "商代小型青铜鼎，克利夫兰艺术博物馆藏（1960.288）。",
+      "when": "公元前1200—前1100年",
+      "overview": "按大小成组使用，以谷物与肉奉献祖先；宋代以来成为著录、铭文与类型学研究核心材料。",
+      "related": [
+        "shang-zhou-bronzes",
+        "regular-script",
+        "zhou-ding-large"
+      ],
+      "sources": [
+        "cma-1960-288"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为商代青铜鼎，克利夫兰艺术博物馆定年为公元前1200—1100年。该馆说明，鼎这类青铜器在古代中国按**不同尺寸成组**制作，用于向祖先之灵奉献谷物与肉。",
+        "风格特征": "该馆特别指出其**后世学术生命**：这类青铜器后来既是收藏品，也是中国史学**与**古物学的重要研究对象；**宋代以来**即有青铜目录刊行。",
+        "代表人物与作品": "作者未署名。相关条目见商周青铜礼器与篆书（铭文研究）。本件为克利夫兰艺术博物馆藏品（1960.288）。",
+        "技法或形式分析": "材质为**青铜**，整体14.3 × 12.5厘米（据该馆藏品记录）。小型器与 Cycle90 中那件50.8厘米的爵形成尺度对照，印证「成组」制度的存在。",
+        "与前后风格的关系和争论": "该馆指出，学者研究**铭文、类型与术语**，这些工作在**现代艺术史与考古学诞生之前**即已产生影响。本条目据此不把青铜研究当作现代学科附属，而视为中国本土的长期学术传统。",
+        "一图": "示意图以成组礼器、祖先祭祀与宋代以来著录传统三者关系标示本鼎。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「成组」的具体组合未列；（3）宋代目录的文献未取得；（4）本件铭文内容未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='shang-ding-small 示意图'><title>shang-ding-small</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>成组礼器</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>按尺寸</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>商代小鼎</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>14.3cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>奉献谷肉</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>祖先</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>宋代著录</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>学术传统</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>商鼎：礼器、祭祀与著录</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；组合与文献未取得。"
+    },
+    {
+      "id": "zhou-ding-large",
+      "title": "西周大型青铜鼎",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元前11—前10世纪",
+      "region": "中国",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "西周大型青铜鼎，克利夫兰艺术博物馆藏（2003.2）。",
+      "when": "公元前1000年代",
+      "overview": "饕餮纹列于装饰带，双目凝视以激起敬畏；三足以公羊图像装饰；鼎兼为政治权力与合法性的象征。",
+      "related": [
+        "shang-zhou-bronzes",
+        "shang-ding-small"
+      ],
+      "sources": [
+        "cma-2003-2"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为西周大型青铜鼎，克利夫兰艺术博物馆定年为公元前1000年代。该馆以「宏大而庄严」形容其整体效果。",
+        "风格特征": "装饰带上有**三个饕餮（taotie）面具**，与盘绕的兽纹并置。该馆指出，面具**凝视的双眼**「宣示宗教存在并意在激起恐惧」。三足则饰以**公羊**的鲜明图像。",
+        "代表人物与作品": "作者未署名。相关条目见商周青铜礼器与商代小鼎。本件为克利夫兰艺术博物馆藏品（2003.2）。",
+        "技法或形式分析": "材质为**青铜**，整体高57.4厘米（据该馆藏品记录）。该馆还引述器物的铸铭愿望：愿「**子子孙孙永宝用之**」——把器物的长久保存与家族延续直接联结。",
+        "与前后风格的关系和争论": "该馆说明，鼎在祭祀与丧葬中用于向祖先献食，并**兼具政治权力与合法性的象征**；在层级社会中，这类重器是身份标志。本条目据此同时呈现宗教、政治与家族三重功能。",
+        "一图": "示意图以饕餮纹、献食仪式与政治—家族象征三者关系标示本鼎。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）铭文该馆只译其意，原文未迻录；（3）具体出土地和器组未记录；（4）「激起恐惧」为该馆解释。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='zhou-ding-large 示意图'><title>zhou-ding-large</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>饕餮纹</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>凝视·敬畏</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>西周大鼎</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>57.4cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>祖先献食</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>祭仪</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>永宝用</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>政治·家族</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>西周大鼎：纹样、祭仪与权力</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；铭文原典与出土器组未取得。"
+    },
+    {
+      "id": "lai-zhong-bell",
+      "title": "逨钟（青铜编钟）",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元前9—前8世纪",
+      "region": "中国",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "陕西眉县西周青铜钟，克利夫兰艺术博物馆藏（1989.3）。",
+      "when": "约公元前800—公元前700年",
+      "overview": "为八件成组编钟之一；118字铭文记逨的世职与为先父作钟；铭文亦被视为早期书法实例。",
+      "related": [
+        "yayue",
+        "shang-zhou-bronzes"
+      ],
+      "sources": [
+        "cma-1989-3"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明，在古代中国，**音乐与礼**具有政治意义，并与国家权力不可分。周代青铜钟按**八件至六十件成组**铸造；本件是一组**八件**中的**第二大的一件**。出地为陕西眉县，西周时期。",
+        "风格特征": "钟上铸有**118字铭文**，内容涉及器主**逨**以及铸钟缘由。该馆说明：逨的祖先曾忠实服务西周王庭，他本人受「天子」授予**世袭职位**；为表达孝道，逨为父亲**公叔**作这组钟，愿子孙永宝。",
+        "代表人物与作品": "器主为逨，作者未署名。相关条目见雅乐与商周青铜礼器。本件为克利夫兰艺术博物馆藏品（1989.3）。",
+        "技法或形式分析": "材质为**青铜**，整体70.3 × 37 × 26.6厘米（据该馆藏品记录）。编钟的成套性意味着音高、尺寸与礼制等级需要同时规划。",
+        "与前后风格的关系和争论": "该馆特别指出，这份重要铭文也是**中国书法的早期实例**，突出「纯粹的抽象线条与字形结构」。本条目据此把青铜铭文与书法史相连，而不只把它当史料。",
+        "一图": "示意图以八件成组、118字铭文与「乐—礼—权力」三者关系标示本钟。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）铭文原文未迻录；（3）同组其余七钟的现藏地未记录；（4）音律体系与实测音高未取得。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='lai-zhong-bell 示意图'><title>lai-zhong-bell</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>八件套钟</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>礼乐制度</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>逨钟</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>70.3cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>118字铭文</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>世职·孝</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>书法实例</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>抽象线条</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>逨钟：礼乐、铭文与书法</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；铭文原文与同组下落未取得。"
     }
   ]
 }

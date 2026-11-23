@@ -49,6 +49,12 @@
    "to_dom": "art"
   },
   {
+   "from": "yayue",
+   "to": "lai-zhong-bell",
+   "from_dom": "music",
+   "to_dom": "art"
+  },
+  {
    "from": "braque-violin-collage",
    "to": "cubism",
    "from_dom": "music",
@@ -83,6 +89,12 @@
    "to": "vermeer",
    "from_dom": "music",
    "to_dom": "art"
+  },
+  {
+   "from": "lai-zhong-bell",
+   "to": "yayue",
+   "from_dom": "art",
+   "to_dom": "music"
   }
  ],
  "oneway_count": 0,
@@ -129,5 +141,5 @@
    9
   ]
  ],
- "total_links": 938
+ "total_links": 954
 }

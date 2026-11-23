@@ -1526,7 +1526,8 @@
       "overview": "良渚、红山等文化的玉器已具复杂造型，商周以后玉器与礼制结合，象征身份与权力。",
       "related": [
         "shang-zhou-bronzes",
-        "china-painting-history"
+        "china-painting-history",
+        "shang-jia-vessel"
       ],
       "sources": [
         "enc-chinese-jade",
@@ -1548,7 +1549,11 @@
       "related": [
         "chinese-jade-art",
         "six-dynasties-art",
-        "gudea-statue"
+        "gudea-statue",
+        "shang-jia-vessel",
+        "shang-ding-small",
+        "zhou-ding-large",
+        "lai-zhong-bell"
       ],
       "sources": [
         "enc-bronze",
@@ -1681,7 +1686,8 @@
       "overview": "欧阳询、颜真卿、柳公权等确立楷书法度，成为后世通行书体。",
       "related": [
         "clerical-script",
-        "running-script"
+        "running-script",
+        "shang-ding-small"
       ],
       "sources": [
         "enc-chinese-calligraphy",
@@ -2523,7 +2529,8 @@
       "overview": "与周代礼制结合，强调等级秩序与中和之美，历代宫廷均有沿革。",
       "related": [
         "china-music-history",
-        "wuwangdu-chu-music-archaeology"
+        "wuwangdu-chu-music-archaeology",
+        "lai-zhong-bell"
       ],
       "sources": [
         "enc-chinese-music",
@@ -6502,6 +6509,87 @@
       ],
       "sources": [
         "cma-1971-100"
+      ]
+    },
+    {
+      "id": "shang-jia-vessel",
+      "title": "商代青铜爵（jia）",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元前13—前11世纪",
+      "region": "中国",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "安阳期大型青铜酒器，克利夫兰艺术博物馆藏（2005.54）。",
+      "when": "约公元前1250—公元前1046年",
+      "overview": "三足外撇可架火加热；用于商王室祖先祭祀，祈求丰收与战功。",
+      "related": [
+        "shang-zhou-bronzes",
+        "chinese-jade-art"
+      ],
+      "sources": [
+        "cma-2005-54"
+      ]
+    },
+    {
+      "id": "shang-ding-small",
+      "title": "商代青铜鼎",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元前13—前12世纪",
+      "region": "中国",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "商代小型青铜鼎，克利夫兰艺术博物馆藏（1960.288）。",
+      "when": "公元前1200—前1100年",
+      "overview": "按大小成组使用，以谷物与肉奉献祖先；宋代以来成为著录、铭文与类型学研究核心材料。",
+      "related": [
+        "shang-zhou-bronzes",
+        "regular-script",
+        "zhou-ding-large"
+      ],
+      "sources": [
+        "cma-1960-288"
+      ]
+    },
+    {
+      "id": "zhou-ding-large",
+      "title": "西周大型青铜鼎",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元前11—前10世纪",
+      "region": "中国",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "西周大型青铜鼎，克利夫兰艺术博物馆藏（2003.2）。",
+      "when": "公元前1000年代",
+      "overview": "饕餮纹列于装饰带，双目凝视以激起敬畏；三足以公羊图像装饰；鼎兼为政治权力与合法性的象征。",
+      "related": [
+        "shang-zhou-bronzes",
+        "shang-ding-small"
+      ],
+      "sources": [
+        "cma-2003-2"
+      ]
+    },
+    {
+      "id": "lai-zhong-bell",
+      "title": "逨钟（青铜编钟）",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元前9—前8世纪",
+      "region": "中国",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "陕西眉县西周青铜钟，克利夫兰艺术博物馆藏（1989.3）。",
+      "when": "约公元前800—公元前700年",
+      "overview": "为八件成组编钟之一；118字铭文记逨的世职与为先父作钟；铭文亦被视为早期书法实例。",
+      "related": [
+        "yayue",
+        "shang-zhou-bronzes"
+      ],
+      "sources": [
+        "cma-1989-3"
       ]
     }
   ]

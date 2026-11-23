@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 300 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 304 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -40,6 +40,10 @@
 | herakles-bronze | 赫拉克勒斯青铜小像 | 作品 | 公元前6世纪 | 希腊 | 雕塑 | 核心 | O2 |
 | roman-athlete-statue | 罗马运动员像 | 作品 | 公元1世纪 | 意大利 | 雕塑 | 重要 | O2 |
 | vespasian-recut-head | 韦斯巴芗头像（由尼禄像改刻） | 作品 | 公元1世纪 | 意大利 | 雕塑 | 核心 | O2 |
+| shang-jia-vessel | 商代青铜爵（jia） | 作品 | 公元前13—前11世纪 | 中国 | 雕塑 | 核心 | O2、O6 |
+| shang-ding-small | 商代青铜鼎 | 作品 | 公元前13—前12世纪 | 中国 | 雕塑 | 重要 | O2、O6 |
+| zhou-ding-large | 西周大型青铜鼎 | 作品 | 公元前11—前10世纪 | 中国 | 雕塑 | 核心 | O2、O6 |
+| lai-zhong-bell | 逨钟（青铜编钟） | 作品 | 公元前9—前8世纪 | 中国 | 综合 | 核心 | O2、O6 |
 
 ## art-medieval（艺术史·中世纪）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
