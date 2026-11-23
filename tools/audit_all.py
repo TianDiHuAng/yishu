@@ -49,6 +49,7 @@ print("="*78)
 for s in summary:
     print(" %-34s %-5s %s"%(s["step"],s.get("status"),s.get("tail","")[:70]))
 print("-"*78)
-print("失败项：%d"%fails)
-json.dump({"steps":summary,"fails":fails+ (1 if fails_compile else 0)},open(os.path.join(ROOT,"reports","audit_all.json"),"w",encoding="utf-8"),ensure_ascii=False,indent=1)
+_total=fails+fails_compile
+print("失败项：%d（其中工具编译失败 %d）"%(_total,fails_compile))
+json.dump({"steps":summary,"fails":_total,"fails_compile":fails_compile},open(os.path.join(ROOT,"reports","audit_all.json"),"w",encoding="utf-8"),ensure_ascii=False,indent=1)
 sys.exit(1 if (fails or fails_compile) else 0)

@@ -672,6 +672,18 @@
       },
       "network": "partial",
       "verdict": "盘点处置到位：来源去虚、L3 去弱留强；新增第 10 步体检；未饱和"
+    },
+    {
+      "cycle": "cycle54b",
+      "date": "2026-11-23",
+      "methods_used": [
+        "守卫自检"
+      ],
+      "gaps_found": {
+        "silent_failure": 1
+      },
+      "network": "partial",
+      "verdict": "修汇总行静默失败（第二个同类问题，首个为 D029 限流）；未饱和"
     }
   ],
   "assessment_c33": {

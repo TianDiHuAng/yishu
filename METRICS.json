@@ -1508,6 +1508,28 @@
       "check_links_result": "broken=0(230页)",
       "audit_all": "10/10 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle54b",
+      "date": "2026-11-23",
+      "status": "completed",
+      "gap_methods": [
+        "守卫自检（注入测试）"
+      ],
+      "network": "partial",
+      "new_entries": 0,
+      "fixes": 1,
+      "finding": "audit_all 汇总行漏算 fails_compile：逐行显示 FAIL、退出码为 1，但打印「失败项：0」——本轮据此误提交了语法错误的生成器",
+      "fix": "打印含编译失败并单列；json 同步 fails/fails_compile",
+      "verification": "注入→打印1且rc=1；还原→打印0且rc=0",
+      "audit_steps": 10,
+      "entries_total": 195,
+      "sources_total": 326,
+      "pages": 230,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(230页)",
+      "audit_all": "10/10 ok",
+      "commits": 1
     }
   ]
 }

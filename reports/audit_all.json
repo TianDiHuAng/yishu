@@ -3,7 +3,7 @@
   {
    "step": "py_compile（全部工具可编译）",
    "status": "ok",
-   "tail": "232 个 .py 全部通过"
+   "tail": "234 个 .py 全部通过"
   },
   {
    "step": "check.py（R1-R19 硬规则）",
@@ -60,5 +60,6 @@
    "tail": "  [review] baroque-music 未检出两方关键词（需人工判读）"
   }
  ],
- "fails": 0
+ "fails": 0,
+ "fails_compile": 0
 }
