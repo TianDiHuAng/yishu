@@ -3912,7 +3912,10 @@
         "kongo-prestige-cap",
         "kongo-crucifix",
         "ethiopian-gospel-leaf",
-        "ethiopian-diptych"
+        "ethiopian-diptych",
+        "ethiopian-amulet-necklace",
+        "ethiopian-harar-necklace",
+        "kongo-nkisi-nkondi"
       ],
       "sources": [
         "cma-1999-1",
@@ -4342,7 +4345,9 @@
       "overview": "1491年国王改宗后天主教成为刚果国教；此像作于其后数世纪，基督结刚果式发辫；腰布上的 X 形纹指 dikenga。",
       "related": [
         "kongo-prestige-cap",
-        "african-art"
+        "african-art",
+        "kongo-nkisi-nkondi",
+        "kongo-corpus"
       ],
       "sources": [
         "cma-2010-444"
@@ -4446,6 +4451,87 @@
       ],
       "sources": [
         "cma-1944-290"
+      ]
+    },
+    {
+      "id": "ethiopian-amulet-necklace",
+      "title": "埃塞俄比亚护符项链（ashän ketab）",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "19—20世纪",
+      "region": "非洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "埃塞俄比亚银合金护符项链，克利夫兰艺术博物馆藏（2025.152）；由多个盒形护符（tälsäm）组成。",
+      "when": "1800年代末或1900年代初",
+      "overview": "盒形护符用以辟邪与挡「恶眼」，与伊斯兰护符实践相关；镂空与珠化工艺见於 Harar 与 Aksum。",
+      "related": [
+        "ethiopian-harar-necklace",
+        "african-art"
+      ],
+      "sources": [
+        "cma-2025-152"
+      ]
+    },
+    {
+      "id": "ethiopian-harar-necklace",
+      "title": "哈勒尔新娘项链（muriya）",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "19—20世纪",
+      "region": "非洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "埃塞俄比亚哈勒尔地区的镀金银项链，克利夫兰艺术博物馆藏（2025.155）。",
+      "when": "1800年代末或1900年代初",
+      "overview": "当地穆斯林女性专用，属嫁妆；球形银珠近于穆斯林念珠，琥珀或柯巴脂兼示婚姻身份与舶来品渠道。",
+      "related": [
+        "ethiopian-amulet-necklace",
+        "african-art"
+      ],
+      "sources": [
+        "cma-2025-155"
+      ]
+    },
+    {
+      "id": "kongo-nkisi-nkondi",
+      "title": "刚果灵力像（nkisi nkondi）",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "19—20世纪",
+      "region": "非洲",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "刚果工匠与祭司（nganga）所制木雕灵力像，克利夫兰艺术博物馆藏（2010.432）。",
+      "when": "1800年代末—1900年代初",
+      "overview": "现存的只是「壳」：赋予灵力的材料已被取走；取走或出于用途终结，或出于反殖民抵抗。",
+      "related": [
+        "kongo-crucifix",
+        "african-art",
+        "kongo-corpus"
+      ],
+      "sources": [
+        "cma-2010-432"
+      ]
+    },
+    {
+      "id": "kongo-corpus",
+      "title": "刚果基督受难像（Corpus）",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "19—20世纪",
+      "region": "非洲",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "刚果人以铜合金铸成的基督像，克利夫兰艺术博物馆藏（2010.445）。",
+      "when": "1800年代末—1900年代初",
+      "overview": "以几何化风格融合基督教理念与刚果既有艺匠传统；手足穿孔直指十字架受难图像。",
+      "related": [
+        "kongo-nkisi-nkondi",
+        "kongo-crucifix"
+      ],
+      "sources": [
+        "cma-2010-445"
       ]
     }
   ]

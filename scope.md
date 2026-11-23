@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 204 个条目、26 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 208 个条目、26 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -300,6 +300,10 @@
 | ethiopian-diptych | 十二使徒与圣保罗双联画 | 作品 | 18世纪 | 非洲 | 绘画 | 重要 | O1 |
 | asante-goldweight | 阿散蒂金衡砝码（鱼形） | 作品 | 19世纪 | 非洲 | 雕塑 | 重要 | O1 |
 | asante-soul-disc | 阿散蒂灵魂圆盘（akrafokɔnmu） | 作品 | 19世纪 | 非洲 | 综合 | 重要 | O1 |
+| ethiopian-amulet-necklace | 埃塞俄比亚护符项链（ashän ketab） | 作品 | 19—20世纪 | 非洲 | 综合 | 重要 | O1 |
+| ethiopian-harar-necklace | 哈勒尔新娘项链（muriya） | 作品 | 19—20世纪 | 非洲 | 综合 | 重要 | O1 |
+| kongo-nkisi-nkondi | 刚果灵力像（nkisi nkondi） | 作品 | 19—20世纪 | 非洲 | 雕塑 | 重要 | O1 |
+| kongo-corpus | 刚果基督受难像（Corpus） | 作品 | 19—20世纪 | 非洲 | 雕塑 | 重要 | O1 |
 
 ## art-americas（美洲原住民与前哥伦布艺术）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

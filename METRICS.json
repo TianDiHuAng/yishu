@@ -1672,6 +1672,41 @@
       "check_links_result": "broken=0(239页)",
       "audit_all": "10/10 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle59",
+      "date": "2026-11-23",
+      "status": "completed",
+      "gap_methods": [
+        "非洲区深度推进"
+      ],
+      "network": "partial: museum APIs ok",
+      "new_entries": 4,
+      "new_entry_ids": [
+        "ethiopian-amulet-necklace",
+        "ethiopian-harar-necklace",
+        "kongo-nkisi-nkondi",
+        "kongo-corpus"
+      ],
+      "must_state": [
+        "nkisi 去力量的两种解释（含反殖民抵抗）",
+        "护符的跨信仰工艺",
+        "银匠性别分工",
+        "两种基督转译路径"
+      ],
+      "no_dimension_records": [
+        "cma-2025-152",
+        "cma-2025-155"
+      ],
+      "africa_entries": 15,
+      "new_sources": 4,
+      "sources_total": 339,
+      "entries_total": 208,
+      "pages": 243,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(243页)",
+      "audit_all": "10/10 ok",
+      "commits": 1
     }
   ]
 }

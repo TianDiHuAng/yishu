@@ -1,0 +1,19 @@
+{
+ "id": "kongo-corpus",
+ "level": "L2",
+ "sections": {
+  "时代背景": "该馆说明称，本件是 Delenne 收藏中**两件受基督教启发的物件之一**，它们标识出贸易、外交、宗教与跨文化交换的**远距离网络**。年代为1800年代末—1900年代初。",
+  "风格特征": "作者身份为「刚果人」（Kongo people）。该馆指出，刚果的基督教符号是作为**灵性工具**被创造的，用来解释并缓解**中非宗教与天主教之间**的动荡局面。",
+  "代表人物与作品": "作者未具名。相关条目见刚果灵力像与刚果十字架。本件为克利夫兰艺术博物馆藏品（2010.445）。",
+  "技法或形式分析": "材质为铜合金，整体16.5 × 12.5 × 2.5厘米（据该馆藏品记录）。该馆的描述是：这尊像**风格上属几何化**，把**基督教理念**与**既有的刚果艺术实践**结合；其**穿孔的手与足**把形象联结到十字架受难图像。",
+  "与前后风格的关系和争论": "与同馆那件戴刚果式发辫的木十字架并置，可以看出同一过程的两条路径：一件把**本地身体特征**加于基督，一件把**本地形式语汇（几何化）**加于基督。二者都不是复制，而是**转译**；本条目据该馆说明陈述这一点，不评估两种传统的权重。",
+  "一图": "示意图以远距离交换网络、几何化风格与受难图像三者关系标示本件。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「Delenne 收藏」的构成与该件入藏经过未取得；（3）「几何化」与该地区其他刚果雕塑的比较未展开；（4）铸造工艺与合金成分未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='kongo-corpus 示意图'><title>kongo-corpus</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>交换网络</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>贸易·外交</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>刚果基督像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>铜合金</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>几何化</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>本地语汇</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>穿孔手足</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>受难图像</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>刚果基督像：网络、形式与图像</text></g></svg>",
+ "sources": [
+  "cma-2010-445"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；Delenne 收藏背景与工艺未取得。"
+}

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 204,
+    "total": 208,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 26,
@@ -2452,6 +2452,54 @@
     },
     "asante-soul-disc": {
       "title": "阿散蒂灵魂圆盘（akrafokɔnmu）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "ethiopian-amulet-necklace": {
+      "title": "埃塞俄比亚护符项链（ashän ketab）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "ethiopian-harar-necklace": {
+      "title": "哈勒尔新娘项链（muriya）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "kongo-nkisi-nkondi": {
+      "title": "刚果灵力像（nkisi nkondi）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "kongo-corpus": {
+      "title": "刚果基督受难像（Corpus）",
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",

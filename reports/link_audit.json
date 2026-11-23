@@ -21,6 +21,10 @@
    12
   ],
   [
+   "african-art",
+   12
+  ],
+  [
    "ukiyo-e",
    10
   ],
@@ -41,10 +45,6 @@
    9
   ],
   [
-   "african-art",
-   9
-  ],
-  [
    "high-renaissance",
    8
   ],
@@ -57,5 +57,5 @@
    8
   ]
  ],
- "total_links": 610
+ "total_links": 624
 }

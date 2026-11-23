@@ -3349,6 +3349,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；金 7×7.6×1.6cm；说明含 akrafo、kradware 与1924年之前停产"
+    },
+    {
+      "id": "cma-2025-152",
+      "title": "Cleveland Museum of Art — Necklace (ashän ketab) with amulet pendants (tälsäm), Ethiopia, acc. 2025.152",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2025.152",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；银合金；说明含伊斯兰护符实践与 Harar/Aksum 工艺"
+    },
+    {
+      "id": "cma-2025-155",
+      "title": "Cleveland Museum of Art — Necklace (muriya), probably Harar, Ethiopia, acc. 2025.155",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2025.155",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；镀金银、树脂；说明含穆斯林女性专用与嫁妆"
+    },
+    {
+      "id": "cma-2010-432",
+      "title": "Cleveland Museum of Art — Male figure (nkisi nkondi), Kongo, acc. 2010.432",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2010.432",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；木、金属化玻璃、铁、象牙等 46×25.7×19.2cm；说明含解除灵力的两种可能"
+    },
+    {
+      "id": "cma-2010-445",
+      "title": "Cleveland Museum of Art — Corpus (Crucified Christ), Kongo, acc. 2010.445",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2010.445",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；铜合金 16.5×12.5×2.5cm；说明含几何化风格与穿孔手足"
     }
   ]
 }

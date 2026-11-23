@@ -1,0 +1,19 @@
+{
+ "id": "kongo-nkisi-nkondi",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为刚果（或安哥拉卡宾达）的 **nkisi nkondi**（灵力像），克利夫兰艺术博物馆定年为1800年代末—1900年代初，作者记为「刚果雕刻师与 nganga（祭司）」。",
+  "风格特征": "该馆说明指出，这件作品**已失去大部分使其成为「灵力容器」的材料**：镜眼、树脂顶盖与腹部腔室**曾装藏赋灵之物**。也就是说，今天看到的更像一具「壳」。",
+  "代表人物与作品": "作者为雕刻师与祭司（nganga）两者。相关条目见刚果基督受难像与非洲艺术。本件为克利夫兰艺术博物馆藏品（2010.432）。",
+  "技法或形式分析": "材质为木、金属化玻璃、铁、有机物、象牙或塑料与天然纤维，整体46 × 25.7 × 19.2厘米（据该馆藏品记录）。该馆说明给出的运作机制是：雕刻师制像，**minkisi 在 banganga 于其内部放置材料后**才「接待」神灵。",
+  "与前后风格的关系和争论": "**本条目最重要的内容是关于「去力量」的两种解释**：其一，仪式用途终结后，nganga 取走材料，**剥夺其灵力**，余下的雕刻便被弃置；其二，该馆指出，「有时刚果人取走材料是作为**反殖民抵抗**——在欧洲人夺取 minkisi 之前先使其失效」。该馆并坦言：**我们不知道为什么它被去力量**，而这具雕刻**如今不再具有灵力**。本条目把这份「不确定」与「反殖民」的可能性一并保留。",
+  "一图": "示意图以制像、赋灵（banganga 放置材料）与去力量（用途终结／反殖民）三者关系标示本件。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）**去力量的真正原因未知**（该馆明言），本条目不作择一；（3）原有材料的清单与形制未记录；（4）入藏时间与路径未取得。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='kongo-nkisi-nkondi 示意图'><title>kongo-nkisi-nkondi</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>雕刻师制像</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>minkisi</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>赋灵</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>nganga 放料</text><rect class='svg-box-accent' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='475.0' y='142' text-anchor='middle'>去力量</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>取走材料</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>反殖民?</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>原因未知</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>nkisi nkondi：赋灵与去力量</text></g></svg>",
+ "sources": [
+  "cma-2010-432"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；去力量原因馆方明言未知。"
+}
