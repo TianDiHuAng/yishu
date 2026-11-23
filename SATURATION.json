@@ -973,6 +973,16 @@
       },
       "network": "partial (museum APIs)",
       "verdict": "伊斯兰写本 0→4（伊斯兰共 17，总 260）；未饱和"
+    },
+    {
+      "cycle": "cycle78",
+      "date": "2026-11-23",
+      "methods_used": [
+        "全量尺寸复核"
+      ],
+      "gaps_found": {},
+      "network": "partial (museum APIs)",
+      "verdict": "115 条机构来源全量复核：74/74 命中、0 真问题；修校验器 2 处误判；未饱和"
     }
   ],
   "assessment_c33": {

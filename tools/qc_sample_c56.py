@@ -50,14 +50,15 @@ for e in sample:
             raw=str(a.get("measurements") or ""); dims=norm(raw); cd=str(a.get("creation_date") or "")
             if dims:
                 # 取正文中的尺寸片段（如 86.5 × 37.5）
-                nums=re.findall(r"\d+(?:\.\d+)?",dims) if (" x " in raw or "×" in raw) else []
+                metric=raw.split("(")[0]
+                nums=re.findall(r"\d+(?:\.\d+)?",norm(metric)) if (" x " in metric or "×" in metric) else []
                 if len(nums)>=2:
-                    pat=norm(nums[0])+"×"+norm(nums[1])
                     dim_checks+=1
-                    if pat in norm(body) or pat.replace("×"," × ") in body:
-                        dim_ok+=1
+                    nb=norm(body)
+                    miss=[x for x in nums[:3] if norm(x) not in nb]
+                    if not miss: dim_ok+=1
                     else:
-                        issues.append((e["id"],"尺寸未在正文出现（记录:%s）"%a.get("measurements","")[:40],"C"))
+                        issues.append((e["id"],"尺寸数字未在正文出现:%s（记录:%s）"%(miss,a.get("measurements","")[:40]),"C"))
             yrs=[] if re.search(r"c\.|possibly| or |mid-|late|early",cd) else re.findall(r"\d{3,4}",cd)
             if yrs:
                 hit=any((y in body) or (y in e.get("when","")) for y in yrs[:2])
