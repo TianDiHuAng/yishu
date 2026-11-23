@@ -22,6 +22,7 @@ STEPS=[
  ("pending_render_audit_c30.py（渲染一致性+HTML结构）","tools/pending_render_audit_c30.py"),
  ("overlay_guard.py（覆盖层不得改基础字段）","tools/overlay_guard.py"),
  ("invariants_c54.py（不变式盘点：死重/孤儿/L3/单元页）","tools/invariants_c54.py"),
+ ("usability_c60.py（可用性：标题层级/锚点/表格/link）","tools/usability_c60.py"),
 ]
 summary=[]
 fails=0

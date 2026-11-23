@@ -1707,6 +1707,43 @@
       "check_links_result": "broken=0(243页)",
       "audit_all": "10/10 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle60",
+      "date": "2026-11-23",
+      "status": "completed",
+      "gap_methods": [
+        "全站可用性审计（243页，8项）"
+      ],
+      "network": "partial",
+      "new_entries": 0,
+      "fixes": 1,
+      "usability": {
+        "pages": 243,
+        "issues_found": 1,
+        "issue": "units.html h1→h3 跳级",
+        "fixed": "加 7 个 h2 分组",
+        "clean": [
+          "h1 唯一",
+          "viewport",
+          "lang",
+          "thead",
+          "锚点",
+          "无 img",
+          "skip link",
+          "nav",
+          "无过大固定宽度"
+        ]
+      },
+      "audit_steps": 11,
+      "guard_test": "删除一个 h2 → rc=1；还原 → rc=0（管道会吞退出码，需直跑）",
+      "entries_total": 208,
+      "sources_total": 339,
+      "pages": 243,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(243页)",
+      "audit_all": "11/11 ok",
+      "commits": 1
     }
   ]
 }

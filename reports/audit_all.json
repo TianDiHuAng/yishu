@@ -3,7 +3,7 @@
   {
    "step": "py_compile（全部工具可编译）",
    "status": "ok",
-   "tail": "254 个 .py 全部通过"
+   "tail": "258 个 .py 全部通过"
   },
   {
    "step": "check.py（R1-R21 硬规则）",
@@ -58,6 +58,12 @@
    "returncode": 0,
    "status": "ok",
    "tail": "  [review] baroque-music 未检出两方关键词（需人工判读）"
+  },
+  {
+   "step": "usability_c60.py（可用性：标题层级/锚点/表格/link）",
+   "returncode": 0,
+   "status": "ok",
+   "tail": "style.css 过大固定宽度: []"
   }
  ],
  "fails": 0,

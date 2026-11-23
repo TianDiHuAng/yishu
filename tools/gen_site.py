@@ -349,17 +349,34 @@ def build_units_index(entries,units):
     for e in entries: dom[e["unit"]].append(e)
     s=[head("单元总览")]
     s.append("<div class='wrap'><h1>单元总览</h1><p class='eyebrow'>共 %d 个知识单元 · %d 条目</p>"%(len(units),len(entries)))
-    s.append("<div class='cards'>")
+    def _group(uid):
+        if uid.startswith("art-china"): return "中国艺术"
+        if uid in ("art-asia","art-africa","art-americas","art-oceania","art-islamic"): return "其他地区艺术"
+        if uid=="music-china": return "中国音乐"
+        if uid.startswith("music-"): return "西方音乐史"
+        if uid=="work-archives": return "作品档案"
+        if uid in ("overview-guide","comparative","glossary-tools"): return "导读、比较与术语"
+        return "西方艺术史"
+    ORDER=["西方艺术史","中国艺术","其他地区艺术","西方音乐史","中国音乐","作品档案","导读、比较与术语"]
+    buckets=defaultdict(list)
     for uid,uname in units.items():
-        g=dom.get(uid,[])
-        if not g: continue
-        l3=sum(1 for e in g if e.get("level")=="L3")
-        core=sum(1 for e in g if e["tier"]=="核心")
-        s.append("<article class='card'><div class='meta'>%d 条 · 核心 %d · L3 %d</div>"
-                 "<h3><a href='units/%s.html'>%s</a></h3><p>%s</p></article>"%(
-                 len(g),core,l3,esc(uid),esc(uname),
-                 esc("、".join(e["title"] for e in g[:4])+("…" if len(g)>4 else ""))))
-    s.append("</div></div>"+FOOT)
+        if not dom.get(uid): continue
+        buckets[_group(uid)].append((uid,uname))
+    for grp in ORDER:
+        items=buckets.get(grp,[])
+        if not items: continue
+        s.append("<h2 class='unit-group'>%s<span class='eyebrow'>%d 单元</span></h2>"%(esc(grp),len(items)))
+        s.append("<div class='cards'>")
+        for uid,uname in items:
+            g=dom[uid]
+            l3=sum(1 for e in g if e.get("level")=="L3")
+            core=sum(1 for e in g if e["tier"]=="核心")
+            s.append("<article class='card'><div class='meta'>%d 条 · 核心 %d · L3 %d</div>"
+                     "<h3><a href='units/%s.html'>%s</a></h3><p>%s</p></article>"%(
+                     len(g),core,l3,esc(uid),esc(uname),
+                     esc("、".join(e["title"] for e in g[:4])+("…" if len(g)>4 else ""))))
+        s.append("</div>")
+    s.append("</div>"+FOOT)
     open(os.path.join(OUT,"units.html"),"w",encoding="utf-8").write("".join(s))
 
 def load_gap_targets():
