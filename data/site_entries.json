@@ -6381,7 +6381,9 @@
         "yoruba-gelede-masks",
         "asante-memorial-head",
         "kongo-prestige-cap",
-        "kongo-crucifix"
+        "kongo-crucifix",
+        "ethiopian-gospel-leaf",
+        "ethiopian-diptych"
       ],
       "sources": [
         "cma-1999-1",
@@ -6686,7 +6688,9 @@
       "overview": "王室在世时委托女性艺人依记忆塑像，逝后置于圣林；理想化的贵人形貌与个人细节并存。",
       "related": [
         "yoruba-gelede-masks",
-        "african-art"
+        "african-art",
+        "asante-goldweight",
+        "asante-soul-disc"
       ],
       "sources": [
         "cma-1990-22"
@@ -7133,6 +7137,138 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='khmer-thai-fruit-jar 示意图'><title>khmer-thai-fruit-jar</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>吴哥/巴戎期</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>12世纪</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>果形罐</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>高24cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>褐釉·厚胎</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>工艺</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>果种未定</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>可能为瓜</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>泰东北窑果形罐：形制与未知</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（CMA）来源；果种馆方明言难定；窑址未记录。"
+    },
+    {
+      "id": "ethiopian-gospel-leaf",
+      "title": "埃塞俄比亚福音书页（圣路加）",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "15世纪",
+      "region": "非洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "埃塞俄比亚提格雷地区的福音书写本单页，克利夫兰艺术博物馆藏（1999.212）。",
+      "when": "约1440—1480年",
+      "overview": "满页细密画绘圣路加及其象征牛；色彩鲜亮、几何图案欢快；题记为吉兹文。",
+      "related": [
+        "ethiopian-diptych",
+        "african-art"
+      ],
+      "sources": [
+        "cma-1999-212"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明指出，基督教于**公元300年代**传入埃塞俄比亚，**远早于**它到达北欧。本页出自提格雷地区，定年为约1440—1480年。",
+        "风格特征": "该馆称，埃塞俄比亚的板画与写本绘画典型地使用**鲜亮色彩**与**欢快的几何图案交织**。本页为满页细密画：圣路加居中，其象征物**牛**置于上方拱内。",
+        "代表人物与作品": "作者未署名。相关条目见十二使徒与圣保罗双联画与非洲艺术。本页为克利夫兰艺术博物馆藏品（1999.212）。",
+        "技法或形式分析": "材质为犊皮纸上的墨与蛋彩（ink and tempera on vellum），画心37 × 25厘米（据该馆藏品记录）。短题记以**吉兹文（Ge‘ez）**书写——该馆称之为「埃塞俄比亚正教会沿用的古老教会语言」。题记内容为路加福音开篇性质的文字，并含对画像本身的说明（大意：为圣路加绘此像并及牛、其祈祷与祝福）。本条目只述其大意，不逐字迻录。",
+        "与前后风格的关系和争论": "把写本细密画与「教会语言」并置，是本页的核心：图像、经文与礼仪语言在同一页上互相支撑。埃塞俄比亚的基督教艺术因此常被视为**独立于欧洲中世纪传统**的一条线索——该馆「早于北欧」的表述正指向这一点。",
+        "一图": "示意图以300年代传入、吉兹文题记与提格雷写本三者关系标示本页的位置。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）该页所属写本的全貌与他页现存地点未取得；（3）「基督教300年代传入埃塞俄比亚」为学界通说，但本条目仅据该馆说明，未核专门史著；（4）题记原文未迻录，只述大意。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='ethiopian-gospel-leaf 示意图'><title>ethiopian-gospel-leaf</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>300年代传入</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>早于北欧</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>福音书页</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1440—80</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>吉兹文题记</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>教会语言</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>圣路加·牛</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>满页细密画</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>埃塞俄比亚福音书页：传入、题记与图像</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；所属写本全貌与史著核对未完成。"
+    },
+    {
+      "id": "ethiopian-diptych",
+      "title": "十二使徒与圣保罗双联画",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "18世纪",
+      "region": "非洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "埃塞俄比亚贡德尔地区的木胎蛋彩双联画，克利夫兰艺术博物馆藏（2023.4）。",
+      "when": "约1700年",
+      "overview": "绘十三位圣者，尺寸适用于教堂或精英居所；属1600年代初至1700年代中宫廷作坊的浓彩风格。",
+      "related": [
+        "ethiopian-gospel-leaf",
+        "african-art"
+      ],
+      "sources": [
+        "cma-2023-4"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本双联画出自埃塞俄比亚，该馆推定其地为**贡德尔（Gondär）**，定年为约1700年。",
+        "风格特征": "画面绘**十三位圣者**（十二使徒与圣保罗）。该馆指出，其尺寸适用于埃塞俄比亚正教教堂或**精英家居**；风格属**1600年代初至1700年代中宫廷作坊**的浓烈彩色一路。",
+        "代表人物与作品": "该馆把绘制者归于画家 **Wäldä Maryam** 或其所授之人。相关条目见埃塞俄比亚福音书页与非洲艺术。本件为克利夫兰艺术博物馆藏品（2023.4）。",
+        "技法或形式分析": "材质为蛋彩、木与织物（tempera, wood, textile），整体39 × 51厘米（据该馆藏品记录）。该馆指出两点细节：每位圣者身穿**自印度输入的时髦衣料**；诸圣姿态与着装相近以强调群体身份，而**面容与发型则各自区别**。",
+        "与前后风格的关系和争论": "最值得注意的是**地方化**：该馆称画家把「基督使徒的场景置于其故乡的语境中」，并以吉兹文题记逐一标注姓名。该馆并把吉兹文描述为「可追溯至公元前400年代的东非语言」——本条目照录这一表述，但注明它是该馆的说法。",
+        "一图": "示意图以宫廷作坊风格、印度输入衣料与吉兹文题名三者关系标示本件。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）作者归属（Wäldä Maryam 或其所授）该馆用 or 表述，属推测；（3）出土地「贡德尔」该馆用 presumably（推定），未确证；（4）吉兹文年代「公元前400年代」为该馆表述，未核语言学文献；（5）十三位圣者的题名清单未取得。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='ethiopian-diptych 示意图'><title>ethiopian-diptych</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>宫廷作坊</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1600s—1700s中</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>双联画</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>c.1700</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>印度输入衣料</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>地方化</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>吉兹文题名</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>十三圣者</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>埃塞俄比亚双联画：作坊、衣料与题名</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；作者与出土地均为推测性表述。"
+    },
+    {
+      "id": "asante-goldweight",
+      "title": "阿散蒂金衡砝码（鱼形）",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "19世纪",
+      "region": "非洲",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "加纳阿散蒂金匠所作铜合金衡器，克利夫兰艺术博物馆藏（1961.399）。",
+      "when": "1800年代",
+      "overview": "至少自1600年起用于称量金粉与金块；王廷收藏最丰，平民常仅十余枚；图像分几何与具象两类，后者多以谚语为据。",
+      "related": [
+        "asante-soul-disc",
+        "asante-memorial-head"
+      ],
+      "sources": [
+        "cma-1961-399"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明称，阿散蒂王国的财富与权力**主要来自其庞大的黄金资源**；**至少自1600年起**，就有黄铜与青铜的小砝码用于称量金粉与金块。",
+        "风格特征": "该馆指出，**王廷拥有最繁复的砝码收藏**，而平民往往只有约十余枚。图像分为两大类：**几何**与**具象**；后者常指涉**谚语**——恰当地使用这类谚语，被视为明智之人的标志。",
+        "代表人物与作品": "作者为阿散蒂金匠（该馆记「Asante goldsmith」），个人未署名。相关条目见阿散蒂灵魂圆盘与阿散蒂纪念头像。本件为克利夫兰艺术博物馆藏品（1961.399）。",
+        "技法或形式分析": "材质为铜合金，整体2.8 × 6.6 × 0.4厘米（据该馆藏品记录）——体量极小，正合「可随身携带的衡器」之用。鱼形造型属具象一类，其具体所指的谚语本条目未取得。",
+        "与前后风格的关系和争论": "把衡器与谚语绑定，意味着这类器物同时是**度量工具**与**修辞装置**：称金时也在「说话」。该馆的说明正是从「明智者」的社会评价角度解释这一点。",
+        "一图": "示意图以黄金资源、衡器功能与谚语图像三者关系标示本件。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）本件鱼形所指的谚语内容未取得；（3）「至少1600年起」的文献依据该馆未列出；（4）砝码的称量单位与校正方式未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='asante-goldweight 示意图'><title>asante-goldweight</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>黄金资源</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>王国财富</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>衡金砝码</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>2.8cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>几何/具象</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>两类图像</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>谚语</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>明智者</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>阿散蒂砝码：黄金、图像与谚语</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；谚语内容与文献依据未取得。"
+    },
+    {
+      "id": "asante-soul-disc",
+      "title": "阿散蒂灵魂圆盘（akrafokɔnmu）",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "19世纪",
+      "region": "非洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "加纳阿散蒂金匠行会所作金圆盘，克利夫兰艺术博物馆藏（1944.290）。",
+      "when": "1800年代（1871年前；插针为后加）",
+      "overview": "为 akrafo（「灵魂之人」）官员佩于胸前以示等级与职守；造型或受北非伊斯兰金币影响，同心水波纹影响其构图。",
+      "related": [
+        "asante-goldweight",
+        "asante-memorial-head"
+      ],
+      "sources": [
+        "cma-1944-290"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明称，悬于阿坎国家官员与精英胸前的**金圆盘**标示其等级与职守；此类器物**自1800年代**起由称为 **akrafo**（「灵魂之人」）者佩戴。本件定年为1800年代、**1871年之前**（插针为后加）。",
+        "风格特征": "该馆把佩戴者与一类官员联系起来：**kradware**——代表并「清洗（purify）」国王灵魂的官员。也就是说，圆盘不是一般首饰，而与**王权灵魂的维护**相关。",
+        "代表人物与作品": "作者为阿散蒂金匠行会成员（member of the goldsmiths’ guild）。相关条目见阿散蒂金衡砝码与阿散蒂纪念头像。本件为克利夫兰艺术博物馆藏品（1944.290）。",
+        "技法或形式分析": "材质为金，整体7 × 7.6 × 1.6厘米（据该馆藏品记录）。该馆说明指出制作方式：金匠**铸造或锤展**金料。关于形制来源，该馆给出两条：外形与材料**很可能受北非伊斯兰金币启发**；构图则受**同心水波纹**影响。",
+        "与前后风格的关系和争论": "该馆还记录了一条**生产史**：这类金饰的制作**中断直至1924年**，此后（当代）的宫廷官员改佩**较大的圆盘**。这意味着今天我们看到的「传统形制」其实经历过断裂与再造——本条目照录，不把它当作连续不变的传统。",
+        "一图": "示意图以 akrafo 身份、金币与水纹的形制来源、以及1924年前后的断裂三者关系标示本件。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「很可能受伊斯兰金币启发」该馆用 likely，属推测；（3）1871年这一时间点与该件的具体关系（为何以此为断）该馆未展开；（4）1924年恢复制作的历史背景未取得。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='asante-soul-disc 示意图'><title>asante-soul-disc</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>akrafo</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>灵魂之人</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>金圆盘</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1871前</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>金币·水纹</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>形制来源?</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>1924 前后</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>生产断裂</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>阿散蒂灵魂圆盘：身份、形制与断裂</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；形制来源为推测，1924 背景未取得。"
     }
   ]
 }

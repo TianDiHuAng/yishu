@@ -3910,7 +3910,9 @@
         "yoruba-gelede-masks",
         "asante-memorial-head",
         "kongo-prestige-cap",
-        "kongo-crucifix"
+        "kongo-crucifix",
+        "ethiopian-gospel-leaf",
+        "ethiopian-diptych"
       ],
       "sources": [
         "cma-1999-1",
@@ -4098,7 +4100,9 @@
       "overview": "王室在世时委托女性艺人依记忆塑像，逝后置于圣林；理想化的贵人形貌与个人细节并存。",
       "related": [
         "yoruba-gelede-masks",
-        "african-art"
+        "african-art",
+        "asante-goldweight",
+        "asante-soul-disc"
       ],
       "sources": [
         "cma-1990-22"
@@ -4362,6 +4366,86 @@
       ],
       "sources": [
         "cma-1983-156"
+      ]
+    },
+    {
+      "id": "ethiopian-gospel-leaf",
+      "title": "埃塞俄比亚福音书页（圣路加）",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "15世纪",
+      "region": "非洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "埃塞俄比亚提格雷地区的福音书写本单页，克利夫兰艺术博物馆藏（1999.212）。",
+      "when": "约1440—1480年",
+      "overview": "满页细密画绘圣路加及其象征牛；色彩鲜亮、几何图案欢快；题记为吉兹文。",
+      "related": [
+        "ethiopian-diptych",
+        "african-art"
+      ],
+      "sources": [
+        "cma-1999-212"
+      ]
+    },
+    {
+      "id": "ethiopian-diptych",
+      "title": "十二使徒与圣保罗双联画",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "18世纪",
+      "region": "非洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "埃塞俄比亚贡德尔地区的木胎蛋彩双联画，克利夫兰艺术博物馆藏（2023.4）。",
+      "when": "约1700年",
+      "overview": "绘十三位圣者，尺寸适用于教堂或精英居所；属1600年代初至1700年代中宫廷作坊的浓彩风格。",
+      "related": [
+        "ethiopian-gospel-leaf",
+        "african-art"
+      ],
+      "sources": [
+        "cma-2023-4"
+      ]
+    },
+    {
+      "id": "asante-goldweight",
+      "title": "阿散蒂金衡砝码（鱼形）",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "19世纪",
+      "region": "非洲",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "加纳阿散蒂金匠所作铜合金衡器，克利夫兰艺术博物馆藏（1961.399）。",
+      "when": "1800年代",
+      "overview": "至少自1600年起用于称量金粉与金块；王廷收藏最丰，平民常仅十余枚；图像分几何与具象两类，后者多以谚语为据。",
+      "related": [
+        "asante-soul-disc",
+        "asante-memorial-head"
+      ],
+      "sources": [
+        "cma-1961-399"
+      ]
+    },
+    {
+      "id": "asante-soul-disc",
+      "title": "阿散蒂灵魂圆盘（akrafokɔnmu）",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "19世纪",
+      "region": "非洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "加纳阿散蒂金匠行会所作金圆盘，克利夫兰艺术博物馆藏（1944.290）。",
+      "when": "1800年代（1871年前；插针为后加）",
+      "overview": "为 akrafo（「灵魂之人」）官员佩于胸前以示等级与职守；造型或受北非伊斯兰金币影响，同心水波纹影响其构图。",
+      "related": [
+        "asante-goldweight",
+        "asante-memorial-head"
+      ],
+      "sources": [
+        "cma-1944-290"
       ]
     }
   ]

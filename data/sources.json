@@ -3309,6 +3309,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；施釉陶带褐化妆土 高24cm；说明含泰东北窑与果种待定"
+    },
+    {
+      "id": "cma-1999-212",
+      "title": "Cleveland Museum of Art — Leaf from a Gospel Book with Saint Luke, Ethiopia (Tigray), c. 1440–80, acc. 1999.212",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1999.212",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；犊皮纸墨与蛋彩 37×25cm；说明含吉兹文题记与圣路加"
+    },
+    {
+      "id": "cma-2023-4",
+      "title": "Cleveland Museum of Art — Diptych with Twelve Apostles & St. Paul, Ethiopia (Gondär), c. 1700, acc. 2023.4",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2023.4",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；蛋彩、木、织物 39×51cm；说明含宫廷作坊风格与印度输入衣料"
+    },
+    {
+      "id": "cma-1961-399",
+      "title": "Cleveland Museum of Art — Gold Weight (abrammuo): Fish, Asante, 1800s, acc. 1961.399",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1961.399",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；铜合金 2.8×6.6×0.4cm；说明含1600年以来的衡金用途与谚语图像"
+    },
+    {
+      "id": "cma-1944-290",
+      "title": "Cleveland Museum of Art — Disk Pendant (akrafokɔnmu), Asante, 1800s (before 1871), acc. 1944.290",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1944.290",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；金 7×7.6×1.6cm；说明含 akrafo、kradware 与1924年之前停产"
     }
   ]
 }

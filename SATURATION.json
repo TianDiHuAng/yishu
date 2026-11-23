@@ -720,6 +720,19 @@
       },
       "network": "partial",
       "verdict": "弃用坏启发式，改立 R21；6 条 when 规范化；未饱和"
+    },
+    {
+      "cycle": "cycle58",
+      "date": "2026-11-23",
+      "methods_used": [
+        "定向检索"
+      ],
+      "gaps_found": {
+        "entries": 4,
+        "confirmed_unavailable": 2
+      },
+      "network": "partial (museum APIs)",
+      "verdict": "埃塞俄比亚+阿散蒂 4 条（204）；泰/越确认不可得；未饱和"
     }
   ],
   "assessment_c33": {

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 200,
+    "total": 204,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 26,
@@ -2404,6 +2404,54 @@
     },
     "khmer-thai-fruit-jar": {
       "title": "泰东北窑果形罐",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "ethiopian-gospel-leaf": {
+      "title": "埃塞俄比亚福音书页（圣路加）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "ethiopian-diptych": {
+      "title": "十二使徒与圣保罗双联画",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "asante-goldweight": {
+      "title": "阿散蒂金衡砝码（鱼形）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "asante-soul-disc": {
+      "title": "阿散蒂灵魂圆盘（akrafokɔnmu）",
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
