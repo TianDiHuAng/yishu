@@ -13609,6 +13609,140 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='bwa-buffalo-mask 示意图'><title>bwa-buffalo-mask</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>布瓦·20世纪</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>布基纳法索</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>水牛面具</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>69.8cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>灌木精灵</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>护佑</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>旱季仪式</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>成人礼/丰收</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>布瓦水牛：精灵、护佑与仪式</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（CMA）来源；归属存疑；村落未记录。"
+    },
+    {
+      "id": "baffo-harpsichord",
+      "title": "巴福羽管键琴（威尼斯，1574）",
+      "kind": "作品",
+      "unit": "music-instruments",
+      "era": "16世纪",
+      "region": "欧洲",
+      "medium": "乐器",
+      "tier": "核心",
+      "def": "威尼斯巴福制羽管键琴，维多利亚与艾伯特博物馆藏（O58982）。",
+      "when": "1574年",
+      "overview": "50键GG/BB至c3、两列同音弦；柏木音板哥特窗花圆饰；饰伊斯兰纹样与古典母题；末端被截。",
+      "related": [
+        "maler-lute",
+        "stradivari-violin",
+        "northumberland-bagpipe"
+      ],
+      "sources": [
+        "vam-o58982"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明，此琴由**乔瓦尼·巴福（Giovanni Baffo）** 制造——他是**威尼斯**的**首席羽管键琴制造者**；威尼斯是**16世纪欧洲主要乐器生产中心之一**。本件定年**1574年**，维多利亚与艾伯特博物馆藏（O58982）。",
+        "风格特征": "该馆描述：**一组键盘、50 个音**，音域**GG/BB 至 c3**，**两列弦同音高**；音板为**素柏木**，其上的**圆饰（rosette）** 由**羊皮纸制的繁复哥特窗花格**构成，围绕**六个叶瓣**、内嵌**凹边六边形**；此琴**末端被骤然截断**。",
+        "代表人物与作品": "作者为乔瓦尼·巴福。相关条目见马勒鲁特琴与斯特拉迪瓦里小提琴。",
+        "技法或形式分析": "材质为**松木琴箱**，内面贴**玫瑰木**、局部嵌**黄杨**；**柏木音板**；尺寸**长223 × 宽90.7 × 深18.7厘米**（据该馆记录）。",
+        "与前后风格的关系和争论": "该馆指出其**装饰的双重来源**：既有**当时在威尼斯广泛使用的传统伊斯兰纹样**，也有**时髦的古典母题**。本条目据此把手工艺与**跨文化装饰趣味**并置，说明乐器也是贸易与趣味的载体。",
+        "一图": "示意图以巴福制琴、伊斯兰纹样与哥特圆饰三者关系标示本琴。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）「末端被截断」之原因未说明；（3）装饰的伊斯兰母题具体类型未列；（4）修复史未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='baffo-harpsichord 示意图'><title>baffo-harpsichord</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>威尼斯·1574</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>巴福</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>羽管键琴</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>223cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>伊斯兰纹样</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>跨文化</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>哥特圆饰</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>柏木音板</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>巴福羽管键琴：制琴、装饰与音板</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；截断原因与修复史未记录。"
+    },
+    {
+      "id": "maler-lute",
+      "title": "马勒鲁特琴（博洛尼亚，约1540）",
+      "kind": "作品",
+      "unit": "music-instruments",
+      "era": "16世纪",
+      "region": "欧洲",
+      "medium": "乐器",
+      "tier": "核心",
+      "def": "博洛尼亚 Laux Maler 制鲁特琴，维多利亚与艾伯特博物馆藏（O122435）。",
+      "when": "约1540年",
+      "overview": "十一根花纹枫木肋以犊皮/布/胶拼合；仅肋为原件；颈与琴头约1967年补配；Maler 或为其时最伟大的制琴师。",
+      "related": [
+        "baffo-harpsichord",
+        "stradivari-violin",
+        "northumberland-bagpipe"
+      ],
+      "sources": [
+        "vam-o122435"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明，这件鲁特琴**仅其肋（ribs）为原件**，由 **Laux Maler** 制造——他于**1518—1552年**在**博洛尼亚**工作，**或许是其时代最伟大的鲁特琴制造者**。本件约**1540年**，维多利亚与艾伯特博物馆藏（O122435）。",
+        "风格特征": "该馆描述构造：由**十一根花纹枫木肋**构成，以**犊皮、布与胶**拼合；孔下方标签书 **Laux Maler** 但**无日期**；用以加固胶缝的**犊皮条**上覆有**难以辨认的哥特体文字**。",
+        "代表人物与作品": "作者 Laux Maler。相关条目见巴福羽管键琴与斯特拉迪瓦里小提琴。",
+        "技法或形式分析": "材质为**刨制并胶合的枫木肋**；尺寸**长56 × 宽33 × 深16.8厘米**（据该馆记录）。该馆指出，**琴颈与琴头**很可能是在**约1967年**、为**1968年5月**展出而**补配**的。",
+        "与前后风格的关系和争论": "该馆给出**作坊背景**：Maler 与**其子 Sigismund** 合伙，且像许多在意大利的制琴师一样，他**是德国或……**（记录在此处**截断**，本条目**不补写**籍贯）。本条目据此把「原件比例极低」作为理解前提：今日所见的鲁特琴，是**原件＋后世补配**的合成物。",
+        "一图": "示意图以 Maler 制琴、仅肋为原件与1967年补配三者关系标示本琴。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）该馆 summary 在「德国或…」处**截断，未补写**籍贯；（3）哥特体文字未释读；（4）补配前后的音响变化未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='maler-lute 示意图'><title>maler-lute</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>博洛尼亚·约1540</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>Maler</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>鲁特琴</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>56cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>仅肋为原件</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>合成物</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>1967 补配</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>颈与头</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>马勒鲁特琴：制琴、原件与补配</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；summary 截断；文字未释读。"
+    },
+    {
+      "id": "northumberland-bagpipe",
+      "title": "诺森伯兰风笛（约1830）",
+      "kind": "作品",
+      "unit": "music-instruments",
+      "era": "19世纪",
+      "region": "欧洲",
+      "medium": "乐器",
+      "tier": "核心",
+      "def": "纽卡斯尔诺森伯兰风笛，维多利亚与艾伯特博物馆藏（O58248）。",
+      "when": "约1830年",
+      "overview": "乌木管、象牙箍、黄铜键；封闭式旋律管四铜键加四持续管；以风箱而非口吹驱动，音色柔和，多室内演奏。",
+      "related": [
+        "baffo-harpsichord",
+        "maler-lute"
+      ],
+      "sources": [
+        "vam-o58248"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明：**英格兰唯一拥有自身风笛形式的郡是诺森伯兰（Northumberland）**。本件约**1830年**，诸部件在**纽卡斯尔**制造，维多利亚与艾伯特博物馆藏（O58248）。",
+        "风格特征": "该馆描述构造：**乌木管、象牙箍、黄铜键与桃花心木**；含**封闭式旋律管（closed chanter）** 带**四个黄铜键**与**四根持续管（drones）**；各段皆**圆柱形木盒式**；皮袋覆**深红绒布套**，另有**桃花心木风箱**。",
+        "代表人物与作品": "著录引自 **Anthony Baines《V&A 乐器目录·下卷（非键盘乐器）》（1998）第102–103页**。相关条目见巴福羽管键琴与马勒鲁特琴。",
+        "技法或形式分析": "材质为**旋削钻孔的乌木管、象牙箍、黄铜键、刨锯桃花心木**；各管长度约**23.5、16.5、23.3厘米**（多部件，据该馆记录）。",
+        "与前后风格的关系和争论": "该馆给出**发声机制与音色**的对比：与苏格兰高地风笛不同，演奏者**不用口吹**，而是**以横跨胸/肩的风箱**鼓气；因此**音色较柔和**，**多在室内**演奏。本条目据此把「风箱」读作决定音色与使用场景的关键结构。",
+        "一图": "示意图以风箱驱动、四持续管与室内柔音三者关系标示本笛。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）「1882年入藏登记」细节被截断未展开；（3）诺森伯兰公爵雇用乐师之史未展开；（4）音准与调式未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='northumberland-bagpipe 示意图'><title>northumberland-bagpipe</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>诺森伯兰·约1830</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>英格兰</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>风笛</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>四持续管</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>风箱驱动</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>非口吹</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>柔和·室内</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>音色</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>诺森伯兰风笛：风箱、持续管与音色</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；入藏细节截断；音准未记录。"
+    },
+    {
+      "id": "stradivari-violin",
+      "title": "斯特拉迪瓦里小提琴（1699）",
+      "kind": "作品",
+      "unit": "music-instruments",
+      "era": "17世纪",
+      "region": "欧洲",
+      "medium": "乐器",
+      "tier": "核心",
+      "def": "克雷莫纳斯特拉迪瓦里小提琴，维多利亚与艾伯特博物馆藏（O93114）。",
+      "when": "1699年",
+      "overview": "两块松木面板、双线镶边；背为两块枫木；漆非原漆；颈为后配；琴头出自另一琴。",
+      "related": [
+        "maler-lute",
+        "baffo-harpsichord"
+      ],
+      "sources": [
+        "vam-o93114"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明，**安东尼奥·斯特拉迪瓦里（Antonio Stradivari，1644—1737）** 是**克雷莫纳**人，被广泛视为**史上最伟大的小提琴制造者**；其声誉既基于**工艺与设计无与伦比的质量**，也基于**传奇的漆**（依一失传秘方）。本件定年**1699年**，维多利亚与艾伯特博物馆藏（O93114）。",
+        "风格特征": "该馆描述：**两块松木面板**，镶边为**黑黑浅三线**；**漆非原漆**；背为**两块枫木**；**琴颈为后配**、循**现代做法**；**琴头由斯特拉迪瓦里所作**，但据 W. Henley《Antonio Stradivari》，**取自另一把琴**。",
+        "代表人物与作品": "作者斯特拉迪瓦里。相关条目见马勒鲁特琴与巴福羽管键琴。",
+        "技法或形式分析": "材质为**上漆枫木背与上漆松木面板，边缘镶嵌**，配**乌木**件；尺寸**全长59 × 琴身34 × 宽20.5 × 深3.5厘米**（据该馆记录）。",
+        "与前后风格的关系和争论": "该馆以「**工艺与设计**」而非仅「漆」立论，并明言**漆的秘方已失传**。本条目据此把「名琴」拆解为**可核的结构（面板/背/镶边）** 与**不可复现的漆**两部分，避免把传奇当作事实。",
+        "一图": "示意图以斯特拉迪瓦里、面板/背结构与后配颈/异琴头三者关系标示本琴。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）「漆非原漆」与「颈后配」属修复史，细节未全；（3）Henley 著作的引述未核原文；（4）本琴的递藏（provenance）未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='stradivari-violin 示意图'><title>stradivari-violin</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>克雷莫纳·1699</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>斯特拉迪瓦里</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>小提琴</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>全长59cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>松面·枫背</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>结构</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>后配颈·异琴头</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>修复</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>斯氏小提琴：制琴、结构与修复</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；漆/颈修复与递藏未记录。"
     }
   ]
 }

@@ -5169,6 +5169,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；木纤维颜料铁 69.8cm；说明含灌木水牛与护佑"
+    },
+    {
+      "id": "vam-o58982",
+      "title": "Victoria and Albert Museum — Giovanni Baffo harpsichord, Venice, 1574, O58982",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O58982",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；松木箱柏木音板 223×90.7cm；说明含伊斯兰纹样与50键"
+    },
+    {
+      "id": "vam-o122435",
+      "title": "Victoria and Albert Museum — Lute by Laux Maler, Bologna, ca. 1540, O122435",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O122435",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；枫木肋 56×33×16.8cm；说明含仅肋为原件与Maler"
+    },
+    {
+      "id": "vam-o58248",
+      "title": "Victoria and Albert Museum — Northumberland bagpipe, Newcastle, ca. 1830, O58248",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O58248",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；乌木象牙黄铜桃花心木 多部件；说明含风箱驱动与室内演奏"
+    },
+    {
+      "id": "vam-o93114",
+      "title": "Victoria and Albert Museum — Stradivari violin, Cremona, 1699, O93114",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O93114",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；枫木背松木面 全长59cm；说明含琴头出自另一琴"
     }
   ]
 }

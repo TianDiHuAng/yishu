@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 388,
+    "total": 392,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -4660,6 +4660,54 @@
     },
     "bwa-buffalo-mask": {
       "title": "布瓦水牛面具",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "baffo-harpsichord": {
+      "title": "巴福羽管键琴（威尼斯，1574）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "maler-lute": {
+      "title": "马勒鲁特琴（博洛尼亚，约1540）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "northumberland-bagpipe": {
+      "title": "诺森伯兰风笛（约1830）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "stradivari-violin": {
+      "title": "斯特拉迪瓦里小提琴（1699）",
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",

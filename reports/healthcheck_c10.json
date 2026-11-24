@@ -212,6 +212,13 @@
    [
     "1976"
    ]
+  ],
+  [
+   "maler-lute",
+   "约1540年",
+   [
+    "1967"
+   ]
   ]
  ],
  "orphans": [],
@@ -268,6 +275,6 @@
  "link_audit": {
   "cross_domain": 18,
   "oneway": 0,
-  "total_links": 1246
+  "total_links": 1256
  }
 }

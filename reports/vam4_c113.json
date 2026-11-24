@@ -1,0 +1,95 @@
+{
+ "O58982": {
+  "title": "{'title': 'Baffo harpsichord', 'type': 'popular title'}",
+  "date": "{'date': {'text': '1574', 'earliest': '1574-01-01', 'latest': '1574-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Venice', 'id': 'x29237'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "mat": "Pine case, inner face veneered with rosewood, partly inlaid with boxwood; cypress soundboard",
+  "desc": "Harpsichord with one set of  keys consisting of 50 notes, ranging from GG/BB to c3, with two sets of strings tuned at the same pitch. The soundboard is made of plain cypress wood, with a rosette made up of elaborate gothic tracery in parchment, built round six lobes enclosing a hexagon with concave sides. The instrument is abruptly truncated at the end.\r\n\r\n The edges of the instrument, jack rail and base of the keyboard are decorated with ivory studs. These parts, together with the nameboard and inner sides above the sound board, are veneered with rosewood, decorated with gilt moresques and inlaid with interlinking rhomboid patterns made up of ivory and boxwood. On two such rhomboids at either end of the name board the maker has signed and dated this harpsichord. \r\n\r\nThe instrument is placed in a case decorated on the outside with scrolls along the bent and straight sides and a garland of roses on the outside of the lid, which was probably added about two hundred years after the instrument was made. The inside of the lid is elaborately decorated with grotesque ornament and consists of two parts, linked with staple hinges: the smaller part covers the keys and jackrail and the larger one the soundboard . The former consists of a circular batswing frame in the centre enclosing two winged <i>putti</i> holding up the three-crescent emblem of the Strozzi family. This frame is flanked by two moulded rectangular ones, each containing a prancing winged <i>putto</i>. All three frames are linked with bandwork, and the spaces in between are filled with masks and scrolls. A batswing  lunette is placed at each end. The main part of the lid is dominated with a cartouche containing <i>Apollo and the Muses</i>. Either side are winged <i>putti</i>, masks, batswings lunettes and sphynxes and other grottesques. The decoration is crudely cut off at the end.",
+  "summary": "This harpsichord was built by Giovanni Baffo, the leading maker of harpsichords in Venice, one of the main instrument-producing centres in Europe during the 16th century. The instrument is decorated with traditional Islamic patterns, then widely used in Venice, and also fashionable classical motifs, such as Apollo and the Muses, a suitable theme for musical instruments. This instrument has undergone a number of changes, including the altering of the range of the notes, a sign that even if musical fashions changed during the next century the prestige of Baffo's instruments remained intact.",
+  "objtype": "Harpsichord",
+  "dims": [
+   [
+    "Length",
+    "223",
+    "cm"
+   ],
+   [
+    "Width",
+    "90.7",
+    "cm"
+   ],
+   [
+    "Depth",
+    "18.7",
+    "cm"
+   ]
+  ]
+ },
+ "O86702": {
+  "title": "",
+  "date": "{'date': {'text': '19th century', 'earliest': '1800-01-01', 'latest': '1900-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'India', 'id': 'x29790'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "mat": "",
+  "desc": "Small sitar",
+  "summary": "",
+  "objtype": "Sitar",
+  "dims": []
+ },
+ "O58248": {
+  "title": "",
+  "date": "{'date': {'text': 'about 1830', 'earliest': '1830-01-01', 'latest': '1830-12-31'}, 'association': {'text': 'Made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Newcastle-upon-Tyne', 'id': 'x29507'}, 'association': {'text': 'Made', 'id': 'x28654'}, 'note': ''}",
+  "mat": "Turned and drilled ebony pipes; turned ivory mounts; brass keys; planed and sawed mahogany; crimson plush",
+  "desc": "'Ebony pipes, ivory mounted, including closed chanter with four brass keys and four drones. Cylindrical boxes throughout. Bag with cover of Crimson plush. [Mahogany] Bellows.'  Anthony Baines: <i>Catalogue of Musical Instruments in the Victoria and Albert Museum - Part II: Non-keyboard instruments.</i> (London, 1998), pp. 102-103. When acquired by the Museum in 1882 the registered description stated that the bellows were mahogany and the chanters of coca wood.",
+  "summary": "The only county of England to have its own form of bagpipe was Northumberland. Instead of blowing into a mouthpiece, the player works a bellow, which lies across his chest or shoulder. Softer sounding than the Highland version, it is mostly played indoors. The Dukes of Northumberland have employed Northumberland pipers since about 1752, and various societies have helped to maintain interest in this instrument from the 1890s onwards. The most important maker was Robert Reid of Newcastle and North Shields (1786-1837), who probably made this instrument.",
+  "objtype": "Northumberland bagpipe",
+  "dims": [
+   [
+    "Length",
+    "23.5",
+    "cm"
+   ],
+   [
+    "Length",
+    "16.5 cm",
+    "cm"
+   ],
+   [
+    "Length",
+    "23.3",
+    "cm"
+   ]
+  ]
+ },
+ "O93114": {
+  "title": "",
+  "date": "{'date': {'text': '1699', 'earliest': '1699-01-01', 'latest': '1699-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Cremona', 'id': 'x37393'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "mat": "Varnished sycamore back and varnished pine soundboard with purfled (bodered) edges; ebony tailpiece and tuning pegs",
+  "desc": "Belly of two pieces of pine with purfling of two lines black and one light; the varnish is not original. Back of two pieces of sycamore. The neck is later, following modern practice. The head is by Stradivari, though (according to W. Henley, <i>Antonio Stradivari)</i> from another violin.\n\nAnthony Baines, <i>Catalogue of Musical Instruments in the Victoria and Albert Museum</i> <i>- Part II: Non-keyboard instruments.</i> (London, 1998), p. 16.\n\n",
+  "summary": "Antonio Stradivari (1644-1737) of Cremona is widely regarded as the greatest violin maker of all time. His reputation rests on the unparalleled quality of the workmanship and design of his instruments as much as the legendary varnish, made according to a long-lost secret recipe (unfortunately, the varnish on this instrument is not original). Stradivari's finest examples date from about 1699, when this violin was made, until about 1720. As well as making violins, Stradivari also made cellos, guitars and mandolins. From about 1660, the violin began to replace higher pitched viols, because it was easier to produce the brisk sounds demanded by the musical fashions of the day.\r\n",
+  "objtype": "Violin",
+  "dims": [
+   [
+    "Length",
+    "59",
+    "cm"
+   ],
+   [
+    "Length",
+    "34",
+    "cm"
+   ],
+   [
+    "Depth",
+    "3.5",
+    "cm"
+   ],
+   [
+    "Width",
+    "20.5",
+    "cm"
+   ]
+  ]
+ }
+}

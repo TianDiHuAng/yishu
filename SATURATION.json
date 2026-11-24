@@ -1389,6 +1389,18 @@
       },
       "network": "CMA",
       "verdict": "非洲 24→28（总388）；未饱和"
+    },
+    {
+      "cycle": "cycle113",
+      "date": "2026-11-24",
+      "methods_used": [
+        "乐器实物"
+      ],
+      "gaps_found": {
+        "entries": 4
+      },
+      "network": "V&A",
+      "verdict": "乐器 13→17（总392）；未饱和"
     }
   ],
   "assessment_c33": {
