@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 644 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 649 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -353,6 +353,11 @@
 | monteverdi | 蒙特威尔第 | 人物 | 16—17世纪 | 意大利 | 音乐体裁 | 重要 | O1 |
 | concerto | 协奏曲（Concerto） | 术语 | 巴洛克晚期—今 | 欧洲 | 音乐体裁 | 重要 | O4 |
 | vivaldi | 维瓦尔第（Antonio Vivaldi） | 人物 | 17—18世纪 | 意大利 | 音乐体裁 | 核心 | O1 |
+| purcell | 珀塞尔（Henry Purcell） | 人物 | 17世纪 | 英国 | 音乐体裁 | 重要 | O1 |
+| lully | 吕利（Jean-Baptiste Lully） | 人物 | 17世纪 | 法国 | 音乐体裁 | 重要 | O1 |
+| scarlatti-domenico | 多梅尼科·斯卡拉蒂（Domenico Scarlatti） | 人物 | 17—18世纪 | 意大利 | 音乐体裁 | 重要 | O1 |
+| corelli | 科雷利（Arcangelo Corelli） | 人物 | 17—18世纪 | 意大利 | 音乐体裁 | 重要 | O1 |
+| telemann | 泰勒曼（Georg Philipp Telemann） | 人物 | 17—18世纪 | 德国 | 音乐体裁 | 重要 | O1 |
 
 ## music-classical（音乐史·古典）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

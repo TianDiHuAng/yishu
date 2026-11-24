@@ -8209,6 +8209,126 @@
       "type": "权威结构化数据",
       "verified": true,
       "verified_note": "2026-11-24 经 wd_api 读取实体成功，英文标签与条目一致；年代取自其英文简介"
+    },
+    {
+      "id": "enc-purcell",
+      "title": "Henry Purcell",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Henry_Purcell",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "enc-c179-baroque-music",
+      "title": "Baroque music",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Baroque_music",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-purcell",
+      "title": "Wikidata: Henry Purcell (Q9695)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q9695",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-24 经 wd_api 读取实体成功，英文标签与条目一致；年代取自其英文简介（如有）"
+    },
+    {
+      "id": "enc-lully",
+      "title": "Jean-Baptiste Lully",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Jean-Baptiste_Lully",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "enc-c179-french-opera",
+      "title": "French opera",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/French_opera",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-lully",
+      "title": "Wikidata: Jean-Baptiste Lully (Q1192)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q1192",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-24 经 wd_api 读取实体成功，英文标签与条目一致；年代取自其英文简介（如有）"
+    },
+    {
+      "id": "enc-scarlatti-domenico",
+      "title": "Domenico Scarlatti",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Domenico_Scarlatti",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-scarlatti-domenico",
+      "title": "Wikidata: Domenico Scarlatti (Q167837)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q167837",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-24 经 wd_api 读取实体成功，英文标签与条目一致；年代取自其英文简介（如有）"
+    },
+    {
+      "id": "enc-corelli",
+      "title": "Arcangelo Corelli",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Arcangelo_Corelli",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-corelli",
+      "title": "Wikidata: Arcangelo Corelli (Q164475)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q164475",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-24 经 wd_api 读取实体成功，英文标签与条目一致；年代取自其英文简介（如有）"
+    },
+    {
+      "id": "enc-telemann",
+      "title": "Georg Philipp Telemann",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Georg_Philipp_Telemann",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-telemann",
+      "title": "Wikidata: Georg Philipp Telemann (Q75854)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q75854",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-24 经 wd_api 读取实体成功，英文标签与条目一致；年代取自其英文简介（如有）"
     }
   ]
 }

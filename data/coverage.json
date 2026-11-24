@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 644,
+    "total": 649,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -7732,6 +7732,66 @@
     },
     "leonin": {
       "title": "莱奥南（Léonin）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 3,
+      "verified_sources_count": 3,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "purcell": {
+      "title": "珀塞尔（Henry Purcell）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 3,
+      "verified_sources_count": 3,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "lully": {
+      "title": "吕利（Jean-Baptiste Lully）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 3,
+      "verified_sources_count": 3,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "scarlatti-domenico": {
+      "title": "多梅尼科·斯卡拉蒂（Domenico Scarlatti）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 3,
+      "verified_sources_count": 3,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "corelli": {
+      "title": "科雷利（Arcangelo Corelli）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 3,
+      "verified_sources_count": 3,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "telemann": {
+      "title": "泰勒曼（Georg Philipp Telemann）",
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
