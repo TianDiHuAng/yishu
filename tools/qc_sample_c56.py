@@ -61,7 +61,16 @@ for e in sample:
                         issues.append((e["id"],"尺寸数字未在正文出现:%s（记录:%s）"%(miss,a.get("measurements","")[:40]),"C"))
             yrs=[] if re.search(r"c\.|possibly| or |mid-|late|early",cd) else re.findall(r"\d{3,4}",cd)
             if yrs:
-                hit=any((y in body) or (y in e.get("when","")) for y in yrs[:2])
+                def _cens(y):
+                    n=int(y)
+                    if n<100: return []
+                    # 同时给出两种世纪解释：紧邻与"NN00s"惯用义，避免误报
+                    return ["%d世纪"%(n//100),"%d世纪"%(n//100+1)]
+                cands=[]
+                for y in yrs[:2]:
+                    cands.append(y)
+                    cands.extend(_cens(y))
+                hit=any((x in body) or (x in e.get("when","")) for x in cands)
                 if not hit:
                     issues.append((e["id"],"记录年代「%s」未在正文/年代字段出现"%cd,"C"))
         elif "api.vam.ac.uk" in u:

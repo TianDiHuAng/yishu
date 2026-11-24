@@ -1246,6 +1246,16 @@
       },
       "network": "partial (museum APIs)",
       "verdict": "中世纪 6→10（总344）；未饱和"
+    },
+    {
+      "cycle": "cycle101",
+      "date": "2026-11-24",
+      "methods_used": [
+        "全量机构来源复核"
+      ],
+      "gaps_found": {},
+      "network": "partial (museum APIs)",
+      "verdict": "199 条全量复核：139/139 命中、0 真问题；修校验器世纪换算；未饱和"
     }
   ],
   "assessment_c33": {
