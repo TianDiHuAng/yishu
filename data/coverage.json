@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 492,
+    "total": 496,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -5908,6 +5908,54 @@
     },
     "attic-stamnos-dionysus": {
       "title": "雅典红绘斯塔姆诺斯",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "polonaise-carpet": {
+      "title": "「波兰式」毯（伊斯法罕）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "salting-carpet": {
+      "title": "萨尔廷毯",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "chelsea-carpet": {
+      "title": "切尔西毯",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "cairo-court-carpet": {
+      "title": "开罗奥斯曼宫廷毯",
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",

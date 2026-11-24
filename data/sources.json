@@ -6179,6 +6179,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；红绘陶 26.4×28.9cm；说明含狄俄尼索斯与迈那得/西勒诺斯"
+    },
+    {
+      "id": "vam-o85114",
+      "title": "Victoria and Albert Museum — 'Polonaise' carpet, Isfahan, 1600–1625, O85114",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O85114",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；丝金银线 259×144.8cm；说明含伊朗制与纳杰夫神祠毯"
+    },
+    {
+      "id": "vam-o54294",
+      "title": "Victoria and Albert Museum — The Salting Carpet, Iran, 1560–1580, O54294",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O54294",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；2.31×1.65m；说明含哈菲兹诗与夜莺"
+    },
+    {
+      "id": "vam-o85144",
+      "title": "Victoria and Albert Museum — The Chelsea Carpet, Iran, 1500–1550, O85144",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O85144",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；羊毛栽绒丝经 549×310cm 重40kg；说明含书籍艺术类比"
+    },
+    {
+      "id": "vam-o79396",
+      "title": "Victoria and Albert Museum — Ottoman court carpet, Cairo, 1525–1550, O79396",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O79396",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；羊毛 2180×2030cm 重18.5kg；说明含六片缝合与21相关件"
     }
   ]
 }

@@ -1,0 +1,19 @@
+{
+ "id": "salting-carpet",
+ "level": "L2",
+ "sections": {
+  "时代背景": "该馆说明：本件为**16世纪晚期伊朗**地毯，是一件**极精且美**的毯，**16世纪末**，V&A 藏（O54294）。",
+  "风格特征": "该馆描述**画面**：**中央分瓣团花**，配**金属线的半棕叶缠枝**与**粉色的花卉缠枝**，**红地**，映于**深蓝地的主区**；主区**填以云带、花茎与莲花**（莲中**含兽首**），还有**褐色的鸟**（**或即所指的夜莺**）。",
+  "代表人物与作品": "作者未署名。相关条目见阿尔达比勒毯与切尔西毯。",
+  "技法或形式分析": "材质为**羊毛栽绒（金属线 brocade）**；尺寸**长2.31 × 宽1.65米**（据该馆记录）。该馆并指出**铭文**：**四周边缘**有**波斯诗句**，以金属织锦**高亮**；诗句**引大诗人哈菲兹（Hafez，卒1389）**，**描写花园、夜莺、玫瑰与酒的极乐世界**。",
+  "与前后风格的关系和争论": "本条目据该馆说明把握「**诗入毯**」：纹样（花、鸟、兽首）与边饰诗句**互为注脚**——地毯成为**可躺卧的抒情诗页**。这使织物同时是**实用陈设**与**文学载体**。",
+  "一图": "示意图以团花云带、哈菲兹边诗与夜莺三者关系标示本毯。",
+  "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）诗句全文未迻录；（3）「或即夜莺」该馆用 perhaps；（4）织地与递藏未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='salting-carpet 示意图'><title>salting-carpet</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>伊朗·1560—80</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>羊毛栽绒</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>萨尔廷毯</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>2.31×1.65m</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>团花·云带</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>主区</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>哈菲兹边诗</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>诗入毯</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>萨尔廷毯：纹样、诗句与夜莺</text></g></svg>",
+ "sources": [
+  "vam-o54294"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（V&A）来源；诗句未迻录；织地未记录。"
+}

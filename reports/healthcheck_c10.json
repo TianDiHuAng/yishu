@@ -274,6 +274,13 @@
    [
     "1529"
    ]
+  ],
+  [
+   "salting-carpet",
+   "1560—1580年",
+   [
+    "1389"
+   ]
   ]
  ],
  "orphans": [],
@@ -330,6 +337,6 @@
  "link_audit": {
   "cross_domain": 24,
   "oneway": 0,
-  "total_links": 1620
+  "total_links": 1634
  }
 }

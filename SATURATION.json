@@ -1741,6 +1741,18 @@
       },
       "network": "V&A",
       "verdict": "art-ancient 34→38（总492）；未饱和"
+    },
+    {
+      "cycle": "cycle142",
+      "date": "2026-11-24",
+      "methods_used": [
+        "伊斯兰地毯"
+      ],
+      "gaps_found": {
+        "entries": 4
+      },
+      "network": "V&A",
+      "verdict": "art-islamic 37→41（总496）；未饱和"
     }
   ],
   "assessment_c33": {

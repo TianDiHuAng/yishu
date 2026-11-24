@@ -8178,7 +8178,10 @@
         "islamic-art",
         "ottoman-silk-lampas",
         "kente-cloth-va1950",
-        "safavid-poppy-textile"
+        "safavid-poppy-textile",
+        "polonaise-carpet",
+        "salting-carpet",
+        "cairo-court-carpet"
       ],
       "sources": [
         "vam-o54307"
@@ -10640,6 +10643,89 @@
       ],
       "sources": [
         "vam-o340729"
+      ]
+    },
+    {
+      "id": "polonaise-carpet",
+      "title": "「波兰式」毯（伊斯法罕）",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "17世纪",
+      "region": "西亚·中亚",
+      "medium": "织物",
+      "tier": "核心",
+      "def": "伊斯法罕丝金银线毯，维多利亚与艾伯特博物馆藏（O85114）。",
+      "when": "1600—1625年",
+      "overview": "实为伊朗所制而误名「波兰式」；红线黄线丝地配金银线；纹样近于阿巴斯大帝献纳杰夫神祠巨毯；17世纪初经贸易/王室馈赠入欧。",
+      "related": [
+        "ardabil-carpet",
+        "salting-carpet",
+        "chelsea-carpet"
+      ],
+      "sources": [
+        "vam-o85114"
+      ]
+    },
+    {
+      "id": "salting-carpet",
+      "title": "萨尔廷毯",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "16世纪",
+      "region": "西亚·中亚",
+      "medium": "织物",
+      "tier": "核心",
+      "def": "伊朗精美地毯，维多利亚与艾伯特博物馆藏（O54294）。",
+      "when": "1560—1580年",
+      "overview": "中央分瓣团花、金属线与粉色缠枝于红地，主区深蓝地填云带、莲与含兽首之花、褐鸟（或夜莺）；边饰绕哈菲兹（卒1389）波斯诗句，咏花园/夜莺/玫瑰/酒。",
+      "related": [
+        "ardabil-carpet",
+        "polonaise-carpet",
+        "chelsea-carpet"
+      ],
+      "sources": [
+        "vam-o54294"
+      ]
+    },
+    {
+      "id": "chelsea-carpet",
+      "title": "切尔西毯",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "16世纪",
+      "region": "西亚·中亚",
+      "medium": "织物",
+      "tier": "核心",
+      "def": "伊朗羊毛栽绒丝经毯，维多利亚与艾伯特博物馆藏（O85144）。",
+      "when": "1500—1550年",
+      "overview": "萨法维朝前半，红地重复团花间填动物鸟树，主边往复纹；虽无铭，却与早期萨法维书籍艺术及狩猎毯相通；尺幅巨大而团花一统。",
+      "related": [
+        "salting-carpet",
+        "polonaise-carpet",
+        "cairo-court-carpet"
+      ],
+      "sources": [
+        "vam-o85144"
+      ]
+    },
+    {
+      "id": "cairo-court-carpet",
+      "title": "开罗奥斯曼宫廷毯",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "16世纪",
+      "region": "西亚·中亚",
+      "medium": "织物",
+      "tier": "核心",
+      "def": "开罗奥斯曼宫廷毯，维多利亚与艾伯特博物馆藏（O79396）。",
+      "when": "1525—1550年",
+      "overview": "绿松蓝大团花居中、四角四分一花，红地花卉；看似完整实由至少六大片缝合；与巴黎装饰艺术馆一方几近相同，另有华盛顿/开罗/斯德哥尔摩及V&A残片，共21件相关散藏各处。",
+      "related": [
+        "ardabil-carpet",
+        "chelsea-carpet"
+      ],
+      "sources": [
+        "vam-o79396"
       ]
     }
   ]

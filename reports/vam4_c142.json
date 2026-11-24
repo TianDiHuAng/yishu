@@ -1,0 +1,106 @@
+{
+ "O85114": {
+  "title": "{'title': \"'Polonaise' carpet\", 'type': 'generic title'}",
+  "date": "{'date': {'text': '1600-1625', 'earliest': '1600-01-01', 'latest': '1625-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Isfahan', 'id': 'x28926'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': 'probably'}",
+  "mat": "Silk warp and weft, silk pile with metal-wrapped thread",
+  "desc": "A large rectangular carpet fragment with borders on two sides. Strapwork design in red and yellow silk with gold- and silver-wrapped thread.",
+  "summary": "This type of carpet is known as a ‘Polonaise carpet’ even though it was made in Iran. The design of this fragment is nearly identical to that of a huge carpet donated to the shrine at Najaf in Iraq, probably by Shah Abbas the Great.\r\n\r\nThe misleading name arose because carpets of this type came to Europe in the early 17th century through trade or as royal gifts. Many were found in Poland and were later mistaken for Polish products. This gave rise to the term ‘Polonaise  carpet’.",
+  "objtype": "Carpet",
+  "dims": [
+   [
+    "Length",
+    "259",
+    "cm"
+   ],
+   [
+    "Width",
+    "144.8",
+    "cm"
+   ]
+  ]
+ },
+ "O54294": {
+  "title": "{'title': 'The Salting Carpet', 'type': 'popular title'}",
+  "date": "{'date': {'text': '1560-1580', 'earliest': '1560-01-01', 'latest': '1580-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Iran', 'id': 'x30220'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}; {'place': {'text': 'Qazwin', 'id': 'x41803'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': 'possibly'}",
+  "mat": "Hand-knotted wool pile, on silk warp and weft, with areas brocaded with metal thread; asymmetrical knot, open to the left; 600-756 knots per sq. in (9,024-11,544 per sq. dm).\nWARP: yellow silk; Z2S; depressed; 192 - 208 warp threads per dm (48 - 54 per in)\r\nWEFT: Foundation weft: yellow silk; Z2S; 3 shoots after each row of knots; 94 - 111 knots per dm (25 - 28 knots per in). Pattern weft: (1) silver strip, Z-twisted around a yellow silk core; (2) silver strip, Z-twisted around a white silk core; brocaded over 3 warp threads.\r\nPILE: wool; 14 colours: dark red, light red, dark orange, yellow, dark green, green, light green, very light green, dark blue, blue, very light blue, dark brown, brown, white; asymmetrical knot open to the left; 9024 -11544 knots per sq.dm (600 - 756 knots per sq. in).\r\nSIDE FINISH: one cord oversewn with dark red silk.\r\nEND FINISH: Lower: part missing but there are the remains of a tapestry-woven band with an inscription in black and silver thread.  Upper: cut.",
+  "desc": "Field: central lobed medallion with half-palmette scrollwork in metal thread and pink floral scrollwork on red ground, set against main field of dark blue ground. The main field is filled with cloudbands, floral stems and lotus flowers containing animal heads, as well as brown birds (perhaps the nightingales referred to in the surrounding poetry), green parrots, Chinese-style lions and dragons.\nMain border: red cartouches of Persian poetry in metal brocade, on green ground\r\nInner border: white ground with light brown flowers and stems.\r\nOuter border: light red with red floral scroll.",
+  "summary": "Dating from late sixteenth-century Iran, this is an extremely fine and beautiful carpet, with an intricate floral design filled with wild creatures, and verses of Persian poetry all around the borders, highlighted in metal brocade. The lines quote the great Iranian poet Hafez (d.1389), and they describe a blissful world of gardens, nightingales, roses and wine. This poetry was certainly chosen to suit the design and intended purpose of the carpet itself, to be a beautiful place to sit together with friends, in a private garden, reciting romantic verses: “Call for wine and scatter roses: what do you seek from Time?/ Thus spoke the rose at dawn. O nightingale, what say you?” The verses are emphasised by the scale of the fine calligraphy, by the use of silver brocade lettering against a dark red background, and by the distinctive formatting: each half-verse is placed in a cartouche, laid against a green border. The central medallion repeats the red and pink background, with a leafy design also overlaid with gleaming metal brocade. \n\nThe carpet is attributed to the late sixteenth century, and the Safavid court of Iran (which was then based in Qazvin). At this time, carpet weaving had reached an extraordinarily high standard of design and technique, and the Safavid shahs commissioned the finest carpets as pious shrine donations, personal furnishings and suitably impressive diplomatic gifts to other states. \n\nKnown in scholarly literature as \"the Salting Carpet\", this famous carpet belongs to a larger carpet group which has long been debated by art historians. A diverse set was collectively named “Salting Carpets”, named after this example in the V&amp;A, although they are now understood as a more complex cluster with a wider date-range. Today, consensus attributes the central group to late sixteenth-century Iran, on the basis of style and technical structure, and by association with recorded diplomatic gifts from Safavid Iran to the Ottoman empire, including the embassy sent in 1567. Two carpets are known to have been in European collections (in Poland and Spain) by the seventeenth century, but the majority were not published until after the 1878 international exhibition in Paris: then the art-dealer Albert Goupil displayed several at his Galerie Orientale loan exhibition. George Salting bought this carpet from the London-based art-dealers Murray Marks and Durlacher Brothers, between 1880 and 1883. Although not proven, it is suggested that by 1878, these carpets had very recently come from Istanbul, having been sold out of the Ottoman palace stores. One explanation for this was the sudden instability in the city, which was under threat of the Russian-Turkish war of 1877-8: the British press certainly noted a sudden influx of other Turkish textiles on the art market as a direct result of that civilian fear. These carpets are exceptionally significant though, as Safavid court products of late sixteenth-century Iran.",
+  "objtype": "Carpet",
+  "dims": [
+   [
+    "Length",
+    "2.31",
+    "m"
+   ],
+   [
+    "Width",
+    "1.65",
+    "m"
+   ]
+  ]
+ },
+ "O85144": {
+  "title": "{'title': 'The Chelsea Carpet', 'type': 'popular title'}",
+  "date": "{'date': {'text': '1500-1550', 'earliest': '1500-01-01', 'latest': '1550-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Iran', 'id': 'x30220'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}; {'place': {'text': 'Tabriz', 'id': 'x39539'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': 'possibly'}; {'place': {'text': 'Qazvin', 'id': 'x41803'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': 'possibly'}",
+  "mat": "Warp: Z2S, silk\r\nWeft: three shoots, silk but query second weft\r\nWool pile: 470 knots/square inch, asymmetrical open to the left, 13 colours.\r\nSide and end finish: missing",
+  "desc": "Carpet, wool knotted pile on silk warp and weft, repeat medallion design on red ground filled with animals, birds and trees, main border with reciprocal design.",
+  "summary": "The beautiful carpet was woven in Iran, probably in the first half of the sixteenth century, during the reign of the Safavid dynasty. While it does not have any inscriptions linking it with a specific patron, place or date, the design holds many parallels with the arts of the book in early Safavid Iran, and with similar hunting carpets.\r\nDespite its large scale, this medallion carpet has a fine and complex design that rewards very close inspection. In its general layout, there are two lobed black medallions down the central axis, with four diagonal radiating oval pendants each, all set against a dark red main field. These medallions are then repeated by quarter-medallions in the four corners of the field, and by two half-medallions on either side. Each medallion is filled with a very refined radial design of yellow strapwork and large flowers, while each oval pendant is occupied by fluttering birds and Chinese-style cloudbands. Below this medallion superstructure, the red main field is a rich and varied garden landscape of trees and wildlife. There are trees with white blossoms, and others filled with ripe pomegranates. There are also leafy spiralling stems, with large lotus flowers. Among this greenery, the carpet is filled with animals and birds: there are resting pairs of spotted goats, lions and treetop birds. Predominantly though, the main field is full of hunting scenes: leopards killing horned goats, hawks killing long-legged water birds and lions killing stags. Down the central axis of the design, there are ornate Chinese style vases, formed of dragons, lions and peacocks, and lobed ponds full of fish.\r\nBeyond the main field, the main border features a reciprocal pattern, of an interlocking arcade in red versus black (or rather extremely dark blue indigo). On a slightly more condensed scale to the main field, this border also features hunting pairs: a snow leopard attacking a horned goat, and a lion pinning down a bull. A beautifully drawn pair of supernatural creatures confront each other in the dark blue arcading: a Chinese-style dragon opposite a long-tailed phoenix. Throughout the main and two minor borders, the design also features overlaid designs of leafy plant scrolls and Chinese cloudband motifs.\r\n",
+  "objtype": "Carpet",
+  "dims": [
+   [
+    "Length",
+    "549",
+    "cm"
+   ],
+   [
+    "Width",
+    "310",
+    "cm"
+   ],
+   [
+    "Weight",
+    "40",
+    "kg"
+   ]
+  ]
+ },
+ "O66858": {
+  "title": "",
+  "date": "{'date': {'text': '1550-1600', 'earliest': '1550-01-01', 'latest': '1600-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Iran', 'id': 'x30220'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "mat": "carpet",
+  "desc": "Carpet, reduced in width, hand-knotted woollen pile; Persian, 16th century.",
+  "summary": "",
+  "objtype": "Carpet",
+  "dims": [
+   [
+    "Width",
+    "1670",
+    "mm"
+   ],
+   [
+    "Width",
+    "1645",
+    "mm"
+   ],
+   [
+    "Length",
+    "3555",
+    "mm"
+   ],
+   [
+    "Length",
+    "3555",
+    "mm"
+   ],
+   [
+    "Weight",
+    "20.5",
+    "kg"
+   ]
+  ]
+ }
+}

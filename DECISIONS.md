@@ -1452,3 +1452,13 @@ art-medieval 18→22。**自查**：overlay 一处节名误作「关系与争论
 art-ancient 34→38。写前查重通过。
 可逆：删 4 条 overlay 与 catalog 元组、移除 4 条来源。代价：均单机构（V&A）。
 
+
+## D145 — Cycle142 伊斯兰地毯 4 条（492 → 496）
+`polonaise-carpet`（『波兰式』毯，1600—25，**核心**；实为伊朗制、误名＝流通史化石、近纳杰夫神祠毯）、
+`salting-carpet`（萨尔廷毯，1560—80，**核心**；团花云带＋哈菲兹边诗＋夜莺＝诗入毯）、
+`chelsea-carpet`（切尔西毯，1500—50，**核心**；无铭断代、与书籍艺术类比）、
+`cairo-court-carpet`（开罗奥斯曼宫廷毯，1525—50，**核心**；六片缝合的完整性假象＋21相关碎片散藏）。
+art-islamic 37→41。**自查**：polonaise 曾误写「克利夫兰藏」，构建前改为 V&A。
+**如实保留截断**：polonaise「Many were found…」、chelsea「medallion…」未补写。
+可逆：删 4 条 overlay 与 catalog 元组、移除 4 条来源。代价：均单机构（V&A）。
+

@@ -13184,7 +13184,10 @@
         "islamic-art",
         "ottoman-silk-lampas",
         "kente-cloth-va1950",
-        "safavid-poppy-textile"
+        "safavid-poppy-textile",
+        "polonaise-carpet",
+        "salting-carpet",
+        "cairo-court-carpet"
       ],
       "sources": [
         "vam-o54307"
@@ -17207,6 +17210,141 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='attic-stamnos-dionysus 示意图'><title>attic-stamnos-dionysus</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>雅典·前450</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>红绘</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>斯塔姆诺斯</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>26.4cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>狄俄尼索斯</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>居中</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>迈那得·西勒诺斯</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>随从</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>斯塔姆诺斯：技法与酒神题材</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（V&A）来源；无 summary；用途未说明。"
+    },
+    {
+      "id": "polonaise-carpet",
+      "title": "「波兰式」毯（伊斯法罕）",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "17世纪",
+      "region": "西亚·中亚",
+      "medium": "织物",
+      "tier": "核心",
+      "def": "伊斯法罕丝金银线毯，维多利亚与艾伯特博物馆藏（O85114）。",
+      "when": "1600—1625年",
+      "overview": "实为伊朗所制而误名「波兰式」；红线黄线丝地配金银线；纹样近于阿巴斯大帝献纳杰夫神祠巨毯；17世纪初经贸易/王室馈赠入欧。",
+      "related": [
+        "ardabil-carpet",
+        "salting-carpet",
+        "chelsea-carpet"
+      ],
+      "sources": [
+        "vam-o85114"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**伊斯法罕（Isfahan）**所制毯（1600—1625），V&A 藏（O85114）。",
+        "风格特征": "该馆描述：一大块**矩形残毯**，**两侧有边**；**红线、黄线的丝地**配以**金银包线**，作**带索纹（strapwork）**设计。",
+        "代表人物与作品": "作者未署名。相关条目见阿尔达比勒毯与萨尔廷毯。",
+        "技法或形式分析": "材质为**丝，配金/银包线**；尺寸**长259 × 宽144.8厘米**（据该馆记录）。",
+        "与前后风格的关系和争论": "该馆给出**名与实之辨**：此类毯被称为「**波兰式（Polonaise）**」，**尽管它制于伊朗**；其**误导性之名**源于17世纪初此类毯**经贸易或作为王室馈赠**大量进入欧洲（记录在此处**截断**，本条目**不补写**后续）。该馆并指出：此残片的设计**近乎同一幅献给伊拉克纳杰夫（Najaf）神祠的巨毯**——**或由沙阿·阿巴斯大帝（Shah Abbas the Great）所捐**。本条目据此把「命名错误」当作**流通史的化石**。",
+        "一图": "示意图以伊朗制、『波兰式』误名与纳杰夫神祠毯三者关系标示本毯。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）该馆 summary 在「Many were found…」处**截断，未补写**；（3）纳杰夫毯的捐赠者该馆用 probably；（4）残片原尺寸未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='polonaise-carpet 示意图'><title>polonaise-carpet</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>伊斯法罕·1600—25</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>丝金银线</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>『波兰式』毯</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>259cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>误名</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>流通化石</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>纳杰夫神祠毯</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>阿巴斯?</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>波兰式毯：名、实与神祠</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；summary 截断；捐赠者为推测。"
+    },
+    {
+      "id": "salting-carpet",
+      "title": "萨尔廷毯",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "16世纪",
+      "region": "西亚·中亚",
+      "medium": "织物",
+      "tier": "核心",
+      "def": "伊朗精美地毯，维多利亚与艾伯特博物馆藏（O54294）。",
+      "when": "1560—1580年",
+      "overview": "中央分瓣团花、金属线与粉色缠枝于红地，主区深蓝地填云带、莲与含兽首之花、褐鸟（或夜莺）；边饰绕哈菲兹（卒1389）波斯诗句，咏花园/夜莺/玫瑰/酒。",
+      "related": [
+        "ardabil-carpet",
+        "polonaise-carpet",
+        "chelsea-carpet"
+      ],
+      "sources": [
+        "vam-o54294"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明：本件为**16世纪晚期伊朗**地毯，是一件**极精且美**的毯，**16世纪末**，V&A 藏（O54294）。",
+        "风格特征": "该馆描述**画面**：**中央分瓣团花**，配**金属线的半棕叶缠枝**与**粉色的花卉缠枝**，**红地**，映于**深蓝地的主区**；主区**填以云带、花茎与莲花**（莲中**含兽首**），还有**褐色的鸟**（**或即所指的夜莺**）。",
+        "代表人物与作品": "作者未署名。相关条目见阿尔达比勒毯与切尔西毯。",
+        "技法或形式分析": "材质为**羊毛栽绒（金属线 brocade）**；尺寸**长2.31 × 宽1.65米**（据该馆记录）。该馆并指出**铭文**：**四周边缘**有**波斯诗句**，以金属织锦**高亮**；诗句**引大诗人哈菲兹（Hafez，卒1389）**，**描写花园、夜莺、玫瑰与酒的极乐世界**。",
+        "与前后风格的关系和争论": "本条目据该馆说明把握「**诗入毯**」：纹样（花、鸟、兽首）与边饰诗句**互为注脚**——地毯成为**可躺卧的抒情诗页**。这使织物同时是**实用陈设**与**文学载体**。",
+        "一图": "示意图以团花云带、哈菲兹边诗与夜莺三者关系标示本毯。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）诗句全文未迻录；（3）「或即夜莺」该馆用 perhaps；（4）织地与递藏未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='salting-carpet 示意图'><title>salting-carpet</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>伊朗·1560—80</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>羊毛栽绒</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>萨尔廷毯</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>2.31×1.65m</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>团花·云带</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>主区</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>哈菲兹边诗</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>诗入毯</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>萨尔廷毯：纹样、诗句与夜莺</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；诗句未迻录；织地未记录。"
+    },
+    {
+      "id": "chelsea-carpet",
+      "title": "切尔西毯",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "16世纪",
+      "region": "西亚·中亚",
+      "medium": "织物",
+      "tier": "核心",
+      "def": "伊朗羊毛栽绒丝经毯，维多利亚与艾伯特博物馆藏（O85144）。",
+      "when": "1500—1550年",
+      "overview": "萨法维朝前半，红地重复团花间填动物鸟树，主边往复纹；虽无铭，却与早期萨法维书籍艺术及狩猎毯相通；尺幅巨大而团花一统。",
+      "related": [
+        "salting-carpet",
+        "polonaise-carpet",
+        "cairo-court-carpet"
+      ],
+      "sources": [
+        "vam-o85144"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明：此毯**织于伊朗**，**很可能在16世纪上半叶**、**萨法维王朝**治下，V&A 藏（O85144）。",
+        "风格特征": "该馆描述：**羊毛栽绒、丝经丝纬**；**红地重复团花**，**间填动物、鸟与树**；**主边作往复（reciprocal）纹**。",
+        "代表人物与作品": "作者未署名。相关条目见萨尔廷毯与波兰式毯。",
+        "技法或形式分析": "材质为**羊毛栽绒，丝经丝纬**；尺寸**长549 × 宽310厘米**，重40千克（据该馆记录）。",
+        "与前后风格的关系和争论": "该馆指出**断代与类比的依据**：虽**无任何铭文**联系到特定**赞助人、地点或日期**，其设计**与早期萨法维伊朗的书籍艺术以及同类狩猎毯颇多相通**；并称**尽管尺幅巨大**，其**团花**……（记录在「medallion…」处**截断**，本条目**不补写**）。本条目据此把「书籍艺术」当作**织物断代的间接标尺**。",
+        "一图": "示意图以无铭断代、书籍艺术类比与巨型团花三者关系标示本毯。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）该馆 summary 在「medallion…」处**截断，未补写**；（3）「16世纪上半叶」该馆用 probably/或；（4）递藏未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='chelsea-carpet 示意图'><title>chelsea-carpet</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>伊朗·1500—50</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>丝经羊毛</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>切尔西毯</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>549×310</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>无铭断代</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>书籍类比</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>红地团花</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>填兽鸟树</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>切尔西毯：断代、类比与团花</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；summary 截断；递藏未记录。"
+    },
+    {
+      "id": "cairo-court-carpet",
+      "title": "开罗奥斯曼宫廷毯",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "16世纪",
+      "region": "西亚·中亚",
+      "medium": "织物",
+      "tier": "核心",
+      "def": "开罗奥斯曼宫廷毯，维多利亚与艾伯特博物馆藏（O79396）。",
+      "when": "1525—1550年",
+      "overview": "绿松蓝大团花居中、四角四分一花，红地花卉；看似完整实由至少六大片缝合；与巴黎装饰艺术馆一方几近相同，另有华盛顿/开罗/斯德哥尔摩及V&A残片，共21件相关散藏各处。",
+      "related": [
+        "ardabil-carpet",
+        "chelsea-carpet"
+      ],
+      "sources": [
+        "vam-o79396"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**16世纪**奥斯曼宫廷毯，产地**开罗（Cairo）**，V&A 藏（O79396）。",
+        "风格特征": "该馆描述：**大椭圆团花居中**，**四角有四分一团花**，**蓝色衬于深红地**的**花卉装饰**之上。",
+        "代表人物与作品": "作者未署名。相关条目见阿尔达比勒毯与切尔西毯。",
+        "技法或形式分析": "材质为**羊毛（经、纬、绒）**；尺寸**宽2180 × 长2030厘米**，重18.5千克（据该馆记录）。",
+        "与前后风格的关系和争论": "该馆给出一条**「完整性的假象」**：此毯**看似完整**，**细察可见至少六大块被缝合在一起**；并指出**巴黎装饰艺术馆有一方几近相同的方形毯**，**华盛顿、开罗、斯德哥尔摩与 V&A（336、337-1892）另有残片**，**共21件相关碎片散藏多处**。本条目据此把「一毯」读作**散落团队的局部重组**——与写本、对屏的失散问题同构。",
+        "一图": "示意图以六片缝合、巴黎近同毯与21相关碎片三者关系标示本毯。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）六块缝合的具体分布未记录；（3）21件清单未逐列；（4）经纬分析细节未展开。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cairo-court-carpet 示意图'><title>cairo-court-carpet</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>开罗·1525—50</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>奥斯曼宫廷</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>宫廷毯</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>2180×2030</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>六片缝合</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>完整性假象</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>21 相关碎片</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>散藏</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>开罗宫廷毯：缝合、近同与散藏</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；碎片清单未列；分析未展开。"
     }
   ]
 }

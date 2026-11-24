@@ -1,0 +1,19 @@
+{
+ "id": "polonaise-carpet",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为**伊斯法罕（Isfahan）**所制毯（1600—1625），V&A 藏（O85114）。",
+  "风格特征": "该馆描述：一大块**矩形残毯**，**两侧有边**；**红线、黄线的丝地**配以**金银包线**，作**带索纹（strapwork）**设计。",
+  "代表人物与作品": "作者未署名。相关条目见阿尔达比勒毯与萨尔廷毯。",
+  "技法或形式分析": "材质为**丝，配金/银包线**；尺寸**长259 × 宽144.8厘米**（据该馆记录）。",
+  "与前后风格的关系和争论": "该馆给出**名与实之辨**：此类毯被称为「**波兰式（Polonaise）**」，**尽管它制于伊朗**；其**误导性之名**源于17世纪初此类毯**经贸易或作为王室馈赠**大量进入欧洲（记录在此处**截断**，本条目**不补写**后续）。该馆并指出：此残片的设计**近乎同一幅献给伊拉克纳杰夫（Najaf）神祠的巨毯**——**或由沙阿·阿巴斯大帝（Shah Abbas the Great）所捐**。本条目据此把「命名错误」当作**流通史的化石**。",
+  "一图": "示意图以伊朗制、『波兰式』误名与纳杰夫神祠毯三者关系标示本毯。",
+  "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）该馆 summary 在「Many were found…」处**截断，未补写**；（3）纳杰夫毯的捐赠者该馆用 probably；（4）残片原尺寸未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='polonaise-carpet 示意图'><title>polonaise-carpet</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>伊斯法罕·1600—25</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>丝金银线</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>『波兰式』毯</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>259cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>误名</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>流通化石</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>纳杰夫神祠毯</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>阿巴斯?</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>波兰式毯：名、实与神祠</text></g></svg>",
+ "sources": [
+  "vam-o85114"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（V&A）来源；summary 截断；捐赠者为推测。"
+}

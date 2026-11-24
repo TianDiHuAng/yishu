@@ -1,0 +1,19 @@
+{
+ "id": "chelsea-carpet",
+ "level": "L2",
+ "sections": {
+  "时代背景": "该馆说明：此毯**织于伊朗**，**很可能在16世纪上半叶**、**萨法维王朝**治下，V&A 藏（O85144）。",
+  "风格特征": "该馆描述：**羊毛栽绒、丝经丝纬**；**红地重复团花**，**间填动物、鸟与树**；**主边作往复（reciprocal）纹**。",
+  "代表人物与作品": "作者未署名。相关条目见萨尔廷毯与波兰式毯。",
+  "技法或形式分析": "材质为**羊毛栽绒，丝经丝纬**；尺寸**长549 × 宽310厘米**，重40千克（据该馆记录）。",
+  "与前后风格的关系和争论": "该馆指出**断代与类比的依据**：虽**无任何铭文**联系到特定**赞助人、地点或日期**，其设计**与早期萨法维伊朗的书籍艺术以及同类狩猎毯颇多相通**；并称**尽管尺幅巨大**，其**团花**……（记录在「medallion…」处**截断**，本条目**不补写**）。本条目据此把「书籍艺术」当作**织物断代的间接标尺**。",
+  "一图": "示意图以无铭断代、书籍艺术类比与巨型团花三者关系标示本毯。",
+  "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）该馆 summary 在「medallion…」处**截断，未补写**；（3）「16世纪上半叶」该馆用 probably/或；（4）递藏未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='chelsea-carpet 示意图'><title>chelsea-carpet</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>伊朗·1500—50</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>丝经羊毛</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>切尔西毯</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>549×310</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>无铭断代</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>书籍类比</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>红地团花</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>填兽鸟树</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>切尔西毯：断代、类比与团花</text></g></svg>",
+ "sources": [
+  "vam-o85144"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（V&A）来源；summary 截断；递藏未记录。"
+}
