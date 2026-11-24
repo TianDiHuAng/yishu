@@ -1,0 +1,21 @@
+{
+ "id": "mass-music",
+ "level": "L2",
+ "sections": {
+  "时代背景": "摘要没有给出弥撒曲的起源时间，只说明它是为西方基督教圣餐礼仪“弥撒”的文本谱曲的体裁，本条目按“中世纪—今”挂在中世纪单元，该跨度是本库的归类，不是摘要的断言。",
+  "风格特征": "摘要称，弥撒曲通常是弥撒常规的五个乐章，但套曲可缩减，也可扩充至包含部分或全部专有部分。",
+  "代表人物与作品": "摘要没有列举具体作曲家与作品，本条目不补写；需另取专著、乐谱库或馆藏来源后再增补。相关条目可参见格里高利圣咏与经文歌。",
+  "技法或形式分析": "形式要点：文本取自西方基督教圣餐礼仪；常规的五个乐章是基本框架；可增删。摘要没有逐一列出这五个乐章的名称，本条目不补写。",
+  "与前后风格的关系和争论": "摘要称，安魂曲是扩充为包含专有部分的特例，因其引入咏的第一个词而得名。",
+  "一图": "示意图以弥撒曲为中心，标示弥撒常规五乐章、可缩减或扩充、安魂曲特例三项。",
+  "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata 标签，来源独立性有限，整条标记待核实。（2）起源与历代发展，摘要未给出；（3）“中世纪—今”是本库归类，需另取来源核实。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='mass-music 示意图'><title>mass-music</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>弥撒礼仪文本</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>圣餐礼仪</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>弥撒曲</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>音乐体裁</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>常规五乐章</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>可缩减扩充</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>安魂曲</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>特例</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+ "sources": [
+  "enc-mass-music",
+  "enc-c175-medieval-music",
+  "wd-mass-music"
+ ],
+ "needs_verification": true,
+ "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；起源与五乐章名称未给出。"
+}

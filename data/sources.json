@@ -7559,6 +7559,176 @@
       "type": "权威结构化数据",
       "verified": true,
       "verified_note": "2026-11-24 经 wd_api 读取实体成功，英文标签与条目一致"
+    },
+    {
+      "id": "enc-motet",
+      "title": "Motet",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Motet",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "enc-c175-renaissance-music",
+      "title": "Renaissance music",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Renaissance_music",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-motet",
+      "title": "Wikidata: Motet (Q188285)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q188285",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-24 经 wd_api 读取实体成功，英文标签与条目一致"
+    },
+    {
+      "id": "enc-mass-music",
+      "title": "Mass (music)",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Mass_(music)",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "enc-c175-medieval-music",
+      "title": "Medieval music",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Medieval_music",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-mass-music",
+      "title": "Wikidata: Mass (music) (Q217295)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q217295",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-24 经 wd_api 读取实体成功，英文标签与条目一致"
+    },
+    {
+      "id": "enc-concerto",
+      "title": "Concerto",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Concerto",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "enc-c175-baroque-music",
+      "title": "Baroque music",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Baroque_music",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-concerto",
+      "title": "Wikidata: Concerto (Q9748)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q9748",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-24 经 wd_api 读取实体成功，英文标签与条目一致"
+    },
+    {
+      "id": "enc-c175-polyphony",
+      "title": "Polyphony",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Polyphony",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-counterpoint",
+      "title": "Wikidata: Counterpoint (Q186393)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q186393",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-24 经 wd_api 读取实体成功，英文标签与条目一致"
+    },
+    {
+      "id": "enc-josquin",
+      "title": "Josquin des Prez",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Josquin_des_Prez",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "enc-c175-franco-flemish-school",
+      "title": "Franco-Flemish School",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Franco-Flemish_School",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-josquin",
+      "title": "Wikidata: Josquin des Prez (Q143100)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q143100",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-24 经 wd_api 读取实体成功，英文标签与条目一致"
+    },
+    {
+      "id": "enc-hildegard",
+      "title": "Hildegard of Bingen",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Hildegard_of_Bingen",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "enc-c175-gregorian-chant",
+      "title": "Gregorian chant",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Gregorian_chant",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-hildegard",
+      "title": "Wikidata: Hildegard of Bingen (Q70991)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q70991",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-24 经 wd_api 读取实体成功，英文标签与条目一致"
     }
   ]
 }

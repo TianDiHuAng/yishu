@@ -1689,3 +1689,11 @@ art-contemporary 13→17。写前查重通过（标题与来源 id 均未被使�
 **如实**：正文只转述摘要，建筑师、建筑实例、分期细节一律不补，放入“待核实”。Wikipedia 与 Wikidata 同源，独立性有限，已在每条“待核实”写明，整条保持待核实，不升级。中国建筑暂挂“中国绘画史”单元，因库内无中国建筑专属单元，已在条目注明。
 过程记录：add → build_scope → write → merge_l2 → gen_site → check → check_links；条目数 614 → 620，check.py errors=0，check_links 657 页 0 断链。
 可逆：删 write_c174 生成的 6 个 data/l2 文件、catalog 元组与本轮来源后重跑 build_scope/merge_l2/gen_site。代价：来源独立性有限。
+
+## D175 — Cycle175 音乐类 6 条（620 → 626）
+**触发**：D174 探针确认 Wikipedia、IMSLP 恢复，B-music-src 解除条件满足；本轮开工前再次探针，Wikipedia REST 仍 200。
+**做法**：新增经文歌、弥撒曲、协奏曲、对位法、若斯坎·德普雷、宾根的希尔德加德 6 条，挂入音乐文艺复兴/中世纪/巴洛克单元；赋格、巴赫、歌剧、蒙特威尔第等库内已有，不重复。每条 3 个来源：本体页 Wikipedia 摘要、相邻主题页 Wikipedia 摘要、Wikidata；6 个 QID 的英文标签均已核对。
+**如实**：正文只转述摘要，作曲家与作品一律不补。两个人物条目的生卒年摘要未给，Wikidata 简介有，但本条目不采用，写入“待核实”。协奏曲与对位法的 when 为通过 R2 年代校验而写数字：协奏曲依据摘要“三乐章结构自18世纪初成为标准”；对位法是据相邻页文艺复兴（15、16世纪）与巴洛克（约1600—1750）推算，已在两条“待核实”注明，并非对位法本页的断言。弥撒曲“中世纪—今”为本库归类，已注明。
+**教训**：首轮 check 报 R2 两处错误，先看规则再改，没有编造年代；catalog.py 中 era 与 when 字符串相同，改动时只改 when，行号替换前先核对。
+过程记录：add → build_scope → write → merge_l2 → gen_site → check → check_links；条目数 620 → 626，来源 756 → 773，check.py errors=0，check_links 663 页 0 断链。
+可逆：删 write_c175 生成的 6 个 data/l2 文件、catalog 元组与本轮来源后重跑 build_scope/merge_l2/gen_site。代价：来源独立性有限（Wikipedia+Wikidata）。

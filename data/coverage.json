@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 620,
+    "total": 626,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -7444,6 +7444,78 @@
     },
     "islamic-architecture": {
       "title": "伊斯兰建筑（Islamic architecture）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 3,
+      "verified_sources_count": 3,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "motet": {
+      "title": "经文歌（Motet）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 3,
+      "verified_sources_count": 3,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "mass-music": {
+      "title": "弥撒曲（Mass）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 3,
+      "verified_sources_count": 3,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "concerto": {
+      "title": "协奏曲（Concerto）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 3,
+      "verified_sources_count": 3,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "counterpoint": {
+      "title": "对位法（Counterpoint）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 3,
+      "verified_sources_count": 3,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "josquin": {
+      "title": "若斯坎·德普雷（Josquin des Prez）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 3,
+      "verified_sources_count": 3,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "hildegard": {
+      "title": "宾根的希尔德加德（Hildegard of Bingen）",
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",

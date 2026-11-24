@@ -1892,7 +1892,9 @@
         "cma-berno-tonarius",
         "cma-carolingian-gradual",
         "cma-bologna-antiphonary",
-        "medieval-crossmedia"
+        "medieval-crossmedia",
+        "mass-music",
+        "hildegard"
       ],
       "sources": [
         "enc-medieval-music",
@@ -1923,7 +1925,9 @@
         "cma-bologna-antiphonary",
         "cma-siena-antiphonary",
         "cma-verona-gradual",
-        "medieval-crossmedia"
+        "medieval-crossmedia",
+        "mass-music",
+        "hildegard"
       ],
       "sources": [
         "enc-gregorian-chant",
@@ -1944,7 +1948,8 @@
       "overview": "从平行奥尔加农发展为华丽奥尔加农与有量奥尔加农，是复调音乐的起点。",
       "related": [
         "gregorian-chant",
-        "polyphony"
+        "polyphony",
+        "hildegard"
       ],
       "sources": [
         "enc-polyphony",
@@ -1968,7 +1973,9 @@
         "renaissance-music",
         "medieval-music",
         "gregorian-chant",
-        "music-notation"
+        "music-notation",
+        "motet",
+        "counterpoint"
       ],
       "sources": [
         "enc-polyphony",
@@ -1995,7 +2002,8 @@
         "palestrina",
         "renaissance-crossmedia",
         "cma-siena-antiphonary",
-        "cma-verona-gradual"
+        "cma-verona-gradual",
+        "motet"
       ],
       "sources": [
         "enc-renaissance-music",
@@ -2037,7 +2045,8 @@
       "overview": "其作品以均衡、透明的声部进行著称，《马尔切鲁斯教皇弥撒》常被视为特伦托会议后教会音乐的典范。",
       "related": [
         "renaissance-music",
-        "baroque-music"
+        "baroque-music",
+        "josquin"
       ],
       "sources": [
         "enc-renaissance-music",
@@ -2073,7 +2082,8 @@
         "lancret-cello-drawing",
         "dusart-violin-tavern",
         "cma-tiorbino",
-        "ochtervelt-musical-company"
+        "ochtervelt-musical-company",
+        "concerto"
       ],
       "sources": [
         "enc-baroque-music",
@@ -2143,7 +2153,8 @@
       "overview": "主题在各声部依次进入并展开，巴赫《平均律钢琴曲集》为赋格艺术的典范。",
       "related": [
         "baroque-music",
-        "bach"
+        "bach",
+        "counterpoint"
       ],
       "sources": [
         "enc-fugue",
@@ -2187,7 +2198,8 @@
       "overview": "代表作《平均律钢琴曲集》《勃兰登堡协奏曲》《马太受难曲》，集复调艺术之大成。",
       "related": [
         "baroque-music",
-        "fugue"
+        "fugue",
+        "counterpoint"
       ],
       "sources": [
         "enc-bach",
@@ -2260,7 +2272,8 @@
         "classical-period-music",
         "beethoven",
         "haydn",
-        "violin"
+        "violin",
+        "concerto"
       ],
       "sources": [
         "enc-symphony",
@@ -2281,7 +2294,8 @@
       "overview": "建立在主题对比与调性回归之上，是古典交响曲与奏鸣曲第一乐章的核心结构。",
       "related": [
         "sonata",
-        "classical-period-music"
+        "classical-period-music",
+        "concerto"
       ],
       "sources": [
         "enc-sonata",
@@ -13488,6 +13502,146 @@
         "enc-islamic-architecture",
         "enc-c174-islamic-art",
         "wd-islamic-architecture"
+      ]
+    },
+    {
+      "id": "motet",
+      "title": "经文歌（Motet）",
+      "kind": "术语",
+      "unit": "music-renaissance",
+      "era": "13世纪—今",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "主要为声乐的多声部作品，形式与风格极为多样，从中世纪盛期延续至今，是文艺复兴音乐的主要复调体裁之一。",
+      "when": "13世纪—今",
+      "overview": "经文歌是西方古典音乐中主要为声乐的作品，形式与风格极为多样，从中世纪盛期延续至今，是文艺复兴音乐最突出的复调体裁之一。音乐学家玛格丽特·本特认为，“带歌词的多声部乐曲”足以作为13世纪至16世纪晚期乃至其后经文歌的准确定义。",
+      "related": [
+        "polyphony",
+        "renaissance-music",
+        "mass-music",
+        "josquin"
+      ],
+      "sources": [
+        "enc-motet",
+        "enc-c175-renaissance-music",
+        "wd-motet"
+      ]
+    },
+    {
+      "id": "mass-music",
+      "title": "弥撒曲（Mass）",
+      "kind": "术语",
+      "unit": "music-medieval",
+      "era": "中世纪—今",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "为西方基督教圣餐礼仪弥撒的文本谱曲的音乐体裁，通常由弥撒常规的五个乐章构成。",
+      "when": "中世纪—今",
+      "overview": "弥撒曲是为西方基督教圣餐礼仪“弥撒”的文本谱曲的音乐作品。通常是弥撒常规的五个乐章，但套曲可缩减，或扩充至包含部分或全部专有部分；其中的特例是安魂曲，因其引入咏的第一个词而得名。",
+      "related": [
+        "gregorian-chant",
+        "motet",
+        "medieval-music",
+        "josquin"
+      ],
+      "sources": [
+        "enc-mass-music",
+        "enc-c175-medieval-music",
+        "wd-mass-music"
+      ]
+    },
+    {
+      "id": "concerto",
+      "title": "协奏曲（Concerto）",
+      "kind": "术语",
+      "unit": "music-baroque",
+      "era": "巴洛克晚期—今",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "自巴洛克晚期以来多指为一件或多件独奏乐器与管弦乐队或其他乐队合作而写的器乐作品。",
+      "when": "约公元18世纪初—至今",
+      "overview": "协奏曲自巴洛克晚期以来，多被理解为写给一位或多位独奏者、由管弦乐队或其他乐队伴奏的器乐作品。典型的三乐章结构——慢乐章前后各有一个快乐章——自18世纪初起成为标准。",
+      "related": [
+        "baroque-music",
+        "symphony",
+        "sonata-form"
+      ],
+      "sources": [
+        "enc-concerto",
+        "enc-c175-baroque-music",
+        "wd-concerto"
+      ]
+    },
+    {
+      "id": "counterpoint",
+      "title": "对位法（Counterpoint）",
+      "kind": "术语",
+      "unit": "music-renaissance",
+      "era": "文艺复兴—今",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "两条或更多同时进行的旋律线之间的关系：和声上相互依赖，节奏与旋律轮廓上各自独立。",
+      "when": "约公元15—18世纪盛行",
+      "overview": "对位法是音乐理论中两条或更多同时进行的旋律线之间的关系：它们在和声上相互依赖，但在节奏与旋律轮廓上各自独立。该词源自拉丁语“点对点”，即“音对音”。对位法最常见于欧洲古典传统，在文艺复兴时期以及通行实践时期的大部分阶段，尤其是巴洛克时期，得到有力发展；西方教学中以“种”的体系讲授对位。",
+      "related": [
+        "polyphony",
+        "fugue",
+        "bach"
+      ],
+      "sources": [
+        "enc-counterpoint",
+        "enc-c175-polyphony",
+        "wd-counterpoint"
+      ]
+    },
+    {
+      "id": "josquin",
+      "title": "若斯坎·德普雷（Josquin des Prez）",
+      "kind": "人物",
+      "unit": "music-renaissance",
+      "era": "15—16世纪",
+      "region": "法国／佛兰德斯",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "法国或法兰德斯—勃艮第乐派的文艺复兴作曲家，被视为文艺复兴最伟大的作曲家之一，作品以声乐为主。",
+      "when": "15—16世纪",
+      "overview": "若斯坎·德普雷是法国或佛兰德斯—法国乐派的文艺复兴作曲家，被视为文艺复兴最伟大的作曲家之一，是佛兰德斯—法国乐派的核心人物，对16世纪欧洲音乐影响深远。他发展出在各独立声部之间富于表现、常带模仿的复调风格，强调文字与音乐的关系，不再沿用早期文艺复兴冗长的单音节花腔，而偏好声部之间较短、反复的动机。他本人是歌手，作品以声乐为主，包括弥撒曲、经文歌与世俗尚松。",
+      "related": [
+        "motet",
+        "mass-music",
+        "palestrina"
+      ],
+      "sources": [
+        "enc-josquin",
+        "enc-c175-franco-flemish-school",
+        "wd-josquin"
+      ]
+    },
+    {
+      "id": "hildegard",
+      "title": "宾根的希尔德加德（Hildegard of Bingen）",
+      "kind": "人物",
+      "unit": "music-medieval",
+      "era": "中世纪盛期",
+      "region": "德国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "中世纪盛期的德国本笃会女修道院长与博学者，是最知名的圣咏单声部作曲家之一。",
+      "when": "中世纪盛期",
+      "overview": "宾根的希尔德加德，号称“莱茵河的女先知”，是德国本笃会女修道院长与博学者，活跃于中世纪盛期，身兼医学作者、作曲家、哲学家、神秘主义者与异象者。她是最知名的圣咏单声部作曲家之一，也是现代录音最多的作曲家。一些学者认为她是德国科学博物学的奠基者。",
+      "related": [
+        "gregorian-chant",
+        "medieval-music",
+        "organum"
+      ],
+      "sources": [
+        "enc-hildegard",
+        "enc-c175-gregorian-chant",
+        "wd-hildegard"
       ]
     }
   ]
