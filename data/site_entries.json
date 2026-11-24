@@ -1279,7 +1279,8 @@
         "delacroix",
         "symphonic-poem",
         "romantic-crossmedia",
-        "courbet"
+        "courbet",
+        "corot"
       ],
       "sources": [
         "enc-romanticism",
@@ -1318,7 +1319,8 @@
         "vermeer",
         "rodin-age-of-bronze",
         "manet",
-        "millet-return-from-fields"
+        "millet-return-from-fields",
+        "millet"
       ],
       "sources": [
         "enc-realism-art",
@@ -5678,7 +5680,8 @@
       "related": [
         "realism-art",
         "romanticism-art",
-        "millet-return-from-fields"
+        "millet-return-from-fields",
+        "millet"
       ],
       "sources": [
         "cma-artist-courbet",
@@ -18719,7 +18722,8 @@
       "overview": "此画依据户外所作的素描与油画速写完成；柯罗被意大利乡村之美吸引，1825至1828年住在罗马，常在罗马周边写生；画面结构严谨，形体沿一系列对角线向远处推进，是柯罗早期风格的特征，令人想起17世纪画家普桑的古典风景。",
       "related": [
         "constable",
-        "hackert-pozzuoli"
+        "hackert-pozzuoli",
+        "corot"
       ],
       "sources": [
         "cma-1963-91"
@@ -18737,6 +18741,72 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='corot-la-cervara 示意图'><title>corot-la-cervara</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>柯罗·约1830—31</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>罗马平原</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>《切尔瓦拉》</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>97.6×135.8cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>据户外速写完成</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>1825—28居罗马</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>对角线构图</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>呼应普桑</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>切尔瓦拉：从写生到古典构图</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（CMA）来源；普桑比较为该馆观点；所据速写未指明。"
+    },
+    {
+      "id": "millet",
+      "title": "让-弗朗索瓦·米勒",
+      "kind": "人物",
+      "unit": "art-neo-romantic",
+      "era": "19世纪",
+      "region": "法国",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "法国画家，1840年代末起专注描绘农民与乡村生活，1849年定居巴比松。",
+      "when": "1814—1875年",
+      "overview": "出身富裕农家，先在瑟堡随肖像画家学习，1837年靠城市津贴赴巴黎入美术学院，不久离开；早期以华托、布歇风格的粉彩小画谋生；1840年代末转向农民题材，在1848年革命背景下带有政治意味；1850—51年沙龙展出《播种者》受到关注，保守派指责他夸大农民的贫困，共和派与左翼则称其为对劳动阶层的有尊严的呈现；晚年取得成功，1867年巴黎世博会回顾展奠定声誉，次年获荣誉军团勋章。",
+      "related": [
+        "realism-art",
+        "courbet"
+      ],
+      "sources": [
+        "cma-artist-millet"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "让-弗朗索瓦·米勒（1814—1875）出身富裕农家。据克利夫兰艺术博物馆（CMA）艺术家记录，他先随瑟堡的肖像画家学习，1837年靠城市给予的津贴赴巴黎，进入美术学院德拉罗什的画室，不到两年便离开，津贴随之被取消。",
+        "风格特征": "该馆记录称：为谋生，他早年画华托、布歇风格的粉彩与小幅油画；1840年代末起，他开始专注描绘农民与乡村生活，而在1848年革命的背景下，这类题材自然带有政治意味。",
+        "代表人物与作品": "该馆记录提到1850—51年沙龙展出的《播种者》（波士顿美术馆），受到极大关注。本库另有《田间归来》（约1846—47，CMA 1972.19）一条。",
+        "技法或形式分析": "该艺术家记录以生平与评价为主，未详述其技法，本条目不补写。",
+        "与前后风格的关系和争论": "该馆记录：1849年他定居巴比松，继续描绘农民；阿尔弗雷德·桑西耶供给他材料并代售作品，使他获得一定的经济保障。关于《播种者》，该馆称保守派指责米勒过分强调农民的贫困，而共和派与左翼则称赞它是对劳动阶层有尊严的再现；该馆同时指出，米勒自称只对题材的圣经典故感兴趣，却似乎一再选择最贫穷的农民、最艰苦的劳作。本条目只转述该馆的叙述与评价。",
+        "一图": "示意图以早年粉彩谋生、1840年代末转向农民题材、1849年定居巴比松三者关系标示米勒的转向。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆）的艺术家记录，整条标记待核实；（2）该记录对米勒的政治立场只作两派反应的转述，未给出定论；（3）该记录未列出完整作品目录与技法细节。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='millet 示意图'><title>millet</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>早年谋生</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>粉彩·小画</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>米勒</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1814—1875</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>1840年代末转向</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>农民题材</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>1849定居巴比松</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>《播种者》1850—51</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>米勒：从谋生小画到农民题材</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）艺术家记录；政治立场只转述两派反应；技法未述。"
+    },
+    {
+      "id": "corot",
+      "title": "让·巴蒂斯特·卡米耶·柯罗",
+      "kind": "人物",
+      "unit": "art-neo-romantic",
+      "era": "19世纪",
+      "region": "法国",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "法国风景画家，1825—28年住罗马，早期风格结构严谨，1850年代起转向银灰色调的朦胧风景。",
+      "when": "1796—1875年",
+      "overview": "先随父从事服装业八年，1821年妹妹去世后获得的津贴使他得以专心绘画；1822年起师从米夏隆，其后师从贝尔坦；1825年首次赴意大利；1827年首次向巴黎沙龙送展；1840年代风格转向更复杂的光效与更暗的土绿色调；1850年代初再次转变，形成银灰色调与漫射光效；他把户外作品作为完成画的蓝本，但自由改编构图、光线与色彩，并称这类画室构成的风景为「paysage composé」；晚年转向单个人物。",
+      "related": [
+        "romanticism-art",
+        "corot-la-cervara"
+      ],
+      "sources": [
+        "cma-artist-corot"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "让·巴蒂斯特·卡米耶·柯罗（1796—1875）。据克利夫兰艺术博物馆（CMA）艺术家记录，他先随父从事服装业八年，1821年妹妹去世后获得的津贴使他得以专心绘画；1822年起随风景画家米夏隆学习，米夏隆当年去世后又随贝尔坦学习。",
+        "风格特征": "该馆记录指出：1825年他首次赴意大利；早期的意大利风景光线明亮温暖，阴影区域较少。1840年代他的风格逐渐转变，常有更大的人物位于中景，光效更复杂，色调更暗、更近土绿与棕色；1850年代初他再次转变，形成银灰色调与漫射光效，在几层薄涂之上再点缀更亮的小笔触作高光。",
+        "代表人物与作品": "该馆记录提到1827年他首次送展巴黎沙龙的《纳尔尼的景观》（渥太华加拿大国家美术馆）。本库另有《罗马平原的切尔瓦拉》（约1830—31，CMA 1963.91）一条。",
+        "技法或形式分析": "该馆记录：他继续用户外作品作为完成画的蓝本，但自由改编构图、形体、光线与色彩；这种画室中重构的风景，他称之为「paysage composé」（构成的风景）。他有时给多年前画的风景添上人物，甚至请迪亚兹·德拉佩尼亚等同行代画。",
+        "与前后风格的关系和争论": "该馆记录特别指出：早期传记作者把他描绘成远离商业考虑、只画心之所好的天真艺术家，后世现代主义者称他为印象派的先驱；近年研究对这一看法作了重大修正。该馆称，柯罗从未接受印象派更激进的作品，尤其是他们对当代城市与郊区题材的热情；他表现的是与19世纪法国工业化与现代化脱节的、永恒的乡村景象。评论界对他的接受也有起伏：1830年代被忽视乃至被批评，1840年代境遇好转，诗人批评家波德莱尔称他为当代风景画的领袖；1846年获荣誉军团勋章；晚年他转向单个人物，而风景仍是最受推崇的部分，生前即有仿作和赝品以他的名义出售。",
+        "一图": "示意图以1825年赴意大利、1840年代转向复杂光效、1850年代初形成银灰色调三者关系标示柯罗的风格演变。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆）的艺术家记录，整条标记待核实；（2）该记录对「印象派先驱」说法的修正是该馆对近年研究的概述，未逐一列出研究出处；（3）该记录未列出完整作品目录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='corot 示意图'><title>corot</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>1825赴意大利</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>明亮温暖</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>柯罗</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1796—1875</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>1840年代</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>中景人物·土绿色调</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>1850年代初</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>银灰·漫射光</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>柯罗：三段风格演变</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）艺术家记录；先驱说的修正未列出处；作品目录未述。"
     }
   ]
 }

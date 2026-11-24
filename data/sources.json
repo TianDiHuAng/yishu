@@ -6619,6 +6619,26 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；布面油画 画面97.6×135.8cm；说明含据写生与油画速写、1825-28居罗马、对角线构图、回想普桑古典风景"
+    },
+    {
+      "id": "cma-artist-millet",
+      "title": "Cleveland Museum of Art — 艺术家记录：Jean-François Millet (1814–1875)",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1972.19",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；含馆方传记正文（经藏品 1972.19《田间归来》取得）"
+    },
+    {
+      "id": "cma-artist-corot",
+      "title": "Cleveland Museum of Art — 艺术家记录：Jean Baptiste Camille Corot (1796–1875)",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1963.91",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；含馆方传记正文（经藏品 1963.91《罗马平原的切尔瓦拉》取得）"
     }
   ]
 }

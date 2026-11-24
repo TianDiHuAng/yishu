@@ -1861,6 +1861,18 @@
       },
       "network": "CMA",
       "verdict": "art-neo-romantic 12→16（总536）；未饱和；柯罗/米勒人物条目待补"
+    },
+    {
+      "cycle": "cycle153",
+      "date": "2026-11-24",
+      "methods_used": [
+        "人物缺口补全"
+      ],
+      "gaps_found": {
+        "entries": 2
+      },
+      "network": "CMA",
+      "verdict": "art-neo-romantic 16→18（总538）；未饱和；补上米勒/柯罗人物条目"
     }
   ],
   "assessment_c33": {

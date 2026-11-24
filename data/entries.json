@@ -733,7 +733,8 @@
         "delacroix",
         "symphonic-poem",
         "romantic-crossmedia",
-        "courbet"
+        "courbet",
+        "corot"
       ],
       "sources": [
         "enc-romanticism",
@@ -760,7 +761,8 @@
         "vermeer",
         "rodin-age-of-bronze",
         "manet",
-        "millet-return-from-fields"
+        "millet-return-from-fields",
+        "millet"
       ],
       "sources": [
         "enc-realism-art",
@@ -3515,7 +3517,8 @@
       "related": [
         "realism-art",
         "romanticism-art",
-        "millet-return-from-fields"
+        "millet-return-from-fields",
+        "millet"
       ],
       "sources": [
         "cma-artist-courbet",
@@ -11594,10 +11597,51 @@
       "overview": "此画依据户外所作的素描与油画速写完成；柯罗被意大利乡村之美吸引，1825至1828年住在罗马，常在罗马周边写生；画面结构严谨，形体沿一系列对角线向远处推进，是柯罗早期风格的特征，令人想起17世纪画家普桑的古典风景。",
       "related": [
         "constable",
-        "hackert-pozzuoli"
+        "hackert-pozzuoli",
+        "corot"
       ],
       "sources": [
         "cma-1963-91"
+      ]
+    },
+    {
+      "id": "millet",
+      "title": "让-弗朗索瓦·米勒",
+      "kind": "人物",
+      "unit": "art-neo-romantic",
+      "era": "19世纪",
+      "region": "法国",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "法国画家，1840年代末起专注描绘农民与乡村生活，1849年定居巴比松。",
+      "when": "1814—1875年",
+      "overview": "出身富裕农家，先在瑟堡随肖像画家学习，1837年靠城市津贴赴巴黎入美术学院，不久离开；早期以华托、布歇风格的粉彩小画谋生；1840年代末转向农民题材，在1848年革命背景下带有政治意味；1850—51年沙龙展出《播种者》受到关注，保守派指责他夸大农民的贫困，共和派与左翼则称其为对劳动阶层的有尊严的呈现；晚年取得成功，1867年巴黎世博会回顾展奠定声誉，次年获荣誉军团勋章。",
+      "related": [
+        "realism-art",
+        "courbet"
+      ],
+      "sources": [
+        "cma-artist-millet"
+      ]
+    },
+    {
+      "id": "corot",
+      "title": "让·巴蒂斯特·卡米耶·柯罗",
+      "kind": "人物",
+      "unit": "art-neo-romantic",
+      "era": "19世纪",
+      "region": "法国",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "法国风景画家，1825—28年住罗马，早期风格结构严谨，1850年代起转向银灰色调的朦胧风景。",
+      "when": "1796—1875年",
+      "overview": "先随父从事服装业八年，1821年妹妹去世后获得的津贴使他得以专心绘画；1822年起师从米夏隆，其后师从贝尔坦；1825年首次赴意大利；1827年首次向巴黎沙龙送展；1840年代风格转向更复杂的光效与更暗的土绿色调；1850年代初再次转变，形成银灰色调与漫射光效；他把户外作品作为完成画的蓝本，但自由改编构图、光线与色彩，并称这类画室构成的风景为「paysage composé」；晚年转向单个人物。",
+      "related": [
+        "romanticism-art",
+        "corot-la-cervara"
+      ],
+      "sources": [
+        "cma-artist-corot"
       ]
     }
   ]
