@@ -1401,6 +1401,16 @@
       },
       "network": "V&A",
       "verdict": "乐器 13→17（总392）；未饱和"
+    },
+    {
+      "cycle": "cycle114",
+      "date": "2026-11-24",
+      "methods_used": [
+        "全量QC"
+      ],
+      "gaps_found": {},
+      "network": "CMA/V&A",
+      "verdict": "247条/183尺寸/0问题；未饱和"
     }
   ],
   "assessment_c33": {

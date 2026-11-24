@@ -3209,6 +3209,29 @@
       "check_links_result": "broken=0(429页)",
       "audit_all": "12/12 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle114",
+      "date": "2026-11-24",
+      "status": "completed",
+      "gap_methods": [
+        "全量QC；排除V&A劣质玻璃"
+      ],
+      "network": "CMA/V&A",
+      "new_entries": 0,
+      "qc": {
+        "entries_checked": 247,
+        "dim_checks": 183,
+        "dim_hits": 176,
+        "issues": 0
+      },
+      "entries_total": 392,
+      "sources_total": 521,
+      "pages": 429,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(429页)",
+      "audit_all": "12/12 ok",
+      "commits": 1
     }
   ]
 }
