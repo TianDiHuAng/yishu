@@ -1,0 +1,21 @@
+{
+  "id": "indian-architecture",
+  "level": "L2",
+  "sections": {
+    "时代背景": "摘要称，印度建筑植根于印度的历史、文化与宗教。摘要没有给出起讫年代，本条目不限定。",
+    "风格特征": "摘要称，印度建筑包含多种风格与传统，其中最广为人知的是依印度宗教与哲学建造的印度教、耆那教、佛教、锡克教风格，这些最为普遍。",
+    "代表人物与作品": "摘要没有列举建筑师与具体建筑，本条目不补写；需另取专著或博物馆来源后再增补。相关条目可参见印度艺术、莫卧儿建筑与印度佛教艺术。",
+    "技法或形式分析": "摘要只列出风格的名称，没有说明各风格的形式特征。",
+    "与前后风格的关系和争论": "摘要称，印度—伊斯兰、拉其普特、莫卧儿、南印度与印度—萨拉森建筑也有突出的存在。摘要没有谈到这些风格之间的先后与影响关系，本条目不作推断。",
+    "一图": "示意图以印度建筑为中心，标示印度教、耆那教、佛教、锡克教风格，印度—伊斯兰与莫卧儿风格，南印度与印度—萨拉森风格三类。",
+    "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata 标签，来源独立性有限，整条标记待核实。（2）各风格的形式特征与年代，摘要未给出；（3）具体建筑与建筑师，摘要未给出；（4）“最普遍”是摘要的概括，本条目未核验。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='indian-architecture 示意图'><title>indian-architecture</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>印度教耆那教</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>佛教锡克教</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>印度建筑</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>宗教与文化</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>印度—伊斯兰</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>莫卧儿等</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>南印度</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>印度—萨拉森</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+  "sources": [
+    "enc-indian-architecture",
+    "enc-c176-indian-art",
+    "wd-indian-architecture"
+  ],
+  "needs_verification": true,
+  "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；各风格的特征与年代未给出。"
+}

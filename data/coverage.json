@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 626,
+    "total": 632,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -7516,6 +7516,78 @@
     },
     "hildegard": {
       "title": "宾根的希尔德加德（Hildegard of Bingen）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 3,
+      "verified_sources_count": 3,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "mughal-architecture": {
+      "title": "莫卧儿建筑（Mughal architecture）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 3,
+      "verified_sources_count": 3,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "japanese-architecture": {
+      "title": "日本建筑（Japanese architecture）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 3,
+      "verified_sources_count": 3,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "indian-architecture": {
+      "title": "印度建筑（Architecture of India）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 3,
+      "verified_sources_count": 3,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "art-deco": {
+      "title": "装饰艺术（Art Deco）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 3,
+      "verified_sources_count": 3,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "modern-architecture": {
+      "title": "现代建筑（Modern architecture）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 3,
+      "verified_sources_count": 3,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "beaux-arts-architecture": {
+      "title": "学院派建筑（Beaux-Arts architecture）",
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",

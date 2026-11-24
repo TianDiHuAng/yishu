@@ -760,7 +760,8 @@
         "hackert-pozzuoli",
         "paelinck-self-portrait",
         "classical-crossmedia",
-        "neoclassical-architecture"
+        "neoclassical-architecture",
+        "beaux-arts-architecture"
       ],
       "sources": [
         "enc-neoclassicism",
@@ -1157,7 +1158,9 @@
       "overview": "主张艺术与工艺统一、形式服从功能，深刻影响现代建筑、设计与艺术教育。",
       "related": [
         "modern-art",
-        "minimalism"
+        "minimalism",
+        "art-deco",
+        "modern-architecture"
       ],
       "sources": [
         "enc-bauhaus",
@@ -1304,7 +1307,9 @@
         "rouault-end-autumn",
         "cannon-memorial-woodcut",
         "mondrian-composition-rby-1927",
-        "klee-with-the-dot"
+        "klee-with-the-dot",
+        "art-deco",
+        "modern-architecture"
       ],
       "sources": [
         "web-artstory-movements",
@@ -3118,7 +3123,9 @@
         "buddhist-art-india",
         "ajanta-caves",
         "indian-standing-buddha-kashmir",
-        "mathura-railing-pillar"
+        "mathura-railing-pillar",
+        "mughal-architecture",
+        "indian-architecture"
       ],
       "sources": [
         "enc-indian-art",
@@ -3147,7 +3154,8 @@
         "nikko-bodhisattva",
         "kofukuji-seated-buddha",
         "amida-shitennoji",
-        "dvaravati-buddha-bust"
+        "dvaravati-buddha-bust",
+        "indian-architecture"
       ],
       "sources": [
         "enc-buddhist-art-india",
@@ -3254,7 +3262,8 @@
         "vandiem-lacquer-box",
         "canton-umbrella-mender",
         "amida-descent-painting",
-        "japan-miraculous-origins"
+        "japan-miraculous-origins",
+        "japanese-architecture"
       ],
       "sources": [
         "enc-japanese-art",
@@ -3283,7 +3292,8 @@
         "hiroshige-karasaki-night-rain",
         "hokusai-muneyuki-poem",
         "hokusai-hitomaro-poem",
-        "hokusai-nakahara-sagami"
+        "hokusai-nakahara-sagami",
+        "japanese-architecture"
       ],
       "sources": [
         "enc-ukiyo-e",
@@ -11132,7 +11142,8 @@
       "related": [
         "rai-singh-bikaner",
         "jagat-singh-hunting",
-        "mughal-muhammad-ali-beg"
+        "mughal-muhammad-ali-beg",
+        "mughal-architecture"
       ],
       "sources": [
         "vam-o113934"
@@ -13380,7 +13391,8 @@
         "renaissance",
         "gothic-architecture",
         "baroque-architecture",
-        "neoclassical-architecture"
+        "neoclassical-architecture",
+        "beaux-arts-architecture"
       ],
       "sources": [
         "enc-renaissance-architecture",
@@ -13404,7 +13416,8 @@
         "baroque",
         "rococo",
         "renaissance-architecture",
-        "neoclassical-architecture"
+        "neoclassical-architecture",
+        "beaux-arts-architecture"
       ],
       "sources": [
         "enc-baroque-architecture",
@@ -13473,7 +13486,8 @@
       "related": [
         "angkor",
         "khmer-architecture",
-        "china-painting-history"
+        "china-painting-history",
+        "japanese-architecture"
       ],
       "sources": [
         "enc-chinese-architecture",
@@ -13496,7 +13510,8 @@
       "related": [
         "islamic-art",
         "mihrab-isfahan",
-        "iznik-tile-spandrel"
+        "iznik-tile-spandrel",
+        "mughal-architecture"
       ],
       "sources": [
         "enc-islamic-architecture",
@@ -13642,6 +13657,145 @@
         "enc-hildegard",
         "enc-c175-gregorian-chant",
         "wd-hildegard"
+      ]
+    },
+    {
+      "id": "mughal-architecture",
+      "title": "莫卧儿建筑（Mughal architecture）",
+      "kind": "风格",
+      "unit": "art-asia",
+      "era": "16—18世纪",
+      "region": "南亚",
+      "medium": "建筑",
+      "tier": "重要",
+      "def": "16—18世纪在莫卧儿帝国发展起来的建筑风格，分布于南亚，主要在今印度、巴基斯坦、孟加拉国与阿富汗。",
+      "when": "约公元16—18世纪",
+      "overview": "莫卧儿建筑是16至18世纪在莫卧儿帝国发展的建筑风格，覆盖其不断变化的南亚疆域。它源自较早的印度—伊斯兰建筑，以及伊朗与中亚的建筑传统，尤其是帖木儿建筑；在阿克巴统治时期还进一步吸收并融合了更广泛的印度建筑的影响。莫卧儿建筑有统一的结构与特征：大型球根状穹顶、转角处的细长宣礼塔、巨大的厅堂、高大的拱顶门道与精致的装饰。实例主要见于今印度、巴基斯坦、孟加拉国与阿富汗。",
+      "related": [
+        "islamic-architecture",
+        "indian-art",
+        "mughal-alamgir-portrait",
+        "indian-architecture"
+      ],
+      "sources": [
+        "enc-mughal-architecture",
+        "enc-c176-mughal-empire",
+        "wd-mughal-architecture"
+      ]
+    },
+    {
+      "id": "japanese-architecture",
+      "title": "日本建筑（Japanese architecture）",
+      "kind": "风格",
+      "unit": "art-asia",
+      "era": "历代",
+      "region": "东亚",
+      "medium": "建筑",
+      "tier": "重要",
+      "def": "以木结构、略离地面抬高、瓦顶或茅草顶为典型特征的日本建筑，19世纪以来大量吸收西方、现代与后现代建筑。",
+      "when": "历代",
+      "overview": "日本建筑的典型特征是木结构、略微离地抬高、覆以瓦顶或茅草顶。传统上用拉门（隔扇）等隔断代替墙，使室内布局可随场合调整；人们通常坐在垫子上或直接坐在地上，椅子与高桌直到20世纪才广泛使用。但自19世纪以来，日本吸收了大量西方、现代与后现代建筑，如今是前沿建筑设计与技术的领先者。",
+      "related": [
+        "japanese-art",
+        "chinese-architecture",
+        "ukiyo-e"
+      ],
+      "sources": [
+        "enc-japanese-architecture",
+        "enc-c176-japanese-art",
+        "wd-japanese-architecture"
+      ]
+    },
+    {
+      "id": "indian-architecture",
+      "title": "印度建筑（Architecture of India）",
+      "kind": "风格",
+      "unit": "art-asia",
+      "era": "历代",
+      "region": "南亚",
+      "medium": "建筑",
+      "tier": "重要",
+      "def": "植根于印度历史、文化与宗教的建筑，包含印度教、耆那教、佛教、锡克教等风格，以及印度—伊斯兰、拉其普特、莫卧儿、南印度、印度—萨拉森等风格。",
+      "when": "历代",
+      "overview": "印度建筑植根于印度的历史、文化与宗教。在多种建筑风格与传统中，最广为人知的是依印度宗教与哲学建造的印度教、耆那教、佛教、锡克教风格，其中最普遍；印度—伊斯兰、拉其普特、莫卧儿、南印度与印度—萨拉森建筑也有突出的存在。",
+      "related": [
+        "indian-art",
+        "mughal-architecture",
+        "buddhist-art-india"
+      ],
+      "sources": [
+        "enc-indian-architecture",
+        "enc-c176-indian-art",
+        "wd-indian-architecture"
+      ]
+    },
+    {
+      "id": "art-deco",
+      "title": "装饰艺术（Art Deco）",
+      "kind": "风格",
+      "unit": "art-modern",
+      "era": "1910年代—1930年代初",
+      "region": "欧洲·美洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "1910年代一战前夕出现于巴黎、1920年代至1930年代初在国际上盛行的视觉艺术、建筑与产品设计风格。",
+      "when": "约公元1910年代—1930年代初",
+      "overview": "装饰艺术（Art Deco）是法语“装饰艺术”的简称，是一种视觉艺术、建筑与产品设计风格，1910年代第一次世界大战前夕出现于巴黎，在1920年代至1930年代初于国际上盛行，通过对从大型建筑到服装、时装、珠宝等小物件的外观与内部设计来体现。它影响了从摩天楼、电影院、桥梁，到远洋客轮、火车、汽车、卡车、公共汽车、家具与收音机、吸尘器等日常用品。",
+      "related": [
+        "bauhaus",
+        "modern-art",
+        "modern-architecture"
+      ],
+      "sources": [
+        "enc-art-deco",
+        "enc-c176-modernism",
+        "wd-art-deco"
+      ]
+    },
+    {
+      "id": "modern-architecture",
+      "title": "现代建筑（Modern architecture）",
+      "kind": "风格",
+      "unit": "art-modern",
+      "era": "20世纪",
+      "region": "全球",
+      "medium": "建筑",
+      "tier": "重要",
+      "def": "20世纪突出的建筑运动与风格，介于更早的装饰艺术与后来的后现代之间，以新技术、功能主义、极简与拒绝装饰为基础。",
+      "when": "约公元20世纪",
+      "overview": "现代建筑又称现代主义建筑或现代运动，是20世纪突出的建筑运动与风格，介于更早的装饰艺术与后来的后现代运动之间。它以新颖的施工技术、功能主义原则、对极简的接纳，以及对装饰的拒斥为基础。",
+      "related": [
+        "bauhaus",
+        "art-deco",
+        "modern-art"
+      ],
+      "sources": [
+        "enc-modern-architecture",
+        "enc-c176-modernism",
+        "wd-modern-architecture"
+      ]
+    },
+    {
+      "id": "beaux-arts-architecture",
+      "title": "学院派建筑（Beaux-Arts architecture）",
+      "kind": "风格",
+      "unit": "art-modern",
+      "era": "19世纪30年代—19世纪末",
+      "region": "欧洲·美洲",
+      "medium": "建筑",
+      "tier": "重要",
+      "def": "巴黎美术学院传授的学院派建筑风格，尤其盛行于1830年代至19世纪末，影响及于20世纪的欧美公共建筑。",
+      "when": "约公元1830年代—1900年",
+      "overview": "学院派建筑（Beaux-Arts）是巴黎美术学院传授的学院派建筑风格，尤其盛行于19世纪30年代至19世纪末。它以法国新古典主义的原则为基础，也吸收文艺复兴与巴洛克元素，并使用铁、玻璃以及后来的钢等现代材料。这一风格直到19世纪末乃至进入20世纪，对欧洲与美洲影响巨大，尤其用于机构与公共建筑。",
+      "related": [
+        "neoclassicism",
+        "baroque-architecture",
+        "renaissance-architecture"
+      ],
+      "sources": [
+        "enc-beaux-arts-architecture",
+        "enc-c176-eclecticism-in-architecture",
+        "wd-beaux-arts-architecture"
       ]
     }
   ]

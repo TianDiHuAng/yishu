@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 626 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 632 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -239,6 +239,9 @@
 | klee-with-the-dot | 克利《带着点》（1916） | 作品 | 20世纪 | 德国 | 素描 | 重要 | O1 |
 | klee-carnival-in-snow | 克利《雪中狂欢节》（1923） | 作品 | 20世纪 | 德国 | 水彩 | 重要 | O1 |
 | bourdelle-head-of-beethoven | 布德尔《贝多芬头像》（1891） | 作品 | 19世纪 | 法国 | 雕塑 | 重要 | O1 |
+| art-deco | 装饰艺术（Art Deco） | 风格 | 1910年代—1930年代初 | 欧洲·美洲 | 综合 | 重要 | O1 |
+| modern-architecture | 现代建筑（Modern architecture） | 风格 | 20世纪 | 全球 | 建筑 | 重要 | O1 |
+| beaux-arts-architecture | 学院派建筑（Beaux-Arts architecture） | 风格 | 19世纪30年代—19世纪末 | 欧洲·美洲 | 建筑 | 重要 | O1 |
 
 ## art-contemporary（艺术史·当代）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -530,6 +533,9 @@
 | mughal-muhammad-ali-beg | 伊朗使节穆罕默德·阿里·贝格像 | 作品 | 17世纪 | 南亚 | 绘画 | 核心 | O1 |
 | pahari-abhisarika-nayika | 帕哈里《阿毗萨里卡·纳伊卡》 | 作品 | 18世纪 | 南亚 | 绘画 | 核心 | O1 |
 | pahari-balwant-singh | 帕哈里《巴尔万特·辛格王》 | 作品 | 18世纪 | 南亚 | 绘画 | 核心 | O1 |
+| mughal-architecture | 莫卧儿建筑（Mughal architecture） | 风格 | 16—18世纪 | 南亚 | 建筑 | 重要 | O1 |
+| japanese-architecture | 日本建筑（Japanese architecture） | 风格 | 历代 | 东亚 | 建筑 | 重要 | O1 |
+| indian-architecture | 印度建筑（Architecture of India） | 风格 | 历代 | 南亚 | 建筑 | 重要 | O1 |
 
 ## art-islamic（伊斯兰艺术（西亚·中亚））
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

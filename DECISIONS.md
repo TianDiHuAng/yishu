@@ -1697,3 +1697,10 @@ art-contemporary 13→17。写前查重通过（标题与来源 id 均未被使�
 **教训**：首轮 check 报 R2 两处错误，先看规则再改，没有编造年代；catalog.py 中 era 与 when 字符串相同，改动时只改 when，行号替换前先核对。
 过程记录：add → build_scope → write → merge_l2 → gen_site → check → check_links；条目数 620 → 626，来源 756 → 773，check.py errors=0，check_links 663 页 0 断链。
 可逆：删 write_c175 生成的 6 个 data/l2 文件、catalog 元组与本轮来源后重跑 build_scope/merge_l2/gen_site。代价：来源独立性有限（Wikipedia+Wikidata）。
+
+## D176 — Cycle176 建筑类 6 条（626 → 632）
+**做法**：本轮开工前探针，Wikipedia REST 仍 200。新增莫卧儿建筑、日本建筑、印度建筑、装饰艺术、现代建筑、学院派建筑 6 条；法国（151字）、美国（223字）、俄国（198字）建筑的摘要过短，写不出有内容的正文，暂不做；东南亚建筑页 404，未做。每条 3 个来源：本体页 Wikipedia 摘要、相邻主题页 Wikipedia 摘要、Wikidata；6 个 QID 的英文标签均已核对。
+**发现的异常**：Wikidata Q542261（莫卧儿建筑）的中文标签错位为“潘契瑪哈勒（法泰赫普爾西克里）”，而英文标签与简介正确；本项目只采英文标签，已写入该条来源核验说明与“待核实”。另：装饰艺术的 Wikidata 简介称“1920年代首先出现于法国”，与 Wikipedia 摘要“1910年代出现于巴黎”不同，本条采摘要并在“待核实”记录差异。
+**如实**：正文只转述摘要，建筑师与具体建筑一律不补。日本、印度建筑摘要无年份，when 写“历代”；现代建筑摘要只说“20世纪”，不具体化。Wikipedia 与 Wikidata 同源，独立性有限，整条保持待核实。
+过程记录：add → build_scope → write → merge_l2 → gen_site → check → check_links，一次通过；条目数 626 → 632，来源 773 → 790，check.py errors=0，check_links 669 页 0 断链。
+可逆：删 write_c176 生成的 6 个 data/l2 文件、catalog 元组与本轮来源后重跑 build_scope/merge_l2/gen_site。代价：来源独立性有限（Wikipedia+Wikidata）。

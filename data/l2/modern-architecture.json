@@ -1,0 +1,21 @@
+{
+  "id": "modern-architecture",
+  "level": "L2",
+  "sections": {
+    "时代背景": "摘要称，现代建筑是20世纪突出的建筑运动与风格，介于更早的装饰艺术与后来的后现代运动之间。",
+    "风格特征": "摘要称，现代建筑又称现代主义建筑或现代运动，以新颖的施工技术、功能主义原则、对极简的接纳，以及对装饰的拒斥为基础。",
+    "代表人物与作品": "摘要没有列举建筑师与具体建筑，本条目不补写；需另取专著或博物馆来源后再增补。相关条目可参见包豪斯与现代艺术。",
+    "技法或形式分析": "摘要列出四项基础：新颖的施工技术、功能主义原则、接纳极简、拒斥装饰。摘要没有说明具体的材料或构造方法。",
+    "与前后风格的关系和争论": "摘要称，它的位置在装饰艺术之后、后现代之前。它与装饰艺术形成的“拒斥装饰”对照，是摘要的字面含义；两者关系的进一步解释，摘要未给出。",
+    "一图": "示意图以现代建筑为中心，标示此前的装饰艺术、此后的后现代、功能主义与拒斥装饰三项。",
+    "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata 标签，来源独立性有限，整条标记待核实。（2）起讫年份，摘要只说“20世纪”，未给出具体年份；（3）具体建筑与建筑师，摘要未给出；（4）与包豪斯的关系，摘要未说明，库内互链是本项目所加。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='modern-architecture 示意图'><title>modern-architecture</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>装饰艺术</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>更早</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>现代建筑</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>20世纪</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>功能主义</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>新技术</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>后现代</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>之后</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+  "sources": [
+    "enc-modern-architecture",
+    "enc-c176-modernism",
+    "wd-modern-architecture"
+  ],
+  "needs_verification": true,
+  "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；具体年份与名作未给出。"
+}
