@@ -1,0 +1,19 @@
+{
+ "id": "poussin-holy-family-steps",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为法国画家普桑（1594—1665）1648年的《台阶上的圣家族》，布面油画，克利夫兰艺术博物馆藏（1981.18）。该馆提供的来源记录称此画为受皮埃尔·埃纳坎·德·弗雷纳（Pierre Hennequin de Fresne）委托而作，并注明「或为华盛顿的那一版本」，即存在版本问题。",
+  "风格特征": "该馆说明：普桑有条不紊、深思熟虑地发展构图，用清晰的原色、简洁的形体与几何式组织，来表达圣家族在基督教信仰中的核心地位。",
+  "代表人物与作品": "作者为普桑。相关条目见巴洛克与利皮《圣家族圆形画》。",
+  "技法或形式分析": "布面油画；画心73.3 × 105.8厘米，带框103.5 × 135.3 × 13.3厘米（据该馆藏品记录）。该馆说明：中央玛利亚向世人呈现基督圣婴；左侧圣伊丽莎白前倾，预示他终将死去；她的儿子圣若翰洗者向耶稣献上一个苹果，象征人类在伊甸园中的堕落；右侧圣约瑟夫持圆规，是其木匠职业的标志，也象征天父。",
+  "与前后风格的关系和争论": "该馆称这幅看似简单的构图是对圣家族在人类救赎中作用的一次复杂沉思。本条目只转述该馆对苹果与圆规的象征解读，不另作图像学考证。",
+  "一图": "示意图以中央圣母呈现圣婴、苹果象征堕落、圆规象征木匠与天父三者关系标示本画。",
+  "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）苹果与圆规的象征解读为该馆说明，本条目未另行印证；（3）该馆来源记录提到华盛顿存在同题版本，两者关系本条目未展开；（4）「复杂沉思」为该馆的评价性描述，本条目只作转述；（5）题款：该馆记录无题款；（6）流传记录含多次拍卖与收藏者，本条目只引委托人一项，其余未展开。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='poussin-holy-family-step 示意图'><title>poussin-holy-family-step</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>普桑·1648</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>法国</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>台阶上的圣家族</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>画心73.3×105.8cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>苹果</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>人类堕落</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>圆规</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>木匠·天父</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>普桑：几何构图中的救赎象征</text></g></svg>",
+ "sources": [
+  "cma-1981-18"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；象征解读为该馆转述；华盛顿同题版本关系未展开；评价性描述为转述；流传只引委托人。"
+}

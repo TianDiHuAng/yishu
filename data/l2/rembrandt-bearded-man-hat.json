@@ -1,0 +1,19 @@
+{
+ "id": "rembrandt-bearded-man-hat",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为题名伦勃朗（1606—1669）的男子像，约1655—60年，布面油画，克利夫兰艺术博物馆藏（1950.252）。该馆藏品标题为「A Bearded Man Wearing a Hat」，说明文字中则称之为「Portrait of a Man」。",
+  "风格特征": "该馆说明：披风与帽子画得宽而薄；画中虽有伦勃朗特有的对坐像者内省的兴趣，但人物的沉思相对流于表面。",
+  "代表人物与作品": "题名作者为伦勃朗。相关条目见伦勃朗与巴洛克。",
+  "技法或形式分析": "布面油画；画心84.5 × 69.2厘米，带框119.4 × 104.1 × 14.6厘米（据该馆藏品记录）。右肩上方题款为「Rembrandt 16[?]」，年份该馆记录即以问号括注，本条目原样引用、不补年份。",
+  "与前后风格的关系和争论": "该馆说明：17世纪初的阿姆斯特丹宗教宽容，吸引了塞法迪与阿什肯纳兹两派犹太移民；伦勃朗晚期许多身份不明的肖像因此一度带有犹太联想，但因证据不足，这些指认已被重新考虑。本画曾被视为哲学家斯宾诺莎（1632—1677）像，也曾被视为犹太学生像。该馆同时指出，其归属也经重新评估：宽而薄的披风与帽子表明它很可能是作坊制品。本条目因此把它读作「题名伦勃朗、实可能出自作坊」的一例，不作定论。",
+  "一图": "示意图以题名伦勃朗、旧说斯宾诺莎像、可能为作坊制品三者关系标示本画。",
+  "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）归属：该馆称「很可能」是作坊制品，并非定论，本条目沿用此口气；（3）藏品标题与说明中的称呼不一致（「A Bearded Man Wearing a Hat」与「Portrait of a Man」），本条目按藏品标题写；（4）题款年份「16[?]」原样保留；（5）「内省」「流于表面」为该馆的评价性描述，本条目只作转述；（6）入藏前来源记录自1906年圣彼得堡Paul Delaroff起，其后经伦敦与纽约的商行，更多环节未在此展开。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='rembrandt-bearded-man-ha 示意图'><title>rembrandt-bearded-man-ha</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>题名伦勃朗</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>约1655—60</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>戴帽的有胡子男子</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>画心84.5×69.2cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>旧说斯宾诺莎像</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>证据不足·已重新考虑</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>可能为作坊制品</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>披风帽子宽而薄</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>题名伦勃朗：归属与身份皆待定</text></g></svg>",
+ "sources": [
+  "cma-1950-252"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；归属为该馆「很可能」口气；标题与说明称呼不一致；题款年份括注原样；评价性描述为转述。"
+}

@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 542 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 546 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -145,6 +145,10 @@
 | parodi-sleeping-christ | 帕罗迪《睡着的基督圣婴》 | 作品 | 17世纪 | 欧洲 | 雕塑 | 核心 | O1 |
 | doccia-spring-relief | 多西亚瓷厂《春》浮雕 | 作品 | 18世纪 | 欧洲 | 雕塑 | 重要 | O1 |
 | liss-cupid | 利斯《丘比特》 | 作品 | 17世纪 | 欧洲 | 绘画 | 核心 | O1 |
+| rembrandt-bearded-man-hat | 伦勃朗（作坊？）《戴帽的有胡子男子》（约1655—60） | 作品 | 17世纪 | 荷兰 | 绘画 | 重要 | O1 |
+| claude-rest-flight-egypt | 克劳德·洛兰《逃往埃及途中的休息》（1640年代初） | 作品 | 17世纪 | 法国 | 绘画 | 重要 | O1 |
+| poussin-holy-family-steps | 普桑《台阶上的圣家族》（1648） | 作品 | 17世纪 | 法国 | 绘画 | 重要 | O1 |
+| hals-tieleman-roosterman | 哈尔斯《蒂勒曼·罗斯特曼像》（1634） | 作品 | 17世纪 | 荷兰 | 绘画 | 重要 | O1 |
 
 ## art-neo-romantic（艺术史·新古典与浪漫）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

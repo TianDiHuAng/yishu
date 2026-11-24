@@ -1885,6 +1885,18 @@
       },
       "network": "CMA",
       "verdict": "art-china-calligraphy 11→15（总542）；未饱和"
+    },
+    {
+      "cycle": "cycle155",
+      "date": "2026-11-24",
+      "methods_used": [
+        "巴洛克绘画"
+      ],
+      "gaps_found": {
+        "entries": 4
+      },
+      "network": "CMA",
+      "verdict": "art-baroque 15→19（总546）；未饱和"
     }
   ],
   "assessment_c33": {

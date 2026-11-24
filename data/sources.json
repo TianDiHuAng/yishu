@@ -6679,6 +6679,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；对联一对 纸本墨 每幅128×30cm；说明含碑学风格、改革者、各引一位历史文化人物诗句"
+    },
+    {
+      "id": "cma-1950-252",
+      "title": "Cleveland Museum of Art — Rembrandt van Rijn, A Bearded Man Wearing a Hat (Portrait of a Man), c. 1655–60, acc. 1950.252",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1950.252",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；布面油画 84.5×69.2cm；题款Rembrandt 16[?]；说明含斯宾诺莎旧说已重新考虑、可能为作坊制品"
+    },
+    {
+      "id": "cma-1962-151",
+      "title": "Cleveland Museum of Art — Claude Lorrain, Rest on the Flight into Egypt, early 1640s, acc. 1962.151",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1962.151",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；布面油画 208×152.5cm；说明含理想风景、圣家族与天使献果"
+    },
+    {
+      "id": "cma-1981-18",
+      "title": "Cleveland Museum of Art — Nicolas Poussin, The Holy Family on the Steps, 1648, acc. 1981.18",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1981.18",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；布面油画 73.3×105.8cm；说明含苹果、圆规象征与几何构图"
+    },
+    {
+      "id": "cma-1999-173",
+      "title": "Cleveland Museum of Art — Frans Hals, Portrait of Tieleman Roosterman, 1634, acc. 1999.173",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1999.173",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；布面油画 117×87cm；题款ÆTAT SVÆ 36 / AN° 1634；说明含哈勒姆亚麻丝绸商、可见笔触"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 542,
+    "total": 546,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -6508,6 +6508,54 @@
     },
     "liang-qichao-couplet": {
       "title": "梁启超书法对联（1911年后）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "rembrandt-bearded-man-hat": {
+      "title": "伦勃朗（作坊？）《戴帽的有胡子男子》（约1655—60）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "claude-rest-flight-egypt": {
+      "title": "克劳德·洛兰《逃往埃及途中的休息》（1640年代初）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "poussin-holy-family-steps": {
+      "title": "普桑《台阶上的圣家族》（1648）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "hals-tieleman-roosterman": {
+      "title": "哈尔斯《蒂勒曼·罗斯特曼像》（1634）",
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",

@@ -942,7 +942,11 @@
         "puget-sauli-study",
         "parodi-sleeping-christ",
         "doccia-spring-relief",
-        "liss-cupid"
+        "liss-cupid",
+        "rembrandt-bearded-man-hat",
+        "claude-rest-flight-egypt",
+        "poussin-holy-family-steps",
+        "hals-tieleman-roosterman"
       ],
       "sources": [
         "enc-baroque",
@@ -978,7 +982,8 @@
         "neoclassicism",
         "rubens",
         "dumont-harpsichord-miniature",
-        "lancret-cello-drawing"
+        "lancret-cello-drawing",
+        "claude-rest-flight-egypt"
       ],
       "sources": [
         "enc-rococo",
@@ -1052,7 +1057,9 @@
         "vermeer",
         "caravaggio",
         "la-tour-peter",
-        "dusart-violin-tavern"
+        "dusart-violin-tavern",
+        "rembrandt-bearded-man-hat",
+        "hals-tieleman-roosterman"
       ],
       "sources": [
         "enc-rembrandt",
@@ -11186,7 +11193,8 @@
       "overview": "红衣主教 Carafa 委托；五个盛彩人物在圆形画幅中交叠；草图中古维纳斯像被改写为圣玛格丽特。",
       "related": [
         "botticelli",
-        "early-renaissance"
+        "early-renaissance",
+        "poussin-holy-family-steps"
       ],
       "sources": [
         "cma-1932-227"
@@ -18947,6 +18955,138 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='liang-qichao-couplet 示意图'><title>liang-qichao-couplet</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>梁启超·1911年后</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>民国</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>书法对联</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>每幅128×30cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>碑学风格楷书</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>棱角分明</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>复古以建新中国</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>改革者风气</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>梁启超对联：书体即立场</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（CMA）来源；释文只给片段；风气概括为该馆说明；诗句出处未取得。"
+    },
+    {
+      "id": "rembrandt-bearded-man-hat",
+      "title": "伦勃朗（作坊？）《戴帽的有胡子男子》（约1655—60）",
+      "kind": "作品",
+      "unit": "art-baroque",
+      "era": "17世纪",
+      "region": "荷兰",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "题为伦勃朗的男子像布面油画，克利夫兰艺术博物馆藏（1950.252），归属有疑。",
+      "when": "约1655—60年",
+      "overview": "该馆说明：此画曾被视为斯宾诺莎像或犹太学生像，因证据不足这些说法已被重新考虑；披风与帽子画得宽而薄，该馆认为很可能是作坊制品，人物的沉思相对流于表面；右肩上方有题款「Rembrandt 16[?]」。",
+      "related": [
+        "rembrandt",
+        "baroque"
+      ],
+      "sources": [
+        "cma-1950-252"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为题名伦勃朗（1606—1669）的男子像，约1655—60年，布面油画，克利夫兰艺术博物馆藏（1950.252）。该馆藏品标题为「A Bearded Man Wearing a Hat」，说明文字中则称之为「Portrait of a Man」。",
+        "风格特征": "该馆说明：披风与帽子画得宽而薄；画中虽有伦勃朗特有的对坐像者内省的兴趣，但人物的沉思相对流于表面。",
+        "代表人物与作品": "题名作者为伦勃朗。相关条目见伦勃朗与巴洛克。",
+        "技法或形式分析": "布面油画；画心84.5 × 69.2厘米，带框119.4 × 104.1 × 14.6厘米（据该馆藏品记录）。右肩上方题款为「Rembrandt 16[?]」，年份该馆记录即以问号括注，本条目原样引用、不补年份。",
+        "与前后风格的关系和争论": "该馆说明：17世纪初的阿姆斯特丹宗教宽容，吸引了塞法迪与阿什肯纳兹两派犹太移民；伦勃朗晚期许多身份不明的肖像因此一度带有犹太联想，但因证据不足，这些指认已被重新考虑。本画曾被视为哲学家斯宾诺莎（1632—1677）像，也曾被视为犹太学生像。该馆同时指出，其归属也经重新评估：宽而薄的披风与帽子表明它很可能是作坊制品。本条目因此把它读作「题名伦勃朗、实可能出自作坊」的一例，不作定论。",
+        "一图": "示意图以题名伦勃朗、旧说斯宾诺莎像、可能为作坊制品三者关系标示本画。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）归属：该馆称「很可能」是作坊制品，并非定论，本条目沿用此口气；（3）藏品标题与说明中的称呼不一致（「A Bearded Man Wearing a Hat」与「Portrait of a Man」），本条目按藏品标题写；（4）题款年份「16[?]」原样保留；（5）「内省」「流于表面」为该馆的评价性描述，本条目只作转述；（6）入藏前来源记录自1906年圣彼得堡Paul Delaroff起，其后经伦敦与纽约的商行，更多环节未在此展开。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='rembrandt-bearded-man-ha 示意图'><title>rembrandt-bearded-man-ha</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>题名伦勃朗</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>约1655—60</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>戴帽的有胡子男子</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>画心84.5×69.2cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>旧说斯宾诺莎像</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>证据不足·已重新考虑</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>可能为作坊制品</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>披风帽子宽而薄</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>题名伦勃朗：归属与身份皆待定</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；归属为该馆「很可能」口气；标题与说明称呼不一致；题款年份括注原样；评价性描述为转述。"
+    },
+    {
+      "id": "claude-rest-flight-egypt",
+      "title": "克劳德·洛兰《逃往埃及途中的休息》（1640年代初）",
+      "kind": "作品",
+      "unit": "art-baroque",
+      "era": "17世纪",
+      "region": "法国",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "克劳德·洛兰理想风景布面油画，克利夫兰艺术博物馆藏（1962.151）。",
+      "when": "1640年代初",
+      "overview": "该馆称克劳德是近代早期最有影响的风景画家之一、「理想风景」的大师：以茂盛枝叶与宁静气氛暗示理想化的想象往昔，意在造出比自然本身更美更和谐的景色；前景中圣家族在树荫坡上休息，跪着的天使向圣婴献果；此类风景受欧洲富有藏家欢迎，是他们逃离都市喧嚣的宁静去处。",
+      "related": [
+        "baroque",
+        "rococo"
+      ],
+      "sources": [
+        "cma-1962-151"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为法国画家克劳德·洛兰（1604—1682）1640年代初的《逃往埃及途中的休息》，布面油画，克利夫兰艺术博物馆藏（1962.151）。",
+        "风格特征": "该馆称克劳德是近代早期最有影响的风景画家之一，是「理想风景」的大师：把茂盛的枝叶、宁静的气氛与对理想化想象往昔的暗示结合在一起。",
+        "代表人物与作品": "作者为克劳德·洛兰。相关条目见巴洛克与洛可可。",
+        "技法或形式分析": "布面油画；画心208 × 152.5厘米，带框239 × 185 × 12厘米（据该馆藏品记录）。该馆说明：前景中圣家族在树荫下的坡上休息，跪着的天使向基督圣婴献上水果；这是一幅高耸的风景。",
+        "与前后风格的关系和争论": "该馆说明：理想风景的用意是造出比自然本身更美、更和谐的景色；这类风景画在欧洲富有藏家中需求很大，这些广阔而理想化的景色对他们是逃离繁忙都市生活的宁静去处。本条目据此把它读作「风景为主、圣经故事为辅」的一例，这一读法是本条目的归纳。",
+        "一图": "示意图以理想风景、前景圣家族休息、藏家的宁静去处三者关系标示本画。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）「最有影响」「大师」为该馆评价，本条目只作转述；（3）「风景为主、圣经故事为辅」为本条目归纳，该馆未如此表述；（4）创作年份该馆记为「early 1640s」，不作更细推定；（5）入藏前来源记录自克雷申齐家族起，其后传至英国霍尔克庄园，后续环节未在此展开。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='claude-rest-flight-egypt 示意图'><title>claude-rest-flight-egypt</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>克劳德·洛兰</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>法国·1640年代初</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>逃往埃及途中的休息</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>画心208×152.5cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>理想风景</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>比自然更和谐</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>圣家族与献果天使</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>前景树荫坡上</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>克劳德：理想风景中的圣家族</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；评价性描述为转述；「风景为主」为本条目归纳；年份仅到「1640年代初」；流传后段未展开。"
+    },
+    {
+      "id": "poussin-holy-family-steps",
+      "title": "普桑《台阶上的圣家族》（1648）",
+      "kind": "作品",
+      "unit": "art-baroque",
+      "era": "17世纪",
+      "region": "法国",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "普桑布面油画，克利夫兰艺术博物馆藏（1981.18）。",
+      "when": "1648年",
+      "overview": "该馆说明：看似简单的构图是对圣家族在人类救赎中作用的复杂沉思；中央玛利亚向世人呈现圣婴，左侧伊丽莎白前倾预示其死，圣若翰献苹果象征人类堕落，右侧约瑟夫持圆规，既是木匠职业标志也象征天父；画家有条不紊地经营构图，以清晰原色、简洁形体与几何组织表达圣家族的核心地位。",
+      "related": [
+        "baroque",
+        "lippi-holy-family-tondo"
+      ],
+      "sources": [
+        "cma-1981-18"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为法国画家普桑（1594—1665）1648年的《台阶上的圣家族》，布面油画，克利夫兰艺术博物馆藏（1981.18）。该馆提供的来源记录称此画为受皮埃尔·埃纳坎·德·弗雷纳（Pierre Hennequin de Fresne）委托而作，并注明「或为华盛顿的那一版本」，即存在版本问题。",
+        "风格特征": "该馆说明：普桑有条不紊、深思熟虑地发展构图，用清晰的原色、简洁的形体与几何式组织，来表达圣家族在基督教信仰中的核心地位。",
+        "代表人物与作品": "作者为普桑。相关条目见巴洛克与利皮《圣家族圆形画》。",
+        "技法或形式分析": "布面油画；画心73.3 × 105.8厘米，带框103.5 × 135.3 × 13.3厘米（据该馆藏品记录）。该馆说明：中央玛利亚向世人呈现基督圣婴；左侧圣伊丽莎白前倾，预示他终将死去；她的儿子圣若翰洗者向耶稣献上一个苹果，象征人类在伊甸园中的堕落；右侧圣约瑟夫持圆规，是其木匠职业的标志，也象征天父。",
+        "与前后风格的关系和争论": "该馆称这幅看似简单的构图是对圣家族在人类救赎中作用的一次复杂沉思。本条目只转述该馆对苹果与圆规的象征解读，不另作图像学考证。",
+        "一图": "示意图以中央圣母呈现圣婴、苹果象征堕落、圆规象征木匠与天父三者关系标示本画。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）苹果与圆规的象征解读为该馆说明，本条目未另行印证；（3）该馆来源记录提到华盛顿存在同题版本，两者关系本条目未展开；（4）「复杂沉思」为该馆的评价性描述，本条目只作转述；（5）题款：该馆记录无题款；（6）流传记录含多次拍卖与收藏者，本条目只引委托人一项，其余未展开。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='poussin-holy-family-step 示意图'><title>poussin-holy-family-step</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>普桑·1648</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>法国</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>台阶上的圣家族</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>画心73.3×105.8cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>苹果</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>人类堕落</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>圆规</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>木匠·天父</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>普桑：几何构图中的救赎象征</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；象征解读为该馆转述；华盛顿同题版本关系未展开；评价性描述为转述；流传只引委托人。"
+    },
+    {
+      "id": "hals-tieleman-roosterman",
+      "title": "哈尔斯《蒂勒曼·罗斯特曼像》（1634）",
+      "kind": "作品",
+      "unit": "art-baroque",
+      "era": "17世纪",
+      "region": "荷兰",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "哈尔斯布面肖像，克利夫兰艺术博物馆藏（1999.173）。",
+      "when": "1634年",
+      "overview": "该馆说明：罗斯特曼是哈勒姆极富有的亚麻与丝绸商，画像时36岁；与许多荷兰同行不同，哈尔斯偏好强烈可见的笔触以传达坐像者的生气；其姿态自信，服饰端庄而奢华，袖饰镶边与纽扣，腰间缠丝带花结，黑衣与宽亚麻领、花边袖口相映；右上方题「ÆTAT SVÆ 36 / AN° 1634」。",
+      "related": [
+        "baroque",
+        "rembrandt"
+      ],
+      "sources": [
+        "cma-1999-173"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为荷兰画家弗朗斯·哈尔斯（约1581—1666）1634年的《蒂勒曼·罗斯特曼像》，布面油画，克利夫兰艺术博物馆藏（1999.173）。该馆说明：罗斯特曼是哈勒姆一位极其富有的亚麻与丝绸商人，画像时36岁。",
+        "风格特征": "该馆说明：与同时期许多荷兰画家不同，哈尔斯偏好强烈、可见的笔触，以传达坐像者的生气。",
+        "代表人物与作品": "作者为弗朗斯·哈尔斯。相关条目见巴洛克与伦勃朗。",
+        "技法或形式分析": "布面油画；画心117 × 87厘米，带框139 × 109 × 5.5厘米（据该馆藏品记录）。右上方题「ÆTAT SVÆ 36 / AN° 1634」。该馆说明：罗斯特曼姿态自信，服饰端庄而奢华，袖子饰有编带与纽扣，腰间缠有丝带花结；黑色衣服的深沉，被宽阔的亚麻领与镶花边的袖口衬托，这些时髦细节与一位成功的布商身份相称。",
+        "与前后风格的关系和争论": "本条目据该馆说明把握哈尔斯与同代荷兰肖像的差别：以可见笔触而非光滑的表面传达生气；这一比较是该馆的说明，本条目只作转述。",
+        "一图": "示意图以哈勒姆亚麻丝绸商、可见笔触传达生气、端庄而奢华的服饰三者关系标示本画。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）题款中的年龄与年份为该馆记录的原文，本条目原样引用；（3）「极其富有」「自信」为该馆的评价性描述，本条目只作转述；（4）与「许多荷兰画家」的对比为该馆概括，本条目未另行印证；（5）流传记录自维也纳的收藏者起，含1872年拍卖与罗特希尔德男爵，更后环节未在此展开。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='hals-tieleman-roosterman 示意图'><title>hals-tieleman-roosterman</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>哈尔斯·1634</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>荷兰·哈勒姆</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>蒂勒曼·罗斯特曼像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>画心117×87cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>可见笔触</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>传达生气</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>端庄而奢华</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>黑衣·亚麻领·花边袖口</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>哈尔斯：笔触里的生气</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；题款原样；评价性描述为转述；与同代画家对比为该馆概括；流传只引前段。"
     }
   ]
 }

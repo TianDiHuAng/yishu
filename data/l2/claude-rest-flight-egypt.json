@@ -1,0 +1,19 @@
+{
+ "id": "claude-rest-flight-egypt",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为法国画家克劳德·洛兰（1604—1682）1640年代初的《逃往埃及途中的休息》，布面油画，克利夫兰艺术博物馆藏（1962.151）。",
+  "风格特征": "该馆称克劳德是近代早期最有影响的风景画家之一，是「理想风景」的大师：把茂盛的枝叶、宁静的气氛与对理想化想象往昔的暗示结合在一起。",
+  "代表人物与作品": "作者为克劳德·洛兰。相关条目见巴洛克与洛可可。",
+  "技法或形式分析": "布面油画；画心208 × 152.5厘米，带框239 × 185 × 12厘米（据该馆藏品记录）。该馆说明：前景中圣家族在树荫下的坡上休息，跪着的天使向基督圣婴献上水果；这是一幅高耸的风景。",
+  "与前后风格的关系和争论": "该馆说明：理想风景的用意是造出比自然本身更美、更和谐的景色；这类风景画在欧洲富有藏家中需求很大，这些广阔而理想化的景色对他们是逃离繁忙都市生活的宁静去处。本条目据此把它读作「风景为主、圣经故事为辅」的一例，这一读法是本条目的归纳。",
+  "一图": "示意图以理想风景、前景圣家族休息、藏家的宁静去处三者关系标示本画。",
+  "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）「最有影响」「大师」为该馆评价，本条目只作转述；（3）「风景为主、圣经故事为辅」为本条目归纳，该馆未如此表述；（4）创作年份该馆记为「early 1640s」，不作更细推定；（5）入藏前来源记录自克雷申齐家族起，其后传至英国霍尔克庄园，后续环节未在此展开。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='claude-rest-flight-egypt 示意图'><title>claude-rest-flight-egypt</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>克劳德·洛兰</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>法国·1640年代初</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>逃往埃及途中的休息</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>画心208×152.5cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>理想风景</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>比自然更和谐</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>圣家族与献果天使</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>前景树荫坡上</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>克劳德：理想风景中的圣家族</text></g></svg>",
+ "sources": [
+  "cma-1962-151"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；评价性描述为转述；「风景为主」为本条目归纳；年份仅到「1640年代初」；流传后段未展开。"
+}
