@@ -7269,7 +7269,8 @@
       "overview": "良渚以治玉著称；此大璧罕见，常置于墓主胸前；璧与琮为高等级墓葬必备的礼器配对。",
       "related": [
         "shang-cong-tube",
-        "qijia-jade-dao"
+        "qijia-jade-dao",
+        "qianlong-jade-mountain"
       ],
       "sources": [
         "cma-1917-974"
@@ -7310,7 +7311,8 @@
       "related": [
         "shang-zhou-bronzes",
         "shang-cong-tube",
-        "qijia-jade-dao"
+        "qijia-jade-dao",
+        "qianlong-jade-mountain"
       ],
       "sources": [
         "cma-1983-2"
@@ -8998,6 +9000,90 @@
       ],
       "sources": [
         "vam-o58979"
+      ]
+    },
+    {
+      "id": "qianlong-jade-mountain",
+      "title": "乾隆玉雕仙山",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "18世纪",
+      "region": "中国",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "乾隆青玉带褐斑玉山，克利夫兰艺术博物馆藏（1941.594）。",
+      "when": "1736—1795年",
+      "overview": "大料玉雕山形，表寻仙访道之境；玉被认为有灵性，古用于墓葬保体存魂；道士晨饮玉屑露以求长生。",
+      "related": [
+        "liangzhu-bi-disc",
+        "shang-jade-ge",
+        "kangxi-jade-dragon-cup",
+        "qing-jade-horse"
+      ],
+      "sources": [
+        "cma-1941-594"
+      ]
+    },
+    {
+      "id": "kangxi-jade-dragon-cup",
+      "title": "康熙玉龙耳杯",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "17—18世纪",
+      "region": "中国",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "康熙灰绿白玉杯，克利夫兰艺术博物馆藏（1920.424）。",
+      "when": "1662—1722年",
+      "overview": "三龙抓沿、外壁「寿」字；龙耳饮杯为精英奢侈品；色工近苏州供宫廷/士绅/商人作坊；乐观署款陆子刚或借名招客。",
+      "related": [
+        "qianlong-jade-mountain",
+        "qing-jade-horse",
+        "kangxi-jade-buffalo"
+      ],
+      "sources": [
+        "cma-1920-424"
+      ]
+    },
+    {
+      "id": "kangxi-jade-buffalo",
+      "title": "康熙玉卧牛",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "17—18世纪",
+      "region": "中国",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "康熙玉卧牛，克利夫兰艺术博物馆藏（1962.223）。",
+      "when": "1642—1722年",
+      "overview": "明清奢侈品受众扩大至女性/商人/在野文人；帝室赞助与城市人口增长促消费；competitive market 中竞艺觅客。",
+      "related": [
+        "kangxi-jade-dragon-cup",
+        "qing-jade-horse"
+      ],
+      "sources": [
+        "cma-1962-223"
+      ]
+    },
+    {
+      "id": "qing-jade-horse",
+      "title": "清代玉马",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "17世纪",
+      "region": "中国",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "清代玉马，克利夫兰艺术博物馆藏（1952.480）。",
+      "when": "1600年代",
+      "overview": "科举取仕，文人官员案头置珍玩以遣兴显品味；文房清玩（镇纸/印盒/笔架/水滴/玉山等）材质自玉至瓷，明清亦成藏品。",
+      "related": [
+        "kangxi-jade-buffalo",
+        "qianlong-jade-mountain",
+        "kangxi-jade-dragon-cup"
+      ],
+      "sources": [
+        "cma-1952-480"
       ]
     }
   ]

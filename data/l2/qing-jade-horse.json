@@ -1,0 +1,19 @@
+{
+ "id": "qing-jade-horse",
+ "level": "L2",
+ "sections": {
+  "时代背景": "该馆说明：在中国，**政治权力向通过科举者开放**——只有**受过高等教育**者方可任官；**文人官员**的日常是**案牍工作**，他们在**书案**上陈设**珍贵器物**以**遣兴并展示品味**。",
+  "风格特征": "该馆列举**文房清玩**的类别：**镇纸、印与印泥盒、笔架、腕枕与笔筒、水滴、墨、微型玉山与册页**；材质**自玉、鎏金铜、漆、木至瓷**。本件即玉马（1600年代，仅3.4厘米）。",
+  "代表人物与作品": "作者未署名。相关条目见康熙玉卧牛与乾隆玉山。本件为 CMA 藏品（1952.480）。",
+  "技法或形式分析": "材质为**玉**；整体高3.4厘米（据该馆记录）。",
+  "与前后风格的关系和争论": "该馆指出：至明清，这些**文房用具**也**成为收藏品**、被**作为艺术品珍视**。本条目据此把3.4厘米的玉马视为**案头尺度**的产物——其价值在**把玩**而非展示规模。",
+  "一图": "示意图以科举文人、案头清玩与3.4cm尺度三者关系标示本件。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）本马的姿态/造型细节未展开；（3）玉料与工坊未记录；（4）递藏未取得。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='qing-jade-horse 示意图'><title>qing-jade-horse</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>清代·1600s</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>玉</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>玉马</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>3.4cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>文人案头</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>清玩</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>成收藏品</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>明清</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>玉马：科举、案头与收藏</text></g></svg>",
+ "sources": [
+  "cma-1952-480"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；姿态与玉料未记录。"
+}

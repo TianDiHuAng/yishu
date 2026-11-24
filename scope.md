@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 416 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 420 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -55,6 +55,10 @@
 | canopic-jar-26 | 第二十六王朝卡诺普罐 | 作品 | 公元前7—6世纪 | 埃及 | 雕塑 | 核心 | O2 |
 | amenemhat-statue | 阿门涅姆赫特三世像 | 作品 | 公元前19世纪 | 埃及 | 雕塑 | 核心 | O2 |
 | minemheb-statue | 米奈赫布像（像中像） | 作品 | 公元前14世纪 | 埃及 | 雕塑 | 核心 | O2 |
+| qianlong-jade-mountain | 乾隆玉雕仙山 | 作品 | 18世纪 | 中国 | 雕塑 | 核心 | O2、O6 |
+| kangxi-jade-dragon-cup | 康熙玉龙耳杯 | 作品 | 17—18世纪 | 中国 | 雕塑 | 核心 | O2、O6 |
+| kangxi-jade-buffalo | 康熙玉卧牛 | 作品 | 17—18世纪 | 中国 | 雕塑 | 重要 | O2、O6 |
+| qing-jade-horse | 清代玉马 | 作品 | 17世纪 | 中国 | 雕塑 | 重要 | O2、O6 |
 
 ## art-medieval（艺术史·中世纪）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

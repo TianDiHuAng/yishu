@@ -1,0 +1,19 @@
+{
+ "id": "kangxi-jade-dragon-cup",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为康熙朝（1662—1722）玉杯，灰绿白色玉，口径14.6厘米、高4.6厘米，CMA 藏（1920.424）。",
+  "风格特征": "该馆描述：**三龙**——**吉庆之兆**——**抓住杯沿**；**外壁可见一个大「寿」字**；带龙耳的饮杯属**精英奢侈品**。",
+  "代表人物与作品": "作者未署名。相关条目见乾隆玉山与清代玉马。本件为 CMA 藏品（1920.424）。",
+  "技法或形式分析": "该馆指出：**黄白色调与精工**是**苏州作坊**的特征——他们**服务于宫廷、士大夫与商人阶层**。",
+  "与前后风格的关系和争论": "该馆给出一个**署名现象**：本杯被**乐观地**归给 **陆子刚（Lu Zigang，16世纪末）**—— recorded 活跃于苏州的**玉雕大师**；该馆的解释是：制作者**借用大师之名**以吸引**急于展示品味与鉴藏力的富客**。本条目据此把「大师款」读作**市场策略**，并保留其不确定性。",
+  "一图": "示意图以三龙抓沿/寿字、苏州供宫廷作坊与借名陆子刚三者关系标示本杯。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）陆子刚款为「乐观归属」，未确证；（3）「寿」字的具体位置与字体未详述；（4）递藏未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='kangxi-jade-dragon-cup 示意图'><title>kangxi-jade-dragon-cup</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>康熙·1662—1722</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>苏州工</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>玉龙耳杯</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>径14.6</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>三龙·寿字</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>吉祥</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>借名陆子刚</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>市场策略</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>玉龙耳杯：吉祥、作坊与借名</text></g></svg>",
+ "sources": [
+  "cma-1920-424"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；归属未确证；递藏未记录。"
+}

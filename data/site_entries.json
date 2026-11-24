@@ -11755,7 +11755,8 @@
       "overview": "良渚以治玉著称；此大璧罕见，常置于墓主胸前；璧与琮为高等级墓葬必备的礼器配对。",
       "related": [
         "shang-cong-tube",
-        "qijia-jade-dao"
+        "qijia-jade-dao",
+        "qianlong-jade-mountain"
       ],
       "sources": [
         "cma-1917-974"
@@ -11822,7 +11823,8 @@
       "related": [
         "shang-zhou-bronzes",
         "shang-cong-tube",
-        "qijia-jade-dao"
+        "qijia-jade-dao",
+        "qianlong-jade-mountain"
       ],
       "sources": [
         "cma-1983-2"
@@ -14577,6 +14579,142 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='harp-lute-guitar-va 示意图'><title>harp-lute-guitar-va</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>伦敦·约1810</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>Harley</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>哈普鲁特吉他</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>92cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>三器混成</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>结构</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>亲王羽毛玫瑰</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>政治纹样?</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>哈普鲁特吉他：混成、结构与纹样</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（V&A）来源；公主关联为推测；弦数未记录。"
+    },
+    {
+      "id": "qianlong-jade-mountain",
+      "title": "乾隆玉雕仙山",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "18世纪",
+      "region": "中国",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "乾隆青玉带褐斑玉山，克利夫兰艺术博物馆藏（1941.594）。",
+      "when": "1736—1795年",
+      "overview": "大料玉雕山形，表寻仙访道之境；玉被认为有灵性，古用于墓葬保体存魂；道士晨饮玉屑露以求长生。",
+      "related": [
+        "liangzhu-bi-disc",
+        "shang-jade-ge",
+        "kangxi-jade-dragon-cup",
+        "qing-jade-horse"
+      ],
+      "sources": [
+        "cma-1941-594"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为乾隆朝（1736—95）玉雕**微型仙山**，带褐斑青玉，高17.5厘米，克利夫兰艺术博物馆藏（1941.594）。",
+        "风格特征": "该馆说明：**大料玉料**被雕成**山岳景观**，以表现**在山中寻访仙境或仙人居所**；这一**道教主题**贯穿中国想象史。",
+        "代表人物与作品": "作者未署名。相关条目见良渚玉璧与康熙玉龙耳杯。",
+        "技法或形式分析": "该馆给出**玉的观念史**：玉被认为具有**灵性与法力**，长久用于**墓葬**，意在**保全身体与魂魄**以求永恒；并有记载：**道士晨饮玉屑配晨露**为**长生之药**。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「玉山」放在从**葬玉**到**文人陈设**的长程里：同一材料的神圣性，先服务于死后世界，后转为**现世案头的仙境微缩**。本条目只依记录陈述。",
+        "一图": "示意图以大料山形、寻仙主题与玉之灵性三者关系标示本件。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「饮玉屑露」为文献性记载，原文未核；（3）玉料产地未鉴定；（4）雕刻工坊未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='qianlong-jade-mountain 示意图'><title>qianlong-jade-mountain</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>乾隆·1736—95</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>青玉褐斑</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>玉雕仙山</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>17.5cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>寻仙访道</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>主题</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>玉屑晨露</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>长生药</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>玉山：材料、主题与仙药</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；文献原文未核；工坊未记录。"
+    },
+    {
+      "id": "kangxi-jade-dragon-cup",
+      "title": "康熙玉龙耳杯",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "17—18世纪",
+      "region": "中国",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "康熙灰绿白玉杯，克利夫兰艺术博物馆藏（1920.424）。",
+      "when": "1662—1722年",
+      "overview": "三龙抓沿、外壁「寿」字；龙耳饮杯为精英奢侈品；色工近苏州供宫廷/士绅/商人作坊；乐观署款陆子刚或借名招客。",
+      "related": [
+        "qianlong-jade-mountain",
+        "qing-jade-horse",
+        "kangxi-jade-buffalo"
+      ],
+      "sources": [
+        "cma-1920-424"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为康熙朝（1662—1722）玉杯，灰绿白色玉，口径14.6厘米、高4.6厘米，CMA 藏（1920.424）。",
+        "风格特征": "该馆描述：**三龙**——**吉庆之兆**——**抓住杯沿**；**外壁可见一个大「寿」字**；带龙耳的饮杯属**精英奢侈品**。",
+        "代表人物与作品": "作者未署名。相关条目见乾隆玉山与清代玉马。本件为 CMA 藏品（1920.424）。",
+        "技法或形式分析": "该馆指出：**黄白色调与精工**是**苏州作坊**的特征——他们**服务于宫廷、士大夫与商人阶层**。",
+        "与前后风格的关系和争论": "该馆给出一个**署名现象**：本杯被**乐观地**归给 **陆子刚（Lu Zigang，16世纪末）**—— recorded 活跃于苏州的**玉雕大师**；该馆的解释是：制作者**借用大师之名**以吸引**急于展示品味与鉴藏力的富客**。本条目据此把「大师款」读作**市场策略**，并保留其不确定性。",
+        "一图": "示意图以三龙抓沿/寿字、苏州供宫廷作坊与借名陆子刚三者关系标示本杯。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）陆子刚款为「乐观归属」，未确证；（3）「寿」字的具体位置与字体未详述；（4）递藏未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='kangxi-jade-dragon-cup 示意图'><title>kangxi-jade-dragon-cup</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>康熙·1662—1722</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>苏州工</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>玉龙耳杯</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>径14.6</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>三龙·寿字</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>吉祥</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>借名陆子刚</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>市场策略</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>玉龙耳杯：吉祥、作坊与借名</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；归属未确证；递藏未记录。"
+    },
+    {
+      "id": "kangxi-jade-buffalo",
+      "title": "康熙玉卧牛",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "17—18世纪",
+      "region": "中国",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "康熙玉卧牛，克利夫兰艺术博物馆藏（1962.223）。",
+      "when": "1642—1722年",
+      "overview": "明清奢侈品受众扩大至女性/商人/在野文人；帝室赞助与城市人口增长促消费；competitive market 中竞艺觅客。",
+      "related": [
+        "kangxi-jade-dragon-cup",
+        "qing-jade-horse"
+      ],
+      "sources": [
+        "cma-1962-223"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明：**明清**两代，**奢侈品**变得**对社会更大群体可负担**——包括**女性、商人与无官职的文人**；**帝国赞助**与**城市人口增长**鼓励了**奢侈品消费与地方工艺**。本件为康熙玉卧牛（该馆记1642—1722），CMA 藏（1962.223）。",
+        "风格特征": "该馆评价：此玉牛展示了其**有成就的创作者**的**高超雕刻技艺与创造性心智**——此人**在竞争性市场上寻求客户**。",
+        "代表人物与作品": "作者未署名。相关条目见康熙玉龙耳杯与清代玉马。本件为 CMA 藏品（1962.223）。",
+        "技法或形式分析": "材质为**玉**；尺寸6.2 × 7.7厘米（据该馆记录）。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「小件玉雕」放在**消费社会**框架：创作的驱动是**市场竞争**而非宫廷订制。这与 Cycle121 玉龙耳杯的「借名招客」互证——同一市场的两种策略。",
+        "一图": "示意图以受众扩大、帝室赞助与市场竞争三者关系标示本件。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）该馆将年代记为「1642—1722」（康熙应为1662—1722），本条照录原记录并留待核实；（3）卧牛姿态细节未展开；（4）作者未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='kangxi-jade-buffalo 示意图'><title>kangxi-jade-buffalo</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>康熙（记录1642起）</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>年代存疑</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>玉卧牛</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>6.2×7.7</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>受众扩大</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>消费社会</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>竞争觅客</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>市场</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>玉卧牛：市场、技艺与存疑年代</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；年代字段与通行纪年不符，照录存疑。"
+    },
+    {
+      "id": "qing-jade-horse",
+      "title": "清代玉马",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "17世纪",
+      "region": "中国",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "清代玉马，克利夫兰艺术博物馆藏（1952.480）。",
+      "when": "1600年代",
+      "overview": "科举取仕，文人官员案头置珍玩以遣兴显品味；文房清玩（镇纸/印盒/笔架/水滴/玉山等）材质自玉至瓷，明清亦成藏品。",
+      "related": [
+        "kangxi-jade-buffalo",
+        "qianlong-jade-mountain",
+        "kangxi-jade-dragon-cup"
+      ],
+      "sources": [
+        "cma-1952-480"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明：在中国，**政治权力向通过科举者开放**——只有**受过高等教育**者方可任官；**文人官员**的日常是**案牍工作**，他们在**书案**上陈设**珍贵器物**以**遣兴并展示品味**。",
+        "风格特征": "该馆列举**文房清玩**的类别：**镇纸、印与印泥盒、笔架、腕枕与笔筒、水滴、墨、微型玉山与册页**；材质**自玉、鎏金铜、漆、木至瓷**。本件即玉马（1600年代，仅3.4厘米）。",
+        "代表人物与作品": "作者未署名。相关条目见康熙玉卧牛与乾隆玉山。本件为 CMA 藏品（1952.480）。",
+        "技法或形式分析": "材质为**玉**；整体高3.4厘米（据该馆记录）。",
+        "与前后风格的关系和争论": "该馆指出：至明清，这些**文房用具**也**成为收藏品**、被**作为艺术品珍视**。本条目据此把3.4厘米的玉马视为**案头尺度**的产物——其价值在**把玩**而非展示规模。",
+        "一图": "示意图以科举文人、案头清玩与3.4cm尺度三者关系标示本件。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）本马的姿态/造型细节未展开；（3）玉料与工坊未记录；（4）递藏未取得。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='qing-jade-horse 示意图'><title>qing-jade-horse</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>清代·1600s</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>玉</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>玉马</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>3.4cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>文人案头</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>清玩</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>成收藏品</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>明清</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>玉马：科举、案头与收藏</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；姿态与玉料未记录。"
     }
   ]
 }

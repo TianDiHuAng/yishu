@@ -3379,6 +3379,31 @@
       "check_links_result": "broken=0(453页)",
       "audit_all": "12/12 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle121",
+      "date": "2026-11-24",
+      "status": "completed",
+      "gap_methods": [
+        "清代玉器（CMA）"
+      ],
+      "network": "CMA ok",
+      "new_entries": 4,
+      "new_entry_ids": [
+        "qianlong-jade-mountain",
+        "kangxi-jade-dragon-cup",
+        "kangxi-jade-buffalo",
+        "qing-jade-horse"
+      ],
+      "date_suspect": "玉卧牛年代字段1642—1722照录存疑",
+      "new_sources": 4,
+      "sources_total": 548,
+      "entries_total": 420,
+      "pages": 457,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(457页)",
+      "audit_all": "12/12 ok",
+      "commits": 1
     }
   ]
 }

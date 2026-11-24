@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 416,
+    "total": 420,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -4996,6 +4996,54 @@
     },
     "harp-lute-guitar-va": {
       "title": "哈普鲁特吉他（Harp-lute-guitar）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "qianlong-jade-mountain": {
+      "title": "乾隆玉雕仙山",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "kangxi-jade-dragon-cup": {
+      "title": "康熙玉龙耳杯",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "kangxi-jade-buffalo": {
+      "title": "康熙玉卧牛",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "qing-jade-horse": {
+      "title": "清代玉马",
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",

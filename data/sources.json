@@ -5439,6 +5439,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；金饰彩绘木弦颈乌木指板 长92cm；说明含威尔士亲王羽毛玫瑰"
+    },
+    {
+      "id": "cma-1941-594",
+      "title": "Cleveland Museum of Art — Miniature Mountain with Daoist Paradise, Qianlong, acc. 1941.594",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1941.594",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；带褐斑青玉 17.5cm；说明含道教仙山与饮玉屑露"
+    },
+    {
+      "id": "cma-1920-424",
+      "title": "Cleveland Museum of Art — Cup with Dragon Handles, Kangxi, acc. 1920.424",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1920.424",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；灰绿白玉 径14.6cm；说明含三龙抓沿/寿字/陆子刚款"
+    },
+    {
+      "id": "cma-1962-223",
+      "title": "Cleveland Museum of Art — Reclining Water Buffalo, Kangxi, acc. 1962.223",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1962.223",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；玉 6.2×7.7cm；说明含奢侈品受众扩大"
+    },
+    {
+      "id": "cma-1952-480",
+      "title": "Cleveland Museum of Art — Horse (jade), Qing, 1600s, acc. 1952.480",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1952.480",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；玉 3.4cm；说明含文人案头清玩"
     }
   ]
 }
