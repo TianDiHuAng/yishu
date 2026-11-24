@@ -311,8 +311,8 @@
   }
  },
  "link_audit": {
-  "cross_domain": 22,
+  "cross_domain": 24,
   "oneway": 0,
-  "total_links": 1534
+  "total_links": 1550
  }
 }

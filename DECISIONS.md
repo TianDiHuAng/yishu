@@ -1395,3 +1395,12 @@ art-americas 36→40。写前查重（含同名对象）有效拦截一次重复
 art-islamic 33→37。写前查重通过。
 可逆：删 4 条 overlay 与 catalog 元组、移除 4 条来源。代价：均单机构（CMA）。
 
+
+## D139 — Cycle136 非洲 4 条（468 → 472）
+`lefem-commemorative-figure`（Bangwa 王室纪念像，**核心**；生前雕造作替身、Lefem 会社保管、王室神龛见证祖颅献祭）、
+`chi-wara-headdress`（Bamana chi wara，**核心**；农耕兽＝人/羚羊/食蚁兽、成对男女舞于农赛与婚礼）、
+`esu-dance-staff`（约鲁巴 Èṣù 舞杖，**核心**；跨界神性：成对男女喻性别互转/化死为生、礼笛、货贝＝财富）、
+`kuofo-prestige-stool`（Bamileke 珠饰「行凳」，**核心**；王室库藏、豹纹喻王化身猛兽）。
+art-africa 32→36。写前查重通过。
+可逆：删 4 条 overlay 与 catalog 元组、移除 4 条来源。代价：均单机构（CMA）。
+

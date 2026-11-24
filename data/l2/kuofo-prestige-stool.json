@@ -1,0 +1,19 @@
+{
+ "id": "kuofo-prestige-stool",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为**喀麦隆 Bandjoun Bamileke**珠饰木凳（或1800年代），CMA 藏（2006.138）。",
+  "风格特征": "该馆说明：**珠覆的木凳与宝座**是**喀麦隆草原（Grassfields）地区诸王国与酋邦**中**最普遍的艺式之一**；此件**原属王室库藏**，属「**行凳（travel stools）**」一类，**通常用于宫内更私密的小型仪式与典礼**。",
+  "代表人物与作品": "作者未署名（Bamileke 制作者）。相关条目见 Bangwa 纪念像与非洲艺术。",
+  "技法或形式分析": "材质为**木、棉、植物纤维、玻璃珠与靛蓝**；尺寸51 × 38 × 43厘米（据该馆记录）。",
+  "与前后风格的关系和争论": "该馆给出**王权象征**：**豹的意象**印证此物的**王室地位**——它**暗喻一种信念**：**国王能暂时化身为这种令人畏惧的猛兽**。本条目据此把「珠凳」读作**可移动的王权**：它随王出行、在小仪式中**反复确认王与猛兽/权威的同一**。",
+  "一图": "示意图以珠覆工艺、豹纹王权与「行凳」小仪式三者关系标示本凳。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「或1800年代」该馆用 possibly；（3）「国王化身豹」为信念描述，未核民族志原文；（4）具体使用仪式未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='kuofo-prestige-stool 示意图'><title>kuofo-prestige-stool</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>Bamileke·19世</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>喀麦隆</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>珠饰行凳</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>51×43</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>豹纹王权</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>化身信念</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>王室库藏</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>小仪式</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>珠凳：工艺、豹与王权</text></g></svg>",
+ "sources": [
+  "cma-2006-138"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；豹化信念未核原文；仪式未记录。"
+}

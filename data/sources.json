@@ -5939,6 +5939,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；银局部鎏金 12×10.8×32.7cm；说明含尼萨马与无权杖环像"
+    },
+    {
+      "id": "cma-1987-62",
+      "title": "Cleveland Museum of Art — Commemorative figure (lefem), Bangwa, Cameroon, mid-1800s–1910, acc. 1987.62",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1987.62",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；木 92.1×20.3cm；说明含Lefem会社与王室神龛"
+    },
+    {
+      "id": "cma-1965-325",
+      "title": "Cleveland Museum of Art — Chi wara headdress, Bamana, early–mid 1900s, acc. 1965.325",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1965.325",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；木·货贝·玻璃珠·金属 44.5×66cm；说明含农耕兽与成对舞"
+    },
+    {
+      "id": "cma-2018-34",
+      "title": "Cleveland Museum of Art — Dance staff for Èṣù (Ògò Èlégba), Yorùbá, 1800s, acc. 2018.34",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2018.34",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；木皮革货贝种子纤维 62cm；说明含跨界/市场/生育"
+    },
+    {
+      "id": "cma-2006-138",
+      "title": "Cleveland Museum of Art — Prestige stool (Kuo fo), Bamileke, Cameroon, possibly 1800s, acc. 2006.138",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2006.138",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；木棉纤维玻璃珠靛蓝 51×38×43cm；说明含travel stool与豹纹"
     }
   ]
 }

@@ -67,6 +67,12 @@
    "to_dom": "music"
   },
   {
+   "from": "kora-instrument",
+   "to": "chi-wara-headdress",
+   "from_dom": "music",
+   "to_dom": "art"
+  },
+  {
    "from": "braque-violin-collage",
    "to": "cubism",
    "from_dom": "music",
@@ -131,6 +137,12 @@
    "to": "yayue",
    "from_dom": "art",
    "to_dom": "music"
+  },
+  {
+   "from": "chi-wara-headdress",
+   "to": "kora-instrument",
+   "from_dom": "art",
+   "to_dom": "music"
   }
  ],
  "oneway_count": 0,
@@ -145,11 +157,11 @@
    22
   ],
   [
-   "islamic-art",
-   17
+   "african-art",
+   21
   ],
   [
-   "african-art",
+   "islamic-art",
    17
   ],
   [
@@ -177,5 +189,5 @@
    10
   ]
  ],
- "total_links": 1534
+ "total_links": 1550
 }

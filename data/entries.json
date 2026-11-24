@@ -4053,7 +4053,11 @@
         "luba-bowl-figure",
         "dogon-female-figure",
         "dogon-satimbe-mask",
-        "kuba-bwoom-mask"
+        "kuba-bwoom-mask",
+        "lefem-commemorative-figure",
+        "chi-wara-headdress",
+        "esu-dance-staff",
+        "kuofo-prestige-stool"
       ],
       "sources": [
         "cma-1999-1",
@@ -5053,7 +5057,8 @@
         "sitar-instrument",
         "drum-ngoma",
         "mangbetu-harp",
-        "ottoman-nay-flute"
+        "ottoman-nay-flute",
+        "chi-wara-headdress"
       ],
       "sources": [
         "cma-1918-352"
@@ -7059,7 +7064,8 @@
         "african-art",
         "kuba-bwoom-mask",
         "gambanda-female-mask",
-        "nkishi-power-figure"
+        "nkishi-power-figure",
+        "lefem-commemorative-figure"
       ],
       "sources": [
         "cma-2010-454"
@@ -8804,7 +8810,8 @@
       "overview": "成对面具用于年度假面游行敬 Ìyá Nlá（大母）；画「美丽少女」而头巾上蹲鳄鱼（关联女巫与雷神），活动尾在表演中摆动；多次重漆以保持鲜艳。",
       "related": [
         "gambanda-female-mask",
-        "mano-mask-liberia"
+        "mano-mask-liberia",
+        "esu-dance-staff"
       ],
       "sources": [
         "cma-1975-168-1"
@@ -10122,6 +10129,87 @@
       ],
       "sources": [
         "cma-1964-41"
+      ]
+    },
+    {
+      "id": "lefem-commemorative-figure",
+      "title": "Bangwa 王室纪念像（lefem）",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "19—20世纪",
+      "region": "非洲",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "喀麦隆 Bangwa 木雕纪念像，克利夫兰艺术博物馆藏（1987.62）。",
+      "when": "1800年代中—1910",
+      "overview": "生前所雕的理想化像作在世替身/中介；着王服（鬃布帽、珠链、褶裙、角杯、已断烟斗）；由秘密会社 Lefem 保管，置王室神龛，见证对祖颅的献祭以护国安民、祈丰产，亦现于葬礼与王仪。",
+      "related": [
+        "luba-bowl-figure",
+        "african-art",
+        "kuofo-prestige-stool"
+      ],
+      "sources": [
+        "cma-1987-62"
+      ]
+    },
+    {
+      "id": "chi-wara-headdress",
+      "title": "Bamana chi wara 头饰",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "20世纪",
+      "region": "非洲",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "马里 Bamana 木雕头饰，克利夫兰艺术博物馆藏（1965.325）。",
+      "when": "1900年代早—中期",
+      "overview": "chi wara 为神话「农耕兽」，教 Bamana 耕作；雕纹显肌理，示其为兼人/羚羊/食蚁兽的农神；戴进口金属珠耳环鼻环；成对男女头饰缚于编篮帽上，男舞者于农赛与婚礼伴女子歌起舞。",
+      "related": [
+        "kora-instrument",
+        "african-art"
+      ],
+      "sources": [
+        "cma-1965-325"
+      ]
+    },
+    {
+      "id": "esu-dance-staff",
+      "title": "约鲁巴 Èṣù 舞杖（Ògò Èlégba）",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "19世纪",
+      "region": "非洲",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "尼日利亚约鲁巴木雕舞杖，克利夫兰艺术博物馆藏（2018.34）。",
+      "when": "1800年代",
+      "overview": "Èṣù（Èlégba）为约鲁巴万神殿最复杂之神：众神信使、献祭承载者、仪式生活守护者，关联十字路口/市场/家门；成对男女罕见地喻其可性别互转、化死为生（生育）、化解两性张力；男持此神专用礼笛；大量货贝示其带来财富。",
+      "related": [
+        "gelede-mask-yoruba",
+        "african-art"
+      ],
+      "sources": [
+        "cma-2018-34"
+      ]
+    },
+    {
+      "id": "kuofo-prestige-stool",
+      "title": "Bamileke 珠饰「Kuo fo」凳",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "19世纪",
+      "region": "非洲",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "喀麦隆 Bandjoun Bamileke 珠饰木凳，克利夫兰艺术博物馆藏（2006.138）。",
+      "when": "或1800年代",
+      "overview": "珠饰木凳/宝座为喀麦隆草原诸王国最常见艺式之一；原属王室库藏的「行凳（travel stool）」，用于宫内较私密的小仪式；豹纹印证王权，暗喻王可暂化为此可怖猛兽。",
+      "related": [
+        "lefem-commemorative-figure",
+        "african-art"
+      ],
+      "sources": [
+        "cma-2006-138"
       ]
     }
   ]
