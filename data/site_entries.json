@@ -2116,7 +2116,8 @@
         "picasso",
         "matisse",
         "dali",
-        "modern-to-contemporary"
+        "modern-to-contemporary",
+        "pollock-number5"
       ],
       "sources": [
         "web-artstory-movements",
@@ -12095,6 +12096,139 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='stained-glass-donors-pai 示意图'><title>stained-glass-donors-pai</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>夫妇供养人</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>甲胄·华服</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>彩窗一对</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>156cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>中央画面已失</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>仅存两翼</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>家族礼拜堂?</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>推测</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>彩窗供养人：身份、缺失与场所</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（CMA）来源；来源与纹章未取得。"
+    },
+    {
+      "id": "pollock-number5",
+      "title": "波洛克《第5号，1950》",
+      "kind": "作品",
+      "unit": "art-contemporary",
+      "era": "20世纪",
+      "region": "美国",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "波洛克布面油画，克利夫兰艺术博物馆藏（1980.180）。",
+      "when": "1950年",
+      "overview": "滴洒法：画布平铺，颜料自罐中甩出；线条网状覆盖全幅、无中心无方向，是艺术家动作与手势的直接记录。",
+      "related": [
+        "modern-art",
+        "rothko-no2-red-maroons",
+        "kelly-red-blue"
+      ],
+      "sources": [
+        "cma-1980-180"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明，**波洛克**推广了一种方法：**从买来的整罐颜料里把颜料甩**到**平铺于地面**的画布上。本件《第5号，1950》即此法之作。",
+        "风格特征": "该馆描述画面：布满**繁复的线网与交错的溅点**；此类画作是**艺术家移动的身体与手势**的**直接记录**。该馆引波洛克自述：「我感到**更近、更是画的一部分**，因为这样我能绕着它走，从四边工作，**真正置身画中**。」",
+        "代表人物与作品": "作者为杰克逊·波洛克（1912—1956）。相关条目见罗斯科《第2号》与凯利《红蓝》。本件为克利夫兰艺术博物馆藏品（1980.180）。",
+        "技法或形式分析": "材质为**布面油画**，画心136.5 × 99.1厘米、含框138 × 102 × 5厘米（据该馆藏品记录）。该馆并指出其**艺术史新意**：滴洒画布**覆盖全部表面**、**没有明显的中心或方向**，是现代艺术史上的近出之举。",
+        "与前后风格的关系和争论": "本条目把「技法」与「身体」绑定：画面不是再现某物，而是**动作的痕迹**。这与传统架上绘画的构图观念形成断裂，本条目照录该馆的判断。",
+        "一图": "示意图以滴洒技法、身体手势与满幅无中心构图三者关系标示本画。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）引文为英文转译；（3）颜料的具体类型未展开；（4）创作地点与具体月份未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='pollock-number5 示意图'><title>pollock-number5</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>滴洒技法</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>罐中甩色</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>波洛克《第5号》</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>136.5×99.1</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>身体手势</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>动作痕迹</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>满幅无中心</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>构图新意</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>波洛克：技法、身体与构图</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；引文为转译；颜料类型未展开。"
+    },
+    {
+      "id": "rothko-no2-red-maroons",
+      "title": "罗斯科《第2号（红褐）》",
+      "kind": "作品",
+      "unit": "art-contemporary",
+      "era": "20世纪",
+      "region": "美国",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "罗斯科布面油画，克利夫兰艺术博物馆藏（1962.239）。",
+      "when": "1962年",
+      "overview": "成熟期漂浮色域；多层稀释颜料、有时以布擦湿面以求空灵；自称只表达基本情感（悲剧/狂喜/宿命）。",
+      "related": [
+        "pollock-number5",
+        "warhol-marilyn-100"
+      ],
+      "sources": [
+        "cma-1962-239"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明，当被问及其艺术目标时，**罗斯科**答：「我只对表达**基本的人类情感**感兴趣——**悲剧、狂喜、宿命**等等。」本件《第2号（红褐）》为1962年作。",
+        "风格特征": "该馆指出，他成熟期多数作品的特征是**弥散的色域**，看似**漂浮于另一种色调的背景之上**。这种漂浮感来自技法：他通常**分多层施加稀释颜料**，有时**用布擦拭湿面**，以达到**空灵**效果。",
+        "代表人物与作品": "作者马克·罗斯科（1903—1970）。该馆并给出身世背景：他原名 **Marcus Rothkowitz**，**1940年**改名，部分是为回应**反犹主义**；他与同为犹太裔的艺术家（Lee Krasner、Morris Louis、Louise Nevelson 等）共同推动了20世纪中期美国抽象艺术。相关条目见波洛克与沃霍尔。本件为克利夫兰艺术博物馆藏品（1962.239）。",
+        "技法或形式分析": "材质为**布面油画**，画心200.7 × 205.7厘米、含框202 × 207 × 3.5厘米（据该馆藏品记录）。画幅近方形，使色域几乎充满视野。",
+        "与前后风格的关系和争论": "本条目把「情感宣言」与「技法」并置：漂浮的色域不是装饰，而是他所谓**基本情感**的载体。本条目只陈述该馆所引的艺术家自述，不代为评判其效果。",
+        "一图": "示意图以基本情感宣言、漂浮色域与多层稀释技法三者关系标示本画。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）引文为英文转译；（3）「擦拭湿面」的具体工序未展开；（4）本画的创作与递藏未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='rothko-no2-red-maroons 示意图'><title>rothko-no2-red-maroons</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>基本情感</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>悲剧·狂喜</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>罗斯科《第2号》</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>200.7×205.7</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>漂浮色域</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>多层稀释</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>擦湿求空灵</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>技法</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>罗斯科：情感、色域与技法</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；引文为转译；工序未展开。"
+    },
+    {
+      "id": "warhol-marilyn-100",
+      "title": "沃霍尔《玛丽莲×100》",
+      "kind": "作品",
+      "unit": "art-contemporary",
+      "era": "20世纪",
+      "region": "美国",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "沃霍尔丝网印布面，克利夫兰艺术博物馆藏（1997.246）。",
+      "when": "1962年",
+      "overview": "取材1953年《尼亚加拉》剧照；丝网印令艺术家之手缺席，叠于独特底画；探大众传媒/技术/波普/纯艺术之张力。",
+      "related": [
+        "rothko-no2-red-maroons",
+        "kelly-red-blue"
+      ],
+      "sources": [
+        "cma-1997-246"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明，《玛丽莲×100》是**沃霍尔**众多**玛丽莲·梦露**题材画中**最大**的一幅；其图像**取自1953年影片《尼亚加拉》（Niagara）的宣传剧照**。本件作于1962年。",
+        "风格特征": "该馆指出其**复制机制**：沃霍尔以**丝网印（silk screening）**复制这张标志性图像——一项**「艺术家之手缺席」的商业印刷技术**——并将其叠印在**由沃霍尔本人制作的独幅底画**之上。",
+        "代表人物与作品": "作者安迪·沃霍尔（1928—1987）。相关条目见罗斯科与凯利。本件为克利夫兰艺术博物馆藏品（1997.246）。",
+        "技法或形式分析": "材质为**丝网印油墨与合成聚合物颜料**于画布，画心205.7 × 567.7厘米、含框210.2 × 573.2 × 6.4厘米（据该馆藏品记录）。超长横幅使同一图像得以**排成百次重复**。",
+        "与前后风格的关系和争论": "该馆点明其主题：如沃霍尔作品常见的那样，本画**探讨并暗示**「**大众传媒、技术、波普文化与纯艺术**」之间的**关系与交叠**。本条目据此把「重复」理解为对**图像生产**本身的提问，而非单纯的明星崇拜。",
+        "一图": "示意图以《尼亚加拉》剧照、丝网印的「无手」复制与艺术/传媒的交叠三者关系标示本画。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）底画与本件的具体制作先后未展开；（3）丝网印工序细节未取得；（4）玛丽莲肖像的版权与授权未涉及。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='warhol-marilyn-100 示意图'><title>warhol-marilyn-100</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>《尼亚加拉》剧照</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1953</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>玛丽莲×100</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>205.7×567.7</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>丝网印</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>无艺术家之手</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>传媒/纯艺术</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>交叠</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>沃霍尔：剧照、丝网与交叠</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；制作细节未展开。"
+    },
+    {
+      "id": "kelly-red-blue",
+      "title": "凯利《红蓝》",
+      "kind": "作品",
+      "unit": "art-contemporary",
+      "era": "20世纪",
+      "region": "美国",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "凯利布面油画，克利夫兰艺术博物馆藏（1964.142）。",
+      "when": "1962年",
+      "overview": "两色两形：蓝矩形边缘由画布决定（可测），红形则如呼吸浮动；无笔触却指向自然形态与感知方式。",
+      "related": [
+        "warhol-marilyn-100",
+        "pollock-number5"
+      ],
+      "sources": [
+        "cma-1964-142"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**埃尔斯沃斯·凯利**（1923—2015）1962年的布面油画《红蓝》，克利夫兰艺术博物馆藏（1964.142）。",
+        "风格特征": "该馆开宗明义：此画「**关乎两种不同颜色与两种不同形状的关系**」。画布表面上，**两个元素相遇、相互作用、彼此影响其外观**。",
+        "代表人物与作品": "作者凯利。相关条目见沃霍尔与波洛克。",
+        "技法或形式分析": "材质为**布面油画**，画心228.6 × 176.4厘米、含框230 × 178 × 4厘米（据该馆藏品记录）。该馆给出精微的**形—色关系分析**：**红与蓝**并置**彼此强化**，是作品的**一个基本成分**；另一成分是**两种形状的对峙**——**蓝矩形**的边缘由**画布边缘**给定，因而**合乎逻辑、可测量**；而**红**有机形，尽管渲染干净精确，却**似在呼吸、浮动**，激活整个构图。",
+        "与前后风格的关系和争论": "该馆指出一个**表面悖论**：尽管**没有艺术家之手的痕迹**，这幅画却「指向**非常自然、有机的形态与感知方式**」。本条目据此把「硬边」与「有机感」的张力视为作品核心。",
+        "一图": "示意图以两色互强、两形的逻辑/有机对峙与「无笔触而近自然」三者关系标示本画。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「可测量」与「浮动」为该馆描述，未给测量数据；（3）红蓝颜料的配方未展开；（4）创作与递藏未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='kelly-red-blue 示意图'><title>kelly-red-blue</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>红蓝互强</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>色彩</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>凯利《红蓝》</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>228.6×176.4</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>逻辑/有机对峙</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>两形</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>无笔触近自然</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>悖论</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>凯利《红蓝》：色、形与悖论</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；颜料与递藏未记录。"
     }
   ]
 }

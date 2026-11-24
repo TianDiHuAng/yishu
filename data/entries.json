@@ -1210,7 +1210,8 @@
         "picasso",
         "matisse",
         "dali",
-        "modern-to-contemporary"
+        "modern-to-contemporary",
+        "pollock-number5"
       ],
       "sources": [
         "web-artstory-movements",
@@ -7452,6 +7453,87 @@
       ],
       "sources": [
         "cma-1919-1"
+      ]
+    },
+    {
+      "id": "pollock-number5",
+      "title": "波洛克《第5号，1950》",
+      "kind": "作品",
+      "unit": "art-contemporary",
+      "era": "20世纪",
+      "region": "美国",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "波洛克布面油画，克利夫兰艺术博物馆藏（1980.180）。",
+      "when": "1950年",
+      "overview": "滴洒法：画布平铺，颜料自罐中甩出；线条网状覆盖全幅、无中心无方向，是艺术家动作与手势的直接记录。",
+      "related": [
+        "modern-art",
+        "rothko-no2-red-maroons",
+        "kelly-red-blue"
+      ],
+      "sources": [
+        "cma-1980-180"
+      ]
+    },
+    {
+      "id": "rothko-no2-red-maroons",
+      "title": "罗斯科《第2号（红褐）》",
+      "kind": "作品",
+      "unit": "art-contemporary",
+      "era": "20世纪",
+      "region": "美国",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "罗斯科布面油画，克利夫兰艺术博物馆藏（1962.239）。",
+      "when": "1962年",
+      "overview": "成熟期漂浮色域；多层稀释颜料、有时以布擦湿面以求空灵；自称只表达基本情感（悲剧/狂喜/宿命）。",
+      "related": [
+        "pollock-number5",
+        "warhol-marilyn-100"
+      ],
+      "sources": [
+        "cma-1962-239"
+      ]
+    },
+    {
+      "id": "warhol-marilyn-100",
+      "title": "沃霍尔《玛丽莲×100》",
+      "kind": "作品",
+      "unit": "art-contemporary",
+      "era": "20世纪",
+      "region": "美国",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "沃霍尔丝网印布面，克利夫兰艺术博物馆藏（1997.246）。",
+      "when": "1962年",
+      "overview": "取材1953年《尼亚加拉》剧照；丝网印令艺术家之手缺席，叠于独特底画；探大众传媒/技术/波普/纯艺术之张力。",
+      "related": [
+        "rothko-no2-red-maroons",
+        "kelly-red-blue"
+      ],
+      "sources": [
+        "cma-1997-246"
+      ]
+    },
+    {
+      "id": "kelly-red-blue",
+      "title": "凯利《红蓝》",
+      "kind": "作品",
+      "unit": "art-contemporary",
+      "era": "20世纪",
+      "region": "美国",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "凯利布面油画，克利夫兰艺术博物馆藏（1964.142）。",
+      "when": "1962年",
+      "overview": "两色两形：蓝矩形边缘由画布决定（可测），红形则如呼吸浮动；无笔触却指向自然形态与感知方式。",
+      "related": [
+        "warhol-marilyn-100",
+        "pollock-number5"
+      ],
+      "sources": [
+        "cma-1964-142"
       ]
     }
   ]

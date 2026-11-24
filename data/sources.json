@@ -4729,6 +4729,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；金属着色玻璃与银黄 156×43.5cm；说明含供养人与家族礼拜堂"
+    },
+    {
+      "id": "cma-1980-180",
+      "title": "Cleveland Museum of Art — Jackson Pollock, Number 5, 1950, acc. 1980.180",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1980.180",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；布面油画 136.5×99.1cm；说明含滴洒法与满幅构图"
+    },
+    {
+      "id": "cma-1962-239",
+      "title": "Cleveland Museum of Art — Mark Rothko, No. 2 (Red Maroons), 1962, acc. 1962.239",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1962.239",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；布面油画 200.7×205.7cm；说明含漂浮色域与基本情感"
+    },
+    {
+      "id": "cma-1997-246",
+      "title": "Cleveland Museum of Art — Andy Warhol, Marilyn x 100, 1962, acc. 1997.246",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1997.246",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；丝网印与合成聚合物 205.7×567.7cm；说明含《尼亚加拉》剧照与批量复制"
+    },
+    {
+      "id": "cma-1964-142",
+      "title": "Cleveland Museum of Art — Ellsworth Kelly, Red Blue, 1962, acc. 1964.142",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1964.142",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；布面油画 228.6×176.4cm；说明含两色两形关系与无笔触"
     }
   ]
 }

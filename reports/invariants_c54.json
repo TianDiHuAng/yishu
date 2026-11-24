@@ -11,25 +11,25 @@
   ]
  ],
  "stats": {
-  "entries": 344,
-  "sources": 473,
+  "entries": 348,
+  "sources": 477,
   "units": 28,
-  "html_files": 381,
+  "html_files": 385,
   "source_types": {
    "权威百科": 149,
    "官方机构": 1,
    "权威结构化数据": 41,
    "权威结构化数据（身份锚点）": 77,
-   "权威机构藏品记录": 205
+   "权威机构藏品记录": 209
   },
   "levels": {
-   "L2": 340,
+   "L2": 344,
    "L3": 4
   },
   "tiers": {
    "重要": 210,
    "补充": 12,
-   "核心": 122
+   "核心": 126
   },
   "per_unit": {
    "art-ancient": 26,
@@ -39,7 +39,7 @@
    "art-neo-romantic": 8,
    "art-impression": 8,
    "art-modern": 18,
-   "art-contemporary": 5,
+   "art-contemporary": 9,
    "art-china-painting": 21,
    "art-china-calligraphy": 10,
    "music-medieval": 4,

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 344,
+    "total": 348,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -4133,6 +4133,54 @@
     "stained-glass-donors-pair": {
       "title": "彩窗供养人一对",
       "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "pollock-number5": {
+      "title": "波洛克《第5号，1950》",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "rothko-no2-red-maroons": {
+      "title": "罗斯科《第2号（红褐）》",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "warhol-marilyn-100": {
+      "title": "沃霍尔《玛丽莲×100》",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "kelly-red-blue": {
+      "title": "凯利《红蓝》",
+      "tier": "核心",
       "level": "L2",
       "status": "written_l2",
       "sources_count": 1,
