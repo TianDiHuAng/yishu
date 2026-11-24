@@ -5209,6 +5209,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；枫木背松木面 全长59cm；说明含琴头出自另一琴"
+    },
+    {
+      "id": "vam-o76198",
+      "title": "Victoria and Albert Museum — Lidded bowl, Damascus, 1500–1550, O76198",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O76198",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；黄铜嵌银 高6.0 径14.6cm；说明含意家族纹章与香料容器"
+    },
+    {
+      "id": "vam-o76859",
+      "title": "Victoria and Albert Museum — Ewer, Khurasan, ca. 1200–1250, O76859",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O76859",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；铜片嵌铜银 高38cm；说明含九宽九窄棱与狮纹"
+    },
+    {
+      "id": "vam-o84518",
+      "title": "Victoria and Albert Museum — Basin of Sultan Qa’itbay, Egypt, 1468–1496, O84518",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O84518",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；锤揲黄铜嵌饰 高15.4 径40.6cm；说明含 Qa’itbay 赞助"
+    },
+    {
+      "id": "vam-o83886",
+      "title": "Victoria and Albert Museum — Bucket signed Zayn al-Din, ca. 1475–1500, O83886",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O83886",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；黄铜旋切贴银 高13.5 径27.5cm；说明含 Zayn al-Din 署名"
     }
   ]
 }

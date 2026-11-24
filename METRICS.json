@@ -3232,6 +3232,31 @@
       "check_links_result": "broken=0(429页)",
       "audit_all": "12/12 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle115",
+      "date": "2026-11-24",
+      "status": "completed",
+      "gap_methods": [
+        "伊斯兰金属器（V&A）"
+      ],
+      "network": "V&A 200",
+      "new_entries": 4,
+      "new_entry_ids": [
+        "damascus-lidded-bowl",
+        "khurasan-ewer-va",
+        "qaitbay-basin",
+        "zayn-al-din-bucket"
+      ],
+      "incident": "khurasan-ewer 重名并覆盖原 overlay；已 git 恢复并改名 -va",
+      "new_sources": 4,
+      "sources_total": 525,
+      "entries_total": 396,
+      "pages": 433,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(433页)",
+      "audit_all": "12/12 ok",
+      "commits": 1
     }
   ]
 }

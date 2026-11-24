@@ -8523,7 +8523,8 @@
       "related": [
         "wade-cup",
         "islamic-art",
-        "seljuq-bird-vessel"
+        "seljuq-bird-vessel",
+        "damascus-lidded-bowl"
       ],
       "sources": [
         "cma-1945-27"
@@ -12856,7 +12857,8 @@
         "kashan-salting-mihrab",
         "islamic-art",
         "minai-bowl-kashan",
-        "mamluk-inlaid-basin"
+        "mamluk-inlaid-basin",
+        "qaitbay-basin"
       ],
       "sources": [
         "vam-o1768"
@@ -13022,7 +13024,9 @@
       "overview": "锤揲铜胎错金银；外壁苏卢斯体铭文衬缠枝；内壁圆章交替骑者与月神；底心交错纹与坐姿王者。",
       "related": [
         "mamluk-mosque-lamp",
-        "islamic-art"
+        "islamic-art",
+        "khurasan-ewer-va",
+        "qaitbay-basin"
       ],
       "sources": [
         "vam-o83883"
@@ -13743,6 +13747,142 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='stradivari-violin 示意图'><title>stradivari-violin</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>克雷莫纳·1699</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>斯特拉迪瓦里</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>小提琴</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>全长59cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>松面·枫背</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>结构</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>后配颈·异琴头</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>修复</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>斯氏小提琴：制琴、结构与修复</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（V&A）来源；漆/颈修复与递藏未记录。"
+    },
+    {
+      "id": "damascus-lidded-bowl",
+      "title": "大马士革嵌银盖钵",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "16世纪",
+      "region": "西亚·中亚",
+      "medium": "金属器",
+      "tier": "重要",
+      "def": "大马士革黄铜嵌银盖钵，维多利亚与艾伯特博物馆藏（O76198）。",
+      "when": "1500—1550年",
+      "overview": "浅盖钵、陡壁、平贴合盖；錾刻嵌银与黑料；细密缠枝、盾形圆章；平盖或为量盛香料之器；带未识意大利家族纹章。",
+      "related": [
+        "khurasan-ewer",
+        "qaitbay-basin",
+        "khurasan-ewer-va",
+        "zayn-al-din-bucket"
+      ],
+      "sources": [
+        "vam-o76198"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明，此黄铜钵制于**16世纪上半叶**，产地**大马士革**；维多利亚与艾伯特博物馆藏（O76198）。",
+        "风格特征": "该馆描述：**浅盖钵、陡直侧壁、平而贴合的盖**；**黄铜，錾刻并嵌银与黑料**；饰**极细密的缠枝、带盾的圆章与装饰带**。",
+        "代表人物与作品": "作者未署名。相关条目见呼罗珊执壶与卡伊特贝盆。本件为 V&A 藏品（O76198）。",
+        "技法或形式分析": "材质为**黄铜，錾刻嵌银**；尺寸**高6.0厘米、直径14.6厘米**（据该馆记录）。",
+        "与前后风格的关系和争论": "该馆给出**功能推断**：**平而贴合的盖**提示它可能是**盛一定量香料或其他珍馐的容器**。该馆并指出本钵带有一**未识别的意大利家族纹章**，且此时期**威尼斯**与东方贸易、仿制兴盛（记录在「foug…」处**截断**，本条目**不补写**）。本条目据此把该钵读作**跨地中海贸易的物证**：伊斯兰金属器上出现意大利纹章。",
+        "一图": "示意图以平贴合盖、意大利纹章与威尼斯贸易三者关系标示本钵。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）该馆 summary 在「foug…」处**截断，未补写**；（3）纹章的意大利家族未识别；（4）黑料成分未分析。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='damascus-lidded-bowl 示意图'><title>damascus-lidded-bowl</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>大马士革·16世纪</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>叙利亚</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>嵌银盖钵</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>高6.0</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>意大利纹章</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>跨地中海</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>香料容器?</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>功能</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>盖钵：产地、纹章与功能</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；summary 截断；纹章未识别。"
+    },
+    {
+      "id": "khurasan-ewer-va",
+      "title": "呼罗珊嵌金银执壶（V&A）",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "13世纪",
+      "region": "西亚·中亚",
+      "medium": "金属器",
+      "tier": "核心",
+      "def": "呼罗珊铜片嵌铜银执壶，维多利亚与艾伯特博物馆藏（O76859）。",
+      "when": "约1200—1250年",
+      "overview": "束腰足圈承九宽九窄棱身、间以细凸棱；肩部圆凸；平肩中央八角玫瑰饰接长颈与长流；饰结绳纹、为匿名主人祈福铭、颈流蹲狮。",
+      "related": [
+        "mamluk-inlaid-basin",
+        "damascus-lidded-bowl"
+      ],
+      "sources": [
+        "vam-o76859"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**呼罗珊（Khurasan）**所制执壶，约**1200—1250年**，维多利亚与艾伯特博物馆藏（O76859）。",
+        "风格特征": "该馆详述器形：**束腰足圈**承托器身，器身有**交错排列的九宽棱与九窄棱**、间以**细凸棱（gadroons）**；各棱在肩部终止于**一圈圆凸（bosses）**；**平肩**中央有**凸起的八角玫瑰饰**，接**高筒颈**，颈端为**长流**；**矩形截面提手**。",
+        "代表人物与作品": "作者未署名。相关条目见马穆鲁克错金银铜盆与大马士革盖钵。本件为 V&A 藏品（O76859）。",
+        "技法或形式分析": "材质为**打制铜片，嵌铜与银**；尺寸**高38厘米、直径20（与11.2）厘米**（据该馆记录）。",
+        "与前后风格的关系和争论": "该馆称其为「**伊斯兰嵌饰铜器的精品**」：装饰含**繁复的结绳纹、为匿名主人祈福的众多铭文，以及环绕颈与流的蹲狮**。并给出一般原理：在伊斯兰艺术中，**贱材所制之物常经精巧工艺而转化为贵重品**（记录在「sophisti…」处**截断**，本条目**不补写**）。本条目据此把「镶嵌」读作**提升价值的手段**。",
+        "一图": "示意图以九宽九窄棱、结绳纹与嵌铜银提升价值三者关系标示本壶。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）该馆 summary 在「sophisti…」处**截断，未补写**；（3）铭文全文未迻录；（4）主人为何匿名未说明。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='khurasan-ewer 示意图'><title>khurasan-ewer</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>呼罗珊·13世纪</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>伊朗东部</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>嵌金银执壶</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>高38cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>结绳纹·狮纹</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>装饰</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>贱材变贵重</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>工艺价值</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>呼罗珊执壶：器形、装饰与价值</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；summary 截断；铭文未迻录。"
+    },
+    {
+      "id": "qaitbay-basin",
+      "title": "卡伊特贝盆（马穆鲁克）",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "15世纪",
+      "region": "西亚·中亚",
+      "medium": "金属器",
+      "tier": "核心",
+      "def": "埃及锤揲黄铜嵌饰盆，维多利亚与艾伯特博物馆藏（O84518）。",
+      "when": "1468—1496年",
+      "overview": "深壁大盆，锤揲、錾刻与嵌饰；苏丹 Qa’itbay 治下艺作勃兴，多因其亲自赞助；宗教建筑及其陈设为大宗。",
+      "related": [
+        "mamluk-inlaid-basin",
+        "mamluk-mosque-lamp",
+        "damascus-lidded-bowl",
+        "zayn-al-din-bucket"
+      ],
+      "sources": [
+        "vam-o84518"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明，在**马穆鲁克苏丹卡伊特贝（Qa'itbay）** 统治期（本件定年**1468—1496年**），**艺术生产与品质出现高涨**，很大程度上得益于**苏丹本人的热心赞助**；他委托的作品多为**清真寺及其配套陈设**，也有一些器物……（记录在「some objects…」处**截断**，本条目**不补写**）。本件为**埃及**所制，维多利亚与艾伯特博物馆藏（O84518）。",
+        "风格特征": "该馆描述：**深壁黄铜大盆**，具**repoussé（锤揲凸纹）、錾刻与嵌饰**。",
+        "代表人物与作品": "赞助者为苏丹卡伊特贝；工匠未署名。相关条目见卡伊特贝同期清真寺灯与马穆鲁克错金银铜盆。",
+        "技法或形式分析": "材质为**黄铜板，经锤揲成形，錾刻并嵌饰**；尺寸**高15.4厘米、直径40.6厘米**（据该馆记录）。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「品质高涨」归因于**统治者的赞助结构**：器物精良不是孤立现象，而是**宫廷委托体系**的产物。本条目只依记录陈述，不代其评价艺术价值。",
+        "一图": "示意图以 Qa'itbay 赞助、宗教建筑配套与深壁大盆三者关系标示本件。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）该馆 summary 在「some objects…」处**截断，未补写**；（3）嵌饰的金属种类（金？）未确证；（4）原属建筑未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='qaitbay-basin 示意图'><title>qaitbay-basin</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>埃及·1468—96</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>马穆鲁克</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>Qa&#x27;itba</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>径40.6</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>苏丹赞助</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>品质高涨</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>清真寺配套</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>建筑</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>Qa&#x27;itbay 盆：赞助、品质与建筑</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；summary 截断；原属建筑未记录。"
+    },
+    {
+      "id": "zayn-al-din-bucket",
+      "title": "扎因丁署名铜桶",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "15世纪",
+      "region": "西亚·中亚",
+      "medium": "金属器",
+      "tier": "重要",
+      "def": "黄铜旋切贴银铜桶，维多利亚与艾伯特博物馆藏（O83886）。",
+      "when": "约1475—1500年",
+      "overview": "带提手，通体錾刻花卉并部分贴银以增贵；提手凸缘内侧有阿拉伯署名 Zayn al-Din，其署名亦见于数件同类器。",
+      "related": [
+        "damascus-lidded-bowl",
+        "qaitbay-basin"
+      ],
+      "sources": [
+        "vam-o83886"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**黄铜桶**，约**1475—1500年**，产地记录为南……（产地字段截断），维多利亚与艾伯特博物馆藏（O83886）。",
+        "风格特征": "该馆描述：**带提手的黄铜桶**，**旋切、通体錾刻花卉**，并**局部贴银**。",
+        "代表人物与作品": "该馆指出**署名的工匠**：**提手凸缘（flanges）内侧有阿拉伯文署名 Zayn al-Din**；其署名亦见于**数件同类风格**的器物。相关条目见大马士革盖钵与卡伊特贝盆。",
+        "技法或形式分析": "材质为**黄铜，旋切、錾刻并贴银**；尺寸**高13.5厘米、直径27.5厘米**（据该馆记录）。",
+        "与前后风格的关系和争论": "该馆给出**社会功能**：此桶以**银覆面以增其威望（prestige）**；这提示器物等级不仅由材质本身，也由**覆加的贵金属与署名**共同建立。本条目据此把「署名」视为**工匠声望**的直接证据。",
+        "一图": "示意图以旋切贴银、Zayn al-Din 署名与同类器群三者关系标示本桶。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）产地字段截断，具体地点未补写；（3）Zayn al-Din 的生平与作坊未记录；（4）「此类富饰桶」的用途（记录截断）未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='zayn-al-din-bucket 示意图'><title>zayn-al-din-bucket</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>约1475—1500</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>伊斯兰</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>贴银铜桶</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>径27.5</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>Zayn al-Din </text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>工匠</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>银覆增威望</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>等级</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>Zayn al-Din 桶：工艺、署名与威望</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；产地与用途截断；工匠生平未记录。"
     }
   ]
 }
