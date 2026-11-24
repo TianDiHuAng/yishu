@@ -1682,3 +1682,10 @@ art-contemporary 13→17。写前查重通过（标题与来源 id 均未被使�
 **如实**：正文只转述 AAT 定义；起源、艺术家、名作一律不写，放入“待核实”。静物画的古希腊罗马、16世纪意大利、17世纪荷兰说法是词表概括，已注明。与卡拉瓦乔、罩染等条目的关联是库内链接，词表并未提及，已在条目中注明。库中无荷兰黄金时代、凡·艾克条目，故未建链。
 过程记录：add → write → build_scope → merge_l2 → gen_site → check → check_links；条目数 608 → 614，新增恰好 6 条，check.py errors=0，check_links 651 页 0 断链。
 可逆：删 write_c173 生成的 6 个 data/l2 文件、catalog 元组与本轮来源后重跑 build_scope/merge_l2/gen_site。代价：单来源（盖蒂 AAT），待核实。
+
+## D174 — Cycle174 联网恢复后补建筑类 6 条（614 → 620）
+**触发**：本轮探针显示 en/zh.wikipedia.org REST 接口与 imslp.org api 均返回 200，B-music-src 的解除条件满足；metmuseum.org 搜索接口为 410 Gone，仍不可用，Britannica/Smarthistory/UNESCO 为 403。已写入 BLOCKERS。
+**做法**：执行 BACKLOG 预案“联网恢复后补 A 类建筑”。新增文艺复兴、巴洛克、新古典主义、拜占庭、中国、伊斯兰建筑 6 条，每条 3 个来源：本体页 Wikipedia 摘要、相邻主题页 Wikipedia 摘要、Wikidata 条目；Wikidata 的英文标签均已与条目核对。取回日期 2026-11-24，摘要缓存于 data/_cache/wp。
+**如实**：正文只转述摘要，建筑师、建筑实例、分期细节一律不补，放入“待核实”。Wikipedia 与 Wikidata 同源，独立性有限，已在每条“待核实”写明，整条保持待核实，不升级。中国建筑暂挂“中国绘画史”单元，因库内无中国建筑专属单元，已在条目注明。
+过程记录：add → build_scope → write → merge_l2 → gen_site → check → check_links；条目数 614 → 620，check.py errors=0，check_links 657 页 0 断链。
+可逆：删 write_c174 生成的 6 个 data/l2 文件、catalog 元组与本轮来源后重跑 build_scope/merge_l2/gen_site。代价：来源独立性有限。

@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 614 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 620 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -106,6 +106,7 @@
 | st-stephen-glass-1230 | 圣司提反受审彩窗 | 作品 | 13世纪 | 欧洲 | 综合 | 核心 | O2 |
 | st-peter-preaching-glass | 圣彼得布道彩窗 | 作品 | 16世纪 | 欧洲 | 综合 | 核心 | O2 |
 | adoration-magi-window-1516 | 三王来拜彩窗（马尔奇拉） | 作品 | 16世纪 | 欧洲 | 综合 | 核心 | O2 |
+| byzantine-architecture | 拜占庭建筑（Byzantine architecture） | 风格 | 公元330—1453年 | 东罗马 | 建筑 | 重要 | O1、O2 |
 
 ## art-renaissance（艺术史·文艺复兴）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -133,6 +134,7 @@
 | cranach-baptism-of-christ | 克拉纳赫《基督受洗》（1530年代） | 作品 | 16世纪 | 德国 | 油画 | 重要 | O1、O3 |
 | cranach-hartenfels-hunt | 克拉纳赫《哈滕费尔斯城堡附近的狩猎》（1540） | 作品 | 16世纪 | 德国 | 油画 | 重要 | O1、O3 |
 | bronzino-portrait-of-a-woman | 布龙齐诺《女子肖像》（约1550） | 作品 | 16世纪 | 意大利·佛罗伦萨 | 油画 | 重要 | O1、O3 |
+| renaissance-architecture | 文艺复兴建筑（Renaissance architecture） | 风格 | 15世纪初—16世纪初 | 欧洲 | 建筑 | 重要 | O1、O3 |
 
 ## art-baroque（艺术史·巴洛克与洛可可）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -160,6 +162,7 @@
 | velazquez-jester-calabazas | 委拉斯开兹《弄臣卡拉巴萨斯肖像》（约1631—32） | 作品 | 17世纪 | 西班牙 | 油画 | 重要 | O1 |
 | hals-woman-aeltje-pater | 哈尔斯《女子肖像（或为阿尔切·迪尔克斯多赫特·帕特尔）》（1638） | 作品 | 17世纪 | 荷兰 | 油画 | 重要 | O1 |
 | ochtervelt-musical-company | 奥赫特费尔特《音乐聚会》（约1668） | 作品 | 17世纪 | 荷兰 | 油画 | 重要 | O1 |
+| baroque-architecture | 巴洛克建筑（Baroque architecture） | 风格 | 16世纪末—18世纪中叶 | 欧洲 | 建筑 | 重要 | O1 |
 
 ## art-neo-romantic（艺术史·新古典与浪漫）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -188,6 +191,7 @@
 | redon-parsifal | 雷东《帕西法尔》（1892） | 作品 | 19世纪 | 法国 | 版画 | 重要 | O1 |
 | redon-brunnhilde | 雷东《诸神的黄昏中的布伦希尔德》（1894） | 作品 | 19世纪 | 法国 | 版画 | 重要 | O1 |
 | fantin-latour-tannhauser | 方丹-拉图尔《唐豪瑟》（1886） | 作品 | 19世纪 | 法国 | 油画 | 重要 | O1 |
+| neoclassical-architecture | 新古典主义建筑（Neoclassical architecture） | 风格 | 18世纪中叶—19世纪 | 欧洲 | 建筑 | 重要 | O1 |
 
 ## art-impression（艺术史·印象派与后印象派）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -281,6 +285,7 @@
 | dong-qichang-qingbian | 董其昌《青弁图》 | 作品 | 17世纪 | 中国 | 绘画 | 核心 | O6 |
 | lan-ying-pure-conversation | 蓝瑛《支许清谈图》 | 作品 | 17世纪 | 中国 | 绘画 | 重要 | O6 |
 | qiu-ying-garden | 仇英《独乐园图》 | 作品 | 16世纪 | 中国 | 绘画 | 核心 | O6 |
+| chinese-architecture | 中国建筑（Chinese architecture） | 风格 | 历代 | 中国 | 建筑 | 重要 | O1、O6 |
 
 ## art-china-calligraphy（中国书法史）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -571,6 +576,7 @@
 | mamluk-glass-beaker | 马穆鲁克狮纹玻璃杯 | 作品 | 13—14世纪 | 西亚·中亚 | 玻璃 | 核心 | O1 |
 | mamluk-glass-bottle-1347 | 马穆鲁克描金瓶（1347—70） | 作品 | 14世纪 | 西亚·中亚 | 玻璃 | 核心 | O1 |
 | mamluk-lamp-1320 | Qijlis 清真寺灯（1320—30） | 作品 | 14世纪 | 西亚·中亚 | 玻璃 | 核心 | O1 |
+| islamic-architecture | 伊斯兰建筑（Islamic architecture） | 风格 | 7世纪至今 | 西亚·中亚 | 建筑 | 重要 | O1 |
 
 ## art-africa（非洲艺术（撒哈拉以南））
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 614,
+    "total": 620,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -7381,6 +7381,78 @@
       "pending_notes": "关键事实需≥2个verified来源，当前1个",
       "last_update": "2026-11-22",
       "source_independence_ok": false
+    },
+    "renaissance-architecture": {
+      "title": "文艺复兴建筑（Renaissance architecture）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 3,
+      "verified_sources_count": 3,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "baroque-architecture": {
+      "title": "巴洛克建筑（Baroque architecture）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 3,
+      "verified_sources_count": 3,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "neoclassical-architecture": {
+      "title": "新古典主义建筑（Neoclassical architecture）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 3,
+      "verified_sources_count": 3,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "byzantine-architecture": {
+      "title": "拜占庭建筑（Byzantine architecture）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 3,
+      "verified_sources_count": 3,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "chinese-architecture": {
+      "title": "中国建筑（Chinese architecture）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 3,
+      "verified_sources_count": 3,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "islamic-architecture": {
+      "title": "伊斯兰建筑（Islamic architecture）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 3,
+      "verified_sources_count": 3,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
     }
   }
 }

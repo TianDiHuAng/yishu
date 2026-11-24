@@ -298,7 +298,8 @@
       "related": [
         "early-christian-art",
         "romanesque",
-        "roman-art"
+        "roman-art",
+        "byzantine-architecture"
       ],
       "sources": [
         "enc-byzantine-art",
@@ -519,7 +520,8 @@
         "cranach-hartenfels-hunt",
         "bronzino-portrait-of-a-woman",
         "linear-perspective",
-        "trompe-loeil"
+        "trompe-loeil",
+        "renaissance-architecture"
       ],
       "sources": [
         "enc-renaissance",
@@ -981,7 +983,8 @@
         "velazquez-jester-calabazas",
         "hals-woman-aeltje-pater",
         "ochtervelt-musical-company",
-        "still-life"
+        "still-life",
+        "baroque-architecture"
       ],
       "sources": [
         "enc-baroque",
@@ -1018,7 +1021,8 @@
         "rubens",
         "dumont-harpsichord-miniature",
         "lancret-cello-drawing",
-        "claude-rest-flight-egypt"
+        "claude-rest-flight-egypt",
+        "baroque-architecture"
       ],
       "sources": [
         "enc-rococo",
@@ -1289,7 +1293,8 @@
         "david-cupid-psyche",
         "hackert-pozzuoli",
         "paelinck-self-portrait",
-        "classical-crossmedia"
+        "classical-crossmedia",
+        "neoclassical-architecture"
       ],
       "sources": [
         "enc-neoclassicism",
@@ -2422,7 +2427,8 @@
         "chinese-jade-art",
         "chen-hongshou-album",
         "zhao-mengfu-river-village",
-        "lizong-wangwei-album"
+        "lizong-wangwei-album",
+        "chinese-architecture"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -5129,7 +5135,8 @@
       "related": [
         "khmer-art",
         "khmer-architecture",
-        "khmer-thai-fruit-jar"
+        "khmer-thai-fruit-jar",
+        "chinese-architecture"
       ],
       "sources": [
         "enc-angkor",
@@ -5455,7 +5462,8 @@
       "overview": "尖拱改变受力方式，肋拱与飞扶壁使墙体减薄、窗户得以扩大，彩色玻璃营造神秘光线；沙特尔大教堂为常被引用的实例。",
       "related": [
         "gothic",
-        "romanesque-architecture"
+        "romanesque-architecture",
+        "renaissance-architecture"
       ],
       "sources": [
         "enc-gothic-architecture",
@@ -5488,7 +5496,8 @@
       "overview": "半圆拱与厚重墙体承担荷载，门楣与柱头雕塑承担叙事功能；不同地区在材料与细部上各有差异。",
       "related": [
         "romanesque",
-        "gothic-architecture"
+        "gothic-architecture",
+        "byzantine-architecture"
       ],
       "sources": [
         "enc-romanesque",
@@ -5521,7 +5530,8 @@
       "overview": "塔庙以层层台基与尖顶构成山形轮廓，护城河环绕象征海洋，浮雕长廊以史诗与王室场景组织叙事。",
       "related": [
         "khmer-art",
-        "angkor"
+        "angkor",
+        "chinese-architecture"
       ],
       "sources": [
         "enc-khmer-art",
@@ -6277,7 +6287,8 @@
         "iznik-tile-panel-edirne",
         "ardabil-carpet",
         "ilkhanid-flying-birds-bowl",
-        "kutahya-tile-panel"
+        "kutahya-tile-panel",
+        "islamic-architecture"
       ],
       "sources": [
         "cma-1944-485",
@@ -6347,7 +6358,8 @@
       "overview": "位于清真寺朝向麦加的墙面上，周围以 thuluth 体铭刻《古兰经·光明章》，铭文为白釉、藤蔓为金与绿松石色。",
       "related": [
         "islamic-art",
-        "iznik-dish-artichokes"
+        "iznik-dish-artichokes",
+        "islamic-architecture"
       ],
       "sources": [
         "cma-1962-23"
@@ -8682,7 +8694,8 @@
       "related": [
         "iznik-mosque-lamp",
         "iznik-dish-artichokes",
-        "safavid-steel-plaque"
+        "safavid-steel-plaque",
+        "islamic-architecture"
       ],
       "sources": [
         "cma-2004-70"
@@ -20894,7 +20907,8 @@
       "related": [
         "early-renaissance",
         "high-renaissance",
-        "pentimenti"
+        "pentimenti",
+        "byzantine-architecture"
       ],
       "sources": [
         "aat-300053357"
@@ -21487,6 +21501,224 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='pentimenti 示意图'><title>pentimenti</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>画家改变主意</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>中途改动</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>悔改痕迹</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>物证</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>涂盖部分显露</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>重新可见</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据盖蒂 AAT 定义</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一来源（盖蒂AAT）；媒材与实例未给出。"
+    },
+    {
+      "id": "renaissance-architecture",
+      "title": "文艺复兴建筑（Renaissance architecture）",
+      "kind": "风格",
+      "unit": "art-renaissance",
+      "era": "15世纪初—16世纪初",
+      "region": "欧洲",
+      "medium": "建筑",
+      "tier": "重要",
+      "def": "约15世纪初至16世纪初欧洲的建筑风格，有意复兴并发展古希腊罗马的思想与物质文化元素。",
+      "when": "15世纪初—16世纪初",
+      "overview": "文艺复兴建筑指约15世纪初到16世纪初欧洲各地区的建筑，自觉复兴并发展古希腊、古罗马思想与物质文化的某些元素；风格上承接哥特建筑，后被巴洛克建筑与新古典主义建筑接替。",
+      "related": [
+        "renaissance",
+        "gothic-architecture",
+        "baroque-architecture",
+        "neoclassical-architecture"
+      ],
+      "sources": [
+        "enc-renaissance-architecture",
+        "enc-c174-classical-architecture",
+        "wd-renaissance-architecture"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，文艺复兴建筑是约15世纪初到16世纪初、欧洲各地区的建筑。",
+        "风格特征": "摘要称，它体现出对古希腊、古罗马思想与物质文化某些元素的自觉复兴与发展。",
+        "代表人物与作品": "摘要没有列举建筑师与具体建筑，本条目不补写；需另取专著或博物馆来源后再增补。相关条目可参见文艺复兴。",
+        "技法或形式分析": "摘要没有给出具体的结构或装饰手法。可知的只有它对古希腊罗马元素的复兴与发展。",
+        "与前后风格的关系和争论": "摘要称，风格上它承接哥特建筑，又被巴洛克建筑与新古典主义建筑接替。",
+        "一图": "示意图以文艺复兴建筑为中心，标示承接哥特建筑、复兴古代元素、被巴洛克接替三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata 标签，来源独立性有限，整条标记待核实。（2）各地区的差异与分期，摘要仅说“不同地区”，未展开；（3）具体建筑师与建筑，摘要未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='renaissance-architecture 示意图'><title>renaissance-architecture</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>哥特建筑</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>此前</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>文艺复兴建筑</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>15—16世纪初</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>古代希腊罗马</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>复兴元素</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>巴洛克建筑</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>此后</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；分期差异与名作未给出。"
+    },
+    {
+      "id": "baroque-architecture",
+      "title": "巴洛克建筑（Baroque architecture）",
+      "kind": "风格",
+      "unit": "art-baroque",
+      "era": "16世纪末—18世纪中叶",
+      "region": "欧洲",
+      "medium": "建筑",
+      "tier": "重要",
+      "def": "16世纪末起源于意大利的高度装饰性、戏剧化的建筑风格，后传遍欧洲。",
+      "when": "16世纪末—18世纪中叶",
+      "overview": "巴洛克建筑是16世纪末出现于意大利的高度装饰性、戏剧化的风格，后逐渐传遍欧洲。它最初由天主教会尤其是耶稣会引入，用以对抗宗教改革。盛期巴洛克（1625—1675）见于意、西、葡、法、巴伐利亚与奥地利的教堂和宫殿，晚期（1675—1750）远及俄国、奥斯曼帝国与拉美殖民地；约1730年更繁复的变体洛可可在中欧兴起。",
+      "related": [
+        "baroque",
+        "rococo",
+        "renaissance-architecture",
+        "neoclassical-architecture"
+      ],
+      "sources": [
+        "enc-baroque-architecture",
+        "enc-c174-baroque",
+        "wd-baroque-architecture"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，巴洛克建筑出现于16世纪末的意大利，并逐渐传遍欧洲。盛期巴洛克为1625—1675年，晚期为1675—1750年；约1730年更繁复的变体洛可可在中欧兴起。",
+        "风格特征": "摘要称，这是一种高度装饰性、戏剧化的风格。",
+        "代表人物与作品": "摘要没有列举建筑师与具体建筑，本条目不补写；需另取专著或博物馆来源后再增补。相关条目可参见巴洛克与洛可可。",
+        "技法或形式分析": "摘要对形式的描述只有“高度装饰性、戏剧化”，以及它意在激发惊叹、敬畏。盛期巴洛克用于意大利、西班牙、葡萄牙、法国、巴伐利亚与奥地利的教堂和宫殿；晚期远及俄国、奥斯曼帝国与西葡的拉美殖民地。",
+        "与前后风格的关系和争论": "摘要称，它最初由天主教会、尤其是耶稣会引入，用新的建筑激发惊叹与敬畏，以对抗宗教改革与新教教会。约1730年出现的洛可可是更繁复的变体。",
+        "一图": "示意图以巴洛克建筑为中心，标示天主教会与耶稣会引入、盛期与晚期、洛可可变体三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata 标签，来源独立性有限，整条标记待核实。（2）与宗教改革对抗的说法是摘要对其起因的概括，未展开论证；（3）具体建筑师与建筑，摘要未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='baroque-architecture 示意图'><title>baroque-architecture</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>天主教会</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>耶稣会引入</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>巴洛克建筑</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>16世纪末起</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>盛期与晚期</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>1625—1750</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>洛可可</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>约1730变体</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；名作与建筑师未给出。"
+    },
+    {
+      "id": "neoclassical-architecture",
+      "title": "新古典主义建筑（Neoclassical architecture）",
+      "kind": "风格",
+      "unit": "art-neo-romantic",
+      "era": "18世纪中叶—19世纪",
+      "region": "欧洲",
+      "medium": "建筑",
+      "tier": "重要",
+      "def": "18世纪中叶起于意、法、德的古典复兴建筑风格，意在剥去晚期巴洛克的过度装饰。",
+      "when": "18世纪中叶起",
+      "overview": "新古典主义建筑又称古典复兴建筑，由始于18世纪中叶意大利、法国与德国的新古典主义运动产生，成为西方最突出的建筑风格之一。此前欧洲大部分地区两个世纪的主流风格是文艺复兴与巴洛克建筑，二者已是对古罗马古典建筑的部分复兴；新古典主义则意在剥去晚期巴洛克的过度装饰，回到更纯粹、更完整、更正统的古典风格，并使之适应现代用途。",
+      "related": [
+        "neoclassicism",
+        "baroque-architecture",
+        "renaissance-architecture"
+      ],
+      "sources": [
+        "enc-neoclassical-architecture",
+        "enc-c174-neoclassicism",
+        "wd-neoclassical-architecture"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，新古典主义建筑产生于始于18世纪中叶意大利、法国与德国的新古典主义运动。",
+        "风格特征": "摘要称，它又称古典复兴建筑，意在剥去晚期巴洛克的过度装饰，回到更纯粹、更完整、更正统的古典风格，并使之适应现代用途。",
+        "代表人物与作品": "摘要没有列举建筑师与具体建筑，本条目不补写；需另取专著或博物馆来源后再增补。相关条目可参见新古典主义。",
+        "技法或形式分析": "摘要没有给出具体手法，只说明它的目标是回到更纯粹的古典风格并适应现代用途。",
+        "与前后风格的关系和争论": "摘要称，此前欧洲大部分地区两个世纪的主流风格是文艺复兴与巴洛克建筑，二者已是对古罗马古典建筑与古希腊建筑的部分复兴；新古典主义则要剥去晚期巴洛克的过度装饰。摘要称它成为西方最突出的建筑风格之一。",
+        "一图": "示意图以新古典主义建筑为中心，标示此前的文艺复兴与巴洛克、回到古典风格、适应现代用途三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata 标签，来源独立性有限，整条标记待核实。（2）摘要说明了它与文艺复兴、巴洛克同样回望古典，但“更纯粹”的判断是摘要的概括；（3）具体建筑师与建筑，摘要未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='neoclassical-architectur 示意图'><title>neoclassical-architectur</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>文艺复兴与巴洛克</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>部分复兴古典</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>新古典主义建筑</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>18世纪中叶起</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>剥去晚期巴洛克装饰</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>意图</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>更纯粹的古典</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>适应现代</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；名作与建筑师未给出。"
+    },
+    {
+      "id": "byzantine-architecture",
+      "title": "拜占庭建筑（Byzantine architecture）",
+      "kind": "风格",
+      "unit": "art-medieval",
+      "era": "公元330—1453年",
+      "region": "东罗马",
+      "medium": "建筑",
+      "tier": "重要",
+      "def": "拜占庭帝国的建筑，通常从公元330年君士坦丁建新都起算，至1453年帝国灭亡。",
+      "when": "公元330—1453年",
+      "overview": "拜占庭帝国的建筑通常从公元330年君士坦丁大帝在拜占庭建立新的罗马首都（后称君士坦丁堡）起算，直到1453年帝国灭亡。起初拜占庭与罗马帝国之间并无明确界线，早期拜占庭建筑在风格与结构上与晚期罗马建筑难以区分。其风格继续以拱、拱顶和穹顶为基础，常为大尺度；金底墙面镶嵌画成为最宏伟建筑的标准装饰，湿壁画则是较廉价的替代。",
+      "related": [
+        "byzantine-art",
+        "fresco",
+        "romanesque-architecture"
+      ],
+      "sources": [
+        "enc-byzantine-architecture",
+        "enc-c174-byzantine-empire",
+        "wd-byzantine-architecture"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，拜占庭帝国的建筑通常从公元330年算起，当年君士坦丁大帝在拜占庭建立新的罗马首都，即后来的君士坦丁堡；下限是1453年帝国灭亡。",
+        "风格特征": "摘要称，风格继续以拱、拱顶和穹顶为基础，常为大尺度。",
+        "代表人物与作品": "摘要没有列举建筑师与具体建筑，本条目不补写；需另取专著或博物馆来源后再增补。相关条目可参见拜占庭艺术。",
+        "技法或形式分析": "摘要称，金底墙面镶嵌画成为最宏伟建筑的标准装饰，湿壁画则是较廉价的替代。可知的结构要素是拱、拱顶与穹顶。",
+        "与前后风格的关系和争论": "摘要称，起初拜占庭与罗马帝国之间没有明确界线，早期拜占庭建筑在风格与结构上与晚期罗马建筑难以区分。",
+        "一图": "示意图以拜占庭建筑为中心，标示晚期罗马建筑、拱顶与穹顶、金底镶嵌画三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata 标签，来源独立性有限，整条标记待核实。（2）摘要没有说明早期拜占庭与晚期罗马建筑何时开始分化；（3）具体建筑师与建筑，摘要未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='byzantine-architecture 示意图'><title>byzantine-architecture</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>晚期罗马建筑</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>难以区分</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>拜占庭建筑</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>330—1453</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>拱、拱顶、穹顶</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>常大尺度</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>金底镶嵌画</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>标准装饰</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；名作与分化时间未给出。"
+    },
+    {
+      "id": "chinese-architecture",
+      "title": "中国建筑（Chinese architecture）",
+      "kind": "风格",
+      "unit": "art-china-painting",
+      "era": "历代",
+      "region": "中国",
+      "medium": "建筑",
+      "tier": "重要",
+      "def": "在中国历经千年发展的建筑风格体系，对整个东亚建筑产生影响。",
+      "when": "历代",
+      "overview": "中国建筑是在中国历经千年发展而成的建筑风格，并影响了整个东亚的建筑。自早期古代出现以来，其结构原则大体不变，主要变化在于多样的装饰细节。自唐代起，中国建筑对日本、朝鲜、越南、蒙古等邻近东亚国家的建筑风格产生重大影响，对东南亚与南亚部分国家也有较小影响。",
+      "related": [
+        "angkor",
+        "khmer-architecture",
+        "china-painting-history"
+      ],
+      "sources": [
+        "enc-chinese-architecture",
+        "enc-c174-chinese-art",
+        "wd-chinese-architecture"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，中国建筑在中国历经千年发展，自早期古代出现以来，其结构原则大体不变。",
+        "风格特征": "摘要称，主要变化在于多样的装饰细节，结构原则大体不变。",
+        "代表人物与作品": "摘要没有列举建筑师与具体建筑，本条目不补写；需另取专著或博物馆来源后再增补。相关条目可参见吴哥窟与高棉建筑，但摘要并未提到它们，两者关系本条目不作判断。",
+        "技法或形式分析": "摘要没有给出具体构件或做法。可知的是：结构原则长期稳定，变化集中在装饰细节。",
+        "与前后风格的关系和争论": "摘要称，自唐代起，中国建筑对日本、朝鲜、越南、蒙古等邻近东亚国家的建筑风格产生重大影响，对马来西亚、新加坡、印度尼西亚、斯里兰卡、泰国、老挝、柬埔寨、菲律宾等东南亚与南亚国家也有较小影响。",
+        "一图": "示意图以中国建筑为中心，标示结构原则大体不变、装饰细节多样、影响东亚与东南亚三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata 标签，来源独立性有限，整条标记待核实。（2）本条目暂挂在“中国绘画史”单元下，因库内尚无中国建筑专属单元；（3）具体建筑类型与实例（宫殿、园林、木构等），摘要未给出；（4）摘要所称对东南亚、南亚的影响，本条目未核验。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='chinese-architecture 示意图'><title>chinese-architecture</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>结构原则</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>大体不变</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>中国建筑</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>历经千年</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>装饰细节</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>主要变化</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>影响东亚</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>自唐代起</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；类型、实例、分期未给出。"
+    },
+    {
+      "id": "islamic-architecture",
+      "title": "伊斯兰建筑（Islamic architecture）",
+      "kind": "风格",
+      "unit": "art-islamic",
+      "era": "7世纪至今",
+      "region": "西亚·中亚",
+      "medium": "建筑",
+      "tier": "重要",
+      "def": "与伊斯兰文明相关的建筑风格，涵盖世俗与宗教建筑，从伊斯兰早期历史延续至今。",
+      "when": "7世纪至今",
+      "overview": "伊斯兰建筑包括与伊斯兰文明相关的建筑风格，涵盖从伊斯兰早期历史到今天的世俗与宗教建筑。伊斯兰世界地域广阔，历史上西起西非与欧洲、东至东亚。各地区的伊斯兰建筑风格有共通之处，但随时间推移，因本地材料与技术、地方王朝与赞助人、不同的艺术生产中心，有时还因宗教派别不同，形成各自的风格。",
+      "related": [
+        "islamic-art",
+        "mihrab-isfahan",
+        "iznik-tile-spandrel"
+      ],
+      "sources": [
+        "enc-islamic-architecture",
+        "enc-c174-islamic-art",
+        "wd-islamic-architecture"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，伊斯兰建筑涵盖从伊斯兰早期历史到今天的建筑风格；伊斯兰世界历史上西起西非与欧洲，东至东亚。",
+        "风格特征": "摘要称，各地区的伊斯兰建筑风格有共通之处。",
+        "代表人物与作品": "摘要没有列举建筑师与具体建筑，本条目不补写；需另取专著或博物馆来源后再增补。相关条目可参见伊斯兰艺术、伊斯法罕祈祷龛与伊兹尼克花卉纹砖。",
+        "技法或形式分析": "摘要没有列出具体的形式要素。可知的是：风格既含世俗也含宗教建筑，且各地因本地材料与技术而不同。",
+        "与前后风格的关系和争论": "摘要称，随时间推移，各地区因本地材料与技术、地方王朝与赞助人、不同的艺术生产中心，有时还因不同的宗教派别，形成各自的风格。",
+        "一图": "示意图以伊斯兰建筑为中心，标示世俗与宗教建筑、共通之处、各地区风格三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata 标签，来源独立性有限，整条标记待核实。（2）“共通之处”具体指什么，摘要未说明；（3）具体建筑师与建筑，摘要未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='islamic-architecture 示意图'><title>islamic-architecture</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>世俗与宗教</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>两类建筑</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>伊斯兰建筑</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>早期至今</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>共通之处</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>各地共享</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>各地区风格</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>材料王朝等</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；共通要素与名作未给出。"
     }
   ]
 }

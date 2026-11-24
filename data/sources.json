@@ -7379,6 +7379,186 @@
       "type": "权威机构词表（术语定义）",
       "verified": true,
       "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配；定义原文存档于 tmp/aat_batch3.json、tmp/aat_batch3b.json"
+    },
+    {
+      "id": "enc-renaissance-architecture",
+      "title": "Renaissance architecture",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Renaissance_architecture",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "enc-c174-classical-architecture",
+      "title": "Classical architecture",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Classical_architecture",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-renaissance-architecture",
+      "title": "Wikidata: Renaissance architecture (Q236122)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q236122",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-24 经 wd_api 读取实体成功，英文标签与条目一致"
+    },
+    {
+      "id": "enc-baroque-architecture",
+      "title": "Baroque architecture",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Baroque_architecture",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "enc-c174-baroque",
+      "title": "Baroque",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Baroque",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-baroque-architecture",
+      "title": "Wikidata: Baroque architecture (Q840829)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q840829",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-24 经 wd_api 读取实体成功，英文标签与条目一致"
+    },
+    {
+      "id": "enc-neoclassical-architecture",
+      "title": "Neoclassical architecture",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Neoclassical_architecture",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "enc-c174-neoclassicism",
+      "title": "Neoclassicism",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Neoclassicism",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-neoclassical-architecture",
+      "title": "Wikidata: Neoclassical architecture (Q54111)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q54111",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-24 经 wd_api 读取实体成功，英文标签与条目一致"
+    },
+    {
+      "id": "enc-byzantine-architecture",
+      "title": "Byzantine architecture",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Byzantine_architecture",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "enc-c174-byzantine-empire",
+      "title": "Byzantine Empire",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Byzantine_Empire",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-byzantine-architecture",
+      "title": "Wikidata: Byzantine architecture (Q47591)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q47591",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-24 经 wd_api 读取实体成功，英文标签与条目一致"
+    },
+    {
+      "id": "enc-chinese-architecture",
+      "title": "Chinese architecture",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Chinese_architecture",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "enc-c174-chinese-art",
+      "title": "Chinese art",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Chinese_art",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-chinese-architecture",
+      "title": "Wikidata: Chinese architecture (Q957904)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q957904",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-24 经 wd_api 读取实体成功，英文标签与条目一致"
+    },
+    {
+      "id": "enc-islamic-architecture",
+      "title": "Islamic architecture",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Islamic_architecture",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "enc-c174-islamic-art",
+      "title": "Islamic art",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Islamic_art",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-islamic-architecture",
+      "title": "Wikidata: Islamic architecture (Q212940)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q212940",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-24 经 wd_api 读取实体成功，英文标签与条目一致"
     }
   ]
 }
