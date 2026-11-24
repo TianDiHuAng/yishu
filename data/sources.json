@@ -5009,6 +5009,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；釉下彩熔块胎 62×102cm；说明含埃迪尔内宫殿"
+    },
+    {
+      "id": "vam-o54307",
+      "title": "Victoria and Albert Museum — The Ardabil Carpet, Iran, 1539–1540, O54307",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O54307",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；羊毛栽绒丝绸地 长约1040cm；说明含塔赫玛斯普为萨法维丁神祠所订"
+    },
+    {
+      "id": "vam-o85243",
+      "title": "Victoria and Albert Museum — The Ushak Carpet, Usak, ca. 1500, O85243",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O85243",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；羊毛 531×250cm；说明含伊朗原型与土耳其改织"
+    },
+    {
+      "id": "vam-o94015",
+      "title": "Victoria and Albert Museum — Ottoman lampas silk, Turkey, 16th c., O94015",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O94015",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；丝与金属线 lampas 120.5×67.4cm；说明含无人物纹与逊尼派多数"
+    },
+    {
+      "id": "vam-o93545",
+      "title": "Victoria and Albert Museum — Ottoman silk velvet, Bursa, early 17th c., O93545",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O93545",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；丝绒金属包线 178×67.5cm 重6kg；说明含 kemha/seraser 与布尔萨"
     }
   ]
 }

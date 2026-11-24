@@ -1,0 +1,124 @@
+{
+ "O54307": {
+  "title": "{'title': 'The Ardabil Carpet', 'type': 'popular title'}",
+  "date": "{'date': {'text': '1539-1540', 'earliest': '1539-01-01', 'latest': '1540-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Iran', 'id': 'x30220'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "mat": "The exact knot-count of the Ardabil carpet varies throughout its structure, as is typical, and the given count of 340 knots per inch (equivalent to 5,472/dm2) is therefore an average value.  The Los Angeles Ardabil carpet in turn has been recorded to hold an average of 350 knots per square inch: the two carpets therefore have roughly the same knot-count. This near-parity supports the accepted proposal that the two carpets were woven by the same team at the same time.",
+  "desc": "The Ardabil Carpet, medallion carpet, wool knotted pile on silk foundation, Safavid Iran, dated 946H, 1539-40.\r\nWarp: white silk; Z2S; depressed; 126  threads per dm (32 per in)\r\nWeft: white silk; unable to ascertain spin, ply, twist; 3 shoots of paired threads after each row of knots; 78 knots per dm (19 per in)\r\nPile: wool; 10 colours: dark red, red, light red, yellow, green, dark blue, blue, light blue, black, white; asymmetrical knot open to the left; 5300 knots per sq. dm (340 per sq. in)\r\nSide and End Finishes: missing\r\nDesign: Field: dark blue ground with yellow central medallion with 16 satellite ovals.  Above and below are suspended red lamps, one larger than the other.  Each corner has one quarter of a medallion; the rest of the field has a rich scattering of blossoms.\r\nMain border: blue ground with red cartouches separated by large green rosettes.\r\nInner border: cream ground with floral meander.\r\nOuter border: red ground with double meander.",
+  "summary": "The Ardabil carpet is one of the largest and finest Islamic carpets in existence. It is also of great historical importance. It was commissioned as one of a pair by the ruler of Iran, Shah Tahmasp, for the shrine of his ancestor, Shaykh Safi al-Din, in the town of Ardabil in north-west Iran.\r\n\r\nIn a small panel at one end, the date of completion is given as the year 946 in the Muslim calendar, equivalent to 1539-40. The text includes the name of the man in charge of its production, Maqsud Kashani.\r\n\r\nThe carpet is remarkable for the beauty of its design and execution. It has a white silk warp and weft and the pile is knotted in wool in ten colours. The single huge composition that covers most of its surface is clearly defined against the dark-blue ground, and the details of the ornament - the complex blossoms and delicate tendrils - are rendered with great precision. This was due above all to the density of the knotting - there are an average of 5300 knots in every 10 square centimetres (340 knots per square inch).",
+  "objtype": "Carpet",
+  "dims": [
+   [
+    "Width",
+    "530",
+    "cm",
+    "non-inscription end"
+   ],
+   [
+    "Width",
+    "529.5",
+    "cm",
+    "middle"
+   ],
+   [
+    "Width",
+    "535.5",
+    "cm",
+    "inscription end"
+   ],
+   [
+    "Length",
+    "1032.5",
+    "cm",
+    "left side looking from inscription end"
+   ],
+   [
+    "Length",
+    "1044",
+    "cm",
+    "middle"
+   ],
+   [
+    "Length",
+    "1031",
+    "cm",
+    "right side looking from inscription end"
+   ]
+  ]
+ },
+ "O85243": {
+  "title": "{'title': 'The Ushak Carpet', 'type': 'popular title'}",
+  "date": "{'date': {'text': 'ca. 1500', 'earliest': '1495-01-01', 'latest': '1504-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Usak', 'id': 'x34585'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': 'probably'}",
+  "mat": "Wool warps Z2S, wool wefts and pile",
+  "desc": "A large rectangular carpet of symmetrical design. Overall the design appears to be a large scale ogival pattern of medallions and rosettes in off-set rows. A central medallion of floral and vegetal motifs becomes the dominant design element here, surrounded by four large rosettes in half-view. The central design elements are flanked by a border of smaller floral motifs. Each design element consists of intricate, meandering and interlacing floral and vegetal motifs to make a highly decorative surface. Executed in deep blue, yellow, and cream, on a rich red ground.",
+  "summary": "The repeating pattern on this carpet was used in other Ottoman textiles. It evolved from the carpet designs with a central medallion that originated in Iran. These were adopted by Turkish weavers during the late 15th century.\r\n\r\nThis carpet was made in Usak, in western Turkey, a major centre of carpet production. Weavers there began to use new designs based on medallions of different types during the reign of Sultan Mehmet the Conqueror (1451–1481). Mehmet himself probably commissioned these designs. They were then used in commercial production for several centuries afterwards.",
+  "objtype": "Carpet",
+  "dims": [
+   [
+    "Length",
+    "531",
+    "cm",
+    ""
+   ],
+   [
+    "Width",
+    "250",
+    "cm",
+    ""
+   ]
+  ]
+ },
+ "O94015": {
+  "title": "",
+  "date": "{'date': {'text': '16th century', 'earliest': '1500-01-01', 'latest': '1600-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Turkey', 'id': 'x29225'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "mat": "Silk and metal thread",
+  "desc": "Silk with ogival lattice. Lampas textile of silk and metal threads.",
+  "summary": "For the Ottomans it was necessary to retain the support of the Sunni majority among their subjects, and this may explain why the court style they developed is devoid of elements that would have been unacceptable to them, specifically the absence of figural motifs. This woven silk bears an abstract composition of undulating bands which create a framework for floral motifs in the ogival spaces between. The contrast with the court style of their bitter rivals the Safavids is striking, as seen for example in the Safavid velvet with young men among cypress trees (T.226–1923).",
+  "objtype": "Silk",
+  "dims": [
+   [
+    "Length",
+    "120.5",
+    "cm",
+    ""
+   ],
+   [
+    "Width",
+    "67.4",
+    "cm",
+    ""
+   ]
+  ]
+ },
+ "O93545": {
+  "title": "",
+  "date": "{'date': {'text': 'early 17th century', 'earliest': '1600-01-01', 'latest': '1650-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Bursa', 'id': 'x34535'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': 'probably'}",
+  "mat": "Silk velvet with metal-wrapped thread",
+  "desc": "Silk velvet with metal thread. The design is a formal pattern of highly stylised carnations set in staggered rows. The carnations are executed in cream on a deep red ground.",
+  "summary": "The Ottomans used luxurious silk textiles for furnishings and for men’s and women’s clothing. The most prestigious were velvet and complex silk weaves called kemha and seraser. These often incorporated thread wrapped with silver or silver gilt. \r\n\r\nThe main centre for silk-weaving was Bursa in north-west Anatolia in Turkey. The industry was established there in the 15th century, largely to compete with Italian imports. The two most popular designs were the curved lattice, and rows of stylised flowers or stars. Originally introduced to Turkey from Italy, they gradually evolved into the dramatic, large-scale patterns associated with the Ottoman court. In this velvet the basic design, with large motifs in staggered rows, is derived from Italian models, but the stylised carnations are unmistakably Ottoman.",
+  "objtype": "Silk velvet",
+  "dims": [
+   [
+    "Length",
+    "178",
+    "cm",
+    ""
+   ],
+   [
+    "Width",
+    "67.5",
+    "cm",
+    ""
+   ],
+   [
+    "Weight",
+    "6",
+    "kg",
+    ""
+   ]
+  ]
+ }
+}

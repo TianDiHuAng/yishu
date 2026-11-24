@@ -1341,6 +1341,18 @@
       },
       "network": "V&A 200",
       "verdict": "总372；未饱和"
+    },
+    {
+      "cycle": "cycle109",
+      "date": "2026-11-24",
+      "methods_used": [
+        "V&A 伊斯兰织物"
+      ],
+      "gaps_found": {
+        "entries": 4
+      },
+      "network": "V&A 200",
+      "verdict": "总376；未饱和"
     }
   ],
   "assessment_c33": {

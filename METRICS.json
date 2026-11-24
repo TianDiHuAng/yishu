@@ -3089,6 +3089,30 @@
       "check_links_result": "broken=0(409页)",
       "audit_all": "12/12 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle109",
+      "date": "2026-11-24",
+      "status": "completed",
+      "gap_methods": [
+        "V&A 伊斯兰织物（首次覆盖织物门类）"
+      ],
+      "network": "V&A 200",
+      "new_entries": 4,
+      "new_entry_ids": [
+        "ardabil-carpet",
+        "ushak-carpet",
+        "ottoman-silk-lampas",
+        "ottoman-silk-velvet"
+      ],
+      "new_sources": 4,
+      "sources_total": 505,
+      "entries_total": 376,
+      "pages": 413,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(413页)",
+      "audit_all": "12/12 ok",
+      "commits": 1
     }
   ]
 }

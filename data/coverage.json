@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 372,
+    "total": 376,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -4468,6 +4468,54 @@
     },
     "iznik-tile-panel-edirne": {
       "title": "伊兹尼克釉砖板（埃迪尔内）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "ardabil-carpet": {
+      "title": "阿尔达比勒地毯",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "ushak-carpet": {
+      "title": "乌沙克地毯",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "ottoman-silk-lampas": {
+      "title": "奥斯曼灯芯缎丝织（lampas）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "ottoman-silk-velvet": {
+      "title": "布尔萨奥斯曼丝绒",
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",

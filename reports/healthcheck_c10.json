@@ -5,7 +5,8 @@
   "greek-art",
   "polyphony",
   "courbet",
-  "iznik-tile-panel-edirne"
+  "iznik-tile-panel-edirne",
+  "ardabil-carpet"
  ],
  "duplicates": [],
  "contradictions": [
@@ -258,6 +259,6 @@
  "link_audit": {
   "cross_domain": 18,
   "oneway": 0,
-  "total_links": 1192
+  "total_links": 1204
  }
 }
