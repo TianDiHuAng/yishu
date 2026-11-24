@@ -1,0 +1,96 @@
+{
+ "O18899": {
+  "title": "{'title': 'The Van Diemen Box', 'type': 'popular title'}",
+  "date": "{'date': {'text': '1636-1639', 'earliest': '1636-01-01', 'latest': '1639-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Japan', 'id': 'x29399'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "mat": "Wood, covered in black lacquer, with gold, silver and red hiramaki-e and takamaki-e lacquer and gold and silver foil",
+  "desc": "Document Box, with tray.  Black lacquer ground decorated in relief with gold lacquer of various shades, silver lacquer, and gold and silver foil.  On the lid a scene in the grounds of the palace at Kyoto.  On the left the emperor is seated on a dais, and towards him noblemen advance in court attire, in the foreground is a court carriage, on the right is the entrance to the palace.  Around the sides of the box are scenes from Japanese court life.  These, as well as the panel of the lid, are surrounded by a border of leafy scrollwork with conventional clematis in gold and silver.  The tray is painted with a landscape with buildings in black lacquer on gold within a shaped panel which is edged with floral scrolls and surrounded by a diaper border.",
+  "summary": "<b>Object Type</b><br>Although Japanese export lacquerware was usually shaped to meet western tastes, this piece takes the form of a Japanese document box with a tray. It belongs to a small group of extremely high quality export lacquerwork produced between about 1630 and 1640. As in the case of this box, these were typically decorated using expensive and elaborate lacquer techniques with scenes from Japanese classical literature.<br><br><b>Places</b><br>High quality export lacquerware was made to special order in Kyoto, Japan's former imperial capital. It was then transported to Deshima, a small island in Nagasaki harbour, for shipment abroad by Dutch merchants. During the late 17th century merchants of the Dutch East India Company were the only Europeans permitted to conduct trade in Japan.<br><br><b>People</b><br>The inside of the lid of this box is inscribed with the name of Maria van Diemen, wife of Anton van Diemen, Governor-General of the Dutch East Indies from 1636 to 1645. The famous author, designer and collector William Beckford (1760-1844) also owned a very similar box known as the Buys box. Beckford's box was inscribed with the name of Pieternellae Buys, married to Philips Lucasz in 1634. Lucasz served as second-in-command to Anton van Diemen in Batavia from 1635 to 1639. This combination of biographical details allows the two boxes to be dated to between 1636 and 1639. These are among the very few export lacquer objects known to have any direct connection with women.",
+  "objtype": "Document box",
+  "dims": [
+   [
+    "Height",
+    "16",
+    "cm"
+   ],
+   [
+    "Width",
+    "48.3",
+    "cm"
+   ],
+   [
+    "Depth",
+    "36.7",
+    "cm"
+   ]
+  ]
+ },
+ "O85590": {
+  "title": "{'title': 'An Umbrella Mender', 'type': 'generic title'}",
+  "date": "{'date': {'text': 'ca. 1790', 'earliest': '1785-01-01', 'latest': '1794-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Guangzhou', 'id': 'x32464'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}; {'place': {'text': 'China', 'id': 'x29398'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "mat": "Watercolur and ink on paper",
+  "desc": "Rectangular painting, the central figure in black sits beside an open umrella, propped up on a htree-legged stand, one of 100 showing Chinese artizans and tradesmen engaged in their occupations",
+  "summary": "This painting is from a set of 100 depicting different trades and occupations in Canton. It shows an umbrella mender. Artists made such paintings for Europeans eager to find out more about China and her people.",
+  "objtype": "Painting",
+  "dims": [
+   [
+    "Height",
+    "36",
+    "cm"
+   ],
+   [
+    "Width",
+    "46",
+    "cm"
+   ]
+  ]
+ },
+ "O103140": {
+  "title": "",
+  "date": "{'date': {'text': 'ca. 1660', 'earliest': '1655-01-01', 'latest': '1664-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Kütahya (City)', 'id': 'x32534'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': 'probably'}",
+  "mat": "Fritware, polychrome underglaze painted, glazed",
+  "desc": "Panel of 80 fritware tiles, underglaze-painted with a row of niches containing vases of flowers.",
+  "summary": "In the 1550s potters at the kilns in Iznik, north-west Turkey,  began to produce tiles with the decoration painted under the glaze. These tiles were used in panels,  which were a popular form of decoration on the walls of palaces and mosques. This panel has a row of niches containing vases of flowers. Here they are arranged symmetrically so that they fill all the available space.",
+  "objtype": "Tile panel",
+  "dims": [
+   [
+    "Height",
+    "192",
+    "cm"
+   ],
+   [
+    "Width",
+    "256.5",
+    "cm"
+   ],
+   [
+    "Depth",
+    "5.5",
+    "cm"
+   ],
+   [
+    "Weight",
+    "135",
+    "kg"
+   ]
+  ]
+ },
+ "O58979": {
+  "title": "",
+  "date": "{'date': {'text': 'about 1810', 'earliest': '1810-01-01', 'latest': '1810-12-31'}, 'association': {'text': 'Made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'London', 'id': 'x28980'}, 'association': {'text': 'Made', 'id': 'x28654'}, 'note': ''}",
+  "mat": "planed, joined, gilded and painted wooden soundboard and ribs; ebony fingerboard with ivory frets.",
+  "desc": "\"Body of three ribs, the centre rib having an open slot-shaped soundhole, all stained dark brown, with gilt lines forming the borders. Belly with crudely painted gilt scroll-work borders, and with an inset rose fretted to form a Prince of Wales's feather-pattern with trumpets. Fixed bridge. The neck is affixed to the body a little over to the treble sides and has twelve ivory frets. The main pegbox is for seven gut strings, and the upper, which has a square finial and a slightly oblique nut, is for four strings.\" - Anthony Baines,<i>Catalogue of Musical Instruments in the Victoria and Albert Museum - Part II: Non-keyboard instruments</i> (London, 1998), pp. 67-68.  \r\n\r\nThe woods are are painted and gilded so they cannot be identified. However, pine and sycamore were the woods most commonly used, the former for the soundboard and the latter for the back and sides.",
+  "summary": "As its name would suggest, the harp-lute-guitar is a hybrid of all three instruments, but unlike other fashionable variants, it's pegbox arrangement was similar to that of a lute, with additional unstopped strings in the bass. This example was made by Mr Harley, who traded only under his surname from Wych Street, London, from about 1800 until 1820. The 'Prince-of-Wales' feathers, which form the rose, may refer to Princess Charlotte (1796 - 1817), the Prince Regent's only daughter and an enthusiast for such instruments.",
+  "objtype": "Harp-lute-guitar",
+  "dims": [
+   [
+    "Length",
+    "92",
+    "cm"
+   ]
+  ]
+ }
+}

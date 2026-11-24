@@ -125,20 +125,20 @@
  "oneway_sample": [],
  "top_inbound": [
   [
+   "japanese-art",
+   20
+  ],
+  [
    "americas-art",
    19
   ],
   [
-   "japanese-art",
-   18
+   "islamic-art",
+   17
   ],
   [
    "african-art",
    17
-  ],
-  [
-   "islamic-art",
-   16
   ],
   [
    "baroque-music",
@@ -165,5 +165,5 @@
    10
   ]
  ],
- "total_links": 1332
+ "total_links": 1346
 }

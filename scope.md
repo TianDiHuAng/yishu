@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 412 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 416 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -377,6 +377,8 @@
 | palanquin-hook-angkor | 吴哥帕輿钩 | 作品 | 12—13世纪 | 东南亚 | 金属器 | 重要 | O1 |
 | garuda-lintel-khmer | 伽楼多楣饰 | 作品 | 9世纪末—10世纪初 | 东南亚 | 雕塑 | 核心 | O1 |
 | baphuon-kneeling-figure | Baphuon 期跪像 | 作品 | 11世纪 | 东南亚 | 雕塑 | 重要 | O1 |
+| vandiem-lacquer-box | 范迪门漆盒（外销莳绘） | 作品 | 17世纪 | 东亚 | 综合 | 核心 | O1 |
+| canton-umbrella-mender | 广州外销画《修伞匠》 | 作品 | 18世纪 | 东亚 | 绘画 | 重要 | O1 |
 
 ## art-islamic（伊斯兰艺术（西亚·中亚））
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -412,6 +414,7 @@
 | qaitbay-basin | 卡伊特贝盆（马穆鲁克） | 作品 | 15世纪 | 西亚·中亚 | 金属器 | 核心 | O1 |
 | zayn-al-din-bucket | 扎因丁署名铜桶 | 作品 | 15世纪 | 西亚·中亚 | 金属器 | 重要 | O1 |
 | ilkhanid-flying-birds-bowl | 伊尔汗飞鸟纹碗 | 作品 | 13—14世纪 | 西亚·中亚 | 陶瓷 | 核心 | O1 |
+| kutahya-tile-panel | 屈塔希亚釉砖板 | 作品 | 17世纪 | 西亚·中亚 | 陶瓷 | 核心 | O1 |
 
 ## art-africa（非洲艺术（撒哈拉以南））
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -519,6 +522,7 @@
 | tielke-guitar | 蒂尔克吉他（汉堡，1693） | 作品 | 17世纪 | 欧洲 | 乐器 | 核心 | O1 |
 | baroque-oboe-holland | 荷兰巴洛克双簧管（约1700） | 作品 | 17—18世纪 | 欧洲 | 乐器 | 重要 | O1 |
 | bowie-koto-heroes | 鲍伊《Heroes》用古筝（koto） | 作品 | 20世纪 | 东亚 | 乐器 | 核心 | O1 |
+| harp-lute-guitar-va | 哈普鲁特吉他（Harp-lute-guitar） | 作品 | 19世纪初 | 欧洲 | 乐器 | 重要 | O1 |
 
 ## art-ceramics（中国陶瓷工艺）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

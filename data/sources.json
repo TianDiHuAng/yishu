@@ -5399,6 +5399,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；花岗闪长岩 45×16.6×28.3cm；说明含像中像与狒狒托特"
+    },
+    {
+      "id": "vam-o18899",
+      "title": "Victoria and Albert Museum — The Van Diemen Box, Japan (Kyoto), 1636–1639, O18899",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O18899",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；黑漆金银莳绘 48.3×36.7×16cm；说明含京都制作/出岛/范迪门妻铭"
+    },
+    {
+      "id": "vam-o85590",
+      "title": "Victoria and Albert Museum — An Umbrella Mender, Guangzhou, ca. 1790, O85590",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O85590",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；纸本水墨设色 36×46cm；说明含广州百业图一百幅之一"
+    },
+    {
+      "id": "vam-o103140",
+      "title": "Victoria and Albert Museum — Kütahya tile panel, ca. 1660, O103140",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O103140",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；熔块胎釉下彩 80块 192×256.5cm 重135kg；说明含壁龛花瓶一排"
+    },
+    {
+      "id": "vam-o58979",
+      "title": "Victoria and Albert Museum — Harp-lute-guitar by Mr Harley, London, ca. 1810, O58979",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O58979",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；金饰彩绘木弦颈乌木指板 长92cm；说明含威尔士亲王羽毛玫瑰"
     }
   ]
 }

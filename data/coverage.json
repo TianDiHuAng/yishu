@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 412,
+    "total": 416,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -4949,6 +4949,54 @@
     "minemheb-statue": {
       "title": "米奈赫布像（像中像）",
       "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "vandiem-lacquer-box": {
+      "title": "范迪门漆盒（外销莳绘）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "canton-umbrella-mender": {
+      "title": "广州外销画《修伞匠》",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "kutahya-tile-panel": {
+      "title": "屈塔希亚釉砖板",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "harp-lute-guitar-va": {
+      "title": "哈普鲁特吉他（Harp-lute-guitar）",
+      "tier": "重要",
       "level": "L2",
       "status": "written_l2",
       "sources_count": 1,

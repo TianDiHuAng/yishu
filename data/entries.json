@@ -3096,7 +3096,9 @@
         "amida-shitennoji",
         "tiger-magpie-hochakdo",
         "japanese-inro",
-        "bowie-koto-heroes"
+        "bowie-koto-heroes",
+        "vandiem-lacquer-box",
+        "canton-umbrella-mender"
       ],
       "sources": [
         "enc-japanese-art",
@@ -3801,7 +3803,8 @@
         "mamluk-inlaid-basin",
         "iznik-tile-panel-edirne",
         "ardabil-carpet",
-        "ilkhanid-flying-birds-bowl"
+        "ilkhanid-flying-birds-bowl",
+        "kutahya-tile-panel"
       ],
       "sources": [
         "cma-1944-485",
@@ -7164,7 +7167,8 @@
       "overview": "以石斧、竹刀、树熊牙与猪/鹤鸵/狗骨为工具；用杜鹃木，刻纹深浅不一，多施石墨并抛光；花纹为家族所有。",
       "related": [
         "maori-wakahuia",
-        "oceania-art"
+        "oceania-art",
+        "vandiem-lacquer-box"
       ],
       "sources": [
         "cma-1965-322"
@@ -8077,7 +8081,8 @@
       "overview": "釉下彩熔块胎；为一龛形板的顶部；或装饰伊斯坦布尔西北埃迪尔内皇宫，中央龛内白地缠枝花卉。",
       "related": [
         "minai-bowl-kashan",
-        "islamic-art"
+        "islamic-art",
+        "kutahya-tile-panel"
       ],
       "sources": [
         "vam-o86971"
@@ -8434,7 +8439,8 @@
         "northumberland-bagpipe",
         "urbino-cittern",
         "tielke-guitar",
-        "baroque-oboe-holland"
+        "baroque-oboe-holland",
+        "harp-lute-guitar-va"
       ],
       "sources": [
         "vam-o58982"
@@ -8456,7 +8462,8 @@
         "baffo-harpsichord",
         "stradivari-violin",
         "northumberland-bagpipe",
-        "urbino-cittern"
+        "urbino-cittern",
+        "harp-lute-guitar-va"
       ],
       "sources": [
         "vam-o122435"
@@ -8912,6 +8919,85 @@
       ],
       "sources": [
         "cma-1996-28"
+      ]
+    },
+    {
+      "id": "vandiem-lacquer-box",
+      "title": "范迪门漆盒（外销莳绘）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "17世纪",
+      "region": "东亚",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "日本京都制黑漆金银莳绘文书盒，维多利亚与艾伯特博物馆藏（O18899）。",
+      "when": "1636—1639年",
+      "overview": "盖面绘京都御所场景（天皇居高台、朝臣晋见、宫门与牛车）；盒盖内侧铭 Maria van Diemen（荷属东印度总督之妻）；京都特制经出岛由荷兰商船外销。",
+      "related": [
+        "japanese-art",
+        "tami-bowl"
+      ],
+      "sources": [
+        "vam-o18899"
+      ]
+    },
+    {
+      "id": "canton-umbrella-mender",
+      "title": "广州外销画《修伞匠》",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "18世纪",
+      "region": "东亚",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "广州纸本水墨设色行商图，维多利亚与艾伯特博物馆藏（O85590）。",
+      "when": "约1790年",
+      "overview": "百幅「中国工匠与行业」组画之一；中景黑衣匠人坐于三脚架撑开的伞旁；为欧人了解中国而作。",
+      "related": [
+        "japanese-art"
+      ],
+      "sources": [
+        "vam-o85590"
+      ]
+    },
+    {
+      "id": "kutahya-tile-panel",
+      "title": "屈塔希亚釉砖板",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "17世纪",
+      "region": "西亚·中亚",
+      "medium": "陶瓷",
+      "tier": "核心",
+      "def": "土耳其屈塔希亚熔块胎釉砖板（80块），维多利亚与艾伯特博物馆藏（O103140）。",
+      "when": "约1660年",
+      "overview": "一排壁龛内各置花瓶；对称布局填满可用空间；1550s起伊兹尼克开创釉下彩墙砖板，为宫殿与清真寺墙面流行装饰。",
+      "related": [
+        "iznik-tile-panel-edirne",
+        "islamic-art"
+      ],
+      "sources": [
+        "vam-o103140"
+      ]
+    },
+    {
+      "id": "harp-lute-guitar-va",
+      "title": "哈普鲁特吉他（Harp-lute-guitar）",
+      "kind": "作品",
+      "unit": "music-instruments",
+      "era": "19世纪初",
+      "region": "欧洲",
+      "medium": "乐器",
+      "tier": "重要",
+      "def": "伦敦 Mr Harley 制哈普鲁特吉他，维多利亚与艾伯特博物馆藏（O58979）。",
+      "when": "约1810年",
+      "overview": "三器混成体；弦轴箱近鲁特式、低音加不按弦空弦；玫瑰孔为「威尔士亲王羽毛」纹或指夏洛特公主；Harley 于 Wych Street 仅以姓氏行商。",
+      "related": [
+        "maler-lute",
+        "baffo-harpsichord"
+      ],
+      "sources": [
+        "vam-o58979"
       ]
     }
   ]

@@ -1471,6 +1471,18 @@
       },
       "network": "CMA",
       "verdict": "总412；未饱和"
+    },
+    {
+      "cycle": "cycle120",
+      "date": "2026-11-24",
+      "methods_used": [
+        "V&A 漆器/外销画/砖板/乐器"
+      ],
+      "gaps_found": {
+        "entries": 4
+      },
+      "network": "V&A",
+      "verdict": "总416；未饱和"
     }
   ],
   "assessment_c33": {

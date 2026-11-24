@@ -1,0 +1,19 @@
+{
+ "id": "canton-umbrella-mender",
+ "level": "L2",
+ "sections": {
+  "时代背景": "该馆说明：此画出自**一套一百幅**、描绘**广州不同行业与工匠**的组画；这类画**为欧洲人**——他们渴望**了解中国及其人民**——而作。本件约**1790年**，广州（Canton）制，V&A 藏（O85590）。",
+  "风格特征": "该馆描述：**矩形纸本**，**水墨与设色**；**中央人物着黑衣**，坐于**撑开在三脚架上的伞**旁——他是**修伞匠**。",
+  "代表人物与作品": "作者未署名。相关条目见范迪门漆盒与日本艺术。本件为 V&A 藏品（O85590）。",
+  "技法或形式分析": "材质为**纸本水彩与墨**；尺寸**高36 × 宽46厘米**（据该馆记录）。",
+  "与前后风格的关系和争论": "本条目据该馆说明把「行商图」读作**外销定制画**：题材与构图迎合**欧洲的市场求知欲**，一百幅的**系列性**则使其成为可成套购藏的「知识图像」。本条目只依记录陈述，不代其评画。",
+  "一图": "示意图以广州行商百图、三脚架撑伞与欧洲买主三者关系标示本画。",
+  "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）组画其余各幅的下落未记录；（3）画室/作者未署名；（4）「100幅」为组画总数，本件序号未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='canton-umbrella-mender 示意图'><title>canton-umbrella-mender</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>广州·约1790</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>外销画</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>修伞匠</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>36×46</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>百业组画</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>100幅</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>欧洲买主</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>求知</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>修伞匠：行业、系列与买主</text></g></svg>",
+ "sources": [
+  "vam-o85590"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（V&A）来源；作者与序号未记录。"
+}
