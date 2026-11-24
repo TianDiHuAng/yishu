@@ -1,0 +1,19 @@
+{
+ "id": "constable-branch-hill-pond",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为康斯太勃尔1828年的布面油画《汉普斯特德的布兰奇山池塘》，克利夫兰艺术博物馆藏（1972.48）。该馆说明：画家从1819年到1826年在汉普斯特德租有一间夏屋，此画即在那里作成。",
+  "风格特征": "该馆说明：康斯太勃尔是业余气象学家，最擅长画精细观察到的云层形态、天气状况与自然光效；他相信准确再现这些不断变化的因素，就能传达他对英国乡村生机与壮丽的感受。",
+  "代表人物与作品": "作者为约翰·康斯太勃尔（1776—1837）。相关条目见康斯太勃尔与透纳《上议院与下议院焚毁》。",
+  "技法或形式分析": "材质为布面油画；画面60.6 × 78.1厘米，带框89 × 105.5 × 11.5厘米（据该馆藏品记录）。",
+  "与前后风格的关系和争论": "该馆说明：这幅画更着重深色的雨云，而非前景的劳动者；劳动者艰辛劳作的细节被保持在悦目的远处。本条目据此把它读作「天气为主角」的风景：人物退为背景，云与光成为画面的中心。",
+  "一图": "示意图以夏屋观察、深色雨云为主、劳动者退居远处三者关系标示本作。",
+  "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）「业余气象学家」与「相信准确再现……」属该馆的概括，未经独立文献印证；（3）画中具体地点与劳动者所做何事，该馆未细述。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='constable-branch-hill-po 示意图'><title>constable-branch-hill-po</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>康斯太勃尔·1828</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>汉普斯特德</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>《布兰奇山池塘》</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>60.6×78.1cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>深色雨云为主</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>天气与光效</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>劳动者退居远处</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>细节悦目化</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>布兰奇山池塘：天气为主角</text></g></svg>",
+ "sources": [
+  "cma-1972-48"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；气象学家一说为该馆概括；劳动细节未述。"
+}

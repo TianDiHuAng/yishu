@@ -6579,6 +6579,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；颜料、篮编 47.3×44.3×14.7cm；说明含阿贝拉姆男子比赛种巨大山药并以篮编面具装饰展示"
+    },
+    {
+      "id": "cma-1972-48",
+      "title": "Cleveland Museum of Art — Branch Hill Pond, Hampstead, John Constable, 1828, acc. 1972.48",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1972.48",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；布面油画 画面60.6×78.1cm；说明含业余气象学家、1819-26租夏屋、乌云重于劳动者"
+    },
+    {
+      "id": "cma-1966-13",
+      "title": "Cleveland Museum of Art — Antiochus and Stratonice, Jean-Auguste-Dominique Ingres, c. 1838, acc. 1966.13",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1966.13",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；亚麻布油画 画面48.1×63.9cm；说明含安条克病因、医生诊断、父亲让妻、1800年代颇受欢迎"
+    },
+    {
+      "id": "cma-1972-19",
+      "title": "Cleveland Museum of Art — Return from the Fields, Jean-François Millet, c. 1846–47, acc. 1972.19",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1972.19",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；布面油画 画面46.2×37.8cm；说明含理想化农民生活、工业化与萧条、1848革命前怀旧；右下署 J. F. Millet"
+    },
+    {
+      "id": "cma-1963-91",
+      "title": "Cleveland Museum of Art — La Cervara, the Roman Campagna, Jean Baptiste Camille Corot, c. 1830–31, acc. 1963.91",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1963.91",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；布面油画 画面97.6×135.8cm；说明含据写生与油画速写、1825-28居罗马、对角线构图、回想普桑古典风景"
     }
   ]
 }

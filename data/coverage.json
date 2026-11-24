@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 532,
+    "total": 536,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -6388,6 +6388,54 @@
     },
     "abelam-yam-mask": {
       "title": "阿贝拉姆山药面具（20世纪）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "constable-branch-hill-pond": {
+      "title": "康斯太勃尔《汉普斯特德的布兰奇山池塘》（1828）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "ingres-antiochus-stratonice": {
+      "title": "安格尔《安条克与斯特拉托尼斯》（约1838）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "millet-return-from-fields": {
+      "title": "米勒《田间归来》（约1846—47）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "corot-la-cervara": {
+      "title": "柯罗《罗马平原的切尔瓦拉》（约1830—31）",
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",

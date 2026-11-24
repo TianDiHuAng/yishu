@@ -1317,7 +1317,8 @@
         "courbet",
         "vermeer",
         "rodin-age-of-bronze",
-        "manet"
+        "manet",
+        "millet-return-from-fields"
       ],
       "sources": [
         "enc-realism-art",
@@ -5642,7 +5643,9 @@
       "related": [
         "romanticism-art",
         "turner",
-        "turner-burning-parliament"
+        "turner-burning-parliament",
+        "constable-branch-hill-pond",
+        "corot-la-cervara"
       ],
       "sources": [
         "cma-artist-constable",
@@ -5674,7 +5677,8 @@
       "overview": "以不加理想化地描绘农民与日常场景著称；1871年参与巴黎公社并因旺多姆圆柱事件被判刑，晚年流亡瑞士。",
       "related": [
         "realism-art",
-        "romanticism-art"
+        "romanticism-art",
+        "millet-return-from-fields"
       ],
       "sources": [
         "cma-artist-courbet",
@@ -5706,7 +5710,8 @@
       "overview": "重视线条与素描，长于肖像与女性裸体；与德拉克洛瓦长期对立，其素描传统影响德加与毕加索。",
       "related": [
         "neoclassicism",
-        "delacroix"
+        "delacroix",
+        "ingres-antiochus-stratonice"
       ],
       "sources": [
         "cma-artist-ingres"
@@ -12393,7 +12398,8 @@
       "related": [
         "turner",
         "constable",
-        "hackert-pozzuoli"
+        "hackert-pozzuoli",
+        "constable-branch-hill-pond"
       ],
       "sources": [
         "cma-1942-647"
@@ -12426,7 +12432,8 @@
       "overview": "以神话探讨理想之爱与肉体现实的冲突；丘比特被画成笨拙少年而非理想少年，取材 Moschus 的希腊诗。",
       "related": [
         "neoclassicism",
-        "paelinck-self-portrait"
+        "paelinck-self-portrait",
+        "ingres-antiochus-stratonice"
       ],
       "sources": [
         "cma-1962-37"
@@ -12459,7 +12466,8 @@
       "overview": "18—19世纪画家云集那不勒斯写火山与古典废墟；细致描摹与极清晰的造型为德国浪漫绘画特征。",
       "related": [
         "neoclassicism",
-        "turner-burning-parliament"
+        "turner-burning-parliament",
+        "corot-la-cervara"
       ],
       "sources": [
         "cma-1983-14"
@@ -18597,6 +18605,138 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='abelam-yam-mask 示意图'><title>abelam-yam-mask</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>阿贝拉姆·20世纪</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>巴布亚新几内亚</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>山药面具</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>47.3cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>男子比赛种山药</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>长逾一米</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>篮编面具装饰展示</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>作物为主角</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>山药面具：给作物戴面具</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（CMA）来源；说明简略，图案含义未述；制作者未记录。"
+    },
+    {
+      "id": "constable-branch-hill-pond",
+      "title": "康斯太勃尔《汉普斯特德的布兰奇山池塘》（1828）",
+      "kind": "作品",
+      "unit": "art-neo-romantic",
+      "era": "19世纪",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "康斯太勃尔布面油画，汉普斯特德风景，克利夫兰艺术博物馆藏（1972.48）。",
+      "when": "1828年",
+      "overview": "康斯太勃尔是业余气象学家，最擅长精细观察云层、天气与自然光；他相信准确再现这些不断变化的因素，就能传达英国乡村的生机与壮丽；此画画于他1819—26年租住的汉普斯特德夏屋，重点放在深色雨云而非前景的劳动者，使其艰辛劳作的细节保持在悦目的远处。",
+      "related": [
+        "constable",
+        "turner-burning-parliament"
+      ],
+      "sources": [
+        "cma-1972-48"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为康斯太勃尔1828年的布面油画《汉普斯特德的布兰奇山池塘》，克利夫兰艺术博物馆藏（1972.48）。该馆说明：画家从1819年到1826年在汉普斯特德租有一间夏屋，此画即在那里作成。",
+        "风格特征": "该馆说明：康斯太勃尔是业余气象学家，最擅长画精细观察到的云层形态、天气状况与自然光效；他相信准确再现这些不断变化的因素，就能传达他对英国乡村生机与壮丽的感受。",
+        "代表人物与作品": "作者为约翰·康斯太勃尔（1776—1837）。相关条目见康斯太勃尔与透纳《上议院与下议院焚毁》。",
+        "技法或形式分析": "材质为布面油画；画面60.6 × 78.1厘米，带框89 × 105.5 × 11.5厘米（据该馆藏品记录）。",
+        "与前后风格的关系和争论": "该馆说明：这幅画更着重深色的雨云，而非前景的劳动者；劳动者艰辛劳作的细节被保持在悦目的远处。本条目据此把它读作「天气为主角」的风景：人物退为背景，云与光成为画面的中心。",
+        "一图": "示意图以夏屋观察、深色雨云为主、劳动者退居远处三者关系标示本作。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）「业余气象学家」与「相信准确再现……」属该馆的概括，未经独立文献印证；（3）画中具体地点与劳动者所做何事，该馆未细述。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='constable-branch-hill-po 示意图'><title>constable-branch-hill-po</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>康斯太勃尔·1828</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>汉普斯特德</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>《布兰奇山池塘》</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>60.6×78.1cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>深色雨云为主</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>天气与光效</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>劳动者退居远处</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>细节悦目化</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>布兰奇山池塘：天气为主角</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；气象学家一说为该馆概括；劳动细节未述。"
+    },
+    {
+      "id": "ingres-antiochus-stratonice",
+      "title": "安格尔《安条克与斯特拉托尼斯》（约1838）",
+      "kind": "作品",
+      "unit": "art-neo-romantic",
+      "era": "19世纪",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "安格尔亚麻布油画，取材古代故事，克利夫兰艺术博物馆藏（1966.13）。",
+      "when": "约1838年",
+      "overview": "安条克患上神秘的病，卧床濒死；其父请来医生，医生发觉年轻女子斯特拉托尼斯一出现他的脉搏就加快，断定病因是激情，便向其父陈述；其父无私地把斯特拉托尼斯让给儿子；该题材既是爱情故事，又是父母之爱的典范，在1800年代很长时间内颇受欢迎。",
+      "related": [
+        "ingres",
+        "david-cupid-psyche"
+      ],
+      "sources": [
+        "cma-1966-13"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为安格尔约1838年的亚麻布油画《安条克与斯特拉托尼斯》，克利夫兰艺术博物馆藏（1966.13）。",
+        "风格特征": "该馆对本件的说明集中在题材而非风格：该馆未在此条记录里评述安格尔的笔法或造型，本条目不作补写。",
+        "代表人物与作品": "作者为让-奥古斯特-多米尼克·安格尔（1780—1867）。相关条目见安格尔与大卫《丘比特与普绪克》。",
+        "技法或形式分析": "材质为亚麻布油画；画面48.1 × 63.9厘米，带框74.5 × 91.5 × 11厘米（据该馆藏品记录）。",
+        "与前后风格的关系和争论": "该馆说明了故事：安条克因神秘的病卧床濒死，伤心的父亲新近娶了斯特拉托尼斯，召来医生；医生注意到年轻女子一出现，安条克的脉搏就加快，断定病因是激情，便把安条克的处境告知其父；父亲无私地把斯特拉托尼斯让给儿子。该馆称该题材既是爱情故事，又是父母之爱的典范，在1800年代很长时间内颇受欢迎。本条目只转述这一题材与流行度。",
+        "一图": "示意图以医生诊断、父亲让妻、题材在1800年代流行三者关系标示本作。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）该馆记录未涉及安格尔的风格、该画在其作品序列中的位置，也未提及与其他同题作品的关系；（3）「约1838年」为约数。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='ingres-antiochus-straton 示意图'><title>ingres-antiochus-straton</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>安格尔·约1838</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>古代题材</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>《安条克与斯特拉托尼斯》</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>48.1×63.9cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>医生诊断</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>病因是激情</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>父亲让妻</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>1800年代流行</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>安条克：爱情与父爱</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；说明只讲题材，未述风格；定年为约数。"
+    },
+    {
+      "id": "millet-return-from-fields",
+      "title": "米勒《田间归来》（约1846—47）",
+      "kind": "作品",
+      "unit": "art-neo-romantic",
+      "era": "19世纪",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "米勒布面油画，农民家庭题材，克利夫兰艺术博物馆藏（1972.19）。",
+      "when": "约1846—1847年",
+      "overview": "这是一幅对高尚农民生活的理想化描绘，作于法国剧烈工业化、经济萧条与农田荒弃之际；1840年代怀旧的农民场景特别受欢迎，与1848年革命中爆发的幻灭与紧张形成鲜明对比；画中家人的脸与形体模糊，使他们成为土地的象征而非个人。",
+      "related": [
+        "realism-art",
+        "courbet"
+      ],
+      "sources": [
+        "cma-1972-19"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为米勒约1846—1847年的布面油画《田间归来》，克利夫兰艺术博物馆藏（1972.19）。该馆说明：此画作于法国剧烈工业化的时期，伴随着经济萧条与农田的荒弃。",
+        "风格特征": "该馆说明：这是一种对高尚农民生活的理想化描绘；画中家人的面孔与形体模糊，使他们成为土地的象征，而不是个人。",
+        "代表人物与作品": "作者为让-弗朗索瓦·米勒（1814—1875）。相关条目见现实主义（艺术）与库尔贝。",
+        "技法或形式分析": "材质为布面油画；画面46.2 × 37.8厘米，带框68 × 60 × 10厘米（据该馆藏品记录）。右下署「J. F. Millet」。",
+        "与前后风格的关系和争论": "该馆说明：怀旧的农民场景在1840年代特别受欢迎，这与随后在1848年革命中猛烈爆发的幻灭与紧张形成鲜明对比。本条目据此把它读作「工业化时代的怀旧」：它把农民理想化为土地的象征，而不描绘具体的人。需注意：本条目虽归入现实主义相关单元，但该馆对本件的描述强调的是「理想化」，而非「写实」。",
+        "一图": "示意图以工业化与萧条、理想化的农民、1848年前的怀旧三者关系标示本作。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）「象征而非个人」属该馆的评述，未经独立评论文献印证；（3）本件与米勒日后以农民为主题的名作之间的关系，该馆未说明。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='millet-return-from-field 示意图'><title>millet-return-from-field</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>米勒·约1846—47</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>法国</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>《田间归来》</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>46.2×37.8cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>理想化的农民生活</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>土地的象征</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>工业化与1848前的怀旧</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>萧条·荒弃</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>田间归来：怀旧的土地象征</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；象征说为该馆评述；与米勒后期作品的关系未述。"
+    },
+    {
+      "id": "corot-la-cervara",
+      "title": "柯罗《罗马平原的切尔瓦拉》（约1830—31）",
+      "kind": "作品",
+      "unit": "art-neo-romantic",
+      "era": "19世纪",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "柯罗布面大幅油画，罗马坎帕尼亚风景，克利夫兰艺术博物馆藏（1963.91）。",
+      "when": "约1830—1831年",
+      "overview": "此画依据户外所作的素描与油画速写完成；柯罗被意大利乡村之美吸引，1825至1828年住在罗马，常在罗马周边写生；画面结构严谨，形体沿一系列对角线向远处推进，是柯罗早期风格的特征，令人想起17世纪画家普桑的古典风景。",
+      "related": [
+        "constable",
+        "hackert-pozzuoli"
+      ],
+      "sources": [
+        "cma-1963-91"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为柯罗约1830—1831年的布面大幅油画《罗马平原的切尔瓦拉》，克利夫兰艺术博物馆藏（1963.91）。该馆说明：柯罗1825至1828年住在罗马，被意大利乡村之美吸引，常在罗马周边写生。",
+        "风格特征": "该馆说明：这幅画的构图高度结构化，形体沿着一系列对角线向远处推进，是柯罗早期风格的特征，令人想起17世纪画家普桑（Nicolas Poussin）的古典风景。",
+        "代表人物与作品": "作者为让·巴蒂斯特·卡米耶·柯罗（1796—1875）。相关条目见康斯太勃尔与哈克特《从索尔法塔拉望波佐利湾》。",
+        "技法或形式分析": "材质为布面油画；画面97.6 × 135.8厘米，带框130 × 167.5 × 9.5厘米（据该馆藏品记录）。该馆说明：这幅大油画依据户外所作的素描与油画速写完成。",
+        "与前后风格的关系和争论": "本条目据该馆说明把握「写生到画室」：先在户外作素描与油画速写，再据此完成大幅作品。该馆把它的结构与普桑的古典风景相联系，这是该馆的比较，本条目只作转述。",
+        "一图": "示意图以户外写生速写、对角线推进的构图、呼应普桑古典风景三者关系标示本作。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）与普桑的呼应属该馆的比较，未经独立文献印证；（3）具体所据的素描与速写，该馆未指明是哪几件。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='corot-la-cervara 示意图'><title>corot-la-cervara</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>柯罗·约1830—31</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>罗马平原</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>《切尔瓦拉》</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>97.6×135.8cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>据户外速写完成</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>1825—28居罗马</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>对角线构图</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>呼应普桑</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>切尔瓦拉：从写生到古典构图</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；普桑比较为该馆观点；所据速写未指明。"
     }
   ]
 }
