@@ -6419,6 +6419,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；描金珐琅玻璃 28.9×25.4cm；说明含剑徽与「安拉之寺」经文"
+    },
+    {
+      "id": "cma-2010-199",
+      "title": "Cleveland Museum of Art — Pipe, Xhosa-style maker(s), 1800s–1900s, acc. 2010.199",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2010.199",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；木、铜、玻璃珠、筋线、皮革 全长20.3cm；说明含母亲背负婴儿用长柄烟斗与祖先/生育关联"
+    },
+    {
+      "id": "cma-2010-205",
+      "title": "Cleveland Museum of Art — Prestige Staff, Tsonga-style or Zulu-style maker, 1800s–1900s, acc. 2010.205",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2010.205",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；木 全长116.8cm；说明含牧牛者行路手杖与身份标示"
+    },
+    {
+      "id": "cma-2018-5",
+      "title": "Cleveland Museum of Art — Totem 01/01-18 (Baga-Batcham-Alunga-Kota), 2018, acc. 2018.5",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2018.5",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；木、玻璃珠、线、胶、硅胶 188×53×38cm；说明含四种经典非洲面具/雕像形式的叠合与分类、商品化批评"
+    },
+    {
+      "id": "cma-2022-49-c",
+      "title": "Cleveland Museum of Art — Royal ceremonial beadwork: pendant, Xhosa-style maker(s), 1800s, acc. 2022.49.c",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2022.49.c",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；玻璃珠、筋线、陶 22.9×7.3cm；说明含威尼斯/波希米亚进口珠、1770—1829年珠作货币"
     }
   ]
 }

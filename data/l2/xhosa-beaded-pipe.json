@@ -1,0 +1,19 @@
+{
+ "id": "xhosa-beaded-pipe",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为南非科萨风格（Xhosa-style）制作者所作长柄烟斗，定年1800年代—1900年代，克利夫兰艺术博物馆藏（2010.199）。",
+  "风格特征": "该馆说明：母亲常用这类长柄烟斗，因为长柄有助于把烟引离背在身后的婴儿。烟斗由男子雕刻，男女皆用；一位女性制作者为其加上串珠流苏，配色为科萨串珠的典型。",
+  "代表人物与作品": "作者未署名（仅记为科萨风格制作者）。相关条目见科萨王室礼仪串珠吊坠与贝宁宫庭铜牌。",
+  "技法或形式分析": "材质为木、铜、玻璃珠、筋线、皮革与线；全长20.3厘米（据该馆藏品记录）。木质烟斗由男子雕刻，串珠流苏由女性制作者另加，一件器物上并存两种性别分工的工艺。",
+  "与前后风格的关系和争论": "该馆说明：流苏下悬挂的微型围裙暗示女性服饰，因而暗示烟斗的女性所有权；吸烟与鼻烟的社交与休闲实践还与祖先及生育观念相关，烟斗在个人与家族间传承，把当下与祖先的过去联系起来。本条目据此把烟斗读作实用器、身份标记与世代纽带的合一。",
+  "一图": "示意图以长柄实用、串珠流苏与微型围裙、祖先传承三者关系标示本烟斗。",
+  "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）具体制作地点与年代只到「1800年代—1900年代」；（3）制作者个人及传承家族未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='xhosa-beaded-pipe 示意图'><title>xhosa-beaded-pipe</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>科萨风格·19—20世纪</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>木·铜·珠</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>串珠烟斗</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>20.3cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>长柄·串珠流苏</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>引烟离婴</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>微型围裙</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>女主人身份</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>科萨烟斗：实用、身份与传承</text></g></svg>",
+ "sources": [
+  "cma-2010-199"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；制作者与传承未记录。"
+}

@@ -2516,7 +2516,8 @@
       "overview": "四王承袭文人画正统，四僧与扬州画派强调个性，花鸟画与金石入画发展。",
       "related": [
         "ming-painting",
-        "china-painting-history"
+        "china-painting-history",
+        "canton-umbrella-mender"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -6321,7 +6322,9 @@
       "related": [
         "benin-ancestral-head",
         "african-art",
-        "nok-terracotta-head"
+        "nok-terracotta-head",
+        "xhosa-beaded-pipe",
+        "xhosa-beadwork-pendant"
       ],
       "sources": [
         "cma-1999-1"
@@ -6354,7 +6357,9 @@
       "overview": "新王为先王设祭坛时所铸；珊瑚珠层叠于颈，面部理想化，厚铸的头部原承象牙。",
       "related": [
         "benin-plaque",
-        "african-art"
+        "african-art",
+        "southern-african-prestige-staff",
+        "totem-01-01-18"
       ],
       "sources": [
         "cma-1938-6"
@@ -14600,6 +14605,7 @@
       "when": "约1790年",
       "overview": "百幅「中国工匠与行业」组画之一；中景黑衣匠人坐于三脚架撑开的伞旁；为欧人了解中国而作。",
       "related": [
+        "qing-painting",
         "japanese-art"
       ],
       "sources": [
@@ -18037,6 +18043,140 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='mamluk-lamp-1320 示意图'><title>mamluk-lamp-1320</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>马穆鲁克·1320—30</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>玻璃珐琅</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>Qijlis 灯</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>28.9cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>剑徽</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>军械师</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>供灯＝虔诚</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>仪式经济</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>Qijlis 灯：剑徽、经文与虔诚</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（V&A）来源；summary 截断；原寺未记录。"
+    },
+    {
+      "id": "xhosa-beaded-pipe",
+      "title": "科萨风格串珠烟斗（19—20世纪）",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "19—20世纪",
+      "region": "非洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "南非科萨风格木制长柄烟斗，饰铜、玻璃珠与皮革，克利夫兰艺术博物馆藏（2010.199）。",
+      "when": "1800年代—1900年代",
+      "overview": "长柄便于母亲背着婴儿时把烟引开；男子雕刻、女性制作者加串珠流苏，配色为科萨串珠的典型；流苏下悬一件微型围裙，暗示女主人身份。",
+      "related": [
+        "xhosa-beadwork-pendant",
+        "benin-plaque",
+        "southern-african-prestige-staff"
+      ],
+      "sources": [
+        "cma-2010-199"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为南非科萨风格（Xhosa-style）制作者所作长柄烟斗，定年1800年代—1900年代，克利夫兰艺术博物馆藏（2010.199）。",
+        "风格特征": "该馆说明：母亲常用这类长柄烟斗，因为长柄有助于把烟引离背在身后的婴儿。烟斗由男子雕刻，男女皆用；一位女性制作者为其加上串珠流苏，配色为科萨串珠的典型。",
+        "代表人物与作品": "作者未署名（仅记为科萨风格制作者）。相关条目见科萨王室礼仪串珠吊坠与贝宁宫庭铜牌。",
+        "技法或形式分析": "材质为木、铜、玻璃珠、筋线、皮革与线；全长20.3厘米（据该馆藏品记录）。木质烟斗由男子雕刻，串珠流苏由女性制作者另加，一件器物上并存两种性别分工的工艺。",
+        "与前后风格的关系和争论": "该馆说明：流苏下悬挂的微型围裙暗示女性服饰，因而暗示烟斗的女性所有权；吸烟与鼻烟的社交与休闲实践还与祖先及生育观念相关，烟斗在个人与家族间传承，把当下与祖先的过去联系起来。本条目据此把烟斗读作实用器、身份标记与世代纽带的合一。",
+        "一图": "示意图以长柄实用、串珠流苏与微型围裙、祖先传承三者关系标示本烟斗。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）具体制作地点与年代只到「1800年代—1900年代」；（3）制作者个人及传承家族未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='xhosa-beaded-pipe 示意图'><title>xhosa-beaded-pipe</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>科萨风格·19—20世纪</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>木·铜·珠</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>串珠烟斗</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>20.3cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>长柄·串珠流苏</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>引烟离婴</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>微型围裙</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>女主人身份</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>科萨烟斗：实用、身份与传承</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；制作者与传承未记录。"
+    },
+    {
+      "id": "southern-african-prestige-staff",
+      "title": "南部非洲权杖（楚松加或祖鲁风格）",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "19—20世纪",
+      "region": "非洲",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "南非楚松加或祖鲁风格的整木权杖，克利夫兰艺术博物馆藏（2010.205）。",
+      "when": "1800年代—1900年代",
+      "overview": "用途首先是实用：牧民随牛群迁徙时的行路伴侣；杖身之高标示持有者的地位或职能；球形杖头与螺旋段、链环几何纹显示工匠技艺。",
+      "related": [
+        "xhosa-beaded-pipe",
+        "benin-ancestral-head",
+        "totem-01-01-18"
+      ],
+      "sources": [
+        "cma-2010-205"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为南非楚松加风格（Tsonga-style）或祖鲁风格（Zulu-style）制作者所作权杖，定年1800年代—1900年代，克利夫兰艺术博物馆藏（2010.205）。",
+        "风格特征": "该馆说明：这类长杖的首要用途纯属实用——牧民带着牛群长途寻找新牧场时，它是行路的伴侣。杖身之高标示持有者的崇高地位或特殊职能。",
+        "代表人物与作品": "作者未署名。相关条目见科萨风格串珠烟斗与贝宁祖灵纪念头像。",
+        "技法或形式分析": "材质为木，整杖由一块木头雕成，全长116.8厘米（据该馆藏品记录）。该馆指出：球形杖头，以及杖身上由螺旋段与链环构成的几何装饰，显示制作者的高超技艺。",
+        "与前后风格的关系和争论": "本条目据该馆说明把握「实用器即地位器」：同一件长杖既是牧民的行路工具，又以高度与雕饰标示拥有者的身份。归属上该馆记为楚松加或祖鲁风格二者之一，本条目不代为取舍。",
+        "一图": "示意图以整木雕成、杖头与几何杖身、实用与地位并存三者关系标示本权杖。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）归属楚松加还是祖鲁风格该馆未定；（3）持有者与具体用途语境未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='southern-african-prestig 示意图'><title>southern-african-prestig</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>楚松加或祖鲁风格</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>19—20世纪</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>权杖</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>116.8cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>整木雕成</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>球形杖头</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>行路实用·地位</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>高度标示</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>权杖：实用与地位并存</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；楚松加/祖鲁归属未定。"
+    },
+    {
+      "id": "totem-01-01-18",
+      "title": "《图腾 01/01-18》（巴加—巴查姆—阿伦加—科塔，2018）",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "21世纪",
+      "region": "非洲",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "喀麦隆当代艺术家以四种经典非洲面具与雕像形式叠合的木雕，克利夫兰艺术博物馆藏（2018.5）。",
+      "when": "2018年",
+      "overview": "科塔—马洪圭守护像坐于巴查姆 tsesah 面具之上，面具背后是本贝阿伦加社团面具，底座为巴加 d’mba 头饰；以叠合挑战分类、商品化与市场/博物馆的价值体系。",
+      "related": [
+        "benin-ancestral-head",
+        "southern-african-prestige-staff"
+      ],
+      "sources": [
+        "cma-2018-5"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为2018年的当代木雕，喀麦隆（中非）相关作品，克利夫兰艺术博物馆藏（2018.5）。条目所称艺术家姓名该记录字段未在本条目取用，不代为补写。",
+        "风格特征": "该馆说明：这是一件出色的作品，借用历史上非洲艺术的惯例符码，对分类学、商品化、身份认同，以及支撑非洲艺术在市场与博物馆中的价值体系提出颠覆性论证。",
+        "代表人物与作品": "作品把四种经典的非洲面具与雕像形式叠合：科塔—马洪圭（Kota-Mahongwe）守护像坐于喀麦隆草原地区巴查姆（Batcham）的 tsesah 面具之上；该面具背面是本贝（Bembe）阿伦加（Alunga）社团面具；最底部是来自几内亚或几内亚比绍的巴加（Baga）d’mba 头饰。相关条目见贝宁祖灵纪念头像与南部非洲权杖。",
+        "技法或形式分析": "材质为木、玻璃珠、线、胶与硅胶黏合剂；整体188 × 53 × 38厘米（据该馆藏品记录）。四种形式自下而上垒成一座耸立的上部结构。",
+        "与前后风格的关系和争论": "本条目据该馆说明把握「以经典反经典」：它并置来自不同地区与族群的名作形式，使观者意识到「非洲艺术」作为分类本身是一种建构，并把市场与博物馆的价值体系置于被审视的位置。评价性判断（如「出色」）出自该馆说明，本条目只作转述。",
+        "一图": "示意图以四种经典形式叠合、分类与商品化批评、市场与博物馆价值体系三者关系标示本作。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）创作者个人信息、创作语境与展览史未取得；（3）该馆的评价性论述未经独立评论文献印证。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='totem-01-01-18 示意图'><title>totem-01-01-18</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>当代·2018</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>木·玻璃珠</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>Totem 01/01-</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>188cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>四种经典形式叠合</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>科塔·巴查姆·阿伦加·巴加</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>分类与商品化批评</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>市场·博物馆</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>图腾：叠合经典，质询分类</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；创作者与语境未取得；评价性说明未经独立印证。"
+    },
+    {
+      "id": "xhosa-beadwork-pendant",
+      "title": "科萨王室礼仪串珠吊坠（19世纪）",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "19世纪",
+      "region": "非洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "南非东南开普地区科萨风格玻璃珠吊坠，克利夫兰艺术博物馆藏（2022.49.c）。",
+      "when": "1800年代",
+      "overview": "精英女性在节庆场合穿戴的串珠服饰，几乎全用进口威尼斯或波希米亚玻璃珠，是明确的地位象征；制作者选用色泽形状大小一致的上等珠。",
+      "related": [
+        "xhosa-beaded-pipe",
+        "benin-plaque"
+      ],
+      "sources": [
+        "cma-2022-49-c"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为南非东南开普地区（Southeast Cape Region）科萨风格女性制作者所作王室礼仪串珠吊坠，定年1800年代，克利夫兰艺术博物馆藏（2022.49.c）。",
+        "风格特征": "该馆说明：科萨精英女性曾在节庆场合穿戴这类串珠服饰，它们几乎完全以进口的威尼斯或波希米亚玻璃珠制成，是公开的地位象征。",
+        "代表人物与作品": "制作者为不知名的科萨风格女性。该馆指出本件与一件燕尾形围裙（CMA 2010.206）同属一套，围裙穿在裙下。相关条目见科萨风格串珠烟斗与贝宁宫庭铜牌。",
+        "技法或形式分析": "材质为玻璃珠、筋线与陶；整体22.9 × 7.3厘米（据该馆藏品记录）。该馆说明：制作者精选色泽、形状与大小都一致的最上等珠子。",
+        "与前后风格的关系和争论": "该馆说明：约1770至1829年间，进口珠对科萨人起货币作用。本条目据此把串珠读作材料即财富：珠子既是装饰，又是可兑换的价值，故精英服饰以大量上等进口珠为地位标志。",
+        "一图": "示意图以进口玻璃珠、精选一致的珠、地位象征与货币功能三者关系标示本吊坠。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）该馆说明称珠为「威尼斯或波希米亚」，未能进一步区分；（3）具体穿戴者与场合未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='xhosa-beadwork-pendant 示意图'><title>xhosa-beadwork-pendant</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>科萨风格·19世纪</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>东南开普</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>串珠吊坠</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>22.9cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>进口玻璃珠</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>威尼斯/波希米亚</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>地位·货币</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>1770—1829</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>串珠吊坠：进口珠即地位与价值</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；珠源产地未细分；穿戴者未记录。"
     }
   ]
 }

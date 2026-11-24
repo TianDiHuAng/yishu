@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 516,
+    "total": 520,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -6197,6 +6197,54 @@
     "mamluk-lamp-1320": {
       "title": "Qijlis 清真寺灯（1320—30）",
       "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "xhosa-beaded-pipe": {
+      "title": "科萨风格串珠烟斗（19—20世纪）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "southern-african-prestige-staff": {
+      "title": "南部非洲权杖（楚松加或祖鲁风格）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "totem-01-01-18": {
+      "title": "《图腾 01/01-18》（巴加—巴查姆—阿伦加—科塔，2018）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "xhosa-beadwork-pendant": {
+      "title": "科萨王室礼仪串珠吊坠（19世纪）",
+      "tier": "重要",
       "level": "L2",
       "status": "written_l2",
       "sources_count": 1,

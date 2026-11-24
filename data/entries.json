@@ -1482,7 +1482,8 @@
       "overview": "四王承袭文人画正统，四僧与扬州画派强调个性，花鸟画与金石入画发展。",
       "related": [
         "ming-painting",
-        "china-painting-history"
+        "china-painting-history",
+        "canton-umbrella-mender"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -3928,7 +3929,9 @@
       "related": [
         "benin-ancestral-head",
         "african-art",
-        "nok-terracotta-head"
+        "nok-terracotta-head",
+        "xhosa-beaded-pipe",
+        "xhosa-beadwork-pendant"
       ],
       "sources": [
         "cma-1999-1"
@@ -3948,7 +3951,9 @@
       "overview": "新王为先王设祭坛时所铸；珊瑚珠层叠于颈，面部理想化，厚铸的头部原承象牙。",
       "related": [
         "benin-plaque",
-        "african-art"
+        "african-art",
+        "southern-african-prestige-staff",
+        "totem-01-01-18"
       ],
       "sources": [
         "cma-1938-6"
@@ -9061,6 +9066,7 @@
       "when": "约1790年",
       "overview": "百幅「中国工匠与行业」组画之一；中景黑衣匠人坐于三脚架撑开的伞旁；为欧人了解中国而作。",
       "related": [
+        "qing-painting",
         "japanese-art"
       ],
       "sources": [
@@ -11158,6 +11164,88 @@
       ],
       "sources": [
         "vam-o1502"
+      ]
+    },
+    {
+      "id": "xhosa-beaded-pipe",
+      "title": "科萨风格串珠烟斗（19—20世纪）",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "19—20世纪",
+      "region": "非洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "南非科萨风格木制长柄烟斗，饰铜、玻璃珠与皮革，克利夫兰艺术博物馆藏（2010.199）。",
+      "when": "1800年代—1900年代",
+      "overview": "长柄便于母亲背着婴儿时把烟引开；男子雕刻、女性制作者加串珠流苏，配色为科萨串珠的典型；流苏下悬一件微型围裙，暗示女主人身份。",
+      "related": [
+        "xhosa-beadwork-pendant",
+        "benin-plaque",
+        "southern-african-prestige-staff"
+      ],
+      "sources": [
+        "cma-2010-199"
+      ]
+    },
+    {
+      "id": "southern-african-prestige-staff",
+      "title": "南部非洲权杖（楚松加或祖鲁风格）",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "19—20世纪",
+      "region": "非洲",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "南非楚松加或祖鲁风格的整木权杖，克利夫兰艺术博物馆藏（2010.205）。",
+      "when": "1800年代—1900年代",
+      "overview": "用途首先是实用：牧民随牛群迁徙时的行路伴侣；杖身之高标示持有者的地位或职能；球形杖头与螺旋段、链环几何纹显示工匠技艺。",
+      "related": [
+        "xhosa-beaded-pipe",
+        "benin-ancestral-head",
+        "totem-01-01-18"
+      ],
+      "sources": [
+        "cma-2010-205"
+      ]
+    },
+    {
+      "id": "totem-01-01-18",
+      "title": "《图腾 01/01-18》（巴加—巴查姆—阿伦加—科塔，2018）",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "21世纪",
+      "region": "非洲",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "喀麦隆当代艺术家以四种经典非洲面具与雕像形式叠合的木雕，克利夫兰艺术博物馆藏（2018.5）。",
+      "when": "2018年",
+      "overview": "科塔—马洪圭守护像坐于巴查姆 tsesah 面具之上，面具背后是本贝阿伦加社团面具，底座为巴加 d’mba 头饰；以叠合挑战分类、商品化与市场/博物馆的价值体系。",
+      "related": [
+        "benin-ancestral-head",
+        "southern-african-prestige-staff"
+      ],
+      "sources": [
+        "cma-2018-5"
+      ]
+    },
+    {
+      "id": "xhosa-beadwork-pendant",
+      "title": "科萨王室礼仪串珠吊坠（19世纪）",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "19世纪",
+      "region": "非洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "南非东南开普地区科萨风格玻璃珠吊坠，克利夫兰艺术博物馆藏（2022.49.c）。",
+      "when": "1800年代",
+      "overview": "精英女性在节庆场合穿戴的串珠服饰，几乎全用进口威尼斯或波希米亚玻璃珠，是明确的地位象征；制作者选用色泽形状大小一致的上等珠。",
+      "related": [
+        "xhosa-beaded-pipe",
+        "benin-plaque"
+      ],
+      "sources": [
+        "cma-2022-49-c"
       ]
     }
   ]

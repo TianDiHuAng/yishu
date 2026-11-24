@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 516 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 520 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -536,6 +536,10 @@
 | chi-wara-headdress | Bamana chi wara 头饰 | 作品 | 20世纪 | 非洲 | 雕塑 | 核心 | O1 |
 | esu-dance-staff | 约鲁巴 Èṣù 舞杖（Ògò Èlégba） | 作品 | 19世纪 | 非洲 | 雕塑 | 核心 | O1 |
 | kuofo-prestige-stool | Bamileke 珠饰「Kuo fo」凳 | 作品 | 19世纪 | 非洲 | 综合 | 核心 | O1 |
+| xhosa-beaded-pipe | 科萨风格串珠烟斗（19—20世纪） | 作品 | 19—20世纪 | 非洲 | 综合 | 重要 | O1 |
+| southern-african-prestige-staff | 南部非洲权杖（楚松加或祖鲁风格） | 作品 | 19—20世纪 | 非洲 | 雕塑 | 重要 | O1 |
+| totem-01-01-18 | 《图腾 01/01-18》（巴加—巴查姆—阿伦加—科塔，2018） | 作品 | 21世纪 | 非洲 | 雕塑 | 重要 | O1 |
+| xhosa-beadwork-pendant | 科萨王室礼仪串珠吊坠（19世纪） | 作品 | 19世纪 | 非洲 | 综合 | 重要 | O1 |
 
 ## art-americas（美洲原住民与前哥伦布艺术）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
