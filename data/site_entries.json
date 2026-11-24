@@ -7688,7 +7688,9 @@
       "overview": "所谓 chief’s blanket 实为**误称**——Diné 并无酋长；1860年代 Bosque Redondo 囚禁后土著贸易网络崩解，织者转向外来收藏市场。",
       "related": [
         "navajo-hubbell-rug",
-        "americas-art"
+        "americas-art",
+        "lakota-hide-shirt",
+        "cheyenne-blanket-strip"
       ],
       "sources": [
         "cma-1937-903"
@@ -7722,7 +7724,9 @@
       "related": [
         "hopi-kachina-painting",
         "americas-art",
-        "sikyatki-jar"
+        "sikyatki-jar",
+        "lakota-hide-shirt",
+        "lakota-storage-bag"
       ],
       "sources": [
         "cma-1937-708"
@@ -7790,7 +7794,8 @@
       "overview": "由两片相同织片在侧缝与肩部相接；据当代织者 D. Y. Begay 转述，biil’éé 承载灵力、护佑并记述审美故事。",
       "related": [
         "navajo-hubbell-rug",
-        "tlingit-totem-pole"
+        "tlingit-totem-pole",
+        "lakota-cradle"
       ],
       "sources": [
         "cma-1929-921"
@@ -18177,6 +18182,141 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='xhosa-beadwork-pendant 示意图'><title>xhosa-beadwork-pendant</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>科萨风格·19世纪</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>东南开普</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>串珠吊坠</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>22.9cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>进口玻璃珠</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>威尼斯/波希米亚</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>地位·货币</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>1770—1829</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>串珠吊坠：进口珠即地位与价值</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（CMA）来源；珠源产地未细分；穿戴者未记录。"
+    },
+    {
+      "id": "lakota-hide-shirt",
+      "title": "拉科塔彩绘皮衬衫（约1890）",
+      "kind": "作品",
+      "unit": "art-americas",
+      "era": "19世纪",
+      "region": "北美洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "大平原拉科塔（苏族）皮、颜料、玻璃珠与人发制成的衬衫，克利夫兰艺术博物馆藏（1984.1046）。",
+      "when": "约1890年",
+      "overview": "传统上只有拉科塔首席酋长有权穿彩绘衬衫，是以牺牲与勇敢赢得、失职即失去的荣誉；此件作于保留地时期，已成战争老兵的特权；人发束每束代表一次战功，多半由家人捐出。",
+      "related": [
+        "hopi-canteen-katsina",
+        "navajo-chief-blanket-rug",
+        "lakota-cradle",
+        "cheyenne-blanket-strip"
+      ],
+      "sources": [
+        "cma-1984-1046"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为拉科塔（Lakota，苏族）彩绘皮衬衫，约1890年，克利夫兰艺术博物馆藏（1984.1046）。该馆说明：此时欧裔美国人已把拉科塔人限制在保留地内。",
+        "风格特征": "该馆说明：传统上只有拉科塔的首席酋长有权穿彩绘衬衫，这项荣誉要靠牺牲与勇敢赢得，若未尽责任便会失去。",
+        "代表人物与作品": "作者未署名。相关条目见霍皮带 Katsina 面容水壶与纳瓦霍「酋长毯」样式地毯。",
+        "技法或形式分析": "材质为皮、颜料、玻璃珠与人发；整体97.8 × 150厘米（据该馆藏品记录）。该馆说明：衬衫上的发束很可能由家人捐出，每一束代表一次战功。",
+        "与前后风格的关系和争论": "该馆说明：到本件制作时，彩绘衬衫已成为战争老兵的特权，而不再属于在役武士。本条目据此把它读作「权利随时代变化」的实例：同一件器物，从酋长的责任之荣，转为保留地时期对战功的追认。入藏前的来源记录该馆标注为「待更新」，本条目不代为补写。",
+        "一图": "示意图以酋长特权、战功人发、保留地时期三者关系标示本衬衫。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）入藏前来源该馆标注待更新；（3）制作者与具体持有者未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='lakota-hide-shirt 示意图'><title>lakota-hide-shirt</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>拉科塔·约1890</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>保留地时期</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>彩绘皮衬衫</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>皮·珠·人发</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>酋长特权</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>牺牲与勇敢</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>老兵之荣</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>发束记战功</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>皮衬衫：特权随时代转移</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；入藏前来源待更新；制作者未记录。"
+    },
+    {
+      "id": "lakota-cradle",
+      "title": "拉科塔珠饰摇篮（约1900）",
+      "kind": "作品",
+      "unit": "art-americas",
+      "era": "19—20世纪",
+      "region": "北美洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "大平原拉科塔鞣皮与玻璃珠制婴儿背袋，克利夫兰艺术博物馆藏（1984.1047）。",
+      "when": "约1900年",
+      "overview": "平原各族重视华美的刺绣或珠饰摇篮：既赐婴儿以精神福佑，也给家庭与制作者（通常为女性亲属）带来声望；制作摇篮被视同「触敌」之勇；此件为抱在臂中，另有木架可靠放。",
+      "related": [
+        "lakota-hide-shirt",
+        "navajo-biilee-dress",
+        "lakota-storage-bag"
+      ],
+      "sources": [
+        "cma-1984-1047"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为拉科塔（苏族）婴儿摇篮或背袋，约1900年，克利夫兰艺术博物馆藏（1984.1047）。",
+        "风格特征": "该馆说明：平原许多民族都珍视华美的刺绣或珠饰摇篮，认为它能赐予婴儿精神上的益处，并为家庭与制作者（通常是女性亲属）带来声望与荣誉。",
+        "代表人物与作品": "作者未署名。相关条目见拉科塔彩绘皮衬衫与纳瓦霍两片式女装。",
+        "技法或形式分析": "材质为鞣皮、棉布、玻璃珠、金属珠、铜铃、筋线与棉线；整体24.1 × 25.4 × 85.7厘米（据该馆藏品记录）。该馆说明：本件用于抱在臂中，另有一些摇篮带木架，可靠在沙发或树等物体上，以助婴儿融入社群。",
+        "与前后风格的关系和争论": "该馆说明：无论今昔，制作这样的摇篮常被视同「触敌」（counting coup）——男子的最高勇敢之举，即用一根触敌棒触碰敌人。本条目据此把摇篮读作女性手工与男性勇武并置于同一荣誉体系的实例。",
+        "一图": "示意图以精神福佑、家庭与制作者的声望、等同触敌之勇三者关系标示本摇篮。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）该馆只记为「平原、拉科塔」，未说明更细的地点；（3）制作者与家族未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='lakota-cradle 示意图'><title>lakota-cradle</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>拉科塔·约1900</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>平原</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>珠饰摇篮</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>85.7cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>精神福佑</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>赐予婴儿</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>声望·触敌之勇</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>家庭与制作者</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>摇篮：手工即荣誉</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；制作者未记录。"
+    },
+    {
+      "id": "cheyenne-blanket-strip",
+      "title": "夏安珠饰毯条（约1900）",
+      "kind": "作品",
+      "unit": "art-americas",
+      "era": "19—20世纪",
+      "region": "北美洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "大平原夏安（Tsitsistas）鞣皮、玻璃珠、黄色贸易布与铜珠的毯条，克利夫兰艺术博物馆藏（1927.260）。",
+      "when": "约1900年",
+      "overview": "兽皮袍常以刺绣或珠饰条装点，后来也缝在替代袍子的毯上；此条的圆中十字象征世界、四方与神圣中心；该馆引用奥格拉拉拉科塔圣者黑麋鹿1932年的话说明圆的世界观。",
+      "related": [
+        "lakota-hide-shirt",
+        "navajo-chief-blanket-rug"
+      ],
+      "sources": [
+        "cma-1927-260"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为夏安（Tsitsistas，Cheyenne）珠饰毯条，约1900年，克利夫兰艺术博物馆藏（1927.260）。",
+        "风格特征": "该馆说明：兽皮袍是平原服饰的基本件，常用刺绣或珠饰条装点；这类条饰也缝在后来取代皮袍的毯子上。本条的圆中十字象征世界、四方与神圣的中心，这些观念对平原世界观至关重要。",
+        "代表人物与作品": "作者未署名。相关条目见拉科塔彩绘皮衬衫与纳瓦霍「酋长毯」样式地毯。",
+        "技法或形式分析": "材质为鞣皮、玻璃珠、黄色贸易布、铜珠与筋线；整体182.9 × 13厘米（据该馆藏品记录）。",
+        "与前后风格的关系和争论": "该馆援引奥格拉拉拉科塔圣者黑麋鹿（Black Elk）1932年的话：世界的力量总以圆运行，圆的四方滋养着花开的树。本条目据此把圆中十字读作世界观的图式，而不另作引申。毯条取代皮袍饰条的更替，该馆只作概述，未给出年代。",
+        "一图": "示意图以珠饰毯条、圆中十字、世界与四方三者关系标示本作。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）本条用夏安名称，该馆同时引用拉科塔人的话作世界观旁证，二者并非同一民族，不可混作一谈；（3）制作者未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cheyenne-blanket-strip 示意图'><title>cheyenne-blanket-strip</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>夏安·约1900</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>平原</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>珠饰毯条</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>182.9cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>圆中十字</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>世界·四方</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>神圣中心</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>黑麋鹿引语</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>毯条：圆即世界</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；引语出自拉科塔圣者，非夏安；制作者未记录。"
+    },
+    {
+      "id": "lakota-storage-bag",
+      "title": "拉科塔储物袋（19世纪末）",
+      "kind": "作品",
+      "unit": "art-americas",
+      "era": "19世纪",
+      "region": "北美洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "大平原拉科塔鞣皮、玻璃珠、染马毛与锡锥制成的储物袋，克利夫兰艺术博物馆藏（1937.850）。",
+      "when": "1800年代末",
+      "overview": "长方软皮袋，早期白人商人称之为「possible bag」（什么都装得下）；在帐内存放私物并兼作枕头，迁徙时挂在马鞍侧面，装饰随之展示。",
+      "related": [
+        "lakota-cradle",
+        "hopi-canteen-katsina"
+      ],
+      "sources": [
+        "cma-1937-850"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为拉科塔（苏族）储物袋，定年1800年代末，克利夫兰艺术博物馆藏（1937.850）。",
+        "风格特征": "该馆说明：这类用软皮制成的长方形袋，早期白人商人称之为「possible bag」，因为它能装「任何可能的东西」。",
+        "代表人物与作品": "作者未署名。相关条目见拉科塔摇篮与霍皮带 Katsina 面容水壶。",
+        "技法或形式分析": "材质为鞣皮、玻璃珠、染色马毛、锡锥与筋线；高38.8厘米（据该馆藏品记录）。",
+        "与前后风格的关系和争论": "该馆说明：此类袋子用于存放帐内的私人物品，并兼作枕头；迁徙时挂在马鞍一侧，其装饰也随之供人欣赏。本条目据此把它读作「居所内的收纳」与「路上的展示」合一的器物。",
+        "一图": "示意图以软皮长方袋、帐内收纳兼枕、鞍侧展示三者关系标示本袋。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）定年仅到「1800年代末」；（3）制作者与使用者未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='lakota-storage-bag 示意图'><title>lakota-storage-bag</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>拉科塔·1800年代末</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>平原</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>储物袋</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>38.8cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>帐内收纳·枕</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>私人物品</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>鞍侧展示</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>迁徙时</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>储物袋：收纳与展示</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；定年只到1800年代末；制作者未记录。"
     }
   ]
 }

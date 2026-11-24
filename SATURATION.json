@@ -1813,6 +1813,18 @@
       },
       "network": "V&A",
       "verdict": "art-islamic 45→49（总516）；未饱和"
+    },
+    {
+      "cycle": "cycle149",
+      "date": "2026-11-24",
+      "methods_used": [
+        "北美平原原住民"
+      ],
+      "gaps_found": {
+        "entries": 4
+      },
+      "network": "CMA",
+      "verdict": "art-americas +4（总524）；未饱和"
     }
   ],
   "assessment_c33": {

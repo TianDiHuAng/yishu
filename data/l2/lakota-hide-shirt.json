@@ -1,0 +1,19 @@
+{
+ "id": "lakota-hide-shirt",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为拉科塔（Lakota，苏族）彩绘皮衬衫，约1890年，克利夫兰艺术博物馆藏（1984.1046）。该馆说明：此时欧裔美国人已把拉科塔人限制在保留地内。",
+  "风格特征": "该馆说明：传统上只有拉科塔的首席酋长有权穿彩绘衬衫，这项荣誉要靠牺牲与勇敢赢得，若未尽责任便会失去。",
+  "代表人物与作品": "作者未署名。相关条目见霍皮带 Katsina 面容水壶与纳瓦霍「酋长毯」样式地毯。",
+  "技法或形式分析": "材质为皮、颜料、玻璃珠与人发；整体97.8 × 150厘米（据该馆藏品记录）。该馆说明：衬衫上的发束很可能由家人捐出，每一束代表一次战功。",
+  "与前后风格的关系和争论": "该馆说明：到本件制作时，彩绘衬衫已成为战争老兵的特权，而不再属于在役武士。本条目据此把它读作「权利随时代变化」的实例：同一件器物，从酋长的责任之荣，转为保留地时期对战功的追认。入藏前的来源记录该馆标注为「待更新」，本条目不代为补写。",
+  "一图": "示意图以酋长特权、战功人发、保留地时期三者关系标示本衬衫。",
+  "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）入藏前来源该馆标注待更新；（3）制作者与具体持有者未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='lakota-hide-shirt 示意图'><title>lakota-hide-shirt</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>拉科塔·约1890</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>保留地时期</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>彩绘皮衬衫</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>皮·珠·人发</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>酋长特权</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>牺牲与勇敢</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>老兵之荣</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>发束记战功</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>皮衬衫：特权随时代转移</text></g></svg>",
+ "sources": [
+  "cma-1984-1046"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；入藏前来源待更新；制作者未记录。"
+}

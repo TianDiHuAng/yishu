@@ -6459,6 +6459,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；玻璃珠、筋线、陶 22.9×7.3cm；说明含威尼斯/波希米亚进口珠、1770—1829年珠作货币"
+    },
+    {
+      "id": "cma-1984-1046",
+      "title": "Cleveland Museum of Art — Hide Shirt, Lakota Sioux, c. 1890, acc. 1984.1046",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1984.1046",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；皮、颜料、玻璃珠、人发 97.8×150cm；说明含酋长特权、战功人发、保留地时期"
+    },
+    {
+      "id": "cma-1984-1047",
+      "title": "Cleveland Museum of Art — Cradle or Baby Carrier, Lakota (Sioux), c. 1900, acc. 1984.1047",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1984.1047",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；鞣皮、棉布、玻璃珠、金属珠、铜铃、筋线 24.1×25.4×85.7cm；说明含精神福佑与触敌之勇"
+    },
+    {
+      "id": "cma-1927-260",
+      "title": "Cleveland Museum of Art — Blanket Strip, Tsitsistas (Cheyenne), c. 1900, acc. 1927.260",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1927.260",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；鞣皮、玻璃珠、黄色贸易布、铜珠、筋线 182.9×13cm；说明含十字圆圈图案与黑麋鹿引语"
+    },
+    {
+      "id": "cma-1937-850",
+      "title": "Cleveland Museum of Art — Storage Bag, Lakota (Sioux), late 1800s, acc. 1937.850",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1937.850",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；鞣皮、玻璃珠、染马毛、锡锥、筋线 高38.8cm；说明含 possible bag 与帐内枕用"
     }
   ]
 }
