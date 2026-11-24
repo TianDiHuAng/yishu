@@ -1,0 +1,19 @@
+{
+ "id": "netsuke-dancer",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为日本**18世纪**木雕**根付（netsuke）**——雕一舞者，V&A 藏（O492598）。",
+  "风格特征": "该馆说明其**功能**：根付是**坠钮（toggle）**；日本男子用根付**以丝绳把各种袋与容器悬于腰带**。",
+  "代表人物与作品": "作者未署名。相关条目见印笼与刀镡。本件为 V&A 藏品（O492598）。",
+  "技法或形式分析": "材质为**木雕**；尺寸3.18 × 5.08厘米（据该馆记录）。该馆给出**严苛的多重约束**：根付须**小而不太重**，却又**足够有体积**以尽其用；须**紧凑、无尖锐突出棱**，又须**坚固耐磨**；**最重要的**是**要有系绳的构造**——本例即在……处有一对**孔（himotoshi）**（记录在「on th…」处**截断**，本条目**不补写**孔的具体位置）。",
+  "与前后风格的关系和争论": "本条目据该馆说明把「小器」放在**功能—身体**的框架：根付的形态由**腰带悬挂系统**决定（重量、体积、无棱、系孔），雕刻题材（舞者）只是在此约束内的表现。",
+  "一图": "示意图以坠钮功能、无棱耐磨与系绳孔（himotoshi）三者关系标示本件。",
+  "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）该馆 summary 在「on th…」处**截断，未补写**孔位；（3）作者/流派未记录；（4）舞者题材的寓意未展开。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='netsuke-dancer 示意图'><title>netsuke-dancer</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>日本·18世纪</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>木雕</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>舞者根付</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>5.08cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>坠钮功能</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>腰带悬挂</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>himotoshi</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>系绳孔</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>根付：功能、约束与系孔</text></g></svg>",
+ "sources": [
+  "vam-o492598"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（V&A）来源；summary 截断；作者未记录。"
+}

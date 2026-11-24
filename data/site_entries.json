@@ -12968,7 +12968,11 @@
       "overview": "分层容器；和服无口袋，男子以丝绳与根付悬于腰带；原盛印章或药；一面持枪男子，一面倒挂猴捕蟹。",
       "related": [
         "korean-celadon-bottle",
-        "japanese-art"
+        "japanese-art",
+        "netsuke-dancer",
+        "tsuba-shakudo",
+        "inro-autumn-plants",
+        "nagasaki-writing-box"
       ],
       "sources": [
         "vam-o76242"
@@ -14493,7 +14497,8 @@
       "overview": "盖面绘京都御所场景（天皇居高台、朝臣晋见、宫门与牛车）；盒盖内侧铭 Maria van Diemen（荷属东印度总督之妻）；京都特制经出岛由荷兰商船外销。",
       "related": [
         "japanese-art",
-        "tami-bowl"
+        "tami-bowl",
+        "nagasaki-writing-box"
       ],
       "sources": [
         "vam-o18899"
@@ -15549,6 +15554,139 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='japan-miraculous-origins 示意图'><title>japan-miraculous-origins</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>镰仓·1300年代初</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>绘卷</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>缘起绘卷（卷二）</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1232cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>良忍·念佛</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>教义</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>长卷时间性</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>阅读</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>缘起绘卷：传记、教义与阅读</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（CMA）来源；作者与年代未细化；卷一未记录。"
+    },
+    {
+      "id": "netsuke-dancer",
+      "title": "木雕舞者根付",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "18世纪",
+      "region": "东亚",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "日本木雕根付，维多利亚与艾伯特博物馆藏（O492598）。",
+      "when": "18世纪",
+      "overview": "根付为坠钮，男子以丝绳将袋/器悬于腰带；须小而不重、却有体积、无锐棱、坚固耐磨，尤须能系绳——本例有双孔（himotoshi）。",
+      "related": [
+        "japanese-inro",
+        "tsuba-shakudo",
+        "inro-autumn-plants"
+      ],
+      "sources": [
+        "vam-o492598"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为日本**18世纪**木雕**根付（netsuke）**——雕一舞者，V&A 藏（O492598）。",
+        "风格特征": "该馆说明其**功能**：根付是**坠钮（toggle）**；日本男子用根付**以丝绳把各种袋与容器悬于腰带**。",
+        "代表人物与作品": "作者未署名。相关条目见印笼与刀镡。本件为 V&A 藏品（O492598）。",
+        "技法或形式分析": "材质为**木雕**；尺寸3.18 × 5.08厘米（据该馆记录）。该馆给出**严苛的多重约束**：根付须**小而不太重**，却又**足够有体积**以尽其用；须**紧凑、无尖锐突出棱**，又须**坚固耐磨**；**最重要的**是**要有系绳的构造**——本例即在……处有一对**孔（himotoshi）**（记录在「on th…」处**截断**，本条目**不补写**孔的具体位置）。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「小器」放在**功能—身体**的框架：根付的形态由**腰带悬挂系统**决定（重量、体积、无棱、系孔），雕刻题材（舞者）只是在此约束内的表现。",
+        "一图": "示意图以坠钮功能、无棱耐磨与系绳孔（himotoshi）三者关系标示本件。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）该馆 summary 在「on th…」处**截断，未补写**孔位；（3）作者/流派未记录；（4）舞者题材的寓意未展开。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='netsuke-dancer 示意图'><title>netsuke-dancer</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>日本·18世纪</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>木雕</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>舞者根付</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>5.08cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>坠钮功能</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>腰带悬挂</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>himotoshi</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>系绳孔</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>根付：功能、约束与系孔</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；summary 截断；作者未记录。"
+    },
+    {
+      "id": "tsuba-shakudo",
+      "title": "刀镡（赤铜嵌珐琅）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "19世纪",
+      "region": "东亚",
+      "medium": "金属器",
+      "tier": "核心",
+      "def": "日本刀镡，维多利亚与艾伯特博物馆藏（O39087）。",
+      "when": "约1800—1850年",
+      "overview": "镡置于柄与刃之间护手；初为素铁圆盘，或镂或锤低浮雕；后多以铜合金做旧呈多色并嵌异色金属；遂成微型艺术，各流派自有风格。",
+      "related": [
+        "netsuke-dancer",
+        "japanese-inro"
+      ],
+      "sources": [
+        "vam-o39087"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为日本**刀镡（tsuba）**，约1800—1850年，V&A 藏（O39087）。",
+        "风格特征": "该馆说明：**镡**是**装于刀柄与刀刃之间的护手**。它**最初**是**简单的铁圆盘**，**或以镂空、或以锤揲低浮雕**装饰。",
+        "代表人物与作品": "作者未署名。相关条目见根付与印笼。本件为 V&A 藏品（O39087）。",
+        "技法或形式分析": "材质为**赤铜合金（shakudo）**，**镶嵌掐丝珐琅（cloisonné enamels）**；尺寸7.7 × 7.4厘米（据该馆记录）。该馆指出**演变**：后来的护手**更多以铜合金制**，做旧呈**多种色调**，并**镶嵌其他有色金属**。",
+        "与前后风格的关系和争论": "该馆给出**品类跃迁**的判断：护手**成为微型艺术形式**，**不同流派各具独特风格**。本条目据此把「护手」从**兵器配件**转为**可收藏的独立艺术门类**——防护功能退居其次，鉴赏与流派成为核心。",
+        "一图": "示意图以护手功能、铜合金做旧嵌金属与流派微型艺术三者关系标示本镡。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）掐丝珐琅的具体纹样未描述；（3）流派归属未记录；（4）刃/柄未一并存世未说明。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='tsuba-shakudo 示意图'><title>tsuba-shakudo</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>日本·约1800—50</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>赤铜合金</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>刀镡</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>7.7×7.4</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>护手功能</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>柄刃之间</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>微型艺术·流派</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>品类跃迁</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>刀镡：功能、材质与流派</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；纹样与流派未记录。"
+    },
+    {
+      "id": "inro-autumn-plants",
+      "title": "四层印笼（秋草图）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "17世纪",
+      "region": "东亚",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "日本四层印笼，维多利亚与艾伯特博物馆藏（O120429）。",
+      "when": "1600—1650年",
+      "overview": "饰秋草/菊/胡枝子；黑漆地金平莳绘与梨地；和服无袋故以丝绳＋根付悬印笼；原盛印章墨或药，后成昂贵却少实用的时尚配饰。",
+      "related": [
+        "netsuke-dancer",
+        "japanese-inro"
+      ],
+      "sources": [
+        "vam-o120429"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为日本**四层印笼（inrō）**，1600—1650年，V&A 藏（O120429）。",
+        "风格特征": "该馆描述：**四层印笼**，饰**秋草、盛开的菊与胡枝子（hagi）**；**黑漆地上金平莳绘（hiramaki-e）与梨地（nashiji）**。",
+        "代表人物与作品": "作者未署名。相关条目见根付与刀镡。本件为 V&A 藏品（O120429）。",
+        "技法或形式分析": "材质为**抛光黑漆（roiro）、金与褐平莳绘、针描（harigaki）** 等；尺寸9.0 × 5.3 × 3.1厘米（据该馆记录）。",
+        "与前后风格的关系和争论": "该馆给出**功能演变**：印笼是**分层容器**，因**和服无口袋**，日本男子自**16世纪末**起以**丝绳＋根付**悬印笼于腰带；**原盛印章、墨或药**。但**它迅速成为昂贵却几乎无实用价值的时尚配饰**。本条目据此把「由用入玩」的过程明确写出——这是奢侈品化的典型案例。",
+        "一图": "示意图以和服无袋、丝绳＋根付与「由用入玩」三者关系标示本印笼。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）漆工（莳绘师）未记录；（3）秋季草花的完整植物清单未列；（4）递藏未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='inro-autumn-plants 示意图'><title>inro-autumn-plants</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>1600—1650</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>黑漆莳绘</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>四层印笼</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>9.0×5.3</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>和服无袋</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>丝绳＋根付</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>由用入玩</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>奢侈品化</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>印笼：结构、悬佩与奢侈品化</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；漆工与递藏未记录。"
+    },
+    {
+      "id": "nagasaki-writing-box",
+      "title": "长崎输出书桌盒",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "19世纪",
+      "region": "东亚",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "长崎输出黑漆螺钿书桌盒，维多利亚与艾伯特博物馆藏（O77643）。",
+      "when": "1800—1850年",
+      "overview": "盒开为书桌，斜面覆呢、下有抽屉、金属锁板（钥失）；黑漆嵌彩绘螺钿，饰枫枝鸟；此类盒日本不用、专为西销；17世纪后期荷兰商人独准在日贸易。",
+      "related": [
+        "vandiem-lacquer-box",
+        "japanese-inro"
+      ],
+      "sources": [
+        "vam-o77643"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明：**此类书桌盒**在**日本并不使用**——它们**专为输出西方**而制，那里自**16世纪末**起就**欣赏日本漆器**。本件约1800—1850年，产地**长崎**，V&A 藏（O77643）。",
+        "风格特征": "该馆描述：这是一只**可开合的书桌**：盒开为桌，**斜面书写面覆呢（baize）**；**下侧有抽屉**，配**金属锁板（钥已失）**；木胎**黑漆**，**嵌彩绘螺钿（mother-of-pearl）**；饰**枫枝上的鸟**与枝叶。该馆指出这种**彩螺钿的鸟与叶纹**是**19世纪初为外国客户所做漆器**的典型。",
+        "代表人物与作品": "作者未署名。该馆并给出**贸易背景**：**17世纪后期，荷兰商人**是**唯一获准在日贸易**的欧洲人（记录在处**截断**，本条目**不补写**后续）。相关条目见范迪门漆盒与印笼。本件为 V&A 藏品（O77643）。",
+        "技法或形式分析": "材质为**木胎黑漆、嵌彩绘螺钿**；尺寸14.8 × 42.2 × 25.4厘米（据该馆记录）。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「形制」读作**市场产物**：书桌盒的形制（斜面、抽屉、锁）**由西方书桌习惯决定**，日本本土无用——**外销品种的形态是需求方文化的投影**。",
+        "一图": "示意图以专供西销、书桌形制与荷兰长崎贸易三者关系标示本盒。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）该馆 summary 在荷兰商人处**截断，未补写**；（3）制作者未记录；（4）锁钥缺失为现状描述。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='nagasaki-writing-box 示意图'><title>nagasaki-writing-box</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>长崎·1800—50</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>输出专作</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>书桌盒</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>42.2cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>黑漆螺钿</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>鸟枫枝</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>西方形制</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>市场投影</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>书桌盒：外销、形制与工艺</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；summary 截断；制作者未记录。"
     }
   ]
 }

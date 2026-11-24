@@ -1,0 +1,19 @@
+{
+ "id": "inro-autumn-plants",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为日本**四层印笼（inrō）**，1600—1650年，V&A 藏（O120429）。",
+  "风格特征": "该馆描述：**四层印笼**，饰**秋草、盛开的菊与胡枝子（hagi）**；**黑漆地上金平莳绘（hiramaki-e）与梨地（nashiji）**。",
+  "代表人物与作品": "作者未署名。相关条目见根付与刀镡。本件为 V&A 藏品（O120429）。",
+  "技法或形式分析": "材质为**抛光黑漆（roiro）、金与褐平莳绘、针描（harigaki）** 等；尺寸9.0 × 5.3 × 3.1厘米（据该馆记录）。",
+  "与前后风格的关系和争论": "该馆给出**功能演变**：印笼是**分层容器**，因**和服无口袋**，日本男子自**16世纪末**起以**丝绳＋根付**悬印笼于腰带；**原盛印章、墨或药**。但**它迅速成为昂贵却几乎无实用价值的时尚配饰**。本条目据此把「由用入玩」的过程明确写出——这是奢侈品化的典型案例。",
+  "一图": "示意图以和服无袋、丝绳＋根付与「由用入玩」三者关系标示本印笼。",
+  "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）漆工（莳绘师）未记录；（3）秋季草花的完整植物清单未列；（4）递藏未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='inro-autumn-plants 示意图'><title>inro-autumn-plants</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>1600—1650</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>黑漆莳绘</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>四层印笼</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>9.0×5.3</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>和服无袋</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>丝绳＋根付</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>由用入玩</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>奢侈品化</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>印笼：结构、悬佩与奢侈品化</text></g></svg>",
+ "sources": [
+  "vam-o120429"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（V&A）来源；漆工与递藏未记录。"
+}

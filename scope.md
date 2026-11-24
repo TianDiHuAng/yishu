@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 444 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 448 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -400,6 +400,10 @@
 | korean-snowscape-figures | 金禔《雪景人物图》 | 作品 | 16世纪 | 东亚 | 绘画 | 核心 | O1 |
 | japan-eight-views-xiaoxiang | 渡边始兴《潇湘八景图》 | 作品 | 18世纪 | 东亚 | 绘画 | 核心 | O1 |
 | japan-miraculous-origins | 《优陀念佛缘起绘卷》 | 作品 | 14世纪 | 东亚 | 绘画 | 核心 | O1 |
+| netsuke-dancer | 木雕舞者根付 | 作品 | 18世纪 | 东亚 | 雕塑 | 核心 | O1 |
+| tsuba-shakudo | 刀镡（赤铜嵌珐琅） | 作品 | 19世纪 | 东亚 | 金属器 | 核心 | O1 |
+| inro-autumn-plants | 四层印笼（秋草图） | 作品 | 17世纪 | 东亚 | 综合 | 核心 | O1 |
+| nagasaki-writing-box | 长崎输出书桌盒 | 作品 | 19世纪 | 东亚 | 综合 | 核心 | O1 |
 
 ## art-islamic（伊斯兰艺术（西亚·中亚））
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

@@ -8,7 +8,8 @@
   "iznik-tile-panel-edirne",
   "ardabil-carpet",
   "ivory-crucified-christ",
-  "alabaster-pieta"
+  "alabaster-pieta",
+  "nagasaki-writing-box"
  ],
  "duplicates": [],
  "contradictions": [
@@ -289,6 +290,6 @@
  "link_audit": {
   "cross_domain": 22,
   "oneway": 0,
-  "total_links": 1450
+  "total_links": 1464
  }
 }

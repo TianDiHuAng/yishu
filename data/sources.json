@@ -5709,6 +5709,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；纸本墨彩金绘卷 29.7×1232.4cm；说明含良忍与念佛互益"
+    },
+    {
+      "id": "vam-o492598",
+      "title": "Victoria and Albert Museum — Wood netsuke of a dancer, Japan, 18th c., O492598",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O492598",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；木雕 3.18×5.08cm；说明含 himotoshi 与坠钮功能"
+    },
+    {
+      "id": "vam-o39087",
+      "title": "Victoria and Albert Museum — Tsuba (sword guard), shakudo with cloisonné enamel, Japan, ca. 1800–1850, O39087",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O39087",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；赤铜合金嵌珐琅 7.7×7.4cm；说明含护手演变与流派"
+    },
+    {
+      "id": "vam-o120429",
+      "title": "Victoria and Albert Museum — Four-case inrō with autumn plants, Japan, 1600–1650, O120429",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O120429",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；黑漆金莳绘梨地 9.0×5.3×3.1cm；说明含印章/药与时尚配饰"
+    },
+    {
+      "id": "vam-o77643",
+      "title": "Victoria and Albert Museum — Export writing box, Nagasaki, 1800–1850, O77643",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O77643",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；黑漆嵌螺钿 14.8×42.2×25.4cm；说明含仅外销与荷兰商人"
     }
   ]
 }

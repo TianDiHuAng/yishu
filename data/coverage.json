@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 444,
+    "total": 448,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -5332,6 +5332,54 @@
     },
     "japan-miraculous-origins": {
       "title": "《优陀念佛缘起绘卷》",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "netsuke-dancer": {
+      "title": "木雕舞者根付",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "tsuba-shakudo": {
+      "title": "刀镡（赤铜嵌珐琅）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "inro-autumn-plants": {
+      "title": "四层印笼（秋草图）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "nagasaki-writing-box": {
+      "title": "长崎输出书桌盒",
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",

@@ -1567,6 +1567,18 @@
       },
       "network": "CMA",
       "verdict": "总444；未饱和"
+    },
+    {
+      "cycle": "cycle128",
+      "date": "2026-11-24",
+      "methods_used": [
+        "日本小件"
+      ],
+      "gaps_found": {
+        "entries": 4
+      },
+      "network": "V&A",
+      "verdict": "总448；未饱和"
     }
   ],
   "assessment_c33": {

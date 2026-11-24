@@ -8027,7 +8027,11 @@
       "overview": "分层容器；和服无口袋，男子以丝绳与根付悬于腰带；原盛印章或药；一面持枪男子，一面倒挂猴捕蟹。",
       "related": [
         "korean-celadon-bottle",
-        "japanese-art"
+        "japanese-art",
+        "netsuke-dancer",
+        "tsuba-shakudo",
+        "inro-autumn-plants",
+        "nagasaki-writing-box"
       ],
       "sources": [
         "vam-o76242"
@@ -8967,7 +8971,8 @@
       "overview": "盖面绘京都御所场景（天皇居高台、朝臣晋见、宫门与牛车）；盒盖内侧铭 Maria van Diemen（荷属东印度总督之妻）；京都特制经出岛由荷兰商船外销。",
       "related": [
         "japanese-art",
-        "tami-bowl"
+        "tami-bowl",
+        "nagasaki-writing-box"
       ],
       "sources": [
         "vam-o18899"
@@ -9606,6 +9611,87 @@
       ],
       "sources": [
         "cma-1956-87"
+      ]
+    },
+    {
+      "id": "netsuke-dancer",
+      "title": "木雕舞者根付",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "18世纪",
+      "region": "东亚",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "日本木雕根付，维多利亚与艾伯特博物馆藏（O492598）。",
+      "when": "18世纪",
+      "overview": "根付为坠钮，男子以丝绳将袋/器悬于腰带；须小而不重、却有体积、无锐棱、坚固耐磨，尤须能系绳——本例有双孔（himotoshi）。",
+      "related": [
+        "japanese-inro",
+        "tsuba-shakudo",
+        "inro-autumn-plants"
+      ],
+      "sources": [
+        "vam-o492598"
+      ]
+    },
+    {
+      "id": "tsuba-shakudo",
+      "title": "刀镡（赤铜嵌珐琅）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "19世纪",
+      "region": "东亚",
+      "medium": "金属器",
+      "tier": "核心",
+      "def": "日本刀镡，维多利亚与艾伯特博物馆藏（O39087）。",
+      "when": "约1800—1850年",
+      "overview": "镡置于柄与刃之间护手；初为素铁圆盘，或镂或锤低浮雕；后多以铜合金做旧呈多色并嵌异色金属；遂成微型艺术，各流派自有风格。",
+      "related": [
+        "netsuke-dancer",
+        "japanese-inro"
+      ],
+      "sources": [
+        "vam-o39087"
+      ]
+    },
+    {
+      "id": "inro-autumn-plants",
+      "title": "四层印笼（秋草图）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "17世纪",
+      "region": "东亚",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "日本四层印笼，维多利亚与艾伯特博物馆藏（O120429）。",
+      "when": "1600—1650年",
+      "overview": "饰秋草/菊/胡枝子；黑漆地金平莳绘与梨地；和服无袋故以丝绳＋根付悬印笼；原盛印章墨或药，后成昂贵却少实用的时尚配饰。",
+      "related": [
+        "netsuke-dancer",
+        "japanese-inro"
+      ],
+      "sources": [
+        "vam-o120429"
+      ]
+    },
+    {
+      "id": "nagasaki-writing-box",
+      "title": "长崎输出书桌盒",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "19世纪",
+      "region": "东亚",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "长崎输出黑漆螺钿书桌盒，维多利亚与艾伯特博物馆藏（O77643）。",
+      "when": "1800—1850年",
+      "overview": "盒开为书桌，斜面覆呢、下有抽屉、金属锁板（钥失）；黑漆嵌彩绘螺钿，饰枫枝鸟；此类盒日本不用、专为西销；17世纪后期荷兰商人独准在日贸易。",
+      "related": [
+        "vandiem-lacquer-box",
+        "japanese-inro"
+      ],
+      "sources": [
+        "vam-o77643"
       ]
     }
   ]
