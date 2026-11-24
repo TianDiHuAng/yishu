@@ -6099,6 +6099,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；刀身 金象嵌正宗铭；说明含正宗为刀工之最"
+    },
+    {
+      "id": "vam-o7327",
+      "title": "Victoria and Albert Museum — Female saint under a canopy, England, 1325–1350, O7327",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O7327",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；彩绘玻璃 1279×339mm；说明含华盖下女圣徒与Mary Magdalene?"
+    },
+    {
+      "id": "vam-o116900",
+      "title": "Victoria and Albert Museum — St Stephen before the High Priest, Coutances, ca. 1230–1240, O116900",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O116900",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；彩绘闪光玻璃 625×455mm；说明含库唐斯主教座堂回廊小堂"
+    },
+    {
+      "id": "vam-o8598",
+      "title": "Victoria and Albert Museum — St Peter Preaching, Normandy, ca. 1525–1530, O8598",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O8598",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；玻璃银黄 156.1×67.1cm；说明含Saint-Pierre-du-Chatel主保"
+    },
+    {
+      "id": "vam-o111371",
+      "title": "Victoria and Albert Museum — Adoration of the Magi window, Guillaume de Marcillat, 1516, O111371",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O111371",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；玻璃银黄 281×155.5cm；说明含Marcillat与法国技艺输出"
     }
   ]
 }

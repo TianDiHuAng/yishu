@@ -7561,7 +7561,9 @@
       "overview": "画男性（甲胄）与女性（珠饰华服）供养人，望向已失的中央画面；或为家族礼拜堂而设。",
       "related": [
         "auvergne-virgin-majesty",
-        "gothic-casket-panels"
+        "gothic-casket-panels",
+        "female-saint-canopy-glass",
+        "adoration-magi-window-1516"
       ],
       "sources": [
         "cma-1919-1"
@@ -10468,6 +10470,88 @@
       ],
       "sources": [
         "vam-o92843"
+      ]
+    },
+    {
+      "id": "female-saint-canopy-glass",
+      "title": "华盖下女圣徒彩窗",
+      "kind": "作品",
+      "unit": "art-medieval",
+      "era": "14世纪",
+      "region": "欧洲",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "英格兰彩绘玻璃板，维多利亚与艾伯特博物馆藏（O7327）。",
+      "when": "1325—1350年",
+      "overview": "女圣徒侧身向右、面作四分之三侧、双手合十祈祷；紫晕紫衣，白斗篷饰菱形纹与黑/银黄方边；立建筑华盖下，或为抹大拉的马利亚；单独圣徒居华盖下为中世纪彩窗/绘画/刺绣的典型题材。",
+      "related": [
+        "stained-glass-donors-pair",
+        "st-stephen-glass-1230",
+        "st-peter-preaching-glass",
+        "adoration-magi-window-1516"
+      ],
+      "sources": [
+        "vam-o7327"
+      ]
+    },
+    {
+      "id": "st-stephen-glass-1230",
+      "title": "圣司提反受审彩窗",
+      "kind": "作品",
+      "unit": "art-medieval",
+      "era": "13世纪",
+      "region": "欧洲",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "诺曼底库唐斯彩绘玻璃板，维多利亚与艾伯特博物馆藏（O116900）。",
+      "when": "约1230—1240年",
+      "overview": "透明/彩色/闪光玻璃加绘；绘圣司提反立于犹太祭司长前；原属「圣司提反生平」大窗，置于库唐斯主教座堂回廊放射小堂之一；或示其以信仰辩护、驳亵渎之控。",
+      "related": [
+        "female-saint-canopy-glass",
+        "st-peter-preaching-glass"
+      ],
+      "sources": [
+        "vam-o116900"
+      ]
+    },
+    {
+      "id": "st-peter-preaching-glass",
+      "title": "圣彼得布道彩窗",
+      "kind": "作品",
+      "unit": "art-medieval",
+      "era": "16世纪",
+      "region": "欧洲",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "诺曼底彩绘玻璃板，维多利亚与艾伯特博物馆藏（O8598）。",
+      "when": "约1525—1530年",
+      "overview": "圣彼得红袍蓝氅立讲坛布道；群众中一老者合手祈祷，示其已皈依；教堂常订制绘主保圣人生平的彩窗；Saint-Pierre-du-Chatel以圣彼得为主保，本板为其三幅之一。",
+      "related": [
+        "st-stephen-glass-1230",
+        "female-saint-canopy-glass"
+      ],
+      "sources": [
+        "vam-o8598"
+      ]
+    },
+    {
+      "id": "adoration-magi-window-1516",
+      "title": "三王来拜彩窗（马尔奇拉）",
+      "kind": "作品",
+      "unit": "art-medieval",
+      "era": "16世纪",
+      "region": "欧洲",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "意大利三段式彩窗，维多利亚与艾伯特博物馆藏（O111371）。",
+      "when": "1516年",
+      "overview": "绘《马太福音》2:1—12 东方术士随星来拜；作者 Guillaume de Marcillat 生于法国，为罗马/佛罗伦萨/托斯卡纳教堂与世俗建筑首要彩窗师逾二十年（至1529），其作几遍科尔托纳与阿雷佐诸教堂，工坊授意大利学徒以法国彩窗之艺。",
+      "related": [
+        "female-saint-canopy-glass",
+        "stained-glass-donors-pair"
+      ],
+      "sources": [
+        "vam-o111371"
       ]
     }
   ]

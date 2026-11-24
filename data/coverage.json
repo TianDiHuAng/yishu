@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 484,
+    "total": 488,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -5812,6 +5812,54 @@
     },
     "japanese-sword-1300": {
       "title": "正宗铭太刀刀身",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "female-saint-canopy-glass": {
+      "title": "华盖下女圣徒彩窗",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "st-stephen-glass-1230": {
+      "title": "圣司提反受审彩窗",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "st-peter-preaching-glass": {
+      "title": "圣彼得布道彩窗",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "adoration-magi-window-1516": {
+      "title": "三王来拜彩窗（马尔奇拉）",
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",

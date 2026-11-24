@@ -1717,6 +1717,18 @@
       },
       "network": "V&A",
       "verdict": "总484；未饱和"
+    },
+    {
+      "cycle": "cycle140",
+      "date": "2026-11-24",
+      "methods_used": [
+        "中世纪彩窗"
+      ],
+      "gaps_found": {
+        "entries": 4
+      },
+      "network": "V&A",
+      "verdict": "art-medieval 18→22（总488）；未饱和"
     }
   ],
   "assessment_c33": {

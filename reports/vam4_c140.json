@@ -1,0 +1,121 @@
+{
+ "O7327": {
+  "title": "{'title': 'Female saint under a canopy', 'type': 'generic title'}",
+  "date": "{'date': {'text': '1325-1350', 'earliest': '1325-01-01', 'latest': '1350-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'England', 'id': 'x28826'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}; {'place': {'text': 'Norwich', 'id': 'x29054'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "mat": "painted and stained glass",
+  "desc": "A female saint is shown standing turned to the right, with her face in a three-quarters view and her hands clasped in prayer. The halo and dress are purple, and a white cloak with lozenge patterns and a squared border painted in black and silver-yellow is draped around below her right shoulder so that the corner falls over her forearm. The background is blue with diaper patterns in black and small discs of alternately yellow and ruby glass. The latter are blocked out with black to represent balls of fire. \nBeneath the figure is inserted a pane from another window, bearing an inscription which refers to the story of St Nicholas and the thief who stole the treasure which had been entrusted to the care of his own statue: LATRONES FURANTUR [THE]SAURUM AB IMAGINU[M]. This is scraped out in black letter script through a coat of black laid on yellow pot-metal. The figure is framed in an architectural border and surmounted by a tall canopy in two tiers, painted in black enamel and yellow stain. There are a few alien insertations of glass in the canopy. ",
+  "summary": "This stained glass panel shows a female saint, perhaps Mary Magdalene, under an architectural canopy. She is shown standing turned to the right, with her face in a three-quarters view and her hands clasped in prayer. Individual saints beneath architectural canopies were a typical subject for medieval stained glass, paintings and embroideries. As is the case for many stained glass panels in museum collections, parts of this panel are not original, but have been added from other windows, or are restorations. Nevertheless, the panel gives a good impression of the figure style, compositions and canopy work typical of English stained glass in the second quarter of the fourteenth century. ",
+  "objtype": "Stained Glass",
+  "dims": [
+   [
+    "Height",
+    "49.75",
+    "in"
+   ],
+   [
+    "Width",
+    "11",
+    "in"
+   ],
+   [
+    "Height",
+    "1279",
+    "mm"
+   ],
+   [
+    "Width",
+    "339",
+    "mm"
+   ],
+   [
+    "Depth",
+    "32",
+    "mm"
+   ]
+  ]
+ },
+ "O116900": {
+  "title": "{'title': 'Saint Stephen before the High Priest', 'type': 'generic title'}",
+  "date": "{'date': {'text': 'ca. 1230-1240', 'earliest': '1225-01-01', 'latest': '1240-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'France', 'id': 'x28849'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "mat": "Clear, coloured and flashed glass with painted details",
+  "desc": "Panel of clear, coloured and flashed glass with painted details depicting St. Stephen before the Jewish high priest.",
+  "summary": "This panel once formed part of a larger stained glass window dedicated to the Life of St Stephen, placed in one of the radiating chapels of the ambulatory of Coutance Cathedral, Normandy. It likely shows St Stephen before the High Priest, defending his Christian belief against the accusation of blasphemy. ",
+  "objtype": "Stained Glass",
+  "dims": [
+   [
+    "Width",
+    "455",
+    "mm"
+   ],
+   [
+    "Height",
+    "625",
+    "mm"
+   ]
+  ]
+ },
+ "O8598": {
+  "title": "{'title': 'Saint Peter Preaching', 'type': 'generic title'}",
+  "date": "{'date': {'text': 'ca. 1525-1530', 'earliest': '1520-01-01', 'latest': '1530-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Normandy', 'id': 'x29041'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "mat": "Clear and coloured glass with painted details and silver stain",
+  "desc": "Stained glass panel. St Peter, wearing a red gown and a blue cloak, preaches to a crowd from a pulpit. One of the crowd, an elderly man, holds his hands in a praying position. This indicates that he has been converted to the teachings of Christ.",
+  "summary": "Churches often ordered stained-glass windows painted with scenes from the lives of their patron saints. As the name suggests, the church of Saint-Pierre-du-Chatel was dedicated to St Peter. This panel is one of three that depict important episodes relating to Peter and the early years of the Christian church. \r\n \r\nBefore Christ ascended to heaven, he instructed his disciples to spread his teachings around the world. Peter is shown here in the second panel preaching about the life, death and Resurrection of Christ.",
+  "objtype": "Panel",
+  "dims": [
+   [
+    "Height",
+    "156.1",
+    "cm"
+   ],
+   [
+    "Width",
+    "67.1",
+    "cm"
+   ],
+   [
+    "Depth",
+    "3.2",
+    "cm"
+   ],
+   [
+    "Weight",
+    "12.0",
+    "kg"
+   ],
+   [
+    "Height",
+    "150.5",
+    "cm"
+   ],
+   [
+    "Width",
+    "61.4",
+    "cm"
+   ]
+  ]
+ },
+ "O111371": {
+  "title": "{'title': 'The Adoration of the Magi', 'type': ''}",
+  "date": "{'date': {'text': '1516', 'earliest': '1516-01-01', 'latest': '1516-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Italy', 'id': 'x28927'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "mat": "Clear and coloured glass with painted details and silver stain",
+  "desc": "Stained and painted glass window in three sections, depicting the Adoration of the Magi. The Bible (Matthew 2:1-12) describes how Magi, or Wise Men, from the East followed a star to Jerusalem in order to worship the infant King of the Jews.  King Herod (the Great), hearing of this, asked his advisers where the Magi would go to find the child.  They suggested Bethlehem in Judaea, as prophesied in the Book of Micah.  Herod then asked the Magi to report the exact location back to him so that he could ostensibly go to pay homage too.  The Magi continued to follow the star to where the Virgin Mary was with her new son Jesus and presented to him three gifts of gold (for kingship), frankincense (for divinity) and myrrh (used in embalming, a foreshadowing of the crucifixion). Warned by God in a dream not to report back to Herod, they went home by an alternative route.  \r\nThe Church commemorates the event as the Epiphany (or manifestation of Christ) on 6th January.  The Magi were presumed to be three in number because they presented three gifts.  They may have been astrologers at the Persian court and priests of the cult of Mithras then widespread in the Roman Empire.  In subsequent centuries the story was embroidered - Tertullian (about 160-230 A.D.) called them Kings and by 9th century they were given the names Caspar, Balthazar and Melchior.  They also came to symbolise global worship of Christ, each apparently from a different age group and being made to represent the three known Continents of Europe, Africa and Asia.\r\nIn Guillaume de Marcillat's depiction, the Virgin Mary in traditional blue holds the Christ Child upright on her knees to accept the worship of the Magi who present to him elaborate objects of contemporary goldsmiths' work.  In the background are three members of the Magis' procession and a figure (presumably a local lad; possibly a shepherd boy) peeping at the scene from behind a column.  The star is shown in front of the left-hand column. The columns, walls and floor are made of rather surprisingly grand marble.  In the foreground are two identical coats of arms of Pope Leo X (Pope between 1513 and 1521), the shield bearing his family arms (he was Giovanni de' Medici) and with the Papal tiara as a crest with crossed keys alluding to St. Peter being given the keys of heaven by Christ. Behind these is an inscription which reads 'AB OR[ I ]ENTE VENERVNT'.  The inscription is not evenly spaced but stretched in the middle to provide legibility.\r\nMarcillat used French pot-metal glass with silver stain, painted washes and back-painted brushwork.  The grisaille or shading techniques were achieved by stippling with vitreous paint containing either copper or iron filings, the flesh tone is a bloodstone pigment called sanguine and elements of the design are scratched.",
+  "summary": "Born in France, Guillaume de Marcillat was one of the foremost designers and makers of stained glass for both churches and secular buildings in Rome, Florence and Tuscany for over 20 years to 1529.  His work once decorated nearly every church and convent in Cortona and Arezzo and his workshops trained many Italian apprentices in the skills of French stained glass making.\r\n\r\nThe Vestry Board (or Works Committee) of Cortona Cathedral commissioned Marcillat to make this window on 10th February 1516 and it was put in place behind the high altar of the main choir chapel on 24th July the same year.  The Adoration was installed below a Nativity scene window now in the collection of the Detroit Institute of Arts.  The arms of Pope Leo X (Giovanni de' Medici), showing the Medici balls and papal tiara, are thought to have been included in the design as the Pope was the benefactor of Cardinal Silvio Passerini who was the patron for most of the Cathedral's interior decoration.  The Cardinal was almost certainly involved in arranging for Marcillat to make the windows.  The Adoration and Nativity windows replaced a window made only in 1460-80 which was re-used elsewhere in the Cathedral.  The Marcillat windows were removed from Cortona Cathedral about 1729-33 when the cappella maggiore was renovated.",
+  "objtype": "Window",
+  "dims": [
+   [
+    "Height",
+    "281",
+    "cm"
+   ],
+   [
+    "Width",
+    "155.5",
+    "cm"
+   ]
+  ]
+ }
+}

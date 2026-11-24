@@ -12190,7 +12190,9 @@
       "overview": "画男性（甲胄）与女性（珠饰华服）供养人，望向已失的中央画面；或为家族礼拜堂而设。",
       "related": [
         "auvergne-virgin-majesty",
-        "gothic-casket-panels"
+        "gothic-casket-panels",
+        "female-saint-canopy-glass",
+        "adoration-magi-window-1516"
       ],
       "sources": [
         "cma-1919-1"
@@ -16931,6 +16933,140 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='japanese-sword-1300 示意图'><title>japanese-sword-1300</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>14世纪</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>太刀刀身</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>正宗铭刀</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>无尺寸记录</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>金象嵌铭</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>归属</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>刀工之最</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>正宗</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>正宗铭刀：铭、归属与价值</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（V&A）来源；铭为归属非确证；尺寸未记录。"
+    },
+    {
+      "id": "female-saint-canopy-glass",
+      "title": "华盖下女圣徒彩窗",
+      "kind": "作品",
+      "unit": "art-medieval",
+      "era": "14世纪",
+      "region": "欧洲",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "英格兰彩绘玻璃板，维多利亚与艾伯特博物馆藏（O7327）。",
+      "when": "1325—1350年",
+      "overview": "女圣徒侧身向右、面作四分之三侧、双手合十祈祷；紫晕紫衣，白斗篷饰菱形纹与黑/银黄方边；立建筑华盖下，或为抹大拉的马利亚；单独圣徒居华盖下为中世纪彩窗/绘画/刺绣的典型题材。",
+      "related": [
+        "stained-glass-donors-pair",
+        "st-stephen-glass-1230",
+        "st-peter-preaching-glass",
+        "adoration-magi-window-1516"
+      ],
+      "sources": [
+        "vam-o7327"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**英格兰**彩绘玻璃板（1325—1350），V&A 藏（O7327）。",
+        "风格特征": "该馆描述：一位**女圣徒** **立身向右转**，**面部作四分之三侧**，**双手合十祈祷**；**头光与衣裙为紫色**；一件**带菱形纹与方边的白斗篷**（边以**黑与银黄**绘）**自其右肩以下披垂**；她**立于建筑华盖之下**；该馆推测她**或为抹大拉的马利亚**。",
+        "代表人物与作品": "作者未署名。相关条目见捐资人彩窗与圣司提反彩窗。",
+        "技法或形式分析": "材质为**彩绘与染色玻璃（painted and stained glass）**；尺寸**高1279 × 宽339毫米**（另记深32毫米，据该馆记录）。",
+        "与前后风格的关系和争论": "该馆给出**类型学**：**单独圣徒位于建筑华盖之下**，是中世纪**彩窗、绘画与刺绣**的**典型题材**。本条目据此把「华盖」读作**圣徒的位阶装置**——它在图像中为圣徒划出「圣所」，与教堂建筑的物理空间呼应。",
+        "一图": "示意图以女圣徒祈祷、建筑华盖与「圣所」位阶三者关系标示本板。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）「或为抹大拉的马利亚」该馆用 perhaps；（3）原属建筑/窗位未记录；（4）修复与铅条情况未说明。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='female-saint-canopy-glas 示意图'><title>female-saint-canopy-glas</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>英格兰·1325—50</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>彩绘玻璃</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>华盖女圣徒</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1279mm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>合十·紫衣</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>图像</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>建筑华盖</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>位阶装置</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>女圣徒彩窗：图像、华盖与位阶</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；身份存疑；原窗位未记录。"
+    },
+    {
+      "id": "st-stephen-glass-1230",
+      "title": "圣司提反受审彩窗",
+      "kind": "作品",
+      "unit": "art-medieval",
+      "era": "13世纪",
+      "region": "欧洲",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "诺曼底库唐斯彩绘玻璃板，维多利亚与艾伯特博物馆藏（O116900）。",
+      "when": "约1230—1240年",
+      "overview": "透明/彩色/闪光玻璃加绘；绘圣司提反立于犹太祭司长前；原属「圣司提反生平」大窗，置于库唐斯主教座堂回廊放射小堂之一；或示其以信仰辩护、驳亵渎之控。",
+      "related": [
+        "female-saint-canopy-glass",
+        "st-peter-preaching-glass"
+      ],
+      "sources": [
+        "vam-o116900"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明：此板**曾属一扇更大的彩窗**，**献给圣司提反的生平**，置于**诺曼底库唐斯（Coutances）主教座堂回廊的放射小堂之一**。本件约1230—1240年，V&A 藏（O116900）。",
+        "风格特征": "该馆描述：**透明、彩色与闪光玻璃（flashed glass）** 并加**绘饰**；画面**描绘圣司提反立于犹太祭司长面前**；该馆解释：这**很可能**表现其**为基督教信仰辩护**、**驳斥亵渎之控**。",
+        "代表人物与作品": "作者未署名。相关条目见华盖女圣徒与圣彼得布道。",
+        "技法或形式分析": "材质为**透明/彩色/闪光玻璃，加绘**；尺寸**宽455 × 高625毫米**（据该馆记录）。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「残板」放回**原建筑整体**：一扇「圣徒生平」大窗被**拆散分藏**，单板的价值须由**原窗的叙事序列**来理解。这与本会话多件「失散写本/对屏」的处理一致——**以残件反推整体**。",
+        "一图": "示意图以圣司提反受审、原大窗与库唐斯回廊三者关系标示本板。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）原窗其余各板的现存地未记录；（3）祭司长形象细节未描述；（4）拆卸与入藏经过未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='st-stephen-glass-1230 示意图'><title>st-stephen-glass-1230</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>库唐斯·1230—40</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>诺曼底</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>圣司提反板</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>625×455</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>受审辩护</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>叙事</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>原大窗</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>残件反推</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>圣司提反：受审、残板与大窗</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；其余板下落未记录。"
+    },
+    {
+      "id": "st-peter-preaching-glass",
+      "title": "圣彼得布道彩窗",
+      "kind": "作品",
+      "unit": "art-medieval",
+      "era": "16世纪",
+      "region": "欧洲",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "诺曼底彩绘玻璃板，维多利亚与艾伯特博物馆藏（O8598）。",
+      "when": "约1525—1530年",
+      "overview": "圣彼得红袍蓝氅立讲坛布道；群众中一老者合手祈祷，示其已皈依；教堂常订制绘主保圣人生平的彩窗；Saint-Pierre-du-Chatel以圣彼得为主保，本板为其三幅之一。",
+      "related": [
+        "st-stephen-glass-1230",
+        "female-saint-canopy-glass"
+      ],
+      "sources": [
+        "vam-o8598"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明：**教堂常订制绘有其主保圣人生平的彩窗**；顾名思义，**Saint-Pierre-du-Chatel 教堂以圣彼得为主保**；本板是**描绘彼得与基督教会早期重要事件的三幅之一**。本件约1525—1530年（诺曼底），V&A 藏（O8598）。",
+        "风格特征": "该馆描述：**圣彼得**着**红袍、蓝氅**，**自讲坛向人群布道**；人群中一位**老者双手合十**——该馆指出，这表明他**已被基督的教诲所皈依**。",
+        "代表人物与作品": "作者未署名。相关条目见圣司提反板与华盖女圣徒。",
+        "技法或形式分析": "材质为**透明与彩色玻璃，加绘并施银黄（silver stain）**；尺寸**高156.1 × 宽67.1厘米**，重12千克（另记画心150.5 × 61.4，据该馆记录）。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「主保圣人」读作**教堂的自我叙述**：订制主保生平组窗，是教堂**以图像确认自身身份与代祷关系**的行为。本条目只依记录陈述。",
+        "一图": "示意图以圣彼得布道、主保圣人组窗与「合手皈依」三者关系标示本板。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）另两幅的现存地未记录；（3）教堂所在地细节未展开；（4）递藏未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='st-peter-preaching-glass 示意图'><title>st-peter-preaching-glass</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>诺曼底·1525—30</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>玻璃银黄</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>圣彼得布道</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>156.1cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>主保圣人组窗</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>身份</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>老者合手</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>皈依</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>圣彼得布道：主保、叙事与皈依</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；另两幅下落未记录。"
+    },
+    {
+      "id": "adoration-magi-window-1516",
+      "title": "三王来拜彩窗（马尔奇拉）",
+      "kind": "作品",
+      "unit": "art-medieval",
+      "era": "16世纪",
+      "region": "欧洲",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "意大利三段式彩窗，维多利亚与艾伯特博物馆藏（O111371）。",
+      "when": "1516年",
+      "overview": "绘《马太福音》2:1—12 东方术士随星来拜；作者 Guillaume de Marcillat 生于法国，为罗马/佛罗伦萨/托斯卡纳教堂与世俗建筑首要彩窗师逾二十年（至1529），其作几遍科尔托纳与阿雷佐诸教堂，工坊授意大利学徒以法国彩窗之艺。",
+      "related": [
+        "female-saint-canopy-glass",
+        "stained-glass-donors-pair"
+      ],
+      "sources": [
+        "vam-o111371"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**意大利**三段式彩窗（1516），V&A 藏（O111371）。",
+        "风格特征": "该馆描述：**彩绘玻璃窗，分三段**，描绘**《三王来拜》**；其依据为**《马太福音》2:1—12**：**东方术士（Magi）随星至耶路撒冷**，欲**朝拜犹太人的新生王**；**希律王听闻**后召其谋士……（记录在此处**截断**，本条目**不补写**）。",
+        "代表人物与作品": "作者 **Guillaume de Marcillat**：该馆说明他**生于法国**，是**罗马、佛罗伦萨与托斯卡纳** **教堂与世俗建筑彩窗**的**首要设计者与制作者**之一，**逾二十年**（至**1529年**）；其作品**曾装点科尔托纳（Cortona）与阿雷佐（Arezzo）几乎每座教堂与会院**，其**工坊授众多意大利学徒**以**法国彩窗技艺**。相关条目见华盖女圣徒与捐资人彩窗。",
+        "技法或形式分析": "材质为**透明与彩色玻璃，加绘并施银黄**；尺寸**高281 × 宽155.5厘米**（据该馆记录）。",
+        "与前后风格的关系和争论": "本条目据该馆说明把握**技艺的跨境流动**：一位法国大师把**法国彩窗工艺**带入意大利，并通过**工坊学徒**扩散——窗不只是图像，也是**技术转移的载体**。",
+        "一图": "示意图以三王来拜、法国技艺与意大利工坊三者关系标示本窗。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）该馆 summary 在希律处**截断，未补写**；（3）原属建筑未记录；（4）学徒姓名未列。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='adoration-magi-window-15 示意图'><title>adoration-magi-window-15</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>1516·意大利</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>Marcillat</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>三王来拜窗</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>281×155.5</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>法国彩窗技艺</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>技术转移</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>工坊学徒</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>扩散</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>三王来拜：图像、技艺与工坊</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；summary 截断；原建筑未记录。"
     }
   ]
 }
