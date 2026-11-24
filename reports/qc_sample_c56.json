@@ -214,9 +214,13 @@
   "korean-celadon-bottle",
   "korean-celadon-bowl-lotus",
   "korean-white-flask-longevity",
-  "kashan-salting-mihrab"
+  "kashan-salting-mihrab",
+  "tiger-magpie-hochakdo",
+  "mamluk-mosque-lamp",
+  "minai-bowl-kashan",
+  "japanese-inro"
  ],
- "dim_checks": 157,
- "dim_ok": 153,
+ "dim_checks": 161,
+ "dim_ok": 156,
  "issues": []
 }

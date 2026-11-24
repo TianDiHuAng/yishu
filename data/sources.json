@@ -4929,6 +4929,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；熔块胎釉上彩 高62cm；说明含墓葬标志与米哈拉布"
+    },
+    {
+      "id": "vam-o22242",
+      "title": "Victoria and Albert Museum — Tiger and Magpie (Hochakdo), Korea, 1850–1910, O22242",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O22242",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；纸本水墨设色 装裱111×57.5cm；说明含虎辟邪/鹊报喜"
+    },
+    {
+      "id": "vam-o1768",
+      "title": "Victoria and Albert Museum — Mosque lamp of Kafur al-Rumi, Egypt, 1342–1345, O1768",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O1768",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；描金珐琅玻璃 高26cm；说明含马穆鲁克苏丹司库徽记"
+    },
+    {
+      "id": "vam-o85593",
+      "title": "Victoria and Albert Museum — Mina'i Bowl, Kashan, 1180–1220, O85593",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O85593",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；熔块胎釉上/釉下彩与描金 高9.0cm；说明含双骑手与金树"
+    },
+    {
+      "id": "vam-o76242",
+      "title": "Victoria and Albert Museum — Inrō, Japan, 18th century, O76242",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O76242",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；玳瑁·牙雕·裂纹蛋壳 高11.4cm；说明含印笼悬于腰带"
     }
   ]
 }

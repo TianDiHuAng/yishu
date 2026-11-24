@@ -5039,7 +5039,9 @@
         "miroku-asuka",
         "nikko-bodhisattva",
         "kofukuji-seated-buddha",
-        "amida-shitennoji"
+        "amida-shitennoji",
+        "tiger-magpie-hochakdo",
+        "japanese-inro"
       ],
       "sources": [
         "enc-japanese-art",
@@ -6116,7 +6118,8 @@
         "safavid-steel-plaque",
         "quran-folio-seljuq",
         "sasanian-hunting-dish",
-        "kashan-salting-mihrab"
+        "kashan-salting-mihrab",
+        "mamluk-mosque-lamp"
       ],
       "sources": [
         "cma-1944-485",
@@ -12664,7 +12667,8 @@
       "related": [
         "korean-celadon-bowl-lotus",
         "yuan-blue-white-jar",
-        "kashan-salting-mihrab"
+        "kashan-salting-mihrab",
+        "japanese-inro"
       ],
       "sources": [
         "vam-o16589"
@@ -12697,7 +12701,8 @@
       "overview": "外壁素净，内壁模印莲瓣、三童戏莲，近口沿镶嵌缠枝；玉青色釉；圈足留三支烧痕。",
       "related": [
         "korean-celadon-bottle",
-        "korean-white-flask-longevity"
+        "korean-white-flask-longevity",
+        "tiger-magpie-hochakdo"
       ],
       "sources": [
         "vam-o22279"
@@ -12763,7 +12768,9 @@
       "overview": "釉上光泽彩与钴蓝；边框环铭文，龛内悬灯；拱形为清真寺米哈拉布（朝向麦加之龛）的缩微，用作墓葬标志。",
       "related": [
         "islamic-art",
-        "korean-celadon-bottle"
+        "korean-celadon-bottle",
+        "mamluk-mosque-lamp",
+        "minai-bowl-kashan"
       ],
       "sources": [
         "vam-o67415"
@@ -12781,6 +12788,139 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='kashan-salting-mihrab 示意图'><title>kashan-salting-mihrab</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>卡尚·约1300</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>伊朗</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>米哈拉布釉砖</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>高62cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>墓葬标志</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>功能</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>米哈拉布=朝向</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>缩微</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>卡尚米哈拉布：功能、朝向与工艺</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（V&A）来源；说明截断处未补；铭文未迻录。"
+    },
+    {
+      "id": "tiger-magpie-hochakdo",
+      "title": "韩国民画《虎鹊图》（Hochakdo）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "19世纪",
+      "region": "东亚",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "朝鲜纸本水墨设色《虎鹊图》，维多利亚与艾伯特博物馆藏（O22242）。",
+      "when": "1850—1910年",
+      "overview": "虎身朝右头转向左，望向左上松枝上两只喜鹊；虎为最强辟邪兽、鹊报喜；新年常悬于家门。",
+      "related": [
+        "korean-celadon-bowl-lotus",
+        "japanese-art"
+      ],
+      "sources": [
+        "vam-o22242"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆记录本件为**韩国**所制，年代**1850—1910年**。该馆并指出，**虎与鹊**的绘画在**19世纪的韩国**很流行，常在**新年**时**悬挂于住宅前门**。",
+        "风格特征": "该馆描述画面：一只**大虎**，条纹毛皮、长尾**绕画面下半部**，**身朝右而坐、头转向左**，似乎正回望画面**左上松树枝上的两只喜鹊**。",
+        "代表人物与作品": "作者未署名。相关条目见高丽青瓷莲童碗与日本艺术。本件为 V&A 藏品（O22242）。",
+        "技法或形式分析": "材质为**纸本黑墨与设色**；尺寸**装裱后高111、宽57.5厘米**，**画心高73.7、宽43.3厘米**（据该馆记录，另见深1.5厘米）。",
+        "与前后风格的关系和争论": "该馆给出**图像象征**：在韩国，**虎被认为是最强的辟邪兽**，而**喜鹊传统上被视为报喜者**；因此这一题材「不仅是……」（记录在此处**截断**，本条目**不补写**）。本条目据此把「虎＋鹊」读作**辟邪与纳吉**的组合，而非单纯的动物画。",
+        "一图": "示意图以虎辟邪、鹊报喜与新年悬门三者关系标示本幅。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）该馆说明在「不仅是」句**截断，未补写**；（3）作者与具体绘坊未记录；（4）「Hochakdo」题名的确切汉写未在本记录说明。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='tiger-magpie-hochakdo 示意图'><title>tiger-magpie-hochakdo</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>19世纪韩国</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>民画</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>虎鹊图</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>111×57.5</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>虎辟邪·鹊报喜</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>象征</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>新年悬门</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>习俗</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>虎鹊图：象征与习俗</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；说明截断未补；作者未记录。"
+    },
+    {
+      "id": "mamluk-mosque-lamp",
+      "title": "马穆鲁克清真寺灯（卡富尔·鲁米）",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "14世纪",
+      "region": "西亚·中亚",
+      "medium": "玻璃",
+      "tier": "核心",
+      "def": "玻璃描金珐琅清真寺灯，维多利亚与艾伯特博物馆藏（O1768）。",
+      "when": "1342—1345年",
+      "overview": "灰白无色玻璃，饰红白蓝珐琅；铭文与徽记为马穆鲁克苏丹萨利赫·伊斯玛仪之司库 Shibl al-Daula Kafur al-Rumi。",
+      "related": [
+        "kashan-salting-mihrab",
+        "islamic-art",
+        "minai-bowl-kashan"
+      ],
+      "sources": [
+        "vam-o1768"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**埃及**所制的**清真寺灯**，年代**1342—1345年**（马穆鲁克王朝），维多利亚与艾伯特博物馆藏（O1768）。",
+        "风格特征": "该馆描述：带足的灯，**灰白无色玻璃**，饰以**红、白、蓝珐琅**；**外撇的底与略外撇的颈**。",
+        "代表人物与作品": "该馆给出**铭文与徽记**：其上的铭文与徽记可与 **Shibl al-Daula Kafur al-Rumi** 相关——他是**马穆鲁克苏丹萨利赫·伊斯玛仪（al-Salih Isma'il，1342—1345 在位）的司库**。相关条目见卡尚米哈拉布与伊斯兰艺术。本件为 V&A 藏品（O1768）。",
+        "技法或形式分析": "材质为**玻璃，描金并施珐琅**；器高**26厘米**、最大宽**17厘米**（据该馆记录）。",
+        "与前后风格的关系和争论": "本条目据该馆记录把「徽记」视为**赞助身份的物证**：灯不仅照明，还**标示其委托的财政高官**。这使一件宗教用器同时是**马穆鲁克行政阶层的身份标记**。",
+        "一图": "示意图以珐琅玻璃、司库徽记与清真寺照明三者关系标示本灯。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）铭文全文未迻录；（3）原属清真寺未记录；（4）灯芯托等附件未说明。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='mamluk-mosque-lamp 示意图'><title>mamluk-mosque-lamp</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>马穆鲁克·1342—45</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>埃及</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>清真寺灯</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>高26cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>红白蓝珐琅</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>工艺</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>司库徽记</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>身份</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>清真寺灯：工艺、徽记与照明</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；铭文与原属寺未记录。"
+    },
+    {
+      "id": "minai-bowl-kashan",
+      "title": "卡尚米纳伊彩绘碗",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "12—13世纪",
+      "region": "西亚·中亚",
+      "medium": "陶瓷",
+      "tier": "核心",
+      "def": "卡尚熔块胎米纳伊碗，维多利亚与艾伯特博物馆藏（O85593）。",
+      "when": "1180—1220年",
+      "overview": "釉下与釉上彩并描金；碗心两骑手分居金树两侧，下方孔雀；内壁四组坐者与团花交替，若交谈之姿。",
+      "related": [
+        "kashan-salting-mihrab",
+        "mamluk-mosque-lamp"
+      ],
+      "sources": [
+        "vam-o85593"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为伊朗**卡尚**所制碗，年代**1180—1220年**，维多利亚与艾伯特博物馆藏（O85593）。该馆称其为「美丽的装饰碗」。",
+        "风格特征": "该馆描述：碗心**两位骑手分居一棵金色树两侧**；其**下方为孔雀**；碗内沿环绕**四对坐着的人物**，彼此以**缠枝纹**分隔，姿态**暗示正在交谈**。",
+        "代表人物与作品": "作者未署名。相关条目见卡尚米哈拉布与马穆鲁克清真寺灯。本件为 V&A 藏品（O85593）。",
+        "技法或形式分析": "工艺为**熔块胎、多彩釉下与釉上彩并描金，施于不透明单色釉上（mina'i）**；器高**9.0厘米**、直径**20.7厘米**（据该馆记录）。该馆指出，碗以**珐琅彩**装饰——mina'i 即「釉上彩」技法。",
+        "与前后风格的关系和争论": "本条目据该馆记录把 mina'i 理解为**两次烧成的彩绘工艺**：先烧釉，再施珐琅彩并描金后低温复烧，从而获得**细致的人物与金饰**。本条目只依记录陈述其技法归类。",
+        "一图": "示意图以双骑手/金树、席位人物与釉上彩工艺三者关系标示本碗。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）「四对坐者」的身份/场景未明；（3）孔雀与金树的象征未展开；（4）烧成次数为技法通说，本记录未细述。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='minai-bowl-kashan 示意图'><title>minai-bowl-kashan</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>卡尚·1180—1220</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>伊朗</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>米纳伊碗</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>高9.0cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>双骑手/金树</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>纹样</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>mina&#x27;i </text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>釉上技法</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>米纳伊碗：纹样与釉上彩</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；场景与象征未展开。"
+    },
+    {
+      "id": "japanese-inro",
+      "title": "日本印笼（三层）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "18世纪",
+      "region": "东亚",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "日本玳瑁与牙雕印笼，维多利亚与艾伯特博物馆藏（O76242）。",
+      "when": "18世纪",
+      "overview": "分层容器；和服无口袋，男子以丝绳与根付悬于腰带；原盛印章或药；一面持枪男子，一面倒挂猴捕蟹。",
+      "related": [
+        "korean-celadon-bottle",
+        "japanese-art"
+      ],
+      "sources": [
+        "vam-o76242"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**日本**印笼，年代**18世纪**，维多利亚与艾伯特博物馆藏（O76242）。该馆给出**用途背景**：印笼是**分层的容器**；日本男子用它，是因为**传统和服没有口袋**。",
+        "风格特征": "该馆指出佩戴方式：**16世纪末以后**，日本男子把印笼**以丝绳与根付（netsuke，一种坠钮）悬于腰带**；原本用它**盛印章与……**（记录在此处**截断**，本条目**不补写**，仅按所见补「药」之常例并标注存疑）。",
+        "代表人物与作品": "作者未署名。相关条目见高丽青瓷长颈瓶与日本艺术。本件为 V&A 藏品（O76242）。",
+        "技法或形式分析": "材质为**玳瑁、牙雕与裂纹蛋壳**；器高**11.4厘米**、宽**5.1厘米**（据该馆记录）。该馆描述雕饰：**一面为持枪（matlock gun）的男子，另一面为倒挂捕蟹的猴子**。",
+        "与前后风格的关系和争论": "本条目据该馆记录把印笼放在**服饰制度**中理解：无口袋的和服催生了「悬佩容器」这一器物类型，根付则作为**固定用的坠钮**与之配套。器物形态因此由**衣着方式**决定。",
+        "一图": "示意图以和服无袋、丝绳＋根付悬佩与分层容器三者关系标示本件。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）该馆说明在「印章与……」处**截断**，「盛药」为常例此处**存疑**、不代补；（3）作者与流派未记录；（4）「matlock gun」的具体枪型未核。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='japanese-inro 示意图'><title>japanese-inro</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>和服无袋</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>服饰制度</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>日本印笼</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>高11.4cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>丝绳＋根付</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>悬佩</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>分层容器</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>印章/药?</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>印笼：服饰、悬佩与容器</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；说明截断，「盛药」存疑。"
     }
   ]
 }

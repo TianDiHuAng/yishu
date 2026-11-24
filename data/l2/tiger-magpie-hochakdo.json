@@ -1,0 +1,19 @@
+{
+ "id": "tiger-magpie-hochakdo",
+ "level": "L2",
+ "sections": {
+  "时代背景": "该馆记录本件为**韩国**所制，年代**1850—1910年**。该馆并指出，**虎与鹊**的绘画在**19世纪的韩国**很流行，常在**新年**时**悬挂于住宅前门**。",
+  "风格特征": "该馆描述画面：一只**大虎**，条纹毛皮、长尾**绕画面下半部**，**身朝右而坐、头转向左**，似乎正回望画面**左上松树枝上的两只喜鹊**。",
+  "代表人物与作品": "作者未署名。相关条目见高丽青瓷莲童碗与日本艺术。本件为 V&A 藏品（O22242）。",
+  "技法或形式分析": "材质为**纸本黑墨与设色**；尺寸**装裱后高111、宽57.5厘米**，**画心高73.7、宽43.3厘米**（据该馆记录，另见深1.5厘米）。",
+  "与前后风格的关系和争论": "该馆给出**图像象征**：在韩国，**虎被认为是最强的辟邪兽**，而**喜鹊传统上被视为报喜者**；因此这一题材「不仅是……」（记录在此处**截断**，本条目**不补写**）。本条目据此把「虎＋鹊」读作**辟邪与纳吉**的组合，而非单纯的动物画。",
+  "一图": "示意图以虎辟邪、鹊报喜与新年悬门三者关系标示本幅。",
+  "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）该馆说明在「不仅是」句**截断，未补写**；（3）作者与具体绘坊未记录；（4）「Hochakdo」题名的确切汉写未在本记录说明。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='tiger-magpie-hochakdo 示意图'><title>tiger-magpie-hochakdo</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>19世纪韩国</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>民画</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>虎鹊图</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>111×57.5</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>虎辟邪·鹊报喜</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>象征</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>新年悬门</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>习俗</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>虎鹊图：象征与习俗</text></g></svg>",
+ "sources": [
+  "vam-o22242"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（V&A）来源；说明截断未补；作者未记录。"
+}

@@ -117,6 +117,10 @@
    19
   ],
   [
+   "japanese-art",
+   17
+  ],
+  [
    "african-art",
    17
   ],
@@ -125,12 +129,12 @@
    15
   ],
   [
-   "japanese-art",
-   15
-  ],
-  [
    "baroque",
    14
+  ],
+  [
+   "islamic-art",
+   12
   ],
   [
    "post-impressionism",
@@ -138,10 +142,6 @@
   ],
   [
    "china-painting-history",
-   11
-  ],
-  [
-   "islamic-art",
    11
   ],
   [
@@ -153,5 +153,5 @@
    10
   ]
  ],
- "total_links": 1162
+ "total_links": 1178
 }

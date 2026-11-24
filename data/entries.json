@@ -3090,7 +3090,9 @@
         "miroku-asuka",
         "nikko-bodhisattva",
         "kofukuji-seated-buddha",
-        "amida-shitennoji"
+        "amida-shitennoji",
+        "tiger-magpie-hochakdo",
+        "japanese-inro"
       ],
       "sources": [
         "enc-japanese-art",
@@ -3788,7 +3790,8 @@
         "safavid-steel-plaque",
         "quran-folio-seljuq",
         "sasanian-hunting-dish",
-        "kashan-salting-mihrab"
+        "kashan-salting-mihrab",
+        "mamluk-mosque-lamp"
       ],
       "sources": [
         "cma-1944-485",
@@ -7814,7 +7817,8 @@
       "related": [
         "korean-celadon-bowl-lotus",
         "yuan-blue-white-jar",
-        "kashan-salting-mihrab"
+        "kashan-salting-mihrab",
+        "japanese-inro"
       ],
       "sources": [
         "vam-o16589"
@@ -7834,7 +7838,8 @@
       "overview": "外壁素净，内壁模印莲瓣、三童戏莲，近口沿镶嵌缠枝；玉青色釉；圈足留三支烧痕。",
       "related": [
         "korean-celadon-bottle",
-        "korean-white-flask-longevity"
+        "korean-white-flask-longevity",
+        "tiger-magpie-hochakdo"
       ],
       "sources": [
         "vam-o22279"
@@ -7874,10 +7879,93 @@
       "overview": "釉上光泽彩与钴蓝；边框环铭文，龛内悬灯；拱形为清真寺米哈拉布（朝向麦加之龛）的缩微，用作墓葬标志。",
       "related": [
         "islamic-art",
-        "korean-celadon-bottle"
+        "korean-celadon-bottle",
+        "mamluk-mosque-lamp",
+        "minai-bowl-kashan"
       ],
       "sources": [
         "vam-o67415"
+      ]
+    },
+    {
+      "id": "tiger-magpie-hochakdo",
+      "title": "韩国民画《虎鹊图》（Hochakdo）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "19世纪",
+      "region": "东亚",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "朝鲜纸本水墨设色《虎鹊图》，维多利亚与艾伯特博物馆藏（O22242）。",
+      "when": "1850—1910年",
+      "overview": "虎身朝右头转向左，望向左上松枝上两只喜鹊；虎为最强辟邪兽、鹊报喜；新年常悬于家门。",
+      "related": [
+        "korean-celadon-bowl-lotus",
+        "japanese-art"
+      ],
+      "sources": [
+        "vam-o22242"
+      ]
+    },
+    {
+      "id": "mamluk-mosque-lamp",
+      "title": "马穆鲁克清真寺灯（卡富尔·鲁米）",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "14世纪",
+      "region": "西亚·中亚",
+      "medium": "玻璃",
+      "tier": "核心",
+      "def": "玻璃描金珐琅清真寺灯，维多利亚与艾伯特博物馆藏（O1768）。",
+      "when": "1342—1345年",
+      "overview": "灰白无色玻璃，饰红白蓝珐琅；铭文与徽记为马穆鲁克苏丹萨利赫·伊斯玛仪之司库 Shibl al-Daula Kafur al-Rumi。",
+      "related": [
+        "kashan-salting-mihrab",
+        "islamic-art",
+        "minai-bowl-kashan"
+      ],
+      "sources": [
+        "vam-o1768"
+      ]
+    },
+    {
+      "id": "minai-bowl-kashan",
+      "title": "卡尚米纳伊彩绘碗",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "12—13世纪",
+      "region": "西亚·中亚",
+      "medium": "陶瓷",
+      "tier": "核心",
+      "def": "卡尚熔块胎米纳伊碗，维多利亚与艾伯特博物馆藏（O85593）。",
+      "when": "1180—1220年",
+      "overview": "釉下与釉上彩并描金；碗心两骑手分居金树两侧，下方孔雀；内壁四组坐者与团花交替，若交谈之姿。",
+      "related": [
+        "kashan-salting-mihrab",
+        "mamluk-mosque-lamp"
+      ],
+      "sources": [
+        "vam-o85593"
+      ]
+    },
+    {
+      "id": "japanese-inro",
+      "title": "日本印笼（三层）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "18世纪",
+      "region": "东亚",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "日本玳瑁与牙雕印笼，维多利亚与艾伯特博物馆藏（O76242）。",
+      "when": "18世纪",
+      "overview": "分层容器；和服无口袋，男子以丝绳与根付悬于腰带；原盛印章或药；一面持枪男子，一面倒挂猴捕蟹。",
+      "related": [
+        "korean-celadon-bottle",
+        "japanese-art"
+      ],
+      "sources": [
+        "vam-o76242"
       ]
     }
   ]

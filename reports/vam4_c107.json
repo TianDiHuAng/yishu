@@ -1,0 +1,42 @@
+{
+ "O22242": {
+  "title": "{'title': 'Tiger and Magpie', 'type': 'generic title'}; {'title': 'Hochakdo', 'type': 'generic title'}",
+  "date": "{'date': {'text': '1850-1910', 'earliest': '1850-01-01', 'latest': '1910-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Korea', 'id': 'x30965'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "mat": "Black ink and colours on paper",
+  "dims": "{'dimension': 'Width', 'value': '57.5', 'unit': 'cm', 'qualifier': '', 'date': {'text': '', 'earliest': None, 'latest': None}, 'part': 'with mount', 'note': ''}; {'dimension': 'Height', 'value': '111', 'unit': 'cm', 'qualifier': '', 'date': {'text': '', 'earliest': None, 'latest': None}, 'part': 'with mount', 'note': ''}; {'dimension': 'Depth', 'value': '1.5', 'unit': 'cm', 'qualifier': '', 'date': {'text': '', 'earliest': None, 'latest': None}, 'part': 'with mount', 'note': ''}; {'dimension': 'Width', 'value': '43.3', 'unit': 'cm', 'qualifier': '', 'date': {'text': '', 'earliest': None, 'latest': None}, 'part': 'without mount', 'note': ''}; {'dimension': 'Height', 'value': '73.7', 'unit': 'cm', 'qualifier': '', 'date': {'text': '', 'earliest': None, 'latest': None}, 'part': 'without mount', 'note': ''}",
+  "desc": "A large tiger with striped fur and a long tail curving around the lower half of the picture is seated with its body facing to the right and its head turned to the left.  The tiger appears to be looking at two magpies perched in the branches of a pine tree in the top left-hand side of the picture.",
+  "summary": "Paintings of tigers and magpies were popular in Korea in the 19th century and were often displayed on the front gate of homes at New Year. In Korea, the tiger is considered the most powerful of evil-repelling animals, while magpies are traditionally viewed as the bearers of good news. This subject matter was thus not only visually appealing, but was also thought to provide protection and attract good fortune for the forthcoming year.\r\n\r\nThe humour of this particular painting is characteristic of the genre. Two magpies look down on the tiger from the safe distance of a pine tree. Frustrated by their constant chattering but powerless to stop it, the tiger growls back at them, revealing his red tongue and two fangs.",
+  "objtype": "Painting"
+ },
+ "O1768": {
+  "title": "",
+  "date": "{'date': {'text': '1342-1345', 'earliest': '1342-01-01', 'latest': '1345-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Egypt', 'id': 'x29512'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': 'possibly'}; {'place': {'text': 'Syria', 'id': 'x29200'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': 'possibly'}",
+  "mat": "Glass, gilded and enamelled",
+  "dims": "{'dimension': 'Height', 'value': '26', 'unit': 'cm', 'qualifier': '', 'date': {'text': '', 'earliest': None, 'latest': None}, 'part': '', 'note': ''}; {'dimension': 'Width', 'value': '17', 'unit': 'cm', 'qualifier': '', 'date': {'text': '', 'earliest': None, 'latest': None}, 'part': 'maximum', 'note': ''}",
+  "desc": "Footed lamp of greyish colorless glass decorated with red, white, blue enamels. Flared base and less flared neck.  Inscriptions and blazon of Shibl al-Daula Kafur al-Rumi, treasurer to the Mamluk Sultan al-Salih Isma`il (1342-45)",
+  "summary": "This footed lamp is made of greyish colourless glass, decorated with red, white and blue enamels. It has a flared base and a slightly less flaring neck. The inscriptions and blazons on it can be related to Shibl al-Daula Kafur al-Rumi, who was the treasurer of the Mamluk Sultan of Egypt, al-Salih Isma’il (1342-1345). It was probably ordered to form part of the decorative lighting for a building commissioned by Kafur al-Rumi on behalf of this ruler.",
+  "objtype": "Mosque lamp"
+ },
+ "O85593": {
+  "title": "",
+  "date": "{'date': {'text': '1180-1220', 'earliest': '1180-01-01', 'latest': '1220-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Kashan', 'id': 'x30242'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': 'probably'}",
+  "mat": "Fritware, polychrome inglaze and overglaze painted and gilded on opaque monochrome glaze (mina'i)",
+  "dims": "{'dimension': 'Height', 'value': '9.0', 'unit': 'cm', 'qualifier': '', 'date': {'text': '', 'earliest': None, 'latest': None}, 'part': '', 'note': ''}; {'dimension': 'Diameter', 'value': '20.7', 'unit': 'cm', 'qualifier': '', 'date': {'text': '', 'earliest': None, 'latest': None}, 'part': '', 'note': ''}",
+  "desc": "Bowl, fritware, painted in colours, both inglaze and overglaze enamels with gold. Bowl is decorated with two horsemen in the centre on either side of a tree, and around the inside of the rim with four groups of seated figures alternating with medallions.",
+  "summary": "This beautiful decorative bowl features two mounted figures on either side of a golden tree. Below them are peacocks. Around the inside of the bowl are four pairs of seated figures, separated by arabesque motifs, in poses that suggest they are having a conversation.\r\n\r\nThe bowl has been decorated with enamel colours and gold painted over the glaze. The technique emerged in Iran in the 12th century. It was a revolutionary development in ceramic decoration that enabled potters to paint with more detail than ever before. The result was a whole genre of wares decorated with depictions of various human activities. There were scenes of people seated at court, hunting, playing polo, and even fighting in battles.",
+  "objtype": "Bowl"
+ },
+ "O76242": {
+  "title": "",
+  "date": "{'date': {'text': '18th century', 'earliest': '1700-01-01', 'latest': '1799-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Japan', 'id': 'x29399'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "mat": "Tortoiseshell, carved ivory and crackled eggshell",
+  "dims": "{'dimension': 'Height', 'value': '11.4', 'unit': 'cm', 'qualifier': '', 'date': {'text': '', 'earliest': None, 'latest': None}, 'part': '', 'note': ''}; {'dimension': 'Width', 'value': '5.1', 'unit': 'cm', 'qualifier': '', 'date': {'text': '', 'earliest': None, 'latest': None}, 'part': '', 'note': ''}; {'dimension': 'Circumference', 'value': '2.5', 'unit': 'cm', 'qualifier': '', 'date': {'text': '', 'earliest': None, 'latest': None}, 'part': '', 'note': ''}",
+  "desc": "Inrō decorated on one side with a man holding a matlock gun, and on the other with a hanging monkey catching a crab",
+  "summary": "The <i>inro</i> is a container made up of tiers. Japanese men used them because the traditional Japanese garment, the kimono, had no pockets. From the late 1500s onwards, Japanese men wore the <i>inro</i>  suspended from their sash by a silk cord and a netsuke (toggle). They originally used it to hold their seal and ink or a supply of medicines. However, it rapidly became a costly fashion accessory of little or no practical use. Most <i>inro</i> are rectangular with gently curving sides. This example has a squared rectangular shape. Here, the cord passes through metal loops on either side of the body. <i>Inro</i> usually had hidden cord channels.\r\nThis is a rare early example that shows a Dutchman with a matchlock gun. Europeans arrived in Japan in 1543. The Japanese were fascinated by their physical appearance, their customs, their possessions and their superior technology. The matchlock guns of the Portuguese, for example, were the first firearms the Japanese had ever seen. This <i>inro</i>, made sometime during the 17th century, reflects these Western influences of the time. It also reflects an unusual combination of materials in keeping with the non-Japanese subject.",
+  "objtype": "Inrō"
+ }
+}

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 364,
+    "total": 368,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -4373,6 +4373,54 @@
     "kashan-salting-mihrab": {
       "title": "卡尚「萨尔廷」米哈拉布釉砖",
       "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "tiger-magpie-hochakdo": {
+      "title": "韩国民画《虎鹊图》（Hochakdo）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "mamluk-mosque-lamp": {
+      "title": "马穆鲁克清真寺灯（卡富尔·鲁米）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "minai-bowl-kashan": {
+      "title": "卡尚米纳伊彩绘碗",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "japanese-inro": {
+      "title": "日本印笼（三层）",
+      "tier": "重要",
       "level": "L2",
       "status": "written_l2",
       "sources_count": 1,
