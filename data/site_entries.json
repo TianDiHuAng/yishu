@@ -4883,7 +4883,8 @@
         "miroku-asuka",
         "nikko-bodhisattva",
         "kofukuji-seated-buddha",
-        "amida-shitennoji"
+        "amida-shitennoji",
+        "dvaravati-buddha-bust"
       ],
       "sources": [
         "enc-buddhist-art-india",
@@ -11823,6 +11824,141 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='qijia-jade-dao 示意图'><title>qijia-jade-dao</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>齐家文化</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>前2000—1700</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>三孔玉刀</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>35.2cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>2毫米薄度</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>精工</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>祭祀坑立置</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>陈列方式</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>齐家玉刀：工艺、薄度与立置</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（CMA）来源；遗址名与钻法未记录。"
+    },
+    {
+      "id": "khmer-naga-buddha",
+      "title": "高棉那伽座佛",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "12世纪",
+      "region": "东南亚",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "吴哥期青铜鎏金那伽座佛，克利夫兰艺术博物馆藏（1963.263）。",
+      "when": "12世纪",
+      "overview": "阇耶跋摩七世以「那伽座佛」自比，象征慈悲（Lokeshvara）与智慧（Prajnaparamita）所生之觉悟者。",
+      "related": [
+        "dvaravati-buddha-bust",
+        "burmese-seated-buddha",
+        "champa-planetary-deity-dongduong"
+      ],
+      "sources": [
+        "cma-1963-263"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明，**阇耶跋摩七世**兴建了班迭奇马（Banteay Chhmar）的大寺；他把自己与「**佛陀坐于那伽（naga，蛇）之上**」的形象相连——作为他受崇奉的**神圣形相**。在其统治期，「那伽座佛」成为**无处不在的崇奉图像**。",
+        "风格特征": "该馆指出，这类图像常**与 Lokeshvara（观音）及 Prajnaparamita（般若波罗蜜多）并置**：Lokeshvara 与他的**父亲**相关，Prajnaparamita 则是他**已故母亲**受崇奉的形相。前者是**慈悲**的有力觉者，后者是**智慧**的女神。",
+        "代表人物与作品": "作者未署名。相关条目见堕罗钵底佛首与蒲甘坐佛。本件为克利夫兰艺术博物馆藏品（1963.263）。",
+        "技法或形式分析": "材质为**青铜，存鎏金痕迹**，整体58.4 × 28厘米（据该馆藏品记录）。",
+        "与前后风格的关系和争论": "该馆给出一套**政治神学**的等式：阇耶跋摩七世自呈为**觉悟的佛陀**——即**慈悲与智慧结合**的产物，而那伽**指高棉人民**。那伽在**托举并荣耀**他。本条目据此把「那伽」读作**民族/民众的象征**，而非单纯装饰。该馆并指出：那伽座佛在班迭奇马既有**建筑浮雕**，也有**圆雕**；王死后，其他佛教形式的信众使此图像式微。",
+        "一图": "示意图以阇耶跋摩自比、慈悲/智慧两尊与那伽=高棉人民三者关系标示本像。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「那伽=高棉人民」为该馆的象征解读；（3）本像原供奉位置未记录；（4）王死后式微的具体过程未展开。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='khmer-naga-buddha 示意图'><title>khmer-naga-buddha</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>阇耶跋摩七世</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>自比佛陀</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>那伽座佛</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>58.4cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>慈悲·智慧</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>父/母形相</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>那伽=高棉人民</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>象征</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>那伽座佛：王权、二尊与象征</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；象征解读为馆方；原位置未记录。"
+    },
+    {
+      "id": "dvaravati-buddha-bust",
+      "title": "堕罗钵底佛首",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "7—9世纪",
+      "region": "东南亚",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "泰国中部堕罗钵底风格石灰岩佛首，克利夫兰艺术博物馆藏（1969.56）。",
+      "when": "约公元700年",
+      "overview": "长耳、肉髻、螺发等图像元素源自印度；孟族赋予面部独特表现：锐利双眼与程式化丰厚卷唇。",
+      "related": [
+        "khmer-naga-buddha",
+        "buddhist-art-india",
+        "burmese-seated-buddha",
+        "champa-planetary-deity-dongduong"
+      ],
+      "sources": [
+        "cma-1969-56"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为泰国中部**堕罗钵底（Dvaravati）**风格（7—9世纪）石灰岩佛首，约公元700年，克利夫兰艺术博物馆藏（1969.56）。",
+        "风格特征": "该馆指出图像元素的**印度来源**：**长耳、肉髻（cranial protuberance）、螺发**皆源自印度；但**泰国本地孟族（Mon）人**赋予了佛的面部**独特表现**。",
+        "代表人物与作品": "作者未署名（孟族工匠）。相关条目见高棉那伽座佛与印度佛教艺术。本件为克利夫兰艺术博物馆藏品（1969.56）。",
+        "技法或形式分析": "材质为**石灰岩**，整体60.6 × 34.3厘米（据该馆藏品记录）。该馆给出具体的**审美判断**：**锐利勾勒的双眼**与**程式化、丰厚卷曲的唇**之美为孟族所欣赏。",
+        "与前后风格的关系和争论": "该馆称这些特征赋予佛首一种「**近乎穿透性的宁静**」，是**东南亚这一早期造像阶段**泰国图像所独有的。本条目据此把「本地化」理解为**面部处理**上的偏离，而非图像志的改变。",
+        "一图": "示意图以印度图像元素、孟族面容与「穿透性宁静」三者关系标示本首。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）出土地与寺院未记录；（3）「孟族审美」的具体文献未取得；（4）佛首与身躯原配关系不明。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='dvaravati-buddha-bust 示意图'><title>dvaravati-buddha-bust</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>印度元素</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>长耳·肉髻</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>堕罗钵底佛首</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>60.6cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>孟族面容</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>锐眼·厚唇</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>穿透性宁静</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>本地审美</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>堕罗钵底佛首：来源与本地化</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；出土地与文献未取得。"
+    },
+    {
+      "id": "burmese-seated-buddha",
+      "title": "蒲甘坐佛",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "12世纪",
+      "region": "东南亚",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "缅甸蒲甘风格木胎黑漆鎏金坐佛，克利夫兰艺术博物馆藏（2011.149）。",
+      "when": "12世纪",
+      "overview": "结跏趺坐禅定，右手触地印请大地为证；双层莲座示超验；整木雕成、黑漆鎏金，同类大件极罕。",
+      "related": [
+        "dvaravati-buddha-bust",
+        "khmer-naga-buddha"
+      ],
+      "sources": [
+        "cma-2011-149"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**蒲甘（Pagan）**佛寺遗址所造风格的坐佛，缅甸，12世纪，克利夫兰艺术博物馆藏（2011.149）。该馆称此像是「**罕见**的历史佛释迦牟尼像」。",
+        "风格特征": "该馆描述姿态：结跏趺坐于**禅定**之位；**左手置于膝上**（指其在菩提树下禅修）；**右手作触地印**——**请大地为其觉悟作证**。佛坐于**双层莲座**上，标示其为**超验的存在**。",
+        "代表人物与作品": "作者未署名。相关条目见堕罗钵底佛首与高棉那伽座佛。本件为克利夫兰艺术博物馆藏品（2011.149）。",
+        "技法或形式分析": "材质为**整木雕成，覆黑漆后鎏金**，整体100 × 62 × 30厘米（据该馆藏品记录）。该馆指出这是缅甸作品的典型做法：**整块木料雕成**，表面黑漆鎏金，**大量鎏金仍存**。",
+        "与前后风格的关系和争论": "该馆强调**稀有性**之由：**漆是易损材料**，故此类型与尺寸的作品**极为罕见**，本件是**现存最佳范例之一**；此类像原置于**寺院内部廊道的壁龛**中。本条目据此把「材料脆弱」视为其存世稀少的结构性原因。",
+        "一图": "示意图以触地印/禅定、整木黑漆鎏金与易损材料的稀有性三者关系标示本像。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）具体寺院与壁龛未记录；（3）「最佳范例之一」为该馆评价；（4）木种未鉴定。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='burmese-seated-buddha 示意图'><title>burmese-seated-buddha</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>触地印</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>请地为证</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>蒲甘坐佛</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>100cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>整木黑漆鎏金</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>工艺</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>漆易损·稀有</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>存世少</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>蒲甘坐佛：手印、工艺与稀有</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；寺院与木种未记录。"
+    },
+    {
+      "id": "champa-planetary-deity-dongduong",
+      "title": "占婆九曜神像（同阳寺）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "9世纪",
+      "region": "东南亚",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "越南占婆砂岩九曜神像，克利夫兰艺术博物馆藏（1935.147）。",
+      "when": "公元850—875年",
+      "overview": "九曜之一、护寺之神；短匕首、须与蹙眉示猛护；王者安逸坐姿与宝冠示天界之王；座上 kirtimukha 示创造力。",
+      "related": [
+        "khmer-naga-buddha",
+        "dvaravati-buddha-bust"
+      ],
+      "sources": [
+        "cma-1935-147"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为越南中部**占婆（Champa）**、广南省**同阳寺（Dong Duong monastery）**的砂岩神像，定年约公元850—875年，克利夫兰艺术博物馆藏（1935.147）。",
+        "风格特征": "该馆称其为「约三英尺高的有力存在」，材质为**浅色砂岩**。他是**护佑佛寺的九曜（九行星）之一**的人格化。",
+        "代表人物与作品": "作者未署名。相关条目见高棉那伽座佛与堕罗钵底佛首。",
+        "技法或形式分析": "材质为**砂岩**，整体86.5 × 37.5厘米（据该馆藏品记录）。该馆列出**护法身份的图像标志**：**左手的短匕首**、**胡须**与**程式化的蹙眉**，皆指其「**凶猛的守护者**」角色。",
+        "与前后风格的关系和争论": "该馆指出其**王者属性**：**王者安逸的坐姿**、**宝冠、巨耳饰与宝座**，都标明他是「**天界之王**」；**额上的印记**则指其与**觉悟者**的关联。该馆并解释**九曜护寺的观念**：寺庙在**行星与星辰正确排列**之时举行**祝圣**，以护佑寺址与信众免于厄运。座前浮雕板上的 **kirtimukha（「荣耀之面」）**则关乎寺院所散发的**创造能量（shakti）**，它**吐出珠宝与植物纹样**。",
+        "一图": "示意图以九曜护法、王者标识与 kirtimukha 的创造能量三者关系标示本像。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「行星正确排列」为该馆的仪式解释；（3）kirtimukha 吐珠宝的原文描述被截断，未补；（4）本像在同阳寺的原位置未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='champa-planetary-deity-d 示意图'><title>champa-planetary-deity-d</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>九曜之一</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>护寺</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>占婆神像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>86.5cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>匕首·蹙眉</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>猛护</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>kirtimukha</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>创造能量</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>占婆九曜神：护法、标识与能量</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；原文被截断处未补；原位置未记录。"
     }
   ]
 }

@@ -1,0 +1,19 @@
+{
+ "id": "khmer-naga-buddha",
+ "level": "L2",
+ "sections": {
+  "时代背景": "该馆说明，**阇耶跋摩七世**兴建了班迭奇马（Banteay Chhmar）的大寺；他把自己与「**佛陀坐于那伽（naga，蛇）之上**」的形象相连——作为他受崇奉的**神圣形相**。在其统治期，「那伽座佛」成为**无处不在的崇奉图像**。",
+  "风格特征": "该馆指出，这类图像常**与 Lokeshvara（观音）及 Prajnaparamita（般若波罗蜜多）并置**：Lokeshvara 与他的**父亲**相关，Prajnaparamita 则是他**已故母亲**受崇奉的形相。前者是**慈悲**的有力觉者，后者是**智慧**的女神。",
+  "代表人物与作品": "作者未署名。相关条目见堕罗钵底佛首与蒲甘坐佛。本件为克利夫兰艺术博物馆藏品（1963.263）。",
+  "技法或形式分析": "材质为**青铜，存鎏金痕迹**，整体58.4 × 28厘米（据该馆藏品记录）。",
+  "与前后风格的关系和争论": "该馆给出一套**政治神学**的等式：阇耶跋摩七世自呈为**觉悟的佛陀**——即**慈悲与智慧结合**的产物，而那伽**指高棉人民**。那伽在**托举并荣耀**他。本条目据此把「那伽」读作**民族/民众的象征**，而非单纯装饰。该馆并指出：那伽座佛在班迭奇马既有**建筑浮雕**，也有**圆雕**；王死后，其他佛教形式的信众使此图像式微。",
+  "一图": "示意图以阇耶跋摩自比、慈悲/智慧两尊与那伽=高棉人民三者关系标示本像。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「那伽=高棉人民」为该馆的象征解读；（3）本像原供奉位置未记录；（4）王死后式微的具体过程未展开。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='khmer-naga-buddha 示意图'><title>khmer-naga-buddha</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>阇耶跋摩七世</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>自比佛陀</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>那伽座佛</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>58.4cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>慈悲·智慧</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>父/母形相</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>那伽=高棉人民</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>象征</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>那伽座佛：王权、二尊与象征</text></g></svg>",
+ "sources": [
+  "cma-1963-263"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；象征解读为馆方；原位置未记录。"
+}

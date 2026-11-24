@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 336,
+    "total": 340,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -4036,6 +4036,54 @@
     },
     "qijia-jade-dao": {
       "title": "齐家文化三孔玉刀",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "khmer-naga-buddha": {
+      "title": "高棉那伽座佛",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "dvaravati-buddha-bust": {
+      "title": "堕罗钵底佛首",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "burmese-seated-buddha": {
+      "title": "蒲甘坐佛",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "champa-planetary-deity-dongduong": {
+      "title": "占婆九曜神像（同阳寺）",
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",

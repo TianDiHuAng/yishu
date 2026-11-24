@@ -4659,6 +4659,36 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；软玉 35.2cm；说明含2毫米薄度与齐家祭祀坑立置"
+    },
+    {
+      "id": "cma-1963-263",
+      "title": "Cleveland Museum of Art — Naga-Enthroned Buddha, Angkor, 1100s, acc. 1963.263",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1963.263",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；青铜存鎏金 58.4×28cm；说明含阇耶跋摩七世与慈悲/智慧"
+    },
+    {
+      "id": "cma-1969-56",
+      "title": "Cleveland Museum of Art — Bust of Buddha, Dvaravati, c. 700, acc. 1969.56",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1969.56",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；石灰岩 60.6×34.3cm；说明含印度元素与孟族面容"
+    },
+    {
+      "id": "cma-2011-149",
+      "title": "Cleveland Museum of Art — Seated Buddha, Burma (Pagan), 1100s, acc. 2011.149",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2011.149",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；木胎黑漆鎏金 100×62×30cm；说明含触地印与蒲甘"
     }
   ]
 }

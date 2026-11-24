@@ -1222,6 +1222,18 @@
       },
       "network": "partial (museum APIs)",
       "verdict": "中国玉器 0→4（总336）；未饱和"
+    },
+    {
+      "cycle": "cycle99",
+      "date": "2026-11-24",
+      "methods_used": [
+        "东南亚艺术"
+      ],
+      "gaps_found": {
+        "entries": 4
+      },
+      "network": "partial (museum APIs)",
+      "verdict": "东南亚 4 条新增（总340）；未饱和"
     }
   ],
   "assessment_c33": {

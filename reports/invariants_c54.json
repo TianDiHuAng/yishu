@@ -11,25 +11,25 @@
   ]
  ],
  "stats": {
-  "entries": 336,
-  "sources": 466,
+  "entries": 340,
+  "sources": 469,
   "units": 28,
-  "html_files": 373,
+  "html_files": 377,
   "source_types": {
    "权威百科": 149,
    "官方机构": 1,
    "权威结构化数据": 41,
    "权威结构化数据（身份锚点）": 77,
-   "权威机构藏品记录": 198
+   "权威机构藏品记录": 201
   },
   "levels": {
-   "L2": 332,
+   "L2": 336,
    "L3": 4
   },
   "tiers": {
    "重要": 209,
    "补充": 12,
-   "核心": 115
+   "核心": 119
   },
   "per_unit": {
    "art-ancient": 26,
@@ -52,7 +52,7 @@
    "overview-guide": 5,
    "comparative": 4,
    "glossary-tools": 5,
-   "art-asia": 47,
+   "art-asia": 51,
    "work-archives": 7,
    "art-islamic": 17,
    "art-africa": 24,

@@ -2980,7 +2980,8 @@
         "miroku-asuka",
         "nikko-bodhisattva",
         "kofukuji-seated-buddha",
-        "amida-shitennoji"
+        "amida-shitennoji",
+        "dvaravati-buddha-bust"
       ],
       "sources": [
         "enc-buddhist-art-india",
@@ -7284,6 +7285,89 @@
       ],
       "sources": [
         "cma-2009-83"
+      ]
+    },
+    {
+      "id": "khmer-naga-buddha",
+      "title": "高棉那伽座佛",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "12世纪",
+      "region": "东南亚",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "吴哥期青铜鎏金那伽座佛，克利夫兰艺术博物馆藏（1963.263）。",
+      "when": "12世纪",
+      "overview": "阇耶跋摩七世以「那伽座佛」自比，象征慈悲（Lokeshvara）与智慧（Prajnaparamita）所生之觉悟者。",
+      "related": [
+        "dvaravati-buddha-bust",
+        "burmese-seated-buddha",
+        "champa-planetary-deity-dongduong"
+      ],
+      "sources": [
+        "cma-1963-263"
+      ]
+    },
+    {
+      "id": "dvaravati-buddha-bust",
+      "title": "堕罗钵底佛首",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "7—9世纪",
+      "region": "东南亚",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "泰国中部堕罗钵底风格石灰岩佛首，克利夫兰艺术博物馆藏（1969.56）。",
+      "when": "约公元700年",
+      "overview": "长耳、肉髻、螺发等图像元素源自印度；孟族赋予面部独特表现：锐利双眼与程式化丰厚卷唇。",
+      "related": [
+        "khmer-naga-buddha",
+        "buddhist-art-india",
+        "burmese-seated-buddha",
+        "champa-planetary-deity-dongduong"
+      ],
+      "sources": [
+        "cma-1969-56"
+      ]
+    },
+    {
+      "id": "burmese-seated-buddha",
+      "title": "蒲甘坐佛",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "12世纪",
+      "region": "东南亚",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "缅甸蒲甘风格木胎黑漆鎏金坐佛，克利夫兰艺术博物馆藏（2011.149）。",
+      "when": "12世纪",
+      "overview": "结跏趺坐禅定，右手触地印请大地为证；双层莲座示超验；整木雕成、黑漆鎏金，同类大件极罕。",
+      "related": [
+        "dvaravati-buddha-bust",
+        "khmer-naga-buddha"
+      ],
+      "sources": [
+        "cma-2011-149"
+      ]
+    },
+    {
+      "id": "champa-planetary-deity-dongduong",
+      "title": "占婆九曜神像（同阳寺）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "9世纪",
+      "region": "东南亚",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "越南占婆砂岩九曜神像，克利夫兰艺术博物馆藏（1935.147）。",
+      "when": "公元850—875年",
+      "overview": "九曜之一、护寺之神；短匕首、须与蹙眉示猛护；王者安逸坐姿与宝冠示天界之王；座上 kirtimukha 示创造力。",
+      "related": [
+        "khmer-naga-buddha",
+        "dvaravati-buddha-bust"
+      ],
+      "sources": [
+        "cma-1935-147"
       ]
     }
   ]
