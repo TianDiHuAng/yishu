@@ -9256,7 +9256,8 @@
       "overview": "画面并不图解史诗叙事，而很可能描绘**订制该写本的宫廷观众**；对页另一半在同馆（1945.169）。",
       "related": [
         "great-mongol-shahnama-folio",
-        "panj-ganj-page"
+        "panj-ganj-page",
+        "safavid-khamsa-khusrau"
       ],
       "sources": [
         "cma-1956-10"
@@ -9323,7 +9324,8 @@
       "related": [
         "shiraz-frontispiece",
         "great-mongol-shahnama-folio",
-        "murad-bakhsh-jewel"
+        "murad-bakhsh-jewel",
+        "safavid-khamsa-khusrau"
       ],
       "sources": [
         "cma-2013-315-2"
@@ -11085,7 +11087,8 @@
       "overview": "以王冠识为霍尔米兹德二世，但风格提示或为后世同理之名君主的纪念作。",
       "related": [
         "islamic-art",
-        "roman-art"
+        "roman-art",
+        "sasanian-horse-vessel"
       ],
       "sources": [
         "cma-1962-150"
@@ -12844,7 +12847,8 @@
         "islamic-art",
         "korean-celadon-bottle",
         "mamluk-mosque-lamp",
-        "minai-bowl-kashan"
+        "minai-bowl-kashan",
+        "minai-beaker-princes"
       ],
       "sources": [
         "vam-o67415"
@@ -12948,7 +12952,8 @@
         "kashan-salting-mihrab",
         "mamluk-mosque-lamp",
         "iznik-tile-panel-edirne",
-        "ilkhanid-flying-birds-bowl"
+        "ilkhanid-flying-birds-bowl",
+        "minai-beaker-princes"
       ],
       "sources": [
         "vam-o85593"
@@ -13155,7 +13160,8 @@
         "ushak-carpet",
         "islamic-art",
         "ottoman-silk-lampas",
-        "kente-cloth-va1950"
+        "kente-cloth-va1950",
+        "safavid-poppy-textile"
       ],
       "sources": [
         "vam-o54307"
@@ -13257,7 +13263,8 @@
       "overview": "奶油色石竹置深红地、错列排布；最贵重者为丝绒与 kemha/seraser 复合织物，常夹银或银鎏金线；布尔萨为织造中心。",
       "related": [
         "ottoman-silk-lampas",
-        "ushak-carpet"
+        "ushak-carpet",
+        "safavid-poppy-textile"
       ],
       "sources": [
         "vam-o93545"
@@ -15185,7 +15192,8 @@
       "overview": "装饰管或为军徽；双抽象羱羊前腿延展成环（或曾插杆）；胸前横杆另托环；脊角/卷须/绞尾，后腿再汇一环；卢里斯坦为铁器时代半游牧金属业重镇。",
       "related": [
         "luristan-master-cheekpiece",
-        "luristan-axel-cup"
+        "luristan-axel-cup",
+        "sasanian-horse-vessel"
       ],
       "sources": [
         "cma-1992-246"
@@ -16237,6 +16245,138 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='aztec-seated-deity 示意图'><title>aztec-seated-deity</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>阿兹特克·1350—15</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>灰火山岩</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>坐神像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>37.5cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>Macuilxochit</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>五花神</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>平民·邻里小庙</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>基层</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>坐神像：享乐神、平民与场所</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（CMA）来源；身份存疑；出土地为推测。"
+    },
+    {
+      "id": "minai-beaker-princes",
+      "title": "米纳伊坐王子高足杯",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "12—13世纪",
+      "region": "西亚·中亚",
+      "medium": "陶瓷",
+      "tier": "核心",
+      "def": "卡尚米纳伊釉上彩高足杯，克利夫兰艺术博物馆藏（1917.977）。",
+      "when": "1180—1220年",
+      "overview": "mina’i 意为珐琅，为奢侈陶；以珐琅彩首次成真正多色瓷；蓝绿紫配锐黑红；人物场景常见，如列坐朝臣簇拥王者、狩猎放鹰。",
+      "related": [
+        "minai-bowl-kashan",
+        "kashan-salting-mihrab"
+      ],
+      "sources": [
+        "cma-1917-977"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明：**mina’i ware** 之名取自**波斯语「珐琅」**；它是**一种奢侈陶器**，采用**釉上珐琅彩**，**首次造出真正的多色陶瓷**。本件为卡尚所制（1180—1220），CMA 藏（1917.977）。",
+        "风格特征": "该馆描述技法与色彩：mina’i 常把**蓝、绿、紫**与**锐利的黑与红**结合，**施彩精准有度**。该类器上**人物场景相当常见**，且**常令人想起书籍插图**——包括**成排的列坐朝臣**（有时**簇拥着登座的统治者**）与**王子的狩猎或放鹰场景**。",
+        "代表人物与作品": "作者未署名。相关条目见米纳伊碗与卡尚米哈拉布。本件为 CMA 藏品（1917.977）。",
+        "技法或形式分析": "工艺为**熔块胎、釉上彩（mina’i）**；尺寸13.3 × 12.3厘米（据该馆记录）。",
+        "与前后风格的关系和争论": "本条目据该馆说明把 mina’i 理解为**「陶器上的书籍插图」**：釉上彩使多色人物叙事成为可能，器面从而**借用了手抄本的图像语汇**。这为「装饰」与「插图」之间搭起桥梁。",
+        "一图": "示意图以珐琅釉上彩、多色初现与书像式列坐场景三者关系标示本杯。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「首次真正多色瓷」为该馆断语；（3）本杯的具体人物场景未逐一描述；（4）烧成工序细节未展开。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='minai-beaker-princes 示意图'><title>minai-beaker-princes</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>卡尚·1180—1220</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>熔块胎</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>米纳伊杯</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>13.3cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>珐琅多色</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>首次</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>书像式场景</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>借用手抄本</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>米纳伊杯：釉彩、多色与书像</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；人物场景未逐一描述。"
+    },
+    {
+      "id": "safavid-poppy-textile",
+      "title": "萨法维罂粟纹金地织物",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "17—18世纪",
+      "region": "西亚·中亚",
+      "medium": "织物",
+      "tier": "核心",
+      "def": "萨法维丝与金线织物，克利夫兰艺术博物馆藏（1926.22）。",
+      "when": "1600—1750年",
+      "overview": "印伊织物贸易兴盛，莫卧儿与萨法维宫廷皆赏两地产品；细腻人字纹托出成行罂粟，桃绿丝线以断纬相绞成花、表面光滑而轻。",
+      "related": [
+        "ardabil-carpet",
+        "ottoman-silk-velvet"
+      ],
+      "sources": [
+        "cma-1926-22"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明：**印度与伊朗之间**的**织物贸易兴盛**；**莫卧儿与萨法维**两个相邻王朝的**宫廷消费者**都**欣赏两地产品**。本件为萨法维丝与金线织物（1600—1750），CMA 藏（1926.22）。",
+        "风格特征": "该馆描述纹样：**细腻的人字形（chevrons）** 衬托出**成行的罂粟**，**罂粟向交替方向摇曳**，为整体图案**添一份轻盈的生动**。",
+        "代表人物与作品": "作者未署名。相关条目见阿尔达比勒毯与布尔萨丝绒。",
+        "技法或形式分析": "材质为**丝与镀金金属线：斜纹组织加附加纬，并压印（stamped）**；尺寸85.7 × 71.1厘米，含裱92.7 × 78.7厘米（据该馆记录）。该馆说明**成花工艺**：**桃色与绿色丝线**以**断纬（discontinuous wefts）** 相绞成每朵罂粟，从而获得**光滑的表面**与**轻薄的织物**。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「断纬成花」读作**技术与视觉的耦合**：断纬许可以不同色块自由换色而背面不显，正服务于**细腻花卉**的表现；印伊两地的**共享趣味**又使织物成为**跨王朝的物质纽带**。",
+        "一图": "示意图以印伊贸易、断纬成花与罂粟摇曳三者关系标示本织物。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「压印」工序的具体作用未展开；（3）织造地点未记录；（4）金线成分未分析。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='safavid-poppy-textile 示意图'><title>safavid-poppy-textile</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>萨法维·1600—175</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>丝与金线</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>罂粟纹织物</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>85.7×71.1</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>断纬成花</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>表面光滑</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>印伊共享趣味</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>物质纽带</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>罂粟织物：技术、纹样与贸易</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；织地与金线成分未记录。"
+    },
+    {
+      "id": "safavid-khamsa-khusrau",
+      "title": "《五宝》之《霍斯鲁与希琳》（萨法维）",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "16世纪",
+      "region": "西亚·中亚",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "设拉子《五宝》写本插图（背面），克利夫兰艺术博物馆藏（1947.500.b）。",
+      "when": "1540—1570年",
+      "overview": "尼扎米《五宝》含萨珊王霍斯鲁·帕尔维兹（590—628）与亚美尼亚公主希琳之恋；夜色以变暗的银点星；希琳奉无花果石榴（喻丰产），右下乐人弹长颈有品tanbur。",
+      "related": [
+        "shiraz-frontispiece",
+        "panj-ganj-page"
+      ],
+      "sources": [
+        "cma-1947-500-b"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明：**《五宝（Khamsa）》** 是**五首叙事诗**的合集，其中一首**献给萨珊伊朗王霍斯鲁·帕尔维兹（590—628）与其挚爱的亚美尼亚公主希琳**的恋情。本件为设拉子《五宝》写本插图（背面），1540—70年，CMA 藏（1947.500.b）。",
+        "风格特征": "该馆描述画面：**恋人们坐于夜景之中**——**深蓝夜空点缀星辰**，以**如今已变暗的银**绘成；**希琳向霍斯鲁奉上无花果与石榴**，**象征丰产**，同时**侍从们送来更多无花果与酒**；**希琳黑马**旁，**右下角的乐人弹奏 tanbur**——一种**长颈有品的鲁特琴**。",
+        "代表人物与作品": "作者未署名。相关条目见设拉子对页与贾米《五宝》册页。",
+        "技法或形式分析": "材质为**纸本不透明水彩、墨、金与银**；整页29.6 × 16.2厘米、画心21 × 14厘米（据该馆记录）。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「夜色＋献果＋奏乐」读作**爱情叙事的感知配置**：银点星把时间定在夜，石榴/无花果把语义定在丰产，tanbur 把听觉引入画面——**诗、色、声**在方寸间合奏。",
+        "一图": "示意图以夜景、奉果与 tanbur 乐人三者关系标示本页。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）银已变暗为现状描述；（3）写本其余页分布未记录；（4）「丰产」象征为该馆解释。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='safavid-khamsa-khusrau 示意图'><title>safavid-khamsa-khusrau</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>设拉子·1540—70</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>萨法维</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>霍斯鲁与希琳</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>29.6×16.2</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>夜景·银星</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>时间</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>奉果·tanbur</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>丰产与声</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>《霍斯鲁与希琳》：夜、果与乐</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；其余页未记录；象征为馆方。"
+    },
+    {
+      "id": "sasanian-horse-vessel",
+      "title": "萨珊马形饮器",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "公元3—4世纪",
+      "region": "西亚·中亚",
+      "medium": "金属器",
+      "tier": "核心",
+      "def": "萨珊银局部鎏金马形饮器，克利夫兰艺术博物馆藏（1964.41）。",
+      "when": "200—325年",
+      "overview": "马为古伊朗钟爱题材、育马兴盛；此健硕牡马源出阿契美尼德王朝皇家圣种尼萨马；萨珊马具繁丽却无马镫；马静卧如近东骆驼待人骑；肩部圆章内为持权杖环之王像。",
+      "related": [
+        "sasanian-hunting-dish",
+        "luristan-ibex-standard"
+      ],
+      "sources": [
+        "cma-1964-41"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明：**马**是**古代伊朗**最受钟爱的艺术题材之一，那里**养马兴盛**。本件为萨珊（200—325）银局部鎏金马形饮器，CMA 藏（1964.41）。",
+        "风格特征": "该馆介绍血统：这匹**健硕的萨珊牡马**是**阿契美尼德波斯人的皇家与神圣「尼萨（Nisean）马」** 的后裔；虽萨珊**马具繁丽**，却**不含用于上马的马镫**。该馆并描述姿态：在此表现中，骏马**静静卧下**——**如同今日近东的骆驼**——**等待骑者上鞍**。",
+        "代表人物与作品": "作者未署名。相关条目见萨珊狩猎银盘与卢里斯坦羱羊标顶。",
+        "技法或形式分析": "材质为**银，局部鎏金**；尺寸12 × 10.8 × 32.7厘米（据该馆记录）。该馆描述**肩部圆章**：**每肩的圆章内含半身像**，**或为萨珊帝国不同地区的统治者**，**手持其权杖环（rings of authority）**。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「马形饮器」读作**多重功能物**：它既是**盛酒之器**（可能用于宴饮仪式），又以**尼萨马血统**与**权杖环王像**宣示**王权与疆域**。本条目只依记录陈述。",
+        "一图": "示意图以尼萨马血统、无权杖环王像与卧马待骑三者关系标示本器。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「或为各地区统治者」该馆用 perhaps；（3）饮器的开孔与用法未描述；（4）出土地未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='sasanian-horse-vessel 示意图'><title>sasanian-horse-vessel</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>萨珊·200—325</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>银鎏金</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>马形饮器</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>32.7cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>尼萨马血统</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>皇家圣种</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>权杖环王像</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>王权</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>马形饮器：血统、王像与功能</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；王像身份存疑；出土地未记录。"
     }
   ]
 }

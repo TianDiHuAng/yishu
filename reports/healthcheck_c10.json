@@ -249,6 +249,14 @@
    [
     "1787"
    ]
+  ],
+  [
+   "safavid-khamsa-khusrau",
+   "1540—1570年",
+   [
+    "590",
+    "628"
+   ]
   ]
  ],
  "orphans": [],
@@ -305,6 +313,6 @@
  "link_audit": {
   "cross_domain": 22,
   "oneway": 0,
-  "total_links": 1518
+  "total_links": 1534
  }
 }

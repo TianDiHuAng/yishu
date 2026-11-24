@@ -5909,6 +5909,36 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；灰火山岩存红彩 37.5×20.3×24.8cm；说明含五花神与邻里小庙"
+    },
+    {
+      "id": "cma-1926-22",
+      "title": "Cleveland Museum of Art — Safavid textile with poppies on golden ground, 1600–1750, acc. 1926.22",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1926.22",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；丝与金线斜纹纬浮印花 85.7×71.1cm；说明含印伊织物贸易"
+    },
+    {
+      "id": "cma-1947-500-b",
+      "title": "Cleveland Museum of Art — Khamsa of Nizami: Khusrau and Shirin (verso), Shiraz, 1540–70, acc. 1947.500.b",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1947.500.b",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；纸本不透明水彩金 29.6×16.2cm；说明含夜景、石榴与tanbur"
+    },
+    {
+      "id": "cma-1964-41",
+      "title": "Cleveland Museum of Art — Sasanian horse-shaped drinking vessel, 200–325 CE, acc. 1964.41",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1964.41",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；银局部鎏金 12×10.8×32.7cm；说明含尼萨马与无权杖环像"
     }
   ]
 }

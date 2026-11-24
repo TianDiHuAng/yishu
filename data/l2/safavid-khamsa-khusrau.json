@@ -1,0 +1,19 @@
+{
+ "id": "safavid-khamsa-khusrau",
+ "level": "L2",
+ "sections": {
+  "时代背景": "该馆说明：**《五宝（Khamsa）》** 是**五首叙事诗**的合集，其中一首**献给萨珊伊朗王霍斯鲁·帕尔维兹（590—628）与其挚爱的亚美尼亚公主希琳**的恋情。本件为设拉子《五宝》写本插图（背面），1540—70年，CMA 藏（1947.500.b）。",
+  "风格特征": "该馆描述画面：**恋人们坐于夜景之中**——**深蓝夜空点缀星辰**，以**如今已变暗的银**绘成；**希琳向霍斯鲁奉上无花果与石榴**，**象征丰产**，同时**侍从们送来更多无花果与酒**；**希琳黑马**旁，**右下角的乐人弹奏 tanbur**——一种**长颈有品的鲁特琴**。",
+  "代表人物与作品": "作者未署名。相关条目见设拉子对页与贾米《五宝》册页。",
+  "技法或形式分析": "材质为**纸本不透明水彩、墨、金与银**；整页29.6 × 16.2厘米、画心21 × 14厘米（据该馆记录）。",
+  "与前后风格的关系和争论": "本条目据该馆说明把「夜色＋献果＋奏乐」读作**爱情叙事的感知配置**：银点星把时间定在夜，石榴/无花果把语义定在丰产，tanbur 把听觉引入画面——**诗、色、声**在方寸间合奏。",
+  "一图": "示意图以夜景、奉果与 tanbur 乐人三者关系标示本页。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）银已变暗为现状描述；（3）写本其余页分布未记录；（4）「丰产」象征为该馆解释。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='safavid-khamsa-khusrau 示意图'><title>safavid-khamsa-khusrau</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>设拉子·1540—70</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>萨法维</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>霍斯鲁与希琳</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>29.6×16.2</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>夜景·银星</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>时间</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>奉果·tanbur</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>丰产与声</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>《霍斯鲁与希琳》：夜、果与乐</text></g></svg>",
+ "sources": [
+  "cma-1947-500-b"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；其余页未记录；象征为馆方。"
+}

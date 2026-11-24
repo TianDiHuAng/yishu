@@ -5745,7 +5745,8 @@
       "overview": "画面并不图解史诗叙事，而很可能描绘**订制该写本的宫廷观众**；对页另一半在同馆（1945.169）。",
       "related": [
         "great-mongol-shahnama-folio",
-        "panj-ganj-page"
+        "panj-ganj-page",
+        "safavid-khamsa-khusrau"
       ],
       "sources": [
         "cma-1956-10"
@@ -5786,7 +5787,8 @@
       "related": [
         "shiraz-frontispiece",
         "great-mongol-shahnama-folio",
-        "murad-bakhsh-jewel"
+        "murad-bakhsh-jewel",
+        "safavid-khamsa-khusrau"
       ],
       "sources": [
         "cma-2013-315-2"
@@ -6872,7 +6874,8 @@
       "overview": "以王冠识为霍尔米兹德二世，但风格提示或为后世同理之名君主的纪念作。",
       "related": [
         "islamic-art",
-        "roman-art"
+        "roman-art",
+        "sasanian-horse-vessel"
       ],
       "sources": [
         "cma-1962-150"
@@ -7955,7 +7958,8 @@
         "islamic-art",
         "korean-celadon-bottle",
         "mamluk-mosque-lamp",
-        "minai-bowl-kashan"
+        "minai-bowl-kashan",
+        "minai-beaker-princes"
       ],
       "sources": [
         "vam-o67415"
@@ -8020,7 +8024,8 @@
         "kashan-salting-mihrab",
         "mamluk-mosque-lamp",
         "iznik-tile-panel-edirne",
-        "ilkhanid-flying-birds-bowl"
+        "ilkhanid-flying-birds-bowl",
+        "minai-beaker-princes"
       ],
       "sources": [
         "vam-o85593"
@@ -8149,7 +8154,8 @@
         "ushak-carpet",
         "islamic-art",
         "ottoman-silk-lampas",
-        "kente-cloth-va1950"
+        "kente-cloth-va1950",
+        "safavid-poppy-textile"
       ],
       "sources": [
         "vam-o54307"
@@ -8212,7 +8218,8 @@
       "overview": "奶油色石竹置深红地、错列排布；最贵重者为丝绒与 kemha/seraser 复合织物，常夹银或银鎏金线；布尔萨为织造中心。",
       "related": [
         "ottoman-silk-lampas",
-        "ushak-carpet"
+        "ushak-carpet",
+        "safavid-poppy-textile"
       ],
       "sources": [
         "vam-o93545"
@@ -9399,7 +9406,8 @@
       "overview": "装饰管或为军徽；双抽象羱羊前腿延展成环（或曾插杆）；胸前横杆另托环；脊角/卷须/绞尾，后腿再汇一环；卢里斯坦为铁器时代半游牧金属业重镇。",
       "related": [
         "luristan-master-cheekpiece",
-        "luristan-axel-cup"
+        "luristan-axel-cup",
+        "sasanian-horse-vessel"
       ],
       "sources": [
         "cma-1992-246"
@@ -10034,6 +10042,86 @@
       ],
       "sources": [
         "cma-1990-136"
+      ]
+    },
+    {
+      "id": "minai-beaker-princes",
+      "title": "米纳伊坐王子高足杯",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "12—13世纪",
+      "region": "西亚·中亚",
+      "medium": "陶瓷",
+      "tier": "核心",
+      "def": "卡尚米纳伊釉上彩高足杯，克利夫兰艺术博物馆藏（1917.977）。",
+      "when": "1180—1220年",
+      "overview": "mina’i 意为珐琅，为奢侈陶；以珐琅彩首次成真正多色瓷；蓝绿紫配锐黑红；人物场景常见，如列坐朝臣簇拥王者、狩猎放鹰。",
+      "related": [
+        "minai-bowl-kashan",
+        "kashan-salting-mihrab"
+      ],
+      "sources": [
+        "cma-1917-977"
+      ]
+    },
+    {
+      "id": "safavid-poppy-textile",
+      "title": "萨法维罂粟纹金地织物",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "17—18世纪",
+      "region": "西亚·中亚",
+      "medium": "织物",
+      "tier": "核心",
+      "def": "萨法维丝与金线织物，克利夫兰艺术博物馆藏（1926.22）。",
+      "when": "1600—1750年",
+      "overview": "印伊织物贸易兴盛，莫卧儿与萨法维宫廷皆赏两地产品；细腻人字纹托出成行罂粟，桃绿丝线以断纬相绞成花、表面光滑而轻。",
+      "related": [
+        "ardabil-carpet",
+        "ottoman-silk-velvet"
+      ],
+      "sources": [
+        "cma-1926-22"
+      ]
+    },
+    {
+      "id": "safavid-khamsa-khusrau",
+      "title": "《五宝》之《霍斯鲁与希琳》（萨法维）",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "16世纪",
+      "region": "西亚·中亚",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "设拉子《五宝》写本插图（背面），克利夫兰艺术博物馆藏（1947.500.b）。",
+      "when": "1540—1570年",
+      "overview": "尼扎米《五宝》含萨珊王霍斯鲁·帕尔维兹（590—628）与亚美尼亚公主希琳之恋；夜色以变暗的银点星；希琳奉无花果石榴（喻丰产），右下乐人弹长颈有品tanbur。",
+      "related": [
+        "shiraz-frontispiece",
+        "panj-ganj-page"
+      ],
+      "sources": [
+        "cma-1947-500-b"
+      ]
+    },
+    {
+      "id": "sasanian-horse-vessel",
+      "title": "萨珊马形饮器",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "公元3—4世纪",
+      "region": "西亚·中亚",
+      "medium": "金属器",
+      "tier": "核心",
+      "def": "萨珊银局部鎏金马形饮器，克利夫兰艺术博物馆藏（1964.41）。",
+      "when": "200—325年",
+      "overview": "马为古伊朗钟爱题材、育马兴盛；此健硕牡马源出阿契美尼德王朝皇家圣种尼萨马；萨珊马具繁丽却无马镫；马静卧如近东骆驼待人骑；肩部圆章内为持权杖环之王像。",
+      "related": [
+        "sasanian-hunting-dish",
+        "luristan-ibex-standard"
+      ],
+      "sources": [
+        "cma-1964-41"
       ]
     }
   ]

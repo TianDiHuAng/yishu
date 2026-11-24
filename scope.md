@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 464 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 468 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -452,6 +452,10 @@
 | zayn-al-din-bucket | 扎因丁署名铜桶 | 作品 | 15世纪 | 西亚·中亚 | 金属器 | 重要 | O1 |
 | ilkhanid-flying-birds-bowl | 伊尔汗飞鸟纹碗 | 作品 | 13—14世纪 | 西亚·中亚 | 陶瓷 | 核心 | O1 |
 | kutahya-tile-panel | 屈塔希亚釉砖板 | 作品 | 17世纪 | 西亚·中亚 | 陶瓷 | 核心 | O1 |
+| minai-beaker-princes | 米纳伊坐王子高足杯 | 作品 | 12—13世纪 | 西亚·中亚 | 陶瓷 | 核心 | O1 |
+| safavid-poppy-textile | 萨法维罂粟纹金地织物 | 作品 | 17—18世纪 | 西亚·中亚 | 织物 | 核心 | O1 |
+| safavid-khamsa-khusrau | 《五宝》之《霍斯鲁与希琳》（萨法维） | 作品 | 16世纪 | 西亚·中亚 | 绘画 | 核心 | O1 |
+| sasanian-horse-vessel | 萨珊马形饮器 | 作品 | 公元3—4世纪 | 西亚·中亚 | 金属器 | 核心 | O1 |
 
 ## art-africa（非洲艺术（撒哈拉以南））
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

@@ -1,0 +1,19 @@
+{
+ "id": "minai-beaker-princes",
+ "level": "L2",
+ "sections": {
+  "时代背景": "该馆说明：**mina’i ware** 之名取自**波斯语「珐琅」**；它是**一种奢侈陶器**，采用**釉上珐琅彩**，**首次造出真正的多色陶瓷**。本件为卡尚所制（1180—1220），CMA 藏（1917.977）。",
+  "风格特征": "该馆描述技法与色彩：mina’i 常把**蓝、绿、紫**与**锐利的黑与红**结合，**施彩精准有度**。该类器上**人物场景相当常见**，且**常令人想起书籍插图**——包括**成排的列坐朝臣**（有时**簇拥着登座的统治者**）与**王子的狩猎或放鹰场景**。",
+  "代表人物与作品": "作者未署名。相关条目见米纳伊碗与卡尚米哈拉布。本件为 CMA 藏品（1917.977）。",
+  "技法或形式分析": "工艺为**熔块胎、釉上彩（mina’i）**；尺寸13.3 × 12.3厘米（据该馆记录）。",
+  "与前后风格的关系和争论": "本条目据该馆说明把 mina’i 理解为**「陶器上的书籍插图」**：釉上彩使多色人物叙事成为可能，器面从而**借用了手抄本的图像语汇**。这为「装饰」与「插图」之间搭起桥梁。",
+  "一图": "示意图以珐琅釉上彩、多色初现与书像式列坐场景三者关系标示本杯。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「首次真正多色瓷」为该馆断语；（3）本杯的具体人物场景未逐一描述；（4）烧成工序细节未展开。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='minai-beaker-princes 示意图'><title>minai-beaker-princes</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>卡尚·1180—1220</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>熔块胎</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>米纳伊杯</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>13.3cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>珐琅多色</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>首次</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>书像式场景</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>借用手抄本</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>米纳伊杯：釉彩、多色与书像</text></g></svg>",
+ "sources": [
+  "cma-1917-977"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；人物场景未逐一描述。"
+}

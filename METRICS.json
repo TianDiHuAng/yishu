@@ -3719,6 +3719,31 @@
       "check_links_result": "broken=0(501页)",
       "audit_all": "12/12 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle135",
+      "date": "2026-11-24",
+      "status": "completed",
+      "gap_methods": [
+        "伊斯兰（CMA）"
+      ],
+      "network": "CMA ok",
+      "new_entries": 4,
+      "new_entry_ids": [
+        "minai-beaker-princes",
+        "safavid-poppy-textile",
+        "safavid-khamsa-khusrau",
+        "sasanian-horse-vessel"
+      ],
+      "naming_fix": "1947.500.b=尼扎米《五宝》，id 用 khamsa",
+      "new_sources": 4,
+      "sources_total": 594,
+      "entries_total": 468,
+      "pages": 505,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(505页)",
+      "audit_all": "12/12 ok",
+      "commits": 1
     }
   ]
 }

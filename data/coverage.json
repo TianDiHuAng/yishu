@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 464,
+    "total": 468,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -5573,6 +5573,54 @@
     "aztec-seated-deity": {
       "title": "阿兹特克坐神像（五花神？）",
       "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "minai-beaker-princes": {
+      "title": "米纳伊坐王子高足杯",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "safavid-poppy-textile": {
+      "title": "萨法维罂粟纹金地织物",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "safavid-khamsa-khusrau": {
+      "title": "《五宝》之《霍斯鲁与希琳》（萨法维）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "sasanian-horse-vessel": {
+      "title": "萨珊马形饮器",
+      "tier": "核心",
       "level": "L2",
       "status": "written_l2",
       "sources_count": 1,
