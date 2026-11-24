@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 352 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 356 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -133,6 +133,10 @@
 | gauguin | 高更 | 人物 | 19世纪 | 法国 | 绘画 | 重要 | O1 |
 | degas | 埃德加·德加 | 人物 | 19世纪 | 法国 | 绘画 | 重要 | O1 |
 | manet | 爱德华·马奈 | 人物 | 19世纪 | 法国 | 绘画 | 核心 | O1 |
+| van-gogh-plane-trees | 梵高《大悬铃木（圣雷米修路工）》 | 作品 | 19世纪 | 欧洲 | 绘画 | 核心 | O1 |
+| van-gogh-dr-gachet | 梵高《加歇医生》（蚀刻） | 作品 | 19世纪 | 欧洲 | 版画 | 核心 | O1 |
+| pissarro-lock-pontoise | 毕沙罗《蓬图瓦兹水闸》 | 作品 | 19世纪 | 欧洲 | 绘画 | 核心 | O1 |
+| van-gogh-drenthe-wheelbarrow | 梵高《德伦特风景（手推车）》 | 作品 | 19世纪 | 欧洲 | 绘画 | 重要 | O1 |
 
 ## art-modern（艺术史·现代主义）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

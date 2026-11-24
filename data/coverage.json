@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 352,
+    "total": 356,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -4228,6 +4228,54 @@
     },
     "paelinck-self-portrait": {
       "title": "帕林克《自画像》",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "van-gogh-plane-trees": {
+      "title": "梵高《大悬铃木（圣雷米修路工）》",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "van-gogh-dr-gachet": {
+      "title": "梵高《加歇医生》（蚀刻）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "pissarro-lock-pontoise": {
+      "title": "毕沙罗《蓬图瓦兹水闸》",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "van-gogh-drenthe-wheelbarrow": {
+      "title": "梵高《德伦特风景（手推车）》",
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",

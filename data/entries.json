@@ -803,7 +803,8 @@
         "monet",
         "impression-crossmedia",
         "ukiyo-e",
-        "monet-water-lilies-agapanthus"
+        "monet-water-lilies-agapanthus",
+        "pissarro-lock-pontoise"
       ],
       "sources": [
         "enc-impressionism",
@@ -830,7 +831,10 @@
         "cezanne",
         "gauguin",
         "modern-art",
-        "starry-night"
+        "starry-night",
+        "van-gogh-plane-trees",
+        "van-gogh-dr-gachet",
+        "van-gogh-drenthe-wheelbarrow"
       ],
       "sources": [
         "enc-post-impressionism",
@@ -853,7 +857,8 @@
         "impressionism",
         "post-impressionism",
         "degas",
-        "monet-water-lilies-agapanthus"
+        "monet-water-lilies-agapanthus",
+        "pissarro-lock-pontoise"
       ],
       "sources": [
         "enc-monet",
@@ -7620,6 +7625,87 @@
       ],
       "sources": [
         "cma-1937-575"
+      ]
+    },
+    {
+      "id": "van-gogh-plane-trees",
+      "title": "梵高《大悬铃木（圣雷米修路工）》",
+      "kind": "作品",
+      "unit": "art-impression",
+      "era": "19世纪",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "梵高布面油画，克利夫兰艺术博物馆藏（1947.209）。",
+      "when": "1889年",
+      "overview": "圣雷米疗养院时期；医生准其户外写生以缓解抑郁；致提奥信中描述村中巨木与修路景象。",
+      "related": [
+        "post-impressionism",
+        "van-gogh-dr-gachet",
+        "van-gogh-drenthe-wheelbarrow"
+      ],
+      "sources": [
+        "cma-1947-209"
+      ]
+    },
+    {
+      "id": "van-gogh-dr-gachet",
+      "title": "梵高《加歇医生》（蚀刻）",
+      "kind": "作品",
+      "unit": "art-impression",
+      "era": "19世纪",
+      "region": "欧洲",
+      "medium": "版画",
+      "tier": "核心",
+      "def": "梵高蚀刻与干刻版画，克利夫兰艺术博物馆藏（1948.303）。",
+      "when": "1890年",
+      "overview": "去世前两个月作，是梵高**唯一**的蚀刻作品；经毕沙罗推荐投加歇医生，医生赠铜版并助其手压印制。",
+      "related": [
+        "van-gogh-plane-trees",
+        "post-impressionism"
+      ],
+      "sources": [
+        "cma-1948-303"
+      ]
+    },
+    {
+      "id": "pissarro-lock-pontoise",
+      "title": "毕沙罗《蓬图瓦兹水闸》",
+      "kind": "作品",
+      "unit": "art-impression",
+      "era": "19世纪",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "毕沙罗布面油画，克利夫兰艺术博物馆藏（1990.7）。",
+      "when": "1872年",
+      "overview": "印象派户外快速写生的开创者之一；急流与阴天以纯色碎笔触写成，或不打草稿一次完成。",
+      "related": [
+        "impressionism",
+        "monet"
+      ],
+      "sources": [
+        "cma-1990-7"
+      ]
+    },
+    {
+      "id": "van-gogh-drenthe-wheelbarrow",
+      "title": "梵高《德伦特风景（手推车）》",
+      "kind": "作品",
+      "unit": "art-impression",
+      "era": "19世纪",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "梵高水彩与不透明水彩画，克利夫兰艺术博物馆藏（1958.30）。",
+      "when": "1883年",
+      "overview": "1883年离海牙赴德伦特荒原；以钢绿与冷蓝的有限色盘写「广袤平原没入无限」，天光泛淡紫。",
+      "related": [
+        "van-gogh-plane-trees",
+        "post-impressionism"
+      ],
+      "sources": [
+        "cma-1958-30"
       ]
     }
   ]

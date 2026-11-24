@@ -2952,6 +2952,32 @@
       "check_links_result": "broken=0(389页)",
       "audit_all": "12/12 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle104",
+      "date": "2026-11-24",
+      "status": "completed",
+      "gap_methods": [
+        "印象/后印象（定向最薄单元）"
+      ],
+      "network": "partial: museum APIs ok",
+      "new_entries": 4,
+      "new_entry_ids": [
+        "van-gogh-plane-trees",
+        "van-gogh-dr-gachet",
+        "pissarro-lock-pontoise",
+        "van-gogh-drenthe-wheelbarrow"
+      ],
+      "impression_objects": 4,
+      "note": "Landscape with Wheelbarrow 实为梵高，已按 creator 更正",
+      "new_sources": 4,
+      "sources_total": 485,
+      "entries_total": 356,
+      "pages": 393,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(393页)",
+      "audit_all": "12/12 ok",
+      "commits": 1
     }
   ]
 }

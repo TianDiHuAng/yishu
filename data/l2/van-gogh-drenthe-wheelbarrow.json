@@ -1,0 +1,19 @@
+{
+ "id": "van-gogh-drenthe-wheelbarrow",
+ "level": "L2",
+ "sections": {
+  "时代背景": "该馆说明，**1883年9月**，梵高离开喧嚣的荷兰城市**海牙**，去寻找可供作画的**开阔乡野**；他迁往荷兰东北部的**德伦特（Drenthe）**——一个**几乎未被工业革命触及**的村庄。本件作于1883年。",
+  "风格特征": "该馆引梵高对这**贫瘠地带**的描述，称其**极其美丽而宁静**：「**这是怎样的宁静、怎样的辽阔、怎样的平和**。」",
+  "代表人物与作品": "作者梵高。相关条目见《大悬铃木》与后印象派。本件为克利夫兰艺术博物馆藏品（1958.30）。",
+  "技法或形式分析": "材质为**水彩与不透明水彩，辅以黑粉笔**，画于米色纸上；画纸24.9 × 35.7厘米（据该馆藏品记录）。该馆说明其**色盘极为有限**：**钢绿与冷蓝**，并以**淡紫色**写黄昏天空。",
+  "与前后风格的关系和争论": "该馆称梵高以此「娴熟地」描绘了当地一片**荒原**——「**一片没入无限的广袤平原**」。本条目据此把「有限色盘」与「无限感」并置：极简的色彩反衬出空间的辽阔。",
+  "一图": "示意图以德伦特荒原、有限色盘（钢绿·冷蓝·淡紫）与「没入无限」三者关系标示本画。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）引文为英文转译；（3）手推车在图中的位置未描述；（4）递藏未取得。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='van-gogh-drenthe-wheelba 示意图'><title>van-gogh-drenthe-wheelba</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>德伦特荒原</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1883</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>水彩风景</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>24.9×35.7</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>有限色盘</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>钢绿·冷蓝</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>没入无限</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>辽阔感</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>梵高德伦特：荒原、色盘与无限</text></g></svg>",
+ "sources": [
+  "cma-1958-30"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；引文为转译；递藏未取得。"
+}

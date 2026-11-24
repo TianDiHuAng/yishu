@@ -4809,6 +4809,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；布面油画 89×69.3cm；说明含在大卫门下与罗马时期"
+    },
+    {
+      "id": "cma-1947-209",
+      "title": "Cleveland Museum of Art — Vincent van Gogh, The Large Plane Trees (Road Menders at Saint-Rémy), 1889, acc. 1947.209",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1947.209",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；布面油画 73.4×91.8cm；说明含圣雷米疗养院与致提奥书信"
+    },
+    {
+      "id": "cma-1948-303",
+      "title": "Cleveland Museum of Art — Vincent van Gogh, Dr. Gachet, 1890, acc. 1948.303",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1948.303",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；蚀刻与干刻 18.1×15.2cm；说明含梵高唯一蚀刻版与皮萨罗推荐"
+    },
+    {
+      "id": "cma-1990-7",
+      "title": "Cleveland Museum of Art — Camille Pissarro, The Lock at Pontoise, 1872, acc. 1990.7",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1990.7",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；布面油画 53×83cm；说明含户外快速写生与碎笔触"
+    },
+    {
+      "id": "cma-1958-30",
+      "title": "Cleveland Museum of Art — Vincent van Gogh, Landscape with Wheelbarrow, 1883, acc. 1958.30",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1958.30",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；水彩与不透明水彩 24.9×35.7cm；说明含德伦特荒原与致提奥书信"
     }
   ]
 }

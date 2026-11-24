@@ -1280,6 +1280,18 @@
       },
       "network": "partial (museum APIs)",
       "verdict": "新古典/浪漫 8→12（总352）；未饱和"
+    },
+    {
+      "cycle": "cycle104",
+      "date": "2026-11-24",
+      "methods_used": [
+        "印象/后印象"
+      ],
+      "gaps_found": {
+        "entries": 4
+      },
+      "network": "partial (museum APIs)",
+      "verdict": "印象 8→12（总356）；未饱和"
     }
   ],
   "assessment_c33": {
