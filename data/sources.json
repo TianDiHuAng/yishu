@@ -5869,6 +5869,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；大理石 30.2×33×29.3cm；说明含蛇怪与魔鬼象征"
+    },
+    {
+      "id": "cma-2014-375",
+      "title": "Cleveland Museum of Art — Moche sea lion pup vessel, 200–850 CE, acc. 2014.375",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2014.375",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；陶与泥浆 19.7×15.5×16cm；说明含胃石与冥途传说"
+    },
+    {
+      "id": "cma-1963-252",
+      "title": "Cleveland Museum of Art — Teotihuacán mural fragment, elite male & maguey, 500–550, acc. 1963.252",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1963.252",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；壁画残块 83.2×116.2cm；说明含口卷与龙舌兰刺"
+    },
+    {
+      "id": "cma-1954-857",
+      "title": "Cleveland Museum of Art — Zapotec seated figure, 300 BCE–700 CE, acc. 1954.857",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1954.857",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；陶与泥浆 32.2×17.9×18.8cm；说明含历日象形13水/13燧刀"
+    },
+    {
+      "id": "cma-1990-136",
+      "title": "Cleveland Museum of Art — Aztec seated deity (Macuilxochitl?), 1350–1519, acc. 1990.136",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1990.136",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；灰火山岩存红彩 37.5×20.3×24.8cm；说明含五花神与邻里小庙"
     }
   ]
 }

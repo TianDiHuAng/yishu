@@ -6409,7 +6409,8 @@
       "related": [
         "maya-el-peru-stela",
         "americas-art",
-        "aztec-xochipilli-maize"
+        "aztec-xochipilli-maize",
+        "aztec-seated-deity"
       ],
       "sources": [
         "cma-1941-46"
@@ -6577,7 +6578,10 @@
         "aztec-xochipilli-maize",
         "maya-battle-vessel-nebaj",
         "maya-palace-cylinder",
-        "ulua-ring-vessel"
+        "ulua-ring-vessel",
+        "moche-sealion-pup",
+        "teotihuacan-mural-fragment",
+        "zapotec-seated-figure"
       ],
       "sources": [
         "cma-1967-29",
@@ -6655,7 +6659,8 @@
       "related": [
         "inca-tunic",
         "americas-art",
-        "maya-deer-vessel"
+        "maya-deer-vessel",
+        "moche-sealion-pup"
       ],
       "sources": [
         "cma-2005-6"
@@ -11752,7 +11757,8 @@
       "overview": "或为 Macuilxochitl 或 Xochipilli，司美、艺术与嬉戏舞蹈；手持花锥；背负玉米棒或喻其创造力。",
       "related": [
         "aztec-feathered-serpent",
-        "americas-art"
+        "americas-art",
+        "aztec-seated-deity"
       ],
       "sources": [
         "cma-1949-555"
@@ -15078,7 +15084,8 @@
       "related": [
         "maya-battle-vessel-nebaj",
         "americas-art",
-        "chama-deities-cylinder"
+        "chama-deities-cylinder",
+        "teotihuacan-mural-fragment"
       ],
       "sources": [
         "cma-1967-203"
@@ -16097,6 +16104,139 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='lion-basilisk-capital 示意图'><title>lion-basilisk-capital</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>北意·1175—1200</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>大理石</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>狮·蛇怪柱头</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>30.2cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>蛇怪一瞥致死</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>博物志</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>魔鬼·被基督践踏</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>象征</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>蛇怪柱头：怪物、博物志与象征</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（CMA）来源；产地存疑；原柱未记录。"
+    },
+    {
+      "id": "moche-sealion-pup",
+      "title": "莫切海狮幼崽瓶",
+      "kind": "作品",
+      "unit": "art-americas",
+      "era": "公元3—9世纪",
+      "region": "美洲",
+      "medium": "陶瓷",
+      "tier": "核心",
+      "def": "莫切陶与泥浆海狮瓶，克利夫兰艺术博物馆藏（2014.375）。",
+      "when": "200—850年",
+      "overview": "海狮常见于莫切艺术（肖形瓶或狩猎场景）；或因其胃中卵石而受珍视，今秘鲁民间医者视之为良药；殖民期传说海狮载亡者往海外岛，或可溯至莫切。",
+      "related": [
+        "moche-bat-vessel",
+        "americas-art",
+        "zapotec-seated-figure"
+      ],
+      "sources": [
+        "cma-2014-375"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**中央安第斯北岸莫切人**陶与泥浆瓶（200—850），CMA 藏（2014.375）。",
+        "风格特征": "该馆说明：**海狮**常见于**莫切艺术**——或作**肖形瓶（effigy vessels）**（如此「讨喜的幼崽」），或出现于**复杂场景**中，常被表现为**人类猎人的猎物**。",
+        "代表人物与作品": "作者未署名。相关条目见莫切蝙蝠形陶瓶与美洲艺术。",
+        "技法或形式分析": "材质为**陶与泥浆**；尺寸19.7 × 15.5 × 16厘米（据该馆记录）。",
+        "与前后风格的关系和争论": "该馆给出**双重文化义**：海狮**或因其胃中卵石而受珍视**——**现代秘鲁民间医者**视此卵石为**有强力药性**；而**殖民期原住民相信海狮载亡者往海外岛屿**，此观念**或可溯至莫切时代**。本条目据此把「动物形象」读作**药用与来世观念**的载体。",
+        "一图": "示意图以海狮肖形、胃石药性与载亡者传说三者关系标示本瓶。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「或可溯至莫切」该馆用 could；（3）卵石的具体用途未实证；（4）出土地未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='moche-sealion-pup 示意图'><title>moche-sealion-pup</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>莫切·200—850</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>北岸</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>海狮幼崽瓶</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>19.7cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>胃石·药性</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>民间医</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>载亡者传说</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>来世</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>海狮瓶：形象、药性与传说</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；卵石用途未实证；出土地未记录。"
+    },
+    {
+      "id": "teotihuacan-mural-fragment",
+      "title": "特奥蒂瓦坎壁画残块",
+      "kind": "作品",
+      "unit": "art-americas",
+      "era": "公元6世纪",
+      "region": "美洲",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "特奥蒂瓦坎风格湿壁画残块，克利夫兰艺术博物馆藏（1963.252）。",
+      "when": "500—550年",
+      "overview": "盛装贵男列队于富宅庭院墙；口卷示吟诵祈祷，一手泻花酒、一手携香袋；前后龙舌兰刺或喻献血与龙舌兰汁酒（pulque），刺插于束/地之上。",
+      "related": [
+        "maya-palace-cylinder",
+        "americas-art"
+      ],
+      "sources": [
+        "cma-1963-252"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**墨西哥中部特奥蒂瓦坎风格**湿壁画残块（500—550），或出 **Tlacuilapaxco 宅院**，CMA 藏（1963.252）。",
+        "风格特征": "该馆描述：一位**衣饰富丽的精英男性**，原属**沿一座富宅庭院墙壁列队行进**的**一排相同人物**；他**献上吟诵或祈祷**——以**口卷（mouth scroll）** 具象化——并**自一手泻下盛花的奠酒**；**另一手持香袋**。",
+        "代表人物与作品": "作者未署名。相关条目见玛雅宫宴筒瓶与美洲艺术。",
+        "技法或形式分析": "材质为**墙面残块上的湿壁画（fresco）**；整体83.2 × 116.2厘米（据该馆记录）。该馆解读**植物符号**：前后**龙舌兰（maguey）的棘刺**或**暗指献上珍贵的血**，以及一种由该仙人掌汁液制成的**仪式饮料（pulque，龙舌兰酒之较粗制者）**；这些刺被插在**或代表束或地块的物件**上。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「列队贵男」读作**宅院的空间政治**：重复的人物列队使墙面成为**身份与虔诚的连续宣示**；口卷、奠酒、香袋与龙舌兰刺共同构成**献祭语义**的复合句。",
+        "一图": "示意图以列队贵男、口卷奠酒与龙舌兰刺三者关系标示本残块。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）宅院名该馆用问号（?）；（3）「或喻献血」为解读；（4）原墙面位置未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='teotihuacan-mural-fragme 示意图'><title>teotihuacan-mural-fragme</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>特奥蒂瓦坎·500—55</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>湿壁画</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>贵男壁画</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>83.2×116.2</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>口卷·奠酒</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>献祭语义</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>龙舌兰刺</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>血与pulque</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>壁画：列队、献祭与植物</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；宅院存疑；原墙位未记录。"
+    },
+    {
+      "id": "zapotec-seated-figure",
+      "title": "萨波特克坐像（陪俑）",
+      "kind": "作品",
+      "unit": "art-americas",
+      "era": "公元前3—公元7世纪",
+      "region": "美洲",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "瓦哈卡萨波特克陶坐像，克利夫兰艺术博物馆藏（1954.857）。",
+      "when": "约公元前300—公元700年",
+      "overview": "萨波特克墓陶以华丽主瓮与较小陪俑成组；本俑或属近同组，另两件存墨西哥；身份（贵族/祖先/神）仍争；头冠与胸前象形为历日「13水」「13燧刀」。",
+      "related": [
+        "moche-sealion-pup",
+        "americas-art"
+      ],
+      "sources": [
+        "cma-1954-857"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**墨西哥瓦哈卡萨波特克风格**陶坐像（约前300—公元700），CMA 藏（1954.857）。",
+        "风格特征": "该馆说明**墓葬陶的组合逻辑**：萨波特克最著名的墓陶是**华丽的人物瓮（figural urns）**，其**两侧伴有较小、较简的陪俑（companions）**，如此件；与其他陪俑一样，本件**或原属一组近同的人物**——**另两件仍存墨西哥**。",
+        "代表人物与作品": "作者未署名。相关条目见莫切海狮瓶与美洲艺术。",
+        "技法或形式分析": "材质为**陶与泥浆**；尺寸32.2 × 17.9 × 18.8厘米（据该馆记录；热释光测年约前285—公元515）。该馆指出**身份之争**：这些墓陶人物究竟是**精英人类、王室祖先还是神祇**，**仍有争论**。",
+        "与前后风格的关系和争论": "该馆点出**文字证据**：萨波特克发展了**中美洲最早的书写系统之一**，见于**头冠与胸前的象形**——它们是**历日之名**：「**13 水**」与「**13 燧刀**」；由于**人以出生之日为名**，**其中一个象形或即标示该人物**。本条目据此把陪俑视为**可命名的个体**，而非泛化装饰。",
+        "一图": "示意图以主瓮＋陪俑组合、历日象形与身份之争三者关系标示本像。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）身份「仍有争论」为该馆说法；（3）另外两件的现藏地未记录；（4）热释光测年区间与风格年代并置，需谨慎。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='zapotec-seated-figure 示意图'><title>zapotec-seated-figure</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>萨波特克·前300—70</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>瓦哈卡</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>陪俑坐像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>32.2cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>历日「13水/13燧刀」</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>象形</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>身份之争</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>人类/祖先/神</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>萨波特克：组合、象形与身份</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；另两件下落未记录；测年需谨慎。"
+    },
+    {
+      "id": "aztec-seated-deity",
+      "title": "阿兹特克坐神像（五花神？）",
+      "kind": "作品",
+      "unit": "art-americas",
+      "era": "14—16世纪",
+      "region": "美洲",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "阿兹特克灰火山岩坐神像，克利夫兰艺术博物馆藏（1990.136）。",
+      "when": "1350—1519年",
+      "overview": "带缨头冠示青年坐男或为 Macuilxochitl（五花），司乐舞宴戏与性等诸乐；其祀在平民中流行；或为邻里小庙所作；石表或曾施灰泥重彩。",
+      "related": [
+        "aztec-xochipilli-maize",
+        "aztec-feathered-serpent"
+      ],
+      "sources": [
+        "cma-1990-136"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**阿兹特克**灰火山岩坐神像（1350—1519），可能出**墨西哥谷地特奥蒂瓦坎附近**，CMA 藏（1990.136）。",
+        "风格特征": "该馆说明：**带缨的头冠（crested headdress with tassels）** 提示这位**年轻坐男**是 **Macuilxochitl（五花）**——阿兹特克的一位**超自然守护神**，**司多种享乐**，包括**音乐、舞蹈、宴饮、游戏与性**。",
+        "代表人物与作品": "作者未署名。相关条目见阿兹特克持玉米坐像与阿兹特克羽蛇。",
+        "技法或形式分析": "材质为**灰火山岩，存红色颜料**；尺寸37.5 × 20.3 × 24.8厘米（据该馆记录）。该馆并指出：其**祭祀在平民中流行**，此像**或为邻里小庙所作**；**石面或曾施灰泥（plaster）并施重彩**。",
+        "与前后风格的关系和争论": "本条目据该馆说明把握「享乐之神」的社会分布：与宏大国家神庙不同，**五花神的崇拜在平民**，其造像服务于**邻里小庙**——**宗教实践的基层性**由此显形。本条目只依记录陈述。",
+        "一图": "示意图以五花神、平民崇拜与重彩小庙像三者关系标示本像。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）身份该馆用问号（Macuilxochitl?）；（3）出土地「或特奥蒂瓦坎附近」为推测；（4）灰泥重彩的痕迹未量化。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='aztec-seated-deity 示意图'><title>aztec-seated-deity</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>阿兹特克·1350—15</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>灰火山岩</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>坐神像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>37.5cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>Macuilxochit</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>五花神</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>平民·邻里小庙</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>基层</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>坐神像：享乐神、平民与场所</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；身份存疑；出土地为推测。"
     }
   ]
 }

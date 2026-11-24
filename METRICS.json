@@ -3670,6 +3670,31 @@
       "check_links_result": "broken=0(497页)",
       "audit_all": "12/12 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle133",
+      "date": "2026-11-24",
+      "status": "completed",
+      "gap_methods": [
+        "美洲（CMA）"
+      ],
+      "network": "CMA ok",
+      "new_entries": 4,
+      "new_entry_ids": [
+        "moche-sealion-pup",
+        "teotihuacan-mural-fragment",
+        "zapotec-seated-figure",
+        "aztec-seated-deity"
+      ],
+      "dup_caught": "2005.6=moche-bat-vessel，改取2014.375",
+      "new_sources": 4,
+      "sources_total": 591,
+      "entries_total": 464,
+      "pages": 501,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(501页)",
+      "audit_all": "12/12 ok",
+      "commits": 1
     }
   ]
 }

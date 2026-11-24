@@ -3977,7 +3977,8 @@
       "related": [
         "maya-el-peru-stela",
         "americas-art",
-        "aztec-xochipilli-maize"
+        "aztec-xochipilli-maize",
+        "aztec-seated-deity"
       ],
       "sources": [
         "cma-1941-46"
@@ -4093,7 +4094,10 @@
         "aztec-xochipilli-maize",
         "maya-battle-vessel-nebaj",
         "maya-palace-cylinder",
-        "ulua-ring-vessel"
+        "ulua-ring-vessel",
+        "moche-sealion-pup",
+        "teotihuacan-mural-fragment",
+        "zapotec-seated-figure"
       ],
       "sources": [
         "cma-1967-29",
@@ -4145,7 +4149,8 @@
       "related": [
         "inca-tunic",
         "americas-art",
-        "maya-deer-vessel"
+        "maya-deer-vessel",
+        "moche-sealion-pup"
       ],
       "sources": [
         "cma-2005-6"
@@ -7279,7 +7284,8 @@
       "overview": "或为 Macuilxochitl 或 Xochipilli，司美、艺术与嬉戏舞蹈；手持花锥；背负玉米棒或喻其创造力。",
       "related": [
         "aztec-feathered-serpent",
-        "americas-art"
+        "americas-art",
+        "aztec-seated-deity"
       ],
       "sources": [
         "cma-1949-555"
@@ -9331,7 +9337,8 @@
       "related": [
         "maya-battle-vessel-nebaj",
         "americas-art",
-        "chama-deities-cylinder"
+        "chama-deities-cylinder",
+        "teotihuacan-mural-fragment"
       ],
       "sources": [
         "cma-1967-203"
@@ -9946,6 +9953,87 @@
       ],
       "sources": [
         "cma-1972-20"
+      ]
+    },
+    {
+      "id": "moche-sealion-pup",
+      "title": "莫切海狮幼崽瓶",
+      "kind": "作品",
+      "unit": "art-americas",
+      "era": "公元3—9世纪",
+      "region": "美洲",
+      "medium": "陶瓷",
+      "tier": "核心",
+      "def": "莫切陶与泥浆海狮瓶，克利夫兰艺术博物馆藏（2014.375）。",
+      "when": "200—850年",
+      "overview": "海狮常见于莫切艺术（肖形瓶或狩猎场景）；或因其胃中卵石而受珍视，今秘鲁民间医者视之为良药；殖民期传说海狮载亡者往海外岛，或可溯至莫切。",
+      "related": [
+        "moche-bat-vessel",
+        "americas-art",
+        "zapotec-seated-figure"
+      ],
+      "sources": [
+        "cma-2014-375"
+      ]
+    },
+    {
+      "id": "teotihuacan-mural-fragment",
+      "title": "特奥蒂瓦坎壁画残块",
+      "kind": "作品",
+      "unit": "art-americas",
+      "era": "公元6世纪",
+      "region": "美洲",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "特奥蒂瓦坎风格湿壁画残块，克利夫兰艺术博物馆藏（1963.252）。",
+      "when": "500—550年",
+      "overview": "盛装贵男列队于富宅庭院墙；口卷示吟诵祈祷，一手泻花酒、一手携香袋；前后龙舌兰刺或喻献血与龙舌兰汁酒（pulque），刺插于束/地之上。",
+      "related": [
+        "maya-palace-cylinder",
+        "americas-art"
+      ],
+      "sources": [
+        "cma-1963-252"
+      ]
+    },
+    {
+      "id": "zapotec-seated-figure",
+      "title": "萨波特克坐像（陪俑）",
+      "kind": "作品",
+      "unit": "art-americas",
+      "era": "公元前3—公元7世纪",
+      "region": "美洲",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "瓦哈卡萨波特克陶坐像，克利夫兰艺术博物馆藏（1954.857）。",
+      "when": "约公元前300—公元700年",
+      "overview": "萨波特克墓陶以华丽主瓮与较小陪俑成组；本俑或属近同组，另两件存墨西哥；身份（贵族/祖先/神）仍争；头冠与胸前象形为历日「13水」「13燧刀」。",
+      "related": [
+        "moche-sealion-pup",
+        "americas-art"
+      ],
+      "sources": [
+        "cma-1954-857"
+      ]
+    },
+    {
+      "id": "aztec-seated-deity",
+      "title": "阿兹特克坐神像（五花神？）",
+      "kind": "作品",
+      "unit": "art-americas",
+      "era": "14—16世纪",
+      "region": "美洲",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "阿兹特克灰火山岩坐神像，克利夫兰艺术博物馆藏（1990.136）。",
+      "when": "1350—1519年",
+      "overview": "带缨头冠示青年坐男或为 Macuilxochitl（五花），司乐舞宴戏与性等诸乐；其祀在平民中流行；或为邻里小庙所作；石表或曾施灰泥重彩。",
+      "related": [
+        "aztec-xochipilli-maize",
+        "aztec-feathered-serpent"
+      ],
+      "sources": [
+        "cma-1990-136"
       ]
     }
   ]

@@ -137,11 +137,11 @@
  "oneway_sample": [],
  "top_inbound": [
   [
-   "japanese-art",
-   22
+   "americas-art",
+   25
   ],
   [
-   "americas-art",
+   "japanese-art",
    22
   ],
   [
@@ -177,5 +177,5 @@
    10
   ]
  ],
- "total_links": 1502
+ "total_links": 1518
 }

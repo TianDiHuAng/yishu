@@ -1,0 +1,19 @@
+{
+ "id": "aztec-seated-deity",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为**阿兹特克**灰火山岩坐神像（1350—1519），可能出**墨西哥谷地特奥蒂瓦坎附近**，CMA 藏（1990.136）。",
+  "风格特征": "该馆说明：**带缨的头冠（crested headdress with tassels）** 提示这位**年轻坐男**是 **Macuilxochitl（五花）**——阿兹特克的一位**超自然守护神**，**司多种享乐**，包括**音乐、舞蹈、宴饮、游戏与性**。",
+  "代表人物与作品": "作者未署名。相关条目见阿兹特克持玉米坐像与阿兹特克羽蛇。",
+  "技法或形式分析": "材质为**灰火山岩，存红色颜料**；尺寸37.5 × 20.3 × 24.8厘米（据该馆记录）。该馆并指出：其**祭祀在平民中流行**，此像**或为邻里小庙所作**；**石面或曾施灰泥（plaster）并施重彩**。",
+  "与前后风格的关系和争论": "本条目据该馆说明把握「享乐之神」的社会分布：与宏大国家神庙不同，**五花神的崇拜在平民**，其造像服务于**邻里小庙**——**宗教实践的基层性**由此显形。本条目只依记录陈述。",
+  "一图": "示意图以五花神、平民崇拜与重彩小庙像三者关系标示本像。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）身份该馆用问号（Macuilxochitl?）；（3）出土地「或特奥蒂瓦坎附近」为推测；（4）灰泥重彩的痕迹未量化。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='aztec-seated-deity 示意图'><title>aztec-seated-deity</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>阿兹特克·1350—15</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>灰火山岩</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>坐神像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>37.5cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>Macuilxochit</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>五花神</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>平民·邻里小庙</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>基层</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>坐神像：享乐神、平民与场所</text></g></svg>",
+ "sources": [
+  "cma-1990-136"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；身份存疑；出土地为推测。"
+}

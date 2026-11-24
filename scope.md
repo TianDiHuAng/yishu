@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 460 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 464 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -520,6 +520,10 @@
 | maya-palace-cylinder | 玛雅宫宴筒瓶 | 作品 | 古典晚期 | 美洲 | 陶瓷 | 核心 | O1 |
 | chama-deities-cylinder | Chamá 神祇筒瓶（God K） | 作品 | 古典晚期 | 美洲 | 陶瓷 | 重要 | O1 |
 | ulua-ring-vessel | Ulúa 大理石圈足瓶 | 作品 | 古典晚期 | 美洲 | 雕塑 | 重要 | O1 |
+| moche-sealion-pup | 莫切海狮幼崽瓶 | 作品 | 公元3—9世纪 | 美洲 | 陶瓷 | 核心 | O1 |
+| teotihuacan-mural-fragment | 特奥蒂瓦坎壁画残块 | 作品 | 公元6世纪 | 美洲 | 绘画 | 核心 | O1 |
+| zapotec-seated-figure | 萨波特克坐像（陪俑） | 作品 | 公元前3—公元7世纪 | 美洲 | 雕塑 | 核心 | O1 |
+| aztec-seated-deity | 阿兹特克坐神像（五花神？） | 作品 | 14—16世纪 | 美洲 | 雕塑 | 重要 | O1 |
 
 ## art-oceania（太平洋艺术（大洋洲））
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

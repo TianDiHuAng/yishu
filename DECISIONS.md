@@ -1369,3 +1369,10 @@
 `art-medieval` 14→18。写前查重通过。
 可逆：删 4 条 overlay 与 catalog 元组、移除 4 条来源。代价：均单机构（CMA）。
 
+
+## D136 — Cycle133 美洲 4 条（460 → 464）
+**查重发现**：候选 2005.6 即既有 `moche-bat-vessel`，遂改取**海狮幼崽瓶**(2014.375)。
+新增：`moche-sealion-pup`（莫切海狮瓶，**核心**；胃石药性＋载亡者传说）、`teotihuacan-mural-fragment`（特奥蒂瓦坎壁画，500—550，**核心**；口卷＋奠酒＋龙舌兰刺＝献祭语义）、`zapotec-seated-figure`（萨波特克陪俑，**核心**；**历日象形13水/13燧刀**、身份之争）、`aztec-seated-deity`（阿兹特克坐神 Macuilxochitl?，**核心**；享乐神、**平民邻里小庙**）。
+art-americas 36→40。写前查重（含同名对象）有效拦截一次重复。
+可逆：删 4 条 overlay 与 catalog 元组、移除 4 条来源。代价：均单机构（CMA）。
+

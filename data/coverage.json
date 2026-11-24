@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 460,
+    "total": 464,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -5524,6 +5524,54 @@
     },
     "lion-basilisk-capital": {
       "title": "狮与蛇怪附壁柱头",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "moche-sealion-pup": {
+      "title": "莫切海狮幼崽瓶",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "teotihuacan-mural-fragment": {
+      "title": "特奥蒂瓦坎壁画残块",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "zapotec-seated-figure": {
+      "title": "萨波特克坐像（陪俑）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "aztec-seated-deity": {
+      "title": "阿兹特克坐神像（五花神？）",
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
