@@ -10507,7 +10507,10 @@
       "overview": "追溯公元前5世纪希腊原型，罗马工匠改用大理石并加支撑（树干与撑杆）以求稳固。",
       "related": [
         "roman-art",
-        "greek-art"
+        "greek-art",
+        "claudia-octavia-bust",
+        "roman-sarcophagus",
+        "antonine-portrait-head"
       ],
       "sources": [
         "cma-1924-1046"
@@ -10540,7 +10543,9 @@
       "overview": "古代由尼禄像改刻为韦斯巴芗；后脑发际线缩短，下唇后削等尼禄特征仍存。",
       "related": [
         "roman-art",
-        "greek-art"
+        "greek-art",
+        "claudia-octavia-bust",
+        "roman-sarcophagus"
       ],
       "sources": [
         "cma-1929-998"
@@ -15687,6 +15692,141 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='nagasaki-writing-box 示意图'><title>nagasaki-writing-box</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>长崎·1800—50</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>输出专作</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>书桌盒</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>42.2cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>黑漆螺钿</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>鸟枫枝</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>西方形制</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>市场投影</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>书桌盒：外销、形制与工艺</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（V&A）来源；summary 截断；制作者未记录。"
+    },
+    {
+      "id": "claudia-octavia-bust",
+      "title": "克劳狄娅·屋大维娅胸像",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元1世纪",
+      "region": "意大利",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "罗马大理石后妃像，克利夫兰艺术博物馆藏（1925.943）。",
+      "when": "公元50—70年",
+      "overview": "理想化面容与繁复发型或指尼禄元配皇后奥克塔维娅（54—62在位）；外袍stola示已婚上层女性；塔西佗称其「贵族气而有德」，终被休弃放逐赐死。",
+      "related": [
+        "roman-athlete-statue",
+        "vespasian-recut-head",
+        "antonine-portrait-head",
+        "silenus-couch-bust"
+      ],
+      "sources": [
+        "cma-1925-943"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为罗马大理石后妃胸像，50—70年，CMA 藏（1925.943）。该馆说明：肖像为**年轻女子**，其**理想化面容与繁复发型**或可辨认为**皇后克劳狄娅·奥克塔维娅（Claudia Octavia，54—62在位）**——**臭名昭著的尼禄皇帝的第一任妻子**。",
+        "风格特征": "该馆指出**服饰的社会编码**：她在**内衣（tunic）外着 stola**——一种**自两肩垂下的长袍**，用以**标示她是已婚的上层女性**。",
+        "代表人物与作品": "该馆给出**命运**：奥克塔维娅**受罗马公民爱戴**，史家**塔西佗（Tacitus）称她「贵族气而有德」**；但她**终被尼禄休弃、放逐，后被下令处死**。相关条目见运动员像与韦斯巴芗头像。",
+        "技法或形式分析": "材质为**大理石**；整体高38.2厘米（据该馆记录）。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「服饰—身份—命运」连读：一件胸像既以 stola 宣告其**社会等级**，也因历史记载而成为**宫廷悲剧的肖像见证**。本条目只依记录陈述。",
+        "一图": "示意图以stola标记身份、塔西佗评语与休弃赐死三者关系标示本像。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「或可辨认」该馆用 may；（3）发型的具体样式未描述；（4）出土与递藏未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='claudia-octavia-bust 示意图'><title>claudia-octavia-bust</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>罗马·50—70</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>大理石</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>奥克塔维娅胸像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>38.2cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>stola=已婚上层</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>服饰编码</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>休弃·放逐·赐死</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>命运</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>胸像：身份、服饰与命运</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；辨认存疑；出土与递藏未记录。"
+    },
+    {
+      "id": "roman-sarcophagus",
+      "title": "俄瑞斯忒斯石棺",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元2世纪",
+      "region": "意大利",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "罗马希腊大理石石棺，克利夫兰艺术博物馆藏（1928.856）。",
+      "when": "约100—125年",
+      "overview": "正面俄瑞斯忒斯三现、皆持短剑：弑母克吕泰涅斯特拉与奸夫埃癸斯托斯以报父仇；左三复仇女神栖阿伽门农墓；右在德尔斐阿波罗庙赎罪（三足鼎与岩）；盖四卧女象四季（冬春夏秋，依衣饰与篮中之物）。",
+      "related": [
+        "vespasian-recut-head",
+        "roman-athlete-statue",
+        "silenus-couch-bust"
+      ],
+      "sources": [
+        "cma-1928-856"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为罗马**希腊大理石**石棺，约100—125年，CMA 藏（1928.856）。",
+        "风格特征": "该馆详述正面**三联叙事**：悲剧人物**俄瑞斯忒斯三现**，**皆持短剑**——**中央**立于其母**克吕泰涅斯特拉**尸上；**中左**立于其母情人**埃癸斯托斯**尸上；他杀此二人以**报其父阿伽门农**自特洛伊战后归国被二人谋杀之仇。**最左**，**三位复仇女神（Furies）** 栖于**阿伽门农墓**上；**最右**，俄瑞斯忒斯在**德尔斐阿波罗庙**（以**三足鼎与岩石**为标志）**赎罪**。",
+        "代表人物与作品": "作者未署名。相关条目见韦斯巴芗头像与运动员像。本件为 CMA 藏品（1928.856）。",
+        "技法或形式分析": "材质为**希腊大理石**；整体长210厘米（据该馆记录）。该馆并描述**棺盖**：四位**斜卧女性**象征**四季**，自右至左为**冬、春、夏、秋**——依**衣饰与篮中之物**辨识。",
+        "与前后风格的关系和争论": "本条目据该馆说明把石棺理解为**叙事闭环**：罪（弑母）—罚（复仇女神）—赎（德尔斐）三幕同框；棺盖的四季则把**个人悲剧置于宇宙时间**之下。本条目只依记录陈述。",
+        "一图": "示意图以三联俄瑞斯忒斯、复仇女神与德尔斐赎罪三者关系标示本棺。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）四季判断依「衣饰与篮物」，具体未列；（3）原墓主与出土地未记录；（4）修复状况未说明。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='roman-sarcophagus 示意图'><title>roman-sarcophagus</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>罗马·约100—125</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>希腊大理石</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>俄瑞斯忒斯石棺</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>210cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>弑母·复仇女神</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>罪与罚</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>德尔斐赎罪</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>赎</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>石棺：罪、罚与赎</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；四季细目与原墓主未记录。"
+    },
+    {
+      "id": "antonine-portrait-head",
+      "title": "安东尼朝官员肖像",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元2世纪",
+      "region": "意大利",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "罗马大理石卷发蓄须男子像，克利夫兰艺术博物馆藏（1952.260）。",
+      "when": "175—200年",
+      "overview": "或为贵族/官员；钻孔瞳仁与虹膜通常不早于哈德良朝（117—38，崇希腊文化）；深雕须发至安东尼朝（138—92）仍盛。",
+      "related": [
+        "claudia-octavia-bust",
+        "roman-athlete-statue"
+      ],
+      "sources": [
+        "cma-1952-260"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为罗马**安东尼朝**（175—200）大理石肖像，CMA 藏（1952.260）。",
+        "风格特征": "该馆说明：所塑很可能是**贵族或政府官员**——一位**卷发、蓄满须**的男子。",
+        "代表人物与作品": "作者未署名。相关条目见奥克塔维娅像与运动员像。本件为 CMA 藏品（1952.260）。",
+        "技法或形式分析": "材质为**大理石**；整体高38.2厘米（据该馆记录）。该馆给出**断代的技术标志**：**钻出的瞳仁与虹膜**，与卷发满须一起，**通常不早于哈德良朝（117—38）**——哈德良**仰慕希腊文化**；而**深雕的须与卷发**在**整个安东尼朝（138—92）乃至其后的肖像**中**持续流行**。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「钻瞳」作为**风格断代的硬指标**：一项技法（在瞳孔上钻孔）的引入改变了罗马肖像的**目光效果**，并成为分期依据。这提示技术细节可直接充当**年代学证据**。",
+        "一图": "示意图以钻瞳/虹膜、哈德良崇希腊与安东尼朝须发三者关系标示本像。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「很可能是贵族/官员」为推断；（3）「或作于安东尼朝」该馆用 probably；（4）出土地未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='antonine-portrait-head 示意图'><title>antonine-portrait-head</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>安东尼朝·175—200</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>大理石</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>官员肖像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>38.2cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>钻瞳/虹膜</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>断代硬指标</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>深须卷发</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>自哈德良</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>安东尼像：钻瞳、须发与断代</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；身份为推断；出土地未记录。"
+    },
+    {
+      "id": "silenus-couch-bust",
+      "title": "西勒诺斯床榻像",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元1—2世纪",
+      "region": "意大利",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "罗马青铜西勒诺斯像（床榻扶手件），克利夫兰艺术博物馆藏（1974.88）。",
+      "when": "公元1—125年",
+      "overview": "为古罗马卧榻fulcrum（扶手）之一部；西勒诺斯为巴克斯之师；长卷须、浓眉、常春藤果冠；鹿皮袍以蹄系、滑落肩上示醉态；罗马卧榻制多承希腊。",
+      "related": [
+        "roman-sarcophagus",
+        "claudia-octavia-bust"
+      ],
+      "sources": [
+        "cma-1974-88"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明：此**西勒诺斯（Silenus）胸像**原为一张**古罗马卧榻的 fulcrum（扶手）** 之一部。本件1—125年，CMA 藏（1974.88）。",
+        "风格特征": "该馆介绍人物：**西勒诺斯**是**巴克斯（Bacchus，罗马酒神）的导师与伴侣**；他被表现为**长卷须、浓眉**，戴**常春藤藤果冠**；其**鹿皮袍**以**兽蹄系结**，**自肩滑落**——**示其醉态**。",
+        "代表人物与作品": "作者未署名。相关条目见俄瑞斯忒斯石棺与奥克塔维娅像。",
+        "技法或形式分析": "材质为**青铜**；口径7.8厘米、整体11厘米（据该馆记录）。该馆说明**构造位置**：胸像应置于**扶手与座面相接的基部**，而**顶端很可能饰一兽首**。",
+        "与前后风格的关系和争论": "该馆给出**跨文化脉络**：**如许多罗马器物一样，罗马人从希腊人那里借用了卧榻的样式与装饰**。本条目据此把「醉态」读作**宴饮文化的图像符号**，并把家具配件纳入**希腊→罗马的装饰传承**。",
+        "一图": "示意图以fulcrum位置、西勒诺斯醉态与希腊→罗马传承三者关系标示本件。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「顶端或饰兽首」该馆用 likely；（3）原卧榻的其余构件未存；（4）出土地未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='silenus-couch-bust 示意图'><title>silenus-couch-bust</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>罗马·1—125</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>青铜</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>西勒诺斯像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>11cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>fulcrum扶手</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>家具</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>醉态·希腊传承</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>图像</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>西勒诺斯：家具、醉态与传承</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；顶端兽首为推测；出土地未记录。"
     }
   ]
 }

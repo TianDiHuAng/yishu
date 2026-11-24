@@ -5749,6 +5749,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；黑漆嵌螺钿 14.8×42.2×25.4cm；说明含仅外销与荷兰商人"
+    },
+    {
+      "id": "cma-1925-943",
+      "title": "Cleveland Museum of Art — Portrait bust of Claudia Octavia, Roman, 50–70 CE, acc. 1925.943",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1925.943",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；大理石 38.2cm；说明含stola与塔西佗评语"
+    },
+    {
+      "id": "cma-1928-856",
+      "title": "Cleveland Museum of Art — Roman sarcophagus with Orestes, c. 100–125 CE, acc. 1928.856",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1928.856",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；希腊大理石 210cm；说明含三联俄瑞斯忒斯与四季"
+    },
+    {
+      "id": "cma-1952-260",
+      "title": "Cleveland Museum of Art — Portrait head of a noble/official, Antonine, 175–200 CE, acc. 1952.260",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1952.260",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；大理石 38.2cm；说明含钻孔瞳仁始于哈德良朝"
+    },
+    {
+      "id": "cma-1974-88",
+      "title": "Cleveland Museum of Art — Silenus bust for a couch, Roman, 1–125 CE, acc. 1974.88",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1974.88",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；青铜 11cm；说明含fulcrum与鹿皮醉态"
     }
   ]
 }

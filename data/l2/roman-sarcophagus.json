@@ -1,0 +1,19 @@
+{
+ "id": "roman-sarcophagus",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为罗马**希腊大理石**石棺，约100—125年，CMA 藏（1928.856）。",
+  "风格特征": "该馆详述正面**三联叙事**：悲剧人物**俄瑞斯忒斯三现**，**皆持短剑**——**中央**立于其母**克吕泰涅斯特拉**尸上；**中左**立于其母情人**埃癸斯托斯**尸上；他杀此二人以**报其父阿伽门农**自特洛伊战后归国被二人谋杀之仇。**最左**，**三位复仇女神（Furies）** 栖于**阿伽门农墓**上；**最右**，俄瑞斯忒斯在**德尔斐阿波罗庙**（以**三足鼎与岩石**为标志）**赎罪**。",
+  "代表人物与作品": "作者未署名。相关条目见韦斯巴芗头像与运动员像。本件为 CMA 藏品（1928.856）。",
+  "技法或形式分析": "材质为**希腊大理石**；整体长210厘米（据该馆记录）。该馆并描述**棺盖**：四位**斜卧女性**象征**四季**，自右至左为**冬、春、夏、秋**——依**衣饰与篮中之物**辨识。",
+  "与前后风格的关系和争论": "本条目据该馆说明把石棺理解为**叙事闭环**：罪（弑母）—罚（复仇女神）—赎（德尔斐）三幕同框；棺盖的四季则把**个人悲剧置于宇宙时间**之下。本条目只依记录陈述。",
+  "一图": "示意图以三联俄瑞斯忒斯、复仇女神与德尔斐赎罪三者关系标示本棺。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）四季判断依「衣饰与篮物」，具体未列；（3）原墓主与出土地未记录；（4）修复状况未说明。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='roman-sarcophagus 示意图'><title>roman-sarcophagus</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>罗马·约100—125</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>希腊大理石</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>俄瑞斯忒斯石棺</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>210cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>弑母·复仇女神</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>罪与罚</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>德尔斐赎罪</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>赎</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>石棺：罪、罚与赎</text></g></svg>",
+ "sources": [
+  "cma-1928-856"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；四季细目与原墓主未记录。"
+}

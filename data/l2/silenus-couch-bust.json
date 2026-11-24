@@ -1,0 +1,19 @@
+{
+ "id": "silenus-couch-bust",
+ "level": "L2",
+ "sections": {
+  "时代背景": "该馆说明：此**西勒诺斯（Silenus）胸像**原为一张**古罗马卧榻的 fulcrum（扶手）** 之一部。本件1—125年，CMA 藏（1974.88）。",
+  "风格特征": "该馆介绍人物：**西勒诺斯**是**巴克斯（Bacchus，罗马酒神）的导师与伴侣**；他被表现为**长卷须、浓眉**，戴**常春藤藤果冠**；其**鹿皮袍**以**兽蹄系结**，**自肩滑落**——**示其醉态**。",
+  "代表人物与作品": "作者未署名。相关条目见俄瑞斯忒斯石棺与奥克塔维娅像。",
+  "技法或形式分析": "材质为**青铜**；口径7.8厘米、整体11厘米（据该馆记录）。该馆说明**构造位置**：胸像应置于**扶手与座面相接的基部**，而**顶端很可能饰一兽首**。",
+  "与前后风格的关系和争论": "该馆给出**跨文化脉络**：**如许多罗马器物一样，罗马人从希腊人那里借用了卧榻的样式与装饰**。本条目据此把「醉态」读作**宴饮文化的图像符号**，并把家具配件纳入**希腊→罗马的装饰传承**。",
+  "一图": "示意图以fulcrum位置、西勒诺斯醉态与希腊→罗马传承三者关系标示本件。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「顶端或饰兽首」该馆用 likely；（3）原卧榻的其余构件未存；（4）出土地未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='silenus-couch-bust 示意图'><title>silenus-couch-bust</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>罗马·1—125</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>青铜</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>西勒诺斯像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>11cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>fulcrum扶手</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>家具</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>醉态·希腊传承</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>图像</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>西勒诺斯：家具、醉态与传承</text></g></svg>",
+ "sources": [
+  "cma-1974-88"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；顶端兽首为推测；出土地未记录。"
+}

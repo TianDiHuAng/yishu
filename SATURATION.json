@@ -1589,6 +1589,18 @@
       "gaps_found": {},
       "network": "CMA/V&A",
       "verdict": "303条/225尺寸/0问题；未饱和"
+    },
+    {
+      "cycle": "cycle130",
+      "date": "2026-11-24",
+      "methods_used": [
+        "罗马雕塑"
+      ],
+      "gaps_found": {
+        "entries": 4
+      },
+      "network": "CMA",
+      "verdict": "art-ancient 30→34（总452）；未饱和"
     }
   ],
   "assessment_c33": {

@@ -6515,7 +6515,10 @@
       "overview": "追溯公元前5世纪希腊原型，罗马工匠改用大理石并加支撑（树干与撑杆）以求稳固。",
       "related": [
         "roman-art",
-        "greek-art"
+        "greek-art",
+        "claudia-octavia-bust",
+        "roman-sarcophagus",
+        "antonine-portrait-head"
       ],
       "sources": [
         "cma-1924-1046"
@@ -6535,7 +6538,9 @@
       "overview": "古代由尼禄像改刻为韦斯巴芗；后脑发际线缩短，下唇后削等尼禄特征仍存。",
       "related": [
         "roman-art",
-        "greek-art"
+        "greek-art",
+        "claudia-octavia-bust",
+        "roman-sarcophagus"
       ],
       "sources": [
         "cma-1929-998"
@@ -9692,6 +9697,89 @@
       ],
       "sources": [
         "vam-o77643"
+      ]
+    },
+    {
+      "id": "claudia-octavia-bust",
+      "title": "克劳狄娅·屋大维娅胸像",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元1世纪",
+      "region": "意大利",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "罗马大理石后妃像，克利夫兰艺术博物馆藏（1925.943）。",
+      "when": "公元50—70年",
+      "overview": "理想化面容与繁复发型或指尼禄元配皇后奥克塔维娅（54—62在位）；外袍stola示已婚上层女性；塔西佗称其「贵族气而有德」，终被休弃放逐赐死。",
+      "related": [
+        "roman-athlete-statue",
+        "vespasian-recut-head",
+        "antonine-portrait-head",
+        "silenus-couch-bust"
+      ],
+      "sources": [
+        "cma-1925-943"
+      ]
+    },
+    {
+      "id": "roman-sarcophagus",
+      "title": "俄瑞斯忒斯石棺",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元2世纪",
+      "region": "意大利",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "罗马希腊大理石石棺，克利夫兰艺术博物馆藏（1928.856）。",
+      "when": "约100—125年",
+      "overview": "正面俄瑞斯忒斯三现、皆持短剑：弑母克吕泰涅斯特拉与奸夫埃癸斯托斯以报父仇；左三复仇女神栖阿伽门农墓；右在德尔斐阿波罗庙赎罪（三足鼎与岩）；盖四卧女象四季（冬春夏秋，依衣饰与篮中之物）。",
+      "related": [
+        "vespasian-recut-head",
+        "roman-athlete-statue",
+        "silenus-couch-bust"
+      ],
+      "sources": [
+        "cma-1928-856"
+      ]
+    },
+    {
+      "id": "antonine-portrait-head",
+      "title": "安东尼朝官员肖像",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元2世纪",
+      "region": "意大利",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "罗马大理石卷发蓄须男子像，克利夫兰艺术博物馆藏（1952.260）。",
+      "when": "175—200年",
+      "overview": "或为贵族/官员；钻孔瞳仁与虹膜通常不早于哈德良朝（117—38，崇希腊文化）；深雕须发至安东尼朝（138—92）仍盛。",
+      "related": [
+        "claudia-octavia-bust",
+        "roman-athlete-statue"
+      ],
+      "sources": [
+        "cma-1952-260"
+      ]
+    },
+    {
+      "id": "silenus-couch-bust",
+      "title": "西勒诺斯床榻像",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元1—2世纪",
+      "region": "意大利",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "罗马青铜西勒诺斯像（床榻扶手件），克利夫兰艺术博物馆藏（1974.88）。",
+      "when": "公元1—125年",
+      "overview": "为古罗马卧榻fulcrum（扶手）之一部；西勒诺斯为巴克斯之师；长卷须、浓眉、常春藤果冠；鹿皮袍以蹄系、滑落肩上示醉态；罗马卧榻制多承希腊。",
+      "related": [
+        "roman-sarcophagus",
+        "claudia-octavia-bust"
+      ],
+      "sources": [
+        "cma-1974-88"
       ]
     }
   ]
