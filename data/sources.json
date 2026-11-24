@@ -4849,6 +4849,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；水彩与不透明水彩 24.9×35.7cm；说明含德伦特荒原与致提奥书信"
+    },
+    {
+      "id": "cma-1971-150",
+      "title": "Cleveland Museum of Art — Ancestral Figure, Sepik River, 1800s, acc. 1971.150",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1971.150",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；彩木·纤维·树皮布 105.4×12.2×12.8cm；说明含男子会所"
+    },
+    {
+      "id": "cma-1963-553",
+      "title": "Cleveland Museum of Art — Hook Figure, Arambak, c. 1920–30, acc. 1963.553",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1963.553",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；彩木与货贝 207×6.4cm；说明含战神/猎神与附体"
+    },
+    {
+      "id": "cma-1940-1078",
+      "title": "Cleveland Museum of Art — Ceremonial Adze, Mangaia, Cook Islands, 1800s, acc. 1940.1078",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1940.1078",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；木石纤维 10.2cm；说明含 K 纹与神授编绳纹样传说"
+    },
+    {
+      "id": "cma-1971-272",
+      "title": "Cleveland Museum of Art — Grade Society Figure, Ambrym, Vanuatu, c. 1930, acc. 1971.272",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1971.272",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；蕨木 210.9cm；说明含等级庆典与 mana"
     }
   ]
 }

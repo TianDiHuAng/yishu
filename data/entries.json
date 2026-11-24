@@ -4093,7 +4093,11 @@
         "maori-hei-tiki-1969",
         "maori-wakahuia",
         "maori-wahaika-club",
-        "tami-bowl"
+        "tami-bowl",
+        "sepik-ancestral-figure",
+        "sepik-hook-figure",
+        "cook-ceremonial-adze",
+        "ambrym-grade-figure"
       ],
       "sources": [
         "cma-1954-147",
@@ -7070,7 +7074,8 @@
       "related": [
         "maori-wakahuia",
         "oceania-art",
-        "maori-wahaika-club"
+        "maori-wahaika-club",
+        "sepik-ancestral-figure"
       ],
       "sources": [
         "cma-1969-107"
@@ -7706,6 +7711,89 @@
       ],
       "sources": [
         "cma-1958-30"
+      ]
+    },
+    {
+      "id": "sepik-ancestral-figure",
+      "title": "塞皮克祖灵像",
+      "kind": "作品",
+      "unit": "art-oceania",
+      "era": "19世纪",
+      "region": "大洋洲",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "巴布亚新几内亚塞皮克河彩木祖像，克利夫兰艺术博物馆藏（1971.150）。",
+      "when": "1800年代",
+      "overview": "塞皮克村落的社会与仪式生活以男子会所为中心； 裂口锣、讲台、笛等礼器存于此，最神圣者避妇女儿童。",
+      "related": [
+        "oceania-art",
+        "maori-hei-tiki-1969",
+        "sepik-hook-figure"
+      ],
+      "sources": [
+        "cma-1971-150"
+      ]
+    },
+    {
+      "id": "sepik-hook-figure",
+      "title": "塞皮克钩形祖像（阿拉姆巴克）",
+      "kind": "作品",
+      "unit": "art-oceania",
+      "era": "20世纪",
+      "region": "大洋洲",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "塞皮克河中游阿拉姆巴克人彩木货贝像，克利夫兰艺术博物馆藏（1963.553）。",
+      "when": "约1920—1930年",
+      "overview": "抽象人像表战神与猎神；藏于男子会所；出征前以特制物擦拭以求神灵附体；钩为羽，中央为心（新月形肋），下为小腿。",
+      "related": [
+        "sepik-ancestral-figure",
+        "oceania-art",
+        "ambrym-grade-figure"
+      ],
+      "sources": [
+        "cma-1963-553"
+      ]
+    },
+    {
+      "id": "cook-ceremonial-adze",
+      "title": "库克群岛礼斧",
+      "kind": "作品",
+      "unit": "art-oceania",
+      "era": "19世纪",
+      "region": "大洋洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "曼加伊亚礼斧，克利夫兰艺术博物馆藏（1940.1078）。",
+      "when": "1800年代",
+      "overview": "铁器传入前以骨、贝、石、牙制工具；礼斧或表神祇；木柄刻 K 纹，石刃以细编椰绳缚之。",
+      "related": [
+        "ambrym-grade-figure",
+        "oceania-art"
+      ],
+      "sources": [
+        "cma-1940-1078"
+      ]
+    },
+    {
+      "id": "ambrym-grade-figure",
+      "title": "安布里姆等级社会祖像",
+      "kind": "作品",
+      "unit": "art-oceania",
+      "era": "20世纪",
+      "region": "大洋洲",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "瓦努阿图安布里姆蕨木祖像，克利夫兰艺术博物馆藏（1971.272）。",
+      "when": "约1930年",
+      "overview": "瓦努阿图以巨像尊祖；常立于男子会社屋旁，配合个人晋升等级之庆典；蕨木干雕成，原覆泥灰上彩；巨头示 mana。",
+      "related": [
+        "sepik-hook-figure",
+        "oceania-art",
+        "cook-ceremonial-adze"
+      ],
+      "sources": [
+        "cma-1971-272"
       ]
     }
   ]
