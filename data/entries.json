@@ -260,7 +260,8 @@
         "durer-melencolia-i",
         "cranach-baptism-of-christ",
         "cranach-hartenfels-hunt",
-        "bronzino-portrait-of-a-woman"
+        "bronzino-portrait-of-a-woman",
+        "linear-perspective"
       ],
       "sources": [
         "enc-renaissance",
@@ -286,7 +287,10 @@
         "botticelli",
         "birth-of-venus-work",
         "lippi-holy-family-tondo",
-        "buglioni-glazed-terracotta"
+        "buglioni-glazed-terracotta",
+        "fresco",
+        "linear-perspective",
+        "tempera"
       ],
       "sources": [
         "enc-italian-renaissance-painting",
@@ -316,7 +320,8 @@
         "sistine-ceiling-work",
         "lotto-portrait-man",
         "andrea-sacrifice-of-isaac",
-        "veronese-barbarigo-portrait"
+        "veronese-barbarigo-portrait",
+        "fresco"
       ],
       "sources": [
         "enc-high-renaissance",
@@ -364,7 +369,8 @@
         "holbein-terminus-erasmus",
         "durer-melencolia-i",
         "cranach-baptism-of-christ",
-        "cranach-hartenfels-hunt"
+        "cranach-hartenfels-hunt",
+        "oil-painting"
       ],
       "sources": [
         "enc-northern-renaissance",
@@ -436,7 +442,9 @@
         "high-renaissance",
         "mona-lisa",
         "raphael",
-        "verrocchio-christ-bust"
+        "verrocchio-christ-bust",
+        "chiaroscuro",
+        "sfumato"
       ],
       "sources": [
         "enc-leonardo",
@@ -524,7 +532,8 @@
       "overview": "以渐进色与明暗法塑造柔和的面部过渡，坐姿采用金字塔构图。",
       "related": [
         "leonardo",
-        "high-renaissance"
+        "high-renaissance",
+        "sfumato"
       ],
       "sources": [
         "enc-leonardo",
@@ -616,7 +625,8 @@
         "caravaggio-andrew",
         "la-tour-peter",
         "parodi-sleeping-christ",
-        "liss-cupid"
+        "liss-cupid",
+        "chiaroscuro"
       ],
       "sources": [
         "enc-caravaggio",
@@ -642,7 +652,8 @@
         "la-tour-peter",
         "dusart-violin-tavern",
         "rembrandt-bearded-man-hat",
-        "hals-tieleman-roosterman"
+        "hals-tieleman-roosterman",
+        "chiaroscuro"
       ],
       "sources": [
         "enc-rembrandt",
@@ -12938,6 +12949,129 @@
       ],
       "sources": [
         "cma-1916-1038"
+      ]
+    },
+    {
+      "id": "fresco",
+      "title": "湿壁画（Fresco）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "全球",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "把颜料调水后刷在湿的或半干的石灰灰泥上的壁画技法。",
+      "when": "历代",
+      "overview": "湿壁画是一种壁画技法：干颜料先与水研磨，再刷到湿的或半干的石灰灰泥上。",
+      "related": [
+        "early-renaissance",
+        "high-renaissance"
+      ],
+      "sources": [
+        "aat-300053357"
+      ]
+    },
+    {
+      "id": "linear-perspective",
+      "title": "线性透视（Linear perspective）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "正交线向一个或多个灭点汇聚的透视体系。",
+      "when": "历代",
+      "overview": "线性透视是正交线向一个或多个灭点汇聚的体系；在西方艺术中常指意大利文艺复兴发展出的一点透视。",
+      "related": [
+        "early-renaissance",
+        "renaissance"
+      ],
+      "sources": [
+        "aat-300056348"
+      ]
+    },
+    {
+      "id": "chiaroscuro",
+      "title": "明暗对照法（Chiaroscuro）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "在画面内对比明与暗的技法，形体主要由明暗区域的交接而非锐利轮廓线来确定。",
+      "when": "历代",
+      "overview": "明暗对照法以明暗对比塑造形体，形体多由亮部与暗部的交接来确定，而不靠清晰的轮廓线。",
+      "related": [
+        "caravaggio",
+        "rembrandt",
+        "leonardo"
+      ],
+      "sources": [
+        "aat-300053414"
+      ]
+    },
+    {
+      "id": "tempera",
+      "title": "蛋彩（Tempera）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "全球",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "由油脂成分与水成分乳化而成的颜料，标准做法用蛋黄加水。",
+      "when": "历代",
+      "overview": "蛋彩是油脂与水的乳化颜料；标准乳剂常用蛋黄与水，也有用全蛋、亚麻籽油、酪蛋白胶、树胶或蜡的变体。",
+      "related": [
+        "early-renaissance",
+        "oil-painting"
+      ],
+      "sources": [
+        "aat-300015062"
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "title": "油画技法（Oil painting）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "用悬浮于植物干性油中的颜料作画的技艺。",
+      "when": "历代",
+      "overview": "油画是用悬浮在植物干性油中的颜料创作；词表称其至少可追溯到欧洲中世纪，15世纪已广泛用于架上绘画。",
+      "related": [
+        "tempera",
+        "northern-renaissance",
+        "sfumato"
+      ],
+      "sources": [
+        "aat-300178684"
+      ]
+    },
+    {
+      "id": "sfumato",
+      "title": "晕涂法（Sfumato）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "在油画中把一个色调融入另一个色调、做出柔和细腻过渡的效果，尤其见于透明罩染。",
+      "when": "历代",
+      "overview": "晕涂法指油画中让一种色调融入另一种色调，造出柔和细腻的过渡效果，尤其用于罩染。",
+      "related": [
+        "oil-painting",
+        "leonardo",
+        "mona-lisa"
+      ],
+      "sources": [
+        "aat-300053421"
       ]
     }
   ]

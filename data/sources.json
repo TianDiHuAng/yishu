@@ -7199,6 +7199,66 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；布面油画 画心86.4×103.3cm；右下署名Fantin 86；说明含坐在左侧的唐豪瑟似未投入欢愉场面、独处阴影、瓦格纳歌剧围绕世俗与神圣之爱的冲突"
+    },
+    {
+      "id": "aat-300053357",
+      "title": "Getty AAT — fresco painting (technique), 300053357",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300053357",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配；定义原文存档于 tmp/aat_terms.json"
+    },
+    {
+      "id": "aat-300056348",
+      "title": "Getty AAT — linear perspective (technique), 300056348",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300056348",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配；定义原文存档于 tmp/aat_terms.json"
+    },
+    {
+      "id": "aat-300053414",
+      "title": "Getty AAT — chiaroscuro, 300053414",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300053414",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配；定义原文存档于 tmp/aat_terms.json"
+    },
+    {
+      "id": "aat-300015062",
+      "title": "Getty AAT — tempera, 300015062",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300015062",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配；定义原文存档于 tmp/aat_terms.json"
+    },
+    {
+      "id": "aat-300178684",
+      "title": "Getty AAT — oil painting (technique), 300178684",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300178684",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配；定义原文存档于 tmp/aat_terms.json"
+    },
+    {
+      "id": "aat-300053421",
+      "title": "Getty AAT — sfumato, 300053421",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300053421",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配；定义原文存档于 tmp/aat_terms.json"
     }
   ]
 }

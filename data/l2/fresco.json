@@ -1,0 +1,19 @@
+{
+ "id": "fresco",
+ "level": "L2",
+ "sections": {
+  "时代背景": "湿壁画是历代沿用的壁画技法，本条目不限定具体时代与地域。盖蒂词表的定义只描述技法本身，没有给出起源时间或地点。",
+  "风格特征": "词表定义：湿壁画是一种壁画技法，干颜料先与水研磨，再刷到湿的或半干的石灰灰泥上。",
+  "代表人物与作品": "本条为术语，无特定代表人物与专属作品。词表定义没有列举画家或壁画，本条目不补写。可对照阅读早期文艺复兴与盛期文艺复兴条目。",
+  "技法或形式分析": "从工序看，分三步：颜料（干颜料）与水研磨，用刷子上色，承载面是湿的或半干的石灰灰泥。这三项即词表定义所含的全部工艺信息。",
+  "与前后风格的关系和争论": "词表定义没有谈到湿壁画与其他壁画技法或与蛋彩、油画的比较，本条目不作比较，也不涉及争论。",
+  "一图": "示意图以湿壁画为中心，标示干颜料加水研磨、刷上湿或半干的石灰灰泥两项。",
+  "待核实": "（1）本条目事实仅来自盖蒂《艺术与建筑词表》（AAT）的单一定义，整条标记待核实。（2）词表另有“真湿壁画”“干壁画”“半湿壁画”等相邻词条，本条目未采用，不在此讨论其差别；（3）湿壁画的起源、盛行时期与具体名作，词表定义未给出，本条目没有补写。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='fresco 示意图'><title>fresco</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>干颜料+水</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>先研磨</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>湿壁画</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>壁画技法</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>石灰灰泥</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>湿或半干</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>刷涂上色</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>画在灰泥上</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据盖蒂 AAT 定义</text></g></svg>",
+ "sources": [
+  "aat-300053357"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一来源（盖蒂AAT）；起源与名作未给出。"
+}

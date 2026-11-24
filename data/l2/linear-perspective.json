@@ -1,0 +1,19 @@
+{
+ "id": "linear-perspective",
+ "level": "L2",
+ "sections": {
+  "时代背景": "线性透视是西方艺术中常用的再现空间的体系。词表定义称，在西方艺术中它常指意大利文艺复兴发展出的一点透视，其依据是古希腊与古罗马的范例。具体由谁、在哪一年提出，词表没有给出。",
+  "风格特征": "词表定义：线性透视是正交线向一个或多个灭点汇聚的透视体系。",
+  "代表人物与作品": "本条为术语，无特定代表人物与专属作品。词表定义没有列举艺术家或画作，本条目不补写。相关条目见早期文艺复兴与文艺复兴。",
+  "技法或形式分析": "形式要点只有一条：画中的正交线收束于灭点；灭点可以是一个，也可以是多个。词表特别指出，西方艺术里这个词常指其中的一点透视。",
+  "与前后风格的关系和争论": "词表定义把一点透视与意大利文艺复兴联系起来，同时说明它以古希腊、古罗马的范例为基础。本条目据此只作转述，不就“谁先发明”作判断，也不涉及争论。",
+  "一图": "示意图以线性透视为中心，标示正交线汇聚到灭点、一点透视、以及意大利文艺复兴与古代范例三项。",
+  "待核实": "（1）本条目事实仅来自盖蒂《艺术与建筑词表》（AAT）的单一定义，整条标记待核实。（2）一点透视在文艺复兴中的具体发展过程、涉及的人物与年代，词表只作概括，本条目没有补写；（3）“古希腊与古罗马范例”具体指什么，词表未说明。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='linear-perspective 示意图'><title>linear-perspective</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>正交线</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>向灭点汇聚</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>线性透视</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>透视体系</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>一点透视</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>西方常指</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>意大利文艺复兴</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>以古代为本</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据盖蒂 AAT 定义</text></g></svg>",
+ "sources": [
+  "aat-300056348"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一来源（盖蒂AAT）；发展过程与人物未给出。"
+}
