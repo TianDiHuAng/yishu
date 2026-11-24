@@ -1414,3 +1414,12 @@ art-africa 32→36。写前查重通过。
 art-contemporary 9→13。写前查重通过。
 可逆：删 4 条 overlay 与 catalog 元组、移除 4 条来源。代价：均单机构（CMA）。
 
+
+## D141 — Cycle138 中国瓷器 4 条（476 → 480）
+`ming-jingdezhen-bowl-1450`（明青花婴戏碗，**核心**；婴戏＝多子寓意、据御窑瓷片断代）、
+`doucai-stemcup-1465`（斗彩高足杯，**核心**；青花勾轮廓＋釉上填彩＋二次烧成）、
+`kangxi-jar-lid-qing`（康熙青花盖罐；「ginger jar」流通命名 vs 本土容器/陈设）、
+`armorial-porcelain-cup`（纹章瓷杯；盾徽＋「Le Grand」；**记录无 summary**，不补写历史）。
+art-ceramics 12→16。写前查重通过。
+可逆：删 4 条 overlay 与 catalog 元组、移除 4 条来源。代价：均单机构（V&A）。
+

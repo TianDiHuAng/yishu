@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 476,
+    "total": 480,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -5717,6 +5717,54 @@
     "cannon-memorial-woodcut": {
       "title": "坎农《纪念木刻组画》",
       "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "ming-jingdezhen-bowl-1450": {
+      "title": "明青花婴戏碗",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "doucai-stemcup-1465": {
+      "title": "斗彩高足杯",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "kangxi-jar-lid-qing": {
+      "title": "康熙青花盖罐",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "armorial-porcelain-cup": {
+      "title": "纹章瓷杯（Le Grand）",
+      "tier": "重要",
       "level": "L2",
       "status": "written_l2",
       "sources_count": 1,

@@ -8936,7 +8936,9 @@
         "jun-numbered-bulb-bowl",
         "kangxi-lobed-vase",
         "jiajing-carved-lacquer-jar",
-        "yongle-meiping-cloud"
+        "yongle-meiping-cloud",
+        "ming-jingdezhen-bowl-1450",
+        "doucai-stemcup-1465"
       ],
       "sources": [
         "cma-1957-61"
@@ -14804,7 +14806,9 @@
       "related": [
         "yuan-blue-white-jar",
         "ilkhanid-flying-birds-bowl",
-        "yongle-meiping-cloud"
+        "yongle-meiping-cloud",
+        "ming-jingdezhen-bowl-1450",
+        "kangxi-jar-lid-qing"
       ],
       "sources": [
         "cma-1962-154"
@@ -16657,6 +16661,142 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cannon-memorial-woodcut 示意图'><title>cannon-memorial-woodcut</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>Cannon·约1978</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>Kiowa-Caddo</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>五幅彩印木刻</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>无尺寸记录</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>波普色盘</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>身份议题</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>油画→木刻</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>媒介转译</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>Cannon：肖像、波普与转译</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（CMA）来源；无尺寸；版数未记录。"
+    },
+    {
+      "id": "ming-jingdezhen-bowl-1450",
+      "title": "明青花婴戏碗",
+      "kind": "作品",
+      "unit": "art-ceramics",
+      "era": "15世纪",
+      "region": "中国",
+      "medium": "陶瓷",
+      "tier": "核心",
+      "def": "景德镇明青花碗，维多利亚与艾伯特博物馆藏（O176456）。",
+      "when": "1450—1464年",
+      "overview": "厚胎白瓷深锥形直足碗；釉下钴蓝绘婴戏园景、足饰回纹；婴戏为明清瓷常见题材，寄多子与家族兴旺之愿；据御窑出土瓷片定于明1450—1464。",
+      "related": [
+        "yuan-lion-jar",
+        "chenghua-doucai-cup",
+        "doucai-stemcup-1465",
+        "kangxi-jar-lid-qing",
+        "armorial-porcelain-cup"
+      ],
+      "sources": [
+        "vam-o176456"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**景德镇**明青花碗（1450—1464），V&A 藏（O176456）。该馆据**御窑出土的瓷片**推断其作于**明**（1366—1644）**1450—1464年**间。",
+        "风格特征": "该馆描述：**厚胎白瓷**的**深锥形碗**，**直足**；以**釉下钴蓝**装饰，绘**园中嬉戏的婴孩**，足部绕以**回纹（fret work）**。",
+        "代表人物与作品": "作者未署名。相关条目见元青花罐与成化斗彩杯。",
+        "技法或形式分析": "材质为**瓷**；直径22.1厘米、高12.2厘米（据该馆记录）。",
+        "与前后风格的关系和争论": "该馆给出**寓意解读**：**婴孩**是**明清瓷器上的常见题材**，象征**多子之愿**与**家族的整体兴旺**。本条目据此把「婴戏」读作**社会期望的图像**，而非单纯可爱。",
+        "一图": "示意图以钴蓝婴戏、多子寓意与御窑断代三者关系标示本碗。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）「据御窑瓷片断代」的依据细节未列；（3）婴戏具体场景未描述；（4）递藏未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='ming-jingdezhen-bowl-145 示意图'><title>ming-jingdezhen-bowl-145</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>明·1450—1464</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>青花</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>婴戏碗</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>径22.1</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>婴戏=多子</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>寓意</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>御窑断代</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>瓷片依据</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>明青花碗：题材、寓意与断代</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；断代依据未列；场景未描述。"
+    },
+    {
+      "id": "doucai-stemcup-1465",
+      "title": "斗彩高足杯",
+      "kind": "作品",
+      "unit": "art-ceramics",
+      "era": "15世纪",
+      "region": "中国",
+      "medium": "陶瓷",
+      "tier": "核心",
+      "def": "景德镇斗彩高足杯，维多利亚与艾伯特博物馆藏（O168503）。",
+      "when": "1465—1487年",
+      "overview": "釉下青花勾轮廓、再填釉上彩，需二次烧成——即「斗彩」（contrasting colours）；外壁绘两枝大叶果实与两对鸟；足内青花六字款；明代尤盛。",
+      "related": [
+        "chenghua-doucai-cup",
+        "ming-jingdezhen-bowl-1450"
+      ],
+      "sources": [
+        "vam-o168503"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**景德镇**斗彩高足杯（1465—1487），V&A 藏（O168503）。",
+        "风格特征": "该馆描述：**瓷酒杯**，外壁以**釉下青花**与**釉上多彩珐琅**绘**两枝大叶果实**与**两对鸟**；**足内**有**青花六字款**。",
+        "代表人物与作品": "作者未署名。相关条目见成化斗彩杯与明青花碗。",
+        "技法或形式分析": "工艺为**釉下蓝加釉上彩**；高7.62厘米（据该馆记录）。该馆给出**斗彩的核心工序**：**轮廓先以釉下青花勾出**，**再填以釉上彩色珐琅**，**需要第二次入窑烧成**。",
+        "与前后风格的关系和争论": "该馆指出 **doucai（字面意为「对比之色」）** 在**明代**尤为流行。本条目据此把斗彩理解为**两次烧成的双层绘法**：青花定结构、釉上彩定色，二者**分工**而成一图。",
+        "一图": "示意图以青花勾轮廓、釉上填彩与二次烧成三者关系标示本杯。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）六字款的具体内容未迻录；（3）鸟与果实的物种未鉴定；（4）递藏未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='doucai-stemcup-1465 示意图'><title>doucai-stemcup-1465</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>明·1465—1487</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>斗彩</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>高足杯</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>高7.62</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>青花勾·釉上填</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>双层</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>二次烧成</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>工序</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>斗彩杯：勾描、填彩与复烧</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；款文与物种未记录。"
+    },
+    {
+      "id": "kangxi-jar-lid-qing",
+      "title": "康熙青花盖罐",
+      "kind": "作品",
+      "unit": "art-ceramics",
+      "era": "17—18世纪",
+      "region": "中国",
+      "medium": "陶瓷",
+      "tier": "重要",
+      "def": "景德镇康熙青花罐带盖，维多利亚与艾伯特博物馆藏（O77998）。",
+      "when": "1662—1722年",
+      "overview": "球腹青花绘人物场景；盖沿卷云纹、盖上蹲一鳞甲兽；西方称ginger jar（多因盛姜进口），中国则盛物或陈设；釉下青花14世纪起流行。",
+      "related": [
+        "yuan-lion-jar",
+        "ming-jingdezhen-bowl-1450",
+        "armorial-porcelain-cup"
+      ],
+      "sources": [
+        "vam-o77998"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**景德镇**康熙青花罐带盖（1662—1722），V&A 藏（O77998）。",
+        "风格特征": "该馆描述：**球腹**，**青花绘人物场景**；**盖沿**有**卷云纹**，**盖顶蹲一鳞甲兽**。",
+        "代表人物与作品": "作者未署名。相关条目见元青花罐与明青花碗。",
+        "技法或形式分析": "材质为**瓷，釉下钴蓝**装饰；高23厘米、直径20厘米（据该馆记录）。该馆给出**名称与用途**：此形器在**西方称 ginger jar（姜罐）**，因常**盛姜进口**；在**中国**则用**盛各种物品**，或作**纯陈设**。",
+        "与前后风格的关系和争论": "该馆并指出**青花源流**：**釉下钴蓝装饰**的瓷器在**14世纪**开始流行。本条目据此把「姜罐」读作**用途随流通而变**的例子：同一器形，出口语境得名「姜罐」，本土语境仅为容器/陈设。",
+        "一图": "示意图以人物场景、姜罐之名与青花源流三者关系标示本罐。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）盖顶兽的具体种类未名；（3）人物场景内容未描述；（4）递藏未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='kangxi-jar-lid-qing 示意图'><title>kangxi-jar-lid-qing</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>康熙·1662—1722</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>青花</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>盖罐</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>高23</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>人物·兽钮</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>装饰</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>ginger jar</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>流通命名</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>康熙盖罐：装饰、命名与源流</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；兽类与场景未描述。"
+    },
+    {
+      "id": "armorial-porcelain-cup",
+      "title": "纹章瓷杯（Le Grand）",
+      "kind": "作品",
+      "unit": "art-ceramics",
+      "era": "18世纪",
+      "region": "中国",
+      "medium": "陶瓷",
+      "tier": "重要",
+      "def": "景德镇软质纹章瓷杯，维多利亚与艾伯特博物馆藏（O185338）。",
+      "when": "约1755—1760年",
+      "overview": "软质瓷钟形无柄杯；釉上彩与描金；一面绘带盔、冠饰与羽饰之盾徽，绶带书「Le Grand」，装饰或为法国式；口沿饰贝壳边。",
+      "related": [
+        "kangxi-jar-lid-qing",
+        "ming-jingdezhen-bowl-1450"
+      ],
+      "sources": [
+        "vam-o185338"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**景德镇**软质纹章瓷杯（约1755—1760），V&A 藏（O185338）。",
+        "风格特征": "该馆描述：**软质瓷**的**钟形无柄杯**；以**釉上多彩珐琅与描金**绘饰；**一面**为**带盔、冠饰（crest）与羽饰（mantling）的盾徽**，**绶带书「Le Grand」**；该馆推测其装饰**或为法国式**；**口沿**有**程式化的贝壳边**。",
+        "代表人物与作品": "作者未署名。相关条目见康熙盖罐与明青花碗。",
+        "技法或形式分析": "材质为**软质瓷，釉上彩与描金**；高7.9厘米、直径8.6厘米（据该馆记录）。该馆**未提供 summary**，本条目**不补写**其历史。",
+        "与前后风格的关系和争论": "本条目只据既有字段陈述：**纹章**+**法文绶带**把此杯定位为**订制的外销纹章瓷**（具体家族未识）。因记录无 summary，本条目**不作历史推断**，并标注此局限。",
+        "一图": "示意图以盾徽、法文「Le Grand」与贝壳边三者关系标示本杯。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）**该记录无 summary**，历史不补写；（3）「或为法国式」该馆用 probably；（4）纹章属主未识。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='armorial-porcelain-cup 示意图'><title>armorial-porcelain-cup</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>景德镇·约1755—60</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>软质瓷</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>纹章杯</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>高7.9</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>盾徽·Le Grand</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>订制</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>贝壳边</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>口沿</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>纹章杯：盾徽、绶带与边饰</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；无 summary；属主未识。"
     }
   ]
 }

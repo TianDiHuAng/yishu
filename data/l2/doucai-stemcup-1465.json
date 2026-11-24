@@ -1,0 +1,19 @@
+{
+ "id": "doucai-stemcup-1465",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为**景德镇**斗彩高足杯（1465—1487），V&A 藏（O168503）。",
+  "风格特征": "该馆描述：**瓷酒杯**，外壁以**釉下青花**与**釉上多彩珐琅**绘**两枝大叶果实**与**两对鸟**；**足内**有**青花六字款**。",
+  "代表人物与作品": "作者未署名。相关条目见成化斗彩杯与明青花碗。",
+  "技法或形式分析": "工艺为**釉下蓝加釉上彩**；高7.62厘米（据该馆记录）。该馆给出**斗彩的核心工序**：**轮廓先以釉下青花勾出**，**再填以釉上彩色珐琅**，**需要第二次入窑烧成**。",
+  "与前后风格的关系和争论": "该馆指出 **doucai（字面意为「对比之色」）** 在**明代**尤为流行。本条目据此把斗彩理解为**两次烧成的双层绘法**：青花定结构、釉上彩定色，二者**分工**而成一图。",
+  "一图": "示意图以青花勾轮廓、釉上填彩与二次烧成三者关系标示本杯。",
+  "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）六字款的具体内容未迻录；（3）鸟与果实的物种未鉴定；（4）递藏未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='doucai-stemcup-1465 示意图'><title>doucai-stemcup-1465</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>明·1465—1487</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>斗彩</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>高足杯</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>高7.62</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>青花勾·釉上填</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>双层</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>二次烧成</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>工序</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>斗彩杯：勾描、填彩与复烧</text></g></svg>",
+ "sources": [
+  "vam-o168503"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（V&A）来源；款文与物种未记录。"
+}

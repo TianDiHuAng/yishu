@@ -6019,6 +6019,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；五幅彩印木刻；说明含Kiowa-Caddo与流行美学"
+    },
+    {
+      "id": "vam-o176456",
+      "title": "Victoria and Albert Museum — Ming blue-and-white bowl, Jingdezhen, 1450–1464, O176456",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O176456",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；瓷 径22.1 高12.2cm；说明含婴戏与多子寓意"
+    },
+    {
+      "id": "vam-o168503",
+      "title": "Victoria and Albert Museum — Doucai stemcup, Jingdezhen, 1465–1487, O168503",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O168503",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；青花加釉上彩 高7.62cm；说明含斗彩二次烧与六字款"
+    },
+    {
+      "id": "vam-o77998",
+      "title": "Victoria and Albert Museum — Kangxi blue-and-white jar and lid, Jingdezhen, 1662–1722, O77998",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O77998",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；青花瓷 高23 径20cm；说明含ginger jar与青花源流"
+    },
+    {
+      "id": "vam-o185338",
+      "title": "Victoria and Albert Museum — Armorial porcelain cup, Jingdezhen, ca. 1755–60, O185338",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O185338",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；软质瓷釉上彩描金 高7.9 径8.6cm；说明含「Le Grand」纹章（记录无 summary）"
     }
   ]
 }

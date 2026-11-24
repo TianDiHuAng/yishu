@@ -1683,6 +1683,18 @@
       },
       "network": "CMA",
       "verdict": "art-contemporary 9→13（总476）；未饱和"
+    },
+    {
+      "cycle": "cycle138",
+      "date": "2026-11-24",
+      "methods_used": [
+        "中国瓷器"
+      ],
+      "gaps_found": {
+        "entries": 4
+      },
+      "network": "V&A",
+      "verdict": "art-ceramics 12→16（总480）；未饱和"
     }
   ],
   "assessment_c33": {

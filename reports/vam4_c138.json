@@ -1,0 +1,81 @@
+{
+ "O176456": {
+  "title": "",
+  "date": "{'date': {'text': '1450-1464', 'earliest': '1450-01-01', 'latest': '1464-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Jingdezhen', 'id': 'x32230'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "mat": "Porcelain",
+  "desc": "Thickly potted white porcelain bowl of deep conical shape on a straight foot. It is decorated using underglaze cobalt blue with a scene of boys playing in a garden and a fret work pattern around the foot.",
+  "summary": "This bowl is made of porcelain and is painted with cobalt blue under the glaze with a scene of boys playing in a garden. Boys were a common theme on Ming and Qing porcelains symbolising the desire for many sons and general familial prosperity. It is thought to have been made in the Ming period (1366-1644) between 1450 and 1464 based on sherds excavated from the imperial kilns in Jingdezhen, south east China.",
+  "objtype": "Bowl",
+  "dims": [
+   [
+    "Diameter",
+    "22.1",
+    "cm"
+   ],
+   [
+    "Height",
+    "12.2",
+    "cm"
+   ]
+  ]
+ },
+ "O168503": {
+  "title": "",
+  "date": "{'date': {'text': '1465-1487', 'earliest': '1465-01-01', 'latest': '1487-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Jingdezhen', 'id': 'x32230'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "mat": "Porcelain decorated in underglaze blue and overglaze polychrome enamels",
+  "desc": "Porcelain wine cup, painted on the outside in underglaze blue and overglaze polychrome enamels in <i>doucai</i> style with two branches with large leaves and fruit and two pairs of birds; a six-character mark in underglaze blue is inside the foot.",
+  "summary": "This porcelain wine cup is painted with a technique known as <i>doucai</i> (literally: 'contrasting colours'), particularly popular during the Ming dynasty (1368-1644). The contours of the drawing were painted in underglaze blue and then filled with coloured overglaze enamels, which required a second firing.\r\n\r\nThe vessels produced at the imperial kilns of Jingdezhen during the Chenghua reign (1465-1487) were particularly fine, and were imitated in subsequent periods keeping the earlier Chenghua mark.",
+  "objtype": "Stemcup",
+  "dims": [
+   [
+    "Height",
+    "7.62",
+    "cm"
+   ]
+  ]
+ },
+ "O77998": {
+  "title": "",
+  "date": "{'date': {'text': '1662-1722', 'earliest': '1662-01-01', 'latest': '1722-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Jingdezhen', 'id': 'x32230'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "mat": "Porcelain, decorated in underglaze cobalt blue",
+  "desc": "Jar and lid of porcelain, globular form painted in blue with a figures in a scene. Around the rim of the lid, a swirling pattern. On the top of the lid, a scaled animal. ",
+  "summary": "<b>Object Type</b><br>Vessels of this shape are called 'ginger jars' in the West, because they were often imported containing ginger. In China they were used to hold a variety of substances or were simply ornamental objects.<br><br><b>Time</b><br>In China porcelain with cobalt blue designs painted under the glaze first became popular during the 14th century. Motifs on blue and white porcelain included figurative scenes from well-known novels and legends. During the Qing dynasty (1644-1911) the potters at the Jingdezhen kilns in south China created many different types of porcelain adorned with a large variety of decoration, including rich monochrome glazes and cobalt blue decoration. The Qing dynasty reign mark of Kangxi (1662-1722) can be seen on the base of this jar. Porcelains of the Kangxi period are renowned for their clear colour and painterly decoration, as exemplified here. During this period medium-sized jars and bowls were often decorated with garden scenes depicting scholars, women and children at leisure.<br><br><b>Materials & Making</b><br>The cobalt blue pigment was painted directly on to the porcelain body, which was then covered with a clear glaze and fired to a temperature of between 1280 and 1350ºC.",
+  "objtype": "Jar&Lid",
+  "dims": [
+   [
+    "Height",
+    "23",
+    "cm"
+   ],
+   [
+    "Diameter",
+    "20",
+    "cm"
+   ]
+  ]
+ },
+ "O185338": {
+  "title": "{'title': 'Armorial porcelain', 'type': 'generic title'}",
+  "date": "{'date': {'text': 'ca. 1755-60', 'earliest': '1750-01-01', 'latest': '1760-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Jingdezhen', 'id': 'x32230'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}; {'place': {'text': 'France', 'id': 'x28849'}, 'association': {'text': 'decorated', 'id': 'AAT56257'}, 'note': 'probably'}",
+  "mat": "Porcelain painted in overglaze enamels and gilded",
+  "desc": "Cup of soft paste porcelain, bell-shaped with no handle. Painted in overglaze polychrome enamels and gilding. On one side is a shield of arms with helmet, crest and mantling and a ribbon inscribed \"Le Grand\", the decoration could probably be French. Round the top is a border of conventional shells.",
+  "summary": "",
+  "objtype": "Cup",
+  "dims": [
+   [
+    "Height",
+    "7.9",
+    "cm"
+   ],
+   [
+    "Diameter",
+    "8.6",
+    "cm"
+   ]
+  ]
+ }
+}

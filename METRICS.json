@@ -3793,6 +3793,30 @@
       "check_links_result": "broken=0(513页)",
       "audit_all": "12/12 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle138",
+      "date": "2026-11-24",
+      "status": "completed",
+      "gap_methods": [
+        "中国瓷器（V&A）"
+      ],
+      "network": "V&A 200",
+      "new_entries": 4,
+      "new_entry_ids": [
+        "ming-jingdezhen-bowl-1450",
+        "doucai-stemcup-1465",
+        "kangxi-jar-lid-qing",
+        "armorial-porcelain-cup"
+      ],
+      "new_sources": 4,
+      "sources_total": 606,
+      "entries_total": 480,
+      "pages": 517,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(517页)",
+      "audit_all": "12/12 ok",
+      "commits": 1
     }
   ]
 }
