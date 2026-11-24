@@ -12062,7 +12062,9 @@
         "paris-mirror-chess",
         "gothic-casket-panels",
         "stained-glass-donors-pair",
-        "ivory-virgin-child-paris"
+        "ivory-virgin-child-paris",
+        "daniel-lions-relief",
+        "lion-basilisk-capital"
       ],
       "sources": [
         "cma-2012-52"
@@ -13317,7 +13319,8 @@
       "related": [
         "ivory-crucified-christ",
         "auvergne-virgin-majesty",
-        "limoges-gospel-cover"
+        "limoges-gospel-cover",
+        "byzantine-ivory-plaque"
       ],
       "sources": [
         "vam-o130510"
@@ -13350,7 +13353,8 @@
       "overview": "矩形，铜合金錾胎珐琅钉于橡木板；中为基督庄严坐虹、右手祝福左手持书；肩上有Α/Ω，四角为四福音书作者象征。",
       "related": [
         "gothic-casket-panels",
-        "ivory-virgin-child-paris"
+        "ivory-virgin-child-paris",
+        "ottonian-mission-apostles"
       ],
       "sources": [
         "vam-o120709"
@@ -15961,6 +15965,138 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='kang-table-dragons 示意图'><title>kang-table-dragons</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>17—18世纪</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>黄花梨</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>炕桌</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>97.2cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>北方火炕</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>坐卧</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>南方木榻</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>延续</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>炕桌：气候、坐卧与南传</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（CMA）来源；金属件与雕法未展开。"
+    },
+    {
+      "id": "daniel-lions-relief",
+      "title": "《但以理在狮坑》柱头",
+      "kind": "作品",
+      "unit": "art-medieval",
+      "era": "12世纪",
+      "region": "欧洲",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "罗曼式石灰岩柱头，克利夫兰艺术博物馆藏（1962.247）。",
+      "when": "约1125—1150年",
+      "overview": "《旧约》：但以理因独信一神被投入狮坑，因信仰奇迹免害；此作但以理居中、两侧狮群、神遣天使相救；原为法国中部圣艾尼昂教堂内部装饰柱头之一。",
+      "related": [
+        "lion-basilisk-capital",
+        "auvergne-virgin-majesty"
+      ],
+      "sources": [
+        "cma-1962-247"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明：据**《旧约》**，但以理因**独信一神**被投入**狮坑**，却因**信仰奇迹般免于伤害**。本件为约1125—50年的**罗曼式**石灰岩柱头，CMA 藏（1962.247）。",
+        "风格特征": "该馆描述：此故事**在此被表现**——**但以理居中、两侧为狮群**，以及**神所遣来救他的天使**。该馆并指出**建筑语境**：此作与**其他装饰性柱头**一起，曾**装饰法国中部圣艾尼昂（Saint-Aignan-sur-Cher）教堂的内部**。",
+        "代表人物与作品": "作者未署名。相关条目见蛇怪柱头与奥弗涅宝座圣母。本件为 CMA 藏品（1962.247）。",
+        "技法或形式分析": "材质为**石灰岩**；尺寸72.4 × 68.6 × 36.2厘米（据该馆记录）。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「柱头」理解为**建筑神学**的一环：故事（救赎）被安置在**结构节点**（柱头）上，观众在**通行与举目**间接受教义。本条目只依记录陈述。",
+        "一图": "示意图以狮坑叙事、建筑柱头位置与圣艾尼昂教堂三者关系标示本件。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）柱头的具体原位置未记录；（3）天使与狮群的构图细节未展开；（4）教堂其余柱头的现存地未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='daniel-lions-relief 示意图'><title>daniel-lions-relief</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>罗曼式·1125—50</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>石灰岩</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>但以理柱头</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>72.4cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>狮群·天使</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>叙事</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>教堂内部</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>建筑语境</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>但以理柱头：叙事与建筑</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；原位置与其余柱头未记录。"
+    },
+    {
+      "id": "byzantine-ivory-plaque",
+      "title": "拜占庭象牙圣母宝座（斯特罗加诺夫象牙）",
+      "kind": "作品",
+      "unit": "art-medieval",
+      "era": "10—11世纪",
+      "region": "欧洲",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "拜占庭君士坦丁堡象牙板，克利夫兰艺术博物馆藏（1925.1293）。",
+      "when": "950—1025年",
+      "overview": "圣母坐高背宝座，二天使在上；宝座圣母传统可溯至6世纪；基督一手祝福一手持卷，作无表情的超自然孩童，示道成肉身之秘。",
+      "related": [
+        "ivory-virgin-child-paris",
+        "ottonian-mission-apostles"
+      ],
+      "sources": [
+        "cma-1925-1293"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**拜占庭**（君士坦丁堡）象牙板，950—1025年，俗称**「斯特罗加诺夫象牙」**，CMA 藏（1925.1293）。",
+        "风格特征": "该馆描述：**圣母（上帝之母）坐于繁雕的高背宝座**上；**二天使在其上盘旋**，**把注意力引向她膝上**端坐的**圣婴基督**。该馆指出**传统**：**宝座上的圣母圣婴**这一表现，在拜占庭艺术中**有悠久的传统**，**可上溯至6世纪**。",
+        "代表人物与作品": "作者未署名。相关条目见巴黎象牙圣母子与奥托差遣使徒。",
+        "技法或形式分析": "材质为**象牙**；尺寸25.3 × 17.2 × 1.8厘米（据该馆记录）。该馆给出**图像学读解**：基督**一手举起作祝福，另一手持书卷**，被表现为**一个无情感、超自然的孩童**，从而**向虔信观者可视化其「道成肉身」的奥秘**。",
+        "与前后风格的关系和争论": "本条目据该馆说明把握「反自然的圣婴」：**不做可爱婴儿**，而作**超然的神性符号**——拜占庭图像的**神学功能**压倒了写实趣味。本条目只依记录陈述。",
+        "一图": "示意图以宝座圣母、二天使与「超自然孩童＝道成肉身」三者关系标示本板。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「斯特罗加诺夫」得名经过未展开；（3）书卷内容未描述；（4）递藏未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='byzantine-ivory-plaque 示意图'><title>byzantine-ivory-plaque</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>拜占庭·950—1025</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>象牙</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>宝座圣母像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>25.3cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>二天使</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>引导视线</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>超自然孩童</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>道成肉身</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>拜占庭象牙：宝座、天使与神性</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；得名与书卷未展开；递藏未记录。"
+    },
+    {
+      "id": "ottonian-mission-apostles",
+      "title": "《基督差遣使徒》（奥托）",
+      "kind": "作品",
+      "unit": "art-medieval",
+      "era": "10世纪",
+      "region": "欧洲",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "奥托期象牙板，克利夫兰艺术博物馆藏（1967.65）。",
+      "when": "约970—980年",
+      "overview": "基督全身居中，两侧各六使徒半身像成纵列；大眼、微张口，似将开口委以使徒传福音之命；或原为贵重福音书封的中央饰。",
+      "related": [
+        "byzantine-ivory-plaque",
+        "limoges-gospel-cover"
+      ],
+      "sources": [
+        "cma-1967-65"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**奥托期**（意大利米兰，10世纪）象牙板，约970—980年，CMA 藏（1967.65）。",
+        "风格特征": "该馆描述：象牙板表现**全身的基督**，两侧为**十二使徒的半身像**——**每侧一纵列六人**；基督**大眼睛注视观者、微张口**，似**将开口向使徒说话**，**委以向世界传福音之使命**。",
+        "代表人物与作品": "作者未署名。相关条目见拜占庭象牙板与利摩日福音书封。本件为 CMA 藏品（1967.65）。",
+        "技法或形式分析": "材质为**象牙**；尺寸18.2 × 9.9 × 1厘米（据该馆记录）。该馆给出**可能的功能**：此板**或原为一部贵重福音书封面的中央装饰**——而那部书**可能正像此图中基督所持的那部**。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「图像—书」互相指涉：画面中的基督持书，而此板本身原为**书的封面**——**媒介自指**使象牙板既是**装饰**也是**对书籍的宣示**。本条目只依记录陈述。",
+        "一图": "示意图以基督差遣十二使徒、福音书封位置与「持书自指」三者关系标示本板。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「或原为封面」该馆用 may；（3）原属福音书的今存地未记录；（4）米兰产地依据未展开。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='ottonian-mission-apostle 示意图'><title>ottonian-mission-apostle</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>奥托·约970—980</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>象牙</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>差遣使徒板</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>18.2cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>十二使徒</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>每侧六人</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>福音书封</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>媒介自指</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>差遣使徒：构图、使命与书籍</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；封面归属为推测；原书未记录。"
+    },
+    {
+      "id": "lion-basilisk-capital",
+      "title": "狮与蛇怪附壁柱头",
+      "kind": "作品",
+      "unit": "art-medieval",
+      "era": "12世纪",
+      "region": "欧洲",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "北意大利大理石柱头，克利夫兰艺术博物馆藏（1972.20）。",
+      "when": "1175—1200年",
+      "overview": "蛇怪（basilisk）为半鸡半蛇的想象动物，据中世纪博物志可一瞥致死；常作魔鬼之象征，于道成肉身与末日审判时为基督践踏。",
+      "related": [
+        "daniel-lions-relief",
+        "auvergne-virgin-majesty"
+      ],
+      "sources": [
+        "cma-1972-20"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**北意大利**（艾米利亚，或博洛尼亚）**附壁柱头（engaged capital）**，1175—1200年，CMA 藏（1972.20）。",
+        "风格特征": "该馆说明所雕形象：**蛇怪（basilisk）** 是**想象动物**，**半鸡半蛇**；据**中世纪博物志（bestiaries）**，蛇怪**仅凭一瞥即可致死**。",
+        "代表人物与作品": "作者未署名。相关条目见但以理柱头与奥弗涅宝座圣母。本件为 CMA 藏品（1972.20）。",
+        "技法或形式分析": "材质为**大理石**；尺寸30.2 × 33 × 29.3厘米（据该馆记录）。该馆给出**象征解释**：蛇怪**通常被当作魔鬼的象征**，**为基督所践踏**——**先是在其「道成肉身」之刻，后又在「末日审判」之时**。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「怪物」读作**教义的图像装置**：柱头上的蛇怪不是猎奇装饰，而是**「基督战胜魔鬼」**的可见承诺。这与但以理柱头（信仰得救）构成同一建筑内的**救赎叙事对句**。本条目只依记录陈述。",
+        "一图": "示意图以蛇怪（半鸡半蛇）、一瞥致死与「基督践踏魔鬼」三者关系标示本柱头。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）产地「或博洛尼亚」该馆存疑；（3）柱头所附之柱与建筑未记录；（4）狮子（标题）与蛇怪的组合关系未展开。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='lion-basilisk-capital 示意图'><title>lion-basilisk-capital</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>北意·1175—1200</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>大理石</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>狮·蛇怪柱头</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>30.2cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>蛇怪一瞥致死</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>博物志</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>魔鬼·被基督践踏</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>象征</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>蛇怪柱头：怪物、博物志与象征</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；产地存疑；原柱未记录。"
     }
   ]
 }

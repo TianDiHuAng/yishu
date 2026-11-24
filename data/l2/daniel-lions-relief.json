@@ -1,0 +1,19 @@
+{
+ "id": "daniel-lions-relief",
+ "level": "L2",
+ "sections": {
+  "时代背景": "该馆说明：据**《旧约》**，但以理因**独信一神**被投入**狮坑**，却因**信仰奇迹般免于伤害**。本件为约1125—50年的**罗曼式**石灰岩柱头，CMA 藏（1962.247）。",
+  "风格特征": "该馆描述：此故事**在此被表现**——**但以理居中、两侧为狮群**，以及**神所遣来救他的天使**。该馆并指出**建筑语境**：此作与**其他装饰性柱头**一起，曾**装饰法国中部圣艾尼昂（Saint-Aignan-sur-Cher）教堂的内部**。",
+  "代表人物与作品": "作者未署名。相关条目见蛇怪柱头与奥弗涅宝座圣母。本件为 CMA 藏品（1962.247）。",
+  "技法或形式分析": "材质为**石灰岩**；尺寸72.4 × 68.6 × 36.2厘米（据该馆记录）。",
+  "与前后风格的关系和争论": "本条目据该馆说明把「柱头」理解为**建筑神学**的一环：故事（救赎）被安置在**结构节点**（柱头）上，观众在**通行与举目**间接受教义。本条目只依记录陈述。",
+  "一图": "示意图以狮坑叙事、建筑柱头位置与圣艾尼昂教堂三者关系标示本件。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）柱头的具体原位置未记录；（3）天使与狮群的构图细节未展开；（4）教堂其余柱头的现存地未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='daniel-lions-relief 示意图'><title>daniel-lions-relief</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>罗曼式·1125—50</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>石灰岩</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>但以理柱头</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>72.4cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>狮群·天使</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>叙事</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>教堂内部</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>建筑语境</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>但以理柱头：叙事与建筑</text></g></svg>",
+ "sources": [
+  "cma-1962-247"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；原位置与其余柱头未记录。"
+}

@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 456 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 460 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -90,6 +90,10 @@
 | ivory-virgin-child-paris | 巴黎象牙圣母子 | 作品 | 13世纪 | 欧洲 | 雕塑 | 核心 | O2 |
 | limoges-gospel-cover | 利摩日福音书封 | 作品 | 13世纪 | 欧洲 | 综合 | 核心 | O2 |
 | alabaster-pieta | 雪花石《哀悼基督》 | 作品 | 15世纪 | 欧洲 | 雕塑 | 核心 | O2 |
+| daniel-lions-relief | 《但以理在狮坑》柱头 | 作品 | 12世纪 | 欧洲 | 雕塑 | 核心 | O2 |
+| byzantine-ivory-plaque | 拜占庭象牙圣母宝座（斯特罗加诺夫象牙） | 作品 | 10—11世纪 | 欧洲 | 雕塑 | 核心 | O2 |
+| ottonian-mission-apostles | 《基督差遣使徒》（奥托） | 作品 | 10世纪 | 欧洲 | 雕塑 | 核心 | O2 |
+| lion-basilisk-capital | 狮与蛇怪附壁柱头 | 作品 | 12世纪 | 欧洲 | 雕塑 | 重要 | O2 |
 
 ## art-renaissance（艺术史·文艺复兴）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

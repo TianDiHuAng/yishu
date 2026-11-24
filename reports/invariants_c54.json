@@ -11,29 +11,29 @@
   ]
  ],
  "stats": {
-  "entries": 456,
-  "sources": 583,
+  "entries": 460,
+  "sources": 587,
   "units": 28,
-  "html_files": 493,
+  "html_files": 497,
   "source_types": {
    "权威百科": 149,
    "官方机构": 1,
    "权威结构化数据": 41,
    "权威结构化数据（身份锚点）": 77,
-   "权威机构藏品记录": 315
+   "权威机构藏品记录": 319
   },
   "levels": {
-   "L2": 452,
+   "L2": 456,
    "L3": 4
   },
   "tiers": {
-   "重要": 237,
+   "重要": 238,
    "补充": 12,
-   "核心": 207
+   "核心": 210
   },
   "per_unit": {
    "art-ancient": 46,
-   "art-medieval": 14,
+   "art-medieval": 18,
    "art-renaissance": 16,
    "art-baroque": 15,
    "art-neo-romantic": 12,

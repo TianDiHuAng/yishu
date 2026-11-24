@@ -1360,3 +1360,12 @@
 置于 `art-asia`（东亚，现含中国家具/漆器）。写前查重通过。
 可逆：删 4 条 overlay 与 catalog 元组、移除 4 条来源。代价：均单机构（CMA）。
 
+
+## D135 — Cycle132 中世纪 4 条（456 → 460）
+`daniel-lions-relief`（但以理狮坑柱头，**核心**；信仰得救叙事＋圣艾尼昂教堂建筑语境）、
+`byzantine-ivory-plaque`（拜占庭「斯特罗加诺夫」象牙，**核心**；宝座圣母可溯6世纪、超自然孩童＝道成肉身）、
+`ottonian-mission-apostles`（奥托差遣使徒板，**核心**；基督持书、或原为福音书封中央装饰＝媒介自指）、
+`lion-basilisk-capital`（狮与蛇怪柱头；蛇怪半鸡半蛇、一瞥致死、魔鬼象征为基督践踏）。
+`art-medieval` 14→18。写前查重通过。
+可逆：删 4 条 overlay 与 catalog 元组、移除 4 条来源。代价：均单机构（CMA）。
+

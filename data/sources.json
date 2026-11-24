@@ -5829,6 +5829,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；黄花梨与金属 29×97.2×69.2cm；说明含炕与南方榻"
+    },
+    {
+      "id": "cma-1962-247",
+      "title": "Cleveland Museum of Art — Daniel in the Lion's Den, Saint-Aignan-sur-Cher, c. 1125–50, acc. 1962.247",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1962.247",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；石灰岩 72.4×68.6×36.2cm；说明含罗曼式柱头与教堂"
+    },
+    {
+      "id": "cma-1925-1293",
+      "title": "Cleveland Museum of Art — Byzantine ivory plaque (Stroganoff Ivory), 950–1025, acc. 1925.1293",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1925.1293",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；象牙 25.3×17.2cm；说明含宝座圣母与道成肉身"
+    },
+    {
+      "id": "cma-1967-65",
+      "title": "Cleveland Museum of Art — Christ's Mission to the Apostles, Ottonian, c. 970–980, acc. 1967.65",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1967.65",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；象牙 18.2×9.9cm；说明含十二使徒与福音书封"
+    },
+    {
+      "id": "cma-1972-20",
+      "title": "Cleveland Museum of Art — Engaged capital with lion and basilisk, N. Italy, 1175–1200, acc. 1972.20",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1972.20",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；大理石 30.2×33×29.3cm；说明含蛇怪与魔鬼象征"
     }
   ]
 }

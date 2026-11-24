@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 456,
+    "total": 460,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -5477,6 +5477,54 @@
     "kang-table-dragons": {
       "title": "云龙纹炕桌",
       "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "daniel-lions-relief": {
+      "title": "《但以理在狮坑》柱头",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "byzantine-ivory-plaque": {
+      "title": "拜占庭象牙圣母宝座（斯特罗加诺夫象牙）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "ottonian-mission-apostles": {
+      "title": "《基督差遣使徒》（奥托）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "lion-basilisk-capital": {
+      "title": "狮与蛇怪附壁柱头",
+      "tier": "重要",
       "level": "L2",
       "status": "written_l2",
       "sources_count": 1,

@@ -1,0 +1,19 @@
+{
+ "id": "ottonian-mission-apostles",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为**奥托期**（意大利米兰，10世纪）象牙板，约970—980年，CMA 藏（1967.65）。",
+  "风格特征": "该馆描述：象牙板表现**全身的基督**，两侧为**十二使徒的半身像**——**每侧一纵列六人**；基督**大眼睛注视观者、微张口**，似**将开口向使徒说话**，**委以向世界传福音之使命**。",
+  "代表人物与作品": "作者未署名。相关条目见拜占庭象牙板与利摩日福音书封。本件为 CMA 藏品（1967.65）。",
+  "技法或形式分析": "材质为**象牙**；尺寸18.2 × 9.9 × 1厘米（据该馆记录）。该馆给出**可能的功能**：此板**或原为一部贵重福音书封面的中央装饰**——而那部书**可能正像此图中基督所持的那部**。",
+  "与前后风格的关系和争论": "本条目据该馆说明把「图像—书」互相指涉：画面中的基督持书，而此板本身原为**书的封面**——**媒介自指**使象牙板既是**装饰**也是**对书籍的宣示**。本条目只依记录陈述。",
+  "一图": "示意图以基督差遣十二使徒、福音书封位置与「持书自指」三者关系标示本板。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「或原为封面」该馆用 may；（3）原属福音书的今存地未记录；（4）米兰产地依据未展开。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='ottonian-mission-apostle 示意图'><title>ottonian-mission-apostle</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>奥托·约970—980</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>象牙</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>差遣使徒板</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>18.2cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>十二使徒</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>每侧六人</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>福音书封</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>媒介自指</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>差遣使徒：构图、使命与书籍</text></g></svg>",
+ "sources": [
+  "cma-1967-65"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；封面归属为推测；原书未记录。"
+}

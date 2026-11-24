@@ -7472,7 +7472,9 @@
         "paris-mirror-chess",
         "gothic-casket-panels",
         "stained-glass-donors-pair",
-        "ivory-virgin-child-paris"
+        "ivory-virgin-child-paris",
+        "daniel-lions-relief",
+        "lion-basilisk-capital"
       ],
       "sources": [
         "cma-2012-52"
@@ -8246,7 +8248,8 @@
       "related": [
         "ivory-crucified-christ",
         "auvergne-virgin-majesty",
-        "limoges-gospel-cover"
+        "limoges-gospel-cover",
+        "byzantine-ivory-plaque"
       ],
       "sources": [
         "vam-o130510"
@@ -8266,7 +8269,8 @@
       "overview": "矩形，铜合金錾胎珐琅钉于橡木板；中为基督庄严坐虹、右手祝福左手持书；肩上有Α/Ω，四角为四福音书作者象征。",
       "related": [
         "gothic-casket-panels",
-        "ivory-virgin-child-paris"
+        "ivory-virgin-child-paris",
+        "ottonian-mission-apostles"
       ],
       "sources": [
         "vam-o120709"
@@ -9862,6 +9866,86 @@
       ],
       "sources": [
         "cma-1964-228"
+      ]
+    },
+    {
+      "id": "daniel-lions-relief",
+      "title": "《但以理在狮坑》柱头",
+      "kind": "作品",
+      "unit": "art-medieval",
+      "era": "12世纪",
+      "region": "欧洲",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "罗曼式石灰岩柱头，克利夫兰艺术博物馆藏（1962.247）。",
+      "when": "约1125—1150年",
+      "overview": "《旧约》：但以理因独信一神被投入狮坑，因信仰奇迹免害；此作但以理居中、两侧狮群、神遣天使相救；原为法国中部圣艾尼昂教堂内部装饰柱头之一。",
+      "related": [
+        "lion-basilisk-capital",
+        "auvergne-virgin-majesty"
+      ],
+      "sources": [
+        "cma-1962-247"
+      ]
+    },
+    {
+      "id": "byzantine-ivory-plaque",
+      "title": "拜占庭象牙圣母宝座（斯特罗加诺夫象牙）",
+      "kind": "作品",
+      "unit": "art-medieval",
+      "era": "10—11世纪",
+      "region": "欧洲",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "拜占庭君士坦丁堡象牙板，克利夫兰艺术博物馆藏（1925.1293）。",
+      "when": "950—1025年",
+      "overview": "圣母坐高背宝座，二天使在上；宝座圣母传统可溯至6世纪；基督一手祝福一手持卷，作无表情的超自然孩童，示道成肉身之秘。",
+      "related": [
+        "ivory-virgin-child-paris",
+        "ottonian-mission-apostles"
+      ],
+      "sources": [
+        "cma-1925-1293"
+      ]
+    },
+    {
+      "id": "ottonian-mission-apostles",
+      "title": "《基督差遣使徒》（奥托）",
+      "kind": "作品",
+      "unit": "art-medieval",
+      "era": "10世纪",
+      "region": "欧洲",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "奥托期象牙板，克利夫兰艺术博物馆藏（1967.65）。",
+      "when": "约970—980年",
+      "overview": "基督全身居中，两侧各六使徒半身像成纵列；大眼、微张口，似将开口委以使徒传福音之命；或原为贵重福音书封的中央饰。",
+      "related": [
+        "byzantine-ivory-plaque",
+        "limoges-gospel-cover"
+      ],
+      "sources": [
+        "cma-1967-65"
+      ]
+    },
+    {
+      "id": "lion-basilisk-capital",
+      "title": "狮与蛇怪附壁柱头",
+      "kind": "作品",
+      "unit": "art-medieval",
+      "era": "12世纪",
+      "region": "欧洲",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "北意大利大理石柱头，克利夫兰艺术博物馆藏（1972.20）。",
+      "when": "1175—1200年",
+      "overview": "蛇怪（basilisk）为半鸡半蛇的想象动物，据中世纪博物志可一瞥致死；常作魔鬼之象征，于道成肉身与末日审判时为基督践踏。",
+      "related": [
+        "daniel-lions-relief",
+        "auvergne-virgin-majesty"
+      ],
+      "sources": [
+        "cma-1972-20"
       ]
     }
   ]
