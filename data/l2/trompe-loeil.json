@@ -1,0 +1,19 @@
+{
+ "id": "trompe-loeil",
+ "level": "L2",
+ "sections": {
+  "时代背景": "词表称，错视画的手法见于古希腊艺术，经古罗马人精进，在文艺复兴及其后的欧洲与美国流行；词表又说，20世纪后期曾有整栋建筑外墙以错视画法绘制。这些时间线均为词表的概括，具体作品与年份词表未给出。",
+  "风格特征": "词表定义：法语词，意为“骗过眼睛”，指逼真到可能使观者误以为所绘物体、场景、质感或视点是真实的图像。",
+  "代表人物与作品": "本条为术语，无特定代表人物与专属作品。词表定义没有列举画家或作品，本条目不补写。可对照阅读线性透视与文艺复兴条目。",
+  "技法或形式分析": "词表列出的效果包括：在墙或柱上画出木纹或大理石质感；画出带假窗的真实景致；画出假画框，使静物或肖像的内容仿佛伸入观者的空间；画出半开门后可见的架子或橱柜里的物品。词表称该词通常指西方的二维艺术或浅浮雕。",
+  "与前后风格的关系和争论": "词表只做了历史概括，没有就各时期风格的差异作比较，本条目不涉及争论。",
+  "一图": "示意图以错视画为中心，标示逼真到骗过眼睛、画出的质感与假窗景致、假画框三项。",
+  "待核实": "（1）本条目事实仅来自盖蒂《艺术与建筑词表》（AAT）的单一定义，整条标记待核实。（2）古希腊、古罗马、文艺复兴的时间线是词表的概括，具体作品与年份词表未给出，本条目没有补写；（3）与线性透视、文艺复兴的关联是本库的相关链接，词表定义并未提到线性透视。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='trompe-loeil 示意图'><title>trompe-loeil</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>逼真的图像</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>骗过眼睛</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>错视画</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>法语词</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>质感与假窗</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>木纹大理石</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>假画框</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>内容伸出</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据盖蒂 AAT 定义</text></g></svg>",
+ "sources": [
+  "aat-300056506"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一来源（盖蒂AAT）；时间线为词表概括，具体作品未给出。"
+}

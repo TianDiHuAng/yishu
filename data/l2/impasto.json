@@ -1,0 +1,19 @@
+{
+ "id": "impasto",
+ "level": "L2",
+ "sections": {
+  "时代背景": "厚涂是历代绘画中使用的上色方式，本条目不限定具体时代与地域。词表定义没有给出起源。",
+  "风格特征": "词表定义：把颜料以厚而不透明的块面涂上画面，通常用蘸足颜料的画笔或调色刀。",
+  "代表人物与作品": "本条为术语，无特定代表人物与专属作品。词表定义没有列举画家或作品，本条目不补写。库内相关条目有油画技法与伦勃朗，但那只是库内关联，并非词表的结论。",
+  "技法或形式分析": "工序要点：颜料量大，形成厚实而不透明的块面；工具可用画笔，也可用调色刀。",
+  "与前后风格的关系和争论": "词表定义没有就它与罩染等薄涂方式作比较，本条目不涉及争论。",
+  "一图": "示意图以厚涂为中心，标示厚而不透明的颜料块面、画笔与调色刀两种工具。",
+  "待核实": "（1）本条目事实仅来自盖蒂《艺术与建筑词表》（AAT）的单一定义，整条标记待核实。（2）与伦勃朗的关联是本库的相关链接，词表定义并未提到，是否适合以此作例仍待核实；（3）厚涂常见于哪些画派，词表未给出，本条目没有补写。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='impasto 示意图'><title>impasto</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>饱蘸颜料</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>画笔</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>厚涂</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>上色方式</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>调色刀</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>另一种工具</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>厚而不透明</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>颜料块面</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据盖蒂 AAT 定义</text></g></svg>",
+ "sources": [
+  "aat-300053368"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一来源（盖蒂AAT）；画派归属未给出，人物关联为库内链接。"
+}

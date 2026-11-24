@@ -516,7 +516,8 @@
         "cranach-baptism-of-christ",
         "cranach-hartenfels-hunt",
         "bronzino-portrait-of-a-woman",
-        "linear-perspective"
+        "linear-perspective",
+        "trompe-loeil"
       ],
       "sources": [
         "enc-renaissance",
@@ -557,7 +558,8 @@
         "buglioni-glazed-terracotta",
         "fresco",
         "linear-perspective",
-        "tempera"
+        "tempera",
+        "foreshortening"
       ],
       "sources": [
         "enc-italian-renaissance-painting",
@@ -600,7 +602,8 @@
         "lotto-portrait-man",
         "andrea-sacrifice-of-isaac",
         "veronese-barbarigo-portrait",
-        "fresco"
+        "fresco",
+        "contrapposto"
       ],
       "sources": [
         "enc-high-renaissance",
@@ -1090,7 +1093,8 @@
         "dusart-violin-tavern",
         "rembrandt-bearded-man-hat",
         "hals-tieleman-roosterman",
-        "chiaroscuro"
+        "chiaroscuro",
+        "impasto"
       ],
       "sources": [
         "enc-rembrandt",
@@ -12354,7 +12358,8 @@
         "auvergne-virgin-majesty",
         "gothic-casket-panels",
         "female-saint-canopy-glass",
-        "adoration-magi-window-1516"
+        "adoration-magi-window-1516",
+        "grisaille"
       ],
       "sources": [
         "cma-1919-1"
@@ -20416,7 +20421,8 @@
       "overview": "美术以对称构图与清晰轮廓回归古典形式，音乐以均衡、清晰与奏鸣曲式确立交响曲等范式；两者的断代与内涵并不完全重合。",
       "related": [
         "neoclassicism",
-        "classical-period-music"
+        "classical-period-music",
+        "contrapposto"
       ],
       "sources": [
         "enc-neoclassicism",
@@ -20916,7 +20922,9 @@
       "overview": "线性透视是正交线向一个或多个灭点汇聚的体系；在西方艺术中常指意大利文艺复兴发展出的一点透视。",
       "related": [
         "early-renaissance",
-        "renaissance"
+        "renaissance",
+        "foreshortening",
+        "trompe-loeil"
       ],
       "sources": [
         "aat-300056348"
@@ -20950,7 +20958,8 @@
       "related": [
         "caravaggio",
         "rembrandt",
-        "leonardo"
+        "leonardo",
+        "grisaille"
       ],
       "sources": [
         "aat-300053414"
@@ -21017,7 +21026,9 @@
       "related": [
         "tempera",
         "northern-renaissance",
-        "sfumato"
+        "sfumato",
+        "impasto",
+        "glaze"
       ],
       "sources": [
         "aat-300178684"
@@ -21051,7 +21062,8 @@
       "related": [
         "oil-painting",
         "leonardo",
-        "mona-lisa"
+        "mona-lisa",
+        "glaze"
       ],
       "sources": [
         "aat-300053421"
@@ -21069,6 +21081,204 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='sfumato 示意图'><title>sfumato</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>色调A</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>融入</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>晕涂法</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>油画效果</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>色调B</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>被融入</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>柔和细腻</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>尤见于罩染</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据盖蒂 AAT 定义</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一来源（盖蒂AAT）；与人物的关联为库内链接。"
+    },
+    {
+      "id": "contrapposto",
+      "title": "对立式平衡（Contrapposto）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "人物静立时重心移到一条腿上，姿态平衡而不对称的站姿。",
+      "when": "历代",
+      "overview": "对立式平衡指人物静立、重心落在一条腿上的站姿：姿态平衡但不对称，髋、肩、头朝不同方向转动或倾斜。",
+      "related": [
+        "classical-crossmedia",
+        "high-renaissance"
+      ],
+      "sources": [
+        "aat-300067391"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "对立式平衡是再现人体站姿的一种方式。词表称，在西方艺术中它指向希腊的“对立”（antithesis）概念。词表没有给出具体年代与作品。",
+        "风格特征": "词表定义：指人物静立、重心移到一条腿上的姿态；姿态平衡但不对称，身体垂直轴线的扭转或弯曲，使髋、肩、头转向或倾向不同方向。",
+        "代表人物与作品": "本条为术语，无特定代表人物与专属作品。词表定义没有列举雕塑家或作品，本条目不补写。库内可对照古典主义条目与盛期文艺复兴条目，但那只是库内关联，并非词表的结论。",
+        "技法或形式分析": "形式要点有三：重心落在一条腿；髋、肩、头朝不同方向；整体仍保持平衡。词表称这是古典修辞中“对立”概念在视觉上的对应，被认为是最悦目、最有说服力的姿态。",
+        "与前后风格的关系和争论": "词表只把它与希腊的对立概念、古典修辞相联系，没有谈它在后世风格中的演变，本条目不涉及争论。",
+        "一图": "示意图以对立式平衡为中心，标示重心落在一条腿、髋肩头朝不同方向、整体仍平衡三项。",
+        "待核实": "（1）本条目事实仅来自盖蒂《艺术与建筑词表》（AAT）的单一定义，整条标记待核实。（2）“古典修辞中的对立”是词表的类比说法，本条目照此转述，不作展开；（3）与古典主义、盛期文艺复兴的关联是本库的相关链接，词表并未提到；（4）该姿态最早出现于何处、何时，词表未给出，本条目没有补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='contrapposto 示意图'><title>contrapposto</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>重心在一腿</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>静立</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>对立式平衡</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>站姿</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>髋肩头异向</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>不对称</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>整体平衡</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>仍稳定</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据盖蒂 AAT 定义</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一来源（盖蒂AAT）；起源与名作未给出，与古典主义的关联为库内链接。"
+    },
+    {
+      "id": "foreshortening",
+      "title": "透视缩短（Foreshortening）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "在图像再现中缩减物体或人物的某些尺度，以表示其向画面深处后退。",
+      "when": "历代",
+      "overview": "透视缩短是在图像中缩减物体或人物的某些尺度，以显示其退向画面空间深处。",
+      "related": [
+        "linear-perspective",
+        "early-renaissance"
+      ],
+      "sources": [
+        "aat-300053417"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "透视缩短是图像再现中的手法，本条目不限定具体时代与地域。词表定义没有给出起源。",
+        "风格特征": "词表定义：在图像再现中，缩减物体或人物的某些尺度，以表示其退向画面空间的深处。",
+        "代表人物与作品": "本条为术语，无特定代表人物与专属作品。词表定义没有列举画家或作品，本条目不补写。可对照线性透视与早期文艺复兴条目。",
+        "技法或形式分析": "形式要点只有一条：某些尺度被缩短，用来暗示物体向画面深处后退。词表没有进一步写作法。",
+        "与前后风格的关系和争论": "词表定义没有谈它与线性透视的关系，本条目不作比较，也不涉及争论。两者在库内互相关联，只是为了方便对照阅读。",
+        "一图": "示意图以透视缩短为中心，标示尺度被缩减与物体退向画面深处两项。",
+        "待核实": "（1）本条目事实仅来自盖蒂《艺术与建筑词表》（AAT）的单一定义，整条标记待核实。（2）与线性透视、早期文艺复兴的关联是本库的相关链接，词表定义并未提到；（3）哪些艺术家擅长此法、何时开始盛行，词表未给出，本条目没有补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='foreshortening 示意图'><title>foreshortening</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>物体或人物</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>尺度被缩减</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>透视缩短</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>再现手法</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>退向深处</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>画面空间</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据盖蒂 AAT 定义</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一来源（盖蒂AAT）；起源与名作未给出。"
+    },
+    {
+      "id": "impasto",
+      "title": "厚涂（Impasto）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "全球",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "把颜料以厚而不透明的块面涂上画面，通常用蘸饱颜料的画笔或调色刀。",
+      "when": "历代",
+      "overview": "厚涂指把颜料以厚而不透明的块面涂在画面上，通常用蘸足颜料的画笔或调色刀。",
+      "related": [
+        "oil-painting",
+        "rembrandt"
+      ],
+      "sources": [
+        "aat-300053368"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "厚涂是历代绘画中使用的上色方式，本条目不限定具体时代与地域。词表定义没有给出起源。",
+        "风格特征": "词表定义：把颜料以厚而不透明的块面涂上画面，通常用蘸足颜料的画笔或调色刀。",
+        "代表人物与作品": "本条为术语，无特定代表人物与专属作品。词表定义没有列举画家或作品，本条目不补写。库内相关条目有油画技法与伦勃朗，但那只是库内关联，并非词表的结论。",
+        "技法或形式分析": "工序要点：颜料量大，形成厚实而不透明的块面；工具可用画笔，也可用调色刀。",
+        "与前后风格的关系和争论": "词表定义没有就它与罩染等薄涂方式作比较，本条目不涉及争论。",
+        "一图": "示意图以厚涂为中心，标示厚而不透明的颜料块面、画笔与调色刀两种工具。",
+        "待核实": "（1）本条目事实仅来自盖蒂《艺术与建筑词表》（AAT）的单一定义，整条标记待核实。（2）与伦勃朗的关联是本库的相关链接，词表定义并未提到，是否适合以此作例仍待核实；（3）厚涂常见于哪些画派，词表未给出，本条目没有补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='impasto 示意图'><title>impasto</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>饱蘸颜料</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>画笔</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>厚涂</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>上色方式</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>调色刀</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>另一种工具</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>厚而不透明</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>颜料块面</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据盖蒂 AAT 定义</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一来源（盖蒂AAT）；画派归属未给出，人物关联为库内链接。"
+    },
+    {
+      "id": "glaze",
+      "title": "罩染（Glaze）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "加在画面上、用以改变色调的一层透明到半透明的薄色膜。",
+      "when": "历代",
+      "overview": "在绘画中，罩染是加在画面上的一层透明至半透明的薄色膜，用来改变色调。",
+      "related": [
+        "oil-painting",
+        "sfumato"
+      ],
+      "sources": [
+        "aat-300458811"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "罩染是绘画中的上色方式，本条目不限定具体时代与地域。词表定义没有给出起源。",
+        "风格特征": "词表定义：在绘画中，罩染是加在画面上的一层透明至半透明的薄色膜，用来改变色调。",
+        "代表人物与作品": "本条为术语，无特定代表人物与专属作品。词表定义没有列举画家或作品，本条目不补写。可对照阅读油画技法与晕涂法条目。",
+        "技法或形式分析": "形式要点：罩染是薄层，颜色透明或半透明，作用是改变下层的色调。词表没有写具体用料。",
+        "与前后风格的关系和争论": "词表定义没有谈罩染与厚涂的比较，本条目不涉及争论。词表对晕涂法的定义里提到罩染，所以库内把两者互链。",
+        "一图": "示意图以罩染为中心，标示透明至半透明的薄色膜、改变下层色调两项。",
+        "待核实": "（1）本条目事实仅来自盖蒂《艺术与建筑词表》（AAT）的单一定义，整条标记待核实。（2）词表另有“陶瓷釉”等同名词条，本条目只采用“绘画中的罩染”这一条；（3）罩染多用于油画还是其他媒介，本条目只据晕涂法定义说其常见于油画，除此之外词表未给出，没有补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='glaze 示意图'><title>glaze</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>下层色调</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>原有</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>罩染</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>透明薄膜</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>改变色调</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>透明至半透明</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据盖蒂 AAT 定义</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一来源（盖蒂AAT）；适用媒介未完整给出。"
+    },
+    {
+      "id": "grisaille",
+      "title": "灰色画（Grisaille）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "用单色（通常是灰色调）画出形象的画法。",
+      "when": "历代",
+      "overview": "灰色画指以单色（通常是灰色调）画出形象，可见于绘画、彩绘玻璃、珐琅以及陶瓷等器物。",
+      "related": [
+        "chiaroscuro",
+        "stained-glass-donors-pair"
+      ],
+      "sources": [
+        "aat-300053386"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "灰色画是历代使用的单色画法，本条目不限定具体时代与地域。词表定义没有给出起源。",
+        "风格特征": "词表定义：用单色（通常是灰色调）画出形象。",
+        "代表人物与作品": "本条为术语，无特定代表人物与专属作品。词表定义没有列举画家或作品，本条目不补写。可对照阅读明暗对照法条目。",
+        "技法或形式分析": "形式要点：整幅形象只用一种颜色，多为灰调。词表说明它可用于绘画、彩绘玻璃、珐琅，以及陶瓷等器物。",
+        "与前后风格的关系和争论": "词表定义没有就它与明暗对照法的关系作论述，本条目不涉及争论。库内互链只是方便对照阅读。",
+        "一图": "示意图以灰色画为中心，标示单色（多为灰调）与可用于绘画、彩绘玻璃、珐琅、陶瓷等器物四项。",
+        "待核实": "（1）本条目事实仅来自盖蒂《艺术与建筑词表》（AAT）的单一定义，整条标记待核实。（2）与明暗对照法、彩窗条目的关联是本库的相关链接，词表定义并未提到该彩窗作品；（3）灰色画用作底层还是独立作品，词表未说明，本条目没有补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='grisaille 示意图'><title>grisaille</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>单色</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>多为灰调</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>灰色画</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>画法</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>绘画</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>可用</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>彩绘玻璃与珐琅</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>可用</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据盖蒂 AAT 定义</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一来源（盖蒂AAT）；与彩窗条目的关联为库内链接。"
+    },
+    {
+      "id": "trompe-loeil",
+      "title": "错视画（Trompe-l'oeil）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "法语意为“骗过眼睛”，指逼真到足以使观者误以为所画对象是真实的图像。",
+      "when": "历代",
+      "overview": "错视画是逼真到可能使观者误以为所绘物体、场景、质感或视点是真实的图像，通常指西方的二维艺术或浅浮雕。",
+      "related": [
+        "linear-perspective",
+        "renaissance"
+      ],
+      "sources": [
+        "aat-300056506"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "词表称，错视画的手法见于古希腊艺术，经古罗马人精进，在文艺复兴及其后的欧洲与美国流行；词表又说，20世纪后期曾有整栋建筑外墙以错视画法绘制。这些时间线均为词表的概括，具体作品与年份词表未给出。",
+        "风格特征": "词表定义：法语词，意为“骗过眼睛”，指逼真到可能使观者误以为所绘物体、场景、质感或视点是真实的图像。",
+        "代表人物与作品": "本条为术语，无特定代表人物与专属作品。词表定义没有列举画家或作品，本条目不补写。可对照阅读线性透视与文艺复兴条目。",
+        "技法或形式分析": "词表列出的效果包括：在墙或柱上画出木纹或大理石质感；画出带假窗的真实景致；画出假画框，使静物或肖像的内容仿佛伸入观者的空间；画出半开门后可见的架子或橱柜里的物品。词表称该词通常指西方的二维艺术或浅浮雕。",
+        "与前后风格的关系和争论": "词表只做了历史概括，没有就各时期风格的差异作比较，本条目不涉及争论。",
+        "一图": "示意图以错视画为中心，标示逼真到骗过眼睛、画出的质感与假窗景致、假画框三项。",
+        "待核实": "（1）本条目事实仅来自盖蒂《艺术与建筑词表》（AAT）的单一定义，整条标记待核实。（2）古希腊、古罗马、文艺复兴的时间线是词表的概括，具体作品与年份词表未给出，本条目没有补写；（3）与线性透视、文艺复兴的关联是本库的相关链接，词表定义并未提到线性透视。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='trompe-loeil 示意图'><title>trompe-loeil</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>逼真的图像</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>骗过眼睛</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>错视画</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>法语词</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>质感与假窗</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>木纹大理石</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>假画框</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>内容伸出</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据盖蒂 AAT 定义</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一来源（盖蒂AAT）；时间线为词表概括，具体作品未给出。"
     }
   ]
 }

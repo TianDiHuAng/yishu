@@ -1,0 +1,19 @@
+{
+ "id": "foreshortening",
+ "level": "L2",
+ "sections": {
+  "时代背景": "透视缩短是图像再现中的手法，本条目不限定具体时代与地域。词表定义没有给出起源。",
+  "风格特征": "词表定义：在图像再现中，缩减物体或人物的某些尺度，以表示其退向画面空间的深处。",
+  "代表人物与作品": "本条为术语，无特定代表人物与专属作品。词表定义没有列举画家或作品，本条目不补写。可对照线性透视与早期文艺复兴条目。",
+  "技法或形式分析": "形式要点只有一条：某些尺度被缩短，用来暗示物体向画面深处后退。词表没有进一步写作法。",
+  "与前后风格的关系和争论": "词表定义没有谈它与线性透视的关系，本条目不作比较，也不涉及争论。两者在库内互相关联，只是为了方便对照阅读。",
+  "一图": "示意图以透视缩短为中心，标示尺度被缩减与物体退向画面深处两项。",
+  "待核实": "（1）本条目事实仅来自盖蒂《艺术与建筑词表》（AAT）的单一定义，整条标记待核实。（2）与线性透视、早期文艺复兴的关联是本库的相关链接，词表定义并未提到；（3）哪些艺术家擅长此法、何时开始盛行，词表未给出，本条目没有补写。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='foreshortening 示意图'><title>foreshortening</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>物体或人物</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>尺度被缩减</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>透视缩短</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>再现手法</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>退向深处</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>画面空间</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据盖蒂 AAT 定义</text></g></svg>",
+ "sources": [
+  "aat-300053417"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一来源（盖蒂AAT）；起源与名作未给出。"
+}

@@ -1668,3 +1668,10 @@ art-contemporary 13→17。写前查重通过（标题与来源 id 均未被使�
 **未入库**：石版画、蚀刻、木刻、雕版——AAT 按词检索只返回衍生词（如“蚀刻针”“胶印”），未找到主词条定义，不凭记忆补。
 过程记录：首次只跑了 add/write/merge，条目数仍为 596；原因是漏跑 build_scope.py（entries.json 由它从 catalog 生成）。补跑后 602，并核对旧条目只增加了指向新术语的反向 related，无其他改动。check.py errors=0，check_links 639 页 0 断链。
 可逆：删 write_c171 生成的 6 个 data/l2 文件、catalog 元组与本轮来源后重跑 build_scope/merge_l2/gen_site。代价：单来源（盖蒂 AAT），待核实。
+
+## D172 — Cycle172 美术基础技法术语 6 条（602 → 608）
+`contrapposto`（对立式平衡）、`foreshortening`（透视缩短）、`impasto`（厚涂）、`glaze`（罩染）、`grisaille`（灰色画）、`trompe-loeil`（错视画），均归 glossary-tools（术语与辨疑）；与古典主义、盛期文艺复兴、线性透视、油画技法、晕涂法、明暗对照法等既有条目互链。
+**来源**：盖蒂《艺术与建筑词表》（AAT）各术语的英文定义，沿用 D171 的取回方式；每条单来源，整条标记待核实。
+**如实**：正文只转述 AAT 定义；起源、艺术家、名作一律不写，放入“待核实”。错视画的古希腊/古罗马/文艺复兴时间线是词表概括，已注明。与人物或其他条目的关联是库内链接，词表并未提及，已在条目中注明。错视画 id 用 `trompe-loeil`，因撇号不能进 URL。
+过程记录：按完整顺序 add → write → build_scope → merge_l2 → check → gen_site → check_links 执行；条目数 602 → 608，新增恰好 6 条，旧条目无异常改动，check.py errors=0，check_links 645 页 0 断链。
+可逆：删 write_c172 生成的 6 个 data/l2 文件、catalog 元组与本轮来源后重跑 build_scope/merge_l2/gen_site。代价：单来源（盖蒂 AAT），待核实。

@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 602 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 608 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -412,6 +412,12 @@
 | tempera | 蛋彩（Tempera） | 术语 | 历代 | 全球 | 绘画 | 重要 | O1 |
 | oil-painting | 油画技法（Oil painting） | 术语 | 历代 | 欧洲 | 绘画 | 重要 | O1 |
 | sfumato | 晕涂法（Sfumato） | 术语 | 历代 | 欧洲 | 绘画 | 重要 | O1 |
+| contrapposto | 对立式平衡（Contrapposto） | 术语 | 历代 | 欧洲 | 雕塑 | 重要 | O1 |
+| foreshortening | 透视缩短（Foreshortening） | 术语 | 历代 | 欧洲 | 绘画 | 重要 | O1 |
+| impasto | 厚涂（Impasto） | 术语 | 历代 | 全球 | 绘画 | 重要 | O1 |
+| glaze | 罩染（Glaze） | 术语 | 历代 | 欧洲 | 绘画 | 重要 | O1 |
+| grisaille | 灰色画（Grisaille） | 术语 | 历代 | 欧洲 | 绘画 | 重要 | O1 |
+| trompe-loeil | 错视画（Trompe-l'oeil） | 术语 | 历代 | 欧洲 | 绘画 | 重要 | O1 |
 
 ## art-asia（亚洲艺术（南亚/东南亚/东亚））
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

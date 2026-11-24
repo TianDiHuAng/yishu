@@ -1,0 +1,19 @@
+{
+ "id": "contrapposto",
+ "level": "L2",
+ "sections": {
+  "时代背景": "对立式平衡是再现人体站姿的一种方式。词表称，在西方艺术中它指向希腊的“对立”（antithesis）概念。词表没有给出具体年代与作品。",
+  "风格特征": "词表定义：指人物静立、重心移到一条腿上的姿态；姿态平衡但不对称，身体垂直轴线的扭转或弯曲，使髋、肩、头转向或倾向不同方向。",
+  "代表人物与作品": "本条为术语，无特定代表人物与专属作品。词表定义没有列举雕塑家或作品，本条目不补写。库内可对照古典主义条目与盛期文艺复兴条目，但那只是库内关联，并非词表的结论。",
+  "技法或形式分析": "形式要点有三：重心落在一条腿；髋、肩、头朝不同方向；整体仍保持平衡。词表称这是古典修辞中“对立”概念在视觉上的对应，被认为是最悦目、最有说服力的姿态。",
+  "与前后风格的关系和争论": "词表只把它与希腊的对立概念、古典修辞相联系，没有谈它在后世风格中的演变，本条目不涉及争论。",
+  "一图": "示意图以对立式平衡为中心，标示重心落在一条腿、髋肩头朝不同方向、整体仍平衡三项。",
+  "待核实": "（1）本条目事实仅来自盖蒂《艺术与建筑词表》（AAT）的单一定义，整条标记待核实。（2）“古典修辞中的对立”是词表的类比说法，本条目照此转述，不作展开；（3）与古典主义、盛期文艺复兴的关联是本库的相关链接，词表并未提到；（4）该姿态最早出现于何处、何时，词表未给出，本条目没有补写。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='contrapposto 示意图'><title>contrapposto</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>重心在一腿</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>静立</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>对立式平衡</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>站姿</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>髋肩头异向</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>不对称</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>整体平衡</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>仍稳定</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据盖蒂 AAT 定义</text></g></svg>",
+ "sources": [
+  "aat-300067391"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一来源（盖蒂AAT）；起源与名作未给出，与古典主义的关联为库内链接。"
+}

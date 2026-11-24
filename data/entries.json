@@ -261,7 +261,8 @@
         "cranach-baptism-of-christ",
         "cranach-hartenfels-hunt",
         "bronzino-portrait-of-a-woman",
-        "linear-perspective"
+        "linear-perspective",
+        "trompe-loeil"
       ],
       "sources": [
         "enc-renaissance",
@@ -290,7 +291,8 @@
         "buglioni-glazed-terracotta",
         "fresco",
         "linear-perspective",
-        "tempera"
+        "tempera",
+        "foreshortening"
       ],
       "sources": [
         "enc-italian-renaissance-painting",
@@ -321,7 +323,8 @@
         "lotto-portrait-man",
         "andrea-sacrifice-of-isaac",
         "veronese-barbarigo-portrait",
-        "fresco"
+        "fresco",
+        "contrapposto"
       ],
       "sources": [
         "enc-high-renaissance",
@@ -653,7 +656,8 @@
         "dusart-violin-tavern",
         "rembrandt-bearded-man-hat",
         "hals-tieleman-roosterman",
-        "chiaroscuro"
+        "chiaroscuro",
+        "impasto"
       ],
       "sources": [
         "enc-rembrandt",
@@ -7725,7 +7729,8 @@
         "auvergne-virgin-majesty",
         "gothic-casket-panels",
         "female-saint-canopy-glass",
-        "adoration-magi-window-1516"
+        "adoration-magi-window-1516",
+        "grisaille"
       ],
       "sources": [
         "cma-1919-1"
@@ -12680,7 +12685,8 @@
       "overview": "美术以对称构图与清晰轮廓回归古典形式，音乐以均衡、清晰与奏鸣曲式确立交响曲等范式；两者的断代与内涵并不完全重合。",
       "related": [
         "neoclassicism",
-        "classical-period-music"
+        "classical-period-music",
+        "contrapposto"
       ],
       "sources": [
         "enc-neoclassicism",
@@ -12985,7 +12991,9 @@
       "overview": "线性透视是正交线向一个或多个灭点汇聚的体系；在西方艺术中常指意大利文艺复兴发展出的一点透视。",
       "related": [
         "early-renaissance",
-        "renaissance"
+        "renaissance",
+        "foreshortening",
+        "trompe-loeil"
       ],
       "sources": [
         "aat-300056348"
@@ -13006,7 +13014,8 @@
       "related": [
         "caravaggio",
         "rembrandt",
-        "leonardo"
+        "leonardo",
+        "grisaille"
       ],
       "sources": [
         "aat-300053414"
@@ -13047,7 +13056,9 @@
       "related": [
         "tempera",
         "northern-renaissance",
-        "sfumato"
+        "sfumato",
+        "impasto",
+        "glaze"
       ],
       "sources": [
         "aat-300178684"
@@ -13068,10 +13079,131 @@
       "related": [
         "oil-painting",
         "leonardo",
-        "mona-lisa"
+        "mona-lisa",
+        "glaze"
       ],
       "sources": [
         "aat-300053421"
+      ]
+    },
+    {
+      "id": "contrapposto",
+      "title": "对立式平衡（Contrapposto）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "人物静立时重心移到一条腿上，姿态平衡而不对称的站姿。",
+      "when": "历代",
+      "overview": "对立式平衡指人物静立、重心落在一条腿上的站姿：姿态平衡但不对称，髋、肩、头朝不同方向转动或倾斜。",
+      "related": [
+        "classical-crossmedia",
+        "high-renaissance"
+      ],
+      "sources": [
+        "aat-300067391"
+      ]
+    },
+    {
+      "id": "foreshortening",
+      "title": "透视缩短（Foreshortening）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "在图像再现中缩减物体或人物的某些尺度，以表示其向画面深处后退。",
+      "when": "历代",
+      "overview": "透视缩短是在图像中缩减物体或人物的某些尺度，以显示其退向画面空间深处。",
+      "related": [
+        "linear-perspective",
+        "early-renaissance"
+      ],
+      "sources": [
+        "aat-300053417"
+      ]
+    },
+    {
+      "id": "impasto",
+      "title": "厚涂（Impasto）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "全球",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "把颜料以厚而不透明的块面涂上画面，通常用蘸饱颜料的画笔或调色刀。",
+      "when": "历代",
+      "overview": "厚涂指把颜料以厚而不透明的块面涂在画面上，通常用蘸足颜料的画笔或调色刀。",
+      "related": [
+        "oil-painting",
+        "rembrandt"
+      ],
+      "sources": [
+        "aat-300053368"
+      ]
+    },
+    {
+      "id": "glaze",
+      "title": "罩染（Glaze）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "加在画面上、用以改变色调的一层透明到半透明的薄色膜。",
+      "when": "历代",
+      "overview": "在绘画中，罩染是加在画面上的一层透明至半透明的薄色膜，用来改变色调。",
+      "related": [
+        "oil-painting",
+        "sfumato"
+      ],
+      "sources": [
+        "aat-300458811"
+      ]
+    },
+    {
+      "id": "grisaille",
+      "title": "灰色画（Grisaille）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "用单色（通常是灰色调）画出形象的画法。",
+      "when": "历代",
+      "overview": "灰色画指以单色（通常是灰色调）画出形象，可见于绘画、彩绘玻璃、珐琅以及陶瓷等器物。",
+      "related": [
+        "chiaroscuro",
+        "stained-glass-donors-pair"
+      ],
+      "sources": [
+        "aat-300053386"
+      ]
+    },
+    {
+      "id": "trompe-loeil",
+      "title": "错视画（Trompe-l'oeil）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "法语意为“骗过眼睛”，指逼真到足以使观者误以为所画对象是真实的图像。",
+      "when": "历代",
+      "overview": "错视画是逼真到可能使观者误以为所绘物体、场景、质感或视点是真实的图像，通常指西方的二维艺术或浅浮雕。",
+      "related": [
+        "linear-perspective",
+        "renaissance"
+      ],
+      "sources": [
+        "aat-300056506"
       ]
     }
   ]

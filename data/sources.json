@@ -7259,6 +7259,66 @@
       "type": "权威机构词表（术语定义）",
       "verified": true,
       "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配；定义原文存档于 tmp/aat_terms.json"
+    },
+    {
+      "id": "aat-300067391",
+      "title": "Getty AAT — contrapposto, 300067391",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300067391",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配；定义原文存档于 tmp/aat_batch2.json"
+    },
+    {
+      "id": "aat-300053417",
+      "title": "Getty AAT — foreshortening, 300053417",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300053417",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配；定义原文存档于 tmp/aat_batch2.json"
+    },
+    {
+      "id": "aat-300053368",
+      "title": "Getty AAT — impasto, 300053368",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300053368",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配；定义原文存档于 tmp/aat_batch2.json"
+    },
+    {
+      "id": "aat-300458811",
+      "title": "Getty AAT — glaze (painting), 300458811",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300458811",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配；定义原文存档于 tmp/aat_batch2.json"
+    },
+    {
+      "id": "aat-300053386",
+      "title": "Getty AAT — grisaille, 300053386",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300053386",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配；定义原文存档于 tmp/aat_batch2.json"
+    },
+    {
+      "id": "aat-300056506",
+      "title": "Getty AAT — trompe-l'oeil, 300056506",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300056506",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配；定义原文存档于 tmp/aat_batch2.json"
     }
   ]
 }
