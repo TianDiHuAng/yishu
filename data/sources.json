@@ -5369,6 +5369,36 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；青铜 43.2cm；说明含第三只眼与银嵌五官"
+    },
+    {
+      "id": "cma-1921-1021",
+      "title": "Cleveland Museum of Art — Canopic Jar with Jackal's Head, Dynasty 26, acc. 1921.1021",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1921.1021",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；石灰华 高42.6cm；说明含荷鲁斯四子"
+    },
+    {
+      "id": "cma-1960-56",
+      "title": "Cleveland Museum of Art — Statue of Amenemhat III, Dynasty 12, acc. 1960.56",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1960.56",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；花岗闪长岩 51.2×19.8cm；说明含超大风耳与写实"
+    },
+    {
+      "id": "cma-1996-28",
+      "title": "Cleveland Museum of Art — Statue of Minemheb, Dynasty 18, acc. 1996.28",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1996.28",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；花岗闪长岩 45×16.6×28.3cm；说明含像中像与狒狒托特"
     }
   ]
 }

@@ -1,0 +1,19 @@
+{
+ "id": "canopic-jar-26",
+ "level": "L2",
+ "sections": {
+  "时代背景": "该馆说明：木乃伊化过程中，**肝、肺、胃、肠**被取出、分别防腐，装入专用的**卡诺普罐**（此名来自希腊神话的水手 Canopus——他死于尼罗三角洲的 Canopus 城，并以**人首罐**形受祀）。本罐为第二十六王朝（前664—525），豺头，CMA 藏（1921.1021）。",
+  "风格特征": "该馆给出**完整的器官—神祇配对**（合称**荷鲁斯四子**）：**肝—伊姆塞蒂（人首）**、**肺—哈皮（狒狒首）**、**胃—杜阿穆特夫（豺首）**、**肠—凯布山纳夫（隼首）**；其职守是**保护亡者，并在来世使其肢体复原**。",
+  "代表人物与作品": "作者未署名。相关条目见明内弗像与阿门涅姆赫特三世像。",
+  "技法或形式分析": "材质为**石灰华（travertine）**；尺寸**高42.6厘米**、罐径16.3厘米、口径9厘米（据该馆记录）。",
+  "与前后风格的关系和争论": "本条目据该馆说明把「罐盖兽首」读作**职能标记**：豺首不是装饰选择，而是**「此罐归杜阿穆特夫护胃」**的可读编码。四罐一组构成**尸身完整性**的仪式保障。",
+  "一图": "示意图以荷鲁斯四子、器官配对与来世复原三者关系标示本罐。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）本罐原属何人未记录；（3）罐身铭文未迻录；（4）四罐是否成组存世未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='canopic-jar-26 示意图'><title>canopic-jar-26</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>第26王朝</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>前664—525</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>豺头卡诺普罐</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>高42.6</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>Duamutef 护胃</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>职能编码</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>荷鲁斯四子</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>来世复原</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>卡诺普罐：器官、神祇与复原</text></g></svg>",
+ "sources": [
+  "cma-1921-1021"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；原主与铭文未记录。"
+}

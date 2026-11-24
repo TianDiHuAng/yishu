@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 408,
+    "total": 412,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -4901,6 +4901,54 @@
     "baphuon-kneeling-figure": {
       "title": "Baphuon 期跪像",
       "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "ilkhanid-flying-birds-bowl": {
+      "title": "伊尔汗飞鸟纹碗",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "canopic-jar-26": {
+      "title": "第二十六王朝卡诺普罐",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "amenemhat-statue": {
+      "title": "阿门涅姆赫特三世像",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "minemheb-statue": {
+      "title": "米奈赫布像（像中像）",
+      "tier": "核心",
       "level": "L2",
       "status": "written_l2",
       "sources_count": 1,
