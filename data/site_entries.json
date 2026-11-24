@@ -366,7 +366,8 @@
       "related": [
         "byzantine-art",
         "gothic",
-        "romanesque-architecture"
+        "romanesque-architecture",
+        "medieval-crossmedia"
       ],
       "sources": [
         "enc-romanesque",
@@ -405,7 +406,8 @@
         "gothic-architecture",
         "auvergne-virgin-majesty",
         "ivory-crucified-christ",
-        "alabaster-pieta"
+        "alabaster-pieta",
+        "medieval-crossmedia"
       ],
       "sources": [
         "enc-gothic",
@@ -508,7 +510,12 @@
         "northern-renaissance",
         "donatello",
         "renaissance-crossmedia",
-        "lotto-portrait-man"
+        "lotto-portrait-man",
+        "holbein-terminus-erasmus",
+        "durer-melencolia-i",
+        "cranach-baptism-of-christ",
+        "cranach-hartenfels-hunt",
+        "bronzino-portrait-of-a-woman"
       ],
       "sources": [
         "enc-renaissance",
@@ -586,7 +593,9 @@
         "raphael",
         "mona-lisa",
         "sistine-ceiling-work",
-        "lotto-portrait-man"
+        "lotto-portrait-man",
+        "andrea-sacrifice-of-isaac",
+        "veronese-barbarigo-portrait"
       ],
       "sources": [
         "enc-high-renaissance",
@@ -620,7 +629,8 @@
       "related": [
         "high-renaissance",
         "mannerism",
-        "botticelli"
+        "botticelli",
+        "veronese-barbarigo-portrait"
       ],
       "sources": [
         "enc-venetian-school",
@@ -653,7 +663,11 @@
       "overview": "注重细节描绘与世俗题材，凡·艾克兄弟完善油画技法，出现风景画与风俗画的独立倾向。",
       "related": [
         "renaissance",
-        "mannerism"
+        "mannerism",
+        "holbein-terminus-erasmus",
+        "durer-melencolia-i",
+        "cranach-baptism-of-christ",
+        "cranach-hartenfels-hunt"
       ],
       "sources": [
         "enc-northern-renaissance",
@@ -690,7 +704,8 @@
         "renaissance",
         "venetian-school",
         "northern-renaissance",
-        "michelangelo"
+        "michelangelo",
+        "bronzino-portrait-of-a-woman"
       ],
       "sources": [
         "enc-mannerism",
@@ -796,7 +811,8 @@
       "related": [
         "high-renaissance",
         "mannerism",
-        "sistine-ceiling-work"
+        "sistine-ceiling-work",
+        "andrea-sacrifice-of-isaac"
       ],
       "sources": [
         "enc-michelangelo",
@@ -946,7 +962,10 @@
         "rembrandt-bearded-man-hat",
         "claude-rest-flight-egypt",
         "poussin-holy-family-steps",
-        "hals-tieleman-roosterman"
+        "hals-tieleman-roosterman",
+        "rubens-isabella-brant",
+        "velazquez-jester-calabazas",
+        "hals-woman-aeltje-pater"
       ],
       "sources": [
         "enc-baroque",
@@ -1141,7 +1160,8 @@
       "overview": "作品色彩饱满、动势强烈，曾主持大规模装饰工程，融合意大利与北方传统。",
       "related": [
         "baroque",
-        "rococo"
+        "rococo",
+        "rubens-isabella-brant"
       ],
       "sources": [
         "enc-rubens",
@@ -1175,7 +1195,8 @@
       "related": [
         "baroque",
         "impressionism",
-        "pedro-de-mena-peter"
+        "pedro-de-mena-peter",
+        "velazquez-jester-calabazas"
       ],
       "sources": [
         "enc-velazquez",
@@ -1247,7 +1268,8 @@
         "ingres",
         "david-cupid-psyche",
         "hackert-pozzuoli",
-        "paelinck-self-portrait"
+        "paelinck-self-portrait",
+        "classical-crossmedia"
       ],
       "sources": [
         "enc-neoclassicism",
@@ -2412,7 +2434,8 @@
         "china-painting-history",
         "song-painting",
         "dunhuang-art",
-        "six-dynasties-art"
+        "six-dynasties-art",
+        "cma-tang-harpist"
       ],
       "sources": [
         "enc-tang-dynasty-art",
@@ -2447,7 +2470,8 @@
         "yuan-painting",
         "mi-youren-cloudy-mountains",
         "china-painting-history",
-        "lizong-wangwei-album"
+        "lizong-wangwei-album",
+        "cma-liu-songnian-qin"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -2513,7 +2537,9 @@
       "related": [
         "yuan-painting",
         "qing-painting",
-        "chen-hongshou-album"
+        "chen-hongshou-album",
+        "cma-wen-zhengming-qin",
+        "cma-tang-yin-qin"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -3033,7 +3059,11 @@
       "related": [
         "gregorian-chant",
         "polyphony",
-        "renaissance-music"
+        "renaissance-music",
+        "cma-berno-tonarius",
+        "cma-carolingian-gradual",
+        "cma-bologna-antiphonary",
+        "medieval-crossmedia"
       ],
       "sources": [
         "enc-medieval-music",
@@ -3072,7 +3102,14 @@
         "polyphony",
         "organum",
         "music-notation",
-        "musical-mode"
+        "musical-mode",
+        "cma-berno-tonarius",
+        "cma-carolingian-gradual",
+        "cma-gradual-gaudeamus",
+        "cma-bologna-antiphonary",
+        "cma-siena-antiphonary",
+        "cma-verona-gradual",
+        "medieval-crossmedia"
       ],
       "sources": [
         "enc-gregorian-chant",
@@ -3181,7 +3218,9 @@
         "polyphony",
         "madrigal",
         "palestrina",
-        "renaissance-crossmedia"
+        "renaissance-crossmedia",
+        "cma-siena-antiphonary",
+        "cma-verona-gradual"
       ],
       "sources": [
         "enc-renaissance-music",
@@ -3293,7 +3332,8 @@
         "violin",
         "dumont-harpsichord-miniature",
         "lancret-cello-drawing",
-        "dusart-violin-tavern"
+        "dusart-violin-tavern",
+        "cma-tiorbino"
       ],
       "sources": [
         "enc-baroque-music",
@@ -3391,7 +3431,8 @@
         "baroque-music",
         "monteverdi",
         "mozart",
-        "wagner"
+        "wagner",
+        "cma-yueqin"
       ],
       "sources": [
         "enc-opera",
@@ -3599,7 +3640,8 @@
         "sonata-form",
         "haydn",
         "mozart",
-        "beethoven"
+        "beethoven",
+        "classical-crossmedia"
       ],
       "sources": [
         "enc-classical-period-music",
@@ -4253,7 +4295,9 @@
         "yayue",
         "pipa",
         "wuwangdu-chu-music-archaeology",
-        "guqin-instrument"
+        "guqin-instrument",
+        "cma-tang-harpist",
+        "cma-tang-qin-mirror"
       ],
       "sources": [
         "enc-chinese-music",
@@ -4773,7 +4817,8 @@
       "overview": "记谱法使音乐得以跨时空保存与传播，是复调与大型体裁发展的技术前提；西方五线谱与中国古代工尺谱等体系各有传统。",
       "related": [
         "gregorian-chant",
-        "polyphony"
+        "polyphony",
+        "cma-gradual-gaudeamus"
       ],
       "sources": [
         "enc-music-notation",
@@ -6590,7 +6635,8 @@
         "lefem-commemorative-figure",
         "chi-wara-headdress",
         "esu-dance-staff",
-        "kuofo-prestige-stool"
+        "kuofo-prestige-stool",
+        "cma-yombe-oliphant"
       ],
       "sources": [
         "cma-1999-1",
@@ -7299,7 +7345,8 @@
       "overview": "此类编帽为高位男子所戴，豹爪以其「领地之主」的品性比拟佩戴者；纹样在刚果、维利、尤姆贝诸族共通。",
       "related": [
         "kongo-crucifix",
-        "african-art"
+        "african-art",
+        "cma-yombe-oliphant"
       ],
       "sources": [
         "cma-1997-180"
@@ -8212,7 +8259,9 @@
         "drum-ngoma",
         "mangbetu-harp",
         "ottoman-nay-flute",
-        "chi-wara-headdress"
+        "chi-wara-headdress",
+        "cma-chisanji",
+        "cma-uganda-lyre"
       ],
       "sources": [
         "cma-1918-352"
@@ -8282,7 +8331,11 @@
         "drum-ngoma",
         "pipa-instrument",
         "hitoyogiri-flute",
-        "ottoman-nay-flute"
+        "ottoman-nay-flute",
+        "cma-liu-songnian-qin",
+        "cma-wen-zhengming-qin",
+        "cma-tang-yin-qin",
+        "cma-tang-qin-mirror"
       ],
       "sources": [
         "cma-1918-371"
@@ -8316,7 +8369,9 @@
       "related": [
         "kora-instrument",
         "guqin-instrument",
-        "mangbetu-harp"
+        "mangbetu-harp",
+        "cma-uganda-lyre",
+        "cma-endingidi"
       ],
       "sources": [
         "cma-1929-343"
@@ -8350,7 +8405,8 @@
       "related": [
         "pipa",
         "guqin-instrument",
-        "koto-instrument"
+        "koto-instrument",
+        "cma-yueqin"
       ],
       "sources": [
         "cma-1918-344"
@@ -8383,7 +8439,8 @@
       "overview": "表面装饰极为繁复，说明它更可能作为**观赏对象**而非演奏乐器；纹样为菊与芒草、柴垣及一对蝴蝶。",
       "related": [
         "pipa-instrument",
-        "hitoyogiri-flute"
+        "hitoyogiri-flute",
+        "cma-tsuzumi"
       ],
       "sources": [
         "cma-1918-359"
@@ -8416,7 +8473,8 @@
       "overview": "被视为尺八的一类，16—17世纪流行；较普化尺八更小、音量更弱，19世纪短暂复兴时称「小竹」。",
       "related": [
         "koto-instrument",
-        "guqin-instrument"
+        "guqin-instrument",
+        "cma-tsuzumi"
       ],
       "sources": [
         "cma-1921-914"
@@ -8449,7 +8507,8 @@
       "overview": "北部刚果诸族皆有带人形装饰的五弦旋律竖琴；细长头骨为曼贝图特征；常为男女歌者伴奏。",
       "related": [
         "drum-ngoma",
-        "kora-instrument"
+        "kora-instrument",
+        "cma-chisanji"
       ],
       "sources": [
         "cma-1929-344"
@@ -13645,7 +13704,9 @@
       "overview": "三节旋木相接、嵌金属、共十二指孔；唇吹边棱发声；理论三倍音域；土耳其 nay 用于 Mevlevi 旋转舞乐。",
       "related": [
         "guqin-instrument",
-        "kora-instrument"
+        "kora-instrument",
+        "cma-oud",
+        "cma-tanbur"
       ],
       "sources": [
         "vam-o304190"
@@ -13856,7 +13917,10 @@
         "stradivari-violin",
         "northumberland-bagpipe",
         "urbino-cittern",
-        "harp-lute-guitar-va"
+        "harp-lute-guitar-va",
+        "cma-tiorbino",
+        "cma-oud",
+        "cma-hurdy-gurdy"
       ],
       "sources": [
         "vam-o122435"
@@ -13924,7 +13988,8 @@
       "related": [
         "maler-lute",
         "baffo-harpsichord",
-        "tielke-guitar"
+        "tielke-guitar",
+        "cma-hurdy-gurdy"
       ],
       "sources": [
         "vam-o93114"
@@ -18887,7 +18952,8 @@
       "overview": "诗作表达文徵明对嘉靖帝（在位1522—67）赐绣丝以嘉奖其勤勉服务的感谢；该馆称深黑墨写成的大字优雅、布局得当而有力，体现出一位杰出学者艺术家的手笔；文徵明这种大尺幅的书法作品很少见。",
       "related": [
         "running-script",
-        "regular-script"
+        "regular-script",
+        "cma-wen-zhengming-qin"
       ],
       "sources": [
         "cma-1998-169"
@@ -19373,6 +19439,1138 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='lewitt-wall-drawing-4 示意图'><title>lewitt-wall-drawing-4</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>勒维特·1969</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>美国·观念艺术</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>墙绘 #4</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>304.7×304.7cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>证书与指示</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>所有权制度</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>他人依指示施作</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>工作室与馆方合作</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>勒维特：作品即指示</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（CMA）来源；本馆版本为后来执行，执行年份未列；子记录标题截断不补；诠释敞开为该馆概括；无流传记录。"
+    },
+    {
+      "id": "andrea-sacrifice-of-isaac",
+      "title": "安德烈亚·德尔·萨托《以撒的献祭》（约1527）",
+      "kind": "作品",
+      "unit": "art-renaissance",
+      "era": "16世纪",
+      "region": "意大利·佛罗伦萨",
+      "medium": "油画",
+      "tier": "重要",
+      "def": "安德烈亚·德尔·萨托未完成的木板油画，克利夫兰艺术博物馆藏（1937.577）。",
+      "when": "约1527年",
+      "overview": "该馆说明：画面取自《创世记》，亚伯拉罕奉神命要杀死儿子以撒，举刀之际天使出现制止；作品的力量来自父子复杂的表情，合并悲痛、力量、顺从、恐惧与领悟，身体姿态受古代雕塑与米开朗基罗启发；此画未完成，因而显露他的工作方法：先把草图转到木板上，用绘出的线条加强粉笔线，再对整块木板罩上薄而带笔触的色彩薄层，使他可在作画时改动构图。",
+      "related": [
+        "high-renaissance",
+        "michelangelo"
+      ],
+      "sources": [
+        "cma-1937-577"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为佛罗伦萨画家安德烈亚·德尔·萨托（1486—1530）约1527年的《以撒的献祭》，木板油画，克利夫兰艺术博物馆藏（1937.577）。",
+        "风格特征": "该馆说明：画面取自《创世记》中的信仰考验，亚伯拉罕奉神命要杀死儿子以撒，他举刀之际天使突然出现制止。作品的力量来自父子复杂的表情，把悲痛、力量、顺从、恐惧与领悟合在脸与身体上；身体的处理受古代雕塑与米开朗基罗启发。",
+        "代表人物与作品": "作者为安德烈亚·德尔·萨托。相关条目见盛期文艺复兴与米开朗基罗。",
+        "技法或形式分析": "木板油画；画心178 × 138厘米，带框208 × 171 × 12.5厘米（据该馆藏品记录）。该馆说明：画家从未完成此画，因而暴露了他的工作方法——他先把草图转到木板上，用绘出的线条加强粉笔线，这在右侧的驴身上最易看见；然后对整块木板同时罩上薄而带笔触的色彩薄层，使他能在作画时改动构图，天使、以撒的身体与亚伯拉罕的头部尤其明显。",
+        "与前后风格的关系和争论": "该馆说明只提到人物身体受古代雕塑与米开朗基罗启发；本条目只转述这一点，不另作样式主义或盛期文艺复兴的归属论证。",
+        "一图": "示意图以信仰考验的情节、父子的复杂表情、未完成而显露的作画方法三者关系标示本作。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）年代「约1527年」为该馆标注；（3）该馆说明谈及受米开朗基罗启发，具体对应米开朗基罗的哪件作品，本条目未展开；（4）该馆记录未列题款；（5）本条目不引该馆流传信息。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='andrea-sacrifice-of-isaa 示意图'><title>andrea-sacrifice-of-isaa</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>德尔·萨托·约1527</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>佛罗伦萨</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>以撒的献祭</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>178×138cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>父子的表情</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>悲痛·顺从·领悟</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>未完成</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>显露作画方法</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>未完成的画与它的作画方法</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；米开朗基罗的具体对应作品未展开；无题款与流传信息。"
+    },
+    {
+      "id": "veronese-barbarigo-portrait",
+      "title": "韦罗内塞《阿戈斯蒂诺·巴巴里戈肖像》（1571年后）",
+      "kind": "作品",
+      "unit": "art-renaissance",
+      "era": "16世纪",
+      "region": "意大利·威尼斯",
+      "medium": "油画",
+      "tier": "重要",
+      "def": "韦罗内塞名下的威尼斯军事肖像，克利夫兰艺术博物馆藏（1928.16），年代标注为1571年后。",
+      "when": "1571年后",
+      "overview": "该馆说明：巴巴里戈是1571年10月7日勒班陀海战中威尼斯海军的副指挥，对抗奥斯曼帝国，战斗中被土耳其箭射死，肖像中他手持这支箭；16世纪威尼斯的军事肖像常让坐像者身着盔甲，姿势类似罗马皇帝，以与古代军队的勇武相联系；该馆记录的年代为after c. 1571，作者署为韦罗内塞。",
+      "related": [
+        "venetian-school",
+        "high-renaissance"
+      ],
+      "sources": [
+        "cma-1928-16"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为威尼斯画家保罗·韦罗内塞（1528—1588）名下的《阿戈斯蒂诺·巴巴里戈肖像》，布面油画，克利夫兰艺术博物馆藏（1928.16）。该馆标注的年代为「after c. 1571」，即1571年之后。",
+        "风格特征": "该馆说明：16世纪威尼斯的军事肖像常让坐像者身着盔甲，姿势类似罗马皇帝，使人联想古代军队的勇武与力量；巴巴里戈的身份以其军事能力来界定。",
+        "代表人物与作品": "作者署为韦罗内塞。相关条目见威尼斯画派与盛期文艺复兴。",
+        "技法或形式分析": "布面油画；画心102.2 × 104.2厘米，带框136.2 × 136.2 × 12.1厘米（据该馆藏品记录）。该馆说明：巴巴里戈是1571年10月7日勒班陀海战中威尼斯海军的副指挥，对抗奥斯曼帝国；战斗中他被一支土耳其箭射死，肖像中他手持这支箭。",
+        "与前后风格的关系和争论": "该馆年代标注为「after c. 1571」，没有说明此件是否为韦罗内塞本人亲笔；本条目只写馆方原话，不作真伪或工坊参与的判断。",
+        "一图": "示意图以勒班陀海战的指挥身份、手持的箭、威尼斯军事肖像的罗马式姿势三者关系标示本作。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）年代为「after c. 1571」，该馆未给出更精确年份，也未说明是否本人亲笔，本条目不推定；（3）该馆说明未提到本画盔甲与姿势的具体细节，本条目没有替它补写；（4）本库无勒班陀海战独立条目；（5）本条目不引该馆流传信息。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='veronese-barbarigo-portr 示意图'><title>veronese-barbarigo-portr</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>韦罗内塞·1571后</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>威尼斯</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>巴巴里戈肖像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>102.2×104.2cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>勒班陀海战</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>1571年10月7日</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>手持的箭</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>致命的土耳其箭</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>以军事身份界定的威尼斯肖像</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；年代为after c. 1571，未说明是否亲笔；盔甲与姿势细节未补写；无流传信息。"
+    },
+    {
+      "id": "holbein-terminus-erasmus",
+      "title": "荷尔拜因《伊拉斯谟的标记：界神忒耳弥努斯》（约1532）",
+      "kind": "作品",
+      "unit": "art-renaissance",
+      "era": "16世纪",
+      "region": "德国·英国·瑞士",
+      "medium": "油画",
+      "tier": "重要",
+      "def": "小荷尔拜因的小幅木板油画，克利夫兰艺术博物馆藏（1971.166）。",
+      "when": "约1532年",
+      "overview": "该馆说明：荷兰人文主义者伊拉斯谟（约1466—1536）承袭意大利文艺复兴精神，拥抱古希腊罗马文学并把其道德伦理信息纳入自己的著作；荷尔拜因在此把伊拉斯谟的面容与罗马界神忒耳弥努斯合并，后者曾违抗朱庇特而守住卡比托利欧山顶的位置；伊拉斯谟采用忒耳弥努斯与箴言concedo nulli（我不让于任何人）作为个人标记，象征虔诚与坚定；画上有题款CONCEDO NVLLI与TERMINVS。",
+      "related": [
+        "northern-renaissance",
+        "renaissance"
+      ],
+      "sources": [
+        "cma-1971-166"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为小汉斯·荷尔拜因（1497/98—1543）约1532年的《伊拉斯谟的标记：界神忒耳弥努斯》，木板油画，克利夫兰艺术博物馆藏（1971.166）。",
+        "风格特征": "该馆说明：荷兰人文主义者与学者伊拉斯谟（约1466—1536）承袭意大利文艺复兴的精神，拥抱古希腊罗马文学，并把其中的道德与伦理信息纳入自己的著作。",
+        "代表人物与作品": "作者为小荷尔拜因。相关条目见北方文艺复兴与文艺复兴。",
+        "技法或形式分析": "木板油画；画心21.6 × 21.6厘米，带框32.4 × 32.4 × 4.5厘米（据该馆藏品记录）。题款原样引用：中央「CONCEDO NVLLI.」，右下「TERMI / NVS」。",
+        "与前后风格的关系和争论": "该馆说明：荷尔拜因在此把伊拉斯谟的面容与罗马界神忒耳弥努斯合并；这位神曾违抗朱庇特，守住卡比托利欧山顶的位置。伊拉斯谟采用忒耳弥努斯与箴言concedo nulli（我不让于任何人）作为个人象征，代表虔诚与坚定。本条目只转述这些。",
+        "一图": "示意图以伊拉斯谟的面容、界神忒耳弥努斯、箴言concedo nulli三者关系标示本作。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）年代「约1532年」为该馆标注；（3）该馆说明未涉及此画的制作背景与用途，本条目没有替它补写；（4）本库无伊拉斯谟与人文主义独立条目，正文只作文字说明，不建关联；（5）本条目不引该馆流传信息。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='holbein-terminus-erasmus 示意图'><title>holbein-terminus-erasmus</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>荷尔拜因·约1532</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>德国·英国·瑞士</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>伊拉斯谟的标记</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>21.6×21.6cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>界神忒耳弥努斯</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>与面容合并</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>concedo null</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>我不让于任何人</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>人文主义者的个人标记</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；制作背景未补写；无人文主义与伊拉斯谟独立条目；无流传信息。"
+    },
+    {
+      "id": "durer-melencolia-i",
+      "title": "丢勒《忧郁 I》（1514）",
+      "kind": "作品",
+      "unit": "art-renaissance",
+      "era": "16世纪",
+      "region": "德国",
+      "medium": "版画",
+      "tier": "核心",
+      "def": "丢勒的铜版雕刻名作，克利夫兰艺术博物馆藏（1926.211）。",
+      "when": "1514年",
+      "overview": "该馆说明：这是丢勒雕版作品中的巅峰之作；忧郁或悲伤被视为与内省而富创造力的头脑相关，丢勒把它拟人化为一个不能动弹的有翼形象，无法使用散落四周的工具；总和各方向皆为34的幻方、消瘦的狗、沙漏与梯子，唤起时间、秩序、苦难、生与死；作品同时显示丢勒捕捉视觉感知的功力，光在透明沙漏、迸发的彗星、彩虹与几何石体上的表现各不相同。",
+      "related": [
+        "northern-renaissance",
+        "renaissance"
+      ],
+      "sources": [
+        "cma-1926-211"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为德国艺术家阿尔布雷希特·丢勒（1471—1528）1514年的铜版雕刻《忧郁 I》，克利夫兰艺术博物馆藏（1926.211）。",
+        "风格特征": "该馆说明：这是丢勒雕版作品中的巅峰之作，以丰富多样吸引观者；忧郁或悲伤在当时与内省而富创造力的头脑相联系，丢勒把它拟人化为一个无法动弹的有翼形象，不能使用散落四周的工具。",
+        "代表人物与作品": "作者为丢勒。相关条目见北方文艺复兴与文艺复兴。",
+        "技法或形式分析": "铜版雕刻；版痕23.8 × 18.9厘米，纸张24.5 × 19.4厘米（据该馆藏品记录）。该馆说明：画面中一个各方向总和皆为34的幻方、一只消瘦的狗、一个沙漏与一架梯子，唤起时间、秩序、苦难、生与死。",
+        "与前后风格的关系和争论": "该馆说明：尽管暗示内心的动荡，这幅雕版显示丢勒捕捉视觉感知的功力，光在透明的沙漏、迸发的彗星、彩虹与几何石体上的表现各不相同。本条目只转述这些，不另作象征含义的释读。",
+        "一图": "示意图以拟人化的忧郁、幻方等象征物、光线的不同表现三者关系标示本作。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）该馆只列出各象征物唤起的含义，没有逐一说明，本条目不作更细的释读；（3）该馆说明未涉及此版的印次与状态，本条目不推定；（4）本库无版画或雕版技法独立条目；（5）本条目不引该馆流传信息。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='durer-melencolia-i 示意图'><title>durer-melencolia-i</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>丢勒·1514</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>德国</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>忧郁 I</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>版痕23.8×18.9cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>拟人化的忧郁</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>有翼·无法动弹</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>幻方·沙漏·梯子</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>时间·秩序·生死</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>丢勒：忧郁的拟人化</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；象征物未逐一释读；印次状态未推定；无流传信息。"
+    },
+    {
+      "id": "cranach-baptism-of-christ",
+      "title": "克拉纳赫《基督受洗》（1530年代）",
+      "kind": "作品",
+      "unit": "art-renaissance",
+      "era": "16世纪",
+      "region": "德国",
+      "medium": "油画",
+      "tier": "重要",
+      "def": "老卢卡斯·克拉纳赫的小幅木板油画，克利夫兰艺术博物馆藏（1953.143）。",
+      "when": "1530年代",
+      "overview": "该馆说明：画面以极细的笔触描绘，包含16世纪德国艺术风景的典型元素——茂密的森林、山顶城市与远山；克拉纳赫与宗教改革者马丁·路德关系密切，使基督教图像适应路德的信念，即宗教艺术必须叙述经文；福音书记载基督受洗时天开、鸽子降下并有声音说话，克拉纳赫把这句话以拉丁文直接画在云上。",
+      "related": [
+        "northern-renaissance",
+        "renaissance"
+      ],
+      "sources": [
+        "cma-1953-143"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为德国画家老卢卡斯·克拉纳赫（1472—1553）1530年代的《基督受洗》，木板油画，克利夫兰艺术博物馆藏（1953.143）。",
+        "风格特征": "该馆说明：画面以极细的笔触描绘，含有16世纪德国艺术风景的典型元素，即茂密的森林、山顶城市与远山。",
+        "代表人物与作品": "作者为老卢卡斯·克拉纳赫。相关条目见北方文艺复兴与文艺复兴。",
+        "技法或形式分析": "木板油画；画心15 × 20.5厘米，带框24.4 × 29.2 × 5.1厘米（据该馆藏品记录）。题款原样引用：画面顶部中央「HIC EST FILIVS MEVS DILECTVS IN QVO/MICHI BEN COMPLACITVM EST.」。",
+        "与前后风格的关系和争论": "该馆说明：克拉纳赫与宗教改革者马丁·路德关系密切，使基督教图像适应路德的信念，即宗教艺术必须叙述经文；福音书记载基督受洗时天开、鸽子降下，并有声音说「这是我的爱子，我所喜悦的」，克拉纳赫把这句话以拉丁文直接画在云上。本条目只转述这些。",
+        "一图": "示意图以风景元素、路德的宗教艺术观、画在云上的拉丁文题款三者关系标示本作。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）年代「1530年代」为该馆标注，未给出更精确年份；（3）该馆说明未涉及此画的委托背景，本条目没有替它补写；（4）本库无宗教改革与路德独立条目，正文只作文字说明，不建关联；（5）本条目不引该馆流传信息。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cranach-baptism-of-chris 示意图'><title>cranach-baptism-of-chris</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>克拉纳赫·1530年代</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>德国</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>基督受洗</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>15×20.5cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>森林·山城·远山</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>德国式风景</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>云上拉丁文</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>经文直接入画</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>让图像叙述经文</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；年代仅标1530年代；委托背景未补写；无宗教改革独立条目；无流传信息。"
+    },
+    {
+      "id": "cranach-hartenfels-hunt",
+      "title": "克拉纳赫《哈滕费尔斯城堡附近的狩猎》（1540）",
+      "kind": "作品",
+      "unit": "art-renaissance",
+      "era": "16世纪",
+      "region": "德国",
+      "medium": "油画",
+      "tier": "重要",
+      "def": "老卢卡斯·克拉纳赫署名并题年的狩猎场景，克利夫兰艺术博物馆藏（1958.425）。",
+      "when": "1540年",
+      "overview": "该馆说明：萨克森的新教统治者委托了这幅热闹的狩猎图，背景是他们的居所哈滕费尔斯城堡；左下角的约翰·腓特烈穿深绿狩猎服，正给十字弓上弦，等待侍从与猎犬把牡鹿赶过河；他的妻子萨碧勒选帝侯夫人站在右侧，准备第一箭的仪式性射击；萨克森选帝侯热衷以猎犬狩猎，这类场合经过精心排练，并以号角信号协调；克拉纳赫题了年份，签名是右下的带翼蛇，右角的1577为库存编号。",
+      "related": [
+        "northern-renaissance",
+        "renaissance"
+      ],
+      "sources": [
+        "cma-1958-425"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为德国画家老卢卡斯·克拉纳赫（1472—1553）1540年的《哈滕费尔斯城堡附近的狩猎》，原为木板油画，后转至纤维板，克利夫兰艺术博物馆藏（1958.425）。",
+        "风格特征": "该馆说明：这是一幅热闹的狩猎场景，由萨克森的新教统治者委托，背景为他们的居所哈滕费尔斯城堡（位于德国东部）。",
+        "代表人物与作品": "作者为老卢卡斯·克拉纳赫。相关条目见北方文艺复兴与文艺复兴。",
+        "技法或形式分析": "油画，原绘于木板，后转至纤维板；画心116.8 × 170.2厘米，带框133 × 185.5 × 7.3厘米（据该馆藏品记录）。题款原样引用：右下船上的带翼蛇签名并题年份1540；右下角的1577为库存编号。",
+        "与前后风格的关系和争论": "该馆说明：左下角的约翰·腓特烈身着深绿狩猎服，正给十字弓上弦，等待侍从与猎犬把牡鹿赶过河；他的妻子萨碧勒选帝侯夫人站在右侧，准备第一箭的仪式性射击；萨克森选帝侯热衷以猎犬狩猎，这类场合经过精心排练，并以号角信号协调。本条目只转述这些。",
+        "一图": "示意图以委托的统治者、狩猎的仪式场面、带翼蛇签名三者关系标示本作。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）年代1540年有画上题款与该馆标注；（3）画面原为木板、后转至纤维板，转移的时间与原因该馆说明未涉及，本条目不推定；（4）本库无约翰·腓特烈与萨克森选帝侯的独立条目，正文只作文字说明，不建关联；（5）本条目不引该馆流传信息。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cranach-hartenfels-hunt 示意图'><title>cranach-hartenfels-hunt</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>克拉纳赫·1540</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>德国</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>哈滕费尔斯狩猎</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>116.8×170.2cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>萨克森统治者</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>委托·约翰·腓特烈</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>带翼蛇签名</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>并题1540</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>宫廷狩猎的仪式场面</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；转至纤维板的时间原因未涉及；无萨克森选帝侯独立条目；无流传信息。"
+    },
+    {
+      "id": "bronzino-portrait-of-a-woman",
+      "title": "布龙齐诺《女子肖像》（约1550）",
+      "kind": "作品",
+      "unit": "art-renaissance",
+      "era": "16世纪",
+      "region": "意大利·佛罗伦萨",
+      "medium": "油画",
+      "tier": "重要",
+      "def": "布龙齐诺的宫廷肖像，克利夫兰艺术博物馆藏（1972.121）。",
+      "when": "约1550年",
+      "overview": "该馆说明：布龙齐诺是佛罗伦萨公爵科西莫一世·德·美第奇的宫廷画师；这位女子无法确定身份，很可能与美第奇宫廷有关；与该展厅多数肖像一样，布龙齐诺强调财富、地位与宫廷的雅致，而非个性或个体化的表情；朴素的背景进一步突出了这件小幅作品的纪念碑性与宏伟；放在胸前、手指优雅张开的手可追溯到古希腊表示端庄的姿势，此处强调高位女性的得体举止；她穿着以平针绣装饰的亚麻护颈，部分与袖口一起镶有精细花边。",
+      "related": [
+        "mannerism",
+        "renaissance"
+      ],
+      "sources": [
+        "cma-1972-121"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为佛罗伦萨画家阿尼奥洛·布龙齐诺（1503—1572）约1550年的《女子肖像》，木板油画，克利夫兰艺术博物馆藏（1972.121）。",
+        "风格特征": "该馆说明：与该展厅多数肖像一样，布龙齐诺强调财富、地位与宫廷的雅致，而非个性或个体化的表情；朴素的背景进一步突出这件小幅作品的纪念碑性与宏伟。",
+        "代表人物与作品": "作者为布龙齐诺，馆方称他是佛罗伦萨公爵科西莫一世·德·美第奇的宫廷画师。相关条目见样式主义与文艺复兴。",
+        "技法或形式分析": "木板油画；画心60 × 48.8厘米，带框81.6 × 68.5 × 6.7厘米（据该馆藏品记录）。该馆说明：放在胸前、手指优雅张开的手可追溯到古希腊表示端庄的姿势，此处强调高位女性的得体举止；她穿着以平针绣装饰的亚麻护颈，部分与袖口一起镶有精细花边。",
+        "与前后风格的关系和争论": "该馆说明：这位女子无法确定身份，很可能与美第奇宫廷有关。本条目只转述这一点，不推定具体人选，也不另作样式主义的风格归属论证。",
+        "一图": "示意图以宫廷画师身份、端庄的手势、衣饰细节三者关系标示本作。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）年代「约1550年」为该馆标注；（3）该馆说明明确称无法确定画中人身份，本条目不推定；（4）该馆说明未把此画归入样式主义，相关条目仅作背景关联，不代表馆方归属；（5）本库无美第奇宫廷独立条目，正文只作文字说明，不建关联；（6）本条目不引该馆流传信息。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='bronzino-portrait-of-a-w 示意图'><title>bronzino-portrait-of-a-w</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>布龙齐诺·约1550</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>佛罗伦萨</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>女子肖像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>60×48.8cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>美第奇宫廷</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>身份未能确定</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>端庄的手势</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>古希腊来源</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>强调地位而非个性的宫廷肖像</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；画中人身份未能确定；样式主义归属非馆方说法；无美第奇宫廷独立条目；无流传信息。"
+    },
+    {
+      "id": "rubens-isabella-brant",
+      "title": "鲁本斯《伊莎贝拉·勃兰特肖像》（约1620—25）",
+      "kind": "作品",
+      "unit": "art-baroque",
+      "era": "17世纪",
+      "region": "佛兰德斯",
+      "medium": "油画",
+      "tier": "重要",
+      "def": "鲁本斯为第一任妻子所作的木板肖像，克利夫兰艺术博物馆藏（1947.207）。",
+      "when": "约1620—25年",
+      "overview": "该馆说明：伊莎贝拉·勃兰特是鲁本斯的第一任妻子，他以多种方式画过她很多次，她在35岁时去世；这幅亲密的肖像至少作于她去世前五年，以温暖的色调、丰润的笔触与生动的表情，显示画家与模特之间的亲近关系；她也是该馆另一件鲁本斯作品中一位宁芙的模特。",
+      "related": [
+        "baroque",
+        "rubens"
+      ],
+      "sources": [
+        "cma-1947-207"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为佛兰德斯画家彼得·保罗·鲁本斯（1577—1640）约1620—25年的《伊莎贝拉·勃兰特肖像》，木板油画，克利夫兰艺术博物馆藏（1947.207）。",
+        "风格特征": "该馆说明：这幅亲密的肖像以温暖的色调、丰润的笔触与生动的表情，显示画家与模特之间的亲近关系。",
+        "代表人物与作品": "作者为鲁本斯，模特伊莎贝拉·勃兰特是他的第一任妻子。相关条目见鲁本斯与巴洛克。",
+        "技法或形式分析": "木板油画；画心53 × 46厘米，带框83 × 73.5 × 9厘米（据该馆藏品记录）。该馆记录未列题款。",
+        "与前后风格的关系和争论": "该馆说明：鲁本斯以多种方式画过她很多次，她在35岁时去世；这幅作于她去世前至少五年；她也是该馆另一件鲁本斯作品中一位宁芙的模特。本条目只转述这些，不作风格归属的另论。",
+        "一图": "示意图以画家的第一任妻子、温暖的色调与笔触、她在另一件作品中作为宁芙的模特三者关系标示本作。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）年代「约1620—25年」为该馆标注；（3）该馆说明未涉及此画的用途与委托背景，本条目没有替它补写；（4）另一件「宁芙」作品为该馆1959.190，馆方署名含作坊，本库未收入，故不建关联；（5）本条目不引该馆流传信息。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='rubens-isabella-brant 示意图'><title>rubens-isabella-brant</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>鲁本斯·约1620—25</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>佛兰德斯</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>伊莎贝拉·勃兰特</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>53×46cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>画家的第一任妻子</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>35岁去世</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>暖色与笔触</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>亲近的关系</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>以亲近关系入画的肖像</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；年代为约1620—25；委托背景未补写；另一件宁芙作品含作坊署名未收；无流传信息。"
+    },
+    {
+      "id": "velazquez-jester-calabazas",
+      "title": "委拉斯开兹《弄臣卡拉巴萨斯肖像》（约1631—32）",
+      "kind": "作品",
+      "unit": "art-baroque",
+      "era": "17世纪",
+      "region": "西班牙",
+      "medium": "油画",
+      "tier": "重要",
+      "def": "委拉斯开兹为西班牙宫廷弄臣所作的全身肖像，克利夫兰艺术博物馆藏（1965.15）。",
+      "when": "约1631—32年",
+      "overview": "该馆说明：卡拉巴萨斯是西班牙国王菲利普四世宫廷中的弄臣，有身体与智力上的残障，画家强调这一状态而不是试图掩盖；西班牙宫廷珍视并宠爱有残障的人，而委拉斯开兹改变了他们在肖像中的描绘方式；这件作品用正式的全身宫廷肖像格式，来呈现在当时通常被视为边缘的一类人，并深刻地赋予他人性。",
+      "related": [
+        "baroque",
+        "velazquez"
+      ],
+      "sources": [
+        "cma-1965-15"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为西班牙画家迭戈·委拉斯开兹（1599—1660）约1631—32年的《弄臣卡拉巴萨斯肖像》，布面油画，克利夫兰艺术博物馆藏（1965.15）。",
+        "风格特征": "该馆说明：这件作品用正式的全身宫廷肖像格式，来呈现在当时通常被视为边缘的一类人，并深刻地赋予他人性。",
+        "代表人物与作品": "作者为委拉斯开兹。相关条目见委拉斯开兹与巴洛克。",
+        "技法或形式分析": "布面油画；画心175 × 106厘米，带框199.3 × 133.1 × 12.7厘米（据该馆藏品记录）。该馆记录未列题款。",
+        "与前后风格的关系和争论": "该馆说明：卡拉巴萨斯是西班牙国王菲利普四世宫廷中的弄臣，有身体与智力上的残障，画家强调这一状态而不是试图掩盖；西班牙宫廷珍视并宠爱有残障的人，而委拉斯开兹改变了他们在肖像中的描绘方式。本条目只转述馆方这些说法。",
+        "一图": "示意图以宫廷弄臣的身份、全身宫廷肖像的格式、对其状态的如实呈现三者关系标示本作。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）年代「约1631—32年」为该馆标注；（3）该馆说明关于「改变描绘方式」的论断是馆方的解读，本条目不另作学术评价，也未与其他藏品比较；（4）本库无西班牙宫廷独立条目，正文只作文字说明，不建关联；（5）本条目不引该馆流传信息。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='velazquez-jester-calabaz 示意图'><title>velazquez-jester-calabaz</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>委拉斯开兹·约1631—</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>西班牙</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>弄臣卡拉巴萨斯</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>175×106cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>菲利普四世宫廷</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>弄臣</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>全身宫廷肖像格式</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>如实呈现</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>用宫廷肖像格式呈现边缘人物</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；「改变描绘方式」为馆方解读，未另作评价；无西班牙宫廷独立条目；无流传信息。"
+    },
+    {
+      "id": "hals-woman-aeltje-pater",
+      "title": "哈尔斯《女子肖像（或为阿尔切·迪尔克斯多赫特·帕特尔）》（1638）",
+      "kind": "作品",
+      "unit": "art-baroque",
+      "era": "17世纪",
+      "region": "荷兰",
+      "medium": "油画",
+      "tier": "重要",
+      "def": "哈尔斯1638年题年的女子肖像，克利夫兰艺术博物馆藏（1948.137）。",
+      "when": "1638年",
+      "overview": "该馆说明：哈尔斯的肖像常有大胆而参差的笔触，这幅显示他试验湿中湿技法，即不待下层干透就接续加上颜料层，发际线处混合的笔触暗示了一根根头发；画中人被暂定为阿尔切·迪尔克斯多赫特·帕特尔（1597—1678），即哈勒姆酿酒商兼市长扬·德·瓦埃尔（1594—1663）的妻子；题款称她画时41岁。",
+      "related": [
+        "baroque"
+      ],
+      "sources": [
+        "cma-1948-137"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为荷兰画家弗兰斯·哈尔斯（约1581—1666）1638年的《女子肖像》，布面油画，克利夫兰艺术博物馆藏（1948.137）。",
+        "风格特征": "该馆说明：哈尔斯的肖像常有大胆而参差的笔触。",
+        "代表人物与作品": "作者为哈尔斯。相关条目见巴洛克与哈尔斯《蒂勒曼·罗斯特曼像》。",
+        "技法或形式分析": "布面油画；画心66.5 × 52.3厘米，带框82 × 67 × 6.5厘米（据该馆藏品记录）。该馆说明：此画显示他试验「湿中湿」技法，即不待下层干透就接续加上颜料层；发际线处混合的笔触暗示了一根根头发。题款原样引用：左上「AETAT SUAE 41 / ANNO 1638」。",
+        "与前后风格的关系和争论": "该馆说明：画中人被暂定为阿尔切·迪尔克斯多赫特·帕特尔（1597—1678），即哈勒姆酿酒商兼市长扬·德·瓦埃尔（1594—1663）的妻子；题款称她画时41岁。本条目保留馆方的「暂定」措辞，不作确认。",
+        "一图": "示意图以湿中湿技法、暂定的画中人身份、题款的年龄与年份三者关系标示本作。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）画中人身份为馆方「暂定」，本条目不推定为确定；（3）年代1638年有画上题款与该馆标注；（4）本库无哈勒姆与荷兰肖像传统独立条目，正文只作文字说明，不建关联；（5）本条目不引该馆流传信息。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='hals-woman-aeltje-pater 示意图'><title>hals-woman-aeltje-pater</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>哈尔斯·1638</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>荷兰</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>女子肖像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>66.5×52.3cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>湿中湿技法</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>发际线笔触</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>身份暂定</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>题款称41岁</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>湿中湿与暂定的身份</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；画中人身份为馆方暂定；无荷兰肖像传统独立条目；无流传信息。"
+    },
+    {
+      "id": "cma-tiorbino",
+      "title": "提奥宾琴（意大利，约17世纪中叶）",
+      "kind": "作品",
+      "unit": "music-instruments",
+      "era": "17世纪",
+      "region": "欧洲",
+      "medium": "乐器",
+      "tier": "重要",
+      "def": "长颈鲁特琴类的小型提奥宾琴，克利夫兰艺术博物馆藏（1918.368）。",
+      "when": "约17世纪中叶",
+      "overview": "该馆称其为意大利制、约17世纪中叶，后经修补改动；长颈、形似提奥波而小得多、音高高八度；该馆称是现存最小的巴洛克提奥宾琴之一。",
+      "related": [
+        "maler-lute",
+        "baroque-music"
+      ],
+      "sources": [
+        "cma-1918-368"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为意大利的鲁特琴或提奥宾琴，克利夫兰艺术博物馆藏（1918.368）。该馆记录标注年代为约1620年，同时说明它大约制作于17世纪中叶，后经修补改动。",
+        "风格特征": "该馆说明：鲁特琴在16、17世纪的世俗场合是最重要的乐器，既是有庞大曲目的炫技乐器，也是伴唱的理想乐器，在合奏中举足轻重，并出现在假面剧与歌剧中，业余者与专业者都演奏。",
+        "代表人物与作品": "该馆记录未列制作者。相关条目见马勒鲁特琴与巴洛克音乐。",
+        "技法或形式分析": "木制；全长100.7 × 27.7厘米（据该馆藏品记录）。该馆称提奥宾琴是长颈鲁特琴的一种，形似提奥波但小得多、音高高八度。",
+        "与前后风格的关系和争论": "该馆称这是一件极为罕见的物品，是现存最小的巴洛克提奥宾琴之一。馆方记录里「约1620年」与「17世纪中叶」并存，本条目两者都如实写出，不替它择一，也不推断修补的范围。",
+        "一图": "示意图以长颈鲁特琴、比提奥波小且高八度、后经修补三者关系标示本琴。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）年代在该馆记录中有「约1620年」与「约17世纪中叶」两种表述；（3）该馆只说后经修补改动，未说明改动的部位，本条目没有补写；（4）该馆记录未列制作者。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cma-tiorbino 示意图'><title>cma-tiorbino</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>意大利·约17世纪</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>后经修补</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>提奥宾琴</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>100.7cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>长颈鲁特琴类</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>形似提奥波</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>小而高八度</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>最小之一</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>最小的巴洛克提奥宾琴之一</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；年代有两种表述；修补范围未说明；制作者未列。"
+    },
+    {
+      "id": "cma-yueqin",
+      "title": "月琴（中国，清代）",
+      "kind": "作品",
+      "unit": "music-instruments",
+      "era": "19世纪",
+      "region": "东亚",
+      "medium": "乐器",
+      "tier": "重要",
+      "def": "清代月琴，克利夫兰艺术博物馆藏（1918.382）。",
+      "when": "1800年代",
+      "overview": "紫檀、梧桐木与羊肠弦；尺寸58.4×35.6厘米；因形似满月得名；用于民间乐队与京剧、地方戏并为歌唱伴奏；以指甲或拨片弹奏。",
+      "related": [
+        "pipa-instrument",
+        "opera"
+      ],
+      "sources": [
+        "cma-1918-382"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为中国清代（1644—1911）的月琴，该馆标注年代为1800年代，克利夫兰艺术博物馆藏（1918.382）。",
+        "风格特征": "该馆说明：月琴因形似满月（yue 月）得名；常见于民间乐队、京剧与地方戏（jingxi），用于伴唱，近来才被现代中国乐队采用。",
+        "代表人物与作品": "该馆记录未列制作者。相关条目见琵琶与戏曲。",
+        "技法或形式分析": "紫檀、梧桐木与羊肠弦；尺寸58.4 × 35.6厘米（据该馆藏品记录）。该馆称演奏者在品间按弦，因此和弦难奏，却能更好地控制音色与音准；以指甲或拨片上下拨弦并用轮指，延长并润饰音色。",
+        "与前后风格的关系和争论": "该馆说明它在日本称为 gekkin。本条目只转述馆方说明，不另述月琴的发展史。",
+        "一图": "示意图以满月形琴身、用于戏曲伴唱、在日本称 gekkin 三者关系标示本琴。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）年代为该馆标注的「1800年代」；（3）该馆记录未列制作者；（4）该馆说明中的戏曲名称按其原文转述。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cma-yueqin 示意图'><title>cma-yueqin</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>清代·1800年代</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>中国</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>月琴</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>58.4×35.6cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>形似满月</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>得名</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>戏曲伴唱</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>日本称gekkin</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>因形似满月而得名</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；年代为1800年代；制作者未列。"
+    },
+    {
+      "id": "cma-oud",
+      "title": "乌德琴（西亚，19世纪末—20世纪初）",
+      "kind": "作品",
+      "unit": "music-instruments",
+      "era": "19世纪",
+      "region": "西亚·中亚",
+      "medium": "乐器",
+      "tier": "重要",
+      "def": "西亚乌德琴，克利夫兰艺术博物馆藏（1918.350）。",
+      "when": "1800年代末—1900年代初",
+      "overview": "木、羊肠弦与金属；尺寸81.3×33.7厘米；该馆称乌德属鲁特琴家族，梨形琴身、无品指板、琴头与琴颈成45至90度角；馆方记录有题款。",
+      "related": [
+        "maler-lute",
+        "ottoman-nay-flute",
+        "cma-tanbur",
+        "cma-kamanche"
+      ],
+      "sources": [
+        "cma-1918-350"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为西亚的乌德琴，该馆标注年代为19世纪末至20世纪初，克利夫兰艺术博物馆藏（1918.350）。",
+        "风格特征": "该馆说明：乌德属鲁特琴家族，也许没有哪件乐器比它更能代表伊斯兰世界；它为宴会与聚会奏乐，为诗人伴奏，为庆典与节日增色，至今仍很突出。",
+        "代表人物与作品": "该馆提到中世纪哲学家法拉比（872—950/951）的《音乐大全》论述了阿拉伯音乐的调式体系，其中包括乌德。相关条目见马勒鲁特琴。",
+        "技法或形式分析": "木、羊肠弦与金属；尺寸81.3 × 33.7厘米（据该馆藏品记录）。该馆称其特征是梨形琴身、无品指板，以及与琴颈成45至90度角的琴头。",
+        "与前后风格的关系和争论": "该馆记录有题款：Work of Alexander, going to New York 1892。本条目原样引用，不推定其含义，也不据此判定制作者或制作地。",
+        "一图": "示意图以鲁特琴家族、梨形琴身与无品指板、题款三者关系标示本琴。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）年代为该馆标注；（3）题款含义未释读，其中的1892年与馆方标注的年代范围并存，本条目不作调和；（4）制作者与具体产地该馆记录只写「西亚」。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cma-oud 示意图'><title>cma-oud</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>西亚·19世纪末</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>题款1892</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>乌德琴</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>81.3cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>鲁特琴家族</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>梨形琴身</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>无品指板</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>琴头45至90度</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>伊斯兰世界最具代表性的乐器之一</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；题款未释读；产地仅写西亚。"
+    },
+    {
+      "id": "cma-tanbur",
+      "title": "坦布尔（叙利亚或土耳其，19世纪末）",
+      "kind": "作品",
+      "unit": "music-instruments",
+      "era": "19世纪",
+      "region": "西亚·中亚",
+      "medium": "乐器",
+      "tier": "重要",
+      "def": "奥斯曼时期长颈鲁特琴坦布尔，克利夫兰艺术博物馆藏（1918.347）。",
+      "when": "1800年代末",
+      "overview": "木、骨、珍珠母与金属丝；尺寸58.4×10.5厘米；采集于奥斯曼叙利亚；该馆称兼具叙利亚、土耳其与伊朗特征；梨形琴身饰烧痕与珍珠母嵌点。",
+      "related": [
+        "cma-oud",
+        "ottoman-nay-flute",
+        "cma-kamanche"
+      ],
+      "sources": [
+        "cma-1918-347"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为叙利亚或土耳其、奥斯曼时期（1299—1922）的坦布尔，该馆标注年代为19世纪末，克利夫兰艺术博物馆藏（1918.347）。",
+        "风格特征": "该馆说明：这件长颈鲁特琴采集于奥斯曼叙利亚，兼具叙利亚、土耳其与伊朗的特征，体现了文化之间的音乐互动。",
+        "代表人物与作品": "该馆记录未列制作者。相关条目见乌德琴与奥斯曼苇笛。",
+        "技法或形式分析": "木、骨、珍珠母与金属丝；尺寸58.4 × 10.5厘米（据该馆藏品记录）。梨形琴身饰有烧痕，并镶有珍珠母圆点，该馆称这些圆点也可能有助于演奏者辨认指板位置。",
+        "与前后风格的关系和争论": "该馆称这是古老的乐器，形似法老时代埃及与美索不达米亚的鲁特琴；各种形式的坦布尔在伊斯兰世界通行，常在神圣与世俗场合独奏。珍珠母圆点的功能馆方用的是「可能」，本条目照此转述。",
+        "一图": "示意图以叙利亚、土耳其、伊朗三种特征并存，以及烧痕与珍珠母嵌点标示本琴。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）产地该馆写「叙利亚或土耳其」，本条目不择一；（3）与古代鲁特琴的相似是馆方说法，本条目未另作考证；（4）制作者未列。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cma-tanbur 示意图'><title>cma-tanbur</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>叙利亚或土耳其</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>奥斯曼时期</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>坦布尔</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>58.4×10.5cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>三种文化特征</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>叙·土·伊</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>烧痕与嵌点</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>珍珠母</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>文化互动中的长颈鲁特琴</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；产地二选一未定；古代渊源为馆方说法；制作者未列。"
+    },
+    {
+      "id": "cma-hurdy-gurdy",
+      "title": "手摇琴（法国，雅克·德康特，1865—70）",
+      "kind": "作品",
+      "unit": "music-instruments",
+      "era": "19世纪",
+      "region": "欧洲",
+      "medium": "乐器",
+      "tier": "重要",
+      "def": "法国手摇琴 vielle à roue，克利夫兰艺术博物馆藏（2020.422）。",
+      "when": "1865—70年",
+      "overview": "署名雅克·德康特（1808—1884）；木与珍珠母镶嵌；六弦，摇柄转轮擦弦，作用如琴弓；旋律由键盘推动小楔改变音高。",
+      "related": [
+        "maler-lute",
+        "stradivari-violin"
+      ],
+      "sources": [
+        "cma-2020-422"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为法国的手摇琴（vielle à roue，意为轮式提琴），1865—70年，署名雅克·德康特（法国，1808—1884），克利夫兰艺术博物馆藏（2020.422）。",
+        "风格特征": "该馆说明：这是一件六弦乐器，由手摇曲柄转动的轮擦弦发声；轮的作用很像小提琴的琴弓，单音听来与小提琴相近。",
+        "代表人物与作品": "作者署名为雅克·德康特。相关条目见马勒鲁特琴与斯特拉迪瓦里小提琴。",
+        "技法或形式分析": "木与珍珠母镶嵌；该馆记录未给出尺寸。该馆称旋律由键盘演奏，键盘把小楔推向琴弦以改变音高。",
+        "与前后风格的关系和争论": "该馆说明法国称之为 vielle à roue（轮式提琴）。本条目只转述馆方的构造说明，不另述手摇琴的历史。",
+        "一图": "示意图以摇柄转轮擦弦、键盘推小楔变音、与小提琴单音相近三者关系标示本琴。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）年代为该馆标注的1865—70年；（3）该馆记录未给出尺寸，本条目未补写；（4）手摇琴的历史与流行情况该馆说明未涉及，本条目没有补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cma-hurdy-gurdy 示意图'><title>cma-hurdy-gurdy</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>法国·1865—70</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>德康特</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>手摇琴</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>六弦</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>摇柄转轮擦弦</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>如琴弓</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>键盘推小楔</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>改变音高</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>以轮代弓的弦乐器</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；尺寸未列；历史背景未补写。"
+    },
+    {
+      "id": "cma-berno-tonarius",
+      "title": "贝尔诺《调式集》献词页（赖兴瑙，约1030）",
+      "kind": "作品",
+      "unit": "music-medieval",
+      "era": "中世纪",
+      "region": "欧洲",
+      "medium": "手稿",
+      "tier": "重要",
+      "def": "赖兴瑙院长贝尔诺《调式集》的献词页，克利夫兰艺术博物馆藏（1952.88）。",
+      "when": "约1030年",
+      "overview": "羊皮纸墨、蛋彩与金，尺寸21.5×15.3厘米；该馆称调式集是用来规范礼仪圣咏的音乐手册，由赖兴瑙院长贝尔诺（1008—1048在任）所撰，献给科隆大主教皮尔格林（1021—1036在任），其名字见于本叶底部。",
+      "related": [
+        "gregorian-chant",
+        "medieval-music"
+      ],
+      "sources": [
+        "cma-1952-88"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本叶原为赖兴瑙修道院院长贝尔诺（1008—1048在任）所撰《调式集》（Tonarius）的献词页，产自德国赖兴瑙修道院，约1030年，克利夫兰艺术博物馆藏（1952.88）。",
+        "风格特征": "墨、蛋彩与金绘于羊皮纸，首字母为D[omino]（据该馆藏品标题）。",
+        "代表人物与作品": "撰者为院长贝尔诺。该馆称此抄本献给科隆大主教皮尔格林（1021—1036在任），其名字见于本叶底部。相关条目见格里高利圣咏与中世纪音乐。",
+        "技法或形式分析": "羊皮纸，尺寸21.5 × 15.3厘米（据该馆藏品记录）。该馆记录未列题款。",
+        "与前后风格的关系和争论": "该馆说明：调式集（tonary）是用来规范礼仪圣咏的音乐手册。本条目只转述馆方说明，不另述调式分类的内容。",
+        "一图": "示意图以院长贝尔诺、调式集规范圣咏、献给科隆大主教三者关系标示本叶。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）年代「约1030年」为该馆标注；（3）该馆说明只称它是献词页，未谈调式集的具体内容，本条目没有补写；（4）原书其余部分的下落本条目不涉及。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cma-berno-tonarius 示意图'><title>cma-berno-tonarius</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>赖兴瑙·约1030</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>德国</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>调式集献词页</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>21.5×15.3cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>院长贝尔诺</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>1008—1048在任</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>献给科隆大主教</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>皮尔格林</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>规范礼仪圣咏的音乐手册</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；调式集内容未补写；原书其余部分未述。"
+    },
+    {
+      "id": "cma-carolingian-gradual",
+      "title": "加洛林歌咏集对开页（约830—60）",
+      "kind": "作品",
+      "unit": "music-medieval",
+      "era": "中世纪",
+      "region": "欧洲",
+      "medium": "手稿",
+      "tier": "重要",
+      "def": "加洛林时期紫色羊皮纸歌咏集对开页，克利夫兰艺术博物馆藏（1933.446）。",
+      "when": "约830—60年",
+      "overview": "紫色羊皮纸金银墨，尺寸29×10厘米；该馆称这是弥撒中所唱圣咏的歌咏集（cantatorium或gradual），同书其他叶存于柏林与特里尔；无装饰首字母而用推入页边的强调字母。",
+      "related": [
+        "gregorian-chant",
+        "medieval-music"
+      ],
+      "sources": [
+        "cma-1933-446"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为加洛林时期（约830—60年）的歌咏集对开页，产地该馆写「德国或法国东北部」，9世纪，克利夫兰艺术博物馆藏（1933.446）。",
+        "风格特征": "该馆说明：本叶没有装饰首字母，而用被放大并推入页边的「强调字母」，以吸引读者的目光；这种强调字母起源于古典晚期，是中世纪抄写员所发展的装饰首字母的前身。",
+        "代表人物与作品": "该馆记录未列抄写者。该馆称同一抄本的其他叶存于柏林与特里尔。相关条目见格里高利圣咏。",
+        "技法或形式分析": "紫色羊皮纸，金银墨书写；尺寸29 × 10厘米（据该馆藏品记录）。该馆说明：紫染羊皮纸（今已褪成深粉色）与金银墨（今已变黑）营造出奢华的外观，可上溯到古代；地中海地区的紫色取自骨螺，北欧则用植物染料代替。",
+        "与前后风格的关系和争论": "该馆称这是一件罕见的叶片，来自歌咏集（cantatorium或gradual），即收录弥撒中所唱圣咏的书。本条目只转述馆方说明。",
+        "一图": "示意图以紫色羊皮纸与金银墨、强调字母、其他叶存柏林与特里尔三者关系标示本叶。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）产地该馆写「德国或法国东北部」，本条目不择一；（3）该馆说明未涉及本叶的音乐记谱，本条目没有补写；（4）染料来源是该馆的一般性说明，未指明本叶用的是哪一种。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cma-carolingian-gradual 示意图'><title>cma-carolingian-gradual</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>加洛林·约830—60</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>德国或法国东北部</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>歌咏集对开页</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>29×10cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>紫染羊皮纸</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>金银墨</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>强调字母</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>装饰首字母前身</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>弥撒圣咏的抄本残页</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；产地二选一未定；记谱未涉及；染料来源未指明。"
+    },
+    {
+      "id": "cma-gradual-gaudeamus",
+      "title": "格拉杜尔对开页：诸圣节入祭咏（约1300）",
+      "kind": "作品",
+      "unit": "music-medieval",
+      "era": "中世纪",
+      "region": "欧洲",
+      "medium": "手稿",
+      "tier": "重要",
+      "def": "约1300年的格拉杜尔对开页，含诸圣节弥撒入祭咏，克利夫兰艺术博物馆藏（1950.391）。",
+      "when": "约1300年",
+      "overview": "羊皮纸墨、蛋彩与金，尺寸55.7×37.9厘米；产地该馆写意大利锡耶纳（带问号）；大号装饰首字母G引出 Gaudeamus omnes in Domino，是11月1日诸圣节弥撒的入祭咏；反面为乐谱与文字。",
+      "related": [
+        "gregorian-chant",
+        "music-notation"
+      ],
+      "sources": [
+        "cma-1950-391"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为约1300年的格拉杜尔（Gradual）对开页，产地该馆写「意大利，锡耶纳(?)」，克利夫兰艺术博物馆藏（1950.391）。",
+        "风格特征": "该馆说明：大号装饰首字母G引出经文 Gaudeamus omnes in Domino（让我们在主内欢喜），这是11月1日诸圣节弥撒的开场祷词，即入祭咏；首字母中有基督、圣母马利亚与多位圣徒。",
+        "代表人物与作品": "该馆记录未列彩饰师。相关条目见格里高利圣咏与记谱法。",
+        "技法或形式分析": "羊皮纸墨、蛋彩与金；尺寸55.7 × 37.9厘米（据该馆藏品记录）。该馆标题注明正面为首字母，反面为乐谱与文字（Music and Text）。",
+        "与前后风格的关系和争论": "本条目只转述馆方说明，不另述格拉杜尔的体例与记谱的细节。",
+        "一图": "示意图以诸圣节入祭咏、大号首字母G、反面乐谱与文字三者关系标示本叶。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）产地在该馆记录里带问号，本条目照写不确认；（3）该馆说明未解读反面的乐谱，本条目没有补写；（4）彩饰师未列。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cma-gradual-gaudeamus 示意图'><title>cma-gradual-gaudeamus</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>意大利·约1300</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>锡耶纳(?)</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>格拉杜尔对开页</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>55.7×37.9cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>诸圣节入祭咏</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>11月1日</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>反面乐谱与文字</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>首字母G</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>以大号首字母引出入祭咏</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；产地带问号；乐谱未解读；彩饰师未列。"
+    },
+    {
+      "id": "cma-bologna-antiphonary",
+      "title": "博洛尼亚安提芳那对开页：圣多米尼克布道（约1320—40）",
+      "kind": "作品",
+      "unit": "music-medieval",
+      "era": "中世纪",
+      "region": "欧洲",
+      "medium": "手稿",
+      "tier": "重要",
+      "def": "博洛尼亚彩饰师所作安提芳那对开页，克利夫兰艺术博物馆藏（1985.60）。",
+      "when": "约1320—40年",
+      "overview": "羊皮纸墨、蛋彩与金，尺寸51×37.7厘米；署名圣多米尼克首席彩饰师；该馆称首字母M中的圣多米尼克像表明它曾属多明我会修道院的抄本；该工坊专为艾米利亚地区的富裕宗教机构制作大型抄本。",
+      "related": [
+        "gregorian-chant",
+        "medieval-music"
+      ],
+      "sources": [
+        "cma-1985-60"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为约1320—40年的安提芳那（Antiphonary）对开页，产自意大利博洛尼亚，署名圣多米尼克首席彩饰师（Primo Miniatore di San Domenico），克利夫兰艺术博物馆藏（1985.60）。",
+        "风格特征": "该馆说明：首字母M中的圣多米尼克（1170—1221）布道形象，表明这一双页曾属于为多明我会修道院制作的抄本。",
+        "代表人物与作品": "该馆说明：这位彩饰师因他装饰过的一卷塞涅卡作品（今存法国国家图书馆）而得名；其工坊专为艾米利亚地区的富裕宗教机构制作大型抄本，而博洛尼亚是该地区的艺术与知识中心。相关条目见格里高利圣咏。",
+        "技法或形式分析": "羊皮纸墨、蛋彩与金；尺寸51 × 37.7厘米（据该馆藏品记录）。该馆标题注明含乐谱（Music）。",
+        "与前后风格的关系和争论": "该馆称圣多米尼克是多明我会（布道者修会）的创立者，一生四处布道，在博洛尼亚尤受尊崇，他逝世并安葬于该城。本条目只转述这些。",
+        "一图": "示意图以圣多米尼克布道形象、多明我会抄本、博洛尼亚工坊三者关系标示本叶。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）年代「约1320—40年」为该馆标注；（3）「曾属多明我会修道院抄本」是馆方的推断（该馆用的是「表明」），本条目照此转述；（4）该馆说明未解读乐谱，本条目没有补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cma-bologna-antiphonary 示意图'><title>cma-bologna-antiphonary</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>博洛尼亚·约1320—4</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>首席彩饰师</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>安提芳那对开页</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>51×37.7cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>圣多米尼克布道</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>首字母M</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>多明我会抄本</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>艾米利亚工坊</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>为多明我会修道院制作的大型抄本</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；多明我会归属为馆方推断；乐谱未解读。"
+    },
+    {
+      "id": "cma-siena-antiphonary",
+      "title": "锡耶纳《安提芳那》（约1470—80）",
+      "kind": "作品",
+      "unit": "music-renaissance",
+      "era": "15—16世纪",
+      "region": "欧洲",
+      "medium": "手稿",
+      "tier": "重要",
+      "def": "锡耶纳《安提芳那》抄本，署名杰罗拉莫·达·克雷莫纳，克利夫兰艺术博物馆藏（1930.661）。",
+      "when": "约1470—80年",
+      "overview": "羊皮纸墨、蛋彩与金，抄本55.9×43.2×10.2厘米；该馆称首字母A中的复活基督出自杰罗拉莫的直接追随者之手，使用大师的设计；安提芳那通常分多卷，用于教士团体咏唱日课；所示圣咏为复活节第一晨祷应答。",
+      "related": [
+        "renaissance-music",
+        "gregorian-chant"
+      ],
+      "sources": [
+        "cma-1930-661"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为约1470—80年的《安提芳那》抄本，产自意大利锡耶纳，署名杰罗拉莫·达·克雷莫纳，克利夫兰艺术博物馆藏（1930.661）。",
+        "风格特征": "该馆说明：所示首字母A中的复活基督，出自杰罗拉莫·达·克雷莫纳的一位直接追随者之手，他很可能在锡耶纳工作并使用大师的设计。",
+        "代表人物与作品": "该馆称杰罗拉莫在锡耶纳断续活跃到1474年，与几位北意大利彩饰师合作装饰了大教堂的合唱用书。相关条目见格里高利圣咏与文艺复兴音乐。",
+        "技法或形式分析": "羊皮纸墨、蛋彩与金；抄本尺寸55.9 × 43.2 × 10.2厘米（据该馆藏品记录）。",
+        "与前后风格的关系和争论": "该馆说明：安提芳那通常分成多卷制作，供教士团体咏唱日课（Daily Office，即全年每日的祈祷）所用；此处首字母引出的圣咏为 Angelus Domini descendit de celo（主的天使从天而降），是复活节的第一晨祷应答。署名栏写杰罗拉莫，图饰据馆方说明出自其追随者，本条目两者并写。",
+        "一图": "示意图以杰罗拉莫的设计、追随者执笔、复活节晨祷应答三者关系标示本册。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）署名栏为杰罗拉莫·达·克雷莫纳，而馆方说明称图饰出自其追随者，本条目不作调和；（3）「很可能在锡耶纳工作」是馆方的推测；（4）该馆说明未涉及乐谱本身，本条目没有补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cma-siena-antiphonary 示意图'><title>cma-siena-antiphonary</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>锡耶纳·约1470—80</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>署名杰罗拉莫</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>安提芳那抄本</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>55.9×43.2cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>追随者绘首字母A</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>复活基督</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>复活节晨祷应答</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>日课用书</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>教士团体咏唱日课的用书</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；署名与执笔者有别；锡耶纳为馆方推测；乐谱未涉及。"
+    },
+    {
+      "id": "cma-verona-gradual",
+      "title": "维罗纳《格拉杜尔》（约1520）",
+      "kind": "作品",
+      "unit": "music-renaissance",
+      "era": "15—16世纪",
+      "region": "欧洲",
+      "medium": "手稿",
+      "tier": "重要",
+      "def": "维罗纳圈子的格拉杜尔抄本，署名杰罗拉莫·代·利布里，克利夫兰艺术博物馆藏（1921.140）。",
+      "when": "约1520年",
+      "overview": "羊皮纸墨、蛋彩与金，木封面，抄本51.1×35.6×8.9厘米；该馆称格拉杜尔是弥撒所用的主要合唱用书，常分多卷；本卷似为一套中仅存的一册；彩饰出自杰罗拉莫·代·利布里圈子里的彩饰师。",
+      "related": [
+        "renaissance-music",
+        "gregorian-chant"
+      ],
+      "sources": [
+        "cma-1921-140"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为约1520年的《格拉杜尔》抄本，产自意大利维罗纳，署名杰罗拉莫·代·利布里（1474—1555），克利夫兰艺术博物馆藏（1921.140）。",
+        "风格特征": "该馆说明：其彩饰出自杰罗拉莫·代·利布里圈子里的一位彩饰师；杰罗拉莫备受推崇、常被模仿，既多产于祭坛画，也多产于书籍彩饰。",
+        "代表人物与作品": "署名栏为杰罗拉莫·代·利布里。相关条目见文艺复兴音乐与格里高利圣咏。",
+        "技法或形式分析": "羊皮纸墨、蛋彩与金，木封面；抄本尺寸51.1 × 35.6 × 8.9厘米（据该馆藏品记录）。",
+        "与前后风格的关系和争论": "该馆说明：格拉杜尔是弥撒期间所用的主要合唱用书，常分多卷制作，多时达12卷，以涵盖整个礼仪年；每座教堂除了格拉杜尔，还需要弥撒经书、安提芳那与福音书选读集等；本册似乎是一套大型抄本中仅存的一册。署名栏与馆方对彩饰者的说法并存，本条目两者并写。",
+        "一图": "示意图以弥撒合唱用书、多卷成套仅存一册、杰罗拉莫圈子的彩饰三者关系标示本册。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）署名栏为杰罗拉莫·代·利布里，而馆方说明称彩饰出自其圈子里的彩饰师，本条目不作调和；（3）「似乎是仅存的一册」是馆方的推断；（4）该馆说明未涉及乐谱本身，本条目没有补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cma-verona-gradual 示意图'><title>cma-verona-gradual</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>维罗纳·约1520</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>署名杰罗拉莫</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>格拉杜尔抄本</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>51.1×35.6cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>弥撒主要合唱用书</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>多卷成套</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>仅存一册</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>圈子彩饰师</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>一套大型抄本中仅存的一册</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；署名与彩饰者有别；仅存一册为馆方推断；乐谱未涉及。"
+    },
+    {
+      "id": "cma-tsuzumi",
+      "title": "鼓（tsuzumi，日本，江户至明治）",
+      "kind": "作品",
+      "unit": "music-instruments",
+      "era": "19世纪",
+      "region": "东亚",
+      "medium": "乐器",
+      "tier": "重要",
+      "def": "日本能乐等所用的小鼓，克利夫兰艺术博物馆藏（1918.349）。",
+      "when": "1800年代",
+      "overview": "木漆泥金（莳绘）、皮、铁与绳，直径20.4厘米；该馆称小鼓靠在一侧肩上、一手固定、另一手击面，并以呼吸或唾液调节皮的湿度；用于能乐等正式演出的伴奏，也用于传统民间音乐。",
+      "related": [
+        "koto-instrument",
+        "hitoyogiri-flute"
+      ],
+      "sources": [
+        "cma-1918-349"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为日本的小鼓（tsuzumi），产自江户时代（1615—1868）至明治时期（1868—1912），该馆标注年代为1800年代，克利夫兰艺术博物馆藏（1918.349）。",
+        "风格特征": "该馆说明：tsuzumi 手鼓用作能乐等正式戏剧演出的音乐伴奏，也用于传统民间音乐。",
+        "代表人物与作品": "该馆记录未列制作者。相关条目见筝与一節切。",
+        "技法或形式分析": "木漆泥金（莳绘 maki-e）、皮、铁与绳；直径20.4厘米，通高25.4厘米（据该馆藏品记录）。该馆称这样的小鼓靠在一侧肩上，一手固定，另一手击面；以呼吸或唾液调节皮的湿度，从而调节音色。",
+        "与前后风格的关系和争论": "本条目只转述馆方说明，不另述能乐的伴奏体系与鼓的种类。",
+        "一图": "示意图以靠肩手持、手击鼓面、以呼吸或唾液调湿三者关系标示本鼓。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）年代该馆写1800年代，产地时期写江户至明治，本条目不择一；（3）该馆说明未涉及本件的莳绘纹样，本条目没有补写；（4）制作者未列。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cma-tsuzumi 示意图'><title>cma-tsuzumi</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>日本·1800年代</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>江户至明治</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>小鼓 tsuzumi</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>直径20.4cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>能乐等伴奏</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>也用于民间</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>靠肩手击</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>呼吸调湿</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>以呼吸调节皮湿度的手鼓</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；年代与时期并存；莳绘纹样未补写；制作者未列。"
+    },
+    {
+      "id": "cma-chisanji",
+      "title": "乔奎风格拇指琴（chisanji，中非）",
+      "kind": "作品",
+      "unit": "music-instruments",
+      "era": "19世纪",
+      "region": "非洲",
+      "medium": "乐器",
+      "tier": "重要",
+      "def": "饰有骑兽人像的拇指琴，克利夫兰艺术博物馆藏（1915.495）。",
+      "when": "19世纪末",
+      "overview": "木、铁与金属丝，尺寸19.1×10.2×6.4厘米；产地该馆写刚果民主共和国或安哥拉、乔奎风格；该馆称其造型是骑在奇特四足兽上的生动人像，其帽子表明他可能是从事长途贸易的行商（pombeiro）。",
+      "related": [
+        "kora-instrument",
+        "mangbetu-harp"
+      ],
+      "sources": [
+        "cma-1915-495"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为拇指琴（lamellophone，当地称 chisanji），产地该馆写中非刚果民主共和国或安哥拉、乔奎风格制作者，19世纪末，克利夫兰艺术博物馆藏（1915.495）。",
+        "风格特征": "该馆说明：琴上刻画了一个骑在奇特四足兽上的生动人像，其帽子表明他可能是从事长途贸易的行商（pombeiro）。",
+        "代表人物与作品": "该馆记录未列制作者。相关条目见科拉琴与曼贝图竖琴。",
+        "技法或形式分析": "木、铁与金属丝；尺寸19.1 × 10.2 × 6.4厘米（据该馆藏品记录）。该馆记录未列题款。",
+        "与前后风格的关系和争论": "「行商」一说在该馆说明里是推测（用的是「可能」），本条目照此转述，不当作定论；该馆说明也未谈这件琴的演奏法。",
+        "一图": "示意图以拇指琴、骑兽人像、帽子暗示行商三者关系标示本琴。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）产地该馆写「刚果民主共和国或安哥拉」，本条目不择一；（3）「行商」身份是馆方的推测；（4）该馆说明未谈演奏法，本条目没有补写；（5）制作者未列。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cma-chisanji 示意图'><title>cma-chisanji</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>中非·19世纪末</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>乔奎风格</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>拇指琴 chisanji</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>19.1×10.2cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>骑四足兽的人像</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>生动</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>帽子暗示行商</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>pombeiro·推测</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>以人像装饰的拇指琴</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；产地二选一未定；行商身份为推测；演奏法未涉及。"
+    },
+    {
+      "id": "cma-kamanche",
+      "title": "卡曼恰（伊朗北部，1875—1900，残件）",
+      "kind": "作品",
+      "unit": "music-instruments",
+      "era": "19世纪",
+      "region": "西亚·中亚",
+      "medium": "乐器",
+      "tier": "重要",
+      "def": "残缺的卡曼恰弓弦乐器，克利夫兰艺术博物馆藏（1918.353）。",
+      "when": "1875—1900年",
+      "overview": "木、皮与骨，尺寸58.5×26.8厘米；产地该馆写伊朗北部（高加索，也许是阿塞拜疆，或克什米尔）；该馆称卡曼恰是波斯语词，10世纪起用来称呼以弓发声的乐器，弓弦乐器由此传至拜占庭、中亚、远东与欧洲。",
+      "related": [
+        "cma-oud",
+        "cma-tanbur"
+      ],
+      "sources": [
+        "cma-1918-353"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为残缺的卡曼恰（Kamānche），1875—1900年，产地该馆写「伊朗北部（高加索，也许是阿塞拜疆，或克什米尔）」，克利夫兰艺术博物馆藏（1918.353）。",
+        "风格特征": "该馆说明：卡曼恰是波斯语词，10世纪起用来称呼以弓发声的乐器；弓弦乐器由此传到拜占庭、中亚、远东，然后传到欧洲；在埃及则称 rabāb，这一词在从北非到东南亚的伊斯兰世界通行。",
+        "代表人物与作品": "该馆记录未列制作者。相关条目见乌德琴与坦布尔。",
+        "技法或形式分析": "木、皮与骨；尺寸58.5 × 26.8厘米（据该馆藏品记录）；记录标明为残件（incomplete）。",
+        "与前后风格的关系和争论": "该馆指出：乐器的名称常揭示起源、语境或音乐功能；在欧洲、北非与亚洲与中东文化有接触的地方，阿拉伯语与波斯语的乐器名称变体十分普遍；相关的名称通常指相似的乐器，但并非总是如此，zūrna、rabāb、kāmanja、nāy、dombak 等就是这类「游移的词」。本条目只转述这些。",
+        "一图": "示意图以卡曼恰一词的波斯语来源、弓弦乐器的传播路线、名称游移三者关系标示本琴。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）产地该馆写「伊朗北部（高加索，也许是阿塞拜疆，或克什米尔）」，本条目不择一；（3）弓弦乐器的传播路线是馆方的概述，本条目未另作考证；（4）本件为残件，缺失部分该馆记录未说明。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cma-kamanche 示意图'><title>cma-kamanche</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>伊朗北部·1875—19</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>残件</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>卡曼恰 Kamānche</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>58.5×26.8cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>波斯语词·10世纪</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>以弓发声</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>传至拜占庭到欧洲</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>名称游移</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>名称随弓弦乐器流传</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；产地未定；传播路线为馆方概述；残件缺失部分未说明。"
+    },
+    {
+      "id": "cma-uganda-lyre",
+      "title": "乌干达里拉琴（ndongo/endongo/kissar）",
+      "kind": "作品",
+      "unit": "music-instruments",
+      "era": "20世纪",
+      "region": "东非",
+      "medium": "乐器",
+      "tier": "重要",
+      "def": "乌干达甘达或索加风格的里拉琴，克利夫兰艺术博物馆藏（1929.346）。",
+      "when": "1928年前",
+      "overview": "木、爬行动物皮、毛皮、布与天然纤维，直径31.8厘米；该馆称里拉在东非很常见，多种名称反映了许多族群使用这一乌干达类型；碗形木音箱蒙爬行动物皮，可能是巨蜥皮，弦连到横梁，横梁两端原饰山羊毛穗。",
+      "related": [
+        "drum-ngoma",
+        "kora-instrument",
+        "cma-endingidi"
+      ],
+      "sources": [
+        "cma-1929-346"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为乌干达甘达或索加风格的里拉琴，该馆标注为1928年前入藏，制作者不详，克利夫兰艺术博物馆藏（1929.346）。",
+        "风格特征": "该馆说明：里拉在东非各地都很常见；endongo、ndongo、kissar、entongoli 等多种名称，反映了许多不同族群使用这一乌干达类型。",
+        "代表人物与作品": "该馆记录未列制作者。相关条目见恩戈马鼓与科拉琴。",
+        "技法或形式分析": "木、爬行动物皮、毛皮、布与天然纤维；直径31.8厘米，通高43.2厘米（据该馆藏品记录）。该馆称碗形木音箱蒙着爬行动物的皮，可能是巨蜥皮；弦向上连到横梁，横梁两端原饰有山羊毛穗，有时还有宝贝壳。",
+        "与前后风格的关系和争论": "本条目只转述馆方说明，不另述里拉在东非的分布与演奏。",
+        "一图": "示意图以碗形音箱蒙皮、弦连横梁、多种名称并存三者关系标示本琴。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）年代该馆只写「1928年前」入藏，制作年代未列；（3）蒙皮「可能是巨蜥皮」是馆方推测；（4）制作者不详。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cma-uganda-lyre 示意图'><title>cma-uganda-lyre</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>乌干达</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>甘达或索加风格</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>里拉琴</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>直径31.8cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>碗形音箱蒙皮</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>可能是巨蜥皮</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>多种名称</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>endongo·kissar</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>东非常见的弦鸣乐器</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；制作年代未列；蒙皮种类为推测；制作者不详。"
+    },
+    {
+      "id": "cma-endingidi",
+      "title": "乌干达弦鸣提琴（endingidi/iningidi）",
+      "kind": "作品",
+      "unit": "music-instruments",
+      "era": "20世纪",
+      "region": "东非",
+      "medium": "乐器",
+      "tier": "重要",
+      "def": "乌干达单弦提琴 endingidi，克利夫兰艺术博物馆藏（1929.347）。",
+      "when": "1900年代",
+      "overview": "木、蛇皮与植物纤维，全长44.2厘米；该馆称这是单弦的弦鸣乐器，学者认为约1904至1907年传入布干达王国，后传至卢旺达，在那里称 iningidi，由胡图族乐手演奏；至今仍见于婚礼或由布干达宫廷乐师演奏。",
+      "related": [
+        "cma-uganda-lyre",
+        "drum-ngoma"
+      ],
+      "sources": [
+        "cma-1929-347"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为东非乌干达或卢旺达-布隆迪的单弦弦鸣提琴 endingidi（卢旺达称 iningidi），20世纪，制作者不详，克利夫兰艺术博物馆藏（1929.347）。",
+        "风格特征": "该馆说明：endingidi 是单弦的弦鸣乐器；学者认为它约在1904至1907年传入布干达王国（今乌干达），之后又传到今日的卢旺达，在那里称 iningidi，由胡图族乐手演奏。",
+        "代表人物与作品": "该馆记录未列制作者。相关条目见乌干达里拉琴与恩戈马鼓。",
+        "技法或形式分析": "木、蛇皮与植物纤维；直径10.2厘米，通高44.2厘米（据该馆藏品记录）。该馆称琴弦为拉紧的马尾，从手柄末端越过蒙爬行动物皮的管形音箱，并以木制调弦栓固定在手柄上；深弯的琴弓现已缺失，演奏者为男性，竖持乐器演奏。",
+        "与前后风格的关系和争论": "该馆说明它至今仍有人演奏，其音乐常见于婚礼，或由布干达王室宫廷乐师演奏。传入年代是「学者认为」，本条目照此转述，不当作定论。",
+        "一图": "示意图以单弦马尾弦、传入布干达、传至卢旺达称 iningidi 三者关系标示本琴。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）产地该馆写「乌干达或卢旺达-布隆迪」，本条目不择一；（3）传入布干达的年代是学者之说，本条目未另作考证；（4）琴弓缺失；（5）制作者不详。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cma-endingidi 示意图'><title>cma-endingidi</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>乌干达或卢旺达-布隆迪</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1900年代</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>弦鸣提琴 endingi</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>44.2cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>单弦马尾弦</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>琴弓已缺</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>传入布干达</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>学者说1904—07</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>由乌干达传到卢旺达的单弦提琴</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；产地二选一未定；传入年代为学者之说；琴弓缺失；制作者不详。"
+    },
+    {
+      "id": "cma-yombe-oliphant",
+      "title": "永贝风格象牙侧吹号角（oliphant）",
+      "kind": "作品",
+      "unit": "music-instruments",
+      "era": "19世纪",
+      "region": "非洲",
+      "medium": "乐器",
+      "tier": "重要",
+      "def": "雕有永贝统治者像的象牙侧吹号角，克利夫兰艺术博物馆藏（2010.448）。",
+      "when": "19世纪末—20世纪初",
+      "overview": "象牙，尺寸32×4×6厘米；产地该馆写中非、刚果民主共和国（最可能）、卡宾达或刚果共和国，可能是永贝风格制作者；该馆称象牙侧吹号似乎多用于葬礼等庄重场合，吹口在内弯处，演奏者横持；顶部雕有身披贝壳项链与欧式斗篷、帽子的坐姿永贝统治者。",
+      "related": [
+        "kongo-prestige-cap",
+        "african-art"
+      ],
+      "sources": [
+        "cma-2010-448"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为中非的象牙侧吹号角（oliphant），产地该馆写「刚果民主共和国（最可能）、卡宾达或刚果共和国」，推定为永贝风格制作者，19世纪末至20世纪初，克利夫兰艺术博物馆藏（2010.448）。",
+        "风格特征": "该馆说明：侧吹号用于多种场合，象牙制品似乎多留给较庄重的场合，如葬礼；吹口在内弯处，演奏者横持乐器。",
+        "代表人物与作品": "该馆记录未列制作者。相关条目见刚果护身像与非洲艺术。",
+        "技法或形式分析": "象牙；尺寸32 × 4 × 6厘米（据该馆藏品记录）。该馆称顶部雕有一位坐姿的永贝男性统治者，身戴贝壳项链，披欧式斗篷、戴欧式帽子。",
+        "与前后风格的关系和争论": "该馆指出，这种混合的装束显示永贝人（刚果人的一个分支）有选择地吸收外来服饰元素，并与自己的服饰搭配。本条目只转述馆方的解读，不另作评价。",
+        "一图": "示意图以象牙侧吹号、葬礼等庄重场合、统治者像的混合装束三者关系标示本器。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）产地该馆写三种可能，并称「最可能」是刚果民主共和国，本条目不择一；（3）「永贝风格」在该馆记录里带「可能」，本条目照写；（4）混合装束的解读是馆方的观点；（5）制作者未列。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cma-yombe-oliphant 示意图'><title>cma-yombe-oliphant</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>中非·19世纪末</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>永贝风格</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>象牙侧吹号角</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>32×4×6cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>葬礼等庄重场合</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>横持吹奏</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>永贝统治者像</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>混合装束</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>雕有统治者像的象牙号角</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；产地三选一未定；永贝风格为推定；装束解读为馆方观点；制作者未列。"
+    },
+    {
+      "id": "medieval-crossmedia",
+      "title": "中世纪：石构教堂与圣咏的并行",
+      "kind": "风格",
+      "unit": "comparative",
+      "era": "中世纪",
+      "region": "欧洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "比较中世纪视觉艺术（罗马式、哥特式）与中世纪音乐（圣咏、复调）在宗教场所中的各自表现。",
+      "when": "约5—15世纪",
+      "overview": "建筑与雕塑以半圆拱、尖拱与彩色玻璃为标志，音乐以单声部圣咏为主、晚期出现复调；两者都主要服务于教会。",
+      "related": [
+        "romanesque",
+        "gothic",
+        "medieval-music",
+        "gregorian-chant"
+      ],
+      "sources": [
+        "enc-romanesque",
+        "enc-gothic",
+        "enc-medieval-music",
+        "enc-gregorian-chant"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本条比较中世纪的视觉艺术与音乐。视觉一侧取罗马式（11—12世纪流行于西欧）与哥特式（12世纪后期兴起于法国并传遍欧洲），音乐一侧取中世纪音乐（约5—15世纪）与格里高利圣咏。内容限于库内相关条目的概述。",
+        "风格特征": "视觉一侧：罗马式以半圆拱与厚重墙体承担荷载，门楣与柱头雕塑承担叙事功能；哥特式以尖拱、肋拱、飞扶壁与大面积彩色玻璃为特征，使墙体减薄、窗户扩大。音乐一侧：格里高利圣咏是罗马天主教会的单声部无伴奏拉丁文圣歌，采用自由节奏与教会调式；中世纪晚期出现奥尔加农与经文歌等复调形式。",
+        "代表人物与作品": "本条不新增人物或作品。视觉一侧库内以沙特尔大教堂为常被引用的哥特式实例；音乐一侧库内条目提到教皇格里高利一世（圣咏之名由来）。实物层面可参见库内的克利夫兰艺术博物馆圣咏手稿条目，如贝尔诺《调式集》献词页与博洛尼亚安提芳那对开页。",
+        "技法或形式分析": "两个领域的共同语境是教会：建筑与雕塑服务于教堂的空间与叙事，圣咏服务于礼仪。形式上，视觉一侧由厚重的半圆拱结构发展到以尖拱与肋拱减轻墙体；音乐一侧由单声部圣咏发展出在圣咏上方叠加声部的奥尔加农，再到复调。两侧都经历了由单一、厚重的形式向多重、轻盈的形式的变化，但这是对照用的归纳，不是任何来源的论断。",
+        "与前后风格的关系和争论": "库内概述未给出视觉一侧与音乐一侧之间的直接影响关系，本条不主张二者互相影响。罗马式与哥特式、圣咏与复调在年代上有先后与重叠，具体分期以各自条目为准。",
+        "一图": "示意图以教会为共同语境，左侧视觉艺术（罗马式到哥特式），右侧音乐（圣咏到复调）。",
+        "待核实": "（1）本条是库内条目之间的对照，来源均为权威百科，没有新增一手来源；（2）「由单一厚重向多重轻盈」是对照用的归纳，不是来源论断，需专门文献检验；（3）视觉一侧与音乐一侧的断代并不完全对应，本条不作精确对位；（4）两个领域是否存在直接影响，库内来源没有给出，本条不主张。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='medieval-crossmedia 示意图'><title>medieval-crossmedia</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>罗马式与哥特式</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>视觉艺术</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>圣咏与复调</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>音乐</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>共同语境：教会</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>礼仪与叙事</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>形式的演变</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>对照归纳</text><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>中世纪视觉艺术与音乐的共同教会语境</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "对照型条目，无新增一手来源；形式演变为对照归纳；断代不精确对位；不主张直接影响。"
+    },
+    {
+      "id": "classical-crossmedia",
+      "title": "古典主义：新古典主义美术与古典时期音乐",
+      "kind": "风格",
+      "unit": "comparative",
+      "era": "18—19世纪初",
+      "region": "欧洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "比较新古典主义美术与古典时期音乐在克制、清晰与秩序上的共同取向。",
+      "when": "约18世纪中后期—19世纪初",
+      "overview": "美术以对称构图与清晰轮廓回归古典形式，音乐以均衡、清晰与奏鸣曲式确立交响曲等范式；两者的断代与内涵并不完全重合。",
+      "related": [
+        "neoclassicism",
+        "classical-period-music"
+      ],
+      "sources": [
+        "enc-neoclassicism",
+        "enc-classical-period-music"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本条比较新古典主义美术与古典时期音乐。新古典主义是18世纪中后期兴起的艺术运动，与启蒙思想及考古发现相关；古典时期音乐指18世纪中后期至19世纪初的欧洲音乐。内容限于库内相关条目的概述。",
+        "风格特征": "美术一侧：以对称构图、清晰轮廓与古典题材为特征，回归古典形式的克制、理性与秩序。音乐一侧：以均衡、清晰与奏鸣曲式为特征，主调音乐占主导。",
+        "代表人物与作品": "库内条目称美术一侧以大卫为代表；音乐一侧由海顿、莫扎特与贝多芬确立交响曲、协奏曲与弦乐四重奏的古典范式。本条不新增人物或作品。",
+        "技法或形式分析": "两侧的共同点是对均衡、清晰与秩序的强调：美术用对称构图与清晰轮廓，音乐用奏鸣曲式与主调织体。这是对照用的归纳；库内概述并未说两个领域互相借鉴了这些手法。",
+        "与前后风格的关系和争论": "库内条目显示新古典主义与洛可可、浪漫主义相邻，而古典时期音乐与浪漫主义音乐相邻；两个领域的分期并不完全重合，且「古典主义」一词在美术与音乐中的所指并不相同，本条不把二者当作同一概念。",
+        "一图": "示意图以克制、清晰与秩序为共同取向，左侧新古典主义美术，右侧古典时期音乐。",
+        "待核实": "（1）本条是库内条目之间的对照，来源均为权威百科，没有新增一手来源；（2）「共同取向」是对照用的归纳，不是来源论断，需专门文献检验；（3）美术与音乐中「古典」的所指不同，本条不作等同；（4）两个领域是否存在直接影响，库内来源没有给出，本条不主张。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='classical-crossmedia 示意图'><title>classical-crossmedia</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>新古典主义</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>美术</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>古典时期音乐</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>音乐</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>均衡与清晰</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>共同取向</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>对称与奏鸣曲式</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>各自手法</text><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>新古典主义美术与古典时期音乐的共同取向</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "对照型条目，无新增一手来源；共同取向为对照归纳；古典一词所指不同；不主张直接影响。"
+    },
+    {
+      "id": "cma-liu-songnian-qin",
+      "title": "刘松年《听琴图》（南宋册页）",
+      "kind": "作品",
+      "unit": "music-china",
+      "era": "南宋",
+      "region": "中国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "南宋刘松年的听琴册页，克利夫兰艺术博物馆藏（1983.85）。",
+      "when": "约12—13世纪（1150—1225后）",
+      "overview": "绢本墨与淡彩册页，画心23.8×24.6厘米，题款「劉松年」；该馆称画意追忆伯牙为知音钟子期弹七弦琴的故事；松荫清凉、香炉烟起与琴声相互映衬；方寸册页的形式以音乐为触动弹者与听者心灵的关键。",
+      "related": [
+        "guqin-instrument",
+        "song-painting"
+      ],
+      "sources": [
+        "cma-1983-85"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为南宋（1127—1279）画家刘松年（约1150—1225后）的《听琴图》，绢本墨与淡彩册页，克利夫兰艺术博物馆藏（1983.85）。",
+        "风格特征": "该馆说明：松荫的清凉与香炉升起的香烟，同琴声营造的气氛相得益彰；册页的小幅形式把焦点放在音乐上，把音乐视为触动弹者与听者心灵的关键。",
+        "代表人物与作品": "题款为「劉松年」（据该馆记录）。该馆称画意追忆伯牙的故事：伯牙爱为钟子期弹奏琴（七弦的古琴），钟子期是一位有鉴赏力的听者。相关条目见古琴与宋代绘画。",
+        "技法或形式分析": "绢本墨与淡彩册页；画心23.8 × 24.6厘米，带衬纸33.3 × 40.5厘米（据该馆藏品记录）。",
+        "与前后风格的关系和争论": "该馆说明里有一句提到钟子期死后伯牙不再弹琴，但该句在馆方英文原文中人名有明显笔误，本条目不转述这一句，也不替它更正，只保留故事主线。",
+        "一图": "示意图以伯牙弹琴、知音听琴、松荫与香烟的气氛三者关系标示本册页。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）年代「1150—1225后」为该馆标注的画家生卒；（3）该馆说明称画意「追忆」伯牙与钟子期，是馆方的解读，本条目不作考证；（4）馆方说明中一处人名有笔误，本条目未转述该句。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cma-liu-songnian-qin 示意图'><title>cma-liu-songnian-qin</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>南宋·刘松年</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>册页</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>听琴图</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>23.8×24.6cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>伯牙与钟子期</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>知音故事</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>松荫与香烟</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>琴声的气氛</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>以音乐触动弹者与听者</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；画意为馆方解读；馆方说明有笔误，该句未转述。"
+    },
+    {
+      "id": "cma-wen-zhengming-qin",
+      "title": "文徵明《幽壑鸣琴》（1548）",
+      "kind": "作品",
+      "unit": "music-china",
+      "era": "明代",
+      "region": "中国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "文徵明1548年题诗的弹琴立轴，克利夫兰艺术博物馆藏（1969.60）。",
+      "when": "1548年",
+      "overview": "纸本立轴墨与淡彩，尺寸132×50.5厘米；题诗称以朱弦一曲小答松风太古之音，款署嘉靖戊申；该馆说明称此画有不同版本，学者认为岩石的扎实画法与立体的山势更像文徵明学生陆治（1496—1576）的特点。",
+      "related": [
+        "guqin-instrument",
+        "wen-zhengming-silk-poem",
+        "ming-painting"
+      ],
+      "sources": [
+        "cma-1969-60"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为明代（1368—1644）的《幽壑鸣琴》，纸本立轴，署款为文徵明（1470—1559），题年嘉靖戊申（1548），克利夫兰艺术博物馆藏（1969.60）。",
+        "风格特征": "该馆引录画上题诗：「万叠高山供道眼，千寻飞瀑净尘心。凭将一曲朱弦琴，小答松风太古音。」（据题款原文）。",
+        "代表人物与作品": "署款文徵明。该馆说明称此画有不同版本，并称学者认为岩石的扎实画法与立体的山势，更像文徵明学生陆治（1496—1576）的特点。相关条目见古琴、明代绘画与文徵明条目。",
+        "技法或形式分析": "纸本立轴，墨与淡彩；尺寸132 × 50.5厘米（据该馆藏品记录）。题款含「嘉靖戊申夏四月徵明製」与印章；另有程琦（1911—1988）三枚鉴藏印及一枚不明印。",
+        "与前后风格的关系和争论": "这一件的归属有争议：署款为文徵明，而馆方转述的学者意见倾向于陆治的画法。本条目两者并写，不作裁断。",
+        "一图": "示意图以高山飞瀑、朱弦琴答松风、署款文徵明与学者提出的陆治画法三者关系标示本轴。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）署款为文徵明，学者意见倾向陆治，本条目不裁断；（3）该馆称存在不同版本，本条目未对比；（4）题诗文字按该馆转录，未另行校勘。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cma-wen-zhengming-qin 示意图'><title>cma-wen-zhengming-qin</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>明·1548</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>署款文徵明</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>幽壑鸣琴</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>132×50.5cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>题诗</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>朱弦答松风</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>学者意见</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>更近陆治画法</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>署款与画法的归属之争</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；归属有争议未裁断；不同版本未对比；题诗按馆方转录。"
+    },
+    {
+      "id": "cma-tang-yin-qin",
+      "title": "唐寅《听琴图》（明代立轴）",
+      "kind": "作品",
+      "unit": "music-china",
+      "era": "明代",
+      "region": "中国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "明代唐寅的听琴立轴，克利夫兰艺术博物馆藏（1977.199）。",
+      "when": "15世纪末—16世纪初",
+      "overview": "绢本立轴墨与淡彩，画心35.8×29.1厘米；该馆称画意暗指嵇康（223—262）的一则传说：嵇康是三世纪一群特立独行的知识分子中的古琴家，所作《广陵散》幽怨得能唤来鬼魂；画中描绘一个扮成人形的鬼魂被另一鬼魂扶助从地下出来，其他鬼魂被月下茅屋中的琴师吸引。",
+      "related": [
+        "guqin-instrument",
+        "ming-painting"
+      ],
+      "sources": [
+        "cma-1977-199"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为明代（1368—1644）唐寅（1470—1523）的《听琴图》，绢本立轴，该馆标注年代为15世纪末至16世纪初，克利夫兰艺术博物馆藏（1977.199）。",
+        "风格特征": "该馆说明：画面描绘的是一个鬼魂扮成人形，被另一个鬼魂扶助着从地下出来，而其他鬼魂被月圆之夜茅屋中的琴师所吸引。",
+        "代表人物与作品": "署名唐寅。该馆称画意暗指嵇康（公元223—262）的一则传说：嵇康是三世纪一群特立独行的知识分子中的古琴家，以所作《广陵散》著称，此曲幽怨得能唤来鬼魂拜访他。相关条目见古琴与明代绘画。",
+        "技法或形式分析": "绢本立轴，墨与淡彩；画心35.8 × 29.1厘米，带轴头通高118 × 45厘米（据该馆藏品记录）。该馆记录有画家印，位于左下角，写作「Wu」后面的部分被裁去。",
+        "与前后风格的关系和争论": "画意为「暗指」传说，是馆方的解读，本条目照此转述。",
+        "一图": "示意图以月下茅屋中的琴师、被琴声吸引的鬼魂、嵇康与《广陵散》的传说三者关系标示本轴。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）年代为该馆标注的「15世纪末至16世纪初」；（3）画意为馆方解读；（4）该馆记录的印章文字被裁去部分，本条目未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cma-tang-yin-qin 示意图'><title>cma-tang-yin-qin</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>明·唐寅</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>立轴</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>听琴图</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>35.8×29.1cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>嵇康与广陵散</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>传说</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>月下茅屋</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>鬼魂被吸引</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>暗指嵇康传说的听琴画</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；画意为馆方解读；印章文字被裁去部分未补写。"
+    },
+    {
+      "id": "cma-tang-harpist",
+      "title": "唐代竖琴乐俑（8世纪中叶）",
+      "kind": "作品",
+      "unit": "music-china",
+      "era": "唐代",
+      "region": "中国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "唐代墓俑中的女乐师，克利夫兰艺术博物馆藏（1931.450）。",
+      "when": "约8世纪中叶",
+      "overview": "釉陶，通高32.1厘米；该馆称唐墓所置俑生动展现日常生活；这位女乐师坐在圆台上，竖琴（harp）斜靠在右大腿上演奏，发髻盘在额前，长而高腰的袍子垂到翘头鞋尖。",
+      "related": [
+        "china-music-history",
+        "tang-painting"
+      ],
+      "sources": [
+        "cma-1931-450"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为中国北方唐代（618—907）约8世纪中叶的釉陶女乐师俑，克利夫兰艺术博物馆藏（1931.450）。",
+        "风格特征": "该馆说明：经历四个世纪的政治动荡与社会失序，唐代前半期重新统一的中国呈现空前的繁荣与活力；唐墓中的俑生动地反映日常生活；优雅的陶俑女子以不同的发式、服饰与活动，显示当时的时尚。",
+        "代表人物与作品": "该馆记录未列制作者。相关条目见中国音乐史与唐代绘画。",
+        "技法或形式分析": "釉陶；通高32.1厘米（据该馆藏品记录）。该馆描述：女乐师坐在圆形台座上，把竖琴（馆方称 harp）斜靠在右大腿上演奏；脸颊丰满，五官分明，鼻直唇抿；头发在额前盘成发髻；长而高腰的袍子垂到翘起的鞋尖。",
+        "与前后风格的关系和争论": "该馆称之为竖琴（harp），本条目照馆方称谓，不另行判定乐器的具体类型。",
+        "一图": "示意图以唐代繁荣、墓俑反映日常生活、女乐师奏竖琴三者关系标示本俑。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）年代为该馆标注的「8世纪中叶」；（3）乐器类型按馆方称谓，未另行判定；（4）制作者与出土地未列。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cma-tang-harpist 示意图'><title>cma-tang-harpist</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>唐·8世纪中叶</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>中国北方</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>女乐师俑</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>通高32.1cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>坐于圆台</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>奏竖琴</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>唐墓俑</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>反映日常生活</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>唐墓中的女乐师</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；乐器类型按馆方称谓；出土地与制作者未列。"
+    },
+    {
+      "id": "cma-tang-qin-mirror",
+      "title": "唐代龟钮菱花镜：乐师与凤凰（8世纪晚期）",
+      "kind": "作品",
+      "unit": "music-china",
+      "era": "唐代",
+      "region": "中国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "唐代青铜镜，饰乐师与凤凰，克利夫兰艺术博物馆藏（1995.369）。",
+      "when": "约8世纪晚期",
+      "overview": "青铜，直径21.6厘米，有铭文；该馆称铭文说这是一对镜中的一面，以南方之金制成并置于玉匣，或暗示婚礼之赠；图案含义并不完全清楚，可能指道教仙人侯晋，他弹琴、懂鸟语、能依水中倒影预言；凤凰、水池与琴或都与求仙有关。",
+      "related": [
+        "guqin-instrument",
+        "china-music-history"
+      ],
+      "sources": [
+        "cma-1995-369"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为唐代（618—907）约8世纪晚期的青铜镜，龟钮、菱花形，饰乐师与凤凰，克利夫兰艺术博物馆藏（1995.369）。",
+        "风格特征": "该馆说明：镜上铭文称这是一对镜中的一面，以南方之金制成并置于玉匣，或暗示婚礼之赠。",
+        "代表人物与作品": "该馆记录未列制作者。铭文为「鳳凰雙鏡南金裝。陰陽各為配，日月恒相會。白玉芙蓉匣，翠羽瓊瑤帶。同心人，心相親，照心照膽保千春。」（据该馆转录）。相关条目见古琴。",
+        "技法或形式分析": "青铜；直径21.6厘米，通厚1.2厘米，边厚0.6厘米（据该馆藏品记录）。",
+        "与前后风格的关系和争论": "该馆称图案的含义并不完全清楚，但可能指道教仙人侯晋：他弹琴、懂鸟语，并能依水中倒影作预言；凤凰、水池与琴的图案或都与求仙有关。这是馆方的推测，本条目照此转述，不作定论。",
+        "一图": "示意图以成对铜镜、凤凰与水池与琴的图案、可能指侯晋三者关系标示本镜。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）图案含义馆方称不完全清楚，「侯晋」与「求仙」均为推测；（3）「婚礼之赠」同为馆方的推测（用「或」）；（4）铭文按该馆转录，未另行校勘；（5）制作者未列。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cma-tang-qin-mirror 示意图'><title>cma-tang-qin-mirror</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>唐·8世纪晚期</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>青铜</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>龟钮菱花镜</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>直径21.6cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>铭文</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>一对镜之一</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>琴与凤凰</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>或指侯晋·求仙</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>含义未完全清楚的图案</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；图案含义与婚礼之赠均为推测；铭文按馆方转录；制作者未列。"
     }
   ]
 }

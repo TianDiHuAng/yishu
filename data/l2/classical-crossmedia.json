@@ -1,0 +1,20 @@
+{
+ "id": "classical-crossmedia",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本条比较新古典主义美术与古典时期音乐。新古典主义是18世纪中后期兴起的艺术运动，与启蒙思想及考古发现相关；古典时期音乐指18世纪中后期至19世纪初的欧洲音乐。内容限于库内相关条目的概述。",
+  "风格特征": "美术一侧：以对称构图、清晰轮廓与古典题材为特征，回归古典形式的克制、理性与秩序。音乐一侧：以均衡、清晰与奏鸣曲式为特征，主调音乐占主导。",
+  "代表人物与作品": "库内条目称美术一侧以大卫为代表；音乐一侧由海顿、莫扎特与贝多芬确立交响曲、协奏曲与弦乐四重奏的古典范式。本条不新增人物或作品。",
+  "技法或形式分析": "两侧的共同点是对均衡、清晰与秩序的强调：美术用对称构图与清晰轮廓，音乐用奏鸣曲式与主调织体。这是对照用的归纳；库内概述并未说两个领域互相借鉴了这些手法。",
+  "与前后风格的关系和争论": "库内条目显示新古典主义与洛可可、浪漫主义相邻，而古典时期音乐与浪漫主义音乐相邻；两个领域的分期并不完全重合，且「古典主义」一词在美术与音乐中的所指并不相同，本条不把二者当作同一概念。",
+  "一图": "示意图以克制、清晰与秩序为共同取向，左侧新古典主义美术，右侧古典时期音乐。",
+  "待核实": "（1）本条是库内条目之间的对照，来源均为权威百科，没有新增一手来源；（2）「共同取向」是对照用的归纳，不是来源论断，需专门文献检验；（3）美术与音乐中「古典」的所指不同，本条不作等同；（4）两个领域是否存在直接影响，库内来源没有给出，本条不主张。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='classical-crossmedia 示意图'><title>classical-crossmedia</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>新古典主义</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>美术</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>古典时期音乐</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>音乐</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>均衡与清晰</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>共同取向</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>对称与奏鸣曲式</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>各自手法</text><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>新古典主义美术与古典时期音乐的共同取向</text></g></svg>",
+ "sources": [
+  "enc-neoclassicism",
+  "enc-classical-period-music"
+ ],
+ "needs_verification": true,
+ "pending_notes": "对照型条目，无新增一手来源；共同取向为对照归纳；古典一词所指不同；不主张直接影响。"
+}

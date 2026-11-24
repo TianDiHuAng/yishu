@@ -1,0 +1,19 @@
+{
+ "id": "hals-woman-aeltje-pater",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为荷兰画家弗兰斯·哈尔斯（约1581—1666）1638年的《女子肖像》，布面油画，克利夫兰艺术博物馆藏（1948.137）。",
+  "风格特征": "该馆说明：哈尔斯的肖像常有大胆而参差的笔触。",
+  "代表人物与作品": "作者为哈尔斯。相关条目见巴洛克与哈尔斯《蒂勒曼·罗斯特曼像》。",
+  "技法或形式分析": "布面油画；画心66.5 × 52.3厘米，带框82 × 67 × 6.5厘米（据该馆藏品记录）。该馆说明：此画显示他试验「湿中湿」技法，即不待下层干透就接续加上颜料层；发际线处混合的笔触暗示了一根根头发。题款原样引用：左上「AETAT SUAE 41 / ANNO 1638」。",
+  "与前后风格的关系和争论": "该馆说明：画中人被暂定为阿尔切·迪尔克斯多赫特·帕特尔（1597—1678），即哈勒姆酿酒商兼市长扬·德·瓦埃尔（1594—1663）的妻子；题款称她画时41岁。本条目保留馆方的「暂定」措辞，不作确认。",
+  "一图": "示意图以湿中湿技法、暂定的画中人身份、题款的年龄与年份三者关系标示本作。",
+  "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）画中人身份为馆方「暂定」，本条目不推定为确定；（3）年代1638年有画上题款与该馆标注；（4）本库无哈勒姆与荷兰肖像传统独立条目，正文只作文字说明，不建关联；（5）本条目不引该馆流传信息。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='hals-woman-aeltje-pater 示意图'><title>hals-woman-aeltje-pater</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>哈尔斯·1638</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>荷兰</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>女子肖像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>66.5×52.3cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>湿中湿技法</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>发际线笔触</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>身份暂定</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>题款称41岁</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>湿中湿与暂定的身份</text></g></svg>",
+ "sources": [
+  "cma-1948-137"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；画中人身份为馆方暂定；无荷兰肖像传统独立条目；无流传信息。"
+}

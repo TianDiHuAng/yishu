@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 554 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 588 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -126,6 +126,13 @@
 | lotto-portrait-man | 洛托《男子肖像（或为罗萨蒂）》 | 作品 | 16世纪 | 意大利 | 绘画 | 核心 | O1、O3 |
 | buglioni-glazed-terracotta | 布利奥尼《圣母圣婴与二圣》釉陶 | 作品 | 16世纪 | 意大利 | 雕塑 | 重要 | O1、O3 |
 | verrocchio-christ-bust | 韦罗基奥《基督胸像》 | 作品 | 15世纪 | 意大利 | 雕塑 | 核心 | O1、O3 |
+| andrea-sacrifice-of-isaac | 安德烈亚·德尔·萨托《以撒的献祭》（约1527） | 作品 | 16世纪 | 意大利·佛罗伦萨 | 油画 | 重要 | O1、O3 |
+| veronese-barbarigo-portrait | 韦罗内塞《阿戈斯蒂诺·巴巴里戈肖像》（1571年后） | 作品 | 16世纪 | 意大利·威尼斯 | 油画 | 重要 | O1、O3 |
+| holbein-terminus-erasmus | 荷尔拜因《伊拉斯谟的标记：界神忒耳弥努斯》（约1532） | 作品 | 16世纪 | 德国·英国·瑞士 | 油画 | 重要 | O1、O3 |
+| durer-melencolia-i | 丢勒《忧郁 I》（1514） | 作品 | 16世纪 | 德国 | 版画 | 核心 | O1、O3 |
+| cranach-baptism-of-christ | 克拉纳赫《基督受洗》（1530年代） | 作品 | 16世纪 | 德国 | 油画 | 重要 | O1、O3 |
+| cranach-hartenfels-hunt | 克拉纳赫《哈滕费尔斯城堡附近的狩猎》（1540） | 作品 | 16世纪 | 德国 | 油画 | 重要 | O1、O3 |
+| bronzino-portrait-of-a-woman | 布龙齐诺《女子肖像》（约1550） | 作品 | 16世纪 | 意大利·佛罗伦萨 | 油画 | 重要 | O1、O3 |
 
 ## art-baroque（艺术史·巴洛克与洛可可）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -149,6 +156,9 @@
 | claude-rest-flight-egypt | 克劳德·洛兰《逃往埃及途中的休息》（1640年代初） | 作品 | 17世纪 | 法国 | 绘画 | 重要 | O1 |
 | poussin-holy-family-steps | 普桑《台阶上的圣家族》（1648） | 作品 | 17世纪 | 法国 | 绘画 | 重要 | O1 |
 | hals-tieleman-roosterman | 哈尔斯《蒂勒曼·罗斯特曼像》（1634） | 作品 | 17世纪 | 荷兰 | 绘画 | 重要 | O1 |
+| rubens-isabella-brant | 鲁本斯《伊莎贝拉·勃兰特肖像》（约1620—25） | 作品 | 17世纪 | 佛兰德斯 | 油画 | 重要 | O1 |
+| velazquez-jester-calabazas | 委拉斯开兹《弄臣卡拉巴萨斯肖像》（约1631—32） | 作品 | 17世纪 | 西班牙 | 油画 | 重要 | O1 |
+| hals-woman-aeltje-pater | 哈尔斯《女子肖像（或为阿尔切·迪尔克斯多赫特·帕特尔）》（1638） | 作品 | 17世纪 | 荷兰 | 油画 | 重要 | O1 |
 
 ## art-neo-romantic（艺术史·新古典与浪漫）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -290,6 +300,10 @@
 | gregorian-chant | 格里高利圣咏 | 风格 | 中世纪 | 欧洲 | 音乐体裁 | 核心 | O2、O4 |
 | organum | 奥尔加农 | 术语 | 中世纪 | 欧洲 | 音乐体裁 | 重要 | O2、O4 |
 | polyphony | 复调 | 术语 | 中世纪—今 | 欧洲 | 音乐体裁 | 核心 | O2、O4 |
+| cma-berno-tonarius | 贝尔诺《调式集》献词页（赖兴瑙，约1030） | 作品 | 中世纪 | 欧洲 | 手稿 | 重要 | O2 |
+| cma-carolingian-gradual | 加洛林歌咏集对开页（约830—60） | 作品 | 中世纪 | 欧洲 | 手稿 | 重要 | O2 |
+| cma-gradual-gaudeamus | 格拉杜尔对开页：诸圣节入祭咏（约1300） | 作品 | 中世纪 | 欧洲 | 手稿 | 重要 | O2 |
+| cma-bologna-antiphonary | 博洛尼亚安提芳那对开页：圣多米尼克布道（约1320—40） | 作品 | 中世纪 | 欧洲 | 手稿 | 重要 | O2 |
 
 ## music-renaissance（音乐史·文艺复兴）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -297,6 +311,8 @@
 | renaissance-music | 文艺复兴音乐 | 时期 | 15—16世纪 | 欧洲 | 音乐体裁 | 核心 | O1、O3、O4 |
 | madrigal | 牧歌 | 风格 | 16世纪 | 意大利/英国 | 音乐体裁 | 重要 | O1、O3、O4 |
 | palestrina | 帕莱斯特里纳 | 人物 | 16世纪 | 意大利 | 音乐体裁 | 重要 | O1、O3 |
+| cma-siena-antiphonary | 锡耶纳《安提芳那》（约1470—80） | 作品 | 15—16世纪 | 欧洲 | 手稿 | 重要 | O1、O3 |
+| cma-verona-gradual | 维罗纳《格拉杜尔》（约1520） | 作品 | 15—16世纪 | 欧洲 | 手稿 | 重要 | O1、O3 |
 
 ## music-baroque（音乐史·巴洛克）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -349,6 +365,11 @@
 | jingju | 京剧 | 风格 | 清代—今 | 中国 | 音乐体裁 | 核心 | O4、O5 |
 | pipa | 琵琶 | 术语 | 汉—今 | 中国 | 音乐体裁 | 重要 | O4、O5 |
 | wuwangdu-chu-music-archaeology | 武王墩楚墓礼乐考古新进展 | 时期 | 2025年 | 中国 | 音乐体裁 | 补充 | O4、O5 |
+| cma-liu-songnian-qin | 刘松年《听琴图》（南宋册页） | 作品 | 南宋 | 中国 | 音乐体裁 | 重要 | O5 |
+| cma-wen-zhengming-qin | 文徵明《幽壑鸣琴》（1548） | 作品 | 明代 | 中国 | 音乐体裁 | 重要 | O5 |
+| cma-tang-yin-qin | 唐寅《听琴图》（明代立轴） | 作品 | 明代 | 中国 | 音乐体裁 | 重要 | O5 |
+| cma-tang-harpist | 唐代竖琴乐俑（8世纪中叶） | 作品 | 唐代 | 中国 | 音乐体裁 | 重要 | O5 |
+| cma-tang-qin-mirror | 唐代龟钮菱花镜：乐师与凤凰（8世纪晚期） | 作品 | 唐代 | 中国 | 音乐体裁 | 重要 | O5 |
 
 ## overview-guide（导读与学科方法）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -366,6 +387,8 @@
 | romantic-crossmedia | 浪漫主义：绘画与音乐两种媒介 | 风格 | 19世纪 | 欧洲 | 综合 | 重要 | O1 |
 | renaissance-crossmedia | 文艺复兴：美术与音乐的同期性 | 风格 | 14—16世纪 | 欧洲 | 综合 | 重要 | O1 |
 | impression-crossmedia | 印象主义：光与色的跨媒介追求 | 风格 | 19末—20世纪初 | 欧洲 | 综合 | 重要 | O1 |
+| medieval-crossmedia | 中世纪：石构教堂与圣咏的并行 | 风格 | 中世纪 | 欧洲 | 综合 | 重要 | O1 |
+| classical-crossmedia | 古典主义：新古典主义美术与古典时期音乐 | 风格 | 18—19世纪初 | 欧洲 | 综合 | 重要 | O1 |
 
 ## glossary-tools（术语与辨疑）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -654,6 +677,17 @@
 | baroque-oboe-holland | 荷兰巴洛克双簧管（约1700） | 作品 | 17—18世纪 | 欧洲 | 乐器 | 重要 | O1 |
 | bowie-koto-heroes | 鲍伊《Heroes》用古筝（koto） | 作品 | 20世纪 | 东亚 | 乐器 | 核心 | O1 |
 | harp-lute-guitar-va | 哈普鲁特吉他（Harp-lute-guitar） | 作品 | 19世纪初 | 欧洲 | 乐器 | 重要 | O1 |
+| cma-tiorbino | 提奥宾琴（意大利，约17世纪中叶） | 作品 | 17世纪 | 欧洲 | 乐器 | 重要 | O1 |
+| cma-yueqin | 月琴（中国，清代） | 作品 | 19世纪 | 东亚 | 乐器 | 重要 | O1 |
+| cma-oud | 乌德琴（西亚，19世纪末—20世纪初） | 作品 | 19世纪 | 西亚·中亚 | 乐器 | 重要 | O1 |
+| cma-tanbur | 坦布尔（叙利亚或土耳其，19世纪末） | 作品 | 19世纪 | 西亚·中亚 | 乐器 | 重要 | O1 |
+| cma-hurdy-gurdy | 手摇琴（法国，雅克·德康特，1865—70） | 作品 | 19世纪 | 欧洲 | 乐器 | 重要 | O1 |
+| cma-tsuzumi | 鼓（tsuzumi，日本，江户至明治） | 作品 | 19世纪 | 东亚 | 乐器 | 重要 | O1 |
+| cma-chisanji | 乔奎风格拇指琴（chisanji，中非） | 作品 | 19世纪 | 非洲 | 乐器 | 重要 | O1 |
+| cma-kamanche | 卡曼恰（伊朗北部，1875—1900，残件） | 作品 | 19世纪 | 西亚·中亚 | 乐器 | 重要 | O1 |
+| cma-uganda-lyre | 乌干达里拉琴（ndongo/endongo/kissar） | 作品 | 20世纪 | 东非 | 乐器 | 重要 | O1 |
+| cma-endingidi | 乌干达弦鸣提琴（endingidi/iningidi） | 作品 | 20世纪 | 东非 | 乐器 | 重要 | O1 |
+| cma-yombe-oliphant | 永贝风格象牙侧吹号角（oliphant） | 作品 | 19世纪 | 非洲 | 乐器 | 重要 | O1 |
 
 ## art-ceramics（中国陶瓷工艺）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

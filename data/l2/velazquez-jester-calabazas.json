@@ -1,0 +1,19 @@
+{
+ "id": "velazquez-jester-calabazas",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为西班牙画家迭戈·委拉斯开兹（1599—1660）约1631—32年的《弄臣卡拉巴萨斯肖像》，布面油画，克利夫兰艺术博物馆藏（1965.15）。",
+  "风格特征": "该馆说明：这件作品用正式的全身宫廷肖像格式，来呈现在当时通常被视为边缘的一类人，并深刻地赋予他人性。",
+  "代表人物与作品": "作者为委拉斯开兹。相关条目见委拉斯开兹与巴洛克。",
+  "技法或形式分析": "布面油画；画心175 × 106厘米，带框199.3 × 133.1 × 12.7厘米（据该馆藏品记录）。该馆记录未列题款。",
+  "与前后风格的关系和争论": "该馆说明：卡拉巴萨斯是西班牙国王菲利普四世宫廷中的弄臣，有身体与智力上的残障，画家强调这一状态而不是试图掩盖；西班牙宫廷珍视并宠爱有残障的人，而委拉斯开兹改变了他们在肖像中的描绘方式。本条目只转述馆方这些说法。",
+  "一图": "示意图以宫廷弄臣的身份、全身宫廷肖像的格式、对其状态的如实呈现三者关系标示本作。",
+  "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）年代「约1631—32年」为该馆标注；（3）该馆说明关于「改变描绘方式」的论断是馆方的解读，本条目不另作学术评价，也未与其他藏品比较；（4）本库无西班牙宫廷独立条目，正文只作文字说明，不建关联；（5）本条目不引该馆流传信息。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='velazquez-jester-calabaz 示意图'><title>velazquez-jester-calabaz</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>委拉斯开兹·约1631—</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>西班牙</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>弄臣卡拉巴萨斯</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>175×106cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>菲利普四世宫廷</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>弄臣</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>全身宫廷肖像格式</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>如实呈现</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>用宫廷肖像格式呈现边缘人物</text></g></svg>",
+ "sources": [
+  "cma-1965-15"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；「改变描绘方式」为馆方解读，未另作评价；无西班牙宫廷独立条目；无流传信息。"
+}

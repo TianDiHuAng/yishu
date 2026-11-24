@@ -11,54 +11,54 @@
   ]
  ],
  "stats": {
-  "entries": 516,
-  "sources": 642,
+  "entries": 588,
+  "sources": 712,
   "units": 28,
-  "html_files": 553,
+  "html_files": 625,
   "source_types": {
    "权威百科": 149,
    "官方机构": 1,
    "权威结构化数据": 41,
    "权威结构化数据（身份锚点）": 77,
-   "权威机构藏品记录": 374
+   "权威机构藏品记录": 444
   },
   "levels": {
-   "L2": 512,
+   "L2": 584,
    "L3": 4
   },
   "tiers": {
-   "重要": 243,
+   "重要": 314,
    "补充": 12,
-   "核心": 261
+   "核心": 262
   },
   "per_unit": {
    "art-ancient": 54,
    "art-medieval": 22,
-   "art-renaissance": 16,
-   "art-baroque": 15,
-   "art-neo-romantic": 12,
-   "art-impression": 12,
-   "art-modern": 18,
-   "art-contemporary": 13,
+   "art-renaissance": 23,
+   "art-baroque": 22,
+   "art-neo-romantic": 18,
+   "art-impression": 16,
+   "art-modern": 22,
+   "art-contemporary": 17,
    "art-china-painting": 21,
-   "art-china-calligraphy": 11,
-   "music-medieval": 4,
-   "music-renaissance": 3,
+   "art-china-calligraphy": 15,
+   "music-medieval": 8,
+   "music-renaissance": 5,
    "music-baroque": 7,
    "music-classical": 6,
    "music-romantic": 6,
    "music-modern": 7,
-   "music-china": 6,
+   "music-china": 11,
    "overview-guide": 5,
-   "comparative": 4,
+   "comparative": 6,
    "glossary-tools": 5,
    "art-asia": 91,
    "work-archives": 7,
    "art-islamic": 48,
-   "art-africa": 36,
-   "art-americas": 32,
-   "art-oceania": 14,
-   "music-instruments": 22,
+   "art-africa": 40,
+   "art-americas": 36,
+   "art-oceania": 18,
+   "music-instruments": 33,
    "art-ceramics": 19
   }
  }

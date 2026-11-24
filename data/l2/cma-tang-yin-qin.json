@@ -1,0 +1,19 @@
+{
+ "id": "cma-tang-yin-qin",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为明代（1368—1644）唐寅（1470—1523）的《听琴图》，绢本立轴，该馆标注年代为15世纪末至16世纪初，克利夫兰艺术博物馆藏（1977.199）。",
+  "风格特征": "该馆说明：画面描绘的是一个鬼魂扮成人形，被另一个鬼魂扶助着从地下出来，而其他鬼魂被月圆之夜茅屋中的琴师所吸引。",
+  "代表人物与作品": "署名唐寅。该馆称画意暗指嵇康（公元223—262）的一则传说：嵇康是三世纪一群特立独行的知识分子中的古琴家，以所作《广陵散》著称，此曲幽怨得能唤来鬼魂拜访他。相关条目见古琴与明代绘画。",
+  "技法或形式分析": "绢本立轴，墨与淡彩；画心35.8 × 29.1厘米，带轴头通高118 × 45厘米（据该馆藏品记录）。该馆记录有画家印，位于左下角，写作「Wu」后面的部分被裁去。",
+  "与前后风格的关系和争论": "画意为「暗指」传说，是馆方的解读，本条目照此转述。",
+  "一图": "示意图以月下茅屋中的琴师、被琴声吸引的鬼魂、嵇康与《广陵散》的传说三者关系标示本轴。",
+  "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）年代为该馆标注的「15世纪末至16世纪初」；（3）画意为馆方解读；（4）该馆记录的印章文字被裁去部分，本条目未补写。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cma-tang-yin-qin 示意图'><title>cma-tang-yin-qin</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>明·唐寅</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>立轴</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>听琴图</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>35.8×29.1cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>嵇康与广陵散</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>传说</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>月下茅屋</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>鬼魂被吸引</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>暗指嵇康传说的听琴画</text></g></svg>",
+ "sources": [
+  "cma-1977-199"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；画意为馆方解读；印章文字被裁去部分未补写。"
+}

@@ -1,0 +1,19 @@
+{
+ "id": "cma-endingidi",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为东非乌干达或卢旺达-布隆迪的单弦弦鸣提琴 endingidi（卢旺达称 iningidi），20世纪，制作者不详，克利夫兰艺术博物馆藏（1929.347）。",
+  "风格特征": "该馆说明：endingidi 是单弦的弦鸣乐器；学者认为它约在1904至1907年传入布干达王国（今乌干达），之后又传到今日的卢旺达，在那里称 iningidi，由胡图族乐手演奏。",
+  "代表人物与作品": "该馆记录未列制作者。相关条目见乌干达里拉琴与恩戈马鼓。",
+  "技法或形式分析": "木、蛇皮与植物纤维；直径10.2厘米，通高44.2厘米（据该馆藏品记录）。该馆称琴弦为拉紧的马尾，从手柄末端越过蒙爬行动物皮的管形音箱，并以木制调弦栓固定在手柄上；深弯的琴弓现已缺失，演奏者为男性，竖持乐器演奏。",
+  "与前后风格的关系和争论": "该馆说明它至今仍有人演奏，其音乐常见于婚礼，或由布干达王室宫廷乐师演奏。传入年代是「学者认为」，本条目照此转述，不当作定论。",
+  "一图": "示意图以单弦马尾弦、传入布干达、传至卢旺达称 iningidi 三者关系标示本琴。",
+  "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）产地该馆写「乌干达或卢旺达-布隆迪」，本条目不择一；（3）传入布干达的年代是学者之说，本条目未另作考证；（4）琴弓缺失；（5）制作者不详。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cma-endingidi 示意图'><title>cma-endingidi</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>乌干达或卢旺达-布隆迪</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1900年代</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>弦鸣提琴 endingi</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>44.2cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>单弦马尾弦</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>琴弓已缺</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>传入布干达</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>学者说1904—07</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>由乌干达传到卢旺达的单弦提琴</text></g></svg>",
+ "sources": [
+  "cma-1929-347"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；产地二选一未定；传入年代为学者之说；琴弓缺失；制作者不详。"
+}

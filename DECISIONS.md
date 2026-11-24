@@ -1602,3 +1602,43 @@ art-modern 18→22。写前查重通过（标题与来源 id 均未被使用）�
 art-contemporary 13→17。写前查重通过（标题与来源 id 均未被使用；CMA 按艺术家字段检索才有效，按关键词检索会漏）。
 **如实**：劳森伯格引语为 CMA 所引、未核对原出处；约翰斯标题解读为 CMA 读法；奥尔登堡的 CMA 说明是对其整体的介绍、未专谈此作，未替它补写作品细节，且「1960年代后期」与作品年份1964的先后未说明、不推定，只引主记录、不引 .a/.b 子记录；勒维特本件为工作室与馆方后来执行的版本，不写成本人亲绘，子记录标题截断不补；未使用新达达、集合艺术、偶发艺术等该馆未用且库内无条目的名目。
 可逆：删 4 条 overlay 与 catalog 元组、移除 4 条来源。代价：均单机构（CMA）。
+
+## D160 — Cycle160 文艺复兴 4 条（554 → 558）
+`andrea-sacrifice-of-isaac`（德尔·萨托《以撒的献祭》约1527）、`veronese-barbarigo-portrait`（韦罗内塞《巴巴里戈肖像》1571年后）、`holbein-terminus-erasmus`（荷尔拜因《伊拉斯谟的标记》约1532）、`durer-melencolia-i`（丢勒《忧郁 I》1514）。
+**如实**：art-renaissance 补入 4 条；韦罗内塞一条年代为 after c. 1571，馆方未说明是否亲笔，只转述馆方原话；各条均标待核实。
+可逆：删本轮 overlay 与 catalog 元组、移除本轮来源。代价：单机构（CMA）。
+
+## D161 — Cycle161 文艺复兴 3 条（558 → 561）
+`cranach-baptism-of-christ`（克拉纳赫《基督受洗》1530年代）、`cranach-hartenfels-hunt`（克拉纳赫《哈滕费尔斯城堡附近的狩猎》1540）、`bronzino-portrait-of-a-woman`（布龙齐诺《女子肖像》约1550）。
+**如实**：art-renaissance 补入 3 条；均为 CMA 单机构来源，整条标待核实。
+可逆：删本轮 overlay 与 catalog 元组、移除本轮来源。代价：单机构（CMA）。
+
+## D162 — Cycle162 巴洛克 3 条（561 → 564）
+`rubens-isabella-brant`（鲁本斯，约1620—25）、`velazquez-jester-calabazas`（委拉斯开兹，约1631—32）、`hals-woman-aeltje-pater`（哈尔斯，1638；画中人身份馆方称暂定）。
+**如实**：art-baroque 补入 3 条；哈尔斯一条的人物身份按馆方「probably」写，不作确认。
+可逆：删本轮 overlay 与 catalog 元组、移除本轮来源。代价：单机构（CMA）。
+
+## D163 — Cycle163 乐器 5 条（564 → 569）
+`cma-tiorbino`（提奥宾琴）、`cma-yueqin`（月琴）、`cma-oud`（乌德琴）、`cma-tanbur`（坦布尔）、`cma-hurdy-gurdy`（手摇琴）。
+**如实**：music-instruments 补入 5 条；馆方称提奥宾琴后经修补改动，如实写明；均为 CMA 单机构来源。
+可逆：删本轮 overlay 与 catalog 元组、移除本轮来源。代价：单机构（CMA）。
+
+## D164 — Cycle164 圣咏手稿 6 条（569 → 575）
+`cma-berno-tonarius`、`cma-carolingian-gradual`、`cma-gradual-gaudeamus`、`cma-bologna-antiphonary`（music-medieval 4 条）；`cma-siena-antiphonary`、`cma-verona-gradual`（music-renaissance 2 条）。
+**如实**：中世纪与文艺复兴音乐的手稿实物补入 6 条；均为 CMA 单机构来源。
+可逆：删本轮 overlay 与 catalog 元组、移除本轮来源。代价：单机构（CMA）。
+
+## D165 — Cycle165 非欧洲乐器 6 条（575 → 581）
+`cma-tsuzumi`、`cma-chisanji`、`cma-kamanche`、`cma-uganda-lyre`、`cma-endingidi`、`cma-yombe-oliphant`。
+**如实**：music-instruments 补入 6 条；卡曼恰为残件，来源地馆方写作「伊朗北部（高加索，也许阿塞拜疆，或克什米尔）」，不作更精确判断；均为 CMA 单机构来源。
+可逆：删本轮 overlay 与 catalog 元组、移除本轮来源。代价：单机构（CMA）。
+
+## D166 — Cycle166 比较条目 2 条（581 → 583）
+`medieval-crossmedia`（中世纪：石构教堂与圣咏的并行）、`classical-crossmedia`（古典主义：新古典主义美术与古典时期音乐）。
+**如实**：comparative 补入 2 条；仅用库内已有概述与来源，不引入新事实；古典主义一条已写明两者断代与内涵并不完全重合。
+可逆：删本轮 overlay 与 catalog 元组、移除本轮来源。代价：单机构（CMA）。
+
+## D167 — Cycle167 中国音乐相关藏品 5 条（583 → 588）
+`cma-liu-songnian-qin`、`cma-wen-zhengming-qin`、`cma-tang-yin-qin`、`cma-tang-harpist`、`cma-tang-qin-mirror`。
+**如实**：music-china 补入 5 条；文徵明一条馆方称有学者提出更近似陆治画法，如实转述；均为 CMA 单机构来源。
+可逆：删本轮 overlay 与 catalog 元组、移除本轮来源。代价：单机构（CMA）。

@@ -6799,6 +6799,326 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；黑铅笔直接画于墙 304.7×304.7cm；说明含证书与指示的所有权制度、本版本由工作室人员与博物馆人员完成"
+    },
+    {
+      "id": "cma-1937-577",
+      "title": "Cleveland Museum of Art — Andrea del Sarto, The Sacrifice of Isaac, c. 1527, acc. 1937.577",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1937.577",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；木板油画 画心178×138cm；说明含未完成状态与制作方法、人物表情与古代雕塑和米开朗基罗的启发"
+    },
+    {
+      "id": "cma-1928-16",
+      "title": "Cleveland Museum of Art — Paolo Veronese, Portrait of Agostino Barbarigo, after c. 1571, acc. 1928.16",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1928.16",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；布面油画 画心102.2×104.2cm；年代标注为after c. 1571；说明含勒班陀海战与手持箭矢、威尼斯军事肖像惯例"
+    },
+    {
+      "id": "cma-1971-166",
+      "title": "Cleveland Museum of Art — Hans Holbein the Younger, Terminus, the Device of Erasmus, c. 1532, acc. 1971.166",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1971.166",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；木板油画 画心21.6×21.6cm；题款CONCEDO NVLLI与TERMINVS；说明含伊拉斯谟与界神忒耳弥努斯的合并"
+    },
+    {
+      "id": "cma-1926-211",
+      "title": "Cleveland Museum of Art — Albrecht Durer, Melencolia I, 1514, acc. 1926.211",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1926.211",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；铜版雕刻 版痕23.8×18.9cm；说明含忧郁的拟人化形象、幻方总和34等象征物与光线表现"
+    },
+    {
+      "id": "cma-1953-143",
+      "title": "Cleveland Museum of Art — Lucas Cranach the Elder, The Baptism of Christ, 1530s, acc. 1953.143",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1953.143",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；木板油画 画心15×20.5cm；题款拉丁文刻于云上；说明含路德宗教艺术观与风景元素"
+    },
+    {
+      "id": "cma-1958-425",
+      "title": "Cleveland Museum of Art — Lucas Cranach the Elder, Hunting near Hartenfels Castle, 1540, acc. 1958.425",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1958.425",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；木板油画后转至纤维板 画心116.8×170.2cm；签名为带翼蛇并题1540；说明含萨克森选帝侯狩猎场景"
+    },
+    {
+      "id": "cma-1972-121",
+      "title": "Cleveland Museum of Art — Agnolo Bronzino, Portrait of a Woman, c. 1550, acc. 1972.121",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1972.121",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；木板油画 画心60×48.8cm；说明含美第奇宫廷画师身份、手势与服饰描述"
+    },
+    {
+      "id": "cma-1947-207",
+      "title": "Cleveland Museum of Art — Peter Paul Rubens, Portrait of Isabella Brant, c. 1620-25, acc. 1947.207",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1947.207",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；木板油画 画心53×46cm；说明含伊莎贝拉·勃兰特为鲁本斯第一任妻子、暖色调与笔触"
+    },
+    {
+      "id": "cma-1965-15",
+      "title": "Cleveland Museum of Art — Diego Velazquez, Portrait of the Jester Calabazas, c. 1631-32, acc. 1965.15",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1965.15",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；布面油画 画心175×106cm；说明含西班牙宫廷弄臣卡拉巴萨斯与全身宫廷肖像格式"
+    },
+    {
+      "id": "cma-1948-137",
+      "title": "Cleveland Museum of Art — Frans Hals, Portrait of a Woman, probably Aeltje Dircksdr. Pater, 1638, acc. 1948.137",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1948.137",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；布面油画 画心66.5×52.3cm；题款AETAT SUAE 41 / ANNO 1638；说明含湿中湿技法与暂定的画中人身份"
+    },
+    {
+      "id": "cma-1918-368",
+      "title": "Cleveland Museum of Art — Lute or Tiorbino, c. 1620, acc. 1918.368",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1918.368",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；木 全长100.7×27.7cm；馆方称意大利、约17世纪中叶制作、后经修补改动；说明含提奥宾琴比提奥波小、高八度"
+    },
+    {
+      "id": "cma-1918-382",
+      "title": "Cleveland Museum of Art — Moon Lute (Yueqin), 1800s, acc. 1918.382",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1918.382",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；紫檀、梧桐木与羊肠弦 58.4×35.6cm；中国清代；说明含月琴名称由来与演奏法"
+    },
+    {
+      "id": "cma-1918-350",
+      "title": "Cleveland Museum of Art — Oud, late 1800s-early 1900s, acc. 1918.350",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1918.350",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；木、羊肠弦与金属 81.3×33.7cm；西亚；题款 Work of Alexander, going to New York 1892"
+    },
+    {
+      "id": "cma-1918-347",
+      "title": "Cleveland Museum of Art — Tanbur, late 1800s, acc. 1918.347",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1918.347",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；木、骨、珍珠母与金属丝 58.4×10.5cm；叙利亚或土耳其、奥斯曼时期；说明含三种文化特征与烧痕装饰"
+    },
+    {
+      "id": "cma-2020-422",
+      "title": "Cleveland Museum of Art — Vielle a Roue (Hurdy-Gurdy), 1865-70, acc. 2020.422",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2020.422",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；木与珍珠母镶嵌；法国；署名雅克·德康特（1808—1884）；说明含摇柄轮擦弦与键盘变音"
+    },
+    {
+      "id": "cma-1952-88",
+      "title": "Cleveland Museum of Art — Title Page of Abbot Berno's Tonarius, c. 1030, acc. 1952.88",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1952.88",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；羊皮纸墨、蛋彩与金 21.5×15.3cm；德国赖兴瑙修道院11世纪；说明含调式集为规范礼仪圣咏的音乐手册、献给科隆大主教皮尔格林"
+    },
+    {
+      "id": "cma-1933-446",
+      "title": "Cleveland Museum of Art — Bifolium Excised from a Carolingian Gradual, c. 830-60, acc. 1933.446",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1933.446",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；紫色羊皮纸金银墨 29×10cm；德国或法国东北部9世纪；说明含歌咏集、强调字母、其他叶存柏林与特里尔"
+    },
+    {
+      "id": "cma-1950-391",
+      "title": "Cleveland Museum of Art — Bifolio from a Gradual, c. 1300, acc. 1950.391",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1950.391",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；羊皮纸墨、蛋彩与金 55.7×37.9cm；意大利锡耶纳(?)；说明含诸圣节弥撒入祭咏 Gaudeamus omnes in Domino"
+    },
+    {
+      "id": "cma-1985-60",
+      "title": "Cleveland Museum of Art — Bifolium from an Antiphonary, c. 1320-40, acc. 1985.60",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1985.60",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；羊皮纸 51×37.7cm；意大利博洛尼亚；署名圣多米尼克首席彩饰师；说明含多明我会修道院用书"
+    },
+    {
+      "id": "cma-1930-661",
+      "title": "Cleveland Museum of Art — Antiphonary, c. 1470-80, acc. 1930.661",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1930.661",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；羊皮纸 抄本55.9×43.2×10.2cm；意大利锡耶纳；署名杰罗拉莫·达·克雷莫纳；说明称图饰出自其追随者；含复活节首晨祷应答"
+    },
+    {
+      "id": "cma-1921-140",
+      "title": "Cleveland Museum of Art — Gradual, c. 1520, acc. 1921.140",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1921.140",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；羊皮纸与木封面 抄本51.1×35.6×8.9cm；意大利维罗纳；署名杰罗拉莫·代·利布里(1474—1555)；说明称彩饰出自其圈子里的彩饰师"
+    },
+    {
+      "id": "cma-1918-349",
+      "title": "Cleveland Museum of Art — Tsuzumi Drum, 1800s, acc. 1918.349",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1918.349",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；木漆泥金(莳绘)、皮、铁与绳 直径20.4cm；日本江户至明治；说明含能乐伴奏、靠肩手持、以呼吸或唾液调节皮的湿度"
+    },
+    {
+      "id": "cma-1915-495",
+      "title": "Cleveland Museum of Art — Lamellophone (chisanji), late 1800s, acc. 1915.495",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1915.495",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；木、铁与金属丝 19.1×10.2×6.4cm；刚果民主共和国或安哥拉、乔奎风格；说明含骑四足兽的人像与行商(pombeiro)推测"
+    },
+    {
+      "id": "cma-1918-353",
+      "title": "Cleveland Museum of Art — Kamanche (incomplete), 1875-1900, acc. 1918.353",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1918.353",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；木、皮与骨 58.5×26.8cm；伊朗北部(高加索,也许阿塞拜疆,或克什米尔)；说明含卡曼恰一词10世纪起用于弓弦乐器、乐器名称的流变"
+    },
+    {
+      "id": "cma-1929-346",
+      "title": "Cleveland Museum of Art — Lyre (ndongo, endongo, entongoli, or kissar), by 1928, acc. 1929.346",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1929.346",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；木、爬行动物皮、毛皮、布与天然纤维 直径31.8cm；乌干达甘达或索加风格；说明含东非常见里拉与多种名称"
+    },
+    {
+      "id": "cma-1929-347",
+      "title": "Cleveland Museum of Art — Spike fiddle (endingidi or iningidi), 1900s, acc. 1929.347",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1929.347",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；木、蛇皮与植物纤维 44.2cm；乌干达或卢旺达-布隆迪；说明含单弦、学者认为约1904-1907年传入布干达王国"
+    },
+    {
+      "id": "cma-2010-448",
+      "title": "Cleveland Museum of Art — Oliphant (Side-Blown Trumpet), late 1800s-early 1900s, acc. 2010.448",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2010.448",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；象牙 32×4×6cm；中非(刚果民主共和国最可能,或卡宾达、刚果共和国)、或为永贝风格；说明含象牙侧吹号多用于葬礼等庄重场合"
+    },
+    {
+      "id": "cma-1983-85",
+      "title": "Cleveland Museum of Art — Liu Songnian, Listening to the Qin (Zither), 1150-after 1225, acc. 1983.85",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1983.85",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；绢本墨与淡彩册页 23.8×24.6cm；南宋；题款劉松年；说明含伯牙与钟子期故事"
+    },
+    {
+      "id": "cma-1969-60",
+      "title": "Cleveland Museum of Art — Wen Zhengming, Playing the Qin in a Secluded Valley, 1548, acc. 1969.60",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1969.60",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；纸本立轴墨与淡彩 132×50.5cm；明；题诗与款嘉靖戊申(1548)；说明含学者提出更近似陆治画法"
+    },
+    {
+      "id": "cma-1977-199",
+      "title": "Cleveland Museum of Art — Tang Yin, Listening to the Qin, late 1400s-early 1500s, acc. 1977.199",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1977.199",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；绢本立轴墨与淡彩 画心35.8×29.1cm；明；说明含嵇康与《广陵散》传说"
+    },
+    {
+      "id": "cma-1931-450",
+      "title": "Cleveland Museum of Art — Harpist, mid-700s, acc. 1931.450",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1931.450",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；釉陶 通高32.1cm；中国北方唐代；说明含唐墓俑与女乐师坐于圆台奏竖琴"
+    },
+    {
+      "id": "cma-1995-369",
+      "title": "Cleveland Museum of Art — Lobed Mirror with a Tortoise Knob, Musician, and Phoenix, late 700s, acc. 1995.369",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1995.369",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；青铜 直径21.6cm；唐；有铭文；说明称图案含义不完全清楚、可能指侯晋与求仙"
     }
   ]
 }

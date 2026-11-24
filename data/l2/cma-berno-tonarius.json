@@ -1,0 +1,19 @@
+{
+ "id": "cma-berno-tonarius",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本叶原为赖兴瑙修道院院长贝尔诺（1008—1048在任）所撰《调式集》（Tonarius）的献词页，产自德国赖兴瑙修道院，约1030年，克利夫兰艺术博物馆藏（1952.88）。",
+  "风格特征": "墨、蛋彩与金绘于羊皮纸，首字母为D[omino]（据该馆藏品标题）。",
+  "代表人物与作品": "撰者为院长贝尔诺。该馆称此抄本献给科隆大主教皮尔格林（1021—1036在任），其名字见于本叶底部。相关条目见格里高利圣咏与中世纪音乐。",
+  "技法或形式分析": "羊皮纸，尺寸21.5 × 15.3厘米（据该馆藏品记录）。该馆记录未列题款。",
+  "与前后风格的关系和争论": "该馆说明：调式集（tonary）是用来规范礼仪圣咏的音乐手册。本条目只转述馆方说明，不另述调式分类的内容。",
+  "一图": "示意图以院长贝尔诺、调式集规范圣咏、献给科隆大主教三者关系标示本叶。",
+  "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）年代「约1030年」为该馆标注；（3）该馆说明只称它是献词页，未谈调式集的具体内容，本条目没有补写；（4）原书其余部分的下落本条目不涉及。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cma-berno-tonarius 示意图'><title>cma-berno-tonarius</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>赖兴瑙·约1030</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>德国</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>调式集献词页</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>21.5×15.3cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>院长贝尔诺</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>1008—1048在任</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>献给科隆大主教</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>皮尔格林</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>规范礼仪圣咏的音乐手册</text></g></svg>",
+ "sources": [
+  "cma-1952-88"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；调式集内容未补写；原书其余部分未述。"
+}

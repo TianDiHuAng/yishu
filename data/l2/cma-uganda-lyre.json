@@ -1,0 +1,19 @@
+{
+ "id": "cma-uganda-lyre",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为乌干达甘达或索加风格的里拉琴，该馆标注为1928年前入藏，制作者不详，克利夫兰艺术博物馆藏（1929.346）。",
+  "风格特征": "该馆说明：里拉在东非各地都很常见；endongo、ndongo、kissar、entongoli 等多种名称，反映了许多不同族群使用这一乌干达类型。",
+  "代表人物与作品": "该馆记录未列制作者。相关条目见恩戈马鼓与科拉琴。",
+  "技法或形式分析": "木、爬行动物皮、毛皮、布与天然纤维；直径31.8厘米，通高43.2厘米（据该馆藏品记录）。该馆称碗形木音箱蒙着爬行动物的皮，可能是巨蜥皮；弦向上连到横梁，横梁两端原饰有山羊毛穗，有时还有宝贝壳。",
+  "与前后风格的关系和争论": "本条目只转述馆方说明，不另述里拉在东非的分布与演奏。",
+  "一图": "示意图以碗形音箱蒙皮、弦连横梁、多种名称并存三者关系标示本琴。",
+  "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）年代该馆只写「1928年前」入藏，制作年代未列；（3）蒙皮「可能是巨蜥皮」是馆方推测；（4）制作者不详。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cma-uganda-lyre 示意图'><title>cma-uganda-lyre</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>乌干达</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>甘达或索加风格</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>里拉琴</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>直径31.8cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>碗形音箱蒙皮</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>可能是巨蜥皮</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>多种名称</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>endongo·kissar</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>东非常见的弦鸣乐器</text></g></svg>",
+ "sources": [
+  "cma-1929-346"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；制作年代未列；蒙皮种类为推测；制作者不详。"
+}

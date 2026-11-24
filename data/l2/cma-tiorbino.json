@@ -1,0 +1,19 @@
+{
+ "id": "cma-tiorbino",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为意大利的鲁特琴或提奥宾琴，克利夫兰艺术博物馆藏（1918.368）。该馆记录标注年代为约1620年，同时说明它大约制作于17世纪中叶，后经修补改动。",
+  "风格特征": "该馆说明：鲁特琴在16、17世纪的世俗场合是最重要的乐器，既是有庞大曲目的炫技乐器，也是伴唱的理想乐器，在合奏中举足轻重，并出现在假面剧与歌剧中，业余者与专业者都演奏。",
+  "代表人物与作品": "该馆记录未列制作者。相关条目见马勒鲁特琴与巴洛克音乐。",
+  "技法或形式分析": "木制；全长100.7 × 27.7厘米（据该馆藏品记录）。该馆称提奥宾琴是长颈鲁特琴的一种，形似提奥波但小得多、音高高八度。",
+  "与前后风格的关系和争论": "该馆称这是一件极为罕见的物品，是现存最小的巴洛克提奥宾琴之一。馆方记录里「约1620年」与「17世纪中叶」并存，本条目两者都如实写出，不替它择一，也不推断修补的范围。",
+  "一图": "示意图以长颈鲁特琴、比提奥波小且高八度、后经修补三者关系标示本琴。",
+  "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）年代在该馆记录中有「约1620年」与「约17世纪中叶」两种表述；（3）该馆只说后经修补改动，未说明改动的部位，本条目没有补写；（4）该馆记录未列制作者。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cma-tiorbino 示意图'><title>cma-tiorbino</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>意大利·约17世纪</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>后经修补</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>提奥宾琴</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>100.7cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>长颈鲁特琴类</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>形似提奥波</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>小而高八度</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>最小之一</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>最小的巴洛克提奥宾琴之一</text></g></svg>",
+ "sources": [
+  "cma-1918-368"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；年代有两种表述；修补范围未说明；制作者未列。"
+}

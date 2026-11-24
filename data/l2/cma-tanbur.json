@@ -1,0 +1,19 @@
+{
+ "id": "cma-tanbur",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为叙利亚或土耳其、奥斯曼时期（1299—1922）的坦布尔，该馆标注年代为19世纪末，克利夫兰艺术博物馆藏（1918.347）。",
+  "风格特征": "该馆说明：这件长颈鲁特琴采集于奥斯曼叙利亚，兼具叙利亚、土耳其与伊朗的特征，体现了文化之间的音乐互动。",
+  "代表人物与作品": "该馆记录未列制作者。相关条目见乌德琴与奥斯曼苇笛。",
+  "技法或形式分析": "木、骨、珍珠母与金属丝；尺寸58.4 × 10.5厘米（据该馆藏品记录）。梨形琴身饰有烧痕，并镶有珍珠母圆点，该馆称这些圆点也可能有助于演奏者辨认指板位置。",
+  "与前后风格的关系和争论": "该馆称这是古老的乐器，形似法老时代埃及与美索不达米亚的鲁特琴；各种形式的坦布尔在伊斯兰世界通行，常在神圣与世俗场合独奏。珍珠母圆点的功能馆方用的是「可能」，本条目照此转述。",
+  "一图": "示意图以叙利亚、土耳其、伊朗三种特征并存，以及烧痕与珍珠母嵌点标示本琴。",
+  "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）产地该馆写「叙利亚或土耳其」，本条目不择一；（3）与古代鲁特琴的相似是馆方说法，本条目未另作考证；（4）制作者未列。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cma-tanbur 示意图'><title>cma-tanbur</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>叙利亚或土耳其</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>奥斯曼时期</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>坦布尔</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>58.4×10.5cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>三种文化特征</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>叙·土·伊</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>烧痕与嵌点</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>珍珠母</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>文化互动中的长颈鲁特琴</text></g></svg>",
+ "sources": [
+  "cma-1918-347"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；产地二选一未定；古代渊源为馆方说法；制作者未列。"
+}
