@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 404,
+    "total": 408,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -4853,6 +4853,54 @@
     "gelede-mask-yoruba": {
       "title": "约鲁巴 Gelede 面具",
       "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "hevajra-buddhist": {
+      "title": "喜金刚像（Hevajra）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "palanquin-hook-angkor": {
+      "title": "吴哥帕輿钩",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "garuda-lintel-khmer": {
+      "title": "伽楼多楣饰",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "baphuon-kneeling-figure": {
+      "title": "Baphuon 期跪像",
+      "tier": "重要",
       "level": "L2",
       "status": "written_l2",
       "sources_count": 1,

@@ -1447,6 +1447,18 @@
       },
       "network": "CMA/V&A",
       "verdict": "非洲 28→32（总404）；未饱和"
+    },
+    {
+      "cycle": "cycle118",
+      "date": "2026-11-24",
+      "methods_used": [
+        "东南亚续深"
+      ],
+      "gaps_found": {
+        "entries": 4
+      },
+      "network": "CMA",
+      "verdict": "东南亚 8（总408）；未饱和"
     }
   ],
   "assessment_c33": {

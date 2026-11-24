@@ -3306,6 +3306,31 @@
       "check_links_result": "broken=0(441页)",
       "audit_all": "12/12 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle118",
+      "date": "2026-11-24",
+      "status": "completed",
+      "gap_methods": [
+        "东南亚续深（CMA）"
+      ],
+      "network": "CMA ok",
+      "new_entries": 4,
+      "new_entry_ids": [
+        "hevajra-buddhist",
+        "palanquin-hook-angkor",
+        "garuda-lintel-khmer",
+        "baphuon-kneeling-figure"
+      ],
+      "self_ref_fixed": "garuda-lintel-khmer 构建前修正自引用",
+      "new_sources": 4,
+      "sources_total": 537,
+      "entries_total": 408,
+      "pages": 445,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(445页)",
+      "audit_all": "12/12 ok",
+      "commits": 1
     }
   ]
 }

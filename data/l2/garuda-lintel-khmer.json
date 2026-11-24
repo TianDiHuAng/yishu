@@ -1,0 +1,19 @@
+{
+ "id": "garuda-lintel-khmer",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为**柬埔寨**砂岩石楣，875—925年，克利夫兰艺术博物馆藏（1967.37）。",
+  "风格特征": "该馆描述：**伽楼多（Garuda）**为**半人半鹰**，是**毗湿奴的坐骑**；其**鼻如喙**，**双翼以繁茂叶状**雕出，如同**横贯楣板中部的茎干上旋卷的叶片**；植被**化出女性形象与珠宝**，最终收束为**眼镜蛇之首**。而**伽楼多是蛇的天敌**，故他**按住蛇尾**。",
+  "代表人物与作品": "作者未署名。相关条目见那伽座佛与帕輿钩。本件为 CMA 藏品（1967.37）。",
+  "技法或形式分析": "材质为**砂岩**；整体52.6 × 118.1 × 17.8厘米（据该馆记录）。",
+  "与前后风格的关系和争论": "该馆给出**双重来源**：此装饰楣的风格，属于**为供奉高棉历代先王的神庙**所制一类；其母题**源自印度以「净化、肯定生命」的图像环门**的传统，但已被** distinctly 高棉化**。本条目据此把「伽楼多按蛇尾」读作**图像志上的敌对关系的视觉化**，同时承担**门楣护佑**的功能。",
+  "一图": "示意图以毗湿奴坐骑、蛇尾相制与印度→高棉的转化三者关系标示本楣。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「供奉先王的神庙」具体所指未记录；（3）女性figure与珠宝的细节未展开；（4）原建筑位置未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='garuda-lintel-khmer 示意图'><title>garuda-lintel-khmer</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>柬埔寨·875—925</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>砂岩楣</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>伽楼多楣饰</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>118cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>按蛇尾</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>敌对关系</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>印度→高棉</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>本地化</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>伽楼多楣饰：坐骑、相制与转化</text></g></svg>",
+ "sources": [
+  "cma-1967-37"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；原建筑未记录。"
+}

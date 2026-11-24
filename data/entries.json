@@ -7343,7 +7343,10 @@
       "related": [
         "dvaravati-buddha-bust",
         "burmese-seated-buddha",
-        "champa-planetary-deity-dongduong"
+        "champa-planetary-deity-dongduong",
+        "hevajra-buddhist",
+        "palanquin-hook-angkor",
+        "garuda-lintel-khmer"
       ],
       "sources": [
         "cma-1963-263"
@@ -7405,7 +7408,8 @@
       "overview": "九曜之一、护寺之神；短匕首、须与蹙眉示猛护；王者安逸坐姿与宝冠示天界之王；座上 kirtimukha 示创造力。",
       "related": [
         "khmer-naga-buddha",
-        "dvaravati-buddha-bust"
+        "dvaravati-buddha-bust",
+        "hevajra-buddhist"
       ],
       "sources": [
         "cma-1935-147"
@@ -8738,6 +8742,90 @@
       ],
       "sources": [
         "cma-1975-168-1"
+      ]
+    },
+    {
+      "id": "hevajra-buddhist",
+      "title": "喜金刚像（Hevajra）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "13世纪",
+      "region": "东南亚",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "吴哥青铜喜金刚像，克利夫兰艺术博物馆藏（2011.143）。",
+      "when": "约1200年",
+      "overview": "阇耶跋摩七世重 Hevajra 灌顶仪式，都城东门立巨型舞姿石像；八面十六臂四腿，左持印度诸神象（财/死/日/月/火/风/水/地），右持动物。",
+      "related": [
+        "khmer-naga-buddha",
+        "champa-planetary-deity-dongduong",
+        "palanquin-hook-angkor",
+        "baphuon-kneeling-figure"
+      ],
+      "sources": [
+        "cma-2011-143"
+      ]
+    },
+    {
+      "id": "palanquin-hook-angkor",
+      "title": "吴哥帕輿钩",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "12—13世纪",
+      "region": "东南亚",
+      "medium": "金属器",
+      "tier": "重要",
+      "def": "吴哥青铜帕輿钩，克利夫兰艺术博物馆藏（1982.12）。",
+      "when": "1175—1230年",
+      "overview": "王室/僧侣出行乘輿；青铜件铸形繁复并鎏金；钩末端为伽楼多面（鹰喙/程式化翼羽），顶空承接木杠。",
+      "related": [
+        "khmer-naga-buddha",
+        "hevajra-buddhist",
+        "garuda-lintel-khmer",
+        "baphuon-kneeling-figure"
+      ],
+      "sources": [
+        "cma-1982-12"
+      ]
+    },
+    {
+      "id": "garuda-lintel-khmer",
+      "title": "伽楼多楣饰",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "9世纪末—10世纪初",
+      "region": "东南亚",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "柬埔寨砂岩石楣，克利夫兰艺术博物馆藏（1967.37）。",
+      "when": "875—925年",
+      "overview": "伽楼多（半人半鹰、毗湿奴坐骑）；喙鼻，翼作繁叶状；中拱枝蔓生女性与珠宝，终为眼镜蛇首；其为蛇之天敌，故按蛇尾。",
+      "related": [
+        "khmer-naga-buddha",
+        "palanquin-hook-angkor"
+      ],
+      "sources": [
+        "cma-1967-37"
+      ]
+    },
+    {
+      "id": "baphuon-kneeling-figure",
+      "title": "Baphuon 期跪像",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "11世纪",
+      "region": "东南亚",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "吴哥 Baphuon 期青铜跪像，克利夫兰艺术博物馆藏（1978.8）。",
+      "when": "1010—1080年",
+      "overview": "额上第三眼示认同湿婆；跪姿举双手示崇拜；低腰带下裳为 Baphuon 期典型；眼/眉/须/髯原嵌银。",
+      "related": [
+        "hevajra-buddhist",
+        "palanquin-hook-angkor"
+      ],
+      "sources": [
+        "cma-1978-8"
       ]
     }
   ]

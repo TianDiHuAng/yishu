@@ -5329,6 +5329,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；木与颜料 77.7cm；说明含 Ìyá Nlá 与鳄鱼冠饰"
+    },
+    {
+      "id": "cma-2011-143",
+      "title": "Cleveland Museum of Art — Hevajra, Angkor, c. 1200, acc. 2011.143",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2011.143",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；青铜 46×23.9cm；说明含八面十六臂与 Jayavarman VII"
+    },
+    {
+      "id": "cma-1982-12",
+      "title": "Cleveland Museum of Art — Palanquin Hook, Cambodia, 1175–1230, acc. 1982.12",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1982.12",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；青铜 17.4cm；说明含伽楼多面与輿制"
+    },
+    {
+      "id": "cma-1967-37",
+      "title": "Cleveland Museum of Art — Lintel with Garuda, Cambodia, 875–925, acc. 1967.37",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1967.37",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；砂岩 52.6×118.1cm；说明含毗湿奴坐骑与蛇尾"
+    },
+    {
+      "id": "cma-1978-8",
+      "title": "Cleveland Museum of Art — Kneeling Male Figure, Baphuon period, 1010–80, acc. 1978.8",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1978.8",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；青铜 43.2cm；说明含第三只眼与银嵌五官"
     }
   ]
 }
