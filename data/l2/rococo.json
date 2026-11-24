@@ -1,24 +1,25 @@
 {
- "id": "rococo",
- "level": "L2",
- "sections": {
-  "时代背景": "洛可可是18世纪法国宫廷流行的艺术风格，年代约在公元1715年至1770年之间。它以轻盈、纤巧与装饰性著称，主要见于宫廷与贵族的生活场景。其地域集中于法国，在媒介上属于综合的风格现象。",
-  "风格特征": "洛可可风格常用C形与S形曲线，配以粉彩色调与贝壳花纹，整体呈现轻盈、纤巧与装饰性的特点。其题材多为贵族宴乐与田园爱情，与宫廷生活的氛围相呼应。这一组合使它在18世纪法国宫廷中形成鲜明的面貌。",
-  "代表人物与作品": "现有材料未点名洛可可的具体艺术家或单件作品，故本节以风格要素为中心加以概述。可确认的代表性内容集中于C形与S形曲线、粉彩色调与贝壳花纹等形式手法，以及贵族宴乐与田园爱情等题材。related 中的巴洛克与新古典主义均为风格条目，不提供个人生平或作品细节。",
-  "技法或形式分析": "在形式层面，C形与S形曲线构成洛可可的基本线条语言，贝壳花纹则是其典型的装饰母题。粉彩色调的运用强化了轻盈纤巧的观感，与贵族宴乐、田园爱情等题材相配合。装饰性由此成为贯穿其线条、色彩与题材三方面的核心特征。",
-  "与前后风格的关系和争论": "洛可可与 related 中的巴洛克、新古典主义构成风格序列上的前后关联，一般视为上承巴洛克、下接新古典主义。现有记载对这一先后的表述较一致，未显示明确的观点分歧；学界主要讨论洛可可的分期与边界问题，尤其是其起讫年代与巴洛克、新古典主义之间的交界。",
-  "一图": "示意图概括洛可可以C形与S形曲线、粉彩色调及贵族宴乐与田园爱情题材构成的风格面貌。",
-  "待核实": "现有材料未提供洛可可代表艺术家、具体作品名称、创作年代与收藏信息，如需补充，应待补充第二来源后再行写入。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
- },
- "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='洛可可 示意图'><title>洛可可</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>洛可可</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>18世纪法国宫廷</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>C形与S形</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>曲线</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>粉彩色调</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>贝壳花纹</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>贵族宴乐</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>田园爱情</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>洛可可以曲线、粉彩与贵族题材见长</text></g></svg>",
- "related": [
-  "baroque",
-  "neoclassicism",
-  "rubens"
- ],
- "sources": [
-  "enc-rococo",
-  "enc-baroque",
-  "wd-anchor-rococo"
- ]
+  "id": "rococo",
+  "level": "L2",
+  "sections": {
+    "时代背景": "洛可可是18世纪法国宫廷流行的艺术风格，年代约在公元1715年至1770年之间。它以轻盈、纤巧与装饰性著称，主要见于宫廷与贵族的生活场景。其地域集中于法国，在媒介上属于综合的风格现象。",
+    "风格特征": "洛可可风格常用C形与S形曲线，配以粉彩色调与贝壳花纹，整体呈现轻盈、纤巧与装饰性的特点。其题材多为贵族宴乐与田园爱情，与宫廷生活的氛围相呼应。这一组合使它在18世纪法国宫廷中形成鲜明的面貌。",
+    "代表人物与作品": "现有材料未点名洛可可的具体艺术家或单件作品，故本节以风格要素为中心加以概述。可确认的代表性内容集中于C形与S形曲线、粉彩色调与贝壳花纹等形式手法，以及贵族宴乐与田园爱情等题材。related 中的巴洛克与新古典主义均为风格条目，不提供个人生平或作品细节。",
+    "技法或形式分析": "在形式层面，C形与S形曲线构成洛可可的基本线条语言，贝壳花纹则是其典型的装饰母题。粉彩色调的运用强化了轻盈纤巧的观感，与贵族宴乐、田园爱情等题材相配合。装饰性由此成为贯穿其线条、色彩与题材三方面的核心特征。",
+    "与前后风格的关系和争论": "洛可可与 related 中的巴洛克、新古典主义构成风格序列上的前后关联，一般视为上承巴洛克、下接新古典主义。现有记载对这一先后的表述较一致，未显示明确的观点分歧；学界主要讨论洛可可的分期与边界问题，尤其是其起讫年代与巴洛克、新古典主义之间的交界。",
+    "一图": "示意图概括洛可可以C形与S形曲线、粉彩色调及贵族宴乐与田园爱情题材构成的风格面貌。",
+    "待核实": "现有材料未提供洛可可代表艺术家、具体作品名称、创作年代与收藏信息，如需补充，应待补充第二来源后再行写入。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。（AAT 对照，2026-11-24）AAT 定义：主要指装饰艺术的时期，约1700年出现于法国路易十五宫廷，在欧洲占主导，直到18世纪晚期被古典复兴取代；以奢华、不对称、优雅、欢快与淡雅色调为特征，与巴洛克较重的形式和较暗的色彩形成对照。与本条目的差异：AAT 起点约1700年（本条目 when 约1715—1770年），差约15年。本条目不裁决，保持原 when。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='洛可可 示意图'><title>洛可可</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>洛可可</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>18世纪法国宫廷</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>C形与S形</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>曲线</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>粉彩色调</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>贝壳花纹</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>贵族宴乐</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>田园爱情</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>洛可可以曲线、粉彩与贵族题材见长</text></g></svg>",
+  "related": [
+    "baroque",
+    "neoclassicism",
+    "rubens"
+  ],
+  "sources": [
+    "enc-rococo",
+    "enc-baroque",
+    "wd-anchor-rococo",
+    "aat-300021155"
+  ]
 }

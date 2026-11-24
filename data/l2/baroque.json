@@ -1,28 +1,29 @@
 {
- "id": "baroque",
- "level": "L2",
- "sections": {
-  "时代背景": "巴洛克是约公元1600年至1750年间兴起于欧洲的艺术风格，属于17世纪的艺术现象。其发展与服务反宗教改革及宫廷炫耀的需求相关。绘画、雕塑与建筑在这一风格中相互结合。",
-  "风格特征": "这一风格以戏剧性光影、动势与宏大空间为鲜明特征。明暗对照与对角线构图共同制造出强烈的运动感。绘画、雕塑与建筑的结合，进一步强化了其宏大的空间效果。",
-  "代表人物与作品": "现有定义与概述均未点名具体的代表人物或作品，因此本节不列举人名与作品名。相关联的样式主义与洛可可属于风格条目，可作为风格脉络的参照。如需补充代表艺术家与作品，需另寻材料并在后续版本中补入。",
-  "技法或形式分析": "在形式技法上，明暗对照被用来强化光影的戏剧性，对角线构图则制造画面的动势。绘画、雕塑与建筑的结合，使作品突破单一门类的界限，形成宏大空间。这些手法共同服务于反宗教改革与宫廷炫耀的功能。",
-  "与前后风格的关系和争论": "从相关条目看，巴洛克承接样式主义而来，其后又发展出洛可可。现有材料记载较一致，未呈现具体争论，学界主要讨论其与样式主义、洛可可之间的分期与边界问题。",
-  "一图": "示意图呈现巴洛克自样式主义而来、进而通向洛可可的风格演进脉络。",
-  "待核实": "现有定义与概述未点名代表人物与具体作品，本节因此未列举人名与作品名。若要补充代表艺术家及其作品，须待补充第二来源后核实。与样式主义、洛可可的确切分期界线同样有待进一步来源确认。"
- },
- "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='巴洛克 示意图'><title>巴洛克</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>样式主义</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>此前</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>巴洛克</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>明暗对照</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>对角线构图</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>制造动势</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>洛可可</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>此后</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>巴洛克承接样式主义、下启洛可可，以明暗对照与对角线构图制造动势</text></g></svg>",
- "related": [
-  "mannerism",
-  "rococo",
-  "caravaggio",
-  "rubens",
-  "velazquez",
-  "baroque-crossmedia",
-  "rembrandt"
- ],
- "sources": [
-  "enc-baroque",
-  "enc-mannerism",
-  "wd-anchor-baroque"
- ]
+  "id": "baroque",
+  "level": "L2",
+  "sections": {
+    "时代背景": "巴洛克是约公元1600年至1750年间兴起于欧洲的艺术风格，属于17世纪的艺术现象。其发展与服务反宗教改革及宫廷炫耀的需求相关。绘画、雕塑与建筑在这一风格中相互结合。",
+    "风格特征": "这一风格以戏剧性光影、动势与宏大空间为鲜明特征。明暗对照与对角线构图共同制造出强烈的运动感。绘画、雕塑与建筑的结合，进一步强化了其宏大的空间效果。",
+    "代表人物与作品": "现有定义与概述均未点名具体的代表人物或作品，因此本节不列举人名与作品名。相关联的样式主义与洛可可属于风格条目，可作为风格脉络的参照。如需补充代表艺术家与作品，需另寻材料并在后续版本中补入。",
+    "技法或形式分析": "在形式技法上，明暗对照被用来强化光影的戏剧性，对角线构图则制造画面的动势。绘画、雕塑与建筑的结合，使作品突破单一门类的界限，形成宏大空间。这些手法共同服务于反宗教改革与宫廷炫耀的功能。",
+    "与前后风格的关系和争论": "从相关条目看，巴洛克承接样式主义而来，其后又发展出洛可可。现有材料记载较一致，未呈现具体争论，学界主要讨论其与样式主义、洛可可之间的分期与边界问题。",
+    "一图": "示意图呈现巴洛克自样式主义而来、进而通向洛可可的风格演进脉络。",
+    "待核实": "现有定义与概述未点名代表人物与具体作品，本节因此未列举人名与作品名。若要补充代表艺术家及其作品，须待补充第二来源后核实。与样式主义、洛可可的确切分期界线同样有待进一步来源确认。（AAT 对照，2026-11-24）AAT 定义：约1590至1750年西欧与美洲的建筑、视觉艺术、装饰艺术、音乐与文学的风格与时期；以均衡与整体为特征，常强调壮观场面与情感内容，倾向明暗对比、实与虚对比、强对角线与曲线。与本条目的差异：AAT 起点为约1590年（本条目 when 为约1600年），差约10年；AAT 范围含西欧与美洲及多门类，比本条目“17世纪兴起于欧洲”更宽。两者是不同来源的断代与范围口径，本条目不裁决，保持原 when。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='巴洛克 示意图'><title>巴洛克</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>样式主义</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>此前</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>巴洛克</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>明暗对照</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>对角线构图</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>制造动势</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>洛可可</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>此后</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>巴洛克承接样式主义、下启洛可可，以明暗对照与对角线构图制造动势</text></g></svg>",
+  "related": [
+    "mannerism",
+    "rococo",
+    "caravaggio",
+    "rubens",
+    "velazquez",
+    "baroque-crossmedia",
+    "rembrandt"
+  ],
+  "sources": [
+    "enc-baroque",
+    "enc-mannerism",
+    "wd-anchor-baroque",
+    "aat-300021147"
+  ]
 }

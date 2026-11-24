@@ -1,27 +1,28 @@
 {
- "id": "renaissance",
- "level": "L2",
- "sections": {
-  "时代背景": "文艺复兴约从公元1400年延续至1600年，对应于14—16世纪，地域涉及意大利及欧洲。它是欧洲由中世纪向近代过渡的文化运动，以复兴古典文化与人文主义为核心。条目将其与哥特式艺术、早期文艺复兴及样式主义相关联。",
-  "风格特征": "文艺复兴艺术追求透视法、解剖准确与和谐比例，体现出古典文化与人文主义的影响。其发展从乔托到盛期三杰逐步成熟，并波及北欧。整体风格以对古典传统的重新理解与对准确再现的追求为特征。",
-  "代表人物与作品": "概述明确点名的人物包括乔托与盛期三杰，前者处于发展进程的前端，后者标志逐步成熟的阶段。概述未列出具体作品名称，仅以透视法、解剖准确与和谐比例概括其艺术追求。相关条目中，哥特式艺术、早期文艺复兴与样式主义仅以标题出现，未附人物或作品细节。具体作品名待补充第二来源。",
-  "技法或形式分析": "透视法、解剖准确与和谐比例构成文艺复兴艺术的核心技术手段，服务于对古典文化与人文主义的表达。透视法处理空间呈现，解剖准确支撑人体表现，和谐比例则统筹整体关系。概述以从乔托到盛期三杰的进程说明这些手段的逐步成熟，并指出影响波及北欧。",
-  "与前后风格的关系和争论": "条目关系中，文艺复兴在哥特式艺术之后兴起，体现由中世纪向近代的过渡，并以复兴古典文化与人文主义区别于前代。其后与早期文艺复兴、样式主义相连，显示风格的分化与延伸。记载较一致，学界主要讨论文艺复兴在14—16世纪（约1400—1600年）框架内的分期与边界问题。",
-  "一图": "示意图呈现文艺复兴以古典文化与人文主义为核心，经透视法、解剖准确与和谐比例，从乔托走向盛期三杰的成熟进程。",
-  "待核实": "现有条目未列出乔托或盛期三杰的具体作品名称、年代与收藏地，概述仅给出透视法、解剖准确与和谐比例等总体特征。所列来源为权威百科条目 Renaissance 与 Italian Renaissance painting，尚未针对具体作品给出第二来源。涉及具体作品与年代、收藏的细节，待补充第二来源后再行写入。"
- },
- "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='文艺复兴 示意图'><title>文艺复兴</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>文艺复兴</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>古典文化与人文主义</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>透视法</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>解剖准确与和谐比例</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>盛期三杰</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>逐步成熟并波及北欧</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>从乔托到盛期三杰艺术逐步成熟</text></g></svg>",
- "related": [
-  "gothic",
-  "early-renaissance",
-  "mannerism",
-  "northern-renaissance",
-  "donatello",
-  "renaissance-crossmedia"
- ],
- "sources": [
-  "enc-renaissance",
-  "enc-italian-renaissance-painting",
-  "wd-anchor-renaissance"
- ]
+  "id": "renaissance",
+  "level": "L2",
+  "sections": {
+    "时代背景": "文艺复兴约从公元1400年延续至1600年，对应于14—16世纪，地域涉及意大利及欧洲。它是欧洲由中世纪向近代过渡的文化运动，以复兴古典文化与人文主义为核心。条目将其与哥特式艺术、早期文艺复兴及样式主义相关联。",
+    "风格特征": "文艺复兴艺术追求透视法、解剖准确与和谐比例，体现出古典文化与人文主义的影响。其发展从乔托到盛期三杰逐步成熟，并波及北欧。整体风格以对古典传统的重新理解与对准确再现的追求为特征。",
+    "代表人物与作品": "概述明确点名的人物包括乔托与盛期三杰，前者处于发展进程的前端，后者标志逐步成熟的阶段。概述未列出具体作品名称，仅以透视法、解剖准确与和谐比例概括其艺术追求。相关条目中，哥特式艺术、早期文艺复兴与样式主义仅以标题出现，未附人物或作品细节。具体作品名待补充第二来源。",
+    "技法或形式分析": "透视法、解剖准确与和谐比例构成文艺复兴艺术的核心技术手段，服务于对古典文化与人文主义的表达。透视法处理空间呈现，解剖准确支撑人体表现，和谐比例则统筹整体关系。概述以从乔托到盛期三杰的进程说明这些手段的逐步成熟，并指出影响波及北欧。",
+    "与前后风格的关系和争论": "条目关系中，文艺复兴在哥特式艺术之后兴起，体现由中世纪向近代的过渡，并以复兴古典文化与人文主义区别于前代。其后与早期文艺复兴、样式主义相连，显示风格的分化与延伸。记载较一致，学界主要讨论文艺复兴在14—16世纪（约1400—1600年）框架内的分期与边界问题。",
+    "一图": "示意图呈现文艺复兴以古典文化与人文主义为核心，经透视法、解剖准确与和谐比例，从乔托走向盛期三杰的成熟进程。",
+    "待核实": "现有条目未列出乔托或盛期三杰的具体作品名称、年代与收藏地，概述仅给出透视法、解剖准确与和谐比例等总体特征。所列来源为权威百科条目 Renaissance 与 Italian Renaissance painting，尚未针对具体作品给出第二来源。涉及具体作品与年代、收藏的细节，待补充第二来源后再行写入。（AAT 对照，2026-11-24）AAT 定义：始于14世纪晚期的意大利、传遍欧洲、在16世纪达到顶点的知识运动、风格与文化；风格以对古罗马与古希腊的艺术、建筑、文学与理想的有意参照为特征。与本条目基本一致；AAT 起点为14世纪晚期，本条目 when 约1400—1600年，口径略有出入但相容。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='文艺复兴 示意图'><title>文艺复兴</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>文艺复兴</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>古典文化与人文主义</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>透视法</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>解剖准确与和谐比例</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>盛期三杰</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>逐步成熟并波及北欧</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>从乔托到盛期三杰艺术逐步成熟</text></g></svg>",
+  "related": [
+    "gothic",
+    "early-renaissance",
+    "mannerism",
+    "northern-renaissance",
+    "donatello",
+    "renaissance-crossmedia"
+  ],
+  "sources": [
+    "enc-renaissance",
+    "enc-italian-renaissance-painting",
+    "wd-anchor-renaissance",
+    "aat-300021140"
+  ]
 }

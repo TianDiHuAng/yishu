@@ -8449,6 +8449,126 @@
       "type": "权威结构化数据",
       "verified": true,
       "verified_note": "2026-11-24 经 wd_api 读取实体成功，英文标签与条目一致"
+    },
+    {
+      "id": "aat-300021503",
+      "title": "Getty AAT — Impressionist (style), 300021503",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300021503",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配"
+    },
+    {
+      "id": "aat-300021147",
+      "title": "Getty AAT — Baroque, 300021147",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300021147",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配"
+    },
+    {
+      "id": "aat-300021495",
+      "title": "Getty AAT — Cubist, 300021495",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300021495",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配"
+    },
+    {
+      "id": "aat-300021512",
+      "title": "Getty AAT — Surrealist, 300021512",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300021512",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配"
+    },
+    {
+      "id": "aat-300021502",
+      "title": "Getty AAT — Expressionist (style), 300021502",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300021502",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配"
+    },
+    {
+      "id": "aat-300056557",
+      "title": "Getty AAT — romanticism (form of expression), 300056557",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300056557",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配"
+    },
+    {
+      "id": "aat-300021140",
+      "title": "Getty AAT — Renaissance, 300021140",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300021140",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配"
+    },
+    {
+      "id": "aat-300021155",
+      "title": "Getty AAT — Rococo, 300021155",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300021155",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配"
+    },
+    {
+      "id": "aat-300021500",
+      "title": "Getty AAT — Dada, 300021500",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300021500",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配"
+    },
+    {
+      "id": "aat-300021508",
+      "title": "Getty AAT — Post-Impressionist, 300021508",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300021508",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配"
+    },
+    {
+      "id": "aat-300021374",
+      "title": "Getty AAT — Futurist, 300021374",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300021374",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配"
+    },
+    {
+      "id": "aat-300021432",
+      "title": "Getty AAT — Bauhaus, 300021432",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300021432",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配"
     }
   ]
 }

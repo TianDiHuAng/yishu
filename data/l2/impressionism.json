@@ -1,86 +1,87 @@
 {
- "id": "impressionism",
- "level": "L3",
- "sections": {
-  "时代背景": "19世纪后半叶的法国处于工业化与城市化快速推进期，奥斯曼男爵主持的巴黎改造改变了城市景观，铁路与摄影术改变了人们观察世界的方式。1870年普法战争与随后的巴黎公社使一代艺术家转向对当下日常经验的关注。官方沙龙的评审标准日趋保守，1863年的落选者沙龙与1874年首次独立展览为新兴画风提供了展示空间。",
-  "风格特征": "印象派以记录瞬间的视觉印象为目标，画面多描绘户外光线、水面反光、都市休闲与郊野景色。色彩明亮，阴影常以补色而非黑色表现；笔触松散可见，物象轮廓在光色中趋于溶解。构图常取偶然视角与裁切，借鉴摄影与日本浮世绘的平面化倾向。整体追求空气的流动感与光线在不同时刻的变化，而非严谨的叙事或历史题材。",
-  "代表人物与作品": "克劳德·莫奈《印象·日出》（1872年，巴黎马摩丹莫奈美术馆藏）——此画在1874年首次展览上被评论家勒鲁瓦借题嘲讽，印象派由此得名。皮埃尔-奥古斯特·雷诺阿《煎饼磨坊的舞会》（1876年，巴黎奥赛博物馆藏）描绘蒙马特露天舞会的光斑与人群。埃德加·德加以舞女与赛马为题材，如《舞蹈课》（1874年，巴黎奥赛博物馆藏）。卡米耶·毕沙罗与阿尔弗雷德·西斯莱专注于乡村风景与季节光线。",
-  "技法或形式分析": "技法核心是户外写生（plein air）与快速笔触，以捕捉特定时刻的光色。色彩上以冷暖对比与补色并置塑造体积，阴影多用蓝紫而非沥青黑；颜料常直接并置于画布，由观者在视觉上混合（光学混色）。构图上放弃中心式金字塔布局，采用低视点、大块留白与边缘裁切，营造瞬间抓拍感。管状颜料的普及与便携画箱的发明使户外作画成为可能。",
-  "与前后风格的关系和争论": "印象派上承现实主义对日常题材的关注（库尔贝、米勒），并吸收巴比松画派的户外传统；它在光学色彩上走向极端，直接引发后印象派的反弹——塞尚批评其缺乏结构，主张以几何化色块重建秩序，梵高与高更则转向主观情感与象征。当时争论集中于：印象派究竟是未完成的草图还是严肃艺术？批评者指责其笔触潦草、题材琐碎，支持者则认为它忠实于现代人的视觉经验。这一争论由1874年至1886年的八次独立展览持续推动。",
-  "一图": "下图以抽象色块与箭头示意印象派在西方绘画脉络中的位置，图中文字仅标注风格名称，不描摹任何具体作品。",
-  "待核实": "状态说明：本页先列出写作时的原待核项（保留原文以留存修订痕迹），其后【已复核】各条为后续复核找到的第二来源与结论；两者并存不表示矛盾，以【已复核】为准。 （1）雷诺阿《煎饼磨坊的舞会》的收藏地（奥赛博物馆）与年份（1876年）需第二来源复核；（2）德加《舞蹈课》存在多个版本，此处所指为奥赛藏1874年版本，需核对具体藏品编号；（3）评论家勒鲁瓦的原文出处与年份待补。 【已复核】雷诺阿《煎饼磨坊的舞会》的年份与奥赛博物馆藏地：第二来源 enc-bal-du-moulin-de-la-galette（https://en.wikipedia.org/wiki/Bal_du_moulin_de_la_Galette），据该来源：雷诺阿的《煎饼磨坊的舞会》作于1876年，现藏于巴黎奥赛博物馆。 【已复核】评论家勒鲁瓦的原文出处与年份：第二来源 enc-impressionism（https://en.wikipedia.org/wiki/Impressionism），据该来源：印象派得名于评论家路易·勒鲁瓦1874年在《Le Charivari》发表的讽刺文章《印象派画展》。"
- },
- "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='印象派风格脉络示意图'><title>印象派在西方绘画脉络中的位置</title><g class='svg-flow'><rect class='svg-box svg-box-muted' x='20' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95' y='140' text-anchor='middle'>现实主义</text><text class='svg-sub' x='95' y='162' text-anchor='middle'>日常题材</text><rect class='svg-box svg-box-accent' x='270' y='100' width='170' height='90' rx='8'/><text class='svg-label svg-label-strong' x='355' y='138' text-anchor='middle'>印象派</text><text class='svg-sub' x='355' y='162' text-anchor='middle'>光色瞬间</text><rect class='svg-box svg-box-muted' x='540' y='110' width='180' height='70' rx='8'/><text class='svg-label' x='630' y='140' text-anchor='middle'>后印象派</text><text class='svg-sub' x='630' y='162' text-anchor='middle'>结构与情感</text><line class='svg-arrow' x1='172' y1='145' x2='266' y2='145'/><polygon class='svg-arrowhead' points='266,145 256,140 256,150'/><line class='svg-arrow' x1='442' y1='145' x2='536' y2='145'/><polygon class='svg-arrowhead' points='536,145 526,140 526,150'/><text class='svg-caption' x='380' y='250' text-anchor='middle'>承接题材 · 反弹于结构 · 1870s 法国</text></g></svg>",
- "sources": [
-  "enc-impressionism",
-  "web-artstory-impressionism",
-  "enc-bal-du-moulin-de-la-galette",
-  "wd-anchor-impressionism"
- ],
- "related": [
-  "realism-art",
-  "post-impressionism",
-  "velazquez",
-  "monet",
-  "impression-crossmedia",
-  "ukiyo-e"
- ],
- "l3": {
-  "controversies": [
-   {
-    "issue": "印象派究竟是未完成的草图还是严肃艺术？",
-    "views": [
-     {
-      "holder": "批评者（所引来源页 enc-impressionism 所述评论家一方）",
-      "basis": "指责其笔触潦草、题材琐碎，认为画面只是未经完成的草图。"
-     },
-     {
-      "holder": "支持者（所引来源页 enc-impressionism 所述）",
-      "basis": "认为它忠实记录了现代人的视觉经验，是一种严肃的艺术追求。"
-     }
-    ]
-   },
-   {
-    "issue": "印象派在光学色彩上的极端追求是否缺乏结构？（由后印象派反弹引发的争论）",
-    "views": [
-     {
-      "holder": "后印象派一方（所引来源页 enc-impressionism 所述）",
-      "basis": "批评印象派缺乏结构，主张以几何化色块重建画面秩序；梵高与高更则转向主观情感与象征。"
-     },
-     {
-      "holder": "印象派一方（所引来源页 enc-impressionism 所述）",
-      "basis": "以冷暖对比与补色并置、光学混色和边缘裁切追求光色瞬间，而非严谨的结构布局。"
-     }
-    ]
-   }
+  "id": "impressionism",
+  "level": "L3",
+  "sections": {
+    "时代背景": "19世纪后半叶的法国处于工业化与城市化快速推进期，奥斯曼男爵主持的巴黎改造改变了城市景观，铁路与摄影术改变了人们观察世界的方式。1870年普法战争与随后的巴黎公社使一代艺术家转向对当下日常经验的关注。官方沙龙的评审标准日趋保守，1863年的落选者沙龙与1874年首次独立展览为新兴画风提供了展示空间。",
+    "风格特征": "印象派以记录瞬间的视觉印象为目标，画面多描绘户外光线、水面反光、都市休闲与郊野景色。色彩明亮，阴影常以补色而非黑色表现；笔触松散可见，物象轮廓在光色中趋于溶解。构图常取偶然视角与裁切，借鉴摄影与日本浮世绘的平面化倾向。整体追求空气的流动感与光线在不同时刻的变化，而非严谨的叙事或历史题材。",
+    "代表人物与作品": "克劳德·莫奈《印象·日出》（1872年，巴黎马摩丹莫奈美术馆藏）——此画在1874年首次展览上被评论家勒鲁瓦借题嘲讽，印象派由此得名。皮埃尔-奥古斯特·雷诺阿《煎饼磨坊的舞会》（1876年，巴黎奥赛博物馆藏）描绘蒙马特露天舞会的光斑与人群。埃德加·德加以舞女与赛马为题材，如《舞蹈课》（1874年，巴黎奥赛博物馆藏）。卡米耶·毕沙罗与阿尔弗雷德·西斯莱专注于乡村风景与季节光线。",
+    "技法或形式分析": "技法核心是户外写生（plein air）与快速笔触，以捕捉特定时刻的光色。色彩上以冷暖对比与补色并置塑造体积，阴影多用蓝紫而非沥青黑；颜料常直接并置于画布，由观者在视觉上混合（光学混色）。构图上放弃中心式金字塔布局，采用低视点、大块留白与边缘裁切，营造瞬间抓拍感。管状颜料的普及与便携画箱的发明使户外作画成为可能。",
+    "与前后风格的关系和争论": "印象派上承现实主义对日常题材的关注（库尔贝、米勒），并吸收巴比松画派的户外传统；它在光学色彩上走向极端，直接引发后印象派的反弹——塞尚批评其缺乏结构，主张以几何化色块重建秩序，梵高与高更则转向主观情感与象征。当时争论集中于：印象派究竟是未完成的草图还是严肃艺术？批评者指责其笔触潦草、题材琐碎，支持者则认为它忠实于现代人的视觉经验。这一争论由1874年至1886年的八次独立展览持续推动。",
+    "一图": "下图以抽象色块与箭头示意印象派在西方绘画脉络中的位置，图中文字仅标注风格名称，不描摹任何具体作品。",
+    "待核实": "状态说明：本页先列出写作时的原待核项（保留原文以留存修订痕迹），其后【已复核】各条为后续复核找到的第二来源与结论；两者并存不表示矛盾，以【已复核】为准。 （1）雷诺阿《煎饼磨坊的舞会》的收藏地（奥赛博物馆）与年份（1876年）需第二来源复核；（2）德加《舞蹈课》存在多个版本，此处所指为奥赛藏1874年版本，需核对具体藏品编号；（3）评论家勒鲁瓦的原文出处与年份待补。 【已复核】雷诺阿《煎饼磨坊的舞会》的年份与奥赛博物馆藏地：第二来源 enc-bal-du-moulin-de-la-galette（https://en.wikipedia.org/wiki/Bal_du_moulin_de_la_Galette），据该来源：雷诺阿的《煎饼磨坊的舞会》作于1876年，现藏于巴黎奥赛博物馆。 【已复核】评论家勒鲁瓦的原文出处与年份：第二来源 enc-impressionism（https://en.wikipedia.org/wiki/Impressionism），据该来源：印象派得名于评论家路易·勒鲁瓦1874年在《Le Charivari》发表的讽刺文章《印象派画展》。（AAT 对照，2026-11-24）AAT 定义：19世纪西方艺术运动，发展于法国，拒绝传统学院教学，尝试用色彩物理学的科学来精确表现色彩、色调与光；以小笔触纯色、户外作画捕捉一天中转瞬即逝的时刻、客观描绘当代生活为特征。与本条目一致，未发现冲突。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='印象派风格脉络示意图'><title>印象派在西方绘画脉络中的位置</title><g class='svg-flow'><rect class='svg-box svg-box-muted' x='20' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95' y='140' text-anchor='middle'>现实主义</text><text class='svg-sub' x='95' y='162' text-anchor='middle'>日常题材</text><rect class='svg-box svg-box-accent' x='270' y='100' width='170' height='90' rx='8'/><text class='svg-label svg-label-strong' x='355' y='138' text-anchor='middle'>印象派</text><text class='svg-sub' x='355' y='162' text-anchor='middle'>光色瞬间</text><rect class='svg-box svg-box-muted' x='540' y='110' width='180' height='70' rx='8'/><text class='svg-label' x='630' y='140' text-anchor='middle'>后印象派</text><text class='svg-sub' x='630' y='162' text-anchor='middle'>结构与情感</text><line class='svg-arrow' x1='172' y1='145' x2='266' y2='145'/><polygon class='svg-arrowhead' points='266,145 256,140 256,150'/><line class='svg-arrow' x1='442' y1='145' x2='536' y2='145'/><polygon class='svg-arrowhead' points='536,145 526,140 526,150'/><text class='svg-caption' x='380' y='250' text-anchor='middle'>承接题材 · 反弹于结构 · 1870s 法国</text></g></svg>",
+  "sources": [
+    "enc-impressionism",
+    "web-artstory-impressionism",
+    "enc-bal-du-moulin-de-la-galette",
+    "wd-anchor-impressionism",
+    "aat-300021503"
   ],
-  "data": [
-   {
-    "label": "活跃年代",
-    "value": "约公元1870—1890年",
-    "note": "来源:enc-impressionism"
-   },
-   {
-    "label": "《印象·日出》创作年份",
-    "value": "1872年",
-    "note": "来源:enc-impressionism"
-   },
-   {
-    "label": "印象派得名文章发表年份",
-    "value": "1874年",
-    "note": "来源:enc-impressionism"
-   },
-   {
-    "label": "《煎饼磨坊的舞会》创作年份与收藏地",
-    "value": "1876年，巴黎奥赛博物馆藏",
-    "note": "来源:enc-bal-du-moulin-de-la-galette"
-   },
-   {
-    "label": "独立展览次数与时间跨度",
-    "value": "八次（1874年至1886年）",
-    "note": "来源:web-artstory-impressionism"
-   }
+  "related": [
+    "realism-art",
+    "post-impressionism",
+    "velazquez",
+    "monet",
+    "impression-crossmedia",
+    "ukiyo-e"
   ],
-  "complex_diagram_note": "以时间轴并列展示印象派起止年代与“草图还是严肃艺术”的争议双方立场，并用箭头连接其承自现实主义、下启后印象派的风格脉络。"
- }
+  "l3": {
+    "controversies": [
+      {
+        "issue": "印象派究竟是未完成的草图还是严肃艺术？",
+        "views": [
+          {
+            "holder": "批评者（所引来源页 enc-impressionism 所述评论家一方）",
+            "basis": "指责其笔触潦草、题材琐碎，认为画面只是未经完成的草图。"
+          },
+          {
+            "holder": "支持者（所引来源页 enc-impressionism 所述）",
+            "basis": "认为它忠实记录了现代人的视觉经验，是一种严肃的艺术追求。"
+          }
+        ]
+      },
+      {
+        "issue": "印象派在光学色彩上的极端追求是否缺乏结构？（由后印象派反弹引发的争论）",
+        "views": [
+          {
+            "holder": "后印象派一方（所引来源页 enc-impressionism 所述）",
+            "basis": "批评印象派缺乏结构，主张以几何化色块重建画面秩序；梵高与高更则转向主观情感与象征。"
+          },
+          {
+            "holder": "印象派一方（所引来源页 enc-impressionism 所述）",
+            "basis": "以冷暖对比与补色并置、光学混色和边缘裁切追求光色瞬间，而非严谨的结构布局。"
+          }
+        ]
+      }
+    ],
+    "data": [
+      {
+        "label": "活跃年代",
+        "value": "约公元1870—1890年",
+        "note": "来源:enc-impressionism"
+      },
+      {
+        "label": "《印象·日出》创作年份",
+        "value": "1872年",
+        "note": "来源:enc-impressionism"
+      },
+      {
+        "label": "印象派得名文章发表年份",
+        "value": "1874年",
+        "note": "来源:enc-impressionism"
+      },
+      {
+        "label": "《煎饼磨坊的舞会》创作年份与收藏地",
+        "value": "1876年，巴黎奥赛博物馆藏",
+        "note": "来源:enc-bal-du-moulin-de-la-galette"
+      },
+      {
+        "label": "独立展览次数与时间跨度",
+        "value": "八次（1874年至1886年）",
+        "note": "来源:web-artstory-impressionism"
+      }
+    ],
+    "complex_diagram_note": "以时间轴并列展示印象派起止年代与“草图还是严肃艺术”的争议双方立场，并用箭头连接其承自现实主义、下启后印象派的风格脉络。"
+  }
 }
