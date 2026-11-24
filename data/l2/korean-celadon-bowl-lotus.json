@@ -1,0 +1,19 @@
+{
+ "id": "korean-celadon-bowl-lotus",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为**韩国**青瓷碗，年代**1200—1250年**，维多利亚与艾伯特博物馆藏（O22279）。",
+  "风格特征": "该馆描述：碗施**青瓷釉**，**外壁素净**，**内壁**有模印与镶嵌装饰——碗心为**莲花**，侧壁为**三个模印童子**戏于莲花之间，近口沿为**镶嵌缠枝纹边**。",
+  "代表人物与作品": "作者未署名。相关条目见高丽青瓷长颈瓶与朝鲜白瓷寿纹扁壶。本件为 V&A 藏品（O22279）。",
+  "技法或形式分析": "工艺为**施釉、模印、镶嵌的炻器**（stoneware）；器高**7.4厘米**（据该馆记录）。该馆补充：**圈足施釉**并留有**三处支烧痕**——这是装烧方式的痕迹。",
+  "一图": "示意图以模印莲童、镶嵌环带与三支烧痕三者关系标示本碗。",
+  "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）「童子」图像的含义未展开；（3）窑口与出土地未记录；（4）釉色描述为「玉青」，未给检测。",
+  "与前后风格的关系和争论": "本条目据该馆记录把「支烧痕」当作**工艺证据**：它说明器物在窑内以支钉垫烧。本条目据此把「痕」纳入叙述，而非视为瑕疵。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='korean-celadon-bowl-lotu 示意图'><title>korean-celadon-bowl-lotu</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>韩国·1200—1250</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>高丽</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>青瓷莲童碗</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>高7.4cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>模印·镶嵌</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>内壁</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>三支烧痕</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>装烧证据</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>莲童碗：模印、镶嵌与支烧</text></g></svg>",
+ "sources": [
+  "vam-o22279"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（V&A）来源；窑口与图像含义未展开。"
+}

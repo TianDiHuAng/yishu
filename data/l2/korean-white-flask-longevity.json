@@ -1,0 +1,19 @@
+{
+ "id": "korean-white-flask-longevity",
+ "level": "L2",
+ "sections": {
+  "时代背景": "该馆记录本件为**韩国**白瓷扁壶，年代**1750—1800年**（朝鲜王朝）。该馆并给出**白瓷史**：以**黏土与碎岩混合物高温烧成**的**白瓷**，**最早于高丽王朝（918—1392）**在韩国生产；到19世纪此壶制成时，白瓷**已主导陶瓷生产**。",
+  "风格特征": "该馆描述装饰：**堆白（slip-trailed）** 装饰为**蝙蝠**与**汉字「寿」**；壶身两处**成对的蝙蝠浮雕**构成**竖框**，环绕「**壽**」字（意为长寿）。",
+  "代表人物与作品": "作者未署名。相关条目见高丽青瓷莲童纹碗与元代青花。本件为 V&A 藏品（O22419）。",
+  "技法或形式分析": "工艺为**轮制、堆白与施釉的白瓷**；器高**15.1厘米**（据该馆记录）。该馆记载：通体施**透明釉**，连**足底**也施釉；足底**刻有谚文款**（其录文为「kwi yu kon tyo?」，原记录存疑）。",
+  "一图": "示意图以堆白蝙蝠、寿字竖框与谚文底款三者关系标示本壶。",
+  "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）足底谚文款录文该馆存疑，未补正；（3）窑口未记录；（4）「蝠=福」为通行谐音，原记录未明言。",
+  "与前后风格的关系和争论": "本条目据该馆记录把「寿字＋蝙蝠」视为**吉祥纹样**的组合（蝠谐「福」，寿即长寿）；并保留其**底款录文存疑**的实情，不代其补正。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='korean-white-flask-longe 示意图'><title>korean-white-flask-longe</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>朝鲜·1750—1800</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>韩国</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>白瓷扁壶</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>高15.1cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>堆白·蝙蝠·壽</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>吉祥</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>谚文底款</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>录文存疑</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>朝鲜白瓷：堆白、寿字与底款</text></g></svg>",
+ "sources": [
+  "vam-o22419"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（V&A）来源；窑口未记录；底款录文存疑。"
+}

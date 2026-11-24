@@ -4889,6 +4889,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；蕨木 210.9cm；说明含等级庆典与 mana"
+    },
+    {
+      "id": "vam-o16589",
+      "title": "Victoria and Albert Museum — Long-necked celadon bottle with inlays and underglaze copper red, Korea, 1200–1250, O16589",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O16589",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；高句丽青瓷 高35cm；说明含镶嵌黑白与铜红"
+    },
+    {
+      "id": "vam-o22279",
+      "title": "Victoria and Albert Museum — Celadon Bowl with Raised Lotus and Boy Design, Korea, 1200–1250, O22279",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O22279",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；青瓷 高7.4cm；说明含模印莲童与三支烧痕"
+    },
+    {
+      "id": "vam-o22419",
+      "title": "Victoria and Albert Museum — White Porcelain Flask with Raised Design and Inscription of 壽, Korea, 1750–1800, O22419",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O22419",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；白瓷 高15.1cm；说明含蝙蝠/寿字与谚文底款"
+    },
+    {
+      "id": "vam-o67415",
+      "title": "Victoria and Albert Museum — Salting Mihrab, Kashan, ca. 1300, O67415",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O67415",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；熔块胎釉上彩 高62cm；说明含墓葬标志与米哈拉布"
     }
   ]
 }

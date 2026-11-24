@@ -6115,7 +6115,8 @@
         "seljuq-bird-vessel",
         "safavid-steel-plaque",
         "quran-folio-seljuq",
-        "sasanian-hunting-dish"
+        "sasanian-hunting-dish",
+        "kashan-salting-mihrab"
       ],
       "sources": [
         "cma-1944-485",
@@ -8644,7 +8645,9 @@
         "jun-numbered-bulb-bowl",
         "tang-tomb-guardian",
         "chenghua-doucai-cup",
-        "transitional-square-bottle"
+        "transitional-square-bottle",
+        "korean-celadon-bottle",
+        "korean-white-flask-longevity"
       ],
       "sources": [
         "cma-1962-154"
@@ -12645,6 +12648,139 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='ambrym-grade-figure 示意图'><title>ambrym-grade-figure</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>等级庆典</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>男子会社</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>安布里姆祖像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>210.9cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>蕨木·泥灰</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>工艺</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>巨头=mana</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>精神力量</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>安布里姆祖像：庆典、工艺与 mana</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（CMA）来源；会社与树种未记录。"
+    },
+    {
+      "id": "korean-celadon-bottle",
+      "title": "高丽青瓷镶嵌长颈瓶",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "13世纪",
+      "region": "东亚",
+      "medium": "陶瓷",
+      "tier": "核心",
+      "def": "高丽青瓷镶嵌铜红长颈瓶，维多利亚与艾伯特博物馆藏（O16589）。",
+      "when": "1200—1250年",
+      "overview": "球腹长颈、一侧小环耳；釉下黑白镶嵌：四圆开光内菊/牡丹，间以柳树；肩足莲瓣、颈叶纹、口沿方回纹；局部铜红。",
+      "related": [
+        "korean-celadon-bowl-lotus",
+        "yuan-blue-white-jar",
+        "kashan-salting-mihrab"
+      ],
+      "sources": [
+        "vam-o16589"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆记录本件为**韩国**所制，年代**1200—1250年**（高丽王朝）。本件为**长颈青瓷镶嵌瓶**，维多利亚与艾伯特博物馆藏（O16589）。",
+        "风格特征": "该馆描述器形与装饰：**球腹、细长颈，颈侧有一小环耳**；通体施**青瓷釉**，釉下为**黑白镶嵌**装饰。装饰为**四个圆形开光**，内填**菊花或牡丹**枝，圆光之间饰**柳树**；**肩部与足部有莲瓣带**，颈部为叶纹，口沿为**方回纹**边。",
+        "代表人物与作品": "作者未署名。相关条目见高丽青瓷莲童纹碗与元代青花。本件为 V&A 藏品（O16589）。",
+        "技法或形式分析": "工艺为**青瓷胎、轮制、镶嵌、釉下绘与青釉**；器高**35厘米**（据该馆记录）。该馆并指出瓶上**局部有釉下铜红**的点染。",
+        "一图": "示意图以镶嵌黑白、四圆开光与铜红点缀三者关系标示本瓶。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）铜红的具体位置与烧成控制未展开；（3）出土地与高丽窑口未记录；（4）铭文无。",
+        "与前后风格的关系和争论": "本条目据该馆记录把「镶嵌」作为高丽青瓷的**关键技法**：黑白胎土嵌出纹样，再罩青釉，形成与单色青瓷不同的**图绘性**。本条目只依记录陈述，不代其比较他窑。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='korean-celadon-bottle 示意图'><title>korean-celadon-bottle</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>高丽·1200—1250</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>韩国</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>青瓷长颈瓶</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>高35cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>黑白镶嵌</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>四圆开光</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>釉下铜红</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>局部</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>高丽青瓷瓶：镶嵌与铜红</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；铜红细节与窑口未记录。"
+    },
+    {
+      "id": "korean-celadon-bowl-lotus",
+      "title": "高丽青瓷莲童纹碗",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "13世纪",
+      "region": "东亚",
+      "medium": "陶瓷",
+      "tier": "核心",
+      "def": "高丽青瓷模印镶嵌碗，维多利亚与艾伯特博物馆藏（O22279）。",
+      "when": "1200—1250年",
+      "overview": "外壁素净，内壁模印莲瓣、三童戏莲，近口沿镶嵌缠枝；玉青色釉；圈足留三支烧痕。",
+      "related": [
+        "korean-celadon-bottle",
+        "korean-white-flask-longevity"
+      ],
+      "sources": [
+        "vam-o22279"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**韩国**青瓷碗，年代**1200—1250年**，维多利亚与艾伯特博物馆藏（O22279）。",
+        "风格特征": "该馆描述：碗施**青瓷釉**，**外壁素净**，**内壁**有模印与镶嵌装饰——碗心为**莲花**，侧壁为**三个模印童子**戏于莲花之间，近口沿为**镶嵌缠枝纹边**。",
+        "代表人物与作品": "作者未署名。相关条目见高丽青瓷长颈瓶与朝鲜白瓷寿纹扁壶。本件为 V&A 藏品（O22279）。",
+        "技法或形式分析": "工艺为**施釉、模印、镶嵌的炻器**（stoneware）；器高**7.4厘米**（据该馆记录）。该馆补充：**圈足施釉**并留有**三处支烧痕**——这是装烧方式的痕迹。",
+        "一图": "示意图以模印莲童、镶嵌环带与三支烧痕三者关系标示本碗。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）「童子」图像的含义未展开；（3）窑口与出土地未记录；（4）釉色描述为「玉青」，未给检测。",
+        "与前后风格的关系和争论": "本条目据该馆记录把「支烧痕」当作**工艺证据**：它说明器物在窑内以支钉垫烧。本条目据此把「痕」纳入叙述，而非视为瑕疵。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='korean-celadon-bowl-lotu 示意图'><title>korean-celadon-bowl-lotu</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>韩国·1200—1250</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>高丽</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>青瓷莲童碗</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>高7.4cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>模印·镶嵌</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>内壁</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>三支烧痕</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>装烧证据</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>莲童碗：模印、镶嵌与支烧</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；窑口与图像含义未展开。"
+    },
+    {
+      "id": "korean-white-flask-longevity",
+      "title": "朝鲜白瓷寿纹扁壶",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "18世纪",
+      "region": "东亚",
+      "medium": "陶瓷",
+      "tier": "重要",
+      "def": "朝鲜白瓷堆白蝙蝠与「寿」字扁壶，维多利亚与艾伯特博物馆藏（O22419）。",
+      "when": "1750—1800年",
+      "overview": "堆白蝙蝠环「壽」字成竖框；施透明釉；圈足刻谚文款；白瓷由高岭土与碎岩高温烧成，高丽朝已始。",
+      "related": [
+        "korean-celadon-bowl-lotus",
+        "yuan-blue-white-jar"
+      ],
+      "sources": [
+        "vam-o22419"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆记录本件为**韩国**白瓷扁壶，年代**1750—1800年**（朝鲜王朝）。该馆并给出**白瓷史**：以**黏土与碎岩混合物高温烧成**的**白瓷**，**最早于高丽王朝（918—1392）**在韩国生产；到19世纪此壶制成时，白瓷**已主导陶瓷生产**。",
+        "风格特征": "该馆描述装饰：**堆白（slip-trailed）** 装饰为**蝙蝠**与**汉字「寿」**；壶身两处**成对的蝙蝠浮雕**构成**竖框**，环绕「**壽**」字（意为长寿）。",
+        "代表人物与作品": "作者未署名。相关条目见高丽青瓷莲童纹碗与元代青花。本件为 V&A 藏品（O22419）。",
+        "技法或形式分析": "工艺为**轮制、堆白与施釉的白瓷**；器高**15.1厘米**（据该馆记录）。该馆记载：通体施**透明釉**，连**足底**也施釉；足底**刻有谚文款**（其录文为「kwi yu kon tyo?」，原记录存疑）。",
+        "一图": "示意图以堆白蝙蝠、寿字竖框与谚文底款三者关系标示本壶。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）足底谚文款录文该馆存疑，未补正；（3）窑口未记录；（4）「蝠=福」为通行谐音，原记录未明言。",
+        "与前后风格的关系和争论": "本条目据该馆记录把「寿字＋蝙蝠」视为**吉祥纹样**的组合（蝠谐「福」，寿即长寿）；并保留其**底款录文存疑**的实情，不代其补正。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='korean-white-flask-longe 示意图'><title>korean-white-flask-longe</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>朝鲜·1750—1800</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>韩国</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>白瓷扁壶</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>高15.1cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>堆白·蝙蝠·壽</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>吉祥</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>谚文底款</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>录文存疑</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>朝鲜白瓷：堆白、寿字与底款</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；窑口未记录；底款录文存疑。"
+    },
+    {
+      "id": "kashan-salting-mihrab",
+      "title": "卡尚「萨尔廷」米哈拉布釉砖",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "14世纪",
+      "region": "西亚·中亚",
+      "medium": "陶瓷",
+      "tier": "核心",
+      "def": "卡尚熔块胎釉上彩单块米哈拉布，维多利亚与艾伯特博物馆藏（O67415）。",
+      "when": "约1300年",
+      "overview": "釉上光泽彩与钴蓝；边框环铭文，龛内悬灯；拱形为清真寺米哈拉布（朝向麦加之龛）的缩微，用作墓葬标志。",
+      "related": [
+        "islamic-art",
+        "korean-celadon-bottle"
+      ],
+      "sources": [
+        "vam-o67415"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**卡尚（Kashan）**所制、约**1300年**的单块釉砖**米哈拉布**，维多利亚与艾伯特博物馆藏（O67415），通称「萨尔廷米哈拉布（Salting Mihrab）」。",
+        "风格特征": "该馆描述：**单块釉砖米哈拉布**，**熔块胎（fritware）**加**釉上光泽彩与钴蓝**装饰，**边框环以铭文**，**龛内悬一盏灯**。",
+        "代表人物与作品": "作者未署名。相关条目见伊斯兰艺术与高丽青瓷长颈瓶。本件为 V&A 藏品（O67415）。",
+        "技法或形式分析": "工艺为**模制熔块胎、釉上彩（光泽彩＋钴蓝）**；器高**62厘米**（据该馆记录）。",
+        "一图": "示意图以墓葬标志、米哈拉布（朝向麦加）与釉上光泽彩三者关系标示本件。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）该馆说明在「亡者身份」句处截断，未补写；（3）「Salting」之名的来历未在本记录展开；（4）铭文内容未迻录。",
+        "与前后风格的关系和争论": "该馆给出**功能解释**：这块模制釉砖是**墓葬标志**；重要墓葬常以石、木或釉砖制的大标志覆盖。其**拱形设计**是**米哈拉布**——清真寺中标志**麦加朝向**的龛——的**缩微再现**；米哈拉布图案表明亡者……（记录在此处截断，本条目**不补写**）。本条目据此把「朝向」的宗教符号转用为**丧葬标记**。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='kashan-salting-mihrab 示意图'><title>kashan-salting-mihrab</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>卡尚·约1300</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>伊朗</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>米哈拉布釉砖</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>高62cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>墓葬标志</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>功能</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>米哈拉布=朝向</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>缩微</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>卡尚米哈拉布：功能、朝向与工艺</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；说明截断处未补；铭文未迻录。"
     }
   ]
 }

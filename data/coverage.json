@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 360,
+    "total": 364,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -4324,6 +4324,54 @@
     },
     "ambrym-grade-figure": {
       "title": "安布里姆等级社会祖像",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "korean-celadon-bottle": {
+      "title": "高丽青瓷镶嵌长颈瓶",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "korean-celadon-bowl-lotus": {
+      "title": "高丽青瓷莲童纹碗",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "korean-white-flask-longevity": {
+      "title": "朝鲜白瓷寿纹扁壶",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "kashan-salting-mihrab": {
+      "title": "卡尚「萨尔廷」米哈拉布釉砖",
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",

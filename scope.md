@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 360 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 364 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -359,6 +359,9 @@
 | dvaravati-buddha-bust | 堕罗钵底佛首 | 作品 | 7—9世纪 | 东南亚 | 雕塑 | 核心 | O1 |
 | burmese-seated-buddha | 蒲甘坐佛 | 作品 | 12世纪 | 东南亚 | 雕塑 | 核心 | O1 |
 | champa-planetary-deity-dongduong | 占婆九曜神像（同阳寺） | 作品 | 9世纪 | 东南亚 | 雕塑 | 核心 | O1 |
+| korean-celadon-bottle | 高丽青瓷镶嵌长颈瓶 | 作品 | 13世纪 | 东亚 | 陶瓷 | 核心 | O1 |
+| korean-celadon-bowl-lotus | 高丽青瓷莲童纹碗 | 作品 | 13世纪 | 东亚 | 陶瓷 | 核心 | O1 |
+| korean-white-flask-longevity | 朝鲜白瓷寿纹扁壶 | 作品 | 18世纪 | 东亚 | 陶瓷 | 重要 | O1 |
 
 ## art-islamic（伊斯兰艺术（西亚·中亚））
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -380,6 +383,7 @@
 | shiraz-frontispiece | 设拉子《列王纪》对页（左半） | 作品 | 15世纪 | 西亚·中亚 | 绘画 | 重要 | O1 |
 | quran-folio-seljuq | 塞尔柱《古兰经》写本叶 | 作品 | 12世纪 | 西亚·中亚 | 书法 | 重要 | O1 |
 | panj-ganj-page | 贾米《五宝》复合册页 | 作品 | 16—17世纪 | 南亚 | 绘画 | 核心 | O1 |
+| kashan-salting-mihrab | 卡尚「萨尔廷」米哈拉布釉砖 | 作品 | 14世纪 | 西亚·中亚 | 陶瓷 | 核心 | O1 |
 
 ## art-africa（非洲艺术（撒哈拉以南））
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

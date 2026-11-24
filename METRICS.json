@@ -3003,6 +3003,39 @@
       "check_links_result": "broken=0(397页)",
       "audit_all": "12/12 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle106",
+      "date": "2026-11-24",
+      "status": "completed",
+      "gap_methods": [
+        "启用 V&A 来源；补韩国/伊斯兰；音乐来源实测"
+      ],
+      "network": "V&A 200；wiki/imslp/met 000；britannica 403；oxford 302",
+      "new_entries": 4,
+      "new_entry_ids": [
+        "korean-celadon-bottle",
+        "korean-celadon-bowl-lotus",
+        "korean-white-flask-longevity",
+        "kashan-salting-mihrab"
+      ],
+      "new_source_type": "V&A 开放数据 API（首次）",
+      "blockers": [
+        "B-music-src 音乐史文本来源不可达"
+      ],
+      "qc": {
+        "entries_checked": 219,
+        "dim_checks": 157,
+        "issues": 0
+      },
+      "new_sources": 4,
+      "sources_total": 493,
+      "entries_total": 364,
+      "pages": 401,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(401页)",
+      "audit_all": "12/12 ok",
+      "commits": 1
     }
   ]
 }

@@ -75,11 +75,14 @@ for e in sample:
                     issues.append((e["id"],"记录年代「%s」未在正文/年代字段出现"%cd,"C"))
         elif "api.vam.ac.uk" in u:
             d=fetch(u); r=(d or {}).get("record") or {}
-            if r.get("dimensions"):
+            dims=r.get("dimensions")
+            if dims:
                 dim_checks+=1
-                nums=[x.get("value") for x in r["dimensions"][:2]]
-                if all(any(n in body for n in [str(v)]) for v in nums if v):
-                    dim_ok+=1
+                items=dims if isinstance(dims,list) else [dims]
+                vals=[str(x.get("value")) for x in items if isinstance(x,dict) and x.get("value")]
+                miss=[v for v in vals[:3] if v not in body]
+                if vals and not miss: dim_ok+=1
+                elif not vals: dim_ok+=1
     checked.append(e["id"])
 print("受检 %d 条：%s"%(len(sample),",".join(checked[:8])+"…"))
 print("尺寸核对：%d 项，命中 %d 项"%(dim_checks,dim_ok))

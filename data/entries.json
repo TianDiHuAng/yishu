@@ -3787,7 +3787,8 @@
         "seljuq-bird-vessel",
         "safavid-steel-plaque",
         "quran-folio-seljuq",
-        "sasanian-hunting-dish"
+        "sasanian-hunting-dish",
+        "kashan-salting-mihrab"
       ],
       "sources": [
         "cma-1944-485",
@@ -5354,7 +5355,9 @@
         "jun-numbered-bulb-bowl",
         "tang-tomb-guardian",
         "chenghua-doucai-cup",
-        "transitional-square-bottle"
+        "transitional-square-bottle",
+        "korean-celadon-bottle",
+        "korean-white-flask-longevity"
       ],
       "sources": [
         "cma-1962-154"
@@ -7794,6 +7797,87 @@
       ],
       "sources": [
         "cma-1971-272"
+      ]
+    },
+    {
+      "id": "korean-celadon-bottle",
+      "title": "高丽青瓷镶嵌长颈瓶",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "13世纪",
+      "region": "东亚",
+      "medium": "陶瓷",
+      "tier": "核心",
+      "def": "高丽青瓷镶嵌铜红长颈瓶，维多利亚与艾伯特博物馆藏（O16589）。",
+      "when": "1200—1250年",
+      "overview": "球腹长颈、一侧小环耳；釉下黑白镶嵌：四圆开光内菊/牡丹，间以柳树；肩足莲瓣、颈叶纹、口沿方回纹；局部铜红。",
+      "related": [
+        "korean-celadon-bowl-lotus",
+        "yuan-blue-white-jar",
+        "kashan-salting-mihrab"
+      ],
+      "sources": [
+        "vam-o16589"
+      ]
+    },
+    {
+      "id": "korean-celadon-bowl-lotus",
+      "title": "高丽青瓷莲童纹碗",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "13世纪",
+      "region": "东亚",
+      "medium": "陶瓷",
+      "tier": "核心",
+      "def": "高丽青瓷模印镶嵌碗，维多利亚与艾伯特博物馆藏（O22279）。",
+      "when": "1200—1250年",
+      "overview": "外壁素净，内壁模印莲瓣、三童戏莲，近口沿镶嵌缠枝；玉青色釉；圈足留三支烧痕。",
+      "related": [
+        "korean-celadon-bottle",
+        "korean-white-flask-longevity"
+      ],
+      "sources": [
+        "vam-o22279"
+      ]
+    },
+    {
+      "id": "korean-white-flask-longevity",
+      "title": "朝鲜白瓷寿纹扁壶",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "18世纪",
+      "region": "东亚",
+      "medium": "陶瓷",
+      "tier": "重要",
+      "def": "朝鲜白瓷堆白蝙蝠与「寿」字扁壶，维多利亚与艾伯特博物馆藏（O22419）。",
+      "when": "1750—1800年",
+      "overview": "堆白蝙蝠环「壽」字成竖框；施透明釉；圈足刻谚文款；白瓷由高岭土与碎岩高温烧成，高丽朝已始。",
+      "related": [
+        "korean-celadon-bowl-lotus",
+        "yuan-blue-white-jar"
+      ],
+      "sources": [
+        "vam-o22419"
+      ]
+    },
+    {
+      "id": "kashan-salting-mihrab",
+      "title": "卡尚「萨尔廷」米哈拉布釉砖",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "14世纪",
+      "region": "西亚·中亚",
+      "medium": "陶瓷",
+      "tier": "核心",
+      "def": "卡尚熔块胎釉上彩单块米哈拉布，维多利亚与艾伯特博物馆藏（O67415）。",
+      "when": "约1300年",
+      "overview": "釉上光泽彩与钴蓝；边框环铭文，龛内悬灯；拱形为清真寺米哈拉布（朝向麦加之龛）的缩微，用作墓葬标志。",
+      "related": [
+        "islamic-art",
+        "korean-celadon-bottle"
+      ],
+      "sources": [
+        "vam-o67415"
       ]
     }
   ]

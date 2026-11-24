@@ -53,3 +53,9 @@
 | WikiArt | 200 | 可达但非权威，未采用 |
 
 **结论**：内容来源从"仅 Wikidata"升级为"**博物馆 API + V&A + Europeana + SMK**"，可支撑作品级事实与策展说明；仍无法获取百科/专著级别的通史叙述。
+
+## B-music-src（Cycle106 记录）— 音乐史文本来源当前不可达
+- 实测 2026-11-24：en.wikipedia=000、imslp.org=000、metmuseum.org=000、britannica.com=403、oxfordmusiconline.com=302（付费墙）；仅 api.vam.ac.uk=200。
+- 影响：`music-medieval`(4)、`music-renaissance`(3) 等音乐文本单元，**新增条目无法取得可核验来源**，故暂停新增，不做无源凑数。
+- 现有音乐条目所用 `enc-*` 来源为早前已核验；本轮不追加同类新来源。
+- 解除条件：出现可达且权威的音乐史数据库/在线词典（如某机构开放 API 或镜像），可重开。
