@@ -1909,6 +1909,18 @@
       },
       "network": "CMA",
       "verdict": "art-modern 18→22（总550）；未饱和"
+    },
+    {
+      "cycle": "cycle157",
+      "date": "2026-11-24",
+      "methods_used": [
+        "当代艺术（按艺术家字段检索CMA）"
+      ],
+      "gaps_found": {
+        "entries": 4
+      },
+      "network": "CMA",
+      "verdict": "art-contemporary 13→17（总554）；未饱和"
     }
   ],
   "assessment_c33": {

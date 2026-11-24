@@ -1064,7 +1064,8 @@
       "overview": "通过随机拼贴、现成品与表演挑战传统艺术定义，杜尚的《泉》为标志性作品。",
       "related": [
         "futurism",
-        "surrealism"
+        "surrealism",
+        "rauschenberg-gloria"
       ],
       "sources": [
         "enc-dada",
@@ -1132,7 +1133,8 @@
         "expressionism",
         "kandinsky",
         "modern-art",
-        "pop-art"
+        "pop-art",
+        "johns-reconstruction"
       ],
       "sources": [
         "enc-abstract-expressionism",
@@ -1276,7 +1278,10 @@
         "pop-art",
         "conceptual-art",
         "warhol",
-        "modern-to-contemporary"
+        "modern-to-contemporary",
+        "rauschenberg-gloria",
+        "johns-reconstruction",
+        "oldenburg-giant-toothpaste-tube"
       ],
       "sources": [
         "enc-contemporary-art",
@@ -1298,7 +1303,8 @@
       "related": [
         "abstract-expressionism",
         "contemporary-art",
-        "warhol"
+        "warhol",
+        "oldenburg-giant-toothpaste-tube"
       ],
       "sources": [
         "enc-pop-art",
@@ -1320,7 +1326,8 @@
       "related": [
         "abstract-expressionism",
         "conceptual-art",
-        "bauhaus"
+        "bauhaus",
+        "lewitt-wall-drawing-4"
       ],
       "sources": [
         "enc-minimalism",
@@ -1341,7 +1348,8 @@
       "overview": "作品常以文本、文件、行为与装置呈现，强调艺术的思想语境而非视觉审美。",
       "related": [
         "minimalism",
-        "contemporary-art"
+        "contemporary-art",
+        "lewitt-wall-drawing-4"
       ],
       "sources": [
         "enc-conceptual-art",
@@ -7649,7 +7657,8 @@
       "related": [
         "modern-art",
         "rothko-no2-red-maroons",
-        "kelly-red-blue"
+        "kelly-red-blue",
+        "rauschenberg-gloria"
       ],
       "sources": [
         "cma-1980-180"
@@ -11908,6 +11917,89 @@
       ],
       "sources": [
         "cma-1969-46"
+      ]
+    },
+    {
+      "id": "rauschenberg-gloria",
+      "title": "劳森伯格《格洛丽亚》（1956）",
+      "kind": "作品",
+      "unit": "art-contemporary",
+      "era": "20世纪",
+      "region": "美国",
+      "medium": "综合材料绘画",
+      "tier": "重要",
+      "def": "劳森伯格把报纸剪报、照片与颜料并置的综合材料作品，克利夫兰艺术博物馆藏（1966.333）。",
+      "when": "1956年",
+      "overview": "该馆说明：此作是劳森伯格把现成印刷物与抽象绘画结合的构图的典型；他把报纸剪报（多张为纽约社交名媛格洛丽亚·范德比尔特）、一张照片、印刷纸板与几处颜料并置，摒弃了艺术材料的传统等级，模糊了日常生活与艺术的界线；该馆引他的话：一双袜子并不比木头、钉子、松节油、油彩与织物更不适合用来作画。",
+      "related": [
+        "contemporary-art",
+        "pollock-number5",
+        "dada",
+        "johns-reconstruction"
+      ],
+      "sources": [
+        "cma-1966-333"
+      ]
+    },
+    {
+      "id": "johns-reconstruction",
+      "title": "约翰斯《重建》（1959）",
+      "kind": "作品",
+      "unit": "art-contemporary",
+      "era": "20世纪",
+      "region": "美国",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "约翰斯的蜡画与拼贴作品，克利夫兰艺术博物馆藏（1973.28）。",
+      "when": "1959年",
+      "overview": "该馆说明：蜡画技法把颜料悬浮在加热的蜡中，上画后很快干燥，因此艺术家的手势与笔触、滴痕清晰可见；约翰斯还在画面上加了一块折入的画布，形成三段式构图；标题暗示画只在观者心中才有意义，观者依据艺术家提供的基本标记与材料词汇来「重建」作品；画布背面题「Reconstruction/ J. Johns '59」。",
+      "related": [
+        "contemporary-art",
+        "rauschenberg-gloria",
+        "abstract-expressionism"
+      ],
+      "sources": [
+        "cma-1973-28"
+      ]
+    },
+    {
+      "id": "oldenburg-giant-toothpaste-tube",
+      "title": "奥尔登堡《巨型牙膏管》（1964）",
+      "kind": "作品",
+      "unit": "art-contemporary",
+      "era": "20世纪",
+      "region": "美国",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "奥尔登堡把日用品放大为软雕塑的作品，克利夫兰艺术博物馆藏（2004.88）。",
+      "when": "1964年",
+      "overview": "该馆对奥尔登堡的总体介绍：他在1960年代因参与纽约反主流文化人物的集体表演「偶发艺术」与艺术影片而知名；同十年后期，他从无处不在的消费文化取材，用出人意料的材料把寻常物件做成巨大尺寸的雕塑，把平庸的家居之物提升为艺术品，使最日常的题材显得陌生，如同初次相遇；该作为乙烯基覆布填木棉，配木、金属与铸塑料部件。",
+      "related": [
+        "pop-art",
+        "contemporary-art"
+      ],
+      "sources": [
+        "cma-2004-88"
+      ]
+    },
+    {
+      "id": "lewitt-wall-drawing-4",
+      "title": "勒维特《墙绘 #4》（1969）",
+      "kind": "作品",
+      "unit": "art-contemporary",
+      "era": "20世纪",
+      "region": "美国",
+      "medium": "观念艺术",
+      "tier": "重要",
+      "def": "勒维特直接画在墙上的观念艺术作品，克利夫兰艺术博物馆藏（2008.144），现存为一个执行版本。",
+      "when": "1969年",
+      "overview": "该馆说明：勒维特是观念艺术家，1960年代末至1970年代初开始直接在墙上作画，以创作不受纸张约束的作品；他设计了一套所有权制度：买家获得一份证书与一份带指示的绘制稿，任何其他绘制者都可据以施作，从而把作品向绘制者的诠释敞开；该馆这一版本由勒维特工作室代表与博物馆安装人员合作完成；黑铅笔直接画于墙，整体304.7×304.7厘米。",
+      "related": [
+        "conceptual-art",
+        "minimalism"
+      ],
+      "sources": [
+        "cma-2008-144"
       ]
     }
   ]

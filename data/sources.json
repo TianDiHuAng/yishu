@@ -6759,6 +6759,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；水彩 24×23.5cm；题款Karneval im Schnee（该馆记录截断）；说明含杂技演员、青骑士成员、先画后辨认的方法"
+    },
+    {
+      "id": "cma-1966-333",
+      "title": "Cleveland Museum of Art — Robert Rauschenberg, Gloria, 1956, acc. 1966.333",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1966.333",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；油彩、织物、订书钉、报纸、石墨等混合材料 170.5×163.4×4.5cm；说明含格洛丽亚·范德比尔特剪报与劳森伯格引语"
+    },
+    {
+      "id": "cma-1973-28",
+      "title": "Cleveland Museum of Art — Jasper Johns, Reconstruction, 1959, acc. 1973.28",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1973.28",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；蜡画与拼贴 画布 155×111.7cm；背面题款Reconstruction/ J. Johns '59；说明含蜡画技法与标题解读"
+    },
+    {
+      "id": "cma-2004-88",
+      "title": "Cleveland Museum of Art — Claes Oldenburg, Giant Toothpaste Tube, 1964, acc. 2004.88",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2004.88",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；乙烯基覆布填木棉、木、金属与铸塑料 64.8×167.6×43.2cm；说明为对奥尔登堡的总体介绍"
+    },
+    {
+      "id": "cma-2008-144",
+      "title": "Cleveland Museum of Art — Sol LeWitt, Wall Drawing #4, 1969, acc. 2008.144",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2008.144",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；黑铅笔直接画于墙 304.7×304.7cm；说明含证书与指示的所有权制度、本版本由工作室人员与博物馆人员完成"
     }
   ]
 }

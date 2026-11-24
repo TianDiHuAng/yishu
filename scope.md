@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 550 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 554 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -234,6 +234,10 @@
 | degas-frieze-dancers | 德加《舞者饰带》 | 作品 | 19世纪 | 欧洲 | 绘画 | 核心 | O1 |
 | rouault-end-autumn | 鲁奥《秋末·第4号》 | 作品 | 20世纪 | 欧洲 | 绘画 | 核心 | O1 |
 | cannon-memorial-woodcut | 坎农《纪念木刻组画》 | 作品 | 20世纪 | 美洲 | 版画 | 核心 | O1 |
+| rauschenberg-gloria | 劳森伯格《格洛丽亚》（1956） | 作品 | 20世纪 | 美国 | 综合材料绘画 | 重要 | O1 |
+| johns-reconstruction | 约翰斯《重建》（1959） | 作品 | 20世纪 | 美国 | 绘画 | 重要 | O1 |
+| oldenburg-giant-toothpaste-tube | 奥尔登堡《巨型牙膏管》（1964） | 作品 | 20世纪 | 美国 | 雕塑 | 重要 | O1 |
+| lewitt-wall-drawing-4 | 勒维特《墙绘 #4》（1969） | 作品 | 20世纪 | 美国 | 观念艺术 | 重要 | O1 |
 
 ## art-china-painting（中国绘画史）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

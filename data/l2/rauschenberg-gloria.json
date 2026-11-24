@@ -1,0 +1,19 @@
+{
+ "id": "rauschenberg-gloria",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为美国艺术家罗伯特·劳森伯格（1925—2008）1956年的《格洛丽亚》，克利夫兰艺术博物馆藏（1966.333）。",
+  "风格特征": "该馆说明：此作是劳森伯格把现成印刷物与抽象绘画结合的构图的典型。",
+  "代表人物与作品": "作者为劳森伯格。相关条目见当代艺术、波洛克《第5号，1950》与达达主义。",
+  "技法或形式分析": "材料为油彩、织物、订书钉、报纸、纸上石墨、印刷纸，以及画布上的印刷复制品；整体170.5 × 163.4 × 4.5厘米（据该馆藏品记录）。该馆说明：画面并置了报纸剪报（其中数张涉及纽约社交名媛格洛丽亚·范德比尔特）、一张照片、印刷纸板与几处颜料。该馆记录无题款。",
+  "与前后风格的关系和争论": "该馆称，劳森伯格由此摒弃了艺术材料的传统等级，并模糊了日常生活与艺术之间的界线；该馆并引他的话：一双袜子并不比木头、钉子、松节油、油彩与织物更不适合用来作画。本条目只转述这些，不另作艺术史定位。",
+  "一图": "示意图以报纸剪报与照片、抽象绘画的颜料、日常与艺术的界线三者关系标示本作。",
+  "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）劳森伯格的引语为该馆所引，本条目未核对原始出处；（3）该馆说明提到剪报「多张涉及」范德比尔特，具体哪几张、内容为何，本条目未展开；（4）本条目不使用「新达达」「集合艺术」等名目，该馆说明未使用，本库也无对应独立条目；（5）该馆记录未列流传信息。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='rauschenberg-gloria 示意图'><title>rauschenberg-gloria</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>劳森伯格·1956</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>美国</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>格洛丽亚</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>170.5×163.4×4.</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>剪报·照片·纸板</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>现成印刷物</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>抽象绘画颜料</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>与日常并置</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>劳森伯格：日常与艺术的界线</text></g></svg>",
+ "sources": [
+  "cma-1966-333"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；引语未核对原出处；剪报具体内容未展开；未添加新达达等名目；无流传记录。"
+}

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 550,
+    "total": 554,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -6604,6 +6604,54 @@
     },
     "klee-carnival-in-snow": {
       "title": "克利《雪中狂欢节》（1923）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "rauschenberg-gloria": {
+      "title": "劳森伯格《格洛丽亚》（1956）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "johns-reconstruction": {
+      "title": "约翰斯《重建》（1959）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "oldenburg-giant-toothpaste-tube": {
+      "title": "奥尔登堡《巨型牙膏管》（1964）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "lewitt-wall-drawing-4": {
+      "title": "勒维特《墙绘 #4》（1969）",
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
