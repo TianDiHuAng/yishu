@@ -965,7 +965,8 @@
         "hals-tieleman-roosterman",
         "rubens-isabella-brant",
         "velazquez-jester-calabazas",
-        "hals-woman-aeltje-pater"
+        "hals-woman-aeltje-pater",
+        "ochtervelt-musical-company"
       ],
       "sources": [
         "enc-baroque",
@@ -1309,7 +1310,8 @@
         "symphonic-poem",
         "romantic-crossmedia",
         "courbet",
-        "corot"
+        "corot",
+        "preller-musicale"
       ],
       "sources": [
         "enc-romanticism",
@@ -1349,7 +1351,8 @@
         "rodin-age-of-bronze",
         "manet",
         "millet-return-from-fields",
-        "millet"
+        "millet",
+        "bonvin-woman-at-spinet"
       ],
       "sources": [
         "enc-realism-art",
@@ -3333,7 +3336,8 @@
         "dumont-harpsichord-miniature",
         "lancret-cello-drawing",
         "dusart-violin-tavern",
-        "cma-tiorbino"
+        "cma-tiorbino",
+        "ochtervelt-musical-company"
       ],
       "sources": [
         "enc-baroque-music",
@@ -3849,7 +3853,9 @@
         "wagner",
         "schubert",
         "impressionism-music",
-        "romantic-crossmedia"
+        "romantic-crossmedia",
+        "preller-musicale",
+        "bonvin-woman-at-spinet"
       ],
       "sources": [
         "enc-romantic-music",
@@ -20571,6 +20577,105 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cma-tang-qin-mirror 示意图'><title>cma-tang-qin-mirror</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>唐·8世纪晚期</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>青铜</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>龟钮菱花镜</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>直径21.6cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>铭文</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>一对镜之一</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>琴与凤凰</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>或指侯晋·求仙</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>含义未完全清楚的图案</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（CMA）来源；图案含义与婚礼之赠均为推测；铭文按馆方转录；制作者未列。"
+    },
+    {
+      "id": "preller-musicale",
+      "title": "普雷勒《普雷勒家的音乐会》（1838）",
+      "kind": "作品",
+      "unit": "art-neo-romantic",
+      "era": "19世纪",
+      "region": "德国",
+      "medium": "素描",
+      "tier": "重要",
+      "def": "普雷勒画家庭音乐聚会的铅笔素描，克利夫兰艺术博物馆藏（1976.7）。",
+      "when": "1838年",
+      "overview": "该馆说明：此画描绘德国风景画家普雷勒夫妇家中的一次午后或晚间聚会，钢琴是这次家庭社交的中心；围着钢琴的年轻女子中有两位姐妹，其中戴眼罩的是奥琳达，她跟普雷勒学画，与画家一家很亲近。",
+      "related": [
+        "romanticism-art",
+        "romantic-music"
+      ],
+      "sources": [
+        "cma-1976-7"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为德国画家弗里德里希·普雷勒1838年的铅笔素描《普雷勒家的音乐会》，克利夫兰艺术博物馆藏（1976.7）。",
+        "风格特征": "该馆说明：此画描绘普雷勒夫妇家中的一次午后或晚间家庭聚会，钢琴是这次家庭社交的中心。",
+        "代表人物与作品": "作者普雷勒是德国风景画家。该馆说明提到围着钢琴的年轻女子中有两位姐妹，其中戴眼罩的是奥琳达，她跟普雷勒学画，与画家一家很亲近。相关条目见浪漫主义美术与浪漫主义音乐。",
+        "技法或形式分析": "铅笔纸本；纸张31.3×41.4厘米（据该馆藏品记录）。题款含画家的字母组合与1838年，其中8由9改成。",
+        "与前后风格的关系和争论": "馆方说明只写了聚会场景与人物身份，没有就它的风格归属作论述。本条目只转述这些，不作风格归属的另论。",
+        "一图": "示意图以钢琴为中心，标示聚会、两位姐妹与学画的奥琳达之间的关系。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）馆方说明没有提曲目和演奏者，本条目没有补写；（3）题款中8由9改成是馆方记录的细节，本条目只转述；（4）与浪漫主义的关联只是相关条目，不作归类论证。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='preller-musicale 示意图'><title>preller-musicale</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>普雷勒·1838</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>德国</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>家庭音乐聚会</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>铅笔素描</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>钢琴是中心</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>家庭社交</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>两位姐妹</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>含奥琳达</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>馆方说明：钢琴是聚会中心</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "事实来自单一机构，整条待核实；馆方没提曲目与演奏者，未补写。"
+    },
+    {
+      "id": "bonvin-woman-at-spinet",
+      "title": "邦万《斯皮耐琴前的女子》（1860）",
+      "kind": "作品",
+      "unit": "art-neo-romantic",
+      "era": "19世纪",
+      "region": "法国",
+      "medium": "素描",
+      "tier": "重要",
+      "def": "邦万画弹琴女子的粉笔素描，克利夫兰艺术博物馆藏（2010.166）。",
+      "when": "1860年",
+      "overview": "该馆说明：女子弹琴是邦万反复画的题材；画中弹琴者很可能是21岁的音乐家塞琳·普吕奈尔，她于1860年嫁给年长许多的画家，不到三年后离开；脚边的粉红康乃馨或许暗示音乐与情感的短暂。",
+      "related": [
+        "realism-art",
+        "romantic-music"
+      ],
+      "sources": [
+        "cma-2010-166"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为法国画家弗朗索瓦·邦万1860年的《斯皮耐琴前的女子》，黑色粉笔加棕红粉笔与擦笔，克利夫兰艺术博物馆藏（2010.166）。",
+        "风格特征": "该馆说明：女子弹琴是邦万反复画的题材。",
+        "代表人物与作品": "该馆说明：画中弹琴者很可能是21岁的音乐家塞琳·普吕奈尔，她于1860年嫁给年长许多的画家，不到三年后离开。相关条目见现实主义美术与浪漫主义音乐。",
+        "技法或形式分析": "黑色粉笔加棕红粉笔与擦笔；纸张42×30.5厘米（据该馆藏品记录）。题款为F. Bonvin 1860。",
+        "与前后风格的关系和争论": "馆方没有说明它属于哪个流派。本条目关联到现实主义美术只是相关条目，不作归类论证。",
+        "一图": "示意图以弹琴女子为中心，标示画家、可能的模特与脚边的粉红康乃馨。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）弹琴者是塞琳·普吕奈尔，馆方用的是“很可能”，本条目照此转述，不作定论；（3）粉红康乃馨暗示音乐与情感的短暂，馆方用的是“或许”，本条目同样只转述；（4）馆方没提曲目，本条目没有补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='bonvin-woman-at-spinet 示意图'><title>bonvin-woman-at-spinet</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>邦万·1860</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>法国</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>斯皮耐琴前的女子</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>粉笔</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>很可能是普吕奈尔</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>21岁音乐家</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>粉红康乃馨</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>或暗示短暂</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>馆方用“很可能”“或许”</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "事实来自单一机构，整条待核实；模特身份与花的寓意馆方均为推测语气。"
+    },
+    {
+      "id": "ochtervelt-musical-company",
+      "title": "奥赫特费尔特《音乐聚会》（约1668）",
+      "kind": "作品",
+      "unit": "art-baroque",
+      "era": "17世纪",
+      "region": "荷兰",
+      "medium": "油画",
+      "tier": "重要",
+      "def": "奥赫特费尔特画室内音乐场景的油画，克利夫兰艺术博物馆藏（1991.23）。",
+      "when": "约1668年",
+      "overview": "该馆说明：画中人物神态平静优雅，但这个室内场景很可能是妓院，背景一排女子肖像是线索；音乐描绘提供另一条线索：竖笛与小提琴不看谱演奏，被视为较粗俗并与卖淫相联系，而该馆德·霍赫的作品中则是优雅而复杂的演奏。",
+      "related": [
+        "baroque",
+        "baroque-music"
+      ],
+      "sources": [
+        "cma-1991-23"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为荷兰画家雅各布·奥赫特费尔特约1668年的布面油画《音乐聚会》，克利夫兰艺术博物馆藏（1991.23）。",
+        "风格特征": "该馆说明：画中人物神态平静优雅，但这个室内场景很可能是妓院。",
+        "代表人物与作品": "该馆说明：背景一排女子肖像是线索之一。该馆另有德·霍赫的作品，其中的演奏优雅而复杂，可作对照。相关条目见巴洛克与巴洛克音乐。",
+        "技法或形式分析": "布面油画；画心58.5×48.9厘米（据该馆藏品记录）。",
+        "与前后风格的关系和争论": "该馆说明：音乐描绘提供另一条线索，竖笛与小提琴不看谱演奏被视为较粗俗，并与卖淫相联系。本条目只转述，不展开与德·霍赫作品的比较。",
+        "一图": "示意图以音乐聚会为中心，标示背景女子肖像与不看谱的演奏两条线索。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）场景是妓院，馆方用的是“很可能”，本条目不作定论；（3）不看谱演奏被视为粗俗是馆方对当时观念的说明，本条目只转述；（4）德·霍赫的作品本库未收入，故不建关联。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='ochtervelt-musical-compa 示意图'><title>ochtervelt-musical-compa</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>奥赫特费尔特·约1668</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>荷兰</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>音乐聚会</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>布面油画</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>背景女子肖像</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>线索之一</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>不看谱演奏</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>被视为粗俗</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>场景很可能是妓院（馆方）</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "事实来自单一机构，整条待核实；场景性质馆方为推测语气。"
     }
   ]
 }

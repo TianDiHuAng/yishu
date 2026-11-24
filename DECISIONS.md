@@ -1642,3 +1642,8 @@ art-contemporary 13→17。写前查重通过（标题与来源 id 均未被使�
 `cma-liu-songnian-qin`、`cma-wen-zhengming-qin`、`cma-tang-yin-qin`、`cma-tang-harpist`、`cma-tang-qin-mirror`。
 **如实**：music-china 补入 5 条；文徵明一条馆方称有学者提出更近似陆治画法，如实转述；均为 CMA 单机构来源。
 可逆：删本轮 overlay 与 catalog 元组、移除本轮来源。代价：单机构（CMA）。
+
+## D168 — Cycle168 音乐题材美术作品 3 条（588 → 591）
+`preller-musicale`（普雷勒《普雷勒家的音乐会》1838，art-neo-romantic）、`bonvin-woman-at-spinet`（邦万《斯皮耐琴前的女子》1860，art-neo-romantic）、`ochtervelt-musical-company`（奥赫特费尔特《音乐聚会》约1668，art-baroque）。
+**如实**：邦万画中弹琴者与粉红康乃馨的寓意、奥赫特费尔特场景的性质，馆方均为推测语气（“很可能”“或许”），按原语气转述不作定论；普雷勒一条馆方未提曲目与演奏者，未补写；与浪漫主义、现实主义的关联只是相关条目，不作流派归类论证；均为 CMA 单机构来源。
+可逆：删本轮 overlay 与 catalog 元组、移除本轮来源。代价：单机构（CMA）。

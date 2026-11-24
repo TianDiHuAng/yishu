@@ -7119,6 +7119,36 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；青铜 直径21.6cm；唐；有铭文；说明称图案含义不完全清楚、可能指侯晋与求仙"
+    },
+    {
+      "id": "cma-1976-7",
+      "title": "Cleveland Museum of Art — Friedrich Preller, Musicale at the Prellers', 1838, acc. 1976.7",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1976.7",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；铅笔纸本 纸张31.3×41.4cm；题款含画家字母组合与1838（其中8由9改成）；说明含家庭音乐聚会、钢琴为聚会中心、两位姐妹与戴眼罩的奥琳达"
+    },
+    {
+      "id": "cma-2010-166",
+      "title": "Cleveland Museum of Art — François Bonvin, Woman at the Spinet, 1860, acc. 2010.166",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2010.166",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；黑色粉笔加棕红粉笔与擦笔 纸张42×30.5cm；题款F. Bonvin 1860；说明含弹琴女子很可能是塞琳·普吕奈尔、粉红康乃馨或暗示音乐与情感的短暂"
+    },
+    {
+      "id": "cma-1991-23",
+      "title": "Cleveland Museum of Art — Jacob Ochtervelt, A Musical Company, c. 1668, acc. 1991.23",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1991.23",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；布面油画 画心58.5×48.9cm；说明含场景很可能是妓院、竖笛与小提琴不看谱演奏被视为较粗俗并与妓女相联系、对比德·霍赫的优雅音乐"
     }
   ]
 }

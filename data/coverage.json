@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 588,
+    "total": 591,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -7060,6 +7060,42 @@
     },
     "cma-tang-qin-mirror": {
       "title": "唐代龟钮菱花镜：乐师与凤凰（8世纪晚期）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "preller-musicale": {
+      "title": "普雷勒《普雷勒家的音乐会》（1838）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "bonvin-woman-at-spinet": {
+      "title": "邦万《斯皮耐琴前的女子》（1860）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "ochtervelt-musical-company": {
+      "title": "奥赫特费尔特《音乐聚会》（约1668）",
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",

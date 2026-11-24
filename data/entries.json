@@ -564,7 +564,8 @@
         "hals-tieleman-roosterman",
         "rubens-isabella-brant",
         "velazquez-jester-calabazas",
-        "hals-woman-aeltje-pater"
+        "hals-woman-aeltje-pater",
+        "ochtervelt-musical-company"
       ],
       "sources": [
         "enc-baroque",
@@ -763,7 +764,8 @@
         "symphonic-poem",
         "romantic-crossmedia",
         "courbet",
-        "corot"
+        "corot",
+        "preller-musicale"
       ],
       "sources": [
         "enc-romanticism",
@@ -791,7 +793,8 @@
         "rodin-age-of-bronze",
         "manet",
         "millet-return-from-fields",
-        "millet"
+        "millet",
+        "bonvin-woman-at-spinet"
       ],
       "sources": [
         "enc-realism-art",
@@ -2044,7 +2047,8 @@
         "dumont-harpsichord-miniature",
         "lancret-cello-drawing",
         "dusart-violin-tavern",
-        "cma-tiorbino"
+        "cma-tiorbino",
+        "ochtervelt-musical-company"
       ],
       "sources": [
         "enc-baroque-music",
@@ -2342,7 +2346,9 @@
         "wagner",
         "schubert",
         "impressionism-music",
-        "romantic-crossmedia"
+        "romantic-crossmedia",
+        "preller-musicale",
+        "bonvin-woman-at-spinet"
       ],
       "sources": [
         "enc-romantic-music",
@@ -12756,6 +12762,66 @@
       ],
       "sources": [
         "cma-1995-369"
+      ]
+    },
+    {
+      "id": "preller-musicale",
+      "title": "普雷勒《普雷勒家的音乐会》（1838）",
+      "kind": "作品",
+      "unit": "art-neo-romantic",
+      "era": "19世纪",
+      "region": "德国",
+      "medium": "素描",
+      "tier": "重要",
+      "def": "普雷勒画家庭音乐聚会的铅笔素描，克利夫兰艺术博物馆藏（1976.7）。",
+      "when": "1838年",
+      "overview": "该馆说明：此画描绘德国风景画家普雷勒夫妇家中的一次午后或晚间聚会，钢琴是这次家庭社交的中心；围着钢琴的年轻女子中有两位姐妹，其中戴眼罩的是奥琳达，她跟普雷勒学画，与画家一家很亲近。",
+      "related": [
+        "romanticism-art",
+        "romantic-music"
+      ],
+      "sources": [
+        "cma-1976-7"
+      ]
+    },
+    {
+      "id": "bonvin-woman-at-spinet",
+      "title": "邦万《斯皮耐琴前的女子》（1860）",
+      "kind": "作品",
+      "unit": "art-neo-romantic",
+      "era": "19世纪",
+      "region": "法国",
+      "medium": "素描",
+      "tier": "重要",
+      "def": "邦万画弹琴女子的粉笔素描，克利夫兰艺术博物馆藏（2010.166）。",
+      "when": "1860年",
+      "overview": "该馆说明：女子弹琴是邦万反复画的题材；画中弹琴者很可能是21岁的音乐家塞琳·普吕奈尔，她于1860年嫁给年长许多的画家，不到三年后离开；脚边的粉红康乃馨或许暗示音乐与情感的短暂。",
+      "related": [
+        "realism-art",
+        "romantic-music"
+      ],
+      "sources": [
+        "cma-2010-166"
+      ]
+    },
+    {
+      "id": "ochtervelt-musical-company",
+      "title": "奥赫特费尔特《音乐聚会》（约1668）",
+      "kind": "作品",
+      "unit": "art-baroque",
+      "era": "17世纪",
+      "region": "荷兰",
+      "medium": "油画",
+      "tier": "重要",
+      "def": "奥赫特费尔特画室内音乐场景的油画，克利夫兰艺术博物馆藏（1991.23）。",
+      "when": "约1668年",
+      "overview": "该馆说明：画中人物神态平静优雅，但这个室内场景很可能是妓院，背景一排女子肖像是线索；音乐描绘提供另一条线索：竖笛与小提琴不看谱演奏，被视为较粗俗并与卖淫相联系，而该馆德·霍赫的作品中则是优雅而复杂的演奏。",
+      "related": [
+        "baroque",
+        "baroque-music"
+      ],
+      "sources": [
+        "cma-1991-23"
       ]
     }
   ]
