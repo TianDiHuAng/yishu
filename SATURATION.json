@@ -1579,6 +1579,16 @@
       },
       "network": "V&A",
       "verdict": "总448；未饱和"
+    },
+    {
+      "cycle": "cycle129",
+      "date": "2026-11-24",
+      "methods_used": [
+        "全量QC"
+      ],
+      "gaps_found": {},
+      "network": "CMA/V&A",
+      "verdict": "303条/225尺寸/0问题；未饱和"
     }
   ],
   "assessment_c33": {
