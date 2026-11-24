@@ -9169,6 +9169,46 @@
       "type": "权威机构名称档案（人物姓名与生卒年）",
       "verified": true,
       "verified_note": "2026-11-24 经 id.loc.gov 取回该权威记录，标签为「Telemann, Georg Philipp, 1681-1767」，编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "mus-louvre-joconde",
+      "title": "Louvre Collections — Portrait de Lisa Gherardini, dit La Joconde ou Monna Lisa",
+      "author": "Musée du Louvre（卢浮宫藏品数据库）",
+      "year": "2026",
+      "url": "https://collections.louvre.fr/ark:/53355/cl010062370",
+      "type": "收藏机构官方藏品记录（作品名称、作者、年代）",
+      "verified": true,
+      "verified_note": "2026-11-24 取回该页面，核对到：La Joconde、1503 / 1519"
+    },
+    {
+      "id": "mus-uffizi-venus",
+      "title": "Uffizi Galleries — Birth of Venus, Sandro Botticelli",
+      "author": "Gallerie degli Uffizi（乌菲兹美术馆官网）",
+      "year": "2026",
+      "url": "https://www.uffizi.it/en/artworks/birth-of-venus",
+      "type": "收藏机构官方藏品记录（作品名称、作者、年代）",
+      "verified": true,
+      "verified_note": "2026-11-24 取回该页面，核对到：Birth of Venus、1485 ca."
+    },
+    {
+      "id": "mus-vatican-volta",
+      "title": "Musei Vaticani — Sistine Chapel, Ceiling",
+      "author": "Musei Vaticani（梵蒂冈博物馆官网）",
+      "year": "2026",
+      "url": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/cappella-sistina/volta.html",
+      "type": "收藏机构官方藏品记录（作品名称、作者、年代）",
+      "verified": true,
+      "verified_note": "2026-11-24 取回该页面，核对到：8 May 1508、31 October 1512"
+    },
+    {
+      "id": "mus-reinasofia-guernica",
+      "title": "Museo Reina Sofía — Guernica, Pablo Picasso (DE00050)",
+      "author": "Museo Nacional Centro de Arte Reina Sofía（索菲亚王后国家艺术中心官网）",
+      "year": "2026",
+      "url": "https://www.museoreinasofia.es/en/collection/artwork/guernica-0",
+      "type": "收藏机构官方藏品记录（作品名称、作者、年代）",
+      "verified": true,
+      "verified_note": "2026-11-24 取回该页面，核对到：Picasso, Pablo、1937、DE00050"
     }
   ]
 }
