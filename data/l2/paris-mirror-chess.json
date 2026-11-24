@@ -1,0 +1,19 @@
+{
+ "id": "paris-mirror-chess",
+ "level": "L2",
+ "sections": {
+  "时代背景": "该馆说明，在14世纪，**象牙**被宫廷赞助人视为表现人体**最精美的材料**；此时**巴黎**是这类**奢华象牙**的生产中心。本件为1325—50年的象牙镜背。",
+  "风格特征": "该馆指出这类象牙「为宫廷与贵族成员所追捧」，是**财富与地位的标志**，也是**时尚与品味**的标记。镜背所绘为**一男一女对弈**；**棋**在当时是流行游戏，在中世纪图像中**兼表爱与战**。",
+  "代表人物与作品": "作者未署名。相关条目见哥特象牙匣板与宝座圣母。本件为克利夫兰艺术博物馆藏品（1940.1200）。",
+  "技法或形式分析": "材质为**象牙**，直径10.2厘米、厚1厘米（据该馆藏品记录）。该馆指出，此象牙**原先构成一面镜子的背板**。",
+  "与前后风格的关系和争论": "该馆记录了一项**悬而未决的考订**：对这对情侣的身份有**多种说法**——**特里斯坦与伊索尔德**，或**兰斯洛特与桂妮薇儿**——但**均无定论**。该馆并说明，14世纪**大量**镜背存世，通常描绘**恋情或骑士行为**，为**浸淫于浪漫文学、渴求奢侈品**的**世俗主顾**而作。本条目据此把「身份不明」作为内容的一部分。",
+  "一图": "示意图以巴黎象牙中心、棋喻爱与战与「身份未定」三者关系标示本件。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）情侣身份该馆明言无定论；（3）镜子本体已失；（4）具体主顾未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='paris-mirror-chess 示意图'><title>paris-mirror-chess</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>巴黎象牙</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>奢华中心</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>镜背对弈</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>直径10.2</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>棋=爱与战</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>图像</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>身份未定</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>多说</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>象牙镜背：材料、棋与身份</text></g></svg>",
+ "sources": [
+  "cma-1940-1200"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；情侣身份无定论；主顾未记录。"
+}

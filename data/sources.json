@@ -4689,6 +4689,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；木胎黑漆鎏金 100×62×30cm；说明含触地印与蒲甘"
+    },
+    {
+      "id": "cma-2012-52",
+      "title": "Cleveland Museum of Art — Virgin and Child in Majesty, Auvergne, c. 1150–1200, acc. 2012.52",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2012.52",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；彩绘木（核桃木）40×22×24cm；说明含 Sedes Sapientiae 与道成肉身"
+    },
+    {
+      "id": "cma-1940-1200",
+      "title": "Cleveland Museum of Art — Mirror Case with a Couple Playing Chess, Paris, 1325–50, acc. 1940.1200",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1940.1200",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；象牙 直径10.2cm；说明含巴黎奢华象牙与棋=爱与战"
+    },
+    {
+      "id": "cma-1978-39",
+      "title": "Cleveland Museum of Art — Three Panels from a Casket with Courtly Romances, 1330–50, acc. 1978.39",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1978.39",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；象牙 13×26.2×1cm；说明含比武/爱之城堡/青春之泉"
+    },
+    {
+      "id": "cma-1919-1",
+      "title": "Cleveland Museum of Art — Pair of Stained Glass Panels with Donors, c. 1480, acc. 1919.1",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1919.1",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；金属着色玻璃与银黄 156×43.5cm；说明含供养人与家族礼拜堂"
     }
   ]
 }

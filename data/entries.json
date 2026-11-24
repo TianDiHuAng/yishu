@@ -220,7 +220,8 @@
       "related": [
         "romanesque",
         "renaissance",
-        "gothic-architecture"
+        "gothic-architecture",
+        "auvergne-virgin-majesty"
       ],
       "sources": [
         "enc-gothic",
@@ -7368,6 +7369,89 @@
       ],
       "sources": [
         "cma-1935-147"
+      ]
+    },
+    {
+      "id": "auvergne-virgin-majesty",
+      "title": "奥弗涅「宝座圣母」",
+      "kind": "作品",
+      "unit": "art-medieval",
+      "era": "12世纪",
+      "region": "欧洲",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "奥弗涅彩绘木「智慧宝座」圣母像，克利夫兰艺术博物馆藏（2012.52）。",
+      "when": "约1150—1200年",
+      "overview": "属 Sedes Sapientiae（智慧宝座）群像；圣母坐宝座又成为圣子的宝座，示道成肉身与救赎中介。",
+      "related": [
+        "gothic",
+        "paris-mirror-chess",
+        "gothic-casket-panels",
+        "stained-glass-donors-pair"
+      ],
+      "sources": [
+        "cma-2012-52"
+      ]
+    },
+    {
+      "id": "paris-mirror-chess",
+      "title": "巴黎象牙镜背（对弈情侣）",
+      "kind": "作品",
+      "unit": "art-medieval",
+      "era": "14世纪",
+      "region": "欧洲",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "巴黎象牙镜背，克利夫兰艺术博物馆藏（1940.1200）。",
+      "when": "1325—1350年",
+      "overview": "象牙为宫廷最珍视之材；巴黎为奢华象牙中心；绘男女对弈，棋在中世纪图像中兼喻爱与战。",
+      "related": [
+        "gothic-casket-panels",
+        "auvergne-virgin-majesty"
+      ],
+      "sources": [
+        "cma-1940-1200"
+      ]
+    },
+    {
+      "id": "gothic-casket-panels",
+      "title": "哥特象牙匣板（宫廷传奇）",
+      "kind": "作品",
+      "unit": "art-medieval",
+      "era": "14世纪",
+      "region": "欧洲",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "法国哥特象牙匣三块板，克利夫兰艺术博物馆藏（1978.39）。",
+      "when": "约1330—1350年",
+      "overview": "盖板绘比武，右侧为「爱之城堡」，侧板有青春之泉、高文与狮子、兰斯洛特渡剑桥；源自《玫瑰传奇》等。",
+      "related": [
+        "paris-mirror-chess",
+        "auvergne-virgin-majesty",
+        "stained-glass-donors-pair"
+      ],
+      "sources": [
+        "cma-1978-39"
+      ]
+    },
+    {
+      "id": "stained-glass-donors-pair",
+      "title": "彩窗供养人一对",
+      "kind": "作品",
+      "unit": "art-medieval",
+      "era": "15世纪",
+      "region": "欧洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "法国金属着色与银黄彩窗，克利夫兰艺术博物馆藏（1919.1）。",
+      "when": "约1480年",
+      "overview": "画男性（甲胄）与女性（珠饰华服）供养人，望向已失的中央画面；或为家族礼拜堂而设。",
+      "related": [
+        "auvergne-virgin-majesty",
+        "gothic-casket-panels"
+      ],
+      "sources": [
+        "cma-1919-1"
       ]
     }
   ]

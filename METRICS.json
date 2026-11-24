@@ -2852,6 +2852,31 @@
       "check_links_result": "broken=0(377页)",
       "audit_all": "12/12 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle100",
+      "date": "2026-11-24",
+      "status": "completed",
+      "gap_methods": [
+        "按单元计数定向补最薄 art-medieval"
+      ],
+      "network": "partial: museum APIs ok",
+      "new_entries": 4,
+      "new_entry_ids": [
+        "auvergne-virgin-majesty",
+        "paris-mirror-chess",
+        "gothic-casket-panels",
+        "stained-glass-donors-pair"
+      ],
+      "medieval_objects": 4,
+      "new_sources": 4,
+      "sources_total": 473,
+      "entries_total": 344,
+      "pages": 381,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(381页)",
+      "audit_all": "12/12 ok",
+      "commits": 1
     }
   ]
 }
