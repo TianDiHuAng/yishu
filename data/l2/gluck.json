@@ -1,0 +1,21 @@
+{
+  "id": "gluck",
+  "level": "L2",
+  "sections": {
+    "时代背景": "摘要称，格鲁克是早期古典时期的意大利与法国歌剧作曲家，生于上普法尔茨、成长于波希米亚（二者当时均属神圣罗马帝国），在维也纳的哈布斯堡宫廷成名；歌剧改革的关键作品出自1760年代。",
+    "风格特征": "摘要称，他以乐队宣叙调引入更多戏剧性，并削减通常冗长的返始咏叹调；后期歌剧的长度只有典型巴洛克歌剧的一半。",
+    "代表人物与作品": "摘要点名的作品是《奥菲欧与欧律狄刻》与《阿尔切斯特》，均属1760年代的一系列激进新作。摘要没有给出具体首演年份，本条目不补写。",
+    "技法或形式分析": "形式要点：乐队宣叙调、削减返始咏叹调、歌剧篇幅缩短。可对照歌剧条目，但该条摘要没有提到他。",
+    "与前后风格的关系和争论": "摘要称，他在维也纳实现了许多知识分子长期呼吁的歌剧戏剧性做法的实际改革，打破了梅塔斯塔西奥式正歌剧在这个世纪大部分时间里的垄断。“垄断”与“改革”是摘要的叙述，本条目不作独立判断。",
+    "一图": "示意图以格鲁克为中心，标示梅塔斯塔西奥式正歌剧、乐队宣叙调与削减返始咏叹调、更短的歌剧三项。",
+    "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年（1714—1787年）摘要未给出，取自 Wikidata 简介，需另取权威来源核实。（3）作品首演年份，摘要未给出；（4）“改革”的历史评价，本条目不作判断；（5）Wikidata 英文标签为“Christoph Willibald von Gluck”，与页面标题略有不同，指向同一人。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='gluck 示意图'><title>gluck</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>梅塔斯塔西奥式正歌剧</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>此前的垄断</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>格鲁克</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>歌剧改革</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>乐队宣叙调</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>更多戏剧性</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>削减返始咏叹调</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>篇幅减半</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+  "sources": [
+    "enc-gluck",
+    "enc-c177-classical-period-music",
+    "wd-gluck"
+  ],
+  "needs_verification": true,
+  "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；生卒年来自 Wikidata；首演年份未给出。"
+}

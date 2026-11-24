@@ -2088,7 +2088,8 @@
         "dusart-violin-tavern",
         "cma-tiorbino",
         "ochtervelt-musical-company",
-        "concerto"
+        "concerto",
+        "vivaldi"
       ],
       "sources": [
         "enc-baroque-music",
@@ -2115,7 +2116,9 @@
         "cma-yueqin",
         "redon-parsifal",
         "redon-brunnhilde",
-        "fantin-latour-tannhauser"
+        "fantin-latour-tannhauser",
+        "tchaikovsky",
+        "gluck"
       ],
       "sources": [
         "enc-opera",
@@ -2204,7 +2207,8 @@
       "related": [
         "baroque-music",
         "fugue",
-        "counterpoint"
+        "counterpoint",
+        "vivaldi"
       ],
       "sources": [
         "enc-bach",
@@ -2254,7 +2258,8 @@
         "haydn",
         "mozart",
         "beethoven",
-        "classical-crossmedia"
+        "classical-crossmedia",
+        "gluck"
       ],
       "sources": [
         "enc-classical-period-music",
@@ -2278,7 +2283,8 @@
         "beethoven",
         "haydn",
         "violin",
-        "concerto"
+        "concerto",
+        "mahler"
       ],
       "sources": [
         "enc-symphony",
@@ -2342,7 +2348,8 @@
       "overview": "代表作《费加罗的婚礼》《唐璜》《魔笛》及大量协奏曲与交响曲，体裁涵盖广泛。",
       "related": [
         "classical-period-music",
-        "opera"
+        "opera",
+        "gluck"
       ],
       "sources": [
         "enc-mozart",
@@ -2401,7 +2408,11 @@
         "kriehuber-bust-of-beethoven",
         "redon-parsifal",
         "redon-brunnhilde",
-        "fantin-latour-tannhauser"
+        "fantin-latour-tannhauser",
+        "brahms",
+        "liszt",
+        "mahler",
+        "tchaikovsky"
       ],
       "sources": [
         "enc-romantic-music",
@@ -2423,7 +2434,8 @@
       "related": [
         "romantic-music",
         "schubert",
-        "chopin"
+        "chopin",
+        "brahms"
       ],
       "sources": [
         "enc-romantic-music",
@@ -2444,7 +2456,8 @@
       "overview": "李斯特创立该体裁，通过主题变形与配器描绘标题意象，推动标题音乐发展。",
       "related": [
         "romantic-music",
-        "romanticism-art"
+        "romanticism-art",
+        "liszt"
       ],
       "sources": [
         "enc-romantic-music",
@@ -2466,7 +2479,8 @@
       "related": [
         "romantic-music",
         "lied",
-        "piano"
+        "piano",
+        "liszt"
       ],
       "sources": [
         "enc-chopin",
@@ -2538,7 +2552,8 @@
         "stravinsky",
         "schoenberg",
         "debussy",
-        "rite-of-spring-work"
+        "rite-of-spring-work",
+        "mahler"
       ],
       "sources": [
         "enc-20th-century-classical",
@@ -13582,7 +13597,9 @@
       "related": [
         "baroque-music",
         "symphony",
-        "sonata-form"
+        "sonata-form",
+        "vivaldi",
+        "tchaikovsky"
       ],
       "sources": [
         "enc-concerto",
@@ -13605,7 +13622,8 @@
       "related": [
         "polyphony",
         "fugue",
-        "bach"
+        "bach",
+        "brahms"
       ],
       "sources": [
         "enc-counterpoint",
@@ -13796,6 +13814,144 @@
         "enc-beaux-arts-architecture",
         "enc-c176-eclecticism-in-architecture",
         "wd-beaux-arts-architecture"
+      ]
+    },
+    {
+      "id": "vivaldi",
+      "title": "维瓦尔第（Antonio Vivaldi）",
+      "kind": "人物",
+      "unit": "music-baroque",
+      "era": "17—18世纪",
+      "region": "意大利",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "意大利巴洛克作曲家、小提琴演奏家与经纪人，被视为最伟大的巴洛克作曲家之一，巩固了协奏曲形式，尤其是独奏协奏曲。",
+      "when": "1678—1741年",
+      "overview": "安东尼奥·维瓦尔第是意大利作曲家、小提琴演奏家，也是巴洛克音乐的经纪人。他被视为最伟大的巴洛克作曲家之一，生前即影响欧洲各地，催生了许多模仿者与仰慕者。他在配器、小提琴技巧与标题音乐方面开创了多项发展，并把新兴的协奏曲形式，尤其是独奏协奏曲，巩固为被广泛接受并沿用的惯用形式。",
+      "related": [
+        "baroque-music",
+        "concerto",
+        "bach"
+      ],
+      "sources": [
+        "enc-vivaldi",
+        "enc-c177-baroque-music",
+        "wd-vivaldi"
+      ]
+    },
+    {
+      "id": "brahms",
+      "title": "勃拉姆斯（Johannes Brahms）",
+      "kind": "人物",
+      "unit": "music-romantic",
+      "era": "19世纪",
+      "region": "德国",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "德国浪漫主义中期作曲家、钢琴家与指挥家，作品以富于表现的对位、更自由的不协和、节奏活力与传统曲式为特色。",
+      "when": "1833—1897年",
+      "overview": "约翰内斯·勃拉姆斯是浪漫主义中期的德国作曲家、钢琴家与指挥家。他的音乐以富于表现的对位、更自由的不协和、节奏的活力与传统曲式为特色。作品包括四部交响曲、四部协奏曲、一部安魂曲、大量室内乐，以及数百首民歌改编曲与艺术歌曲。",
+      "related": [
+        "romantic-music",
+        "counterpoint",
+        "lied"
+      ],
+      "sources": [
+        "enc-brahms",
+        "enc-c177-romantic-music",
+        "wd-brahms"
+      ]
+    },
+    {
+      "id": "liszt",
+      "title": "李斯特（Franz Liszt）",
+      "kind": "人物",
+      "unit": "music-romantic",
+      "era": "19世纪",
+      "region": "匈牙利",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "浪漫主义时期的匈牙利作曲家、钢琴演奏大师、指挥家与教师，作品跨越六十余年，被视为其时代最多产、最有影响的作曲家之一。",
+      "when": "1811—1886年",
+      "overview": "弗朗茨·李斯特是浪漫主义时期的匈牙利作曲家、钢琴演奏大师、指挥家与教师。他的创作跨越六十多年，被视为其时代最多产、最有影响的作曲家之一，他的钢琴作品至今仍被广泛演出与录音。",
+      "related": [
+        "romantic-music",
+        "symphonic-poem",
+        "chopin"
+      ],
+      "sources": [
+        "enc-liszt",
+        "enc-c177-romantic-music",
+        "wd-liszt"
+      ]
+    },
+    {
+      "id": "mahler",
+      "title": "马勒（Gustav Mahler）",
+      "kind": "人物",
+      "unit": "music-romantic",
+      "era": "19世纪末—20世纪初",
+      "region": "奥地利·波希米亚",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "奥地利—波希米亚的浪漫主义作曲家，同辈中最重要的指挥家之一，是19世纪传统与20世纪初现代主义之间的桥梁。",
+      "when": "1860—1911年",
+      "overview": "古斯塔夫·马勒是奥地利—波希米亚的浪漫主义作曲家，也是同辈中首屈一指的指挥家。作为作曲家，他充当了19世纪传统与20世纪初现代主义之间的桥梁。他生前作为指挥家的地位毋庸置疑，自己的音乐却在一段相对被冷落的时期之后才广受欢迎，其间包括纳粹时代在欧洲大部分地区对其演出的禁令。1945年之后，新一代听众重新发现了他的作品，他成为被演出与录音最多的作曲家之一，这一地位延续至21世纪。",
+      "related": [
+        "romantic-music",
+        "symphony",
+        "20th-century-classical"
+      ],
+      "sources": [
+        "enc-mahler",
+        "enc-c177-romantic-music",
+        "wd-mahler"
+      ]
+    },
+    {
+      "id": "tchaikovsky",
+      "title": "柴可夫斯基（Pyotr Ilyich Tchaikovsky）",
+      "kind": "人物",
+      "unit": "music-romantic",
+      "era": "19世纪",
+      "region": "俄国",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "浪漫主义时期的俄国作曲家，第一位音乐给国际留下持久印象的俄国作曲家，写下古典曲目中最流行的一批音乐会与舞台音乐。",
+      "when": "1840—1893年",
+      "overview": "彼得·伊里奇·柴可夫斯基是浪漫主义时期的俄国作曲家，是第一位音乐给国际留下持久印象的俄国作曲家。他写下了古典曲目中最流行的一批音乐会与剧场音乐，包括《1812序曲》、第一钢琴协奏曲、小提琴协奏曲、《罗密欧与朱丽叶》序曲幻想曲、数部交响曲、歌剧《叶甫盖尼·奥涅金》，以及芭蕾《天鹅湖》《睡美人》《胡桃夹子》。",
+      "related": [
+        "romantic-music",
+        "concerto",
+        "opera"
+      ],
+      "sources": [
+        "enc-tchaikovsky",
+        "enc-c177-romantic-music",
+        "wd-tchaikovsky"
+      ]
+    },
+    {
+      "id": "gluck",
+      "title": "格鲁克（Christoph Willibald Gluck）",
+      "kind": "人物",
+      "unit": "music-classical",
+      "era": "18世纪",
+      "region": "德意志·奥地利",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "早期古典时期的意大利与法国歌剧作曲家，在维也纳哈布斯堡宫廷推动了歌剧戏剧性做法的实际改革。",
+      "when": "1714—1787年",
+      "overview": "克里斯托夫·维利巴尔德·格鲁克是早期古典时期意大利歌剧与法国歌剧的作曲家。他生于上普法尔茨、成长于波希米亚，二者当时都属神圣罗马帝国，在维也纳的哈布斯堡宫廷成名，并在那里实现了许多知识分子长期呼吁的歌剧戏剧性做法的实际改革。1760年代一系列激进的新作，其中有《奥菲欧与欧律狄刻》和《阿尔切斯特》，打破了梅塔斯塔西奥式正歌剧在这个世纪大部分时间里的垄断。他以乐队宣叙调引入更多戏剧性，并削减通常冗长的返始咏叹调，后期歌剧的长度只有典型巴洛克歌剧的一半。",
+      "related": [
+        "opera",
+        "classical-period-music",
+        "mozart"
+      ],
+      "sources": [
+        "enc-gluck",
+        "enc-c177-classical-period-music",
+        "wd-gluck"
       ]
     }
   ]

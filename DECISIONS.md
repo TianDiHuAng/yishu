@@ -1704,3 +1704,10 @@ art-contemporary 13→17。写前查重通过（标题与来源 id 均未被使�
 **如实**：正文只转述摘要，建筑师与具体建筑一律不补。日本、印度建筑摘要无年份，when 写“历代”；现代建筑摘要只说“20世纪”，不具体化。Wikipedia 与 Wikidata 同源，独立性有限，整条保持待核实。
 过程记录：add → build_scope → write → merge_l2 → gen_site → check → check_links，一次通过；条目数 626 → 632，来源 773 → 790，check.py errors=0，check_links 669 页 0 断链。
 可逆：删 write_c176 生成的 6 个 data/l2 文件、catalog 元组与本轮来源后重跑 build_scope/merge_l2/gen_site。代价：来源独立性有限（Wikipedia+Wikidata）。
+
+## D177 — Cycle177 音乐人物 6 条（632 → 638）
+**做法**：开工前探针，Wikipedia REST 仍 200。新增维瓦尔第、勃拉姆斯、李斯特、马勒、柴可夫斯基、格鲁克 6 条，挂入音乐巴洛克/古典/浪漫单元；库内原已有巴赫、海顿、莫扎特、贝多芬、肖邦、舒伯特、瓦格纳等，不重复。每条 3 个来源：本体页 Wikipedia 摘要、相邻主题页（巴洛克音乐/浪漫主义音乐/古典时期音乐）摘要、Wikidata；6 个 QID 英文标签均已核对（格鲁克为“von Gluck”，与页面标题略有差异，指向同一人，已在条目注明）。
+**生卒年的取舍**：这批人物的摘要都不给生卒年，而库内人物条目的 when 惯例是生卒年，且 R2 要求数字年代。决定：when 采 Wikidata 简介里的生卒年（结构化字段，不是推断），并在每条“待核实”明写“摘要未给出，取自 Wikidata 简介，需另取权威来源核实”。这比写模糊年代更诚实，也与库内一致。
+**如实**：正文只转述摘要；柴可夫斯基、格鲁克摘要点名的作品照录，其余人物不补作品名。“最伟大”“最多产”“最流行”等评价性说法逐条标为摘要转述，不作独立判断。Wikipedia 与 Wikidata 同源，独立性有限，整条保持待核实。
+过程记录：add → build_scope → write → merge_l2 → gen_site → check → check_links，一次通过；条目数 632 → 638，来源 790 → 805，check.py errors=0，check_links 675 页 0 断链。
+可逆：删 write_c177 生成的 6 个 data/l2 文件、catalog 元组与本轮来源后重跑 build_scope/merge_l2/gen_site。代价：来源独立性有限，生卒年来自同源结构化数据。

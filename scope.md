@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 632 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 638 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -346,6 +346,7 @@
 | bach | 巴赫 | 人物 | 17—18世纪 | 德国 | 音乐体裁 | 核心 | O1 |
 | monteverdi | 蒙特威尔第 | 人物 | 16—17世纪 | 意大利 | 音乐体裁 | 重要 | O1 |
 | concerto | 协奏曲（Concerto） | 术语 | 巴洛克晚期—今 | 欧洲 | 音乐体裁 | 重要 | O4 |
+| vivaldi | 维瓦尔第（Antonio Vivaldi） | 人物 | 17—18世纪 | 意大利 | 音乐体裁 | 核心 | O1 |
 
 ## music-classical（音乐史·古典）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -356,6 +357,7 @@
 | haydn | 海顿 | 人物 | 18世纪 | 奥地利 | 音乐体裁 | 重要 | O1 |
 | mozart | 莫扎特 | 人物 | 18世纪 | 奥地利 | 音乐体裁 | 核心 | O1 |
 | beethoven | 贝多芬 | 人物 | 18—19世纪 | 德国 | 音乐体裁 | 核心 | O1 |
+| gluck | 格鲁克（Christoph Willibald Gluck） | 人物 | 18世纪 | 德意志·奥地利 | 音乐体裁 | 重要 | O1 |
 
 ## music-romantic（音乐史·浪漫）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -366,6 +368,10 @@
 | chopin | 肖邦 | 人物 | 19世纪 | 波兰/法国 | 音乐体裁 | 核心 | O1 |
 | wagner | 瓦格纳 | 人物 | 19世纪 | 德国 | 音乐体裁 | 核心 | O1 |
 | schubert | 舒伯特 | 人物 | 19世纪 | 奥地利 | 音乐体裁 | 重要 | O1 |
+| brahms | 勃拉姆斯（Johannes Brahms） | 人物 | 19世纪 | 德国 | 音乐体裁 | 核心 | O1 |
+| liszt | 李斯特（Franz Liszt） | 人物 | 19世纪 | 匈牙利 | 音乐体裁 | 核心 | O1 |
+| mahler | 马勒（Gustav Mahler） | 人物 | 19世纪末—20世纪初 | 奥地利·波希米亚 | 音乐体裁 | 核心 | O1 |
+| tchaikovsky | 柴可夫斯基（Pyotr Ilyich Tchaikovsky） | 人物 | 19世纪 | 俄国 | 音乐体裁 | 核心 | O1 |
 
 ## music-modern（音乐史·20世纪与当代）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
