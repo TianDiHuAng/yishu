@@ -1,0 +1,19 @@
+{
+ "id": "elema-spirit-board",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为巴布亚新几内亚巴布亚湾埃莱马（Elema）地区的彩绘木质精灵板，20世纪，1930年前入藏或制作（该馆记为 before 1930），克利夫兰艺术博物馆藏（1971.154）。",
+  "风格特征": "该馆说明：与其他神圣器物一样，精灵板陈列在埃莱马男子的房屋里；每一块都以栖居其中的丛林精灵命名。",
+  "代表人物与作品": "作者未署名（该馆记录无创作者）。相关条目见太平洋艺术与安布里姆等级社会祖像。",
+  "技法或形式分析": "材质为彩绘木；高123.2厘米（据该馆藏品记录）。该馆说明未描述图像或造型，本条目不补写。",
+  "与前后风格的关系和争论": "本条目据该馆说明只把握两点：一是它属于「神圣器物」，陈列于男子房屋；二是每块板与一位丛林精灵一一对应并以其命名。图像含义、使用方式与仪式语境，该馆说明均未涉及。",
+  "一图": "示意图以埃莱马男子屋、神圣器物、以丛林精灵命名三者关系标示本板。",
+  "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）该馆说明仅两句，未述图像、制作与使用；（3）「1930年前」为该馆的上限式定年，具体年代未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='elema-spirit-board 示意图'><title>elema-spirit-board</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>埃莱马·20世纪</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>巴布亚湾</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>精灵板</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>123.2cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>男子房屋陈列</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>神圣器物</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>以丛林精灵命名</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>一板一灵</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>精灵板：一板一灵</text></g></svg>",
+ "sources": [
+  "cma-1971-154"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；说明简略，图像与用法未述；年代只到1930年前。"
+}

@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 528 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 532 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -602,6 +602,10 @@
 | tapa-cloth-samoa | 萨摩亚树皮布（tapa） | 作品 | 19世纪 | 大洋洲 | 织物 | 核心 | O1 |
 | aboriginal-tapestry-pike | 平克《水潭边的两人》（原住民挂毯） | 作品 | 20世纪 | 大洋洲 | 织物 | 核心 | O1 |
 | maori-flax-cloak | 毛利亚麻斗篷 | 作品 | 19世纪 | 大洋洲 | 织物 | 重要 | O1 |
+| malagan-memorial-pole | 新爱尔兰马兰根纪念节庆柱（19世纪） | 作品 | 19世纪 | 大洋洲 | 雕塑 | 重要 | O1 |
+| rapa-nui-rei-miro | 拉帕努伊（复活节岛）胸饰 Rei Miro（19世纪） | 作品 | 19世纪 | 大洋洲 | 综合 | 重要 | O1 |
+| elema-spirit-board | 埃莱马精灵板（1930年前） | 作品 | 20世纪 | 大洋洲 | 雕塑 | 重要 | O1 |
+| abelam-yam-mask | 阿贝拉姆山药面具（20世纪） | 作品 | 20世纪 | 大洋洲 | 综合 | 重要 | O1 |
 
 ## music-instruments（乐器（跨文化））
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

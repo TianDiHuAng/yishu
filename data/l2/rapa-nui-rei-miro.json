@@ -1,0 +1,19 @@
+{
+ "id": "rapa-nui-rei-miro",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为拉帕努伊（Rapa Nui，复活节岛，波利尼西亚）的木制胸饰 rei miro，定年1800年代，克利夫兰艺术博物馆藏（1961.406）。",
+  "风格特征": "该馆说明：rei miro 意为「木制项链」，是优雅的新月形胸饰，一般由拉帕努伊的贵族女性佩戴。",
+  "代表人物与作品": "作者未署名（该馆记录无创作者）。相关条目见太平洋艺术与毛利吊坠（hei-tiki）。",
+  "技法或形式分析": "材质为木；整体30.8 × 69.8厘米（据该馆藏品记录）。该馆指出：本件两端尖头的抽象造型，取代了更为典型的人头。",
+  "与前后风格的关系和争论": "本条目据该馆说明把握「典型与变体」：该馆称人头是这类胸饰端部更典型的样式，本件以抽象形取代之。至于这一变化的原因与含义，该馆未作说明，本条目不作推断。该馆记录的来源链为 Howard Beasley，其后为 William Mathewson Milliken。",
+  "一图": "示意图以新月形木胸饰、贵族女性佩戴、尖端抽象形取代人头三者关系标示本件。",
+  "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）抽象形取代人头的原因与含义该馆未说明；（3）具体年代只到「1800年代」，制作者未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='rapa-nui-rei-miro 示意图'><title>rapa-nui-rei-miro</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>拉帕努伊·19世纪</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>波利尼西亚</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>Rei Miro 胸饰</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>69.8cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>新月形木制</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>贵族女性佩戴</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>尖端抽象形</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>取代人头</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>Rei Miro：新月形木胸饰</text></g></svg>",
+ "sources": [
+  "cma-1961-406"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；抽象形含义未说明；制作者未记录。"
+}

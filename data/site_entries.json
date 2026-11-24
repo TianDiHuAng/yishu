@@ -6467,7 +6467,8 @@
       "overview": "为承载 mana（威望与灵力）的祖传之物，连接生者与前欧洲时代的祖先；或指传说女性始祖 Hine-te-Iwaiwa。",
       "related": [
         "asmat-war-shield",
-        "oceania-art"
+        "oceania-art",
+        "rapa-nui-rei-miro"
       ],
       "sources": [
         "cma-1954-147"
@@ -6653,7 +6654,11 @@
         "sepik-hook-figure",
         "cook-ceremonial-adze",
         "ambrym-grade-figure",
-        "aboriginal-tapestry-pike"
+        "aboriginal-tapestry-pike",
+        "malagan-memorial-pole",
+        "rapa-nui-rei-miro",
+        "elema-spirit-board",
+        "abelam-yam-mask"
       ],
       "sources": [
         "cma-1954-147",
@@ -12656,7 +12661,8 @@
         "oceania-art",
         "maori-hei-tiki-1969",
         "sepik-hook-figure",
-        "tapa-cloth-samoa"
+        "tapa-cloth-samoa",
+        "malagan-memorial-pole"
       ],
       "sources": [
         "cma-1971-150"
@@ -12690,7 +12696,8 @@
       "related": [
         "sepik-ancestral-figure",
         "oceania-art",
-        "ambrym-grade-figure"
+        "ambrym-grade-figure",
+        "abelam-yam-mask"
       ],
       "sources": [
         "cma-1963-553"
@@ -12757,7 +12764,8 @@
       "related": [
         "sepik-hook-figure",
         "oceania-art",
-        "cook-ceremonial-adze"
+        "cook-ceremonial-adze",
+        "elema-spirit-board"
       ],
       "sources": [
         "cma-1971-272"
@@ -18457,6 +18465,138 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='renoir-apple-seller 示意图'><title>renoir-apple-seller</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>雷诺阿·约1890</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>可能在埃索瓦</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>《卖苹果的女人》</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>65.8×54.5cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>斑驳阳光·流畅笔触</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>人物连成一体</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>题款1864与定年矛盾</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>待核实</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>《卖苹果的女人》：题款与定年之谜</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（CMA）来源；题款1864与定年约1890矛盾未解；男孩与完成地为推测。"
+    },
+    {
+      "id": "malagan-memorial-pole",
+      "title": "新爱尔兰马兰根纪念节庆柱（19世纪）",
+      "kind": "作品",
+      "unit": "art-oceania",
+      "era": "19世纪",
+      "region": "大洋洲",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "新爱尔兰（美拉尼西亚）彩绘木柱，嵌海螺盖，克利夫兰艺术博物馆藏（1971.149）。",
+      "when": "1800年代",
+      "overview": "重要人物去世后，村民筹备盛大的马兰根（malagan）葬礼：集粮办宴，雇艺术家雕刻精美的雕像与面具，并邀邻近群体参加；仪式持续数日，有演说、舞蹈、音乐、宴飨与物品交换，以展示雕刻彩绘作品为高潮；宾客离去后，雕刻品被弃置，有时被收存。",
+      "related": [
+        "oceania-art",
+        "sepik-ancestral-figure"
+      ],
+      "sources": [
+        "cma-1971-149"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为新爱尔兰（美拉尼西亚）的马兰根纪念节庆柱，定年1800年代，克利夫兰艺术博物馆藏（1971.149）。",
+        "风格特征": "该馆说明：在新爱尔兰社会，重要人物去世后，村民开始筹备精心安排的马兰根（malagan）葬礼，集聚食物办宴，并委托艺术家雕刻精美的雕像与面具。",
+        "代表人物与作品": "作者未署名（该馆记录无创作者）。相关条目见太平洋艺术与塞皮克祖灵像。",
+        "技法或形式分析": "材质为彩绘木与海螺盖（sea snail opercula）；高92.7厘米（据该馆藏品记录）。该馆的说明讲的是整场仪式，并未逐项描述这根柱子的形制，本条目不补写。",
+        "与前后风格的关系和争论": "该馆说明：邻近群体受邀参加，仪式持续数日，包括演说、舞蹈、音乐、宴飨与物品交换；仪式的高潮是展示精雕彩绘的作品；宾客离去后，这些雕刻品被丢弃，有时被收存。本条目据此把它读作「为仪式而作」的艺术：作品的生命与一场葬礼绑在一起，而不以长久保存为前提。",
+        "一图": "示意图以葬礼筹备、受邀宾客与交换、展示后弃置或收存三者关系标示本柱的语境。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）该馆说明针对整场马兰根仪式，未说明本柱的具体用途与图像含义；（3）具体制作地点、年代与制作者未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='malagan-memorial-pole 示意图'><title>malagan-memorial-pole</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>新爱尔兰·19世纪</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>美拉尼西亚</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>马兰根纪念柱</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>92.7cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>葬礼筹备</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>办宴·委托雕刻</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>展示后弃置或收存</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>数日仪式</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>马兰根柱：为仪式而作</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；说明针对整场仪式，未述本柱用途；制作者与年代未记录。"
+    },
+    {
+      "id": "rapa-nui-rei-miro",
+      "title": "拉帕努伊（复活节岛）胸饰 Rei Miro（19世纪）",
+      "kind": "作品",
+      "unit": "art-oceania",
+      "era": "19世纪",
+      "region": "大洋洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "拉帕努伊（复活节岛，波利尼西亚）木制新月形胸饰，克利夫兰艺术博物馆藏（1961.406）。",
+      "when": "1800年代",
+      "overview": "rei miro 意为「木制项链」，多由拉帕努伊的贵族女性佩戴；形制为优雅的新月形；本件两端尖头的抽象造型，取代了更典型的人头。",
+      "related": [
+        "oceania-art",
+        "maori-hei-tiki"
+      ],
+      "sources": [
+        "cma-1961-406"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为拉帕努伊（Rapa Nui，复活节岛，波利尼西亚）的木制胸饰 rei miro，定年1800年代，克利夫兰艺术博物馆藏（1961.406）。",
+        "风格特征": "该馆说明：rei miro 意为「木制项链」，是优雅的新月形胸饰，一般由拉帕努伊的贵族女性佩戴。",
+        "代表人物与作品": "作者未署名（该馆记录无创作者）。相关条目见太平洋艺术与毛利吊坠（hei-tiki）。",
+        "技法或形式分析": "材质为木；整体30.8 × 69.8厘米（据该馆藏品记录）。该馆指出：本件两端尖头的抽象造型，取代了更为典型的人头。",
+        "与前后风格的关系和争论": "本条目据该馆说明把握「典型与变体」：该馆称人头是这类胸饰端部更典型的样式，本件以抽象形取代之。至于这一变化的原因与含义，该馆未作说明，本条目不作推断。该馆记录的来源链为 Howard Beasley，其后为 William Mathewson Milliken。",
+        "一图": "示意图以新月形木胸饰、贵族女性佩戴、尖端抽象形取代人头三者关系标示本件。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）抽象形取代人头的原因与含义该馆未说明；（3）具体年代只到「1800年代」，制作者未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='rapa-nui-rei-miro 示意图'><title>rapa-nui-rei-miro</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>拉帕努伊·19世纪</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>波利尼西亚</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>Rei Miro 胸饰</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>69.8cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>新月形木制</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>贵族女性佩戴</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>尖端抽象形</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>取代人头</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>Rei Miro：新月形木胸饰</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；抽象形含义未说明；制作者未记录。"
+    },
+    {
+      "id": "elema-spirit-board",
+      "title": "埃莱马精灵板（1930年前）",
+      "kind": "作品",
+      "unit": "art-oceania",
+      "era": "20世纪",
+      "region": "大洋洲",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "巴布亚新几内亚巴布亚湾埃莱马地区彩绘木板，克利夫兰艺术博物馆藏（1971.154）。",
+      "when": "1930年前",
+      "overview": "与其他神圣器物一样，精灵板陈列在埃莱马男子的房屋里；每一块都以栖于其中的丛林精灵命名。",
+      "related": [
+        "oceania-art",
+        "ambrym-grade-figure"
+      ],
+      "sources": [
+        "cma-1971-154"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为巴布亚新几内亚巴布亚湾埃莱马（Elema）地区的彩绘木质精灵板，20世纪，1930年前入藏或制作（该馆记为 before 1930），克利夫兰艺术博物馆藏（1971.154）。",
+        "风格特征": "该馆说明：与其他神圣器物一样，精灵板陈列在埃莱马男子的房屋里；每一块都以栖居其中的丛林精灵命名。",
+        "代表人物与作品": "作者未署名（该馆记录无创作者）。相关条目见太平洋艺术与安布里姆等级社会祖像。",
+        "技法或形式分析": "材质为彩绘木；高123.2厘米（据该馆藏品记录）。该馆说明未描述图像或造型，本条目不补写。",
+        "与前后风格的关系和争论": "本条目据该馆说明只把握两点：一是它属于「神圣器物」，陈列于男子房屋；二是每块板与一位丛林精灵一一对应并以其命名。图像含义、使用方式与仪式语境，该馆说明均未涉及。",
+        "一图": "示意图以埃莱马男子屋、神圣器物、以丛林精灵命名三者关系标示本板。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）该馆说明仅两句，未述图像、制作与使用；（3）「1930年前」为该馆的上限式定年，具体年代未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='elema-spirit-board 示意图'><title>elema-spirit-board</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>埃莱马·20世纪</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>巴布亚湾</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>精灵板</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>123.2cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>男子房屋陈列</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>神圣器物</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>以丛林精灵命名</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>一板一灵</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>精灵板：一板一灵</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；说明简略，图像与用法未述；年代只到1930年前。"
+    },
+    {
+      "id": "abelam-yam-mask",
+      "title": "阿贝拉姆山药面具（20世纪）",
+      "kind": "作品",
+      "unit": "art-oceania",
+      "era": "20世纪",
+      "region": "大洋洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "巴布亚新几内亚阿贝拉姆人以颜料绘饰的篮编面具，克利夫兰艺术博物馆藏（1998.84）。",
+      "when": "1900年代",
+      "overview": "阿贝拉姆男子比赛种植特别巨大的山药（长度可超过一米），并把它们装饰上篮编面具后展示。",
+      "related": [
+        "oceania-art",
+        "sepik-hook-figure"
+      ],
+      "sources": [
+        "cma-1998-84"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为巴布亚新几内亚阿贝拉姆（Abelam）人的山药面具，20世纪，克利夫兰艺术博物馆藏（1998.84）。",
+        "风格特征": "该馆说明：阿贝拉姆男子比赛种植特别巨大的山药，长度可超过一米，并把它们装饰上篮编面具后展示。",
+        "代表人物与作品": "作者未署名（该馆记录无创作者）。相关条目见太平洋艺术与塞皮克钩形祖像。",
+        "技法或形式分析": "材质为颜料与篮编；整体47.3 × 44.3 × 14.7厘米（据该馆藏品记录）。",
+        "与前后风格的关系和争论": "本条目据该馆说明只把握一点：面具的对象不是人，而是被竞相培育的山药；面具使一种作物成为展示的主角。该馆说明未述面具的图案含义与仪式意义，本条目不作推断。",
+        "一图": "示意图以男子比赛种山药、篮编面具装饰、展示三者关系标示本面具。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）该馆说明仅一句，未述图案含义、展示场合与制作者；（3）定年只到「1900年代」。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='abelam-yam-mask 示意图'><title>abelam-yam-mask</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>阿贝拉姆·20世纪</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>巴布亚新几内亚</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>山药面具</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>47.3cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>男子比赛种山药</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>长逾一米</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>篮编面具装饰展示</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>作物为主角</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>山药面具：给作物戴面具</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；说明简略，图案含义未述；制作者未记录。"
     }
   ]
 }

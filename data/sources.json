@@ -6539,6 +6539,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；布面油画 画面65.8×54.5cm；说明含妻子阿琳、侄子埃德蒙、埃索瓦；题款 a. renoir / 1864 与定年约1890并存，该馆未解释"
+    },
+    {
+      "id": "cma-1971-149",
+      "title": "Cleveland Museum of Art — Malagan Memorial Festival Pole, New Ireland, 1800s, acc. 1971.149",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1971.149",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；彩绘木、海螺盖 高92.7cm；说明含马兰根葬礼筹备、宴飨、交换、雕刻展示后弃置或存放；无制作者"
+    },
+    {
+      "id": "cma-1961-406",
+      "title": "Cleveland Museum of Art — Gorget (Rei Miro), Rapa Nui (Easter Island), 1800s, acc. 1961.406",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1961.406",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；木 30.8×69.8cm；说明含新月形、多为拉帕努伊贵族女性佩戴、尖端抽象形取代人头；来源记录 Howard Beasley、William Mathewson Milliken"
+    },
+    {
+      "id": "cma-1971-154",
+      "title": "Cleveland Museum of Art — Spirit Board, Elema District, Papuan Gulf, before 1930, acc. 1971.154",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1971.154",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；彩绘木 高123.2cm；说明含陈于埃莱马男子屋、每块以所栖丛林精灵命名；说明原文有拼写错误 obejcts"
+    },
+    {
+      "id": "cma-1998-84",
+      "title": "Cleveland Museum of Art — Yam Mask, Abelam People, Papua New Guinea, 1900s, acc. 1998.84",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1998.84",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；颜料、篮编 47.3×44.3×14.7cm；说明含阿贝拉姆男子比赛种巨大山药并以篮编面具装饰展示"
     }
   ]
 }

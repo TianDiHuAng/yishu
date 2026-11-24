@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 528,
+    "total": 532,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -6340,6 +6340,54 @@
     },
     "renoir-apple-seller": {
       "title": "雷诺阿《卖苹果的女人》（约1890）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "malagan-memorial-pole": {
+      "title": "新爱尔兰马兰根纪念节庆柱（19世纪）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "rapa-nui-rei-miro": {
+      "title": "拉帕努伊（复活节岛）胸饰 Rei Miro（19世纪）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "elema-spirit-board": {
+      "title": "埃莱马精灵板（1930年前）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "abelam-yam-mask": {
+      "title": "阿贝拉姆山药面具（20世纪）",
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
