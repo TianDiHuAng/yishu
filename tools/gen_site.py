@@ -256,6 +256,25 @@ def source_profile(e):
         else: n["content"]+=1
     return n
 
+_WIKIMEDIA={"wikipedia.org","wikidata.org","wikimedia.org","wikisource.org"}
+def _source_family(url):
+    from urllib.parse import urlparse
+    h=urlparse(url).netloc.lower().split(".")
+    reg=".".join(h[-2:]) if len(h)>=2 else ".".join(h)
+    return "wikimedia" if reg in _WIKIMEDIA else reg
+
+def independence_tag(e):
+    """来源构成提示：按“来源族”（Wikimedia 系归并为一族）判断，区分两类原因，避免全库一律标“同源”。
+    - 全部已核验来源同属 Wikimedia 系 → 百科同源（Wikipedia+Wikidata 并非相互独立的印证）
+    - 全部已核验来源同属一家机构/站点 → 单一机构来源
+    - 其余（≥2 个不同来源族）不标。"""
+    ids=[x for x in dict.fromkeys(e.get("sources",[])) if x in SM and SM[x].get("verified")]
+    fams={_source_family(SM[x].get("url","")) for x in ids}
+    if len(fams)>=2 or not ids: return ""
+    if "wikimedia" in fams:
+        return "<span class='tag' title='全部已核验来源均出自 Wikimedia 系（Wikipedia、Wikidata），二者并非相互独立的印证'>百科同源</span>"
+    return "<span class='tag' title='全部已核验来源出自同一家机构，未取得第二家机构的独立记录'>单一机构来源</span>"
+
 def build_entry(e,entries):
     byid={x["id"]:x for x in entries}
     s=[head(e["title"])]
@@ -266,7 +285,7 @@ def build_entry(e,entries):
         esc(e["title"]),depth_badge(e),tier_badge(e),esc(e["kind"]),esc(e["era"]),esc(e["region"]),
         "<span class='tag'>%d 来源：内容 %d · 结构化 %d · 锚点 %d</span>"%(
             sum(source_profile(e)[k] for k in ("content","fact","anchor")),
-            source_profile(e)["content"],source_profile(e)["fact"],source_profile(e)["anchor"])))
+            source_profile(e)["content"],source_profile(e)["fact"],source_profile(e)["anchor"])+independence_tag(e)))
     lv=e.get("level","L1")
     if lv=="L1":
         s.append("<div class='section-block'><h2><span class='num'>01</span>定义</h2><p>%s</p></div>"%esc(e["def"]))
