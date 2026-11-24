@@ -1,0 +1,19 @@
+{
+ "id": "nkishi-power-figure",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为**卢巴（Luba）** 半身像，刚果（金），19世纪末—20世纪初，克利夫兰艺术博物馆藏（1974.212）。",
+  "风格特征": "该馆指出：其**布覆的颅腔（cranial cavity）内所含物质**表明，这件半身像属于卢巴称为 **mankishi** 的**护符或「灵力物（power objects）」** 这一大类。",
+  "代表人物与作品": "作者为**卢巴风格制作者**（多为仪式专家）。相关条目见卢巴持碗女像与刚果 nkisi nkondi。本件为 CMA 藏品（1974.212）。",
+  "技法或形式分析": "材质为**木、有机材料（含树脂与泥土）、植物纤维与玻璃珠**；整体22.4 × 10.7 × 12.4厘米（据该馆记录）。",
+  "与前后风格的关系和争论": "该馆给出一条**关键制度**：此类灵力像**常由仪式专家而非职业艺术家雕刻**；它由仪式专家使用，用于**治疗、护佑、占卜或裁断**等多种仪式。本条目据此把「作者」理解为**功能的执行者**，而非署名艺术家。",
+  "一图": "示意图以 mankishi 颅腔藏物、仪式专家与治疗/占卜/裁断功能三者关系标示本像。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）颅腔藏物的具体成分未公开说明；（3）具体仪式与使用者未记录；（4）玻璃珠来源未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='nkishi-power-figure 示意图'><title>nkishi-power-figure</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>卢巴·19—20世纪</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>刚果</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>nkishi 灵力像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>22.4cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>颅腔藏物</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>mankishi</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>仪式专家</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>治疗/占卜</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>nkishi：藏物、仪式专家与功能</text></g></svg>",
+ "sources": [
+  "cma-1974-212"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；藏物成分未公开；仪式记录未取得。"
+}

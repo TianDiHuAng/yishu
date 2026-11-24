@@ -5129,6 +5129,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；旋木嵌金属 长90cm；说明含三倍音域与 Mevlevi 舞乐"
+    },
+    {
+      "id": "cma-2004-84",
+      "title": "Cleveland Museum of Art — Helmet Mask (suruku), Malinke, mid–late 1800s, acc. 2004.84",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2004.84",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；木与或树脂 47cm；说明含 Korè 会社与成人礼"
+    },
+    {
+      "id": "cma-2008-150",
+      "title": "Cleveland Museum of Art — Female Mask (Gambanda), Pende, early 1900s, acc. 2008.150",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2008.150",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；木纤维颜料 27×22×28.5cm；说明含酋长之妻与发型"
+    },
+    {
+      "id": "cma-1974-212",
+      "title": "Cleveland Museum of Art — Figure (Nkishi), Luba, late 1800s–early 1900s, acc. 1974.212",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1974.212",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；木有机材纤维玻璃珠 22.4×10.7×12.4cm；说明含 mankishi 灵力物"
+    },
+    {
+      "id": "cma-1969-2",
+      "title": "Cleveland Museum of Art — Buffalo Mask, Bwa, early–mid 1900s, acc. 1969.2",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1969.2",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；木纤维颜料铁 69.8cm；说明含灌木水牛与护佑"
     }
   ]
 }

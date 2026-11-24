@@ -4665,7 +4665,8 @@
         "african-art",
         "kongo-corpus",
         "vili-ivory-tusk",
-        "luba-bowl-figure"
+        "luba-bowl-figure",
+        "nkishi-power-figure"
       ],
       "sources": [
         "cma-2010-432"
@@ -7009,7 +7010,9 @@
       "related": [
         "kongo-nkisi-nkondi",
         "african-art",
-        "kuba-bwoom-mask"
+        "kuba-bwoom-mask",
+        "gambanda-female-mask",
+        "nkishi-power-figure"
       ],
       "sources": [
         "cma-2010-454"
@@ -7069,7 +7072,8 @@
       "overview": "与一女一男面具组成三件，为王国的建立重演的主角；在京外则见于男子入会仪式等非王室场合。",
       "related": [
         "luba-bowl-figure",
-        "african-art"
+        "african-art",
+        "malinke-helmet-mask"
       ],
       "sources": [
         "cma-1935-304"
@@ -8308,6 +8312,88 @@
       ],
       "sources": [
         "vam-o304190"
+      ]
+    },
+    {
+      "id": "malinke-helmet-mask",
+      "title": "马林凯 suruku 盔面具",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "19世纪",
+      "region": "非洲",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "马林凯「鬣狗」盔面具，克利夫兰艺术博物馆藏（2004.84）。",
+      "when": "1800年代中—后期",
+      "overview": "兼具兽与人特征；属 Korè 会社（六大会社之一，源自巴姆巴拉）；用于男童割礼与成人礼，或为会社各级之标识。",
+      "related": [
+        "bwa-buffalo-mask",
+        "kuba-bwoom-mask",
+        "gambanda-female-mask"
+      ],
+      "sources": [
+        "cma-2004-84"
+      ]
+    },
+    {
+      "id": "gambanda-female-mask",
+      "title": "彭德 gambanda 女面具",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "20世纪",
+      "region": "非洲",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "彭德风格女面具，克利夫兰艺术博物馆藏（2008.150）。",
+      "when": "1900年代初",
+      "overview": "代表酋长之妻 gambanda；依彭德性别面相观，表现女子理想的平静顺从；数百小辫仿时髦发型；雕刻家世袭、常村外作业。",
+      "related": [
+        "luba-bowl-figure",
+        "malinke-helmet-mask",
+        "bwa-buffalo-mask"
+      ],
+      "sources": [
+        "cma-2008-150"
+      ]
+    },
+    {
+      "id": "nkishi-power-figure",
+      "title": "卢巴 nkishi 灵力像",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "19—20世纪",
+      "region": "非洲",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "卢巴 mankishi 半身灵力像，克利夫兰艺术博物馆藏（1974.212）。",
+      "when": "1800年代末—1900年代初",
+      "overview": "布覆颅腔内藏物示其为灵力物 mankishi；由仪式专家用于治疗/护佑/占卜/裁断；多由仪式专家而非职业艺匠雕成。",
+      "related": [
+        "luba-bowl-figure",
+        "kongo-nkisi-nkondi"
+      ],
+      "sources": [
+        "cma-1974-212"
+      ]
+    },
+    {
+      "id": "bwa-buffalo-mask",
+      "title": "布瓦水牛面具",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "20世纪",
+      "region": "非洲",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "布瓦水牛面具，克利夫兰艺术博物馆藏（1969.2）。",
+      "when": "1900年代早—中期",
+      "overview": "布瓦面具以人/兽/奇幻特征表护佑的灌木精灵；角与吻示为灌木水牛；旱季于成人礼/长老葬礼/集市/丰收与年度更新仪式起舞。",
+      "related": [
+        "malinke-helmet-mask",
+        "gambanda-female-mask"
+      ],
+      "sources": [
+        "cma-1969-2"
       ]
     }
   ]

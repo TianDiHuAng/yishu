@@ -1,0 +1,19 @@
+{
+ "id": "gambanda-female-mask",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为**彭德（Pende）**风格女面具，刚果（金），20世纪初，克利夫兰艺术博物馆藏（2008.150）。",
+  "风格特征": "该馆说明：面具呈**典型的中部彭德风格**，被认为代表 **gambanda——酋长之妻**。依彭德关于**性别与面相**的观念，此面具是**女子面部特征的理想表现**，因而反映她**平静、顺从、平和而自持**的仪态。",
+  "代表人物与作品": "作者为彭德风格制作者。相关条目见卢巴持碗女像与马林凯 suruku 面具。本件为 CMA 藏品（2008.150）。",
+  "技法或形式分析": "材质为**木、植物纤维与着色剂**；整体27 × 22 × 28.5厘米（据该馆记录）。该馆描述其**发式**：由**数百个小辫**构成的繁复发型，仿一种**曾经时髦的发式**。",
+  "与前后风格的关系和争论": "该馆给出一条**社会史**：彭德雕刻家**世袭其身份**，且**常在村外**作业，以便**少有人看到他们工作**。本条目据此把「理想面容」与**世袭匠人制度**并置——美学的标准由社会分工维持。",
+  "一图": "示意图以 gambanda（酋长之妻）、理想面容与世袭雕刻家三者关系标示本面具。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「数百小辫」为数量级描述，未确计；（3）具体酋邦未记录；（4）雕刻家姓名未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='gambanda-female-mask 示意图'><title>gambanda-female-mask</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>彭德·20世纪初</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>刚果</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>gambanda 女面</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>27×22×28.5</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>理想面容</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>平静顺从</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>世袭雕刻家</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>村外作业</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>gambanda 面具：性别、面容与匠制</text></g></svg>",
+ "sources": [
+  "cma-2008-150"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；数量与酋邦未记录。"
+}

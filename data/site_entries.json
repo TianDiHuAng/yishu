@@ -7513,7 +7513,8 @@
         "african-art",
         "kongo-corpus",
         "vili-ivory-tusk",
-        "luba-bowl-figure"
+        "luba-bowl-figure",
+        "nkishi-power-figure"
       ],
       "sources": [
         "cma-2010-432"
@@ -11339,7 +11340,9 @@
       "related": [
         "kongo-nkisi-nkondi",
         "african-art",
-        "kuba-bwoom-mask"
+        "kuba-bwoom-mask",
+        "gambanda-female-mask",
+        "nkishi-power-figure"
       ],
       "sources": [
         "cma-2010-454"
@@ -11438,7 +11441,8 @@
       "overview": "与一女一男面具组成三件，为王国的建立重演的主角；在京外则见于男子入会仪式等非王室场合。",
       "related": [
         "luba-bowl-figure",
-        "african-art"
+        "african-art",
+        "malinke-helmet-mask"
       ],
       "sources": [
         "cma-1935-304"
@@ -13471,6 +13475,140 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='ottoman-nay-flute 示意图'><title>ottoman-nay-flute</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>奥斯曼/土耳其</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1860—67</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>nay 笛</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>长90cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>边棱吹·十二孔</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>乐理</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>Mevlevi 舞乐</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>苏菲</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>nay 笛：结构、乐理与舞乐</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（V&A）来源；调式与原文未展开。"
+    },
+    {
+      "id": "malinke-helmet-mask",
+      "title": "马林凯 suruku 盔面具",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "19世纪",
+      "region": "非洲",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "马林凯「鬣狗」盔面具，克利夫兰艺术博物馆藏（2004.84）。",
+      "when": "1800年代中—后期",
+      "overview": "兼具兽与人特征；属 Korè 会社（六大会社之一，源自巴姆巴拉）；用于男童割礼与成人礼，或为会社各级之标识。",
+      "related": [
+        "bwa-buffalo-mask",
+        "kuba-bwoom-mask",
+        "gambanda-female-mask"
+      ],
+      "sources": [
+        "cma-2004-84"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明，这件**兼具兽与人特征**的面具属于名为 **suruku（意为「鬣狗」）** 的面具类型；它**很可能**属于 **Korè**——马林凯人从其邻族**巴姆巴拉（Bamana）** 借入的**六大会社之一**。本件为19世纪中—后期，克利夫兰艺术博物馆藏（2004.84）。",
+        "风格特征": "该馆指出 Korè 会社的**职能**：它关乎**男童的割礼与成年礼**；而这件面具**很可能是会社各级（classes）的标志之一**。",
+        "代表人物与作品": "作者为**铁匠雕刻者（blacksmith-carver）**。相关条目见布瓦水牛面具与库巴 bwoom 面具。本件为 CMA 藏品（2004.84）。",
+        "技法或形式分析": "材质为**木，或含树脂**；整体高47厘米（据该馆记录）。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「面具类型」与**会社组织**连接：suruku 不是孤立造型，而是**Korè 会社等级制度**的可见符号。这提示面具的意义来自**制度**，而非单纯图像。",
+        "一图": "示意图以 suruku 类型、Korè 会社与成人礼三者关系标示本面具。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「可能属 Korè」该馆用 most likely；（3）树脂成分未确证；（4）具体村落与使用记录未取得。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='malinke-helmet-mask 示意图'><title>malinke-helmet-mask</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>马林凯·19世纪</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>马里</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>suruku 盔面具</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>47cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>Korè 会社</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>六会之一</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>割礼·成人礼</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>职能</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>suruku 面具：类型、会社与成人礼</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；会社归属为「很可能」；村落未记录。"
+    },
+    {
+      "id": "gambanda-female-mask",
+      "title": "彭德 gambanda 女面具",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "20世纪",
+      "region": "非洲",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "彭德风格女面具，克利夫兰艺术博物馆藏（2008.150）。",
+      "when": "1900年代初",
+      "overview": "代表酋长之妻 gambanda；依彭德性别面相观，表现女子理想的平静顺从；数百小辫仿时髦发型；雕刻家世袭、常村外作业。",
+      "related": [
+        "luba-bowl-figure",
+        "malinke-helmet-mask",
+        "bwa-buffalo-mask"
+      ],
+      "sources": [
+        "cma-2008-150"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**彭德（Pende）**风格女面具，刚果（金），20世纪初，克利夫兰艺术博物馆藏（2008.150）。",
+        "风格特征": "该馆说明：面具呈**典型的中部彭德风格**，被认为代表 **gambanda——酋长之妻**。依彭德关于**性别与面相**的观念，此面具是**女子面部特征的理想表现**，因而反映她**平静、顺从、平和而自持**的仪态。",
+        "代表人物与作品": "作者为彭德风格制作者。相关条目见卢巴持碗女像与马林凯 suruku 面具。本件为 CMA 藏品（2008.150）。",
+        "技法或形式分析": "材质为**木、植物纤维与着色剂**；整体27 × 22 × 28.5厘米（据该馆记录）。该馆描述其**发式**：由**数百个小辫**构成的繁复发型，仿一种**曾经时髦的发式**。",
+        "与前后风格的关系和争论": "该馆给出一条**社会史**：彭德雕刻家**世袭其身份**，且**常在村外**作业，以便**少有人看到他们工作**。本条目据此把「理想面容」与**世袭匠人制度**并置——美学的标准由社会分工维持。",
+        "一图": "示意图以 gambanda（酋长之妻）、理想面容与世袭雕刻家三者关系标示本面具。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「数百小辫」为数量级描述，未确计；（3）具体酋邦未记录；（4）雕刻家姓名未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='gambanda-female-mask 示意图'><title>gambanda-female-mask</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>彭德·20世纪初</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>刚果</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>gambanda 女面</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>27×22×28.5</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>理想面容</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>平静顺从</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>世袭雕刻家</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>村外作业</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>gambanda 面具：性别、面容与匠制</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；数量与酋邦未记录。"
+    },
+    {
+      "id": "nkishi-power-figure",
+      "title": "卢巴 nkishi 灵力像",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "19—20世纪",
+      "region": "非洲",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "卢巴 mankishi 半身灵力像，克利夫兰艺术博物馆藏（1974.212）。",
+      "when": "1800年代末—1900年代初",
+      "overview": "布覆颅腔内藏物示其为灵力物 mankishi；由仪式专家用于治疗/护佑/占卜/裁断；多由仪式专家而非职业艺匠雕成。",
+      "related": [
+        "luba-bowl-figure",
+        "kongo-nkisi-nkondi"
+      ],
+      "sources": [
+        "cma-1974-212"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**卢巴（Luba）** 半身像，刚果（金），19世纪末—20世纪初，克利夫兰艺术博物馆藏（1974.212）。",
+        "风格特征": "该馆指出：其**布覆的颅腔（cranial cavity）内所含物质**表明，这件半身像属于卢巴称为 **mankishi** 的**护符或「灵力物（power objects）」** 这一大类。",
+        "代表人物与作品": "作者为**卢巴风格制作者**（多为仪式专家）。相关条目见卢巴持碗女像与刚果 nkisi nkondi。本件为 CMA 藏品（1974.212）。",
+        "技法或形式分析": "材质为**木、有机材料（含树脂与泥土）、植物纤维与玻璃珠**；整体22.4 × 10.7 × 12.4厘米（据该馆记录）。",
+        "与前后风格的关系和争论": "该馆给出一条**关键制度**：此类灵力像**常由仪式专家而非职业艺术家雕刻**；它由仪式专家使用，用于**治疗、护佑、占卜或裁断**等多种仪式。本条目据此把「作者」理解为**功能的执行者**，而非署名艺术家。",
+        "一图": "示意图以 mankishi 颅腔藏物、仪式专家与治疗/占卜/裁断功能三者关系标示本像。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）颅腔藏物的具体成分未公开说明；（3）具体仪式与使用者未记录；（4）玻璃珠来源未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='nkishi-power-figure 示意图'><title>nkishi-power-figure</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>卢巴·19—20世纪</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>刚果</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>nkishi 灵力像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>22.4cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>颅腔藏物</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>mankishi</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>仪式专家</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>治疗/占卜</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>nkishi：藏物、仪式专家与功能</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；藏物成分未公开；仪式记录未取得。"
+    },
+    {
+      "id": "bwa-buffalo-mask",
+      "title": "布瓦水牛面具",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "20世纪",
+      "region": "非洲",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "布瓦水牛面具，克利夫兰艺术博物馆藏（1969.2）。",
+      "when": "1900年代早—中期",
+      "overview": "布瓦面具以人/兽/奇幻特征表护佑的灌木精灵；角与吻示为灌木水牛；旱季于成人礼/长老葬礼/集市/丰收与年度更新仪式起舞。",
+      "related": [
+        "malinke-helmet-mask",
+        "gambanda-female-mask"
+      ],
+      "sources": [
+        "cma-1969-2"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**布瓦（Bwa）**面具，布基纳法索，20世纪早—中期，克利夫兰艺术博物馆藏（1969.2）。",
+        "风格特征": "该馆说明：在布瓦人中，兼具**人、兽与奇幻特征**的面具通常代表**护佑的灌木精灵（bush spirits）**；此面具的**角与吻**表明它是**灌木水牛（bush buffalo）**。",
+        "代表人物与作品": "作者为**或为布瓦风格制作者**。相关条目见马林凯 suruku 面具与彭德 gambanda 面具。本件为 CMA 藏品（1969.2）。",
+        "技法或形式分析": "材质为**木、植物纤维、颜料与铁**；整体高69.8厘米（据该馆记录）。",
+        "与前后风格的关系和争论": "该馆列出其**使用场合**：戴面具的舞者在**旱季**出现于**成人礼、长老葬礼、集市日、丰收庆典与年度更新仪式**，以**护佑社群福祉**。本条目据此把面具理解为**季节性仪式日历**中的公共行为，而非静置的物。",
+        "一图": "示意图以灌木水牛、护佑精灵与旱季仪式日历三者关系标示本面具。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「或为布瓦（possibly）」该馆存疑；（3）具体村落与舞者未记录；（4）铁件的用途未展开。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='bwa-buffalo-mask 示意图'><title>bwa-buffalo-mask</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>布瓦·20世纪</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>布基纳法索</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>水牛面具</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>69.8cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>灌木精灵</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>护佑</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>旱季仪式</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>成人礼/丰收</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>布瓦水牛：精灵、护佑与仪式</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；归属存疑；村落未记录。"
     }
   ]
 }
