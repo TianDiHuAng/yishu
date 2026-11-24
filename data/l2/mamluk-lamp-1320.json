@@ -1,0 +1,19 @@
+{
+ "id": "mamluk-lamp-1320",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为**马穆鲁克**描金珐琅玻璃**清真寺灯**（1320—30），V&A 藏（O1502）。",
+  "风格特征": "该馆说明：此灯**为 Qijlis 所制**——他是**苏丹的军械师**出身的一位**高官**；其**徽记为一把剑**，见于**大圆章**中；**圆章之间**是一段**《古兰经》引文**，提到「**安拉之寺（mosques of God）**」。",
+  "代表人物与作品": "委托者为 Qijlis；作者未署名。相关条目见马穆鲁克清真寺灯（kafur）与描金瓶。",
+  "技法或形式分析": "材质为**玻璃，描金并施珐琅**；尺寸**高28.9 × 宽25.4厘米**（据该馆记录）。",
+  "与前后风格的关系和争论": "该馆给出一条**仪式经济的解释**：在**电灯引入之前，照明是一种昂贵的奢侈**；因此**在伊斯兰宗教建筑中提供照明，被视为一种（虔诚的）行为**（记录在「an act…」处**截断**，本条目**不补写**）。本条目据此把「灯」读作**赞助人 Qijlis 的功德载体**：剑徽示身份，经文示虔敬。",
+  "一图": "示意图以剑徽、安拉之寺经文与「供灯＝虔诚」三者关系标示本灯。",
+  "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）该馆 summary 在「an act…」处**截断，未补写**；（3）Qijlis 的完整头衔未记录；（4）原属清真寺未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='mamluk-lamp-1320 示意图'><title>mamluk-lamp-1320</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>马穆鲁克·1320—30</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>玻璃珐琅</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>Qijlis 灯</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>28.9cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>剑徽</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>军械师</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>供灯＝虔诚</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>仪式经济</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>Qijlis 灯：剑徽、经文与虔诚</text></g></svg>",
+ "sources": [
+  "vam-o1502"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（V&A）来源；summary 截断；原寺未记录。"
+}

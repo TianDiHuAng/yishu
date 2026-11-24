@@ -1801,6 +1801,18 @@
       },
       "network": "CMA",
       "verdict": "art-ancient 38→42（总512）；未饱和"
+    },
+    {
+      "cycle": "cycle147",
+      "date": "2026-11-24",
+      "methods_used": [
+        "伊斯兰玻璃"
+      ],
+      "gaps_found": {
+        "entries": 4
+      },
+      "network": "V&A",
+      "verdict": "art-islamic 45→49（总516）；未饱和"
     }
   ],
   "assessment_c33": {

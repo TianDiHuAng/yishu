@@ -1,0 +1,75 @@
+{
+ "O813": {
+  "title": "",
+  "date": "{'date': {'text': 'c. 1350', 'earliest': '1345-01-01', 'latest': '1354-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Egypt', 'id': 'x29512'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': 'probably'}; {'place': {'text': 'Syria', 'id': 'x29200'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': 'possibly'}",
+  "mat": "Glass, gilded and enamelled",
+  "desc": "Large bottle of gilded and enamelled glass with flared foot and neck ring. The decoration consists of phoenixes in heraldic pose around the neck and floriated designs in red, green and yellow enamel. The inscription consists of a dedication to an unnamed Sultan. Secular pieces of enamelled glass rarely survive in good condition. This piece was probably used at court for serving drink.",
+  "summary": "This bottle is an example of the fine gilded and enamelled glass manufactured under the Mamluk dynasty, which ruled Egypt and Syria between 1250 and 1517. The design, dominated by a large-scale inscription in blue enamel, is typical of work produced around 1300 to 1350. The mouldings below the mouth of the bottle and around the top of the high foot indicate that the form of this vessel is based on a precious-metal prototype, for which the mouldings would have been structurally necessary. \r\n\r\nThe decoration on the body is in two registers. The main feature of the upper register is three roundels containing a phoenix motif of Chinese origin, reserved in a blue ground. This bird, together with a Chinese-style dragon, had become a popular symbol of royal power among the Mamluks.\r\n\r\nThree roundels in the lower register contain an arabesque motif reserved in a red ground. These roundels divide the inscription into three parts. It reads, ‘Glory to our master the Sultan, the Wise, the Just King’. Texts such as this appear on many Mamluk objects and indicate that such items were originally made for use at court. The fashion for them probably spread to the richer members of Mamluk society outside the court and they were also exported to Europe.\r\n\r\nThe flattened underside of the bottle and the high foot were left plain, since they could not be seen by those using the bottle, who would have sat on the ground in the Arab manner, looking down on the bottle.",
+  "objtype": "Bottle",
+  "dims": [
+   [
+    "Height",
+    "44.5",
+    "cm"
+   ],
+   [
+    "Width",
+    "21.5",
+    "cm"
+   ]
+  ]
+ },
+ "O829": {
+  "title": "",
+  "date": "{'date': {'text': '1250-1350', 'earliest': '1250-01-01', 'latest': '1350-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Egypt', 'id': 'x29512'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "mat": "Gilded and enamelled glass",
+  "desc": "Glass beaker, with painted enamel decoration of a horizontal frieze, with Mamluk blazon of a red lion in a white roundel, and Arabic inscription against blue ground. Above and below the frieze, fish and leaf motifs are painted in red outline against clear glass. Inscribed \"`izz li- maulana, al-Sultan al-Malik\" (Glory to our Lord the Sultan the King).",
+  "summary": "This enamelled glass drinking vessel features a simple horizontal band with two heraldic badges and an Arabic inscription, with the phrase \"Glory to our Lord the Sultan the King\". Around the horizontal band, small fish and leaves are painted lightly onto the clear glass. The two white roundels each feature a red lion, which may refer to the royal emblem of the Mamluk Sultan Baybars, who ruled Syria and Egypt from 1260 to 1277. The lion motif also continued to decorate examples of Mamluk enamelled glass after the reign of Baybars, into the 14th century.",
+  "objtype": "Beaker",
+  "dims": [
+   [
+    "Height",
+    "14.6",
+    "cm"
+   ],
+   [
+    "Width",
+    "8.0",
+    "cm"
+   ]
+  ]
+ },
+ "O624": {
+  "title": "",
+  "date": "{'date': {'text': '1347-1370', 'earliest': '1347-01-01', 'latest': '1370-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Egypt', 'id': 'x29512'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "mat": "Glass, blown, fired, gilded and enamelled, and fired again",
+  "desc": "Bottle with long neck, flaring slightly at mouth. Body of globular form leading to narrow foot. Design sketched and painted in gold. Body features series of alternating roundels and cartouches, the former encircled by two strips of braid which run parallel to each other between each roundel. The cartouches are rectangular in form, enclosing an inscription in Arabic. Above this are a further set of medallions featuring heraldic emblems alternating with decorative medallions against a background of arabesque. Above this is a band of running animals against an arabesque background around the base of the neck of the bottle. The neck features two bands of braided motif against sketchy arabesque.",
+  "summary": "This bottle was purchased by the V&A as one of the largest and finest of its kind. The decoration is relatively sparse. It includes cartouches of calligraphy in praise of Sayf al-Din Jurji, who served the Mamluk Sultan Hasan of Egypt in the mid 14th century.\r\n\r\nA conspicuous motif with two dots and two stripes appears several times in the upper register of the body. This is a stylised penbox and indicates Sayf al-Din Jurji's high rank in the Sultan's household.",
+  "objtype": "Bottle",
+  "dims": []
+ },
+ "O3748": {
+  "title": "",
+  "date": "{'date': {'text': '6th century-8th century', 'earliest': '0500-01-01', 'latest': '0800-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Syria', 'id': 'x29200'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "mat": "Lustre-painted glass",
+  "desc": "Glass bowl, Syrian, pale green with blueish tinge, broken and repaired.  Enamelled on both walls, oxidised silver paint outside.",
+  "summary": "",
+  "objtype": "Bowl",
+  "dims": [
+   [
+    "Height",
+    "6.7",
+    "cm"
+   ],
+   [
+    "Width",
+    "7.0",
+    "cm"
+   ]
+  ]
+ }
+}

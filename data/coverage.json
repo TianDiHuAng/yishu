@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 512,
+    "total": 516,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -6148,6 +6148,54 @@
     },
     "bakenmut-coffin": {
       "title": "巴肯穆特棺",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "mamluk-glass-bottle-1350": {
+      "title": "马穆鲁克描金珐琅瓶（约1350）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "mamluk-glass-beaker": {
+      "title": "马穆鲁克狮纹玻璃杯",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "mamluk-glass-bottle-1347": {
+      "title": "马穆鲁克描金瓶（1347—70）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "mamluk-lamp-1320": {
+      "title": "Qijlis 清真寺灯（1320—30）",
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",

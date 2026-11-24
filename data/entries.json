@@ -8034,7 +8034,10 @@
         "islamic-art",
         "minai-bowl-kashan",
         "mamluk-inlaid-basin",
-        "qaitbay-basin"
+        "qaitbay-basin",
+        "mamluk-glass-bottle-1350",
+        "mamluk-glass-beaker",
+        "mamluk-lamp-1320"
       ],
       "sources": [
         "vam-o1768"
@@ -11072,6 +11075,89 @@
       ],
       "sources": [
         "cma-1914-561"
+      ]
+    },
+    {
+      "id": "mamluk-glass-bottle-1350",
+      "title": "马穆鲁克描金珐琅瓶（约1350）",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "14世纪",
+      "region": "西亚·中亚",
+      "medium": "玻璃",
+      "tier": "核心",
+      "def": "埃及马穆鲁克描金珐琅玻璃瓶，维多利亚与艾伯特博物馆藏（O813）。",
+      "when": "约1350年",
+      "overview": "撇足与颈环；颈部凤凰作纹章姿，红绿黄珐琅花卉；铭为匿名苏丹献辞；世俗珐琅玻璃鲜有完好存世；主纹为蓝彩大字铭，约1300—1350典型；口下与高足顶的线脚示……（记录截断）。",
+      "related": [
+        "mamluk-mosque-lamp",
+        "mamluk-glass-beaker",
+        "mamluk-glass-bottle-1347"
+      ],
+      "sources": [
+        "vam-o813"
+      ]
+    },
+    {
+      "id": "mamluk-glass-beaker",
+      "title": "马穆鲁克狮纹玻璃杯",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "13—14世纪",
+      "region": "西亚·中亚",
+      "medium": "玻璃",
+      "tier": "核心",
+      "def": "马穆鲁克描金珐琅玻璃杯，维多利亚与艾伯特博物馆藏（O829）。",
+      "when": "1250—1350年",
+      "overview": "横饰带：白圆章内红狮马穆鲁克徽、蓝地阿拉伯铭「荣耀归于吾主苏丹王」；上下透明玻璃上红描鱼与叶；两白圆章各红狮或指王室徽记。",
+      "related": [
+        "mamluk-mosque-lamp",
+        "mamluk-glass-bottle-1350",
+        "mamluk-glass-bottle-1347"
+      ],
+      "sources": [
+        "vam-o829"
+      ]
+    },
+    {
+      "id": "mamluk-glass-bottle-1347",
+      "title": "马穆鲁克描金瓶（1347—70）",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "14世纪",
+      "region": "西亚·中亚",
+      "medium": "玻璃",
+      "tier": "核心",
+      "def": "马穆鲁克吹制描金玻璃瓶，维多利亚与艾伯特博物馆藏（O624）。",
+      "when": "1347—1370年",
+      "overview": "长颈撇口、球腹窄足；纹以金描；圆章与矩形开光交替，圆章外绕双股辫纹；开光书法颂 Sayf al-Din Jurji（曾侍苏丹哈桑，14世纪中）；V&A购入时称同类最大最精之一。（记录无尺寸）",
+      "related": [
+        "mamluk-glass-bottle-1350",
+        "mamluk-glass-beaker",
+        "mamluk-lamp-1320"
+      ],
+      "sources": [
+        "vam-o624"
+      ]
+    },
+    {
+      "id": "mamluk-lamp-1320",
+      "title": "Qijlis 清真寺灯（1320—30）",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "14世纪",
+      "region": "西亚·中亚",
+      "medium": "玻璃",
+      "tier": "核心",
+      "def": "马穆鲁克描金珐琅玻璃清真寺灯，维多利亚与艾伯特博物馆藏（O1502）。",
+      "when": "1320—1330年",
+      "overview": "为高官、前苏丹军械师 Qijlis 所制；其徽为剑，见于大圆章；章间引《古兰经》「安拉之寺」句；电力之前照明为奢侈，为宗教建筑供灯被视为一种……（记录截断）。",
+      "related": [
+        "mamluk-mosque-lamp",
+        "mamluk-glass-bottle-1347"
+      ],
+      "sources": [
+        "vam-o1502"
       ]
     }
   ]

@@ -6379,6 +6379,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；彩绘梧桐木 208×68cm；说明含棺饰取代墓室装饰"
+    },
+    {
+      "id": "vam-o813",
+      "title": "Victoria and Albert Museum — Mamluk gilded and enamelled bottle, c. 1350, O813",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O813",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；描金珐琅玻璃 44.5×21.5cm；说明含凤凰与匿名苏丹献辞"
+    },
+    {
+      "id": "vam-o829",
+      "title": "Victoria and Albert Museum — Mamluk enamelled beaker, 1250–1350, O829",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O829",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；描金珐琅玻璃 14.6×8.0cm；说明含红狮白章与「荣耀归于吾主苏丹王」"
+    },
+    {
+      "id": "vam-o624",
+      "title": "Victoria and Albert Museum — Mamluk gilded bottle, 1347–1370, O624",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O624",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；吹制描金珐琅玻璃；说明含Saif al-Din Jurji与双重圆章"
+    },
+    {
+      "id": "vam-o1502",
+      "title": "Victoria and Albert Museum — Mosque lamp of Qijlis, 1320–1330, O1502",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O1502",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；描金珐琅玻璃 28.9×25.4cm；说明含剑徽与「安拉之寺」经文"
     }
   ]
 }
