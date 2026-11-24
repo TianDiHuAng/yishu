@@ -1353,6 +1353,18 @@
       },
       "network": "V&A 200",
       "verdict": "总376；未饱和"
+    },
+    {
+      "cycle": "cycle110",
+      "date": "2026-11-24",
+      "methods_used": [
+        "V&A 中世纪异材质"
+      ],
+      "gaps_found": {
+        "entries": 4
+      },
+      "network": "V&A 200",
+      "verdict": "中世纪 10→14（总380）；未饱和"
     }
   ],
   "assessment_c33": {

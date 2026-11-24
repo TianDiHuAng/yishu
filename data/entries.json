@@ -221,7 +221,9 @@
         "romanesque",
         "renaissance",
         "gothic-architecture",
-        "auvergne-virgin-majesty"
+        "auvergne-virgin-majesty",
+        "ivory-crucified-christ",
+        "alabaster-pieta"
       ],
       "sources": [
         "enc-gothic",
@@ -7414,7 +7416,8 @@
         "gothic",
         "paris-mirror-chess",
         "gothic-casket-panels",
-        "stained-glass-donors-pair"
+        "stained-glass-donors-pair",
+        "ivory-virgin-child-paris"
       ],
       "sources": [
         "cma-2012-52"
@@ -7455,7 +7458,8 @@
       "related": [
         "paris-mirror-chess",
         "auvergne-virgin-majesty",
-        "stained-glass-donors-pair"
+        "stained-glass-donors-pair",
+        "limoges-gospel-cover"
       ],
       "sources": [
         "cma-1978-39"
@@ -8136,6 +8140,88 @@
       ],
       "sources": [
         "vam-o93545"
+      ]
+    },
+    {
+      "id": "ivory-crucified-christ",
+      "title": "象牙基督受难像",
+      "kind": "作品",
+      "unit": "art-medieval",
+      "era": "13世纪",
+      "region": "欧洲",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "托斯卡纳象牙存鎏金基督像，维多利亚与艾伯特博物馆藏（O72533）。",
+      "when": "1290—1310年",
+      "overview": "基督濒死：闭目、头偏一侧、微张口、左颊伤痕；长发分两缕垂肩；下颌底下有隐藏结构（记录处截断）。",
+      "related": [
+        "ivory-virgin-child-paris",
+        "gothic",
+        "alabaster-pieta"
+      ],
+      "sources": [
+        "vam-o72533"
+      ]
+    },
+    {
+      "id": "ivory-virgin-child-paris",
+      "title": "巴黎象牙圣母子",
+      "kind": "作品",
+      "unit": "art-medieval",
+      "era": "13世纪",
+      "region": "欧洲",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "巴黎象牙圆雕圣母子，维多利亚与艾伯特博物馆藏（O130510）。",
+      "when": "约1240年",
+      "overview": "圣母左臂托圣婴，圣婴右手祝福、左手持苹果；圆柱座残存鎏金铭文（天使问候）；最早法国立姿圣母子象牙之一。",
+      "related": [
+        "ivory-crucified-christ",
+        "auvergne-virgin-majesty",
+        "limoges-gospel-cover"
+      ],
+      "sources": [
+        "vam-o130510"
+      ]
+    },
+    {
+      "id": "limoges-gospel-cover",
+      "title": "利摩日福音书封",
+      "kind": "作品",
+      "unit": "art-medieval",
+      "era": "13世纪",
+      "region": "欧洲",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "利摩日錾胎珐琅铜鎏金福音书封，维多利亚与艾伯特博物馆藏（O120709）。",
+      "when": "约1200年",
+      "overview": "矩形，铜合金錾胎珐琅钉于橡木板；中为基督庄严坐虹、右手祝福左手持书；肩上有Α/Ω，四角为四福音书作者象征。",
+      "related": [
+        "gothic-casket-panels",
+        "ivory-virgin-child-paris"
+      ],
+      "sources": [
+        "vam-o120709"
+      ]
+    },
+    {
+      "id": "alabaster-pieta",
+      "title": "雪花石《哀悼基督》",
+      "kind": "作品",
+      "unit": "art-medieval",
+      "era": "15世纪",
+      "region": "欧洲",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "尼德兰雪花石圣母抱亡基督像，维多利亚与艾伯特博物馆藏（O94288）。",
+      "when": "约1430年",
+      "overview": "圣母坐矮凳抱亡基督；左手扶其伸出的左臂、右手托其头；基督戴荆棘冠、可见枪伤；为虔敬而作。",
+      "related": [
+        "ivory-crucified-christ",
+        "gothic"
+      ],
+      "sources": [
+        "vam-o94288"
       ]
     }
   ]

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 376,
+    "total": 380,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -4516,6 +4516,54 @@
     },
     "ottoman-silk-velvet": {
       "title": "布尔萨奥斯曼丝绒",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "ivory-crucified-christ": {
+      "title": "象牙基督受难像",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "ivory-virgin-child-paris": {
+      "title": "巴黎象牙圣母子",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "limoges-gospel-cover": {
+      "title": "利摩日福音书封",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "alabaster-pieta": {
+      "title": "雪花石《哀悼基督》",
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",

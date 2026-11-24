@@ -6,7 +6,9 @@
   "polyphony",
   "courbet",
   "iznik-tile-panel-edirne",
-  "ardabil-carpet"
+  "ardabil-carpet",
+  "ivory-crucified-christ",
+  "alabaster-pieta"
  ],
  "duplicates": [],
  "contradictions": [
@@ -259,6 +261,6 @@
  "link_audit": {
   "cross_domain": 18,
   "oneway": 0,
-  "total_links": 1204
+  "total_links": 1218
  }
 }

@@ -5049,6 +5049,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；丝绒金属包线 178×67.5cm 重6kg；说明含 kemha/seraser 与布尔萨"
+    },
+    {
+      "id": "vam-o72533",
+      "title": "Victoria and Albert Museum — The Crucified Christ, Tuscany, 1290–1310, O72533",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O72533",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；象牙存鎏金 15.3×6×5cm；说明含濒死面容与长发"
+    },
+    {
+      "id": "vam-o130510",
+      "title": "Victoria and Albert Museum — The Virgin and Child, Paris, ca. 1240, O130510",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O130510",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；象牙圆雕 高26cm；说明含最早法国立姿圣母子象牙"
+    },
+    {
+      "id": "vam-o120709",
+      "title": "Victoria and Albert Museum — Gospel cover, Limoges, ca. 1200, O120709",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O120709",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；铜鎏金錾胎珐琅 33.2×24.2cm；说明含基督庄严与四福音书作者"
+    },
+    {
+      "id": "vam-o94288",
+      "title": "Victoria and Albert Museum — The Virgin with the Dead Christ, Netherlands, ca. 1430, O94288",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O94288",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；雪花石 400×315mm；说明含虔敬像与新旧风格融合"
     }
   ]
 }
