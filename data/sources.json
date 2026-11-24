@@ -5249,6 +5249,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；黄铜旋切贴银 高13.5 径27.5cm；说明含 Zayn al-Din 署名"
+    },
+    {
+      "id": "vam-o58649",
+      "title": "Victoria and Albert Museum — Urbino Cittern, 1582, O58649",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O58649",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；雕刻镶边松木枫木 长95cm；说明含金属弦拨奏与Il primo libro"
+    },
+    {
+      "id": "vam-o58931",
+      "title": "Victoria and Albert Museum — Joachim Tielke guitar, Hamburg, 1693, O58931",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O58931",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；玳瑁象牙锡镶木 长102cm；说明含丘比特与古典场景细木镶嵌"
+    },
+    {
+      "id": "vam-o58639",
+      "title": "Victoria and Albert Museum — Baroque oboe, Holland, ca. 1700, O58639",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O58639",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；黄杨银键象牙箍 577mm；说明含奏乐场景雕与hautbois"
+    },
+    {
+      "id": "vam-o1784498",
+      "title": "Victoria and Albert Museum — Koto used by David Bowie on 'Heroes', ca. 1977, O1784498",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O1784498",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；模塑塑料 13弦 含原盒与说明书；说明含 Moss Garden"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 396,
+    "total": 400,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -4757,6 +4757,54 @@
     "zayn-al-din-bucket": {
       "title": "扎因丁署名铜桶",
       "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "urbino-cittern": {
+      "title": "乌尔比诺 Citrin（1582）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "tielke-guitar": {
+      "title": "蒂尔克吉他（汉堡，1693）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "baroque-oboe-holland": {
+      "title": "荷兰巴洛克双簧管（约1700）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "bowie-koto-heroes": {
+      "title": "鲍伊《Heroes》用古筝（koto）",
+      "tier": "核心",
       "level": "L2",
       "status": "written_l2",
       "sources_count": 1,

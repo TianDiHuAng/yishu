@@ -55,6 +55,12 @@
    "to_dom": "art"
   },
   {
+   "from": "japanese-art",
+   "to": "bowie-koto-heroes",
+   "from_dom": "art",
+   "to_dom": "music"
+  },
+  {
    "from": "braque-violin-collage",
    "to": "cubism",
    "from_dom": "music",
@@ -107,6 +113,12 @@
    "to": "braque-violin-collage",
    "from_dom": "art",
    "to_dom": "music"
+  },
+  {
+   "from": "bowie-koto-heroes",
+   "to": "japanese-art",
+   "from_dom": "music",
+   "to_dom": "art"
   }
  ],
  "oneway_count": 0,
@@ -118,7 +130,7 @@
   ],
   [
    "japanese-art",
-   17
+   18
   ],
   [
    "african-art",
@@ -153,5 +165,5 @@
    10
   ]
  ],
- "total_links": 1272
+ "total_links": 1288
 }

@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 396 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 400 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -503,6 +503,10 @@
 | maler-lute | 马勒鲁特琴（博洛尼亚，约1540） | 作品 | 16世纪 | 欧洲 | 乐器 | 核心 | O1 |
 | northumberland-bagpipe | 诺森伯兰风笛（约1830） | 作品 | 19世纪 | 欧洲 | 乐器 | 核心 | O1 |
 | stradivari-violin | 斯特拉迪瓦里小提琴（1699） | 作品 | 17世纪 | 欧洲 | 乐器 | 核心 | O1 |
+| urbino-cittern | 乌尔比诺 Citrin（1582） | 作品 | 16世纪 | 欧洲 | 乐器 | 核心 | O1 |
+| tielke-guitar | 蒂尔克吉他（汉堡，1693） | 作品 | 17世纪 | 欧洲 | 乐器 | 核心 | O1 |
+| baroque-oboe-holland | 荷兰巴洛克双簧管（约1700） | 作品 | 17—18世纪 | 欧洲 | 乐器 | 重要 | O1 |
+| bowie-koto-heroes | 鲍伊《Heroes》用古筝（koto） | 作品 | 20世纪 | 东亚 | 乐器 | 核心 | O1 |
 
 ## art-ceramics（中国陶瓷工艺）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

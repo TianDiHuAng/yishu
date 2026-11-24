@@ -4271,7 +4271,8 @@
       "related": [
         "china-music-history",
         "jingju",
-        "pipa"
+        "pipa",
+        "bowie-koto-heroes"
       ],
       "sources": [
         "enc-guzheng",
@@ -5043,7 +5044,8 @@
         "kofukuji-seated-buddha",
         "amida-shitennoji",
         "tiger-magpie-hochakdo",
-        "japanese-inro"
+        "japanese-inro",
+        "bowie-koto-heroes"
       ],
       "sources": [
         "enc-japanese-art",
@@ -13629,7 +13631,10 @@
       "related": [
         "maler-lute",
         "stradivari-violin",
-        "northumberland-bagpipe"
+        "northumberland-bagpipe",
+        "urbino-cittern",
+        "tielke-guitar",
+        "baroque-oboe-holland"
       ],
       "sources": [
         "vam-o58982"
@@ -13663,7 +13668,8 @@
       "related": [
         "baffo-harpsichord",
         "stradivari-violin",
-        "northumberland-bagpipe"
+        "northumberland-bagpipe",
+        "urbino-cittern"
       ],
       "sources": [
         "vam-o122435"
@@ -13696,7 +13702,8 @@
       "overview": "乌木管、象牙箍、黄铜键；封闭式旋律管四铜键加四持续管；以风箱而非口吹驱动，音色柔和，多室内演奏。",
       "related": [
         "baffo-harpsichord",
-        "maler-lute"
+        "maler-lute",
+        "baroque-oboe-holland"
       ],
       "sources": [
         "vam-o58248"
@@ -13729,7 +13736,8 @@
       "overview": "两块松木面板、双线镶边；背为两块枫木；漆非原漆；颈为后配；琴头出自另一琴。",
       "related": [
         "maler-lute",
-        "baffo-harpsichord"
+        "baffo-harpsichord",
+        "tielke-guitar"
       ],
       "sources": [
         "vam-o93114"
@@ -13883,6 +13891,138 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='zayn-al-din-bucket 示意图'><title>zayn-al-din-bucket</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>约1475—1500</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>伊斯兰</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>贴银铜桶</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>径27.5</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>Zayn al-Din </text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>工匠</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>银覆增威望</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>等级</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>Zayn al-Din 桶：工艺、署名与威望</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（V&A）来源；产地与用途截断；工匠生平未记录。"
+    },
+    {
+      "id": "urbino-cittern",
+      "title": "乌尔比诺 Citrin（1582）",
+      "kind": "作品",
+      "unit": "music-instruments",
+      "era": "16世纪",
+      "region": "欧洲",
+      "medium": "乐器",
+      "tier": "核心",
+      "def": "乌尔比诺 Citrin，维多利亚与艾伯特博物馆藏（O58649）。",
+      "when": "1582年",
+      "overview": "金属弦金属品、拨片扫弦，旋律多在上弦；枫木微拱背、松木微拱面，末端有「梳」托弦；1574年 Vitale 出版后流行意/中欧。",
+      "related": [
+        "baffo-harpsichord",
+        "maler-lute"
+      ],
+      "sources": [
+        "vam-o58649"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件通称**乌尔比诺 Citrin**，1582年制，维多利亚与艾伯特博物馆藏（O58649）。该馆说明：Citrin 是**流行的金属弦乐器**，有**金属品**，以**拨片扫弦**，旋律通常在**上弦**奏出。",
+        "风格特征": "该馆描述构造：**枫木背微拱**；**松木面板亦微拱**、略宽于背；面板**镶边**并饰**方结纹**；**下端**有一个**卷曲木凸（「梳」comb）**，**开槽以承弦**；面板**底面**有**四根加强条**呈**开口方形**排列。",
+        "代表人物与作品": "作者未署名。相关条目见巴福羽管键琴与马勒鲁特琴。本件为 V&A 藏品（O58649）。",
+        "技法或形式分析": "材质为**雕刻并镶边的松木与枫木**；最大件尺寸**长95厘米**（另有45/62cm等分段记录），**宽30厘米**（据该馆记录）。",
+        "与前后风格的关系和争论": "该馆给出**流行史**：**1574年** Paolo Vitale《Il primo libro di tabolaturo di citthara》出版后，Citrin **在整个意大利与中欧流行**。本条目据此把「出版物驱动流行」作为乐器史的传播机制。",
+        "一图": "示意图以金属弦/品、拨片扫奏与1574年出版物三者关系标示本琴。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）「梳」的确切形制记录在 desc 截断处之后未全；（3）制作者未记录；（4）Vitale 出版物的今存情况未核。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='urbino-cittern 示意图'><title>urbino-cittern</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>乌尔比诺·1582</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>意大利</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>Citrin</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>长95cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>金属弦/品</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>拨片</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>1574 出版</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>流行驱动</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>Citrin：构造、奏法与出版</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；制作者未记录；desc 截断。"
+    },
+    {
+      "id": "tielke-guitar",
+      "title": "蒂尔克吉他（汉堡，1693）",
+      "kind": "作品",
+      "unit": "music-instruments",
+      "era": "17世纪",
+      "region": "欧洲",
+      "medium": "乐器",
+      "tier": "核心",
+      "def": "Joachim Tielke 制吉他，维多利亚与艾伯特博物馆藏（O58931）。",
+      "when": "1693年",
+      "overview": "拱背五宽肋，玳瑁/象牙/锡细木镶嵌花卉、丘比特与带铭古典场景；面板黑檀象牙锡梯纹镶边并花卉镶嵌。",
+      "related": [
+        "stradivari-violin",
+        "baffo-harpsichord"
+      ],
+      "sources": [
+        "vam-o58931"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明，此吉他**1693年**制于**汉堡**，作者 **Joachim Tielke（1641—1719）**；他制造了大量**极负盛名的弦乐器**，今存**十五把吉他**。维多利亚与艾伯特博物馆藏（O58931）。",
+        "风格特征": "该馆详述装饰：**拱背由五条宽肋**构成，为**玳瑁、象牙与锡的细木镶嵌**，图案为**花卉、丘比特与带短铭的古典场景**，另有**奔逐于枝叶间的putti（小天使）追逐场景**；**侧板**为**同样装饰的镶嵌**；**松木面板**有**黑檀/象牙/锡的梯纹镶边**，并**嵌花卉细木**。",
+        "代表人物与作品": "作者 Joachim Tielke。相关条目见斯特拉迪瓦里小提琴与巴福羽管键琴。本件为 V&A 藏品（O58931）。",
+        "技法或形式分析": "材质为**软木、象牙、龟甲贴面、珍珠母与乌木，带錾刻**；尺寸**全长102 × 宽30 × 深13厘米**（另一处50cm或为弦长），据该馆记录。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「乐器」同时读作**巴洛克装饰艺术**：Tielke 的琴以**奢华镶嵌**著称，乐器与工艺收藏品在此难以分界。该馆 summary 在「floral m…」处**截断**，本条目**不补写**。",
+        "一图": "示意图以 Tielke 制琴、玳瑁/象牙/锡镶嵌与古典场景三者关系标示本琴。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）该馆 summary **截断，未补写**；（3）短铭内容未迻录；（4）五十件吉他中「十五件存世」的统计未核。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='tielke-guitar 示意图'><title>tielke-guitar</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>汉堡·1693</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>Tielke</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>细木吉他</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>全长102</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>玳瑁/象牙/锡</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>镶嵌</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>古典场景</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>巴洛克</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>Tielke 吉他：制琴、镶嵌与图像</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；summary 截断；铭文未迻录。"
+    },
+    {
+      "id": "baroque-oboe-holland",
+      "title": "荷兰巴洛克双簧管（约1700）",
+      "kind": "作品",
+      "unit": "music-instruments",
+      "era": "17—18世纪",
+      "region": "欧洲",
+      "medium": "乐器",
+      "tier": "重要",
+      "def": "荷兰黄杨双簧管，维多利亚与艾伯特博物馆藏（O58639）。",
+      "when": "约1700年",
+      "overview": "三节黄杨、象牙箍银键；节上低浮雕月桂/莨苕；喇叭口雕两奏乐场景（小提琴起舞与四乐师）；名称源于法语hautbois，由中世纪肖姆管演变。",
+      "related": [
+        "northumberland-bagpipe",
+        "baffo-harpsichord"
+      ],
+      "sources": [
+        "vam-o58639"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明，「oboe」一词源于法语 **hautbois**（「响亮/高的木管」）；双簧管是**三节的高音簧片乐器**，由**肖姆管（shawm）**——一种喇叭口、音色更刺耳的中世纪乐器——**发展而来**；此一发展发生在**17世纪中叶**。本件约**1700年**制于**荷兰**，维多利亚与艾伯特博物馆藏（O58639）。",
+        "风格特征": "该馆描述：**黄杨木三节，象牙箍，银键**；各节**低浮雕**饰**月桂叶果**，承口上方为**莨苕纹**；**喇叭口**有**两个气孔与内端凸缘**，并雕**两幅奏乐场景**：一面为**男女随小提琴起舞**，另一面为**四乐师演奏双簧管、中音双簧管与低音管**。",
+        "代表人物与作品": "作者未署名。相关条目见诺森伯兰风笛与巴福羽管键琴。本件为 V&A 藏品（O58639）。",
+        "技法或形式分析": "材质为**雕刻旋制的黄杨木，银键，旋制象牙箍**；尺寸**长577毫米、径68毫米**（据该馆记录）。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「乐器上的雕刻」当作**音乐生活的图像**：喇叭口的两幅场景本身描绘**当时的合奏与舞蹈**，使器物成为**自身语境的插图**。",
+        "一图": "示意图以肖姆管→双簧管、三节黄杨与喇叭口奏乐雕三者关系标示本管。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）「由肖姆管发展」为通说，本记录未展开；（3）银键的键数未说明；（4）制作者未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='baroque-oboe-holland 示意图'><title>baroque-oboe-holland</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>荷兰·约1700</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>黄杨</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>巴洛克双簧管</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>577mm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>hautbois→obo</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>词源</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>喇叭口奏乐雕</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>自画像</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>巴洛克双簧管：源流、材质与雕刻</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；键数与作者未记录。"
+    },
+    {
+      "id": "bowie-koto-heroes",
+      "title": "鲍伊《Heroes》用古筝（koto）",
+      "kind": "作品",
+      "unit": "music-instruments",
+      "era": "20世纪",
+      "region": "东亚",
+      "medium": "乐器",
+      "tier": "核心",
+      "def": "大卫·鲍伊《Heroes》专辑「Moss Garden」所用玩具古筝，维多利亚与艾伯特博物馆藏（O1784498）。",
+      "when": "约1977年",
+      "overview": "模塑塑料13弦玩具筝，附原纸盒与说明书；棕塑木纹面板、两端织物；为流行音乐借用东方乐器的物证。",
+      "related": [
+        "guzheng",
+        "japanese-art"
+      ],
+      "sources": [
+        "vam-o1784498"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明，这件**古筝（koto）**为**大卫·鲍伊（David Bowie）** 在**约1977年**录制《**Heroes**》专辑中「**Moss Garden**」一曲时使用。维多利亚与艾伯特博物馆藏（O1784498）。",
+        "风格特征": "该馆描述器物：**小型矩形13弦乐器**，**附原装纸盒与说明书**；琴体为**棕色塑料**，凸面**印木纹装饰**；一端**贴橙色织物**、另一端**贴红色织物**；弦为**白色合成弦**。",
+        "代表人物与作品": "使用者为大卫·鲍伊；制作者未署名（玩具乐器制造商）。相关条目见古筝与日本艺术。本件为 V&A 藏品（O1784498）。",
+        "技法或形式分析": "材质为**模塑塑料、金属、合成弦、胶贴织物与印刷贴纸**；尺寸**高4.9 × 长30.2 × 宽7.2厘米**（另附盒/说明书多组尺寸，据该馆记录）。",
+        "与前后风格的关系和争论": "本条目据该馆记录把它读作**流行音乐借用东方乐器的物证**：一件**批量生产的玩具筝**进入**前卫摇滚录音**，说明音乐文化交流不只经由传统名器，也可经由**大众消费制品**。本条目只依记录陈述，不评价其演奏方式。",
+        "一图": "示意图以《Heroes》录音、玩具13弦筝与东方乐器借用三者关系标示本件。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）「Moss Garden」中的具体使用方式未在记录说明；（3）玩具制造商未记录；（4）鲍伊 acquisition 链条未取得。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='bowie-koto-heroes 示意图'><title>bowie-koto-heroes</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>鲍伊·约1977</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>Heroes</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>玩具筝</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>13弦/30cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>塑料·合成弦</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>批量品</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>Moss Garden</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>曲目</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>鲍伊古筝：录音、玩具与借用</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；使用方式与制造商未记录。"
     }
   ]
 }

@@ -1,0 +1,161 @@
+{
+ "O58649": {
+  "title": "{'title': 'Urbino Cittern', 'type': 'popular title'}",
+  "date": "{'date': {'text': '1582', 'earliest': '1582-01-01', 'latest': '1582-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Urbino', 'id': 'x33375'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "mat": "Carved and purfled [bordered] pine and sycamore",
+  "desc": "The back is of sycamore and very slightly arched. The pine belly, also slightly arched, is a little wider than the back. It is purfled and decorated with a squared knot-pattern at the lower end, where there is a scrolled wooden projection (the 'comb'), slotted to hold the strings. The underside of the belly has four strengthening bars arranged in an open square. The bridge and the rose are simple modern replacements. The sides, which taper from neck to base, are carved with overlapping rosettes within roundels. At the neck the sides end in carved outward-turned scrolls. \n\nThe neck, which is offset to the treble side of the instrument, carries a sycamore fingerboard with eighteen brass frets. The fingerboard extends on to the belly, with a cartouche at its end which does not appear to have been decorated with any armorial charges, though another cartouche, on the back next to the neck, has a cittern carved on the shield in relief and the initials 'A.C' painted on it. The head has a slightly domed surface into which the pegs are inserted from the front. The finial is a small open bifurcated scroll, and a suspending hook is carved in the back of the head. The instrument appears to have been originally four-course, but has been altered rather crudely to six-course. Two early pegs remain.\n\n<u>Construction</u>\nApart from the belly, finger-board and scroll, the instrument appears to be carved from a single block of figured maple or sycamore (a common method of constructing shallow instruments until the 17th century). ",
+  "summary": "The cittern was a popular wire-strung instrument with metal frets, strummed with a plectrum, and the melody was usually played on the top string. It became fashionable throughout Italy and central Europe following the publication in 1574 of <i>Il primo libro di tabolaturo di citthara</i> by Paolo Virchi, the son of a cittern maker from Brescia. This exquisitely carved instrument is highly important because it is decorated in the most fashionable style of the day and, unlike almost all Italian furniture of this period, it bears a date, 1582. Nothing is known about the maker, Augustinus Citaroedus: ‘Citaroedus’ literally means ‘harper’, so this is probably a generic term.\r\n\r\nOn loan to the Horniman Museum.",
+  "objtype": "Cittern",
+  "dims": [
+   [
+    "Length",
+    "95",
+    "cm"
+   ],
+   [
+    "Length",
+    "45",
+    "cm"
+   ],
+   [
+    "Depth",
+    "6.4",
+    "cm"
+   ],
+   [
+    "Width",
+    "30",
+    "cm"
+   ],
+   [
+    "Depth",
+    "2.4",
+    "cm"
+   ],
+   [
+    "Length",
+    "62",
+    "cm"
+   ]
+  ]
+ },
+ "O58931": {
+  "title": "",
+  "date": "{'date': {'text': '1693', 'earliest': '1693-01-01', 'latest': '1693-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Hamburg', 'id': 'x28900'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "mat": "Softwood, ivory and turtle shell veneer, mother-of-pearl and ebony, with engraved marquetry, gilt vellum rosette and carved ivory openwork head",
+  "desc": "'Vaulted back of five broad ribs of engraved marquetry of tortoiseshell, ivory and pewter in floral designs, cupids and classical scenes identified by short inscriptions; also with putti running through foliage in chase scenes. The sides are of marquetry, similarly decorated. The pine belly, with ladder-pattern purfling in ebony, ivory and pewter, is inlaid with floral marquetry in tortoiseshell, ivory and ebony in the star-shaped surround to the rose. The sunk rose is of vellum, of extreme complexity, partly gilded. The bridge is decorated with engraved mother-of-pearl and flanked by floral scrolls in tortoiseshell marquetry applied to the belly.\r\n\r\nThe neck is decorated on the back with tortoiseshell and ivory marquetry, and the extension of the belly wood is inlaid with leaves in engraved mother-of-pearl. The flush ebony fingerboard is bordered with ivory fillets, and is without frets. The head has openwork of carved ivory in a floral design with putto. There are eleven pegs of carved and turned ivory, for six courses of strings, the first single, the rest double.'\n\nAnthony Baines, <i>Catalogue of Musical Instruments in the Victoria and Albert Museum - Part II: Non-Keyboard Instruments</i> (London, 1978), p. 57.",
+  "summary": "This guitar was made in Hamburg in 1693 by Joachim Tielke (1641-1719), who built a large number of highly prestigious stringed instruments, of which fifteen guitars are known to survive today. The instruments were often elaborately decorated with ivory and tortoiseshell inlay similar to the floral motifs on this example. \r\n\r\nFrom about 1650, the guitar became a highly fashionable instrument throughout Europe, and guitarists like Francesco Corbetta (ca. 1615-1681) and Robert de Visée (ca. 1650-1725) could make a good living at the courts of Charles II of England and Louis XIV of France respectively. These two composed melodious works at a time when much guitar music consisted of strumming sequences of chords, named after letters of the alphabet (<i> all’alfabeto</i>), as opposed to notes and keys.",
+  "objtype": "Guitar",
+  "dims": [
+   [
+    "Length",
+    "102",
+    "cm"
+   ],
+   [
+    "Length",
+    "50",
+    "cm"
+   ],
+   [
+    "Width",
+    "30",
+    "cm"
+   ],
+   [
+    "Depth",
+    "13",
+    "cm"
+   ]
+  ]
+ },
+ "O58639": {
+  "title": "",
+  "date": "{'date': {'text': 'ca. 1700', 'earliest': '1695-01-01', 'latest': '1704-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Holland', 'id': 'x29020'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "mat": "Carved and turned boxwood, with silver keys and turned ivory mounts",
+  "desc": "Boxwood, in three joints, ivory mounted. The joints are carved in low relief with laurel leaves and berries, with acanthus motifs over the sockets. The bell, which has two vent holes and an internal terminal flange, is carved with two musical scenes: on one side, a man and a woman dancing to the violin; on the other, a group of four musicians playing oboes, tenor oboe and bassoon from part books. They wear late seventeenth-century costume. Two double holes, three silver keys, including a central closed key for C with round key-plate and fish-tailed touch, flanked by two closed E flat keys with square key-plates. \n\nStamped 'W. BEUKERS' overstamped on a previous stamp with the name enclosed in a strap, partially erased and now barely legible but apparently ending in 'en'. ",
+  "summary": "The term 'oboe' derives from hautbois, the French for 'loud’ or ‘high wood[wind]'. Oboes are high-pitched, three-jointed reed instruments which developed from the shawm, a medieval version with an opening like a trumpet and a more raucous tone. This development of the oboe took place in the mid 17th century at the French court, among a group of instrumentalists and instrument makers in the Grand Ecurie, the royal musical ensemble used to accompany open-air ceremonies and festivities. Its invention is often ascribed specifically to Jean Hotteterre (d.  1690), one of the Grande Ecurie musicians during the reign of Louis XIV. The oboe rapidly proved versatile as a solo, chamber and orchestral instrument, its use spreading rapidly from France to Germany, Italy and England.\r\n\r\nThe bell of this oboe is decorated with two carved scenes representing contemporary men and women in fashionable dress. One shows a man and woman dancing to the accompaniment of a violin. The other depicts a woodwind ensemble of two oboes, a tenor oboe and a bassoon, playing from part-books laid flat on a table. Until the appearance of music stands in the 1700s, this was the normal way of playing from sheet-music.\r\n",
+  "objtype": "Oboe",
+  "dims": [
+   [
+    "Length",
+    "577",
+    "mm"
+   ],
+   [
+    "Diameter",
+    "68",
+    "mm"
+   ]
+  ]
+ },
+ "O1784498": {
+  "title": "",
+  "date": "{'date': {'text': 'ca.1977', 'earliest': '1972-01-01', 'latest': '1981-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Japan', 'id': 'x29399'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "mat": "Moulded plastic with metal, synthetic strings, glued fabric and printed adhesive paper\r\nPrinting ink and staples on cardboard\r\nPrinting ink on paper",
+  "desc": "Koto used by David Bowie for 'Moss Garden' from <i>Heroes</i>, ca.1977. A small, rectangular 13-stringed instrument with original cardboard box and instruction manual. The body of the koto is made of brown plastic with wood-grain decoration across the top convex surface. There is woven orange fabric applied to one end and red fabric at the other. The strings are of white synthetic material, and are held up by 12 cream coloured plastic moveable bridges. There are decorative paper stickers applied to each end. The lid of the box is printed in a red and silver pattern, and the paper instruction manual is black and white with a silhouette of a Japanese temple printed on the cover.",
+  "summary": "",
+  "objtype": "Koto",
+  "dims": [
+   [
+    "Height",
+    "4.9",
+    "cm"
+   ],
+   [
+    "Length",
+    "30.2",
+    "cm"
+   ],
+   [
+    "Width",
+    "7.2",
+    "cm"
+   ],
+   [
+    "Height",
+    "5",
+    "cm"
+   ],
+   [
+    "Length",
+    "32.7",
+    "cm"
+   ],
+   [
+    "Width",
+    "8.2",
+    "cm"
+   ],
+   [
+    "Height",
+    "5.8",
+    "cm"
+   ],
+   [
+    "Length",
+    "31",
+    "cm"
+   ],
+   [
+    "Width",
+    "7.7",
+    "cm"
+   ],
+   [
+    "Height",
+    "9.6",
+    "cm"
+   ],
+   [
+    "Width",
+    "13.1",
+    "cm"
+   ]
+  ]
+ }
+}

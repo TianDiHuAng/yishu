@@ -1223,3 +1223,10 @@
 **如实保留截断**：盖钵 summary「foug…」、执壶「sophisti…」、Qa'itbay「some objects…」、桶「产地/用途」均**未补写**。
 可逆：删 4 条 overlay 与 catalog 元组、移除 4 条 V&A 来源。代价：均单机构（V&A）；伊斯兰金属器由数件增至 8 件级。
 
+
+## D119 — Cycle116 乐器再补 4 条（396 → 400；达到 400 条目里程碑）
+以 V&A 补 `music-instruments`：`urbino-cittern`（乌尔比诺 Citrin，1582，**核心**）、`tielke-guitar`（Tielke 细木吉他，1693，**核心**）、`baroque-oboe-holland`（荷兰巴洛克双簧管，约1700）、`bowie-koto-heroes`（鲍伊《Heroes》「Moss Garden」所用玩具古筝，约1977，**核心**）。
+要点：①Citrin 以**金属弦/品、拨片扫奏**为特征，1574 年 Vitale 出版物驱动其在意/中欧流行；②Tielke 吉他以**玳瑁/象牙/锡细木镶嵌**（花卉/丘比特/带铭古典场景）著称，今存十五把；③巴洛克双簧管**由肖姆管（hautbois）演变**，喇叭口雕**奏乐场景**（乐器自画像）；④鲍伊筝为**模塑塑料 13 弦玩具**，证明东方乐器借用电可经**大众消费制品**。
+**写前查重**已执行（grep 4 个 id 均无冲突）。summary 截断处（Tielke「floral m…」）未补写。
+可逆：删 4 条 overlay 与 catalog 元组、移除 4 条来源。代价：均单机构（V&A）；乐器 17→21 条。
+

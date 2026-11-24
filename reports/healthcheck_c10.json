@@ -219,6 +219,13 @@
    [
     "1967"
    ]
+  ],
+  [
+   "urbino-cittern",
+   "1582年",
+   [
+    "1574"
+   ]
   ]
  ],
  "orphans": [],
@@ -273,8 +280,8 @@
   }
  },
  "link_audit": {
-  "cross_domain": 18,
+  "cross_domain": 20,
   "oneway": 0,
-  "total_links": 1272
+  "total_links": 1288
  }
 }

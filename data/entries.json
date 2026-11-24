@@ -2584,7 +2584,8 @@
       "related": [
         "china-music-history",
         "jingju",
-        "pipa"
+        "pipa",
+        "bowie-koto-heroes"
       ],
       "sources": [
         "enc-guzheng",
@@ -3094,7 +3095,8 @@
         "kofukuji-seated-buddha",
         "amida-shitennoji",
         "tiger-magpie-hochakdo",
-        "japanese-inro"
+        "japanese-inro",
+        "bowie-koto-heroes"
       ],
       "sources": [
         "enc-japanese-art",
@@ -8415,7 +8417,10 @@
       "related": [
         "maler-lute",
         "stradivari-violin",
-        "northumberland-bagpipe"
+        "northumberland-bagpipe",
+        "urbino-cittern",
+        "tielke-guitar",
+        "baroque-oboe-holland"
       ],
       "sources": [
         "vam-o58982"
@@ -8436,7 +8441,8 @@
       "related": [
         "baffo-harpsichord",
         "stradivari-violin",
-        "northumberland-bagpipe"
+        "northumberland-bagpipe",
+        "urbino-cittern"
       ],
       "sources": [
         "vam-o122435"
@@ -8456,7 +8462,8 @@
       "overview": "乌木管、象牙箍、黄铜键；封闭式旋律管四铜键加四持续管；以风箱而非口吹驱动，音色柔和，多室内演奏。",
       "related": [
         "baffo-harpsichord",
-        "maler-lute"
+        "maler-lute",
+        "baroque-oboe-holland"
       ],
       "sources": [
         "vam-o58248"
@@ -8476,7 +8483,8 @@
       "overview": "两块松木面板、双线镶边；背为两块枫木；漆非原漆；颈为后配；琴头出自另一琴。",
       "related": [
         "maler-lute",
-        "baffo-harpsichord"
+        "baffo-harpsichord",
+        "tielke-guitar"
       ],
       "sources": [
         "vam-o93114"
@@ -8564,6 +8572,86 @@
       ],
       "sources": [
         "vam-o83886"
+      ]
+    },
+    {
+      "id": "urbino-cittern",
+      "title": "乌尔比诺 Citrin（1582）",
+      "kind": "作品",
+      "unit": "music-instruments",
+      "era": "16世纪",
+      "region": "欧洲",
+      "medium": "乐器",
+      "tier": "核心",
+      "def": "乌尔比诺 Citrin，维多利亚与艾伯特博物馆藏（O58649）。",
+      "when": "1582年",
+      "overview": "金属弦金属品、拨片扫弦，旋律多在上弦；枫木微拱背、松木微拱面，末端有「梳」托弦；1574年 Vitale 出版后流行意/中欧。",
+      "related": [
+        "baffo-harpsichord",
+        "maler-lute"
+      ],
+      "sources": [
+        "vam-o58649"
+      ]
+    },
+    {
+      "id": "tielke-guitar",
+      "title": "蒂尔克吉他（汉堡，1693）",
+      "kind": "作品",
+      "unit": "music-instruments",
+      "era": "17世纪",
+      "region": "欧洲",
+      "medium": "乐器",
+      "tier": "核心",
+      "def": "Joachim Tielke 制吉他，维多利亚与艾伯特博物馆藏（O58931）。",
+      "when": "1693年",
+      "overview": "拱背五宽肋，玳瑁/象牙/锡细木镶嵌花卉、丘比特与带铭古典场景；面板黑檀象牙锡梯纹镶边并花卉镶嵌。",
+      "related": [
+        "stradivari-violin",
+        "baffo-harpsichord"
+      ],
+      "sources": [
+        "vam-o58931"
+      ]
+    },
+    {
+      "id": "baroque-oboe-holland",
+      "title": "荷兰巴洛克双簧管（约1700）",
+      "kind": "作品",
+      "unit": "music-instruments",
+      "era": "17—18世纪",
+      "region": "欧洲",
+      "medium": "乐器",
+      "tier": "重要",
+      "def": "荷兰黄杨双簧管，维多利亚与艾伯特博物馆藏（O58639）。",
+      "when": "约1700年",
+      "overview": "三节黄杨、象牙箍银键；节上低浮雕月桂/莨苕；喇叭口雕两奏乐场景（小提琴起舞与四乐师）；名称源于法语hautbois，由中世纪肖姆管演变。",
+      "related": [
+        "northumberland-bagpipe",
+        "baffo-harpsichord"
+      ],
+      "sources": [
+        "vam-o58639"
+      ]
+    },
+    {
+      "id": "bowie-koto-heroes",
+      "title": "鲍伊《Heroes》用古筝（koto）",
+      "kind": "作品",
+      "unit": "music-instruments",
+      "era": "20世纪",
+      "region": "东亚",
+      "medium": "乐器",
+      "tier": "核心",
+      "def": "大卫·鲍伊《Heroes》专辑「Moss Garden」所用玩具古筝，维多利亚与艾伯特博物馆藏（O1784498）。",
+      "when": "约1977年",
+      "overview": "模塑塑料13弦玩具筝，附原纸盒与说明书；棕塑木纹面板、两端织物；为流行音乐借用东方乐器的物证。",
+      "related": [
+        "guzheng",
+        "japanese-art"
+      ],
+      "sources": [
+        "vam-o1784498"
       ]
     }
   ]
