@@ -1,0 +1,19 @@
+{
+ "id": "western-zhou-hu-vessel",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为**西周**青铜壶（约前1000—900），CMA 藏（1944.61）。",
+  "风格特征": "该馆描述：**高而 slender** 的酒器，有**三条装饰带**——**足上一带、颈上一带、盖上一带**；**颈带**为**程式化的鸟或凤**，**盖带与足带**为**几何龙纹**。",
+  "代表人物与作品": "作者未署名。相关条目见鎛钟与商爵。本件为 CMA 藏品（1944.61）。",
+  "技法或形式分析": "材质为**青铜**；整体**高46.1厘米（带盖）**、**去盖41.7厘米**（据该馆记录）。该馆指出：**盖倒置即成一杯**；**颈带的柱状「耳」**提示**以绳索携行**。",
+  "与前后风格的关系和争论": "该馆给出**纹样的语义弹性**：**龙与凤或代表阴阳**，故**宗教与世俗**用途皆宜。本条目据此把「纹样语义」理解为**可迁移的**——同一装饰能服务于不同场合，这正是礼器系统的弹性。",
+  "一图": "示意图以三带装饰、盖倒成杯与龙凤阴阳三者关系标示本壶。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「龙凤阴阳」为该馆解释；（3）铭文有无未记录；（4）本件与成对器的关系未说明。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='western-zhou-hu-vessel 示意图'><title>western-zhou-hu-vessel</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>西周·前1000—900</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>青铜壶带盖</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>壶</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>46.1cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>颈凤·盖足龙</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>三带装饰</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>盖倒成杯</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>构造</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>西周壶：装饰、构造与语义</text></g></svg>",
+ "sources": [
+  "cma-1944-61"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；阴阳解释为馆方；铭文未记录。"
+}

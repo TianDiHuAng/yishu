@@ -1,0 +1,19 @@
+{
+ "id": "eastern-zhou-hu-jar",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为东周**战国**（前481—221）青铜壶，CMA 藏（1975.62）。该馆指出：壶上**平而低浮雕的狩猎场景**是**中国艺术最早的图像性场景（pictorial scenes）之一**，时代为**晚周之初**。",
+  "风格特征": "该馆逐带描述：壶身有**六条低浮雕横带**，各由**重复母题**构成；**短而微撇的颈**上有**窄的编纹带**，其下为**生动的狩猎场景**——**执长矛与剑的猎人**对阵**覆圆纹的猫科猛兽**；主体为**两条宽的交缠龙纹带**，中间夹**另一狩猎带**（猎人面对**两只角兽**，其一**后腿已被矛穿透**）；**最低带**为**两只长腿鸟与一条小鱼**。",
+  "代表人物与作品": "作者未署名。相关条目见鎛钟与西周壶。本件为 CMA 藏品（1975.62）。",
+  "技法或形式分析": "材质为**青铜**；整体高25.5厘米（据该馆记录）。",
+  "与前后风格的关系和争论": "本条目据该馆说明把「叙事」作为突破：商周青铜器传统以**符号与纹样**为主，此壶的**连贯狩猎叙事**标志**图像性（pictorial）**的转向——人物活动首次成为器面主角。",
+  "一图": "示意图以六横带结构、狩猎叙事与「最早图像场景」三者关系标示本壶。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「最早之一」为该馆判断；（3）猎人/兽的身份未考；（4）出土背景未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='eastern-zhou-hu-jar 示意图'><title>eastern-zhou-hu-jar</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>战国·前481—221</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>青铜壶</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>狩猎纹壶</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>25.5cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>六横带</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>重复母题</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>叙事转向</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>图像性</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>狩猎壶：结构、叙事与转向</text></g></svg>",
+ "sources": [
+  "cma-1975-62"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；叙事定位为馆方判断；出土未记录。"
+}

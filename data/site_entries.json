@@ -2676,7 +2676,8 @@
         "zhou-ding-large",
         "lai-zhong-bell",
         "luristan-master-cheekpiece",
-        "shang-jade-ge"
+        "shang-jade-ge",
+        "shang-jue-cups"
       ],
       "sources": [
         "enc-bronze",
@@ -4238,7 +4239,8 @@
       "related": [
         "china-music-history",
         "wuwangdu-chu-music-archaeology",
-        "lai-zhong-bell"
+        "lai-zhong-bell",
+        "bo-zhong-bell"
       ],
       "sources": [
         "enc-chinese-music",
@@ -10703,7 +10705,8 @@
       "related": [
         "shang-zhou-bronzes",
         "chinese-jade-art",
-        "luristan-axel-cup"
+        "luristan-axel-cup",
+        "shang-jue-cups"
       ],
       "sources": [
         "cma-2005-54"
@@ -10803,7 +10806,9 @@
       "overview": "为八件成组编钟之一；118字铭文记逨的世职与为先父作钟；铭文亦被视为早期书法实例。",
       "related": [
         "yayue",
-        "shang-zhou-bronzes"
+        "shang-zhou-bronzes",
+        "bo-zhong-bell",
+        "western-zhou-hu-vessel"
       ],
       "sources": [
         "cma-1989-3"
@@ -15273,6 +15278,141 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='amida-descent-painting 示意图'><title>amida-descent-painting</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>南北朝·1300s</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>绢本来迎</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>阿弥陀二十五菩萨</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>164.5×137.7</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>菩萨奏乐</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>前导</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>观音莲台</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>乘归</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>来迎图：流程、奏乐与莲台</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（CMA）来源；委托者与图像志源未记录。"
+    },
+    {
+      "id": "shang-jue-cups",
+      "title": "商代青铜爵（对）",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元前12世纪",
+      "region": "中国",
+      "medium": "金属器",
+      "tier": "核心",
+      "def": "安阳期青铜爵一对，克利夫兰艺术博物馆藏（1960.78）。",
+      "when": "约公元前1200年",
+      "overview": "爵用于灌祭；商王室祖先崇拜中酒食为要；器类各有专名：爵/斝（温酒）/方卣/觚（喇叭口注酒）。",
+      "related": [
+        "shang-jia-vessel",
+        "shang-zhou-bronzes",
+        "western-zhou-hu-vessel"
+      ],
+      "sources": [
+        "cma-1960-78"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明：**酒与食物**在商王室的**祖先崇拜国家祭祀**中扮演要角——祭品呈给**祖先之灵与至上神（Shangdi）**。本件为安阳期青铜爵一对（约前1200年），CMA 藏（1960.78）。",
+        "风格特征": "该馆指出：**各类酒器各有专名**，其铸造「见证了这一遥远文明的权力与艺术活力」。**爵**用于**灌祭（libations）**。",
+        "代表人物与作品": "该馆列出**主要酒器类**：**斝（jia，温酒器）**、**方卣（fangyou，方形酒容器）**、**觚（gu，喇叭口注酒器）**。相关条目见商代铜爵与商周青铜礼器。本件为 CMA 藏品（1960.78）。",
+        "技法或形式分析": "材质为**青铜**；尺寸20.3 × 19.7厘米（据该馆记录，或为一对之总述）。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「器类名目」作为理解钥匙：爵、斝、卣、觚的分工说明商代礼器系统**按功能命名、按功能使用**——器形即仪注。",
+        "一图": "示意图以祖先崇拜、爵＝灌祭与器类专名三者关系标示本对爵。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）尺寸为一对还是单件未明；（3）纹样描述未记录；（4）出土背景未取得。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='shang-jue-cups 示意图'><title>shang-jue-cups</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>安阳·约前1200</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>青铜爵一对</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>爵＝灌祭</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>功能</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>斝·卣·觚</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>器类专名</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>祖先崇拜</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>Shangdi</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>商爵：祭祀、名目与功能</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；尺寸口径未明；纹样未记录。"
+    },
+    {
+      "id": "eastern-zhou-hu-jar",
+      "title": "东周狩猎纹壶",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元前5—3世纪",
+      "region": "中国",
+      "medium": "金属器",
+      "tier": "核心",
+      "def": "战国青铜壶，克利夫兰艺术博物馆藏（1975.62）。",
+      "when": "公元前481—221年",
+      "overview": "六条低浮雕横带；狩猎纹为中国艺术最早 pictorial scenes 之一；执矛剑猎人对圆纹猫科；另带交缠龙纹与双鸟小鱼带。",
+      "related": [
+        "bo-zhong-bell",
+        "western-zhou-hu-vessel"
+      ],
+      "sources": [
+        "cma-1975-62"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为东周**战国**（前481—221）青铜壶，CMA 藏（1975.62）。该馆指出：壶上**平而低浮雕的狩猎场景**是**中国艺术最早的图像性场景（pictorial scenes）之一**，时代为**晚周之初**。",
+        "风格特征": "该馆逐带描述：壶身有**六条低浮雕横带**，各由**重复母题**构成；**短而微撇的颈**上有**窄的编纹带**，其下为**生动的狩猎场景**——**执长矛与剑的猎人**对阵**覆圆纹的猫科猛兽**；主体为**两条宽的交缠龙纹带**，中间夹**另一狩猎带**（猎人面对**两只角兽**，其一**后腿已被矛穿透**）；**最低带**为**两只长腿鸟与一条小鱼**。",
+        "代表人物与作品": "作者未署名。相关条目见鎛钟与西周壶。本件为 CMA 藏品（1975.62）。",
+        "技法或形式分析": "材质为**青铜**；整体高25.5厘米（据该馆记录）。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「叙事」作为突破：商周青铜器传统以**符号与纹样**为主，此壶的**连贯狩猎叙事**标志**图像性（pictorial）**的转向——人物活动首次成为器面主角。",
+        "一图": "示意图以六横带结构、狩猎叙事与「最早图像场景」三者关系标示本壶。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「最早之一」为该馆判断；（3）猎人/兽的身份未考；（4）出土背景未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='eastern-zhou-hu-jar 示意图'><title>eastern-zhou-hu-jar</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>战国·前481—221</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>青铜壶</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>狩猎纹壶</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>25.5cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>六横带</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>重复母题</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>叙事转向</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>图像性</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>狩猎壶：结构、叙事与转向</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；叙事定位为馆方判断；出土未记录。"
+    },
+    {
+      "id": "bo-zhong-bell",
+      "title": "东周鎛钟",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元前5世纪初",
+      "region": "中国",
+      "medium": "乐器",
+      "tier": "核心",
+      "def": "东周青铜鎛钟，克利夫兰艺术博物馆藏（1962.44）。",
+      "when": "公元前400年代初",
+      "overview": "椭圆截面中国钟独特：敲沿或敲心可得两音；悬奏常成套按音高大小排；顶为双身蛇缠双虎之悬环，钟身蟠蛇枚，下兽面角交抽象鸟纹。",
+      "related": [
+        "lai-zhong-bell",
+        "yayue",
+        "eastern-zhou-hu-jar"
+      ],
+      "sources": [
+        "cma-1962-44"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明：东周的**音乐**不只为**礼仪**，也在**封建宫廷**供**娱乐**。本件鎛钟为公元前400年代初，CMA 藏（1962.44）。",
+        "风格特征": "该馆点出**声学特性**：**中国青铜钟的椭圆截面**是独特的——依**敲沿**或**敲近中心**而**可发两音**；钟**悬奏**，常入**按音高与大小排列的成套钟**。",
+        "代表人物与作品": "该馆描述装饰：**顶部悬环**为**双身蛇与两虎交缠**；**钟身枚**为**蟠蛇**；**下部**为**兽面**，其**角与抽象鸟纹交织**。相关条目见逨钟与雅乐。本件为 CMA 藏品（1962.44）。",
+        "技法或形式分析": "材质为**青铜**；整体高41.4厘米（据该馆记录）。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「双音」作为**技术与乐制的交点**：椭圆截面不是造型偶然，而是**一钟两音**的声学设计，配合**成套编悬**构成先秦乐制的物质基础。",
+        "一图": "示意图以椭圆截面、敲位双音与成套编悬三者关系标示本钟。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）双音的具体音高未实测；（3）成套钟的其余件未记录；（4）装饰母题的神话题解未展开。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='bo-zhong-bell 示意图'><title>bo-zhong-bell</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>东周·前400s初</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>鎛钟</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>椭圆截面</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>声学设计</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>敲沿/敲心</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>两音</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>蛇虎悬环</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>装饰</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>鎛钟：截面、双音与装饰</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；音高未实测；套钟未记录。"
+    },
+    {
+      "id": "western-zhou-hu-vessel",
+      "title": "西周壶（带盖）",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元前10—9世纪",
+      "region": "中国",
+      "medium": "金属器",
+      "tier": "核心",
+      "def": "西周青铜壶，克利夫兰艺术博物馆藏（1944.61）。",
+      "when": "约公元前1000—900年",
+      "overview": "三带装饰：颈带凤鸟、盖与足带几何龙纹；龙凤或表阴阳，宗教/世俗皆宜；盖倒置成杯；颈部柱状「耳」示以绳携行。",
+      "related": [
+        "lai-zhong-bell",
+        "shang-jue-cups",
+        "eastern-zhou-hu-jar"
+      ],
+      "sources": [
+        "cma-1944-61"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**西周**青铜壶（约前1000—900），CMA 藏（1944.61）。",
+        "风格特征": "该馆描述：**高而 slender** 的酒器，有**三条装饰带**——**足上一带、颈上一带、盖上一带**；**颈带**为**程式化的鸟或凤**，**盖带与足带**为**几何龙纹**。",
+        "代表人物与作品": "作者未署名。相关条目见鎛钟与商爵。本件为 CMA 藏品（1944.61）。",
+        "技法或形式分析": "材质为**青铜**；整体**高46.1厘米（带盖）**、**去盖41.7厘米**（据该馆记录）。该馆指出：**盖倒置即成一杯**；**颈带的柱状「耳」**提示**以绳索携行**。",
+        "与前后风格的关系和争论": "该馆给出**纹样的语义弹性**：**龙与凤或代表阴阳**，故**宗教与世俗**用途皆宜。本条目据此把「纹样语义」理解为**可迁移的**——同一装饰能服务于不同场合，这正是礼器系统的弹性。",
+        "一图": "示意图以三带装饰、盖倒成杯与龙凤阴阳三者关系标示本壶。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「龙凤阴阳」为该馆解释；（3）铭文有无未记录；（4）本件与成对器的关系未说明。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='western-zhou-hu-vessel 示意图'><title>western-zhou-hu-vessel</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>西周·前1000—900</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>青铜壶带盖</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>壶</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>46.1cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>颈凤·盖足龙</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>三带装饰</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>盖倒成杯</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>构造</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>西周壶：装饰、构造与语义</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；阴阳解释为馆方；铭文未记录。"
     }
   ]
 }

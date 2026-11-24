@@ -1585,7 +1585,8 @@
         "zhou-ding-large",
         "lai-zhong-bell",
         "luristan-master-cheekpiece",
-        "shang-jade-ge"
+        "shang-jade-ge",
+        "shang-jue-cups"
       ],
       "sources": [
         "enc-bronze",
@@ -2563,7 +2564,8 @@
       "related": [
         "china-music-history",
         "wuwangdu-chu-music-archaeology",
-        "lai-zhong-bell"
+        "lai-zhong-bell",
+        "bo-zhong-bell"
       ],
       "sources": [
         "enc-chinese-music",
@@ -6633,7 +6635,8 @@
       "related": [
         "shang-zhou-bronzes",
         "chinese-jade-art",
-        "luristan-axel-cup"
+        "luristan-axel-cup",
+        "shang-jue-cups"
       ],
       "sources": [
         "cma-2005-54"
@@ -6694,7 +6697,9 @@
       "overview": "为八件成组编钟之一；118字铭文记逨的世职与为先父作钟；铭文亦被视为早期书法实例。",
       "related": [
         "yayue",
-        "shang-zhou-bronzes"
+        "shang-zhou-bronzes",
+        "bo-zhong-bell",
+        "western-zhou-hu-vessel"
       ],
       "sources": [
         "cma-1989-3"
@@ -9434,6 +9439,89 @@
       ],
       "sources": [
         "cma-2025-138"
+      ]
+    },
+    {
+      "id": "shang-jue-cups",
+      "title": "商代青铜爵（对）",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元前12世纪",
+      "region": "中国",
+      "medium": "金属器",
+      "tier": "核心",
+      "def": "安阳期青铜爵一对，克利夫兰艺术博物馆藏（1960.78）。",
+      "when": "约公元前1200年",
+      "overview": "爵用于灌祭；商王室祖先崇拜中酒食为要；器类各有专名：爵/斝（温酒）/方卣/觚（喇叭口注酒）。",
+      "related": [
+        "shang-jia-vessel",
+        "shang-zhou-bronzes",
+        "western-zhou-hu-vessel"
+      ],
+      "sources": [
+        "cma-1960-78"
+      ]
+    },
+    {
+      "id": "eastern-zhou-hu-jar",
+      "title": "东周狩猎纹壶",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元前5—3世纪",
+      "region": "中国",
+      "medium": "金属器",
+      "tier": "核心",
+      "def": "战国青铜壶，克利夫兰艺术博物馆藏（1975.62）。",
+      "when": "公元前481—221年",
+      "overview": "六条低浮雕横带；狩猎纹为中国艺术最早 pictorial scenes 之一；执矛剑猎人对圆纹猫科；另带交缠龙纹与双鸟小鱼带。",
+      "related": [
+        "bo-zhong-bell",
+        "western-zhou-hu-vessel"
+      ],
+      "sources": [
+        "cma-1975-62"
+      ]
+    },
+    {
+      "id": "bo-zhong-bell",
+      "title": "东周鎛钟",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元前5世纪初",
+      "region": "中国",
+      "medium": "乐器",
+      "tier": "核心",
+      "def": "东周青铜鎛钟，克利夫兰艺术博物馆藏（1962.44）。",
+      "when": "公元前400年代初",
+      "overview": "椭圆截面中国钟独特：敲沿或敲心可得两音；悬奏常成套按音高大小排；顶为双身蛇缠双虎之悬环，钟身蟠蛇枚，下兽面角交抽象鸟纹。",
+      "related": [
+        "lai-zhong-bell",
+        "yayue",
+        "eastern-zhou-hu-jar"
+      ],
+      "sources": [
+        "cma-1962-44"
+      ]
+    },
+    {
+      "id": "western-zhou-hu-vessel",
+      "title": "西周壶（带盖）",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元前10—9世纪",
+      "region": "中国",
+      "medium": "金属器",
+      "tier": "核心",
+      "def": "西周青铜壶，克利夫兰艺术博物馆藏（1944.61）。",
+      "when": "约公元前1000—900年",
+      "overview": "三带装饰：颈带凤鸟、盖与足带几何龙纹；龙凤或表阴阳，宗教/世俗皆宜；盖倒置成杯；颈部柱状「耳」示以绳携行。",
+      "related": [
+        "lai-zhong-bell",
+        "shang-jue-cups",
+        "eastern-zhou-hu-jar"
+      ],
+      "sources": [
+        "cma-1944-61"
       ]
     }
   ]

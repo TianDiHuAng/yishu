@@ -3501,6 +3501,31 @@
       "check_links_result": "broken=0(473页)",
       "audit_all": "12/12 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle126",
+      "date": "2026-11-24",
+      "status": "completed",
+      "gap_methods": [
+        "商周青铜（CMA）"
+      ],
+      "network": "CMA ok",
+      "new_entries": 4,
+      "new_entry_ids": [
+        "shang-jue-cups",
+        "eastern-zhou-hu-jar",
+        "bo-zhong-bell",
+        "western-zhou-hu-vessel"
+      ],
+      "self_ref_fixed": "western-zhou-hu-vessel 构建前修正",
+      "new_sources": 4,
+      "sources_total": 567,
+      "entries_total": 440,
+      "pages": 477,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(477页)",
+      "audit_all": "12/12 ok",
+      "commits": 1
     }
   ]
 }

@@ -5629,6 +5629,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；绢本切金 164.5×137.7cm；说明含观音持莲台"
+    },
+    {
+      "id": "cma-1960-78",
+      "title": "Cleveland Museum of Art — Pair of Jue wine cups, Shang Anyang, acc. 1960.78",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1960.78",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；青铜 20.3×19.7cm；说明含爵为灌祭与器类名目"
+    },
+    {
+      "id": "cma-1975-62",
+      "title": "Cleveland Museum of Art — Hu jar with hunting scenes, Eastern Zhou, acc. 1975.62",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1975.62",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；青铜 25.5cm；说明含最早 pictorial scenes 之一"
+    },
+    {
+      "id": "cma-1962-44",
+      "title": "Cleveland Museum of Art — Bo zhong bell, Eastern Zhou, acc. 1962.44",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1962.44",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；青铜 41.4cm；说明含椭圆截面双音"
+    },
+    {
+      "id": "cma-1944-61",
+      "title": "Cleveland Museum of Art — Hu wine vessel with cover, Western Zhou, acc. 1944.61",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1944.61",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；青铜 46.1cm 带盖；说明含盖倒置为杯与龙凤阴阳"
     }
   ]
 }

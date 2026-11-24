@@ -55,6 +55,12 @@
    "to_dom": "art"
   },
   {
+   "from": "yayue",
+   "to": "bo-zhong-bell",
+   "from_dom": "music",
+   "to_dom": "art"
+  },
+  {
    "from": "japanese-art",
    "to": "bowie-koto-heroes",
    "from_dom": "art",
@@ -119,6 +125,12 @@
    "to": "japanese-art",
    "from_dom": "music",
    "to_dom": "art"
+  },
+  {
+   "from": "bo-zhong-bell",
+   "to": "yayue",
+   "from_dom": "art",
+   "to_dom": "music"
   }
  ],
  "oneway_count": 0,
@@ -165,5 +177,5 @@
    10
   ]
  ],
- "total_links": 1422
+ "total_links": 1438
 }

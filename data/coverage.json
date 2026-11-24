@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 436,
+    "total": 440,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -5236,6 +5236,54 @@
     },
     "amida-descent-painting": {
       "title": "阿弥陀二十五菩萨来迎图",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "shang-jue-cups": {
+      "title": "商代青铜爵（对）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "eastern-zhou-hu-jar": {
+      "title": "东周狩猎纹壶",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "bo-zhong-bell": {
+      "title": "东周鎛钟",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "western-zhou-hu-vessel": {
+      "title": "西周壶（带盖）",
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",

@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 436 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 440 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -64,6 +64,10 @@
 | luristan-ibex-standard | 卢里斯坦羱羊标顶 | 作品 | 公元前8—7世纪 | 西亚·中亚 | 金属器 | 重要 | O2 |
 | luristan-axel-cup | 卢里斯坦轴杯 | 作品 | 公元前9—8世纪 | 西亚·中亚 | 金属器 | 重要 | O2 |
 | greco-roman-votive-relief | 托勒密还愿浮雕（双面习作） | 作品 | 托勒密时期 | 埃及 | 雕塑 | 重要 | O2 |
+| shang-jue-cups | 商代青铜爵（对） | 作品 | 公元前12世纪 | 中国 | 金属器 | 核心 | O2、O6 |
+| eastern-zhou-hu-jar | 东周狩猎纹壶 | 作品 | 公元前5—3世纪 | 中国 | 金属器 | 核心 | O2、O6 |
+| bo-zhong-bell | 东周鎛钟 | 作品 | 公元前5世纪初 | 中国 | 乐器 | 核心 | O2、O6 |
+| western-zhou-hu-vessel | 西周壶（带盖） | 作品 | 公元前10—9世纪 | 中国 | 金属器 | 核心 | O2、O6 |
 
 ## art-medieval（艺术史·中世纪）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
