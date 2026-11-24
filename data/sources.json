@@ -7149,6 +7149,26 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；布面油画 画心58.5×48.9cm；说明含场景很可能是妓院、竖笛与小提琴不看谱演奏被视为较粗俗并与妓女相联系、对比德·霍赫的优雅音乐"
+    },
+    {
+      "id": "cma-1960-82",
+      "title": "Cleveland Museum of Art — Emile Antoine Bourdelle, Head of Beethoven, 1891, acc. 1960.82",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1960.82",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；铜 整体59.2×42×52.1cm；左侧署名Bourdelle / Sculpt.，正面题贝多芬引语；说明含布德尔曾为罗丹助手、1888年起作贝多芬系列肖像、引语译文"
+    },
+    {
+      "id": "cma-1940-1132",
+      "title": "Cleveland Museum of Art — Josef Kriehuber, Bust of Ludwig van Beethoven, 1827, acc. 1940.1132",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1940.1132",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；石版画 版痕16.7×17.1cm；印有贝多芬生于1770年12月16日波恩、卒于1827年3月26日维也纳、出版者Tobias Haslinger、石版印刷Trentsensky；馆方无说明文字"
     }
   ]
 }

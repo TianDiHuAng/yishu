@@ -2317,7 +2317,9 @@
       "related": [
         "classical-period-music",
         "romantic-music",
-        "symphony"
+        "symphony",
+        "bourdelle-head-of-beethoven",
+        "kriehuber-bust-of-beethoven"
       ],
       "sources": [
         "enc-beethoven",
@@ -2348,7 +2350,8 @@
         "impressionism-music",
         "romantic-crossmedia",
         "preller-musicale",
-        "bonvin-woman-at-spinet"
+        "bonvin-woman-at-spinet",
+        "kriehuber-bust-of-beethoven"
       ],
       "sources": [
         "enc-romantic-music",
@@ -3468,7 +3471,8 @@
       "related": [
         "realism-art",
         "rodin-age-of-bronze",
-        "pedro-de-mena-peter"
+        "pedro-de-mena-peter",
+        "bourdelle-head-of-beethoven"
       ],
       "sources": [
         "cma-1918-328",
@@ -12822,6 +12826,46 @@
       ],
       "sources": [
         "cma-1991-23"
+      ]
+    },
+    {
+      "id": "bourdelle-head-of-beethoven",
+      "title": "布德尔《贝多芬头像》（1891）",
+      "kind": "作品",
+      "unit": "art-modern",
+      "era": "19世纪",
+      "region": "法国",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "布德尔的贝多芬铜质头像，克利夫兰艺术博物馆藏（1960.82）。",
+      "when": "1891年",
+      "overview": "该馆说明：布德尔曾在巴黎美术学院学习并做过罗丹的助手，1888年起创作了一系列贝多芬雕塑肖像，用起伏有力的形体传达作曲家的创造精神；他在左下方题了贝多芬的一句话：“我的领域是空气；风起时，我的灵魂旋转。”",
+      "related": [
+        "beethoven",
+        "rodin"
+      ],
+      "sources": [
+        "cma-1960-82"
+      ]
+    },
+    {
+      "id": "kriehuber-bust-of-beethoven",
+      "title": "克里胡贝尔《贝多芬胸像》（1827）",
+      "kind": "作品",
+      "unit": "art-neo-romantic",
+      "era": "19世纪",
+      "region": "奥地利",
+      "medium": "版画",
+      "tier": "补充",
+      "def": "克里胡贝尔的贝多芬石版画肖像，克利夫兰艺术博物馆藏（1940.1132）。",
+      "when": "1827年",
+      "overview": "该馆记录：这是克里胡贝尔1827年的石版画，版痕16.7×17.1厘米；画上印有贝多芬1770年12月16日生于波恩、1827年3月26日卒于维也纳的字样，以及出版者哈斯林格与印制者特伦森斯基的名字。馆方对此件没有附说明文字。",
+      "related": [
+        "beethoven",
+        "romantic-music"
+      ],
+      "sources": [
+        "cma-1940-1132"
       ]
     }
   ]

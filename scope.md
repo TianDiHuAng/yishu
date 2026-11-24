@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 591 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 593 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -184,6 +184,7 @@
 | corot | 让·巴蒂斯特·卡米耶·柯罗 | 人物 | 19世纪 | 法国 | 绘画 | 重要 | O1 |
 | preller-musicale | 普雷勒《普雷勒家的音乐会》（1838） | 作品 | 19世纪 | 德国 | 素描 | 重要 | O1 |
 | bonvin-woman-at-spinet | 邦万《斯皮耐琴前的女子》（1860） | 作品 | 19世纪 | 法国 | 素描 | 重要 | O1 |
+| kriehuber-bust-of-beethoven | 克里胡贝尔《贝多芬胸像》（1827） | 作品 | 19世纪 | 奥地利 | 版画 | 补充 | O1 |
 
 ## art-impression（艺术史·印象派与后印象派）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -230,6 +231,7 @@
 | mondrian-field-young-trees | 蒙德里安《前景有幼树的田野》（约1907） | 作品 | 20世纪 | 荷兰 | 绘画 | 重要 | O1 |
 | klee-with-the-dot | 克利《带着点》（1916） | 作品 | 20世纪 | 德国 | 素描 | 重要 | O1 |
 | klee-carnival-in-snow | 克利《雪中狂欢节》（1923） | 作品 | 20世纪 | 德国 | 水彩 | 重要 | O1 |
+| bourdelle-head-of-beethoven | 布德尔《贝多芬头像》（1891） | 作品 | 19世纪 | 法国 | 雕塑 | 重要 | O1 |
 
 ## art-contemporary（艺术史·当代）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
