@@ -1,19 +1,20 @@
 {
- "id": "ingres",
- "level": "L2",
- "sections": {
-  "时代背景": "安格尔1780年生于蒙托邦。据该馆记录，他十岁起在图卢兹学习艺术与音乐；1797年进入巴黎的大卫画室，成为得意门生与助手；不到一年因一场争执离开，转入巴黎美术学院。1801年他获罗马奖，但因经费不足直到1806年才成行。此后他在罗马十四年、佛罗伦萨四年，绘制行吟诗人题材，并成为拉斐尔的倾慕者。",
-  "风格特征": "该馆称他为「法国新古典主义与学院传统的主要代表」。1824年他返回巴黎并在沙龙展出，围绕他的支持者与德拉克洛瓦的支持者之间爆发激烈争论；这次有争议的沙龙标志着安格尔成为法国新古典主义运动的领袖，并实际上接替了当时已流亡的老师大卫的角色。",
-  "代表人物与作品": "1833年法国政府任命他为巴黎美术学院副院长，次年任院长；1834年他出任罗马的法兰西学院院长，此后七年在意大利绘画并研究古代艺术；1841年返巴黎，作品获得极为热烈的赞誉。1855年万国博览会的大型回顾展确认了他的声誉，同时也激起反对学院规则的年轻艺术家的敌意。相关条目见新古典主义与德拉克洛瓦。",
-  "技法或形式分析": "该馆记录强调他留下「一种非凡的素描风格」，这一风格后来启发了德加与毕加索。他把线条与素描置于色彩之上，长于肖像与女性裸体题材；在意大利期间以古代艺术与拉斐尔为典范，形成其新古典语汇。",
-  "与前后风格的关系和争论": "他与德拉克洛瓦的长期对立是该馆记录明确记述的：晚年他继续这场 bitter rivalry，并成功阻止德拉克洛瓦进入学院，直到1857年。安格尔1867年去世，留下一个追随者圈子与其素描传统。",
-  "一图": "示意图以大卫画室训练、罗马与佛罗伦萨时期、1824年沙龙之争与素描传统的影响四者关系标示安格尔。",
-  "待核实": "（1）人物事实仅取自单一机构（克利夫兰艺术博物馆）的艺术家记录；V&A 检索到的为「仿安格尔」之作（Study after Ingres），不构成对其本人创作的独立佐证，整条标记待核实；（2）生卒1780—1867取自该馆创作者记录；（3）与德拉克洛瓦之争的具体年份与事件该馆仅作概述，未核专门研究；（4）所引1855年回顾展的评述未取得原始文献。"
- },
- "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='ingres 示意图'><title>ingres</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>大卫画室</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1797</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>安格尔</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1780—1867</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>1824 沙龙之争</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>新古典领袖</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>素描传统</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>德加·毕加索</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>安格尔：学院训练、沙龙之争与素描传统</text></g></svg>",
- "sources": [
-  "cma-artist-ingres"
- ],
- "needs_verification": true,
- "pending_notes": "本条目人物事实仅取自单一机构（克利夫兰艺术博物馆）的艺术家记录，未获第二独立来源；生卒年与生平细节均待外部核对。详见待核实。"
+  "id": "ingres",
+  "level": "L2",
+  "sections": {
+    "时代背景": "安格尔1780年生于蒙托邦。据该馆记录，他十岁起在图卢兹学习艺术与音乐；1797年进入巴黎的大卫画室，成为得意门生与助手；不到一年因一场争执离开，转入巴黎美术学院。1801年他获罗马奖，但因经费不足直到1806年才成行。此后他在罗马十四年、佛罗伦萨四年，绘制行吟诗人题材，并成为拉斐尔的倾慕者。",
+    "风格特征": "该馆称他为「法国新古典主义与学院传统的主要代表」。1824年他返回巴黎并在沙龙展出，围绕他的支持者与德拉克洛瓦的支持者之间爆发激烈争论；这次有争议的沙龙标志着安格尔成为法国新古典主义运动的领袖，并实际上接替了当时已流亡的老师大卫的角色。",
+    "代表人物与作品": "1833年法国政府任命他为巴黎美术学院副院长，次年任院长；1834年他出任罗马的法兰西学院院长，此后七年在意大利绘画并研究古代艺术；1841年返巴黎，作品获得极为热烈的赞誉。1855年万国博览会的大型回顾展确认了他的声誉，同时也激起反对学院规则的年轻艺术家的敌意。相关条目见新古典主义与德拉克洛瓦。",
+    "技法或形式分析": "该馆记录强调他留下「一种非凡的素描风格」，这一风格后来启发了德加与毕加索。他把线条与素描置于色彩之上，长于肖像与女性裸体题材；在意大利期间以古代艺术与拉斐尔为典范，形成其新古典语汇。",
+    "与前后风格的关系和争论": "他与德拉克洛瓦的长期对立是该馆记录明确记述的：晚年他继续这场 bitter rivalry，并成功阻止德拉克洛瓦进入学院，直到1857年。安格尔1867年去世，留下一个追随者圈子与其素描传统。",
+    "一图": "示意图以大卫画室训练、罗马与佛罗伦萨时期、1824年沙龙之争与素描传统的影响四者关系标示安格尔。",
+    "待核实": "（1）人物事实仅取自单一机构（克利夫兰艺术博物馆）的艺术家记录；V&A 检索到的为「仿安格尔」之作（Study after Ingres），不构成对其本人创作的独立佐证，整条标记待核实；（2）生卒1780—1867取自该馆创作者记录；（3）与德拉克洛瓦之争的具体年份与事件该馆仅作概述，未核专门研究；（4）所引1855年回顾展的评述未取得原始文献。（ULAN 对照，2026-11-24）ULAN 简介：French painter and draftsman, 1780-1867。生卒年1780—1867与本条目 when 一致；职业为画家与素描家，与本条目相容。ULAN 另有 Ingres, Jean-Marie-Joseph（建筑师、画家与雕塑家，1755-1814），不是同一人，未采用。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='ingres 示意图'><title>ingres</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>大卫画室</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1797</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>安格尔</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1780—1867</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>1824 沙龙之争</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>新古典领袖</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>素描传统</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>德加·毕加索</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>安格尔：学院训练、沙龙之争与素描传统</text></g></svg>",
+  "sources": [
+    "cma-artist-ingres",
+    "ulan-500028037"
+  ],
+  "needs_verification": true,
+  "pending_notes": "本条目人物事实仅取自单一机构（克利夫兰艺术博物馆）的艺术家记录，未获第二独立来源；生卒年与生平细节均待外部核对。详见待核实。"
 }

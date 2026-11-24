@@ -1,18 +1,19 @@
 {
- "id": "courbet",
- "level": "L2",
- "sections": {
-  "时代背景": "库尔贝1819年生于富裕农家。据该馆记录，他1831年在奥尔南的小修院开始受训，1833年起师从「le père Baud」——后者是格罗（Gros）的学生。诗人 Max Buchon 与他为友，后来写下关于他的第一篇文章，称他是「为人民而作的艺术家」。1837年父亲送他到贝桑松的皇家学院，希望他成为律师；他却在当地学院随 Charles-Antoine Flageoulot（1774—1840，大卫的学生）学画。1839年他赴巴黎，不入美术学院，短期随 Charles de Steuben（1788—1856）学习，主要靠在博物馆临摹古代大师自学，并在 Académie Suisse 画人体。",
-  "风格特征": "他多次向沙龙送件，多数被拒。1846—47年他赴荷兰研习伦勃朗与哈尔斯；次年十件作品入选沙龙，他与波德莱尔、Champfleury、Buchon 等友人一同被贴上「现实主义者」的标签。该馆记录指出，1851年沙龙上的《碎石工》《弗拉热农民》《奥尔南的葬礼》之所以招致批评，是因为他按自己所见描绘农民，既不美化也不理想化——而这些农民形象恰好出现在上层阶级因社会动荡与共和国不稳而深感威胁之时。",
-  "代表人物与作品": "1855年他自筹资金在万国博览会旁设立「现实主义馆」，展出《画室》（1854—55，奥赛博物馆）。此后他广泛旅行，1858年在法兰克福开始画所见的 stag hunts；1859年到诺曼底海岸画海景，其中一些「近乎抽象」。1862—63年在 Saintonge 地区转向静物，同时继续画风景与肖像。英国维多利亚与艾尔伯特博物馆藏有《圣德尼堡风景，塞塞-昂-瓦赖》（1873年，馆藏号O81593，布面油画）。",
-  "技法或形式分析": "他的训练路径以博物馆临摹与人体课为主，而非学院课程；题材上坚持以当代与乡土生活为对象。该馆记录特别提到他1859年的海景「有些几乎成为抽象」，以及1862—63年的静物转向，显示其在写实纲领内对形式处理的持续试验。",
-  "与前后风格的关系和争论": "1870年他获颁荣誉军团勋章而拒受，理由是反对帝国政府。1871年3至5月巴黎公社期间他是公社的活跃成员，任巴黎艺术古迹保护委员会主席，建议拆除象征帝国的旺多姆圆柱；公社最终决定将圆柱推倒。公社失败后，他被认定应对此事负责，入狱六个月；1873年政府决定由他出资重建圆柱，他无力支付又怕被捕，遂迁居瑞士，终老于流亡。",
-  "一图": "示意图以自学路径、1851年沙龙的写实争议、1855年现实主义馆与1871年公社事件四者的关系标示库尔贝。",
-  "待核实": "（1）人物事实取自克利夫兰艺术博物馆的艺术家记录；V&A 提供其1873年风景藏品记录作为**第二机构佐证**（不核对生卒）；（2）生卒1819—1877取自 CMA 创作者记录；（3）《碎石工》据该馆记录已在二战中毁，本条目不再称其现存；（4）公社事件的法律与政治细节该馆仅简述，未核专门研究。"
- },
- "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='courbet 示意图'><title>courbet</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>博物馆临摹</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>自学路径</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>库尔贝</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1819—1877</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>1851 沙龙</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>写实争议</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>1871 公社</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>流亡</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>库尔贝：自学、写实争议与政治事件</text></g></svg>",
- "sources": [
-  "cma-artist-courbet",
-  "vam-o81593"
- ]
+  "id": "courbet",
+  "level": "L2",
+  "sections": {
+    "时代背景": "库尔贝1819年生于富裕农家。据该馆记录，他1831年在奥尔南的小修院开始受训，1833年起师从「le père Baud」——后者是格罗（Gros）的学生。诗人 Max Buchon 与他为友，后来写下关于他的第一篇文章，称他是「为人民而作的艺术家」。1837年父亲送他到贝桑松的皇家学院，希望他成为律师；他却在当地学院随 Charles-Antoine Flageoulot（1774—1840，大卫的学生）学画。1839年他赴巴黎，不入美术学院，短期随 Charles de Steuben（1788—1856）学习，主要靠在博物馆临摹古代大师自学，并在 Académie Suisse 画人体。",
+    "风格特征": "他多次向沙龙送件，多数被拒。1846—47年他赴荷兰研习伦勃朗与哈尔斯；次年十件作品入选沙龙，他与波德莱尔、Champfleury、Buchon 等友人一同被贴上「现实主义者」的标签。该馆记录指出，1851年沙龙上的《碎石工》《弗拉热农民》《奥尔南的葬礼》之所以招致批评，是因为他按自己所见描绘农民，既不美化也不理想化——而这些农民形象恰好出现在上层阶级因社会动荡与共和国不稳而深感威胁之时。",
+    "代表人物与作品": "1855年他自筹资金在万国博览会旁设立「现实主义馆」，展出《画室》（1854—55，奥赛博物馆）。此后他广泛旅行，1858年在法兰克福开始画所见的 stag hunts；1859年到诺曼底海岸画海景，其中一些「近乎抽象」。1862—63年在 Saintonge 地区转向静物，同时继续画风景与肖像。英国维多利亚与艾尔伯特博物馆藏有《圣德尼堡风景，塞塞-昂-瓦赖》（1873年，馆藏号O81593，布面油画）。",
+    "技法或形式分析": "他的训练路径以博物馆临摹与人体课为主，而非学院课程；题材上坚持以当代与乡土生活为对象。该馆记录特别提到他1859年的海景「有些几乎成为抽象」，以及1862—63年的静物转向，显示其在写实纲领内对形式处理的持续试验。",
+    "与前后风格的关系和争论": "1870年他获颁荣誉军团勋章而拒受，理由是反对帝国政府。1871年3至5月巴黎公社期间他是公社的活跃成员，任巴黎艺术古迹保护委员会主席，建议拆除象征帝国的旺多姆圆柱；公社最终决定将圆柱推倒。公社失败后，他被认定应对此事负责，入狱六个月；1873年政府决定由他出资重建圆柱，他无力支付又怕被捕，遂迁居瑞士，终老于流亡。",
+    "一图": "示意图以自学路径、1851年沙龙的写实争议、1855年现实主义馆与1871年公社事件四者的关系标示库尔贝。",
+    "待核实": "（1）人物事实取自克利夫兰艺术博物馆的艺术家记录；V&A 提供其1873年风景藏品记录作为**第二机构佐证**（不核对生卒）；（2）生卒1819—1877取自 CMA 创作者记录；（3）《碎石工》据该馆记录已在二战中毁，本条目不再称其现存；（4）公社事件的法律与政治细节该馆仅简述，未核专门研究。（ULAN 对照，2026-11-24）ULAN 简介：French painter and designer, 1819-1877。生卒年1819—1877与本条目 when 一致；职业为画家与设计师，与本条目相容。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='courbet 示意图'><title>courbet</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>博物馆临摹</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>自学路径</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>库尔贝</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1819—1877</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>1851 沙龙</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>写实争议</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>1871 公社</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>流亡</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>库尔贝：自学、写实争议与政治事件</text></g></svg>",
+  "sources": [
+    "cma-artist-courbet",
+    "vam-o81593",
+    "ulan-500010927"
+  ]
 }

@@ -4347,6 +4347,25 @@
       "check_result": "errors=0",
       "check_links_result": "broken=0(690页)",
       "commits": 1
+    },
+    {
+      "cycle": "cycle187",
+      "date": "2026-11-24",
+      "status": "completed",
+      "gap_methods": [
+        "前缀查询补ULAN人物来源(梵高/多纳泰罗及8位视觉艺术家)"
+      ],
+      "network": "Getty ULAN 200",
+      "new_entries": 0,
+      "reviews": 10,
+      "fixes": 0,
+      "new_sources": 10,
+      "sources_total": 886,
+      "entries_total": 653,
+      "pages": 690,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(690页)",
+      "commits": 1
     }
   ]
 }

@@ -8759,6 +8759,106 @@
       "type": "权威机构词表（人物名称与生平）",
       "verified": true,
       "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该人物的标签与简介（Russian painter, 1866-1944），编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "ulan-500115588",
+      "title": "Getty ULAN — Gogh, Vincent van, 500115588",
+      "author": "J. Paul Getty Trust（Union List of Artist Names，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/ulan/500115588",
+      "type": "权威机构词表（人物名称与生平）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该人物的标签与简介（Dutch painter and draftsman, 1853-1890），编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "ulan-500026022",
+      "title": "Getty ULAN — Donatello, 500026022",
+      "author": "J. Paul Getty Trust（Union List of Artist Names，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/ulan/500026022",
+      "type": "权威机构词表（人物名称与生平）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该人物的标签与简介（Italian sculptor, ca. 1386-1466），编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "ulan-500115194",
+      "title": "Getty ULAN — Degas, Edgar, 500115194",
+      "author": "J. Paul Getty Trust（Union List of Artist Names，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/ulan/500115194",
+      "type": "权威机构词表（人物名称与生平）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该人物的标签与简介（French painter, sculptor, 1834-1917），编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "ulan-500010363",
+      "title": "Getty ULAN — Manet, Edouard, 500010363",
+      "author": "J. Paul Getty Trust（Union List of Artist Names，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/ulan/500010363",
+      "type": "权威机构词表（人物名称与生平）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该人物的标签与简介（French painter, printmaker, and draftsman, 1832-1883），编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "ulan-500026846",
+      "title": "Getty ULAN — Turner, Joseph Mallord William, 500026846",
+      "author": "J. Paul Getty Trust（Union List of Artist Names，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/ulan/500026846",
+      "type": "权威机构词表（人物名称与生平）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该人物的标签与简介（English painter and draftsman, 1775-1851），编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "ulan-500115382",
+      "title": "Getty ULAN — Constable, John, 500115382",
+      "author": "J. Paul Getty Trust（Union List of Artist Names，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/ulan/500115382",
+      "type": "权威机构词表（人物名称与生平）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该人物的标签与简介（English landscapist, 1776-1837），编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "ulan-500010927",
+      "title": "Getty ULAN — Courbet, Gustave, 500010927",
+      "author": "J. Paul Getty Trust（Union List of Artist Names，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/ulan/500010927",
+      "type": "权威机构词表（人物名称与生平）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该人物的标签与简介（French painter and designer, 1819-1877），编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "ulan-500028037",
+      "title": "Getty ULAN — Ingres, Jean-Auguste-Dominique, 500028037",
+      "author": "J. Paul Getty Trust（Union List of Artist Names，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/ulan/500028037",
+      "type": "权威机构词表（人物名称与生平）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该人物的标签与简介（French painter and draftsman, 1780-1867），编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "ulan-500012529",
+      "title": "Getty ULAN — Millet, Jean-François, 500012529",
+      "author": "J. Paul Getty Trust（Union List of Artist Names，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/ulan/500012529",
+      "type": "权威机构词表（人物名称与生平）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该人物的标签与简介（French painter and draftsman, 1814-1875），编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "ulan-500115390",
+      "title": "Getty ULAN — Corot, Jean-Baptiste-Camille, 500115390",
+      "author": "J. Paul Getty Trust（Union List of Artist Names，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/ulan/500115390",
+      "type": "权威机构词表（人物名称与生平）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该人物的标签与简介（French painter, 1796-1875），编号与标签匹配，生卒年已与库内条目对照"
     }
   ]
 }
