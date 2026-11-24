@@ -1,0 +1,19 @@
+{
+ "id": "jiajing-carved-lacquer-jar",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为**嘉靖款**剔彩罐（1522—66），CMA 藏（1972.14）。**器底刻款**：「大明嘉靖年制」。",
+  "风格特征": "该馆描述纹样：**一凤一龙**交替，间以两个**繁饰的吉祥字——「福」与「壽」**；漆层呈**黑、赭、绿、朱**色。该馆并指出：**龙凤为帝国徽记**，提示此罐**为宫廷而制**。",
+  "代表人物与作品": "作者未署名。相关条目见乾隆玉山与成化斗彩杯。本件为 CMA 藏品（1972.14）。",
+  "技法或形式分析": "材质为**朱与其他色的雕漆**，高11.8厘米（据该馆记录）。该馆说明其**耗时工序**：**木胎上先施多层漆**，之后才可在表面**雕刻出设计**；其配色**类似同期瓷器的五彩（wucai）装饰**。",
+  "与前后风格的关系和争论": "本条目据该馆说明把「剔彩」与「五彩」并置：同一套**配色方案**同时运行于漆与瓷两种媒介，说明**跨媒介的宫廷装饰语言**。雕漆的「多漆层再雕刻」则是其独有的时间成本。",
+  "一图": "示意图以多层漆雕刻、龙凤宫廷徽记与五彩配色平行三者关系标示本罐。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「福」「壽」二字的排列次序未详述；（3）木胎树种未记录；（4）原属宫殿未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='jiajing-carved-lacquer-j 示意图'><title>jiajing-carved-lacquer-j</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>嘉靖·1522—66</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>剔彩</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>龙凤罐</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>11.8cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>福·壽</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>吉祥字</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>配色似五彩</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>跨媒介</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>剔彩罐：雕漆、徽记与配色</text></g></svg>",
+ "sources": [
+  "cma-1972-14"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；原属宫殿未记录。"
+}

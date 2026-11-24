@@ -1272,3 +1272,12 @@
 `qing-jade-horse`（玉马 3.4cm；科举文人案头清玩，明清成收藏品）。
 可逆：删 4 条 overlay 与 catalog 元组、移除 4 条来源。代价：均单机构（CMA）；清代玉器由 0 增至 4，汉代玉器仍缺。
 
+
+## D125 — Cycle122 中国陶瓷/版印 4 条（420 → 424）
+`yuan-lion-jar`（元青花狮首罐，**核心**；伊朗钴料（或卡尚）＋云肩纹与伊尔汗语汇共享＋内外销并行）、
+`jiajing-carved-lacquer-jar`（嘉靖剔彩龙凤罐，**核心**；多层漆雕、龙凤宫廷徽记、配色似同期五彩）、
+`yongle-meiping-cloud`（永乐甜白暗花梅瓶，**核心**；anhua 需光可读、甜白如融雪、用于宫廷祭献）、
+`ten-bamboo-album`（十竹斋书画谱初版 1633，**核心**；「画一般的印刷」＋饾版对位＋影响日韩）。
+**写前查重**通过；related 自查后修正两处（art-ceramics/chinese-ceramics-history 不存在 → chenghua-doucai-cup / china-calligraphy-history）。
+可逆：删 4 条 overlay 与 catalog 元组、移除 4 条来源。代价：均单机构（CMA）；编者胡正言该馆未记，未补写。
+

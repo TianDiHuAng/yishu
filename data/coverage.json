@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 420,
+    "total": 424,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -5045,6 +5045,54 @@
     "qing-jade-horse": {
       "title": "清代玉马",
       "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "yuan-lion-jar": {
+      "title": "元青花狮首罐",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "jiajing-carved-lacquer-jar": {
+      "title": "嘉靖剔彩龙凤罐",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "yongle-meiping-cloud": {
+      "title": "永乐甜白暗花梅瓶",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "ten-bamboo-album": {
+      "title": "十竹斋书画谱（1633 初版）",
+      "tier": "核心",
       "level": "L2",
       "status": "written_l2",
       "sources_count": 1,

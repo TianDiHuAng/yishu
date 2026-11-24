@@ -2778,7 +2778,8 @@
         "zen-painting",
         "yueshan-daizong-calligraphy",
         "lanting-lacquer-panel",
-        "chen-jiru-four-poems"
+        "chen-jiru-four-poems",
+        "ten-bamboo-album"
       ],
       "sources": [
         "enc-chinese-calligraphy",
@@ -8668,7 +8669,8 @@
         "chenghua-doucai-cup",
         "transitional-square-bottle",
         "korean-celadon-bottle",
-        "korean-white-flask-longevity"
+        "korean-white-flask-longevity",
+        "yuan-lion-jar"
       ],
       "sources": [
         "cma-1962-154"
@@ -8907,7 +8909,9 @@
       "related": [
         "yuan-blue-white-jar",
         "jun-numbered-bulb-bowl",
-        "kangxi-lobed-vase"
+        "kangxi-lobed-vase",
+        "jiajing-carved-lacquer-jar",
+        "yongle-meiping-cloud"
       ],
       "sources": [
         "cma-1957-61"
@@ -9980,7 +9984,8 @@
       "overview": "四诗写心绪；字用浓墨厚重处示节奏，可见停笔再蘸墨的瞬间；书风近董其昌。",
       "related": [
         "dong-qichang-qingbian",
-        "china-calligraphy-history"
+        "china-calligraphy-history",
+        "ten-bamboo-album"
       ],
       "sources": [
         "cma-2004-65"
@@ -14330,7 +14335,8 @@
       "overview": "伊尔汗期中国母题入波斯：龙凤莲花；凤等同《列王纪》之 simurgh；灰地白浆、平沿承中国器；中亚至埃及均有出土或仿制。",
       "related": [
         "minai-bowl-kashan",
-        "islamic-art"
+        "islamic-art",
+        "yuan-lion-jar"
       ],
       "sources": [
         "cma-1915-589"
@@ -14596,7 +14602,8 @@
         "liangzhu-bi-disc",
         "shang-jade-ge",
         "kangxi-jade-dragon-cup",
-        "qing-jade-horse"
+        "qing-jade-horse",
+        "jiajing-carved-lacquer-jar"
       ],
       "sources": [
         "cma-1941-594"
@@ -14715,6 +14722,139 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='qing-jade-horse 示意图'><title>qing-jade-horse</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>清代·1600s</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>玉</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>玉马</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>3.4cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>文人案头</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>清玩</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>成收藏品</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>明清</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>玉马：科举、案头与收藏</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（CMA）来源；姿态与玉料未记录。"
+    },
+    {
+      "id": "yuan-lion-jar",
+      "title": "元青花狮首罐",
+      "kind": "作品",
+      "unit": "art-ceramics",
+      "era": "14世纪",
+      "region": "中国",
+      "medium": "陶瓷",
+      "tier": "核心",
+      "def": "景德镇元青花罐，克利夫兰艺术博物馆藏（1962.154）。",
+      "when": "1300年代",
+      "overview": "造型有力、发色艳丽、线条坚挺，为元青花典范；钴料自伊朗（或卡尚）进口；云肩纹配凤穿花亦见伊尔汗装饰艺术；1330s 前已供内外销。",
+      "related": [
+        "yuan-blue-white-jar",
+        "ilkhanid-flying-birds-bowl",
+        "yongle-meiping-cloud"
+      ],
+      "sources": [
+        "cma-1962-154"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**景德镇**元青花罐（1300年代），CMA 藏（1962.154）。该馆称其**造型有力、发色艳丽、纹样勾线坚挺**，是**元青花的经典范例**。",
+        "风格特征": "该馆给出**贸易史**：此类器**不晚于1330年代**已生产，**供宫廷、民间与海外贸易**；本罐印证**蒙古大帝国范围内中外的艺术与技术交流**。",
+        "代表人物与作品": "作者未署名。相关条目见元青花罐（yuan-blue-white-jar）与伊尔汗飞鸟纹碗。本件为 CMA 藏品（1962.154）。",
+        "技法或形式分析": "材质为**釉下彩绘瓷**；口径15.6厘米、整体39.4 × 37.5厘米（据该馆记录）。该馆指出：**青花的钴料自伊朗进口**，很可能来自**卡尚**；其**云肩纹带（内填凤穿花）**亦见于**伊尔汗期伊朗装饰艺术**。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「元青花」读作**材料—纹样的双向流动**：颜料自伊朗来，云肩纹式又与伊朗装饰共享语汇；同一器物既是**外销商品**也是**内销礼器**。这为「青花」提供了**跨欧亚的结构性解释**。",
+        "一图": "示意图以伊朗钴料、云肩纹共享语汇与内外销并行三者关系标示本罐。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「或自卡尚」该馆用 likely；（3）狮首 Handles 的细节未展开；（4）器身主纹主题未描述。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='yuan-lion-jar 示意图'><title>yuan-lion-jar</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>景德镇·1300s</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>元青花</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>狮首罐</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>39.4×37.5</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>伊朗钴料</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>卡尚?</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>云肩纹共享</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>伊尔汗语汇</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>元狮首罐：钴料、纹式与贸易</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；主纹未描述；钴料来源为推断。"
+    },
+    {
+      "id": "jiajing-carved-lacquer-jar",
+      "title": "嘉靖剔彩龙凤罐",
+      "kind": "作品",
+      "unit": "art-ceramics",
+      "era": "16世纪",
+      "region": "中国",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "嘉靖剔彩罐，克利夫兰艺术博物馆藏（1972.14）。",
+      "when": "1522—1566年",
+      "overview": "凤与龙间置「福」「壽」二字；黑/赭/绿/朱多层漆；类似同期五彩瓷；龙凤为宫廷徽记；底刻「大明嘉靖年制」。",
+      "related": [
+        "qianlong-jade-mountain",
+        "chenghua-doucai-cup"
+      ],
+      "sources": [
+        "cma-1972-14"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**嘉靖款**剔彩罐（1522—66），CMA 藏（1972.14）。**器底刻款**：「大明嘉靖年制」。",
+        "风格特征": "该馆描述纹样：**一凤一龙**交替，间以两个**繁饰的吉祥字——「福」与「壽」**；漆层呈**黑、赭、绿、朱**色。该馆并指出：**龙凤为帝国徽记**，提示此罐**为宫廷而制**。",
+        "代表人物与作品": "作者未署名。相关条目见乾隆玉山与成化斗彩杯。本件为 CMA 藏品（1972.14）。",
+        "技法或形式分析": "材质为**朱与其他色的雕漆**，高11.8厘米（据该馆记录）。该馆说明其**耗时工序**：**木胎上先施多层漆**，之后才可在表面**雕刻出设计**；其配色**类似同期瓷器的五彩（wucai）装饰**。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「剔彩」与「五彩」并置：同一套**配色方案**同时运行于漆与瓷两种媒介，说明**跨媒介的宫廷装饰语言**。雕漆的「多漆层再雕刻」则是其独有的时间成本。",
+        "一图": "示意图以多层漆雕刻、龙凤宫廷徽记与五彩配色平行三者关系标示本罐。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「福」「壽」二字的排列次序未详述；（3）木胎树种未记录；（4）原属宫殿未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='jiajing-carved-lacquer-j 示意图'><title>jiajing-carved-lacquer-j</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>嘉靖·1522—66</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>剔彩</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>龙凤罐</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>11.8cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>福·壽</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>吉祥字</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>配色似五彩</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>跨媒介</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>剔彩罐：雕漆、徽记与配色</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；原属宫殿未记录。"
+    },
+    {
+      "id": "yongle-meiping-cloud",
+      "title": "永乐甜白暗花梅瓶",
+      "kind": "作品",
+      "unit": "art-ceramics",
+      "era": "15世纪",
+      "region": "中国",
+      "medium": "陶瓷",
+      "tier": "核心",
+      "def": "景德镇永乐白釉暗花梅瓶，克利夫兰艺术博物馆藏（1964.167）。",
+      "when": "1403—1424年",
+      "overview": "胎上暗刻「hidden decoration (anhua)」；釉白莹润如「melting snow」，鉴藏家称 tianbai 甜白；用于宫廷祭祀。",
+      "related": [
+        "yuan-lion-jar",
+        "chenghua-doucai-cup"
+      ],
+      "sources": [
+        "cma-1964-167"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**景德镇**永乐期（1403—24）白釉暗花梅瓶，CMA 藏（1964.167）。",
+        "风格特征": "该馆称其为「永乐宫廷白瓷**极高标准**」之证：**制坯极精**、装饰**含蓄**——纹样以「**hidden decoration（暗花 anhua）**」**刻入胎体**；**白胎上的透明釉**具**光泽与纯净**；白色**如融雪般柔光**——中国鉴藏家称为 **tianbai（甜白）**。",
+        "代表人物与作品": "作者未署名。相关条目见元狮首罐与成化斗彩杯。本件为 CMA 藏品（1964.167）。",
+        "技法或形式分析": "材质为**刻划装饰白釉瓷**；尺寸**高32.1厘米、径20.3厘米**（据该馆记录）。该馆指出：**甜白器用于宫廷祭献**，历来被视为**永乐朝的伟大成就之一**。",
+        "与前后风格的关系和争论": "本条目据该馆说明把握「**看不见的装饰**」：暗花需要**侧光或透光**才能读出，装饰性让位于**釉色本身的纯净**。这使「甜白」成为**以减法为成就**的陶瓷类型。",
+        "一图": "示意图以暗花（需光可读）、甜白釉与宫廷祭献三者关系标示本瓶。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）暗花的具体纹样内容未描述；（3）「用于祭献」为该馆说法；（4）递藏未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='yongle-meiping-cloud 示意图'><title>yongle-meiping-cloud</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>永乐·1403—24</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>景德镇</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>甜白梅瓶</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>高32.1</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>暗花 anhua</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>刻入胎体</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>宫廷祭献</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>用途</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>甜白梅瓶：暗花、釉色与祭献</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；暗花纹样与递藏未记录。"
+    },
+    {
+      "id": "ten-bamboo-album",
+      "title": "十竹斋书画谱（1633 初版）",
+      "kind": "作品",
+      "unit": "art-china-calligraphy",
+      "era": "17世纪",
+      "region": "中国",
+      "medium": "版画",
+      "tier": "核心",
+      "def": "南京胡正言十竹斋书画谱初版，克利夫兰艺术博物馆藏（1984.45）。",
+      "when": "1633年",
+      "overview": "17世纪初彩印臻于极致；「画一般印刷」质感、饾版对位精准、设色和谐；行销全国并影响日韩艺术。",
+      "related": [
+        "chen-jiru-four-poems",
+        "china-calligraphy-history"
+      ],
+      "sources": [
+        "cma-1984-45b"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明：**17世纪初**，**彩色印刷**臻于极致——《十竹斋书画谱》即为代表；它**印制并编成于南京**，**行销全国**，**对日本与韩国的艺术产生了重大影响**。本件为**1633年初版**，CMA 藏（1984.45）。",
+        "风格特征": "该馆归纳其**三项成就**：**「画一般的印刷」（printing that looks like painting）的绘画性**、**饾版对位（registering，即套版对齐）的精度**，以及**和谐的色彩**——使其成为中国历史上**最成功的彩色印本**之一。",
+        "代表人物与作品": "编印者为南京**十竹斋**（该馆记录未展开编者姓名，本条目不补写）。相关条目见陈继儒行书四卷与中国书法史。本件为 CMA 藏品（1984.45）。",
+        "技法或形式分析": "材质为**木版印书；纸本墨与色**；**1633年初版**；展开尺寸23.7 × 27.9厘米（据该馆记录）。",
+        "与前后风格的关系和争论": "本条目据该馆说明把握「**以印刷追摹绘画**」的技术目标：多色套印要求**逐版对位**，其成功标准恰恰是**抹去版画的机械感**。而其**跨海影响（日韩）** 又把这套技术变成**东亚共同的视觉资源**。",
+        "一图": "示意图以南京编印、饾版对位与日韩影响三者关系标示本谱。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）编者（胡正言）该馆未记，本条目不补；（3）「饾版/拱花」术语为通行说法，本记录以 registering 表述；（4）本册在谱中的具体页序未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='ten-bamboo-album 示意图'><title>ten-bamboo-album</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>南京·1633</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>初版</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>十竹斋书画谱</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>23.7×27.9</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>画一般的印刷</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>目标</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>影响日韩</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>跨海</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>十竹斋：套印、画意与跨海</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；编者未记；页序未记录。"
     }
   ]
 }

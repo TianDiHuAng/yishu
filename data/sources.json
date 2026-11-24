@@ -5479,6 +5479,36 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；玉 3.4cm；说明含文人案头清玩"
+    },
+    {
+      "id": "cma-1972-14",
+      "title": "Cleveland Museum of Art — Carved lacquer jar with dragon and phoenix, Jiajing, acc. 1972.14",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1972.14",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；剔彩 11.8cm；说明含福寿/龙凤/嘉靖款"
+    },
+    {
+      "id": "cma-1964-167",
+      "title": "Cleveland Museum of Art — Meiping vase, Yongle, acc. 1964.167",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1964.167",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；白釉暗花 32.1cm 径20.3cm；说明含甜白与暗花"
+    },
+    {
+      "id": "cma-1984-45b",
+      "title": "Cleveland Museum of Art — Ten Bamboo Studio Collection, Nanjing, 1633, acc. 1984.45",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1984.45",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；木版套印首版 23.7×27.9cm；说明含饾版拱花与日韩影响"
     }
   ]
 }

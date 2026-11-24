@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 420 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 424 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -222,6 +222,7 @@
 | lizong-wangwei-album | 宋理宗书王维诗册页 | 作品 | 13世纪 | 中国 | 书法 | 核心 | O6 |
 | lanting-lacquer-panel | 兰亭雅集朱漆雕板 | 作品 | 15—16世纪 | 中国 | 书法 | 重要 | O6 |
 | chen-jiru-four-poems | 陈继儒行书四诗卷 | 作品 | 16—17世纪 | 中国 | 书法 | 核心 | O6 |
+| ten-bamboo-album | 十竹斋书画谱（1633 初版） | 作品 | 17世纪 | 中国 | 版画 | 核心 | O6 |
 
 ## music-medieval（音乐史·中世纪）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -543,6 +544,9 @@
 | transitional-square-bottle | 过渡期青花方瓶 | 作品 | 17世纪 | 中国 | 综合 | 重要 | O6 |
 | kangxi-lobed-vase | 康熙青花瓣瓶 | 作品 | 17—18世纪 | 中国 | 综合 | 核心 | O6 |
 | cizhou-floral-vase | 北宋磁州窑花卉纹瓶 | 作品 | 10—11世纪 | 中国 | 综合 | 重要 | O6 |
+| yuan-lion-jar | 元青花狮首罐 | 作品 | 14世纪 | 中国 | 陶瓷 | 核心 | O6 |
+| jiajing-carved-lacquer-jar | 嘉靖剔彩龙凤罐 | 作品 | 16世纪 | 中国 | 综合 | 核心 | O6 |
+| yongle-meiping-cloud | 永乐甜白暗花梅瓶 | 作品 | 15世纪 | 中国 | 陶瓷 | 核心 | O6 |
 
 ## work-archives（作品档案）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

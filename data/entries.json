@@ -1654,7 +1654,8 @@
         "zen-painting",
         "yueshan-daizong-calligraphy",
         "lanting-lacquer-panel",
-        "chen-jiru-four-poems"
+        "chen-jiru-four-poems",
+        "ten-bamboo-album"
       ],
       "sources": [
         "enc-chinese-calligraphy",
@@ -5378,7 +5379,8 @@
         "chenghua-doucai-cup",
         "transitional-square-bottle",
         "korean-celadon-bottle",
-        "korean-white-flask-longevity"
+        "korean-white-flask-longevity",
+        "yuan-lion-jar"
       ],
       "sources": [
         "cma-1962-154"
@@ -5526,7 +5528,9 @@
       "related": [
         "yuan-blue-white-jar",
         "jun-numbered-bulb-bowl",
-        "kangxi-lobed-vase"
+        "kangxi-lobed-vase",
+        "jiajing-carved-lacquer-jar",
+        "yongle-meiping-cloud"
       ],
       "sources": [
         "cma-1957-61"
@@ -6183,7 +6187,8 @@
       "overview": "四诗写心绪；字用浓墨厚重处示节奏，可见停笔再蘸墨的瞬间；书风近董其昌。",
       "related": [
         "dong-qichang-qingbian",
-        "china-calligraphy-history"
+        "china-calligraphy-history",
+        "ten-bamboo-album"
       ],
       "sources": [
         "cma-2004-65"
@@ -8856,7 +8861,8 @@
       "overview": "伊尔汗期中国母题入波斯：龙凤莲花；凤等同《列王纪》之 simurgh；灰地白浆、平沿承中国器；中亚至埃及均有出土或仿制。",
       "related": [
         "minai-bowl-kashan",
-        "islamic-art"
+        "islamic-art",
+        "yuan-lion-jar"
       ],
       "sources": [
         "cma-1915-589"
@@ -9018,7 +9024,8 @@
         "liangzhu-bi-disc",
         "shang-jade-ge",
         "kangxi-jade-dragon-cup",
-        "qing-jade-horse"
+        "qing-jade-horse",
+        "jiajing-carved-lacquer-jar"
       ],
       "sources": [
         "cma-1941-594"
@@ -9084,6 +9091,87 @@
       ],
       "sources": [
         "cma-1952-480"
+      ]
+    },
+    {
+      "id": "yuan-lion-jar",
+      "title": "元青花狮首罐",
+      "kind": "作品",
+      "unit": "art-ceramics",
+      "era": "14世纪",
+      "region": "中国",
+      "medium": "陶瓷",
+      "tier": "核心",
+      "def": "景德镇元青花罐，克利夫兰艺术博物馆藏（1962.154）。",
+      "when": "1300年代",
+      "overview": "造型有力、发色艳丽、线条坚挺，为元青花典范；钴料自伊朗（或卡尚）进口；云肩纹配凤穿花亦见伊尔汗装饰艺术；1330s 前已供内外销。",
+      "related": [
+        "yuan-blue-white-jar",
+        "ilkhanid-flying-birds-bowl",
+        "yongle-meiping-cloud"
+      ],
+      "sources": [
+        "cma-1962-154"
+      ]
+    },
+    {
+      "id": "jiajing-carved-lacquer-jar",
+      "title": "嘉靖剔彩龙凤罐",
+      "kind": "作品",
+      "unit": "art-ceramics",
+      "era": "16世纪",
+      "region": "中国",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "嘉靖剔彩罐，克利夫兰艺术博物馆藏（1972.14）。",
+      "when": "1522—1566年",
+      "overview": "凤与龙间置「福」「壽」二字；黑/赭/绿/朱多层漆；类似同期五彩瓷；龙凤为宫廷徽记；底刻「大明嘉靖年制」。",
+      "related": [
+        "qianlong-jade-mountain",
+        "chenghua-doucai-cup"
+      ],
+      "sources": [
+        "cma-1972-14"
+      ]
+    },
+    {
+      "id": "yongle-meiping-cloud",
+      "title": "永乐甜白暗花梅瓶",
+      "kind": "作品",
+      "unit": "art-ceramics",
+      "era": "15世纪",
+      "region": "中国",
+      "medium": "陶瓷",
+      "tier": "核心",
+      "def": "景德镇永乐白釉暗花梅瓶，克利夫兰艺术博物馆藏（1964.167）。",
+      "when": "1403—1424年",
+      "overview": "胎上暗刻「hidden decoration (anhua)」；釉白莹润如「melting snow」，鉴藏家称 tianbai 甜白；用于宫廷祭祀。",
+      "related": [
+        "yuan-lion-jar",
+        "chenghua-doucai-cup"
+      ],
+      "sources": [
+        "cma-1964-167"
+      ]
+    },
+    {
+      "id": "ten-bamboo-album",
+      "title": "十竹斋书画谱（1633 初版）",
+      "kind": "作品",
+      "unit": "art-china-calligraphy",
+      "era": "17世纪",
+      "region": "中国",
+      "medium": "版画",
+      "tier": "核心",
+      "def": "南京胡正言十竹斋书画谱初版，克利夫兰艺术博物馆藏（1984.45）。",
+      "when": "1633年",
+      "overview": "17世纪初彩印臻于极致；「画一般印刷」质感、饾版对位精准、设色和谐；行销全国并影响日韩艺术。",
+      "related": [
+        "chen-jiru-four-poems",
+        "china-calligraphy-history"
+      ],
+      "sources": [
+        "cma-1984-45b"
       ]
     }
   ]
