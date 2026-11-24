@@ -5735,7 +5735,8 @@
         "hokusai-muneyuki-poem",
         "hokusai-hitomaro-poem",
         "hokusai-nakahara-sagami",
-        "hokusai-kingfisher-print"
+        "hokusai-kingfisher-print",
+        "hokusai-36views"
       ],
       "sources": [
         "cma-1930-189",
@@ -13048,7 +13049,11 @@
       "overview": "竖大判锦绘；前景巨浪如冠，远景富士；由画师、雕版师、印工依出版商指令分工而成。",
       "related": [
         "hiroshige-shono",
-        "hokusai-kingfisher-print"
+        "hokusai-kingfisher-print",
+        "utamaro-plum-blind",
+        "kunisada-dressing-room",
+        "hiroshige-sumida-snow",
+        "hokusai-36views"
       ],
       "sources": [
         "vam-o78132"
@@ -17485,6 +17490,139 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='isfahan-tile-1450 示意图'><title>isfahan-tile-1450</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>伊斯法罕·1450—15</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>马赛克砖</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>残段</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>34.5cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>莲纹</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>蒙古传入</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>六色单元</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>裁切拼装</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>伊斯法罕砖：裁装、莲纹与六色</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（V&A）来源；脱落原位与原建筑未记录。"
+    },
+    {
+      "id": "utamaro-plum-blind",
+      "title": "歌麿《卷帘赏梅》摺物",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "18世纪",
+      "region": "东亚",
+      "medium": "版画",
+      "tier": "核心",
+      "def": "喜多川歌麿摺物版画，维多利亚与艾伯特博物馆藏（O71806）。",
+      "when": "1790年代末",
+      "overview": "摺物（私人订制彩印）；歌麿（1750—1806）早年佳作，线条精细写优雅女子；画面或本于某故事，却呈现江户两种游乐：赏梅等；尤重弹罢十三弦琴少女之神情。（记录无尺寸）",
+      "related": [
+        "hiroshige-satta-sea",
+        "hokusai-36views"
+      ],
+      "sources": [
+        "vam-o71806"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**喜多川歌麿**的**摺物（surimono，私人订制彩印木版）**，1790年代末，V&A 藏（O71806）。",
+        "风格特征": "该馆称此件为歌麿**早年**的佳例，绘**优雅的女子**，以**精细而审慎的线条**；画面**或本于某个故事**，但总体呈现**江户时代两种流行的游乐**（该馆列举其一为**赏梅**，记录在「pl…」处**截断**，本条目**不补写**第二种）。该馆并着重描写：**刚弹罢十三弦琴（koto）的少女**的**面部表情**。",
+        "代表人物与作品": "作者歌麿（1750—1806）。该馆称其**极具影响力**，为**人物画（figure prints）** 这一门类带来了**对女性心理的特殊洞察**。相关条目见广重萨埵海与北斋巨浪。",
+        "技法或形式分析": "材质为**木版彩印（摺物）**；该记录**无尺寸字段**，本条目**不列尺寸**。",
+        "与前后风格的关系和争论": "本条目据该馆说明把握「**摺物**」这一**私人订制**性质：它区别于商业浮世绘，服务于**小众雅集/贺岁**的语境；而歌麿的贡献被界定为**女性心理**的表现——把「美人画」从类型推向**个体神情**。",
+        "一图": "示意图以摺物私订、琴后神情与女性心理三者关系标示本幅。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）该馆 desc 在「pl…」处**截断**，第二种游乐未补写；（3）**该记录无尺寸**，本条目不提供；（4）所本故事未名。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='utamaro-plum-blind 示意图'><title>utamaro-plum-blind</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>歌麿·1790s</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>摺物</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>卷帘赏梅</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>无尺寸记录</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>琴后神情</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>女性心理</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>私人订制</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>摺物性质</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>歌麿摺物：私订、神情与心理</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；无尺寸；desc 截断。"
+    },
+    {
+      "id": "kunisada-dressing-room",
+      "title": "国贞《道顿堀剧场后台》",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "19世纪",
+      "region": "东亚",
+      "medium": "版画",
+      "tier": "核心",
+      "def": "歌川国贞三联画右幅，维多利亚与艾伯特博物馆藏（O71692）。",
+      "when": "1820年代初",
+      "overview": "绘大阪道顿堀角座与中座歌舞伎剧场内景；1821—22江户演员（皆男）赴大阪演出，国贞亲赴大阪作此售众；大阪剧场为较简朴两层建筑，异于江户。",
+      "related": [
+        "hiroshige-sumida-snow",
+        "hiroshige-satta-sea"
+      ],
+      "sources": [
+        "vam-o71692"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**歌川国贞**（1786—1864）**三联画的右幅**，1820年代初，V&A 藏（O71692）。",
+        "风格特征": "该馆说明：此幅描绘**大阪道顿堀（Dotonbori）的角座（Kado-za）与中座（Naka-za）两座歌舞伎剧场的内景**；**一大群江户（今东京）的歌舞伎演员（所有歌舞伎演员皆为男性）** 于**1821与1822年**赴大阪演出；**国贞当时亲赴大阪**，设计此类版画**在大阪出售**（记录在「sold in…」处**截断**，本条目**不补写**）。",
+        "代表人物与作品": "作者为国贞；署名「**Gototei Kunisada ga**」；出版者 **Nishimuraya Yohachi**；有**改印（kiwame）**。相关条目见广重隅田雪与歌麿摺物。",
+        "技法或形式分析": "材质为**木版**；尺寸**高35.7 × 宽71.8厘米**（大判，据该馆记录）。该馆并给出一条**建筑史信息**：大阪剧场是**相对简朴的两层建筑**，**不同于江户**的剧场。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「后台图」读作**戏剧社会史**：它记录了**演员制度（全男班）**、**跨城巡演**与**剧场建筑差异**——版画在此是**可流通的田野记录**。",
+        "一图": "示意图以道顿堀剧场、江户演员巡演与两层建筑三者关系标示本幅。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）该馆 desc 在「sold in…」处**截断，未补写**；（3）三联另两幅下落未记录；（4）改印的年代细节未展开。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='kunisada-dressing-room 示意图'><title>kunisada-dressing-room</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>国贞·1820s初</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>三联右幅</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>道顿堀后台</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>35.7×71.8</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>全男班演员</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>制度</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>两层剧场</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>建筑差异</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>国贞后台图：剧场、演员与建筑</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；desc 截断；另两幅未记录。"
+    },
+    {
+      "id": "hiroshige-sumida-snow",
+      "title": "广重《隅田川雪景》（团扇绘）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "19世纪",
+      "region": "东亚",
+      "medium": "版画",
+      "tier": "核心",
+      "def": "歌川广重团扇绘（uchiwa-e），维多利亚与艾伯特博物馆藏（O76529）。",
+      "when": "1843—1847年",
+      "overview": "aiban 团扇绘，atozuri 后印；色与套准仍佳；自北江户桥场渡口向岛一侧上望，对岸屋舍即标识；署名广重画。",
+      "related": [
+        "hiroshige-satta-sea",
+        "kunisada-dressing-room"
+      ],
+      "sources": [
+        "vam-o76529"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**歌川广重**的**团扇绘（uchiwa-e）**，1843—1847年，V&A 藏（O76529）。",
+        "风格特征": "该馆说明：尽管这是**1840年代中期**设计的一幅**后印（atozuri）**，这一**冬景**团扇绘的**设色与套准仍相当好**；画面**自北江户桥场（Hashiba）渡口的向岛（Mukojima）一侧向上游望去**，**对岸的房屋**标出了（记录在「mark the…」处**截断**，本条目**不补写**）。该馆并记**署名「广重画」**、出版者 **Sanoya Kihei**、**改印（Tanaka）**、**aiban 尺寸**。",
+        "代表人物与作品": "作者广重。相关条目见广重萨埵海与国贞后台图。",
+        "技法或形式分析": "材质为**团扇绘（rigid fan print），aiban 尺寸**；尺寸**高220 × 宽290毫米**（据该馆记录）。",
+        "与前后风格的关系和争论": "本条目据该馆说明把握「**后印（atozuri）**」这一版本学问题：同版**后刷**的**色与套准**是评价**印次质量**的指标——版画的价值不仅在**初版设计**，也在**具体印次**。",
+        "一图": "示意图以团扇绘形制、后印质量与向岛渡口三者关系标示本幅。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）该馆 summary 在「mark the…」处**截断，未补写**；（3）后印的具体年代未定；（4）原团扇柄是否存未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='hiroshige-sumida-snow 示意图'><title>hiroshige-sumida-snow</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>广重·1843—47</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>团扇绘</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>隅田雪景</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>220×290mm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>atozuri 后印</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>印次</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>向岛渡口</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>取景</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>隅田雪：团扇、印次与取景</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；summary 截断；后印年代未定。"
+    },
+    {
+      "id": "hokusai-36views",
+      "title": "北斋《富岳三十六景》（巨浪）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "19世纪",
+      "region": "东亚",
+      "medium": "版画",
+      "tier": "核心",
+      "def": "葛饰北斋《富岳三十六景》之一，维多利亚与艾伯特博物馆藏（O73124）。",
+      "when": "约1831年",
+      "overview": "横大判「蓝摺绘（aizuri-e）」：巨浪覆舟、远景富士；北斋（1760—1849）为日本最著名画师；此系列为**首个纯以大判风景版画构成**的系列。",
+      "related": [
+        "hiroshige-satta-sea",
+        "hokusai-red-fuji",
+        "utamaro-plum-blind"
+      ],
+      "sources": [
+        "vam-o73124"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**葛饰北斋**《**富岳三十六景**》之一（约1831），V&A 藏（O73124）。",
+        "风格特征": "该馆描述：**横大判（horizontal ōban）** 格式，**蓝摺绘（aizuri-e，以蓝色印成的画）**；**巨浪覆压船只**，**远处为富士山**。",
+        "代表人物与作品": "作者北斋（1760—1849）；该馆称他**也许是日本最著名的艺术家**，**以版画与版刻书的设计著称**，晚年则**日益转向绘画**。相关条目见北斋《赤富士》与广重萨埵海。",
+        "技法或形式分析": "材质为**木版，蓝摺绘**；尺寸**高24.8 × 宽35.8厘米**（据该馆记录）。",
+        "与前后风格的关系和争论": "该馆给出一条**艺术史定位**：此作属北斋**开创性**的《富岳三十六景》系列——它是**第一个完全由大判风景版画构成**的系列。本条目据此把「巨浪/富士」读作**系列观念的产物**：风景首次成为**成体系的版画主题**，而非单幅插图。",
+        "一图": "示意图以大判蓝摺、巨浪/富士与「首个纯风景系列」三者关系标示本幅。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）是否即「神奈川冲浪里」该记录仅述「巨浪覆舟」，未点名；（3）系列总幅数与印次未记录；（4）递藏未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='hokusai-36views 示意图'><title>hokusai-36views</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>北斋·约1831</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>大判蓝摺</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>巨浪与富士</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>24.8×35.8</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>蓝摺绘</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>技法</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>首个纯风景系列</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>系列观念</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>富岳三十六景：巨浪、蓝摺与系列</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；未点名具体图题；系列幅数未记录。"
     }
   ]
 }

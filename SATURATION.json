@@ -1765,6 +1765,18 @@
       },
       "network": "V&A",
       "verdict": "达到500条目；未饱和"
+    },
+    {
+      "cycle": "cycle144",
+      "date": "2026-11-24",
+      "methods_used": [
+        "浮世绘"
+      ],
+      "gaps_found": {
+        "entries": 4
+      },
+      "network": "V&A",
+      "verdict": "总504；未饱和"
     }
   ],
   "assessment_c33": {

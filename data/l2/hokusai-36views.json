@@ -1,0 +1,19 @@
+{
+ "id": "hokusai-36views",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为**葛饰北斋**《**富岳三十六景**》之一（约1831），V&A 藏（O73124）。",
+  "风格特征": "该馆描述：**横大判（horizontal ōban）** 格式，**蓝摺绘（aizuri-e，以蓝色印成的画）**；**巨浪覆压船只**，**远处为富士山**。",
+  "代表人物与作品": "作者北斋（1760—1849）；该馆称他**也许是日本最著名的艺术家**，**以版画与版刻书的设计著称**，晚年则**日益转向绘画**。相关条目见北斋《赤富士》与广重萨埵海。",
+  "技法或形式分析": "材质为**木版，蓝摺绘**；尺寸**高24.8 × 宽35.8厘米**（据该馆记录）。",
+  "与前后风格的关系和争论": "该馆给出一条**艺术史定位**：此作属北斋**开创性**的《富岳三十六景》系列——它是**第一个完全由大判风景版画构成**的系列。本条目据此把「巨浪/富士」读作**系列观念的产物**：风景首次成为**成体系的版画主题**，而非单幅插图。",
+  "一图": "示意图以大判蓝摺、巨浪/富士与「首个纯风景系列」三者关系标示本幅。",
+  "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）是否即「神奈川冲浪里」该记录仅述「巨浪覆舟」，未点名；（3）系列总幅数与印次未记录；（4）递藏未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='hokusai-36views 示意图'><title>hokusai-36views</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>北斋·约1831</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>大判蓝摺</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>巨浪与富士</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>24.8×35.8</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>蓝摺绘</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>技法</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>首个纯风景系列</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>系列观念</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>富岳三十六景：巨浪、蓝摺与系列</text></g></svg>",
+ "sources": [
+  "vam-o73124"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（V&A）来源；未点名具体图题；系列幅数未记录。"
+}

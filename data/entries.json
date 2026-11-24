@@ -3548,7 +3548,8 @@
         "hokusai-muneyuki-poem",
         "hokusai-hitomaro-poem",
         "hokusai-nakahara-sagami",
-        "hokusai-kingfisher-print"
+        "hokusai-kingfisher-print",
+        "hokusai-36views"
       ],
       "sources": [
         "cma-1930-189",
@@ -8094,7 +8095,11 @@
       "overview": "竖大判锦绘；前景巨浪如冠，远景富士；由画师、雕版师、印工依出版商指令分工而成。",
       "related": [
         "hiroshige-shono",
-        "hokusai-kingfisher-print"
+        "hokusai-kingfisher-print",
+        "utamaro-plum-blind",
+        "kunisada-dressing-room",
+        "hiroshige-sumida-snow",
+        "hokusai-36views"
       ],
       "sources": [
         "vam-o78132"
@@ -10814,6 +10819,87 @@
       ],
       "sources": [
         "vam-o1511742"
+      ]
+    },
+    {
+      "id": "utamaro-plum-blind",
+      "title": "歌麿《卷帘赏梅》摺物",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "18世纪",
+      "region": "东亚",
+      "medium": "版画",
+      "tier": "核心",
+      "def": "喜多川歌麿摺物版画，维多利亚与艾伯特博物馆藏（O71806）。",
+      "when": "1790年代末",
+      "overview": "摺物（私人订制彩印）；歌麿（1750—1806）早年佳作，线条精细写优雅女子；画面或本于某故事，却呈现江户两种游乐：赏梅等；尤重弹罢十三弦琴少女之神情。（记录无尺寸）",
+      "related": [
+        "hiroshige-satta-sea",
+        "hokusai-36views"
+      ],
+      "sources": [
+        "vam-o71806"
+      ]
+    },
+    {
+      "id": "kunisada-dressing-room",
+      "title": "国贞《道顿堀剧场后台》",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "19世纪",
+      "region": "东亚",
+      "medium": "版画",
+      "tier": "核心",
+      "def": "歌川国贞三联画右幅，维多利亚与艾伯特博物馆藏（O71692）。",
+      "when": "1820年代初",
+      "overview": "绘大阪道顿堀角座与中座歌舞伎剧场内景；1821—22江户演员（皆男）赴大阪演出，国贞亲赴大阪作此售众；大阪剧场为较简朴两层建筑，异于江户。",
+      "related": [
+        "hiroshige-sumida-snow",
+        "hiroshige-satta-sea"
+      ],
+      "sources": [
+        "vam-o71692"
+      ]
+    },
+    {
+      "id": "hiroshige-sumida-snow",
+      "title": "广重《隅田川雪景》（团扇绘）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "19世纪",
+      "region": "东亚",
+      "medium": "版画",
+      "tier": "核心",
+      "def": "歌川广重团扇绘（uchiwa-e），维多利亚与艾伯特博物馆藏（O76529）。",
+      "when": "1843—1847年",
+      "overview": "aiban 团扇绘，atozuri 后印；色与套准仍佳；自北江户桥场渡口向岛一侧上望，对岸屋舍即标识；署名广重画。",
+      "related": [
+        "hiroshige-satta-sea",
+        "kunisada-dressing-room"
+      ],
+      "sources": [
+        "vam-o76529"
+      ]
+    },
+    {
+      "id": "hokusai-36views",
+      "title": "北斋《富岳三十六景》（巨浪）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "19世纪",
+      "region": "东亚",
+      "medium": "版画",
+      "tier": "核心",
+      "def": "葛饰北斋《富岳三十六景》之一，维多利亚与艾伯特博物馆藏（O73124）。",
+      "when": "约1831年",
+      "overview": "横大判「蓝摺绘（aizuri-e）」：巨浪覆舟、远景富士；北斋（1760—1849）为日本最著名画师；此系列为**首个纯以大判风景版画构成**的系列。",
+      "related": [
+        "hiroshige-satta-sea",
+        "hokusai-red-fuji",
+        "utamaro-plum-blind"
+      ],
+      "sources": [
+        "vam-o73124"
       ]
     }
   ]

@@ -1,0 +1,19 @@
+{
+ "id": "kunisada-dressing-room",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为**歌川国贞**（1786—1864）**三联画的右幅**，1820年代初，V&A 藏（O71692）。",
+  "风格特征": "该馆说明：此幅描绘**大阪道顿堀（Dotonbori）的角座（Kado-za）与中座（Naka-za）两座歌舞伎剧场的内景**；**一大群江户（今东京）的歌舞伎演员（所有歌舞伎演员皆为男性）** 于**1821与1822年**赴大阪演出；**国贞当时亲赴大阪**，设计此类版画**在大阪出售**（记录在「sold in…」处**截断**，本条目**不补写**）。",
+  "代表人物与作品": "作者为国贞；署名「**Gototei Kunisada ga**」；出版者 **Nishimuraya Yohachi**；有**改印（kiwame）**。相关条目见广重隅田雪与歌麿摺物。",
+  "技法或形式分析": "材质为**木版**；尺寸**高35.7 × 宽71.8厘米**（大判，据该馆记录）。该馆并给出一条**建筑史信息**：大阪剧场是**相对简朴的两层建筑**，**不同于江户**的剧场。",
+  "与前后风格的关系和争论": "本条目据该馆说明把「后台图」读作**戏剧社会史**：它记录了**演员制度（全男班）**、**跨城巡演**与**剧场建筑差异**——版画在此是**可流通的田野记录**。",
+  "一图": "示意图以道顿堀剧场、江户演员巡演与两层建筑三者关系标示本幅。",
+  "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）该馆 desc 在「sold in…」处**截断，未补写**；（3）三联另两幅下落未记录；（4）改印的年代细节未展开。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='kunisada-dressing-room 示意图'><title>kunisada-dressing-room</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>国贞·1820s初</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>三联右幅</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>道顿堀后台</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>35.7×71.8</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>全男班演员</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>制度</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>两层剧场</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>建筑差异</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>国贞后台图：剧场、演员与建筑</text></g></svg>",
+ "sources": [
+  "vam-o71692"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（V&A）来源；desc 截断；另两幅未记录。"
+}

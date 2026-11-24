@@ -6259,6 +6259,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；裁形釉砖嵌灰泥 34.5×44.3cm；说明含莲纹蒙古传入与六色马赛克"
+    },
+    {
+      "id": "vam-o71806",
+      "title": "Victoria and Albert Museum — Utamaro, Rolling up a Blind for Plum Blossom Viewing, late 1790s, O71806",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O71806",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；木版彩印摺物；说明含琴后少女表情与江户游乐"
+    },
+    {
+      "id": "vam-o71692",
+      "title": "Victoria and Albert Museum — Kunisada, Dressing Room Scenes at Dotonbori Theatres, early 1820s, O71692",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O71692",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；木版 35.7×71.8cm；说明含大阪剧场与1821—22江户演员"
+    },
+    {
+      "id": "vam-o76529",
+      "title": "Victoria and Albert Museum — Hiroshige, View of the Sumida River in the Snow, 1843–47, O76529",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O76529",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；团扇绘 aiban 220×290mm；说明含atozuri后印与向岛渡口"
+    },
+    {
+      "id": "vam-o73124",
+      "title": "Victoria and Albert Museum — Hokusai, Thirty-Six Views of Mount Fuji (Great Wave), ca. 1831, O73124",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O73124",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；横大判蓝摺绘 24.8×35.8cm；说明含首套纯大判风景系列"
     }
   ]
 }

@@ -1,0 +1,19 @@
+{
+ "id": "hiroshige-sumida-snow",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为**歌川广重**的**团扇绘（uchiwa-e）**，1843—1847年，V&A 藏（O76529）。",
+  "风格特征": "该馆说明：尽管这是**1840年代中期**设计的一幅**后印（atozuri）**，这一**冬景**团扇绘的**设色与套准仍相当好**；画面**自北江户桥场（Hashiba）渡口的向岛（Mukojima）一侧向上游望去**，**对岸的房屋**标出了（记录在「mark the…」处**截断**，本条目**不补写**）。该馆并记**署名「广重画」**、出版者 **Sanoya Kihei**、**改印（Tanaka）**、**aiban 尺寸**。",
+  "代表人物与作品": "作者广重。相关条目见广重萨埵海与国贞后台图。",
+  "技法或形式分析": "材质为**团扇绘（rigid fan print），aiban 尺寸**；尺寸**高220 × 宽290毫米**（据该馆记录）。",
+  "与前后风格的关系和争论": "本条目据该馆说明把握「**后印（atozuri）**」这一版本学问题：同版**后刷**的**色与套准**是评价**印次质量**的指标——版画的价值不仅在**初版设计**，也在**具体印次**。",
+  "一图": "示意图以团扇绘形制、后印质量与向岛渡口三者关系标示本幅。",
+  "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）该馆 summary 在「mark the…」处**截断，未补写**；（3）后印的具体年代未定；（4）原团扇柄是否存未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='hiroshige-sumida-snow 示意图'><title>hiroshige-sumida-snow</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>广重·1843—47</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>团扇绘</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>隅田雪景</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>220×290mm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>atozuri 后印</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>印次</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>向岛渡口</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>取景</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>隅田雪：团扇、印次与取景</text></g></svg>",
+ "sources": [
+  "vam-o76529"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（V&A）来源；summary 截断；后印年代未定。"
+}

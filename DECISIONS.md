@@ -1472,3 +1472,12 @@ art-islamic 41→45。**如实保留截断/无 summary**：O82264/O86037 无 sum
 **500 是数量里程碑，不等于覆盖均衡**；未写 ALL_DONE，饱和见 SATURATION.json（仍 false）。
 可逆：删 4 条 overlay 与 catalog 元组、移除 4 条来源。代价：均单机构（V&A）。
 
+
+## D147 — Cycle144 浮世绘 4 条（500 → 504）
+`utamaro-plum-blind`（歌麿摺物，1790s末，**核心**；私人订制＋女性心理、琴后神情；无尺寸）、
+`kunisada-dressing-room`（国贞后台三联右幅，1820s初，**核心**；道顿堀剧场、全男班、跨城巡演、两层建筑）、
+`hiroshige-sumida-snow`（广重隅田雪团扇绘，1843—47，**核心**；atozuri 后印的印次质量）、
+`hokusai-36views`（北斋富岳三十六景·巨浪，约1831，**核心**；蓝摺绘、**首个纯大判风景系列**）。
+art-asia 内浮世绘群扩充。**如实**：O71806 无尺寸/desc 截断；多处 summary 截断均未补写。
+可逆：删 4 条 overlay 与 catalog 元组、移除 4 条来源。代价：均单机构（V&A）。
+

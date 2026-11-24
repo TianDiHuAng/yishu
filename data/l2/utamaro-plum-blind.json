@@ -1,0 +1,19 @@
+{
+ "id": "utamaro-plum-blind",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为**喜多川歌麿**的**摺物（surimono，私人订制彩印木版）**，1790年代末，V&A 藏（O71806）。",
+  "风格特征": "该馆称此件为歌麿**早年**的佳例，绘**优雅的女子**，以**精细而审慎的线条**；画面**或本于某个故事**，但总体呈现**江户时代两种流行的游乐**（该馆列举其一为**赏梅**，记录在「pl…」处**截断**，本条目**不补写**第二种）。该馆并着重描写：**刚弹罢十三弦琴（koto）的少女**的**面部表情**。",
+  "代表人物与作品": "作者歌麿（1750—1806）。该馆称其**极具影响力**，为**人物画（figure prints）** 这一门类带来了**对女性心理的特殊洞察**。相关条目见广重萨埵海与北斋巨浪。",
+  "技法或形式分析": "材质为**木版彩印（摺物）**；该记录**无尺寸字段**，本条目**不列尺寸**。",
+  "与前后风格的关系和争论": "本条目据该馆说明把握「**摺物**」这一**私人订制**性质：它区别于商业浮世绘，服务于**小众雅集/贺岁**的语境；而歌麿的贡献被界定为**女性心理**的表现——把「美人画」从类型推向**个体神情**。",
+  "一图": "示意图以摺物私订、琴后神情与女性心理三者关系标示本幅。",
+  "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）该馆 desc 在「pl…」处**截断**，第二种游乐未补写；（3）**该记录无尺寸**，本条目不提供；（4）所本故事未名。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='utamaro-plum-blind 示意图'><title>utamaro-plum-blind</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>歌麿·1790s</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>摺物</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>卷帘赏梅</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>无尺寸记录</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>琴后神情</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>女性心理</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>私人订制</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>摺物性质</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>歌麿摺物：私订、神情与心理</text></g></svg>",
+ "sources": [
+  "vam-o71806"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（V&A）来源；无尺寸；desc 截断。"
+}

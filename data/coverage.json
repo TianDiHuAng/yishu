@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 500,
+    "total": 504,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -6004,6 +6004,54 @@
     },
     "isfahan-tile-1450": {
       "title": "伊斯法罕马赛克砖（残）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "utamaro-plum-blind": {
+      "title": "歌麿《卷帘赏梅》摺物",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "kunisada-dressing-room": {
+      "title": "国贞《道顿堀剧场后台》",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "hiroshige-sumida-snow": {
+      "title": "广重《隅田川雪景》（团扇绘）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "hokusai-36views": {
+      "title": "北斋《富岳三十六景》（巨浪）",
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",

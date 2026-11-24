@@ -296,6 +296,29 @@
    [
     "1256"
    ]
+  ],
+  [
+   "utamaro-plum-blind",
+   "1790年代末",
+   [
+    "1750",
+    "1806"
+   ]
+  ],
+  [
+   "kunisada-dressing-room",
+   "1820年代初",
+   [
+    "1821"
+   ]
+  ],
+  [
+   "hokusai-36views",
+   "约1831年",
+   [
+    "1760",
+    "1849"
+   ]
   ]
  ],
  "orphans": [],
@@ -352,6 +375,6 @@
  "link_audit": {
   "cross_domain": 24,
   "oneway": 0,
-  "total_links": 1650
+  "total_links": 1664
  }
 }
