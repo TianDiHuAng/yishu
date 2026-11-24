@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 504,
+    "total": 508,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -6052,6 +6052,54 @@
     },
     "hokusai-36views": {
       "title": "北斋《富岳三十六景》（巨浪）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "mughal-alamgir-portrait": {
+      "title": "莫卧儿皇帝奥朗则布像",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "mughal-muhammad-ali-beg": {
+      "title": "伊朗使节穆罕默德·阿里·贝格像",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "pahari-abhisarika-nayika": {
+      "title": "帕哈里《阿毗萨里卡·纳伊卡》",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "pahari-balwant-singh": {
+      "title": "帕哈里《巴尔万特·辛格王》",
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",

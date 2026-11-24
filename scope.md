@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 504 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 508 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -436,6 +436,10 @@
 | kunisada-dressing-room | 国贞《道顿堀剧场后台》 | 作品 | 19世纪 | 东亚 | 版画 | 核心 | O1 |
 | hiroshige-sumida-snow | 广重《隅田川雪景》（团扇绘） | 作品 | 19世纪 | 东亚 | 版画 | 核心 | O1 |
 | hokusai-36views | 北斋《富岳三十六景》（巨浪） | 作品 | 19世纪 | 东亚 | 版画 | 核心 | O1 |
+| mughal-alamgir-portrait | 莫卧儿皇帝奥朗则布像 | 作品 | 17世纪 | 南亚 | 绘画 | 核心 | O1 |
+| mughal-muhammad-ali-beg | 伊朗使节穆罕默德·阿里·贝格像 | 作品 | 17世纪 | 南亚 | 绘画 | 核心 | O1 |
+| pahari-abhisarika-nayika | 帕哈里《阿毗萨里卡·纳伊卡》 | 作品 | 18世纪 | 南亚 | 绘画 | 核心 | O1 |
+| pahari-balwant-singh | 帕哈里《巴尔万特·辛格王》 | 作品 | 18世纪 | 南亚 | 绘画 | 核心 | O1 |
 
 ## art-islamic（伊斯兰艺术（西亚·中亚））
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

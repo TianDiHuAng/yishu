@@ -1,0 +1,106 @@
+{
+ "O113934": {
+  "title": "{'title': 'The Mughal emperor Alamgir', 'type': ''}",
+  "date": "{'date': {'text': '1698-1699', 'earliest': '1698-01-01', 'latest': '1699-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': 'dated 1110/1698-99'}",
+  "place": "{'place': {'text': 'Mughal Empire', 'id': 'THES262021'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "mat": "Painted in opaque watercolour and gold on paper",
+  "desc": "Painting, opaque watercolour and gold on paper, depicting emperor Aurangzeb in old age, being carried on a palenquin. The pale-faced emperor is carried by four bearers in a palanquin across a green hilly landscape. He is dressed all in white, except for a green and gold striped turban band and a gold patka. His bearers wear short red tunics. The emperor sits with hunched shoulders and his hands raised as if in prayer. His halo is a slightly darker shade of green than the background. Two attendants follow, bearing insignia of royalty in the form of a parasol and an <i>aftabgir</i>, or sunshade. They are also dressed in white. Walking at the emperor's side is a yellow-clad flywhisk bearer and another male, also in white. There is a Persian inscription in gold at the top of the painting giving the emperor's titles, the name of the artist and the date.",
+  "summary": "The portrait of the Mughal emperor 'Alamgir is dated 1110 AH/1698-99, and therefore depicts him towards the end of his life. He is dressed entirely in white with no jewellery, in keeping with the austerity that characterised his personality in later years. He sits with hunched shoulders and his hands raised as if in prayer. Two attends follow him, bearing a parasol and an aftabgir, or sunshade, both emblems of royalty. The dated Persian inscription in gold at the top of the painting gives the emperor's titles and the name of the artist, Ghulaman. The painting remained in royal ownership after Alamgir's death, as demonstrated by a seal of the Mughal emperor Muhammad Shah on the border dated AH 1132/1719-1720.",
+  "objtype": "Painting",
+  "dims": [
+   [
+    "Height",
+    "33.9",
+    "cm"
+   ],
+   [
+    "Width",
+    "22.8",
+    "cm"
+   ]
+  ]
+ },
+ "O16065": {
+  "title": "{'title': 'Muhammad Ali Beg', 'type': 'generic title'}",
+  "date": "{'date': {'text': 'ca. 1631', 'earliest': '1626-01-01', 'latest': '1635-12-31'}, 'association': {'text': 'painted', 'id': 'x30138'}, 'note': ''}",
+  "place": "{'place': {'text': 'Mughal Empire', 'id': 'THES262021'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "mat": "Painted in opaque watercolour and gold on paper",
+  "desc": "Painting, opaque watercolour on paper, a portrait of Muhammad Ali Beg, Iranian ambassador to the Mughal court, on a green background; the border is decorated with flowers and insects.",
+  "summary": "Muhammad ‘Ali Beg was the ambassador sent to the Mughal court by Shah Abbas of Iran, who arrived in time for the court's New Year festival in March 1631. He remained there until October 1633, during which time his portrait was painted by the royal artist, Hashim. The painting is inscribed in Persian ‘likeness of Muhammad Ali Beg, ambassador, the work of Hashim’, possibly by the Mughal emperor Shah Jahan. It was later mounted on a page with margins decorated with flowering plants and insects for inclusion in an album for the emperor.\r\nA copy of this painting, done in the early 19th century and with a border of verses not included in this original, is in the Metropolitan Museum of Art in New York (55.121.10.27v).",
+  "objtype": "Painting ",
+  "dims": [
+   [
+    "Height",
+    "38.7",
+    "cm"
+   ],
+   [
+    "Width",
+    "26.4",
+    "cm"
+   ],
+   [
+    "Height",
+    "23.9",
+    "cm"
+   ],
+   [
+    "Width",
+    "17",
+    "cm"
+   ]
+  ]
+ },
+ "O72339": {
+  "title": "{'title': 'Abhisarika Nayika', 'type': 'generic title'}",
+  "date": "{'date': {'text': 'ca. 1760', 'earliest': '1755-01-01', 'latest': '1764-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Guler', 'id': 'x32750'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "mat": "Painted in opaque watercolour on paper",
+  "desc": "Painting, in opaque watercolour on paper, <i>Abhisarika Nayika</i>, a lady on her way to a tryst (an agreed meeting between lovers). She is on a hillside with a curving rim, standing beneath trees. Clouds and lightning appear in the distance and there are snakes beneath the trees.  ",
+  "summary": "The woman braves the terrors of a dark and stormy night in order to meet her lover, and her broken ornaments lie on the ground near the threatening snakes. The painting is 'Pahari', or from the Punjab Hills. Pahari artists often depicted the theme of eight <i>nayikas</i>, showing ladies in different states of love and their behaviour. This <i>nayika</i> is called <i>Abhisarika</i>, a woman who goes to meet her lover.",
+  "objtype": "Painting",
+  "dims": [
+   [
+    "Height",
+    "36",
+    "cm"
+   ],
+   [
+    "Width",
+    "25.5",
+    "cm"
+   ],
+   [
+    "Height",
+    "29",
+    "cm"
+   ],
+   [
+    "Width",
+    "19.5",
+    "cm"
+   ]
+  ]
+ },
+ "O96492": {
+  "title": "{'title': 'Raja Balwant Singh', 'type': 'generic title'}",
+  "date": "{'date': {'text': 'ca. 1750', 'earliest': '1745-01-01', 'latest': '1754-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Jasrota', 'id': 'x38098'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': 'possibly'}; {'place': {'text': 'Jammu', 'id': 'x38115'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': 'possibly'}; {'place': {'text': 'Punjab Hills', 'id': 'x30918'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "mat": "Painted in opaque watercolour and gold on paper",
+  "desc": "Painting, opaque watercolour and gold on paper, figures on a plain, unpainted background. Raja Balwant Singh is seated on a throne on the left of the picture, under a canopy. He is smoking a <i>huqqa</i> and watching a group of performers on the right. In this group there is a dancer with musicians and mimics behind him. The picture is made up of two pieces of paper joined together. The join runs vertically on the left of the centre. \n\nThe raja is seated on a goldern throne with a black, red, white and green canopy, amid blue-black cushions. He wears a white floral-patterned jama and matching turban, with sarpech, his left hand rests on a cushion and in his right he holds the 'snake' of the <i>huqqa</i> which is placed before the throne. To the right of the picture, the boy dancer wears a bright pink costume, and performs with his right arm raised and bent at the elbow, and his left arm extended backwards to the group of eight musicians and singers who support him. The group forms an area of white, all the jamas except two being this colour, relieved by small areas of pinks, oranges, yellows and greens in turbans, patkas, instruments and one talwar in the foreground.",
+  "summary": "This painting is by the renowned Pahari painter Nainsukh. Pahari is a style of painting particular to the Punjab Hills of northern India. This painting shows a local ruler, Balwant Singh, watching performers. Balwant Singh (1724-1763) was from the 1740s until his death the patron of Nainsukh, who painted many portraits of him engaged in a variety of courtly activities. In the centre is a young male dancer mimicking the actions of  female dancers. Behind him is a group of musicians and singers. One holds a paper scroll in playful imitation of the Raja smoking a water pipe. Two sheets of paper have been joined together to make the picture.",
+  "objtype": "Painting",
+  "dims": [
+   [
+    "Height",
+    "25",
+    "cm"
+   ],
+   [
+    "Width",
+    "37.5",
+    "cm"
+   ]
+  ]
+ }
+}

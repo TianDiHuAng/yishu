@@ -3,19 +3,19 @@
   {
    "step": "py_compile（全部工具可编译）",
    "status": "ok",
-   "tail": "613 个 .py 全部通过"
+   "tail": "617 个 .py 全部通过"
   },
   {
    "step": "check.py（R1-R21 硬规则）",
    "returncode": 0,
    "status": "ok",
-   "tail": "check.py: entries=504 svg=504 errors=0"
+   "tail": "check.py: entries=508 svg=508 errors=0"
   },
   {
    "step": "check_links.py（站内链接）",
    "returncode": 0,
    "status": "ok",
-   "tail": "check_links: pages=541 broken=0"
+   "tail": "check_links: pages=545 broken=0"
   },
   {
    "step": "healthcheck_c10.py（九维体检）",

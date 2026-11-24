@@ -1,0 +1,19 @@
+{
+ "id": "pahari-abhisarika-nayika",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为**帕哈里（Pahari，旁遮普山地）**细密画（约1760），V&A 藏（O72339）。",
+  "风格特征": "该馆描述：**Abhisarika Nayika**——一位**正赴约（情侣约定相会）的女子**；她**立于一道曲缘山坡的树下**；**远处有云与闪电**；**树下有蛇**。",
+  "代表人物与作品": "作者未署名。该馆并说明题材体系：帕哈里画师常描绘**「八纳伊卡（eight nayikas）」**——**表现处于不同恋爱状态与行为的女子**；本幅的 nayika 即称 **Abhisarika**（赴约者）。相关条目见巴尔万特·辛格与《乌特卡·纳伊卡》。",
+  "技法或形式分析": "材质为**纸本不透明水彩**；尺寸**高36 × 宽25.5厘米**（另记画心29 × 19.5，据该馆记录）。该馆并给出一处细节：她**为了会见情人而冒黑夜风暴的恐怖**，**破碎的饰物落在近处威胁的蛇旁的地上**。",
+  "与前后风格的关系和争论": "本条目据该馆说明把「**破碎饰物**」读作**叙事符号**：饰物散落暗示**匆忙与不顾一切**，蛇与闪电共构**危险氛围**——女子之「勇」由**周围威胁**反衬。这使情绪成为可读的**场景编排**。",
+  "一图": "示意图以风雨夜、破碎饰物与蛇三者关系标示本画。",
+  "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）「八纳伊卡」体系的其余七种未列；（3）作者未署名；（4）递藏未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='pahari-abhisarika-nayika 示意图'><title>pahari-abhisarika-nayika</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>帕哈里·约1760</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>旁遮普山地</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>阿毗萨里卡</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>36cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>风雨夜·蛇</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>危险</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>破碎饰物</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>叙事符号</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>纳伊卡：风雨、蛇与破碎饰物</text></g></svg>",
+ "sources": [
+  "vam-o72339"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（V&A）来源；八纳伊卡体系未全列。"
+}

@@ -1481,3 +1481,13 @@ art-islamic 41→45。**如实保留截断/无 summary**：O82264/O86037 无 sum
 art-asia 内浮世绘群扩充。**如实**：O71806 无尺寸/desc 截断；多处 summary 截断均未补写。
 可逆：删 4 条 overlay 与 catalog 元组、移除 4 条来源。代价：均单机构（V&A）。
 
+
+## D148 — Cycle145 印度细密画 4 条（504 → 508）
+`mughal-alamgir-portrait`（奥朗则布像，1698—99，**核心**；素白无饰＝晚年苦行、帕輿出行、祈祷手势）、
+`mughal-muhammad-ali-beg`（伊朗使节像，约1631，**核心**；Hashim 作、波斯铭署名、绿底花虫边饰）、
+`pahari-abhisarika-nayika`（帕哈里《阿毗萨里卡·纳伊卡》，约1760，**核心**；八纳伊卡体系、风雨夜＋蛇＋破碎饰物）、
+`pahari-balwant-singh`（Nainsukh《巴尔万特·辛格》，约1750，**核心**；赞助人—画师长程关系、水烟观舞、留白背景）。
+**校验器立功（R21）**：`when` 写「1698—1699年（1110 AH）」含拉丁字母「AH」被 R21 拦下；把 AH 移出 `when`（正文已述）后通过。
+art-asia 南亚细密画扩充。写前查重通过。
+可逆：删 4 条 overlay 与 catalog 元组、移除 4 条来源。代价：均单机构（V&A）。
+

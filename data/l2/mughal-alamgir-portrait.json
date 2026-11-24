@@ -1,0 +1,19 @@
+{
+ "id": "mughal-alamgir-portrait",
+ "level": "L2",
+ "sections": {
+  "时代背景": "该馆说明：此莫卧儿皇帝「**阿拉姆吉尔（Alamgir）**」像**定年1110 AH / 1698—99年**，因而表现其**生命晚期**。本件为纸本不透明水彩与金，V&A 藏（O113934）。",
+  "风格特征": "该馆描述：皇帝**奥朗则布**年老，**被抬于帕輿之上**；**面色苍白**，由**四名肩夫**抬行，穿过**绿色丘陵景**；他**通身素白**，仅**绿金条纹头巾带**，其余无饰。",
+  "代表人物与作品": "作者未署名。相关条目见莱·辛格像与贾加特·辛格狩猎图。",
+  "技法或形式分析": "材质为**纸本不透明水彩与金**；尺寸**高33.9 × 宽22.8厘米**（据该馆记录）。",
+  "与前后风格的关系和争论": "该馆给出**图像与人格的对应**：**通身素白、不佩珠宝**，与**其晚年以苦行为特征的人格**相合；他**缩着肩、双手抬起如祈祷**；**两名侍从随行，持伞与日扇（aftab）**（记录在「aftab…」处**截断**，本条目**不补写**）。本条目据此把「服饰的极简」读作**政治—宗教姿态**，而非单纯写实。",
+  "一图": "示意图以素白苦行、帕輿出行与祈祷手势三者关系标示本像。",
+  "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）该馆 summary 在「aftab…」处**截断，未补写**；（3）绿金条纹头巾的具体纹样未描述；（4）作者未署名。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='mughal-alamgir-portrait 示意图'><title>mughal-alamgir-portrait</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>莫卧儿·1698—99</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1110 AH</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>奥朗则布像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>33.9cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>素白无饰</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>苦行</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>帕輿·祈祷</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>姿态</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>奥朗则布像：苦行、出行与祈祷</text></g></svg>",
+ "sources": [
+  "vam-o113934"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（V&A）来源；summary 截断；作者未署名。"
+}

@@ -6299,6 +6299,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；横大判蓝摺绘 24.8×35.8cm；说明含首套纯大判风景系列"
+    },
+    {
+      "id": "vam-o113934",
+      "title": "Victoria and Albert Museum — The Mughal emperor Alamgir (Aurangzeb), 1698–99, O113934",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O113934",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；纸本不透明水彩金 33.9×22.8cm；说明含1110AH与素白苦行"
+    },
+    {
+      "id": "vam-o16065",
+      "title": "Victoria and Albert Museum — Muhammad Ali Beg, ambassador, by Hashim, ca. 1631, O16065",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O16065",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；纸本不透明水彩 38.7×26.4cm；说明含沙阿阿巴斯使节与波斯铭"
+    },
+    {
+      "id": "vam-o72339",
+      "title": "Victoria and Albert Museum — Abhisarika Nayika, Pahari, ca. 1760, O72339",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O72339",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；纸本不透明水彩 36×25.5cm；说明含八纳伊卡与风雨夜赴约"
+    },
+    {
+      "id": "vam-o96492",
+      "title": "Victoria and Albert Museum — Raja Balwant Singh, by Nainsukh, ca. 1750, O96492",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O96492",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；纸本不透明水彩金 25×37.5cm；说明含Nainsukh与宫廷娱乐"
     }
   ]
 }

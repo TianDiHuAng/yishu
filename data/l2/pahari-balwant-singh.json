@@ -1,0 +1,19 @@
+{
+ "id": "pahari-balwant-singh",
+ "level": "L2",
+ "sections": {
+  "时代背景": "该馆说明：此画出自**著名帕哈里画师 Nainsukh**。本件约1750年，V&A 藏（O96492）。",
+  "风格特征": "该馆描述：**人物置于素净、未绘的背景** 上；**巴尔万特·辛格（Raja Balwant Singh）** 坐于**画面左侧的宝座、华盖之下**；他**吸着水烟（huqqa）**，**观看右侧的一群表演者**——**其中有一名舞者与众乐师**（记录在「musicians…」处**截断**，本条目**不补写**）。",
+  "代表人物与作品": "作者为 **Nainsukh**；画中人为 **Raja Balwant Singh（1724—1763）**。该馆指出：**帕哈里**是**北印度旁遮普山地特有的绘画风格**；**巴尔万特·辛格自1740年代起直至去世**都是 **Nainsukh 的赞助人**，后者**绘其多种宫廷活动**的肖像。相关条目见《阿毗萨里卡·纳伊卡》与使节像。",
+  "技法或形式分析": "材质为**纸本不透明水彩与金**；尺寸**高25 × 宽37.5厘米**（据该馆记录）。",
+  "与前后风格的关系和争论": "本条目据该馆说明把握「**赞助人—画师**的长程关系」：Nainsukh 反复描绘同一王公的**日常与娱乐**，使肖像成为**关系史**而非单幅纪念。留白背景则把注意力集中于**人物活动**本身。",
+  "一图": "示意图以 Nainsukh—巴尔万特·辛格赞助、水烟观舞与留白背景三者关系标示本画。",
+  "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）该馆 summary 在「musicians…」处**截断，未补写**；（3）乐师与舞者人数未明；（4）递藏未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='pahari-balwant-singh 示意图'><title>pahari-balwant-singh</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>帕哈里·约1750</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>Nainsukh</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>巴尔万特·辛格</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>25×37.5</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>水烟观舞</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>宫廷娱乐</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>留白背景</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>聚焦</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>巴尔万特·辛格：赞助、娱乐与留白</text></g></svg>",
+ "sources": [
+  "vam-o96492"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（V&A）来源；summary 截断；人数未明。"
+}

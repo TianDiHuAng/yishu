@@ -5959,7 +5959,8 @@
       "related": [
         "sursagar-krishna",
         "shri-raga-mewar",
-        "rai-singh-bikaner"
+        "rai-singh-bikaner",
+        "mughal-alamgir-portrait"
       ],
       "sources": [
         "cma-1998-102"
@@ -6042,7 +6043,8 @@
       "related": [
         "kausa-ragaputra",
         "maru-ragini",
-        "rajasthan-head-drawing"
+        "rajasthan-head-drawing",
+        "pahari-abhisarika-nayika"
       ],
       "sources": [
         "cma-1932-118"
@@ -9280,7 +9282,8 @@
       "related": [
         "shri-raga-mewar",
         "jagat-singh-hunting",
-        "rajasthan-head-drawing"
+        "rajasthan-head-drawing",
+        "mughal-alamgir-portrait"
       ],
       "sources": [
         "cma-2021-11"
@@ -10900,6 +10903,87 @@
       ],
       "sources": [
         "vam-o73124"
+      ]
+    },
+    {
+      "id": "mughal-alamgir-portrait",
+      "title": "莫卧儿皇帝奥朗则布像",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "17世纪",
+      "region": "南亚",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "莫卧儿皇帝奥朗则布（Alamgir）像，维多利亚与艾伯特博物馆藏（O113934）。",
+      "when": "1698—1699年",
+      "overview": "晚年奥朗则布乘帕輿、四肩夫抬行于绿丘；面白、通身素白无饰（仅绿金条纹头巾带），合其晚年苦行；缩肩、双手举起若祈祷；二侍随行持伞与日扇。",
+      "related": [
+        "rai-singh-bikaner",
+        "jagat-singh-hunting",
+        "mughal-muhammad-ali-beg"
+      ],
+      "sources": [
+        "vam-o113934"
+      ]
+    },
+    {
+      "id": "mughal-muhammad-ali-beg",
+      "title": "伊朗使节穆罕默德·阿里·贝格像",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "17世纪",
+      "region": "南亚",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "穆罕默德·阿里·贝格像（Hashim作），维多利亚与艾伯特博物馆藏（O16065）。",
+      "when": "约1631年",
+      "overview": "沙阿·阿巴斯遣莫卧儿宫廷之使节，1631年3月新年入朝、留至1633年10月；王室画师 Hashim 绘；绿底、边饰花卉昆虫；波斯铭「使节穆罕默德·阿里·贝格之像，Hashim 作」。",
+      "related": [
+        "mughal-alamgir-portrait",
+        "pahari-balwant-singh"
+      ],
+      "sources": [
+        "vam-o16065"
+      ]
+    },
+    {
+      "id": "pahari-abhisarika-nayika",
+      "title": "帕哈里《阿毗萨里卡·纳伊卡》",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "18世纪",
+      "region": "南亚",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "帕哈里细密画，维多利亚与艾伯特博物馆藏（O72339）。",
+      "when": "约1760年",
+      "overview": "「赴约的女主角」冒风雨黑夜赴情人约：曲缘山坡树下、远处云电、树下有蛇；破碎饰物落于近蛇处；帕哈里（旁遮普山地）常绘「八纳伊卡」，写女子种种恋爱情态。",
+      "related": [
+        "pahari-balwant-singh",
+        "utka-nayika"
+      ],
+      "sources": [
+        "vam-o72339"
+      ]
+    },
+    {
+      "id": "pahari-balwant-singh",
+      "title": "帕哈里《巴尔万特·辛格王》",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "18世纪",
+      "region": "南亚",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "帕哈里画师 Nainsukh 作，维多利亚与艾伯特博物馆藏（O96492）。",
+      "when": "约1750年",
+      "overview": "巴尔万特·辛格坐左侧宝座华盖下、吸水烟，观右侧乐舞（舞者与乐师）；背景留白；王（1724—1763）自1740年代起为 Nainsukh 的赞助人，后者绘其多种宫廷活动。",
+      "related": [
+        "pahari-abhisarika-nayika",
+        "mughal-muhammad-ali-beg"
+      ],
+      "sources": [
+        "vam-o96492"
       ]
     }
   ]

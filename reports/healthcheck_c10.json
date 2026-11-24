@@ -319,6 +319,15 @@
     "1760",
     "1849"
    ]
+  ],
+  [
+   "pahari-balwant-singh",
+   "约1750年",
+   [
+    "1724",
+    "1740",
+    "1763"
+   ]
   ]
  ],
  "orphans": [],
@@ -375,6 +384,6 @@
  "link_audit": {
   "cross_domain": 24,
   "oneway": 0,
-  "total_links": 1664
+  "total_links": 1676
  }
 }
