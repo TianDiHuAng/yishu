@@ -4086,7 +4086,10 @@
         "ma-pe-wi-three-antelope",
         "haida-raven-rattle",
         "maya-deer-vessel",
-        "aztec-xochipilli-maize"
+        "aztec-xochipilli-maize",
+        "maya-battle-vessel-nebaj",
+        "maya-palace-cylinder",
+        "ulua-ring-vessel"
       ],
       "sources": [
         "cma-1967-29",
@@ -7198,7 +7201,8 @@
       "overview": "还原气氛烧成的黑陶；鹿常为狩猎或献祭对象；金星纹与海螺示死亡，蹄下蛙蟾关乎农事丰产（鸣声报雨）。",
       "related": [
         "moche-bat-vessel",
-        "americas-art"
+        "americas-art",
+        "maya-battle-vessel-nebaj"
       ],
       "sources": [
         "cma-1997-60"
@@ -9260,6 +9264,90 @@
       ],
       "sources": [
         "cma-1914-661"
+      ]
+    },
+    {
+      "id": "maya-battle-vessel-nebaj",
+      "title": "玛雅战事纹瓶（Nebaj）",
+      "kind": "作品",
+      "unit": "art-americas",
+      "era": "古典晚期",
+      "region": "美洲",
+      "medium": "陶瓷",
+      "tier": "核心",
+      "def": "Nebaj 地区彩绘陶瓶，克利夫兰艺术博物馆藏（2012.32）。",
+      "when": "600—900年",
+      "overview": "战后献俘场景：面朝前之主回顾十名武士——有被剥战装者、有戴繁头冠与豹皮衣者；口沿铭文献此器以饮可可。",
+      "related": [
+        "maya-deer-vessel",
+        "americas-art",
+        "maya-palace-cylinder",
+        "chama-deities-cylinder"
+      ],
+      "sources": [
+        "cma-2012-32"
+      ]
+    },
+    {
+      "id": "maya-palace-cylinder",
+      "title": "玛雅宫宴筒瓶",
+      "kind": "作品",
+      "unit": "art-americas",
+      "era": "古典晚期",
+      "region": "美洲",
+      "medium": "陶瓷",
+      "tier": "核心",
+      "def": "玛雅彩绘筒瓶，克利夫兰艺术博物馆藏（1967.203）。",
+      "when": "600—900年",
+      "overview": "或纪念王之大事：王立于阶前御座旁、双腿为地上輿框；手势与腰间豹皮使王与侍从视觉相系；细瓷亦为赠礼与随葬。",
+      "related": [
+        "maya-battle-vessel-nebaj",
+        "americas-art",
+        "chama-deities-cylinder"
+      ],
+      "sources": [
+        "cma-1967-203"
+      ]
+    },
+    {
+      "id": "chama-deities-cylinder",
+      "title": "Chamá 神祇筒瓶（God K）",
+      "kind": "作品",
+      "unit": "art-americas",
+      "era": "古典晚期",
+      "region": "美洲",
+      "medium": "陶瓷",
+      "tier": "重要",
+      "def": "危地马拉 Kixpek Chamá 风格筒瓶，克利夫兰艺术博物馆藏（1954.391）。",
+      "when": "600—900年",
+      "overview": "600—900年玛雅城邦激增互动竞争；各地以独特陶绘风格为身份，风格数爆增、彩陶为时代标志；本瓶绘王之守护神 God K。",
+      "related": [
+        "maya-palace-cylinder",
+        "maya-battle-vessel-nebaj",
+        "ulua-ring-vessel"
+      ],
+      "sources": [
+        "cma-1954-391"
+      ]
+    },
+    {
+      "id": "ulua-ring-vessel",
+      "title": "Ulúa 大理石圈足瓶",
+      "kind": "作品",
+      "unit": "art-americas",
+      "era": "古典晚期",
+      "region": "美洲",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "洪都拉斯乌卢阿谷大理石瓶，克利夫兰艺术博物馆藏（1990.170）。",
+      "when": "约600—1000年",
+      "overview": "乌卢阿以白大理石低浮雕器著称，柄雕蝙蝠/猫/鸟/猴等首；本件以涡卷刻工之锐与座部三角镂空见长。",
+      "related": [
+        "chama-deities-cylinder",
+        "americas-art"
+      ],
+      "sources": [
+        "cma-1990-170"
       ]
     }
   ]

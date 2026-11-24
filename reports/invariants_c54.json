@@ -11,25 +11,25 @@
   ]
  ],
  "stats": {
-  "entries": 428,
-  "sources": 555,
+  "entries": 432,
+  "sources": 559,
   "units": 28,
-  "html_files": 465,
+  "html_files": 469,
   "source_types": {
    "权威百科": 149,
    "官方机构": 1,
    "权威结构化数据": 41,
    "权威结构化数据（身份锚点）": 77,
-   "权威机构藏品记录": 287
+   "权威机构藏品记录": 291
   },
   "levels": {
-   "L2": 424,
+   "L2": 428,
    "L3": 4
   },
   "tiers": {
-   "重要": 231,
+   "重要": 233,
    "补充": 12,
-   "核心": 185
+   "核心": 187
   },
   "per_unit": {
    "art-ancient": 35,
@@ -56,7 +56,7 @@
    "work-archives": 7,
    "art-islamic": 32,
    "art-africa": 32,
-   "art-americas": 24,
+   "art-americas": 28,
    "art-oceania": 14,
    "music-instruments": 22,
    "art-ceramics": 15

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 428,
+    "total": 432,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -5140,6 +5140,54 @@
     },
     "djedbastetiufankh-block-statue": {
       "title": "杰德巴斯特提乌凡赫块状雕像",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "maya-battle-vessel-nebaj": {
+      "title": "玛雅战事纹瓶（Nebaj）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "maya-palace-cylinder": {
+      "title": "玛雅宫宴筒瓶",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "chama-deities-cylinder": {
+      "title": "Chamá 神祇筒瓶（God K）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "ulua-ring-vessel": {
+      "title": "Ulúa 大理石圈足瓶",
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",

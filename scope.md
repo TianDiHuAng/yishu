@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 428 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 432 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -488,6 +488,10 @@
 | wari-tunic | 瓦里束腰外衣 | 作品 | 公元8—12世纪 | 美洲 | 综合 | 核心 | O1 |
 | inca-tunic-1957 | 印加束腰外衣（1957号） | 作品 | 15—16世纪 | 美洲 | 综合 | 核心 | O1 |
 | aztec-xochipilli-maize | 阿兹特克持玉米坐像 | 作品 | 14—16世纪 | 美洲 | 雕塑 | 重要 | O1 |
+| maya-battle-vessel-nebaj | 玛雅战事纹瓶（Nebaj） | 作品 | 古典晚期 | 美洲 | 陶瓷 | 核心 | O1 |
+| maya-palace-cylinder | 玛雅宫宴筒瓶 | 作品 | 古典晚期 | 美洲 | 陶瓷 | 核心 | O1 |
+| chama-deities-cylinder | Chamá 神祇筒瓶（God K） | 作品 | 古典晚期 | 美洲 | 陶瓷 | 重要 | O1 |
+| ulua-ring-vessel | Ulúa 大理石圈足瓶 | 作品 | 古典晚期 | 美洲 | 雕塑 | 重要 | O1 |
 
 ## art-oceania（太平洋艺术（大洋洲））
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

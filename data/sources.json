@@ -5549,6 +5549,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；石灰岩 26.1×14×19.2cm；说明含块像几不可碎与波斯期袍"
+    },
+    {
+      "id": "cma-2012-32",
+      "title": "Cleveland Museum of Art — Maya vessel with battle scene, Nebaj, acc. 2012.32",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2012.32",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；陶与泥浆 17.2×15.4cm；说明含献俘与可可饮"
+    },
+    {
+      "id": "cma-1967-203",
+      "title": "Cleveland Museum of Art — Maya cylindrical vessel with palace scene, acc. 1967.203",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1967.203",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；泥浆彩陶 径19cm 高19.1cm；说明含王登阶与豹皮"
+    },
+    {
+      "id": "cma-1954-391",
+      "title": "Cleveland Museum of Art — Chamá cylinder with deities (God K), acc. 1954.391",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1954.391",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；泥浆彩陶 口15.5×16.5 高16.6cm；说明含风格爆炸与God K"
+    },
+    {
+      "id": "cma-1990-170",
+      "title": "Cleveland Museum of Art — Ulúa marble ring-base vessel, Honduras, acc. 1990.170",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1990.170",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；大理石 9.5×13.5×10.1cm；说明含蝙蝠头柄与涡卷"
     }
   ]
 }
