@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 593 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 596 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -185,6 +185,9 @@
 | preller-musicale | 普雷勒《普雷勒家的音乐会》（1838） | 作品 | 19世纪 | 德国 | 素描 | 重要 | O1 |
 | bonvin-woman-at-spinet | 邦万《斯皮耐琴前的女子》（1860） | 作品 | 19世纪 | 法国 | 素描 | 重要 | O1 |
 | kriehuber-bust-of-beethoven | 克里胡贝尔《贝多芬胸像》（1827） | 作品 | 19世纪 | 奥地利 | 版画 | 补充 | O1 |
+| redon-parsifal | 雷东《帕西法尔》（1892） | 作品 | 19世纪 | 法国 | 版画 | 重要 | O1 |
+| redon-brunnhilde | 雷东《诸神的黄昏中的布伦希尔德》（1894） | 作品 | 19世纪 | 法国 | 版画 | 重要 | O1 |
+| fantin-latour-tannhauser | 方丹-拉图尔《唐豪瑟》（1886） | 作品 | 19世纪 | 法国 | 油画 | 重要 | O1 |
 
 ## art-impression（艺术史·印象派与后印象派）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

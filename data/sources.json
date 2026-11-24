@@ -7169,6 +7169,36 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；石版画 版痕16.7×17.1cm；印有贝多芬生于1770年12月16日波恩、卒于1827年3月26日维也纳、出版者Tobias Haslinger、石版印刷Trentsensky；馆方无说明文字"
+    },
+    {
+      "id": "cma-1925-21",
+      "title": "Cleveland Museum of Art — Odilon Redon, Parsifal, 1892, acc. 1925.21",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1925.21",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；石版画 画面32.2×24.2cm；石上署名ODILON REDON；说明含雷东从瓦格纳音乐汲取灵感、帕西法尔为1882年歌剧主人公、暗沉色调与茫然凝视营造神秘感、拉尔夫·金为该馆捐赠的首件"
+    },
+    {
+      "id": "cma-1945-389",
+      "title": "Cleveland Museum of Art — Odilon Redon, Brünnhilde in Twilight of the Gods, 1894, acc. 1945.389",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1945.389",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；石版画 画面38×29.2cm；说明含雷东对瓦格纳音乐的热情、布伦希尔德为《尼伯龙根的指环》终章主要角色、石版与素描相近、背景花朵以线勾勒、脸部以交叉排线"
+    },
+    {
+      "id": "cma-1916-1038",
+      "title": "Cleveland Museum of Art — Henri Fantin-Latour, Tannhäuser, 1886, acc. 1916.1038",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1916.1038",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；布面油画 画心86.4×103.3cm；右下署名Fantin 86；说明含坐在左侧的唐豪瑟似未投入欢愉场面、独处阴影、瓦格纳歌剧围绕世俗与神圣之爱的冲突"
     }
   ]
 }

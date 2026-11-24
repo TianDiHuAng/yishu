@@ -2072,7 +2072,10 @@
         "monteverdi",
         "mozart",
         "wagner",
-        "cma-yueqin"
+        "cma-yueqin",
+        "redon-parsifal",
+        "redon-brunnhilde",
+        "fantin-latour-tannhauser"
       ],
       "sources": [
         "enc-opera",
@@ -2351,7 +2354,10 @@
         "romantic-crossmedia",
         "preller-musicale",
         "bonvin-woman-at-spinet",
-        "kriehuber-bust-of-beethoven"
+        "kriehuber-bust-of-beethoven",
+        "redon-parsifal",
+        "redon-brunnhilde",
+        "fantin-latour-tannhauser"
       ],
       "sources": [
         "enc-romantic-music",
@@ -2437,7 +2443,10 @@
       "overview": "代表作《尼伯龙根的指环》《特里斯坦与伊索尔德》，以无终旋律与半音化和声推向调性边界。",
       "related": [
         "romantic-music",
-        "opera"
+        "opera",
+        "redon-parsifal",
+        "redon-brunnhilde",
+        "fantin-latour-tannhauser"
       ],
       "sources": [
         "enc-wagner",
@@ -12866,6 +12875,69 @@
       ],
       "sources": [
         "cma-1940-1132"
+      ]
+    },
+    {
+      "id": "redon-parsifal",
+      "title": "雷东《帕西法尔》（1892）",
+      "kind": "作品",
+      "unit": "art-neo-romantic",
+      "era": "19世纪",
+      "region": "法国",
+      "medium": "版画",
+      "tier": "重要",
+      "def": "雷东以瓦格纳歌剧主人公为题的石版画，克利夫兰艺术博物馆藏（1925.21）。",
+      "when": "1892年",
+      "overview": "该馆说明：与当时许多艺术家一样，雷东从瓦格纳的音乐中汲取灵感，并在多种媒介中探索它；此画描绘帕西法尔，即瓦格纳1882年歌剧的主人公，那是一部围绕寻找圣杯的歌剧；暗沉的色调与帕西法尔茫然的凝视共同营造出神秘感。",
+      "related": [
+        "wagner",
+        "romantic-music",
+        "opera"
+      ],
+      "sources": [
+        "cma-1925-21"
+      ]
+    },
+    {
+      "id": "redon-brunnhilde",
+      "title": "雷东《诸神的黄昏中的布伦希尔德》（1894）",
+      "kind": "作品",
+      "unit": "art-neo-romantic",
+      "era": "19世纪",
+      "region": "法国",
+      "medium": "版画",
+      "tier": "重要",
+      "def": "雷东以《尼伯龙根的指环》人物为题的石版画，克利夫兰艺术博物馆藏（1945.389）。",
+      "when": "1894年",
+      "overview": "该馆说明：此画显示雷东对瓦格纳音乐的热情；布伦希尔德是瓦格纳四部连套歌剧《尼伯龙根的指环》终章的主要角色；雷东在大量试验并掌握石版之后作此画，画面显出石版与素描相近，背景的花朵用线勾出轮廓，布伦希尔德的脸用交叉排线提亮，再把蜡笔侧过来，把她的头发与胸口加深。",
+      "related": [
+        "wagner",
+        "romantic-music",
+        "opera"
+      ],
+      "sources": [
+        "cma-1945-389"
+      ]
+    },
+    {
+      "id": "fantin-latour-tannhauser",
+      "title": "方丹-拉图尔《唐豪瑟》（1886）",
+      "kind": "作品",
+      "unit": "art-neo-romantic",
+      "era": "19世纪",
+      "region": "法国",
+      "medium": "油画",
+      "tier": "重要",
+      "def": "方丹-拉图尔取材瓦格纳歌剧的油画，克利夫兰艺术博物馆藏（1916.1038）。",
+      "when": "1886年",
+      "overview": "该馆说明：坐在左侧的男子是唐豪瑟，他似乎没有完全投入这个欢愉的场面，在苍白的身体与淡雅的色调之间，只有他笼罩在阴影里；启发这幅画的瓦格纳歌剧，主题是世俗之爱与神圣之爱的冲突，这种紧张感体现在神情阴郁的唐豪瑟身上。",
+      "related": [
+        "wagner",
+        "romantic-music",
+        "opera"
+      ],
+      "sources": [
+        "cma-1916-1038"
       ]
     }
   ]
