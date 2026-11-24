@@ -5589,6 +5589,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；大理石 9.5×13.5×10.1cm；说明含蝙蝠头柄与涡卷"
+    },
+    {
+      "id": "cma-1992-246",
+      "title": "Cleveland Museum of Art — Ibex standard finial, Luristan, c. 700–600 BCE, acc. 1992.246",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1992.246",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；青铜 13.5×9.7cm；说明含双羱羊与前腿成环"
+    },
+    {
+      "id": "cma-1930-729",
+      "title": "Cleveland Museum of Art — Axel shaft cup, Luristan, c. 800–700 BCE, acc. 1930.729",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1930.729",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；铸青铜 径8.6cm；说明含亚述马具供应"
+    },
+    {
+      "id": "cma-1914-666",
+      "title": "Cleveland Museum of Art — Double-sided votive relief, Ptolemaic Egypt, 305–30 BCE, acc. 1914.666",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1914.666",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；石灰岩 8.3×6.5cm；说明含习作/石片与范本"
+    },
+    {
+      "id": "cma-2025-138",
+      "title": "Cleveland Museum of Art — Amida descent with 25 bodhisattvas, Nanbokuchō, acc. 2025.138",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2025.138",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；绢本切金 164.5×137.7cm；说明含观音持莲台"
     }
   ]
 }

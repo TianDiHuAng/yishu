@@ -3099,7 +3099,8 @@
         "japanese-inro",
         "bowie-koto-heroes",
         "vandiem-lacquer-box",
-        "canton-umbrella-mender"
+        "canton-umbrella-mender",
+        "amida-descent-painting"
       ],
       "sources": [
         "enc-japanese-art",
@@ -6430,7 +6431,8 @@
       "related": [
         "gudea-statue",
         "minnefer-statue",
-        "nyankhnesut-relief"
+        "nyankhnesut-relief",
+        "greco-roman-votive-relief"
       ],
       "sources": [
         "cma-1963-100"
@@ -6630,7 +6632,8 @@
       "overview": "三足外撇可架火加热；用于商王室祖先祭祀，祈求丰收与战功。",
       "related": [
         "shang-zhou-bronzes",
-        "chinese-jade-art"
+        "chinese-jade-art",
+        "luristan-axel-cup"
       ],
       "sources": [
         "cma-2005-54"
@@ -6771,7 +6774,8 @@
       "overview": "呈迎接姿态；像内文献含《阿弥陀经》、结缘名簿与33日造成记录。",
       "related": [
         "buddhist-art-india",
-        "japanese-art"
+        "japanese-art",
+        "amida-descent-painting"
       ],
       "sources": [
         "cma-1960-197"
@@ -6831,7 +6835,8 @@
       "overview": "有角男子抓双翼兽前腿，翼兽踩兔；环供连接马衔，另一片颊饰已失。",
       "related": [
         "gudea-statue",
-        "shang-zhou-bronzes"
+        "shang-zhou-bronzes",
+        "luristan-ibex-standard"
       ],
       "sources": [
         "cma-1961-33"
@@ -8892,7 +8897,8 @@
       "related": [
         "minnefer-statue",
         "amenemhat-statue",
-        "nyankhnesut-relief"
+        "nyankhnesut-relief",
+        "greco-roman-votive-relief"
       ],
       "sources": [
         "cma-1921-1021"
@@ -9348,6 +9354,86 @@
       ],
       "sources": [
         "cma-1990-170"
+      ]
+    },
+    {
+      "id": "luristan-ibex-standard",
+      "title": "卢里斯坦羱羊标顶",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元前8—7世纪",
+      "region": "西亚·中亚",
+      "medium": "金属器",
+      "tier": "重要",
+      "def": "伊朗卢里斯坦青铜标顶，克利夫兰艺术博物馆藏（1992.246）。",
+      "when": "约公元前700—600年",
+      "overview": "装饰管或为军徽；双抽象羱羊前腿延展成环（或曾插杆）；胸前横杆另托环；脊角/卷须/绞尾，后腿再汇一环；卢里斯坦为铁器时代半游牧金属业重镇。",
+      "related": [
+        "luristan-master-cheekpiece",
+        "luristan-axel-cup"
+      ],
+      "sources": [
+        "cma-1992-246"
+      ]
+    },
+    {
+      "id": "luristan-axel-cup",
+      "title": "卢里斯坦轴杯",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元前9—8世纪",
+      "region": "西亚·中亚",
+      "medium": "金属器",
+      "tier": "重要",
+      "def": "卢里斯坦铸青铜轴杯，克利夫兰艺术博物馆藏（1930.729）。",
+      "when": "约公元前800—700年",
+      "overview": "卢里斯坦少文字记录，所知皆由艺术品推得；为古养马业中心，以青铜马具/车具著称；曾向亚述帝国供马及配套硬件。",
+      "related": [
+        "luristan-ibex-standard",
+        "shang-jia-vessel"
+      ],
+      "sources": [
+        "cma-1930-729"
+      ]
+    },
+    {
+      "id": "greco-roman-votive-relief",
+      "title": "托勒密还愿浮雕（双面习作）",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "托勒密时期",
+      "region": "埃及",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "埃及希腊罗马期石灰岩双面还愿浮雕，克利夫兰艺术博物馆藏（1914.666）。",
+      "when": "公元前305—前30年",
+      "overview": "习作（刻于石灰岩片/ostraca）与雕塑家模型让我们看见埃及艺术家如何工作；一面野犬首、另一面侧面人物，本身即杰作，或供临摹。",
+      "related": [
+        "amenhotep-tomb-relief",
+        "canopic-jar-26"
+      ],
+      "sources": [
+        "cma-1914-666"
+      ]
+    },
+    {
+      "id": "amida-descent-painting",
+      "title": "阿弥陀二十五菩萨来迎图",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "14世纪",
+      "region": "东亚",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "日本南北朝绢本来迎图，克利夫兰艺术博物馆藏（2025.138）。",
+      "when": "1300年代中期",
+      "overview": "阿弥陀携25菩萨迎亡者往净土；多位菩萨奏乐以贺；观音跪持莲台供亡者乘归。",
+      "related": [
+        "amida-shitennoji",
+        "japanese-art"
+      ],
+      "sources": [
+        "cma-2025-138"
       ]
     }
   ]

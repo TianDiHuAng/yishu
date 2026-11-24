@@ -1,0 +1,19 @@
+{
+ "id": "greco-roman-votive-relief",
+ "level": "L2",
+ "sections": {
+  "时代背景": "该馆说明：**习作（trial pieces）**——刻于**石灰岩片或 ostraca（陶/石片）**——与**雕塑家的模型**，让我们看到**古代埃及艺术家如何接近其工作**。本件为托勒密王朝（前305—30）石灰岩双面浮雕，CMA 藏（1914.666）。",
+  "风格特征": "该馆描述：**一面为野犬之首，另一面为侧面人物**；该馆评价这些小件「**本身就是杰作**」，且**很可能供人临摹**。",
+  "代表人物与作品": "作者未署名（工作室习作者）。相关条目见阿蒙霍特普医生墓浮雕与卡诺普罐。本件为 CMA 藏品（1914.666）。",
+  "技法或形式分析": "材质为**石灰岩**；尺寸8.3 × 6.5 × 1.4厘米（据该馆记录）。",
+  "与前后风格的关系和争论": "本条目据该馆说明把「废料上的练习」读作**工作室教学的直接遗存**：石片、单面习刻、双面练习——与正式作品相比，它们保存了**训练方法**而非成品效果。本条目只依记录陈述。",
+  "一图": "示意图以石灰岩片习作、野犬首/侧面人物与「供临摹」三者关系标示本件。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「供临摹」该馆用 probably；（3）「votive（还愿）」之名与习作性质的关系该馆未说明，本条目存疑照录；（4）出土地未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='greco-roman-votive-relie 示意图'><title>greco-roman-votive-relie</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>托勒密·前305—30</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>石灰岩片</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>双面习作浮雕</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>8.3×6.5</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>野犬首/侧面人</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>两面</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>供临摹?</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>工作室</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>还愿浮雕：习作、两面与教学</text></g></svg>",
+ "sources": [
+  "cma-1914-666"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；votive 之名存疑；出土地未记录。"
+}

@@ -1531,6 +1531,18 @@
       },
       "network": "CMA",
       "verdict": "美洲 32→36（总432）；未饱和"
+    },
+    {
+      "cycle": "cycle125",
+      "date": "2026-11-24",
+      "methods_used": [
+        "卢里斯坦/埃及/日本"
+      ],
+      "gaps_found": {
+        "entries": 4
+      },
+      "network": "CMA",
+      "verdict": "总436；未饱和"
     }
   ],
   "assessment_c33": {

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 432,
+    "total": 436,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -5189,6 +5189,54 @@
     "ulua-ring-vessel": {
       "title": "Ulúa 大理石圈足瓶",
       "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "luristan-ibex-standard": {
+      "title": "卢里斯坦羱羊标顶",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "luristan-axel-cup": {
+      "title": "卢里斯坦轴杯",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "greco-roman-votive-relief": {
+      "title": "托勒密还愿浮雕（双面习作）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "amida-descent-painting": {
+      "title": "阿弥陀二十五菩萨来迎图",
+      "tier": "核心",
       "level": "L2",
       "status": "written_l2",
       "sources_count": 1,

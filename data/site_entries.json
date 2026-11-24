@@ -5048,7 +5048,8 @@
         "japanese-inro",
         "bowie-koto-heroes",
         "vandiem-lacquer-box",
-        "canton-umbrella-mender"
+        "canton-umbrella-mender",
+        "amida-descent-painting"
       ],
       "sources": [
         "enc-japanese-art",
@@ -10370,7 +10371,8 @@
       "related": [
         "gudea-statue",
         "minnefer-statue",
-        "nyankhnesut-relief"
+        "nyankhnesut-relief",
+        "greco-roman-votive-relief"
       ],
       "sources": [
         "cma-1963-100"
@@ -10700,7 +10702,8 @@
       "overview": "三足外撇可架火加热；用于商王室祖先祭祀，祈求丰收与战功。",
       "related": [
         "shang-zhou-bronzes",
-        "chinese-jade-art"
+        "chinese-jade-art",
+        "luristan-axel-cup"
       ],
       "sources": [
         "cma-2005-54"
@@ -10932,7 +10935,8 @@
       "overview": "呈迎接姿态；像内文献含《阿弥陀经》、结缘名簿与33日造成记录。",
       "related": [
         "buddhist-art-india",
-        "japanese-art"
+        "japanese-art",
+        "amida-descent-painting"
       ],
       "sources": [
         "cma-1960-197"
@@ -11031,7 +11035,8 @@
       "overview": "有角男子抓双翼兽前腿，翼兽踩兔；环供连接马衔，另一片颊饰已失。",
       "related": [
         "gudea-statue",
-        "shang-zhou-bronzes"
+        "shang-zhou-bronzes",
+        "luristan-ibex-standard"
       ],
       "sources": [
         "cma-1961-33"
@@ -14379,7 +14384,8 @@
       "related": [
         "minnefer-statue",
         "amenemhat-statue",
-        "nyankhnesut-relief"
+        "nyankhnesut-relief",
+        "greco-roman-votive-relief"
       ],
       "sources": [
         "cma-1921-1021"
@@ -15135,6 +15141,138 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='ulua-ring-vessel 示意图'><title>ulua-ring-vessel</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>乌卢阿·600—1000</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>洪都拉斯</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>大理石圈足瓶</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>9.5×13.5</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>蝙蝠首柄</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>低浮雕</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>涡卷锐利</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>工艺</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>乌卢阿瓶：材质、蝙蝠与雕工</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（CMA）来源；蝙蝠象征与矿源未记录。"
+    },
+    {
+      "id": "luristan-ibex-standard",
+      "title": "卢里斯坦羱羊标顶",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元前8—7世纪",
+      "region": "西亚·中亚",
+      "medium": "金属器",
+      "tier": "重要",
+      "def": "伊朗卢里斯坦青铜标顶，克利夫兰艺术博物馆藏（1992.246）。",
+      "when": "约公元前700—600年",
+      "overview": "装饰管或为军徽；双抽象羱羊前腿延展成环（或曾插杆）；胸前横杆另托环；脊角/卷须/绞尾，后腿再汇一环；卢里斯坦为铁器时代半游牧金属业重镇。",
+      "related": [
+        "luristan-master-cheekpiece",
+        "luristan-axel-cup"
+      ],
+      "sources": [
+        "cma-1992-246"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为伊朗**卢里斯坦**青铜标顶，约公元前700—600年，CMA 藏（1992.246）。",
+        "风格特征": "该馆描述：这是一**装饰性管件**，「**或许曾用作军事徽记**」；由**两只抽象化的羱羊**构成——**前腿延展成环**，**杆或曾插入其中**；**胸前另伸出横杆**以**托住环**；铸铜羱羊饰**棱脊角、卷须与绞尾**；**后腿汇成另一环**。",
+        "代表人物与作品": "该馆指出其产地**很可能为卢里斯坦**——**铁器时代半游牧民族**的家园，那里有**强盛的金属加工产业**。相关条目见「动物主人」马颊饰与轴杯。",
+        "技法或形式分析": "材质为**青铜**；尺寸13.5 × 9.7 × 1.9厘米（据该馆记录）。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「动物—构件」合一：羱羊的身体本身就是**机械结构**（环、托杆），装饰与功能在铸造中一体成形。这与同区马颊饰的「母题装在器具上」一脉相承。",
+        "一图": "示意图以双羱羊成环、托杆横杆与军事徽记三者关系标示本件。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「军事徽记」该馆用 perhaps；（3）「可能曾插杆」为推测；（4）卢里斯坦产地亦为「likely」级推断。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='luristan-ibex-standard 示意图'><title>luristan-ibex-standard</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>卢里斯坦·前8—7世纪</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>伊朗</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>羱羊标顶</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>13.5cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>前腿成环</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>承杆结构</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>军事徽记?</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>功能</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>羱羊标顶：动物、构件与徽记</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；徽记与插杆均为推测。"
+    },
+    {
+      "id": "luristan-axel-cup",
+      "title": "卢里斯坦轴杯",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元前9—8世纪",
+      "region": "西亚·中亚",
+      "medium": "金属器",
+      "tier": "重要",
+      "def": "卢里斯坦铸青铜轴杯，克利夫兰艺术博物馆藏（1930.729）。",
+      "when": "约公元前800—700年",
+      "overview": "卢里斯坦少文字记录，所知皆由艺术品推得；为古养马业中心，以青铜马具/车具著称；曾向亚述帝国供马及配套硬件。",
+      "related": [
+        "luristan-ibex-standard",
+        "shang-jia-vessel"
+      ],
+      "sources": [
+        "cma-1930-729"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明：卢里斯坦（伊朗西境）与北部的 Markik、Amlash 曾是**文明兴盛之地**；但**卢里斯坦几乎未留文字记录**，**我们对其所知皆由艺术品推得**。本件为铸青铜**轴杯**（axel shaft cup），约公元前800—700年，CMA 藏（1930.729）。",
+        "风格特征": "该馆指出：卢里斯坦是**古代养马业中心之一**，以**青铜器**著称——**多为马具或战车配件**；它曾向**亚述帝国**供应**马匹与相关硬件**。",
+        "代表人物与作品": "作者未署名。相关条目见羱羊标顶与「动物主人」马颊饰。",
+        "技法或形式分析": "材质为**铸青铜**；口径8.6厘米、整体7厘米（据该馆记录）。",
+        "与前后风格的关系和争论": "本条目据该馆说明点出一个**史学困境**：无文字社会的知识只能由**器物反推**。轴杯作为**车轮轴承的润滑油杯**（该馆未展开，本条目按名不推测），是**车马技术**链条中的零件——它的存在把卢里斯坦与**亚述的军事需求**连成供需关系。",
+        "一图": "示意图以无文字记录、养马业与亚述供需三者关系标示本件。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「所知皆由艺术品推得」为该馆概括；（3）轴杯的具体安装位置未展开；（4）与亚述贸易的直接证据未列。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='luristan-axel-cup 示意图'><title>luristan-axel-cup</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>卢里斯坦·前800—70</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>铸青铜</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>轴杯</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>径8.6</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>养马中心</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>马具车具</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>供亚述</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>马+硬件</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>轴杯：器物、养马与供需</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；贸易证据未列；安装方式未展开。"
+    },
+    {
+      "id": "greco-roman-votive-relief",
+      "title": "托勒密还愿浮雕（双面习作）",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "托勒密时期",
+      "region": "埃及",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "埃及希腊罗马期石灰岩双面还愿浮雕，克利夫兰艺术博物馆藏（1914.666）。",
+      "when": "公元前305—前30年",
+      "overview": "习作（刻于石灰岩片/ostraca）与雕塑家模型让我们看见埃及艺术家如何工作；一面野犬首、另一面侧面人物，本身即杰作，或供临摹。",
+      "related": [
+        "amenhotep-tomb-relief",
+        "canopic-jar-26"
+      ],
+      "sources": [
+        "cma-1914-666"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明：**习作（trial pieces）**——刻于**石灰岩片或 ostraca（陶/石片）**——与**雕塑家的模型**，让我们看到**古代埃及艺术家如何接近其工作**。本件为托勒密王朝（前305—30）石灰岩双面浮雕，CMA 藏（1914.666）。",
+        "风格特征": "该馆描述：**一面为野犬之首，另一面为侧面人物**；该馆评价这些小件「**本身就是杰作**」，且**很可能供人临摹**。",
+        "代表人物与作品": "作者未署名（工作室习作者）。相关条目见阿蒙霍特普医生墓浮雕与卡诺普罐。本件为 CMA 藏品（1914.666）。",
+        "技法或形式分析": "材质为**石灰岩**；尺寸8.3 × 6.5 × 1.4厘米（据该馆记录）。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「废料上的练习」读作**工作室教学的直接遗存**：石片、单面习刻、双面练习——与正式作品相比，它们保存了**训练方法**而非成品效果。本条目只依记录陈述。",
+        "一图": "示意图以石灰岩片习作、野犬首/侧面人物与「供临摹」三者关系标示本件。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「供临摹」该馆用 probably；（3）「votive（还愿）」之名与习作性质的关系该馆未说明，本条目存疑照录；（4）出土地未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='greco-roman-votive-relie 示意图'><title>greco-roman-votive-relie</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>托勒密·前305—30</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>石灰岩片</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>双面习作浮雕</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>8.3×6.5</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>野犬首/侧面人</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>两面</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>供临摹?</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>工作室</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>还愿浮雕：习作、两面与教学</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；votive 之名存疑；出土地未记录。"
+    },
+    {
+      "id": "amida-descent-painting",
+      "title": "阿弥陀二十五菩萨来迎图",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "14世纪",
+      "region": "东亚",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "日本南北朝绢本来迎图，克利夫兰艺术博物馆藏（2025.138）。",
+      "when": "1300年代中期",
+      "overview": "阿弥陀携25菩萨迎亡者往净土；多位菩萨奏乐以贺；观音跪持莲台供亡者乘归。",
+      "related": [
+        "amida-shitennoji",
+        "japanese-art"
+      ],
+      "sources": [
+        "cma-2025-138"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为日本**南北朝**（1336—92）绢本来迎图，CMA 藏（2025.138）。",
+        "风格特征": "该馆描述：画中**阿弥陀佛**来临，**接引临终者往其净土（西方极乐）**；随行**二十五菩萨**——已悟而誓愿利他之存在——其中**多位奏乐**，为这一时刻**作乐前导**；**观音菩萨跪持莲台**，供亡者**乘之而往**。",
+        "代表人物与作品": "作者未署名。相关条目见四天王寺阿弥陀像与日本艺术。",
+        "技法或形式分析": "材质为**绢本，墨、色、金、银与切金**；画面164.5 × 137.7厘米，装裱255 × 166.6厘米（据该馆记录）。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「来迎图」理解为**死亡的视觉脚本**：画面给出临终时刻的**完整流程**（佛来—菩萨奏乐—观音奉莲台—乘归净土），图像即**信仰的操作手册**。切金装饰则提示此类画在仪式中的隆重。",
+        "一图": "示意图以阿弥陀来迎、二十五菩萨奏乐与观音莲台三者关系标示本幅。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）委托者与原属寺未记录；（3）「二十五菩萨」的图像志源未展开；（4）金银保存状况未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='amida-descent-painting 示意图'><title>amida-descent-painting</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>南北朝·1300s</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>绢本来迎</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>阿弥陀二十五菩萨</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>164.5×137.7</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>菩萨奏乐</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>前导</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>观音莲台</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>乘归</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>来迎图：流程、奏乐与莲台</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；委托者与图像志源未记录。"
     }
   ]
 }
