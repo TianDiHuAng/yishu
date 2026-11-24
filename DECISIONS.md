@@ -1376,3 +1376,12 @@
 art-americas 36→40。写前查重（含同名对象）有效拦截一次重复。
 可逆：删 4 条 overlay 与 catalog 元组、移除 4 条来源。代价：均单机构（CMA）。
 
+
+## D137 — Cycle134 项目级一致性深度审计（全绿）
+新增 `tools/audit_project_c134.py` 做**交付级**诊断（不只 check/audit_all）：
+- 条目 **464** · 来源 **591** · 页面 **501**；**sitemap `<loc>` = 501 = 页面数**（完全对齐）。
+- **每来源均被引用（无 unused）**；每条引用均在库（无 missing-source）；**无孤立 overlay**（overlay 与 entries 一一对应）；**无空 SVG**；**0 空 `<title>`**；entries/*.html = 464 = 条目数。
+- 28 单元全部使用；needs_verification 307/464（单机构来源条目一律标记，符合硬规则）；层级 L2 460 / L3 4。
+- `问题：无`。结论：**站点结构与数据自洽、可交付**；内容仍在扩充，故 saturated 仍为 false。
+可逆：删该诊断脚本即可。代价：无（只读审计）。
+
