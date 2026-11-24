@@ -1,0 +1,19 @@
+{
+ "id": "yueshan-pine-wind-calligraphy",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为黄檗宗僧人越山道宗（1629—1709）的行草立轴，定年约1660—1709年，清代，克利夫兰艺术博物馆藏（2003.354）。",
+  "风格特征": "该馆说明：这是一件雄健的书法，由黄檗（Ōbaku）宗僧人越山所书，共五字。",
+  "代表人物与作品": "作者为越山道宗。相关条目见越山道宗行草书轴（同一作者的另一件）与草书。",
+  "技法或形式分析": "形制为立轴，纸本墨；画心128.9 × 29厘米，连轴头总计179 × 36.4厘米（据该馆藏品记录）。款识为「吟風一樣松」「悅山」「道宗之印」。",
+  "与前后风格的关系和争论": "该馆说明：五字暂译为「松树在风中歌唱」，句出《寒山诗》；寒山既是诗僧寒山的号，也是一处地名；在其中一首诗里，寒山写到在去寒山的路上迷了路，或许暗指对宗教觉悟的寻求。本条目保留该馆「暂译」的口气，不把译文当作定论。",
+  "一图": "示意图以黄檗宗僧人、五字取自《寒山诗》、暂译松风三者关系标示本轴。",
+  "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）五字译文该馆标明为暂译；（3）定年「约1660—1709年」为区间，该馆未给出更精确年份；（4）与同一作者另一件（2003.353）的关系，该馆在本件记录中未说明。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='yueshan-pine-wind-callig 示意图'><title>yueshan-pine-wind-callig</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>越山道宗·约1660—1</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>黄檗宗僧</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>《吟風一樣松》轴</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>画心128.9cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>句出《寒山诗》</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>诗僧寒山</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>暂译：松在风中歌唱</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>迷路喻求悟</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>吟风一样松：取句寒山</text></g></svg>",
+ "sources": [
+  "cma-2003-354"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；译文为暂译；年代为区间；与另一件的关系未述。"
+}

@@ -6639,6 +6639,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；含馆方传记正文（经藏品 1963.91《罗马平原的切尔瓦拉》取得）"
+    },
+    {
+      "id": "cma-2025-192",
+      "title": "Cleveland Museum of Art — Retreat on an Autumn Day, in Cursive Script, Zhu Yunming, 1523, acc. 2025.192",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2025.192",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；手卷 纸本墨 高34.3cm 书法段514.2cm；款识癸未（1523）七月晦日；含两首诗释文与脱字标注"
+    },
+    {
+      "id": "cma-1998-169",
+      "title": "Cleveland Museum of Art — Poem on Imperial Gift of an Embroidered Silk, Wen Zhengming, c. 1525, acc. 1998.169",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1998.169",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；立轴 纸本墨 书法343.5×93.3cm；说明含嘉靖帝赐绣丝、大幅书法稀少、英译诗文"
+    },
+    {
+      "id": "cma-2003-354",
+      "title": "Cleveland Museum of Art — Calligraphy in Semi-Cursive Style (xing-caoshu), Yueshan Daozong, c. 1660–1709, acc. 2003.354",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2003.354",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；立轴 纸本墨 画心128.9×29cm；款识吟風一樣松/悅山/道宗之印；说明含黄檗宗僧、寒山诗、暂译"
+    },
+    {
+      "id": "cma-2023-162",
+      "title": "Cleveland Museum of Art — Calligraphy Couplet, Liang Qichao, after 1911, acc. 2023.162",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2023.162",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；对联一对 纸本墨 每幅128×30cm；说明含碑学风格、改革者、各引一位历史文化人物诗句"
     }
   ]
 }

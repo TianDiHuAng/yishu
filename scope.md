@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 538 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 542 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -266,6 +266,10 @@
 | lanting-lacquer-panel | 兰亭雅集朱漆雕板 | 作品 | 15—16世纪 | 中国 | 书法 | 重要 | O6 |
 | chen-jiru-four-poems | 陈继儒行书四诗卷 | 作品 | 16—17世纪 | 中国 | 书法 | 核心 | O6 |
 | ten-bamboo-album | 十竹斋书画谱（1633 初版） | 作品 | 17世纪 | 中国 | 版画 | 核心 | O6 |
+| zhu-yunming-autumn-retreat | 祝允明《闲居秋日》草书手卷（1523） | 作品 | 明代 | 中国 | 书法 | 重要 | O6 |
+| wen-zhengming-silk-poem | 文徵明《谢赐绣丝诗》大幅行楷轴（约1525） | 作品 | 明代 | 中国 | 书法 | 重要 | O6 |
+| yueshan-pine-wind-calligraphy | 越山道宗《吟风一样松》行草轴（约1660—1709） | 作品 | 清代 | 中国 | 书法 | 重要 | O6 |
+| liang-qichao-couplet | 梁启超书法对联（1911年后） | 作品 | 近现代 | 中国 | 书法 | 重要 | O6 |
 
 ## music-medieval（音乐史·中世纪）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

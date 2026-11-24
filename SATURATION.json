@@ -1873,6 +1873,18 @@
       },
       "network": "CMA",
       "verdict": "art-neo-romantic 16→18（总538）；未饱和；补上米勒/柯罗人物条目"
+    },
+    {
+      "cycle": "cycle154",
+      "date": "2026-11-24",
+      "methods_used": [
+        "中国书法"
+      ],
+      "gaps_found": {
+        "entries": 4
+      },
+      "network": "CMA",
+      "verdict": "art-china-calligraphy 11→15（总542）；未饱和"
     }
   ],
   "assessment_c33": {
