@@ -8859,6 +8859,316 @@
       "type": "权威机构词表（人物名称与生平）",
       "verified": true,
       "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该人物的标签与简介（French painter, 1796-1875），编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "lc-n50051776",
+      "title": "Library of Congress Name Authority — Palestrina, Giovanni Pierluigi da, 1525?-1594, n50051776",
+      "author": "Library of Congress（LC Name Authority File，开放权威档案）",
+      "year": "2026",
+      "url": "https://id.loc.gov/authorities/names/n50051776",
+      "type": "权威机构名称档案（人物姓名与生卒年）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 id.loc.gov 取回该权威记录，标签为「Palestrina, Giovanni Pierluigi da, 1525?-1594」，编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "lc-n79021425",
+      "title": "Library of Congress Name Authority — Bach, Johann Sebastian, 1685-1750, n79021425",
+      "author": "Library of Congress（LC Name Authority File，开放权威档案）",
+      "year": "2026",
+      "url": "https://id.loc.gov/authorities/names/n79021425",
+      "type": "权威机构名称档案（人物姓名与生卒年）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 id.loc.gov 取回该权威记录，标签为「Bach, Johann Sebastian, 1685-1750」，编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "lc-n79074370",
+      "title": "Library of Congress Name Authority — Monteverdi, Claudio, 1567-1643, n79074370",
+      "author": "Library of Congress（LC Name Authority File，开放权威档案）",
+      "year": "2026",
+      "url": "https://id.loc.gov/authorities/names/n79074370",
+      "type": "权威机构名称档案（人物姓名与生卒年）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 id.loc.gov 取回该权威记录，标签为「Monteverdi, Claudio, 1567-1643」，编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "lc-n79091193",
+      "title": "Library of Congress Name Authority — Haydn, Joseph, 1732-1809, n79091193",
+      "author": "Library of Congress（LC Name Authority File，开放权威档案）",
+      "year": "2026",
+      "url": "https://id.loc.gov/authorities/names/n79091193",
+      "type": "权威机构名称档案（人物姓名与生卒年）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 id.loc.gov 取回该权威记录，标签为「Haydn, Joseph, 1732-1809」，编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "lc-n80022788",
+      "title": "Library of Congress Name Authority — Mozart, Wolfgang Amadeus, 1756-1791, n80022788",
+      "author": "Library of Congress（LC Name Authority File，开放权威档案）",
+      "year": "2026",
+      "url": "https://id.loc.gov/authorities/names/n80022788",
+      "type": "权威机构名称档案（人物姓名与生卒年）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 id.loc.gov 取回该权威记录，标签为「Mozart, Wolfgang Amadeus, 1756-1791」，编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "lc-n79107741",
+      "title": "Library of Congress Name Authority — Beethoven, Ludwig van, 1770-1827, n79107741",
+      "author": "Library of Congress（LC Name Authority File，开放权威档案）",
+      "year": "2026",
+      "url": "https://id.loc.gov/authorities/names/n79107741",
+      "type": "权威机构名称档案（人物姓名与生卒年）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 id.loc.gov 取回该权威记录，标签为「Beethoven, Ludwig van, 1770-1827」，编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "lc-n79127769",
+      "title": "Library of Congress Name Authority — Chopin, Frédéric, 1810-1849, n79127769",
+      "author": "Library of Congress（LC Name Authority File，开放权威档案）",
+      "year": "2026",
+      "url": "https://id.loc.gov/authorities/names/n79127769",
+      "type": "权威机构名称档案（人物姓名与生卒年）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 id.loc.gov 取回该权威记录，标签为「Chopin, Frédéric, 1810-1849」，编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "lc-n79089831",
+      "title": "Library of Congress Name Authority — Wagner, Richard, 1813-1883, n79089831",
+      "author": "Library of Congress（LC Name Authority File，开放权威档案）",
+      "year": "2026",
+      "url": "https://id.loc.gov/authorities/names/n79089831",
+      "type": "权威机构名称档案（人物姓名与生卒年）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 id.loc.gov 取回该权威记录，标签为「Wagner, Richard, 1813-1883」，编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "lc-n50000561",
+      "title": "Library of Congress Name Authority — Schubert, Franz, 1797-1828, n50000561",
+      "author": "Library of Congress（LC Name Authority File，开放权威档案）",
+      "year": "2026",
+      "url": "https://id.loc.gov/authorities/names/n50000561",
+      "type": "权威机构名称档案（人物姓名与生卒年）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 id.loc.gov 取回该权威记录，标签为「Schubert, Franz, 1797-1828」，编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "lc-n79070061",
+      "title": "Library of Congress Name Authority — Stravinsky, Igor, 1882-1971, n79070061",
+      "author": "Library of Congress（LC Name Authority File，开放权威档案）",
+      "year": "2026",
+      "url": "https://id.loc.gov/authorities/names/n79070061",
+      "type": "权威机构名称档案（人物姓名与生卒年）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 id.loc.gov 取回该权威记录，标签为「Stravinsky, Igor, 1882-1971」，编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "lc-n80032780",
+      "title": "Library of Congress Name Authority — Schoenberg, Arnold, 1874-1951, n80032780",
+      "author": "Library of Congress（LC Name Authority File，开放权威档案）",
+      "year": "2026",
+      "url": "https://id.loc.gov/authorities/names/n80032780",
+      "type": "权威机构名称档案（人物姓名与生卒年）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 id.loc.gov 取回该权威记录，标签为「Schoenberg, Arnold, 1874-1951」，编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "lc-n79132137",
+      "title": "Library of Congress Name Authority — Debussy, Claude, 1862-1918, n79132137",
+      "author": "Library of Congress（LC Name Authority File，开放权威档案）",
+      "year": "2026",
+      "url": "https://id.loc.gov/authorities/names/n79132137",
+      "type": "权威机构名称档案（人物姓名与生卒年）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 id.loc.gov 取回该权威记录，标签为「Debussy, Claude, 1862-1918」，编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "lc-n80005115",
+      "title": "Library of Congress Name Authority — Josquin, des Prez, -1521, n80005115",
+      "author": "Library of Congress（LC Name Authority File，开放权威档案）",
+      "year": "2026",
+      "url": "https://id.loc.gov/authorities/names/n80005115",
+      "type": "权威机构名称档案（人物姓名与生卒年）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 id.loc.gov 取回该权威记录，标签为「Josquin, des Prez, -1521」，编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "lc-n80118409",
+      "title": "Library of Congress Name Authority — Hildegard, Saint, 1098-1179, n80118409",
+      "author": "Library of Congress（LC Name Authority File，开放权威档案）",
+      "year": "2026",
+      "url": "https://id.loc.gov/authorities/names/n80118409",
+      "type": "权威机构名称档案（人物姓名与生卒年）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 id.loc.gov 取回该权威记录，标签为「Hildegard, Saint, 1098-1179」，编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "lc-n79021280",
+      "title": "Library of Congress Name Authority — Vivaldi, Antonio, 1678-1741, n79021280",
+      "author": "Library of Congress（LC Name Authority File，开放权威档案）",
+      "year": "2026",
+      "url": "https://id.loc.gov/authorities/names/n79021280",
+      "type": "权威机构名称档案（人物姓名与生卒年）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 id.loc.gov 取回该权威记录，标签为「Vivaldi, Antonio, 1678-1741」，编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "lc-n79077221",
+      "title": "Library of Congress Name Authority — Brahms, Johannes, 1833-1897, n79077221",
+      "author": "Library of Congress（LC Name Authority File，开放权威档案）",
+      "year": "2026",
+      "url": "https://id.loc.gov/authorities/names/n79077221",
+      "type": "权威机构名称档案（人物姓名与生卒年）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 id.loc.gov 取回该权威记录，标签为「Brahms, Johannes, 1833-1897」，编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "lc-n79079048",
+      "title": "Library of Congress Name Authority — Liszt, Franz, 1811-1886, n79079048",
+      "author": "Library of Congress（LC Name Authority File，开放权威档案）",
+      "year": "2026",
+      "url": "https://id.loc.gov/authorities/names/n79079048",
+      "type": "权威机构名称档案（人物姓名与生卒年）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 id.loc.gov 取回该权威记录，标签为「Liszt, Franz, 1811-1886」，编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "lc-n80067106",
+      "title": "Library of Congress Name Authority — Mahler, Gustav, 1860-1911, n80067106",
+      "author": "Library of Congress（LC Name Authority File，开放权威档案）",
+      "year": "2026",
+      "url": "https://id.loc.gov/authorities/names/n80067106",
+      "type": "权威机构名称档案（人物姓名与生卒年）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 id.loc.gov 取回该权威记录，标签为「Mahler, Gustav, 1860-1911」，编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "lc-n79072979",
+      "title": "Library of Congress Name Authority — Tchaikovsky, Peter Ilich, 1840-1893, n79072979",
+      "author": "Library of Congress（LC Name Authority File，开放权威档案）",
+      "year": "2026",
+      "url": "https://id.loc.gov/authorities/names/n79072979",
+      "type": "权威机构名称档案（人物姓名与生卒年）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 id.loc.gov 取回该权威记录，标签为「Tchaikovsky, Peter Ilich, 1840-1893」，编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "lc-n79135399",
+      "title": "Library of Congress Name Authority — Gluck, Christoph Willibald, Ritter von, 1714-1787, n79135399",
+      "author": "Library of Congress（LC Name Authority File，开放权威档案）",
+      "year": "2026",
+      "url": "https://id.loc.gov/authorities/names/n79135399",
+      "type": "权威机构名称档案（人物姓名与生卒年）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 id.loc.gov 取回该权威记录，标签为「Gluck, Christoph Willibald, Ritter von, 1714-1787」，编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "lc-n50009548",
+      "title": "Library of Congress Name Authority — Tallis, Thomas, approximately 1505-1585, n50009548",
+      "author": "Library of Congress（LC Name Authority File，开放权威档案）",
+      "year": "2026",
+      "url": "https://id.loc.gov/authorities/names/n50009548",
+      "type": "权威机构名称档案（人物姓名与生卒年）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 id.loc.gov 取回该权威记录，标签为「Tallis, Thomas, approximately 1505-1585」，编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "lc-n50032948",
+      "title": "Library of Congress Name Authority — Byrd, William, 1539 or 1540-1623, n50032948",
+      "author": "Library of Congress（LC Name Authority File，开放权威档案）",
+      "year": "2026",
+      "url": "https://id.loc.gov/authorities/names/n50032948",
+      "type": "权威机构名称档案（人物姓名与生卒年）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 id.loc.gov 取回该权威记录，标签为「Byrd, William, 1539 or 1540-1623」，编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "lc-n81037013",
+      "title": "Library of Congress Name Authority — Lasso, Orlando di, 1532-1594, n81037013",
+      "author": "Library of Congress（LC Name Authority File，开放权威档案）",
+      "year": "2026",
+      "url": "https://id.loc.gov/authorities/names/n81037013",
+      "type": "权威机构名称档案（人物姓名与生卒年）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 id.loc.gov 取回该权威记录，标签为「Lasso, Orlando di, 1532-1594」，编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "lc-n79110488",
+      "title": "Library of Congress Name Authority — Gesualdo, Carlo, principe di Venosa, approximately 1560-1613, n79110488",
+      "author": "Library of Congress（LC Name Authority File，开放权威档案）",
+      "year": "2026",
+      "url": "https://id.loc.gov/authorities/names/n79110488",
+      "type": "权威机构名称档案（人物姓名与生卒年）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 id.loc.gov 取回该权威记录，标签为「Gesualdo, Carlo, principe di Venosa, approximately 1560-1613」，编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "lc-n50018452",
+      "title": "Library of Congress Name Authority — Guillaume, de Machaut, approximately 1300-1377, n50018452",
+      "author": "Library of Congress（LC Name Authority File，开放权威档案）",
+      "year": "2026",
+      "url": "https://id.loc.gov/authorities/names/n50018452",
+      "type": "权威机构名称档案（人物姓名与生卒年）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 id.loc.gov 取回该权威记录，标签为「Guillaume, de Machaut, approximately 1300-1377」，编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "lc-n87807575",
+      "title": "Library of Congress Name Authority — Léonin, active 12th century, n87807575",
+      "author": "Library of Congress（LC Name Authority File，开放权威档案）",
+      "year": "2026",
+      "url": "https://id.loc.gov/authorities/names/n87807575",
+      "type": "权威机构名称档案（人物姓名与生卒年）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 id.loc.gov 取回该权威记录，标签为「Léonin, active 12th century」，编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "lc-n79095298",
+      "title": "Library of Congress Name Authority — Purcell, Henry, 1659-1695, n79095298",
+      "author": "Library of Congress（LC Name Authority File，开放权威档案）",
+      "year": "2026",
+      "url": "https://id.loc.gov/authorities/names/n79095298",
+      "type": "权威机构名称档案（人物姓名与生卒年）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 id.loc.gov 取回该权威记录，标签为「Purcell, Henry, 1659-1695」，编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "lc-n79072787",
+      "title": "Library of Congress Name Authority — Lully, Jean-Baptiste, 1632-1687, n79072787",
+      "author": "Library of Congress（LC Name Authority File，开放权威档案）",
+      "year": "2026",
+      "url": "https://id.loc.gov/authorities/names/n79072787",
+      "type": "权威机构名称档案（人物姓名与生卒年）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 id.loc.gov 取回该权威记录，标签为「Lully, Jean-Baptiste, 1632-1687」，编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "lc-n79070071",
+      "title": "Library of Congress Name Authority — Scarlatti, Domenico, 1685-1757, n79070071",
+      "author": "Library of Congress（LC Name Authority File，开放权威档案）",
+      "year": "2026",
+      "url": "https://id.loc.gov/authorities/names/n79070071",
+      "type": "权威机构名称档案（人物姓名与生卒年）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 id.loc.gov 取回该权威记录，标签为「Scarlatti, Domenico, 1685-1757」，编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "lc-n79059471",
+      "title": "Library of Congress Name Authority — Corelli, Arcangelo, 1653-1713, n79059471",
+      "author": "Library of Congress（LC Name Authority File，开放权威档案）",
+      "year": "2026",
+      "url": "https://id.loc.gov/authorities/names/n79059471",
+      "type": "权威机构名称档案（人物姓名与生卒年）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 id.loc.gov 取回该权威记录，标签为「Corelli, Arcangelo, 1653-1713」，编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "lc-n79117028",
+      "title": "Library of Congress Name Authority — Telemann, Georg Philipp, 1681-1767, n79117028",
+      "author": "Library of Congress（LC Name Authority File，开放权威档案）",
+      "year": "2026",
+      "url": "https://id.loc.gov/authorities/names/n79117028",
+      "type": "权威机构名称档案（人物姓名与生卒年）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 id.loc.gov 取回该权威记录，标签为「Telemann, Georg Philipp, 1681-1767」，编号与标签匹配，生卒年已与库内条目对照"
     }
   ]
 }

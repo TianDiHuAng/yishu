@@ -1,19 +1,20 @@
 {
- "id": "bach",
- "level": "L2",
- "sections": {
-  "时代背景": "巴赫生活于公元1685—1750年，是德国巴洛克时期的音乐家。他兼具作曲家与管风琴家的身份。",
-  "风格特征": "巴赫被誉为西方音乐之父之一。他的创作集复调艺术之大成。",
-  "代表人物与作品": "巴赫的代表作包括《平均律钢琴曲集》《勃兰登堡协奏曲》与《马太受难曲》。相关条目另列有巴洛克音乐与赋格。",
-  "技法或形式分析": "巴赫的创作集复调艺术之大成。作为管风琴家，其写作与复调技法紧密相连。赋格作为相关条目，与其技法体系相关联。",
-  "与前后风格的关系和争论": "巴赫与巴洛克音乐及赋格密切相关。相关记载较为一致，学界主要讨论其创作的分期问题。",
-  "一图": "示意图展示巴赫集复调艺术之大成、并以多部代表作体现其成就的关系。",
-  "待核实": "代表作品的具体创作年份与收藏地未见于现有来源，待补充第二来源。 【已复核·Wikidata】生卒：第二来源 wd-bach（https://www.wikidata.org/wiki/Q1339），据其结构化数据：生年 1685，卒年 1750。"
- },
- "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='巴赫 示意图'><title>巴赫</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>巴赫</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1685—1750</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>复调艺术</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>集大成</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>赋格</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>相关条目</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>巴洛克音乐</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>所属时期</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>巴赫集复调艺术之大成，以多部代表作体现其成就。</text></g></svg>",
- "sources": [
-  "enc-bach",
-  "enc-baroque-music",
-  "wd-bach"
- ]
+  "id": "bach",
+  "level": "L2",
+  "sections": {
+    "时代背景": "巴赫生活于公元1685—1750年，是德国巴洛克时期的音乐家。他兼具作曲家与管风琴家的身份。",
+    "风格特征": "巴赫被誉为西方音乐之父之一。他的创作集复调艺术之大成。",
+    "代表人物与作品": "巴赫的代表作包括《平均律钢琴曲集》《勃兰登堡协奏曲》与《马太受难曲》。相关条目另列有巴洛克音乐与赋格。",
+    "技法或形式分析": "巴赫的创作集复调艺术之大成。作为管风琴家，其写作与复调技法紧密相连。赋格作为相关条目，与其技法体系相关联。",
+    "与前后风格的关系和争论": "巴赫与巴洛克音乐及赋格密切相关。相关记载较为一致，学界主要讨论其创作的分期问题。",
+    "一图": "示意图展示巴赫集复调艺术之大成、并以多部代表作体现其成就的关系。",
+    "待核实": "代表作品的具体创作年份与收藏地未见于现有来源，待补充第二来源。 【已复核·Wikidata】生卒：第二来源 wd-bach（https://www.wikidata.org/wiki/Q1339），据其结构化数据：生年 1685，卒年 1750。（LC 名称权威对照，2026-11-24）LC 标目：Bach, Johann Sebastian, 1685-1750。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='巴赫 示意图'><title>巴赫</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>巴赫</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1685—1750</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>复调艺术</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>集大成</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>赋格</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>相关条目</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>巴洛克音乐</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>所属时期</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>巴赫集复调艺术之大成，以多部代表作体现其成就。</text></g></svg>",
+  "sources": [
+    "enc-bach",
+    "enc-baroque-music",
+    "wd-bach",
+    "lc-n79021425"
+  ]
 }

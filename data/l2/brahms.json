@@ -8,13 +8,14 @@
     "技法或形式分析": "摘要所列特色共四项：富于表现的对位、更自由的不协和、节奏活力、传统曲式。可对照对位法条目，但对位法的摘要没有提到他。",
     "与前后风格的关系和争论": "摘要把他定位在浪漫主义中期，并强调“传统曲式”，没有谈到他与同时代作曲家的比较或争论，本条目不作展开。",
     "一图": "示意图以勃拉姆斯为中心，标示富于表现的对位、更自由的不协和、传统曲式三项。",
-    "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年（1833—1897年）摘要未给出，取自 Wikidata 简介，需另取权威来源核实。（3）具体作品名，摘要未给出；（4）与同时代作曲家的关系，摘要未给出。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 记录的生卒年（1833—1897）与本条一致。MusicBrainz 为社区编辑的数据库，部分年份可能同样取自 Wikipedia/Wikidata，因此这只是交叉一致，不构成独立权威核实。"
+    "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年（1833—1897年）摘要未给出，取自 Wikidata 简介，需另取权威来源核实。（3）具体作品名，摘要未给出；（4）与同时代作曲家的关系，摘要未给出。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 记录的生卒年（1833—1897）与本条一致。MusicBrainz 为社区编辑的数据库，部分年份可能同样取自 Wikipedia/Wikidata，因此这只是交叉一致，不构成独立权威核实。（LC 名称权威对照，2026-11-24）LC 标目：Brahms, Johannes, 1833-1897。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。"
   },
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='brahms 示意图'><title>brahms</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>富于表现的对位</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>特色</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>勃拉姆斯</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>浪漫主义中期</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>更自由的不协和</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>特色</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>传统曲式</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>特色</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='590.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
   "sources": [
     "enc-brahms",
     "enc-c177-romantic-music",
-    "wd-brahms"
+    "wd-brahms",
+    "lc-n79077221"
   ],
   "needs_verification": true,
   "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；生卒年来自 Wikidata；作品名未给出。"

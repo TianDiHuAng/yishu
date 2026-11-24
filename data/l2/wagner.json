@@ -1,19 +1,20 @@
 {
- "id": "wagner",
- "level": "L2",
- "sections": {
-  "时代背景": "瓦格纳生于1813年，卒于1883年，是德国作曲家与剧作家。其活动年代处于19世纪，属于浪漫主义音乐时期的重要人物。",
-  "风格特征": "瓦格纳以乐剧与和声革新影响深远。其创作以无终旋律与半音化和声为显著特征，把音乐推向调性边界。",
-  "代表人物与作品": "瓦格纳本人即本条目的代表人物，其代表作包括《尼伯龙根的指环》与《特里斯坦与伊索尔德》。相关条目中的歌剧仅作体裁关联，现有字段未列出其他作曲家。",
-  "技法或形式分析": "无终旋律与半音化和声是概述点明的两项核心手法。二者共同作用，将调性推向边界，体现其和声革新的方向。乐剧则是其呈现上述手法的体裁。",
-  "与前后风格的关系和争论": "从相关条目看，瓦格纳与浪漫主义音乐、歌剧相关联，处于浪漫主义音乐的语境之中。记载较一致，未见明确争论；学界主要讨论其风格分期与乐剧边界问题。",
-  "一图": "示意图呈现瓦格纳以乐剧与半音化和声把音乐推向调性边界的关系。",
-  "待核实": "作品的具体创作年份与首演信息在现有字段中未给出。乐剧概念的详细界定同样待补充第二来源。 【已复核·Wikidata】生卒：第二来源 wd-wagner（https://www.wikidata.org/wiki/Q1511），据其结构化数据：生年 1813，卒年 1883。"
- },
- "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='瓦格纳 示意图'><title>瓦格纳</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>浪漫主义音乐</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>歌剧</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>瓦格纳</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>乐剧</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>半音化和声</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>调性边界</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>瓦格纳以乐剧与半音化和声推向调性边界</text></g></svg>",
- "sources": [
-  "enc-wagner",
-  "enc-romantic-music",
-  "wd-wagner"
- ]
+  "id": "wagner",
+  "level": "L2",
+  "sections": {
+    "时代背景": "瓦格纳生于1813年，卒于1883年，是德国作曲家与剧作家。其活动年代处于19世纪，属于浪漫主义音乐时期的重要人物。",
+    "风格特征": "瓦格纳以乐剧与和声革新影响深远。其创作以无终旋律与半音化和声为显著特征，把音乐推向调性边界。",
+    "代表人物与作品": "瓦格纳本人即本条目的代表人物，其代表作包括《尼伯龙根的指环》与《特里斯坦与伊索尔德》。相关条目中的歌剧仅作体裁关联，现有字段未列出其他作曲家。",
+    "技法或形式分析": "无终旋律与半音化和声是概述点明的两项核心手法。二者共同作用，将调性推向边界，体现其和声革新的方向。乐剧则是其呈现上述手法的体裁。",
+    "与前后风格的关系和争论": "从相关条目看，瓦格纳与浪漫主义音乐、歌剧相关联，处于浪漫主义音乐的语境之中。记载较一致，未见明确争论；学界主要讨论其风格分期与乐剧边界问题。",
+    "一图": "示意图呈现瓦格纳以乐剧与半音化和声把音乐推向调性边界的关系。",
+    "待核实": "作品的具体创作年份与首演信息在现有字段中未给出。乐剧概念的详细界定同样待补充第二来源。 【已复核·Wikidata】生卒：第二来源 wd-wagner（https://www.wikidata.org/wiki/Q1511），据其结构化数据：生年 1813，卒年 1883。（LC 名称权威对照，2026-11-24）LC 标目：Wagner, Richard, 1813-1883。LC 另有无年代的 n78055968，是同名重复标目，未采用。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='瓦格纳 示意图'><title>瓦格纳</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>浪漫主义音乐</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>歌剧</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>瓦格纳</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>乐剧</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>半音化和声</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>调性边界</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>瓦格纳以乐剧与半音化和声推向调性边界</text></g></svg>",
+  "sources": [
+    "enc-wagner",
+    "enc-romantic-music",
+    "wd-wagner",
+    "lc-n79089831"
+  ]
 }

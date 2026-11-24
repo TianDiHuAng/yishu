@@ -8,13 +8,14 @@
     "技法或形式分析": "摘要没有给出具体的技法或形式，本条目不补写。",
     "与前后风格的关系和争论": "摘要称，同时代人把他与好友巴赫、也与他本人认识的亨德尔相提并论且评价颇高；巴赫曾让泰勒曼做自己儿子卡尔·菲利普·埃马努埃尔的教父，并以其名为子取名。“最多产”与“评价颇高”都是摘要的叙述，本条目不作独立判断。",
     "一图": "示意图以泰勒曼为中心，标示最多产作曲家之一、与巴赫是好友、与亨德尔相识三项。",
-    "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年摘要与 Wikidata 简介均未给出；条目 when 写“约公元17—18世纪”，是据摘要将其归为巴洛克作曲家、并参照巴洛克音乐页（约1600—1750）推算的世纪范围，不是其生卒年的断言，需另取来源核实。（3）具体作品，摘要未给出；（4）“最多产”限定为“至少就现存作品而言”，本条目沿用此限定。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 记录为 1681—1767，与本条目“约公元17—18世纪”的世纪推算相容，但该库独立性有限，本条目不采用其年份，仍保持原写法。"
+    "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年摘要与 Wikidata 简介均未给出；条目 when 写“约公元17—18世纪”，是据摘要将其归为巴洛克作曲家、并参照巴洛克音乐页（约1600—1750）推算的世纪范围，不是其生卒年的断言，需另取来源核实。（3）具体作品，摘要未给出；（4）“最多产”限定为“至少就现存作品而言”，本条目沿用此限定。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 记录为 1681—1767，与本条目“约公元17—18世纪”的世纪推算相容，但该库独立性有限，本条目不采用其年份，仍保持原写法。（LC 名称权威对照，2026-11-24）LC 标目：Telemann, Georg Philipp, 1681-1767。本条目 when 只写\"约公元17—18世纪\"，LC 精确年份为1681—1767，二者相容；when 未改。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。"
   },
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='telemann 示意图'><title>telemann</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>巴赫</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>好友</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>泰勒曼</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>德国巴洛克</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>亨德尔</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>相识</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>最多产之一</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>就现存作品</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
   "sources": [
     "enc-telemann",
     "enc-c179-baroque-music",
-    "wd-telemann"
+    "wd-telemann",
+    "lc-n79117028"
   ],
   "needs_verification": true,
   "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；生卒年均未给出，when 为推算；作品未给出。"

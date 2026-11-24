@@ -3380,7 +3380,8 @@
       "sources": [
         "enc-renaissance-music",
         "enc-medieval-music",
-        "wd-palestrina"
+        "wd-palestrina",
+        "lc-n50051776"
       ],
       "level": "L2",
       "sections": {
@@ -3390,7 +3391,7 @@
         "技法或形式分析": "其技法核心在于复调写作中声部的均衡与透明，各声部进行清晰可辨。通过控制声部关系，使教会音乐在保持复调密度的同时获得明净的听感，成为该时期的典范。",
         "与前后风格的关系和争论": "就相关条目而言，帕莱斯特里纳处于文艺复兴音乐之中，并与随后的巴洛克音乐形成承接。记载较一致，学界主要讨论其与文艺复兴音乐、巴洛克音乐之间的分期与边界问题。",
         "一图": "示意图展示帕莱斯特里纳在文艺复兴音乐与巴洛克音乐之间的位置及其复调教会音乐特征。",
-        "待核实": "种子字段所列精确生卒区间「约1525—1594年」未在来源中逐字给出，正文改用「文艺复兴时期／16世纪」的概括表述。该精确区间待补充第二来源核实，中文技法术语的英文对应输入未明确给出，亦待核实。 【已复核·Wikidata】生卒：第二来源 wd-palestrina（https://www.wikidata.org/wiki/Q179277），据其结构化数据：生年 1525，卒年 1594。"
+        "待核实": "种子字段所列精确生卒区间「约1525—1594年」未在来源中逐字给出，正文改用「文艺复兴时期／16世纪」的概括表述。该精确区间待补充第二来源核实，中文技法术语的英文对应输入未明确给出，亦待核实。 【已复核·Wikidata】生卒：第二来源 wd-palestrina（https://www.wikidata.org/wiki/Q179277），据其结构化数据：生年 1525，卒年 1594。（LC 名称权威对照，2026-11-24）LC 标目：Palestrina, Giovanni Pierluigi da, 1525?-1594。LC 生年带问号，仅能印证大致年代。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='帕莱斯特里纳 示意图'><title>帕莱斯特里纳</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>帕莱斯特里纳</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>复调教会音乐</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>文艺复兴音乐</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>16世纪</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>巴洛克音乐</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>教会音乐</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>帕莱斯特里纳与文艺复兴音乐、巴洛克音乐的关系</text></g></svg>"
     },
@@ -3682,7 +3683,8 @@
       "sources": [
         "enc-bach",
         "enc-baroque-music",
-        "wd-bach"
+        "wd-bach",
+        "lc-n79021425"
       ],
       "level": "L2",
       "sections": {
@@ -3692,7 +3694,7 @@
         "技法或形式分析": "巴赫的创作集复调艺术之大成。作为管风琴家，其写作与复调技法紧密相连。赋格作为相关条目，与其技法体系相关联。",
         "与前后风格的关系和争论": "巴赫与巴洛克音乐及赋格密切相关。相关记载较为一致，学界主要讨论其创作的分期问题。",
         "一图": "示意图展示巴赫集复调艺术之大成、并以多部代表作体现其成就的关系。",
-        "待核实": "代表作品的具体创作年份与收藏地未见于现有来源，待补充第二来源。 【已复核·Wikidata】生卒：第二来源 wd-bach（https://www.wikidata.org/wiki/Q1339），据其结构化数据：生年 1685，卒年 1750。"
+        "待核实": "代表作品的具体创作年份与收藏地未见于现有来源，待补充第二来源。 【已复核·Wikidata】生卒：第二来源 wd-bach（https://www.wikidata.org/wiki/Q1339），据其结构化数据：生年 1685，卒年 1750。（LC 名称权威对照，2026-11-24）LC 标目：Bach, Johann Sebastian, 1685-1750。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='巴赫 示意图'><title>巴赫</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>巴赫</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1685—1750</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>复调艺术</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>集大成</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>赋格</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>相关条目</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>巴洛克音乐</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>所属时期</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>巴赫集复调艺术之大成，以多部代表作体现其成就。</text></g></svg>"
     },
@@ -3717,7 +3719,8 @@
       "sources": [
         "enc-opera",
         "enc-baroque-music",
-        "wd-monteverdi"
+        "wd-monteverdi",
+        "lc-n79074370"
       ],
       "level": "L2",
       "sections": {
@@ -3727,7 +3730,7 @@
         "技法或形式分析": "蒙特威尔第在宣叙调与管弦乐两方面推进了表现力。作为早期歌剧的奠基者，他对这两方面的推进具有代表性。宣叙调的英文对应术语条目未明确给出，待核实。",
         "与前后风格的关系和争论": "蒙特威尔第被视为早期歌剧的重要奠基者，并与巴洛克音乐传统相连。就其与前后风格的关系而言，现有记载较为一致。学界主要讨论的是他与早期歌剧、巴洛克音乐之间的分期与边界问题。",
         "一图": "示意图展示蒙特威尔第以宣叙调与管弦乐推进歌剧表现力，并以《奥菲欧》为代表。",
-        "待核实": "蒙特威尔第的精确生卒年区间（1567—1643年）来自种子字段，尚待第二来源逐字核实。宣叙调的英文对应术语条目未给出，需补充来源确认。《奥菲欧》《波佩亚的加冕》的具体创作年份与收藏地条目未提供，待补充第二来源。 【已复核·Wikidata】生卒：第二来源 wd-monteverdi（https://www.wikidata.org/wiki/Q53068），据其结构化数据：生年 1567，卒年 1643。"
+        "待核实": "蒙特威尔第的精确生卒年区间（1567—1643年）来自种子字段，尚待第二来源逐字核实。宣叙调的英文对应术语条目未给出，需补充来源确认。《奥菲欧》《波佩亚的加冕》的具体创作年份与收藏地条目未提供，待补充第二来源。 【已复核·Wikidata】生卒：第二来源 wd-monteverdi（https://www.wikidata.org/wiki/Q53068），据其结构化数据：生年 1567，卒年 1643。（LC 名称权威对照，2026-11-24）LC 标目：Monteverdi, Claudio, 1567-1643。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='蒙特威尔第 示意图'><title>蒙特威尔第</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>蒙特威尔第</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>作曲家</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>宣叙调</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>管弦乐</text><rect class='svg-box-accent' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='665.0' y='142' text-anchor='middle'>奥菲欧</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>代表作</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>蒙特威尔第推进歌剧表现力</text></g></svg>"
     },
@@ -3863,7 +3866,8 @@
       "sources": [
         "enc-haydn",
         "enc-symphony",
-        "wd-haydn"
+        "wd-haydn",
+        "lc-n79091193"
       ],
       "level": "L2",
       "sections": {
@@ -3873,7 +3877,7 @@
         "技法或形式分析": "海顿在交响曲创作中确立四乐章套曲规范，这是概述所强调的形式贡献。他同时被视为弦乐四重奏体裁的奠基者之一。四乐章套曲与清唱剧《创世纪》分属不同体裁，共同构成其创作面貌。",
         "与前后风格的关系和争论": "海顿与古典主义音乐、交响曲两个相关条目相联系，其奠基性工作与二者的体裁发展相连。记载较一致，学界主要讨论其交响曲与弦乐四重奏体裁奠基地位的分期与边界问题。",
         "一图": "示意图呈现海顿作为交响曲与弦乐四重奏奠基者，确立四乐章套曲规范并以晚期清唱剧《创世纪》著称的关系。",
-        "待核实": "生卒年精确区间（1732—1809年）来自 when 字段，需补充第二来源逐字核对。《创世纪》的具体创作年份与首演地未在来源中给出，待补充第二来源。“四乐章套曲规范”“弦乐四重奏”的英文对应术语输入未明确给出，待核实。 【已复核·Wikidata】生卒：第二来源 wd-haydn（https://www.wikidata.org/wiki/Q7349），据其结构化数据：生年 1732，卒年 1809。"
+        "待核实": "生卒年精确区间（1732—1809年）来自 when 字段，需补充第二来源逐字核对。《创世纪》的具体创作年份与首演地未在来源中给出，待补充第二来源。“四乐章套曲规范”“弦乐四重奏”的英文对应术语输入未明确给出，待核实。 【已复核·Wikidata】生卒：第二来源 wd-haydn（https://www.wikidata.org/wiki/Q7349），据其结构化数据：生年 1732，卒年 1809。（LC 名称权威对照，2026-11-24）LC 标目：Haydn, Joseph, 1732-1809。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='海顿 示意图'><title>海顿</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>海顿</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>奥地利作曲家</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>交响曲</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>四乐章套曲规范</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>弦乐四重奏</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>奠基体裁之一</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>创世纪</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>晚期清唱剧</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>海顿与交响曲、弦乐四重奏及《创世纪》的体裁关联</text></g></svg>"
     },
@@ -3897,7 +3901,8 @@
       "sources": [
         "enc-mozart",
         "enc-classical-period-music",
-        "wd-mozart"
+        "wd-mozart",
+        "lc-n80022788"
       ],
       "level": "L2",
       "sections": {
@@ -3907,7 +3912,7 @@
         "技法或形式分析": "材料没有展开具体作曲技法，只给出体裁范围。协奏曲与交响曲在概述中与大量作品相联系。歌剧作为相关条目提供另一体裁关联，但输入未提供形式分析细节。",
         "与前后风格的关系和争论": "相关条目将莫扎特与古典主义音乐、歌剧相连接。材料没有给出具体学者争论或观点归属。记载较一致，学界主要讨论莫扎特的分期/边界问题。",
         "一图": "示意图以莫扎特、古典主义音乐、歌剧、协奏曲与交响曲呈现其身份和体裁范围。",
-        "待核实": "输入只给出百科来源标题，具体作品的创作年份和收藏地未列明。若需展开这些细节，待补充第二来源。 【已复核·Wikidata】生卒：第二来源 wd-mozart（https://www.wikidata.org/wiki/Q254），据其结构化数据：生年 1756，卒年 1791。"
+        "待核实": "输入只给出百科来源标题，具体作品的创作年份和收藏地未列明。若需展开这些细节，待补充第二来源。 【已复核·Wikidata】生卒：第二来源 wd-mozart（https://www.wikidata.org/wiki/Q254），据其结构化数据：生年 1756，卒年 1791。（LC 名称权威对照，2026-11-24）LC 标目：Mozart, Wolfgang Amadeus, 1756-1791。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='莫扎特 示意图'><title>莫扎特</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>莫扎特</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>奥地利作曲家</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>古典主义音乐</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>集大成者</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>歌剧</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>费加罗的婚礼</text><rect class='svg-box-accent' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='665.0' y='142' text-anchor='middle'>协奏曲</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>交响曲</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>莫扎特 古典主义音乐 歌剧 协奏曲 交响曲</text></g></svg>"
     },
@@ -3933,7 +3938,8 @@
       "sources": [
         "enc-beethoven",
         "enc-classical-period-music",
-        "wd-beethoven"
+        "wd-beethoven",
+        "lc-n79107741"
       ],
       "level": "L2",
       "sections": {
@@ -3943,7 +3949,7 @@
         "技法或形式分析": "材料关注结构规模与情感张力的拓展。九部交响曲与奏鸣曲是这一拓展的具体落点。晚期转向浪漫语汇，说明概述将形式变化与风格转向并置。",
         "与前后风格的关系和争论": "相关条目把贝多芬与古典主义音乐、浪漫主义音乐并置，体现连接两者的定位。材料未给出具体学者争论或观点归属。记载较一致，学界主要讨论贝多芬的分期/边界问题。",
         "一图": "示意图用古典主义音乐、贝多芬、浪漫主义音乐与九部交响曲呈现其连接位置。",
-        "待核实": "输入没有给出具体作品的年份、收藏地或引文。来源标题只列出百科条目，相关细节待补充第二来源。 【已复核·Wikidata】生卒：第二来源 wd-beethoven（https://www.wikidata.org/wiki/Q255），据其结构化数据：生年 1770，卒年 1827。"
+        "待核实": "输入没有给出具体作品的年份、收藏地或引文。来源标题只列出百科条目，相关细节待补充第二来源。 【已复核·Wikidata】生卒：第二来源 wd-beethoven（https://www.wikidata.org/wiki/Q255），据其结构化数据：生年 1770，卒年 1827。（LC 名称权威对照，2026-11-24）LC 标目：Beethoven, Ludwig van, 1770-1827。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='贝多芬 示意图'><title>贝多芬</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>贝多芬</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>德意志作曲家</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>古典主义音乐</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>浪漫主义音乐</text><rect class='svg-box-accent' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='475.0' y='142' text-anchor='middle'>九部交响曲</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>奏鸣曲</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>浪漫语汇</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>晚期</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>古典主义音乐 贝多芬 浪漫主义音乐</text></g></svg>"
     },
@@ -4088,7 +4094,8 @@
       "sources": [
         "enc-chopin",
         "enc-romantic-music",
-        "wd-chopin"
+        "wd-chopin",
+        "lc-n79127769"
       ],
       "level": "L2",
       "sections": {
@@ -4098,7 +4105,7 @@
         "技法或形式分析": "概述指出，肖邦将钢琴的表现力与波兰民间节奏结合，《玛祖卡》即列为代表作之一。这一结合是理解其作品形式与风格的主要着眼点。现有字段未提供更细的技法描述。",
         "与前后风格的关系和争论": "从相关条目看，肖邦与浪漫主义音乐、艺术歌曲相关联，可置于19世纪浪漫主义音乐的语境中理解。记载较一致，未见明确争论；学界主要讨论其风格归属与分期边界问题。",
         "一图": "示意图呈现浪漫主义音乐背景下的肖邦，以及其代表作《玛祖卡》与波兰民间节奏的关联。",
-        "待核实": "作品的具体创作年份、编号与出版信息在现有字段中未给出，待补充第二来源。艺术歌曲与肖邦的具体对应关系同样待补充第二来源。 【已复核·Wikidata】生卒：第二来源 wd-chopin（https://www.wikidata.org/wiki/Q1268），据其结构化数据：生年 1810，卒年 1849。"
+        "待核实": "作品的具体创作年份、编号与出版信息在现有字段中未给出，待补充第二来源。艺术歌曲与肖邦的具体对应关系同样待补充第二来源。 【已复核·Wikidata】生卒：第二来源 wd-chopin（https://www.wikidata.org/wiki/Q1268），据其结构化数据：生年 1810，卒年 1849。（LC 名称权威对照，2026-11-24）LC 标目：Chopin, Frédéric, 1810-1849。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='肖邦 示意图'><title>肖邦</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>浪漫主义音乐</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>艺术歌曲</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>肖邦</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>钢琴作品</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>玛祖卡</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>波兰民间节奏</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='590.0' y1='145' x2='455.0' y2='145'/><polygon class='svg-arrowhead' points='455.0,145 464.0,140 464.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>肖邦以钢琴作品结合波兰民间节奏，归属浪漫主义音乐</text></g></svg>"
     },
@@ -4124,7 +4131,8 @@
       "sources": [
         "enc-wagner",
         "enc-romantic-music",
-        "wd-wagner"
+        "wd-wagner",
+        "lc-n79089831"
       ],
       "level": "L2",
       "sections": {
@@ -4134,7 +4142,7 @@
         "技法或形式分析": "无终旋律与半音化和声是概述点明的两项核心手法。二者共同作用，将调性推向边界，体现其和声革新的方向。乐剧则是其呈现上述手法的体裁。",
         "与前后风格的关系和争论": "从相关条目看，瓦格纳与浪漫主义音乐、歌剧相关联，处于浪漫主义音乐的语境之中。记载较一致，未见明确争论；学界主要讨论其风格分期与乐剧边界问题。",
         "一图": "示意图呈现瓦格纳以乐剧与半音化和声把音乐推向调性边界的关系。",
-        "待核实": "作品的具体创作年份与首演信息在现有字段中未给出。乐剧概念的详细界定同样待补充第二来源。 【已复核·Wikidata】生卒：第二来源 wd-wagner（https://www.wikidata.org/wiki/Q1511），据其结构化数据：生年 1813，卒年 1883。"
+        "待核实": "作品的具体创作年份与首演信息在现有字段中未给出。乐剧概念的详细界定同样待补充第二来源。 【已复核·Wikidata】生卒：第二来源 wd-wagner（https://www.wikidata.org/wiki/Q1511），据其结构化数据：生年 1813，卒年 1883。（LC 名称权威对照，2026-11-24）LC 标目：Wagner, Richard, 1813-1883。LC 另有无年代的 n78055968，是同名重复标目，未采用。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='瓦格纳 示意图'><title>瓦格纳</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>浪漫主义音乐</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>歌剧</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>瓦格纳</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>乐剧</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>半音化和声</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>调性边界</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>瓦格纳以乐剧与半音化和声推向调性边界</text></g></svg>"
     },
@@ -4157,7 +4165,8 @@
       "sources": [
         "enc-romantic-music",
         "enc-classical-period-music",
-        "wd-schubert"
+        "wd-schubert",
+        "lc-n50000561"
       ],
       "level": "L2",
       "sections": {
@@ -4167,7 +4176,7 @@
         "技法或形式分析": "舒伯特的技法特色体现为旋律天赋与和声色彩。在艺术歌曲中，他以旋律与和声的结合支撑作品表达，形成鲜明的个人风格。",
         "与前后风格的关系和争论": "就相关条目而言，舒伯特与艺术歌曲、浪漫主义音乐均有直接关联，是艺术歌曲的重要奠基者。记载较一致，学界主要讨论其风格分期与体裁归属问题。",
         "一图": "示意图展示舒伯特以旋律天赋与和声色彩奠基艺术歌曲、并关联浪漫主义音乐的关系。",
-        "待核实": "种子字段所列精确生卒区间「1797—1828年」未在来源中逐字给出，正文改用「19世纪」的概括表述。该精确区间待补充第二来源核实，中文技法术语的英文对应输入未明确给出，亦待核实。 【已复核·Wikidata】生卒：第二来源 wd-schubert（https://www.wikidata.org/wiki/Q7312），据其结构化数据：生年 1797，卒年 1828。"
+        "待核实": "种子字段所列精确生卒区间「1797—1828年」未在来源中逐字给出，正文改用「19世纪」的概括表述。该精确区间待补充第二来源核实，中文技法术语的英文对应输入未明确给出，亦待核实。 【已复核·Wikidata】生卒：第二来源 wd-schubert（https://www.wikidata.org/wiki/Q7312），据其结构化数据：生年 1797，卒年 1828。（LC 名称权威对照，2026-11-24）LC 标目：Schubert, Franz, 1797-1828。LC 另有无年代的 n86107150，是同名重复标目，未采用。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='舒伯特 示意图'><title>舒伯特</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>舒伯特</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>奥地利作曲家</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>艺术歌曲</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>旋律天赋</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>浪漫主义音乐</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>和声色彩</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>舒伯特以旋律天赋与和声色彩奠基艺术歌曲</text></g></svg>"
     },
@@ -4334,7 +4343,8 @@
       "sources": [
         "enc-stravinsky",
         "enc-20th-century-classical",
-        "wd-stravinsky"
+        "wd-stravinsky",
+        "lc-n79070061"
       ],
       "level": "L2",
       "sections": {
@@ -4344,7 +4354,7 @@
         "技法或形式分析": "节奏革新是本条定义中的核心特征。概述把强烈节奏与不协和音响并列为引发轰动的音乐要素。后期转向新古典主义，显示输入中对其风格变化的基本判断。",
         "与前后风格的关系和争论": "20世纪古典音乐与序列主义均列为相关条目。这些条目为理解其风格多变和后期转向新古典主义提供了相邻语境。记载较一致，学界主要讨论斯特拉文斯基的风格分期/边界问题。",
         "一图": "示意图以节奏革新、不协和音响、新古典主义及两部代表作呈现斯特拉文斯基的风格线索。",
-        "待核实": "输入未给出《春之祭》《彼得鲁什卡》的创作年份、首演信息或收藏地。关于其不协和音响与新古典主义转向的进一步论证，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核·Wikidata】生卒：第二来源 wd-stravinsky（https://www.wikidata.org/wiki/Q7314），据其结构化数据：生年 1882，卒年 1971。"
+        "待核实": "输入未给出《春之祭》《彼得鲁什卡》的创作年份、首演信息或收藏地。关于其不协和音响与新古典主义转向的进一步论证，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核·Wikidata】生卒：第二来源 wd-stravinsky（https://www.wikidata.org/wiki/Q7314），据其结构化数据：生年 1882，卒年 1971。（LC 名称权威对照，2026-11-24）LC 标目：Stravinsky, Igor, 1882-1971。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='斯特拉文斯基 示意图'><title>斯特拉文斯基</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>斯特拉文斯基</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>俄国/美国</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>节奏革新</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>风格多变</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>《春之祭》</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>代表作</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>《彼得鲁什卡》</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>代表作</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>节奏革新 不协和音响 新古典主义</text></g></svg>"
     },
@@ -4367,7 +4377,8 @@
       "sources": [
         "enc-schoenberg",
         "enc-serialism",
-        "wd-schoenberg"
+        "wd-schoenberg",
+        "lc-n80032780"
       ],
       "level": "L2",
       "sections": {
@@ -4377,7 +4388,7 @@
         "技法或形式分析": "十二音技法是本条定义中的核心概念。无调性被概述为重塑作曲逻辑的重要手段。十二音体系与其表现主义音乐身份在输入中并列出现。",
         "与前后风格的关系和争论": "序列主义与20世纪古典音乐均列为相关条目。这些条目将勋伯格置于20世纪音乐语境中，与十二音技法和无调性线索相连。记载较一致，学界主要讨论勋伯格的风格分期/边界问题。",
         "一图": "示意图以十二音技法、表现主义音乐及两部代表作呈现勋伯格的作曲特征。",
-        "待核实": "输入未给出《月光下的皮埃罗》《升华之夜》的创作年份、首演信息或收藏地。十二音技法与表现主义音乐的具体文本依据，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核·Wikidata】生卒：第二来源 wd-schoenberg（https://www.wikidata.org/wiki/Q154770），据其结构化数据：生年 1874，卒年 1951。"
+        "待核实": "输入未给出《月光下的皮埃罗》《升华之夜》的创作年份、首演信息或收藏地。十二音技法与表现主义音乐的具体文本依据，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核·Wikidata】生卒：第二来源 wd-schoenberg（https://www.wikidata.org/wiki/Q154770），据其结构化数据：生年 1874，卒年 1951。（LC 名称权威对照，2026-11-24）LC 标目：Schoenberg, Arnold, 1874-1951。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='勋伯格 示意图'><title>勋伯格</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>勋伯格</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>奥地利/美国</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>十二音技法</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>表现主义音乐</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>《月光下的皮埃罗》</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>代表作</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>《升华之夜》</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>代表作</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>十二音技法 表现主义音乐 代表作</text></g></svg>"
     },
@@ -4400,7 +4411,8 @@
       "sources": [
         "enc-20th-century-classical",
         "enc-romantic-music",
-        "wd-debussy"
+        "wd-debussy",
+        "lc-n79132137"
       ],
       "level": "L2",
       "sections": {
@@ -4410,7 +4422,7 @@
         "技法或形式分析": "概述将音色与和声色彩列为德彪西营造意象的主要手段。朦胧意象是其风格追求的核心效果。《牧神午后前奏曲》与《大海》被列为体现这一写法的代表作。",
         "与前后风格的关系和争论": "德彪西与印象主义音乐、20世纪古典音乐两个相关条目相联系，来源列表另含 Romantic music 一项。记载较一致，学界主要讨论其印象主义归属与20世纪古典音乐的分期边界问题。",
         "一图": "示意图展示德彪西作为印象主义音乐代表，以《牧神午后前奏曲》《大海》及音色与和声色彩营造朦胧意象。",
-        "待核实": "生卒年精确区间（1862—1918年）来自 when 字段，需补充第二来源逐字核对。《牧神午后前奏曲》《大海》的具体创作年份与首演信息未在来源中给出，待补充第二来源。“音色”“和声色彩”“朦胧意象”的英文对应术语输入未明确给出，待核实。 【已复核·Wikidata】生卒：第二来源 wd-debussy（https://www.wikidata.org/wiki/Q4700），据其结构化数据：生年 1862，卒年 1918。"
+        "待核实": "生卒年精确区间（1862—1918年）来自 when 字段，需补充第二来源逐字核对。《牧神午后前奏曲》《大海》的具体创作年份与首演信息未在来源中给出，待补充第二来源。“音色”“和声色彩”“朦胧意象”的英文对应术语输入未明确给出，待核实。 【已复核·Wikidata】生卒：第二来源 wd-debussy（https://www.wikidata.org/wiki/Q4700），据其结构化数据：生年 1862，卒年 1918。（LC 名称权威对照，2026-11-24）LC 标目：Debussy, Claude, 1862-1918。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='德彪西 示意图'><title>德彪西</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>德彪西</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>法国作曲家</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>印象主义音乐</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>代表人物</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>牧神午后前奏曲</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>代表作</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>大海</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>朦胧意象</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>德彪西与印象主义音乐、代表作及朦胧意象</text></g></svg>"
     },
@@ -22015,7 +22027,8 @@
       "sources": [
         "enc-josquin",
         "enc-c175-franco-flemish-school",
-        "wd-josquin"
+        "wd-josquin",
+        "lc-n80005115"
       ],
       "level": "L2",
       "sections": {
@@ -22025,7 +22038,7 @@
         "技法或形式分析": "摘要称，他立足于奥克冈等前辈的成就。形式要点：独立声部间的模仿、文字与音乐的关系、较短而反复的动机。",
         "与前后风格的关系和争论": "摘要称，他被视为文艺复兴最伟大的作曲家之一，是佛兰德斯—法国乐派的核心人物。“最伟大”是摘要转述的评价，本条目不作独立判断。",
         "一图": "示意图以若斯坎为中心，标示奥克冈等前辈、模仿式复调、弥撒曲经文歌与尚松三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata 标签，来源独立性有限，整条标记待核实。（2）生卒年与籍贯争议（摘要写“法国或佛兰德斯—法国”），本条目不裁断；（3）具体作品，摘要未给出；（4）“最伟大”属评价性表述。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata 标签，来源独立性有限，整条标记待核实。（2）生卒年与籍贯争议（摘要写“法国或佛兰德斯—法国”），本条目不裁断；（3）具体作品，摘要未给出；（4）“最伟大”属评价性表述。（LC 名称权威对照，2026-11-24）LC 标目：Josquin, des Prez, -1521。LC 只给出卒年1521，无生年，仅能印证卒年。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='josquin 示意图'><title>josquin</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>奥克冈等前辈</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>所本</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>若斯坎</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>文艺复兴</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>模仿式复调</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>独立声部</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>弥撒曲经文歌尚松</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>声乐为主</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
@@ -22051,7 +22064,8 @@
       "sources": [
         "enc-hildegard",
         "enc-c175-gregorian-chant",
-        "wd-hildegard"
+        "wd-hildegard",
+        "lc-n80118409"
       ],
       "level": "L2",
       "sections": {
@@ -22061,7 +22075,7 @@
         "技法或形式分析": "摘要只说明她写的是圣咏的单声部音乐，没有给出具体的音乐手法。",
         "与前后风格的关系和争论": "摘要称，一些学者认为她是德国科学博物学的奠基者。这一说法属学者意见，本条目不作判断。可对照格里高利圣咏阅读，但摘要没有把两者联系起来。",
         "一图": "示意图以希尔德加德为中心，标示本笃会女修道院长、圣咏单声部作曲、博学者三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata 标签，来源独立性有限，整条标记待核实。（2）生卒年，摘要未给出；（3）具体作品，摘要未给出；（4）“现代录音最多”是摘要的说法，本条目未核验。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata 标签，来源独立性有限，整条标记待核实。（2）生卒年，摘要未给出；（3）具体作品，摘要未给出；（4）“现代录音最多”是摘要的说法，本条目未核验。（LC 名称权威对照，2026-11-24）LC 标目：Hildegard, Saint, 1098-1179。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='hildegard 示意图'><title>hildegard</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>本笃会女修道院长</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>德国</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>希尔德加德</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>中世纪盛期</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>圣咏单声部</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>作曲家</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>博学者</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>医学哲学等</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
@@ -22305,7 +22319,8 @@
       "sources": [
         "enc-vivaldi",
         "enc-c177-baroque-music",
-        "wd-vivaldi"
+        "wd-vivaldi",
+        "lc-n79021280"
       ],
       "level": "L2",
       "sections": {
@@ -22315,7 +22330,7 @@
         "技法或形式分析": "摘要称，他把新兴的协奏曲形式，尤其是独奏协奏曲，巩固为被广泛接受并沿用的惯用形式。可对照协奏曲条目，但该条摘要没有提到他。",
         "与前后风格的关系和争论": "摘要说他“巩固”了协奏曲形式，意味着该形式在他之前已经出现；至于更早的发展者，摘要未给出，本条目不作判断。“最伟大”属摘要转述的评价。",
         "一图": "示意图以维瓦尔第为中心，标示配器与小提琴技巧、标题音乐、独奏协奏曲三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年（1678—1741年）摘要未给出，取自 Wikidata 简介，需另取权威来源核实。（3）具体作品，摘要未给出；（4）“最伟大”属评价性表述。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 记录的生卒年（1678—1741）与本条一致。MusicBrainz 为社区编辑的数据库，部分年份可能同样取自 Wikipedia/Wikidata，因此这只是交叉一致，不构成独立权威核实。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年（1678—1741年）摘要未给出，取自 Wikidata 简介，需另取权威来源核实。（3）具体作品，摘要未给出；（4）“最伟大”属评价性表述。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 记录的生卒年（1678—1741）与本条一致。MusicBrainz 为社区编辑的数据库，部分年份可能同样取自 Wikipedia/Wikidata，因此这只是交叉一致，不构成独立权威核实。（LC 名称权威对照，2026-11-24）LC 标目：Vivaldi, Antonio, 1678-1741。LC 另有无年代的 nb2007021131，是同名重复标目，未采用。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='vivaldi 示意图'><title>vivaldi</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>配器与小提琴技巧</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>开创发展</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>维瓦尔第</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>巴洛克</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>标题音乐</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>开创发展</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>独奏协奏曲</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>巩固形式</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
@@ -22341,7 +22356,8 @@
       "sources": [
         "enc-brahms",
         "enc-c177-romantic-music",
-        "wd-brahms"
+        "wd-brahms",
+        "lc-n79077221"
       ],
       "level": "L2",
       "sections": {
@@ -22351,7 +22367,7 @@
         "技法或形式分析": "摘要所列特色共四项：富于表现的对位、更自由的不协和、节奏活力、传统曲式。可对照对位法条目，但对位法的摘要没有提到他。",
         "与前后风格的关系和争论": "摘要把他定位在浪漫主义中期，并强调“传统曲式”，没有谈到他与同时代作曲家的比较或争论，本条目不作展开。",
         "一图": "示意图以勃拉姆斯为中心，标示富于表现的对位、更自由的不协和、传统曲式三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年（1833—1897年）摘要未给出，取自 Wikidata 简介，需另取权威来源核实。（3）具体作品名，摘要未给出；（4）与同时代作曲家的关系，摘要未给出。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 记录的生卒年（1833—1897）与本条一致。MusicBrainz 为社区编辑的数据库，部分年份可能同样取自 Wikipedia/Wikidata，因此这只是交叉一致，不构成独立权威核实。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年（1833—1897年）摘要未给出，取自 Wikidata 简介，需另取权威来源核实。（3）具体作品名，摘要未给出；（4）与同时代作曲家的关系，摘要未给出。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 记录的生卒年（1833—1897）与本条一致。MusicBrainz 为社区编辑的数据库，部分年份可能同样取自 Wikipedia/Wikidata，因此这只是交叉一致，不构成独立权威核实。（LC 名称权威对照，2026-11-24）LC 标目：Brahms, Johannes, 1833-1897。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='brahms 示意图'><title>brahms</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>富于表现的对位</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>特色</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>勃拉姆斯</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>浪漫主义中期</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>更自由的不协和</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>特色</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>传统曲式</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>特色</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='590.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
@@ -22377,7 +22393,8 @@
       "sources": [
         "enc-liszt",
         "enc-c177-romantic-music",
-        "wd-liszt"
+        "wd-liszt",
+        "lc-n79079048"
       ],
       "level": "L2",
       "sections": {
@@ -22387,7 +22404,7 @@
         "技法或形式分析": "摘要没有给出具体的技法或形式。可知的只有他兼具作曲、钢琴演奏、指挥与教学四重身份。",
         "与前后风格的关系和争论": "摘要称“最多产、最有影响”，这是摘要对他在同代作曲家中的地位的概括，本条目不作独立判断，也不涉及争论。",
         "一图": "示意图以李斯特为中心，标示作曲家、钢琴演奏大师、指挥家与教师三项身份。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年（1811—1886年）摘要未给出，取自 Wikidata 简介，需另取权威来源核实。（3）具体作品与创新，摘要未给出；（4）与交响诗的关系，摘要未说明，库内互链是本项目所加。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 记录的生卒年（1811—1886）与本条一致。MusicBrainz 为社区编辑的数据库，部分年份可能同样取自 Wikipedia/Wikidata，因此这只是交叉一致，不构成独立权威核实。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年（1811—1886年）摘要未给出，取自 Wikidata 简介，需另取权威来源核实。（3）具体作品与创新，摘要未给出；（4）与交响诗的关系，摘要未说明，库内互链是本项目所加。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 记录的生卒年（1811—1886）与本条一致。MusicBrainz 为社区编辑的数据库，部分年份可能同样取自 Wikipedia/Wikidata，因此这只是交叉一致，不构成独立权威核实。（LC 名称权威对照，2026-11-24）LC 标目：Liszt, Franz, 1811-1886。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='liszt 示意图'><title>liszt</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>作曲家</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>六十余年</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>李斯特</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>浪漫主义</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>钢琴演奏大师</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>钢琴作品</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>指挥家与教师</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>身份</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
@@ -22413,7 +22430,8 @@
       "sources": [
         "enc-mahler",
         "enc-c177-romantic-music",
-        "wd-mahler"
+        "wd-mahler",
+        "lc-n80067106"
       ],
       "level": "L2",
       "sections": {
@@ -22423,7 +22441,7 @@
         "技法或形式分析": "摘要没有给出具体的技法或形式，本条目不作补写。",
         "与前后风格的关系和争论": "摘要称，他生前作为指挥家的地位毋庸置疑，自己的音乐却在一段相对被冷落的时期后才广受欢迎，其间包括纳粹时代在欧洲大部分地区对其演出的禁令；1945年之后他成为被演出与录音最多的作曲家之一，这一地位延续至21世纪。",
         "一图": "示意图以马勒为中心，标示19世纪传统、20世纪初现代主义、1945年后被重新发现三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年（1860—1911年）摘要未给出，取自 Wikidata 简介，需另取权威来源核实。（3）具体作品与风格特征，摘要未给出；（4）“被演出与录音最多的作曲家之一”是摘要的说法，本条目未核验。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 记录的生卒年（1860—1911）与本条一致。MusicBrainz 为社区编辑的数据库，部分年份可能同样取自 Wikipedia/Wikidata，因此这只是交叉一致，不构成独立权威核实。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年（1860—1911年）摘要未给出，取自 Wikidata 简介，需另取权威来源核实。（3）具体作品与风格特征，摘要未给出；（4）“被演出与录音最多的作曲家之一”是摘要的说法，本条目未核验。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 记录的生卒年（1860—1911）与本条一致。MusicBrainz 为社区编辑的数据库，部分年份可能同样取自 Wikipedia/Wikidata，因此这只是交叉一致，不构成独立权威核实。（LC 名称权威对照，2026-11-24）LC 标目：Mahler, Gustav, 1860-1911。LC 另有无年代的 n2009078687，是同名重复标目，未采用。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='mahler 示意图'><title>mahler</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>19世纪传统</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>之前</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>马勒</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>桥梁</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>20世纪初现代主义</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>之后</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>1945年后重新发现</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>广受欢迎</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
@@ -22449,7 +22467,8 @@
       "sources": [
         "enc-tchaikovsky",
         "enc-c177-romantic-music",
-        "wd-tchaikovsky"
+        "wd-tchaikovsky",
+        "lc-n79072979"
       ],
       "level": "L2",
       "sections": {
@@ -22459,7 +22478,7 @@
         "技法或形式分析": "摘要没有给出具体的技法或形式，只按体裁罗列作品：序曲、协奏曲、交响曲、歌剧、芭蕾。",
         "与前后风格的关系和争论": "摘要称他是第一位音乐给国际留下持久印象的俄国作曲家，没有谈到他与其他作曲家的关系或争论，本条目不展开。",
         "一图": "示意图以柴可夫斯基为中心，标示音乐会作品（序曲协奏曲交响曲）、歌剧、芭蕾三类。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年（1840—1893年）摘要未给出，取自 Wikidata 简介，需另取权威来源核实。（3）各作品的年份与创作背景，摘要未给出；（4）“第一位”“最流行”属摘要的概括，本条目未核验。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 以英文名检索未命中该作曲家本人，未能交叉核对。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年（1840—1893年）摘要未给出，取自 Wikidata 简介，需另取权威来源核实。（3）各作品的年份与创作背景，摘要未给出；（4）“第一位”“最流行”属摘要的概括，本条目未核验。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 以英文名检索未命中该作曲家本人，未能交叉核对。（LC 名称权威对照，2026-11-24）LC 标目：Tchaikovsky, Peter Ilich, 1840-1893。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='tchaikovsky 示意图'><title>tchaikovsky</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>序曲协奏曲交响曲</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>音乐会作品</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>柴可夫斯基</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>俄国</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>歌剧</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>奥涅金</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>芭蕾</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>三部</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
@@ -22485,7 +22504,8 @@
       "sources": [
         "enc-gluck",
         "enc-c177-classical-period-music",
-        "wd-gluck"
+        "wd-gluck",
+        "lc-n79135399"
       ],
       "level": "L2",
       "sections": {
@@ -22495,7 +22515,7 @@
         "技法或形式分析": "形式要点：乐队宣叙调、削减返始咏叹调、歌剧篇幅缩短。可对照歌剧条目，但该条摘要没有提到他。",
         "与前后风格的关系和争论": "摘要称，他在维也纳实现了许多知识分子长期呼吁的歌剧戏剧性做法的实际改革，打破了梅塔斯塔西奥式正歌剧在这个世纪大部分时间里的垄断。“垄断”与“改革”是摘要的叙述，本条目不作独立判断。",
         "一图": "示意图以格鲁克为中心，标示梅塔斯塔西奥式正歌剧、乐队宣叙调与削减返始咏叹调、更短的歌剧三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年（1714—1787年）摘要未给出，取自 Wikidata 简介，需另取权威来源核实。（3）作品首演年份，摘要未给出；（4）“改革”的历史评价，本条目不作判断；（5）Wikidata 英文标签为“Christoph Willibald von Gluck”，与页面标题略有不同，指向同一人。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 记录的生卒年（1714—1787）与本条一致。MusicBrainz 为社区编辑的数据库，部分年份可能同样取自 Wikipedia/Wikidata，因此这只是交叉一致，不构成独立权威核实。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年（1714—1787年）摘要未给出，取自 Wikidata 简介，需另取权威来源核实。（3）作品首演年份，摘要未给出；（4）“改革”的历史评价，本条目不作判断；（5）Wikidata 英文标签为“Christoph Willibald von Gluck”，与页面标题略有不同，指向同一人。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 记录的生卒年（1714—1787）与本条一致。MusicBrainz 为社区编辑的数据库，部分年份可能同样取自 Wikipedia/Wikidata，因此这只是交叉一致，不构成独立权威核实。（LC 名称权威对照，2026-11-24）LC 标目：Gluck, Christoph Willibald, Ritter von, 1714-1787。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='gluck 示意图'><title>gluck</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>梅塔斯塔西奥式正歌剧</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>此前的垄断</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>格鲁克</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>歌剧改革</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>乐队宣叙调</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>更多戏剧性</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>削减返始咏叹调</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>篇幅减半</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
@@ -22521,7 +22541,8 @@
       "sources": [
         "enc-tallis",
         "enc-c178-renaissance-music",
-        "wd-tallis"
+        "wd-tallis",
+        "lc-n50009548"
       ],
       "level": "L2",
       "sections": {
@@ -22531,7 +22552,7 @@
         "技法或形式分析": "摘要没有给出具体的技法或形式，本条目不补写。",
         "与前后风格的关系和争论": "摘要称，他被视为英国最伟大的作曲家之一，因其在英国音乐中独特的声音而受到推崇。这是摘要转述的评价，本条目不作独立判断；摘要没有谈到他与伯德的关系。",
         "一图": "示意图以塔利斯为中心，标示盛期文艺复兴、声乐为主、英国合唱音乐三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年，摘要与 Wikidata 简介（仅写“English composer”）均未给出；条目 when 写“约公元16世纪”，是据文艺复兴音乐页（15、16世纪）与“盛期文艺复兴”推算，不是对其生卒年的断言，需另取来源核实；（3）具体作品，摘要未给出。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 记录为 1505—1585，与本条目“约公元16世纪”的世纪推算相容，但该库独立性有限，本条目不采用其年份，仍保持原写法。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年，摘要与 Wikidata 简介（仅写“English composer”）均未给出；条目 when 写“约公元16世纪”，是据文艺复兴音乐页（15、16世纪）与“盛期文艺复兴”推算，不是对其生卒年的断言，需另取来源核实；（3）具体作品，摘要未给出。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 记录为 1505—1585，与本条目“约公元16世纪”的世纪推算相容，但该库独立性有限，本条目不采用其年份，仍保持原写法。（LC 名称权威对照，2026-11-24）LC 标目：Tallis, Thomas, approximately 1505-1585。LC 为约1505—1585年，本条目 when 只写到世纪，未改。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='tallis 示意图'><title>tallis</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>盛期文艺复兴</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>英国</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>塔利斯</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>作曲家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>声乐为主</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>作品</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>英国合唱音乐</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>选集首位</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
@@ -22558,7 +22579,8 @@
       "sources": [
         "enc-byrd",
         "enc-c178-renaissance-music",
-        "wd-byrd"
+        "wd-byrd",
+        "lc-n50032948"
       ],
       "level": "L2",
       "sections": {
@@ -22568,7 +22590,7 @@
         "技法或形式分析": "摘要没有给出具体的技法或形式，本条目不补写。",
         "与前后风格的关系和争论": "摘要称，他被视为文艺复兴最伟大的作曲家之一，常与约翰·邓斯泰布尔、亨利·珀塞尔并列为英国早期音乐最重要的作曲家之一。这是摘要转述的评价，本条目不作独立判断。",
         "一图": "示意图以伯德为中心，标示英国文艺复兴、影响本国与欧洲大陆、与邓斯泰布尔珀塞尔并列三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）年代（约1540—1623年）摘要未给出，取自 Wikidata 简介，需另取权威来源核实。（3）具体作品，摘要未给出；（4）“最伟大”属评价性表述。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 记录的生卒年（1540—1623）与本条一致。MusicBrainz 为社区编辑的数据库，部分年份可能同样取自 Wikipedia/Wikidata，因此这只是交叉一致，不构成独立权威核实。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）年代（约1540—1623年）摘要未给出，取自 Wikidata 简介，需另取权威来源核实。（3）具体作品，摘要未给出；（4）“最伟大”属评价性表述。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 记录的生卒年（1540—1623）与本条一致。MusicBrainz 为社区编辑的数据库，部分年份可能同样取自 Wikipedia/Wikidata，因此这只是交叉一致，不构成独立权威核实。（LC 名称权威对照，2026-11-24）LC 标目：Byrd, William, 1539 or 1540-1623。LC 生年为1539或1540年，与本条目 when 的约1540年相容。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='byrd 示意图'><title>byrd</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>英国文艺复兴</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>作曲家</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>伯德</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>深远影响</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>本国与欧洲大陆</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>影响所及</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>邓斯泰布尔珀塞尔</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>并列</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
@@ -22594,7 +22616,8 @@
       "sources": [
         "enc-lassus",
         "enc-c178-franco-flemish-school",
-        "wd-lassus"
+        "wd-lassus",
+        "lc-n81037013"
       ],
       "level": "L2",
       "sections": {
@@ -22604,7 +22627,7 @@
         "技法或形式分析": "摘要没有给出具体的技法，只说明他的风格与体裁变化很大，这使他在整个欧洲享有空前的声誉。",
         "与前后风格的关系和争论": "摘要称他属于佛兰德斯—法国乐派并代表其成熟阶段；这一乐派的概况可参见若斯坎条目。“空前的声誉”是摘要的说法，本条目不作独立判断。",
         "一图": "示意图以拉索为中心，标示佛兰德斯—法国乐派成熟复调、极为多产、与伯德帕莱斯特里纳维多利亚并列三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）年代（1532—1594年）摘要未给出，取自 Wikidata 简介，需另取权威来源核实。（3）具体作品，摘要未给出；（4）Wikipedia 页面标题为 Orlando di Lasso，Wikidata 标签为 Orlande de Lassus，是同一人的不同拼写，库内取 Lassus 作 id。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 记录的生卒年（1532—1594）与本条一致。MusicBrainz 为社区编辑的数据库，部分年份可能同样取自 Wikipedia/Wikidata，因此这只是交叉一致，不构成独立权威核实。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）年代（1532—1594年）摘要未给出，取自 Wikidata 简介，需另取权威来源核实。（3）具体作品，摘要未给出；（4）Wikipedia 页面标题为 Orlando di Lasso，Wikidata 标签为 Orlande de Lassus，是同一人的不同拼写，库内取 Lassus 作 id。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 记录的生卒年（1532—1594）与本条一致。MusicBrainz 为社区编辑的数据库，部分年份可能同样取自 Wikipedia/Wikidata，因此这只是交叉一致，不构成独立权威核实。（LC 名称权威对照，2026-11-24）LC 标目：Lasso, Orlando di, 1532-1594。LC 以意大利语形式 Lasso 立目。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='lassus 示意图'><title>lassus</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>佛兰德斯—法国乐派</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>成熟复调</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>拉索</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>文艺复兴晚期</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>极为多产</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>风格体裁多变</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>伯德帕莱斯特里纳</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>并列</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
@@ -22630,7 +22653,8 @@
       "sources": [
         "enc-gesualdo",
         "enc-c178-madrigal",
-        "wd-gesualdo"
+        "wd-gesualdo",
+        "lc-n79110488"
       ],
       "level": "L2",
       "sections": {
@@ -22640,7 +22664,7 @@
         "技法或形式分析": "摘要只说明他的语言是“半音化”的，没有给出具体的和声手法，本条目不补写。",
         "与前后风格的关系和争论": "摘要称，他的半音化语言“直到19世纪晚期才再次出现”，这是摘要的概括，本条目不作独立判断。摘要另称，他因发现第一任妻子与其贵族情人通奸而将二人杀害，这是摘要陈述的生平事实，本条目只如实带过，不作渲染，也不据此评价其音乐。",
         "一图": "示意图以杰苏阿尔多为中心，标示牧歌、宗教音乐、半音化语言三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）年代（1566—1613年）摘要未给出，取自 Wikidata 简介，需另取权威来源核实。（3）具体作品，摘要未给出；（4）“半音化语言直到19世纪晚期才再次出现”与杀妻一事均来自摘要单一来源，需另取权威来源核实。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 记录的生卒年（1566—1613）与本条一致。MusicBrainz 为社区编辑的数据库，部分年份可能同样取自 Wikipedia/Wikidata，因此这只是交叉一致，不构成独立权威核实。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）年代（1566—1613年）摘要未给出，取自 Wikidata 简介，需另取权威来源核实。（3）具体作品，摘要未给出；（4）“半音化语言直到19世纪晚期才再次出现”与杀妻一事均来自摘要单一来源，需另取权威来源核实。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 记录的生卒年（1566—1613）与本条一致。MusicBrainz 为社区编辑的数据库，部分年份可能同样取自 Wikipedia/Wikidata，因此这只是交叉一致，不构成独立权威核实。（LC 名称权威对照，2026-11-24）LC 标目：Gesualdo, Carlo, principe di Venosa, approximately 1560-1613。LC 生年为约1560年，本条目 when 为1566年，二者不一致；按 LC 只是\"约\"，不据此改 when，留待更多来源核实。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='gesualdo 示意图'><title>gesualdo</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>牧歌</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>世俗声乐</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>杰苏阿尔多</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>意大利贵族</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>宗教音乐</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>也写作</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>半音化语言</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>19世纪晚期再现</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
@@ -22666,7 +22690,8 @@
       "sources": [
         "enc-machaut",
         "enc-c178-ars-nova",
-        "wd-machaut"
+        "wd-machaut",
+        "lc-n50018452"
       ],
       "level": "L2",
       "sections": {
@@ -22676,7 +22701,7 @@
         "技法或形式分析": "摘要没有给出具体的技法或形式，本条目不补写。",
         "与前后风格的关系和争论": "摘要称，他的统治地位如此突出，以致现代音乐学家用他的逝世来划分新艺术与随后的精微新艺术运动。库内相关条目可参见中世纪音乐与复调。“首屈一指”是摘要转述的评价。",
         "一图": "示意图以马肖为中心，标示新艺术、精微新艺术、作曲家与诗人三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）年代（约1300—1377年）摘要未给出，取自 Wikidata 简介，需另取权威来源核实。（3）具体作品，摘要未给出；（4）“14世纪首屈一指”属评价性表述。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 记录的生卒年（1300—1377）与本条一致。MusicBrainz 为社区编辑的数据库，部分年份可能同样取自 Wikipedia/Wikidata，因此这只是交叉一致，不构成独立权威核实。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）年代（约1300—1377年）摘要未给出，取自 Wikidata 简介，需另取权威来源核实。（3）具体作品，摘要未给出；（4）“14世纪首屈一指”属评价性表述。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 记录的生卒年（1300—1377）与本条一致。MusicBrainz 为社区编辑的数据库，部分年份可能同样取自 Wikipedia/Wikidata，因此这只是交叉一致，不构成独立权威核实。（LC 名称权威对照，2026-11-24）LC 标目：Guillaume, de Machaut, approximately 1300-1377。LC 以名而非姓立目（Guillaume, de Machaut）。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='machaut 示意图'><title>machaut</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>新艺术</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>中世纪晚期</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>马肖</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>核心人物</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>逝世为界</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>音乐学家划分</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>精微新艺术</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>随后运动</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
@@ -22702,7 +22727,8 @@
       "sources": [
         "enc-leonin",
         "enc-c178-notre-dame-school",
-        "wd-leonin"
+        "wd-leonin",
+        "lc-n87807575"
       ],
       "level": "L2",
       "sections": {
@@ -22712,7 +22738,7 @@
         "技法或形式分析": "摘要没有给出具体的技法，只说明他写的是复调奥尔加农。可对照奥尔加农条目，但该条摘要没有提到他。",
         "与前后风格的关系和争论": "摘要对他的身份十分谨慎：“大概是法国人”“大概在巴黎圣母院”，并说明除名字外别无确定的身份信息。他的名字是“Leoninus”及其拉丁指小形式“Leo”的法语对应。本条目照此保留不确定性。",
         "一图": "示意图以莱奥南为中心，标示复调奥尔加农、巴黎圣母院、匿名者四世三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年，摘要未给出；Wikidata 简介只写“12世纪”，条目 when 写“约公元12世纪”，圣母院乐派页的约1160—1250年可作旁证，需另取来源核实；（3）具体作品，摘要未给出；（4）身份与地点均为“大概”，本条目不作确定表述。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 给出 1150—1201 年，但 Wikipedia 摘要称其身份除名字外别无确定信息，二者矛盾，该精确年份很可能是估计，本条目不采用，仍保持“约公元12世纪”。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年，摘要未给出；Wikidata 简介只写“12世纪”，条目 when 写“约公元12世纪”，圣母院乐派页的约1160—1250年可作旁证，需另取来源核实；（3）具体作品，摘要未给出；（4）身份与地点均为“大概”，本条目不作确定表述。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 给出 1150—1201 年，但 Wikipedia 摘要称其身份除名字外别无确定信息，二者矛盾，该精确年份很可能是估计，本条目不采用，仍保持“约公元12世纪”。（LC 名称权威对照，2026-11-24）LC 标目：Léonin, active 12th century。LC 只给活动期12世纪，无生卒年。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='leonin 示意图'><title>leonin</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>匿名者四世</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>记述者</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>莱奥南</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>圣母院乐派</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>复调奥尔加农</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>第一位重要作曲家</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>巴黎圣母院</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>大概在此</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
@@ -22738,7 +22764,8 @@
       "sources": [
         "enc-purcell",
         "enc-c179-baroque-music",
-        "wd-purcell"
+        "wd-purcell",
+        "lc-n79095298"
       ],
       "level": "L2",
       "sections": {
@@ -22748,7 +22775,7 @@
         "技法或形式分析": "摘要没有给出具体的技法或形式，只按体裁罗列：歌曲、歌剧、剧乐。",
         "与前后风格的关系和争论": "摘要没有谈到他与同时代作曲家的比较或争论。另一条摘要（伯德）称他与邓斯泰布尔、伯德并列为英国早期音乐最重要的作曲家之一，那是伯德条目摘要的说法，不是本条的。",
         "一图": "示意图以珀塞尔为中心，标示一百多首歌曲、歌剧《狄多与埃涅阿斯》、《仙后》剧乐三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）年代（1659—1695年）摘要未给出，取自 Wikidata 简介，需另取权威来源核实。（3）各作品年份，摘要未给出。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 记录的生卒年（1659—1695）与本条一致。MusicBrainz 为社区编辑的数据库，部分年份可能同样取自 Wikipedia/Wikidata，因此这只是交叉一致，不构成独立权威核实。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）年代（1659—1695年）摘要未给出，取自 Wikidata 简介，需另取权威来源核实。（3）各作品年份，摘要未给出。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 记录的生卒年（1659—1695）与本条一致。MusicBrainz 为社区编辑的数据库，部分年份可能同样取自 Wikipedia/Wikidata，因此这只是交叉一致，不构成独立权威核实。（LC 名称权威对照，2026-11-24）LC 标目：Purcell, Henry, 1659-1695。LC 另有仅写缩写的 n85276381（Purcell, H.），是同名缩写标目，未采用。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='purcell 示意图'><title>purcell</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>一百多首歌曲</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>作品</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>珀塞尔</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>巴洛克中期</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>《狄多与埃涅阿斯》</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>悲剧歌剧</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>《仙后》剧乐</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>仲夏夜之梦</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
@@ -22774,7 +22801,8 @@
       "sources": [
         "enc-lully",
         "enc-c179-french-opera",
-        "wd-lully"
+        "wd-lully",
+        "lc-n79072787"
       ],
       "level": "L2",
       "sections": {
@@ -22784,7 +22812,7 @@
         "技法或形式分析": "摘要称他是意大利出身的法国作曲家、舞者与器乐演奏家；没有给出具体的技法或形式，本条目不补写。",
         "与前后风格的关系和争论": "摘要称，他与剧作家莫里哀是密友。相邻的法国歌剧页称，外国出身的作曲家在法国歌剧传统中扮演了角色，吕利列在其中。库内相关条目可参见歌剧与蒙特威尔第，但摘要没有把他们联系起来。",
         "一图": "示意图以吕利为中心，标示路易十四宫廷、与莫里哀合作的喜剧芭蕾、法国巴洛克歌剧三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）年代（1632—1687年）摘要未给出，取自 Wikidata 简介，需另取权威来源核实。（3）各作品年份，摘要未给出；（4）“大师”属摘要转述的评价；（5）本条目首稿曾误写出摘要中没有的作品名，已在入库前更正为摘要原文所列。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 记录的生卒年（1632—1687）与本条一致。MusicBrainz 为社区编辑的数据库，部分年份可能同样取自 Wikipedia/Wikidata，因此这只是交叉一致，不构成独立权威核实。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）年代（1632—1687年）摘要未给出，取自 Wikidata 简介，需另取权威来源核实。（3）各作品年份，摘要未给出；（4）“大师”属摘要转述的评价；（5）本条目首稿曾误写出摘要中没有的作品名，已在入库前更正为摘要原文所列。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 记录的生卒年（1632—1687）与本条一致。MusicBrainz 为社区编辑的数据库，部分年份可能同样取自 Wikipedia/Wikidata，因此这只是交叉一致，不构成独立权威核实。（LC 名称权威对照，2026-11-24）LC 标目：Lully, Jean-Baptiste, 1632-1687。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='lully 示意图'><title>lully</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>路易十四宫廷</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>大半生</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>吕利</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>法国巴洛克</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>歌剧</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>最知名</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>与莫里哀合作</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>喜剧芭蕾</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
@@ -22810,7 +22838,8 @@
       "sources": [
         "enc-scarlatti-domenico",
         "enc-c179-baroque-music",
-        "wd-scarlatti-domenico"
+        "wd-scarlatti-domenico",
+        "lc-n79070071"
       ],
       "level": "L2",
       "sections": {
@@ -22820,7 +22849,7 @@
         "技法或形式分析": "摘要没有给出键盘奏鸣曲的具体形式，本条目不补写。",
         "与前后风格的关系和争论": "摘要称，他按年代属巴洛克，音乐却影响了古典风格的发展，位于两个时期之间；影响的具体表现，摘要未给出。",
         "一图": "示意图以斯卡拉蒂为中心，标示巴洛克、555首键盘奏鸣曲、影响古典风格三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年摘要与 Wikidata 简介均未给出；条目 when 写“约公元17—18世纪”，是据摘要将其归为巴洛克作曲家、并参照巴洛克音乐页（约1600—1750）推算的世纪范围，不是其生卒年的断言，需另取来源核实。（3）具体曲目，摘要未给出；（4）Wikipedia 页面标题为 Domenico Scarlatti，库内 id 为 scarlatti-domenico，以区别于其父亚历山德罗。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 记录为 1685—1757，与本条目“约公元17—18世纪”的世纪推算相容，但该库独立性有限，本条目不采用其年份，仍保持原写法。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年摘要与 Wikidata 简介均未给出；条目 when 写“约公元17—18世纪”，是据摘要将其归为巴洛克作曲家、并参照巴洛克音乐页（约1600—1750）推算的世纪范围，不是其生卒年的断言，需另取来源核实。（3）具体曲目，摘要未给出；（4）Wikipedia 页面标题为 Domenico Scarlatti，库内 id 为 scarlatti-domenico，以区别于其父亚历山德罗。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 记录为 1685—1757，与本条目“约公元17—18世纪”的世纪推算相容，但该库独立性有限，本条目不采用其年份，仍保持原写法。（LC 名称权威对照，2026-11-24）LC 标目：Scarlatti, Domenico, 1685-1757。本条目 when 只写\"约公元17—18世纪\"，LC 精确年份为1685—1757，二者相容；when 未改。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='scarlatti-domenico 示意图'><title>scarlatti-domenico</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>巴洛克</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>按年代</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>斯卡拉蒂</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>意大利</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>555首键盘奏鸣曲</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>今日所知</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>影响古典风格</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>发展</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
@@ -22846,7 +22875,8 @@
       "sources": [
         "enc-corelli",
         "enc-c179-baroque-music",
-        "wd-corelli"
+        "wd-corelli",
+        "lc-n79059471"
       ],
       "level": "L2",
       "sections": {
@@ -22856,7 +22886,7 @@
         "技法或形式分析": "摘要称，他的音乐标志着现代调性与功能和声的第一次融合。可对照大小调体系条目，但该条摘要没有提到他。",
         "与前后风格的关系和争论": "摘要把他置于奏鸣曲、协奏曲与调性发展的源头一侧。“关键”“第一次融合”是摘要的叙述，本条目不作独立判断。",
         "一图": "示意图以科雷利为中心，标示现代奏鸣曲与协奏曲、小提琴的首要地位、调性与功能和声三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）年代（1653—1713年）摘要未给出，取自 Wikidata 简介，需另取权威来源核实。（3）具体作品，摘要未给出；（4）“第一次融合”属摘要的概括，本条目未核验。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 记录的生卒年（1653—1713）与本条一致。MusicBrainz 为社区编辑的数据库，部分年份可能同样取自 Wikipedia/Wikidata，因此这只是交叉一致，不构成独立权威核实。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）年代（1653—1713年）摘要未给出，取自 Wikidata 简介，需另取权威来源核实。（3）具体作品，摘要未给出；（4）“第一次融合”属摘要的概括，本条目未核验。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 记录的生卒年（1653—1713）与本条一致。MusicBrainz 为社区编辑的数据库，部分年份可能同样取自 Wikipedia/Wikidata，因此这只是交叉一致，不构成独立权威核实。（LC 名称权威对照，2026-11-24）LC 标目：Corelli, Arcangelo, 1653-1713。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='corelli 示意图'><title>corelli</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>奏鸣曲与协奏曲</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>现代体裁</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>科雷利</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>巴洛克中期</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>小提琴首要地位</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>确立</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>调性与功能和声</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>首次融合</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
@@ -22882,7 +22912,8 @@
       "sources": [
         "enc-telemann",
         "enc-c179-baroque-music",
-        "wd-telemann"
+        "wd-telemann",
+        "lc-n79117028"
       ],
       "level": "L2",
       "sections": {
@@ -22892,7 +22923,7 @@
         "技法或形式分析": "摘要没有给出具体的技法或形式，本条目不补写。",
         "与前后风格的关系和争论": "摘要称，同时代人把他与好友巴赫、也与他本人认识的亨德尔相提并论且评价颇高；巴赫曾让泰勒曼做自己儿子卡尔·菲利普·埃马努埃尔的教父，并以其名为子取名。“最多产”与“评价颇高”都是摘要的叙述，本条目不作独立判断。",
         "一图": "示意图以泰勒曼为中心，标示最多产作曲家之一、与巴赫是好友、与亨德尔相识三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年摘要与 Wikidata 简介均未给出；条目 when 写“约公元17—18世纪”，是据摘要将其归为巴洛克作曲家、并参照巴洛克音乐页（约1600—1750）推算的世纪范围，不是其生卒年的断言，需另取来源核实。（3）具体作品，摘要未给出；（4）“最多产”限定为“至少就现存作品而言”，本条目沿用此限定。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 记录为 1681—1767，与本条目“约公元17—18世纪”的世纪推算相容，但该库独立性有限，本条目不采用其年份，仍保持原写法。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年摘要与 Wikidata 简介均未给出；条目 when 写“约公元17—18世纪”，是据摘要将其归为巴洛克作曲家、并参照巴洛克音乐页（约1600—1750）推算的世纪范围，不是其生卒年的断言，需另取来源核实。（3）具体作品，摘要未给出；（4）“最多产”限定为“至少就现存作品而言”，本条目沿用此限定。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 记录为 1681—1767，与本条目“约公元17—18世纪”的世纪推算相容，但该库独立性有限，本条目不采用其年份，仍保持原写法。（LC 名称权威对照，2026-11-24）LC 标目：Telemann, Georg Philipp, 1681-1767。本条目 when 只写\"约公元17—18世纪\"，LC 精确年份为1681—1767，二者相容；when 未改。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='telemann 示意图'><title>telemann</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>巴赫</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>好友</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>泰勒曼</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>德国巴洛克</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>亨德尔</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>相识</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>最多产之一</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>就现存作品</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
