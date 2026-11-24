@@ -1,0 +1,19 @@
+{
+ "id": "japanese-armour-1859",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为**1859年**署名的日本甲胄，V&A 藏（O75791）。该馆给**盔铭**：「**妙心源道喜宗春（Myochin Mondo Ki no Muneharu），安政六年（第六个 tsuchinoto hitsuji 年）八月某日**」——即 **1859年**。",
+  "风格特征": "该馆评价：这是一件**江户末期摹镰仓期甲胄的佳作**，但**带有许多早期甲胄所无的装饰**。该馆并指出**制作者谱系**：**妙心（Myochin）家族**有**悠久的制甲传统**（**文献可上溯至16世纪**），为**日本统治军事阶层**制造甲胄（记录在「Kamakura period (1185…」处**截断**，本条目**不补写**）。",
+  "代表人物与作品": "制作者为妙心宗春（Myochin Muneharu）。相关条目见土井家甲胄与桃形兜。",
+  "技法或形式分析": "材质为**铁面颊（iron mask），附动物毛制须**；**金漆的铁与皮革小札** 等；整体**高146厘米、重61千克**（据该馆记录）。",
+  "与前后风格的关系和争论": "本条目据该馆说明把握**「摹古＋加饰」**的双重性：江户末期的甲胄**追摹镰仓样式**以示古雅，却**叠加当世装饰**——复古与时尚同体，说明「传统」常是被**重新装配**的。",
+  "一图": "示意图以妙心家制甲、镰仓摹作与江户加饰三者关系标示本甲。",
+  "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）该馆 summary 在「1185…」处**截断，未补写**；（3）面颊（iron mask）的具体形制未描述；（4）递藏未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='japanese-armour-1859 示意图'><title>japanese-armour-1859</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>1859·江户末</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>妙心宗春</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>摹镰仓甲</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>高146/61kg</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>妙心家传统</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>16世纪起</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>摹古＋加饰</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>双重性</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>1859甲：谱系、摹古与加饰</text></g></svg>",
+ "sources": [
+  "vam-o75791"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（V&A）来源；summary 截断；面颊形制未描述。"
+}

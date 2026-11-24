@@ -6059,6 +6059,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；软质瓷釉上彩描金 高7.9 径8.6cm；说明含「Le Grand」纹章（记录无 summary）"
+    },
+    {
+      "id": "vam-o119925",
+      "title": "Victoria and Albert Museum — Doi family domaru armour, Japan, ca. 1800, O119925",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O119925",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；铁鎏金银铜等 高142cm；说明含胴丸与土井家纹"
+    },
+    {
+      "id": "vam-o75791",
+      "title": "Victoria and Albert Museum — Suit of armour, signed Myochin Muneharu, 1859, O75791",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O75791",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；铁面颊·金漆 高146cm 重61kg；说明含妙心家与镰仓摹作"
+    },
+    {
+      "id": "vam-o182770",
+      "title": "Victoria and Albert Museum — Momonari kabuto helmet, Japan, 1700–1800, O182770",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O182770",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；铁施漆 多尺寸；说明含桃形与日野式颈甲"
+    },
+    {
+      "id": "vam-o92843",
+      "title": "Victoria and Albert Museum — Katana blade with Masamune attribution, Japan, 1300–1350, O92843",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O92843",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；刀身 金象嵌正宗铭；说明含正宗为刀工之最"
     }
   ]
 }

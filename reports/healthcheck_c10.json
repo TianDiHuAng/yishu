@@ -257,6 +257,14 @@
     "590",
     "628"
    ]
+  ],
+  [
+   "japanese-sword-1300",
+   "1300—1350年",
+   [
+    "1264",
+    "1344"
+   ]
   ]
  ],
  "orphans": [],
@@ -313,6 +321,6 @@
  "link_audit": {
   "cross_domain": 24,
   "oneway": 0,
-  "total_links": 1582
+  "total_links": 1592
  }
 }

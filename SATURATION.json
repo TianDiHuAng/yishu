@@ -1695,6 +1695,28 @@
       },
       "network": "V&A",
       "verdict": "art-ceramics 12→16（总480）；未饱和"
+    },
+    {
+      "cycle": "cycle67",
+      "date": "2026-11-23",
+      "methods_used": [
+        "§5 饱和评估"
+      ],
+      "gaps_found": {},
+      "network": "partial",
+      "verdict": "未饱和：条件②成立，条件①不成立（近 6 轮仍有新条目与明确可补缺口）"
+    },
+    {
+      "cycle": "cycle139",
+      "date": "2026-11-24",
+      "methods_used": [
+        "日本武具"
+      ],
+      "gaps_found": {
+        "entries": 4
+      },
+      "network": "V&A",
+      "verdict": "总484；未饱和"
     }
   ],
   "assessment_c33": {
@@ -1733,28 +1755,16 @@
       "核心": true,
       "重要": true,
       "levels": {
-        "L2": 212,
+        "L2": 476,
         "L3": 4
       },
       "tiers": {
-        "重要": 149,
+        "重要": 241,
         "补充": 12,
-        "核心": 55
+        "核心": 227
       }
     },
     "evidence_recent_rounds": [
-      [
-        "cycle61",
-        0
-      ],
-      [
-        "cycle62",
-        0
-      ],
-      [
-        "cycle63",
-        4
-      ],
       [
         "cycle64",
         4
@@ -1766,10 +1776,22 @@
       [
         "cycle66",
         0
+      ],
+      [
+        "cycle67",
+        4
+      ],
+      [
+        "cycle68",
+        4
+      ],
+      [
+        "cycle69",
+        4
       ]
     ],
-    "recent_new_entries_total": 8,
-    "why_not_saturated": "条件①不成立：最近 6 轮仍在持续产出**新的有来源条目**（cycle52–64 共新增 8 条），且缺口清单中仍有明确可补项（北美平原/东南、非洲余量、东南亚泰越窑）。条件②成立：核心与重要条目全部 ≥L2。",
+    "recent_new_entries_total": 16,
+    "why_not_saturated": "条件①不成立：最近 6 轮仍在持续产出**新的有来源条目**（cycle52–64 共新增 16 条），且缺口清单中仍有明确可补项（北美平原/东南、非洲余量、东南亚泰越窑）。条件②成立：核心与重要条目全部 ≥L2。",
     "open_gaps": {
       "A_class_matrix": "见 reports/覆盖矩阵.md（建筑已建 4 条，其余需内容来源）",
       "B2_music_regions": "非西方音乐体裁仍有空白",

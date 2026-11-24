@@ -1,0 +1,19 @@
+{
+ "id": "japanese-armour-1800",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为日本**约1800年**的**土井家（Doi）胴丸**甲胄，V&A 藏（O119925）。",
+  "风格特征": "该馆说明**类型**：此甲为 **domaru（胴丸）式**，**约1400年**开始使用；它是**贴身一体式的身甲**，相比先前形制，**腿部的防护更多**，而**肩甲更小**。",
+  "代表人物与作品": "该馆指出**家纹**：头盔**前立（forecrest）及其他部位的车轮槌纹（wheel mallets）**，是**土井家（Doi family）的家徽**——他们是一个**中阶武士家族**（记录在「who…」处**截断**，本条目**不补写**）。相关条目见1859甲胄与桃形兜。",
+  "技法或形式分析": "材质为**铁，鎏金、镀银与做旧铜，抛光魟鱼皮、丝、皮革** 等；整体**高142厘米**（据该馆记录）。",
+  "与前后风格的关系和争论": "本条目据该馆说明把「形制演变」与「家徽」并置：胴丸的**防护重心下移**（护腿、缩肩）是**实用史**；车轮槌纹则把甲胄系于**特定武士家族的身份**。两者共同说明甲胄既是**装备**也是**族徽载体**。",
+  "一图": "示意图以胴丸形制、车轮槌家纹与中阶武士三者关系标示本甲。",
+  "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）该馆 summary 在「who…」处**截断，未补写**；（3）Doi 家的具体谱系未记录；（4）甲胄的完整组成未逐一列。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='japanese-armour-1800 示意图'><title>japanese-armour-1800</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>日本·约1800</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>胴丸</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>土井家甲胄</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>高142</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>护腿缩肩</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>形制</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>车轮槌纹</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>家徽</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>土井家甲：形制、防护与家徽</text></g></svg>",
+ "sources": [
+  "vam-o119925"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（V&A）来源；summary 截断；谱系未记录。"
+}

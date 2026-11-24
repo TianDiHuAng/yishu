@@ -16797,6 +16797,140 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='armorial-porcelain-cup 示意图'><title>armorial-porcelain-cup</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>景德镇·约1755—60</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>软质瓷</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>纹章杯</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>高7.9</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>盾徽·Le Grand</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>订制</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>贝壳边</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>口沿</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>纹章杯：盾徽、绶带与边饰</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（V&A）来源；无 summary；属主未识。"
+    },
+    {
+      "id": "japanese-armour-1800",
+      "title": "土井家胴丸甲胄",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "19世纪",
+      "region": "东亚",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "日本土井家胴丸甲胄，维多利亚与艾伯特博物馆藏（O119925）。",
+      "when": "约1800年",
+      "overview": "胴丸式约1400年始用：贴身一体式身甲、腿部防护更多、肩甲更小；盔前立等处车轮槌纹为土井家纹，该家为中阶武士。",
+      "related": [
+        "japanese-armour-1859",
+        "kabuto-helmet-1700",
+        "japanese-sword-1300"
+      ],
+      "sources": [
+        "vam-o119925"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为日本**约1800年**的**土井家（Doi）胴丸**甲胄，V&A 藏（O119925）。",
+        "风格特征": "该馆说明**类型**：此甲为 **domaru（胴丸）式**，**约1400年**开始使用；它是**贴身一体式的身甲**，相比先前形制，**腿部的防护更多**，而**肩甲更小**。",
+        "代表人物与作品": "该馆指出**家纹**：头盔**前立（forecrest）及其他部位的车轮槌纹（wheel mallets）**，是**土井家（Doi family）的家徽**——他们是一个**中阶武士家族**（记录在「who…」处**截断**，本条目**不补写**）。相关条目见1859甲胄与桃形兜。",
+        "技法或形式分析": "材质为**铁，鎏金、镀银与做旧铜，抛光魟鱼皮、丝、皮革** 等；整体**高142厘米**（据该馆记录）。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「形制演变」与「家徽」并置：胴丸的**防护重心下移**（护腿、缩肩）是**实用史**；车轮槌纹则把甲胄系于**特定武士家族的身份**。两者共同说明甲胄既是**装备**也是**族徽载体**。",
+        "一图": "示意图以胴丸形制、车轮槌家纹与中阶武士三者关系标示本甲。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）该馆 summary 在「who…」处**截断，未补写**；（3）Doi 家的具体谱系未记录；（4）甲胄的完整组成未逐一列。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='japanese-armour-1800 示意图'><title>japanese-armour-1800</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>日本·约1800</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>胴丸</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>土井家甲胄</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>高142</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>护腿缩肩</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>形制</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>车轮槌纹</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>家徽</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>土井家甲：形制、防护与家徽</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；summary 截断；谱系未记录。"
+    },
+    {
+      "id": "japanese-armour-1859",
+      "title": "妙心源道喜宗春作甲胄（1859）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "19世纪",
+      "region": "东亚",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "1859年署名甲胄，维多利亚与艾伯特博物馆藏（O75791）。",
+      "when": "1859年",
+      "overview": "盔铭「妙心源道喜宗春，安政六年八月某日」即1859；为江户末期摹镰仓甲胄之佳作，然多加早期所无之饰；妙心家自16世纪有据、为武家制甲。",
+      "related": [
+        "japanese-armour-1800",
+        "kabuto-helmet-1700"
+      ],
+      "sources": [
+        "vam-o75791"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**1859年**署名的日本甲胄，V&A 藏（O75791）。该馆给**盔铭**：「**妙心源道喜宗春（Myochin Mondo Ki no Muneharu），安政六年（第六个 tsuchinoto hitsuji 年）八月某日**」——即 **1859年**。",
+        "风格特征": "该馆评价：这是一件**江户末期摹镰仓期甲胄的佳作**，但**带有许多早期甲胄所无的装饰**。该馆并指出**制作者谱系**：**妙心（Myochin）家族**有**悠久的制甲传统**（**文献可上溯至16世纪**），为**日本统治军事阶层**制造甲胄（记录在「Kamakura period (1185…」处**截断**，本条目**不补写**）。",
+        "代表人物与作品": "制作者为妙心宗春（Myochin Muneharu）。相关条目见土井家甲胄与桃形兜。",
+        "技法或形式分析": "材质为**铁面颊（iron mask），附动物毛制须**；**金漆的铁与皮革小札** 等；整体**高146厘米、重61千克**（据该馆记录）。",
+        "与前后风格的关系和争论": "本条目据该馆说明把握**「摹古＋加饰」**的双重性：江户末期的甲胄**追摹镰仓样式**以示古雅，却**叠加当世装饰**——复古与时尚同体，说明「传统」常是被**重新装配**的。",
+        "一图": "示意图以妙心家制甲、镰仓摹作与江户加饰三者关系标示本甲。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）该馆 summary 在「1185…」处**截断，未补写**；（3）面颊（iron mask）的具体形制未描述；（4）递藏未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='japanese-armour-1859 示意图'><title>japanese-armour-1859</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>1859·江户末</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>妙心宗春</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>摹镰仓甲</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>高146/61kg</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>妙心家传统</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>16世纪起</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>摹古＋加饰</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>双重性</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>1859甲：谱系、摹古与加饰</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；summary 截断；面颊形制未描述。"
+    },
+    {
+      "id": "kabuto-helmet-1700",
+      "title": "桃形兜（Momonari）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "18世纪",
+      "region": "东亚",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "日本四板铁兜，维多利亚与艾伯特博物馆藏（O182770）。",
+      "when": "1700—1800年",
+      "overview": "四片赤褐色铁板成「桃形」，具纵向脊；近似「头形（Zunari）」式；配日野式紧贴颈甲（shikoro）；铁施漆。",
+      "related": [
+        "japanese-armour-1859",
+        "japanese-armour-1800",
+        "japanese-sword-1300"
+      ],
+      "sources": [
+        "vam-o182770"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为日本**1700—1800年**的**兜（kabuto）**，V&A 藏（O182770）。",
+        "风格特征": "该馆描述构造：此**四片铁板**制成的头盔，作**赤褐色做旧铁**，属「**桃形（Momonari）**」式，具**纵向的垂直脊**。",
+        "代表人物与作品": "作者未署名。相关条目见1859甲胄与土井家甲胄。",
+        "技法或形式分析": "材质为**铁，施漆**；多组尺寸（如高18.7/29.1、长28.5/36.8、宽22.7/35.1厘米，据该馆记录，含不同部件）。该馆并指出其**与「头形（Zunari）」式的相似**：后者传统上**与紧贴的颈甲（shikoro）相配**；本件配**日野（Hineno）式颈甲**。",
+        "与前后风格的关系和争论": "本条目据该馆说明把握**类型的交叉**：桃形与头形在形式上接近，而**颈甲样式**（日野式）成为区分与断代的线索——**部件组合**而非单一外形，决定了甲胄的类型归属。本条目只依记录陈述。",
+        "一图": "示意图以四板桃形、日野式颈甲与头形类比三者关系标示本兜。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）多组尺寸的具体部件归属未明；（3）制作者未记录；（4）铔（面颊）等附件未说明。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='kabuto-helmet-1700 示意图'><title>kabuto-helmet-1700</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>日本·18世纪</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>铁施漆</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>桃形兜</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>四板</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>纵向脊</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>形制</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>日野式颈甲</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>部件</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>桃形兜：四板、脊与颈甲</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；尺寸部件未明；作者未记录。"
+    },
+    {
+      "id": "japanese-sword-1300",
+      "title": "正宗铭太刀刀身",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "14世纪",
+      "region": "东亚",
+      "medium": "金属器",
+      "tier": "核心",
+      "def": "日本太刀刀身（金象嵌正宗铭），维多利亚与艾伯特博物馆藏（O92843）。",
+      "when": "1300—1350年",
+      "overview": "刀身带金象嵌铭，归于正宗（1264—1344）；正宗被视为日本刀史最伟大的刀工，其刀多短刀（tanto）、强而美、切割极利；许多归于其的技术进步……（记录截断）。",
+      "related": [
+        "japanese-armour-1800",
+        "kabuto-helmet-1700"
+      ],
+      "sources": [
+        "vam-o92843"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为日本**太刀（katana）刀身**（1300—1350），V&A 藏（O92843）。",
+        "风格特征": "该馆说明：刀身带**金象嵌铭**，**归于正宗（Masamune，1264—1344）**。",
+        "代表人物与作品": "该馆介绍正宗：**正宗被普遍视为日本刀史上最伟大的刀工**；其刀**多为短刀（tanto）**，**既强且美**，**切割极有效率**；许多归于正宗的**技术进步**……（记录在「were pr…」处**截断**，本条目**不补写**）。相关条目见土井家甲胄与桃形兜。",
+        "技法或形式分析": "材质为**刀身（钢）**；该记录**无尺寸字段**，本条目**不列尺寸**。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「铭」作为**归属的关键**：铭文为「金象嵌」的**后世鉴定性题记**（attribution）——它把一个**无款刀身**系于大师之名。本条目据此把「正宗铭」读作**价值与鉴藏制度的产物**，而非必然的原作确证。",
+        "一图": "示意图以金象嵌正宗铭、刀工之最与「归属制度」三者关系标示本刀。",
+        "待核实": "（1）事实来自单一机构（V&A），整条标记待核实；（2）「铭」为归属（attribution），**真伪未定**；（3）该馆 summary 在「were pr…」处**截断，未补写**；（4）刀身尺寸与保存状态未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='japanese-sword-1300 示意图'><title>japanese-sword-1300</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>14世纪</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>太刀刀身</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>正宗铭刀</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>无尺寸记录</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>金象嵌铭</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>归属</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>刀工之最</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>正宗</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>正宗铭刀：铭、归属与价值</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；铭为归属非确证；尺寸未记录。"
     }
   ]
 }
