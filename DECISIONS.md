@@ -1785,3 +1785,13 @@ art-contemporary 13→17。写前查重通过（标题与来源 id 均未被使�
 **局限**：ULAN 简介很短，只能印证生卒年与职业，不能印证风格归属、代表作或地域判断；因此这 16 条只在“人物基本信息”上多了机构来源，层级不升。
 **结果**：条目页标注分布：百科同源 169→154，单一机构来源 455，不标 29→44；check.py errors=0，check_links 690 页 0 断链；来源总数 857 → 873。
 可逆：删本轮追加的 16 个 ulan 来源与各条目 sources/待核实中的追加段后重跑 merge_l2/gen_site。
+
+## D186 — Cycle186 补 3 位 ULAN 人物来源：米开朗基罗、卡拉瓦乔、康定斯基（条目数不变，653）
+**动机**：D185 中这 3 位精确标签查询落空。本轮改用前缀查询（Buonarroti / Caravaggio / Kandinsk），列出全部同名候选后按职业与生卒年选定。
+**选定**：米开朗基罗→500010654 Buonarroti, Michelangelo（雕塑家、画家、建筑师，1475-1564）；卡拉瓦乔→500115312 Caravaggio, Michelangelo Merisi da（画家，1571-1610）；康定斯基→500021093 Kandinsky, Vassily（画家，1866-1944）。三者生卒年与库内一致。
+**排除的同名候选**：Michelangelo dell'Ocha（另一位画家，活跃于1620年前）、Buonarroti, Michelangelo, II（学者，1568-1646）、Buonarroti, Leonardo（雕塑家，1522-1599）、Caravaggio, Cecco del（活跃约1610-1620）、Caravaggio, Gianni（生于1968年）。
+**教训**：精确标签查询落空的原因是 ULAN 的标签写法（卡拉瓦乔以全名“Caravaggio, Michelangelo Merisi da”登记；康定斯基拼作 Vassily 而非 Wassily），不是 ULAN 缺这些人。前缀查询加候选列表比精确匹配更可靠，但必须按职业与年代人工筛选，不能取首条。
+**不改 when、不改正文。**
+**结果**：百科同源 154→151，不标 44→47，单一机构来源 455；check.py errors=0，check_links 690 页 0 断链；来源总数 873 → 876。
+**局限**：同 D185，ULAN 简介只能印证生卒年与职业。
+可逆：删本轮追加的 3 个 ulan 来源与对应条目 sources/待核实中的追加段后重跑 merge_l2/gen_site。

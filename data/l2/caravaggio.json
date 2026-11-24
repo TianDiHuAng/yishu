@@ -1,19 +1,20 @@
 {
- "id": "caravaggio",
- "level": "L2",
- "sections": {
-  "时代背景": "卡拉瓦乔是16—17世纪意大利画家，生卒年为1571—1610年。他属于巴洛克绘画传统，相关条目亦指向巴洛克。其活动背景与意大利的巴洛克艺术发展相重合。",
-  "风格特征": "卡拉瓦乔以强烈的明暗对照与现实主义人物著称。他善用暗背景与聚光式照明来营造戏剧性。这种处理使画面人物获得突出的视觉焦点。",
-  "代表人物与作品": "本条目的核心人物即卡拉瓦乔本人。其代表作品为《圣马太蒙召》。相关条目中另列有伦勃朗，此处仅列其名，不追加生卒或作品细节。",
-  "技法或形式分析": "其技法核心在于明暗对照，即在暗背景中以聚光式照明突出主体。现实主义人物的塑造与这种光线处理相结合，强化了画面的戏剧性。聚光式照明由此成为其形式的显著标志。",
-  "与前后风格的关系和争论": "卡拉瓦乔与巴洛克直接相关，并对欧洲一代画家产生影响。相关条目中的伦勃朗可作为其光影语言的后续参照。记载较一致，学界主要讨论其风格在巴洛克内部的分期与边界问题。",
-  "一图": "示意图展示卡拉瓦乔如何以明暗对照与聚光式照明突出《圣马太蒙召》的戏剧性。",
-  "待核实": "本条目事实依据为 Caravaggio 与 Baroque 两条权威百科条目。作品的具体创作年份与收藏地未在现有字段中给出，待补充第二来源核实；与相关人物伦勃朗的具体承继关系亦待补充第二来源。 【已复核·Wikidata】生卒：第二来源 wd-caravaggio（https://www.wikidata.org/wiki/Q42207），据其结构化数据：生年 1571，卒年 1610。"
- },
- "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='卡拉瓦乔 示意图'><title>卡拉瓦乔</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>卡拉瓦乔</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>明暗对照</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>圣马太蒙召</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>聚光式照明</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>巴洛克</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>伦勃朗</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>卡拉瓦乔以明暗对照与聚光式照明营造戏剧性</text></g></svg>",
- "sources": [
-  "enc-caravaggio",
-  "enc-baroque",
-  "wd-caravaggio"
- ]
+  "id": "caravaggio",
+  "level": "L2",
+  "sections": {
+    "时代背景": "卡拉瓦乔是16—17世纪意大利画家，生卒年为1571—1610年。他属于巴洛克绘画传统，相关条目亦指向巴洛克。其活动背景与意大利的巴洛克艺术发展相重合。",
+    "风格特征": "卡拉瓦乔以强烈的明暗对照与现实主义人物著称。他善用暗背景与聚光式照明来营造戏剧性。这种处理使画面人物获得突出的视觉焦点。",
+    "代表人物与作品": "本条目的核心人物即卡拉瓦乔本人。其代表作品为《圣马太蒙召》。相关条目中另列有伦勃朗，此处仅列其名，不追加生卒或作品细节。",
+    "技法或形式分析": "其技法核心在于明暗对照，即在暗背景中以聚光式照明突出主体。现实主义人物的塑造与这种光线处理相结合，强化了画面的戏剧性。聚光式照明由此成为其形式的显著标志。",
+    "与前后风格的关系和争论": "卡拉瓦乔与巴洛克直接相关，并对欧洲一代画家产生影响。相关条目中的伦勃朗可作为其光影语言的后续参照。记载较一致，学界主要讨论其风格在巴洛克内部的分期与边界问题。",
+    "一图": "示意图展示卡拉瓦乔如何以明暗对照与聚光式照明突出《圣马太蒙召》的戏剧性。",
+    "待核实": "本条目事实依据为 Caravaggio 与 Baroque 两条权威百科条目。作品的具体创作年份与收藏地未在现有字段中给出，待补充第二来源核实；与相关人物伦勃朗的具体承继关系亦待补充第二来源。 【已复核·Wikidata】生卒：第二来源 wd-caravaggio（https://www.wikidata.org/wiki/Q42207），据其结构化数据：生年 1571，卒年 1610。（ULAN 对照，2026-11-24）ULAN 简介：Italian painter, 1571-1610。生卒年1571—1610与本条目 when 一致；职业为画家，与本条目相容。ULAN 另有同名候选（Caravaggio, Cecco del；Caravaggio, Gianni），年代或职业不符，未采用。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='卡拉瓦乔 示意图'><title>卡拉瓦乔</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>卡拉瓦乔</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>明暗对照</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>圣马太蒙召</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>聚光式照明</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>巴洛克</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>伦勃朗</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>卡拉瓦乔以明暗对照与聚光式照明营造戏剧性</text></g></svg>",
+  "sources": [
+    "enc-caravaggio",
+    "enc-baroque",
+    "wd-caravaggio",
+    "ulan-500115312"
+  ]
 }

@@ -4328,6 +4328,25 @@
       "check_result": "errors=0",
       "check_links_result": "broken=0(690页)",
       "commits": 1
+    },
+    {
+      "cycle": "cycle186",
+      "date": "2026-11-24",
+      "status": "completed",
+      "gap_methods": [
+        "前缀查询补ULAN人物来源(米开朗基罗/卡拉瓦乔/康定斯基)"
+      ],
+      "network": "Getty ULAN 200",
+      "new_entries": 0,
+      "reviews": 3,
+      "fixes": 0,
+      "new_sources": 3,
+      "sources_total": 876,
+      "entries_total": 653,
+      "pages": 690,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(690页)",
+      "commits": 1
     }
   ]
 }

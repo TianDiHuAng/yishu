@@ -8729,6 +8729,36 @@
       "type": "权威机构词表（人物名称与生平）",
       "verified": true,
       "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该人物的标签与简介（Florentine painter, 1444/1445-1510），编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "ulan-500010654",
+      "title": "Getty ULAN — Buonarroti, Michelangelo, 500010654",
+      "author": "J. Paul Getty Trust（Union List of Artist Names，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/ulan/500010654",
+      "type": "权威机构词表（人物名称与生平）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该人物的标签与简介（Italian sculptor, painter, architect, 1475-1564），编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "ulan-500115312",
+      "title": "Getty ULAN — Caravaggio, Michelangelo Merisi da, 500115312",
+      "author": "J. Paul Getty Trust（Union List of Artist Names，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/ulan/500115312",
+      "type": "权威机构词表（人物名称与生平）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该人物的标签与简介（Italian painter, 1571-1610），编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "ulan-500021093",
+      "title": "Getty ULAN — Kandinsky, Vassily, 500021093",
+      "author": "J. Paul Getty Trust（Union List of Artist Names，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/ulan/500021093",
+      "type": "权威机构词表（人物名称与生平）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该人物的标签与简介（Russian painter, 1866-1944），编号与标签匹配，生卒年已与库内条目对照"
     }
   ]
 }

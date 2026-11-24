@@ -834,7 +834,8 @@
       "sources": [
         "enc-michelangelo",
         "enc-high-renaissance",
-        "wd-michelangelo"
+        "wd-michelangelo",
+        "ulan-500010654"
       ],
       "level": "L2",
       "sections": {
@@ -844,7 +845,7 @@
         "技法或形式分析": "在形式上，其雕塑与绘画都以人体的结构与力度为核心，呈现出雄浑的表现特征。西斯廷礼拜堂天顶画属于绘画实践，圣彼得大教堂的设计则体现其建筑面向。概述对其具体技法着墨有限，此处仅据已述内容概括。",
         "与前后风格的关系和争论": "相关条目将他与盛期文艺复兴、样式主义并列关联，显示其处于两者之间的关键位置。现有材料记载较一致，未见具体争论，学界主要讨论其与盛期文艺复兴及样式主义的分期和边界问题。",
         "一图": "示意图呈现米开朗基罗以人体表现为核心，联系其雕塑、绘画与建筑实践及相邻风格。",
-        "待核实": "概述提及《大卫》雕像、西斯廷礼拜堂天顶画与圣彼得大教堂，但未列出具体年份与收藏或坐落信息。若要补入这些细节，须待补充第二来源后核实。其与样式主义之间的具体风格分界亦有待更多材料支持。 【已复核·Wikidata】生卒：第二来源 wd-michelangelo（https://www.wikidata.org/wiki/Q5592），据其结构化数据：生年 1475，卒年 1564。"
+        "待核实": "概述提及《大卫》雕像、西斯廷礼拜堂天顶画与圣彼得大教堂，但未列出具体年份与收藏或坐落信息。若要补入这些细节，须待补充第二来源后核实。其与样式主义之间的具体风格分界亦有待更多材料支持。 【已复核·Wikidata】生卒：第二来源 wd-michelangelo（https://www.wikidata.org/wiki/Q5592），据其结构化数据：生年 1475，卒年 1564。（ULAN 对照，2026-11-24）ULAN 简介：Italian sculptor, painter, architect, 1475-1564。生卒年1475—1564与本条目 when 一致；职业为雕塑家、画家与建筑师，与本条目相容。ULAN 另有同名候选（Michelangelo dell'Ocha、Buonarroti, Michelangelo, II 等），职业或年代不符，未采用。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='米开朗基罗 示意图'><title>米开朗基罗</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>米开朗基罗</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>人体表现</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>大卫</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>雕像</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>西斯廷礼拜堂天顶画</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>绘画</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>圣彼得大教堂</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>建筑</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>米开朗基罗以人体表现贯穿大卫、天顶画与圣彼得大教堂</text></g></svg>"
     },
@@ -1074,7 +1075,8 @@
       "sources": [
         "enc-caravaggio",
         "enc-baroque",
-        "wd-caravaggio"
+        "wd-caravaggio",
+        "ulan-500115312"
       ],
       "level": "L2",
       "sections": {
@@ -1084,7 +1086,7 @@
         "技法或形式分析": "其技法核心在于明暗对照，即在暗背景中以聚光式照明突出主体。现实主义人物的塑造与这种光线处理相结合，强化了画面的戏剧性。聚光式照明由此成为其形式的显著标志。",
         "与前后风格的关系和争论": "卡拉瓦乔与巴洛克直接相关，并对欧洲一代画家产生影响。相关条目中的伦勃朗可作为其光影语言的后续参照。记载较一致，学界主要讨论其风格在巴洛克内部的分期与边界问题。",
         "一图": "示意图展示卡拉瓦乔如何以明暗对照与聚光式照明突出《圣马太蒙召》的戏剧性。",
-        "待核实": "本条目事实依据为 Caravaggio 与 Baroque 两条权威百科条目。作品的具体创作年份与收藏地未在现有字段中给出，待补充第二来源核实；与相关人物伦勃朗的具体承继关系亦待补充第二来源。 【已复核·Wikidata】生卒：第二来源 wd-caravaggio（https://www.wikidata.org/wiki/Q42207），据其结构化数据：生年 1571，卒年 1610。"
+        "待核实": "本条目事实依据为 Caravaggio 与 Baroque 两条权威百科条目。作品的具体创作年份与收藏地未在现有字段中给出，待补充第二来源核实；与相关人物伦勃朗的具体承继关系亦待补充第二来源。 【已复核·Wikidata】生卒：第二来源 wd-caravaggio（https://www.wikidata.org/wiki/Q42207），据其结构化数据：生年 1571，卒年 1610。（ULAN 对照，2026-11-24）ULAN 简介：Italian painter, 1571-1610。生卒年1571—1610与本条目 when 一致；职业为画家，与本条目相容。ULAN 另有同名候选（Caravaggio, Cecco del；Caravaggio, Gianni），年代或职业不符，未采用。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='卡拉瓦乔 示意图'><title>卡拉瓦乔</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>卡拉瓦乔</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>明暗对照</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>圣马太蒙召</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>聚光式照明</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>巴洛克</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>伦勃朗</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>卡拉瓦乔以明暗对照与聚光式照明营造戏剧性</text></g></svg>"
     },
@@ -2169,7 +2171,8 @@
       "sources": [
         "enc-kandinsky",
         "enc-expressionism",
-        "wd-kandinsky"
+        "wd-kandinsky",
+        "ulan-500021093"
       ],
       "level": "L2",
       "sections": {
@@ -2179,7 +2182,7 @@
         "技法或形式分析": "输入中可直接确认的形式要素是色彩与几何。二者被描述为纯粹形式，并承担精神表达。具体笔触、作品年份、收藏地与材料信息未给出，因此不作展开。",
         "与前后风格的关系和争论": "相关条目列出表现主义与抽象表现主义，可作为理解康定斯基位置的线索。作为抽象艺术的先驱之一，他与抽象表现主义的关联更接近后续承接的阅读方向；与表现主义的关系则在输入中仅以相关条目呈现。输入未记载具体学者争论，记载较一致，学界主要讨论其与表现主义、抽象表现主义之间的分期/边界问题。",
         "一图": "示意图呈现康定斯基以色彩与几何的纯粹形式表达精神，并关联表现主义与抽象表现主义。",
-        "待核实": "输入列出来源标题“Wassily Kandinsky”与“Expressionism”。《论艺术的精神》的具体出版信息、作品年份与收藏地未在输入中给出。涉及更细的理论观点或作品实例，待补充第二来源后再写入正文。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核·Wikidata】生卒：第二来源 wd-kandinsky（https://www.wikidata.org/wiki/Q61064），据其结构化数据：生年 1866，卒年 1944。"
+        "待核实": "输入列出来源标题“Wassily Kandinsky”与“Expressionism”。《论艺术的精神》的具体出版信息、作品年份与收藏地未在输入中给出。涉及更细的理论观点或作品实例，待补充第二来源后再写入正文。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核·Wikidata】生卒：第二来源 wd-kandinsky（https://www.wikidata.org/wiki/Q61064），据其结构化数据：生年 1866，卒年 1944。（ULAN 对照，2026-11-24）ULAN 简介：Russian painter, 1866-1944。生卒年1866—1944与本条目 when 一致；职业为画家，与本条目相容。ULAN 标签拼写为 Vassily，与常见写法 Wassily 不同，此前精确标签查询因此落空。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='康定斯基 示意图'><title>康定斯基</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>康定斯基</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>抽象艺术先驱</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>色彩与几何</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>纯粹形式</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>表现主义</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>相关条目</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>抽象表现主义</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>相关条目</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>色彩与几何的纯粹形式表达精神</text></g></svg>"
     },
