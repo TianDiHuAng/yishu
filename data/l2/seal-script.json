@@ -1,19 +1,20 @@
 {
- "id": "seal-script",
- "level": "L2",
- "sections": {
-  "时代背景": "篆书是先秦至秦时期的中国古文字书体，约流行于公元前14至前3世纪。秦代统一为小篆，篆书由此包含大篆与小篆两种形态。",
-  "风格特征": "篆书线条圆转均匀、结构对称，保留了象形遗意。这种古文字书体的形态在后世被用于印章与题额。",
-  "代表人物与作品": "现有概述与定义未点名篆书的代表人物或具体作品。相关条目可参见中国书法史与隶书，以了解其在书法脉络中的位置。",
-  "技法或形式分析": "篆书在形式上以圆转均匀的线条和对称的结构为主要特征，保留象形遗意。其笔法与结体的特点，构成了这一古文字书体的形式基础。",
-  "与前后风格的关系和争论": "篆书与中国书法史、隶书相关联，秦代统一为小篆是其发展的重要节点。现有记载较一致，学界主要讨论篆书与隶书之间的分期与边界问题。",
-  "一图": "示意图展示篆书包含大篆与小篆，以及其与隶书之间的书体关联。",
-  "待核实": "现有字段未点名篆书的代表人物与具体作品。相关人物、作品信息待补充第二来源后核实。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
- },
- "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='篆书 示意图'><title>篆书</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>篆书</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>古文字书体</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>大篆</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>书体</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>小篆</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>书体</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>隶书</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>书体</text><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>篆书含大篆、小篆并与隶书相关联</text></g></svg>",
- "sources": [
-  "enc-chinese-calligraphy",
-  "enc-calligraphy",
-  "wd-anchor-seal-script"
- ]
+  "id": "seal-script",
+  "level": "L2",
+  "sections": {
+    "时代背景": "篆书是先秦至秦时期的中国古文字书体，约流行于公元前14至前3世纪。秦代统一为小篆，篆书由此包含大篆与小篆两种形态。",
+    "风格特征": "篆书线条圆转均匀、结构对称，保留了象形遗意。这种古文字书体的形态在后世被用于印章与题额。",
+    "代表人物与作品": "现有概述与定义未点名篆书的代表人物或具体作品。相关条目可参见中国书法史与隶书，以了解其在书法脉络中的位置。",
+    "技法或形式分析": "篆书在形式上以圆转均匀的线条和对称的结构为主要特征，保留象形遗意。其笔法与结体的特点，构成了这一古文字书体的形式基础。",
+    "与前后风格的关系和争论": "篆书与中国书法史、隶书相关联，秦代统一为小篆是其发展的重要节点。现有记载较一致，学界主要讨论篆书与隶书之间的分期与边界问题。",
+    "一图": "示意图展示篆书包含大篆与小篆，以及其与隶书之间的书体关联。",
+    "待核实": "现有字段未点名篆书的代表人物与具体作品。相关人物、作品信息待补充第二来源后核实。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。（AAT 对照，2026-11-24）AAT：一般指汉代隶书之前的中国古文字书体，包括大篆与小篆，秦统一后由李斯主持统一。与本条目相容。注意：AAT 摘录把秦统一写为公元前211年，通行年份是前221年，属 AAT 自身笔误，本条目不采用。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='篆书 示意图'><title>篆书</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>篆书</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>古文字书体</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>大篆</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>书体</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>小篆</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>书体</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>隶书</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>书体</text><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>篆书含大篆、小篆并与隶书相关联</text></g></svg>",
+  "sources": [
+    "enc-chinese-calligraphy",
+    "enc-calligraphy",
+    "wd-anchor-seal-script",
+    "aat-300343588"
+  ]
 }

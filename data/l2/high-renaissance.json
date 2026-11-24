@@ -1,29 +1,30 @@
 {
- "id": "high-renaissance",
- "level": "L2",
- "sections": {
-  "时代背景": "盛期文艺复兴是约公元1490年至1527年间意大利艺术发展的巅峰阶段，时间上属于16世纪初。这一时期艺术活动的重心逐渐汇聚，罗马成为重要中心。绘画、雕塑与建筑在此阶段共同达到高度繁荣。",
-  "风格特征": "这一阶段的作品普遍追求宏大、均衡与理想化的视觉效果。金字塔构图带来稳定感，渐进色与明暗法塑造出清晰的层次与体积。上述手法共同构成其被视为意大利艺术巅峰阶段的形式基础。",
-  "代表人物与作品": "据定义，这一阶段的代表艺术家为列奥纳多、米开朗基罗与拉斐尔，三人被并列视为巅峰阶段的支柱。概述中未列出三人的具体作品名称，故此处不逐一展开。同为意大利艺术脉络的威尼斯画派在相关条目中另立，可互为参照。",
-  "技法或形式分析": "在形式技法上，这一阶段重视金字塔式构图所营造的稳定与均衡。渐进色的推移与明暗法的运用，使画面获得柔和的过渡与立体感。这些手法广泛见于绘画、雕塑与建筑之中，服务于宏大而理想化的艺术追求。",
-  "与前后风格的关系和争论": "从相关条目看，这一风格承接早期文艺复兴而来，其后又转向样式主义，威尼斯画派则是同一时期并行的重要脉络。现有材料记载较一致，未呈现具体争论，学界主要讨论其分期与边界问题。",
-  "一图": "示意图以中心与外围的关系，呈现这一阶段以罗马为中心、并由早期文艺复兴走向样式主义而威尼斯画派并行的格局。",
-  "待核实": "现有字段未提供具体作品的年份与收藏地，概述仅述及金字塔构图、渐进色与明暗法。若需为三代表人物的作品补入年代与收藏信息，须待补充第二来源后核实。分期与边界的具体讨论同样有待引入新的权威来源。"
- },
- "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='盛期文艺复兴 示意图'><title>盛期文艺复兴</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>早期文艺复兴</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>此前脉络</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>盛期文艺复兴</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>罗马为中心</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>样式主义</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>此后转向</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>威尼斯画派</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>同期并行</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>盛期文艺复兴上承早期、下启样式主义，威尼斯画派同期并行</text></g></svg>",
- "related": [
-  "early-renaissance",
-  "venetian-school",
-  "mannerism",
-  "michelangelo",
-  "raphael",
-  "sistine-ceiling-work",
-  "leonardo",
-  "mona-lisa"
- ],
- "sources": [
-  "enc-high-renaissance",
-  "enc-italian-renaissance-painting",
-  "wd-anchor-high-renaissance"
- ]
+  "id": "high-renaissance",
+  "level": "L2",
+  "sections": {
+    "时代背景": "盛期文艺复兴是约公元1490年至1527年间意大利艺术发展的巅峰阶段，时间上属于16世纪初。这一时期艺术活动的重心逐渐汇聚，罗马成为重要中心。绘画、雕塑与建筑在此阶段共同达到高度繁荣。",
+    "风格特征": "这一阶段的作品普遍追求宏大、均衡与理想化的视觉效果。金字塔构图带来稳定感，渐进色与明暗法塑造出清晰的层次与体积。上述手法共同构成其被视为意大利艺术巅峰阶段的形式基础。",
+    "代表人物与作品": "据定义，这一阶段的代表艺术家为列奥纳多、米开朗基罗与拉斐尔，三人被并列视为巅峰阶段的支柱。概述中未列出三人的具体作品名称，故此处不逐一展开。同为意大利艺术脉络的威尼斯画派在相关条目中另立，可互为参照。",
+    "技法或形式分析": "在形式技法上，这一阶段重视金字塔式构图所营造的稳定与均衡。渐进色的推移与明暗法的运用，使画面获得柔和的过渡与立体感。这些手法广泛见于绘画、雕塑与建筑之中，服务于宏大而理想化的艺术追求。",
+    "与前后风格的关系和争论": "从相关条目看，这一风格承接早期文艺复兴而来，其后又转向样式主义，威尼斯画派则是同一时期并行的重要脉络。现有材料记载较一致，未呈现具体争论，学界主要讨论其分期与边界问题。",
+    "一图": "示意图以中心与外围的关系，呈现这一阶段以罗马为中心、并由早期文艺复兴走向样式主义而威尼斯画派并行的格局。",
+    "待核实": "现有字段未提供具体作品的年份与收藏地，概述仅述及金字塔构图、渐进色与明暗法。若需为三代表人物的作品补入年代与收藏信息，须待补充第二来源后核实。分期与边界的具体讨论同样有待引入新的权威来源。（AAT 对照，2026-11-24）AAT：主要在15世纪最后十年发展于佛罗伦萨与罗马，一般认为随1520年代风格主义出现而结束。与本条目（约1490—1527年）一致。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='盛期文艺复兴 示意图'><title>盛期文艺复兴</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>早期文艺复兴</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>此前脉络</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>盛期文艺复兴</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>罗马为中心</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>样式主义</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>此后转向</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>威尼斯画派</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>同期并行</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>盛期文艺复兴上承早期、下启样式主义，威尼斯画派同期并行</text></g></svg>",
+  "related": [
+    "early-renaissance",
+    "venetian-school",
+    "mannerism",
+    "michelangelo",
+    "raphael",
+    "sistine-ceiling-work",
+    "leonardo",
+    "mona-lisa"
+  ],
+  "sources": [
+    "enc-high-renaissance",
+    "enc-italian-renaissance-painting",
+    "wd-anchor-high-renaissance",
+    "aat-300021142"
+  ]
 }

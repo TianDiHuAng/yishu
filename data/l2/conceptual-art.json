@@ -1,19 +1,20 @@
 {
- "id": "conceptual-art",
- "level": "L2",
- "sections": {
-  "时代背景": "观念艺术兴起于20世纪后半的全球范围，时间大致自1960年代延续至今。它出现在弱化作品物质形式的艺术转向之中，与同期其他取向共同构成这一阶段的艺术图景。其传播不限于单一地区，呈现出跨地域的实践面貌。",
-  "风格特征": "观念艺术以观念与语言为核心，弱化对象的物质形式。作品常以文本、文件、行为与装置呈现，强调艺术的思想语境而非视觉审美。在媒介上它属于综合类型，并不执着于单一的造型手段。",
-  "代表人物与作品": "现有定义与概述未点名具体的代表人物或作品，仅指出其常见的呈现方式为文本、文件、行为与装置。相关条目中列有极简主义与当代艺术，可用于理解其位置，材料中未就代表性人物作进一步列举。",
-  "技法或形式分析": "在形式层面，观念艺术把重心从可见的视觉对象转移到观念与语言本身。文本、文件、行为与装置成为主要载体，作品的物质形式被有意弱化。因此其分析重点不在视觉审美，而在作品所处的思想语境。",
-  "与前后风格的关系和争论": "相关条目将观念艺术与极简主义、当代艺术并列，显示它处于二者之间的衔接位置。材料记载较一致，未列出具体学者观点，学界主要讨论其与极简主义、当代艺术之间的分期与边界问题。",
-  "一图": "示意图呈现观念艺术以观念与语言为核心、弱化物质形式，并与极简主义、当代艺术相邻的结构关系。",
-  "待核实": "本条目依据定义、概述与权威百科词条写成，未引入具体作品年份与收藏地等细节。相关人物、作品及分期边界若需进一步确认，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
- },
- "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='观念艺术 示意图'><title>观念艺术</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>观念艺术</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>观念与语言</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>极简主义</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>20世纪后半</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>当代艺术</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>20世纪后半</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>观念艺术以观念语言为核心，弱化物质形式，与极简主义、当代艺术相邻。</text></g></svg>",
- "sources": [
-  "enc-conceptual-art",
-  "enc-dada",
-  "wd-anchor-conceptual-art"
- ]
+  "id": "conceptual-art",
+  "level": "L2",
+  "sections": {
+    "时代背景": "观念艺术兴起于20世纪后半的全球范围，时间大致自1960年代延续至今。它出现在弱化作品物质形式的艺术转向之中，与同期其他取向共同构成这一阶段的艺术图景。其传播不限于单一地区，呈现出跨地域的实践面貌。",
+    "风格特征": "观念艺术以观念与语言为核心，弱化对象的物质形式。作品常以文本、文件、行为与装置呈现，强调艺术的思想语境而非视觉审美。在媒介上它属于综合类型，并不执着于单一的造型手段。",
+    "代表人物与作品": "现有定义与概述未点名具体的代表人物或作品，仅指出其常见的呈现方式为文本、文件、行为与装置。相关条目中列有极简主义与当代艺术，可用于理解其位置，材料中未就代表性人物作进一步列举。",
+    "技法或形式分析": "在形式层面，观念艺术把重心从可见的视觉对象转移到观念与语言本身。文本、文件、行为与装置成为主要载体，作品的物质形式被有意弱化。因此其分析重点不在视觉审美，而在作品所处的思想语境。",
+    "与前后风格的关系和争论": "相关条目将观念艺术与极简主义、当代艺术并列，显示它处于二者之间的衔接位置。材料记载较一致，未列出具体学者观点，学界主要讨论其与极简主义、当代艺术之间的分期与边界问题。",
+    "一图": "示意图呈现观念艺术以观念与语言为核心、弱化物质形式，并与极简主义、当代艺术相邻的结构关系。",
+    "待核实": "本条目依据定义、概述与权威百科词条写成，未引入具体作品年份与收藏地等细节。相关人物、作品及分期边界若需进一步确认，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。（AAT 对照，2026-11-24）AAT：泛指1960—1970年代的艺术，强调传达观念与艺术家意图而非制作物品，并批判艺术作为商品。本条目 when 写“1960年代—至今”，AAT 这个风格词条只覆盖到1970年代（更早或更宽的观念性艺术另有词条），终点不同，保持原 when。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='观念艺术 示意图'><title>观念艺术</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>观念艺术</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>观念与语言</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>极简主义</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>20世纪后半</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>当代艺术</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>20世纪后半</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>观念艺术以观念语言为核心，弱化物质形式，与极简主义、当代艺术相邻。</text></g></svg>",
+  "sources": [
+    "enc-conceptual-art",
+    "enc-dada",
+    "wd-anchor-conceptual-art",
+    "aat-300264827"
+  ]
 }

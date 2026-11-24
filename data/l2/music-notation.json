@@ -1,14 +1,17 @@
 {
- "id": "music-notation",
- "level": "L2",
- "sections": {
-  "时代背景": "记谱法属于历代、全球范围的音乐体裁类条目。它以符号系统记录音乐，使音乐得以跨时空保存与传播。输入资料未给出更细的起源分期。",
-  "风格特征": "记谱法的核心是以符号系统记录音高、节奏与演奏指示。它使音乐得以跨时空保存与传播，并成为复调与大型体裁发展的技术前提。西方五线谱与中国古代工尺谱等体系各有传统。",
-  "代表人物与作品": "本条为术语，无特定代表人物与专属作品。相关条目见格里高利圣咏与复调。输入资料未列出具体人物或作品名。",
-  "技法或形式分析": "从形式看，记谱法以符号系统承载音高、节奏与演奏指示三类信息。五线谱属西方体系，工尺谱属中国古代体系，二者各有传统。其技术作用在于支撑复调与大型体裁的发展。",
-  "与前后风格的关系和争论": "输入资料显示记谱法是复调与大型体裁发展的技术前提，与格里高利圣咏、复调等条目相关联。关于体系之间的争论，输入资料未作说明。相关争议需转待核实。",
-  "一图": "配图以记谱法为中心，连接五线谱与工尺谱两种体系，并指向其支撑的复调。图中各节点均取自输入术语。箭头表示体系归属与技术支撑关系。",
-  "待核实": "输入资料未给出记谱法的具体起源年代、发明人物与代表性谱例。各体系之间的争论与演变细节亦未说明。上述内容以输入字段为限，需另行核实。"
- },
- "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='记谱法 示意图'><title>记谱法</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>记谱法</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>符号系统记录音乐</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>五线谱</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>西方体系</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>工尺谱</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>中国古代体系</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>复调</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>大型体裁前提</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>记谱法以符号记录音高节奏，五线谱与工尺谱各有传统</text></g></svg>"
+  "id": "music-notation",
+  "level": "L2",
+  "sections": {
+    "时代背景": "记谱法属于历代、全球范围的音乐体裁类条目。它以符号系统记录音乐，使音乐得以跨时空保存与传播。输入资料未给出更细的起源分期。",
+    "风格特征": "记谱法的核心是以符号系统记录音高、节奏与演奏指示。它使音乐得以跨时空保存与传播，并成为复调与大型体裁发展的技术前提。西方五线谱与中国古代工尺谱等体系各有传统。",
+    "代表人物与作品": "本条为术语，无特定代表人物与专属作品。相关条目见格里高利圣咏与复调。输入资料未列出具体人物或作品名。",
+    "技法或形式分析": "从形式看，记谱法以符号系统承载音高、节奏与演奏指示三类信息。五线谱属西方体系，工尺谱属中国古代体系，二者各有传统。其技术作用在于支撑复调与大型体裁的发展。",
+    "与前后风格的关系和争论": "输入资料显示记谱法是复调与大型体裁发展的技术前提，与格里高利圣咏、复调等条目相关联。关于体系之间的争论，输入资料未作说明。相关争议需转待核实。",
+    "一图": "配图以记谱法为中心，连接五线谱与工尺谱两种体系，并指向其支撑的复调。图中各节点均取自输入术语。箭头表示体系归属与技术支撑关系。",
+    "待核实": "输入资料未给出记谱法的具体起源年代、发明人物与代表性谱例。各体系之间的争论与演变细节亦未说明。上述内容以输入字段为限，需另行核实。（AAT 对照，2026-11-24）AAT：以文字或标准符号视觉化表示音乐的各种系统的总称。只印证定义，不含年代与沿革。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='记谱法 示意图'><title>记谱法</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>记谱法</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>符号系统记录音乐</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>五线谱</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>西方体系</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>工尺谱</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>中国古代体系</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>复调</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>大型体裁前提</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>记谱法以符号记录音高节奏，五线谱与工尺谱各有传统</text></g></svg>",
+  "sources": [
+    "aat-300417622"
+  ]
 }

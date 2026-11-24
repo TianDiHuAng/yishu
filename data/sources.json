@@ -9209,6 +9209,246 @@
       "type": "收藏机构官方藏品记录（作品名称、作者、年代）",
       "verified": true,
       "verified_note": "2026-11-24 取回该页面，核对到：Picasso, Pablo、1937、DE00050"
+    },
+    {
+      "id": "aat-300020775",
+      "title": "Getty AAT — Gothic (Medieval), 300020775",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300020775",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配；原文存档于 tmp/aat_c190.json"
+    },
+    {
+      "id": "aat-300021477",
+      "title": "Getty AAT — Neoclassical, 300021477",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300021477",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配；原文存档于 tmp/aat_c190.json"
+    },
+    {
+      "id": "aat-300021300",
+      "title": "Getty AAT — Fauve, 300021300",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300021300",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配；原文存档于 tmp/aat_c190.json"
+    },
+    {
+      "id": "aat-300264827",
+      "title": "Getty AAT — Conceptual, 300264827",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300264827",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配；原文存档于 tmp/aat_c190.json"
+    },
+    {
+      "id": "aat-300022099",
+      "title": "Getty AAT — Abstract Expressionist, 300022099",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300022099",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配；原文存档于 tmp/aat_c190.json"
+    },
+    {
+      "id": "aat-300020768",
+      "title": "Getty AAT — Romanesque, 300020768",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300020768",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配；原文存档于 tmp/aat_c190.json"
+    },
+    {
+      "id": "aat-300020665",
+      "title": "Getty AAT — Early Christian, 300020665",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300020665",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配；原文存档于 tmp/aat_c190.json"
+    },
+    {
+      "id": "aat-300021426",
+      "title": "Getty AAT — Art Deco, 300021426",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300021426",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配；原文存档于 tmp/aat_c190.json"
+    },
+    {
+      "id": "aat-300106769",
+      "title": "Getty AAT — Ukiyo-e, 300106769",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300106769",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配；原文存档于 tmp/aat_c190.json"
+    },
+    {
+      "id": "aat-300252246",
+      "title": "Getty AAT — Northern Renaissance, 300252246",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300252246",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配；原文存档于 tmp/aat_c190.json"
+    },
+    {
+      "id": "aat-300021142",
+      "title": "Getty AAT — High Renaissance, 300021142",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300021142",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配；原文存档于 tmp/aat_c190.json"
+    },
+    {
+      "id": "aat-300021141",
+      "title": "Getty AAT — Early Renaissance, 300021141",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300021141",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配；原文存档于 tmp/aat_c190.json"
+    },
+    {
+      "id": "aat-300021452",
+      "title": "Getty AAT — Gothic Revival, 300021452",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300021452",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配；原文存档于 tmp/aat_c190.json"
+    },
+    {
+      "id": "aat-300021474",
+      "title": "Getty AAT — Modernist, 300021474",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300021474",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配；原文存档于 tmp/aat_c190.json"
+    },
+    {
+      "id": "aat-300018939",
+      "title": "Getty AAT — Mughal, 300018939",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300018939",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配；原文存档于 tmp/aat_c190.json"
+    },
+    {
+      "id": "aat-300386546",
+      "title": "Getty AAT — Khmer, 300386546",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300386546",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配；原文存档于 tmp/aat_c190.json"
+    },
+    {
+      "id": "aat-300310141",
+      "title": "Getty AAT — xieyi, 300310141",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300310141",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配；原文存档于 tmp/aat_c190.json"
+    },
+    {
+      "id": "aat-300310140",
+      "title": "Getty AAT — gongbi, 300310140",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300310140",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配；原文存档于 tmp/aat_c190.json"
+    },
+    {
+      "id": "aat-300042215",
+      "title": "Getty AAT — violins, 300042215",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300042215",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配；原文存档于 tmp/aat_c190.json"
+    },
+    {
+      "id": "aat-300042909",
+      "title": "Getty AAT — pianos, 300042909",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300042909",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配；原文存档于 tmp/aat_c190.json"
+    },
+    {
+      "id": "aat-300343588",
+      "title": "Getty AAT — seal script, 300343588",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300343588",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配；原文存档于 tmp/aat_c190.json"
+    },
+    {
+      "id": "aat-300343578",
+      "title": "Getty AAT — clerical script, 300343578",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300343578",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配；原文存档于 tmp/aat_c190.json"
+    },
+    {
+      "id": "aat-300343585",
+      "title": "Getty AAT — running script, 300343585",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300343585",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配；原文存档于 tmp/aat_c190.json"
+    },
+    {
+      "id": "aat-300417622",
+      "title": "Getty AAT — musical notation, 300417622",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300417622",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配；原文存档于 tmp/aat_c190.json"
     }
   ]
 }
