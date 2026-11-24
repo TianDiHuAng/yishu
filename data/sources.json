@@ -6219,6 +6219,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；羊毛 2180×2030cm 重18.5kg；说明含六片缝合与21相关件"
+    },
+    {
+      "id": "vam-o82264",
+      "title": "Victoria and Albert Museum — Tile panel from Gaur, 1450–1550, O82264",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O82264",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；釉陶砖 82.5×45.5cm；说明含高尔废墟取出后任意拼合（记录无 summary）"
+    },
+    {
+      "id": "vam-o86037",
+      "title": "Victoria and Albert Museum — Section of a mihrab, Iran, 1307, O86037",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O86037",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；熔块胎钴蓝釉上彩描金 宽92cm；说明含浮雕阿拉伯铭（记录无 summary）"
+    },
+    {
+      "id": "vam-o85357",
+      "title": "Victoria and Albert Museum — Iznik free-standing stele tile, 1560–1600, O85357",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O85357",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；熔块胎釉下彩 42.2×29cm；说明含双面花与1550s配色"
+    },
+    {
+      "id": "vam-o1511742",
+      "title": "Victoria and Albert Museum — Isfahan tile mosaic, ca. 1450–1500, O1511742",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O1511742",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；裁形釉砖嵌灰泥 34.5×44.3cm；说明含莲纹蒙古传入与六色马赛克"
     }
   ]
 }

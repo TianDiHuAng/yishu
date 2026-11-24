@@ -1753,6 +1753,18 @@
       },
       "network": "V&A",
       "verdict": "art-islamic 37→41（总496）；未饱和"
+    },
+    {
+      "cycle": "cycle143",
+      "date": "2026-11-24",
+      "methods_used": [
+        "伊斯兰釉砖"
+      ],
+      "gaps_found": {
+        "entries": 4
+      },
+      "network": "V&A",
+      "verdict": "达到500条目；未饱和"
     }
   ],
   "assessment_c33": {

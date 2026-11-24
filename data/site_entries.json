@@ -12871,7 +12871,9 @@
         "korean-celadon-bottle",
         "mamluk-mosque-lamp",
         "minai-bowl-kashan",
-        "minai-beaker-princes"
+        "minai-beaker-princes",
+        "iran-mihrab-1307",
+        "isfahan-tile-1450"
       ],
       "sources": [
         "vam-o67415"
@@ -13148,7 +13150,8 @@
       "related": [
         "minai-bowl-kashan",
         "islamic-art",
-        "kutahya-tile-panel"
+        "kutahya-tile-panel",
+        "iznik-stele-1560"
       ],
       "sources": [
         "vam-o86971"
@@ -14612,7 +14615,9 @@
       "overview": "一排壁龛内各置花瓶；对称布局填满可用空间；1550s起伊兹尼克开创釉下彩墙砖板，为宫殿与清真寺墙面流行装饰。",
       "related": [
         "iznik-tile-panel-edirne",
-        "islamic-art"
+        "islamic-art",
+        "gaur-tile-panel",
+        "iznik-stele-1560"
       ],
       "sources": [
         "vam-o103140"
@@ -17345,6 +17350,141 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cairo-court-carpet 示意图'><title>cairo-court-carpet</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>开罗·1525—50</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>奥斯曼宫廷</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>宫廷毯</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>2180×2030</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>六片缝合</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>完整性假象</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>21 相关碎片</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>散藏</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>开罗宫廷毯：缝合、近同与散藏</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（V&A）来源；碎片清单未列；分析未展开。"
+    },
+    {
+      "id": "gaur-tile-panel",
+      "title": "高尔釉砖板（孟加拉）",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "15—16世纪",
+      "region": "南亚",
+      "medium": "陶瓷",
+      "tier": "核心",
+      "def": "孟加拉高尔废墟釉陶砖板，维多利亚与艾伯特博物馆藏（O82264）。",
+      "when": "1450—1550年",
+      "overview": "多色釉砖自高尔废墟取出后任意拼合，约拟屋宇正面；平砖与高浮雕砖相杂；陶地满施珐琅彩，主为蓝黄绿白。（该记录无 summary）",
+      "related": [
+        "kutahya-tile-panel",
+        "iznik-stele-1560"
+      ],
+      "sources": [
+        "vam-o82264"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**高尔（Gaur，孟加拉）**的釉砖板（1450—1550），V&A 藏（O82264）。",
+        "风格特征": "该馆说明其**拼合状态**：这些**多色釉砖**在**自高尔废墟取出之后**被**任意拼合**，**粗略地拟作屋宇的正面**；有些砖**平素**，有些则**被凿成高浮雕**；**陶地满施珐琅彩**，**主为蓝、黄、绿、白**。",
+        "代表人物与作品": "作者未署名。相关条目见屈塔希亚砖板与伊兹尼克立碑砖。",
+        "技法或形式分析": "材质为**釉陶砖（terracotta glazed bricks）**；尺寸**高82.5 × 宽45.5厘米**（据该馆记录）。该馆**未提供 summary**，本条目**不补写**其历史；并明确记录其**现存排列是后人任意拼合**，非原初结构。",
+        "与前后风格的关系和争论": "本条目据此把此件读作**「被重排的文物」**：其今日外观（拟屋正面）是**收藏/展示行为**的产物，而非原建筑立面。这提示「完整」往往是被**装配**出来的。",
+        "一图": "示意图以高尔废墟、任意拼合与拟屋正面三者关系标示本板。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）**该记录无 summary**，历史不补写；（3）原建筑位置未记录；（4）高浮雕砖的原用途未说明。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='gaur-tile-panel 示意图'><title>gaur-tile-panel</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>高尔·1450—50</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>孟加拉</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>釉砖板</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>82.5cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>任意拼合</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>被重排</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>拟屋正面</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>展示产物</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>高尔砖板：废墟、重排与展示</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；无 summary；原建筑未记录。"
+    },
+    {
+      "id": "iran-mihrab-1307",
+      "title": "伊朗米哈拉布残段",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "14世纪",
+      "region": "西亚·中亚",
+      "medium": "陶瓷",
+      "tier": "核心",
+      "def": "伊朗熔块胎米哈拉布（祈祷龛）残段，维多利亚与艾伯特博物馆藏（O86037）。",
+      "when": "1307年",
+      "overview": "由二拱形砖与二三角砖组成；花卉纹与浮雕阿拉伯铭文，施蓝；同类平饰以褐色绘；通体描金与珐琅彩；据说取自某建筑（记录截断）。（该记录无 summary）",
+      "related": [
+        "kashan-salting-mihrab",
+        "isfahan-tile-1450"
+      ],
+      "sources": [
+        "vam-o86037"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**伊朗**米哈拉布（祈祷龛）残段，1307年，V&A 藏（O86037）。",
+        "风格特征": "该馆描述：一段 **mihrab（祈祷龛）**，**熔块胎（fritware）**；由**两块凸拱砖与两块三角砖**组成；具**花卉装饰**与**浮雕的阿拉伯铭文**，**施蓝**；并有**类似的平饰以褐色绘出**；**通体施描金（lustre）与珐琅彩**。",
+        "代表人物与作品": "作者未署名。相关条目见卡尚萨尔廷米哈拉布与伊斯法罕马赛克砖。",
+        "技法或形式分析": "材质为**施釉熔块胎，钴蓝、珐琅与描金**；宽92厘米（据该馆记录）。该馆指出其**来源**：据说**取自某建筑**（记录在「removed from the…」处**截断**，本条目**不补写**）；该馆**未提供 summary**。",
+        "与前后风格的关系和争论": "本条目据既有字段陈述：**米哈拉布**以**龛形**标示朝向，「浮雕铭文」与「描金」共同赋予其**神圣的华贵**。因记录无 summary 且来源句截断，**不作历史推断**。",
+        "一图": "示意图以龛形残段、浮雕阿铭与描金珐琅三者关系标示本件。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）**该记录无 summary**，历史不补写；（3）来源建筑在「removed from the…」处**截断，未补写**；（4）铭文内容未迻录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='iran-mihrab-1307 示意图'><title>iran-mihrab-1307</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>伊朗·1307</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>熔块胎</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>米哈拉布残段</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>宽92</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>浮雕阿铭</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>施蓝</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>描金·珐琅</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>华贵</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>米哈拉布：龛形、铭文与描金</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；无 summary；来源截断。"
+    },
+    {
+      "id": "iznik-stele-1560",
+      "title": "伊兹尼克立碑砖",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "16世纪",
+      "region": "西亚·中亚",
+      "medium": "陶瓷",
+      "tier": "核心",
+      "def": "伊兹尼克熔块胎釉下彩立碑砖，维多利亚与艾伯特博物馆藏（O85357）。",
+      "when": "1560—1600年",
+      "overview": "罕见独立直立、双面饰的熔块胎板；白地施蓝绿红——1550—60年代伊兹尼克确立之配色；每面花卉合玫瑰/郁金香/梅或风信子，环中央……（记录截断）。",
+      "related": [
+        "iznik-tile-panel-edirne",
+        "kutahya-tile-panel",
+        "gaur-tile-panel",
+        "isfahan-tile-1450"
+      ],
+      "sources": [
+        "vam-o85357"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**伊兹尼克**熔块胎釉下彩**立碑砖（stele）**（1560—1600），V&A 藏（O85357）。",
+        "风格特征": "该馆称其为「**谜样的物件**」：一块**独立直立的薄板**，以**熔块胎**制、**两面皆有装饰**；**洁白的底**上绘**蓝、绿、红**——这一配色由**伊兹尼克的窑场在1550—60年代**确立；**每一面**都有醒目的**花卉设计**，**合玫瑰、郁金香与梅（prunus）花，或风信子**，**环绕着一个中央的……**（记录在此处**截断**，本条目**不补写**）。",
+        "代表人物与作品": "作者未署名。相关条目见伊兹尼克砖板与屈塔希亚砖板。",
+        "技法或形式分析": "材质为**熔块胎，釉下多彩绘，施釉**；尺寸**高42.2 × 宽29 × 深3厘米**（另一组含框47 × 38.5 × 13，据该馆记录）。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「谜样」当作**诚实标签**：一块**双面独立**的砖板异于常见墙砖，其**用途**未明——本条目**不臆测**，只记录其**双面花饰与确立配色**。这体现了「不确定即不确定」的写法。",
+        "一图": "示意图以双面立板、伊兹尼克配色与花卉组合三者关系标示本砖。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）该馆 summary 在「central …」处**截断，未补写**；（3）「谜样」的具体未解之处未列；（4）立板的用途未明。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='iznik-stele-1560 示意图'><title>iznik-stele-1560</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>伊兹尼克·1560—16</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>熔块胎</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>立碑砖</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>42.2cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>双面花饰</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>玫瑰/郁金香</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>1550s 配色</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>蓝绿红</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>立碑砖：双面、配色与谜样</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；summary 截断；用途未明。"
+    },
+    {
+      "id": "isfahan-tile-1450",
+      "title": "伊斯法罕马赛克砖（残）",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "15世纪",
+      "region": "西亚·中亚",
+      "medium": "陶瓷",
+      "tier": "核心",
+      "def": "伊斯法罕马赛克釉砖残段，维多利亚与艾伯特博物馆藏（O1511742）。",
+      "when": "约1450—1500年",
+      "overview": "以裁形釉砖嵌灰泥拼成图案；钴蓝地繁花；局部存浅蓝边；数块砖已脱落；纹含程式化莲——中国母题于1256—8年蒙古征服伊朗后在中东流行；每砖施六色之一。",
+      "related": [
+        "kashan-salting-mihrab",
+        "iznik-stele-1560",
+        "iran-mihrab-1307"
+      ],
+      "sources": [
+        "vam-o1511742"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**伊斯法罕**马赛克釉砖残段（约1450—1500），V&A 藏（O1511742）。",
+        "风格特征": "该馆描述：一段**马赛克砖（tile mosaic）** 设计；**釉砖被裁切成形后再拼装**成图案；**钴蓝底**上有**多种颜色的繁复花卉**；**局部尚存一道浅蓝边**；**数块砖已脱落**。",
+        "代表人物与作品": "作者未署名。相关条目见卡尚萨尔廷米哈拉布与伊兹尼克立碑砖。",
+        "技法或形式分析": "材质为**施釉陶，裁形并嵌入灰泥基质（plaster matrix）**；尺寸**高34.5 × 宽44.3厘米**（据该馆记录）。该馆给出**母题与技法**：纹样**含程式化的莲花**——这一**中国起源**的母题**在1256—8年蒙古征服伊朗之后**于**中东**流行；图案由**小砖裁形拼合**，此法称**马赛克砖（tile mosaic）**；**每块砖各施六种颜色之一**。",
+        "与前后风格的关系和争论": "本条目据该馆说明把握**「裁切—拼装」的技术逻辑**：马赛克砖以**有限的六色单元**拼出**繁复花卉**，与中国母题（莲）结合——**技术约束**与**跨文化母题**在此并行。本条目只依记录陈述。",
+        "一图": "示意图以裁形马赛克、莲纹蒙古传入与六色单元三者关系标示本砖。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）「1256—8年蒙古征服」为该馆断语；（3）脱落砖块的原位未记录；（4）原属建筑未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='isfahan-tile-1450 示意图'><title>isfahan-tile-1450</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>伊斯法罕·1450—15</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>马赛克砖</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>残段</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>34.5cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>莲纹</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>蒙古传入</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>六色单元</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>裁切拼装</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>伊斯法罕砖：裁装、莲纹与六色</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；脱落原位与原建筑未记录。"
     }
   ]
 }

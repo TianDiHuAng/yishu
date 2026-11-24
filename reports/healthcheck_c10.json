@@ -11,7 +11,8 @@
   "alabaster-pieta",
   "nagasaki-writing-box",
   "st-stephen-glass-1230",
-  "st-peter-preaching-glass"
+  "st-peter-preaching-glass",
+  "gaur-tile-panel"
  ],
  "duplicates": [],
  "contradictions": [
@@ -281,6 +282,20 @@
    [
     "1389"
    ]
+  ],
+  [
+   "iznik-stele-1560",
+   "1560—1600年",
+   [
+    "1550"
+   ]
+  ],
+  [
+   "isfahan-tile-1450",
+   "约1450—1500年",
+   [
+    "1256"
+   ]
   ]
  ],
  "orphans": [],
@@ -337,6 +352,6 @@
  "link_audit": {
   "cross_domain": 24,
   "oneway": 0,
-  "total_links": 1634
+  "total_links": 1650
  }
 }

@@ -1,0 +1,19 @@
+{
+ "id": "iran-mihrab-1307",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为**伊朗**米哈拉布（祈祷龛）残段，1307年，V&A 藏（O86037）。",
+  "风格特征": "该馆描述：一段 **mihrab（祈祷龛）**，**熔块胎（fritware）**；由**两块凸拱砖与两块三角砖**组成；具**花卉装饰**与**浮雕的阿拉伯铭文**，**施蓝**；并有**类似的平饰以褐色绘出**；**通体施描金（lustre）与珐琅彩**。",
+  "代表人物与作品": "作者未署名。相关条目见卡尚萨尔廷米哈拉布与伊斯法罕马赛克砖。",
+  "技法或形式分析": "材质为**施釉熔块胎，钴蓝、珐琅与描金**；宽92厘米（据该馆记录）。该馆指出其**来源**：据说**取自某建筑**（记录在「removed from the…」处**截断**，本条目**不补写**）；该馆**未提供 summary**。",
+  "与前后风格的关系和争论": "本条目据既有字段陈述：**米哈拉布**以**龛形**标示朝向，「浮雕铭文」与「描金」共同赋予其**神圣的华贵**。因记录无 summary 且来源句截断，**不作历史推断**。",
+  "一图": "示意图以龛形残段、浮雕阿铭与描金珐琅三者关系标示本件。",
+  "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）**该记录无 summary**，历史不补写；（3）来源建筑在「removed from the…」处**截断，未补写**；（4）铭文内容未迻录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='iran-mihrab-1307 示意图'><title>iran-mihrab-1307</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>伊朗·1307</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>熔块胎</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>米哈拉布残段</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>宽92</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>浮雕阿铭</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>施蓝</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>描金·珐琅</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>华贵</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>米哈拉布：龛形、铭文与描金</text></g></svg>",
+ "sources": [
+  "vam-o86037"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（V&A）来源；无 summary；来源截断。"
+}

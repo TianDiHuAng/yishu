@@ -7982,7 +7982,9 @@
         "korean-celadon-bottle",
         "mamluk-mosque-lamp",
         "minai-bowl-kashan",
-        "minai-beaker-princes"
+        "minai-beaker-princes",
+        "iran-mihrab-1307",
+        "isfahan-tile-1450"
       ],
       "sources": [
         "vam-o67415"
@@ -8155,7 +8157,8 @@
       "related": [
         "minai-bowl-kashan",
         "islamic-art",
-        "kutahya-tile-panel"
+        "kutahya-tile-panel",
+        "iznik-stele-1560"
       ],
       "sources": [
         "vam-o86971"
@@ -9060,7 +9063,9 @@
       "overview": "一排壁龛内各置花瓶；对称布局填满可用空间；1550s起伊兹尼克开创釉下彩墙砖板，为宫殿与清真寺墙面流行装饰。",
       "related": [
         "iznik-tile-panel-edirne",
-        "islamic-art"
+        "islamic-art",
+        "gaur-tile-panel",
+        "iznik-stele-1560"
       ],
       "sources": [
         "vam-o103140"
@@ -10726,6 +10731,89 @@
       ],
       "sources": [
         "vam-o79396"
+      ]
+    },
+    {
+      "id": "gaur-tile-panel",
+      "title": "高尔釉砖板（孟加拉）",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "15—16世纪",
+      "region": "南亚",
+      "medium": "陶瓷",
+      "tier": "核心",
+      "def": "孟加拉高尔废墟釉陶砖板，维多利亚与艾伯特博物馆藏（O82264）。",
+      "when": "1450—1550年",
+      "overview": "多色釉砖自高尔废墟取出后任意拼合，约拟屋宇正面；平砖与高浮雕砖相杂；陶地满施珐琅彩，主为蓝黄绿白。（该记录无 summary）",
+      "related": [
+        "kutahya-tile-panel",
+        "iznik-stele-1560"
+      ],
+      "sources": [
+        "vam-o82264"
+      ]
+    },
+    {
+      "id": "iran-mihrab-1307",
+      "title": "伊朗米哈拉布残段",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "14世纪",
+      "region": "西亚·中亚",
+      "medium": "陶瓷",
+      "tier": "核心",
+      "def": "伊朗熔块胎米哈拉布（祈祷龛）残段，维多利亚与艾伯特博物馆藏（O86037）。",
+      "when": "1307年",
+      "overview": "由二拱形砖与二三角砖组成；花卉纹与浮雕阿拉伯铭文，施蓝；同类平饰以褐色绘；通体描金与珐琅彩；据说取自某建筑（记录截断）。（该记录无 summary）",
+      "related": [
+        "kashan-salting-mihrab",
+        "isfahan-tile-1450"
+      ],
+      "sources": [
+        "vam-o86037"
+      ]
+    },
+    {
+      "id": "iznik-stele-1560",
+      "title": "伊兹尼克立碑砖",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "16世纪",
+      "region": "西亚·中亚",
+      "medium": "陶瓷",
+      "tier": "核心",
+      "def": "伊兹尼克熔块胎釉下彩立碑砖，维多利亚与艾伯特博物馆藏（O85357）。",
+      "when": "1560—1600年",
+      "overview": "罕见独立直立、双面饰的熔块胎板；白地施蓝绿红——1550—60年代伊兹尼克确立之配色；每面花卉合玫瑰/郁金香/梅或风信子，环中央……（记录截断）。",
+      "related": [
+        "iznik-tile-panel-edirne",
+        "kutahya-tile-panel",
+        "gaur-tile-panel",
+        "isfahan-tile-1450"
+      ],
+      "sources": [
+        "vam-o85357"
+      ]
+    },
+    {
+      "id": "isfahan-tile-1450",
+      "title": "伊斯法罕马赛克砖（残）",
+      "kind": "作品",
+      "unit": "art-islamic",
+      "era": "15世纪",
+      "region": "西亚·中亚",
+      "medium": "陶瓷",
+      "tier": "核心",
+      "def": "伊斯法罕马赛克釉砖残段，维多利亚与艾伯特博物馆藏（O1511742）。",
+      "when": "约1450—1500年",
+      "overview": "以裁形釉砖嵌灰泥拼成图案；钴蓝地繁花；局部存浅蓝边；数块砖已脱落；纹含程式化莲——中国母题于1256—8年蒙古征服伊朗后在中东流行；每砖施六色之一。",
+      "related": [
+        "kashan-salting-mihrab",
+        "iznik-stele-1560",
+        "iran-mihrab-1307"
+      ],
+      "sources": [
+        "vam-o1511742"
       ]
     }
   ]

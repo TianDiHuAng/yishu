@@ -1,0 +1,101 @@
+{
+ "O82264": {
+  "title": "{'title': 'Tiled panel', 'type': 'generic title'}",
+  "date": "{'date': {'text': '1450 - 1550', 'earliest': '1450-01-01', 'latest': '1550-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Gaur', 'id': 'x32571'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "mat": "Terracotta glazed bricks",
+  "desc": "These polychrome tiles were put together arbitrarily after their removal from the ruins of Gaur. The tiles are arranged roughly to simulate a house front. Some of the tiles are flat and some were chiselled in high relief. The earthenware ground is covered in enamel colours, chiefly blue, yellow, gren and white. The relief motifs include repeating diamonds, squares, lenticular forms, pilasters, a cornice, a plantain tree and a lotus roundel. The four and five-colour polychromed panels show lotuses of Sino-Islamic rather than Indian inspiration.",
+  "summary": "",
+  "objtype": "Tile panel",
+  "dims": [
+   [
+    "Height",
+    "82.5",
+    "cm"
+   ],
+   [
+    "Width",
+    "45.5",
+    "cm"
+   ]
+  ]
+ },
+ "O86037": {
+  "title": "",
+  "date": "{'date': {'text': '1307', 'earliest': '1307-01-01', 'latest': '1307-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Iran', 'id': 'x30220'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "mat": "Glazed fritware with cobalt, enamelled and lustred decoration",
+  "desc": "Section of a <i>mihrab</i> (prayer-niche), fritware. It consists of two convex and arched tiles and two triangular ones, with floral ornament and Arabic inscriptions in relief, coloured blue and with similar flat decoration painted in brown, the whole painted with lustre and enamels; said to have been removed from the wall facing Mecca of a ruined shrine at Natanz (Iran), about fifty miles south of Kashan.",
+  "summary": "",
+  "objtype": "Mihrab",
+  "dims": [
+   [
+    "Width",
+    "92",
+    "cm"
+   ]
+  ]
+ },
+ "O85357": {
+  "title": "{'title': 'Stele', 'type': ''}",
+  "date": "{'date': {'text': '1560-1600', 'earliest': '1560-01-01', 'latest': '1600-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Iznik', 'id': 'x32510'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "mat": "Fritware, polychrome underglaze painted, glazed",
+  "desc": "Tile of fritware ceramic, with decoration painted under the glaze.",
+  "summary": "This enigmatic object is a free-standing, upright slab made of fritware ceramic and decorated on both sides. The clear white ground was painted in blue, green and red, a colour combination established in the Iznik potteries in the 1550s and 1560s. On each face is a striking floral design combining roses, tulips and prunus blossom or hyacinths. This is arranged around a central cartouche containing an Arabic text. The first part is the Shahadah, a key expression of Muslim belief that reads, “There is no god but God. Muhammad is the prophet of God.” The second part is a short prayer meaning, “God’s mercy upon him,” which is spoken out of respect after the name of a deceased Muslim. The prayer is not generally used after the name of the Prophet Muhammad, for whom a longer prayer invoking God's blessings and peace is said. The shorter prayer was probably added here to fill a space.\r\n\r\n\tThe inscription indicates that the stele was used in a religious context, but it does not tell us much more about its intended function. The object has been called a grave-marker, but it does not resemble the stone markers used for the graves of the rich in this period in any way. In addition, a grave-marker of this quality would surely have been inscribed with the name of the deceased.\r\n\r\n\tThe description of \"pulpit tile\" written on the early 20th-century mount is certainly wrong, but the writer may have confused the minbar, or pulpit, of a mosque with the mihrab, the empty niche that indicates the direction of prayer. The stele could have functioned as a portable mihrab, used when the pious owner and his entourage were out hunting, say, or on campaign. The major flaw in this theory is that the \"mihrab\" would only have been useful if it was correctly aligned with the direction of Mecca, towards which Muslims have to pray. This would have required a member of the company making a complex astronomical calculation in order to align the \"mihrab\" correctly.",
+  "objtype": "Tile",
+  "dims": [
+   [
+    "Height",
+    "42.2",
+    "cm"
+   ],
+   [
+    "Width",
+    "29",
+    "cm"
+   ],
+   [
+    "Depth",
+    "3",
+    "cm"
+   ],
+   [
+    "Height",
+    "47",
+    "cm"
+   ],
+   [
+    "Width",
+    "38.5",
+    "cm"
+   ],
+   [
+    "Depth",
+    "13",
+    "cm"
+   ]
+  ]
+ },
+ "O1511742": {
+  "title": "",
+  "date": "{'date': {'text': 'ca. 1450-1500', 'earliest': '1445-01-01', 'latest': '1500-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Ispahan', 'id': 'x28926'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': 'probably'}",
+  "mat": "Glazed earthenware cut to shape and embedded in a plaster matrix",
+  "desc": "Section of a tile mosaic design, in which glazed tiles were cut to shape and assembled to form a pattern. It has a cobalt blue background with intricate floral design in various colours. A lighter blue border remains on part of the tile. Several pieces of tile have fallen out.",
+  "summary": "The pattern incorporates stylised lotus flowers. This motif of Chinese origin became popular in the Middle East after the Mongol conquest of Iran in 1256–8. The design was assembled from small pieces of tile cut to shape, a technique known as tile mosaic. Each tile was glazed in one of six different colours.",
+  "objtype": "Tile",
+  "dims": [
+   [
+    "Height",
+    "34.5",
+    "cm"
+   ],
+   [
+    "Width",
+    "44.3",
+    "cm"
+   ]
+  ]
+ }
+}

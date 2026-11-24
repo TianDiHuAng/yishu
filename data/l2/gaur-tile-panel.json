@@ -1,0 +1,19 @@
+{
+ "id": "gaur-tile-panel",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为**高尔（Gaur，孟加拉）**的釉砖板（1450—1550），V&A 藏（O82264）。",
+  "风格特征": "该馆说明其**拼合状态**：这些**多色釉砖**在**自高尔废墟取出之后**被**任意拼合**，**粗略地拟作屋宇的正面**；有些砖**平素**，有些则**被凿成高浮雕**；**陶地满施珐琅彩**，**主为蓝、黄、绿、白**。",
+  "代表人物与作品": "作者未署名。相关条目见屈塔希亚砖板与伊兹尼克立碑砖。",
+  "技法或形式分析": "材质为**釉陶砖（terracotta glazed bricks）**；尺寸**高82.5 × 宽45.5厘米**（据该馆记录）。该馆**未提供 summary**，本条目**不补写**其历史；并明确记录其**现存排列是后人任意拼合**，非原初结构。",
+  "与前后风格的关系和争论": "本条目据此把此件读作**「被重排的文物」**：其今日外观（拟屋正面）是**收藏/展示行为**的产物，而非原建筑立面。这提示「完整」往往是被**装配**出来的。",
+  "一图": "示意图以高尔废墟、任意拼合与拟屋正面三者关系标示本板。",
+  "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）**该记录无 summary**，历史不补写；（3）原建筑位置未记录；（4）高浮雕砖的原用途未说明。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='gaur-tile-panel 示意图'><title>gaur-tile-panel</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>高尔·1450—50</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>孟加拉</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>釉砖板</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>82.5cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>任意拼合</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>被重排</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>拟屋正面</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>展示产物</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>高尔砖板：废墟、重排与展示</text></g></svg>",
+ "sources": [
+  "vam-o82264"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（V&A）来源；无 summary；原建筑未记录。"
+}
