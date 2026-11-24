@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 608 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 614 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -418,6 +418,12 @@
 | glaze | 罩染（Glaze） | 术语 | 历代 | 欧洲 | 绘画 | 重要 | O1 |
 | grisaille | 灰色画（Grisaille） | 术语 | 历代 | 欧洲 | 绘画 | 重要 | O1 |
 | trompe-loeil | 错视画（Trompe-l'oeil） | 术语 | 历代 | 欧洲 | 绘画 | 重要 | O1 |
+| still-life | 静物画（Still life） | 术语 | 历代 | 欧洲 | 绘画 | 重要 | O1 |
+| triptych | 三联画（Triptych） | 术语 | 历代 | 欧洲 | 绘画 | 重要 | O1 |
+| altarpiece | 祭坛画（Altarpiece） | 术语 | 历代 | 欧洲 | 绘画 | 重要 | O1 |
+| scumbling | 擦涂法（Scumbling） | 术语 | 历代 | 欧洲 | 绘画 | 重要 | O1 |
+| tenebrism | 暗调法（Tenebrism） | 术语 | 历代 | 欧洲 | 绘画 | 重要 | O1 |
+| pentimenti | 悔改痕迹（Pentimenti） | 术语 | 历代 | 欧洲 | 绘画 | 重要 | O1 |
 
 ## art-asia（亚洲艺术（南亚/东南亚/东亚））
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

@@ -1,0 +1,19 @@
+{
+ "id": "altarpiece",
+ "level": "L2",
+ "sections": {
+  "时代背景": "祭坛画属于基督教教堂的陈设。词表定义没有给出起源时间与地域，本条目不限定。",
+  "风格特征": "词表定义：祭坛画是基督教教堂里绘制或雕刻的、带图像的物件，通常有框，立在祭坛后部、紧靠祭坛石后侧，或挂在祭坛后的墙上。",
+  "代表人物与作品": "本条为术语，无特定代表人物与专属作品。词表定义没有列举画家或作品，本条目不补写。相关条目可参见三联画与早期基督教艺术。",
+  "技法或形式分析": "位置要点：可设在中央主祭坛，也可设在侧祭坛。题材通常是一位或几位宗教人物，常含叙事或教诲场景，也可含教堂的赞助人。",
+  "与前后风格的关系和争论": "词表在三联画条目中称三联画是祭坛画的常见形式。本条目不作进一步比较，也不涉及争论。",
+  "一图": "示意图以祭坛画为中心，标示有框、置于祭坛后、宗教人物与赞助人三项。",
+  "待核实": "（1）本条目事实仅来自盖蒂《艺术与建筑词表》（AAT）的单一定义，整条标记待核实。（2）词表未给出具体名作与年代；（3）祭坛画的其他形式，词表未列出。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='altarpiece 示意图'><title>altarpiece</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>基督教教堂</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>绘制或雕刻</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>祭坛画</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>有框</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>祭坛后部或墙上</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>主祭坛侧祭坛</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>宗教人物</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>或赞助人</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据盖蒂 AAT 定义</text></g></svg>",
+ "sources": [
+  "aat-300075940"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一来源（盖蒂AAT）；名作与年代未给出。"
+}

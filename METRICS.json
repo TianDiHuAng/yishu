@@ -4036,6 +4036,31 @@
       "check_links_result": "broken=0(553页)",
       "audit_all": "12/12 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle173",
+      "date": "2026-11-24",
+      "status": "completed",
+      "gap_methods": [
+        "美术基础术语（盖蒂AAT）"
+      ],
+      "network": "Getty AAT 200；Wikipedia/Met/IMSLP 不可达",
+      "new_entries": 6,
+      "new_entry_ids": [
+        "still-life",
+        "triptych",
+        "altarpiece",
+        "scumbling",
+        "tenebrism",
+        "pentimenti"
+      ],
+      "new_sources": 6,
+      "sources_total": 738,
+      "entries_total": 614,
+      "pages": 651,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(651页)",
+      "commits": 1
     }
   ]
 }

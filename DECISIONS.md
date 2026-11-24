@@ -1675,3 +1675,10 @@ art-contemporary 13→17。写前查重通过（标题与来源 id 均未被使�
 **如实**：正文只转述 AAT 定义；起源、艺术家、名作一律不写，放入“待核实”。错视画的古希腊/古罗马/文艺复兴时间线是词表概括，已注明。与人物或其他条目的关联是库内链接，词表并未提及，已在条目中注明。错视画 id 用 `trompe-loeil`，因撇号不能进 URL。
 过程记录：按完整顺序 add → write → build_scope → merge_l2 → check → gen_site → check_links 执行；条目数 602 → 608，新增恰好 6 条，旧条目无异常改动，check.py errors=0，check_links 645 页 0 断链。
 可逆：删 write_c172 生成的 6 个 data/l2 文件、catalog 元组与本轮来源后重跑 build_scope/merge_l2/gen_site。代价：单来源（盖蒂 AAT），待核实。
+
+## D173 — Cycle173 美术基础术语 6 条（608 → 614）
+**缺口**：库内缺静物画、三联画、祭坛画、擦涂法、暗调法、悔改痕迹等基础术语；Wikipedia、Met、IMSLP 仍不可达，仅盖蒂 AAT 可用，音乐、建筑缺口依旧无法补。
+**做法**：经 vocab.getty.edu SPARQL 取回各术语的英文定义（scopeNote），编号与标签匹配；新增 still-life、triptych、altarpiece、scumbling、tenebrism、pentimenti，每条单来源，整条标记待核实。
+**如实**：正文只转述 AAT 定义；起源、艺术家、名作一律不写，放入“待核实”。静物画的古希腊罗马、16世纪意大利、17世纪荷兰说法是词表概括，已注明。与卡拉瓦乔、罩染等条目的关联是库内链接，词表并未提及，已在条目中注明。库中无荷兰黄金时代、凡·艾克条目，故未建链。
+过程记录：add → write → build_scope → merge_l2 → gen_site → check → check_links；条目数 608 → 614，新增恰好 6 条，check.py errors=0，check_links 651 页 0 断链。
+可逆：删 write_c173 生成的 6 个 data/l2 文件、catalog 元组与本轮来源后重跑 build_scope/merge_l2/gen_site。代价：单来源（盖蒂 AAT），待核实。

@@ -180,7 +180,8 @@
       "when": "约公元2—6世纪",
       "overview": "早期基督教艺术见于地下墓室壁画与巴西利卡教堂，后者成为礼拜建筑的基本形制；早期图像中的寓意性表现待来源核实。",
       "related": [
-        "byzantine-art"
+        "byzantine-art",
+        "altarpiece"
       ],
       "sources": [
         "enc-medieval-art",
@@ -229,7 +230,8 @@
         "auvergne-virgin-majesty",
         "ivory-crucified-christ",
         "alabaster-pieta",
-        "medieval-crossmedia"
+        "medieval-crossmedia",
+        "triptych"
       ],
       "sources": [
         "enc-gothic",
@@ -577,7 +579,8 @@
         "rubens-isabella-brant",
         "velazquez-jester-calabazas",
         "hals-woman-aeltje-pater",
-        "ochtervelt-musical-company"
+        "ochtervelt-musical-company",
+        "still-life"
       ],
       "sources": [
         "enc-baroque",
@@ -629,7 +632,8 @@
         "la-tour-peter",
         "parodi-sleeping-christ",
         "liss-cupid",
-        "chiaroscuro"
+        "chiaroscuro",
+        "tenebrism"
       ],
       "sources": [
         "enc-caravaggio",
@@ -12971,7 +12975,8 @@
       "overview": "湿壁画是一种壁画技法：干颜料先与水研磨，再刷到湿的或半干的石灰灰泥上。",
       "related": [
         "early-renaissance",
-        "high-renaissance"
+        "high-renaissance",
+        "pentimenti"
       ],
       "sources": [
         "aat-300053357"
@@ -13015,7 +13020,8 @@
         "caravaggio",
         "rembrandt",
         "leonardo",
-        "grisaille"
+        "grisaille",
+        "tenebrism"
       ],
       "sources": [
         "aat-300053414"
@@ -13058,7 +13064,9 @@
         "northern-renaissance",
         "sfumato",
         "impasto",
-        "glaze"
+        "glaze",
+        "still-life",
+        "pentimenti"
       ],
       "sources": [
         "aat-300178684"
@@ -13080,7 +13088,8 @@
         "oil-painting",
         "leonardo",
         "mona-lisa",
-        "glaze"
+        "glaze",
+        "scumbling"
       ],
       "sources": [
         "aat-300053421"
@@ -13160,7 +13169,8 @@
       "overview": "在绘画中，罩染是加在画面上的一层透明至半透明的薄色膜，用来改变色调。",
       "related": [
         "oil-painting",
-        "sfumato"
+        "sfumato",
+        "scumbling"
       ],
       "sources": [
         "aat-300458811"
@@ -13204,6 +13214,126 @@
       ],
       "sources": [
         "aat-300056506"
+      ]
+    },
+    {
+      "id": "still-life",
+      "title": "静物画（Still life）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "以无生命物体为描绘重点的图像，常见为水果、花卉、器皿等摆放在桌上的对象。",
+      "when": "历代",
+      "overview": "静物画是以无生命物体为描绘重点的图像，常见题材有水果、花卉、器皿和餐具，也可含头骨、蜡烛、沙漏等，通常摆放在桌上。",
+      "related": [
+        "oil-painting",
+        "baroque"
+      ],
+      "sources": [
+        "aat-300015638"
+      ]
+    },
+    {
+      "id": "triptych",
+      "title": "三联画（Triptych）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "由三块相连的板组成或装在三块相连板上的画或雕刻，常为外侧两翼可折向中央的形式。",
+      "when": "历代",
+      "overview": "三联画是由三块相连的板组成、或装在三块相连的板上的画或雕刻，外侧两翼常可折向中央，是祭坛画的常见形式。",
+      "related": [
+        "altarpiece",
+        "gothic"
+      ],
+      "sources": [
+        "aat-300178234"
+      ]
+    },
+    {
+      "id": "altarpiece",
+      "title": "祭坛画（Altarpiece）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "基督教教堂中带图像的绘制或雕刻物，通常有框，置于祭坛后部或挂在祭坛后的墙上。",
+      "when": "历代",
+      "overview": "祭坛画指基督教教堂里绘制或雕刻的带图像的物件，通常有框，立在祭坛后部或挂在祭坛后的墙上，主题多为宗教人物，常含叙事或教诲场景，也可含教堂的赞助人。",
+      "related": [
+        "triptych",
+        "early-christian-art"
+      ],
+      "sources": [
+        "aat-300075940"
+      ]
+    },
+    {
+      "id": "scumbling",
+      "title": "擦涂法（Scumbling）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "用近乎干的笔把不透明或半透明的颜色涂在画面上，使形象不那么清晰或鲜亮的技法。",
+      "when": "历代",
+      "overview": "擦涂法是用近乎干的画笔，把一层不透明或半透明的颜色涂到画面上，使形象变得不那么清晰或鲜亮。",
+      "related": [
+        "glaze",
+        "sfumato"
+      ],
+      "sources": [
+        "aat-300053373"
+      ]
+    },
+    {
+      "id": "tenebrism",
+      "title": "暗调法（Tenebrism）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "在画面中强调阴影、黑暗或夜景效果的技法，阴影常使画中人物变得模糊。",
+      "when": "历代",
+      "overview": "暗调法是在画中强调阴影、黑暗或夜景效果的技法；这样的处理通常会使画中的人物变得模糊不清。",
+      "related": [
+        "chiaroscuro",
+        "caravaggio"
+      ],
+      "sources": [
+        "aat-300343524"
+      ]
+    },
+    {
+      "id": "pentimenti",
+      "title": "悔改痕迹（Pentimenti）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "画家改变主意的物证，被覆盖过的部分重新显露出来。",
+      "when": "历代",
+      "overview": "悔改痕迹是画家中途改变构思的物证，表现为画面中曾被涂盖的部分重新显露出来。",
+      "related": [
+        "oil-painting",
+        "fresco"
+      ],
+      "sources": [
+        "aat-300189805"
       ]
     }
   ]
