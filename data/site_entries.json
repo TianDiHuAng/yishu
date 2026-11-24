@@ -798,7 +798,8 @@
       "sources": [
         "enc-leonardo",
         "enc-high-renaissance",
-        "wd-leonardo"
+        "wd-leonardo",
+        "ulan-500010879"
       ],
       "level": "L2",
       "sections": {
@@ -808,7 +809,7 @@
         "技法或形式分析": "在技法上，他以明暗法塑造形象的体积与光影，以空气透视表现远近层次的变化。留下大量手稿这一点，也显示出其创作与工程、解剖研究之间的关联。这些手法共同构成其绘画的基本面貌。",
         "与前后风格的关系和争论": "相关条目将其与盛期文艺复兴及《蒙娜丽莎》直接关联，可见其处于该风格的核心位置。现有材料记载较一致，未见具体争论，学界主要讨论其所属盛期文艺复兴的分期与边界问题。",
         "一图": "示意图展示列奥纳多以明暗法与空气透视为核心，连接其代表作与所属风格的关系。",
-        "待核实": "概述点名《蒙娜丽莎》与《最后的晚餐》，但未给出两作的创作年份与收藏地点。若要在条目中补入这些信息，须待补充第二来源后核实。其手稿的具体数量与保存情况同样需要额外来源确认。 【已复核·Wikidata】生卒：第二来源 wd-leonardo（https://www.wikidata.org/wiki/Q762），据其结构化数据：生年 1452，卒年 1519。"
+        "待核实": "概述点名《蒙娜丽莎》与《最后的晚餐》，但未给出两作的创作年份与收藏地点。若要在条目中补入这些信息，须待补充第二来源后核实。其手稿的具体数量与保存情况同样需要额外来源确认。 【已复核·Wikidata】生卒：第二来源 wd-leonardo（https://www.wikidata.org/wiki/Q762），据其结构化数据：生年 1452，卒年 1519。（ULAN 对照，2026-11-24）ULAN 简介：Italian painter, draftsman, scientist, 1452-1519。生卒年1452—1519与本条目 when 一致；职业含画家，与本条目相容。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='列奥纳多·达·芬奇 示意图'><title>列奥纳多·达·芬奇</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>列奥纳多·达·芬奇</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>全才</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>明暗法</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>运用</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>空气透视</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>运用</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>蒙娜丽莎</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>代表作</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>列奥纳多运用明暗法与空气透视，代表作蒙娜丽莎</text></g></svg>"
     },
@@ -866,7 +867,8 @@
       "sources": [
         "enc-raphael",
         "enc-high-renaissance",
-        "wd-raphael"
+        "wd-raphael",
+        "ulan-500023578"
       ],
       "level": "L2",
       "sections": {
@@ -876,7 +878,7 @@
         "技法或形式分析": "在技法层面，拉斐尔以金字塔构图组织画面，形成稳定而清晰的结构。色彩上他偏好柔和的色调，使形象与整体构图相互协调。关于金字塔构图与柔和色彩的英文对应术语，条目未明确给出。",
         "与前后风格的关系和争论": "拉斐尔被视为盛期文艺复兴的代表画家，与列奥纳多·达·芬奇同属这一传统。就其与前后风格的关系而言，现有记载较为一致。学界主要讨论的是他与盛期文艺复兴之间的分期与边界问题。",
         "一图": "示意图以拉斐尔为中心，展示其金字塔构图、柔和色彩与两件代表作之间的关联。",
-        "待核实": "拉斐尔的精确生卒年区间（1483—1520年）来自种子字段，尚待第二来源逐字核实。《雅典学院》《西斯廷圣母》的具体创作年份与收藏地条目未提供，待补充第二来源。金字塔构图、柔和色彩的英文对应术语亦需核实。 【已复核·Wikidata】生卒：第二来源 wd-raphael（https://www.wikidata.org/wiki/Q5597），据其结构化数据：生年 1483，卒年 1520。"
+        "待核实": "拉斐尔的精确生卒年区间（1483—1520年）来自种子字段，尚待第二来源逐字核实。《雅典学院》《西斯廷圣母》的具体创作年份与收藏地条目未提供，待补充第二来源。金字塔构图、柔和色彩的英文对应术语亦需核实。 【已复核·Wikidata】生卒：第二来源 wd-raphael（https://www.wikidata.org/wiki/Q5597），据其结构化数据：生年 1483，卒年 1520。（ULAN 对照，2026-11-24）ULAN 简介：Italian painter, architect, 1483-1520。生卒年1483—1520与本条目 when 一致；职业为画家与建筑师，与本条目相容。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='拉斐尔 示意图'><title>拉斐尔</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>拉斐尔</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>盛期文艺复兴</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>金字塔构图</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>和谐优雅</text><rect class='svg-box-accent' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='665.0' y='142' text-anchor='middle'>雅典学院</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>代表作</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>拉斐尔的构图技法与代表作</text></g></svg>"
     },
@@ -901,7 +903,8 @@
       "sources": [
         "enc-botticelli",
         "enc-italian-renaissance-painting",
-        "wd-botticelli"
+        "wd-botticelli",
+        "ulan-500015254"
       ],
       "level": "L2",
       "sections": {
@@ -911,7 +914,7 @@
         "技法或形式分析": "线条流畅与色彩明丽是概述对其形式特征的描述。神话题材与新柏拉图主义趣味共同构成其作品的精神取向。输入未给出具体构图或笔法细节，分析限于上述要点。",
         "与前后风格的关系和争论": "相关条目列出早期文艺复兴与威尼斯画派，可据此把波提切利放在早期文艺复兴脉络中理解其与威尼斯画派的关系。概述未记载争论事件或反弹，也未点名持论者。记载较一致，学界主要讨论其分期与归属问题。",
         "一图": "示意图以波提切利为中心，连接代表作《春》与《维纳斯的诞生》，并标出线条流畅、色彩明丽与新柏拉图主义趣味。",
-        "待核实": "概述提到《春》与《维纳斯的诞生》，但未给出创作年份与收藏地。相关条目早期文艺复兴与威尼斯画派只有标题，未附作品层面的对应关系。若需补充作品信息，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核·Wikidata】生卒：第二来源 wd-botticelli（https://www.wikidata.org/wiki/Q5669），据其结构化数据：生年 1445，卒年 1510。"
+        "待核实": "概述提到《春》与《维纳斯的诞生》，但未给出创作年份与收藏地。相关条目早期文艺复兴与威尼斯画派只有标题，未附作品层面的对应关系。若需补充作品信息，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核·Wikidata】生卒：第二来源 wd-botticelli（https://www.wikidata.org/wiki/Q5669），据其结构化数据：生年 1445，卒年 1510。（ULAN 对照，2026-11-24）ULAN 简介：Florentine painter, 1444/1445-1510。ULAN 生年写作 1444/1445（两个年份并列），本条目 when 为约1445—1510年，卒年1510一致，生年落在 ULAN 给出的范围内；职业为画家，与本条目相容。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='波提切利 示意图'><title>波提切利</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>波提切利</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>早期文艺复兴画家</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>《春》</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>代表作</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>维纳斯的诞生</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>代表作</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>新柏拉图主义</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>趣味</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>代表作《春》与《维纳斯的诞生》，线条流畅、色彩明丽</text></g></svg>"
     },
@@ -1112,7 +1115,8 @@
       "sources": [
         "enc-rembrandt",
         "enc-baroque",
-        "wd-rembrandt"
+        "wd-rembrandt",
+        "ulan-500011051"
       ],
       "level": "L2",
       "sections": {
@@ -1122,7 +1126,7 @@
         "技法或形式分析": "层层罩染是其重要的技法手段。聚光式明暗则用于在画面中建立视觉重心。二者共同服务于心理深度的刻画。",
         "与前后风格的关系和争论": "伦勃朗与巴洛克相关，维米尔列于其相关条目，可据此观察荷兰黄金时代内部在题材与光影上的差异。记载较一致，学界主要讨论其风格的分期与边界问题。",
         "一图": "示意图呈现伦勃朗以层层罩染与聚光式明暗刻画心理深度的方式。",
-        "待核实": "本条目依据 Rembrandt 与 Baroque 两条权威百科条目。作品的具体年份与收藏地未在字段中给出，待补充第二来源核实；与维米尔的具体关联亦待补充第二来源。 【已复核·Wikidata】生卒：第二来源 wd-rembrandt（https://www.wikidata.org/wiki/Q5598），据其结构化数据：生年 1606，卒年 1669。 【已复核·Cycle54】本条原标为 L3（深度条目）。复核发现其「争议」节并无**两方具名立场**，按 R16 要求（L3 须有 ≥1 组真实争议、≥2 方）不符，故**降级为 L2**；原有内容一字未删，争议节的说明保留原样。"
+        "待核实": "本条目依据 Rembrandt 与 Baroque 两条权威百科条目。作品的具体年份与收藏地未在字段中给出，待补充第二来源核实；与维米尔的具体关联亦待补充第二来源。 【已复核·Wikidata】生卒：第二来源 wd-rembrandt（https://www.wikidata.org/wiki/Q5598），据其结构化数据：生年 1606，卒年 1669。 【已复核·Cycle54】本条原标为 L3（深度条目）。复核发现其「争议」节并无**两方具名立场**，按 R16 要求（L3 须有 ≥1 组真实争议、≥2 方）不符，故**降级为 L2**；原有内容一字未删，争议节的说明保留原样。（ULAN 对照，2026-11-24）ULAN 简介：Dutch painter, printmaker, 1606-1669。生卒年1606—1669与本条目 when 一致；职业为画家与版画家，与本条目相容。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='伦勃朗 示意图'><title>伦勃朗</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>伦勃朗</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>光影处理</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>夜巡</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>自画像</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>荷兰</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>巴洛克</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>伦勃朗以层层罩染与聚光式明暗刻画心理深度</text></g></svg>",
       "l3": {
@@ -1195,7 +1199,8 @@
       "sources": [
         "enc-rubens",
         "enc-baroque",
-        "wd-rubens"
+        "wd-rubens",
+        "ulan-500002921"
       ],
       "level": "L2",
       "sections": {
@@ -1205,7 +1210,7 @@
         "技法或形式分析": "在形式上，鲁本斯以宏大构图组织画面，人体造型丰腴，动势强烈。色彩运用饱满，是其绘画的显著特征。他融合意大利与北方传统，并将这种综合体现在其曾主持的大规模装饰工程之中。",
         "与前后风格的关系和争论": "鲁本斯在 def 中被明确归为巴洛克画家，故巴洛克构成其风格归属的基本框架。related 另列洛可可，提示其艺术与后续风格之间的关联。现有记载对这一归属的表述较一致，未见明确的学派争论；学界主要讨论鲁本斯的分期与边界问题，尤其是其与巴洛克、洛可可之间影响关系的界定。",
         "一图": "示意图呈现鲁本斯作为佛兰德斯巴洛克画家，以丰腴人体、饱满色彩与宏大构图见长，并融合意大利与北方传统。",
-        "待核实": "现有材料未提供鲁本斯具体作品名称、创作年代与收藏地，如需补充，应待补充第二来源后再行写入。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核·Wikidata】生卒：第二来源 wd-rubens（https://www.wikidata.org/wiki/Q5599），据其结构化数据：生年 1577，卒年 1640。"
+        "待核实": "现有材料未提供鲁本斯具体作品名称、创作年代与收藏地，如需补充，应待补充第二来源后再行写入。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核·Wikidata】生卒：第二来源 wd-rubens（https://www.wikidata.org/wiki/Q5599），据其结构化数据：生年 1577，卒年 1640。（ULAN 对照，2026-11-24）ULAN 简介：Flemish painter, 1577-1640。生卒年1577—1640与本条目 when 一致；职业为画家，与本条目相容。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='鲁本斯 示意图'><title>鲁本斯</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>鲁本斯</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>佛兰德斯</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>丰腴人体</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>宏大构图</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>色彩饱满</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>动势强烈</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>巴洛克</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>装饰工程</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>鲁本斯融合意大利与北方传统的巴洛克绘画</text></g></svg>"
     },
@@ -1230,7 +1235,8 @@
       "sources": [
         "enc-velazquez",
         "enc-baroque",
-        "wd-velazquez"
+        "wd-velazquez",
+        "ulan-500016881"
       ],
       "level": "L2",
       "sections": {
@@ -1240,7 +1246,7 @@
         "技法或形式分析": "其技法核心在于写实肖像的塑造与空间处理，笔触松动而富有变化。光线处理尤为精妙，是《宫娥》《教皇英诺森十世肖像》等代表作的重要表现手段。空间处理与光线、笔触相互配合，共同服务于写实效果。",
         "与前后风格的关系和争论": "在风格谱系上，委拉斯开兹与巴洛克相关联，其松动笔触与精妙光线又常被后世与印象派相联系。记载较一致，学界主要讨论其与巴洛克、印象派之间的关系与边界问题。",
         "一图": "示意图展示委拉斯开兹以写实肖像与精妙光线处理著称的核心特征。",
-        "待核实": "概述未提及《宫娥》《教皇英诺森十世肖像》的创作年份与收藏地，此处不作推断。相关细节待补充第二来源核实。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核·Wikidata】生卒：第二来源 wd-velazquez（https://www.wikidata.org/wiki/Q297），据其结构化数据：生年 1599，卒年 1660。"
+        "待核实": "概述未提及《宫娥》《教皇英诺森十世肖像》的创作年份与收藏地，此处不作推断。相关细节待补充第二来源核实。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核·Wikidata】生卒：第二来源 wd-velazquez（https://www.wikidata.org/wiki/Q297），据其结构化数据：生年 1599，卒年 1660。（ULAN 对照，2026-11-24）ULAN 简介：Spanish painter, 1599-1660。生卒年1599—1660与本条目 when 一致；职业为画家，与本条目相容。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='委拉斯开兹 示意图'><title>委拉斯开兹</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>委拉斯开兹</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>宫廷画家</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>写实肖像</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>空间处理</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>光线处理</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>笔触松动</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>委拉斯开兹以写实肖像与精妙光线处理著称</text></g></svg>"
     },
@@ -1265,7 +1271,8 @@
       "sources": [
         "enc-vermeer",
         "enc-baroque",
-        "wd-vermeer"
+        "wd-vermeer",
+        "ulan-500032927"
       ],
       "level": "L2",
       "sections": {
@@ -1275,7 +1282,7 @@
         "技法或形式分析": "其技法重在自然光的描绘与柔和光线的营造，多取室内场景为题材。自然光与日常静谧氛围的结合，是《戴珍珠耳环的少女》《倒牛奶的女仆》等作品的共同特点。",
         "与前后风格的关系和争论": "维米尔与相关条目中的伦勃朗同处荷兰黄金时代，并被与现实主义（艺术）相联系。记载较一致，学界主要讨论其与现实主义（艺术）之间的分期与边界问题。",
         "一图": "示意图概括维米尔以室内场景、柔和光线与自然光营造静谧氛围的特点。",
-        "待核实": "概述未提及《戴珍珠耳环的少女》《倒牛奶的女仆》的创作年份与收藏地，此处不作推断。相关细节待补充第二来源核实。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核·Wikidata】生卒：第二来源 wd-vermeer（https://www.wikidata.org/wiki/Q41264），据其结构化数据：生年 1632，卒年 1675。"
+        "待核实": "概述未提及《戴珍珠耳环的少女》《倒牛奶的女仆》的创作年份与收藏地，此处不作推断。相关细节待补充第二来源核实。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核·Wikidata】生卒：第二来源 wd-vermeer（https://www.wikidata.org/wiki/Q41264），据其结构化数据：生年 1632，卒年 1675。（ULAN 对照，2026-11-24）ULAN 简介：Dutch painter, 1632-1675。生卒年1632—1675与本条目 when 一致；职业为画家，与本条目相容。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='维米尔 示意图'><title>维米尔</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>维米尔</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>荷兰黄金时代</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>室内场景</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>柔和光线</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>自然光</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>日常静谧</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>维米尔以室内场景、柔和光线与日常静谧氛围见长</text></g></svg>"
     },
@@ -1424,7 +1431,8 @@
       "sources": [
         "enc-romanticism",
         "enc-impressionism",
-        "wd-delacroix"
+        "wd-delacroix",
+        "ulan-500115509"
       ],
       "level": "L2",
       "sections": {
@@ -1434,7 +1442,7 @@
         "技法或形式分析": "输入中可直接分析的形式要素是色彩与戏剧性构图。色彩奔放与动势强烈共同构成作品的形式特征。笔触、材料、尺寸、作品年份与收藏地未给出，因此不作展开。",
         "与前后风格的关系和争论": "相关条目中的浪漫主义（艺术）与新古典主义提供理解德拉克罗瓦位置的线索。作为法国浪漫主义画家，他与浪漫主义（艺术）的关系是直接归属；与新古典主义的关系在输入中仅以相关条目呈现。输入还说明他对印象派有启发，未记载具体学者争论；记载较一致，学界主要讨论其与浪漫主义（艺术）、新古典主义之间的分期/边界问题。",
         "一图": "示意图呈现德拉克罗瓦以奔放色彩和强烈动势关联浪漫主义（艺术）、新古典主义与印象派。",
-        "待核实": "输入列出来源标题“Romanticism”与“Impressionism”。《自由引导人民》的具体年份、收藏地与画面细节未在输入中给出。关于他与新古典主义的具体争论及对印象派启发的具体路径，待补充第二来源后再写入正文。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核·Wikidata】生卒：第二来源 wd-delacroix（https://www.wikidata.org/wiki/Q33477），据其结构化数据：生年 1798，卒年 1863。"
+        "待核实": "输入列出来源标题“Romanticism”与“Impressionism”。《自由引导人民》的具体年份、收藏地与画面细节未在输入中给出。关于他与新古典主义的具体争论及对印象派启发的具体路径，待补充第二来源后再写入正文。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核·Wikidata】生卒：第二来源 wd-delacroix（https://www.wikidata.org/wiki/Q33477），据其结构化数据：生年 1798，卒年 1863。（ULAN 对照，2026-11-24）ULAN 简介：French painter, 1798-1863。生卒年1798—1863与本条目 when 一致；职业为画家，与本条目相容。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='德拉克罗瓦 示意图'><title>德拉克罗瓦</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>德拉克罗瓦</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>浪漫主义画家</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>浪漫主义（艺术）</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>相关条目</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>新古典主义</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>相关条目</text><rect class='svg-box-accent' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='665.0' y='142' text-anchor='middle'>印象派</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>有启发</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>色彩奔放、动势强烈，启发印象派</text></g></svg>"
     },
@@ -1610,7 +1618,8 @@
       "sources": [
         "enc-monet",
         "enc-impressionism",
-        "wd-monet"
+        "wd-monet",
+        "ulan-500019484"
       ],
       "level": "L2",
       "sections": {
@@ -1620,7 +1629,7 @@
         "技法或形式分析": "在技法层面，莫奈长期探索光色变化，并把同一题材反复绘制为系列画。系列画的形式为比较不同状态下的光色提供了载体，光与色成为其持续关注的对象。概述未提供更具体的笔触、构图或材料信息，此处不作展开。",
         "与前后风格的关系和争论": "莫奈是印象派画家，并为该流派名称的由来者；后印象派则在其之后兴起。记载较一致，学界主要讨论其与印象派、后印象派之间的关系及风格分期问题。概述未提及针对莫奈的争议性观点，故不作观点归属。",
         "一图": "示意图以印象派、后印象派为背景，标示莫奈作为印象派名称由来者及其光色探索与系列画的位置。",
-        "待核实": "概述列出《印象·日出》与《睡莲》系列为代表作，但未提供创作年份与收藏地，待补充第二来源核实。材料亦未说明系列画的具体数量及各件作品的关系，相关细节暂付阙如。莫奈与后印象派的具体关联仅以相关条目列出，尚无进一步论述。 【已复核·Wikidata】生卒：第二来源 wd-monet（https://www.wikidata.org/wiki/Q296），据其结构化数据：生年 1840，卒年 1926。 【已复核·Cycle54】本条原标为 L3（深度条目）。复核发现其「争议」节并无**两方具名立场**，按 R16 要求（L3 须有 ≥1 组真实争议、≥2 方）不符，故**降级为 L2**；原有内容一字未删，争议节的说明保留原样。"
+        "待核实": "概述列出《印象·日出》与《睡莲》系列为代表作，但未提供创作年份与收藏地，待补充第二来源核实。材料亦未说明系列画的具体数量及各件作品的关系，相关细节暂付阙如。莫奈与后印象派的具体关联仅以相关条目列出，尚无进一步论述。 【已复核·Wikidata】生卒：第二来源 wd-monet（https://www.wikidata.org/wiki/Q296），据其结构化数据：生年 1840，卒年 1926。 【已复核·Cycle54】本条原标为 L3（深度条目）。复核发现其「争议」节并无**两方具名立场**，按 R16 要求（L3 须有 ≥1 组真实争议、≥2 方）不符，故**降级为 L2**；原有内容一字未删，争议节的说明保留原样。（ULAN 对照，2026-11-24）ULAN 简介：French painter, 1840-1926。生卒年1840—1926与本条目 when 一致；职业为画家，与本条目相容。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='莫奈 示意图'><title>莫奈</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>莫奈</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>印象派名称的由来者</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>光色变化</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>同一题材</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>系列画</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>印象·日出</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>莫奈以系列画探索同一题材的光色变化</text></g></svg>",
       "l3": {
@@ -1727,7 +1736,8 @@
       "sources": [
         "enc-cezanne",
         "enc-cubism",
-        "wd-cezanne"
+        "wd-cezanne",
+        "ulan-500004793"
       ],
       "level": "L2",
       "sections": {
@@ -1737,7 +1747,7 @@
         "技法或形式分析": "在技法层面，塞尚以几何化的结构色块重组对象，把对象组织为画面中的块面关系。这种以结构色块经营画面的方式，强调形式秩序而非对物象的直接摹写。概述未提供具体的用笔或设色材料细节，此处不作展开。",
         "与前后风格的关系和争论": "塞尚属于后印象派，其以结构色块重组对象的做法启发了立体主义。就承接关系而言，后印象派是其所属脉络，立体主义则是受其启发的后继方向。记载较一致，学界主要讨论其作为现代艺术之父的定位及与立体主义之间的影响边界问题。",
         "一图": "示意图标示塞尚作为后印象派画家，以几何化结构色块重组对象，并指向其启发的立体主义。",
-        "待核实": "概述列出《圣维克多山》《静物》为代表作，但未提供创作年份与收藏地，待补充第二来源核实。定义中称其被誉为现代艺术之父，材料未给出该称谓的出处，相关表述待补充来源佐证。 【已复核·Wikidata】生卒：第二来源 wd-cezanne（https://www.wikidata.org/wiki/Q35548），据其结构化数据：生年 1839，卒年 1906。"
+        "待核实": "概述列出《圣维克多山》《静物》为代表作，但未提供创作年份与收藏地，待补充第二来源核实。定义中称其被誉为现代艺术之父，材料未给出该称谓的出处，相关表述待补充来源佐证。 【已复核·Wikidata】生卒：第二来源 wd-cezanne（https://www.wikidata.org/wiki/Q35548），据其结构化数据：生年 1839，卒年 1906。（ULAN 对照，2026-11-24）ULAN 简介：French painter and draftsman, 1839-1906。生卒年1839—1906与本条目 when 一致；职业为画家与素描家，与本条目相容。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='塞尚 示意图'><title>塞尚</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>塞尚</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>后印象派画家</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>结构色块</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>几何化</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>立体主义</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>启发</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>塞尚以几何化结构色块重组对象并启发立体主义</text></g></svg>"
     },
@@ -1760,7 +1770,8 @@
       "sources": [
         "enc-gauguin",
         "enc-post-impressionism",
-        "wd-gauguin"
+        "wd-gauguin",
+        "ulan-500011421"
       ],
       "level": "L2",
       "sections": {
@@ -1770,7 +1781,7 @@
         "技法或形式分析": "条目明确提到平涂色块，说明其形式分析可从色块组织入手。象征性平面色彩与象征构图并列出现，显示色彩和构图在作品说明中具有核心位置。材料未给出更细的笔触、透视或空间处理细节，因此不作外推。",
         "与前后风格的关系和争论": "从相关条目看，高更与后印象派直接关联，并与塞尚同列于条目关系中。材料未提供具体争论、学者姓名或观点归属。记载较一致，学界主要讨论高更的分期/边界问题。",
         "一图": "示意图用高更、平涂色块与象征构图呈现其平面色彩和作品形式重点。",
-        "待核实": "《我们从何处来？我们是谁？我们向何处去？》的具体创作年份未在材料中给出，待补充第二来源。该作收藏地同样未在材料中给出，待补充第二来源。如需扩展原始主义或象征性的来源脉络，也应待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核·Wikidata】生卒：第二来源 wd-gauguin（https://www.wikidata.org/wiki/Q37693），据其结构化数据：生年 1848，卒年 1903。"
+        "待核实": "《我们从何处来？我们是谁？我们向何处去？》的具体创作年份未在材料中给出，待补充第二来源。该作收藏地同样未在材料中给出，待补充第二来源。如需扩展原始主义或象征性的来源脉络，也应待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核·Wikidata】生卒：第二来源 wd-gauguin（https://www.wikidata.org/wiki/Q37693），据其结构化数据：生年 1848，卒年 1903。（ULAN 对照，2026-11-24）ULAN 简介：French painter and printmaker, 1848-1903。生卒年1848—1903与本条目 when 一致；职业为画家与版画家，与本条目相容。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='高更 示意图'><title>高更</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>高更</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>后印象派画家</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>平涂色块</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>象征构图</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>后印象派</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>塞尚</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>高更的平面色彩与象征构图</text></g></svg>"
     },
@@ -2089,7 +2100,8 @@
       "sources": [
         "enc-picasso",
         "enc-cubism",
-        "wd-picasso"
+        "wd-picasso",
+        "ulan-500009666"
       ],
       "level": "L2",
       "sections": {
@@ -2099,7 +2111,7 @@
         "技法或形式分析": "现有条目未列出具体技法名称或操作步骤。可以确定其创作横跨绘画与雕塑两种媒介。风格多变与重塑20世纪艺术语言是对其形式的总体描述。立体主义是其核心关联，更细的技术细节待补充第二来源。",
         "与前后风格的关系和争论": "毕加索与立体主义、现代艺术直接相关：前者由其参与创立，后者为其所属的艺术语境。记载较一致，学界主要讨论毕加索的分期与边界问题。现有条目未列出具体争论或学者观点，相关判断待补充第二来源。",
         "一图": "示意图展示毕加索、立体主义与现代艺术之间的关联，并标出其代表作《亚维农少女》与《格尔尼卡》。",
-        "待核实": "《亚维农少女》与《格尔尼卡》的具体创作年份及收藏地未在条目中给出，待补充第二来源。其雕塑作品与技法细节同样缺少可核实记录。相关人物与作品的分期问题亦待进一步查证。 【已复核·Wikidata】生卒：第二来源 wd-picasso（https://www.wikidata.org/wiki/Q5593），据其结构化数据：生年 1881，卒年 1973。"
+        "待核实": "《亚维农少女》与《格尔尼卡》的具体创作年份及收藏地未在条目中给出，待补充第二来源。其雕塑作品与技法细节同样缺少可核实记录。相关人物与作品的分期问题亦待进一步查证。 【已复核·Wikidata】生卒：第二来源 wd-picasso（https://www.wikidata.org/wiki/Q5593），据其结构化数据：生年 1881，卒年 1973。（ULAN 对照，2026-11-24）ULAN 简介：Spanish painter, sculptor, and printmaker, 1881-1973。生卒年1881—1973与本条目 when 一致；职业为画家、雕塑家与版画家，与本条目相容。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='毕加索 示意图'><title>毕加索</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>毕加索</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1881—1973年</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>立体主义</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>创始人之一</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>现代艺术</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>20世纪</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>毕加索连接立体主义与现代艺术</text></g></svg>"
     },
@@ -2122,7 +2134,8 @@
       "sources": [
         "enc-matisse",
         "enc-fauvism",
-        "wd-matisse"
+        "wd-matisse",
+        "ulan-500017300"
       ],
       "level": "L2",
       "sections": {
@@ -2132,7 +2145,7 @@
         "技法或形式分析": "输入中可分析的形式重点是色彩平衡、装饰性愉悦与剪纸。剪纸被列为他闻名的方面，色彩平衡则与代表作描述相连。具体笔触、材料、作品年份与收藏地未给出，因此不作展开。",
         "与前后风格的关系和争论": "相关条目中的野兽派与现代艺术为定位马蒂斯提供两个层次。作为野兽派领袖，他与野兽派的关系是直接归属；与现代艺术的关系则是输入给出的较大框架。输入未呈现具体学者争论，记载较一致，学界主要讨论其与野兽派、现代艺术之间的分期/边界问题。",
         "一图": "示意图呈现马蒂斯以色彩平衡和剪纸连接野兽派与现代艺术。",
-        "待核实": "输入列出来源标题“Henri Matisse”与“Fauvism”。《舞蹈》《红色和谐》的具体年份、收藏地与画面细节未在输入中给出。关于剪纸作品清单或具体技法说明，待补充第二来源后再写入正文。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核·Wikidata】生卒：第二来源 wd-matisse（https://www.wikidata.org/wiki/Q5589），据其结构化数据：生年 1869，卒年 1954。"
+        "待核实": "输入列出来源标题“Henri Matisse”与“Fauvism”。《舞蹈》《红色和谐》的具体年份、收藏地与画面细节未在输入中给出。关于剪纸作品清单或具体技法说明，待补充第二来源后再写入正文。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核·Wikidata】生卒：第二来源 wd-matisse（https://www.wikidata.org/wiki/Q5589），据其结构化数据：生年 1869，卒年 1954。（ULAN 对照，2026-11-24）ULAN 简介：French painter, sculptor, and printmaker, 1869-1954。生卒年1869—1954与本条目 when 一致；职业为画家、雕塑家与版画家，与本条目相容。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='马蒂斯 示意图'><title>马蒂斯</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>马蒂斯</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>野兽派领袖</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>野兽派</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>相关条目</text><rect class='svg-box-accent' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='475.0' y='142' text-anchor='middle'>色彩与剪纸</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>平衡与愉悦</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>现代艺术</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>相关条目</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>色彩与剪纸连接野兽派与现代艺术</text></g></svg>"
     },
@@ -2189,7 +2202,8 @@
       "sources": [
         "enc-dali",
         "enc-surrealism",
-        "wd-dali"
+        "wd-dali",
+        "ulan-500009365"
       ],
       "level": "L2",
       "sections": {
@@ -2199,7 +2213,7 @@
         "技法或形式分析": "达利的绘画以精确图像见长，梦境般的场景被细致地呈现出来。软钟等意象虽属怪诞，却以清晰的形式加以刻画，服务于潜意识与时间主题。精确性与怪诞性的并置，构成其形式分析的重点。",
         "与前后风格的关系和争论": "达利与超现实主义、现代艺术同列为相关条目。作为西班牙超现实主义画家，其创作处于现代艺术的脉络之中。记载较一致，学界主要讨论达利与超现实主义关系的分期与边界问题。",
         "一图": "示意图展示达利以《记忆的永恒》中的软钟意象表现潜意识与时间主题，并关联超现实主义与现代艺术。",
-        "待核实": "输入材料给出来源标题 Salvador Dali 与 Surrealism，未涉及作品的具体创作年代与收藏信息。《记忆的永恒》的确切创作年份、收藏地及软钟意象的释读细节，待补充第二来源后再写入正文。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核·Wikidata】生卒：第二来源 wd-dali（https://www.wikidata.org/wiki/Q5577），据其结构化数据：生年 1904，卒年 1989。"
+        "待核实": "输入材料给出来源标题 Salvador Dali 与 Surrealism，未涉及作品的具体创作年代与收藏信息。《记忆的永恒》的确切创作年份、收藏地及软钟意象的释读细节，待补充第二来源后再写入正文。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核·Wikidata】生卒：第二来源 wd-dali（https://www.wikidata.org/wiki/Q5577），据其结构化数据：生年 1904，卒年 1989。（ULAN 对照，2026-11-24）ULAN 简介：Spanish painter and printmaker, 1904-1989。生卒年1904—1989与本条目 when 一致；职业为画家与版画家，与本条目相容。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='达利 示意图'><title>达利</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>达利</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>西班牙画家</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>《记忆的永恒》</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>代表作</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>软钟</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>潜意识与时间</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>超现实主义</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>现代艺术</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>达利以《记忆的永恒》的软钟意象呈现潜意识与时间主题</text></g></svg>"
     },
@@ -2411,7 +2425,8 @@
       "sources": [
         "enc-warhol",
         "enc-pop-art",
-        "wd-warhol"
+        "wd-warhol",
+        "ulan-500006031"
       ],
       "level": "L2",
       "sections": {
@@ -2421,7 +2436,7 @@
         "技法或形式分析": "在技法上，沃霍尔以丝网印刷处理名人肖像，使图像可以被大量复制。他借由这一手段把商业图像与名人文化带入艺术，并以《玛丽莲·梦露》系列加以呈现。作品主题围绕复制与消费展开，图像的可复制性本身构成了形式分析的重要面向。",
         "与前后风格的关系和争论": "相关条目把沃霍尔与波普艺术、当代艺术相连，说明他是波普艺术的代表，并通向当代艺术的讨论语境。材料记载较一致，未列出具体学者争论，学界主要讨论他与波普艺术、当代艺术之间的归属与边界问题。",
         "一图": "示意图呈现沃霍尔以丝网印刷名人肖像及代表作《玛丽莲·梦露》系列，并连接波普艺术与当代艺术。",
-        "待核实": "概述点明《玛丽莲·梦露》系列为代表作，但未给出该系列各件作品的年份与收藏地。相关人物年表之外的作品编目细节，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核·Wikidata】生卒：第二来源 wd-warhol（https://www.wikidata.org/wiki/Q5603），据其结构化数据：生年 1928，卒年 1987。"
+        "待核实": "概述点明《玛丽莲·梦露》系列为代表作，但未给出该系列各件作品的年份与收藏地。相关人物年表之外的作品编目细节，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核·Wikidata】生卒：第二来源 wd-warhol（https://www.wikidata.org/wiki/Q5603），据其结构化数据：生年 1928，卒年 1987。（ULAN 对照，2026-11-24）ULAN 简介：American painter, printmaker, and filmmaker, 1928-1987。生卒年1928—1987与本条目 when 一致；职业为画家、版画家与电影制作人，与本条目相容。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='安迪·沃霍尔 示意图'><title>安迪·沃霍尔</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>安迪·沃霍尔</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>丝网印刷</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>波普艺术</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>代表艺术家</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>当代艺术</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>20世纪</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>沃霍尔以丝网印刷名人肖像连接波普艺术与当代艺术。</text></g></svg>"
     },
@@ -5686,7 +5701,8 @@
       ],
       "sources": [
         "cma-1918-328",
-        "vam-o1758562"
+        "vam-o1758562",
+        "ulan-500016619"
       ],
       "level": "L2",
       "sections": {
@@ -5696,7 +5712,7 @@
         "技法或形式分析": "《青铜时代》为青铜铸件，含底座整体尺寸182.2 × 66.4 × 47厘米（据该馆藏品记录）。该馆说明称：本铸件由博物馆理事拉尔夫·金（Ralph King）于1916年向艺术家本人订制以捐赠本馆，罗丹亲自监督了这次极精细的铸造，并以他偏爱的深红色泽收尾，他称之为「碎葡萄」（crushed grape）。作品底座题记可见「Rodin」署名，背面另有铸造者铭文「A. RUDIER Fondeur Paris」，即巴黎的鲁迪埃铸造坊。",
         "与前后风格的关系和争论": "《青铜时代》引发的争议有明确记载：该馆说明称，同时代人觉得这具人体过于写实，误指罗丹是从活人身上直接翻模。这一指控构成他早期声誉的关键事件，也反映出当时学院派对「写实到何种程度仍属雕塑创作」的判断分歧。在风格脉络上，他上承19世纪学院写实与纪念性雕塑，下启以人体姿态与表面处理表达心理状态的现代雕塑路径；他与印象派的关系则常被讨论为「以雕塑回应光与表面」，但本条目未取得支撑该说法的来源，故不作断言。",
         "一图": "示意图以学院写实、公共纪念性雕塑两条来路，与「去除叙事、突出身体」的转向及《青铜时代》争议之间的关系。",
-        "待核实": "（1）本条目事实取自机构藏品与创作者记录（克利夫兰艺术博物馆；维多利亚与艾尔伯特博物馆藏有其1912年作品），两馆均可达，但尚无传记类来源，故生平细节（学艺经历、工作室传承、与卡蜜儿·克洛岱尔的关系等）一概未写入；（2）1840—1917 生卒年取自克利夫兰的创作者记录，未以第二来源核对；（3）《青铜时代》原作现藏机构与原始尺寸未取得来源，本条目只述克利夫兰藏本；（4）「以雕塑回应光与表面」一类评价性说法缺来源，未写入正文。"
+        "待核实": "（1）本条目事实取自机构藏品与创作者记录（克利夫兰艺术博物馆；维多利亚与艾尔伯特博物馆藏有其1912年作品），两馆均可达，但尚无传记类来源，故生平细节（学艺经历、工作室传承、与卡蜜儿·克洛岱尔的关系等）一概未写入；（2）1840—1917 生卒年取自克利夫兰的创作者记录，未以第二来源核对；（3）《青铜时代》原作现藏机构与原始尺寸未取得来源，本条目只述克利夫兰藏本；（4）「以雕塑回应光与表面」一类评价性说法缺来源，未写入正文。（ULAN 对照，2026-11-24）ULAN 简介：French sculptor, 1840-1917。生卒年1840—1917与本条目 when 一致；职业为雕塑家，与本条目相容。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='rodin 示意图'><title>rodin</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>学院写实</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>19世纪</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>罗丹</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1840—1917</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>《青铜时代》</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>1875—76</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>去叙事·重身体</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>现代雕塑</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>罗丹：从学院写实到以身体表达心理</text></g></svg>"
     },

@@ -8569,6 +8569,166 @@
       "type": "权威机构词表（术语定义）",
       "verified": true,
       "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配"
+    },
+    {
+      "id": "ulan-500010879",
+      "title": "Getty ULAN — Leonardo da Vinci, 500010879",
+      "author": "J. Paul Getty Trust（Union List of Artist Names，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/ulan/500010879",
+      "type": "权威机构词表（人物名称与生平）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该人物的标签与简介（Italian painter, draftsman, scientist, 1452-1519），编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "ulan-500011051",
+      "title": "Getty ULAN — Rembrandt van Rijn, 500011051",
+      "author": "J. Paul Getty Trust（Union List of Artist Names，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/ulan/500011051",
+      "type": "权威机构词表（人物名称与生平）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该人物的标签与简介（Dutch painter, printmaker, 1606-1669），编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "ulan-500019484",
+      "title": "Getty ULAN — Monet, Claude, 500019484",
+      "author": "J. Paul Getty Trust（Union List of Artist Names，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/ulan/500019484",
+      "type": "权威机构词表（人物名称与生平）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该人物的标签与简介（French painter, 1840-1926），编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "ulan-500004793",
+      "title": "Getty ULAN — Cézanne, Paul, 500004793",
+      "author": "J. Paul Getty Trust（Union List of Artist Names，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/ulan/500004793",
+      "type": "权威机构词表（人物名称与生平）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该人物的标签与简介（French painter and draftsman, 1839-1906），编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "ulan-500009666",
+      "title": "Getty ULAN — Picasso, Pablo, 500009666",
+      "author": "J. Paul Getty Trust（Union List of Artist Names，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/ulan/500009666",
+      "type": "权威机构词表（人物名称与生平）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该人物的标签与简介（Spanish painter, sculptor, and printmaker, 1881-1973），编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "ulan-500023578",
+      "title": "Getty ULAN — Raphael, 500023578",
+      "author": "J. Paul Getty Trust（Union List of Artist Names，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/ulan/500023578",
+      "type": "权威机构词表（人物名称与生平）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该人物的标签与简介（Italian painter, architect, 1483-1520），编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "ulan-500017300",
+      "title": "Getty ULAN — Matisse, Henri, 500017300",
+      "author": "J. Paul Getty Trust（Union List of Artist Names，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/ulan/500017300",
+      "type": "权威机构词表（人物名称与生平）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该人物的标签与简介（French painter, sculptor, and printmaker, 1869-1954），编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "ulan-500009365",
+      "title": "Getty ULAN — Dalí, Salvador, 500009365",
+      "author": "J. Paul Getty Trust（Union List of Artist Names，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/ulan/500009365",
+      "type": "权威机构词表（人物名称与生平）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该人物的标签与简介（Spanish painter and printmaker, 1904-1989），编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "ulan-500006031",
+      "title": "Getty ULAN — Warhol, Andy, 500006031",
+      "author": "J. Paul Getty Trust（Union List of Artist Names，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/ulan/500006031",
+      "type": "权威机构词表（人物名称与生平）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该人物的标签与简介（American painter, printmaker, and filmmaker, 1928-1987），编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "ulan-500011421",
+      "title": "Getty ULAN — Gauguin, Paul, 500011421",
+      "author": "J. Paul Getty Trust（Union List of Artist Names，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/ulan/500011421",
+      "type": "权威机构词表（人物名称与生平）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该人物的标签与简介（French painter and printmaker, 1848-1903），编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "ulan-500115509",
+      "title": "Getty ULAN — Delacroix, Eugène, 500115509",
+      "author": "J. Paul Getty Trust（Union List of Artist Names，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/ulan/500115509",
+      "type": "权威机构词表（人物名称与生平）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该人物的标签与简介（French painter, 1798-1863），编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "ulan-500002921",
+      "title": "Getty ULAN — Rubens, Peter Paul, 500002921",
+      "author": "J. Paul Getty Trust（Union List of Artist Names，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/ulan/500002921",
+      "type": "权威机构词表（人物名称与生平）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该人物的标签与简介（Flemish painter, 1577-1640），编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "ulan-500016881",
+      "title": "Getty ULAN — Velázquez, Diego, 500016881",
+      "author": "J. Paul Getty Trust（Union List of Artist Names，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/ulan/500016881",
+      "type": "权威机构词表（人物名称与生平）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该人物的标签与简介（Spanish painter, 1599-1660），编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "ulan-500032927",
+      "title": "Getty ULAN — Vermeer, Johannes, 500032927",
+      "author": "J. Paul Getty Trust（Union List of Artist Names，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/ulan/500032927",
+      "type": "权威机构词表（人物名称与生平）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该人物的标签与简介（Dutch painter, 1632-1675），编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "ulan-500016619",
+      "title": "Getty ULAN — Rodin, Auguste, 500016619",
+      "author": "J. Paul Getty Trust（Union List of Artist Names，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/ulan/500016619",
+      "type": "权威机构词表（人物名称与生平）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该人物的标签与简介（French sculptor, 1840-1917），编号与标签匹配，生卒年已与库内条目对照"
+    },
+    {
+      "id": "ulan-500015254",
+      "title": "Getty ULAN — Botticelli, Sandro, 500015254",
+      "author": "J. Paul Getty Trust（Union List of Artist Names，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/ulan/500015254",
+      "type": "权威机构词表（人物名称与生平）",
+      "verified": true,
+      "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该人物的标签与简介（Florentine painter, 1444/1445-1510），编号与标签匹配，生卒年已与库内条目对照"
     }
   ]
 }

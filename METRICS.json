@@ -4309,6 +4309,25 @@
       "check_result": "errors=0",
       "check_links_result": "broken=0(690页)",
       "commits": 1
+    },
+    {
+      "cycle": "cycle185",
+      "date": "2026-11-24",
+      "status": "completed",
+      "gap_methods": [
+        "核心视觉艺术家人物条目补盖蒂ULAN机构来源"
+      ],
+      "network": "Getty ULAN 200",
+      "new_entries": 0,
+      "reviews": 16,
+      "fixes": 0,
+      "new_sources": 16,
+      "sources_total": 873,
+      "entries_total": 653,
+      "pages": 690,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(690页)",
+      "commits": 1
     }
   ]
 }
