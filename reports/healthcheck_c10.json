@@ -205,6 +205,13 @@
    [
     "1834"
    ]
+  ],
+  [
+   "aboriginal-tapestry-pike",
+   "1989年",
+   [
+    "1976"
+   ]
   ]
  ],
  "orphans": [],
@@ -261,6 +268,6 @@
  "link_audit": {
   "cross_domain": 18,
   "oneway": 0,
-  "total_links": 1218
+  "total_links": 1232
  }
 }

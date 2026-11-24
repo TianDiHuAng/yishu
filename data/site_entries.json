@@ -6605,7 +6605,8 @@
         "sepik-ancestral-figure",
         "sepik-hook-figure",
         "cook-ceremonial-adze",
-        "ambrym-grade-figure"
+        "ambrym-grade-figure",
+        "aboriginal-tapestry-pike"
       ],
       "sources": [
         "cma-1954-147",
@@ -8113,7 +8114,8 @@
       "related": [
         "sitar-instrument",
         "drum-ngoma",
-        "mangbetu-harp"
+        "mangbetu-harp",
+        "ottoman-nay-flute"
       ],
       "sources": [
         "cma-1918-352"
@@ -8182,7 +8184,8 @@
         "sitar-instrument",
         "drum-ngoma",
         "pipa-instrument",
-        "hitoyogiri-flute"
+        "hitoyogiri-flute",
+        "ottoman-nay-flute"
       ],
       "sources": [
         "cma-1918-371"
@@ -11470,7 +11473,8 @@
         "maori-wakahuia",
         "oceania-art",
         "maori-wahaika-club",
-        "sepik-ancestral-figure"
+        "sepik-ancestral-figure",
+        "maori-flax-cloak"
       ],
       "sources": [
         "cma-1969-107"
@@ -12541,7 +12545,8 @@
       "related": [
         "oceania-art",
         "maori-hei-tiki-1969",
-        "sepik-hook-figure"
+        "sepik-hook-figure",
+        "tapa-cloth-samoa"
       ],
       "sources": [
         "cma-1971-150"
@@ -13333,6 +13338,139 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='alabaster-pieta 示意图'><title>alabaster-pieta</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>尼德兰·约1430</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>雪花石</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>哀悼基督</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>40×31.5cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>虔敬功能</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>私人</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>新旧风格融合</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>写实</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>雪花石《哀悼基督》：功能与风格</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（V&A）来源；summary 截断；雕坊未记录。"
+    },
+    {
+      "id": "tapa-cloth-samoa",
+      "title": "萨摩亚树皮布（tapa）",
+      "kind": "作品",
+      "unit": "art-oceania",
+      "era": "19世纪",
+      "region": "大洋洲",
+      "medium": "织物",
+      "tier": "核心",
+      "def": "萨摩亚树皮布，维多利亚与艾伯特博物馆藏（O133186）。",
+      "when": "1800年代",
+      "overview": "以南太平洋构树（Broussonetia papyrifera）皮制；妇女工序繁复：浸皮、捶打、拼合、日晒漂白；象征与实用兼用。",
+      "related": [
+        "maori-flax-cloak",
+        "sepik-ancestral-figure",
+        "aboriginal-tapestry-pike"
+      ],
+      "sources": [
+        "vam-o133186"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明，**树皮布（tapa）**是**南太平洋原住民**所固有，用途**兼有象征与实用**。本件为**萨摩亚**所制，19世纪，维多利亚与艾伯特博物馆藏（O133186）。",
+        "风格特征": "该馆详述材料与工序：tapa 以**构树（paper mulberry，Broussonetia papyrifera）之树皮**制成，传统上由**妇女**以**繁重劳动**生产。工序为：先**剥皮**并**浸水**（数小时至一个月），使外层深色皮脱离；**内层树皮**再**展开、以木槌捶打**，使纤维软化松散，成**均匀平整**的表面；**片与片**以**黏合剂**或更传统地**揉合纤维并捶打**而拼接；加大的布幅**铺于日光下**，在干燥中**漂白**；最后装饰因……（记录在此处**截断**，本条目**不补写**）。",
+        "代表人物与作品": "作者未署名（萨摩亚妇女制作者）。相关条目见毛利亚麻斗篷与塞皮克祖像。本件为 V&A 藏品（O133186）。",
+        "技法或形式分析": "材质为**印、绘与捶打的树皮布**；尺寸**长25.25 × 宽20.25 英寸**（据该馆记录）。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「工序」当作内容主体：tapa 的价值在于**一连串身体劳动**（浸、捶、拼、晒），而非单纯的图案。这使它区别于以织机成布的织物。",
+        "一图": "示意图以构树皮、浸捶拼晒工序与妇女生产三者关系标示本布。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）该馆 summary 在「装饰因…」处**截断，未补写**具体装饰；（3）本件的具体岛/村落未记录；（4）树皮布的具体纹样未描述。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='tapa-cloth-samoa 示意图'><title>tapa-cloth-samoa</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>萨摩亚·1800s</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>南太平洋</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>树皮布</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>25.25×20.25in</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>构树皮</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>Broussonetia</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>浸捶拼晒</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>妇女工序</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>tapa：材料、工序与生产者</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；summary 截断；岛/村落未记录。"
+    },
+    {
+      "id": "aboriginal-tapestry-pike",
+      "title": "平克《水潭边的两人》（原住民挂毯）",
+      "kind": "作品",
+      "unit": "art-oceania",
+      "era": "20世纪",
+      "region": "大洋洲",
+      "medium": "织物",
+      "tier": "核心",
+      "def": "吉米·平克设计、维多利亚挂毯工坊织造，维多利亚与艾伯特博物馆藏（O34305）。",
+      "when": "1989年",
+      "overview": "瓦尔马贾里人艺术家平克，生于大沙沙漠边缘；高原俯视水潭与两人；1976年成立的工坊限量小挂毯之一。",
+      "related": [
+        "tapa-cloth-samoa",
+        "oceania-art"
+      ],
+      "sources": [
+        "vam-o34305"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明，**维多利亚挂毯工坊（Victorian Tapestry Workshop）**由**维多利亚州政府于1976年**设立，以**手工织毯**享国际声誉；其多数作品为大型企业/公共委托，也有个人客户求购**小型**作品；为使挂毯更易获得，工坊制作**特别设计的小挂毯**、以**限量版**织造。",
+        "风格特征": "该馆介绍作者：**吉米·平克（Jimmy Pike）**是**原住民艺术家**，生活在**西澳偏远大沙沙漠（Great Sandy Desert）边缘的丛林营地**；属**瓦尔马贾里（Walmajarri）人**——**1950年代最后离开沙漠的群体之一**；他**童年为游牧**，其创作**受地貌与其古老文化启发**。",
+        "代表人物与作品": "设计者为吉米·平克，织造者为维多利亚挂毯工坊。相关条目见树皮布与大洋洲艺术。本件为 V&A 藏品（O34305）。",
+        "技法或形式分析": "材质为**棉经、羊毛与棉纬的手织戈布兰挂毯**；尺寸**17 × 20.5厘米**（据该馆记录）。该馆描述：**黑底白纹**；**俯视的抽象构图**——**两个男人坐在池边**；中央为**同心线母题**，左侧为**较粗线的迷宫纹**，右侧为**折线**。",
+        "与前后风格的关系和争论": "本条目据该馆说明把握「**沙漠记忆→抽象俯视**」：平克的图像源于游牧童年与地貌知识，而挂毯的**限定小尺幅**则是**工坊市场化**的产物。二者共同构成这件当代原住民织物的语境。",
+        "一图": "示意图以瓦尔马贾里沙漠记忆、俯视抽象与工坊小挂毯三者关系标示本件。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）平克生平细节未在记录展开；（3）限量版的版数未记录；（4）原作（非挂毯）与该挂毯的对应未说明。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='aboriginal-tapestry-pike 示意图'><title>aboriginal-tapestry-pike</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>瓦尔马贾里人</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>大沙沙漠</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>水潭边两人</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>17×20.5</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>俯视抽象</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>同心线</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>1976 工坊</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>限量</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>原住民挂毯：记忆、抽象与工坊</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；版数与生平细节未展开。"
+    },
+    {
+      "id": "maori-flax-cloak",
+      "title": "毛利亚麻斗篷",
+      "kind": "作品",
+      "unit": "art-oceania",
+      "era": "19世纪",
+      "region": "大洋洲",
+      "medium": "织物",
+      "tier": "重要",
+      "def": "毛利搓捻亚麻斗篷，维多利亚与艾伯特博物馆藏（O360650）。",
+      "when": "19世纪",
+      "overview": "搓捻（twined）亚麻斗篷，缀黑缨与流苏；为毛利传统服饰，材料与工艺见记录。",
+      "related": [
+        "maori-hei-tiki-1969",
+        "tapa-cloth-samoa"
+      ],
+      "sources": [
+        "vam-o360650"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**新西兰**毛利**亚麻斗篷**，19世纪，维多利亚与艾伯特博物馆藏（O360650）。",
+        "风格特征": "该馆描述：**搓捻（twined）亚麻斗篷，缀黑缨（tufts）与流苏（fringe）**。",
+        "代表人物与作品": "作者未署名。相关条目见毛利 hei-tiki 与萨摩亚树皮布。本件为 V&A 藏品（O360650）。",
+        "技法或形式分析": "材质为**搓捻亚麻**；尺寸**长172.7 × 宽137.2厘米**（据该馆记录）。该馆记录极简，未展开纹样与织法细节，本条目亦**不补写**。",
+        "与前后风格的关系和争论": "本条目据该馆记录只作**材料—形制**层面的陈述：搓捻（twining）是与织机平织不同的手工成布方式，缀黑缨与流苏为其外观特征。**不作超出记录的推断**。",
+        "一图": "示意图以搓捻亚麻、黑缨流苏与毛利服饰三者关系标示本件。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）该馆记录极简，**纹样与织法未展开**，本条目不补写；（3）具体部族与制作年代未记录；（4）是否为 korowai 等特定类型未明。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='maori-flax-cloak 示意图'><title>maori-flax-cloak</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>新西兰·19世纪</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>毛利</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>亚麻斗篷</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>172.7×137.2</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>搓捻（twining）</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>成布</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>黑缨·流苏</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>外观</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>毛利斗篷：材料与外观</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；记录极简，纹样织法未展开。"
+    },
+    {
+      "id": "ottoman-nay-flute",
+      "title": "奥斯曼 nay 笛",
+      "kind": "作品",
+      "unit": "music-instruments",
+      "era": "19世纪",
+      "region": "西亚·中亚",
+      "medium": "乐器",
+      "tier": "核心",
+      "def": "奥斯曼旋木嵌金属 nay 笛，维多利亚与艾伯特博物馆藏（O304190）。",
+      "when": "1860—1867年",
+      "overview": "三节旋木相接、嵌金属、共十二指孔；唇吹边棱发声；理论三倍音域；土耳其 nay 用于 Mevlevi 旋转舞乐。",
+      "related": [
+        "guqin-instrument",
+        "kora-instrument"
+      ],
+      "sources": [
+        "vam-o304190"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明，**nay（ney）**是一种**笛**，用于**伊朗、土耳其与阿拉伯国家**，甚至见于**古埃及与美索不达米亚**。本件为**奥斯曼/土耳其**版，1860—1867年，维多利亚与艾伯特博物馆藏（O304190）。",
+        "风格特征": "该馆给出**音乐属性**：理论上**音域达三个八度**、**多达十二指孔**；发声以**双唇留极小孔、对着管口边棱吹气**而成。该馆并指出，**土耳其 nay** 在伴奏 **Mevlevi（旋转）苦行僧之舞**的音乐中**地位突出**。",
+        "代表人物与作品": "作者未署名。该馆记载收藏经过：本件在 **1867年巴黎世界博览会（Exposition Universelle）** 展出后不久为博物馆购入；其描述引自 **Carl Engel《南肯辛顿博物馆乐器描述目录》（1874）第212页**。相关条目见古琴与科拉琴。本件为 V&A 藏品（O304190）。",
+        "技法或形式分析": "材质为**旋木嵌金属**；共**三节**，各节**以螺纹相接**，每节饰**嵌金属**纹，**共十二指孔**；总长**90厘米**（据该馆记录）。",
+        "与前后风格的关系和争论": "本条目据该馆说明把 nay 放在**跨文化音乐地理**中：同一类边棱吹管在西亚、北非与古近东长期沿用，土耳其版又与**苏菲舞乐**绑定。器物因此是**音乐制度与宗教实践**的交汇点。",
+        "一图": "示意图以边棱吹奏、十二指孔与 Mevlevi 舞乐三者关系标示本笛。",
+        "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）十二孔的具体调式体系未展开；（3）Engel 1874 目录原文未迻录；（4）各节螺纹的接合细节未展开。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='ottoman-nay-flute 示意图'><title>ottoman-nay-flute</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>奥斯曼/土耳其</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1860—67</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>nay 笛</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>长90cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>边棱吹·十二孔</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>乐理</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>Mevlevi 舞乐</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>苏菲</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>nay 笛：结构、乐理与舞乐</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（V&A）来源；调式与原文未展开。"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 380,
+    "total": 384,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -4564,6 +4564,54 @@
     },
     "alabaster-pieta": {
       "title": "雪花石《哀悼基督》",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "tapa-cloth-samoa": {
+      "title": "萨摩亚树皮布（tapa）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "aboriginal-tapestry-pike": {
+      "title": "平克《水潭边的两人》（原住民挂毯）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "maori-flax-cloak": {
+      "title": "毛利亚麻斗篷",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "ottoman-nay-flute": {
+      "title": "奥斯曼 nay 笛",
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",

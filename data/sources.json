@@ -5089,6 +5089,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；雪花石 400×315mm；说明含虔敬像与新旧风格融合"
+    },
+    {
+      "id": "vam-o133186",
+      "title": "Victoria and Albert Museum — Tapa cloth, Samoa, 1800s, O133186",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O133186",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；捶打树皮布 25.25×20.25英寸；说明含构树皮与妇女工序"
+    },
+    {
+      "id": "vam-o34305",
+      "title": "Victoria and Albert Museum — Jimmy Pike / Victorian Tapestry Workshop, Two men sitting at a waterhole, 1989, O34305",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O34305",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；棉经羊毛棉纬挂毯 17×20.5cm；说明含瓦尔马贾里人与大沙沙漠"
+    },
+    {
+      "id": "vam-o360650",
+      "title": "Victoria and Albert Museum — Maori flax cloak, New Zealand, 19th c., O360650",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O360650",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；搓捻亚麻斗篷 172.7×137.2cm；说明含黑缨与流苏"
+    },
+    {
+      "id": "vam-o304190",
+      "title": "Victoria and Albert Museum — Nay (flute), Ottoman, 1860–1867, O304190",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O304190",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；旋木嵌金属 长90cm；说明含三倍音域与 Mevlevi 舞乐"
     }
   ]
 }

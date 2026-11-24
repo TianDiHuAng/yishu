@@ -1,0 +1,94 @@
+{
+ "O369795": {
+  "title": "",
+  "date": "{'date': {'text': '1950 - 1955', 'earliest': '1950-01-01', 'latest': '1955-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': 'probably'}",
+  "place": "{'place': {'text': 'Australia', 'id': 'x30016'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': 'Possibly Buckingham Bay, Arhem Land, Northern Territory.'}",
+  "mat": "Bark painting.",
+  "desc": "The painting shows a turtle (?) at a fresh water pool; with hatched panels representing grass.",
+  "summary": "",
+  "objtype": "Shield",
+  "dims": [
+   [
+    "Height",
+    "57.2",
+    "cm",
+    ""
+   ],
+   [
+    "Width",
+    "27.3",
+    "cm",
+    ""
+   ],
+   [
+    "",
+    "",
+    "",
+    ""
+   ]
+  ]
+ },
+ "O34305": {
+  "title": "{'title': 'Two men sitting at a waterhole', 'type': 'assigned by artist'}",
+  "date": "{'date': {'text': '1989', 'earliest': '1989-01-01', 'latest': '1989-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Melbourne (Australia)', 'id': 'x32322'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "mat": "Tapestry woven with a cotton warp and wool and cotton weft",
+  "desc": "Hand woven Gobelin tapestry, white on a black ground. Abstract aerial view of two men sitting by a pond. The design is formed by a central motif of concentric lines, framed by a maze like pattern of thicker lines on the left and a zigzagging line on the right.",
+  "summary": "Established by the Government of Victoria in 1976, the Victorian Tapestry Workshop has an international reputation for its handwoven tapestries.  The majority of its tapestries are large-scale coporate and public commissions, but there has also been a demand from individual clients keen to own small examples of work.  In order to make its tapestries more widely available, the workshop put together a collection of specially designed small tapestries, to be woven in limited editions.\r\nJimmy Pike was an Aboriginal artist who lived in a bushcamp on the edge of the remote Great Sandy Desert of North Western Australia.  A member of the Walmajarri people, one of the last group to leave the desert in the 1950s, Pike spent his childhood as a nomad.  Pike's work has been inspired by the landscape and its ancient culture.  In his early career, Pike supplemented his income by selling hand carved artefacts, but in 1981 he was introduced to the Western style of painting and he continued to work in this medium.  However, the subjects and themes of his work remained entirely rooted in his Aboriginal heritage, as he explored the desert landscape and the spirituality of his people.",
+  "objtype": "Tapestry",
+  "dims": [
+   [
+    "Length",
+    "17",
+    "cm",
+    ""
+   ],
+   [
+    "Width",
+    "20.5",
+    "cm",
+    ""
+   ]
+  ]
+ },
+ "O304190": {
+  "title": "",
+  "date": "{'date': {'text': '1860 - 1867', 'earliest': '1860-01-01', 'latest': '1867-12-31'}, 'association': {'text': 'Made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Turkey', 'id': 'x29225'}, 'association': {'text': 'Made', 'id': 'x28654'}, 'note': ''}",
+  "mat": "Turned wood with inlaid metal",
+  "desc": "Consisting of three carved and cylindrical wooden pieces that each screw into one another. Each piece is ornamented with inlaid metal work with a total of twelve finger holes.  ",
+  "summary": "The \"nay\" or \"ney\" is a type of flute, used in Iran, Turkey and Arab countries, and it was even played in Ancient Egypt and Mesopotamia. In theory it has a range of three octaves and up to twelve finger-holes. Sound is created by blowing through a small aperture of the lips against the edge of the mouthpiece. The Turkish version features prominently in the music that accompanies the dances of the <i>Mevlevi</i> or whirling dervishes. This example was bought by the Museum soon after it had been exhibited at the Paris Exhibition (<i>Exposition Universelle</i>) of 1867.\r\n\r\nThe following description is taken from Carl Engel: “A Descriptive Catalogue of the Musical Instruments in the South Kensington Museum,” (London, 1874), p. 212: \r\n\r\nThe nay is founded by blowing through a very small aperture of the lips against the edge of the oriface of the tube, and directing the wind chiefly wihtin the tube. There is no artificial contrivance in the tube to assist the player, and much practice is required to produce a proper tone.  From the way in which some of the flute players represented on the ancient Egyptian monuments hold their instruments, with the upper end of the tube placed against the lips, it would appear that the embouchure of the performer on the nay is of very high quality.  The American Indians in Guiana and Northern Brazil have a similar method of sounding their rude bone flutes.  They, however, narrow the upper end of the tube by partly closing it with a resinous substance.  Furthermore, there are nose-flutes played in this way with the nose instead of the mouth, a manner of performance especially relished by the Polynesian islanders. \r\n",
+  "objtype": "Nay (flute)",
+  "dims": [
+   [
+    "Length",
+    "90",
+    "cm",
+    "Total"
+   ]
+  ]
+ },
+ "O133186": {
+  "title": "",
+  "date": "{'date': {'text': '1800s', 'earliest': '1800-01-01', 'latest': '1809-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Samoa', 'id': 'x40707'}, 'association': {'text': 'designed and made', 'id': 'x39722'}, 'note': 'possibly'}",
+  "mat": "Printed, painted and beaten bark cloth",
+  "desc": "Tapa cloth",
+  "summary": "Tapa cloths are native to the indigenous peoples of the South Pacific and have a wide variety of uses, both symbolic and functional. Tapa is made from the bark of the paper mulberry tree, <i>Broussonetia papyrifera</i>, and is traditionally produced by women involving a labour-intensive process. The first step is to strip the bark from the tree and immerse it in water, where it will soak from between several hours to a month, enabling the bark to be divested of its outer and much darker layer. The inner bark is then stretched out and beaten with clubs until the fibres soften and loosen, creating a uniform, flattened surface. Pieces are then joined together either with adhesive, or more traditionally, by melding the plant fibres together and beating them. The enlarged sheet of tapa will then be laid out in the sun, where it will be bleached as it dries. The final decoration will vary according to where the tapa is made: Fiji, Tonga and Samoa all have their own distinctive patterns. One of the great virtues of tapa is its versatility and any number of effects can be achieved though stamping, painting, stencilling, printing, staining and smoking.",
+  "objtype": "Tapa cloth",
+  "dims": [
+   [
+    "Length",
+    "25.25",
+    "in",
+    ""
+   ],
+   [
+    "Width",
+    "20.25",
+    "in",
+    ""
+   ]
+  ]
+ }
+}
