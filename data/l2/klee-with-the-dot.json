@@ -1,0 +1,19 @@
+{
+ "id": "klee-with-the-dot",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为德国画家保罗·克利（1879—1940）1916年的钢笔墨画《带着点》，克利夫兰艺术博物馆藏（1961.50）。该馆说明：克利作此画时正值第一次世界大战。",
+  "风格特征": "该馆说明：画中有一个悬浮的形象，可能是圣者，也可能是恶魔，俯视着一幅场景；场景中有齐柏林飞艇、一个断头的孩子、一名倒下的士兵，以及一个退缩（或在攻击）的人物。",
+  "代表人物与作品": "作者为克利。相关条目见表现主义与现代艺术。",
+  "技法或形式分析": "钢笔与黑墨，纸本；纸幅12.4 × 14.5厘米（据该馆藏品记录）。右上方有黑墨题款「Klee」；衬纸上有艺术家以黑墨写的「1916 57」。该馆说明：士兵的头盔带有把手，暗示机械化或非人化的战争机器。",
+  "与前后风格的关系和争论": "该馆说明：克利给这幅画的标题里包含一个点（•），指的是圆形的飞艇，或克利画中常作不祥预兆出现的圆。该馆并引克利1915年所写：世界越可怕，艺术就越抽象；而和平的世界产生写实的艺术。本条目只转述这一引语与该馆的读法，不另作考证。",
+  "一图": "示意图以一战背景、悬浮形象俯视的战争场景、点（圆）作不祥预兆三者关系标示本画。",
+  "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）画中各形象的辨认（飞艇、断头的孩子、倒下的士兵）为该馆的描述，本条目未另行印证；（3）1915年克利引语为该馆所引，本条目未核对原始出处；（4）该馆对悬浮形象的说法是「可能是圣者也可能是恶魔」，本条目不作取舍；（5）该馆记录的衬纸背面另有红墨题字，内容该馆记录为空，本条目不补；（6）入藏前来源含卢塞恩罗森加特画廊等，更多环节未展开。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='klee-with-the-dot 示意图'><title>klee-with-the-dot</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>克利·1916</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>一战期间</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>《带着点》</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>纸幅12.4×14.5cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>悬浮形象</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>圣者或恶魔</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>飞艇·士兵·孩子</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>点作不祥预兆</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>克利：战争年代的小幅钢笔画</text></g></svg>",
+ "sources": [
+  "cma-1961-50"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；形象辨认为该馆转述；克利引语未核对原出处；悬浮形象不作取舍；背面红墨题字不补。"
+}

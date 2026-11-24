@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 546,
+    "total": 550,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -6556,6 +6556,54 @@
     },
     "hals-tieleman-roosterman": {
       "title": "哈尔斯《蒂勒曼·罗斯特曼像》（1634）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "mondrian-composition-rby-1927": {
+      "title": "蒙德里安《红、黄、蓝构图》（1927）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "mondrian-field-young-trees": {
+      "title": "蒙德里安《前景有幼树的田野》（约1907）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "klee-with-the-dot": {
+      "title": "克利《带着点》（1916）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "klee-carnival-in-snow": {
+      "title": "克利《雪中狂欢节》（1923）",
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",

@@ -6719,6 +6719,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；布面油画 117×87cm；题款ÆTAT SVÆ 36 / AN° 1634；说明含哈勒姆亚麻丝绸商、可见笔触"
+    },
+    {
+      "id": "cma-1967-215",
+      "title": "Cleveland Museum of Art — Piet Mondrian, Composition with Red, Yellow, and Blue, 1927, acc. 1967.215",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1967.215",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；布面油画 49.5×49.5cm；题款P M '27；说明含网格、三原色与普世视觉语言"
+    },
+    {
+      "id": "cma-1971-220",
+      "title": "Cleveland Museum of Art — Piet Mondrian, Field with Young Trees in the Foreground, c. 1907, acc. 1971.220",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1971.220",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；纸本油画裱板 65.7×72cm；说明含奥埃勒村、1907年夏、精神性追求"
+    },
+    {
+      "id": "cma-1961-50",
+      "title": "Cleveland Museum of Art — Paul Klee, With the Dot, 1916, acc. 1961.50",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1961.50",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；钢笔墨 纸 12.4×14.5cm；说明含一战、齐柏林飞艇与1915年克利引语"
+    },
+    {
+      "id": "cma-1969-46",
+      "title": "Cleveland Museum of Art — Paul Klee, Carnival in the Snow, 1923, acc. 1969.46",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1969.46",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；水彩 24×23.5cm；题款Karneval im Schnee（该馆记录截断）；说明含杂技演员、青骑士成员、先画后辨认的方法"
     }
   ]
 }

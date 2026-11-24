@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 546 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 550 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -213,6 +213,10 @@
 | braque-estaque-port | 布拉克《埃斯塔克港：码头》 | 作品 | 20世纪 | 欧洲 | 绘画 | 核心 | O1 |
 | monet-water-lilies-agapanthus | 莫奈《睡莲（百子莲）》 | 作品 | 20世纪 | 欧洲 | 绘画 | 核心 | O1 |
 | picasso-bottle-glass-fork | 毕加索《瓶、杯、叉》 | 作品 | 20世纪 | 欧洲 | 绘画 | 核心 | O1 |
+| mondrian-composition-rby-1927 | 蒙德里安《红、黄、蓝构图》（1927） | 作品 | 20世纪 | 荷兰 | 绘画 | 重要 | O1 |
+| mondrian-field-young-trees | 蒙德里安《前景有幼树的田野》（约1907） | 作品 | 20世纪 | 荷兰 | 绘画 | 重要 | O1 |
+| klee-with-the-dot | 克利《带着点》（1916） | 作品 | 20世纪 | 德国 | 素描 | 重要 | O1 |
+| klee-carnival-in-snow | 克利《雪中狂欢节》（1923） | 作品 | 20世纪 | 德国 | 水彩 | 重要 | O1 |
 
 ## art-contemporary（艺术史·当代）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

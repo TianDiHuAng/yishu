@@ -1506,7 +1506,8 @@
         "starry-night",
         "van-gogh-plane-trees",
         "van-gogh-dr-gachet",
-        "van-gogh-drenthe-wheelbarrow"
+        "van-gogh-drenthe-wheelbarrow",
+        "mondrian-field-young-trees"
       ],
       "sources": [
         "enc-post-impressionism",
@@ -1766,7 +1767,9 @@
         "fauvism",
         "abstract-expressionism",
         "van-gogh",
-        "kandinsky"
+        "kandinsky",
+        "klee-with-the-dot",
+        "klee-carnival-in-snow"
       ],
       "sources": [
         "enc-expressionism",
@@ -1804,7 +1807,8 @@
         "guernica-work",
         "braque-violin-collage",
         "picasso-la-vie",
-        "picasso-bottle-glass-fork"
+        "picasso-bottle-glass-fork",
+        "mondrian-composition-rby-1927"
       ],
       "sources": [
         "enc-cubism",
@@ -2076,7 +2080,8 @@
       "overview": "以《论艺术的精神》阐述抽象艺术理论，作品以色彩与几何的纯粹形式表达精神。",
       "related": [
         "expressionism",
-        "abstract-expressionism"
+        "abstract-expressionism",
+        "klee-carnival-in-snow"
       ],
       "sources": [
         "enc-kandinsky",
@@ -2152,7 +2157,9 @@
         "matisse-interior-etruscan",
         "degas-frieze-dancers",
         "rouault-end-autumn",
-        "cannon-memorial-woodcut"
+        "cannon-memorial-woodcut",
+        "mondrian-composition-rby-1927",
+        "klee-with-the-dot"
       ],
       "sources": [
         "web-artstory-movements",
@@ -19087,6 +19094,141 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='hals-tieleman-roosterman 示意图'><title>hals-tieleman-roosterman</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>哈尔斯·1634</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>荷兰·哈勒姆</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>蒂勒曼·罗斯特曼像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>画心117×87cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>可见笔触</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>传达生气</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>端庄而奢华</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>黑衣·亚麻领·花边袖口</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>哈尔斯：笔触里的生气</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（CMA）来源；题款原样；评价性描述为转述；与同代画家对比为该馆概括；流传只引前段。"
+    },
+    {
+      "id": "mondrian-composition-rby-1927",
+      "title": "蒙德里安《红、黄、蓝构图》（1927）",
+      "kind": "作品",
+      "unit": "art-modern",
+      "era": "20世纪",
+      "region": "荷兰",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "蒙德里安布面油画，克利夫兰艺术博物馆藏（1967.215）。",
+      "when": "1927年",
+      "overview": "该馆说明：1910年代蒙德里安的艺术由立体主义发展为以网格为基础的日益抽象的风格，完全放弃自然外观的再现，只用水平与垂直的矩形和红黄蓝三原色加黑白；他相信一战后的浩劫之下，这类抽象构图能以普世的视觉语言促成更和谐的社会；画面下方中央题「P M '27」。",
+      "related": [
+        "modern-art",
+        "cubism",
+        "mondrian-field-young-trees"
+      ],
+      "sources": [
+        "cma-1967-215"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为荷兰画家蒙德里安（1872—1944）1927年的《红、黄、蓝构图》，布面油画，克利夫兰艺术博物馆藏（1967.215）。",
+        "风格特征": "该馆说明：1910年代蒙德里安的艺术由立体主义发展为以网格形式为基础的日益抽象的风格；他完全放弃了对自然外观的再现，只用水平与垂直的矩形和红、黄、蓝三原色，外加黑与白。",
+        "代表人物与作品": "作者为蒙德里安。相关条目见现代艺术与立体主义。",
+        "技法或形式分析": "布面油画；画心49.5 × 49.5厘米，带框62.2 × 62.6 × 10.8厘米（据该馆藏品记录）。下方中央题款为「P M '27」，原样引用。",
+        "与前后风格的关系和争论": "该馆称蒙德里安极富思辨与哲学性，并相信在一战的浩劫之后，这类抽象构图能够以一种普世的视觉语言促成更和谐的社会。本条目只转述该馆这一说明，不另作理论考证。",
+        "一图": "示意图以立体主义到网格抽象、三原色与黑白、普世视觉语言三者关系标示本画。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）「相信……促成更和谐的社会」为该馆对蒙德里安思想的概括，本条目未另行印证；（3）该馆说明未使用「新造型主义」或「风格派」等名目，本条目亦不添加，这两项在本库中也无独立条目；（4）入藏前来源记录为1955年荷兰瓦瑟纳尔的奥德（J. J. P. Oud）及E. V. Thaw，更多环节未展开。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='mondrian-composition-rby 示意图'><title>mondrian-composition-rby</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>蒙德里安·1927</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>荷兰</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>红、黄、蓝构图</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>画心49.5×49.5cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>网格抽象</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>水平垂直矩形</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>三原色加黑白</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>普世视觉语言</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>蒙德里安：以网格为普世语言</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；思想概括为该馆转述；未添加新造型主义等名目；题款原样；流传只引前段。"
+    },
+    {
+      "id": "mondrian-field-young-trees",
+      "title": "蒙德里安《前景有幼树的田野》（约1907）",
+      "kind": "作品",
+      "unit": "art-modern",
+      "era": "20世纪",
+      "region": "荷兰",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "蒙德里安早期风景，纸本油画裱板，克利夫兰艺术博物馆藏（1971.220）。",
+      "when": "约1907年",
+      "overview": "该馆说明：画的是1907年夏蒙德里安居住的荷兰东部奥埃勒村周边的田野；暮色天空下树的剪影所造成的氛围，显示他对精神性的追求早于1916年开始画完全抽象的非具象构图；他受形而上学与哲学阅读引导，追求画中更高的精神现实，最终舍弃一切再现元素而走向纯粹几何抽象；弗兰克·斯特拉捐赠给该馆。",
+      "related": [
+        "mondrian-composition-rby-1927",
+        "post-impressionism"
+      ],
+      "sources": [
+        "cma-1971-220"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为蒙德里安约1907年的《前景有幼树的田野》，纸本油画裱于板上，克利夫兰艺术博物馆藏（1971.220）。该馆说明：画的是荷兰东部奥埃勒村周边的田野，蒙德里安1907年夏天住在那里。",
+        "风格特征": "该馆说明：暮色天空下树的剪影所营造的、引人遐想的气氛，表明蒙德里安对精神性的追求，早在他于1916年开始画完全抽象的非具象构图之前就已存在。",
+        "代表人物与作品": "作者为蒙德里安。相关条目见《红、黄、蓝构图》与后印象派。",
+        "技法或形式分析": "纸本油画裱板；画心65.7 × 72厘米，带框82.5 × 97 × 5.8厘米（据该馆藏品记录）。该馆记录无题款。",
+        "与前后风格的关系和争论": "该馆说明：蒙德里安受形而上学与哲学阅读的引导，追求在画中达到更高的精神现实，这最终使他舍弃一切再现元素，转向纯粹的几何抽象。本条目据此把它与1927年的作品并读，作为「从具象到抽象」的前后两端；这一并读方式是本条目的编排，该馆说明并未直接把两件作品对照。",
+        "一图": "示意图以1907年奥埃勒的田野、对精神性的追求、1916年起的非具象三者关系标示本画。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）「精神性追求早于1916年」为该馆的解读，本条目只作转述；（3）与1927年作品「前后两端」的并读为本条目编排；（4）创作年份该馆记为「c. 1907」，不作更细推定；（5）该馆记录显示此画由弗兰克·斯特拉（Frank Stella）捐赠，更早的流传未在记录中展开。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='mondrian-field-young-tre 示意图'><title>mondrian-field-young-tre</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>蒙德里安·约1907</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>奥埃勒村·夏</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>前景有幼树的田野</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>画心65.7×72cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>暮色树影</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>精神性氛围</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>1916年起非具象</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>几何抽象</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>蒙德里安：抽象之前的精神性</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；精神性解读为该馆转述；并读为本条目编排；年份仅到约1907；斯特拉捐赠来自流传记录。"
+    },
+    {
+      "id": "klee-with-the-dot",
+      "title": "克利《带着点》（1916）",
+      "kind": "作品",
+      "unit": "art-modern",
+      "era": "20世纪",
+      "region": "德国",
+      "medium": "素描",
+      "tier": "重要",
+      "def": "克利一战期间的钢笔墨画，克利夫兰艺术博物馆藏（1961.50）。",
+      "when": "1916年",
+      "overview": "该馆说明：画中悬浮的形象可能是圣者也可能是恶魔，俯视着包含齐柏林飞艇、断头的孩子、倒下的士兵与一个退缩（或攻击）的人物的场景；士兵头盔带把手，暗示机械化或非人化的战争机器；标题中的点（•）指圆形的飞艇，或克利画中常作不祥预兆的圆；该馆引克利1915年的话：世界越可怕，艺术越抽象；和平的世界产生写实的艺术。",
+      "related": [
+        "expressionism",
+        "modern-art",
+        "klee-carnival-in-snow"
+      ],
+      "sources": [
+        "cma-1961-50"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为德国画家保罗·克利（1879—1940）1916年的钢笔墨画《带着点》，克利夫兰艺术博物馆藏（1961.50）。该馆说明：克利作此画时正值第一次世界大战。",
+        "风格特征": "该馆说明：画中有一个悬浮的形象，可能是圣者，也可能是恶魔，俯视着一幅场景；场景中有齐柏林飞艇、一个断头的孩子、一名倒下的士兵，以及一个退缩（或在攻击）的人物。",
+        "代表人物与作品": "作者为克利。相关条目见表现主义与现代艺术。",
+        "技法或形式分析": "钢笔与黑墨，纸本；纸幅12.4 × 14.5厘米（据该馆藏品记录）。右上方有黑墨题款「Klee」；衬纸上有艺术家以黑墨写的「1916 57」。该馆说明：士兵的头盔带有把手，暗示机械化或非人化的战争机器。",
+        "与前后风格的关系和争论": "该馆说明：克利给这幅画的标题里包含一个点（•），指的是圆形的飞艇，或克利画中常作不祥预兆出现的圆。该馆并引克利1915年所写：世界越可怕，艺术就越抽象；而和平的世界产生写实的艺术。本条目只转述这一引语与该馆的读法，不另作考证。",
+        "一图": "示意图以一战背景、悬浮形象俯视的战争场景、点（圆）作不祥预兆三者关系标示本画。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）画中各形象的辨认（飞艇、断头的孩子、倒下的士兵）为该馆的描述，本条目未另行印证；（3）1915年克利引语为该馆所引，本条目未核对原始出处；（4）该馆对悬浮形象的说法是「可能是圣者也可能是恶魔」，本条目不作取舍；（5）该馆记录的衬纸背面另有红墨题字，内容该馆记录为空，本条目不补；（6）入藏前来源含卢塞恩罗森加特画廊等，更多环节未展开。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='klee-with-the-dot 示意图'><title>klee-with-the-dot</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>克利·1916</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>一战期间</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>《带着点》</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>纸幅12.4×14.5cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>悬浮形象</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>圣者或恶魔</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>飞艇·士兵·孩子</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>点作不祥预兆</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>克利：战争年代的小幅钢笔画</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；形象辨认为该馆转述；克利引语未核对原出处；悬浮形象不作取舍；背面红墨题字不补。"
+    },
+    {
+      "id": "klee-carnival-in-snow",
+      "title": "克利《雪中狂欢节》（1923）",
+      "kind": "作品",
+      "unit": "art-modern",
+      "era": "20世纪",
+      "region": "德国",
+      "medium": "水彩",
+      "tier": "重要",
+      "def": "克利水彩，克利夫兰艺术博物馆藏（1969.46）。",
+      "when": "1923年",
+      "overview": "该馆说明：画中杂技演员与马戏小丑从复杂的形与色的图案中浮现，两个杂耍者共用一张脸和一个躯干；克利是慕尼黑青骑士团体成员，相信色与形本身即可承载情感、情绪与主观感受；他的方法是先不画主题，叠加有色形体，直到出现可辨认之物。",
+      "related": [
+        "klee-with-the-dot",
+        "expressionism",
+        "kandinsky"
+      ],
+      "sources": [
+        "cma-1969-46"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为克利1923年的水彩《雪中狂欢节》，克利夫兰艺术博物馆藏（1969.46）。该馆说明：克利是慕尼黑青骑士团体的成员。",
+        "风格特征": "该馆说明：画中杂技演员与马戏杂耍者从复杂的形与色的图案中浮现，其中两个杂耍者共用一张脸和一个躯干。",
+        "代表人物与作品": "作者为克利。相关条目见表现主义与康定斯基。",
+        "技法或形式分析": "水彩；纸幅24 × 23.5厘米，衬纸34.5 × 29.3厘米（据该馆藏品记录）。左上方有棕墨题款「Klee」；衬纸下方中央有艺术家的棕墨题字，含「1923」与德文标题「Karneval im Schnee」，该馆记录在此处有截断，本条目不补全其余部分。",
+        "与前后风格的关系和争论": "该馆说明：克利相信色与形这些要素本身即可承载情感、情绪与主观感受；他的方法是开始作画时并无主题，叠加一层又一层有色的形体，直到出现某种可辨认的东西才定下主题。本条目只转述这一方法，不据以断言此画具体的作画过程。",
+        "一图": "示意图以青骑士成员、先不定主题再叠加色形、共用一张脸的两个杂耍者三者关系标示本画。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）克利的作画方法为该馆对其一般做法的概括，未必逐件适用，本条目未印证此画的具体过程；（3）题款在该馆记录中被截断，仅引可见部分；（4）「青骑士」在本库中无独立条目，本条目不作展开；（5）入藏前来源记录称此画发现于一位年轻平面设计师1944年去世后的遗物中，据拍卖行来信推测他可能与克利相识，这只是该馆记录所引的推测，本条目不作定论。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='klee-carnival-in-snow 示意图'><title>klee-carnival-in-snow</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>克利·1923</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>青骑士成员</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>雪中狂欢节</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>纸幅24×23.5cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>杂技演员与杂耍者</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>两人共用一脸</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>先叠色形后辨认</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>色形承载情绪</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>克利：从色形里浮现的狂欢节</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；作画方法为该馆一般性概括；题款截断不补；青骑士无独立条目；流传推测不作定论。"
     }
   ]
 }
