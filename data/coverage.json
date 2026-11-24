@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 452,
+    "total": 456,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -5429,6 +5429,54 @@
     "silenus-couch-bust": {
       "title": "西勒诺斯床榻像",
       "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "qianlong-carved-lacquer-scrollbox": {
+      "title": "乾隆剔红龙纹卷轴盒",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "ming-side-table-everted": {
+      "title": "明式翘头案",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "ming-lohan-armchairs": {
+      "title": "明式圈背椅（罗汉式，一对）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "kang-table-dragons": {
+      "title": "云龙纹炕桌",
+      "tier": "核心",
       "level": "L2",
       "status": "written_l2",
       "sources_count": 1,

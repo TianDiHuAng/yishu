@@ -14805,7 +14805,8 @@
       "overview": "凤与龙间置「福」「壽」二字；黑/赭/绿/朱多层漆；类似同期五彩瓷；龙凤为宫廷徽记；底刻「大明嘉靖年制」。",
       "related": [
         "qianlong-jade-mountain",
-        "chenghua-doucai-cup"
+        "chenghua-doucai-cup",
+        "qianlong-carved-lacquer-scrollbox"
       ],
       "sources": [
         "cma-1972-14"
@@ -15827,6 +15828,139 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='silenus-couch-bust 示意图'><title>silenus-couch-bust</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>罗马·1—125</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>青铜</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>西勒诺斯像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>11cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>fulcrum扶手</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>家具</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>醉态·希腊传承</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>图像</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>西勒诺斯：家具、醉态与传承</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（CMA）来源；顶端兽首为推测；出土地未记录。"
+    },
+    {
+      "id": "qianlong-carved-lacquer-scrollbox",
+      "title": "乾隆剔红龙纹卷轴盒",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "18世纪",
+      "region": "东亚",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "乾隆木胎朱漆剔红卷轴盒，克利夫兰艺术博物馆藏（1969.32）。",
+      "when": "1736—1795年",
+      "overview": "两端五爪龙（唯帝王可用），龙穿云水；剔刻精细而构图整肃；曾盛乾隆及皇后与11位宠妃私像；苏州承制；造办处记录载1787年龙纹盒设计。",
+      "related": [
+        "jiajing-carved-lacquer-jar",
+        "ming-side-table-everted"
+      ],
+      "sources": [
+        "cma-1969-32"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明：繁复的纹样、上乘的工艺与**刻入朱红雕漆的铭文**，共同宣示此卷轴盒的**皇家血统**。本件为乾隆朝（1736—95）木胎剔红，CMA 藏（1969.32）。",
+        "风格特征": "该馆描述：**两端各一五爪龙**——这一纹样**唯帝王可用**；更多龙**穿绕于翻卷的云水**之间，**沿盒的侧面上顶**；**剔刻精细而有力**，**构图整饬而有法**。",
+        "代表人物与作品": "用途：此盒**曾盛乾隆皇帝、其皇后，以及他60年统治期间推定40余位妻妾中的11位宠妃**的**私人肖像**；**当卷轴不再增补肖像时**，**特命在苏州制作**此盒。该馆并引**造办处**档案：**1787年**一款**含铭文的龙纹盒设计**，与克利夫兰此盒相关（记录在「inscr…」处**截断**，本条目**不补写**）。相关条目见嘉靖剔彩龙凤罐与明式翘头案。",
+        "技法或形式分析": "材质为**木胎朱漆剔红**；尺寸14 × 14.7 × 59厘米（据该馆记录）。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「五爪龙＋铭文＋苏州承制＋造办处档案」叠加：一件盒同时是**等级符号、宫廷档案与地方工艺**的交汇点，其年代可由**文献记录反证**。",
+        "一图": "示意图以五爪龙、藏11位宠妃像与1787造办处记录三者关系标示本盒。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）该馆 summary 在「inscr…」处**截断，未补写**；（3）「11位」为盒内肖像数，非妻妾总数；（4）盒内肖像现存下落未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='qianlong-carved-lacquer- 示意图'><title>qianlong-carved-lacquer-</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>乾隆·1736—95</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>剔红</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>卷轴盒</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>59cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>五爪龙</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>唯帝王</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>1787 造办处</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>文献反证</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>剔红卷轴盒：符号、用途与档案</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；summary 截断；肖像下落未记录。"
+    },
+    {
+      "id": "ming-side-table-everted",
+      "title": "明式翘头案",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "16—17世纪",
+      "region": "东亚",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "明式红木贴面樟木翘头案，克利夫兰艺术博物馆藏（1955.42）。",
+      "when": "1500年代末—1600年代",
+      "overview": "中国家具为榫卯框架的木工艺术；牙板饰云头角牙，腿足间嵌云头开光透雕；面窄而长、两端上翘（翘头）更显正式，或作供案。",
+      "related": [
+        "ming-lohan-armchairs",
+        "kang-table-dragons",
+        "qianlong-carved-lacquer-scrollbox"
+      ],
+      "sources": [
+        "cma-1955-42"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**明式**红木贴面樟木**翘头案**，1500年代末—1600年代，CMA 藏（1955.42）。",
+        "风格特征": "该馆给出**总纲**：**中国古典家具是木工与榫卯（joinery）的艺术**，使用**榫卯框架（mortise-and-tenon framework）**；**设计、工艺与硬木的自然材料**共同创造无穷的审美可能。",
+        "代表人物与作品": "作者未署名。相关条目见圈背椅与炕桌。本件为 CMA 藏品（1955.42）。",
+        "技法或形式分析": "材质为**红木贴面与樟木**；尺寸88 × 51.8厘米（据该馆记录）。该馆描述细部：**牙板饰云头角牙（cloud-collar spandrels）**，腿足之间**嵌云头纹开光透雕（openwork panels）**；**桌面相对其长度较窄**，并有**两端上翘（upturned ends）** 的细节——**使其更显正式**，**或作供案（altar table）**。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「结构」置于首位：榫卯框架是**先于装饰**的技术前提；而「翘头」这样一个**小细节**改变了整器的**礼仪等级**（案→供案）。本条目只依记录陈述。",
+        "一图": "示意图以榫卯框架、云头角牙与翘头「正式化」三者关系标示本案。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「或作供案」该馆用 possibly；（3）红木贴面的木材种未确指；（4）出土/递藏未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='ming-side-table-everted 示意图'><title>ming-side-table-everted</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>明式·16—17世纪</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>榫卯框架</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>翘头案</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>88×51.8</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>云头角牙</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>装饰</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>翘头→供案</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>礼仪化</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>翘头案：榫卯、装饰与礼仪</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；木材种与递藏未记录。"
+    },
+    {
+      "id": "ming-lohan-armchairs",
+      "title": "明式圈背椅（罗汉式，一对）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "16—18世纪",
+      "region": "东亚",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "黄花梨圈背椅一对，克利夫兰艺术博物馆藏（1955.40）。",
+      "when": "1600—1700年代",
+      "overview": "中国自席地而坐转为高足家具；地域风格各异；此马蹄背椅产于江苏，简约雅致为苏作风格；靠背以七块木拼接插入木销，榫卯技法最早见于河姆渡新石器残件。",
+      "related": [
+        "ming-side-table-everted",
+        "kang-table-dragons"
+      ],
+      "sources": [
+        "cma-1955-40"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明：在历史上，中国**自席地而坐（floor culture）转向高椅与高桌**，发展出独特的工艺传统；尽管**尚少被研究**，家具的**制造与风格因地区而异**。本件为**黄花梨**圈背椅一对（1600—1700年代），CMA 藏（1955.40）。",
+        "风格特征": "该馆指出产地与风格：这对**马蹄背（horseshoe-back）扶手椅**产于**江苏省**；其**简约与极简的优雅**是**苏作（Suzhou-style）家具与审美**的特征。",
+        "代表人物与作品": "作者未署名。相关条目见翘头案与炕桌。本件为 CMA 藏品（1955.40）。",
+        "技法或形式分析": "材质为**黄花梨（huanghuali）**；整体85.4 × 58.4厘米、椅86 × 63.5 × 47厘米（据该馆记录）。该馆给出**结构细节**：**靠背由七块木料**以**插入的木销（inserted wooden pin）** 接合固定——这一**榫卯技法**的**最早形态**见于**河姆渡（Hemudu）文化的新石器时代残件**。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「极简」追溯到**新石器榫卯**：苏作的简雅不是「少装饰」的偶然，而是**数千年木作技术**的成熟结果。本条目只依记录陈述。",
+        "一图": "示意图以席地→高足、苏作极简与河姆渡榫卯三者关系标示本椅。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「七块木」具体拼接方式未详；（3）河姆渡残件的年代与出处未核原文；（4）成对中另一椅是否同式未说明。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='ming-lohan-armchairs 示意图'><title>ming-lohan-armchairs</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>1600—1700s</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>黄花梨</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>圈背椅一对</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>85.4cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>苏作极简</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>江苏</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>七块木·榫卯</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>河姆渡源</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>圈背椅：地域、极简与榫卯</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；河姆渡出处未核；成对细节未说明。"
+    },
+    {
+      "id": "kang-table-dragons",
+      "title": "云龙纹炕桌",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "17—18世纪",
+      "region": "东亚",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "黄花梨嵌金属云龙纹炕桌，克利夫兰艺术博物馆藏（1964.228）。",
+      "when": "1600—1700年代",
+      "overview": "炕桌原置砖砌火炕（北方冬作卧居），日间两人对坐、桌置其间；南方暖地则用于木榻；明清多用黄花梨等珍稀硬木。",
+      "related": [
+        "ming-lohan-armchairs",
+        "ming-side-table-everted"
+      ],
+      "sources": [
+        "cma-1964-228"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明：**最初，低桌置于「炕」上**——炕是**砖砌、下有火加热的平台**，在**中国北方寒冷冬日**兼作**卧与居**之用。本件为黄花梨嵌金属**炕桌**（1600—1700年代），CMA 藏（1964.228）。",
+        "风格特征": "该馆描述使用方式：**白天**，炕可**容两人对坐**，**中间置一张炕桌**；在**较暖的南方**，炕桌则用于**木制卧榻（daybed）** 上。",
+        "代表人物与作品": "作者未署名。相关条目见圈背椅与翘头案。本件为 CMA 藏品（1964.228）。",
+        "技法或形式分析": "材质为**黄花梨与金属**；尺寸29 × 97.2 × 69.2厘米（据该馆记录）。该馆指出至**明清**，家具匠人使用**珍稀热带硬木**，如**黄花梨（huanghuali，rosewood）**。",
+        "与前后风格的关系和争论": "本条目据该馆说明把握**气候—建筑—家具**的联动：炕桌的尺度（低、窄、长）由**火炕的坐卧方式**决定；同一器形南传后在**木榻**上延续——**家具形态是生活方式的地理函数**。",
+        "一图": "示意图以火炕、两人对坐炕桌与南方木榻三者关系标示本桌。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）金属件的具体部位与作用未描述；（3）云龙纹的雕法未展开；（4）出土地/递藏未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='kang-table-dragons 示意图'><title>kang-table-dragons</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>17—18世纪</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>黄花梨</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>炕桌</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>97.2cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>北方火炕</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>坐卧</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>南方木榻</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>延续</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>炕桌：气候、坐卧与南传</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；金属件与雕法未展开。"
     }
   ]
 }

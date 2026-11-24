@@ -5789,6 +5789,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；青铜 11cm；说明含fulcrum与鹿皮醉态"
+    },
+    {
+      "id": "cma-1969-32",
+      "title": "Cleveland Museum of Art — Carved Lacquer Scroll Box, Qianlong, 1736–95, acc. 1969.32",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1969.32",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；木胎朱漆剔红 59×14.7×14cm；说明含五爪龙与1787造办处记录"
+    },
+    {
+      "id": "cma-1955-42",
+      "title": "Cleveland Museum of Art — Ming side table with everted ends, acc. 1955.42",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1955.42",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；红木贴面樟木 88×51.8cm；说明含榫卯与翘头"
+    },
+    {
+      "id": "cma-1955-40",
+      "title": "Cleveland Museum of Art — Pair of Lohan roundback armchairs, huanghuali, acc. 1955.40",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1955.40",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；黄花梨 85.4×58.4cm；说明含苏作与河姆渡榫卯"
+    },
+    {
+      "id": "cma-1964-228",
+      "title": "Cleveland Museum of Art — Kang table with dragons in clouds, huanghuali, acc. 1964.228",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1964.228",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；黄花梨与金属 29×97.2×69.2cm；说明含炕与南方榻"
     }
   ]
 }

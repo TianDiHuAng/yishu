@@ -1,0 +1,19 @@
+{
+ "id": "ming-side-table-everted",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为**明式**红木贴面樟木**翘头案**，1500年代末—1600年代，CMA 藏（1955.42）。",
+  "风格特征": "该馆给出**总纲**：**中国古典家具是木工与榫卯（joinery）的艺术**，使用**榫卯框架（mortise-and-tenon framework）**；**设计、工艺与硬木的自然材料**共同创造无穷的审美可能。",
+  "代表人物与作品": "作者未署名。相关条目见圈背椅与炕桌。本件为 CMA 藏品（1955.42）。",
+  "技法或形式分析": "材质为**红木贴面与樟木**；尺寸88 × 51.8厘米（据该馆记录）。该馆描述细部：**牙板饰云头角牙（cloud-collar spandrels）**，腿足之间**嵌云头纹开光透雕（openwork panels）**；**桌面相对其长度较窄**，并有**两端上翘（upturned ends）** 的细节——**使其更显正式**，**或作供案（altar table）**。",
+  "与前后风格的关系和争论": "本条目据该馆说明把「结构」置于首位：榫卯框架是**先于装饰**的技术前提；而「翘头」这样一个**小细节**改变了整器的**礼仪等级**（案→供案）。本条目只依记录陈述。",
+  "一图": "示意图以榫卯框架、云头角牙与翘头「正式化」三者关系标示本案。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「或作供案」该馆用 possibly；（3）红木贴面的木材种未确指；（4）出土/递藏未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='ming-side-table-everted 示意图'><title>ming-side-table-everted</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>明式·16—17世纪</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>榫卯框架</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>翘头案</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>88×51.8</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>云头角牙</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>装饰</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>翘头→供案</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>礼仪化</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>翘头案：榫卯、装饰与礼仪</text></g></svg>",
+ "sources": [
+  "cma-1955-42"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；木材种与递藏未记录。"
+}

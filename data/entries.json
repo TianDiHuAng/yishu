@@ -9162,7 +9162,8 @@
       "overview": "凤与龙间置「福」「壽」二字；黑/赭/绿/朱多层漆；类似同期五彩瓷；龙凤为宫廷徽记；底刻「大明嘉靖年制」。",
       "related": [
         "qianlong-jade-mountain",
-        "chenghua-doucai-cup"
+        "chenghua-doucai-cup",
+        "qianlong-carved-lacquer-scrollbox"
       ],
       "sources": [
         "cma-1972-14"
@@ -9780,6 +9781,87 @@
       ],
       "sources": [
         "cma-1974-88"
+      ]
+    },
+    {
+      "id": "qianlong-carved-lacquer-scrollbox",
+      "title": "乾隆剔红龙纹卷轴盒",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "18世纪",
+      "region": "东亚",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "乾隆木胎朱漆剔红卷轴盒，克利夫兰艺术博物馆藏（1969.32）。",
+      "when": "1736—1795年",
+      "overview": "两端五爪龙（唯帝王可用），龙穿云水；剔刻精细而构图整肃；曾盛乾隆及皇后与11位宠妃私像；苏州承制；造办处记录载1787年龙纹盒设计。",
+      "related": [
+        "jiajing-carved-lacquer-jar",
+        "ming-side-table-everted"
+      ],
+      "sources": [
+        "cma-1969-32"
+      ]
+    },
+    {
+      "id": "ming-side-table-everted",
+      "title": "明式翘头案",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "16—17世纪",
+      "region": "东亚",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "明式红木贴面樟木翘头案，克利夫兰艺术博物馆藏（1955.42）。",
+      "when": "1500年代末—1600年代",
+      "overview": "中国家具为榫卯框架的木工艺术；牙板饰云头角牙，腿足间嵌云头开光透雕；面窄而长、两端上翘（翘头）更显正式，或作供案。",
+      "related": [
+        "ming-lohan-armchairs",
+        "kang-table-dragons",
+        "qianlong-carved-lacquer-scrollbox"
+      ],
+      "sources": [
+        "cma-1955-42"
+      ]
+    },
+    {
+      "id": "ming-lohan-armchairs",
+      "title": "明式圈背椅（罗汉式，一对）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "16—18世纪",
+      "region": "东亚",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "黄花梨圈背椅一对，克利夫兰艺术博物馆藏（1955.40）。",
+      "when": "1600—1700年代",
+      "overview": "中国自席地而坐转为高足家具；地域风格各异；此马蹄背椅产于江苏，简约雅致为苏作风格；靠背以七块木拼接插入木销，榫卯技法最早见于河姆渡新石器残件。",
+      "related": [
+        "ming-side-table-everted",
+        "kang-table-dragons"
+      ],
+      "sources": [
+        "cma-1955-40"
+      ]
+    },
+    {
+      "id": "kang-table-dragons",
+      "title": "云龙纹炕桌",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "17—18世纪",
+      "region": "东亚",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "黄花梨嵌金属云龙纹炕桌，克利夫兰艺术博物馆藏（1964.228）。",
+      "when": "1600—1700年代",
+      "overview": "炕桌原置砖砌火炕（北方冬作卧居），日间两人对坐、桌置其间；南方暖地则用于木榻；明清多用黄花梨等珍稀硬木。",
+      "related": [
+        "ming-lohan-armchairs",
+        "ming-side-table-everted"
+      ],
+      "sources": [
+        "cma-1964-228"
       ]
     }
   ]
