@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 400 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 404 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -436,6 +436,10 @@
 | gambanda-female-mask | 彭德 gambanda 女面具 | 作品 | 20世纪 | 非洲 | 雕塑 | 核心 | O1 |
 | nkishi-power-figure | 卢巴 nkishi 灵力像 | 作品 | 19—20世纪 | 非洲 | 雕塑 | 核心 | O1 |
 | bwa-buffalo-mask | 布瓦水牛面具 | 作品 | 20世纪 | 非洲 | 雕塑 | 核心 | O1 |
+| kente-cloth-va1900 | 肯特布（Kente，1900—49） | 作品 | 20世纪 | 非洲 | 织物 | 核心 | O1 |
+| kente-cloth-va1950 | 肯特布（Kente，20世纪中） | 作品 | 20世纪 | 非洲 | 织物 | 核心 | O1 |
+| mano-mask-liberia | 马诺面具（利比里亚） | 作品 | 20世纪 | 非洲 | 雕塑 | 重要 | O1 |
+| gelede-mask-yoruba | 约鲁巴 Gelede 面具 | 作品 | 20世纪 | 非洲 | 雕塑 | 核心 | O1 |
 
 ## art-americas（美洲原住民与前哥伦布艺术）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

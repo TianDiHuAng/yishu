@@ -5289,6 +5289,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；模塑塑料 13弦 含原盒与说明书；说明含 Moss Garden"
+    },
+    {
+      "id": "vam-o263818",
+      "title": "Victoria and Albert Museum — Kente cloth, Ghana, 1900–1949, O263818",
+      "author": "V&A / Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O263818",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；棉条织纬浮 185×118cm；说明含 Asante/Ewe 条织传统"
+    },
+    {
+      "id": "vam-o164606",
+      "title": "Victoria and Albert Museum — Kente cloth, Ghana, mid-20th c., O164606",
+      "author": "V&A / Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O164606",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；手织棉 19条幅 283×200cm；说明含叶纹纬浮与错位排布"
+    },
+    {
+      "id": "cma-1953-457",
+      "title": "Cleveland Museum of Art — Mano mask, Liberia, acquired 1933–37 by George Harley, acc. 1953.457",
+      "author": "V&A / Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1953.457",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；木铜合金纤维布皮革牙珠树脂铁玻璃珠 28×15.2cm；说明含11类型与森林精灵"
+    },
+    {
+      "id": "cma-1975-168-1",
+      "title": "Cleveland Museum of Art — Gelede mask, Yorùbá, c. 1945–1950, acc. 1975.168.1",
+      "author": "V&A / Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1975.168.1",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；木与颜料 77.7cm；说明含 Ìyá Nlá 与鳄鱼冠饰"
     }
   ]
 }

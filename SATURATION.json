@@ -1435,6 +1435,18 @@
       },
       "network": "V&A",
       "verdict": "达到400条目；未饱和"
+    },
+    {
+      "cycle": "cycle117",
+      "date": "2026-11-24",
+      "methods_used": [
+        "非洲织物/面具"
+      ],
+      "gaps_found": {
+        "entries": 4
+      },
+      "network": "CMA/V&A",
+      "verdict": "非洲 28→32（总404）；未饱和"
     }
   ],
   "assessment_c33": {

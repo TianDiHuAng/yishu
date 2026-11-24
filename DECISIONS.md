@@ -1230,3 +1230,9 @@
 **写前查重**已执行（grep 4 个 id 均无冲突）。summary 截断处（Tielke「floral m…」）未补写。
 可逆：删 4 条 overlay 与 catalog 元组、移除 4 条来源。代价：均单机构（V&A）；乐器 17→21 条。
 
+
+## D120 — Cycle117 非洲织物+面具 4 条（400 → 404）
+`kente-cloth-va1900`/`kente-cloth-va1950`（V&A 肯特布×2，条织/错位排布/谚语命名/裁后对花）、`mano-mask-liberia`（马诺面具，11类型=社会管理工具，Harley 收集）、`gelede-mask-yoruba`（Gelede 面具，男演女敬 Ìyá Nlá、少女+鳄鱼、活动尾机械）。
+**如实保留截断**：肯特布区分 Asante/Ewe 的句、Duga 声誉句均**未补写**。非洲 28→32 条；织物门类跨非/伊斯兰/大洋洲三洲。
+可逆：删 4 条 overlay 与 catalog 元组、移除 4 条来源。代价：均单机构。
+
