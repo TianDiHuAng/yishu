@@ -1,0 +1,19 @@
+{
+ "id": "rajasthan-head-drawing",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为**基什加尔（Kishangarh）**王国的头像画稿，约1780年，CMA 藏（2018.174）。",
+  "风格特征": "该馆说明其**性质**：这是一幅**男子头像习作**，**或许是为一件成品肖像所作**；**画师常先作人物草稿**，**备日后用于肖像**。",
+  "代表人物与作品": "作者未署名。相关条目见《乌特卡·纳伊卡》与莱·辛格像。本件为 CMA 藏品（2018.174）。",
+  "技法或形式分析": "材质为**纸本胶彩与金**；画心22.6 × 16.5厘米（据该馆记录）。该馆描述**技法分工**：**眉、眼与须**以**重勾勒**；**面部**则以**柔和色调塑形**。",
+  "与前后风格的关系和争论": "本条目据该馆说明把「草稿」当作**过程证据**：线描定结构、晕染塑体积——这类**两段式**的做法在印度宫廷画中留下了独立的习作类作品。",
+  "一图": "示意图以头像习作、重勾/柔染分工与「备后用」三者关系标示本稿。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「或许为成品肖像之稿」该馆用 perhaps；（3）被画者身份未记录；（4）同一画坊的成品对应件未取得。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='rajasthan-head-drawing 示意图'><title>rajasthan-head-drawing</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>基什加尔·约1780</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>拉贾斯坦</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>头像画稿</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>22.6×16.5</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>重勾/柔染</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>分工</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>备后用</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>过程证据</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>头像稿：习作、分工与用途</text></g></svg>",
+ "sources": [
+  "cma-2018-174"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；被画者与对应成品未记录。"
+}

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 424,
+    "total": 428,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -5093,6 +5093,54 @@
     "ten-bamboo-album": {
       "title": "十竹斋书画谱（1633 初版）",
       "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "rai-singh-bikaner": {
+      "title": "比卡内尔王公莱·辛格像",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "rajasthan-head-drawing": {
+      "title": "基什加尔人头画稿",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "nyankhnesut-relief": {
+      "title": "尼安赫涅苏特坐像浮雕",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "djedbastetiufankh-block-statue": {
+      "title": "杰德巴斯特提乌凡赫块状雕像",
+      "tier": "重要",
       "level": "L2",
       "status": "written_l2",
       "sources_count": 1,

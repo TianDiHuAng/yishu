@@ -5883,7 +5883,8 @@
         "kausa-ragaputra",
         "sursagar-krishna",
         "jagat-singh-hunting",
-        "jagat-singh-portrait"
+        "jagat-singh-portrait",
+        "rai-singh-bikaner"
       ],
       "sources": [
         "cma-1931-451"
@@ -5923,7 +5924,8 @@
       "overview": "画面大于一般印度绘画；背面题记列王名与同行者；仆役放爆竹驱兽至中央射台。",
       "related": [
         "sursagar-krishna",
-        "shri-raga-mewar"
+        "shri-raga-mewar",
+        "rai-singh-bikaner"
       ],
       "sources": [
         "cma-1998-102"
@@ -6005,7 +6007,8 @@
       "overview": "夜色降临、雨云将至；以紧张的手势与不安的双足表现焦虑；叶铺成床而情人未至。",
       "related": [
         "kausa-ragaputra",
-        "maru-ragini"
+        "maru-ragini",
+        "rajasthan-head-drawing"
       ],
       "sources": [
         "cma-1932-118"
@@ -6402,7 +6405,8 @@
         "nefertiti-talatat",
         "canopic-jar-26",
         "amenemhat-statue",
-        "minemheb-statue"
+        "minemheb-statue",
+        "djedbastetiufankh-block-statue"
       ],
       "sources": [
         "cma-1948-420"
@@ -6422,7 +6426,8 @@
       "overview": "医生率家人举手祈祷；1913—14年发掘后分藏四城，紧邻右半在苏黎世。",
       "related": [
         "gudea-statue",
-        "minnefer-statue"
+        "minnefer-statue",
+        "nyankhnesut-relief"
       ],
       "sources": [
         "cma-1963-100"
@@ -8882,7 +8887,8 @@
       "overview": "木乃伊化取肝肺胃肠分置四罐；荷鲁斯四子各护一脏；本罐豺头为 Duamutef（护胃）。",
       "related": [
         "minnefer-statue",
-        "amenemhat-statue"
+        "amenemhat-statue",
+        "nyankhnesut-relief"
       ],
       "sources": [
         "cma-1921-1021"
@@ -8903,7 +8909,8 @@
       "related": [
         "minnefer-statue",
         "canopic-jar-26",
-        "minemheb-statue"
+        "minemheb-statue",
+        "djedbastetiufankh-block-statue"
       ],
       "sources": [
         "cma-1960-56"
@@ -9172,6 +9179,87 @@
       ],
       "sources": [
         "cma-1984-45b"
+      ]
+    },
+    {
+      "id": "rai-singh-bikaner",
+      "title": "比卡内尔王公莱·辛格像",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "17世纪",
+      "region": "南亚",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "拉贾斯坦比卡内尔王公肖像，克利夫兰艺术博物馆藏（2021.11）。",
+      "when": "约1610年",
+      "overview": "肥胖拉杰普特王，左臂下系带长袍为多数印度教徒之俗；浆果色衣配绿松石背景喻天堂；或依 Nur Muhammad 底稿；曾侍阿克巴、女嫁贾汉吉尔。",
+      "related": [
+        "shri-raga-mewar",
+        "jagat-singh-hunting",
+        "rajasthan-head-drawing"
+      ],
+      "sources": [
+        "cma-2021-11"
+      ]
+    },
+    {
+      "id": "rajasthan-head-drawing",
+      "title": "基什加尔人头画稿",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "18世纪",
+      "region": "南亚",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "基什加尔人头画稿，克利夫兰艺术博物馆藏（2018.174）。",
+      "when": "约1780年",
+      "overview": "头像习作，或为成品肖像之稿；画师常先画人物草稿备后用；眉/眼/须重勾勒，面部则以柔色塑形。",
+      "related": [
+        "utka-nayika",
+        "rai-singh-bikaner"
+      ],
+      "sources": [
+        "cma-2018-174"
+      ]
+    },
+    {
+      "id": "nyankhnesut-relief",
+      "title": "尼安赫涅苏特坐像浮雕",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元前23世纪",
+      "region": "埃及",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "萨卡拉第六王朝彩绘石灰岩浮雕，克利夫兰艺术博物馆藏（1930.735）。",
+      "when": "约公元前2311—2281年",
+      "overview": "高官 Nyankhnesut 墓浮雕散于15馆数私藏；2000年埃政府发掘定出墓址；题材以食物生产与供墓为中心，农事 activities 皆有标注。",
+      "related": [
+        "amenhotep-tomb-relief",
+        "canopic-jar-26"
+      ],
+      "sources": [
+        "cma-1930-735"
+      ]
+    },
+    {
+      "id": "djedbastetiufankh-block-statue",
+      "title": "杰德巴斯特提乌凡赫块状雕像",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元前7世纪",
+      "region": "埃及",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "晚期25—26王朝石灰岩块像，克利夫兰艺术博物馆藏（1914.661）。",
+      "when": "约公元前664—610年",
+      "overview": "块像紧凑之形几乎不可碎；表现蹲坐抱膝、长袍贴体如立方；同期 Ankh-Hor 半身为行进像托 naos。",
+      "related": [
+        "amenemhat-statue",
+        "minnefer-statue"
+      ],
+      "sources": [
+        "cma-1914-661"
       ]
     }
   ]

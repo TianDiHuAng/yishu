@@ -9485,7 +9485,8 @@
         "kausa-ragaputra",
         "sursagar-krishna",
         "jagat-singh-hunting",
-        "jagat-singh-portrait"
+        "jagat-singh-portrait",
+        "rai-singh-bikaner"
       ],
       "sources": [
         "cma-1931-451"
@@ -9551,7 +9552,8 @@
       "overview": "画面大于一般印度绘画；背面题记列王名与同行者；仆役放爆竹驱兽至中央射台。",
       "related": [
         "sursagar-krishna",
-        "shri-raga-mewar"
+        "shri-raga-mewar",
+        "rai-singh-bikaner"
       ],
       "sources": [
         "cma-1998-102"
@@ -9685,7 +9687,8 @@
       "overview": "夜色降临、雨云将至；以紧张的手势与不安的双足表现焦虑；叶铺成床而情人未至。",
       "related": [
         "kausa-ragaputra",
-        "maru-ragini"
+        "maru-ragini",
+        "rajasthan-head-drawing"
       ],
       "sources": [
         "cma-1932-118"
@@ -10329,7 +10332,8 @@
         "nefertiti-talatat",
         "canopic-jar-26",
         "amenemhat-statue",
-        "minemheb-statue"
+        "minemheb-statue",
+        "djedbastetiufankh-block-statue"
       ],
       "sources": [
         "cma-1948-420"
@@ -10362,7 +10366,8 @@
       "overview": "医生率家人举手祈祷；1913—14年发掘后分藏四城，紧邻右半在苏黎世。",
       "related": [
         "gudea-statue",
-        "minnefer-statue"
+        "minnefer-statue",
+        "nyankhnesut-relief"
       ],
       "sources": [
         "cma-1963-100"
@@ -14369,7 +14374,8 @@
       "overview": "木乃伊化取肝肺胃肠分置四罐；荷鲁斯四子各护一脏；本罐豺头为 Duamutef（护胃）。",
       "related": [
         "minnefer-statue",
-        "amenemhat-statue"
+        "amenemhat-statue",
+        "nyankhnesut-relief"
       ],
       "sources": [
         "cma-1921-1021"
@@ -14403,7 +14409,8 @@
       "related": [
         "minnefer-statue",
         "canopic-jar-26",
-        "minemheb-statue"
+        "minemheb-statue",
+        "djedbastetiufankh-block-statue"
       ],
       "sources": [
         "cma-1960-56"
@@ -14855,6 +14862,139 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='ten-bamboo-album 示意图'><title>ten-bamboo-album</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>南京·1633</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>初版</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>十竹斋书画谱</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>23.7×27.9</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>画一般的印刷</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>目标</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>影响日韩</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>跨海</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>十竹斋：套印、画意与跨海</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（CMA）来源；编者未记；页序未记录。"
+    },
+    {
+      "id": "rai-singh-bikaner",
+      "title": "比卡内尔王公莱·辛格像",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "17世纪",
+      "region": "南亚",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "拉贾斯坦比卡内尔王公肖像，克利夫兰艺术博物馆藏（2021.11）。",
+      "when": "约1610年",
+      "overview": "肥胖拉杰普特王，左臂下系带长袍为多数印度教徒之俗；浆果色衣配绿松石背景喻天堂；或依 Nur Muhammad 底稿；曾侍阿克巴、女嫁贾汉吉尔。",
+      "related": [
+        "shri-raga-mewar",
+        "jagat-singh-hunting",
+        "rajasthan-head-drawing"
+      ],
+      "sources": [
+        "cma-2021-11"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**比卡内尔（Bikaner）王公莱·辛格**（1574—1612在位）肖像，约**1610年**，拉贾斯坦，CMA 藏（2021.11）。",
+        "风格特征": "该馆描述：**肥胖的拉杰普特王**着**左臂下系带的长袍**——**多数印度教徒的习俗**；其**浆果色衣**与**绿松石色背景**相得——背景**暗喻天堂的繁茂**。",
+        "代表人物与作品": "该馆指出：**画家未署名**，但肖像的**自然主义敏感**与**衣饰的精细**暗示出自**宫廷大师**之手，**很可能依 Nur Muhammad 的底稿**。该馆并给出**政治脉络**：莱·辛格侍奉其宗主**莫卧儿皇帝阿克巴**（1556—1605在位）而功业卓著；其**女儿嫁给阿克巴之子贾汉吉尔**（1605—27在位）。相关条目见《室利拉格》与狩猎图。",
+        "技法或形式分析": "材质为**纸本胶彩与金**；尺寸25.4 × 38.1厘米（据该馆记录）。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「肖像」放回**联姻网络**：一幅王公像同时是**莫卧儿—拉杰普特联盟**的人物索引。本条目只依记录陈述。",
+        "一图": "示意图以侍阿克巴、女嫁贾汉吉尔与天堂背景三者关系标示本像。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「或依 Nur Muhammad 底稿」该馆用 probably；（3）「天堂」解读为该馆说法；（4）成画具体地点未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='rai-singh-bikaner 示意图'><title>rai-singh-bikaner</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>比卡内尔·约1610</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>拉贾斯坦</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>莱·辛格像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>25.4×38.1</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>侍阿克巴</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>联盟</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>女嫁贾汉吉尔</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>联姻</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>莱·辛格像：肖像与联盟</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；底稿作者为推断；画地未记录。"
+    },
+    {
+      "id": "rajasthan-head-drawing",
+      "title": "基什加尔人头画稿",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "18世纪",
+      "region": "南亚",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "基什加尔人头画稿，克利夫兰艺术博物馆藏（2018.174）。",
+      "when": "约1780年",
+      "overview": "头像习作，或为成品肖像之稿；画师常先画人物草稿备后用；眉/眼/须重勾勒，面部则以柔色塑形。",
+      "related": [
+        "utka-nayika",
+        "rai-singh-bikaner"
+      ],
+      "sources": [
+        "cma-2018-174"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**基什加尔（Kishangarh）**王国的头像画稿，约1780年，CMA 藏（2018.174）。",
+        "风格特征": "该馆说明其**性质**：这是一幅**男子头像习作**，**或许是为一件成品肖像所作**；**画师常先作人物草稿**，**备日后用于肖像**。",
+        "代表人物与作品": "作者未署名。相关条目见《乌特卡·纳伊卡》与莱·辛格像。本件为 CMA 藏品（2018.174）。",
+        "技法或形式分析": "材质为**纸本胶彩与金**；画心22.6 × 16.5厘米（据该馆记录）。该馆描述**技法分工**：**眉、眼与须**以**重勾勒**；**面部**则以**柔和色调塑形**。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「草稿」当作**过程证据**：线描定结构、晕染塑体积——这类**两段式**的做法在印度宫廷画中留下了独立的习作类作品。",
+        "一图": "示意图以头像习作、重勾/柔染分工与「备后用」三者关系标示本稿。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「或许为成品肖像之稿」该馆用 perhaps；（3）被画者身份未记录；（4）同一画坊的成品对应件未取得。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='rajasthan-head-drawing 示意图'><title>rajasthan-head-drawing</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>基什加尔·约1780</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>拉贾斯坦</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>头像画稿</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>22.6×16.5</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>重勾/柔染</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>分工</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>备后用</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>过程证据</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>头像稿：习作、分工与用途</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；被画者与对应成品未记录。"
+    },
+    {
+      "id": "nyankhnesut-relief",
+      "title": "尼安赫涅苏特坐像浮雕",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元前23世纪",
+      "region": "埃及",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "萨卡拉第六王朝彩绘石灰岩浮雕，克利夫兰艺术博物馆藏（1930.735）。",
+      "when": "约公元前2311—2281年",
+      "overview": "高官 Nyankhnesut 墓浮雕散于15馆数私藏；2000年埃政府发掘定出墓址；题材以食物生产与供墓为中心，农事 activities 皆有标注。",
+      "related": [
+        "amenhotep-tomb-relief",
+        "canopic-jar-26"
+      ],
+      "sources": [
+        "cma-1930-735"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明：**尼安赫涅苏特（Nyankhnesut）** 是**第六王朝**（前2311—2281）的**高级官员**；其墓室浮雕于**20世纪初**流入艺术市场，现**散布于15座博物馆及数处私人收藏**；虽然雕风表明出自**萨卡拉**，但其墓在该大墓地中的**确切位置直到2000年**才由**埃及政府的发掘**确认。本件 CMA 藏（1930.735）。",
+        "风格特征": "该馆描述题材：场景围绕**食物生产与供墓**；墓主**旁观**：有人**捧来面包盘与果篮**，有人**携活禽**或**牵引祭牲**——**野（羚羊）与家（牛）**皆有。**最大最重要的一块**表现**农事场景**，农人的活动**皆有标注**（记录在「“sow…”」处**截断**，本条目**不补写**）。",
+        "代表人物与作品": "所塑者为尼安赫涅苏特；作者未署名。相关条目见阿蒙霍特普医生墓浮雕与卡诺普罐。本件为 CMA 藏品（1930.735）。",
+        "技法或形式分析": "材质为**彩绘石灰岩**；整体98.7 × 80.6厘米（据该馆记录）。",
+        "与前后风格的关系和争论": "本条目据该馆说明把握「**分散—定位**」的双重叙事：市场切割在前（15馆分散），学术定位在后（2000年才找到墓址）——一座墓的现代命运本身就是材料。",
+        "一图": "示意图以第六王朝高官、食物生产/供墓与15馆分散＋2000定位三者关系标示本浮雕。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「“sow…”」标注文字**截断，未补写**；（3）15馆清单未取得；（4）本块在墓中的具体位置未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='nyankhnesut-relief 示意图'><title>nyankhnesut-relief</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>萨卡拉·第6王朝</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>约前2311—2281</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>坐像浮雕</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>98.7×80.6</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>食物生产/供墓</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>题材</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>15馆分散·2000定位</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>现代命运</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>尼安赫涅苏特浮雕：题材与分散</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；标注文字截断；馆清单未取得。"
+    },
+    {
+      "id": "djedbastetiufankh-block-statue",
+      "title": "杰德巴斯特提乌凡赫块状雕像",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元前7世纪",
+      "region": "埃及",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "晚期25—26王朝石灰岩块像，克利夫兰艺术博物馆藏（1914.661）。",
+      "when": "约公元前664—610年",
+      "overview": "块像紧凑之形几乎不可碎；表现蹲坐抱膝、长袍贴体如立方；同期 Ankh-Hor 半身为行进像托 naos。",
+      "related": [
+        "amenemhat-statue",
+        "minnefer-statue"
+      ],
+      "sources": [
+        "cma-1914-661"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明（陈列语境）：埃及雕像有**墓像与神庙像**两大基本类型；本柜中的 **Ankh-Hor 半身像**与**杰德巴斯特提乌凡赫块状雕像**皆为**神庙像**。本件约前664—610年（25—26王朝），CMA 藏（1914.661）。",
+        "风格特征": "该馆给出**类型逻辑**：**块状雕像**的紧凑形式受雕刻家青睐，因其**几乎不可碎**；它表现人物**蹲坐于地、双臂交叠于膝**；**长而包裹的长袍**贴合身形，使其**状如立方体**。",
+        "代表人物与作品": "所塑者为杰德巴斯特提乌凡赫；作者未署名。相关条目见阿门涅姆赫特三世像与明内弗像。本件为 CMA 藏品（1914.661）。",
+        "技法或形式分析": "材质为**石灰岩**；尺寸26.1 × 14 × 19.2厘米（据该馆记录）。",
+        "与前后风格的关系和争论": "该馆并说明**相邻的 Ankh-Hor 半身像**：由**手臂的位置**可判断其原属**行进像**，**手托 naos（神龛）**，龛中为神像；其**高腰围裹袍**为**波斯时期（第27王朝）** 的时尚，**可及脚踝**。本条目据此把「块像＝抗损」与「半身像＝托龛」作为**同一神庙语境的两种功能方案**。",
+        "一图": "示意图以神庙像、块像抗损与 Ankh-Hor 托龛三者关系标示本件。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）该说明为**柜内多件合述**，分件归属需谨慎；（3）铭文未迻录；（4）原属神庙未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='djedbastetiufankh-block- 示意图'><title>djedbastetiufankh-block-</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>晚期·25—26王朝</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>神庙像</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>块状雕像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>26.1cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>蹲坐抱膝</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>立方造型</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>几不可碎</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>功能</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>块像：类型、造型与抗损</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；柜内合述需分件谨慎；铭文未迻录。"
     }
   ]
 }

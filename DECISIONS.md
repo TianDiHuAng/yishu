@@ -1281,3 +1281,12 @@
 **写前查重**通过；related 自查后修正两处（art-ceramics/chinese-ceramics-history 不存在 → chenghua-doucai-cup / china-calligraphy-history）。
 可逆：删 4 条 overlay 与 catalog 元组、移除 4 条来源。代价：均单机构（CMA）；编者胡正言该馆未记，未补写。
 
+
+## D126 — Cycle123 印度2+埃及2（424 → 428）
+`rai-singh-bikaner`（比卡内尔王公像，约1610；侍阿克巴、女嫁贾汉吉尔——肖像＝联盟索引；或依 Nur Muhammad 底稿）、
+`rajasthan-head-drawing`（基什加尔头像稿，约1780；重勾眉眼须/柔色塑面＝过程证据）、
+`nyankhnesut-relief`（萨卡拉第6王朝浮雕，**核心**；题材＝食物生产供墓；15馆分散＋2000年才定位墓址）、
+`djedbastetiufankh-block-statue`（块像，25—26王朝；蹲坐抱膝立方形「几不可碎」；柜述含 Ankh-Hor 托龛行进像与波斯期袍）。
+**纪律**：write_c123 中「"sow…」的 ASCII 引号触发语法错，改弯引号后通过；「"sow…"标注文字**截断未补写**。
+可逆：删 4 条 overlay 与 catalog 元组、移除 4 条来源。代价：均单机构（CMA）；印度绘画 10→12、埃及 10→12。
+

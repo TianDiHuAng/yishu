@@ -1,0 +1,19 @@
+{
+ "id": "djedbastetiufankh-block-statue",
+ "level": "L2",
+ "sections": {
+  "时代背景": "该馆说明（陈列语境）：埃及雕像有**墓像与神庙像**两大基本类型；本柜中的 **Ankh-Hor 半身像**与**杰德巴斯特提乌凡赫块状雕像**皆为**神庙像**。本件约前664—610年（25—26王朝），CMA 藏（1914.661）。",
+  "风格特征": "该馆给出**类型逻辑**：**块状雕像**的紧凑形式受雕刻家青睐，因其**几乎不可碎**；它表现人物**蹲坐于地、双臂交叠于膝**；**长而包裹的长袍**贴合身形，使其**状如立方体**。",
+  "代表人物与作品": "所塑者为杰德巴斯特提乌凡赫；作者未署名。相关条目见阿门涅姆赫特三世像与明内弗像。本件为 CMA 藏品（1914.661）。",
+  "技法或形式分析": "材质为**石灰岩**；尺寸26.1 × 14 × 19.2厘米（据该馆记录）。",
+  "与前后风格的关系和争论": "该馆并说明**相邻的 Ankh-Hor 半身像**：由**手臂的位置**可判断其原属**行进像**，**手托 naos（神龛）**，龛中为神像；其**高腰围裹袍**为**波斯时期（第27王朝）** 的时尚，**可及脚踝**。本条目据此把「块像＝抗损」与「半身像＝托龛」作为**同一神庙语境的两种功能方案**。",
+  "一图": "示意图以神庙像、块像抗损与 Ankh-Hor 托龛三者关系标示本件。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）该说明为**柜内多件合述**，分件归属需谨慎；（3）铭文未迻录；（4）原属神庙未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='djedbastetiufankh-block- 示意图'><title>djedbastetiufankh-block-</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>晚期·25—26王朝</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>神庙像</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>块状雕像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>26.1cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>蹲坐抱膝</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>立方造型</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>几不可碎</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>功能</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>块像：类型、造型与抗损</text></g></svg>",
+ "sources": [
+  "cma-1914-661"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；柜内合述需分件谨慎；铭文未迻录。"
+}

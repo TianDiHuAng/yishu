@@ -5509,6 +5509,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；木版套印首版 23.7×27.9cm；说明含饾版拱花与日韩影响"
+    },
+    {
+      "id": "cma-2021-11",
+      "title": "Cleveland Museum of Art — Portrait of Maharaja Rai Singh of Bikaner, c. 1610, acc. 2021.11",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2021.11",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；胶彩与金 25.4×38.1cm；说明含侍阿克巴/女嫁贾汉吉尔"
+    },
+    {
+      "id": "cma-2018-174",
+      "title": "Cleveland Museum of Art — Drawing of a Man's Head, Kishangarh, c. 1780, acc. 2018.174",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2018.174",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；胶彩与金 22.6×16.5cm；说明含肖像草稿惯例"
+    },
+    {
+      "id": "cma-1930-735",
+      "title": "Cleveland Museum of Art — Relief of Nyankhnesut, Saqqara, c. 2311–2281 BCE, acc. 1930.735",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1930.735",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；彩绘石灰岩 98.7×80.6cm；说明含15馆藏分散与2000年定位"
+    },
+    {
+      "id": "cma-1914-661",
+      "title": "Cleveland Museum of Art — Block Statue of Djedbastetiufankh, Dyn. 25–26, acc. 1914.661",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1914.661",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；石灰岩 26.1×14×19.2cm；说明含块像几不可碎与波斯期袍"
     }
   ]
 }
