@@ -3098,7 +3098,9 @@
         "cma-bologna-antiphonary",
         "medieval-crossmedia",
         "mass-music",
-        "hildegard"
+        "hildegard",
+        "machaut",
+        "leonin"
       ],
       "sources": [
         "enc-medieval-music",
@@ -3182,7 +3184,8 @@
       "related": [
         "gregorian-chant",
         "polyphony",
-        "hildegard"
+        "hildegard",
+        "leonin"
       ],
       "sources": [
         "enc-polyphony",
@@ -3220,7 +3223,9 @@
         "gregorian-chant",
         "music-notation",
         "motet",
-        "counterpoint"
+        "counterpoint",
+        "machaut",
+        "leonin"
       ],
       "sources": [
         "enc-polyphony",
@@ -3261,7 +3266,11 @@
         "renaissance-crossmedia",
         "cma-siena-antiphonary",
         "cma-verona-gradual",
-        "motet"
+        "motet",
+        "tallis",
+        "byrd",
+        "lassus",
+        "gesualdo"
       ],
       "sources": [
         "enc-renaissance-music",
@@ -3294,7 +3303,8 @@
       "overview": "注重歌词与音乐的情感对应，常用绘词法，后期发展出更戏剧化的风格。",
       "related": [
         "renaissance-music",
-        "baroque-music"
+        "baroque-music",
+        "gesualdo"
       ],
       "sources": [
         "enc-renaissance-music",
@@ -3328,7 +3338,8 @@
       "related": [
         "renaissance-music",
         "baroque-music",
-        "josquin"
+        "josquin",
+        "lassus"
       ],
       "sources": [
         "enc-renaissance-music",
@@ -3653,7 +3664,8 @@
       "overview": "代表作《奥菲欧》《波佩亚的加冕》，推动宣叙调与管弦乐表现力的发展。",
       "related": [
         "opera",
-        "baroque-music"
+        "baroque-music",
+        "gesualdo"
       ],
       "sources": [
         "enc-opera",
@@ -21780,7 +21792,10 @@
         "polyphony",
         "renaissance-music",
         "mass-music",
-        "josquin"
+        "josquin",
+        "tallis",
+        "byrd",
+        "machaut"
       ],
       "sources": [
         "enc-motet",
@@ -21928,7 +21943,8 @@
       "related": [
         "motet",
         "mass-music",
-        "palestrina"
+        "palestrina",
+        "lassus"
       ],
       "sources": [
         "enc-josquin",
@@ -22417,6 +22433,222 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='gluck 示意图'><title>gluck</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>梅塔斯塔西奥式正歌剧</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>此前的垄断</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>格鲁克</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>歌剧改革</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>乐队宣叙调</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>更多戏剧性</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>削减返始咏叹调</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>篇幅减半</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；生卒年来自 Wikidata；首演年份未给出。"
+    },
+    {
+      "id": "tallis",
+      "title": "塔利斯（Thomas Tallis）",
+      "kind": "人物",
+      "unit": "music-renaissance",
+      "era": "16世纪",
+      "region": "英国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "盛期文艺复兴的英国作曲家，作品以声乐为主，在英国合唱音乐选集中占据首要位置。",
+      "when": "约公元16世纪",
+      "overview": "托马斯·塔利斯是盛期文艺复兴的英国作曲家。他的作品以声乐为主，在英国合唱音乐的选集中占据首要位置，被视为英国最伟大的作曲家之一，因其在英国音乐中独特的声音而受到推崇。",
+      "related": [
+        "renaissance-music",
+        "motet",
+        "byrd"
+      ],
+      "sources": [
+        "enc-tallis",
+        "enc-c178-renaissance-music",
+        "wd-tallis"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，塔利斯是盛期文艺复兴的英国作曲家。",
+        "风格特征": "摘要称，他的作品以声乐为主，在英国合唱音乐的选集中占据首要位置。",
+        "代表人物与作品": "摘要没有列出具体作品名，本条目不补写。相关条目可参见文艺复兴音乐、经文歌与伯德。",
+        "技法或形式分析": "摘要没有给出具体的技法或形式，本条目不补写。",
+        "与前后风格的关系和争论": "摘要称，他被视为英国最伟大的作曲家之一，因其在英国音乐中独特的声音而受到推崇。这是摘要转述的评价，本条目不作独立判断；摘要没有谈到他与伯德的关系。",
+        "一图": "示意图以塔利斯为中心，标示盛期文艺复兴、声乐为主、英国合唱音乐三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年，摘要与 Wikidata 简介（仅写“English composer”）均未给出；条目 when 写“约公元16世纪”，是据文艺复兴音乐页（15、16世纪）与“盛期文艺复兴”推算，不是对其生卒年的断言，需另取来源核实；（3）具体作品，摘要未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='tallis 示意图'><title>tallis</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>盛期文艺复兴</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>英国</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>塔利斯</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>作曲家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>声乐为主</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>作品</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>英国合唱音乐</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>选集首位</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；生卒年均未给出，when 为推算；作品未给出。"
+    },
+    {
+      "id": "byrd",
+      "title": "伯德（William Byrd）",
+      "kind": "人物",
+      "unit": "music-renaissance",
+      "era": "16—17世纪",
+      "region": "英国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "英国文艺复兴作曲家，被视为文艺复兴最伟大的作曲家之一，对本国及欧洲大陆的作曲家影响深远。",
+      "when": "约公元1540—1623年",
+      "overview": "威廉·伯德是英国文艺复兴作曲家，被视为文艺复兴最伟大的作曲家之一，对本国与欧洲大陆的作曲家都有深远影响。他常与约翰·邓斯泰布尔、亨利·珀塞尔并列，被视为英国早期音乐最重要的作曲家之一。",
+      "related": [
+        "renaissance-music",
+        "tallis",
+        "motet"
+      ],
+      "sources": [
+        "enc-byrd",
+        "enc-c178-renaissance-music",
+        "wd-byrd"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，伯德是英国文艺复兴作曲家。",
+        "风格特征": "摘要没有给出具体的风格特征，只说明他对本国与欧洲大陆的作曲家都有深远影响。",
+        "代表人物与作品": "摘要没有列出具体作品名，本条目不补写。相关条目可参见文艺复兴音乐、塔利斯与经文歌。",
+        "技法或形式分析": "摘要没有给出具体的技法或形式，本条目不补写。",
+        "与前后风格的关系和争论": "摘要称，他被视为文艺复兴最伟大的作曲家之一，常与约翰·邓斯泰布尔、亨利·珀塞尔并列为英国早期音乐最重要的作曲家之一。这是摘要转述的评价，本条目不作独立判断。",
+        "一图": "示意图以伯德为中心，标示英国文艺复兴、影响本国与欧洲大陆、与邓斯泰布尔珀塞尔并列三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）年代（约1540—1623年）摘要未给出，取自 Wikidata 简介，需另取权威来源核实。（3）具体作品，摘要未给出；（4）“最伟大”属评价性表述。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='byrd 示意图'><title>byrd</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>英国文艺复兴</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>作曲家</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>伯德</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>深远影响</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>本国与欧洲大陆</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>影响所及</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>邓斯泰布尔珀塞尔</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>并列</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；年代来自 Wikidata；作品未给出。"
+    },
+    {
+      "id": "lassus",
+      "title": "拉索（Orlando di Lasso）",
+      "kind": "人物",
+      "unit": "music-renaissance",
+      "era": "16世纪",
+      "region": "佛兰德斯",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "文艺复兴晚期作曲家，佛兰德斯—法国乐派成熟复调风格的主要代表，极为多产，风格与体裁变化很大。",
+      "when": "1532—1594年",
+      "overview": "奥兰多·迪·拉索是文艺复兴晚期的作曲家，是佛兰德斯—法国乐派成熟复调风格的主要代表，与威廉·伯德、帕莱斯特里纳和托马斯·路易斯·德·维多利亚并列为文艺复兴晚期的主要作曲家之一。他极为多产，音乐在风格与体裁上变化很大，因此在整个欧洲享有空前的声誉。",
+      "related": [
+        "renaissance-music",
+        "palestrina",
+        "josquin"
+      ],
+      "sources": [
+        "enc-lassus",
+        "enc-c178-franco-flemish-school",
+        "wd-lassus"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，拉索是文艺复兴晚期的作曲家。",
+        "风格特征": "摘要称，他是佛兰德斯—法国乐派成熟复调风格的主要代表；他极为多产，音乐在风格与体裁上变化很大。",
+        "代表人物与作品": "摘要没有列出具体作品名，本条目不补写。摘要称他与威廉·伯德、帕莱斯特里纳和托马斯·路易斯·德·维多利亚并列为文艺复兴晚期的主要作曲家之一。库内相关条目可参见帕莱斯特里纳、若斯坎与伯德。",
+        "技法或形式分析": "摘要没有给出具体的技法，只说明他的风格与体裁变化很大，这使他在整个欧洲享有空前的声誉。",
+        "与前后风格的关系和争论": "摘要称他属于佛兰德斯—法国乐派并代表其成熟阶段；这一乐派的概况可参见若斯坎条目。“空前的声誉”是摘要的说法，本条目不作独立判断。",
+        "一图": "示意图以拉索为中心，标示佛兰德斯—法国乐派成熟复调、极为多产、与伯德帕莱斯特里纳维多利亚并列三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）年代（1532—1594年）摘要未给出，取自 Wikidata 简介，需另取权威来源核实。（3）具体作品，摘要未给出；（4）Wikipedia 页面标题为 Orlando di Lasso，Wikidata 标签为 Orlande de Lassus，是同一人的不同拼写，库内取 Lassus 作 id。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='lassus 示意图'><title>lassus</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>佛兰德斯—法国乐派</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>成熟复调</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>拉索</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>文艺复兴晚期</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>极为多产</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>风格体裁多变</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>伯德帕莱斯特里纳</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>并列</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；年代来自 Wikidata；作品未给出。"
+    },
+    {
+      "id": "gesualdo",
+      "title": "杰苏阿尔多（Carlo Gesualdo）",
+      "kind": "人物",
+      "unit": "music-renaissance",
+      "era": "16—17世纪",
+      "region": "意大利",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "意大利贵族与作曲家，以写作牧歌与宗教音乐著称，使用直到19世纪晚期才再次出现的半音化语言。",
+      "when": "1566—1613年",
+      "overview": "卡洛·杰苏阿尔多·达·韦诺萨是意大利贵族与作曲家，同时是韦诺萨亲王与孔扎伯爵。他以写作牧歌与宗教音乐更为人知，所用的半音化语言直到19世纪晚期才再次出现。他还因发现第一任妻子与其贵族情人通奸而将二人杀害而闻名。",
+      "related": [
+        "madrigal",
+        "renaissance-music",
+        "monteverdi"
+      ],
+      "sources": [
+        "enc-gesualdo",
+        "enc-c178-madrigal",
+        "wd-gesualdo"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，杰苏阿尔多是意大利贵族与作曲家，同时是韦诺萨亲王与孔扎伯爵。相邻的牧歌页称，牧歌是文艺复兴与巴洛克早期（1580—1650）最典型的世俗声乐体裁。",
+        "风格特征": "摘要称，他以写作牧歌与宗教音乐更为人知，所用的半音化语言直到19世纪晚期才再次出现。",
+        "代表人物与作品": "摘要没有列出具体作品名，本条目不补写。相关条目可参见牧歌与蒙特威尔第，但摘要没有把他们联系起来。",
+        "技法或形式分析": "摘要只说明他的语言是“半音化”的，没有给出具体的和声手法，本条目不补写。",
+        "与前后风格的关系和争论": "摘要称，他的半音化语言“直到19世纪晚期才再次出现”，这是摘要的概括，本条目不作独立判断。摘要另称，他因发现第一任妻子与其贵族情人通奸而将二人杀害，这是摘要陈述的生平事实，本条目只如实带过，不作渲染，也不据此评价其音乐。",
+        "一图": "示意图以杰苏阿尔多为中心，标示牧歌、宗教音乐、半音化语言三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）年代（1566—1613年）摘要未给出，取自 Wikidata 简介，需另取权威来源核实。（3）具体作品，摘要未给出；（4）“半音化语言直到19世纪晚期才再次出现”与杀妻一事均来自摘要单一来源，需另取权威来源核实。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='gesualdo 示意图'><title>gesualdo</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>牧歌</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>世俗声乐</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>杰苏阿尔多</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>意大利贵族</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>宗教音乐</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>也写作</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>半音化语言</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>19世纪晚期再现</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；年代来自 Wikidata；作品未给出；杀妻一事单一来源。"
+    },
+    {
+      "id": "machaut",
+      "title": "马肖（Guillaume de Machaut）",
+      "kind": "人物",
+      "unit": "music-medieval",
+      "era": "14世纪",
+      "region": "法国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "法国作曲家与诗人，中世纪晚期新艺术风格的核心人物，被视为14世纪最重要的法国作曲家与诗人。",
+      "when": "约公元1300—1377年",
+      "overview": "纪尧姆·德·马肖是法国作曲家与诗人，是中世纪晚期新艺术（ars nova）风格的核心人物。他在这一体裁中的统治地位如此突出，以致现代音乐学家用他的逝世来划分新艺术与随后的精微新艺术（ars subtilior）运动。他被视为14世纪最重要的法国作曲家与诗人，常被看作该世纪欧洲首屈一指的作曲家。",
+      "related": [
+        "medieval-music",
+        "polyphony",
+        "motet"
+      ],
+      "sources": [
+        "enc-machaut",
+        "enc-c178-ars-nova",
+        "wd-machaut"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，马肖是中世纪晚期新艺术风格的核心人物。相邻的新艺术页称，新艺术指从《法韦尔传奇》准备期（1310年代）到马肖去世之间的时期。",
+        "风格特征": "摘要没有给出具体的风格特征，只说明他在该体裁中的统治地位。",
+        "代表人物与作品": "摘要没有列出具体作品名，本条目不补写。摘要称他是法国作曲家与诗人，被视为14世纪最重要的法国作曲家与诗人，常被看作该世纪欧洲首屈一指的作曲家。",
+        "技法或形式分析": "摘要没有给出具体的技法或形式，本条目不补写。",
+        "与前后风格的关系和争论": "摘要称，他的统治地位如此突出，以致现代音乐学家用他的逝世来划分新艺术与随后的精微新艺术运动。库内相关条目可参见中世纪音乐与复调。“首屈一指”是摘要转述的评价。",
+        "一图": "示意图以马肖为中心，标示新艺术、精微新艺术、作曲家与诗人三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）年代（约1300—1377年）摘要未给出，取自 Wikidata 简介，需另取权威来源核实。（3）具体作品，摘要未给出；（4）“14世纪首屈一指”属评价性表述。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='machaut 示意图'><title>machaut</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>新艺术</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>中世纪晚期</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>马肖</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>核心人物</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>逝世为界</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>音乐学家划分</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>精微新艺术</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>随后运动</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；年代来自 Wikidata；作品未给出。"
+    },
+    {
+      "id": "leonin",
+      "title": "莱奥南（Léonin）",
+      "kind": "人物",
+      "unit": "music-medieval",
+      "era": "12世纪",
+      "region": "法国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "已知第一位重要的复调奥尔加农作曲家，大概是法国人，大概在巴黎圣母院工作。",
+      "when": "约公元12世纪",
+      "overview": "莱奥南是已知第一位重要的复调奥尔加农作曲家。他大概是法国人，大概在巴黎圣母院生活与工作，是以姓名为人所知的最早的圣母院复调乐派与古艺术（ars antiqua）风格成员，这要归功于被称为“匿名者四世”的作者。除此之外别无确定的身份信息。",
+      "related": [
+        "organum",
+        "polyphony",
+        "medieval-music"
+      ],
+      "sources": [
+        "enc-leonin",
+        "enc-c178-notre-dame-school",
+        "wd-leonin"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，莱奥南大概在巴黎圣母院生活与工作；相邻的圣母院乐派页称，该乐派指约1160至1250年在巴黎圣母院或其附近工作的作曲家群体及其音乐。",
+        "风格特征": "摘要称，他是已知第一位重要的复调奥尔加农作曲家。",
+        "代表人物与作品": "摘要没有列出具体作品名，本条目不补写。摘要称，他是以姓名为人所知的最早的圣母院复调乐派与古艺术风格成员，这要归功于被称为“匿名者四世”的作者。库内相关条目可参见奥尔加农与复调。",
+        "技法或形式分析": "摘要没有给出具体的技法，只说明他写的是复调奥尔加农。可对照奥尔加农条目，但该条摘要没有提到他。",
+        "与前后风格的关系和争论": "摘要对他的身份十分谨慎：“大概是法国人”“大概在巴黎圣母院”，并说明除名字外别无确定的身份信息。他的名字是“Leoninus”及其拉丁指小形式“Leo”的法语对应。本条目照此保留不确定性。",
+        "一图": "示意图以莱奥南为中心，标示复调奥尔加农、巴黎圣母院、匿名者四世三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年，摘要未给出；Wikidata 简介只写“12世纪”，条目 when 写“约公元12世纪”，圣母院乐派页的约1160—1250年可作旁证，需另取来源核实；（3）具体作品，摘要未给出；（4）身份与地点均为“大概”，本条目不作确定表述。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='leonin 示意图'><title>leonin</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>匿名者四世</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>记述者</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>莱奥南</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>圣母院乐派</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>复调奥尔加农</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>第一位重要作曲家</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>巴黎圣母院</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>大概在此</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；年代为Wikidata简介与相邻页旁证；作品未给出。"
     }
   ]
 }

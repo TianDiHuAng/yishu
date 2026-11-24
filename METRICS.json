@@ -4161,6 +4161,31 @@
       "check_result": "errors=0",
       "check_links_result": "broken=0(675页)",
       "commits": 1
+    },
+    {
+      "cycle": "cycle178",
+      "date": "2026-11-24",
+      "status": "completed",
+      "gap_methods": [
+        "中世纪与文艺复兴音乐人物补盲"
+      ],
+      "network": "Wikipedia REST 200",
+      "new_entries": 6,
+      "new_entry_ids": [
+        "tallis",
+        "byrd",
+        "lassus",
+        "gesualdo",
+        "machaut",
+        "leonin"
+      ],
+      "new_sources": 16,
+      "sources_total": 821,
+      "entries_total": 644,
+      "pages": 681,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(681页)",
+      "commits": 1
     }
   ]
 }

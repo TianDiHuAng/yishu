@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 638 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 644 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -322,6 +322,8 @@
 | cma-bologna-antiphonary | 博洛尼亚安提芳那对开页：圣多米尼克布道（约1320—40） | 作品 | 中世纪 | 欧洲 | 手稿 | 重要 | O2 |
 | mass-music | 弥撒曲（Mass） | 术语 | 中世纪—今 | 欧洲 | 音乐体裁 | 重要 | O2、O4 |
 | hildegard | 宾根的希尔德加德（Hildegard of Bingen） | 人物 | 中世纪盛期 | 德国 | 音乐体裁 | 重要 | O2 |
+| machaut | 马肖（Guillaume de Machaut） | 人物 | 14世纪 | 法国 | 音乐体裁 | 重要 | O2 |
+| leonin | 莱奥南（Léonin） | 人物 | 12世纪 | 法国 | 音乐体裁 | 重要 | O2 |
 
 ## music-renaissance（音乐史·文艺复兴）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -334,6 +336,10 @@
 | motet | 经文歌（Motet） | 术语 | 13世纪—今 | 欧洲 | 音乐体裁 | 重要 | O1、O3、O4 |
 | counterpoint | 对位法（Counterpoint） | 术语 | 文艺复兴—今 | 欧洲 | 音乐体裁 | 核心 | O1、O3、O4 |
 | josquin | 若斯坎·德普雷（Josquin des Prez） | 人物 | 15—16世纪 | 法国／佛兰德斯 | 音乐体裁 | 核心 | O1、O3 |
+| tallis | 塔利斯（Thomas Tallis） | 人物 | 16世纪 | 英国 | 音乐体裁 | 重要 | O1、O3 |
+| byrd | 伯德（William Byrd） | 人物 | 16—17世纪 | 英国 | 音乐体裁 | 重要 | O1、O3 |
+| lassus | 拉索（Orlando di Lasso） | 人物 | 16世纪 | 佛兰德斯 | 音乐体裁 | 重要 | O1、O3 |
+| gesualdo | 杰苏阿尔多（Carlo Gesualdo） | 人物 | 16—17世纪 | 意大利 | 音乐体裁 | 重要 | O1、O3 |
 
 ## music-baroque（音乐史·巴洛克）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

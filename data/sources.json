@@ -8049,6 +8049,166 @@
       "type": "权威结构化数据",
       "verified": true,
       "verified_note": "2026-11-24 经 wd_api 读取实体成功，英文标签与条目一致；生卒年取自其英文简介"
+    },
+    {
+      "id": "enc-tallis",
+      "title": "Thomas Tallis",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Tallis",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "enc-c178-renaissance-music",
+      "title": "Renaissance music",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Renaissance_music",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-tallis",
+      "title": "Wikidata: Thomas Tallis (Q207789)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q207789",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-24 经 wd_api 读取实体成功，英文标签与条目一致；年代取自其英文简介"
+    },
+    {
+      "id": "enc-byrd",
+      "title": "William Byrd",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/William_Byrd",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-byrd",
+      "title": "Wikidata: William Byrd (Q208375)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q208375",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-24 经 wd_api 读取实体成功，英文标签与条目一致；年代取自其英文简介"
+    },
+    {
+      "id": "enc-lassus",
+      "title": "Orlando di Lasso",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Orlande_de_Lassus",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "enc-c178-franco-flemish-school",
+      "title": "Franco-Flemish School",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Franco-Flemish_School",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-lassus",
+      "title": "Wikidata: Orlando di Lasso (Q154792)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q154792",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-24 经 wd_api 读取实体成功，英文标签与条目一致；年代取自其英文简介"
+    },
+    {
+      "id": "enc-gesualdo",
+      "title": "Carlo Gesualdo",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Carlo_Gesualdo",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "enc-c178-madrigal",
+      "title": "Madrigal",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Madrigal",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-gesualdo",
+      "title": "Wikidata: Carlo Gesualdo (Q192958)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q192958",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-24 经 wd_api 读取实体成功，英文标签与条目一致；年代取自其英文简介"
+    },
+    {
+      "id": "enc-c178-ars-nova",
+      "title": "Ars nova",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Ars_nova",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-machaut",
+      "title": "Wikidata: Guillaume de Machaut (Q200580)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q200580",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-24 经 wd_api 读取实体成功，英文标签与条目一致；年代取自其英文简介"
+    },
+    {
+      "id": "enc-leonin",
+      "title": "Léonin",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Leonin",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "enc-c178-notre-dame-school",
+      "title": "Notre-Dame school",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Notre_Dame_school",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-leonin",
+      "title": "Wikidata: Léonin (Q297501)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q297501",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-24 经 wd_api 读取实体成功，英文标签与条目一致；年代取自其英文简介"
     }
   ]
 }
