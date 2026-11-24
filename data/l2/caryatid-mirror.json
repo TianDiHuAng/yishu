@@ -1,0 +1,19 @@
+{
+ "id": "caryatid-mirror",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为**第十八王朝**（约前1540—1296）青铜镜，CMA 藏（1983.196）。",
+  "风格特征": "该馆描述：此**极精**之镜有**椭圆镜盘**，**柄为一裸体少女**——除**繁复的三分辫发、宽领与钱包珠腰带**外**全身裸露**；她**立于十字形基座**上，**左足略向前**，**双手垂于体侧**；在她**头顶**、**承托镜盘**的是**纸莎草伞形（umbel）**，伞缘**外张**。",
+  "代表人物与作品": "作者未署名。相关条目见明内弗像与阿门涅姆赫特三世像。",
+  "技法或形式分析": "材质为**青铜，或含黑铜镶嵌**；尺寸38.9 × 20厘米（像身16.7 × 4，镜盘16.6，据该馆记录）。",
+  "与前后风格的关系和争论": "该馆给出**断代与图像学**：**裸女柄镜**是**第18王朝中期的高级时尚**，存世多例，**此镜或为同类之最**；其**十字基座罕见，甚或独一无二**。图像可与**爱与美之神哈托尔（Hathor）** 相联系——她**被希腊人等同于阿佛洛狄忒**；**哈托尔的侍从**正是此类美人，埃及语称 **nefrut**（记录在「and t…」处**截断**，本条目**不补写**）。本条目据此把「裸女」读作**神性美的随侍图像**，而非单纯装饰。",
+  "一图": "示意图以裸女柄、哈托尔/阿佛洛狄忒与 nefrut 三者关系标示本镜。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「黑铜镶嵌」该馆用问号；（3）该馆 summary 在「and t…」处**截断，未补写**；（4）出土地未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='caryatid-mirror 示意图'><title>caryatid-mirror</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>第18王朝中期</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>青铜</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>女像柱镜</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>38.9cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>裸女柄</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>时尚</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>哈托尔·nefrut</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>神性美</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>女像柱镜：柄、神性与侍从</text></g></svg>",
+ "sources": [
+  "cma-1983-196"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；镶嵌为疑问；summary 截断。"
+}

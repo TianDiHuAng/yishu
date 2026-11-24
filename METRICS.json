@@ -3987,6 +3987,31 @@
       "check_links_result": "broken=0(545页)",
       "audit_all": "12/12 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle146",
+      "date": "2026-11-24",
+      "status": "completed",
+      "gap_methods": [
+        "埃及雕塑（CMA）"
+      ],
+      "network": "CMA ok",
+      "new_entries": 4,
+      "new_entry_ids": [
+        "heqat-frog-goddess",
+        "caryatid-mirror",
+        "decorated-situla",
+        "bakenmut-coffin"
+      ],
+      "fixed": "write_c146 未闭合 W() 构建前修复",
+      "new_sources": 4,
+      "sources_total": 638,
+      "entries_total": 512,
+      "pages": 549,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(549页)",
+      "audit_all": "12/12 ok",
+      "commits": 1
     }
   ]
 }

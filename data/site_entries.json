@@ -10369,7 +10369,10 @@
         "canopic-jar-26",
         "amenemhat-statue",
         "minemheb-statue",
-        "djedbastetiufankh-block-statue"
+        "djedbastetiufankh-block-statue",
+        "heqat-frog-goddess",
+        "caryatid-mirror",
+        "decorated-situla"
       ],
       "sources": [
         "cma-1948-420"
@@ -10404,7 +10407,8 @@
         "gudea-statue",
         "minnefer-statue",
         "nyankhnesut-relief",
-        "greco-roman-votive-relief"
+        "greco-roman-votive-relief",
+        "bakenmut-coffin"
       ],
       "sources": [
         "cma-1963-100"
@@ -14455,7 +14459,10 @@
         "minnefer-statue",
         "amenemhat-statue",
         "nyankhnesut-relief",
-        "greco-roman-votive-relief"
+        "greco-roman-votive-relief",
+        "heqat-frog-goddess",
+        "decorated-situla",
+        "bakenmut-coffin"
       ],
       "sources": [
         "cma-1921-1021"
@@ -14490,7 +14497,8 @@
         "minnefer-statue",
         "canopic-jar-26",
         "minemheb-statue",
-        "djedbastetiufankh-block-statue"
+        "djedbastetiufankh-block-statue",
+        "caryatid-mirror"
       ],
       "sources": [
         "cma-1960-56"
@@ -17759,6 +17767,138 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='pahari-balwant-singh 示意图'><title>pahari-balwant-singh</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>帕哈里·约1750</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>Nainsukh</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>巴尔万特·辛格</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>25×37.5</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>水烟观舞</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>宫廷娱乐</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>留白背景</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>聚焦</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>巴尔万特·辛格：赞助、娱乐与留白</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（V&A）来源；summary 截断；人数未明。"
+    },
+    {
+      "id": "heqat-frog-goddess",
+      "title": "青蛙女神赫奎特像",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元前30世纪",
+      "region": "埃及",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "前王朝石灰华青蛙像，克利夫兰艺术博物馆藏（1976.5）。",
+      "when": "约公元前2950年",
+      "overview": "前王朝动物像多于人像；此蛙立于埃及动物雕塑大传统之始；雕者顺石材天然纹理增其圆浑；小陶蛙为早期神庙常见供品；其前王朝宗教义未明，后世多指助产女神赫奎特（Heqat）。",
+      "related": [
+        "minnefer-statue",
+        "canopic-jar-26"
+      ],
+      "sources": [
+        "cma-1976-5"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明：在**前王朝时期**，**动物像远比人像常见**；此件**青蛙像**矗立于**埃及艺术中伟大动物雕塑传统**的**开端**。本件约公元前2950年，CMA 藏（1976.5）。",
+        "风格特征": "该馆描述**雕塑处理**：雕者**对石材天然的层纹极为敏感**，**借之以增强动物形体的圆浑**。",
+        "代表人物与作品": "作者未署名。相关条目见明内弗像与卡诺普罐。",
+        "技法或形式分析": "材质为**石灰华（埃及雪花石）**；尺寸15.4 × 14.7 × 15.5厘米（据该馆记录）。该馆并说明**同类物**：**小青蛙多半为费昂斯（faience）**，是**早期神庙遗址最常见的供品之一**。",
+        "与前后风格的关系和争论": "该馆给出一层**谨慎的不确定**：**蛙在前王朝的确切宗教含义未知**，但**后世多与助产女神赫奎特（Heqat）** 相联系。本条目据此把「蛙」读作**从供品到神格的漫长演化**，并明确「前王朝含义未知」，不代其断定。",
+        "一图": "示意图以动物雕塑开端、石纹随形与助产神三者关系标示本像。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「前王朝宗教义未知」为该馆明述；（3）「赫奎特」为后世认同，非当时确证；（4）出土地未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='heqat-frog-goddess 示意图'><title>heqat-frog-goddess</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>前王朝·约前2950</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>石灰华</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>青蛙像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>15.4cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>石纹随形</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>雕塑</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>赫奎特?</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>后世认同</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>青蛙像：传统、石纹与神格</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；前王朝含义未知；出土地未记录。"
+    },
+    {
+      "id": "caryatid-mirror",
+      "title": "女像柱镜",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元前16—13世纪",
+      "region": "埃及",
+      "medium": "金属器",
+      "tier": "核心",
+      "def": "第十八王朝青铜镜，克利夫兰艺术博物馆藏（1983.196）。",
+      "when": "约公元前1540—1296年",
+      "overview": "椭圆镜盘，柄为裸体少女：三分为辫发、宽领与珠带；立于十字基座、左足略前、手垂体侧；头顶纸莎草伞托盘；裸女柄镜为第18王朝中期时尚，此或同类之最；十字基座罕见；图像关联爱与美之神哈托尔（希腊等同阿佛洛狄忒），其侍从称 nefrut。",
+      "related": [
+        "minnefer-statue",
+        "amenemhat-statue"
+      ],
+      "sources": [
+        "cma-1983-196"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**第十八王朝**（约前1540—1296）青铜镜，CMA 藏（1983.196）。",
+        "风格特征": "该馆描述：此**极精**之镜有**椭圆镜盘**，**柄为一裸体少女**——除**繁复的三分辫发、宽领与钱包珠腰带**外**全身裸露**；她**立于十字形基座**上，**左足略向前**，**双手垂于体侧**；在她**头顶**、**承托镜盘**的是**纸莎草伞形（umbel）**，伞缘**外张**。",
+        "代表人物与作品": "作者未署名。相关条目见明内弗像与阿门涅姆赫特三世像。",
+        "技法或形式分析": "材质为**青铜，或含黑铜镶嵌**；尺寸38.9 × 20厘米（像身16.7 × 4，镜盘16.6，据该馆记录）。",
+        "与前后风格的关系和争论": "该馆给出**断代与图像学**：**裸女柄镜**是**第18王朝中期的高级时尚**，存世多例，**此镜或为同类之最**；其**十字基座罕见，甚或独一无二**。图像可与**爱与美之神哈托尔（Hathor）** 相联系——她**被希腊人等同于阿佛洛狄忒**；**哈托尔的侍从**正是此类美人，埃及语称 **nefrut**（记录在「and t…」处**截断**，本条目**不补写**）。本条目据此把「裸女」读作**神性美的随侍图像**，而非单纯装饰。",
+        "一图": "示意图以裸女柄、哈托尔/阿佛洛狄忒与 nefrut 三者关系标示本镜。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「黑铜镶嵌」该馆用问号；（3）该馆 summary 在「and t…」处**截断，未补写**；（4）出土地未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='caryatid-mirror 示意图'><title>caryatid-mirror</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>第18王朝中期</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>青铜</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>女像柱镜</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>38.9cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>裸女柄</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>时尚</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>哈托尔·nefrut</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>神性美</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>女像柱镜：柄、神性与侍从</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；镶嵌为疑问；summary 截断。"
+    },
+    {
+      "id": "decorated-situla",
+      "title": "装饰西图拉礼瓶",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "托勒密时期",
+      "region": "埃及",
+      "medium": "金属器",
+      "tier": "核心",
+      "def": "托勒密青铜西图拉瓶，克利夫兰艺术博物馆藏（1932.32）。",
+      "when": "公元前305—前30年",
+      "overview": "豪华仪式用瓶；两面场景示亡者来世双重角色：一面受家人献供，一面向神献供；一侧亡者 Padiamennebnesuttawy 携爱犬 Nefer（「善/美者」）坐低椅，长子 Amenhotep 献香与水；另侧亡者向神献面包蔬肉。",
+      "related": [
+        "canopic-jar-26",
+        "minnefer-statue"
+      ],
+      "sources": [
+        "cma-1932-32"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明：**西图拉（situla）** 是**豪华的仪式用瓶**，在**埃及宗教仪式**中**扮演重要角色**。本件为托勒密时期（前305—30）青铜，CMA 藏（1932.32）。",
+        "风格特征": "该馆给出**核心解读**：瓶上**两幅场景**体现了**虔敬的埃及人在来世的「双重角色」**——一面**从家人处接受供品**，另一面**向神献上供品**。",
+        "代表人物与作品": "器物记叙：**一侧**亡者 **Padiamennebnesuttawy**（名意为「阿蒙、卡纳克之主所赐者」）**坐于低椅，伴其爱犬**；犬前**竖立的十字形符号**是它的名字 **Nefer**，意为「**善者/美者**」；**右侧**，亡者的**长子 Amenhotep 向父亲献香与水**。**另一侧**，亡者**向神献上圆形面包、蔬与肉**，**对面为受供的神**（记录在「his…」处**截断**，本条目**不补写**）。相关条目见卡诺普罐与明内弗像。",
+        "技法或形式分析": "材质为**青铜**；尺寸**高28.3厘米**、连柄45.2厘米、口径15.5/10.2厘米（据该馆记录）。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「双面叙事」读作**来世互惠的完整回路**：**受供（子→父）** 与 **献供（人→神）** 构成一个闭环，把家庭伦理与宗教义务并置在同一器物上。",
+        "一图": "示意图以受供、献供与爱犬 Nefer 三者关系标示本瓶。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）该馆 desc 在「his…」处**截断，未补写**受供神名单；（3）犬名 Nefer 的符号读法未核原文；（4）出土地未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='decorated-situla 示意图'><title>decorated-situla</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>托勒密·前305—30</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>青铜</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>西图拉瓶</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>28.3cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>受供·献供</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>双重角色</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>爱犬 Nefer</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>名字符号</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>西图拉：受供、献供与爱犬</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；desc 截断；符号读法未核。"
+    },
+    {
+      "id": "bakenmut-coffin",
+      "title": "巴肯穆特棺",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元前11—9世纪",
+      "region": "埃及",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "底比斯彩绘梧桐木棺，克利夫兰艺术博物馆藏（1914.561）。",
+      "when": "约公元前1000—900年",
+      "overview": "第21—22王朝为阿蒙祭司及家人所制彩绘木棺最精者之一；法老改葬北方三角洲、底比斯墓地治安松弛；富者棺与随葬置西岸崖凿无名无饰家族墓；往昔用于墓室的装饰皆倾注于棺；各面满布宗教场景、葬仪神祇、护身咒与魔法符号。",
+      "related": [
+        "canopic-jar-26",
+        "amenhotep-tomb-relief"
+      ],
+      "sources": [
+        "cma-1914-561"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明：**巴肯穆特（Bakenmut）棺**是**第21王朝与第22王朝初**、**底比斯阿蒙祭司及其家人**所制**彩绘木棺的最精之例之一**。本件约前1000—900年，CMA 藏（1914.561）。",
+        "风格特征": "该馆给出**历史语境**：此时**法老不再葬于帝王谷**，而**葬于远在北方的三角洲**（其居所）；**底比斯墓地治安松弛**；**底比斯富民的棺与随葬品**被置于**西岸崖壁凿出的、无名无饰的家族墓**中。",
+        "代表人物与作品": "作者未署名。相关条目见卡诺普罐与阿蒙霍特普医生墓浮雕。",
+        "技法或形式分析": "材质为**施灰泥的彩绘梧桐木（sycamore fig）**；尺寸**高208 × 宽68厘米**（据该馆记录）。",
+        "与前后风格的关系和争论": "该馆给出**装饰转移**的判断：**往昔倾注于墓室装饰的用心与细部**，**如今被尽情倾注于精绘的棺上**；**每一可用表面**都**挤满宗教场景、葬仪神祇与女神的形象、护身咒语与魔法符号**——亡者……（记录在「The deceased ap…」处**截断**，本条目**不补写**）。本条目据此把「棺」读作**移动的墓室**：当墓不可恃，装饰便聚集到**可携带的容器**上。",
+        "一图": "示意图以法老北葬、西岸无名墓与棺饰取代墓饰三者关系标示本棺。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）该馆 desc 在「The deceased ap…」处**截断，未补写**；（3）棺铭咒语文本未迻录；（4）出土地与墓葬编号未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='bakenmut-coffin 示意图'><title>bakenmut-coffin</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>底比斯·前1000—90</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>彩绘木棺</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>巴肯穆特棺</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>208cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>西岸无名墓</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>治安松弛</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>棺饰取代墓饰</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>移动墓室</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>巴肯穆特棺：时局、无名墓与棺饰</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；desc 截断；出土地未记录。"
     }
   ]
 }

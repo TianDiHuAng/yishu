@@ -1,0 +1,19 @@
+{
+ "id": "bakenmut-coffin",
+ "level": "L2",
+ "sections": {
+  "时代背景": "该馆说明：**巴肯穆特（Bakenmut）棺**是**第21王朝与第22王朝初**、**底比斯阿蒙祭司及其家人**所制**彩绘木棺的最精之例之一**。本件约前1000—900年，CMA 藏（1914.561）。",
+  "风格特征": "该馆给出**历史语境**：此时**法老不再葬于帝王谷**，而**葬于远在北方的三角洲**（其居所）；**底比斯墓地治安松弛**；**底比斯富民的棺与随葬品**被置于**西岸崖壁凿出的、无名无饰的家族墓**中。",
+  "代表人物与作品": "作者未署名。相关条目见卡诺普罐与阿蒙霍特普医生墓浮雕。",
+  "技法或形式分析": "材质为**施灰泥的彩绘梧桐木（sycamore fig）**；尺寸**高208 × 宽68厘米**（据该馆记录）。",
+  "与前后风格的关系和争论": "该馆给出**装饰转移**的判断：**往昔倾注于墓室装饰的用心与细部**，**如今被尽情倾注于精绘的棺上**；**每一可用表面**都**挤满宗教场景、葬仪神祇与女神的形象、护身咒语与魔法符号**——亡者……（记录在「The deceased ap…」处**截断**，本条目**不补写**）。本条目据此把「棺」读作**移动的墓室**：当墓不可恃，装饰便聚集到**可携带的容器**上。",
+  "一图": "示意图以法老北葬、西岸无名墓与棺饰取代墓饰三者关系标示本棺。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）该馆 desc 在「The deceased ap…」处**截断，未补写**；（3）棺铭咒语文本未迻录；（4）出土地与墓葬编号未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='bakenmut-coffin 示意图'><title>bakenmut-coffin</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>底比斯·前1000—90</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>彩绘木棺</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>巴肯穆特棺</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>208cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>西岸无名墓</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>治安松弛</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>棺饰取代墓饰</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>移动墓室</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>巴肯穆特棺：时局、无名墓与棺饰</text></g></svg>",
+ "sources": [
+  "cma-1914-561"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；desc 截断；出土地未记录。"
+}

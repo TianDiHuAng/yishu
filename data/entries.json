@@ -6442,7 +6442,10 @@
         "canopic-jar-26",
         "amenemhat-statue",
         "minemheb-statue",
-        "djedbastetiufankh-block-statue"
+        "djedbastetiufankh-block-statue",
+        "heqat-frog-goddess",
+        "caryatid-mirror",
+        "decorated-situla"
       ],
       "sources": [
         "cma-1948-420"
@@ -6464,7 +6467,8 @@
         "gudea-statue",
         "minnefer-statue",
         "nyankhnesut-relief",
-        "greco-roman-votive-relief"
+        "greco-roman-votive-relief",
+        "bakenmut-coffin"
       ],
       "sources": [
         "cma-1963-100"
@@ -8968,7 +8972,10 @@
         "minnefer-statue",
         "amenemhat-statue",
         "nyankhnesut-relief",
-        "greco-roman-votive-relief"
+        "greco-roman-votive-relief",
+        "heqat-frog-goddess",
+        "decorated-situla",
+        "bakenmut-coffin"
       ],
       "sources": [
         "cma-1921-1021"
@@ -8990,7 +8997,8 @@
         "minnefer-statue",
         "canopic-jar-26",
         "minemheb-statue",
-        "djedbastetiufankh-block-statue"
+        "djedbastetiufankh-block-statue",
+        "caryatid-mirror"
       ],
       "sources": [
         "cma-1960-56"
@@ -10984,6 +10992,86 @@
       ],
       "sources": [
         "vam-o96492"
+      ]
+    },
+    {
+      "id": "heqat-frog-goddess",
+      "title": "青蛙女神赫奎特像",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元前30世纪",
+      "region": "埃及",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "前王朝石灰华青蛙像，克利夫兰艺术博物馆藏（1976.5）。",
+      "when": "约公元前2950年",
+      "overview": "前王朝动物像多于人像；此蛙立于埃及动物雕塑大传统之始；雕者顺石材天然纹理增其圆浑；小陶蛙为早期神庙常见供品；其前王朝宗教义未明，后世多指助产女神赫奎特（Heqat）。",
+      "related": [
+        "minnefer-statue",
+        "canopic-jar-26"
+      ],
+      "sources": [
+        "cma-1976-5"
+      ]
+    },
+    {
+      "id": "caryatid-mirror",
+      "title": "女像柱镜",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元前16—13世纪",
+      "region": "埃及",
+      "medium": "金属器",
+      "tier": "核心",
+      "def": "第十八王朝青铜镜，克利夫兰艺术博物馆藏（1983.196）。",
+      "when": "约公元前1540—1296年",
+      "overview": "椭圆镜盘，柄为裸体少女：三分为辫发、宽领与珠带；立于十字基座、左足略前、手垂体侧；头顶纸莎草伞托盘；裸女柄镜为第18王朝中期时尚，此或同类之最；十字基座罕见；图像关联爱与美之神哈托尔（希腊等同阿佛洛狄忒），其侍从称 nefrut。",
+      "related": [
+        "minnefer-statue",
+        "amenemhat-statue"
+      ],
+      "sources": [
+        "cma-1983-196"
+      ]
+    },
+    {
+      "id": "decorated-situla",
+      "title": "装饰西图拉礼瓶",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "托勒密时期",
+      "region": "埃及",
+      "medium": "金属器",
+      "tier": "核心",
+      "def": "托勒密青铜西图拉瓶，克利夫兰艺术博物馆藏（1932.32）。",
+      "when": "公元前305—前30年",
+      "overview": "豪华仪式用瓶；两面场景示亡者来世双重角色：一面受家人献供，一面向神献供；一侧亡者 Padiamennebnesuttawy 携爱犬 Nefer（「善/美者」）坐低椅，长子 Amenhotep 献香与水；另侧亡者向神献面包蔬肉。",
+      "related": [
+        "canopic-jar-26",
+        "minnefer-statue"
+      ],
+      "sources": [
+        "cma-1932-32"
+      ]
+    },
+    {
+      "id": "bakenmut-coffin",
+      "title": "巴肯穆特棺",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元前11—9世纪",
+      "region": "埃及",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "底比斯彩绘梧桐木棺，克利夫兰艺术博物馆藏（1914.561）。",
+      "when": "约公元前1000—900年",
+      "overview": "第21—22王朝为阿蒙祭司及家人所制彩绘木棺最精者之一；法老改葬北方三角洲、底比斯墓地治安松弛；富者棺与随葬置西岸崖凿无名无饰家族墓；往昔用于墓室的装饰皆倾注于棺；各面满布宗教场景、葬仪神祇、护身咒与魔法符号。",
+      "related": [
+        "canopic-jar-26",
+        "amenhotep-tomb-relief"
+      ],
+      "sources": [
+        "cma-1914-561"
       ]
     }
   ]

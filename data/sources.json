@@ -6339,6 +6339,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；纸本不透明水彩金 25×37.5cm；说明含Nainsukh与宫廷娱乐"
+    },
+    {
+      "id": "cma-1976-5",
+      "title": "Cleveland Museum of Art — Statue of Heqat, the Frog Goddess, c. 2950 BCE, acc. 1976.5",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1976.5",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；石灰华 15.4×14.7×15.5cm；说明含前王朝动物雕塑与助产神"
+    },
+    {
+      "id": "cma-1983-196",
+      "title": "Cleveland Museum of Art — Caryatid Mirror, Dynasty 18, acc. 1983.196",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1983.196",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；青铜 38.9×20cm；说明含裸女柄镜与哈托尔"
+    },
+    {
+      "id": "cma-1932-32",
+      "title": "Cleveland Museum of Art — Decorated Situla, Ptolemaic, 305–30 BCE, acc. 1932.32",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1932.32",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；青铜 28.3cm(连柄45.2)；说明含来世双重角色与爱犬Nefer"
+    },
+    {
+      "id": "cma-1914-561",
+      "title": "Cleveland Museum of Art — Coffin of Bakenmut, Thebes, Dyn. 21–22, acc. 1914.561",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1914.561",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；彩绘梧桐木 208×68cm；说明含棺饰取代墓室装饰"
     }
   ]
 }

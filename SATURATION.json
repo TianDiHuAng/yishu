@@ -1789,6 +1789,18 @@
       },
       "network": "V&A",
       "verdict": "总508；未饱和"
+    },
+    {
+      "cycle": "cycle146",
+      "date": "2026-11-24",
+      "methods_used": [
+        "埃及雕塑"
+      ],
+      "gaps_found": {
+        "entries": 4
+      },
+      "network": "CMA",
+      "verdict": "art-ancient 38→42（总512）；未饱和"
     }
   ],
   "assessment_c33": {
