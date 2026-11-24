@@ -1,0 +1,21 @@
+{
+  "id": "korean-architecture",
+  "level": "L2",
+  "sections": {
+    "时代背景": "摘要称，韩国建筑是在朝鲜半岛历经数世纪发展起来的建筑风格。摘要没有给出起讫年代，本条目不限定。",
+    "风格特征": "摘要称，传统韩国建筑大多可凭倾斜的屋顶辨认。",
+    "代表人物与作品": "摘要没有列举建筑师与具体建筑，本条目不补写；需另取专著或博物馆来源后再增补。库内相关条目可参见高丽青瓷，但摘要没有提到。",
+    "技法或形式分析": "摘要对形式的描述只有一项：倾斜的屋顶。本条目不补写其他构造做法。",
+    "与前后风格的关系和争论": "摘要称，朝鲜半岛历史上各个王国与王朝发展出独特的建筑风格，受佛教与韩国儒家影响。摘要没有谈到它与中国、日本建筑的关系，库内互链是本项目所加，本条目不作比较。",
+    "一图": "示意图以韩国建筑为中心，标示佛教影响、韩国儒家影响、倾斜屋顶三项。",
+    "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata 标签，来源独立性有限，整条标记待核实。（2）本条目内容很薄，因为所依摘要只有两句，本条目没有为凑篇幅而补写；（3）各王国与王朝的建筑差异、具体建筑，摘要未给出；（4）“独特的风格”是摘要的概括，本条目未核验。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='korean-architecture 示意图'><title>korean-architecture</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>佛教</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>影响</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>韩国建筑</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>数世纪发展</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>韩国儒家</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>影响</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>倾斜的屋顶</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>最易辨认</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+  "sources": [
+    "enc-korean-architecture",
+    "enc-c182-korean-art",
+    "wd-korean-architecture"
+  ],
+  "needs_verification": true,
+  "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；内容薄，摘要仅两句。"
+}

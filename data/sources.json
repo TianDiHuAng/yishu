@@ -8329,6 +8329,126 @@
       "type": "权威结构化数据",
       "verified": true,
       "verified_note": "2026-11-24 经 wd_api 读取实体成功，英文标签与条目一致；年代取自其英文简介（如有）"
+    },
+    {
+      "id": "enc-korean-architecture",
+      "title": "Korean architecture",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Korean_architecture",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "enc-c182-korean-art",
+      "title": "Korean art",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Korean_art",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-korean-architecture",
+      "title": "Wikidata: Korean architecture (Q2860300)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q2860300",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-24 经 wd_api 读取实体成功，英文标签与条目一致"
+    },
+    {
+      "id": "enc-spanish-architecture",
+      "title": "Spanish architecture",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Spanish_architecture",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "enc-c182-spanish-art",
+      "title": "Spanish art",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Spanish_art",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-spanish-architecture",
+      "title": "Wikidata: Spanish architecture (Q2712488)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q2712488",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-24 经 wd_api 读取实体成功，英文标签与条目一致"
+    },
+    {
+      "id": "enc-dutch-architecture",
+      "title": "Architecture of the Netherlands",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Architecture_of_the_Netherlands",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "enc-c182-dutch-art",
+      "title": "Dutch art",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Dutch_art",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-dutch-architecture",
+      "title": "Wikidata: Architecture of the Netherlands (Q4070862)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q4070862",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-24 经 wd_api 读取实体成功，英文标签与条目一致"
+    },
+    {
+      "id": "enc-gothic-revival-architecture",
+      "title": "Gothic Revival architecture",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Gothic_Revival_architecture",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "enc-c182-gothic-architecture",
+      "title": "Gothic architecture",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Gothic_architecture",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-24 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-gothic-revival-architecture",
+      "title": "Wikidata: Gothic Revival architecture (Q186363)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q186363",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-24 经 wd_api 读取实体成功，英文标签与条目一致"
     }
   ]
 }

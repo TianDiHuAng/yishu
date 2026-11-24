@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 649,
+    "total": 653,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -7792,6 +7792,54 @@
     },
     "telemann": {
       "title": "泰勒曼（Georg Philipp Telemann）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 3,
+      "verified_sources_count": 3,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "korean-architecture": {
+      "title": "韩国建筑（Korean architecture）",
+      "tier": "补充",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 3,
+      "verified_sources_count": 3,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "spanish-architecture": {
+      "title": "西班牙建筑（Spanish architecture）",
+      "tier": "补充",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 3,
+      "verified_sources_count": 3,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "dutch-architecture": {
+      "title": "荷兰建筑（Architecture of the Netherlands）",
+      "tier": "补充",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 3,
+      "verified_sources_count": 3,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "gothic-revival-architecture": {
+      "title": "哥特复兴建筑（Gothic Revival architecture）",
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",

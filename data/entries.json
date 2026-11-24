@@ -583,7 +583,8 @@
         "hals-woman-aeltje-pater",
         "ochtervelt-musical-company",
         "still-life",
-        "baroque-architecture"
+        "baroque-architecture",
+        "dutch-architecture"
       ],
       "sources": [
         "enc-baroque",
@@ -665,7 +666,8 @@
         "rembrandt-bearded-man-hat",
         "hals-tieleman-roosterman",
         "chiaroscuro",
-        "impasto"
+        "impasto",
+        "dutch-architecture"
       ],
       "sources": [
         "enc-rembrandt",
@@ -732,7 +734,8 @@
       "related": [
         "rembrandt",
         "realism-art",
-        "dusart-violin-tavern"
+        "dusart-violin-tavern",
+        "dutch-architecture"
       ],
       "sources": [
         "enc-vermeer",
@@ -790,7 +793,8 @@
         "romantic-crossmedia",
         "courbet",
         "corot",
-        "preller-musicale"
+        "preller-musicale",
+        "gothic-revival-architecture"
       ],
       "sources": [
         "enc-romanticism",
@@ -3481,7 +3485,9 @@
       "related": [
         "gothic",
         "romanesque-architecture",
-        "renaissance-architecture"
+        "renaissance-architecture",
+        "spanish-architecture",
+        "gothic-revival-architecture"
       ],
       "sources": [
         "enc-gothic-architecture",
@@ -4442,7 +4448,8 @@
       "overview": "野菊既是「饮酒」诗意象，也寓意长寿；口沿破损处曾以金漆修补（日本称 kintsugi）。",
       "related": [
         "kammavacha-manuscript",
-        "goryeo-celadon-cup"
+        "goryeo-celadon-cup",
+        "korean-architecture"
       ],
       "sources": [
         "cma-1918-454"
@@ -13456,7 +13463,8 @@
         "rococo",
         "renaissance-architecture",
         "neoclassical-architecture",
-        "beaux-arts-architecture"
+        "beaux-arts-architecture",
+        "spanish-architecture"
       ],
       "sources": [
         "enc-baroque-architecture",
@@ -13479,7 +13487,8 @@
       "related": [
         "neoclassicism",
         "baroque-architecture",
-        "renaissance-architecture"
+        "renaissance-architecture",
+        "gothic-revival-architecture"
       ],
       "sources": [
         "enc-neoclassical-architecture",
@@ -13526,7 +13535,8 @@
         "angkor",
         "khmer-architecture",
         "china-painting-history",
-        "japanese-architecture"
+        "japanese-architecture",
+        "korean-architecture"
       ],
       "sources": [
         "enc-chinese-architecture",
@@ -13550,7 +13560,8 @@
         "islamic-art",
         "mihrab-isfahan",
         "iznik-tile-spandrel",
-        "mughal-architecture"
+        "mughal-architecture",
+        "spanish-architecture"
       ],
       "sources": [
         "enc-islamic-architecture",
@@ -13746,7 +13757,8 @@
       "related": [
         "japanese-art",
         "chinese-architecture",
-        "ukiyo-e"
+        "ukiyo-e",
+        "korean-architecture"
       ],
       "sources": [
         "enc-japanese-architecture",
@@ -14236,6 +14248,98 @@
         "enc-telemann",
         "enc-c179-baroque-music",
         "wd-telemann"
+      ]
+    },
+    {
+      "id": "korean-architecture",
+      "title": "韩国建筑（Korean architecture）",
+      "kind": "风格",
+      "unit": "art-asia",
+      "era": "历代",
+      "region": "东亚",
+      "medium": "建筑",
+      "tier": "补充",
+      "def": "在朝鲜半岛历经数世纪发展的建筑风格，受佛教与韩国儒家影响，传统上以倾斜的屋顶最易辨认。",
+      "when": "历代",
+      "overview": "韩国建筑指在朝鲜半岛历经数世纪发展起来的建筑风格。在朝鲜半岛历史上，各个王国与王朝发展出受佛教与韩国儒家影响的独特建筑风格；传统韩国建筑大多可凭倾斜的屋顶辨认。",
+      "related": [
+        "goryeo-celadon-bottle",
+        "japanese-architecture",
+        "chinese-architecture"
+      ],
+      "sources": [
+        "enc-korean-architecture",
+        "enc-c182-korean-art",
+        "wd-korean-architecture"
+      ]
+    },
+    {
+      "id": "spanish-architecture",
+      "title": "西班牙建筑（Spanish architecture）",
+      "kind": "风格",
+      "unit": "art-baroque",
+      "era": "历代",
+      "region": "西班牙",
+      "medium": "建筑",
+      "tier": "补充",
+      "def": "指今西班牙境内的建筑，以及西班牙建筑师在世界各地的建筑，主要影响曾属西班牙帝国的地区；随历史时期而有很大的历史与地域多样性。",
+      "when": "历代",
+      "overview": "西班牙建筑指今西班牙任何地区的建筑，以及西班牙建筑师在世界各地的建筑，主要影响曾属西班牙帝国的地区。该词包括在西班牙成为国家之前、该地被称为伊比利亚、希斯帕尼亚（Hispania），或被若干基督教与穆斯林王国瓜分时期建于今国界之内的建筑。西班牙建筑依历史时期而呈现出很大的历史与地域多样性；它沿着与地中海周边以及中欧、北欧其他建筑风格相似的路线发展，但也有一些西班牙建筑是独一无二的。",
+      "related": [
+        "islamic-architecture",
+        "baroque-architecture",
+        "gothic-architecture"
+      ],
+      "sources": [
+        "enc-spanish-architecture",
+        "enc-c182-spanish-art",
+        "wd-spanish-architecture"
+      ]
+    },
+    {
+      "id": "dutch-architecture",
+      "title": "荷兰建筑（Architecture of the Netherlands）",
+      "kind": "风格",
+      "unit": "art-baroque",
+      "era": "中世纪至今",
+      "region": "荷兰",
+      "medium": "建筑",
+      "tier": "补充",
+      "def": "今荷兰领土内的建筑史，不含常被并入“低地国家”的比利时；因缺石而以砖为主要建材。",
+      "when": "历代",
+      "overview": "荷兰建筑指今荷兰领土内的建筑史，因此不含常被纳入更宽泛的“低地国家”概念的比利时。荷兰建筑的独特性格长期被否认，但从中世纪到今天荷兰建筑创造的丰富性证明并非如此。直到19世纪，荷兰与佛兰德斯的建筑有显著相似，因为二者直到文艺复兴都有共同文化；然而17世纪以来新教的、商业的、田园的、自由的荷兰，与长期受外国统治的天主教的、勤勉的佛兰德斯并不相像。更具体地说，与佛兰德斯建筑不同，荷兰在建造中用石一向有限，因为其领土上石材极少；这种稀缺使荷兰人转向以砖为主的建筑，砖甚至被用来铺路。",
+      "related": [
+        "baroque",
+        "rembrandt",
+        "vermeer"
+      ],
+      "sources": [
+        "enc-dutch-architecture",
+        "enc-c182-dutch-art",
+        "wd-dutch-architecture"
+      ]
+    },
+    {
+      "id": "gothic-revival-architecture",
+      "title": "哥特复兴建筑（Gothic Revival architecture）",
+      "kind": "风格",
+      "unit": "art-neo-romantic",
+      "era": "17世纪下半叶—19世纪",
+      "region": "英国·欧洲",
+      "medium": "建筑",
+      "tier": "重要",
+      "def": "17世纪下半叶起逐渐积累、19世纪上半叶在英国广为流行的建筑运动，意在复兴中世纪哥特建筑，以补充甚至取代当时盛行的新古典风格。",
+      "when": "约公元17世纪下半叶—19世纪末",
+      "overview": "哥特复兴是一场建筑运动，自17世纪下半叶起逐渐积累，到19世纪上半叶成为广泛的运动，主要在英国。越来越严肃、博学的崇拜者试图复兴中世纪的哥特建筑，意在补充甚至取代当时盛行的新古典风格。哥特复兴借用中世纪实例的特征，包括装饰图案、尖顶饰、尖券窗与滴水石。到19世纪中叶，它已成为西方世界最突出的建筑风格，随后在1880年代与1890年代初开始过时。",
+      "related": [
+        "gothic-architecture",
+        "neoclassical-architecture",
+        "romanticism-art"
+      ],
+      "sources": [
+        "enc-gothic-revival-architecture",
+        "enc-c182-gothic-architecture",
+        "wd-gothic-revival-architecture"
       ]
     }
   ]

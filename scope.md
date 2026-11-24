@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 649 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 653 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -163,6 +163,8 @@
 | hals-woman-aeltje-pater | 哈尔斯《女子肖像（或为阿尔切·迪尔克斯多赫特·帕特尔）》（1638） | 作品 | 17世纪 | 荷兰 | 油画 | 重要 | O1 |
 | ochtervelt-musical-company | 奥赫特费尔特《音乐聚会》（约1668） | 作品 | 17世纪 | 荷兰 | 油画 | 重要 | O1 |
 | baroque-architecture | 巴洛克建筑（Baroque architecture） | 风格 | 16世纪末—18世纪中叶 | 欧洲 | 建筑 | 重要 | O1 |
+| spanish-architecture | 西班牙建筑（Spanish architecture） | 风格 | 历代 | 西班牙 | 建筑 | 补充 | O1 |
+| dutch-architecture | 荷兰建筑（Architecture of the Netherlands） | 风格 | 中世纪至今 | 荷兰 | 建筑 | 补充 | O1 |
 
 ## art-neo-romantic（艺术史·新古典与浪漫）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -192,6 +194,7 @@
 | redon-brunnhilde | 雷东《诸神的黄昏中的布伦希尔德》（1894） | 作品 | 19世纪 | 法国 | 版画 | 重要 | O1 |
 | fantin-latour-tannhauser | 方丹-拉图尔《唐豪瑟》（1886） | 作品 | 19世纪 | 法国 | 油画 | 重要 | O1 |
 | neoclassical-architecture | 新古典主义建筑（Neoclassical architecture） | 风格 | 18世纪中叶—19世纪 | 欧洲 | 建筑 | 重要 | O1 |
+| gothic-revival-architecture | 哥特复兴建筑（Gothic Revival architecture） | 风格 | 17世纪下半叶—19世纪 | 英国·欧洲 | 建筑 | 重要 | O1 |
 
 ## art-impression（艺术史·印象派与后印象派）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -553,6 +556,7 @@
 | mughal-architecture | 莫卧儿建筑（Mughal architecture） | 风格 | 16—18世纪 | 南亚 | 建筑 | 重要 | O1 |
 | japanese-architecture | 日本建筑（Japanese architecture） | 风格 | 历代 | 东亚 | 建筑 | 重要 | O1 |
 | indian-architecture | 印度建筑（Architecture of India） | 风格 | 历代 | 南亚 | 建筑 | 重要 | O1 |
+| korean-architecture | 韩国建筑（Korean architecture） | 风格 | 历代 | 东亚 | 建筑 | 补充 | O1 |
 
 ## art-islamic（伊斯兰艺术（西亚·中亚））
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
