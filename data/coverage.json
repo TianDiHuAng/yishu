@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 524,
+    "total": 528,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -6292,6 +6292,54 @@
     },
     "lakota-storage-bag": {
       "title": "拉科塔储物袋（19世纪末）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "monet-red-kerchief": {
+      "title": "莫奈《红头巾》（约1868—73）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "monet-low-tide-pourville": {
+      "title": "莫奈《普尔维尔的低潮》（1882）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "morisot-reading": {
+      "title": "莫里索《阅读》（1873）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "renoir-apple-seller": {
+      "title": "雷诺阿《卖苹果的女人》（约1890）",
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",

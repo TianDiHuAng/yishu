@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 524 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 528 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -177,6 +177,10 @@
 | van-gogh-dr-gachet | 梵高《加歇医生》（蚀刻） | 作品 | 19世纪 | 欧洲 | 版画 | 核心 | O1 |
 | pissarro-lock-pontoise | 毕沙罗《蓬图瓦兹水闸》 | 作品 | 19世纪 | 欧洲 | 绘画 | 核心 | O1 |
 | van-gogh-drenthe-wheelbarrow | 梵高《德伦特风景（手推车）》 | 作品 | 19世纪 | 欧洲 | 绘画 | 重要 | O1 |
+| monet-red-kerchief | 莫奈《红头巾》（约1868—73） | 作品 | 19世纪 | 欧洲 | 绘画 | 重要 | O1 |
+| monet-low-tide-pourville | 莫奈《普尔维尔的低潮》（1882） | 作品 | 19世纪 | 欧洲 | 绘画 | 重要 | O1 |
+| morisot-reading | 莫里索《阅读》（1873） | 作品 | 19世纪 | 欧洲 | 绘画 | 重要 | O1 |
+| renoir-apple-seller | 雷诺阿《卖苹果的女人》（约1890） | 作品 | 19世纪 | 欧洲 | 绘画 | 重要 | O1 |
 
 ## art-modern（艺术史·现代主义）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

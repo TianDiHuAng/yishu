@@ -810,7 +810,10 @@
         "impression-crossmedia",
         "ukiyo-e",
         "monet-water-lilies-agapanthus",
-        "pissarro-lock-pontoise"
+        "pissarro-lock-pontoise",
+        "monet-red-kerchief",
+        "morisot-reading",
+        "renoir-apple-seller"
       ],
       "sources": [
         "enc-impressionism",
@@ -864,7 +867,9 @@
         "post-impressionism",
         "degas",
         "monet-water-lilies-agapanthus",
-        "pissarro-lock-pontoise"
+        "pissarro-lock-pontoise",
+        "monet-red-kerchief",
+        "monet-low-tide-pourville"
       ],
       "sources": [
         "enc-monet",
@@ -3358,7 +3363,8 @@
       "related": [
         "impressionism",
         "monet",
-        "degas-frieze-dancers"
+        "degas-frieze-dancers",
+        "renoir-apple-seller"
       ],
       "sources": [
         "cma-1916-1043"
@@ -3440,7 +3446,8 @@
       "overview": "以当代生活为题材，吸收库图尔的底层颜料技法，晚年受印象派影响而调色更亮、笔触更自由；始终以官方沙龙为竞技场，未参加印象派展览。",
       "related": [
         "impressionism",
-        "realism-art"
+        "realism-art",
+        "morisot-reading"
       ],
       "sources": [
         "cma-artist-manet",
@@ -7808,7 +7815,8 @@
       "overview": "印象派户外快速写生的开创者之一；急流与阴天以纯色碎笔触写成，或不打草稿一次完成。",
       "related": [
         "impressionism",
-        "monet"
+        "monet",
+        "monet-low-tide-pourville"
       ],
       "sources": [
         "cma-1990-7"
@@ -11334,6 +11342,86 @@
       ],
       "sources": [
         "cma-1937-850"
+      ]
+    },
+    {
+      "id": "monet-red-kerchief",
+      "title": "莫奈《红头巾》（约1868—73）",
+      "kind": "作品",
+      "unit": "art-impression",
+      "era": "19世纪",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "莫奈布面油画，画他的第一任妻子卡米耶，克利夫兰艺术博物馆藏（1958.39）。",
+      "when": "约1868—1873年",
+      "overview": "雪日里卡米耶经过阿让特伊住宅的落地窗外；脸部以寥寥几笔快速涂抹，雪与树以粗放断续的纯白与纯绿笔触定形，技法大胆；该馆记录未署名。",
+      "related": [
+        "monet",
+        "impressionism"
+      ],
+      "sources": [
+        "cma-1958-39"
+      ]
+    },
+    {
+      "id": "monet-low-tide-pourville",
+      "title": "莫奈《普尔维尔的低潮》（1882）",
+      "kind": "作品",
+      "unit": "art-impression",
+      "era": "19世纪",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "莫奈布面油画，诺曼底渔村普尔维尔海景，克利夫兰艺术博物馆藏（1947.196）。",
+      "when": "1882年",
+      "overview": "莫奈画过数幅普尔维尔，村里有木栈道、宽阔海滩与壮丽悬崖；据其书信，村子本身平平，但风景打动了他，海浪就拍在屋脚；1882年春他住在类似画中悬崖右下小屋的小旅馆。",
+      "related": [
+        "monet",
+        "pissarro-lock-pontoise"
+      ],
+      "sources": [
+        "cma-1947-196"
+      ]
+    },
+    {
+      "id": "morisot-reading",
+      "title": "莫里索《阅读》（1873）",
+      "kind": "作品",
+      "unit": "art-impression",
+      "era": "19世纪",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "莫里索布面油画，以姐姐埃德玛为模特，克利夫兰艺术博物馆藏（1950.89）。",
+      "when": "1873年",
+      "overview": "女子坐在披肩上、视线落在书页，阳伞与扇子丢在草地；白裙映出户外的光影，花纹呼应草地野花；X光显示莫里索改过眼神，原本直视观者，近似马奈的人物处理；而她的人物多专注于事务或私下沉思。",
+      "related": [
+        "manet",
+        "impressionism"
+      ],
+      "sources": [
+        "cma-1950-89"
+      ]
+    },
+    {
+      "id": "renoir-apple-seller",
+      "title": "雷诺阿《卖苹果的女人》（约1890）",
+      "kind": "作品",
+      "unit": "art-impression",
+      "era": "19世纪",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "雷诺阿布面油画，乡下女孩向画家之妻阿琳递苹果，克利夫兰艺术博物馆藏（1958.47）。",
+      "when": "约1890年",
+      "overview": "戴草帽的男孩可能是画家的侄子埃德蒙，戴发带的小女孩身份未明；柔和斑驳的阳光中，流畅笔触把人物连成一体，跃起的小狗添一点幽默与动势；该馆推测应完成于东法的埃索瓦。",
+      "related": [
+        "degas",
+        "impressionism"
+      ],
+      "sources": [
+        "cma-1958-47"
       ]
     }
   ]

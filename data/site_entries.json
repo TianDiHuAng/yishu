@@ -1392,7 +1392,10 @@
         "impression-crossmedia",
         "ukiyo-e",
         "monet-water-lilies-agapanthus",
-        "pissarro-lock-pontoise"
+        "pissarro-lock-pontoise",
+        "monet-red-kerchief",
+        "morisot-reading",
+        "renoir-apple-seller"
       ],
       "sources": [
         "enc-impressionism",
@@ -1529,7 +1532,9 @@
         "post-impressionism",
         "degas",
         "monet-water-lilies-agapanthus",
-        "pissarro-lock-pontoise"
+        "pissarro-lock-pontoise",
+        "monet-red-kerchief",
+        "monet-low-tide-pourville"
       ],
       "sources": [
         "enc-monet",
@@ -5436,7 +5441,8 @@
       "related": [
         "impressionism",
         "monet",
-        "degas-frieze-dancers"
+        "degas-frieze-dancers",
+        "renoir-apple-seller"
       ],
       "sources": [
         "cma-1916-1043"
@@ -5568,7 +5574,8 @@
       "overview": "以当代生活为题材，吸收库图尔的底层颜料技法，晚年受印象派影响而调色更亮、笔触更自由；始终以官方沙龙为竞技场，未参加印象派展览。",
       "related": [
         "impressionism",
-        "realism-art"
+        "realism-art",
+        "morisot-reading"
       ],
       "sources": [
         "cma-artist-manet",
@@ -12580,7 +12587,8 @@
       "overview": "印象派户外快速写生的开创者之一；急流与阴天以纯色碎笔触写成，或不打草稿一次完成。",
       "related": [
         "impressionism",
-        "monet"
+        "monet",
+        "monet-low-tide-pourville"
       ],
       "sources": [
         "cma-1990-7"
@@ -18317,6 +18325,138 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='lakota-storage-bag 示意图'><title>lakota-storage-bag</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>拉科塔·1800年代末</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>平原</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>储物袋</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>38.8cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>帐内收纳·枕</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>私人物品</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>鞍侧展示</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>迁徙时</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>储物袋：收纳与展示</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（CMA）来源；定年只到1800年代末；制作者未记录。"
+    },
+    {
+      "id": "monet-red-kerchief",
+      "title": "莫奈《红头巾》（约1868—73）",
+      "kind": "作品",
+      "unit": "art-impression",
+      "era": "19世纪",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "莫奈布面油画，画他的第一任妻子卡米耶，克利夫兰艺术博物馆藏（1958.39）。",
+      "when": "约1868—1873年",
+      "overview": "雪日里卡米耶经过阿让特伊住宅的落地窗外；脸部以寥寥几笔快速涂抹，雪与树以粗放断续的纯白与纯绿笔触定形，技法大胆；该馆记录未署名。",
+      "related": [
+        "monet",
+        "impressionism"
+      ],
+      "sources": [
+        "cma-1958-39"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为莫奈约1868—1873年的布面油画《红头巾》，克利夫兰艺术博物馆藏（1958.39）。该馆说明：画中人是莫奈的第一任妻子卡米耶，场景在阿让特伊（Argenteuil）的家，雪日里她正经过住宅的落地窗外。",
+        "风格特征": "该馆说明：脸部以「寥寥几笔快速涂抹」的颜料块画成，技法大胆而彻底地属于印象派；雪与树则由宽阔、断续的纯白与纯绿笔触定形。",
+        "代表人物与作品": "作者为莫奈。相关条目见莫奈与印象派。",
+        "技法或形式分析": "材质为布面油画；画面99 × 79.8厘米，带框128.3 × 105.7 × 14.6厘米（据该馆藏品记录）。该馆记录显示本件未署名。",
+        "与前后风格的关系和争论": "本条目据该馆说明把握「以笔触代轮廓」：人脸与雪景一样，不靠线条界定，而由快速并置的色块构成。定年「约1868—1873年」是区间，该馆未给出更精确的年份。",
+        "一图": "示意图以卡米耶雪日像、脸部快速涂抹、雪树断续笔触三者关系标示本作。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）定年仅到约1868—1873年区间；（3）未署名的原因该馆未说明。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='monet-red-kerchief 示意图'><title>monet-red-kerchief</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>莫奈·约1868—73</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>阿让特伊</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>《红头巾》</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>99×79.8cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>脸部快速涂抹</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>色块成形</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>雪树断续笔触</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>纯白·纯绿</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>《红头巾》：以笔触代轮廓</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；定年为区间；未署名原因未说明。"
+    },
+    {
+      "id": "monet-low-tide-pourville",
+      "title": "莫奈《普尔维尔的低潮》（1882）",
+      "kind": "作品",
+      "unit": "art-impression",
+      "era": "19世纪",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "莫奈布面油画，诺曼底渔村普尔维尔海景，克利夫兰艺术博物馆藏（1947.196）。",
+      "when": "1882年",
+      "overview": "莫奈画过数幅普尔维尔，村里有木栈道、宽阔海滩与壮丽悬崖；据其书信，村子本身平平，但风景打动了他，海浪就拍在屋脚；1882年春他住在类似画中悬崖右下小屋的小旅馆。",
+      "related": [
+        "monet",
+        "pissarro-lock-pontoise"
+      ],
+      "sources": [
+        "cma-1947-196"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为莫奈1882年的布面油画《普尔维尔的低潮》，克利夫兰艺术博物馆藏（1947.196）。该馆说明：普尔维尔是法国北部诺曼底的渔村，有木栈道、宽阔的海滩与壮观的悬崖。",
+        "风格特征": "该馆说明：莫奈画过数幅普尔维尔的景色。据艺术家的书信，村子本身并无出奇之处，但风景激发了他；他写道，自己就在卵石滩上，再近不过地靠着海，海浪拍在屋脚。",
+        "代表人物与作品": "作者为莫奈。相关条目见莫奈与毕沙罗《蓬图瓦兹水闸》。",
+        "技法或形式分析": "材质为布面油画；画面59.9 × 81.3厘米，带框65.4 × 106.7 × 10.5厘米（据该馆藏品记录）。右下署「82 Claude Monet」。",
+        "与前后风格的关系和争论": "本条目据该馆说明把握「同一地点的系列」：莫奈在同一渔村反复作画。该馆指出，1882年春他在普尔维尔住一家小旅馆，与画中右侧悬崖脚下的屋舍相似。",
+        "一图": "示意图以诺曼底渔村、书信中的近海感受、旅馆与悬崖屋舍三者关系标示本作。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）书信引文由该馆摘引，原信未独立核对；（3）画中屋舍与莫奈所住旅馆的对应，该馆用「相似」而非确指。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='monet-low-tide-pourville 示意图'><title>monet-low-tide-pourville</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>莫奈·1882</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>诺曼底</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>《普尔维尔的低潮》</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>59.9×81.3cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>渔村海景</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>栈道·海滩·悬崖</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>书信与旅馆</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>1882年春</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>普尔维尔：同一渔村的系列</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；书信引文未独立核对；旅馆对应为「相似」。"
+    },
+    {
+      "id": "morisot-reading",
+      "title": "莫里索《阅读》（1873）",
+      "kind": "作品",
+      "unit": "art-impression",
+      "era": "19世纪",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "莫里索布面油画，以姐姐埃德玛为模特，克利夫兰艺术博物馆藏（1950.89）。",
+      "when": "1873年",
+      "overview": "女子坐在披肩上、视线落在书页，阳伞与扇子丢在草地；白裙映出户外的光影，花纹呼应草地野花；X光显示莫里索改过眼神，原本直视观者，近似马奈的人物处理；而她的人物多专注于事务或私下沉思。",
+      "related": [
+        "manet",
+        "impressionism"
+      ],
+      "sources": [
+        "cma-1950-89"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为贝尔特·莫里索（Berthe Morisot）1873年的布面油画《阅读》，克利夫兰艺术博物馆藏（1950.89）。",
+        "风格特征": "该馆说明：画中女子坐在自己的披肩上，位于田野，视线落在书页，阳伞与扇子被丢在草地上；白裙映出户外的光与影，裙上细致的花纹呼应草地的野花。",
+        "代表人物与作品": "作者为莫里索，模特是她的姐姐埃德玛（Edma）。相关条目见马奈与印象派。",
+        "技法或形式分析": "材质为布面油画；画面46 × 71.8厘米，带框74.3 × 100.3 × 12.1厘米（据该馆藏品记录）。右下署名，左下留有署名残迹。",
+        "与前后风格的关系和争论": "该馆说明：X光检查显示莫里索修改过埃德玛的眼睛，原本直视观者，这种处理更接近马奈笔下的人物。该馆进一步比较：马奈画中的女性常回望观者，而莫里索的人物通常专注于手头的事或私下的沉思。本条目只转述该馆的比较，不另作评价。",
+        "一图": "示意图以姐姐为模特、X光显示改眼、与马奈人物对比三者关系标示本作。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）「莫里索的人物通常……」属该馆的概括性评述，未经独立评论文献印证；（3）改动眼神的具体时间与原因该馆未说明。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='morisot-reading 示意图'><title>morisot-reading</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>莫里索·1873</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>姐姐埃德玛</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>《阅读》</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>46×71.8cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>X光：眼神被改</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>原直视观者</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>对比马奈</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>专注而非回望</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>《阅读》：改过的目光</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；评述性概括未经独立印证；改动时间与原因未说明。"
+    },
+    {
+      "id": "renoir-apple-seller",
+      "title": "雷诺阿《卖苹果的女人》（约1890）",
+      "kind": "作品",
+      "unit": "art-impression",
+      "era": "19世纪",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "雷诺阿布面油画，乡下女孩向画家之妻阿琳递苹果，克利夫兰艺术博物馆藏（1958.47）。",
+      "when": "约1890年",
+      "overview": "戴草帽的男孩可能是画家的侄子埃德蒙，戴发带的小女孩身份未明；柔和斑驳的阳光中，流畅笔触把人物连成一体，跃起的小狗添一点幽默与动势；该馆推测应完成于东法的埃索瓦。",
+      "related": [
+        "degas",
+        "impressionism"
+      ],
+      "sources": [
+        "cma-1958-47"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为雷诺阿约1890年的布面油画《卖苹果的女人》，克利夫兰艺术博物馆藏（1958.47）。该馆说明：画面应完成于法国东部的埃索瓦（Essoyes），此处为「可能」。",
+        "风格特征": "该馆说明：画面沐浴在柔和、斑驳的阳光中，人物被流畅的笔触连成一体；跃起的小狗给原本安静的场景添了一点幽默与动势。",
+        "代表人物与作品": "作者为雷诺阿。相关条目见德加与印象派。",
+        "技法或形式分析": "材质为布面油画；画面65.8 × 54.5厘米，带框93 × 82.2 × 9.5厘米（据该馆藏品记录）。",
+        "与前后风格的关系和争论": "该馆说明：画的是一位乡下小女孩向雷诺阿的妻子阿琳（Aline）递苹果；戴草帽的男孩可能是画家的侄子埃德蒙（Edmond），而扎发带的小女孩身份未明。需注意：该馆记录的题款为「a. renoir / 1864」，与定年约1890年并存，该馆未予解释，本条目不作推断。",
+        "一图": "示意图以递苹果的场景、斑驳阳光与连贯笔触、题款与定年并存三者关系标示本作。",
+        "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）题款「1864」与定年约1890年不一致，原因该馆未说明，须另找来源核对；（3）男孩身份该馆用「可能」，小女孩身份未明；（4）完成地埃索瓦为「可能」。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='renoir-apple-seller 示意图'><title>renoir-apple-seller</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>雷诺阿·约1890</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>可能在埃索瓦</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>《卖苹果的女人》</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>65.8×54.5cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>斑驳阳光·流畅笔触</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>人物连成一体</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>题款1864与定年矛盾</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>待核实</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>《卖苹果的女人》：题款与定年之谜</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；题款1864与定年约1890矛盾未解；男孩与完成地为推测。"
     }
   ]
 }

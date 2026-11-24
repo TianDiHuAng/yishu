@@ -1,0 +1,19 @@
+{
+ "id": "renoir-apple-seller",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为雷诺阿约1890年的布面油画《卖苹果的女人》，克利夫兰艺术博物馆藏（1958.47）。该馆说明：画面应完成于法国东部的埃索瓦（Essoyes），此处为「可能」。",
+  "风格特征": "该馆说明：画面沐浴在柔和、斑驳的阳光中，人物被流畅的笔触连成一体；跃起的小狗给原本安静的场景添了一点幽默与动势。",
+  "代表人物与作品": "作者为雷诺阿。相关条目见德加与印象派。",
+  "技法或形式分析": "材质为布面油画；画面65.8 × 54.5厘米，带框93 × 82.2 × 9.5厘米（据该馆藏品记录）。",
+  "与前后风格的关系和争论": "该馆说明：画的是一位乡下小女孩向雷诺阿的妻子阿琳（Aline）递苹果；戴草帽的男孩可能是画家的侄子埃德蒙（Edmond），而扎发带的小女孩身份未明。需注意：该馆记录的题款为「a. renoir / 1864」，与定年约1890年并存，该馆未予解释，本条目不作推断。",
+  "一图": "示意图以递苹果的场景、斑驳阳光与连贯笔触、题款与定年并存三者关系标示本作。",
+  "待核实": "（1）事实来自单一机构（克利夫兰艺术博物馆），整条标记待核实；（2）题款「1864」与定年约1890年不一致，原因该馆未说明，须另找来源核对；（3）男孩身份该馆用「可能」，小女孩身份未明；（4）完成地埃索瓦为「可能」。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='renoir-apple-seller 示意图'><title>renoir-apple-seller</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>雷诺阿·约1890</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>可能在埃索瓦</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>《卖苹果的女人》</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>65.8×54.5cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>斑驳阳光·流畅笔触</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>人物连成一体</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>题款1864与定年矛盾</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>待核实</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>《卖苹果的女人》：题款与定年之谜</text></g></svg>",
+ "sources": [
+  "cma-1958-47"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；题款1864与定年约1890矛盾未解；男孩与完成地为推测。"
+}

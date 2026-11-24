@@ -6499,6 +6499,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；鞣皮、玻璃珠、染马毛、锡锥、筋线 高38.8cm；说明含 possible bag 与帐内枕用"
+    },
+    {
+      "id": "cma-1958-39",
+      "title": "Cleveland Museum of Art — The Red Kerchief, Claude Monet, c. 1868–73, acc. 1958.39",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1958.39",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；布面油画 画面99×79.8cm；说明含卡米耶、阿尔让特伊、雪日、粗放笔触；题款：未署名"
+    },
+    {
+      "id": "cma-1947-196",
+      "title": "Cleveland Museum of Art — Low Tide at Pourville, near Dieppe, 1882, Claude Monet, acc. 1947.196",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1947.196",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；布面油画 画面59.9×81.3cm；说明含诺曼底渔村普尔维尔、书信引文、1882年春住小旅馆；署名右下 82 Claude Monet"
+    },
+    {
+      "id": "cma-1950-89",
+      "title": "Cleveland Museum of Art — Reading, Berthe Morisot, 1873, acc. 1950.89",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1950.89",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；布面油画 画面46×71.8cm；说明含姐姐埃德玛为模特、X光显示眼神被改、与马奈人物对比"
+    },
+    {
+      "id": "cma-1958-47",
+      "title": "Cleveland Museum of Art — The Apple Seller, Pierre-Auguste Renoir, c. 1890, acc. 1958.47",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1958.47",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；布面油画 画面65.8×54.5cm；说明含妻子阿琳、侄子埃德蒙、埃索瓦；题款 a. renoir / 1864 与定年约1890并存，该馆未解释"
     }
   ]
 }
