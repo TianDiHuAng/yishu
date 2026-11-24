@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 488,
+    "total": 492,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -5860,6 +5860,54 @@
     },
     "adoration-magi-window-1516": {
       "title": "三王来拜彩窗（马尔奇拉）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "attic-bf-amphora-dionysus": {
+      "title": "雅典黑绘双耳瓶（狄俄尼索斯）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "sisyphos-bell-krater": {
+      "title": "「西西弗斯画师」钟形杯（阿普利亚）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "attic-amphora-wedgwood": {
+      "title": "雅典双耳瓶（韦奇伍德仰慕之例）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "attic-stamnos-dionysus": {
+      "title": "雅典红绘斯塔姆诺斯",
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",

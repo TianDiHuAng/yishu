@@ -1,0 +1,19 @@
+{
+ "id": "attic-bf-amphora-dionysus",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为**雅典**黑绘双耳瓶，公元前6世纪末，V&A 藏（O340722）。",
+  "风格特征": "该馆描述：**红陶**，以「**黑绘**」技法装饰，**细节以刻线并在白泥中描绘**；**一面为狄俄尼索斯（Dionysus）**，**另一面为西勒诺斯（Silenus）**，**二者皆伴一位迈那得（Maenad）**；**颈部两侧各有三棕叶纹（palmettes），以曲茎相连**。",
+  "代表人物与作品": "作者未署名。相关条目见古希腊艺术与库罗斯残躯。",
+  "技法或形式分析": "材质为**红陶，黑绘**；高26.4 × 宽16.5厘米（据该馆记录）。该馆**未提供 summary**，本条目**不补写**其历史。",
+  "与前后风格的关系和争论": "本条目据既有字段陈述：**黑绘**以**刻线**在黑色剪影上划出细节，是**红绘之前**的主流技法；酒神与随从的题材则把**宴饮/秘仪**的图像带入器物。因记录无 summary，**不作历史推断**。",
+  "一图": "示意图以黑绘刻线、狄俄尼索斯与迈那得三者关系标示本瓶。",
+  "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）**该记录无 summary**，历史不补写；（3）棕叶纹的数目与布局未描述；（4）递藏未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='attic-bf-amphora-dionysu 示意图'><title>attic-bf-amphora-dionysu</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>雅典·前6世纪</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>黑绘</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>双耳瓶</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>26.4cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>狄俄尼索斯</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>一面</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>西勒诺斯·迈那得</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>另一面</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>黑绘瓶：技法与题材</text></g></svg>",
+ "sources": [
+  "vam-o340722"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（V&A）来源；无 summary；递藏未记录。"
+}

@@ -1,0 +1,86 @@
+{
+ "O340722": {
+  "title": "",
+  "date": "{'date': {'text': 'late 6th century BC or first half of 5th century BC', 'earliest': '-0550-01-01', 'latest': '-0400-01-01'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Attica', 'id': 'x37910'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}; {'place': {'text': 'Italy', 'id': 'x28927'}, 'association': {'text': 'found', 'id': 'x42575'}, 'note': ''}",
+  "mat": "Red earthenware decorated in the black figure technique",
+  "desc": "Amphora of red earthenware, decorated in the 'black figure' technique, with details incised and painted in white slip. On one side is a figure of Dionysus and on the other a Silenus, both accompanied by a Maenad. On either side of the neck are three palmettes connected by curved stems. Under each handle is a large eye in black, with white iris and black eye-brow. Behind the figures are vine branches and below them is a dotted band. The lower part of the body is painted with a row of pointed leaves.",
+  "summary": "",
+  "objtype": "Amphora",
+  "dims": [
+   [
+    "Height",
+    "26.4",
+    "cm"
+   ],
+   [
+    "Width",
+    "16.5",
+    "cm"
+   ]
+  ]
+ },
+ "O340727": {
+  "title": "",
+  "date": "{'date': {'text': 'ca. 440 BC', 'earliest': '-0445-01-01', 'latest': '-0436-01-01'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Apulia', 'id': 'x29358'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "mat": "Earthenware with red-figure painting",
+  "desc": "Vase, <i>Bell-krater</i>, earthenware, painted in 'red-figure' technique by an Attic Greek artist working in Italy (the \"Sisyphos Painter\"): (a) A bearded man playing the double pipes while two youths dance, wearing basketwork hats. (b) Three standing youths. Below each group is a band of meander pattern, and round the upper part of the vase is a laurel wreath.",
+  "summary": "",
+  "objtype": "Vase",
+  "dims": [
+   [
+    "Height",
+    "31.8",
+    "cm"
+   ],
+   [
+    "Width",
+    "34.3",
+    "cm"
+   ]
+  ]
+ },
+ "O77713": {
+  "title": "",
+  "date": "{'date': {'text': 'ca. 450-440 BC', 'earliest': '-0440-01-01', 'latest': '0454-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Athens (Greece)', 'id': 'x30626'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "mat": "Earthenware, painted in black slip",
+  "desc": "Amphora shape, double-handled, black ground with painted decoration of male and female figures in orange",
+  "summary": "<b>Object Type</b><br>The vase is an amphora, a type of two-handled storage vessel. It was originally intended for storing wine or oil. Greek vases like this were greatly admired in late-18th-century Britain, where they were often displayed in private libraries and in galleries specially designed to house antiquities. The Staffordshire potter Josiah Wedgwood (1730-1795) made imitations of Greek vases like this one in 'encaustic'-painted Black Basalt stoneware.<br><br><b>Materials & Technique</b><br>The vase is decorated in the 'red figure' technique, in which the areas surrounding the figures are painted in a slip (mixture of clay and water), leaving the red pottery showing through. Careful control of the firing process allowed Greek potters to oxidise the body of the pot, turning it red, by keeping the kiln well ventilated. The kiln was then starved of oxygen and filled with carbon monoxide (by using wet fuel), causing the slip to turn black. The kiln was then again well ventilated. The fresh oxygen supply turned the pottery back to red. The firing was stopped before the slip turned red once again.",
+  "objtype": "Vase",
+  "dims": [
+   [
+    "Height",
+    "34.29",
+    "cm"
+   ],
+   [
+    "Width",
+    "17.78",
+    "cm"
+   ]
+  ]
+ },
+ "O340729": {
+  "title": "",
+  "date": "{'date': {'text': 'ca. 450 BC', 'earliest': '-0455-01-01', 'latest': '-0446-01-01'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Attica', 'id': 'x37910'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}; {'place': {'text': 'Campania', 'id': 'x29361'}, 'association': {'text': 'found', 'id': 'x42575'}, 'note': ''}",
+  "mat": "Earthenware with decoration in reserve on a ground of black ('red figure' technique)",
+  "desc": "Vase, <i>Stamnos</i>, of earthenware, with red-figure painting of (A) Dionysos between two maenads, and (B) a maenad and two silens.",
+  "summary": "",
+  "objtype": "Vase",
+  "dims": [
+   [
+    "Height",
+    "26.4",
+    "cm"
+   ],
+   [
+    "Width",
+    "28.9",
+    "cm"
+   ]
+  ]
+ }
+}

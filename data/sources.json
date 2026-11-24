@@ -6139,6 +6139,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；玻璃银黄 281×155.5cm；说明含Marcillat与法国技艺输出"
+    },
+    {
+      "id": "vam-o340722",
+      "title": "Victoria and Albert Museum — Attic black-figure amphora, late 6th c. BCE, O340722",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O340722",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；红陶黑绘 26.4×16.5cm；说明含狄俄尼索斯/西勒诺斯与迈那得"
+    },
+    {
+      "id": "vam-o340727",
+      "title": "Victoria and Albert Museum — 'Sisyphos Painter' bell-krater, Apulia, ca. 440 BCE, O340727",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O340727",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；红绘陶钟形杯 31.8×34.3cm；说明含双管吹奏与舞者"
+    },
+    {
+      "id": "vam-o77713",
+      "title": "Victoria and Albert Museum — Attic amphora (Wedgwood admired), ca. 450–440 BCE, O77713",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O77713",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；黑地橙绘陶 34.29×17.78cm；说明含18世纪英国收藏与韦奇伍德仿制"
+    },
+    {
+      "id": "vam-o340729",
+      "title": "Victoria and Albert Museum — Attic red-figure stamnos, ca. 450 BCE, O340729",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O340729",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；红绘陶 26.4×28.9cm；说明含狄俄尼索斯与迈那得/西勒诺斯"
     }
   ]
 }

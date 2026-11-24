@@ -1,0 +1,19 @@
+{
+ "id": "attic-amphora-wedgwood",
+ "level": "L2",
+ "sections": {
+  "时代背景": "本件为**雅典**双耳瓶（约公元前450—440），V&A 藏（O77713）。",
+  "风格特征": "该馆说明**器形与用途**：**双耳瓶（amphora）** 为**两耳储物容器**，**原用于盛酒或油**；此瓶**黑地**，**以橙色绘男女人物**装饰。",
+  "代表人物与作品": "作者未署名。相关条目见古希腊艺术与西西弗斯钟形杯。",
+  "技法或形式分析": "材质为**陶，黑泥（black slip）绘**；高34.29 × 宽17.78厘米（据该馆记录）。该馆给出**接受史**：此类希腊瓶在**18世纪晚期英国**备受推崇，**常陈于私人图书室**与**专为古物设的陈列廊**；**斯塔福德郡陶工约西亚·韦奇伍德（Josiah Wedgwood，1730—1795）** 曾加以**仿制**。",
+  "与前后风格的关系和争论": "本条目据该馆说明把握**古典的「二次生命」**：希腊瓶在英国不仅是古物，更是**品味与身份的展品**，其形制被**工业陶瓷（韦奇伍德）** 复制——古董趣味反过来塑造了**现代设计**。",
+  "一图": "示意图以双耳储物瓶、18世纪英国收藏与韦奇伍德仿制三者关系标示本瓶。",
+  "待核实": "（1）本件为单一机构（V&A）记录，整条标记待核实；（2）人物图像的具体场景未描述；（3）韦奇伍德仿制的具体产品未列；（4）递藏未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='attic-amphora-wedgwood 示意图'><title>attic-amphora-wedgwood</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>雅典·前450—440</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>双耳瓶</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>黑地橙绘</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>34.29cm</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>18世纪英国收藏</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>品味</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>韦奇伍德仿制</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>工业</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>雅典瓶：收藏与工业仿制</text></g></svg>",
+ "sources": [
+  "vam-o77713"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（V&A）来源；场景未描述；递藏未记录。"
+}

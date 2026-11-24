@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 488 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 492 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -72,6 +72,10 @@
 | roman-sarcophagus | 俄瑞斯忒斯石棺 | 作品 | 公元2世纪 | 意大利 | 雕塑 | 核心 | O2 |
 | antonine-portrait-head | 安东尼朝官员肖像 | 作品 | 公元2世纪 | 意大利 | 雕塑 | 核心 | O2 |
 | silenus-couch-bust | 西勒诺斯床榻像 | 作品 | 公元1—2世纪 | 意大利 | 雕塑 | 重要 | O2 |
+| attic-bf-amphora-dionysus | 雅典黑绘双耳瓶（狄俄尼索斯） | 作品 | 公元前6世纪 | 希腊 | 陶瓷 | 核心 | O2 |
+| sisyphos-bell-krater | 「西西弗斯画师」钟形杯（阿普利亚） | 作品 | 公元前5世纪 | 希腊 | 陶瓷 | 核心 | O2 |
+| attic-amphora-wedgwood | 雅典双耳瓶（韦奇伍德仰慕之例） | 作品 | 公元前5世纪 | 希腊 | 陶瓷 | 重要 | O2 |
+| attic-stamnos-dionysus | 雅典红绘斯塔姆诺斯 | 作品 | 公元前5世纪 | 希腊 | 陶瓷 | 核心 | O2 |
 
 ## art-medieval（艺术史·中世纪）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

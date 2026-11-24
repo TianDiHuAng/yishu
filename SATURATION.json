@@ -1729,6 +1729,18 @@
       },
       "network": "V&A",
       "verdict": "art-medieval 18→22（总488）；未饱和"
+    },
+    {
+      "cycle": "cycle141",
+      "date": "2026-11-24",
+      "methods_used": [
+        "希腊陶器"
+      ],
+      "gaps_found": {
+        "entries": 4
+      },
+      "network": "V&A",
+      "verdict": "art-ancient 34→38（总492）；未饱和"
     }
   ],
   "assessment_c33": {

@@ -3865,6 +3865,30 @@
       "check_links_result": "broken=0(525页)",
       "audit_all": "12/12 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle141",
+      "date": "2026-11-24",
+      "status": "completed",
+      "gap_methods": [
+        "希腊陶器（V&A）"
+      ],
+      "network": "V&A 200",
+      "new_entries": 4,
+      "new_entry_ids": [
+        "attic-bf-amphora-dionysus",
+        "sisyphos-bell-krater",
+        "attic-amphora-wedgwood",
+        "attic-stamnos-dionysus"
+      ],
+      "new_sources": 4,
+      "sources_total": 618,
+      "entries_total": 492,
+      "pages": 529,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(529页)",
+      "audit_all": "12/12 ok",
+      "commits": 1
     }
   ]
 }
