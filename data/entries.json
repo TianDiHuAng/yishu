@@ -3102,7 +3102,8 @@
         "bowie-koto-heroes",
         "vandiem-lacquer-box",
         "canton-umbrella-mender",
-        "amida-descent-painting"
+        "amida-descent-painting",
+        "japan-miraculous-origins"
       ],
       "sources": [
         "enc-japanese-art",
@@ -7918,7 +7919,8 @@
       "overview": "堆白蝙蝠环「壽」字成竖框；施透明釉；圈足刻谚文款；白瓷由高岭土与碎岩高温烧成，高丽朝已始。",
       "related": [
         "korean-celadon-bowl-lotus",
-        "yuan-blue-white-jar"
+        "yuan-blue-white-jar",
+        "korean-orchids-rocks"
       ],
       "sources": [
         "vam-o22419"
@@ -9435,7 +9437,8 @@
       "overview": "阿弥陀携25菩萨迎亡者往净土；多位菩萨奏乐以贺；观音跪持莲台供亡者乘归。",
       "related": [
         "amida-shitennoji",
-        "japanese-art"
+        "japanese-art",
+        "japan-miraculous-origins"
       ],
       "sources": [
         "cma-2025-138"
@@ -9522,6 +9525,87 @@
       ],
       "sources": [
         "cma-1944-61"
+      ]
+    },
+    {
+      "id": "korean-orchids-rocks",
+      "title": "李昰应《兰石图》八曲屏",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "19世纪",
+      "region": "东亚",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "李昰应绢本水墨八曲屏，克利夫兰艺术博物馆藏（2015.138）。",
+      "when": "1897—1898年",
+      "overview": "李昰应（1820—1898）为高宗摄政（1866—73），亦为19世纪末文人画复兴名家、兰画巨擘；纯用水墨写悬崖垂兰，兰为四君子之一。",
+      "related": [
+        "korean-snowscape-figures",
+        "korean-white-flask-longevity"
+      ],
+      "sources": [
+        "cma-2015-138"
+      ]
+    },
+    {
+      "id": "korean-snowscape-figures",
+      "title": "金禔《雪景人物图》",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "16世纪",
+      "region": "东亚",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "金禔绢本水墨立轴，克利夫兰艺术博物馆藏（1987.187）。",
+      "when": "1584年",
+      "overview": "早期朝鲜画罕存之例；父金安老失势后隐居为画人；孤学者处雪树雪山中，非理想化隐逸，而是家世荣光成往昔的「心景」。",
+      "related": [
+        "korean-orchids-rocks",
+        "japan-eight-views-xiaoxiang"
+      ],
+      "sources": [
+        "cma-1987-187"
+      ]
+    },
+    {
+      "id": "japan-eight-views-xiaoxiang",
+      "title": "渡边始兴《潇湘八景图》",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "18世纪",
+      "region": "东亚",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "渡边始兴纸本水墨六曲屏（一对之一），克利夫兰艺术博物馆藏（1960.284）。",
+      "when": "1700年代早—中期",
+      "overview": "京都出身、多能善变；此屏反映狩野派训练：单色墨、雄健笔、取中国传统而非日本题材；取景宏阔以喻中国地景之大于日本。",
+      "related": [
+        "japan-miraculous-origins",
+        "korean-snowscape-figures"
+      ],
+      "sources": [
+        "cma-1960-284"
+      ]
+    },
+    {
+      "id": "japan-miraculous-origins",
+      "title": "《优陀念佛缘起绘卷》",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "14世纪",
+      "region": "东亚",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "镰仓期纸本墨彩金绘卷（两卷之第二），克利夫兰艺术博物馆藏（1956.87）。",
+      "when": "1300年代初",
+      "overview": "首卷述良忍生平，本卷自其临终起，述奉其教之效验；良忍主一切互相关联、彼此称念阿弥陀名号之精神利益。",
+      "related": [
+        "amida-descent-painting",
+        "japanese-art",
+        "japan-eight-views-xiaoxiang"
+      ],
+      "sources": [
+        "cma-1956-87"
       ]
     }
   ]

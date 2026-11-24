@@ -1,0 +1,19 @@
+{
+ "id": "japan-eight-views-xiaoxiang",
+ "level": "L2",
+ "sections": {
+  "时代背景": "该馆说明：**渡边始兴（Watanabe Shikō，1683—1755）** 在京都享有**多能而成功**的生涯与**优渥教养**；其存世作品显示他有能力**勤学、掌握并转译**数种**面貌迥异**的画法。本件为**一对六曲屏之一**（1700年代早—中期），CMA 藏（1960.284）。",
+  "风格特征": "该馆指出这对其 byobu（屏风）**反映狩野派（Kano）的训练**：**单色水墨调、雄健笔法，以及取中国传统而非日本题材**。该馆补充：始兴以**格外开阔**的方式处理此景，暗示**中国地景之宏大相对于日本**。",
+  "代表人物与作品": "作者渡边始兴。该馆并指出：常来馆的观众会想起，始兴也画了馆中另一对备受喜爱的屏风——**《鸢尾》**（CMA 1954.603）。相关条目见缘起绘卷与金禔雪景。",
+  "技法或形式分析": "材质为**纸本水墨，六曲屏（一对之一）**；画面150 × 356厘米，连裱170 × 376厘米（据该馆记录）。",
+  "与前后风格的关系和争论": "本条目据该馆说明把「题材选择」政治化：**潇湘八景**是**中国母题**，被日本画家以**宏阔尺度**重写——「中国之大于日本」的**空间修辞**同时是**文化仰慕**的表达。",
+  "一图": "示意图以狩野派训练、中国题材与宏阔尺度三者关系标示本屏。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「暗示中国地景之宏大」为该馆解读；（3）另一屏（对屏）的下落未记录；（4）与《鸢尾》屏的比较未展开。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='japan-eight-views-xiaoxi 示意图'><title>japan-eight-views-xiaoxi</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>京都·1700s</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>始兴</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>潇湘八景屏</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>150×356</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>狩野派训练</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>单色墨</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>中国尺度</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>空间修辞</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>潇湘八景：训练、题材与尺度</text></g></svg>",
+ "sources": [
+  "cma-1960-284"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；对屏下落未记录；尺度解读为馆方。"
+}

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 440,
+    "total": 444,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -5284,6 +5284,54 @@
     },
     "western-zhou-hu-vessel": {
       "title": "西周壶（带盖）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "korean-orchids-rocks": {
+      "title": "李昰应《兰石图》八曲屏",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "korean-snowscape-figures": {
+      "title": "金禔《雪景人物图》",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "japan-eight-views-xiaoxiang": {
+      "title": "渡边始兴《潇湘八景图》",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "japan-miraculous-origins": {
+      "title": "《优陀念佛缘起绘卷》",
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",

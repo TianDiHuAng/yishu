@@ -137,12 +137,12 @@
  "oneway_sample": [],
  "top_inbound": [
   [
-   "americas-art",
+   "japanese-art",
    22
   ],
   [
-   "japanese-art",
-   21
+   "americas-art",
+   22
   ],
   [
    "islamic-art",
@@ -177,5 +177,5 @@
    10
   ]
  ],
- "total_links": 1438
+ "total_links": 1450
 }

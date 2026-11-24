@@ -5669,6 +5669,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；青铜 46.1cm 带盖；说明含盖倒置为杯与龙凤阴阳"
+    },
+    {
+      "id": "cma-2015-138",
+      "title": "Cleveland Museum of Art — Yi Ha-eung, Orchids and Rocks (8-panel screen), 1897–98, acc. 2015.138",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2015.138",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；绢本水墨八曲屏 185×52.6cm；说明含摄政与四君子"
+    },
+    {
+      "id": "cma-1987-187",
+      "title": "Cleveland Museum of Art — Kim Si, Snowscape with Figures, 1584, acc. 1987.187",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1987.187",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；绢本水墨立轴 53×67.3cm；说明含稀少早期朝鲜画与心景（记录生卒存疑）"
+    },
+    {
+      "id": "cma-1960-284",
+      "title": "Cleveland Museum of Art — Watanabe Shikō, Eight Views of Xiao-Xiang, early–mid 1700s, acc. 1960.284",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1960.284",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；纸本水墨六曲屏 150×356cm；说明含狩野派与中国题材"
+    },
+    {
+      "id": "cma-1956-87",
+      "title": "Cleveland Museum of Art — Illustrated Miraculous Origins of the Yūzū Nenbutsu School, early 1300s, acc. 1956.87",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1956.87",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；纸本墨彩金绘卷 29.7×1232.4cm；说明含良忍与念佛互益"
     }
   ]
 }

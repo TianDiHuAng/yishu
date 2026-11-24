@@ -1,0 +1,19 @@
+{
+ "id": "korean-orchids-rocks",
+ "level": "L2",
+ "sections": {
+  "时代背景": "该馆说明：本八曲屏作者 **李昰应（Yi Ha-eung，1820—1898）** 是19世纪晚期朝鲜最有影响的人物之一：他为**十三岁即位的儿子高宗（1852—1919）摄政**，自**1866至1873年**实际统治朝鲜。本件1897—98年，CMA 藏（2015.138）。",
+  "风格特征": "该馆指出其**艺术地位**：除显赫政治生涯外，李昰应还是**推动19世纪末朝鲜文人画复兴的最著名画家之一**；尤以**兰**著称——兰为「**四君子**」（梅、兰、菊、竹）之一。其兰画**纯以单色墨**写**建兰叶的曲线轮廓**，**自崖上戏剧性垂落**。",
+  "代表人物与作品": "作者李昰应。该馆并说明兰的象征：兰**生于荒野、芬芳馥郁**，常与……（记录在「associated with th…」处**截断**，本条目**不补写**）。相关条目见金禔雪景与朝鲜白瓷。",
+  "技法或形式分析": "材质为**绢本水墨，八曲屏**；整体185 × 52.6厘米，每扇111.9 × 1.5厘米（据该馆记录）。",
+  "与前后风格的关系和争论": "本条目据该馆说明把「摄政—文人画家」两重身份并置：最高权力的执掌者同时是**文人画复兴的旗手**，说明19世纪朝鲜**政治精英与文化资本**的合一。本条目只依记录陈述。",
+  "一图": "示意图以摄政身份、兰为四君子与垂兰墨写三者关系标示本屏。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）该馆 summary 在「associated with th…」处**截断，未补写**；（3）八扇是否为完整原作未说明；（4）递藏未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='korean-orchids-rocks 示意图'><title>korean-orchids-rocks</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>李昰应·1897—98</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>摄政·文人画</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>兰石八曲屏</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>185×52.6</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>兰=四君子</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>题材</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>单色墨垂兰</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>技法</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>兰石屏：身份、题材与墨法</text></g></svg>",
+ "sources": [
+  "cma-2015-138"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；summary 截断；八扇完整性与递藏未记录。"
+}

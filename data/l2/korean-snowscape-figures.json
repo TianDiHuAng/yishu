@@ -1,0 +1,19 @@
+{
+ "id": "korean-snowscape-figures",
+ "level": "L2",
+ "sections": {
+  "时代背景": "该馆说明：本立轴是**早期朝鲜王朝绘画罕见的存世之例**。本件标年1584年，作者标 **金禔（Kim Si，1524—1593）**，CMA 藏（1987.187）。",
+  "风格特征": "该馆描述画面：**一位孤处的学者在其书斋中**，四周是**树木与被雪覆盖的山**。",
+  "代表人物与作品": "该馆给出一段**身世解读**：画家金禔为**贵族（高官）**；但在其父 **金安老（Kim Anro）** 失势后，金禔**退隐**，**终生为隐逸画家**。该馆据此强调：此画**并不只是理想化的隐者治学生活**，而更是**画家的「心景（mindscape）」**——**其家族的荣光已成往昔被遗忘的一部分**。相关条目见李昰应兰石屏与渡边始兴潇湘八景。",
+  "技法或形式分析": "材质为**绢本水墨，立轴**；画心53 × 67.3厘米，含裱148.6 × 90.2厘米（据该馆记录）。",
+  "与前后风格的关系和争论": "本条目据该馆说明把「雪景」读作**政治失意的隐喻**：外景（雪、孤斋）即内景（家族荣光之逝）。这使一幅山水人物画成为**士大夫政治命运的自传性文本**。",
+  "一图": "示意图以金安老失势、退隐与「雪景即心景」三者关系标示本轴。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）**记录内部矛盾**：作者生卒标为「1524—1593」，而 desc 又作「1481—1537」，且父 Kim Anro 亦记「1481—1537」——**同段生卒自相矛盾，本条照录存疑**；（3）题跋/印章未记录；（4）递藏未取得。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='korean-snowscape-figures 示意图'><title>korean-snowscape-figures</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>朝鲜·16世纪</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>绢本立轴</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>雪景人物</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>53×67.3</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>金安老失势</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>退隐</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>雪景=心景</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>隐喻</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>雪景：失势、退隐与心景</text></g></svg>",
+ "sources": [
+  "cma-1987-187"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；生卒记载自相矛盾，照录存疑。"
+}
