@@ -1329,6 +1329,18 @@
       },
       "network": "V&A 200",
       "verdict": "总368；未饱和"
+    },
+    {
+      "cycle": "cycle108",
+      "date": "2026-11-24",
+      "methods_used": [
+        "V&A 日本版画/伊斯兰装饰艺术"
+      ],
+      "gaps_found": {
+        "entries": 4
+      },
+      "network": "V&A 200",
+      "verdict": "总372；未饱和"
     }
   ],
   "assessment_c33": {

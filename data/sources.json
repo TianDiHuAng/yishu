@@ -4969,6 +4969,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；玳瑁·牙雕·裂纹蛋壳 高11.4cm；说明含印笼悬于腰带"
+    },
+    {
+      "id": "vam-o78132",
+      "title": "Victoria and Albert Museum — Utagawa Hiroshige, The Sea off Satta in Suruga Province, 1858, O78132",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O78132",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；纸本锦绘 38×25.5cm；说明含大浪与富士"
+    },
+    {
+      "id": "vam-o71685",
+      "title": "Victoria and Albert Museum — Katsushika Hokusai, Kingfisher, Irises and Wild Pinks, ca. 1834, O71685",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O71685",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；彩印木版 22.9×16.5cm；说明含花鸟画与中判"
+    },
+    {
+      "id": "vam-o83883",
+      "title": "Victoria and Albert Museum — Mamluk brass basin inlaid with gold and silver, Egypt, ca. 1250–1350, O83883",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O83883",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；错金银铜盆 高18.5 径42.5cm；说明含苏卢斯体铭与月神圆章"
+    },
+    {
+      "id": "vam-o86971",
+      "title": "Victoria and Albert Museum — Iznik tile panel, 1570–1574, O86971",
+      "author": "Victoria and Albert Museum（开放数据 API）",
+      "year": "2026",
+      "url": "https://api.vam.ac.uk/v2/object/O86971",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；釉下彩熔块胎 62×102cm；说明含埃迪尔内宫殿"
     }
   ]
 }

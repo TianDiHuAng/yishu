@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 368,
+    "total": 372,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -4421,6 +4421,54 @@
     "japanese-inro": {
       "title": "日本印笼（三层）",
       "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "hiroshige-satta-sea": {
+      "title": "广重《骏河萨埵海》",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "hokusai-kingfisher-print": {
+      "title": "北斋《翠鸟·鸢尾·石竹》",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "mamluk-inlaid-basin": {
+      "title": "马穆鲁克错金银铜盆",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "iznik-tile-panel-edirne": {
+      "title": "伊兹尼克釉砖板（埃迪尔内）",
+      "tier": "核心",
       "level": "L2",
       "status": "written_l2",
       "sources_count": 1,

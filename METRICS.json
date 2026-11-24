@@ -3065,6 +3065,30 @@
       "check_links_result": "broken=0(405页)",
       "audit_all": "12/12 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle108",
+      "date": "2026-11-24",
+      "status": "completed",
+      "gap_methods": [
+        "V&A：日本版画+伊斯兰金属/釉砖"
+      ],
+      "network": "V&A 200",
+      "new_entries": 4,
+      "new_entry_ids": [
+        "hiroshige-satta-sea",
+        "hokusai-kingfisher-print",
+        "mamluk-inlaid-basin",
+        "iznik-tile-panel-edirne"
+      ],
+      "new_sources": 4,
+      "sources_total": 501,
+      "entries_total": 372,
+      "pages": 409,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(409页)",
+      "audit_all": "12/12 ok",
+      "commits": 1
     }
   ]
 }

@@ -1,0 +1,110 @@
+{
+ "O78132": {
+  "title": "{'title': 'The Sea off Satta in Suruga Province (Suruga Satta kaijō)', 'type': 'assigned by artist'}; {'title': 'Thirty-six Views of Mount Fuji (Fuji sanjūrokkei)', 'type': 'series title'}",
+  "date": "{'date': {'text': '1858', 'earliest': '1858-01-01', 'latest': '1858-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': \"Censor's seal: Horse 4\"}",
+  "place": "{'place': {'text': 'Japan', 'id': 'x29399'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}; {'place': {'text': 'Edo', 'id': 'x32430'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "mat": "Woodblock print on paper",
+  "desc": "Woodblock print. Vertical ōban format, nishiki-e (full-colour print). Large crest of wave in foreground, mount Fuji in distance.",
+  "summary": "<b>Object Type</b><br>Japanese woodblock prints were commercial productions made for popular consumption. They were made by artists, block cutters and printers working independently to the instructions of specialist publishers. The popularity of landscape prints in 19th-century Japan was a reflection of the growth of travel and the associated demand for depictions of famous beauty spots.<br><br><b>Place</b><br>The Satta Pass and the wild sea below it was a well-known location on the Tokaido highway. This main route along the eastern seaboard of Japan connected Edo (modern Tokyo) and Kyoto. The pass was created in 1655 to improve the road at this point. Mount Fuji can be seen rising majestically in the background.<br><br><b>Time</b><br>This print was published in Edo just at the time that commercial and diplomatic ties were being established between Japan and western nations in the mid to late 1850s. During the second half of the 19th century large numbers of prints were exported to Europe and the United States. They were avidly sought out by western collectors, artists and designers, and played a major role in the development of 'Japonisme' and then art nouveau.",
+  "objtype": "Woodblock print",
+  "dims": [
+   [
+    "Height",
+    "38",
+    "cm",
+    "unframed"
+   ],
+   [
+    "Width",
+    "25.5",
+    "cm",
+    "unframed"
+   ]
+  ],
+  "maker": "{'name': {'text': 'Utagawa Hiroshige', 'id': 'A2428'}, 'association': {'text': 'artist', 'id': 'AAT25103'}, 'note': 'Signed: Hiroshige ga'}; {'name': {'text': 'J–zaburo, Tsutaya', 'id': 'A8565'}, 'association': {'text': 'publisher', 'id': 'x32600'}, 'note': ''}"
+ },
+ "O71685": {
+  "title": "{'title': 'Kingfisher, Irises and Wild Pinks', 'type': 'assigned by artist'}",
+  "date": "{'date': {'text': 'ca. 1834', 'earliest': '1829-01-01', 'latest': '1838-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Japan', 'id': 'x29399'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "mat": "Colour woodblock print",
+  "desc": "Kacho-ga, or 'bird and flower prints', were a common subject for Hokusai, usually appearing in the chuban or horizontal oban size. In the chuban size, the Chinese influence is particularly evident from the static depiction of birds and flowers combined with a Chinese poem or waka poem. In this print Hokusai portrays a kingfisher, perhaps making a quick descent toward a river which appears to be flowing beneath the flowers.\r\nChuban size.",
+  "summary": "Woodblock prints such as this were produced in large numbers in 18th- and 19th-century Japan. They were created by artists, block cutters and printers working independently to the instructions of specialist publishers. Bird and flower prints such as this were very popular. Katsushika Hokusai was especially famous for his work in this field. His signature appears on the bottom right of the image, along with the official censor's seal and that of the publisher. Above the picture is a description of the image and, to the left, a poem. There was an enormous demand for these exciting, colourful works among merchants and artisans. When Japanese prints first reached the West they were also relatively inexpensive, but they soon became highly prized items and prices rose considerably. Hokusai became the best known and most admired Japanese print artist in the West. His depictions of natural forms had a profound influence on British artists and designers.",
+  "objtype": "Woodblock print",
+  "dims": [
+   [
+    "Height",
+    "22.9",
+    "cm",
+    ""
+   ],
+   [
+    "Width",
+    "16.5",
+    "cm",
+    ""
+   ]
+  ],
+  "maker": "{'name': {'text': 'Katsushika Hokusai', 'id': 'A6847'}, 'association': {'text': 'artist', 'id': 'AAT25103'}, 'note': ''}; {'name': {'text': 'Yohachi, Nishimuraya', 'id': 'A9021'}, 'association': {'text': 'publisher', 'id': 'x32600'}, 'note': ''}"
+ },
+ "O83883": {
+  "title": "",
+  "date": "{'date': {'text': 'ca. 1250-1350', 'earliest': '1245-01-01', 'latest': '1350-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Egypt', 'id': 'x29512'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': 'possibly'}; {'place': {'text': 'Syria', 'id': 'x29200'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': 'possibly'}",
+  "mat": "Brass basin, hammered, inlaid with gold and silver",
+  "desc": "Brass basin inlaid with silver and gold. Slightly flaring sides and wide everted rim. Rests on three rounded feet. Thuluth inscription on exterior placed against a floral arabesque and divided by six strapwork roundels. Interior features roundels alternately filled with a rider and a lunar figure. Interior base features complex inlerlacing pattern with seated ruler figures and central interlace roundels with inlaid silver.",
+  "summary": "In the medallions on the rim of this basin, horse riders alternate with figures representing the moon. Between the medallions are groups of marching soldiers and animated inscriptions. The real and fantastical animals include ducks that chase one another in and out of the script. The Arabic inscriptions contain elaborate but anonymous royal titles and good wishes for the owner.\r\n\r\nThis type of secular decoration shows that this basin was a domestic object made for a palace rather than a religious building. It is an example of the distinctive dynastic style that developed during the first century of Mamluk rule in Egypt and Syria (1250–1350). This was when the sultanate was at the height of its power.\r\n\r\nAt first, scenes with human figures were common. These disappeared after 1300, and elegant inscriptions in Arabic became more prominent. The texts all name the patron or glorify the sultan.",
+  "objtype": "Basin",
+  "dims": [
+   [
+    "Height",
+    "18.5",
+    "cm",
+    ""
+   ],
+   [
+    "Diameter",
+    "42.5",
+    "cm",
+    "rim"
+   ]
+  ],
+  "maker": "{'name': {'text': 'Unknown', 'id': 'A1848'}, 'association': {'text': '', 'id': ''}, 'note': ''}"
+ },
+ "O86971": {
+  "title": "",
+  "date": "{'date': {'text': '1570-1574', 'earliest': '1570-01-01', 'latest': '1574-12-31'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': ''}",
+  "place": "{'place': {'text': 'Iznik', 'id': 'x32510'}, 'association': {'text': 'made', 'id': 'x28654'}, 'note': 'probably'}",
+  "mat": "Fritware, polyhrome underglaze painted, glazed",
+  "desc": "Panel of six wall tiles, fritware painted in underglaze colours. Originally the top section of a panel forming a niche motif.",
+  "summary": "These six tiles probably decorated the imperial palace at Edirne, north-west of Istanbul. They formed part of a tall, thin panel with a self-contained design. The central section depicted a niche filled with floral and arabesque scrollwork on a white ground. These tiles show the arch at the top.\r\n\r\nThe tiles were produced at the Iznik potteries near Istanbul. The imperial court renewed its patronage of Iznik ceramics during the construction of the Süleymaniye mosque in Istanbul in 1550 to 1557. The first tiles were produced, and potters added a bright red to the range of colours painted under the glaze. This was achieved with a slip made from a special clay.\r\n\r\nIn the following decades, tiles of high quality were decorated in red, green and tones of blue on a white ground. Dishes, bottles and other vessels had similar decoration on white or coloured grounds.",
+  "objtype": "Tile panel",
+  "dims": [
+   [
+    "Height",
+    "62",
+    "cm",
+    ""
+   ],
+   [
+    "Width",
+    "102",
+    "cm",
+    ""
+   ],
+   [
+    "Depth",
+    "3",
+    "cm",
+    ""
+   ],
+   [
+    "Weight",
+    "23",
+    "kg",
+    ""
+   ]
+  ],
+  "maker": "{'name': {'text': 'Unknown', 'id': 'A1848'}, 'association': {'text': '', 'id': ''}, 'note': ''}"
+ }
+}
