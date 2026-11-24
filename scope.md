@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 348 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 352 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -117,6 +117,10 @@
 | constable | 约翰·康斯太勃尔 | 人物 | 19世纪 | 英国 | 绘画 | 重要 | O1 |
 | courbet | 居斯塔夫·库尔贝 | 人物 | 19世纪 | 法国 | 绘画 | 核心 | O1 |
 | ingres | 让-奥古斯特-多米尼克·安格尔 | 人物 | 19世纪 | 法国 | 绘画 | 重要 | O1 |
+| turner-burning-parliament | 透纳《上议院与下议院焚毁》 | 作品 | 19世纪 | 欧洲 | 绘画 | 核心 | O1 |
+| david-cupid-psyche | 大卫《丘比特与普绪克》 | 作品 | 19世纪 | 欧洲 | 绘画 | 核心 | O1 |
+| hackert-pozzuoli | 哈克特《从索尔法塔拉望波佐利湾》 | 作品 | 19世纪 | 欧洲 | 绘画 | 重要 | O1 |
+| paelinck-self-portrait | 帕林克《自画像》 | 作品 | 19世纪 | 欧洲 | 绘画 | 重要 | O1 |
 
 ## art-impression（艺术史·印象派与后印象派）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

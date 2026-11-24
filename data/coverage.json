@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 348,
+    "total": 352,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -4181,6 +4181,54 @@
     "kelly-red-blue": {
       "title": "凯利《红蓝》",
       "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "turner-burning-parliament": {
+      "title": "透纳《上议院与下议院焚毁》",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "david-cupid-psyche": {
+      "title": "大卫《丘比特与普绪克》",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "hackert-pozzuoli": {
+      "title": "哈克特《从索尔法塔拉望波佐利湾》",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "paelinck-self-portrait": {
+      "title": "帕林克《自画像》",
+      "tier": "重要",
       "level": "L2",
       "status": "written_l2",
       "sources_count": 1,

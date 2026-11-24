@@ -1,0 +1,19 @@
+{
+ "id": "hackert-pozzuoli",
+ "level": "L2",
+ "sections": {
+  "时代背景": "该馆说明，18与19世纪的**风景画家**被那不勒斯乡野的**戏剧性景观、火山、异域农民与古典废墟**所吸引，纷纷云集于此。本件为**菲利普·哈克特**（1737—1807）1803年之作。",
+  "风格特征": "该馆描述取景：从**索尔法塔拉（Solfatara，一处火山蒸汽喷口区）**上方**向西眺望波佐利湾**；远处的**古城波佐利**——即**使徒保罗赴罗马途中登陆之处**。",
+  "代表人物与作品": "作者哈克特（德国）。相关条目见新古典主义与透纳《焚毁》。本件为克利夫兰艺术博物馆藏品（1983.14）。",
+  "技法或形式分析": "材质为**布面油画**，画心119 × 166.5厘米、含框146 × 190 × 14厘米（据该馆藏品记录）。该馆将哈克特的**细致观察与极清晰的造型**归为**德国浪漫绘画**的特征。",
+  "与前后风格的关系和争论": "本条目据该馆说明把「地理—历史—技术」三层叠加：一处真实火山景观，因**保罗登陆地**而具宗教—历史分量，又因**清晰造型**而成为德国浪漫趣味。本条目只陈述该馆判断。",
+  "一图": "示意图以那不勒斯景观热、波佐利的历史/宗教层与清晰造型三者关系标示本画。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「德国浪漫」归为该馆判断；（3）火山喷口的实景细节未展开；（4）递藏未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='hackert-pozzuoli 示意图'><title>hackert-pozzuoli</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>那不勒斯景观</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>火山·废墟</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>哈克特《波佐利湾》</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>119×166.5</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>保罗登陆地</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>历史层</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>清晰造型</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>德国浪漫</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>哈克特：景观、历史与造型</text></g></svg>",
+ "sources": [
+  "cma-1983-14"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；实景细节与递藏未记录。"
+}

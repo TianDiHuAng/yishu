@@ -1231,7 +1231,10 @@
         "rococo",
         "romanticism-art",
         "delacroix",
-        "ingres"
+        "ingres",
+        "david-cupid-psyche",
+        "hackert-pozzuoli",
+        "paelinck-self-portrait"
       ],
       "sources": [
         "enc-neoclassicism",
@@ -5567,7 +5570,8 @@
       "overview": "早年以地形水彩与版画起家，1819年后调色转亮、构图以色彩主导；晚年作品以海雾与蒸汽为题，影响后世对光的处理。",
       "related": [
         "romanticism-art",
-        "constable"
+        "constable",
+        "turner-burning-parliament"
       ],
       "sources": [
         "cma-artist-turner"
@@ -5600,7 +5604,8 @@
       "overview": "坚持户外写生并以前所未有的规模绘制六英尺幅面风景，强调对特定地点的真实再现，晚期笔触更具表现性。",
       "related": [
         "romanticism-art",
-        "turner"
+        "turner",
+        "turner-burning-parliament"
       ],
       "sources": [
         "cma-artist-constable",
@@ -12229,6 +12234,139 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='kelly-red-blue 示意图'><title>kelly-red-blue</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>红蓝互强</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>色彩</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>凯利《红蓝》</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>228.6×176.4</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>逻辑/有机对峙</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>两形</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>无笔触近自然</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>悖论</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>凯利《红蓝》：色、形与悖论</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（CMA）来源；颜料与递藏未记录。"
+    },
+    {
+      "id": "turner-burning-parliament",
+      "title": "透纳《上议院与下议院焚毁》",
+      "kind": "作品",
+      "unit": "art-neo-romantic",
+      "era": "19世纪",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "透纳布面油画，克利夫兰艺术博物馆藏（1942.647）。",
+      "when": "1835年",
+      "overview": "记1834年10月16日伦敦议会大火；透纳夸大火势，以灾难表达人面对自然破坏力的无力；色块近于抽象。",
+      "related": [
+        "turner",
+        "constable",
+        "hackert-pozzuoli"
+      ],
+      "sources": [
+        "cma-1942-647"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明，1834年10月16日夜，大火烧毁了伦敦著名的**议会大厦（上、下议院）**；人群聚在**泰晤士河**两岸，敬畏地凝视这骇人的景象。该馆记录：起初**退潮**使抽水灭火困难，也阻碍了拖带消防设备的汽船，火势**数小时失控**。本画作于1835年。",
+        "风格特征": "该馆指出，透纳记录了这场搏斗：**右下角的船只正驶向烈焰**。虽然基于真实事件，他却**夸大了火焰的高度**，以灾难为起点表达**人在自然破坏力面前的无力**。",
+        "代表人物与作品": "作者为 J.M.W. 透纳（1775—1851）。相关条目见透纳与康斯太勃尔。本件为克利夫兰艺术博物馆藏品（1942.647）。",
+        "技法或形式分析": "材质为**布面油画**，画心92 × 123.2厘米、含框123.5 × 153.5 × 12厘米（据该馆藏品记录）。该馆称其**灿烂的色带与多变的大气效果「近乎抽象」**。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「纪实」与「夸张」并置：画面源于真实事件，价值却在**以火为载体表现自然崇高与人的渺小**。这使「新闻性题材」转化为浪漫主义的**情感图式**。",
+        "一图": "示意图以1834议会大火、夸大火焰与「近乎抽象」的色光三者关系标示本画。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「夸大火焰高度」为该馆判断；（3）透纳是否现场写生未在本记录说明；（4）本画的递藏未取得。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='turner-burning-parliamen 示意图'><title>turner-burning-parliamen</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>1834 议会大火</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>泰晤士河</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>透纳《焚毁》</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>92×123.2</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>夸大火焰</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>人vs自然</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>色光近抽象</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>形式</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>透纳：灾火、夸张与色光</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；现场写生与递藏未记录。"
+    },
+    {
+      "id": "david-cupid-psyche",
+      "title": "大卫《丘比特与普绪克》",
+      "kind": "作品",
+      "unit": "art-neo-romantic",
+      "era": "19世纪",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "大卫布面油画，克利夫兰艺术博物馆藏（1962.37）。",
+      "when": "1817年",
+      "overview": "以神话探讨理想之爱与肉体现实的冲突；丘比特被画成笨拙少年而非理想少年，取材 Moschus 的希腊诗。",
+      "related": [
+        "neoclassicism",
+        "paelinck-self-portrait"
+      ],
+      "sources": [
+        "cma-1962-37"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**雅克-路易·大卫**（1748—1825）1817年的布面油画《丘比特与普绪克》，克利夫兰艺术博物馆藏（1962.37）。",
+        "风格特征": "该馆说明，大卫**借丘比特与普绪克的故事探讨理想化的爱**与**肉体现实**之间的冲突。故事是：丘比特爱恋美丽凡人普绪克，**每夜来访**，条件是她**不得知道他的身份**。",
+        "代表人物与作品": "作者大卫。相关条目见新古典主义与帕林克《自画像》。",
+        "技法或形式分析": "材质为**布面油画**，画心184.2 × 241.6厘米、含框221 × 282 × 10厘米（据该馆藏品记录）。",
+        "与前后风格的关系和争论": "该馆给出一个**反程式**的读解：丘比特**通常被画成理想的少年**，但在此大卫把他呈现为一个**笨拙的少年（ungainly teenager），对自身的性征服得意地窃笑**。该馆并指出其**文本来源**：大卫取材于若干古代文本，包括**摩斯科斯（Moschus）**一首**新近刊行、较为冷僻的希腊诗**——该诗把丘比特描写成「**眼神闪动、卷发、心地刻薄的顽童**」。本条目据此看出：**文本考据直接改写了图像惯例**。",
+        "一图": "示意图以理想爱/肉体现实的冲突、反程式的「笨拙少年」与 Moschus 诗源三者关系标示本画。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）Moschus 诗的版本与译本未取得；（3）「窃笑」为该馆描述；（4）委托与递藏未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='david-cupid-psyche 示意图'><title>david-cupid-psyche</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>理想爱/肉体</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>冲突</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>大卫《丘比特》</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>184.2×241.6</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>笨拙少年</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>反程式</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>Moschus 诗</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>文本源</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>大卫：冲突、反程式与文本</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；诗版本与递藏未取得。"
+    },
+    {
+      "id": "hackert-pozzuoli",
+      "title": "哈克特《从索尔法塔拉望波佐利湾》",
+      "kind": "作品",
+      "unit": "art-neo-romantic",
+      "era": "19世纪",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "哈克特布面油画，克利夫兰艺术博物馆藏（1983.14）。",
+      "when": "1803年",
+      "overview": "18—19世纪画家云集那不勒斯写火山与古典废墟；细致描摹与极清晰的造型为德国浪漫绘画特征。",
+      "related": [
+        "neoclassicism",
+        "turner-burning-parliament"
+      ],
+      "sources": [
+        "cma-1983-14"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明，18与19世纪的**风景画家**被那不勒斯乡野的**戏剧性景观、火山、异域农民与古典废墟**所吸引，纷纷云集于此。本件为**菲利普·哈克特**（1737—1807）1803年之作。",
+        "风格特征": "该馆描述取景：从**索尔法塔拉（Solfatara，一处火山蒸汽喷口区）**上方**向西眺望波佐利湾**；远处的**古城波佐利**——即**使徒保罗赴罗马途中登陆之处**。",
+        "代表人物与作品": "作者哈克特（德国）。相关条目见新古典主义与透纳《焚毁》。本件为克利夫兰艺术博物馆藏品（1983.14）。",
+        "技法或形式分析": "材质为**布面油画**，画心119 × 166.5厘米、含框146 × 190 × 14厘米（据该馆藏品记录）。该馆将哈克特的**细致观察与极清晰的造型**归为**德国浪漫绘画**的特征。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「地理—历史—技术」三层叠加：一处真实火山景观，因**保罗登陆地**而具宗教—历史分量，又因**清晰造型**而成为德国浪漫趣味。本条目只陈述该馆判断。",
+        "一图": "示意图以那不勒斯景观热、波佐利的历史/宗教层与清晰造型三者关系标示本画。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「德国浪漫」归为该馆判断；（3）火山喷口的实景细节未展开；（4）递藏未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='hackert-pozzuoli 示意图'><title>hackert-pozzuoli</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>那不勒斯景观</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>火山·废墟</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>哈克特《波佐利湾》</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>119×166.5</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>保罗登陆地</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>历史层</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>清晰造型</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>德国浪漫</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>哈克特：景观、历史与造型</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；实景细节与递藏未记录。"
+    },
+    {
+      "id": "paelinck-self-portrait",
+      "title": "帕林克《自画像》",
+      "kind": "作品",
+      "unit": "art-neo-romantic",
+      "era": "19世纪",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "帕林克布面油画，克利夫兰艺术博物馆藏（1937.575）。",
+      "when": "约1812年",
+      "overview": "比利时人，获资助赴巴黎从大卫学画，后赴罗马研究古物；着时髦 box-coat 与古式桌椅，见其质感描写功力。",
+      "related": [
+        "david-cupid-psyche",
+        "neoclassicism"
+      ],
+      "sources": [
+        "cma-1937-575"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明，**帕林克**（Joseph Paelinck，1781—1839）生于比利时一个小村庄，少年时就读**本地素描学院**；其技艺使他获得**赴巴黎学习的奖学金**，在那里**与雅克-路易·大卫（1748—1825）共事**——大卫是**法国新古典主义的领军大师、拿破仑一世的官方宫廷画家**。",
+        "风格特征": "该馆指出，帕林克后**迁居罗马**，**实地研究古代艺术**，并参与该城**活跃的国际艺术圈**。自画像中，他的**着装表明其「花花公子（dandy）」气质**：穿**时髦、色调微妙**的衣服。",
+        "代表人物与作品": "作者帕林克。相关条目见大卫《丘比特与普绪克》与新古典主义。本件为克利夫兰艺术博物馆藏品（1937.575）。",
+        "技法或形式分析": "材质为**布面油画**，画心89 × 69.3厘米、含框114 × 94.5 × 7.5厘米（据该馆藏品记录）。该馆给出具体服饰解释：他在黑西装外穿一件 **box-coat（宽大、天鹅绒领的外套）**——此服原与**马车夫**相关，却在19世纪初的**罗马艺术家**间流行；该外套显示了他**描绘质感**的功力。",
+        "与前后风格的关系和争论": "该馆还指出一个**品味细节**：其**书桌与椅子形制简朴，仿自古希腊罗马样式**，反映**当时最高的时尚**。本条目据此把「新古典」不仅看作画风，也看作**生活方式的自我塑造**。",
+        "一图": "示意图以在大卫门下、罗马国际圈与 dandy 衣饰三者关系标示本像。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「box-coat 与马车夫相关」为该馆说明；（3）自画像的具体绘制地未记录；（4）递藏未取得。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='paelinck-self-portrait 示意图'><title>paelinck-self-portrait</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>大卫门下</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>巴黎</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>帕林克自画像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>89×69.3</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>罗马研究古物</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>国际圈</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>dandy 衣饰</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>自我塑造</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>帕林克自画像：师承、罗马与衣饰</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；绘制地与递藏未记录。"
     }
   ]
 }

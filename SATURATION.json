@@ -1268,6 +1268,18 @@
       },
       "network": "partial (museum APIs)",
       "verdict": "当代 5→9（总348）；未饱和"
+    },
+    {
+      "cycle": "cycle103",
+      "date": "2026-11-24",
+      "methods_used": [
+        "新古典/浪漫"
+      ],
+      "gaps_found": {
+        "entries": 4
+      },
+      "network": "partial (museum APIs)",
+      "verdict": "新古典/浪漫 8→12（总352）；未饱和"
     }
   ],
   "assessment_c33": {

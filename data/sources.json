@@ -4769,6 +4769,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-23 API HTTP 200；布面油画 228.6×176.4cm；说明含两色两形关系与无笔触"
+    },
+    {
+      "id": "cma-1942-647",
+      "title": "Cleveland Museum of Art — J.M.W. Turner, The Burning of the Houses of Lords and Commons, 1835, acc. 1942.647",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1942.647",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；布面油画 92×123.2cm；说明含1834年议会大火与夸大火势"
+    },
+    {
+      "id": "cma-1962-37",
+      "title": "Cleveland Museum of Art — Jacques-Louis David, Cupid and Psyche, 1817, acc. 1962.37",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1962.37",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；布面油画 184.2×241.6cm；说明含 Moschus 诗与理想爱/肉体现实"
+    },
+    {
+      "id": "cma-1983-14",
+      "title": "Cleveland Museum of Art — Philipp Hackert, View of the Gulf of Pozzuoli from Solfatara, 1803, acc. 1983.14",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1983.14",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；布面油画 119×166.5cm；说明含那不勒斯景观与德国浪漫的清晰造型"
+    },
+    {
+      "id": "cma-1937-575",
+      "title": "Cleveland Museum of Art — Joseph Paelinck, Self-Portrait, c. 1812, acc. 1937.575",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1937.575",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-23 API HTTP 200；布面油画 89×69.3cm；说明含在大卫门下与罗马时期"
     }
   ]
 }

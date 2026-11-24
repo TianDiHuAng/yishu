@@ -697,7 +697,10 @@
         "rococo",
         "romanticism-art",
         "delacroix",
-        "ingres"
+        "ingres",
+        "david-cupid-psyche",
+        "hackert-pozzuoli",
+        "paelinck-self-portrait"
       ],
       "sources": [
         "enc-neoclassicism",
@@ -3428,7 +3431,8 @@
       "overview": "早年以地形水彩与版画起家，1819年后调色转亮、构图以色彩主导；晚年作品以海雾与蒸汽为题，影响后世对光的处理。",
       "related": [
         "romanticism-art",
-        "constable"
+        "constable",
+        "turner-burning-parliament"
       ],
       "sources": [
         "cma-artist-turner"
@@ -3448,7 +3452,8 @@
       "overview": "坚持户外写生并以前所未有的规模绘制六英尺幅面风景，强调对特定地点的真实再现，晚期笔触更具表现性。",
       "related": [
         "romanticism-art",
-        "turner"
+        "turner",
+        "turner-burning-parliament"
       ],
       "sources": [
         "cma-artist-constable",
@@ -7534,6 +7539,87 @@
       ],
       "sources": [
         "cma-1964-142"
+      ]
+    },
+    {
+      "id": "turner-burning-parliament",
+      "title": "透纳《上议院与下议院焚毁》",
+      "kind": "作品",
+      "unit": "art-neo-romantic",
+      "era": "19世纪",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "透纳布面油画，克利夫兰艺术博物馆藏（1942.647）。",
+      "when": "1835年",
+      "overview": "记1834年10月16日伦敦议会大火；透纳夸大火势，以灾难表达人面对自然破坏力的无力；色块近于抽象。",
+      "related": [
+        "turner",
+        "constable",
+        "hackert-pozzuoli"
+      ],
+      "sources": [
+        "cma-1942-647"
+      ]
+    },
+    {
+      "id": "david-cupid-psyche",
+      "title": "大卫《丘比特与普绪克》",
+      "kind": "作品",
+      "unit": "art-neo-romantic",
+      "era": "19世纪",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "大卫布面油画，克利夫兰艺术博物馆藏（1962.37）。",
+      "when": "1817年",
+      "overview": "以神话探讨理想之爱与肉体现实的冲突；丘比特被画成笨拙少年而非理想少年，取材 Moschus 的希腊诗。",
+      "related": [
+        "neoclassicism",
+        "paelinck-self-portrait"
+      ],
+      "sources": [
+        "cma-1962-37"
+      ]
+    },
+    {
+      "id": "hackert-pozzuoli",
+      "title": "哈克特《从索尔法塔拉望波佐利湾》",
+      "kind": "作品",
+      "unit": "art-neo-romantic",
+      "era": "19世纪",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "哈克特布面油画，克利夫兰艺术博物馆藏（1983.14）。",
+      "when": "1803年",
+      "overview": "18—19世纪画家云集那不勒斯写火山与古典废墟；细致描摹与极清晰的造型为德国浪漫绘画特征。",
+      "related": [
+        "neoclassicism",
+        "turner-burning-parliament"
+      ],
+      "sources": [
+        "cma-1983-14"
+      ]
+    },
+    {
+      "id": "paelinck-self-portrait",
+      "title": "帕林克《自画像》",
+      "kind": "作品",
+      "unit": "art-neo-romantic",
+      "era": "19世纪",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "帕林克布面油画，克利夫兰艺术博物馆藏（1937.575）。",
+      "when": "约1812年",
+      "overview": "比利时人，获资助赴巴黎从大卫学画，后赴罗马研究古物；着时髦 box-coat 与古式桌椅，见其质感描写功力。",
+      "related": [
+        "david-cupid-psyche",
+        "neoclassicism"
+      ],
+      "sources": [
+        "cma-1937-575"
       ]
     }
   ]
