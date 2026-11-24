@@ -948,7 +948,9 @@
         "post-impressionism",
         "expressionism",
         "matisse",
-        "braque-estaque-port"
+        "braque-estaque-port",
+        "matisse-interior-etruscan",
+        "rouault-end-autumn"
       ],
       "sources": [
         "enc-fauvism",
@@ -1221,7 +1223,11 @@
         "matisse",
         "dali",
         "modern-to-contemporary",
-        "pollock-number5"
+        "pollock-number5",
+        "matisse-interior-etruscan",
+        "degas-frieze-dancers",
+        "rouault-end-autumn",
+        "cannon-memorial-woodcut"
       ],
       "sources": [
         "web-artstory-movements",
@@ -3346,7 +3352,8 @@
       "overview": "以粉彩层叠技法描绘舞者与日常瞬间，偏好非舞台正面的私密视角；芭蕾题材作品逾千件。",
       "related": [
         "impressionism",
-        "monet"
+        "monet",
+        "degas-frieze-dancers"
       ],
       "sources": [
         "cma-1916-1043"
@@ -4101,7 +4108,8 @@
         "ulua-ring-vessel",
         "moche-sealion-pup",
         "teotihuacan-mural-fragment",
-        "zapotec-seated-figure"
+        "zapotec-seated-figure",
+        "cannon-memorial-woodcut"
       ],
       "sources": [
         "cma-1967-29",
@@ -10210,6 +10218,86 @@
       ],
       "sources": [
         "cma-2006-138"
+      ]
+    },
+    {
+      "id": "matisse-interior-etruscan",
+      "title": "马蒂斯《有伊特鲁里亚瓶的室内》",
+      "kind": "作品",
+      "unit": "art-contemporary",
+      "era": "20世纪",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "马蒂斯布面油画，克利夫兰艺术博物馆藏（1952.153）。",
+      "when": "1940年",
+      "overview": "女子坐桌旁看书与散果；绿盆栽、红纹帘、橙古瓶构成绚丽；作于尼斯Régina旅馆画室，二战爆发后约半年；艺术给其内心平衡以抗乱世。",
+      "related": [
+        "fauvism",
+        "modern-art"
+      ],
+      "sources": [
+        "cma-1952-153"
+      ]
+    },
+    {
+      "id": "degas-frieze-dancers",
+      "title": "德加《舞者饰带》",
+      "kind": "作品",
+      "unit": "art-contemporary",
+      "era": "19世纪",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "德加布面油画，克利夫兰艺术博物馆藏（1946.83）。",
+      "when": "约1895年",
+      "overview": "或为同一舞者四视角；设定模糊、色如薄缕、颜料流淌；前景圆圈以拇指按出；六尺画布上如此大胆，时人当惊；多视角或受迈布里奇摄影启发。",
+      "related": [
+        "degas",
+        "modern-art"
+      ],
+      "sources": [
+        "cma-1946-83"
+      ]
+    },
+    {
+      "id": "rouault-end-autumn",
+      "title": "鲁奥《秋末·第4号》",
+      "kind": "作品",
+      "unit": "art-contemporary",
+      "era": "20世纪",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "鲁奥布面油画，克利夫兰艺术博物馆藏（1964.161）。",
+      "when": "1952年",
+      "overview": "常归表现主义与野兽派，却以基督教信仰为艺核；此秋景作于卒前六年；旷野人物与辉光天色，或联「逃往埃及」；宝石般色块以粗黑线框，映其早年彩窗训练。",
+      "related": [
+        "fauvism",
+        "modern-art"
+      ],
+      "sources": [
+        "cma-1964-161"
+      ]
+    },
+    {
+      "id": "cannon-memorial-woodcut",
+      "title": "坎农《纪念木刻组画》",
+      "kind": "作品",
+      "unit": "art-contemporary",
+      "era": "20世纪",
+      "region": "美洲",
+      "medium": "版画",
+      "tier": "核心",
+      "def": "T. C. Cannon 五幅彩印木刻组画，克利夫兰艺术博物馆藏（2025.5）。",
+      "when": "约1978年",
+      "overview": "坎农为 Kiowa-Caddo 原住民画家；原住民肖像以明亮色盘与波普美学并糅传统与当代；每幅据其主要油画；整组呈现其对原住民身份之复杂探索。",
+      "related": [
+        "modern-art",
+        "americas-art"
+      ],
+      "sources": [
+        "cma-2025-5"
       ]
     }
   ]

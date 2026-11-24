@@ -1710,7 +1710,9 @@
         "post-impressionism",
         "expressionism",
         "matisse",
-        "braque-estaque-port"
+        "braque-estaque-port",
+        "matisse-interior-etruscan",
+        "rouault-end-autumn"
       ],
       "sources": [
         "enc-fauvism",
@@ -2127,7 +2129,11 @@
         "matisse",
         "dali",
         "modern-to-contemporary",
-        "pollock-number5"
+        "pollock-number5",
+        "matisse-interior-etruscan",
+        "degas-frieze-dancers",
+        "rouault-end-autumn",
+        "cannon-memorial-woodcut"
       ],
       "sources": [
         "web-artstory-movements",
@@ -5424,7 +5430,8 @@
       "overview": "以粉彩层叠技法描绘舞者与日常瞬间，偏好非舞台正面的私密视角；芭蕾题材作品逾千件。",
       "related": [
         "impressionism",
-        "monet"
+        "monet",
+        "degas-frieze-dancers"
       ],
       "sources": [
         "cma-1916-1043"
@@ -6585,7 +6592,8 @@
         "ulua-ring-vessel",
         "moche-sealion-pup",
         "teotihuacan-mural-fragment",
-        "zapotec-seated-figure"
+        "zapotec-seated-figure",
+        "cannon-memorial-woodcut"
       ],
       "sources": [
         "cma-1967-29",
@@ -16517,6 +16525,138 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='kuofo-prestige-stool 示意图'><title>kuofo-prestige-stool</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>Bamileke·19世</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>喀麦隆</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>珠饰行凳</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>51×43</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>豹纹王权</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>化身信念</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>王室库藏</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>小仪式</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>珠凳：工艺、豹与王权</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（CMA）来源；豹化信念未核原文；仪式未记录。"
+    },
+    {
+      "id": "matisse-interior-etruscan",
+      "title": "马蒂斯《有伊特鲁里亚瓶的室内》",
+      "kind": "作品",
+      "unit": "art-contemporary",
+      "era": "20世纪",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "马蒂斯布面油画，克利夫兰艺术博物馆藏（1952.153）。",
+      "when": "1940年",
+      "overview": "女子坐桌旁看书与散果；绿盆栽、红纹帘、橙古瓶构成绚丽；作于尼斯Régina旅馆画室，二战爆发后约半年；艺术给其内心平衡以抗乱世。",
+      "related": [
+        "fauvism",
+        "modern-art"
+      ],
+      "sources": [
+        "cma-1952-153"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明：马蒂斯在**尼斯（Nice）的 Régina 旅馆**的画室兼居所中画下此室内景，时在**二战爆发后约六个月**（1940年），CMA 藏（1952.153）。",
+        "风格特征": "该馆描述：室内一**女子坐在桌旁**，**面前摊着一本打开的书，散着水果**；画家以**绿色盆栽的喜林芋（philodendrons）**、**红色花纹帘幕**与一只**橙色的古董瓶**，营造出**极其绚丽的构图**。",
+        "代表人物与作品": "作者为亨利·马蒂斯。相关条目见野兽派与现代艺术。",
+        "技法或形式分析": "材质为**布面油画**；画心73.7 × 108厘米，含框102.2 × 129.5 × 12.1厘米（据该馆记录）。",
+        "与前后风格的关系和争论": "该馆引马蒂斯**致友人信**中的自述：**创作艺术给了他所需的「平衡」**，使他**得以承受画室之外正在展开的悲剧**。本条目据此把「绚丽室内」读作**战争语境下的心理防御**——色彩越明快，越是一种**对抗现实的姿态**。",
+        "一图": "示意图以尼斯画室、绚丽静物与「艺术作平衡」三者关系标示本画。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）信件的全文与收信人未记；（3）橙色瓶是否为真「伊特鲁里亚」瓶未考；（4）递藏未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='matisse-interior-etrusca 示意图'><title>matisse-interior-etrusca</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>尼斯·1940</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>二战初</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>室内与古瓶</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>73.7×108</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>绚丽静物</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>构图</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>艺术作平衡</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>心理防御</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>马蒂斯室内：色彩与平衡</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；信件与瓶属未考；递藏未记录。"
+    },
+    {
+      "id": "degas-frieze-dancers",
+      "title": "德加《舞者饰带》",
+      "kind": "作品",
+      "unit": "art-contemporary",
+      "era": "19世纪",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "德加布面油画，克利夫兰艺术博物馆藏（1946.83）。",
+      "when": "约1895年",
+      "overview": "或为同一舞者四视角；设定模糊、色如薄缕、颜料流淌；前景圆圈以拇指按出；六尺画布上如此大胆，时人当惊；多视角或受迈布里奇摄影启发。",
+      "related": [
+        "degas",
+        "modern-art"
+      ],
+      "sources": [
+        "cma-1946-83"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**德加**布面油画（约1895），CMA 藏（1946.83）。",
+        "风格特征": "该馆提出一个**大胆读解**：此画**或表现同一舞者的四个不同视角**；年轻女子被置于**未定义的场景**，四周只是**一抹抹色彩**，施色**极其即兴**，以致**颜料流淌滴落**；德加甚至**以拇指按出前景的圆圈**。",
+        "代表人物与作品": "作者为埃德加·德加（1834—1917）。相关条目见德加（degas）与现代艺术。",
+        "技法或形式分析": "材质为**布面油画**；画心70 × 200.5厘米，含框103 × 233.5 × 7厘米（据该馆记录）。",
+        "与前后风格的关系和争论": "该馆指出**两重激进**：如此**大胆的手法**在小幅速写中尚可，但**呈现在六英尺大画布上**，**必曾令同代人震惊**；同样激进的是**把单一形象的多个视角并置**。该馆并指出，这种不寻常的呈现**可能受迈布里奇（Eadweard Muybridge，1830—1904）的摄影启发**。本条目据此把「饰带式构图」读作**时间/运动的连续记录**的实验。",
+        "一图": "示意图以四视角、流淌即兴笔触与迈布里奇摄影三者关系标示本画。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「四个视角」该馆用 may；（3）迈布里奇影响为「或受启发」；（4）递藏未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='degas-frieze-dancers 示意图'><title>degas-frieze-dancers</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>德加·约1895</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>布面油画</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>舞者饰带</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>70×200.5</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>四视角</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>并置</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>迈布里奇</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>摄影启发</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>德加饰带：视角、笔触与摄影</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；视角与摄影影响均为推测；递藏未记录。"
+    },
+    {
+      "id": "rouault-end-autumn",
+      "title": "鲁奥《秋末·第4号》",
+      "kind": "作品",
+      "unit": "art-contemporary",
+      "era": "20世纪",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "鲁奥布面油画，克利夫兰艺术博物馆藏（1964.161）。",
+      "when": "1952年",
+      "overview": "常归表现主义与野兽派，却以基督教信仰为艺核；此秋景作于卒前六年；旷野人物与辉光天色，或联「逃往埃及」；宝石般色块以粗黑线框，映其早年彩窗训练。",
+      "related": [
+        "fauvism",
+        "modern-art"
+      ],
+      "sources": [
+        "cma-1964-161"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "本件为**鲁奥**布面油画（1952），作于其**去世前六年**，CMA 藏（1964.161）。",
+        "风格特征": "该馆说明：鲁奥常被归入**表现主义与野兽派**——强调对题材的**情感性诠释**的运动——但他在前卫艺术家中**独树一帜**：**把基督教信仰置于其艺术的中心**。画面为**秋景**：**人物在广阔风景中游荡**，**头顶是辉光的天**，令人联想到**《圣经》的「逃往埃及」**。",
+        "代表人物与作品": "作者为乔治·鲁奥（1871—1958）。相关条目见野兽派与现代艺术。",
+        "技法或形式分析": "材质为**布面油画**；画心75 × 105.4厘米，含框103.5 × 134.6 × 11.4厘米（据该馆记录）。该馆点出其**技法根源**：**宝石般的绿、蓝、红、黄** 被**强劲的深色线条**框住——反映了他**早年作彩绘玻璃窗画工的训练**。",
+        "与前后风格的关系和争论": "本条目据该馆说明把「粗黑线框色」理解为**彩窗视觉的转译**：中世纪玻璃的**铅条分隔**被移入油画，服务于**宗教情感的现代表达**。这提示「前卫」与「信仰」并不互斥。",
+        "一图": "示意图以信仰核心、逃往埃及联想与彩窗式色框三者关系标示本画。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）「逃往埃及」为该馆的联想；（3）彩窗训练的直接影响未给文献；（4）递藏未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='rouault-end-autumn 示意图'><title>rouault-end-autumn</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>鲁奥·1952</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>卒前六年</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>秋末第4号</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>75×105.4</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>信仰核心</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>逃往埃及?</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>彩窗式色框</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>技法根源</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>鲁奥：信仰、秋景与彩窗</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；联想与技法影响未给文献；递藏未记录。"
+    },
+    {
+      "id": "cannon-memorial-woodcut",
+      "title": "坎农《纪念木刻组画》",
+      "kind": "作品",
+      "unit": "art-contemporary",
+      "era": "20世纪",
+      "region": "美洲",
+      "medium": "版画",
+      "tier": "核心",
+      "def": "T. C. Cannon 五幅彩印木刻组画，克利夫兰艺术博物馆藏（2025.5）。",
+      "when": "约1978年",
+      "overview": "坎农为 Kiowa-Caddo 原住民画家；原住民肖像以明亮色盘与波普美学并糅传统与当代；每幅据其主要油画；整组呈现其对原住民身份之复杂探索。",
+      "related": [
+        "modern-art",
+        "americas-art"
+      ],
+      "sources": [
+        "cma-2025-5"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "该馆说明：**T. C. Cannon** 是**最受追捧的原住民艺术家之一**，**天资卓异的画家**，也是**Kiowa 部落的注册成员**；本组画**约1978年**，CMA 藏（2025.5）。",
+        "风格特征": "该馆描述其风格：他对**原住民题材**的**独特肖像**，**注入明快的色彩**并**取法波普美学（Pop aesthetic）**，**熔传统与当代审美于一炉**；**整组**呈现了艺术家**独特的视觉语汇**及其对**原住民身份之幽微与复杂**的探究。",
+        "代表人物与作品": "艺术家 T. C. Cannon（Kiowa-Caddo，1946—1978）；合作/出版方含 Maeda Kentaro、Matashiro Uchikawa、Aberbach Fine Art（纽约）。相关条目见现代艺术与美洲艺术。",
+        "技法或形式分析": "材质为**五幅彩印木刻组画（suite of five color woodcuts）**；该记录**无尺寸字段**，本条目**不列尺寸**。该馆指出：**每幅均据艺术家一件主要油画**。",
+        "与前后风格的关系和争论": "本条目据该馆说明把握「**转译**」：**油画→彩色木刻**的媒介转换，使**限量复制**成为可能；而波普语汇与原住民肖像的结合，把**身份议题**带入**大众图像**的流通。本条目只依记录陈述。",
+        "一图": "示意图以原住民肖像、波普色盘与油画→木刻转译三者关系标示本组画。",
+        "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）**该记录无尺寸**，本条目不提供；（3）各幅对应的油画清单未列；（4）版数与印制细节未记录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cannon-memorial-woodcut 示意图'><title>cannon-memorial-woodcut</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>Cannon·约1978</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>Kiowa-Caddo</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>五幅彩印木刻</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>无尺寸记录</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>波普色盘</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>身份议题</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>油画→木刻</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>媒介转译</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>Cannon：肖像、波普与转译</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；无尺寸；版数未记录。"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 472,
+    "total": 476,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -5668,6 +5668,54 @@
     },
     "kuofo-prestige-stool": {
       "title": "Bamileke 珠饰「Kuo fo」凳",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "matisse-interior-etruscan": {
+      "title": "马蒂斯《有伊特鲁里亚瓶的室内》",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "degas-frieze-dancers": {
+      "title": "德加《舞者饰带》",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "rouault-end-autumn": {
+      "title": "鲁奥《秋末·第4号》",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 1,
+      "verified_sources_count": 1,
+      "needs_verification": true,
+      "pending_notes": "关键事实需≥2个verified来源，当前1个",
+      "last_update": "2026-11-22",
+      "source_independence_ok": false
+    },
+    "cannon-memorial-woodcut": {
+      "title": "坎农《纪念木刻组画》",
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",

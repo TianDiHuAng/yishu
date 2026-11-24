@@ -1404,3 +1404,13 @@ art-islamic 33→37。写前查重通过。
 art-africa 32→36。写前查重通过。
 可逆：删 4 条 overlay 与 catalog 元组、移除 4 条来源。代价：均单机构（CMA）。
 
+
+## D140 — Cycle137 现代/当代 4 条（472 → 476）
+`matisse-interior-etruscan`（马蒂斯《有伊特鲁里亚瓶的室内》，1940，**核心**；二战爆发后半年、尼斯Régina，「艺术作平衡」＝心理防御）、
+`degas-frieze-dancers`（德加《舞者饰带》，约1895，**核心**；四视角＋流淌笔触＋或受迈布里奇启发）、
+`rouault-end-autumn`（鲁奥《秋末·第4号》，1952，**核心**；信仰为核、逃往埃及联想、彩窗式色框）、
+`cannon-memorial-woodcut`（坎农纪念木刻组画，约1978，**核心**；Kiowa-Caddo、波普色盘、油画→木刻转译；**记录无尺寸，不列尺寸**）。
+**命名修正**：1952.153 作者是**马蒂斯**（原拟 Bonnard），id 用 matisse。
+art-contemporary 9→13。写前查重通过。
+可逆：删 4 条 overlay 与 catalog 元组、移除 4 条来源。代价：均单机构（CMA）。
+

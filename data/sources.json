@@ -5979,6 +5979,46 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-24 API HTTP 200；木棉纤维玻璃珠靛蓝 51×38×43cm；说明含travel stool与豹纹"
+    },
+    {
+      "id": "cma-1952-153",
+      "title": "Cleveland Museum of Art — Henri Matisse, Interior with an Etruscan Vase, 1940, acc. 1952.153",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1952.153",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；布面油画 73.7×108cm；说明含尼斯Régina旅馆与二战"
+    },
+    {
+      "id": "cma-1946-83",
+      "title": "Cleveland Museum of Art — Edgar Degas, Frieze of Dancers, c. 1895, acc. 1946.83",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1946.83",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；布面油画 70×200.5cm；说明含四视角与迈布里奇"
+    },
+    {
+      "id": "cma-1964-161",
+      "title": "Cleveland Museum of Art — Georges Rouault, End of Autumn No. 4, 1952, acc. 1964.161",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1964.161",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；布面油画 75×105.4cm；说明含信仰与彩窗训练"
+    },
+    {
+      "id": "cma-2025-5",
+      "title": "Cleveland Museum of Art — T. C. Cannon, Memorial Woodcut Suite, c. 1978, acc. 2025.5",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/2025.5",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-24 API HTTP 200；五幅彩印木刻；说明含Kiowa-Caddo与流行美学"
     }
   ]
 }

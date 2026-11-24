@@ -1,0 +1,19 @@
+{
+ "id": "matisse-interior-etruscan",
+ "level": "L2",
+ "sections": {
+  "时代背景": "该馆说明：马蒂斯在**尼斯（Nice）的 Régina 旅馆**的画室兼居所中画下此室内景，时在**二战爆发后约六个月**（1940年），CMA 藏（1952.153）。",
+  "风格特征": "该馆描述：室内一**女子坐在桌旁**，**面前摊着一本打开的书，散着水果**；画家以**绿色盆栽的喜林芋（philodendrons）**、**红色花纹帘幕**与一只**橙色的古董瓶**，营造出**极其绚丽的构图**。",
+  "代表人物与作品": "作者为亨利·马蒂斯。相关条目见野兽派与现代艺术。",
+  "技法或形式分析": "材质为**布面油画**；画心73.7 × 108厘米，含框102.2 × 129.5 × 12.1厘米（据该馆记录）。",
+  "与前后风格的关系和争论": "该馆引马蒂斯**致友人信**中的自述：**创作艺术给了他所需的「平衡」**，使他**得以承受画室之外正在展开的悲剧**。本条目据此把「绚丽室内」读作**战争语境下的心理防御**——色彩越明快，越是一种**对抗现实的姿态**。",
+  "一图": "示意图以尼斯画室、绚丽静物与「艺术作平衡」三者关系标示本画。",
+  "待核实": "（1）事实来自单一机构（CMA），整条标记待核实；（2）信件的全文与收信人未记；（3）橙色瓶是否为真「伊特鲁里亚」瓶未考；（4）递藏未记录。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='matisse-interior-etrusca 示意图'><title>matisse-interior-etrusca</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>尼斯·1940</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>二战初</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>室内与古瓶</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>73.7×108</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>绚丽静物</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>构图</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>艺术作平衡</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>心理防御</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>马蒂斯室内：色彩与平衡</text></g></svg>",
+ "sources": [
+  "cma-1952-153"
+ ],
+ "needs_verification": true,
+ "pending_notes": "单一机构（CMA）来源；信件与瓶属未考；递藏未记录。"
+}

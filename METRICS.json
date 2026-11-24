@@ -3768,6 +3768,31 @@
       "check_links_result": "broken=0(509页)",
       "audit_all": "12/12 ok",
       "commits": 1
+    },
+    {
+      "cycle": "cycle137",
+      "date": "2026-11-24",
+      "status": "completed",
+      "gap_methods": [
+        "现代/当代（CMA）"
+      ],
+      "network": "CMA ok",
+      "new_entries": 4,
+      "new_entry_ids": [
+        "matisse-interior-etruscan",
+        "degas-frieze-dancers",
+        "rouault-end-autumn",
+        "cannon-memorial-woodcut"
+      ],
+      "naming_fix": "1952.153=马蒂斯（非Bonnard）",
+      "new_sources": 4,
+      "sources_total": 602,
+      "entries_total": 476,
+      "pages": 513,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(513页)",
+      "audit_all": "12/12 ok",
+      "commits": 1
     }
   ]
 }
