@@ -22860,7 +22860,7 @@
         "lc-n80005115",
         "gnd-118524895"
       ],
-      "level": "L2",
+      "level": "L3",
       "sections": {
         "时代背景": "据德国国家图书馆规范档（GND 118524895），其生卒年为 1440—1521。摘要称，若斯坎是法国或佛兰德斯—法国乐派的文艺复兴作曲家，对16世纪欧洲音乐影响深远。摘要没有给出生卒年；Wikidata 的简介给出约1450—1521年，本条目未采用，留待核实。",
         "风格特征": "摘要称，他发展出在各独立声部之间富于表现、常带模仿的复调风格，强调文字与音乐的关系，不再沿用早期文艺复兴冗长的单音节花腔，而偏好声部之间较短、反复的动机。",
@@ -22872,7 +22872,47 @@
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='josquin 示意图'><title>josquin</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>奥克冈等前辈</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>所本</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>若斯坎</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>文艺复兴</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>模仿式复调</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>独立声部</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>弥撒曲经文歌尚松</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>声乐为主</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "卒年1521由美国国会图书馆名称权威与 GND 相互印证；生年1440只见于 GND，国会图书馆标目未给生年，属单一来源。内容缺口（未写，不是存疑）：作品未给出。"
+      "pending_notes": "卒年1521由美国国会图书馆名称权威与 GND 相互印证；生年1440只见于 GND，国会图书馆标目未给生年，属单一来源。内容缺口（未写，不是存疑）：作品未给出。",
+      "l3": {
+        "controversies": [
+          {
+            "issue": "若斯坎是否被不切实际地抬高为文艺复兴音乐的中心人物？",
+            "views": [
+              {
+                "holder": "Edward Lowinsky 等（1964年论文、1971年国际若斯坎节暨研讨会、1976年专著，所引来源页 enc-josquin 所述）",
+                "basis": "早期音乐复兴推动对若斯坎的再评价；1971年会议把他牢固确立在文艺复兴音乐的中心，Lowinsky 1976年专著进一步巩固。"
+              },
+              {
+                "holder": "Richard Sherr 所述21世纪初的异议（所引来源页 enc-josquin 所述）",
+                "basis": "2001年 Grove Music Online 所列归属作品不足200部（此前逾370部），用今已不归他的作品分析其风格的早期研究因此受损，传记也因同名者混淆被大幅改写；Sherr 的结论是其声誉略有下降，但凭最受推崇、归属最确定的作品，他仍是音乐史上的巨擘。"
+              }
+            ]
+          }
+        ],
+        "data": [
+          {
+            "label": "归属作品数（Grove 2001年）",
+            "value": "不足200部（此前逾370部）",
+            "note": "来源:enc-josquin"
+          },
+          {
+            "label": "Osthoff 首部重要研究",
+            "value": "第1卷1962年、第2卷1965年",
+            "note": "来源:enc-josquin"
+          },
+          {
+            "label": "国际若斯坎节暨研讨会",
+            "value": "1971年",
+            "note": "来源:enc-josquin"
+          },
+          {
+            "label": "《新若斯坎全集》开始出版",
+            "value": "1987年",
+            "note": "来源:enc-josquin"
+          }
+        ],
+        "complex_diagram_note": "以时间轴标出1962—1987年的研究与出版节点，并以柱状对照归属作品数从逾370部降至不足200部，旁注抬高与修正两方。"
+      }
     },
     {
       "id": "hildegard",
@@ -24815,7 +24855,7 @@
         "wd-pollock",
         "gnd-118595555"
       ],
-      "level": "L2",
+      "level": "L3",
       "sections": {
         "时代背景": "据德国国家图书馆规范档（GND 118595555），其生卒年为 1912—1956。摘要称，波洛克是美国画家，抽象表现主义运动的重要人物。",
         "风格特征": "摘要称，他以“滴画法”著称：将液态家用油漆倾倒或泼溅在水平放置的画面上，使他能从各个角度观看并作画。",
@@ -24827,7 +24867,60 @@
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='pollock 示意图'><title>pollock</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>抽象表现主义</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>重要人物</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>波洛克</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>美国画家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>滴画法</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>水平画面</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>评论分歧</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>直接性与随机</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "生卒 1912—1956 取自 GND 规范档（单一来源，未与第二家核对）；作品未给出；评论分歧未列出处。"
+      "pending_notes": "生卒 1912—1956 取自 GND 规范档（单一来源，未与第二家核对）；作品未给出；评论分歧未列出处。",
+      "l3": {
+        "controversies": [
+          {
+            "issue": "波洛克的滴画是否有艺术价值？",
+            "views": [
+              {
+                "holder": "批评者：Robert Coates、《雷诺兹新闻》1959年标题（所引来源页 enc-pollock 所述）",
+                "basis": "Coates 讥其部分作品为“只是无组织的随机能量爆发，因而毫无意义”；《雷诺兹新闻》称“这不是艺术，是品味低劣的玩笑”。"
+              },
+              {
+                "holder": "支持者：Jean Hélion、Clement Greenberg、Harold Rosenberg（所引来源页 enc-pollock 所述）",
+                "basis": "Greenberg 从形式主义出发，视其为当时最好的绘画，是经塞尚、立体主义上溯马奈的西方传统的顶点；Rosenberg 1952年在 ARTnews 提出“行动绘画”，认为画布上发生的是事件而非图画。"
+              }
+            ]
+          },
+          {
+            "issue": "2003年温斯科特储物柜发现的24件波洛克风格作品是否为真迹？",
+            "views": [
+              {
+                "holder": "俄勒冈大学研究者的分形分析（2005年应波洛克—克拉斯纳基金会要求，所引来源页 enc-pollock 所述）",
+                "basis": "分析发现6幅受争议画作的图案与14幅确定真迹之间存在差异。"
+              },
+              {
+                "holder": "Ellen G. Landau 与 Claude Cernuschi（2007年《Pollock Matters》，所引来源页 enc-pollock 所述）",
+                "basis": "Landau 曾是1990年代基金会鉴定委员会成员，书中列出藏画家族与波洛克生前的诸多联系，以将这些画作放回她认为恰当的历史语境。"
+              }
+            ]
+          }
+        ],
+        "data": [
+          {
+            "label": "Rosenberg 提出“行动绘画”",
+            "value": "1952年",
+            "note": "来源:enc-pollock"
+          },
+          {
+            "label": "温斯科特储物柜发现作品",
+            "value": "2003年，24件",
+            "note": "来源:enc-pollock"
+          },
+          {
+            "label": "分形分析比对",
+            "value": "2005年，6幅受争议作品对14幅确定真迹",
+            "note": "来源:enc-pollock"
+          },
+          {
+            "label": "《Pollock Matters》巡展与出版",
+            "value": "2007年",
+            "note": "来源:enc-pollock"
+          }
+        ],
+        "complex_diagram_note": "以两栏并列评价之争（批评者与 Greenberg、Rosenberg）和真伪之争（分形分析与 Landau），下方时间轴标出1952、2003、2005、2007年节点。"
+      }
     },
     {
       "id": "klimt",
