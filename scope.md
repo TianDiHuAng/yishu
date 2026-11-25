@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 819 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 841 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -356,6 +356,15 @@
 | qi-baishi | 齐白石 | 人物 | 1864—1957 | 湖南湘潭 | 绘画 | 核心 | O1 |
 | zhang-daqian | 张大千 | 人物 | 1899—1983 | 四川内江 | 绘画 | 核心 | O1 |
 | shan-shui | 山水画（Shan shui） | 风格 | 约公元6世纪末（隋）起 | 中国 | 绘画 | 核心 | O1、O6 |
+| gu-kaizhi | 顾恺之（Gu Kaizhi） | 人物 | 东晋 | 中国 | 绘画 | 核心 | O6 |
+| wu-daozi | 吴道子（Wu Daozi） | 人物 | 唐代 | 中国 | 绘画 | 核心 | O6 |
+| along-the-river | 《清明上河图》（Along the River During the Qingming Festival） | 作品 | 北宋 | 中国 | 绘画 | 核心 | O6 |
+| wang-ximeng | 王希孟（Wang Ximeng） | 人物 | 北宋 | 中国 | 绘画 | 重要 | O6 |
+| xia-gui | 夏圭（Xia Gui） | 人物 | 南宋 | 中国 | 绘画 | 重要 | O6 |
+| wu-school | 吴门画派（Wu School） | 风格 | 明代 | 中国 | 绘画 | 核心 | O1、O6 |
+| six-principles | 谢赫“六法”（Six principles of Chinese painting） | 术语 | 南朝 | 中国 | 绘画 | 核心 | O1、O6 |
+| ink-wash-painting | 水墨画（Ink wash painting） | 风格 | 唐代起 | 中国 | 绘画 | 核心 | O1、O6 |
+| wu-changshuo | 吴昌硕（Wu Changshuo） | 人物 | 晚清 | 中国 | 绘画 | 重要 | O6 |
 
 ## art-china-calligraphy（中国书法史）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -380,6 +389,9 @@
 | su-shi | 苏轼 | 人物 | 1037—1101 | 眉州眉山 | 书法 | 核心 | O1 |
 | huang-tingjian | 黄庭坚 | 人物 | 1045—1105 | 洪州分宁 | 书法 | 重要 | O1 |
 | zhao-ji | 宋徽宗（赵佶） | 人物 | 1082—1135 | 北宋 | 书法 | 核心 | O1 |
+| liu-gongquan | 柳公权（Liu Gongquan） | 人物 | 晚唐 | 中国 | 书法 | 核心 | O6 |
+| mi-fu | 米芾（Mi Fu） | 人物 | 北宋 | 中国 | 书法 | 核心 | O6 |
+| chu-suiliang | 褚遂良（Chu Suiliang） | 人物 | 初唐 | 中国 | 书法 | 重要 | O6 |
 
 ## music-medieval（音乐史·中世纪）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -548,6 +560,16 @@
 | yangqin | 扬琴（yangqin） | 作品 | 历代—今 | 中国 | 音乐体裁 | 重要 | O5 |
 | suona | 唢呐（suona） | 作品 | 约3世纪—今 | 中国 | 音乐体裁 | 重要 | O5 |
 | nanguan | 南管（Nanguan） | 风格 | 明代以来 | 福建·台湾 | 音乐体裁 | 补充 | O4 |
+| guqin | 古琴（Guqin） | 术语 | 历代 | 中国 | 乐器 | 核心 | O4、O5 |
+| bianzhong | 编钟（Bianzhong） | 术语 | 先秦 | 中国 | 乐器 | 核心 | O4、O5 |
+| marquis-yi-bells | 曾侯乙墓（Tomb of Marquis Yi of Zeng） | 作品 | 战国 | 中国 | 综合 | 核心 | O5 |
+| shi-er-lu | 十二律（Shi'er lü） | 术语 | 先秦 | 中国 | 音乐体裁 | 重要 | O4、O5 |
+| yuefu | 乐府（Yuefu） | 风格 | 汉代起 | 中国 | 音乐体裁 | 重要 | O4、O5 |
+| ci-poetry | 词（Ci） | 风格 | 唐宋 | 中国 | 音乐体裁 | 重要 | O4、O5 |
+| chinese-opera | 戏曲（Xiqu） | 风格 | 13世纪成熟 | 中国 | 音乐体裁 | 核心 | O4、O5 |
+| yuan-zaju | 杂剧（Zaju） | 风格 | 元代 | 中国 | 音乐体裁 | 重要 | O4、O5 |
+| cantonese-opera | 粤剧（Cantonese opera） | 风格 | 近代 | 中国 | 音乐体裁 | 重要 | O4、O5 |
+| ruan | 阮（Ruan） | 术语 | 历代 | 中国 | 乐器 | 重要 | O4、O5 |
 
 ## overview-guide（导读与学科方法）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

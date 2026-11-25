@@ -1,0 +1,20 @@
+{
+  "id": "ruan",
+  "level": "L2",
+  "sections": {
+    "时代背景": "摘要没有给出起源年代；20世纪改为钢弦。",
+    "风格特征": "摘要称，中国传统拨弦乐器，有品、圆形琴身、四弦。",
+    "代表人物与作品": "作品摘要没有给出，本条目不补写。",
+    "技法或形式分析": "四弦、圆身、有品；现代24品，每弦12半音；金属品比象牙品明亮。",
+    "与前后风格的关系和争论": "摘要称由13品扩为24品。",
+    "一图": "示意图以阮为中心，标示丝弦、钢弦、24品。",
+    "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='ruan 示意图'><title>ruan</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>丝弦</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>旧</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>阮</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>四弦圆身</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>钢弦</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>20世纪起</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>24品</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>现代</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+  "sources": [
+    "enc-ruan",
+    "wd-ruan"
+  ],
+  "needs_verification": true,
+  "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+}

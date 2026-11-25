@@ -1535,7 +1535,13 @@
         "chen-hongshou-album",
         "zhao-mengfu-river-village",
         "lizong-wangwei-album",
-        "chinese-architecture"
+        "chinese-architecture",
+        "gu-kaizhi",
+        "wu-daozi",
+        "along-the-river",
+        "wang-ximeng",
+        "six-principles",
+        "ink-wash-painting"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -1560,7 +1566,8 @@
         "dunhuang-art",
         "six-dynasties-art",
         "cma-tang-harpist",
-        "sancai"
+        "sancai",
+        "wu-daozi"
       ],
       "sources": [
         "enc-tang-dynasty-art",
@@ -1590,7 +1597,11 @@
         "ma-yuan",
         "shan-shui",
         "su-shi",
-        "zhao-ji"
+        "zhao-ji",
+        "along-the-river",
+        "wang-ximeng",
+        "xia-gui",
+        "mi-fu"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -1641,7 +1652,8 @@
         "cma-tang-yin-qin",
         "dong-qichang",
         "wen-zhengming",
-        "tang-yin"
+        "tang-yin",
+        "wu-school"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -1665,7 +1677,8 @@
         "china-painting-history",
         "canton-umbrella-mender",
         "bada-shanren",
-        "shitao"
+        "shitao",
+        "wu-changshuo"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -1691,7 +1704,9 @@
         "bada-shanren",
         "qi-baishi",
         "zhang-daqian",
-        "shan-shui"
+        "shan-shui",
+        "six-principles",
+        "ink-wash-painting"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -1784,7 +1799,9 @@
         "lai-zhong-bell",
         "luristan-master-cheekpiece",
         "shang-jade-ge",
-        "shang-jue-cups"
+        "shang-jue-cups",
+        "bianzhong",
+        "marquis-yi-bells"
       ],
       "sources": [
         "enc-bronze",
@@ -1828,7 +1845,8 @@
       "related": [
         "dunhuang-art",
         "tang-painting",
-        "shang-zhou-bronzes"
+        "shang-zhou-bronzes",
+        "gu-kaizhi"
       ],
       "sources": [
         "enc-six-dynasties",
@@ -1882,7 +1900,8 @@
       "overview": "线条圆转均匀、结构对称，保留象形遗意，后世用于印章与题额。",
       "related": [
         "china-calligraphy-history",
-        "clerical-script"
+        "clerical-script",
+        "wu-changshuo"
       ],
       "sources": [
         "enc-chinese-calligraphy",
@@ -1928,7 +1947,9 @@
         "running-script",
         "shang-ding-small",
         "wen-zhengming-silk-poem",
-        "liang-qichao-couplet"
+        "liang-qichao-couplet",
+        "liu-gongquan",
+        "chu-suiliang"
       ],
       "sources": [
         "enc-chinese-calligraphy",
@@ -2942,7 +2963,12 @@
         "wuwangdu-chu-music-archaeology",
         "guqin-instrument",
         "cma-tang-harpist",
-        "cma-tang-qin-mirror"
+        "cma-tang-qin-mirror",
+        "guqin",
+        "shi-er-lu",
+        "yuefu",
+        "ci-poetry",
+        "ruan"
       ],
       "sources": [
         "enc-chinese-music",
@@ -2965,7 +2991,9 @@
         "china-music-history",
         "wuwangdu-chu-music-archaeology",
         "lai-zhong-bell",
-        "bo-zhong-bell"
+        "bo-zhong-bell",
+        "bianzhong",
+        "shi-er-lu"
       ],
       "sources": [
         "enc-chinese-music",
@@ -2988,7 +3016,8 @@
         "china-music-history",
         "jingju",
         "pipa",
-        "bowie-koto-heroes"
+        "bowie-koto-heroes",
+        "guqin"
       ],
       "sources": [
         "enc-guzheng",
@@ -3012,7 +3041,9 @@
         "guzheng",
         "erhu",
         "kunqu",
-        "dizi"
+        "dizi",
+        "chinese-opera",
+        "cantonese-opera"
       ],
       "sources": [
         "enc-jingju",
@@ -3034,7 +3065,8 @@
       "related": [
         "china-music-history",
         "guzheng",
-        "pipa-instrument"
+        "pipa-instrument",
+        "ruan"
       ],
       "sources": [
         "enc-chinese-music",
@@ -3263,7 +3295,8 @@
       "overview": "该成果为战国礼乐制度研究提供新材料，正式考古报告与测音数据尚待发表，本条仅据官方新闻与既有中国音乐史背景作审慎概述。",
       "related": [
         "yayue",
-        "china-music-history"
+        "china-music-history",
+        "marquis-yi-bells"
       ],
       "sources": [
         "news-xiamen-wuwangdu",
@@ -13050,7 +13083,8 @@
       "overview": "绢本墨与淡彩册页，画心23.8×24.6厘米，题款「劉松年」；该馆称画意追忆伯牙为知音钟子期弹七弦琴的故事；松荫清凉、香炉烟起与琴声相互映衬；方寸册页的形式以音乐为触动弹者与听者心灵的关键。",
       "related": [
         "guqin-instrument",
-        "song-painting"
+        "song-painting",
+        "guqin"
       ],
       "sources": [
         "cma-1983-85"
@@ -13092,7 +13126,8 @@
       "related": [
         "guqin-instrument",
         "ming-painting",
-        "tang-yin"
+        "tang-yin",
+        "guqin"
       ],
       "sources": [
         "cma-1977-199"
@@ -14937,7 +14972,9 @@
         "suona",
         "nanguan",
         "noh",
-        "east-asian-theatre-crossmedia"
+        "east-asian-theatre-crossmedia",
+        "chinese-opera",
+        "yuan-zaju"
       ],
       "sources": [
         "enc-kunqu",
@@ -16087,7 +16124,8 @@
       "overview": "南管是源自中国南方福建省的一种中国室内乐风格。",
       "related": [
         "kunqu",
-        "erhu"
+        "erhu",
+        "chinese-opera"
       ],
       "sources": [
         "enc-nanguan",
@@ -16799,7 +16837,8 @@
       "overview": "马远是南宋画家。",
       "related": [
         "song-painting",
-        "guo-xi"
+        "guo-xi",
+        "xia-gui"
       ],
       "sources": [
         "enc-ma-yuan",
@@ -16867,7 +16906,8 @@
         "tang-yin",
         "ming-painting",
         "qiu-ying-garden",
-        "dong-qichang"
+        "dong-qichang",
+        "wu-school"
       ],
       "sources": [
         "enc-wen-zhengming",
@@ -16889,7 +16929,8 @@
       "related": [
         "wen-zhengming",
         "cma-tang-yin-qin",
-        "ming-painting"
+        "ming-painting",
+        "wu-school"
       ],
       "sources": [
         "enc-tang-yin",
@@ -16911,7 +16952,8 @@
       "related": [
         "zhao-mengfu-river-village",
         "yuan-painting",
-        "ni-zan"
+        "ni-zan",
+        "liu-gongquan"
       ],
       "sources": [
         "enc-zhao-mengfu",
@@ -16954,7 +16996,8 @@
       "related": [
         "zhang-daqian",
         "xu-beihong",
-        "xieyi"
+        "xieyi",
+        "wu-changshuo"
       ],
       "sources": [
         "enc-qi-baishi",
@@ -17000,7 +17043,9 @@
         "guo-xi",
         "song-painting",
         "ni-zan",
-        "xieyi"
+        "xieyi",
+        "xia-gui",
+        "ink-wash-painting"
       ],
       "sources": [
         "enc-shan-shui",
@@ -17021,7 +17066,8 @@
       "overview": "王羲之是东晋书法家。",
       "related": [
         "china-calligraphy-history",
-        "yan-zhenqing"
+        "yan-zhenqing",
+        "mi-fu"
       ],
       "sources": [
         "enc-wang-xizhi",
@@ -17043,7 +17089,9 @@
       "related": [
         "wang-xizhi",
         "china-calligraphy-history",
-        "su-shi"
+        "su-shi",
+        "liu-gongquan",
+        "chu-suiliang"
       ],
       "sources": [
         "enc-yan-zhenqing",
@@ -17066,7 +17114,9 @@
         "huang-tingjian",
         "song-painting",
         "yan-zhenqing",
-        "zhao-ji"
+        "zhao-ji",
+        "ci-poetry",
+        "mi-fu"
       ],
       "sources": [
         "enc-su-shi",
@@ -17087,7 +17137,8 @@
       "overview": "黄庭坚是北宋诗人、书法家。",
       "related": [
         "su-shi",
-        "china-calligraphy-history"
+        "china-calligraphy-history",
+        "mi-fu"
       ],
       "sources": [
         "enc-huang-tingjian",
@@ -17109,7 +17160,8 @@
       "related": [
         "song-painting",
         "su-shi",
-        "guqin-instrument"
+        "guqin-instrument",
+        "wang-ximeng"
       ],
       "sources": [
         "enc-zhao-ji",
@@ -18340,6 +18392,488 @@
       "sources": [
         "enc-lauda",
         "wd-lauda"
+      ]
+    },
+    {
+      "id": "guqin",
+      "title": "古琴（Guqin）",
+      "kind": "术语",
+      "unit": "music-china",
+      "era": "历代",
+      "region": "中国",
+      "medium": "乐器",
+      "tier": "核心",
+      "def": "一种七弦拨弦乐器，自古演奏，传统上受文人士大夫推崇。",
+      "when": "上古—今（历代）",
+      "overview": "琴（20世纪后多称古琴）是七弦拨弦乐器，自古演奏，传统上被文人士大夫视为精微雅致的乐器，有“君子无故不撤琴瑟”之说，并与孔子相联系，有时被称为“国乐之父”“圣人之器”。古琴不可与古筝混淆，后者同为无品长弦乐器，但每弦下有可移动的码。",
+      "related": [
+        "guzheng",
+        "cma-liu-songnian-qin",
+        "cma-tang-yin-qin",
+        "china-music-history"
+      ],
+      "sources": [
+        "enc-guqin",
+        "wd-guqin"
+      ]
+    },
+    {
+      "id": "bianzhong",
+      "title": "编钟（Bianzhong）",
+      "kind": "术语",
+      "unit": "music-china",
+      "era": "先秦",
+      "region": "中国",
+      "medium": "乐器",
+      "tier": "核心",
+      "def": "由一组青铜钟构成、可演奏旋律的中国古代乐器。",
+      "when": "约公元前1600年起（据摘要所称部分钟距今2000—3600年）",
+      "overview": "编钟是由一组青铜钟构成、用以演奏旋律的中国古代乐器。中国是最早制造和使用编钟的国家。成套编钟用作复音乐器，部分钟的年代测定为距今2000至3600年。它们悬于木架，以槌敲击；用木槌和棒击钟可发出不同音高。编钟与石制编磬一起，自古是中国礼乐与宫廷音乐的重要乐器。",
+      "related": [
+        "marquis-yi-bells",
+        "yayue",
+        "shang-zhou-bronzes",
+        "shi-er-lu"
+      ],
+      "sources": [
+        "enc-bianzhong",
+        "wd-bianzhong"
+      ]
+    },
+    {
+      "id": "marquis-yi-bells",
+      "title": "曾侯乙墓（Tomb of Marquis Yi of Zeng）",
+      "kind": "作品",
+      "unit": "music-china",
+      "era": "战国",
+      "region": "中国",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "湖北随州的考古遗址，年代在公元前433年以后，以大型编钟闻名。",
+      "when": "约公元前433年",
+      "overview": "曾侯乙墓是湖北随州曾都区的考古遗址，年代在公元前433年之后。墓中葬有曾侯乙，是少数完整保存、并以现代考古方法发掘的中国古代王侯墓之一。曾是春秋时期的诸侯国；墓约建于公元前433年，处于春秋末或战国初。它出现在精英墓葬随葬大套青铜礼器的千年传统末期，又特别以大量乐器、尤其是那套大型编钟著称。",
+      "related": [
+        "bianzhong",
+        "wuwangdu-chu-music-archaeology",
+        "shang-zhou-bronzes"
+      ],
+      "sources": [
+        "enc-marquis-yi-bells",
+        "wd-marquis-yi-bells"
+      ]
+    },
+    {
+      "id": "shi-er-lu",
+      "title": "十二律（Shi'er lü）",
+      "kind": "术语",
+      "unit": "music-china",
+      "era": "先秦",
+      "region": "中国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "中国古代音乐所用的标准化十二音体系。",
+      "when": "先秦—历代",
+      "overview": "十二律是中国古代音乐所用的标准化十二音体系，也被不太准确地称为“中国半音阶”，它只是古代所用的半音阶之一。十二律与毕达哥拉斯音阶的音程相同，基于3:2的比例。这一音列或其子集用于定音，保存在钟与律管中。",
+      "related": [
+        "bianzhong",
+        "yayue",
+        "china-music-history"
+      ],
+      "sources": [
+        "enc-shi-er-lu",
+        "wd-shi-er-lu"
+      ]
+    },
+    {
+      "id": "yuefu",
+      "title": "乐府（Yuefu）",
+      "kind": "风格",
+      "unit": "music-china",
+      "era": "汉代起",
+      "region": "中国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "以民歌风格写成的中国诗歌；原指负责采集或撰写歌词的官署“乐府”。",
+      "when": "汉代起（本项目划分）",
+      "overview": "乐府是以民歌风格写成的中国诗歌。这一名称原意为“音乐官署”，指负责采集或撰写歌词的朝廷机构；后来也用来称呼对乐府诗的文人仿作或改作。“乐府”的“府”与指辞赋的“赋”在英语中同音，但不是一回事。",
+      "related": [
+        "ci-poetry",
+        "china-music-history"
+      ],
+      "sources": [
+        "enc-yuefu",
+        "wd-yuefu"
+      ]
+    },
+    {
+      "id": "ci-poetry",
+      "title": "词（Ci）",
+      "kind": "风格",
+      "unit": "music-china",
+      "era": "唐宋",
+      "region": "中国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "古典诗歌传统中的一类抒情诗，依曲调填写，又称长短句、诗余。",
+      "when": "唐宋起（本项目划分）",
+      "overview": "词又称长短句、诗余，是中国古典诗歌传统中的一类抒情诗，也吸收民间传统。词被称为“歌词”，以一组固定的格式为基础，定节奏、定声调，句子长短依范例而定。其节奏与声调格式依据特定的曲调，许多词作标题中即给出曲调名。",
+      "related": [
+        "yuefu",
+        "su-shi",
+        "china-music-history"
+      ],
+      "sources": [
+        "enc-ci-poetry",
+        "wd-ci-poetry"
+      ]
+    },
+    {
+      "id": "chinese-opera",
+      "title": "戏曲（Xiqu）",
+      "kind": "风格",
+      "unit": "music-china",
+      "era": "13世纪成熟",
+      "region": "中国",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "中国传统的音乐戏剧形式，融合多种艺术，13世纪宋代成熟。",
+      "when": "13世纪成熟（宋代）",
+      "overview": "戏曲是中国传统的音乐戏剧形式，源远流长。它融合了古代中国的多种艺术形式，在一千多年间逐渐演变，至13世纪宋代达到成熟。早期形式较简单，后来逐渐吸收音乐、歌舞、武术、杂技、服装与化妆以及文学，形成传统戏曲。演员需多年练习才能掌握行当，夸张的扮相与色彩便于观众辨认角色。",
+      "related": [
+        "jingju",
+        "kunqu",
+        "yuan-zaju",
+        "cantonese-opera",
+        "nanguan"
+      ],
+      "sources": [
+        "enc-chinese-opera",
+        "wd-chinese-opera"
+      ]
+    },
+    {
+      "id": "yuan-zaju",
+      "title": "杂剧（Zaju）",
+      "kind": "风格",
+      "unit": "music-china",
+      "era": "元代",
+      "region": "中国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "融合散韵念白、舞蹈、歌唱与哑剧、偏重喜剧的中国戏曲形式，尤与元代相联系。",
+      "when": "元代（1271—1368）；宋金已有演出",
+      "overview": "杂剧是一种中国戏曲形式，综合散文与诗的念诵、舞蹈、歌唱和哑剧来娱乐观众，较重喜剧。它根源多样且更早，但尤与元代（1271—1368）相联系，在戏剧史与古典文学、诗歌研究中仍很重要。杂剧在更早的宋（960—1279）和金（1115—1234）已有演出，其表演的各种要素来自多种音乐、舞蹈、诗歌与戏剧传统。",
+      "related": [
+        "chinese-opera",
+        "kunqu"
+      ],
+      "sources": [
+        "enc-yuan-zaju",
+        "wd-yuan-zaju"
+      ]
+    },
+    {
+      "id": "cantonese-opera",
+      "title": "粤剧（Cantonese opera）",
+      "kind": "风格",
+      "unit": "music-china",
+      "era": "近代",
+      "region": "中国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "中国戏曲的主要剧种之一，源于广东，流行于两广、港澳与东南亚华人社区。",
+      "when": "近现代（本项目划分，摘要未给年代）",
+      "overview": "粤剧是中国戏曲的主要剧种之一，源于华南广东省，流行于广东、广西、香港、澳门及东南亚华人社区。和其他戏曲一样，它是包含音乐、歌唱、武术、杂技和表演的传统艺术形式。",
+      "related": [
+        "chinese-opera",
+        "jingju"
+      ],
+      "sources": [
+        "enc-cantonese-opera",
+        "wd-cantonese-opera"
+      ]
+    },
+    {
+      "id": "ruan",
+      "title": "阮（Ruan）",
+      "kind": "术语",
+      "unit": "music-china",
+      "era": "历代",
+      "region": "中国",
+      "medium": "乐器",
+      "tier": "重要",
+      "def": "中国传统拨弦乐器，有品、圆形琴身、四弦。",
+      "when": "历代—今（20世纪改用钢弦）",
+      "overview": "阮是中国传统拨弦乐器，为有品长颈、圆形琴身、四弦的琉特类乐器。四弦原为丝弦，20世纪起改为钢弦。现代阮有24品，每弦12个半音，音域比原来的13品大为扩展。品原多为象牙，近来多为装在木上的金属，金属品音色更明亮。台湾有时称阮琴。",
+      "related": [
+        "pipa",
+        "china-music-history"
+      ],
+      "sources": [
+        "enc-ruan",
+        "wd-ruan"
+      ]
+    },
+    {
+      "id": "gu-kaizhi",
+      "title": "顾恺之（Gu Kaizhi）",
+      "kind": "人物",
+      "unit": "art-china-painting",
+      "era": "东晋",
+      "region": "中国",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "东晋画家与官员（约344—406），著名的古代中国画家。",
+      "when": "约344—406",
+      "overview": "顾恺之，字长康，东晋（317—420）画家与官员，中国古代名画家。生于无锡，364年始在南京作画，366年为官，后升任王府属官。他也工诗与书法。著有三篇画论：《论画》《魏晋胜流画赞》《画云台山记》。他写道：人物画中衣着与外貌并不重要，眼睛才是神采与决定因素。",
+      "related": [
+        "six-dynasties-art",
+        "six-principles",
+        "china-painting-history"
+      ],
+      "sources": [
+        "enc-gu-kaizhi",
+        "wd-gu-kaizhi"
+      ]
+    },
+    {
+      "id": "wu-daozi",
+      "title": "吴道子（Wu Daozi）",
+      "kind": "人物",
+      "unit": "art-china-painting",
+      "era": "唐代",
+      "region": "中国",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "唐代画家（约689—约759），作品无一存世。",
+      "when": "约689—约759",
+      "overview": "吴道子，又名道玄，唐代画家。英国艺术史家苏立文视他为“七世纪的大师”之一。在中国，他的画被认为代表宫廷绘画的高峰。他的作品无一存世，后世存留的摹本以其原稿为本。",
+      "related": [
+        "tang-painting",
+        "china-painting-history"
+      ],
+      "sources": [
+        "enc-wu-daozi",
+        "wd-wu-daozi"
+      ]
+    },
+    {
+      "id": "along-the-river",
+      "title": "《清明上河图》（Along the River During the Qingming Festival）",
+      "kind": "作品",
+      "unit": "art-china-painting",
+      "era": "北宋",
+      "region": "中国",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "北宋画家张择端的手卷，后世多次摹写或重绘。",
+      "when": "北宋（张择端1085—1145）",
+      "overview": "《清明上河图》是宋代画家张择端（1085—1145）的手卷，后世多次摹写或重绘。它描绘北宋都城汴京的日常生活与风景。其主题常被认为是清明时节的世俗热闹，而非扫墓、祭祀等节日礼仪。按观者展卷的方向从右向左看，相继的场景展现从富到贫各阶层的生活以及乡村与城市的经济活动，也可见衣着与建筑。它被视为所有中国画中最著名的作品，被称为“中国的蒙娜丽莎”。",
+      "related": [
+        "song-painting",
+        "china-painting-history"
+      ],
+      "sources": [
+        "enc-along-the-river",
+        "wd-along-the-river"
+      ]
+    },
+    {
+      "id": "wang-ximeng",
+      "title": "王希孟（Wang Ximeng）",
+      "kind": "人物",
+      "unit": "art-china-painting",
+      "era": "北宋",
+      "region": "中国",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "北宋画家（1096—1119），唯一存世作品为《千里江山图》。",
+      "when": "1096—1119",
+      "overview": "王希孟是北宋画家，活动于12世纪初。他少年早慧，在宫廷画学学习时被宋徽宗赏识并亲自指授。1113年，18岁的他画成唯一存世作品——青绿长卷《千里江山图》。他23岁去世。",
+      "related": [
+        "zhao-ji",
+        "song-painting",
+        "china-painting-history"
+      ],
+      "sources": [
+        "enc-wang-ximeng",
+        "wd-wang-ximeng"
+      ]
+    },
+    {
+      "id": "xia-gui",
+      "title": "夏圭（Xia Gui）",
+      "kind": "人物",
+      "unit": "art-china-painting",
+      "era": "南宋",
+      "region": "中国",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "宋代山水画家，与马远并创“马夏”画派。",
+      "when": "约1195—1224（摘要描述栏所给）",
+      "overview": "夏圭，字禹玉，宋代山水画家。其生平所知甚少，存世作品也很少，但一般被视为中国最伟大的画家之一。他继承李唐的传统，进一步简化北宋以来的风格，以求更直接、更鲜明的效果。他与马远共同开创所谓“马夏派”，是当时最重要的画派之一。",
+      "related": [
+        "ma-yuan",
+        "song-painting",
+        "shan-shui"
+      ],
+      "sources": [
+        "enc-xia-gui",
+        "wd-xia-gui"
+      ]
+    },
+    {
+      "id": "wu-school",
+      "title": "吴门画派（Wu School）",
+      "kind": "风格",
+      "unit": "art-china-painting",
+      "era": "明代",
+      "region": "中国",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "明代南宗画家群体，以成员共同的艺术理论而非机构相联系。",
+      "when": "明代（沈周1427—1509为开创者）",
+      "overview": "吴派（吴门画派）是明代的一群南宗画家。它不是画院或教育机构，而主要因成员共同的艺术理论而联结。成员常被归为文人、士人或业余画家，崇尚作品个人化、让画家融入画中。吴派绘画的特点是有题跋，说明画作内容、日期、方法或缘由，通常被看作个人表达的载体。沈周（1427—1509）通常被视为吴派开创者。",
+      "related": [
+        "wen-zhengming",
+        "tang-yin",
+        "ming-painting"
+      ],
+      "sources": [
+        "enc-wu-school",
+        "wd-wu-school"
+      ]
+    },
+    {
+      "id": "six-principles",
+      "title": "谢赫“六法”（Six principles of Chinese painting）",
+      "kind": "术语",
+      "unit": "art-china-painting",
+      "era": "南朝",
+      "region": "中国",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "谢赫约550年在《古画品录》序中提出的评画六要。",
+      "when": "约公元550年",
+      "overview": "中国画“六法”由谢赫在约550年所著《古画品录》序言“评画六要”中确立，并称其为“旧有”“古代”的做法。六法为：气韵生动，即画家传入作品的生命力，没有气韵则无需再看；骨法用笔，不仅指笔触质感，也指书写与人格的紧密联系，当时书法与绘画不可分；应物象形，即描绘形与线；随类赋彩，即设色，包括层次、明暗与色调；经营位置，即构图、空间与深度；传移模写，即临摹范本，既师法自然也师法古人。",
+      "related": [
+        "gu-kaizhi",
+        "china-painting-history",
+        "xieyi"
+      ],
+      "sources": [
+        "enc-six-principles",
+        "wd-six-principles"
+      ]
+    },
+    {
+      "id": "ink-wash-painting",
+      "title": "水墨画（Ink wash painting）",
+      "kind": "风格",
+      "unit": "art-china-painting",
+      "era": "唐代起",
+      "region": "中国",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "以不同浓淡的墨色晕染作画的中国笔墨绘画，兴起于唐代。",
+      "when": "唐代（618—907）起",
+      "overview": "水墨画是以东亚书法所用的墨、按不同浓度晕染作画的中国笔墨绘画。它兴起于唐代（618—907），推翻了更早、更写实的技法。通常为单色，只用墨的深浅，极重笔法功力，追求传达对象的“神”或“精髓”而非直接模仿。水墨画自宋代（960—1279）起兴盛，14世纪由禅僧传入日本后也在日本兴盛。部分西方学者把中国画分为再现、表现、历史性东方艺术三期；中国学者有不同看法，认为当代水墨是多种历史传统的多元延续。",
+      "related": [
+        "xieyi",
+        "shan-shui",
+        "china-painting-history"
+      ],
+      "sources": [
+        "enc-ink-wash-painting",
+        "wd-ink-wash-painting"
+      ]
+    },
+    {
+      "id": "wu-changshuo",
+      "title": "吴昌硕（Wu Changshuo）",
+      "kind": "人物",
+      "unit": "art-china-painting",
+      "era": "晚清",
+      "region": "中国",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "晚清书法家、画家与篆刻家（1844—1927）。",
+      "when": "1844—1927",
+      "overview": "吴昌硕，原名吴俊卿，晚清书法家、画家与篆刻家，生于浙江安吉，以绘画、书法与篆刻成就最著。他擅画花卉，尤其梅花、牡丹与石榴，作品以大胆鲜明的色彩和雄强的笔力为特点，形成鲜明的个人风格。",
+      "related": [
+        "qi-baishi",
+        "qing-painting",
+        "seal-script"
+      ],
+      "sources": [
+        "enc-wu-changshuo",
+        "wd-wu-changshuo"
+      ]
+    },
+    {
+      "id": "liu-gongquan",
+      "title": "柳公权（Liu Gongquan）",
+      "kind": "人物",
+      "unit": "art-china-calligraphy",
+      "era": "晚唐",
+      "region": "中国",
+      "medium": "书法",
+      "tier": "核心",
+      "def": "晚唐书法家、文人与官员（778—865），以楷书著称。",
+      "when": "778—865",
+      "overview": "柳公权，字诚悬（778—865），晚唐书法家、文章家与官员，尤以楷书著名，是中国楷书四大家之一，另三位是颜真卿、欧阳询与赵孟頫。",
+      "related": [
+        "regular-script",
+        "yan-zhenqing",
+        "zhao-mengfu"
+      ],
+      "sources": [
+        "enc-liu-gongquan",
+        "wd-liu-gongquan"
+      ]
+    },
+    {
+      "id": "mi-fu",
+      "title": "米芾（Mi Fu）",
+      "kind": "人物",
+      "unit": "art-china-calligraphy",
+      "era": "北宋",
+      "region": "中国",
+      "medium": "书法",
+      "tier": "核心",
+      "def": "北宋画家、诗人、书法家与艺术理论家（1051—1107）。",
+      "when": "1051—1107",
+      "overview": "米芾是宋代早期的画家、诗人、书法家与艺术理论家，生于太原。他以山水画技法闻名，后称“米点”，即用平头笔点出宽而湿的墨点。其诗受李白影响，书法取法王羲之。",
+      "related": [
+        "wang-xizhi",
+        "su-shi",
+        "huang-tingjian",
+        "song-painting"
+      ],
+      "sources": [
+        "enc-mi-fu",
+        "wd-mi-fu"
+      ]
+    },
+    {
+      "id": "chu-suiliang",
+      "title": "褚遂良（Chu Suiliang）",
+      "kind": "人物",
+      "unit": "art-china-calligraphy",
+      "era": "初唐",
+      "region": "中国",
+      "medium": "书法",
+      "tier": "重要",
+      "def": "唐代书法家、史家与政治家（596—658），曾任宰相。",
+      "when": "596—658",
+      "overview": "褚遂良（596—658），字登善，封河南郡公，唐代书法家、史家与政治家，太宗、高宗朝任宰相。太宗晚年对他日益信任，命他任史官并直言进谏。太宗死后，他与长孙无忌受托辅佐高宗，初期权势很大。655年他极力反对高宗废王皇后、立武后，遭贬，此后在武后推动下屡遭贬谪，最终任爱州刺史，658年卒于贬所。",
+      "related": [
+        "regular-script",
+        "yan-zhenqing"
+      ],
+      "sources": [
+        "enc-chu-suiliang",
+        "wd-chu-suiliang"
       ]
     }
   ]
