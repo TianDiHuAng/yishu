@@ -1409,7 +1409,8 @@
         "manet",
         "millet-return-from-fields",
         "millet",
-        "bonvin-woman-at-spinet"
+        "bonvin-woman-at-spinet",
+        "photorealism"
       ],
       "sources": [
         "enc-realism-art",
@@ -1899,7 +1900,8 @@
         "braque-violin-collage",
         "picasso-la-vie",
         "picasso-bottle-glass-fork",
-        "mondrian-composition-rby-1927"
+        "mondrian-composition-rby-1927",
+        "constructivism-art"
       ],
       "sources": [
         "enc-cubism",
@@ -1968,7 +1970,8 @@
       "related": [
         "futurism",
         "surrealism",
-        "rauschenberg-gloria"
+        "rauschenberg-gloria",
+        "performance-art"
       ],
       "sources": [
         "enc-dada",
@@ -2003,7 +2006,8 @@
       "related": [
         "dada",
         "abstract-expressionism",
-        "dali"
+        "dali",
+        "frida-kahlo"
       ],
       "sources": [
         "enc-surrealism",
@@ -2039,7 +2043,8 @@
         "modern-art",
         "minimalism",
         "art-deco",
-        "modern-architecture"
+        "modern-architecture",
+        "constructivism-art"
       ],
       "sources": [
         "enc-bauhaus",
@@ -2078,7 +2083,9 @@
         "kandinsky",
         "modern-art",
         "pop-art",
-        "johns-reconstruction"
+        "johns-reconstruction",
+        "photorealism",
+        "pollock"
       ],
       "sources": [
         "enc-abstract-expressionism",
@@ -2184,7 +2191,9 @@
       "related": [
         "expressionism",
         "abstract-expressionism",
-        "klee-carnival-in-snow"
+        "klee-carnival-in-snow",
+        "constructivism-art",
+        "mondrian"
       ],
       "sources": [
         "enc-kandinsky",
@@ -2339,7 +2348,8 @@
         "abstract-expressionism",
         "contemporary-art",
         "warhol",
-        "oldenburg-giant-toothpaste-tube"
+        "oldenburg-giant-toothpaste-tube",
+        "photorealism"
       ],
       "sources": [
         "enc-pop-art",
@@ -2374,7 +2384,8 @@
         "abstract-expressionism",
         "conceptual-art",
         "bauhaus",
-        "lewitt-wall-drawing-4"
+        "lewitt-wall-drawing-4",
+        "land-art"
       ],
       "sources": [
         "enc-minimalism",
@@ -2408,7 +2419,10 @@
       "related": [
         "minimalism",
         "contemporary-art",
-        "lewitt-wall-drawing-4"
+        "lewitt-wall-drawing-4",
+        "land-art",
+        "fluxus",
+        "arte-povera"
       ],
       "sources": [
         "enc-conceptual-art",
@@ -2558,7 +2572,8 @@
         "mi-youren-cloudy-mountains",
         "china-painting-history",
         "lizong-wangwei-album",
-        "cma-liu-songnian-qin"
+        "cma-liu-songnian-qin",
+        "guo-xi"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -2696,7 +2711,8 @@
       "overview": "强调以少胜多、笔墨情趣与作者心性，成熟于宋元文人画传统。",
       "related": [
         "gongbi",
-        "china-painting-history"
+        "china-painting-history",
+        "guo-xi"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -5407,7 +5423,8 @@
         "hokusai-muneyuki-poem",
         "hokusai-hitomaro-poem",
         "hokusai-nakahara-sagami",
-        "japanese-architecture"
+        "japanese-architecture",
+        "klimt"
       ],
       "sources": [
         "enc-ukiyo-e",
@@ -9750,7 +9767,8 @@
         "muqi-dragon",
         "du-jin-lin-bu",
         "ten-stages-bodhisattvas",
-        "wang-hui-bamboo"
+        "wang-hui-bamboo",
+        "guo-xi"
       ],
       "sources": [
         "cma-1959-348"
@@ -12612,7 +12630,8 @@
         "modern-art",
         "rothko-no2-red-maroons",
         "kelly-red-blue",
-        "rauschenberg-gloria"
+        "rauschenberg-gloria",
+        "pollock"
       ],
       "sources": [
         "cma-1980-180"
@@ -19443,7 +19462,8 @@
       "related": [
         "modern-art",
         "cubism",
-        "mondrian-field-young-trees"
+        "mondrian-field-young-trees",
+        "mondrian"
       ],
       "sources": [
         "cma-1967-215"
@@ -19476,7 +19496,8 @@
       "overview": "该馆说明：画的是1907年夏蒙德里安居住的荷兰东部奥埃勒村周边的田野；暮色天空下树的剪影所造成的氛围，显示他对精神性的追求早于1916年开始画完全抽象的非具象构图；他受形而上学与哲学阅读引导，追求画中更高的精神现实，最终舍弃一切再现元素而走向纯粹几何抽象；弗兰克·斯特拉捐赠给该馆。",
       "related": [
         "mondrian-composition-rby-1927",
-        "post-impressionism"
+        "post-impressionism",
+        "mondrian"
       ],
       "sources": [
         "cma-1971-220"
@@ -23659,6 +23680,427 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='dizi 示意图'><title>dizi</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>品种</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>曲笛·梆笛·新笛</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>笛子</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>中国横吹笛</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>民间与戏曲</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>广泛使用</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>现代乐队</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>民族管弦乐</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；年代与形制细节未给出。"
+    },
+    {
+      "id": "constructivism-art",
+      "title": "构成主义（Constructivism）",
+      "kind": "风格",
+      "unit": "art-modern",
+      "era": "20世纪初",
+      "region": "俄国·苏联",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "1915年由塔特林与罗德琴科创立的艺术运动，抽象而简朴，意在反映现代工业社会与城市空间。",
+      "when": "约公元1915年起",
+      "overview": "构成主义是20世纪初的艺术运动，1915年由弗拉基米尔·塔特林和亚历山大·罗德琴科创立。",
+      "related": [
+        "kandinsky",
+        "bauhaus",
+        "cubism"
+      ],
+      "sources": [
+        "enc-constructivism-art",
+        "wd-constructivism-art"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，构成主义是20世纪初的艺术运动，1915年由塔特林与罗德琴科创立，与苏联社会主义、布尔什维克及俄国先锋派相关联。",
+        "风格特征": "摘要称，构成主义艺术抽象而简朴，意在反映现代工业社会与城市空间。",
+        "代表人物与作品": "摘要提到的人物只有创立者弗拉基米尔·塔特林与亚历山大·罗德琴科，没有列举作品。",
+        "技法或形式分析": "摘要称，这一运动拒斥装饰性的风格化，主张以工业方式组装材料。",
+        "与前后风格的关系和争论": "摘要称，构成主义者赞成艺术服务于宣传与社会目的。它与包豪斯等的关系摘要未述，库内互链为本项目所加。",
+        "一图": "示意图以构成主义为中心，标示塔特林与罗德琴科、工业材料组装、宣传与社会目的三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）代表作品与运动的终结时间，摘要未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='constructivism-art 示意图'><title>constructivism-art</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>塔特林·罗德琴科</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1915年创立</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>构成主义</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>抽象·简朴</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>工业组装</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>拒斥装饰</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>社会目的</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>宣传</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；作品与终结时间未给出。"
+    },
+    {
+      "id": "land-art",
+      "title": "大地艺术（Land art）",
+      "kind": "风格",
+      "unit": "art-contemporary",
+      "era": "1960—1970年代",
+      "region": "英美等",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "又称地景艺术、环境艺术，1960至1970年代兴起，多就地使用土、石、植被与水，作品常远离人口中心。",
+      "when": "约公元1960—1970年代",
+      "overview": "大地艺术又称地景艺术、环境艺术或土方作品，是1960至1970年代兴起的艺术运动，主要与英国和美国相关。",
+      "related": [
+        "conceptual-art",
+        "minimalism",
+        "arte-povera"
+      ],
+      "sources": [
+        "enc-land-art",
+        "wd-land-art"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，大地艺术兴起于1960至1970年代，主要与英国和美国相关，但也包括许多其他国家的例子。",
+        "风格特征": "摘要称，大地艺术在所用材料与作品选址上拓展了传统艺术创作的边界。",
+        "代表人物与作品": "摘要没有列举艺术家与作品，本条目不补写。",
+        "技法或形式分析": "摘要称，所用材料多为大地本身的材料，包括现场的土壤、岩石、植被与水；选址常远离人口中心。",
+        "与前后风格的关系和争论": "摘要称，作品有时相当难以到达，通常以照片记录带回城市画廊展示。",
+        "一图": "示意图以大地艺术为中心，标示就地材料、远离人口中心、照片记录三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）艺术家与作品未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='land-art 示意图'><title>land-art</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>就地材料</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>土·石·植被·水</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>大地艺术</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1960—1970年代</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>偏远选址</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>远离人口中心</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>照片记录</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>带回画廊</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；艺术家与作品未给出。"
+    },
+    {
+      "id": "performance-art",
+      "title": "行为艺术（Performance art）",
+      "kind": "风格",
+      "unit": "art-contemporary",
+      "era": "20世纪",
+      "region": "全球",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "艺术家本人在场的艺术作品，可现场观看或经记录观看，在20世纪先锋艺术中具有重要作用。",
+      "when": "20世纪—今",
+      "overview": "行为艺术是艺术家本人出现在作品中的艺术作品或装置，也称艺术行动。",
+      "related": [
+        "fluxus",
+        "dada",
+        "video-art"
+      ],
+      "sources": [
+        "enc-performance-art",
+        "wd-performance-art"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，行为艺术多年来发展为一种以现场呈现艺术的独立类型，在20世纪先锋艺术中起了重要而基础的作用。",
+        "风格特征": "摘要称，行为艺术是艺术家本人出现在作品中的艺术作品或装置，也称“艺术行动”。",
+        "代表人物与作品": "摘要没有列举艺术家与作品，本条目不补写。",
+        "技法或形式分析": "摘要称，它可现场观看，也可经记录观看；可即兴发展，也可事先写定；传统上在美术语境中以跨学科方式向公众呈现。",
+        "与前后风格的关系和争论": "摘要没有谈及它与达达、激浪派的具体关系；库内互链为本项目所加。",
+        "一图": "示意图以行为艺术为中心，标示艺术家在场、现场或记录、20世纪先锋艺术三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）起源年代、艺术家与作品未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='performance-art 示意图'><title>performance-art</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>艺术家在场</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>作品的一部分</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>行为艺术</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>艺术行动</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>现场或记录</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>即兴或写定</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>先锋艺术</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>20世纪</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；年代、艺术家与作品未给出。"
+    },
+    {
+      "id": "video-art",
+      "title": "录像艺术（Video art）",
+      "kind": "风格",
+      "unit": "art-contemporary",
+      "era": "1960年代末—今",
+      "region": "全球",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "以录像技术为视听媒介的艺术形式，1960年代末随消费级录像设备出现而兴起。",
+      "when": "约公元1960年代末—今",
+      "overview": "录像艺术是一种依靠录像技术作为视觉与听觉媒介的艺术形式。",
+      "related": [
+        "fluxus",
+        "performance-art"
+      ],
+      "sources": [
+        "enc-video-art",
+        "wd-video-art"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，录像艺术兴起于1960年代末，当时录像机等新的消费级录像技术已在企业广播之外可用。",
+        "风格特征": "摘要称，录像艺术是依靠录像技术作为视听媒介的艺术形式。",
+        "代表人物与作品": "摘要没有列举艺术家与作品。激浪派条目的摘要提到白南准与沃尔夫·福斯特尔开创录像艺术，那是另一条目的内容。",
+        "技法或形式分析": "摘要列出的形态：播出的录像；在画廊或博物馆观看的装置；网络流媒体、录像带或 DVD 发行的作品；以及包含电视机、监视器与投影、显示现场或录制影音的表演。",
+        "与前后风格的关系和争论": "摘要没有谈及相关争论。",
+        "一图": "示意图以录像艺术为中心，标示消费级录像设备、装置、表演三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）艺术家与作品未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='video-art 示意图'><title>video-art</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>消费级设备</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1960年代末</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>录像艺术</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>视听媒介</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>装置</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>画廊与博物馆</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>表演</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>电视·投影</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；艺术家与作品未给出。"
+    },
+    {
+      "id": "photorealism",
+      "title": "照相写实主义（Photorealism）",
+      "kind": "风格",
+      "unit": "art-contemporary",
+      "era": "1960年代末—1970年代初",
+      "region": "美国",
+      "medium": "绘画",
+      "tier": "补充",
+      "def": "艺术家研究照片后，在另一媒介中尽可能逼真地再现图像；也特指1960年代末起的一场美国画家运动。",
+      "when": "约公元1960年代末起",
+      "overview": "照相写实主义是一种涵盖绘画、素描等平面媒介的艺术类型，艺术家研究照片后尝试在另一媒介中尽可能逼真地再现该图像。",
+      "related": [
+        "pop-art",
+        "realism-art",
+        "abstract-expressionism"
+      ],
+      "sources": [
+        "enc-photorealism",
+        "wd-photorealism"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，这一术语也特指始于1960年代末至1970年代初的一场美国画家运动。",
+        "风格特征": "摘要称，照相写实主义涵盖绘画、素描等平面媒介，艺术家研究照片，再尝试在另一媒介中尽可能逼真地再现该图像。",
+        "代表人物与作品": "摘要没有列举艺术家与作品，本条目不补写。",
+        "技法或形式分析": "摘要给出的方法只有“研究照片后在另一媒介中逼真再现”。本条目不补写具体技法。",
+        "与前后风格的关系和争论": "摘要称，这一术语可广义用于多种媒介的作品。它与波普艺术的关系摘要未述，库内互链为本项目所加。",
+        "一图": "示意图以照相写实主义为中心，标示照片、逼真再现、美国画家运动三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）艺术家与作品未给出；（3）广义与特指两种用法的边界，摘要未展开。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='photorealism 示意图'><title>photorealism</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>照片</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>研究对象</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>照相写实主义</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>平面媒介</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>逼真再现</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>另一媒介</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>美国运动</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>1960年代末起</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；艺术家与作品未给出。"
+    },
+    {
+      "id": "fluxus",
+      "title": "激浪派（Fluxus）",
+      "kind": "风格",
+      "unit": "art-contemporary",
+      "era": "1960—1970年代",
+      "region": "国际",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "1960至1970年代由视觉艺术家、作曲家、设计师与诗人组成的国际跨学科群体，受约翰·凯奇启发，重过程而轻成品。",
+      "when": "约公元1960—1970年代",
+      "overview": "激浪派是1960至1970年代一个国际性、跨学科的视觉艺术家、作曲家、设计师与诗人群体。",
+      "related": [
+        "performance-art",
+        "video-art",
+        "conceptual-art"
+      ],
+      "sources": [
+        "enc-fluxus",
+        "wd-fluxus"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，激浪派是1960至1970年代一个国际性、跨学科的群体，成员包括视觉艺术家、作曲家、设计师与诗人。",
+        "风格特征": "摘要称，他们受约翰·凯奇启发，从事实验性艺术表演，强调基于偶然的过程，而非完成的作品。",
+        "代表人物与作品": "摘要提到：迪克·希金斯创造“跨媒介”（intermedia）一词；亨利·弗林特最早发展观念艺术，他与激浪派的关联有争议；白南准与沃尔夫·福斯特尔开创录像艺术。",
+        "技法或形式分析": "摘要列出的新艺术形式：跨媒介、观念艺术、录像艺术。",
+        "与前后风格的关系和争论": "摘要引荷兰画廊主与评论家哈里·鲁赫的话，称激浪派为“六十年代最激进、最具实验性的艺术运动”。这是转引的评价，不代表定论。弗林特与激浪派的关联，摘要明说“有争议”。",
+        "一图": "示意图以激浪派为中心，标示约翰·凯奇、偶然过程、新艺术形式三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）鲁赫引语为转引；（3）弗林特与激浪派关系有争议，本条目照录不判断；（4）凯奇条目库内尚无。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='fluxus 示意图'><title>fluxus</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>约翰·凯奇</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>启发</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>激浪派</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>国际跨学科群体</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>偶然过程</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>重过程轻成品</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>新形式</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>跨媒介·录像</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；转引评价未核验；人物关系有争议。"
+    },
+    {
+      "id": "arte-povera",
+      "title": "贫穷艺术（Arte Povera）",
+      "kind": "风格",
+      "unit": "art-contemporary",
+      "era": "1960年代末—1970年代初",
+      "region": "意大利",
+      "medium": "综合",
+      "tier": "补充",
+      "def": "1960年代末至1970年代初发生在意大利各大城市、尤以都灵为中心的艺术运动，术语由切兰特于1967年提出。",
+      "when": "约公元1967年—1970年代初",
+      "overview": "贫穷艺术是1960年代末至1970年代初在意大利各主要城市、尤其是都灵展开的艺术运动。",
+      "related": [
+        "conceptual-art",
+        "land-art"
+      ],
+      "sources": [
+        "enc-arte-povera",
+        "wd-arte-povera"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，贫穷艺术发生于1960年代末至1970年代初意大利各主要城市，尤以都灵为中心，米兰、罗马、热那亚、威尼斯、那不勒斯与博洛尼亚也很重要。",
+        "风格特征": "摘要没有描述作品的风格特征，本条目不补写。",
+        "代表人物与作品": "摘要称，术语由意大利艺术评论家杰尔马诺·切兰特于1967年提出。摘要没有列举艺术家与作品。",
+        "技法或形式分析": "摘要没有给出材料或形式方面的内容。“贫穷”的含义摘要未解释，本条目不据字面推断。",
+        "与前后风格的关系和争论": "摘要称，这一术语是在1960年代末的动荡时期引入意大利的，当时艺术家采取激进立场，开始抨击政府、工业与文化既有机构的价值观。",
+        "一图": "示意图以贫穷艺术为中心，标示都灵等城市、切兰特命名、抨击既有机构三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）艺术家、作品与材料特征未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='arte-povera 示意图'><title>arte-povera</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>都灵等城市</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>意大利</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>贫穷艺术</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1960年代末</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>切兰特</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>1967年命名</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>激进立场</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>抨击既有机构</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；艺术家、作品与材料未给出。"
+    },
+    {
+      "id": "frida-kahlo",
+      "title": "弗里达·卡罗（Frida Kahlo）",
+      "kind": "人物",
+      "unit": "art-modern",
+      "era": "20世纪",
+      "region": "墨西哥",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "墨西哥画家，以大量肖像、自画像及受墨西哥自然与器物启发的作品著称。",
+      "when": "20世纪",
+      "overview": "弗里达·卡罗是墨西哥画家，以众多肖像、自画像以及受墨西哥自然与器物启发的作品而闻名。",
+      "related": [
+        "surrealism",
+        "mondrian",
+        "klimt"
+      ],
+      "sources": [
+        "enc-frida-kahlo",
+        "wd-frida-kahlo"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，卡罗属于革命后的“墨西哥性”（Mexicayotl）运动，该运动试图界定墨西哥身份。（生卒年摘要未给出，本条目不写具体年份。）",
+        "风格特征": "摘要称，她受墨西哥大众文化启发，采用质朴的民间艺术风格，探讨墨西哥社会中的身份、后殖民、性别、阶级与种族问题；作品常有强烈的自传成分，混合现实与幻想。",
+        "代表人物与作品": "摘要提到1940年自画像《梦》，称其保持女性艺术家作品拍卖最高价纪录（5470万美元）。",
+        "技法或形式分析": "摘要给出的风格信息就是“质朴民间风格、现实与幻想混合”。本条目不补写具体技法。",
+        "与前后风格的关系和争论": "摘要称，卡罗曾被描述为超现实主义者或魔幻现实主义者，并以描绘慢性疼痛经历著称。“被描述为”说明这是归类说法，不是定论。",
+        "一图": "示意图以卡罗为中心，标示墨西哥大众文化、自画像、超现实或魔幻现实三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）拍卖纪录是会变化的市场数据，以摘要取回日为准；（3）生卒年未给出；（4）流派归属是“被描述为”。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='frida-kahlo 示意图'><title>frida-kahlo</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>大众文化</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>墨西哥</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>弗里达·卡罗</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>墨西哥画家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>自画像</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>自传成分</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>流派归属</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>超现实或魔幻现实</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；拍卖纪录会变；生卒年未给出；流派归属有不同说法。"
+    },
+    {
+      "id": "mondrian",
+      "title": "蒙德里安（Piet Mondrian）",
+      "kind": "人物",
+      "unit": "art-modern",
+      "era": "20世纪",
+      "region": "荷兰",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "荷兰画家与艺术理论家，20世纪抽象艺术的先驱之一，由具象逐步转向以简单几何元素为语汇的抽象。",
+      "when": "20世纪",
+      "overview": "蒙德里安是荷兰画家和艺术理论家，被视为20世纪最伟大的艺术家之一，是20世纪抽象艺术的先驱之一。",
+      "related": [
+        "mondrian-composition-rby-1927",
+        "mondrian-field-young-trees",
+        "kandinsky",
+        "frida-kahlo",
+        "pollock",
+        "klimt"
+      ],
+      "sources": [
+        "enc-mondrian",
+        "wd-mondrian"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，蒙德里安是荷兰画家和艺术理论家，1911年后以 Piet Mondrian 为名。（生卒年摘要未给出，本条目不写具体年份。）",
+        "风格特征": "摘要称，他把艺术方向从具象绘画转向越来越抽象的风格，直到艺术语汇被简化为简单的几何元素。",
+        "代表人物与作品": "摘要没有列举作品。库内另有他的两件作品条目：《红、黄、蓝构图》（1927）与《前景有幼树的田野》（约1907）。",
+        "技法或形式分析": "摘要给出的形式信息就是“简单的几何元素”。本条目不补写网格、原色等细节。",
+        "与前后风格的关系和争论": "摘要称，他被视为20世纪最伟大的艺术家之一、20世纪抽象艺术的先驱之一。“最伟大”是评价性表述。",
+        "一图": "示意图以蒙德里安为中心，标示具象绘画、抽象转向、几何元素三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“最伟大”为评价性表述未核验；（3）风格派等关联摘要未述；（4）生卒年未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='mondrian 示意图'><title>mondrian</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>具象绘画</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>早期方向</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>蒙德里安</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>画家·理论家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>抽象转向</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>逐步简化</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>几何元素</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>最终语汇</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；评价性表述未核验；生卒年未给出。"
+    },
+    {
+      "id": "pollock",
+      "title": "波洛克（Jackson Pollock）",
+      "kind": "人物",
+      "unit": "art-contemporary",
+      "era": "20世纪",
+      "region": "美国",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "美国画家，抽象表现主义的重要人物，以将液态家用油漆倾倒或泼溅于水平画面的“滴画法”著称。",
+      "when": "20世纪",
+      "overview": "波洛克是美国画家，抽象表现主义运动的重要人物。",
+      "related": [
+        "pollock-number5",
+        "abstract-expressionism",
+        "mondrian"
+      ],
+      "sources": [
+        "enc-pollock",
+        "wd-pollock"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，波洛克是美国画家，抽象表现主义运动的重要人物。（生卒年摘要未给出，本条目不写具体年份。）",
+        "风格特征": "摘要称，他以“滴画法”著称：将液态家用油漆倾倒或泼溅在水平放置的画面上，使他能从各个角度观看并作画。",
+        "代表人物与作品": "摘要没有列举作品。库内另有作品条目《第5号，1950》。",
+        "技法或形式分析": "摘要称，这被称为“满幅绘画”与“行动绘画”，因为他覆盖整张画布，并以全身力量作画，常呈狂乱的舞蹈式姿态。",
+        "与前后风格的关系和争论": "摘要称，这种极端的抽象形式使评论界分化：有人称赞创作的直接性，有人嘲讽其随机效果。这是摘要给出的两派意见，本条目不作判断。",
+        "一图": "示意图以波洛克为中心，标示抽象表现主义、滴画法、评论分歧三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）作品与生卒年未给出；（3）评论分歧只有摘要的概括，没有具体评论者。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='pollock 示意图'><title>pollock</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>抽象表现主义</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>重要人物</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>波洛克</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>美国画家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>滴画法</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>水平画面</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>评论分歧</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>直接性与随机</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；作品与生卒年未给出；评论分歧未列出处。"
+    },
+    {
+      "id": "klimt",
+      "title": "克里姆特（Gustav Klimt）",
+      "kind": "人物",
+      "unit": "art-modern",
+      "era": "19世纪末—20世纪初",
+      "region": "奥地利",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "奥地利象征主义画家，维也纳分离派创始成员之一，作品有助于界定欧洲的新艺术风格。",
+      "when": "19世纪末—20世纪初",
+      "overview": "克里姆特是奥地利象征主义画家，维也纳分离派运动的创始成员之一。",
+      "related": [
+        "frida-kahlo",
+        "mondrian",
+        "ukiyo-e"
+      ],
+      "sources": [
+        "enc-klimt",
+        "wd-klimt"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，克里姆特是奥地利象征主义画家，维也纳分离派运动的创始成员之一，其作品有助于界定欧洲的新艺术风格。（生卒年摘要未给出，本条目不写具体年份。）",
+        "风格特征": "摘要称，他的主要题材是女性身体，作品带有坦率的情色意味。",
+        "代表人物与作品": "摘要称，他最著名的作品是《吻》与《阿黛尔·布洛赫-鲍尔肖像一号》；作品包括绘画、壁画、素描及其他艺术品，具象作品中有寓意画与肖像，也画风景。",
+        "技法或形式分析": "摘要没有给出技法细节（如金箔使用），本条目不补写。",
+        "与前后风格的关系和争论": "摘要称，在维也纳分离派艺术家中，克里姆特受日本艺术及其方法影响最深。库内互链浮世绘为本项目所加。",
+        "一图": "示意图以克里姆特为中心，标示维也纳分离派、女性身体题材、日本艺术影响三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）技法细节与生卒年未给出；（3）“受日本艺术影响最深”是摘要的比较说法，未核验。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='klimt 示意图'><title>klimt</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>维也纳分离派</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>创始成员</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>克里姆特</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>象征主义画家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>女性身体</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>主要题材</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>日本艺术</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>影响最深</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；技法与生卒年未给出；比较性说法未核验。"
+    },
+    {
+      "id": "guo-xi",
+      "title": "郭熙（Guo Xi）",
+      "kind": "人物",
+      "unit": "art-china-painting",
+      "era": "北宋",
+      "region": "中国（河南）",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "北宋河南籍山水画家，传有《林泉高致》，代表作《早春图》（1072）。",
+      "when": "北宋",
+      "overview": "郭熙是北宋时期河南的中国山水画家。",
+      "related": [
+        "xieyi",
+        "song-painting",
+        "juran-buddhist-retreat"
+      ],
+      "sources": [
+        "enc-guo-xi",
+        "wd-guo-xi"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，郭熙是北宋时期河南的山水画家，是宫廷职业画家，也是受过良好教育的文人画家。",
+        "风格特征": "摘要称，他发展出一套极为细致的程式化笔法体系，对后世画家很重要。",
+        "代表人物与作品": "摘要称，《林泉高致》一文归于他名下；最著名的作品之一是《早春图》，纪年1072年。",
+        "技法或形式分析": "摘要称，《早春图》展示了他创造多重视角的创新技法，他称之为“全景之角”（the angle of totality），也称“散点透视”（Floating Perspective）。“全景之角”是摘要英文的直译，中文原术语摘要未给出。",
+        "与前后风格的关系和争论": "摘要称，这种表现方式取消了观者的静止视点，突显中西空间表现方式的差异。这是摘要的概括，本条目不作展开。",
+        "一图": "示意图以郭熙为中心，标示北宋宫廷、《林泉高致》、《早春图》与散点透视三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）《林泉高致》只说“归于他名下”，作者归属本条目照录；（3）“the angle of totality”对应的中文术语未给出，需中文专著核对；（4）生卒年未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='guo-xi 示意图'><title>guo-xi</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>北宋宫廷</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>职业画家</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>郭熙</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>山水画家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>林泉高致</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>归于其名下</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>早春图</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>1072·散点透视</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；中文术语与生卒年待核；著作归属照录。"
     }
   ]
 }

@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 667 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 679 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -245,6 +245,10 @@
 | art-deco | 装饰艺术（Art Deco） | 风格 | 1910年代—1930年代初 | 欧洲·美洲 | 综合 | 重要 | O1 |
 | modern-architecture | 现代建筑（Modern architecture） | 风格 | 20世纪 | 全球 | 建筑 | 重要 | O1 |
 | beaux-arts-architecture | 学院派建筑（Beaux-Arts architecture） | 风格 | 19世纪30年代—19世纪末 | 欧洲·美洲 | 建筑 | 重要 | O1 |
+| constructivism-art | 构成主义（Constructivism） | 风格 | 20世纪初 | 俄国·苏联 | 综合 | 重要 | O1 |
+| frida-kahlo | 弗里达·卡罗（Frida Kahlo） | 人物 | 20世纪 | 墨西哥 | 绘画 | 重要 | O1 |
+| mondrian | 蒙德里安（Piet Mondrian） | 人物 | 20世纪 | 荷兰 | 绘画 | 核心 | O1 |
+| klimt | 克里姆特（Gustav Klimt） | 人物 | 19世纪末—20世纪初 | 奥地利 | 绘画 | 重要 | O1 |
 
 ## art-contemporary（艺术史·当代）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -266,6 +270,13 @@
 | johns-reconstruction | 约翰斯《重建》（1959） | 作品 | 20世纪 | 美国 | 绘画 | 重要 | O1 |
 | oldenburg-giant-toothpaste-tube | 奥尔登堡《巨型牙膏管》（1964） | 作品 | 20世纪 | 美国 | 雕塑 | 重要 | O1 |
 | lewitt-wall-drawing-4 | 勒维特《墙绘 #4》（1969） | 作品 | 20世纪 | 美国 | 观念艺术 | 重要 | O1 |
+| land-art | 大地艺术（Land art） | 风格 | 1960—1970年代 | 英美等 | 综合 | 重要 | O1 |
+| performance-art | 行为艺术（Performance art） | 风格 | 20世纪 | 全球 | 综合 | 重要 | O1 |
+| video-art | 录像艺术（Video art） | 风格 | 1960年代末—今 | 全球 | 综合 | 重要 | O1 |
+| photorealism | 照相写实主义（Photorealism） | 风格 | 1960年代末—1970年代初 | 美国 | 绘画 | 补充 | O1 |
+| fluxus | 激浪派（Fluxus） | 风格 | 1960—1970年代 | 国际 | 综合 | 重要 | O1 |
+| arte-povera | 贫穷艺术（Arte Povera） | 风格 | 1960年代末—1970年代初 | 意大利 | 综合 | 补充 | O1 |
+| pollock | 波洛克（Jackson Pollock） | 人物 | 20世纪 | 美国 | 绘画 | 核心 | O1 |
 
 ## art-china-painting（中国绘画史）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -292,6 +303,7 @@
 | lan-ying-pure-conversation | 蓝瑛《支许清谈图》 | 作品 | 17世纪 | 中国 | 绘画 | 重要 | O6 |
 | qiu-ying-garden | 仇英《独乐园图》 | 作品 | 16世纪 | 中国 | 绘画 | 核心 | O6 |
 | chinese-architecture | 中国建筑（Chinese architecture） | 风格 | 历代 | 中国 | 建筑 | 重要 | O1、O6 |
+| guo-xi | 郭熙（Guo Xi） | 人物 | 北宋 | 中国（河南） | 绘画 | 核心 | O1 |
 
 ## art-china-calligraphy（中国书法史）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
