@@ -8,13 +8,14 @@
     "技法或形式分析": "摘要称，这被称为“满幅绘画”与“行动绘画”，因为他覆盖整张画布，并以全身力量作画，常呈狂乱的舞蹈式姿态。",
     "与前后风格的关系和争论": "摘要称，这种极端的抽象形式使评论界分化：有人称赞创作的直接性，有人嘲讽其随机效果。这是摘要给出的两派意见，本条目不作判断。",
     "一图": "示意图以波洛克为中心，标示抽象表现主义、滴画法、评论分歧三项。",
-    "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）作品与生卒年未给出；（3）评论分歧只有摘要的概括，没有具体评论者。"
+    "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）作品与生卒年未给出；（3）评论分歧只有摘要的概括，没有具体评论者。（GND 对照，2026-11-25）德国国家图书馆规范档（118595555）给出生卒 1912—1956；本条目未写具体生卒年，可据此补充。"
   },
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='pollock 示意图'><title>pollock</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>抽象表现主义</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>重要人物</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>波洛克</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>美国画家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>滴画法</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>水平画面</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>评论分歧</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>直接性与随机</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
   "sources": [
     "enc-pollock",
-    "wd-pollock"
+    "wd-pollock",
+    "gnd-118595555"
   ],
   "needs_verification": true,
-  "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；作品与生卒年未给出；评论分歧未列出处。"
+  "pending_notes": "GND 规范档给出生卒 1912—1956，本条目尚未写入；来源独立性有限（Wikipedia+Wikidata）；作品与生卒年未给出；评论分歧未列出处。"
 }

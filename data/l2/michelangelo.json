@@ -8,7 +8,7 @@
     "技法或形式分析": "在形式上，其雕塑与绘画都以人体的结构与力度为核心，呈现出雄浑的表现特征。西斯廷礼拜堂天顶画属于绘画实践，圣彼得大教堂的设计则体现其建筑面向。概述对其具体技法着墨有限，此处仅据已述内容概括。",
     "与前后风格的关系和争论": "相关条目将他与盛期文艺复兴、样式主义并列关联，显示其处于两者之间的关键位置。现有材料记载较一致，未见具体争论，学界主要讨论其与盛期文艺复兴及样式主义的分期和边界问题。",
     "一图": "示意图呈现米开朗基罗以人体表现为核心，联系其雕塑、绘画与建筑实践及相邻风格。",
-    "待核实": "概述提及《大卫》雕像、西斯廷礼拜堂天顶画与圣彼得大教堂，但未列出具体年份与收藏或坐落信息。若要补入这些细节，须待补充第二来源后核实。其与样式主义之间的具体风格分界亦有待更多材料支持。 【已复核·Wikidata】生卒：第二来源 wd-michelangelo（https://www.wikidata.org/wiki/Q5592），据其结构化数据：生年 1475，卒年 1564。（ULAN 对照，2026-11-24）ULAN 简介：Italian sculptor, painter, architect, 1475-1564。生卒年1475—1564与本条目 when 一致；职业为雕塑家、画家与建筑师，与本条目相容。ULAN 另有同名候选（Michelangelo dell'Ocha、Buonarroti, Michelangelo, II 等），职业或年代不符，未采用。"
+    "待核实": "概述提及《大卫》雕像、西斯廷礼拜堂天顶画与圣彼得大教堂，但未列出具体年份与收藏或坐落信息。若要补入这些细节，须待补充第二来源后核实。其与样式主义之间的具体风格分界亦有待更多材料支持。 【已复核·Wikidata】生卒：第二来源 wd-michelangelo（https://www.wikidata.org/wiki/Q5592），据其结构化数据：生年 1475，卒年 1564。（ULAN 对照，2026-11-24）ULAN 简介：Italian sculptor, painter, architect, 1475-1564。生卒年1475—1564与本条目 when 一致；职业为雕塑家、画家与建筑师，与本条目相容。ULAN 另有同名候选（Michelangelo dell'Ocha、Buonarroti, Michelangelo, II 等），职业或年代不符，未采用。（GND 对照，2026-11-25）德国国家图书馆规范档（118582143）生卒 1475—1564，与本条目一致，已独立印证（只印证生卒与身份）。"
   },
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='米开朗基罗 示意图'><title>米开朗基罗</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>米开朗基罗</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>人体表现</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>大卫</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>雕像</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>西斯廷礼拜堂天顶画</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>绘画</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>圣彼得大教堂</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>建筑</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>米开朗基罗以人体表现贯穿大卫、天顶画与圣彼得大教堂</text></g></svg>",
   "related": [
@@ -20,6 +20,8 @@
     "enc-michelangelo",
     "enc-high-renaissance",
     "wd-michelangelo",
-    "ulan-500010654"
-  ]
+    "ulan-500010654",
+    "gnd-118582143"
+  ],
+  "pending_notes": "生卒已由 GND 规范档独立印证；"
 }

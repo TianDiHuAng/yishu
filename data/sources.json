@@ -11999,6 +11999,1036 @@
       "type": "权威结构化数据",
       "verified": true,
       "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "gnd-118526693",
+      "title": "GND — Donatello, 118526693",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118526693",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q37562，按编号与本条目匹配；标目“Donatello”，生 1386，卒 1466"
+    },
+    {
+      "id": "gnd-118640445",
+      "title": "GND — Leonardo, da Vinci, 118640445",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118640445",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q762，按编号与本条目匹配；标目“Leonardo, da Vinci”，生 1452-04-15，卒 1519-05-02"
+    },
+    {
+      "id": "gnd-118582143",
+      "title": "GND — Michelangelo, Buonarroti, 118582143",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118582143",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q5592，按编号与本条目匹配；标目“Michelangelo, Buonarroti”，生 1475-03-06，卒 1564-02-27"
+    },
+    {
+      "id": "gnd-118597787",
+      "title": "GND — Raffael, 118597787",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118597787",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q5597，按编号与本条目匹配；标目“Raffael”，生 1483-04-06，卒 1520-04-06"
+    },
+    {
+      "id": "gnd-118514008",
+      "title": "GND — Botticelli, Sandro, 118514008",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118514008",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q5669，按编号与本条目匹配；标目“Botticelli, Sandro”，生 1445，卒 1510"
+    },
+    {
+      "id": "gnd-118519034",
+      "title": "GND — Caravaggio, Michelangelo Merisi da, 118519034",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118519034",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q42207，按编号与本条目匹配；标目“Caravaggio, Michelangelo Merisi da”，生 1571-09-29，卒 1610-07-18"
+    },
+    {
+      "id": "gnd-11859964x",
+      "title": "GND — Rembrandt, Harmensz van Rijn, 11859964X",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/11859964X",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q5598，按编号与本条目匹配；标目“Rembrandt, Harmensz van Rijn”，生 1606-07-15，卒 1669-10-04"
+    },
+    {
+      "id": "gnd-11860354x",
+      "title": "GND — Rubens, Peter Paul, 11860354X",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/11860354X",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q5599，按编号与本条目匹配；标目“Rubens, Peter Paul”，生 1577-06-28，卒 1640-05-30"
+    },
+    {
+      "id": "gnd-118626426",
+      "title": "GND — Velázquez, Diego Rodríguez de Silva y, 118626426",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118626426",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q297，按编号与本条目匹配；标目“Velázquez, Diego Rodríguez de Silva y”，生 1599，卒 1660"
+    },
+    {
+      "id": "gnd-118626590",
+      "title": "GND — Vermeer van Delft, Jan, 118626590",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118626590",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q41264，按编号与本条目匹配；标目“Vermeer van Delft, Jan”，生 1632-10-31，卒 1675-12-15"
+    },
+    {
+      "id": "gnd-118524461",
+      "title": "GND — Delacroix, Eugène, 118524461",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118524461",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q33477，按编号与本条目匹配；标目“Delacroix, Eugène”，生 1798-04-26，卒 1863-08-13"
+    },
+    {
+      "id": "gnd-11858345x",
+      "title": "GND — Monet, Claude, 11858345X",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/11858345X",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q296，按编号与本条目匹配；标目“Monet, Claude”，生 1840-11-14，卒 1926-12-05"
+    },
+    {
+      "id": "gnd-118540416",
+      "title": "GND — Gogh, Vincent van, 118540416",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118540416",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q5582，按编号与本条目匹配；标目“Gogh, Vincent van”，生 1853-03-30，卒 1890-07-29"
+    },
+    {
+      "id": "gnd-118519964",
+      "title": "GND — Cézanne, Paul, 118519964",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118519964",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q35548，按编号与本条目匹配；标目“Cézanne, Paul”，生 1839，卒 1906"
+    },
+    {
+      "id": "gnd-118537822",
+      "title": "GND — Gauguin, Paul, 118537822",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118537822",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q37693，按编号与本条目匹配；标目“Gauguin, Paul”，生 1848，卒 1903"
+    },
+    {
+      "id": "gnd-118594206",
+      "title": "GND — Picasso, Pablo, 118594206",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118594206",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q5593，按编号与本条目匹配；标目“Picasso, Pablo”，生 1881-10-25，卒 1973-04-08"
+    },
+    {
+      "id": "gnd-118578847",
+      "title": "GND — Matisse, Henri, 118578847",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118578847",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q5589，按编号与本条目匹配；标目“Matisse, Henri”，生 1869-12-31，卒 1954-11-03"
+    },
+    {
+      "id": "gnd-118559737",
+      "title": "GND — Kandinsky, Wassily, 118559737",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118559737",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q61064，按编号与本条目匹配；标目“Kandinsky, Wassily”，生 1866-12-05，卒 1944-12-13"
+    },
+    {
+      "id": "gnd-118523481",
+      "title": "GND — Dalí, Salvador, 118523481",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118523481",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q5577，按编号与本条目匹配；标目“Dalí, Salvador”，生 1904-05-11，卒 1989-01-23"
+    },
+    {
+      "id": "gnd-118629220",
+      "title": "GND — Warhol, Andy, 118629220",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118629220",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q5603，按编号与本条目匹配；标目“Warhol, Andy”，生 1928-08-06，卒 1987-02-22"
+    },
+    {
+      "id": "gnd-118818686",
+      "title": "GND — Palestrina, Giovanni Pierluigi da, 118818686",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118818686",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q179277，按编号与本条目匹配；标目“Palestrina, Giovanni Pierluigi da”，生 1525，卒 1594-02-02"
+    },
+    {
+      "id": "gnd-11850553x",
+      "title": "GND — Bach, Johann Sebastian, 11850553X",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/11850553X",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q1339，按编号与本条目匹配；标目“Bach, Johann Sebastian”，生 1685-03-21，卒 1750-07-28"
+    },
+    {
+      "id": "gnd-118583700",
+      "title": "GND — Monteverdi, Claudio, 118583700",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118583700",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q53068，按编号与本条目匹配；标目“Monteverdi, Claudio”，生 1568-05-15，卒 1643-11-29"
+    },
+    {
+      "id": "gnd-118547356",
+      "title": "GND — Haydn, Joseph, 118547356",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118547356",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q7349，按编号与本条目匹配；标目“Haydn, Joseph”，生 1732-03-31，卒 1809-05-31"
+    },
+    {
+      "id": "gnd-118584596",
+      "title": "GND — Mozart, Wolfgang Amadeus, 118584596",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118584596",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q254，按编号与本条目匹配；标目“Mozart, Wolfgang Amadeus”，生 1756-01-27，卒 1791-12-05"
+    },
+    {
+      "id": "gnd-118508288",
+      "title": "GND — Beethoven, Ludwig van, 118508288",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118508288",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q255，按编号与本条目匹配；标目“Beethoven, Ludwig van”，生 1770-12-17，卒 1827-03-26"
+    },
+    {
+      "id": "gnd-118520539",
+      "title": "GND — Chopin, Frédéric, 118520539",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118520539",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q1268，按编号与本条目匹配；标目“Chopin, Frédéric”，生 1810-02-22，卒 1849-10-17"
+    },
+    {
+      "id": "gnd-118594117",
+      "title": "GND — Wagner, Richard, 118594117",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118594117",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q1511，按编号与本条目匹配；标目“Wagner, Richard”，生 1813-05-22，卒 1883-02-13"
+    },
+    {
+      "id": "gnd-118610961",
+      "title": "GND — Schubert, Franz, 118610961",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118610961",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q7312，按编号与本条目匹配；标目“Schubert, Franz”，生 1797-01-31，卒 1828-11-19"
+    },
+    {
+      "id": "gnd-118642545",
+      "title": "GND — Stravinsky, Igor, 118642545",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118642545",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q7314，按编号与本条目匹配；标目“Stravinsky, Igor”，生 1882-06-17，卒 1971-04-05"
+    },
+    {
+      "id": "gnd-118610023",
+      "title": "GND — Schönberg, Arnold, 118610023",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118610023",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q154770，按编号与本条目匹配；标目“Schönberg, Arnold”，生 1874-09-13，卒 1951-07-14"
+    },
+    {
+      "id": "gnd-118524186",
+      "title": "GND — Debussy, Claude, 118524186",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118524186",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q4700，按编号与本条目匹配；标目“Debussy, Claude”，生 1862-08-22，卒 1918-03-25"
+    },
+    {
+      "id": "gnd-118524895",
+      "title": "GND — Josquin, Desprez, 118524895",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118524895",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q143100，按编号与本条目匹配；标目“Josquin, Desprez”，生 1440，卒 1521-08-27"
+    },
+    {
+      "id": "gnd-118550993",
+      "title": "GND — Hildegard, Bingen, Äbtissin, Heilige, 118550993",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118550993",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q70991，按编号与本条目匹配；标目“Hildegard, Bingen, Äbtissin, Heilige”，生 1098，卒 1179-09-17"
+    },
+    {
+      "id": "gnd-118627287",
+      "title": "GND — Vivaldi, Antonio, 118627287",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118627287",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q1340，按编号与本条目匹配；标目“Vivaldi, Antonio”，生 1678-03-04，卒 1741-07-28"
+    },
+    {
+      "id": "gnd-118514253",
+      "title": "GND — Brahms, Johannes, 118514253",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118514253",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q7294，按编号与本条目匹配；标目“Brahms, Johannes”，生 1833-05-07，卒 1897-04-03"
+    },
+    {
+      "id": "gnd-118573527",
+      "title": "GND — Liszt, Franz, 118573527",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118573527",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q41309，按编号与本条目匹配；标目“Liszt, Franz”，生 1811-10-22，卒 1886-07-31"
+    },
+    {
+      "id": "gnd-118576291",
+      "title": "GND — Mahler, Gustav, 118576291",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118576291",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q7304，按编号与本条目匹配；标目“Mahler, Gustav”，生 1860-07-07，卒 1911-05-18"
+    },
+    {
+      "id": "gnd-118638157",
+      "title": "GND — Čajkovskij, Pëtr Ilʹič, 118638157",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118638157",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q7315，按编号与本条目匹配；标目“Čajkovskij, Pëtr Ilʹič”，生 1840-05-07，卒 1893-11-06"
+    },
+    {
+      "id": "gnd-118539841",
+      "title": "GND — Gluck, Christoph Willibald, 118539841",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118539841",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q130759，按编号与本条目匹配；标目“Gluck, Christoph Willibald”，生 1714-07-02，卒 1787-11-15"
+    },
+    {
+      "id": "gnd-118801252",
+      "title": "GND — Tallis, Thomas, 118801252",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118801252",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q207789，按编号与本条目匹配；标目“Tallis, Thomas”，生 1505，卒 1585"
+    },
+    {
+      "id": "gnd-118675109",
+      "title": "GND — Byrd, William, 118675109",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118675109",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q208375，按编号与本条目匹配；标目“Byrd, William”，生 1543，卒 1623-07-04"
+    },
+    {
+      "id": "gnd-118569945",
+      "title": "GND — Lasso, Orlando di, 118569945",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118569945",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q154792，按编号与本条目匹配；标目“Lasso, Orlando di”，生 1532，卒 1594-06-14"
+    },
+    {
+      "id": "gnd-118694456",
+      "title": "GND — Gesualdo, Carlo, 118694456",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118694456",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q192958，按编号与本条目匹配；标目“Gesualdo, Carlo”，生 1566-03-08，卒 1613-09-08"
+    },
+    {
+      "id": "gnd-118699121",
+      "title": "GND — Guillaume, de Machaut, 118699121",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118699121",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q200580，按编号与本条目匹配；标目“Guillaume, de Machaut”，生 1300，卒 1377"
+    },
+    {
+      "id": "gnd-123386098",
+      "title": "GND — Leoninus, 123386098",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/123386098",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q297501，按编号与本条目匹配；标目“Leoninus”，生 None，卒 None"
+    },
+    {
+      "id": "gnd-118742973",
+      "title": "GND — Purcell, Henry, 118742973",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118742973",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q9695，按编号与本条目匹配；标目“Purcell, Henry”，生 1659，卒 1695-11-21"
+    },
+    {
+      "id": "gnd-118575287",
+      "title": "GND — Lully, Jean-Baptiste, 118575287",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118575287",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q1192，按编号与本条目匹配；标目“Lully, Jean-Baptiste”，生 1632-11-28，卒 1687-03-22"
+    },
+    {
+      "id": "gnd-118804952",
+      "title": "GND — Scarlatti, Domenico, 118804952",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118804952",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q167837，按编号与本条目匹配；标目“Scarlatti, Domenico”，生 1685-10-26，卒 1757-07-23"
+    },
+    {
+      "id": "gnd-11901176x",
+      "title": "GND — Corelli, Arcangelo, 11901176X",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/11901176X",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q164475，按编号与本条目匹配；标目“Corelli, Arcangelo”，生 1653-02-17，卒 1713-01-08"
+    },
+    {
+      "id": "gnd-11862119x",
+      "title": "GND — Telemann, Georg Philipp, 11862119X",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/11862119X",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q75854，按编号与本条目匹配；标目“Telemann, Georg Philipp”，生 1681-03-14，卒 1767-06-25"
+    },
+    {
+      "id": "gnd-118506900",
+      "title": "GND — Bartók, Béla, 118506900",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118506900",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q83326，按编号与本条目匹配；标目“Bartók, Béla”，生 1881-03-25，卒 1945-09-26"
+    },
+    {
+      "id": "gnd-118596721",
+      "title": "GND — Prokofʹev, Sergej Sergeevič, 118596721",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118596721",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q49481，按编号与本条目匹配；标目“Prokofʹev, Sergej Sergeevič”，生 1891-04-23，卒 1953-03-05"
+    },
+    {
+      "id": "gnd-118580779",
+      "title": "GND — Mendelssohn Bartholdy, Felix, 118580779",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118580779",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q46096，按编号与本条目匹配；标目“Mendelssohn Bartholdy, Felix”，生 1809-02-03，卒 1847-11-04"
+    },
+    {
+      "id": "gnd-118509675",
+      "title": "GND — Berlioz, Hector, 118509675",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118509675",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q1151，按编号与本条目匹配；标目“Berlioz, Hector”，生 1803-12-11，卒 1869-03-08"
+    },
+    {
+      "id": "gnd-11852836x",
+      "title": "GND — Dvořák, Antonín, 11852836X",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/11852836X",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q7298，按编号与本条目匹配；标目“Dvořák, Antonín”，生 1841-09-08，卒 1904-05-11"
+    },
+    {
+      "id": "gnd-11855932x",
+      "title": "GND — Kahlo, Frida, 11855932X",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/11855932X",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q5588，按编号与本条目匹配；标目“Kahlo, Frida”，生 1907-07-06，卒 1954-07-13"
+    },
+    {
+      "id": "gnd-118583441",
+      "title": "GND — Mondrian, Piet, 118583441",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118583441",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q151803，按编号与本条目匹配；标目“Mondrian, Piet”，生 1872-03-07，卒 1944-02-01"
+    },
+    {
+      "id": "gnd-118595555",
+      "title": "GND — Pollock, Jackson, 118595555",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118595555",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q37571，按编号与本条目匹配；标目“Pollock, Jackson”，生 1912-01-28，卒 1956-08-11"
+    },
+    {
+      "id": "gnd-118563289",
+      "title": "GND — Klimt, Gustav, 118563289",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118563289",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q34661，按编号与本条目匹配；标目“Klimt, Gustav”，生 1862-07-14，卒 1918-02-06"
+    },
+    {
+      "id": "gnd-173688497",
+      "title": "GND — Guo Xi, 173688497",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/173688497",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q536645，按编号与本条目匹配；标目“Guo Xi”，生 1020，卒 None"
+    },
+    {
+      "id": "gnd-118539477",
+      "title": "GND — Giotto, di Bondone, 118539477",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118539477",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q7814，按编号与本条目匹配；标目“Giotto, di Bondone”，生 1266，卒 1337-01-08"
+    },
+    {
+      "id": "gnd-11852786x",
+      "title": "GND — Dürer, Albrecht, 11852786X",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/11852786X",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q5580，按编号与本条目匹配；标目“Dürer, Albrecht”，生 1471-05-21，卒 1528-04-06"
+    },
+    {
+      "id": "gnd-11851380x",
+      "title": "GND — Bosch, Hieronymus, 11851380X",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/11851380X",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q130531，按编号与本条目匹配；标目“Bosch, Hieronymus”，生 1450，卒 1516"
+    },
+    {
+      "id": "gnd-118674013",
+      "title": "GND — Bruegel, Pieter, de Oudere, 118674013",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118674013",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q43270，按编号与本条目匹配；标目“Bruegel, Pieter, de Oudere”，生 1525，卒 1569"
+    },
+    {
+      "id": "gnd-118541064",
+      "title": "GND — Goya y Lucientes, Francisco José de, 118541064",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118541064",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q5432，按编号与本条目匹配；标目“Goya y Lucientes, Francisco José de”，生 1746-03-30，卒 1828-04-16"
+    },
+    {
+      "id": "gnd-118629492",
+      "title": "GND — Watteau, Antoine, 118629492",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118629492",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q183221，按编号与本条目匹配；标目“Watteau, Antoine”，生 1684-10-10，卒 1721-07-18"
+    },
+    {
+      "id": "gnd-118552929",
+      "title": "GND — Katsushika, Hokusai, 118552929",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118552929",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q5586，按编号与本条目匹配；标目“Katsushika, Hokusai”，生 1760-10-21，卒 1849-05-10"
+    },
+    {
+      "id": "gnd-118527924",
+      "title": "GND — Dufay, Guillaume, 118527924",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118527924",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q207717，按编号与本条目匹配；标目“Dufay, Guillaume”，生 1397-08-05，卒 1474-11-27"
+    },
+    {
+      "id": "gnd-118596942",
+      "title": "GND — Puccini, Giacomo, 118596942",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118596942",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q7311，按编号与本条目匹配；标目“Puccini, Giacomo”，生 1858-12-22，卒 1924-11-29"
+    },
+    {
+      "id": "gnd-118615017",
+      "title": "GND — Smetana, Bedřich, 118615017",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118615017",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q48173，按编号与本条目匹配；标目“Smetana, Bedřich”，生 1824-03-02，卒 1884-05-12"
+    },
+    {
+      "id": "gnd-118697641",
+      "title": "GND — Grieg, Edvard, 118697641",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118697641",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q80621，按编号与本条目匹配；标目“Grieg, Edvard”，生 1843-06-15，卒 1907-09-04"
+    },
+    {
+      "id": "gnd-118641832",
+      "title": "GND — Rachmaninov, Sergej Vasilʹevič, 118641832",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118641832",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q131861，按编号与本条目匹配；标目“Rachmaninov, Sergej Vasilʹevič”，生 1873-04-01，卒 1943-03-28"
+    },
+    {
+      "id": "gnd-118518291",
+      "title": "GND — Cage, John, 118518291",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118518291",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q180727，按编号与本条目匹配；标目“Cage, John”，生 1912-09-05，卒 1992-08-12"
+    },
+    {
+      "id": "gnd-119286769",
+      "title": "GND — Reich, Steve, 119286769",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/119286769",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q262791，按编号与本条目匹配；标目“Reich, Steve”，生 1936-10-03，卒 None"
+    },
+    {
+      "id": "gnd-118629786",
+      "title": "GND — Webern, Anton, 118629786",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118629786",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q190933，按编号与本条目匹配；标目“Webern, Anton”，生 1883-12-03，卒 1945-09-13"
+    },
+    {
+      "id": "gnd-119057468",
+      "title": "GND — Zhu, Da, 119057468",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/119057468",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q198097，按编号与本条目匹配；标目“Zhu, Da”，生 1626，卒 1705"
+    },
+    {
+      "id": "gnd-118753924",
+      "title": "GND — Shitao, 118753924",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118753924",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q469439，按编号与本条目匹配；标目“Shitao”，生 1641，卒 1718"
+    },
+    {
+      "id": "gnd-136133142",
+      "title": "GND — Ma, Yuan, 136133142",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/136133142",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q433603，按编号与本条目匹配；标目“Ma, Yuan”，生 None，卒 None"
+    },
+    {
+      "id": "gnd-118786059",
+      "title": "GND — Ni, Zan, 118786059",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118786059",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q731030，按编号与本条目匹配；标目“Ni, Zan”，生 1301，卒 1374"
+    },
+    {
+      "id": "gnd-11862458x",
+      "title": "GND — Dong, Qichang, 11862458X",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/11862458X",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q537211，按编号与本条目匹配；标目“Dong, Qichang”，生 1555，卒 1636"
+    },
+    {
+      "id": "gnd-130076031",
+      "title": "GND — Wen, Zhengming, 130076031",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/130076031",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q306673，按编号与本条目匹配；标目“Wen, Zhengming”，生 1470，卒 1559"
+    },
+    {
+      "id": "gnd-119039435",
+      "title": "GND — Tang, Yin, 119039435",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/119039435",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q2248916，按编号与本条目匹配；标目“Tang, Yin”，生 1470，卒 1524"
+    },
+    {
+      "id": "gnd-13588960x",
+      "title": "GND — Zhao, Mengfu, 13588960X",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/13588960X",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q197461，按编号与本条目匹配；标目“Zhao, Mengfu”，生 1254，卒 1322"
+    },
+    {
+      "id": "gnd-129410829",
+      "title": "GND — Xu, Beihong, 129410829",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/129410829",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q714152，按编号与本条目匹配；标目“Xu, Beihong”，生 1895，卒 1953"
+    },
+    {
+      "id": "gnd-118675788",
+      "title": "GND — Qi, Baishi, 118675788",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118675788",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q369608，按编号与本条目匹配；标目“Qi, Baishi”，生 1864-01-01，卒 1957-09-16"
+    },
+    {
+      "id": "gnd-11906541x",
+      "title": "GND — Zhang, Daqian, 11906541X",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/11906541X",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q163298，按编号与本条目匹配；标目“Zhang, Daqian”，生 1899-05-10，卒 1983-04-02"
+    },
+    {
+      "id": "gnd-135789273",
+      "title": "GND — Wang, Xizhi, 135789273",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/135789273",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q378564，按编号与本条目匹配；标目“Wang, Xizhi”，生 0321，卒 0361"
+    },
+    {
+      "id": "gnd-120891956",
+      "title": "GND — Yan, Zhenqing, 120891956",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/120891956",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q758566，按编号与本条目匹配；标目“Yan, Zhenqing”，生 0709，卒 0785"
+    },
+    {
+      "id": "gnd-118619780",
+      "title": "GND — Su, Shi, 118619780",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118619780",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q36020，按编号与本条目匹配；标目“Su, Shi”，生 1037，卒 1101"
+    },
+    {
+      "id": "gnd-118553984",
+      "title": "GND — Huang, Tingjian, 118553984",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118553984",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q709460，按编号与本条目匹配；标目“Huang, Tingjian”，生 1045，卒 1105"
+    },
+    {
+      "id": "gnd-124403921",
+      "title": "GND — Song Huizong, China, Kaiser, 124403921",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/124403921",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q7486，按编号与本条目匹配；标目“Song Huizong, China, Kaiser”，生 1082，卒 1135"
+    },
+    {
+      "id": "gnd-118544489",
+      "title": "GND — Händel, Georg Friedrich, 118544489",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118544489",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q7302，按编号与本条目匹配；标目“Händel, Georg Friedrich”，生 1685-02-23，卒 1759-04-14"
+    },
+    {
+      "id": "gnd-118626523",
+      "title": "GND — Verdi, Giuseppe, 118626523",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118626523",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q7317，按编号与本条目匹配；标目“Verdi, Giuseppe”，生 1813-10-10，卒 1901-01-27"
+    },
+    {
+      "id": "gnd-118622994",
+      "title": "GND — Vecellio, Tiziano, 118622994",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118622994",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q47551，按编号与本条目匹配；标目“Vecellio, Tiziano”，生 1490，卒 1576-08-27"
+    },
+    {
+      "id": "gnd-11852772x",
+      "title": "GND — Duchamp, Marcel, 11852772X",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/11852772X",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q5912，按编号与本条目匹配；标目“Duchamp, Marcel”，生 1887-07-28，卒 1968-10-02"
+    },
+    {
+      "id": "gnd-118531557",
+      "title": "GND — Eyck, Jan van, 118531557",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118531557",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q102272，按编号与本条目匹配；标目“Eyck, Jan van”，生 1390，卒 1441"
+    },
+    {
+      "id": "gnd-118509926",
+      "title": "GND — Bernini, Gian Lorenzo, 118509926",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118509926",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q160538，按编号与本条目匹配；标目“Bernini, Gian Lorenzo”，生 1598-12-07，卒 1680-11-28"
+    },
+    {
+      "id": "gnd-118523945",
+      "title": "GND — David, Jacques Louis, 118523945",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118523945",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q83155，按编号与本条目匹配；标目“David, Jacques Louis”，生 1748，卒 1825"
+    },
+    {
+      "id": "gnd-118585738",
+      "title": "GND — Munch, Edvard, 118585738",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118585738",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q41406，按编号与本条目匹配；标目“Munch, Edvard”，生 1863-12-12，卒 1944-01-13"
+    },
+    {
+      "id": "gnd-118642405",
+      "title": "GND — Sibelius, Jean, 118642405",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118642405",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q45682，按编号与本条目匹配；标目“Sibelius, Jean”，生 1865-12-08，卒 1957-09-28"
+    },
+    {
+      "id": "gnd-118598651",
+      "title": "GND — Ravel, Maurice, 118598651",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118598651",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q1178，按编号与本条目匹配；标目“Ravel, Maurice”，生 1875-03-07，卒 1937-12-28"
+    },
+    {
+      "id": "gnd-118642472",
+      "title": "GND — Šostakovič, Dmitrij Dmitrievič, 118642472",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118642472",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q80135，按编号与本条目匹配；标目“Šostakovič, Dmitrij Dmitrievič”，生 1906-09-25，卒 1975-08-08"
     }
   ]
 }

@@ -8,13 +8,14 @@
     "技法或形式分析": "摘要没有给出这方面内容，本条目不补写。",
     "与前后风格的关系和争论": "导言引他在休斯敦美国艺术联合会的演讲《论创造性行为》：艺术创造有两极，一端是艺术家，另一端是后来成为后世的观者；若把艺术家看作媒介，就得否认他在审美层面上对所做之事有自觉，他在执行中的决定全凭直觉。这是杜尚本人的说法，经导言转引。",
     "一图": "示意图以杜尚为中心，标示《泉》、反艺术、艺术家与观者两极三项。",
-    "待核实": "（1）本条目事实仅来自 Wikipedia 导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）演讲引文为转引；（3）与达达、观念艺术的关系导言前段未述，库内互链为本项目所加。"
+    "待核实": "（1）本条目事实仅来自 Wikipedia 导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）演讲引文为转引；（3）与达达、观念艺术的关系导言前段未述，库内互链为本项目所加。（GND 对照，2026-11-25）德国国家图书馆规范档（11852772X）生卒 1887—1968，与本条目一致，已独立印证（只印证生卒与身份）。"
   },
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='duchamp 示意图'><title>duchamp</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>泉</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1917 署名R. Mutt</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>杜尚</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1887—1968</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>反艺术</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>代表</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>两极</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>艺术家与观者</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
   "sources": [
     "enc-duchamp",
-    "wd-duchamp"
+    "wd-duchamp",
+    "gnd-11852772x"
   ],
   "needs_verification": true,
-  "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；引文为转引。"
+  "pending_notes": "生卒已由 GND 规范档独立印证；来源独立性有限（Wikipedia+Wikidata）；引文为转引。"
 }

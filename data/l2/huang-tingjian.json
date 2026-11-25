@@ -8,13 +8,14 @@
     "技法或形式分析": "摘要说其书法“亦能树格”，没有描述书风，本条目不补写。",
     "与前后风格的关系和争论": "摘要称他笃信佛教、亦慕道教，为二十四孝之一。“被新党诬害”是摘要的立场性表述，本条目照录。",
     "一图": "示意图以黄庭坚为中心，标示苏轼、宋四家、江西诗派三项。",
-    "待核实": "（1）本条目事实仅来自中文维基百科摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）书风与书作未给出；（3）“诬害”为摘要措辞。"
+    "待核实": "（1）本条目事实仅来自中文维基百科摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）书风与书作未给出；（3）“诬害”为摘要措辞。（GND 对照，2026-11-25）德国国家图书馆规范档（118553984）生卒 1045—1105，与本条目一致，已独立印证（只印证生卒与身份）。"
   },
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='huang-tingjian 示意图'><title>huang-tingjian</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>苏轼</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>习艺于其门</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>黄庭坚</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1045—1105</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>宋四家</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>书法</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>江西诗派</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>祖师</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
   "sources": [
     "enc-huang-tingjian",
-    "wd-huang-tingjian"
+    "wd-huang-tingjian",
+    "gnd-118553984"
   ],
   "needs_verification": true,
-  "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；书风与书作未给出。"
+  "pending_notes": "生卒已由 GND 规范档独立印证；来源独立性有限（Wikipedia+Wikidata）；书风与书作未给出。"
 }

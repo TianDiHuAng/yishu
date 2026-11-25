@@ -8,7 +8,7 @@
     "技法或形式分析": "材料关注结构规模与情感张力的拓展。九部交响曲与奏鸣曲是这一拓展的具体落点。晚期转向浪漫语汇，说明概述将形式变化与风格转向并置。",
     "与前后风格的关系和争论": "相关条目把贝多芬与古典主义音乐、浪漫主义音乐并置，体现连接两者的定位。材料未给出具体学者争论或观点归属。记载较一致，学界主要讨论贝多芬的分期/边界问题。",
     "一图": "示意图用古典主义音乐、贝多芬、浪漫主义音乐与九部交响曲呈现其连接位置。",
-    "待核实": "输入没有给出具体作品的年份、收藏地或引文。来源标题只列出百科条目，相关细节待补充第二来源。 【已复核·Wikidata】生卒：第二来源 wd-beethoven（https://www.wikidata.org/wiki/Q255），据其结构化数据：生年 1770，卒年 1827。（LC 名称权威对照，2026-11-24）LC 标目：Beethoven, Ludwig van, 1770-1827。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。"
+    "待核实": "输入没有给出具体作品的年份、收藏地或引文。来源标题只列出百科条目，相关细节待补充第二来源。 【已复核·Wikidata】生卒：第二来源 wd-beethoven（https://www.wikidata.org/wiki/Q255），据其结构化数据：生年 1770，卒年 1827。（LC 名称权威对照，2026-11-24）LC 标目：Beethoven, Ludwig van, 1770-1827。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。（GND 对照，2026-11-25）德国国家图书馆规范档（118508288）生卒 1770—1827，与本条目一致，已独立印证（只印证生卒与身份）。"
   },
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='贝多芬 示意图'><title>贝多芬</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>贝多芬</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>德意志作曲家</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>古典主义音乐</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>浪漫主义音乐</text><rect class='svg-box-accent' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='475.0' y='142' text-anchor='middle'>九部交响曲</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>奏鸣曲</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>浪漫语汇</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>晚期</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>古典主义音乐 贝多芬 浪漫主义音乐</text></g></svg>",
   "related": [
@@ -20,6 +20,8 @@
     "enc-beethoven",
     "enc-classical-period-music",
     "wd-beethoven",
-    "lc-n79107741"
-  ]
+    "lc-n79107741",
+    "gnd-118508288"
+  ],
+  "pending_notes": "生卒已由 GND 规范档独立印证；"
 }
