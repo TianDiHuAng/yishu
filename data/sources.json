@@ -13319,6 +13319,226 @@
       "type": "国家图书馆作品规范记录（标目、作曲者、创作年代）",
       "verified": true,
       "verified_note": "2026-11-25 经 lobid.org 取回；firstComposer 为 GND 118626523，标目“Nabucco”精确匹配，创作年代 未载"
+    },
+    {
+      "id": "enc-mannheim-school",
+      "title": "Mannheim school",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Mannheim_school",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-mannheim-school",
+      "title": "Wikidata: Mannheim school (Q275647)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q275647",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-boccherini",
+      "title": "Luigi Boccherini",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Luigi_Boccherini",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-boccherini",
+      "title": "Wikidata: Luigi Boccherini (Q189766)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q189766",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-opera-seria",
+      "title": "Opera seria",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Opera_seria",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-opera-seria",
+      "title": "Wikidata: Opera seria (Q210675)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q210675",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-singspiel",
+      "title": "Singspiel",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Singspiel",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-singspiel",
+      "title": "Wikidata: Singspiel (Q377258)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q377258",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-fortepiano",
+      "title": "Fortepiano",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Fortepiano",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-fortepiano",
+      "title": "Wikidata: Fortepiano (Q1521313)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q1521313",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-galant-music",
+      "title": "Galant music",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Galant_music",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-galant-music",
+      "title": "Wikidata: Galant music (Q1141686)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q1141686",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-empfindsamer-stil",
+      "title": "Empfindsamkeit (music)",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Empfindsamkeit_(music)",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-empfindsamer-stil",
+      "title": "Wikidata: Empfindsamkeit (music) (Q989478)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q989478",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-first-viennese-school",
+      "title": "First Viennese School",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/First_Viennese_School",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-first-viennese-school",
+      "title": "Wikidata: First Viennese School (Q702207)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q702207",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-piano-sonata",
+      "title": "Piano sonata",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Piano_sonata",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-piano-sonata",
+      "title": "Wikidata: Piano sonata (Q1546995)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q1546995",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-stamitz",
+      "title": "Johann Stamitz",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Johann_Stamitz",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-stamitz",
+      "title": "Wikidata: Johann Stamitz (Q156033)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q156033",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-hummel",
+      "title": "Johann Nepomuk Hummel",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Johann_Nepomuk_Hummel",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-hummel",
+      "title": "Wikidata: Johann Nepomuk Hummel (Q151953)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q151953",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
     }
   ]
 }

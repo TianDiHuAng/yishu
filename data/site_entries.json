@@ -3896,7 +3896,9 @@
         "lully",
         "scarlatti-domenico",
         "corelli",
-        "telemann"
+        "telemann",
+        "galant-music",
+        "empfindsamer-stil"
       ],
       "sources": [
         "enc-baroque-music",
@@ -4111,7 +4113,8 @@
         "sonata-form",
         "piano",
         "scarlatti-domenico",
-        "corelli"
+        "corelli",
+        "piano-sonata"
       ],
       "sources": [
         "enc-sonata",
@@ -4236,7 +4239,15 @@
         "gluck",
         "scarlatti-domenico",
         "string-quartet",
-        "divertimento"
+        "divertimento",
+        "mannheim-school",
+        "stamitz",
+        "galant-music",
+        "empfindsamer-stil",
+        "first-viennese-school",
+        "opera-seria",
+        "singspiel",
+        "boccherini"
       ],
       "sources": [
         "enc-classical-period-music",
@@ -4277,7 +4288,9 @@
         "mendelssohn",
         "dvorak",
         "sibelius",
-        "shostakovich"
+        "shostakovich",
+        "mannheim-school",
+        "stamitz"
       ],
       "sources": [
         "enc-symphony",
@@ -4310,7 +4323,8 @@
       "related": [
         "sonata",
         "classical-period-music",
-        "concerto"
+        "concerto",
+        "piano-sonata"
       ],
       "sources": [
         "enc-sonata",
@@ -4345,7 +4359,10 @@
         "classical-period-music",
         "symphony",
         "string-quartet",
-        "divertimento"
+        "divertimento",
+        "first-viennese-school",
+        "fortepiano",
+        "hummel"
       ],
       "sources": [
         "enc-haydn",
@@ -4383,7 +4400,12 @@
         "classical-period-music",
         "opera",
         "gluck",
-        "divertimento"
+        "divertimento",
+        "first-viennese-school",
+        "opera-seria",
+        "singspiel",
+        "fortepiano",
+        "hummel"
       ],
       "sources": [
         "enc-mozart",
@@ -4472,7 +4494,10 @@
         "bourdelle-head-of-beethoven",
         "kriehuber-bust-of-beethoven",
         "string-quartet",
-        "overture"
+        "overture",
+        "first-viennese-school",
+        "fortepiano",
+        "piano-sonata"
       ],
       "sources": [
         "enc-beethoven",
@@ -4582,7 +4607,8 @@
         "puccini",
         "grieg",
         "rachmaninoff",
-        "neoclassicism-music"
+        "neoclassicism-music",
+        "hummel"
       ],
       "sources": [
         "enc-romantic-music",
@@ -4837,7 +4863,8 @@
       "related": [
         "lied",
         "romantic-music",
-        "mendelssohn"
+        "mendelssohn",
+        "first-viennese-school"
       ],
       "sources": [
         "enc-romantic-music",
@@ -23389,7 +23416,8 @@
       "related": [
         "opera",
         "classical-period-music",
-        "mozart"
+        "mozart",
+        "opera-seria"
       ],
       "sources": [
         "enc-gluck",
@@ -23998,7 +24026,8 @@
         "haydn",
         "beethoven",
         "classical-period-music",
-        "bartok"
+        "bartok",
+        "boccherini"
       ],
       "sources": [
         "enc-string-quartet",
@@ -29174,6 +29203,399 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='nolde-child-bird 示意图'><title>nolde-child-bird</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>怪诞比例</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>大鸟与小孩</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>孩子与大鸟</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1912 油画</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>刺目色彩</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>明亮而不和谐</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>一战前夕</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>展签解读</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据丹麦国家美术馆记录</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（SMK）来源；单一机构来源；象征解读为该馆提出。"
+    },
+    {
+      "id": "mannheim-school",
+      "title": "曼海姆乐派（Mannheim school）",
+      "kind": "风格",
+      "unit": "music-classical",
+      "era": "18世纪",
+      "region": "德国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "既指18世纪后半叶曼海姆选帝侯宫廷乐团开创的乐队技法，也指为该乐团写作的一批早期古典作曲家。",
+      "when": "18世纪后半叶",
+      "overview": "曼海姆乐派既指18世纪后半叶普法尔茨选帝侯曼海姆宫廷乐团开创的乐队技法，也指为该乐团写作的一批早期古典作曲家。波希米亚作曲家约翰·施塔米茨被视为乐派之父。乐团以纪律严明、演奏者技艺出众著称，英国旅行者伯尼称之为“将军组成的军队”。其演奏风格包含新的力度变化，即渐强与渐弱。该乐派在古典时期体裁与古典交响曲形式的发展中起了重要作用。",
+      "related": [
+        "stamitz",
+        "symphony",
+        "classical-period-music"
+      ],
+      "sources": [
+        "enc-mannheim-school",
+        "wd-mannheim-school"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，曼海姆乐派活跃于18世纪后半叶普法尔茨选帝侯的曼海姆宫廷。",
+        "风格特征": "摘要称，乐团以纪律严明与演奏者技艺著称，伯尼称之为“将军组成的军队”；演奏风格含渐强与渐弱等新的力度变化。",
+        "代表人物与作品": "摘要称约翰·施塔米茨被视为乐派之父，此外有两代作曲家为该乐团写作；具体作品摘要没有给出，本条目不补写。",
+        "技法或形式分析": "摘要给出的技法只有渐强、渐弱等力度变化。",
+        "与前后风格的关系和争论": "摘要称该乐派在古典体裁与古典交响曲形式的发展中起重要作用；具体如何影响海顿、莫扎特，摘要未给出。",
+        "一图": "示意图以曼海姆乐派为中心，标示施塔米茨、渐强与渐弱、古典交响曲三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）两代作曲家的名单与代表作摘要未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='mannheim-school 示意图'><title>mannheim-school</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>施塔米茨</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>乐派之父</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>曼海姆乐派</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>宫廷乐团</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>渐强·渐弱</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>力度革新</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>古典交响曲</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>形式发展</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；作曲家名单与作品未给出。"
+    },
+    {
+      "id": "stamitz",
+      "title": "约翰·施塔米茨（Johann Stamitz）",
+      "kind": "人物",
+      "unit": "music-classical",
+      "era": "18世纪",
+      "region": "德国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "捷克作曲家、小提琴家，被视为曼海姆乐派的奠基人。",
+      "when": "18世纪",
+      "overview": "约翰·施塔米茨是捷克作曲家、小提琴家，被视为曼海姆乐派的奠基人，他存活下来的两个儿子卡尔与安东·施塔米茨延续了这一风格。其音乐在风格上介于巴洛克与古典之间，并以多项革新著称。",
+      "related": [
+        "mannheim-school",
+        "symphony",
+        "classical-period-music"
+      ],
+      "sources": [
+        "enc-stamitz",
+        "wd-stamitz"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要没有给出生卒年与生平，本条目不补写。",
+        "风格特征": "摘要称其音乐在风格上介于巴洛克与古典之间，并以多项革新著称；革新内容摘要没有给出，本条目不补写。",
+        "代表人物与作品": "摘要称他被视为曼海姆乐派奠基人，两个儿子卡尔与安东延续其风格；作品摘要没有给出，本条目不补写。",
+        "技法或形式分析": "具体技法摘要未给出；渐强渐弱等见曼海姆乐派条目，那是另一条目的内容。",
+        "与前后风格的关系和争论": "摘要将其置于巴洛克向古典的过渡。",
+        "一图": "示意图以施塔米茨为中心，标示巴洛克、曼海姆乐派、二子卡尔与安东。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年、代表作与“革新”所指，摘要均未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='stamitz 示意图'><title>stamitz</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>巴洛克</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>前</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>施塔米茨</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>捷克作曲家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>曼海姆乐派</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>奠基人</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>卡尔与安东</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>两子延续</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；生卒年与作品未给出。"
+    },
+    {
+      "id": "galant-music",
+      "title": "华丽风格（Galant）",
+      "kind": "风格",
+      "unit": "music-classical",
+      "era": "18世纪",
+      "region": "西欧",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "18世纪20至70年代在西欧上层社会流行的音乐风格。",
+      "when": "约公元1720—1770年代",
+      "overview": "华丽风格指18世纪20至70年代在西欧上层社会流行的风格。19、20世纪的音乐学家给了它更窄的含义，用来指那些脱离巴洛克修辞性形式风格、但只部分显出前古典特征的作品。它可视为迈向形式更自由、更重感情的“情感风格”的一步，后者为早期古典时期作了准备。",
+      "related": [
+        "empfindsamer-stil",
+        "baroque-music",
+        "classical-period-music",
+        "boccherini"
+      ],
+      "sources": [
+        "enc-galant-music",
+        "wd-galant-music"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，华丽风格在18世纪20至70年代流行于西欧上层社会。",
+        "风格特征": "摘要称，19、20世纪音乐学家用它指脱离巴洛克修辞性形式风格、但只部分显出前古典特征的作品。",
+        "代表人物与作品": "摘要没有列举作曲家与作品，本条目不补写。",
+        "技法或形式分析": "具体织体与曲式特征摘要没有给出，本条目不补写。",
+        "与前后风格的关系和争论": "摘要称它可视为迈向情感风格的一步，后者为早期古典时期作了准备。注意该词的宽窄两种用法：当时的时尚义与后世音乐学的狭义。",
+        "一图": "示意图标示巴洛克、华丽风格、情感风格、早期古典的递进。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）作曲家与作品摘要未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='galant-music 示意图'><title>galant-music</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>巴洛克</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>修辞性形式</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>华丽风格</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1720—1770年代</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>情感风格</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>更自由</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>早期古典</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>准备</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；作曲家未给出。"
+    },
+    {
+      "id": "empfindsamer-stil",
+      "title": "情感风格（Empfindsamer Stil）",
+      "kind": "风格",
+      "unit": "music-classical",
+      "era": "18世纪",
+      "region": "德国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "18世纪德国发展起来的一种音乐创作与诗歌风格，意在表达“真实而自然”的感情，以情绪的突然对比为特点。",
+      "when": "18世纪",
+      "overview": "情感风格是18世纪在德国发展起来的音乐创作与诗歌风格，意在表达“真实而自然”的感情，以情绪的突然对比为特点。它是作为巴洛克“情感论”的对立面发展起来的；按情感论，一部作品自始至终保持同一种情感。",
+      "related": [
+        "galant-music",
+        "baroque-music",
+        "classical-period-music"
+      ],
+      "sources": [
+        "enc-empfindsamer-stil",
+        "wd-empfindsamer-stil"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，情感风格是18世纪在德国发展起来的，兼涉音乐与诗歌。",
+        "风格特征": "摘要称其意在表达“真实而自然”的感情，以情绪的突然对比为特点。",
+        "代表人物与作品": "摘要没有列举作曲家与作品，本条目不补写。",
+        "技法或形式分析": "形式手段摘要没有给出，本条目不补写。",
+        "与前后风格的关系和争论": "摘要称它作为巴洛克“情感论”的对立面发展起来：情感论要求一部作品始终保持同一情感。",
+        "一图": "示意图对照巴洛克情感论（单一情感）与情感风格（情绪突变）。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）代表作曲家摘要未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='empfindsamer-stil 示意图'><title>empfindsamer-stil</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>情感论</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>单一情感</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>情感风格</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>真实而自然</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>突然对比</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>情绪变化</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>诗歌</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>同一风格</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；作曲家未给出。"
+    },
+    {
+      "id": "first-viennese-school",
+      "title": "第一维也纳乐派（First Viennese School）",
+      "kind": "风格",
+      "unit": "music-classical",
+      "era": "18—19世纪初",
+      "region": "奥地利",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "主要指18世纪末至19世纪初维也纳的三位古典时期作曲家：海顿、莫扎特和早期的贝多芬。",
+      "when": "约18世纪末—19世纪初",
+      "overview": "第一维也纳乐派这一名称主要指18世纪末至19世纪初维也纳的三位古典时期作曲家：约瑟夫·海顿、沃尔夫冈·阿马德乌斯·莫扎特，以及第一时期的路德维希·凡·贝多芬。有时也把弗朗茨·舒伯特列入。",
+      "related": [
+        "haydn",
+        "mozart",
+        "beethoven",
+        "schubert",
+        "classical-period-music"
+      ],
+      "sources": [
+        "enc-first-viennese-school",
+        "wd-first-viennese-school"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，这一名称指18世纪末至19世纪初维也纳的古典时期作曲家。",
+        "风格特征": "摘要只给出名称所指的人，没有归纳共同风格，本条目不补写。",
+        "代表人物与作品": "海顿、莫扎特与第一时期的贝多芬；有时加上舒伯特。",
+        "技法或形式分析": "形式分析摘要没有给出，本条目不补写。奏鸣曲式、交响曲等见各自条目。",
+        "与前后风格的关系和争论": "“第一维也纳乐派”是后世的称呼，名单范围有宽窄（是否含舒伯特）。",
+        "一图": "示意图以第一维也纳乐派为中心，连向海顿、莫扎特、早期贝多芬。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）名称起源与共同风格摘要未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='first-viennese-school 示意图'><title>first-viennese-school</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>海顿</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>第一维也纳乐派</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>维也纳</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>莫扎特</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>贝多芬</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>第一时期</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；名称起源未给出。"
+    },
+    {
+      "id": "opera-seria",
+      "title": "正歌剧（Opera seria）",
+      "kind": "风格",
+      "unit": "music-classical",
+      "era": "18世纪",
+      "region": "意大利及欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "指约1710年代至1770年前后在欧洲占主导地位的高贵、“严肃”风格的意大利歌剧。",
+      "when": "约公元1710年代—1770年",
+      "overview": "正歌剧是意大利音乐术语，指约1710年代至1770年前后在欧洲占主导的高贵、“严肃”风格的意大利歌剧。这个词在当时很少使用，直到正歌剧开始过时、被看作一种历史体裁时才通行。与之对立的流行体裁是喜歌剧，它取法即兴的即兴喜剧。正歌剧取历史或圣经题材，喜歌剧取当代题材。",
+      "related": [
+        "singspiel",
+        "gluck",
+        "mozart",
+        "classical-period-music"
+      ],
+      "sources": [
+        "enc-opera-seria",
+        "wd-opera-seria"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，正歌剧约在1710年代至1770年前后主导欧洲。",
+        "风格特征": "摘要称它是高贵、“严肃”风格的意大利歌剧，取历史或圣经题材。",
+        "代表人物与作品": "摘要没有列举作曲家与作品，本条目不补写。",
+        "技法或形式分析": "形式（如咏叹调结构）摘要没有给出，本条目不补写。",
+        "与前后风格的关系和争论": "摘要称其对立的流行体裁是取法即兴喜剧、取当代题材的喜歌剧；“正歌剧”一词当时少用，在它过时后才通行。",
+        "一图": "示意图对照正歌剧（历史/圣经题材）与喜歌剧（当代题材）。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）代表作曲家与作品摘要未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='opera-seria 示意图'><title>opera-seria</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>即兴喜剧</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>来源</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>正歌剧</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1710年代—1770</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>喜歌剧</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>对立体裁</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>历史·圣经</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>题材</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；作品未给出。"
+    },
+    {
+      "id": "singspiel",
+      "title": "歌唱剧（Singspiel）",
+      "kind": "风格",
+      "unit": "music-classical",
+      "era": "18世纪",
+      "region": "德国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "一种德语音乐戏剧形式，今被视为歌剧的一种体裁，以说白与歌唱段落交替为特点。",
+      "when": "18世纪",
+      "overview": "歌唱剧是一种德语音乐戏剧形式，今被视为歌剧的一种体裁。其特点是说白与重唱、歌曲、叙事曲和咏叹调交替，后者常为分节歌式或带民歌风味。剧情一般是喜剧性或浪漫性的，常含魔法、奇幻生物，以及对善恶人物的夸张喜剧化刻画。",
+      "related": [
+        "opera-seria",
+        "mozart",
+        "classical-period-music"
+      ],
+      "sources": [
+        "enc-singspiel",
+        "wd-singspiel"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要没有给出起始年代，本条目写“18世纪”是按单元划分。",
+        "风格特征": "摘要称其以说白与重唱、歌曲、叙事曲、咏叹调交替为特点，唱段常为分节歌式或带民歌风味。",
+        "代表人物与作品": "摘要没有列举作品，本条目不补写。",
+        "技法或形式分析": "形式信息即说白与唱段交替。",
+        "与前后风格的关系和争论": "摘要称剧情多为喜剧或浪漫，常含魔法、奇幻生物和夸张的善恶人物。",
+        "一图": "示意图以歌唱剧为中心，标示说白、唱段、魔法题材。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）年代与代表作摘要未给出；年代为本项目划分。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='singspiel 示意图'><title>singspiel</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>说白</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>交替</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>歌唱剧</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>德语音乐戏剧</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>唱段</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>分节·民歌风</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>魔法奇幻</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>题材</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；年代为本项目划分。"
+    },
+    {
+      "id": "fortepiano",
+      "title": "古钢琴（Fortepiano）",
+      "kind": "术语",
+      "unit": "music-classical",
+      "era": "18—19世纪初",
+      "region": "欧洲",
+      "medium": "乐器",
+      "tier": "重要",
+      "def": "早期的钢琴，通常指18世纪中叶至19世纪初、古典时期作曲家为之写作钢琴音乐的乐器。",
+      "when": "约18世纪中叶—19世纪初",
+      "overview": "古钢琴是早期的钢琴。原则上这个词可指从1700年克里斯托福里发明钢琴到19世纪初的任何钢琴，但最常指18世纪中叶至19世纪初的乐器，海顿、莫扎特等古典时期作曲家的钢琴音乐就是为这类乐器写的。有时贝多芬和舒伯特的作品也被视为古钢琴音乐。",
+      "related": [
+        "piano-sonata",
+        "haydn",
+        "mozart",
+        "beethoven",
+        "hummel"
+      ],
+      "sources": [
+        "enc-fortepiano",
+        "wd-fortepiano"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，原则上该词可指1700年克里斯托福里发明钢琴到19世纪初的任何钢琴。",
+        "风格特征": "摘要称最常指18世纪中叶至19世纪初的乐器。构造细节摘要没有给出，本条目不补写。",
+        "代表人物与作品": "摘要称海顿、莫扎特的钢琴音乐为这类乐器而写，有时贝多芬、舒伯特的作品也被视为古钢琴音乐。",
+        "技法或形式分析": "构造与音色摘要没有给出，本条目不补写。",
+        "与前后风格的关系和争论": "摘要只给出与现代钢琴的先后关系。",
+        "一图": "示意图标示1700克里斯托福里、18世纪中叶—19世纪初、海顿与莫扎特。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）构造、音域与制作者摘要未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='fortepiano 示意图'><title>fortepiano</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>1700年</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>克里斯托福里</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>古钢琴</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>早期钢琴</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>海顿·莫扎特</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>为之写作</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>贝多芬·舒伯特</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>有时归入</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；构造未给出。"
+    },
+    {
+      "id": "piano-sonata",
+      "title": "钢琴奏鸣曲（Piano sonata）",
+      "kind": "术语",
+      "unit": "music-classical",
+      "era": "18世纪—今",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "为钢琴独奏而写的奏鸣曲，通常三或四个乐章，第一乐章一般用奏鸣曲式。",
+      "when": "18世纪—今",
+      "overview": "钢琴奏鸣曲是为钢琴独奏而写的奏鸣曲。它通常有三或四个乐章，但也有单乐章、两乐章，甚至五个或更多乐章的。第一乐章一般用奏鸣曲式写成。",
+      "related": [
+        "sonata-form",
+        "fortepiano",
+        "beethoven",
+        "sonata"
+      ],
+      "sources": [
+        "enc-piano-sonata",
+        "wd-piano-sonata"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要没有给出起始年代，本条目写“18世纪—今”是按单元划分。",
+        "风格特征": "摘要称钢琴奏鸣曲为钢琴独奏而写。",
+        "代表人物与作品": "摘要没有列举作品，本条目不补写。",
+        "技法或形式分析": "通常三或四个乐章，也有单乐章、两乐章或五个以上；第一乐章一般用奏鸣曲式。",
+        "与前后风格的关系和争论": "与奏鸣曲式、古钢琴的联系为库内互链，本项目所加。",
+        "一图": "示意图以钢琴奏鸣曲为中心，标示乐章数与第一乐章奏鸣曲式。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）年代与代表作摘要未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='piano-sonata 示意图'><title>piano-sonata</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>钢琴独奏</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>钢琴奏鸣曲</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>三或四乐章</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>奏鸣曲式</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>第一乐章</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>乐章数</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>1至5以上</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；年代为本项目划分。"
+    },
+    {
+      "id": "boccherini",
+      "title": "博凯里尼（Luigi Boccherini）",
+      "kind": "人物",
+      "unit": "music-classical",
+      "era": "18世纪",
+      "region": "意大利",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "意大利古典时期作曲家、大提琴家（1743—1805）。",
+      "when": "1743—1805",
+      "overview": "博凯里尼是意大利古典时期作曲家、大提琴家。他在远离主要古典音乐中心的环境中成熟，音乐却保持宫廷与华丽风格。他最著名的是E大调弦乐五重奏（作品11第5号）中的小步舞曲和降B大调大提琴协奏曲；后者长期以德国大提琴家格吕茨马赫大幅改动的版本流传，近年已恢复原貌。他的《马德里街头夜曲》也特别有名。",
+      "related": [
+        "galant-music",
+        "string-quartet",
+        "classical-period-music"
+      ],
+      "sources": [
+        "enc-boccherini",
+        "wd-boccherini"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，博凯里尼在远离主要古典音乐中心的环境中成熟；生卒年1743—1805来自摘要描述栏。",
+        "风格特征": "摘要称其音乐保持宫廷与华丽风格。",
+        "代表人物与作品": "E大调弦乐五重奏（作品11第5号）中的小步舞曲、降B大调大提琴协奏曲、《马德里街头夜曲》。",
+        "技法或形式分析": "摘要没有作形式分析，本条目不补写。",
+        "与前后风格的关系和争论": "摘要称大提琴协奏曲长期以格吕茨马赫大幅改动的版本流传，近年恢复原貌——这是版本问题，不是学术立场之争。",
+        "一图": "示意图以博凯里尼为中心，连向三部代表作。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“近年恢复”的具体时间摘要未给出；生卒年待独立印证。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='boccherini 示意图'><title>boccherini</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>小步舞曲</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>作品11第5号</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>博凯里尼</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>意大利·大提琴家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>大提琴协奏曲</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>降B大调</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>马德里夜曲</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；生卒年待独立印证。"
+    },
+    {
+      "id": "hummel",
+      "title": "胡梅尔（Johann Nepomuk Hummel）",
+      "kind": "人物",
+      "unit": "music-classical",
+      "era": "18—19世纪",
+      "region": "奥地利",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "奥地利作曲家、钢琴家（1778—1837），音乐体现古典向浪漫的过渡。",
+      "when": "1778—1837",
+      "overview": "胡梅尔是奥地利作曲家、钢琴家，其音乐体现了从古典到浪漫时代的过渡。他是莫扎特和萨列里最出色的学生之一，也曾师从海顿。他对19世纪后来的钢琴音乐有显著影响，尤其是肖邦、李斯特和门德尔松的作品。",
+      "related": [
+        "mozart",
+        "haydn",
+        "romantic-music",
+        "fortepiano"
+      ],
+      "sources": [
+        "enc-hummel",
+        "wd-hummel"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "生卒年1778—1837来自摘要描述栏。",
+        "风格特征": "摘要称其音乐体现从古典到浪漫的过渡。",
+        "代表人物与作品": "摘要称他是莫扎特和萨列里的学生，也曾师从海顿；作品摘要没有给出，本条目不补写。",
+        "技法或形式分析": "摘要没有作形式分析，本条目不补写。",
+        "与前后风格的关系和争论": "摘要称他显著影响了肖邦、李斯特、门德尔松的钢琴音乐。",
+        "一图": "示意图标示师承（莫扎特、萨列里、海顿）与影响（肖邦、李斯特、门德尔松）。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）代表作摘要未给出；“最出色的学生之一”为评价性表述未核验。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='hummel 示意图'><title>hummel</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>师承</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>莫扎特·萨列里·海顿</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>胡梅尔</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>奥地利钢琴家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>影响</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>肖邦·李斯特·门德尔松</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>古典→浪漫</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>过渡</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；生卒年待独立印证。"
     }
   ]
 }

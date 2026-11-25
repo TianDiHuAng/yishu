@@ -1,0 +1,20 @@
+{
+  "id": "stamitz",
+  "level": "L2",
+  "sections": {
+    "时代背景": "摘要没有给出生卒年与生平，本条目不补写。",
+    "风格特征": "摘要称其音乐在风格上介于巴洛克与古典之间，并以多项革新著称；革新内容摘要没有给出，本条目不补写。",
+    "代表人物与作品": "摘要称他被视为曼海姆乐派奠基人，两个儿子卡尔与安东延续其风格；作品摘要没有给出，本条目不补写。",
+    "技法或形式分析": "具体技法摘要未给出；渐强渐弱等见曼海姆乐派条目，那是另一条目的内容。",
+    "与前后风格的关系和争论": "摘要将其置于巴洛克向古典的过渡。",
+    "一图": "示意图以施塔米茨为中心，标示巴洛克、曼海姆乐派、二子卡尔与安东。",
+    "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年、代表作与“革新”所指，摘要均未给出。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='stamitz 示意图'><title>stamitz</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>巴洛克</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>前</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>施塔米茨</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>捷克作曲家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>曼海姆乐派</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>奠基人</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>卡尔与安东</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>两子延续</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+  "sources": [
+    "enc-stamitz",
+    "wd-stamitz"
+  ],
+  "needs_verification": true,
+  "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；生卒年与作品未给出。"
+}

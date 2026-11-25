@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 792 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 803 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -449,6 +449,17 @@
 | gluck | 格鲁克（Christoph Willibald Gluck） | 人物 | 18世纪 | 德意志·奥地利 | 音乐体裁 | 重要 | O1 |
 | string-quartet | 弦乐四重奏（String quartet） | 术语 | 18世纪中叶—今 | 欧洲 | 音乐体裁 | 重要 | O4 |
 | divertimento | 嬉游曲（Divertimento） | 术语 | 18世纪 | 欧洲 | 音乐体裁 | 补充 | O4 |
+| mannheim-school | 曼海姆乐派（Mannheim school） | 风格 | 18世纪 | 德国 | 音乐体裁 | 重要 | O4 |
+| stamitz | 约翰·施塔米茨（Johann Stamitz） | 人物 | 18世纪 | 德国 | 音乐体裁 | 重要 | O1 |
+| galant-music | 华丽风格（Galant） | 风格 | 18世纪 | 西欧 | 音乐体裁 | 重要 | O4 |
+| empfindsamer-stil | 情感风格（Empfindsamer Stil） | 风格 | 18世纪 | 德国 | 音乐体裁 | 重要 | O4 |
+| first-viennese-school | 第一维也纳乐派（First Viennese School） | 风格 | 18—19世纪初 | 奥地利 | 音乐体裁 | 核心 | O4 |
+| opera-seria | 正歌剧（Opera seria） | 风格 | 18世纪 | 意大利及欧洲 | 音乐体裁 | 重要 | O4 |
+| singspiel | 歌唱剧（Singspiel） | 风格 | 18世纪 | 德国 | 音乐体裁 | 重要 | O4 |
+| fortepiano | 古钢琴（Fortepiano） | 术语 | 18—19世纪初 | 欧洲 | 乐器 | 重要 | O4 |
+| piano-sonata | 钢琴奏鸣曲（Piano sonata） | 术语 | 18世纪—今 | 欧洲 | 音乐体裁 | 重要 | O4 |
+| boccherini | 博凯里尼（Luigi Boccherini） | 人物 | 18世纪 | 意大利 | 音乐体裁 | 重要 | O1 |
+| hummel | 胡梅尔（Johann Nepomuk Hummel） | 人物 | 18—19世纪 | 奥地利 | 音乐体裁 | 重要 | O1 |
 
 ## music-romantic（音乐史·浪漫）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

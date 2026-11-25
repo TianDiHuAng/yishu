@@ -1,0 +1,20 @@
+{
+  "id": "opera-seria",
+  "level": "L2",
+  "sections": {
+    "时代背景": "摘要称，正歌剧约在1710年代至1770年前后主导欧洲。",
+    "风格特征": "摘要称它是高贵、“严肃”风格的意大利歌剧，取历史或圣经题材。",
+    "代表人物与作品": "摘要没有列举作曲家与作品，本条目不补写。",
+    "技法或形式分析": "形式（如咏叹调结构）摘要没有给出，本条目不补写。",
+    "与前后风格的关系和争论": "摘要称其对立的流行体裁是取法即兴喜剧、取当代题材的喜歌剧；“正歌剧”一词当时少用，在它过时后才通行。",
+    "一图": "示意图对照正歌剧（历史/圣经题材）与喜歌剧（当代题材）。",
+    "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）代表作曲家与作品摘要未给出。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='opera-seria 示意图'><title>opera-seria</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>即兴喜剧</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>来源</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>正歌剧</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1710年代—1770</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>喜歌剧</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>对立体裁</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>历史·圣经</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>题材</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+  "sources": [
+    "enc-opera-seria",
+    "wd-opera-seria"
+  ],
+  "needs_verification": true,
+  "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；作品未给出。"
+}

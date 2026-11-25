@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 792,
+    "total": 803,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -9517,6 +9517,138 @@
       "pending_notes": "关键事实需≥2个verified来源，当前1个",
       "last_update": "2026-11-22",
       "source_independence_ok": false
+    },
+    "mannheim-school": {
+      "title": "曼海姆乐派（Mannheim school）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 2,
+      "verified_sources_count": 2,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "stamitz": {
+      "title": "约翰·施塔米茨（Johann Stamitz）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 2,
+      "verified_sources_count": 2,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "galant-music": {
+      "title": "华丽风格（Galant）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 2,
+      "verified_sources_count": 2,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "empfindsamer-stil": {
+      "title": "情感风格（Empfindsamer Stil）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 2,
+      "verified_sources_count": 2,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "first-viennese-school": {
+      "title": "第一维也纳乐派（First Viennese School）",
+      "tier": "核心",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 2,
+      "verified_sources_count": 2,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "opera-seria": {
+      "title": "正歌剧（Opera seria）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 2,
+      "verified_sources_count": 2,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "singspiel": {
+      "title": "歌唱剧（Singspiel）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 2,
+      "verified_sources_count": 2,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "fortepiano": {
+      "title": "古钢琴（Fortepiano）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 2,
+      "verified_sources_count": 2,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "piano-sonata": {
+      "title": "钢琴奏鸣曲（Piano sonata）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 2,
+      "verified_sources_count": 2,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "boccherini": {
+      "title": "博凯里尼（Luigi Boccherini）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 2,
+      "verified_sources_count": 2,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "hummel": {
+      "title": "胡梅尔（Johann Nepomuk Hummel）",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 2,
+      "verified_sources_count": 2,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
     }
   }
 }

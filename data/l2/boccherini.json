@@ -1,0 +1,20 @@
+{
+  "id": "boccherini",
+  "level": "L2",
+  "sections": {
+    "时代背景": "摘要称，博凯里尼在远离主要古典音乐中心的环境中成熟；生卒年1743—1805来自摘要描述栏。",
+    "风格特征": "摘要称其音乐保持宫廷与华丽风格。",
+    "代表人物与作品": "E大调弦乐五重奏（作品11第5号）中的小步舞曲、降B大调大提琴协奏曲、《马德里街头夜曲》。",
+    "技法或形式分析": "摘要没有作形式分析，本条目不补写。",
+    "与前后风格的关系和争论": "摘要称大提琴协奏曲长期以格吕茨马赫大幅改动的版本流传，近年恢复原貌——这是版本问题，不是学术立场之争。",
+    "一图": "示意图以博凯里尼为中心，连向三部代表作。",
+    "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“近年恢复”的具体时间摘要未给出；生卒年待独立印证。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='boccherini 示意图'><title>boccherini</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>小步舞曲</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>作品11第5号</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>博凯里尼</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>意大利·大提琴家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>大提琴协奏曲</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>降B大调</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>马德里夜曲</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+  "sources": [
+    "enc-boccherini",
+    "wd-boccherini"
+  ],
+  "needs_verification": true,
+  "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；生卒年待独立印证。"
+}
