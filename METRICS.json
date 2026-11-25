@@ -5178,6 +5178,24 @@
    "check_result": "errors=0",
    "check_links_result": "broken=0(921页)",
    "commits": 1
+  },
+  {
+   "cycle": "cycle234",
+   "date": "2026-11-25",
+   "status": "completed",
+   "gap_methods": [
+    "生卒不一致：顾恺之、礼萨·阿巴西多源对照"
+   ],
+   "new_entries": 0,
+   "reviews": 2,
+   "fixes": 2,
+   "new_sources": 0,
+   "sources_total": 1556,
+   "entries_total": 884,
+   "pages": 921,
+   "check_result": "errors=0",
+   "check_links_result": "broken=0(921页)",
+   "commits": 1
   }
  ]
 }
