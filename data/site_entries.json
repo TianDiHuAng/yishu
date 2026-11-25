@@ -14,7 +14,8 @@
       "overview": "以洞穴壁画与小型雕像为代表，题材多为动物与生殖崇拜，材料为天然颜料与石、骨。",
       "related": [
         "cave-art",
-        "paleolithic-sculpture"
+        "paleolithic-sculpture",
+        "mesopotamian-art"
       ],
       "sources": [
         "enc-prehistoric-art",
@@ -118,7 +119,8 @@
         "minnefer-statue",
         "nefertiti-talatat",
         "kouros-torso",
-        "sumer-bull-polemount"
+        "sumer-bull-polemount",
+        "mesopotamian-art"
       ],
       "sources": [
         "enc-prehistoric-art",
@@ -161,7 +163,9 @@
         "attic-bf-amphora-dionysus",
         "sisyphos-bell-krater",
         "attic-amphora-wedgwood",
-        "attic-stamnos-dionysus"
+        "attic-stamnos-dionysus",
+        "etruscan-art",
+        "hellenistic-art"
       ],
       "sources": [
         "enc-greek-art",
@@ -266,7 +270,9 @@
         "roman-athlete-statue",
         "vespasian-recut-head",
         "xerxes-guard-relief",
-        "sasanian-hunting-dish"
+        "sasanian-hunting-dish",
+        "etruscan-art",
+        "hellenistic-art"
       ],
       "sources": [
         "enc-roman-art",
@@ -304,7 +310,9 @@
         "early-christian-art",
         "romanesque",
         "roman-art",
-        "byzantine-architecture"
+        "byzantine-architecture",
+        "giotto",
+        "carolingian-art"
       ],
       "sources": [
         "enc-byzantine-art",
@@ -376,7 +384,8 @@
         "byzantine-art",
         "gothic",
         "romanesque-architecture",
-        "medieval-crossmedia"
+        "medieval-crossmedia",
+        "carolingian-art"
       ],
       "sources": [
         "enc-romanesque",
@@ -418,7 +427,10 @@
         "ivory-crucified-christ",
         "alabaster-pieta",
         "medieval-crossmedia",
-        "triptych"
+        "triptych",
+        "giotto",
+        "illuminated-manuscript",
+        "stained-glass"
       ],
       "sources": [
         "enc-gothic",
@@ -573,7 +585,8 @@
         "fresco",
         "linear-perspective",
         "tempera",
-        "foreshortening"
+        "foreshortening",
+        "giotto"
       ],
       "sources": [
         "enc-italian-renaissance-painting",
@@ -692,7 +705,10 @@
         "durer-melencolia-i",
         "cranach-baptism-of-christ",
         "cranach-hartenfels-hunt",
-        "oil-painting"
+        "oil-painting",
+        "durer",
+        "bosch",
+        "bruegel"
       ],
       "sources": [
         "enc-northern-renaissance",
@@ -876,7 +892,9 @@
       "overview": "代表作《雅典学院》《西斯廷圣母》，善用金字塔构图与柔和色彩。",
       "related": [
         "high-renaissance",
-        "leonardo"
+        "leonardo",
+        "durer",
+        "pre-raphaelite"
       ],
       "sources": [
         "enc-raphael",
@@ -1043,7 +1061,8 @@
         "dumont-harpsichord-miniature",
         "lancret-cello-drawing",
         "claude-rest-flight-egypt",
-        "baroque-architecture"
+        "baroque-architecture",
+        "watteau"
       ],
       "sources": [
         "enc-rococo",
@@ -1210,7 +1229,8 @@
       "related": [
         "baroque",
         "rococo",
-        "rubens-isabella-brant"
+        "rubens-isabella-brant",
+        "watteau"
       ],
       "sources": [
         "enc-rubens",
@@ -1246,7 +1266,8 @@
         "baroque",
         "impressionism",
         "pedro-de-mena-peter",
-        "velazquez-jester-calabazas"
+        "velazquez-jester-calabazas",
+        "goya"
       ],
       "sources": [
         "enc-velazquez",
@@ -1367,7 +1388,9 @@
         "courbet",
         "corot",
         "preller-musicale",
-        "gothic-revival-architecture"
+        "gothic-revival-architecture",
+        "goya",
+        "pre-raphaelite"
       ],
       "sources": [
         "enc-romanticism",
@@ -1410,7 +1433,8 @@
         "millet-return-from-fields",
         "millet",
         "bonvin-woman-at-spinet",
-        "photorealism"
+        "photorealism",
+        "barbizon-school"
       ],
       "sources": [
         "enc-realism-art",
@@ -1444,7 +1468,8 @@
       "related": [
         "romanticism-art",
         "neoclassicism",
-        "ingres"
+        "ingres",
+        "goya"
       ],
       "sources": [
         "enc-romanticism",
@@ -1592,7 +1617,8 @@
         "van-gogh-plane-trees",
         "van-gogh-dr-gachet",
         "van-gogh-drenthe-wheelbarrow",
-        "mondrian-field-young-trees"
+        "mondrian-field-young-trees",
+        "nabis"
       ],
       "sources": [
         "enc-post-impressionism",
@@ -1631,7 +1657,8 @@
         "monet-water-lilies-agapanthus",
         "pissarro-lock-pontoise",
         "monet-red-kerchief",
-        "monet-low-tide-pourville"
+        "monet-low-tide-pourville",
+        "hokusai"
       ],
       "sources": [
         "enc-monet",
@@ -1715,7 +1742,8 @@
       "related": [
         "post-impressionism",
         "expressionism",
-        "starry-night"
+        "starry-night",
+        "hokusai"
       ],
       "sources": [
         "enc-van-gogh",
@@ -1750,7 +1778,8 @@
       "related": [
         "post-impressionism",
         "cubism",
-        "gauguin"
+        "gauguin",
+        "nabis"
       ],
       "sources": [
         "enc-cezanne",
@@ -1784,7 +1813,8 @@
       "overview": "代表作《我们从何处来？我们是谁？我们向何处去？》，使用平涂色块与象征构图。",
       "related": [
         "post-impressionism",
-        "cezanne"
+        "cezanne",
+        "nabis"
       ],
       "sources": [
         "enc-gauguin",
@@ -5424,7 +5454,8 @@
         "hokusai-hitomaro-poem",
         "hokusai-nakahara-sagami",
         "japanese-architecture",
-        "klimt"
+        "klimt",
+        "hokusai"
       ],
       "sources": [
         "enc-ukiyo-e",
@@ -5665,7 +5696,8 @@
         "romanesque-architecture",
         "renaissance-architecture",
         "spanish-architecture",
-        "gothic-revival-architecture"
+        "gothic-revival-architecture",
+        "stained-glass"
       ],
       "sources": [
         "enc-gothic-architecture",
@@ -6083,7 +6115,8 @@
         "hokusai-hitomaro-poem",
         "hokusai-nakahara-sagami",
         "hokusai-kingfisher-print",
-        "hokusai-36views"
+        "hokusai-36views",
+        "hokusai"
       ],
       "sources": [
         "cma-1930-189",
@@ -16986,7 +17019,8 @@
       "overview": "女子坐桌旁看书与散果；绿盆栽、红纹帘、橙古瓶构成绚丽；作于尼斯Régina旅馆画室，二战爆发后约半年；艺术给其内心平衡以抗乱世。",
       "related": [
         "fauvism",
-        "modern-art"
+        "modern-art",
+        "etruscan-art"
       ],
       "sources": [
         "cma-1952-153"
@@ -19127,7 +19161,8 @@
       "overview": "出身富裕农家，先在瑟堡随肖像画家学习，1837年靠城市津贴赴巴黎入美术学院，不久离开；早期以华托、布歇风格的粉彩小画谋生；1840年代末转向农民题材，在1848年革命背景下带有政治意味；1850—51年沙龙展出《播种者》受到关注，保守派指责他夸大农民的贫困，共和派与左翼则称其为对劳动阶层的有尊严的呈现；晚年取得成功，1867年巴黎世博会回顾展奠定声誉，次年获荣誉军团勋章。",
       "related": [
         "realism-art",
-        "courbet"
+        "courbet",
+        "barbizon-school"
       ],
       "sources": [
         "cma-artist-millet",
@@ -19161,7 +19196,8 @@
       "overview": "先随父从事服装业八年，1821年妹妹去世后获得的津贴使他得以专心绘画；1822年起师从米夏隆，其后师从贝尔坦；1825年首次赴意大利；1827年首次向巴黎沙龙送展；1840年代风格转向更复杂的光效与更暗的土绿色调；1850年代初再次转变，形成银灰色调与漫射光效；他把户外作品作为完成画的蓝本，但自由改编构图、光线与色彩，并称这类画室构成的风景为「paysage composé」；晚年转向单个人物。",
       "related": [
         "romanticism-art",
-        "corot-la-cervara"
+        "corot-la-cervara",
+        "barbizon-school"
       ],
       "sources": [
         "cma-artist-corot",
@@ -19832,7 +19868,8 @@
       "overview": "该馆说明：这是丢勒雕版作品中的巅峰之作；忧郁或悲伤被视为与内省而富创造力的头脑相关，丢勒把它拟人化为一个不能动弹的有翼形象，无法使用散落四周的工具；总和各方向皆为34的幻方、消瘦的狗、沙漏与梯子，唤起时间、秩序、苦难、生与死；作品同时显示丢勒捕捉视觉感知的功力，光在透明沙漏、迸发的彗星、彩虹与几何石体上的表现各不相同。",
       "related": [
         "northern-renaissance",
-        "renaissance"
+        "renaissance",
+        "durer"
       ],
       "sources": [
         "cma-1926-211"
@@ -20265,7 +20302,8 @@
       "overview": "紫色羊皮纸金银墨，尺寸29×10厘米；该馆称这是弥撒中所唱圣咏的歌咏集（cantatorium或gradual），同书其他叶存于柏林与特里尔；无装饰首字母而用推入页边的强调字母。",
       "related": [
         "gregorian-chant",
-        "medieval-music"
+        "medieval-music",
+        "carolingian-art"
       ],
       "sources": [
         "cma-1933-446"
@@ -22312,7 +22350,8 @@
       "related": [
         "bauhaus",
         "modern-art",
-        "modern-architecture"
+        "modern-architecture",
+        "art-nouveau"
       ],
       "sources": [
         "enc-art-deco",
@@ -24047,7 +24086,8 @@
       "related": [
         "frida-kahlo",
         "mondrian",
-        "ukiyo-e"
+        "ukiyo-e",
+        "art-nouveau"
       ],
       "sources": [
         "enc-klimt",
@@ -24101,6 +24141,632 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='guo-xi 示意图'><title>guo-xi</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>北宋宫廷</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>职业画家</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>郭熙</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>山水画家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>林泉高致</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>归于其名下</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>早春图</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>1072·散点透视</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；中文术语与生卒年待核；著作归属照录。"
+    },
+    {
+      "id": "giotto",
+      "title": "乔托（Giotto）",
+      "kind": "人物",
+      "unit": "art-medieval",
+      "era": "中世纪晚期",
+      "region": "意大利（佛罗伦萨）",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "中世纪晚期佛罗伦萨画家与建筑师，活动于哥特与原文艺复兴时期。",
+      "when": "中世纪晚期",
+      "overview": "乔托是中世纪晚期佛罗伦萨的意大利画家与建筑师。",
+      "related": [
+        "gothic",
+        "early-renaissance",
+        "byzantine-art"
+      ],
+      "sources": [
+        "enc-giotto",
+        "wd-giotto"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，乔托活动于哥特与原文艺复兴时期。（生卒年摘要未给出，本条目不写具体年份。）",
+        "风格特征": "摘要引同时代银行家、编年史家乔瓦尼·维拉尼的话，称他“依照自然描绘一切人物及其姿态”。",
+        "代表人物与作品": "摘要没有列举作品，本条目不补写。",
+        "技法或形式分析": "摘要引瓦萨里的话，称他引入了“准确地依照生活写生”的技法，此技法“已被忽视两百多年”。",
+        "与前后风格的关系和争论": "摘要称，瓦萨里把他描述为与当时盛行的拜占庭风格决裂、开启“今日所知的伟大绘画艺术”。这是瓦萨里的叙述，属后世建构的经典说法，本条目不作独立判断。",
+        "一图": "示意图以乔托为中心，标示拜占庭风格、依自然写生、原文艺复兴三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）维拉尼与瓦萨里的话均为摘要转引；（3）作品与生卒年未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='giotto 示意图'><title>giotto</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>拜占庭风格</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>与之决裂</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>乔托</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>画家·建筑师</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>依自然写生</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>瓦萨里语</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>原文艺复兴</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>哥特时期</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；两处引语为转引；作品与生卒年未给出。"
+    },
+    {
+      "id": "durer",
+      "title": "丢勒（Albrecht Dürer）",
+      "kind": "人物",
+      "unit": "art-renaissance",
+      "era": "德国文艺复兴",
+      "region": "德国（纽伦堡）",
+      "medium": "版画",
+      "tier": "核心",
+      "def": "德国文艺复兴的画家、版画家与理论家，生于纽伦堡，二十多岁即以木刻版画闻名欧洲。",
+      "when": "约公元15世纪末—16世纪初（德国文艺复兴）",
+      "overview": "丢勒是德国文艺复兴时期的画家、版画家和理论家。",
+      "related": [
+        "durer-melencolia-i",
+        "northern-renaissance",
+        "raphael"
+      ],
+      "sources": [
+        "enc-durer",
+        "wd-durer"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，丢勒生于纽伦堡，属德国文艺复兴。（生卒年摘要未给出，本条目不写具体年份。）",
+        "风格特征": "摘要没有描述其风格特征，本条目不补写。",
+        "代表人物与作品": "摘要没有列举作品。库内另有作品条目《忧郁 I》（1514）。",
+        "技法或形式分析": "摘要称，他二十多岁时凭高质量的木刻版画在全欧洲建立声誉与影响。",
+        "与前后风格的关系和争论": "摘要称，他与当时意大利主要艺术家有联系，包括拉斐尔、乔瓦尼·贝利尼与列奥纳多·达·芬奇；1512年起受马克西米利安一世皇帝赞助。",
+        "一图": "示意图以丢勒为中心，标示纽伦堡、木刻版画、意大利艺术家三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）与意大利艺术家“有联系”的具体方式摘要未给出；（3）生卒年未给出。（3）when 写“约公元15世纪末—16世纪初”是本项目按德国文艺复兴与摘要所给1512年概括，不是摘要原文。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='durer 示意图'><title>durer</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>纽伦堡</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>出生地</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>丢勒</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>画家·版画家·理论家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>木刻版画</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>二十多岁成名</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>意大利联系</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>拉斐尔·达·芬奇</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；联系方式与生卒年未给出。"
+    },
+    {
+      "id": "bosch",
+      "title": "博斯（Hieronymus Bosch）",
+      "kind": "人物",
+      "unit": "art-renaissance",
+      "era": "15—16世纪",
+      "region": "尼德兰（布拉班特）",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "布拉班特的尼德兰画家，早期尼德兰画派最著名的代表之一，以奇幻的宗教题材著称。",
+      "when": "15—16世纪",
+      "overview": "博斯是来自布拉班特的尼德兰画家。",
+      "related": [
+        "northern-renaissance",
+        "bruegel"
+      ],
+      "sources": [
+        "enc-bosch",
+        "wd-bosch"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，博斯是来自布拉班特的尼德兰画家，属早期尼德兰画派。（生卒年摘要未给出，本条目不写具体年份。）",
+        "风格特征": "摘要称，其作品主要是对宗教观念与叙事的奇幻图解，尤以对地狱的阴森、梦魇般描绘著称。",
+        "代表人物与作品": "摘要没有列举作品，本条目不补写。",
+        "技法或形式分析": "摘要称，其作品一般为橡木板油画。",
+        "与前后风格的关系和争论": "摘要称，他在世时作品即被尼德兰、奥地利与西班牙收藏，并被广泛模仿。",
+        "一图": "示意图以博斯为中心，标示早期尼德兰画派、宗教奇幻图解、广泛模仿三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）作品与生卒年未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='bosch 示意图'><title>bosch</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>早期尼德兰</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>最著名代表</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>博斯</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>布拉班特画家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>奇幻图解</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>地狱景象</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>广泛模仿</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>生前即被收藏</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；作品与生卒年未给出。"
+    },
+    {
+      "id": "bruegel",
+      "title": "老彼得·勃鲁盖尔（Pieter Bruegel the Elder）",
+      "kind": "人物",
+      "unit": "art-renaissance",
+      "era": "16世纪",
+      "region": "尼德兰·佛兰德斯",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "荷兰与佛兰德斯文艺复兴绘画最重要的艺术家之一，以风景与农民场景著称。",
+      "when": "16世纪",
+      "overview": "老彼得·勃鲁盖尔是荷兰与佛兰德斯文艺复兴绘画中最重要的艺术家之一，是画家与版画家。",
+      "related": [
+        "northern-renaissance",
+        "bosch"
+      ],
+      "sources": [
+        "enc-bruegel",
+        "wd-bruegel"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，他属荷兰与佛兰德斯文艺复兴绘画。（生卒年摘要未给出，本条目不写具体年份。）",
+        "风格特征": "摘要称，他以风景与农民场景著称，并开创了以大幅画作呈现这两类题材的做法。",
+        "代表人物与作品": "摘要提到的作品：《有伊卡洛斯坠落的风景》与《雪中猎人》（1565）。",
+        "技法或形式分析": "摘要没有给出技法细节，本条目不补写。",
+        "与前后风格的关系和争论": "摘要称，在20与21世纪，他的作品启发了文学与电影领域的艺术家。《伊卡洛斯》一画的归属学界有讨论，摘要未提，本条目不展开。",
+        "一图": "示意图以勃鲁盖尔为中心，标示风景、农民场景、后世文学与电影三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年未给出；（3）“开创”是摘要的说法，未核验。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='bruegel 示意图'><title>bruegel</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>风景</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>大幅画作</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>勃鲁盖尔</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>画家·版画家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>农民场景</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>大幅画作</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>后世影响</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>文学·电影</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；生卒年未给出；“开创”说未核验。"
+    },
+    {
+      "id": "goya",
+      "title": "戈雅（Francisco Goya）",
+      "kind": "人物",
+      "unit": "art-neo-romantic",
+      "era": "18世纪末—19世纪初",
+      "region": "西班牙",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "西班牙浪漫主义画家与版画家，被视为18世纪末至19世纪初最重要的西班牙艺术家。",
+      "when": "18世纪末—19世纪初",
+      "overview": "戈雅是西班牙浪漫主义画家与版画家。",
+      "related": [
+        "romanticism-art",
+        "velazquez",
+        "delacroix"
+      ],
+      "sources": [
+        "enc-goya",
+        "wd-goya"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，戈雅被视为18世纪末至19世纪初最重要的西班牙艺术家。（生卒年摘要未给出，本条目不写具体年份。）",
+        "风格特征": "摘要称，他的绘画、素描与版画反映了同时代的历史动荡。",
+        "代表人物与作品": "摘要没有列举作品，本条目不补写。",
+        "技法或形式分析": "摘要没有给出技法细节，本条目不补写。",
+        "与前后风格的关系和争论": "摘要称，他常被称为“最后的古典大师与第一位现代画家”，影响了19、20世纪的重要画家，被普遍视为西方艺术史上最具影响力的人物之一。这些都是评价性表述。",
+        "一图": "示意图以戈雅为中心，标示历史动荡、绘画与版画、承前启后三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）评价性表述未核验；（3）作品与生卒年未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='goya 示意图'><title>goya</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>历史动荡</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>作品所反映</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>戈雅</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>浪漫主义画家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>绘画与版画</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>素描·版画</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>承前启后</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>最后古典·最初现代</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；评价性表述未核验；作品与生卒年未给出。"
+    },
+    {
+      "id": "watteau",
+      "title": "华托（Antoine Watteau）",
+      "kind": "人物",
+      "unit": "art-baroque",
+      "era": "18世纪初",
+      "region": "法国",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "法国画家与素描家，使衰落的巴洛克风格转向洛可可，被认为开创了“雅宴画”类型。",
+      "when": "18世纪初",
+      "overview": "华托是法国画家与素描家。",
+      "related": [
+        "rococo",
+        "rubens"
+      ],
+      "sources": [
+        "enc-watteau",
+        "wd-watteau"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，华托的艺术生涯短暂。（生卒年摘要未给出，本条目不写具体年份。）",
+        "风格特征": "摘要称，他使衰落的巴洛克风格焕发生机，转向不那么严肃、更自然、较少形式古典化的洛可可。",
+        "代表人物与作品": "摘要称，他被认为开创了“雅宴画”（fêtes galantes）类型；一些最著名的题材取自意大利喜剧与芭蕾的世界。",
+        "技法或形式分析": "摘要称，他的生涯激发了人们对色彩与动势的重新关注，可见于柯雷乔与鲁本斯的传统。",
+        "与前后风格的关系和争论": "摘要的说法是“被认为开创”，说明这是归功，不是定论。",
+        "一图": "示意图以华托为中心，标示鲁本斯传统、洛可可、雅宴画三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）具体作品与生卒年未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='watteau 示意图'><title>watteau</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>鲁本斯传统</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>色彩与动势</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>华托</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>画家·素描家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>洛可可</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>由巴洛克转向</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>雅宴画</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>被认为开创</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；作品与生卒年未给出。"
+    },
+    {
+      "id": "hokusai",
+      "title": "葛饰北斋（Katsushika Hokusai）",
+      "kind": "人物",
+      "unit": "art-asia",
+      "era": "江户时代",
+      "region": "日本",
+      "medium": "版画",
+      "tier": "核心",
+      "def": "江户时代的日本浮世绘画家与版画家，《富岳三十六景》含名作《神奈川冲浪里》。",
+      "when": "约公元18世纪末—19世纪中叶（江户时代后期）",
+      "overview": "葛饰北斋是江户时代的日本浮世绘艺术家，从事绘画与版画。",
+      "related": [
+        "ukiyo-e",
+        "hokusai-red-fuji",
+        "monet",
+        "van-gogh"
+      ],
+      "sources": [
+        "enc-hokusai",
+        "wd-hokusai"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，北斋是江户时代的浮世绘艺术家。（生卒年摘要未给出，本条目不写具体年份。）",
+        "风格特征": "摘要称，他使浮世绘从主要聚焦于艺伎与演员的肖像风格，发展为更宽广的、关注风景、植物与动物的艺术风格。",
+        "代表人物与作品": "摘要称，木刻版画系列《富岳三十六景》中包括标志性作品《神奈川冲浪里》。库内另有他的数件作品条目，如《凯风快晴》。",
+        "技法或形式分析": "摘要给出的媒介是木刻版画。本条目不补写刻印工艺。",
+        "与前后风格的关系和争论": "摘要称，19世纪末日本主义风潮席卷欧洲期间，他的作品对梵高与莫奈产生了重要影响。",
+        "一图": "示意图以北斋为中心，标示浮世绘、《富岳三十六景》、日本主义三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年未给出。（3）when 写“约公元18世纪末—19世纪中叶”是本项目据其19世纪末影响欧洲等信息所作的粗略概括，摘要只说“江户时代”，需机构来源核对生卒年。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='hokusai 示意图'><title>hokusai</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>浮世绘</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>扩展题材</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>葛饰北斋</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>江户时代</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>富岳三十六景</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>神奈川冲浪里</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>日本主义</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>影响梵高·莫奈</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；生卒年未给出。"
+    },
+    {
+      "id": "mesopotamian-art",
+      "title": "美索不达米亚艺术（Art of Mesopotamia）",
+      "kind": "时期",
+      "unit": "art-ancient",
+      "era": "史前—铁器时代",
+      "region": "西亚（两河流域）",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "从早期狩猎采集社会延续到苏美尔、阿卡德、巴比伦与亚述等青铜时代文化的艺术。",
+      "when": "史前—约公元前1千纪（铁器时代）",
+      "overview": "美索不达米亚艺术的留存记录从早期狩猎采集社会延续到青铜时代的苏美尔、阿卡德、巴比伦与亚述帝国文化。",
+      "related": [
+        "egyptian-art",
+        "prehistoric-art"
+      ],
+      "sources": [
+        "enc-mesopotamian-art",
+        "wd-mesopotamian-art"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，这些帝国在铁器时代被新亚述与新巴比伦帝国取代。摘要没有给出具体年代数字，本条目不补写。",
+        "风格特征": "摘要没有描述艺术风格特征，本条目不补写。",
+        "代表人物与作品": "摘要没有列举作品，本条目不补写。",
+        "技法或形式分析": "摘要没有给出材料与技法，本条目不补写。",
+        "与前后风格的关系和争论": "摘要称，美索不达米亚被普遍视为文明的摇篮，带来了重要的文化发展，包括现存最古老的文字实例。“文明的摇篮”是常见的概括性说法。",
+        "一图": "示意图以美索不达米亚艺术为中心，标示狩猎采集社会、青铜时代帝国、铁器时代帝国三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）风格、作品与年代数字均未给出，本条目内容很薄。（3）when 写“史前—约公元前1千纪”是本项目对摘要“早期狩猎采集社会至铁器时代”的概括。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='mesopotamian-art 示意图'><title>mesopotamian-art</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>狩猎采集</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>早期社会</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>美索不达米亚艺术</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>文明摇篮</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>青铜时代</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>苏美尔至亚述</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>铁器时代</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>新亚述·新巴比伦</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；内容薄：风格、作品与年代未给出。"
+    },
+    {
+      "id": "etruscan-art",
+      "title": "伊特鲁里亚艺术（Etruscan art）",
+      "kind": "时期",
+      "unit": "art-ancient",
+      "era": "公元前10—前1世纪",
+      "region": "意大利中部",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "公元前10至前1世纪意大利中部伊特鲁里亚文明的艺术，约公元前750年起深受希腊艺术影响。",
+      "when": "约公元前10世纪—前1世纪",
+      "overview": "伊特鲁里亚艺术是公元前10至前1世纪意大利中部伊特鲁里亚文明所产生的艺术。",
+      "related": [
+        "matisse-interior-etruscan",
+        "greek-art",
+        "roman-art"
+      ],
+      "sources": [
+        "enc-etruscan-art",
+        "wd-etruscan-art"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，伊特鲁里亚艺术产生于公元前10至前1世纪的意大利中部。",
+        "风格特征": "摘要称，约公元前750年起它深受伊特鲁里亚人输入的希腊艺术影响，但始终保有鲜明的自身特征。",
+        "代表人物与作品": "摘要没有列举具体作品，本条目不补写。",
+        "技法或形式分析": "摘要称，这一传统中尤为突出的是赤陶具象雕塑、壁画与金属工艺，特别是青铜；也生产高质量的首饰与雕刻宝石。",
+        "与前后风格的关系和争论": "它与罗马艺术的关系摘要未述，库内互链为本项目所加。马蒂斯《有伊特鲁里亚瓶的室内》只是题名相关。",
+        "一图": "示意图以伊特鲁里亚艺术为中心，标示希腊艺术影响、赤陶雕塑、青铜工艺三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“鲜明特征”具体指什么摘要未说明；（3）作品未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='etruscan-art 示意图'><title>etruscan-art</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>希腊艺术</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>约前750起影响</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>伊特鲁里亚艺术</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>意大利中部</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>赤陶雕塑</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>具象</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>青铜工艺</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>首饰·宝石</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；特征细节与作品未给出。"
+    },
+    {
+      "id": "hellenistic-art",
+      "title": "希腊化艺术（Hellenistic art）",
+      "kind": "时期",
+      "unit": "art-ancient",
+      "era": "公元前323—前30年",
+      "region": "希腊世界",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "一般认为始于公元前323年亚历山大大帝去世、止于罗马征服希腊世界（约公元前30年）的艺术。",
+      "when": "公元前323—前30年",
+      "overview": "希腊化艺术是希腊化时期的艺术，一般认为始于公元前323年亚历山大大帝之死，止于罗马对希腊世界的征服。",
+      "related": [
+        "greek-art",
+        "roman-art"
+      ],
+      "sources": [
+        "enc-hellenistic-art",
+        "wd-hellenistic-art"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，这一时期一般认为始于公元前323年亚历山大大帝之死；罗马的征服到公元前146年希腊本土被占时已大体进行，到公元前30年亚克兴海战后征服托勒密埃及时基本结束。",
+        "风格特征": "摘要没有直接描述风格特征，本条目不补写。",
+        "代表人物与作品": "摘要列出这一时期的几件最著名的希腊雕塑：《拉奥孔及其儿子们》《垂死的高卢人》《米洛的维纳斯》《萨莫色雷斯的胜利女神》。",
+        "技法或形式分析": "摘要没有给出技法细节，本条目不补写。",
+        "与前后风格的关系和争论": "摘要称，它承接古典希腊艺术时期，其后的希腊-罗马艺术在很大程度上是希腊化趋势的延续。",
+        "一图": "示意图以希腊化艺术为中心，标示古典希腊艺术、四件名作、希腊-罗马艺术三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）风格特征未给出；（3）各作品的具体年代摘要未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='hellenistic-art 示意图'><title>hellenistic-art</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>古典希腊</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>之前时期</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>希腊化艺术</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>前323—前30</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>名作</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>拉奥孔·米洛维纳斯</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>希腊-罗马</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>延续其趋势</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；风格特征与作品年代未给出。"
+    },
+    {
+      "id": "carolingian-art",
+      "title": "加洛林艺术（Carolingian art）",
+      "kind": "时期",
+      "unit": "art-medieval",
+      "era": "约780—900年",
+      "region": "法兰克帝国",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "约780至900年法兰克帝国查理曼及其直接继承者统治时期的艺术，即“加洛林文艺复兴”。",
+      "when": "约公元780—900年",
+      "overview": "加洛林艺术是约780至900年间、查理曼及其直接继承者统治下法兰克帝国的艺术。",
+      "related": [
+        "insular-art",
+        "byzantine-art",
+        "romanesque",
+        "cma-carolingian-gradual",
+        "illuminated-manuscript"
+      ],
+      "sources": [
+        "enc-carolingian-art",
+        "wd-carolingian-art"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，加洛林艺术来自约780至900年、大约120年的法兰克帝国，即通称的“加洛林文艺复兴”；主要产生于查理曼在位期间，并在他死后延续约一个世纪。",
+        "风格特征": "摘要称，艺术由宫廷圈子与受帝国赞助的若干重要修道院制作，也为它们制作；这一圈子之外的遗存在工艺水平与设计精致度上明显下降。",
+        "代表人物与作品": "摘要没有列举具体作品。库内另有一件“加洛林歌咏集对开页”条目，归在中世纪音乐单元。",
+        "技法或形式分析": "摘要称，它包括手抄本、建筑、雕塑与宗教圣物。",
+        "与前后风格的关系和争论": "摘要称，它经大陆传教中心受到不列颠群岛岛屿艺术的很大影响，也受到一些似乎居住在加洛林中心的拜占庭艺术家影响。",
+        "一图": "示意图以加洛林艺术为中心，标示查理曼宫廷、岛屿艺术影响、拜占庭艺术家三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）具体作品未给出；（3）“拜占庭艺术家似乎居住”是摘要的不确定说法，照录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='carolingian-art 示意图'><title>carolingian-art</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>宫廷与修道院</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>帝国赞助</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>加洛林艺术</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>约780—900</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>岛屿艺术</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>经传教中心影响</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>拜占庭艺术家</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>似乎居住其中</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；具体作品未给出；拜占庭艺术家之说本身不确定。"
+    },
+    {
+      "id": "insular-art",
+      "title": "岛屿艺术（Insular art）",
+      "kind": "风格",
+      "unit": "art-medieval",
+      "era": "中世纪早期",
+      "region": "不列颠与爱尔兰",
+      "medium": "综合",
+      "tier": "补充",
+      "def": "又称希伯尼-撒克逊艺术，产生于后罗马时代的不列颠与爱尔兰，两地共享有别于欧洲其余地区的风格。",
+      "when": "中世纪早期",
+      "overview": "岛屿艺术又称希伯尼-撒克逊艺术，产生于后罗马时代的大不列颠与爱尔兰。",
+      "related": [
+        "carolingian-art",
+        "illuminated-manuscript"
+      ],
+      "sources": [
+        "enc-insular-art",
+        "wd-insular-art"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，岛屿艺术产生于后罗马时代的大不列颠与爱尔兰，通常归为中世纪早期艺术，有时更具体地归为民族大迁徙时期艺术。",
+        "风格特征": "摘要称，这一时期不列颠与爱尔兰共享一种很大程度上相同、而有别于欧洲其余地区的风格。",
+        "代表人物与作品": "摘要没有列举作品，本条目不补写。",
+        "技法或形式分析": "摘要没有给出形式要素，本条目不补写。",
+        "与前后风格的关系和争论": "摘要称，“正是这两种传统的结合赋予了这一风格特殊的品格”，但摘要节选没有说明是哪两种传统，本条目不猜测。",
+        "一图": "示意图以岛屿艺术为中心，标示不列颠与爱尔兰、后罗马时代、有别于欧陆三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要提到“两种传统的结合”却未在节选中说明是哪两种，这是摘要截取造成的缺口，需查全文；（3）作品与形式要素未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='insular-art 示意图'><title>insular-art</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>不列颠·爱尔兰</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>共同风格</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>岛屿艺术</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>希伯尼-撒克逊</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>后罗马时代</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>中世纪早期</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>有别于欧陆</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>特殊品格</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；“两种传统”所指未给出；作品未给出。"
+    },
+    {
+      "id": "illuminated-manuscript",
+      "title": "泥金装饰手抄本（Illuminated manuscript）",
+      "kind": "术语",
+      "unit": "art-medieval",
+      "era": "中世纪",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "经正式制作的文献，正文以边框、微型插图等装饰加以美化。",
+      "when": "中世纪—13世纪以后",
+      "overview": "泥金装饰手抄本是一种经正式制作的文献，其正文以边框与微型插图等装饰加以美化。",
+      "related": [
+        "insular-art",
+        "carolingian-art",
+        "gothic"
+      ],
+      "sources": [
+        "enc-illuminated-manuscript",
+        "wd-illuminated-manuscript"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，这类手抄本常用于天主教会的祈祷书与诗篇集等礼仪书，以及宫廷文学；13世纪起这一做法延伸到世俗文本。",
+        "风格特征": "摘要给出的装饰手段：边框与微型插图等。",
+        "代表人物与作品": "摘要没有列举具体手抄本，本条目不补写。",
+        "技法或形式分析": "摘要没有给出颜料、金箔等工艺细节，本条目不补写。",
+        "与前后风格的关系和争论": "摘要称，世俗文本通常包括公告、登记法案、法律、特许状、清单与契据。",
+        "一图": "示意图以泥金装饰手抄本为中心，标示礼仪书、宫廷文学、13世纪起世俗文本三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）中文通称“泥金装饰手抄本”是本项目所用译名；（3）具体实例与工艺未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='illuminated-manuscript 示意图'><title>illuminated-manuscript</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>礼仪书</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>诗篇集等</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>泥金装饰手抄本</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>边框·微型插图</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>宫廷文学</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>教会之外</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>世俗文本</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>13世纪起</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；实例与工艺未给出。"
+    },
+    {
+      "id": "stained-glass",
+      "title": "彩色玻璃（Stained glass）",
+      "kind": "术语",
+      "unit": "art-medieval",
+      "era": "历代",
+      "region": "欧洲等",
+      "medium": "建筑",
+      "tier": "重要",
+      "def": "指作为材料或艺术的彩色玻璃，以及用它制作的艺术与建筑作品。",
+      "when": "历代",
+      "overview": "彩色玻璃指作为材料或艺术的有色玻璃，以及用它制作的艺术与建筑作品。",
+      "related": [
+        "gothic",
+        "gothic-architecture",
+        "art-nouveau"
+      ],
+      "sources": [
+        "enc-stained-glass",
+        "wd-stained-glass"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要没有给出起源年代。本条目挂在中世纪单元只是按其最常见的语境划分，不是摘要的说法。",
+        "风格特征": "摘要称，它传统上制成平板，用作窗户。",
+        "代表人物与作品": "摘要提到路易斯·康福特·蒂芙尼著名的灯具，作为现代俗用中“彩色玻璃”一词扩展含义的例子。",
+        "技法或形式分析": "摘要称，现代彩色玻璃艺术家的创作也包括立体结构与雕塑。",
+        "与前后风格的关系和争论": "摘要称，现代俗语常把这一词扩展到家用铅条玻璃窗与玻璃工艺品。",
+        "一图": "示意图以彩色玻璃为中心，标示平板窗户、立体作品、蒂芙尼灯具三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）起源年代与哥特教堂中的具体实例摘要未给出；（3）单元归属为本项目划分。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='stained-glass 示意图'><title>stained-glass</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>平板窗户</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>传统形式</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>彩色玻璃</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>材料与艺术</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>立体作品</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>现代创作</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>蒂芙尼灯具</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>扩展用法</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；年代与实例未给出；单元归属为本项目划分。"
+    },
+    {
+      "id": "art-nouveau",
+      "title": "新艺术运动（Art Nouveau）",
+      "kind": "风格",
+      "unit": "art-modern",
+      "era": "1890—1910年",
+      "region": "国际",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "国际性的艺术、建筑与应用艺术风格，常取法植物与花卉的蜿蜒曲线，盛行于1890至1910年。",
+      "when": "约公元1890—1910年",
+      "overview": "新艺术是一种国际性的艺术、建筑与应用艺术风格，尤见于装饰艺术。",
+      "related": [
+        "klimt",
+        "art-deco",
+        "stained-glass"
+      ],
+      "sources": [
+        "enc-art-nouveau",
+        "wd-art-nouveau"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，新艺术运动在美好年代（Belle Époque）的1890至1910年间流行。",
+        "风格特征": "摘要称，它常受自然形态启发，如植物与花卉的蜿蜒曲线；另一特征是由不对称或“鞭线”带来的动感与运动感。",
+        "代表人物与作品": "摘要没有列举艺术家与作品。克里姆特条目的摘要称其作品有助于界定欧洲的新艺术风格，那是另一条目的内容。",
+        "技法或形式分析": "摘要称，它使用现代材料，尤其是铁、玻璃、陶瓷，后来还有混凝土，以创造不寻常的形式与更大的开放空间。",
+        "与前后风格的关系和争论": "摘要称，它是对19世纪建筑与装饰艺术中学院主义、折衷主义与历史主义的反动。",
+        "一图": "示意图以新艺术运动为中心，标示自然曲线、现代材料、反学院与历史主义三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）各国名称与代表人物摘要未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='art-nouveau 示意图'><title>art-nouveau</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>自然曲线</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>植物·花卉</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>新艺术运动</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1890—1910</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>现代材料</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>铁·玻璃·陶瓷</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>反历史主义</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>反学院主义</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；代表人物与各国名称未给出。"
+    },
+    {
+      "id": "pre-raphaelite",
+      "title": "拉斐尔前派（Pre-Raphaelite Brotherhood）",
+      "kind": "风格",
+      "unit": "art-neo-romantic",
+      "era": "1848年起",
+      "region": "英国",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "1848年由亨特、米莱、罗塞蒂等七人创立的英国画家、诗人与评论家群体。",
+      "when": "约公元1848年起",
+      "overview": "拉斐尔前派兄弟会是英国画家、诗人与艺术评论家的群体，1848年创立。",
+      "related": [
+        "romanticism-art",
+        "raphael"
+      ],
+      "sources": [
+        "enc-pre-raphaelite",
+        "wd-pre-raphaelite"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，兄弟会于1848年创立，七名成员组成的“兄弟会”部分仿照拿撒勒派运动。",
+        "风格特征": "摘要没有描述风格特征与原则内容，本条目不补写。",
+        "代表人物与作品": "摘要列出创立者：威廉·霍尔曼·亨特、约翰·埃弗里特·米莱、但丁·加百利·罗塞蒂、威廉·迈克尔·罗塞蒂、詹姆斯·柯林森、弗雷德里克·乔治·斯蒂芬斯与托马斯·伍尔纳；同时代共享其原则者有斯温伯恩、威廉·莫里斯、福特·马多克斯·布朗等；后来的追随者有伯恩-琼斯与沃特豪斯。",
+        "技法或形式分析": "摘要没有给出技法细节，本条目不补写。",
+        "与前后风格的关系和争论": "摘要称，兄弟会始终只是一个松散的联合。它与拉斐尔本人的关系（名称由来）摘要未解释，本条目不推断。",
+        "一图": "示意图以拉斐尔前派为中心，标示七位创立者、拿撒勒派、后来追随者三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“原则”的具体内容与名称由来未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='pre-raphaelite 示意图'><title>pre-raphaelite</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>拿撒勒派</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>部分仿照</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>拉斐尔前派</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1848年创立</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>七位创立者</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>亨特·米莱·罗塞蒂</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>后来追随者</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>伯恩-琼斯等</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；原则内容与名称由来未给出。"
+    },
+    {
+      "id": "barbizon-school",
+      "title": "巴比松画派（Barbizon School）",
+      "kind": "风格",
+      "unit": "art-neo-romantic",
+      "era": "约1830—1870年",
+      "region": "法国",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "推进艺术中现实主义的画家群体，约活跃于1830至1870年，得名于枫丹白露森林边的巴比松村。",
+      "when": "约公元1830—1870年",
+      "overview": "巴比松画派是指推进艺术中现实主义的一场运动中的油画家等人。",
+      "related": [
+        "corot",
+        "millet",
+        "realism-art"
+      ],
+      "sources": [
+        "enc-barbizon-school",
+        "wd-barbizon-school"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，这一运动出现在当时占主导的浪漫主义运动的背景中，约活跃于1830至1870年。",
+        "风格特征": "摘要称，该派最突出的特征包括色调品质、色彩、松散的笔触与形体的柔和。",
+        "代表人物与作品": "摘要没有列举画家，本条目不补写；库内柯罗、米勒条目与它的关系摘要未述，互链为本项目所加。",
+        "技法或形式分析": "摘要称，作品多为风景画，偶尔包括农业劳动者，以及乡村生活的风俗场景。",
+        "与前后风格的关系和争论": "摘要称，“画派”之名来自法国枫丹白露森林边缘的巴比松村，许多艺术家聚集于此。",
+        "一图": "示意图以巴比松画派为中心，标示浪漫主义背景、风景画、巴比松村三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）画家名单未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='barbizon-school 示意图'><title>barbizon-school</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>浪漫主义</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>当时主导</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>巴比松画派</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>推进现实主义</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>风景画</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>乡村风俗</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>巴比松村</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>枫丹白露森林</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；画家名单未给出。"
+    },
+    {
+      "id": "nabis",
+      "title": "纳比派（Les Nabis）",
+      "kind": "风格",
+      "unit": "art-impression",
+      "era": "1888—1900年",
+      "region": "法国（巴黎）",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "1888至1900年活跃于巴黎的一群法国青年艺术家，在由印象派与学院艺术向抽象、象征主义等早期现代主义运动的过渡中作用很大。",
+      "when": "约公元1888—1900年",
+      "overview": "纳比派是1888至1900年活跃于巴黎的一群法国青年艺术家。",
+      "related": [
+        "gauguin",
+        "cezanne",
+        "post-impressionism"
+      ],
+      "sources": [
+        "enc-nabis",
+        "wd-nabis"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，纳比派1888至1900年活跃于巴黎，1900年举办最后一次展览后各奔东西。多数成员1880年代末是巴黎朱利安学院的学生。",
+        "风格特征": "摘要称，他们个人风格差异很大；共同的信念是：艺术作品不是对自然的描绘，而是艺术家创造的隐喻与象征的综合。",
+        "代表人物与作品": "摘要列出成员：皮埃尔·博纳尔、莫里斯·德尼、保罗·朗松、爱德华·维亚尔、凯-格扎维埃·鲁塞尔、菲利克斯·瓦洛东、保罗·塞吕西耶与奥古斯特·卡扎利斯。",
+        "技法或形式分析": "摘要没有给出技法细节，本条目不补写。",
+        "与前后风格的关系和争论": "摘要称，他们共同崇敬高更与塞尚，决心革新绘画艺术，在由印象派与学院艺术向抽象艺术、象征主义及其他早期现代主义运动的过渡中起了很大作用。",
+        "一图": "示意图以纳比派为中心，标示高更与塞尚、隐喻与象征的综合、早期现代主义三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“起了很大作用”是摘要的评价，未核验。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='nabis 示意图'><title>nabis</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>高更·塞尚</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>共同崇敬</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>纳比派</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1888—1900</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>隐喻与象征</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>而非描绘自然</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>早期现代主义</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>过渡作用</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；作用评价未核验。"
     }
   ]
 }

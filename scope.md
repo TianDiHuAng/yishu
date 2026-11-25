@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 679 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 697 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -80,6 +80,9 @@
 | caryatid-mirror | 女像柱镜 | 作品 | 公元前16—13世纪 | 埃及 | 金属器 | 核心 | O2 |
 | decorated-situla | 装饰西图拉礼瓶 | 作品 | 托勒密时期 | 埃及 | 金属器 | 核心 | O2 |
 | bakenmut-coffin | 巴肯穆特棺 | 作品 | 公元前11—9世纪 | 埃及 | 综合 | 核心 | O2 |
+| mesopotamian-art | 美索不达米亚艺术（Art of Mesopotamia） | 时期 | 史前—铁器时代 | 西亚（两河流域） | 综合 | 重要 | O1、O2 |
+| etruscan-art | 伊特鲁里亚艺术（Etruscan art） | 时期 | 公元前10—前1世纪 | 意大利中部 | 综合 | 重要 | O1、O2 |
+| hellenistic-art | 希腊化艺术（Hellenistic art） | 时期 | 公元前323—前30年 | 希腊世界 | 雕塑 | 核心 | O1、O2 |
 
 ## art-medieval（艺术史·中世纪）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -107,6 +110,11 @@
 | st-peter-preaching-glass | 圣彼得布道彩窗 | 作品 | 16世纪 | 欧洲 | 综合 | 核心 | O2 |
 | adoration-magi-window-1516 | 三王来拜彩窗（马尔奇拉） | 作品 | 16世纪 | 欧洲 | 综合 | 核心 | O2 |
 | byzantine-architecture | 拜占庭建筑（Byzantine architecture） | 风格 | 公元330—1453年 | 东罗马 | 建筑 | 重要 | O1、O2 |
+| giotto | 乔托（Giotto） | 人物 | 中世纪晚期 | 意大利（佛罗伦萨） | 绘画 | 核心 | O2 |
+| carolingian-art | 加洛林艺术（Carolingian art） | 时期 | 约780—900年 | 法兰克帝国 | 综合 | 重要 | O1、O2 |
+| insular-art | 岛屿艺术（Insular art） | 风格 | 中世纪早期 | 不列颠与爱尔兰 | 综合 | 补充 | O1、O2 |
+| illuminated-manuscript | 泥金装饰手抄本（Illuminated manuscript） | 术语 | 中世纪 | 欧洲 | 绘画 | 重要 | O1、O2 |
+| stained-glass | 彩色玻璃（Stained glass） | 术语 | 历代 | 欧洲等 | 建筑 | 重要 | O1、O2 |
 
 ## art-renaissance（艺术史·文艺复兴）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -135,6 +143,9 @@
 | cranach-hartenfels-hunt | 克拉纳赫《哈滕费尔斯城堡附近的狩猎》（1540） | 作品 | 16世纪 | 德国 | 油画 | 重要 | O1、O3 |
 | bronzino-portrait-of-a-woman | 布龙齐诺《女子肖像》（约1550） | 作品 | 16世纪 | 意大利·佛罗伦萨 | 油画 | 重要 | O1、O3 |
 | renaissance-architecture | 文艺复兴建筑（Renaissance architecture） | 风格 | 15世纪初—16世纪初 | 欧洲 | 建筑 | 重要 | O1、O3 |
+| durer | 丢勒（Albrecht Dürer） | 人物 | 德国文艺复兴 | 德国（纽伦堡） | 版画 | 核心 | O1、O3 |
+| bosch | 博斯（Hieronymus Bosch） | 人物 | 15—16世纪 | 尼德兰（布拉班特） | 绘画 | 重要 | O1、O3 |
+| bruegel | 老彼得·勃鲁盖尔（Pieter Bruegel the Elder） | 人物 | 16世纪 | 尼德兰·佛兰德斯 | 绘画 | 重要 | O1、O3 |
 
 ## art-baroque（艺术史·巴洛克与洛可可）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -165,6 +176,7 @@
 | baroque-architecture | 巴洛克建筑（Baroque architecture） | 风格 | 16世纪末—18世纪中叶 | 欧洲 | 建筑 | 重要 | O1 |
 | spanish-architecture | 西班牙建筑（Spanish architecture） | 风格 | 历代 | 西班牙 | 建筑 | 补充 | O1 |
 | dutch-architecture | 荷兰建筑（Architecture of the Netherlands） | 风格 | 中世纪至今 | 荷兰 | 建筑 | 补充 | O1 |
+| watteau | 华托（Antoine Watteau） | 人物 | 18世纪初 | 法国 | 绘画 | 重要 | O1 |
 
 ## art-neo-romantic（艺术史·新古典与浪漫）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -195,6 +207,9 @@
 | fantin-latour-tannhauser | 方丹-拉图尔《唐豪瑟》（1886） | 作品 | 19世纪 | 法国 | 油画 | 重要 | O1 |
 | neoclassical-architecture | 新古典主义建筑（Neoclassical architecture） | 风格 | 18世纪中叶—19世纪 | 欧洲 | 建筑 | 重要 | O1 |
 | gothic-revival-architecture | 哥特复兴建筑（Gothic Revival architecture） | 风格 | 17世纪下半叶—19世纪 | 英国·欧洲 | 建筑 | 重要 | O1 |
+| goya | 戈雅（Francisco Goya） | 人物 | 18世纪末—19世纪初 | 西班牙 | 绘画 | 核心 | O1 |
+| pre-raphaelite | 拉斐尔前派（Pre-Raphaelite Brotherhood） | 风格 | 1848年起 | 英国 | 绘画 | 重要 | O1 |
+| barbizon-school | 巴比松画派（Barbizon School） | 风格 | 约1830—1870年 | 法国 | 绘画 | 重要 | O1 |
 
 ## art-impression（艺术史·印象派与后印象派）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -215,6 +230,7 @@
 | monet-low-tide-pourville | 莫奈《普尔维尔的低潮》（1882） | 作品 | 19世纪 | 欧洲 | 绘画 | 重要 | O1 |
 | morisot-reading | 莫里索《阅读》（1873） | 作品 | 19世纪 | 欧洲 | 绘画 | 重要 | O1 |
 | renoir-apple-seller | 雷诺阿《卖苹果的女人》（约1890） | 作品 | 19世纪 | 欧洲 | 绘画 | 重要 | O1 |
+| nabis | 纳比派（Les Nabis） | 风格 | 1888—1900年 | 法国（巴黎） | 绘画 | 重要 | O1 |
 
 ## art-modern（艺术史·现代主义）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -249,6 +265,7 @@
 | frida-kahlo | 弗里达·卡罗（Frida Kahlo） | 人物 | 20世纪 | 墨西哥 | 绘画 | 重要 | O1 |
 | mondrian | 蒙德里安（Piet Mondrian） | 人物 | 20世纪 | 荷兰 | 绘画 | 核心 | O1 |
 | klimt | 克里姆特（Gustav Klimt） | 人物 | 19世纪末—20世纪初 | 奥地利 | 绘画 | 重要 | O1 |
+| art-nouveau | 新艺术运动（Art Nouveau） | 风格 | 1890—1910年 | 国际 | 综合 | 核心 | O1 |
 
 ## art-contemporary（艺术史·当代）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -583,6 +600,7 @@
 | japanese-architecture | 日本建筑（Japanese architecture） | 风格 | 历代 | 东亚 | 建筑 | 重要 | O1 |
 | indian-architecture | 印度建筑（Architecture of India） | 风格 | 历代 | 南亚 | 建筑 | 重要 | O1 |
 | korean-architecture | 韩国建筑（Korean architecture） | 风格 | 历代 | 东亚 | 建筑 | 补充 | O1 |
+| hokusai | 葛饰北斋（Katsushika Hokusai） | 人物 | 江户时代 | 日本 | 版画 | 核心 | O1 |
 
 ## art-islamic（伊斯兰艺术（西亚·中亚））
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

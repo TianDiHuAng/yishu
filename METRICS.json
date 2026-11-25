@@ -4638,6 +4638,24 @@
       "check_result": "errors=0",
       "check_links_result": "broken=0(716页)",
       "commits": 1
+    },
+    {
+      "cycle": "cycle203",
+      "date": "2026-11-25",
+      "status": "completed",
+      "gap_methods": [
+        "扩大纲第四批：古代至19世纪艺术18条"
+      ],
+      "new_entries": 18,
+      "reviews": 37,
+      "fixes": 6,
+      "new_sources": 36,
+      "sources_total": 1045,
+      "entries_total": 697,
+      "pages": 734,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(734页)",
+      "commits": 1
     }
   ]
 }

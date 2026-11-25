@@ -14,7 +14,8 @@
       "overview": "以洞穴壁画与小型雕像为代表，题材多为动物与生殖崇拜，材料为天然颜料与石、骨。",
       "related": [
         "cave-art",
-        "paleolithic-sculpture"
+        "paleolithic-sculpture",
+        "mesopotamian-art"
       ],
       "sources": [
         "enc-prehistoric-art",
@@ -81,7 +82,8 @@
         "minnefer-statue",
         "nefertiti-talatat",
         "kouros-torso",
-        "sumer-bull-polemount"
+        "sumer-bull-polemount",
+        "mesopotamian-art"
       ],
       "sources": [
         "enc-prehistoric-art",
@@ -161,7 +163,9 @@
         "early-christian-art",
         "romanesque",
         "roman-art",
-        "byzantine-architecture"
+        "byzantine-architecture",
+        "giotto",
+        "carolingian-art"
       ],
       "sources": [
         "enc-byzantine-art",
@@ -205,7 +209,8 @@
         "byzantine-art",
         "gothic",
         "romanesque-architecture",
-        "medieval-crossmedia"
+        "medieval-crossmedia",
+        "carolingian-art"
       ],
       "sources": [
         "enc-romanesque",
@@ -232,7 +237,10 @@
         "ivory-crucified-christ",
         "alabaster-pieta",
         "medieval-crossmedia",
-        "triptych"
+        "triptych",
+        "giotto",
+        "illuminated-manuscript",
+        "stained-glass"
       ],
       "sources": [
         "enc-gothic",
@@ -296,7 +304,8 @@
         "fresco",
         "linear-perspective",
         "tempera",
-        "foreshortening"
+        "foreshortening",
+        "giotto"
       ],
       "sources": [
         "enc-italian-renaissance-painting",
@@ -377,7 +386,10 @@
         "durer-melencolia-i",
         "cranach-baptism-of-christ",
         "cranach-hartenfels-hunt",
-        "oil-painting"
+        "oil-painting",
+        "durer",
+        "bosch",
+        "bruegel"
       ],
       "sources": [
         "enc-northern-renaissance",
@@ -495,7 +507,9 @@
       "overview": "代表作《雅典学院》《西斯廷圣母》，善用金字塔构图与柔和色彩。",
       "related": [
         "high-renaissance",
-        "leonardo"
+        "leonardo",
+        "durer",
+        "pre-raphaelite"
       ],
       "sources": [
         "enc-raphael",
@@ -610,7 +624,8 @@
         "dumont-harpsichord-miniature",
         "lancret-cello-drawing",
         "claude-rest-flight-egypt",
-        "baroque-architecture"
+        "baroque-architecture",
+        "watteau"
       ],
       "sources": [
         "enc-rococo",
@@ -689,7 +704,8 @@
       "related": [
         "baroque",
         "rococo",
-        "rubens-isabella-brant"
+        "rubens-isabella-brant",
+        "watteau"
       ],
       "sources": [
         "enc-rubens",
@@ -712,7 +728,8 @@
         "baroque",
         "impressionism",
         "pedro-de-mena-peter",
-        "velazquez-jester-calabazas"
+        "velazquez-jester-calabazas",
+        "goya"
       ],
       "sources": [
         "enc-velazquez",
@@ -794,7 +811,9 @@
         "courbet",
         "corot",
         "preller-musicale",
-        "gothic-revival-architecture"
+        "gothic-revival-architecture",
+        "goya",
+        "pre-raphaelite"
       ],
       "sources": [
         "enc-romanticism",
@@ -824,7 +843,8 @@
         "millet-return-from-fields",
         "millet",
         "bonvin-woman-at-spinet",
-        "photorealism"
+        "photorealism",
+        "barbizon-school"
       ],
       "sources": [
         "enc-realism-art",
@@ -846,7 +866,8 @@
       "related": [
         "romanticism-art",
         "neoclassicism",
-        "ingres"
+        "ingres",
+        "goya"
       ],
       "sources": [
         "enc-romanticism",
@@ -909,7 +930,8 @@
         "van-gogh-plane-trees",
         "van-gogh-dr-gachet",
         "van-gogh-drenthe-wheelbarrow",
-        "mondrian-field-young-trees"
+        "mondrian-field-young-trees",
+        "nabis"
       ],
       "sources": [
         "enc-post-impressionism",
@@ -935,7 +957,8 @@
         "monet-water-lilies-agapanthus",
         "pissarro-lock-pontoise",
         "monet-red-kerchief",
-        "monet-low-tide-pourville"
+        "monet-low-tide-pourville",
+        "hokusai"
       ],
       "sources": [
         "enc-monet",
@@ -957,7 +980,8 @@
       "related": [
         "post-impressionism",
         "expressionism",
-        "starry-night"
+        "starry-night",
+        "hokusai"
       ],
       "sources": [
         "enc-van-gogh",
@@ -979,7 +1003,8 @@
       "related": [
         "post-impressionism",
         "cubism",
-        "gauguin"
+        "gauguin",
+        "nabis"
       ],
       "sources": [
         "enc-cezanne",
@@ -1000,7 +1025,8 @@
       "overview": "代表作《我们从何处来？我们是谁？我们向何处去？》，使用平涂色块与象征构图。",
       "related": [
         "post-impressionism",
-        "cezanne"
+        "cezanne",
+        "nabis"
       ],
       "sources": [
         "enc-gauguin",
@@ -3379,7 +3405,8 @@
         "hokusai-hitomaro-poem",
         "hokusai-nakahara-sagami",
         "japanese-architecture",
-        "klimt"
+        "klimt",
+        "hokusai"
       ],
       "sources": [
         "enc-ukiyo-e",
@@ -3530,7 +3557,8 @@
         "romanesque-architecture",
         "renaissance-architecture",
         "spanish-architecture",
-        "gothic-revival-architecture"
+        "gothic-revival-architecture",
+        "stained-glass"
       ],
       "sources": [
         "enc-gothic-architecture",
@@ -3799,7 +3827,8 @@
         "hokusai-hitomaro-poem",
         "hokusai-nakahara-sagami",
         "hokusai-kingfisher-print",
-        "hokusai-36views"
+        "hokusai-36views",
+        "hokusai"
       ],
       "sources": [
         "cma-1930-189",
@@ -10573,7 +10602,8 @@
       "overview": "女子坐桌旁看书与散果；绿盆栽、红纹帘、橙古瓶构成绚丽；作于尼斯Régina旅馆画室，二战爆发后约半年；艺术给其内心平衡以抗乱世。",
       "related": [
         "fauvism",
-        "modern-art"
+        "modern-art",
+        "etruscan-art"
       ],
       "sources": [
         "cma-1952-153"
@@ -11882,7 +11912,8 @@
       "overview": "出身富裕农家，先在瑟堡随肖像画家学习，1837年靠城市津贴赴巴黎入美术学院，不久离开；早期以华托、布歇风格的粉彩小画谋生；1840年代末转向农民题材，在1848年革命背景下带有政治意味；1850—51年沙龙展出《播种者》受到关注，保守派指责他夸大农民的贫困，共和派与左翼则称其为对劳动阶层的有尊严的呈现；晚年取得成功，1867年巴黎世博会回顾展奠定声誉，次年获荣誉军团勋章。",
       "related": [
         "realism-art",
-        "courbet"
+        "courbet",
+        "barbizon-school"
       ],
       "sources": [
         "cma-artist-millet"
@@ -11902,7 +11933,8 @@
       "overview": "先随父从事服装业八年，1821年妹妹去世后获得的津贴使他得以专心绘画；1822年起师从米夏隆，其后师从贝尔坦；1825年首次赴意大利；1827年首次向巴黎沙龙送展；1840年代风格转向更复杂的光效与更暗的土绿色调；1850年代初再次转变，形成银灰色调与漫射光效；他把户外作品作为完成画的蓝本，但自由改编构图、光线与色彩，并称这类画室构成的风景为「paysage composé」；晚年转向单个人物。",
       "related": [
         "romanticism-art",
-        "corot-la-cervara"
+        "corot-la-cervara",
+        "barbizon-school"
       ],
       "sources": [
         "cma-artist-corot"
@@ -12311,7 +12343,8 @@
       "overview": "该馆说明：这是丢勒雕版作品中的巅峰之作；忧郁或悲伤被视为与内省而富创造力的头脑相关，丢勒把它拟人化为一个不能动弹的有翼形象，无法使用散落四周的工具；总和各方向皆为34的幻方、消瘦的狗、沙漏与梯子，唤起时间、秩序、苦难、生与死；作品同时显示丢勒捕捉视觉感知的功力，光在透明沙漏、迸发的彗星、彩虹与几何石体上的表现各不相同。",
       "related": [
         "northern-renaissance",
-        "renaissance"
+        "renaissance",
+        "durer"
       ],
       "sources": [
         "cma-1926-211"
@@ -12573,7 +12606,8 @@
       "overview": "紫色羊皮纸金银墨，尺寸29×10厘米；该馆称这是弥撒中所唱圣咏的歌咏集（cantatorium或gradual），同书其他叶存于柏林与特里尔；无装饰首字母而用推入页边的强调字母。",
       "related": [
         "gregorian-chant",
-        "medieval-music"
+        "medieval-music",
+        "carolingian-art"
       ],
       "sources": [
         "cma-1933-446"
@@ -13850,7 +13884,8 @@
       "related": [
         "bauhaus",
         "modern-art",
-        "modern-architecture"
+        "modern-architecture",
+        "art-nouveau"
       ],
       "sources": [
         "enc-art-deco",
@@ -14939,7 +14974,8 @@
       "related": [
         "frida-kahlo",
         "mondrian",
-        "ukiyo-e"
+        "ukiyo-e",
+        "art-nouveau"
       ],
       "sources": [
         "enc-klimt",
@@ -14964,6 +15000,393 @@
       "sources": [
         "enc-guo-xi",
         "wd-guo-xi"
+      ]
+    },
+    {
+      "id": "giotto",
+      "title": "乔托（Giotto）",
+      "kind": "人物",
+      "unit": "art-medieval",
+      "era": "中世纪晚期",
+      "region": "意大利（佛罗伦萨）",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "中世纪晚期佛罗伦萨画家与建筑师，活动于哥特与原文艺复兴时期。",
+      "when": "中世纪晚期",
+      "overview": "乔托是中世纪晚期佛罗伦萨的意大利画家与建筑师。",
+      "related": [
+        "gothic",
+        "early-renaissance",
+        "byzantine-art"
+      ],
+      "sources": [
+        "enc-giotto",
+        "wd-giotto"
+      ]
+    },
+    {
+      "id": "durer",
+      "title": "丢勒（Albrecht Dürer）",
+      "kind": "人物",
+      "unit": "art-renaissance",
+      "era": "德国文艺复兴",
+      "region": "德国（纽伦堡）",
+      "medium": "版画",
+      "tier": "核心",
+      "def": "德国文艺复兴的画家、版画家与理论家，生于纽伦堡，二十多岁即以木刻版画闻名欧洲。",
+      "when": "约公元15世纪末—16世纪初（德国文艺复兴）",
+      "overview": "丢勒是德国文艺复兴时期的画家、版画家和理论家。",
+      "related": [
+        "durer-melencolia-i",
+        "northern-renaissance",
+        "raphael"
+      ],
+      "sources": [
+        "enc-durer",
+        "wd-durer"
+      ]
+    },
+    {
+      "id": "bosch",
+      "title": "博斯（Hieronymus Bosch）",
+      "kind": "人物",
+      "unit": "art-renaissance",
+      "era": "15—16世纪",
+      "region": "尼德兰（布拉班特）",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "布拉班特的尼德兰画家，早期尼德兰画派最著名的代表之一，以奇幻的宗教题材著称。",
+      "when": "15—16世纪",
+      "overview": "博斯是来自布拉班特的尼德兰画家。",
+      "related": [
+        "northern-renaissance",
+        "bruegel"
+      ],
+      "sources": [
+        "enc-bosch",
+        "wd-bosch"
+      ]
+    },
+    {
+      "id": "bruegel",
+      "title": "老彼得·勃鲁盖尔（Pieter Bruegel the Elder）",
+      "kind": "人物",
+      "unit": "art-renaissance",
+      "era": "16世纪",
+      "region": "尼德兰·佛兰德斯",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "荷兰与佛兰德斯文艺复兴绘画最重要的艺术家之一，以风景与农民场景著称。",
+      "when": "16世纪",
+      "overview": "老彼得·勃鲁盖尔是荷兰与佛兰德斯文艺复兴绘画中最重要的艺术家之一，是画家与版画家。",
+      "related": [
+        "northern-renaissance",
+        "bosch"
+      ],
+      "sources": [
+        "enc-bruegel",
+        "wd-bruegel"
+      ]
+    },
+    {
+      "id": "goya",
+      "title": "戈雅（Francisco Goya）",
+      "kind": "人物",
+      "unit": "art-neo-romantic",
+      "era": "18世纪末—19世纪初",
+      "region": "西班牙",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "西班牙浪漫主义画家与版画家，被视为18世纪末至19世纪初最重要的西班牙艺术家。",
+      "when": "18世纪末—19世纪初",
+      "overview": "戈雅是西班牙浪漫主义画家与版画家。",
+      "related": [
+        "romanticism-art",
+        "velazquez",
+        "delacroix"
+      ],
+      "sources": [
+        "enc-goya",
+        "wd-goya"
+      ]
+    },
+    {
+      "id": "watteau",
+      "title": "华托（Antoine Watteau）",
+      "kind": "人物",
+      "unit": "art-baroque",
+      "era": "18世纪初",
+      "region": "法国",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "法国画家与素描家，使衰落的巴洛克风格转向洛可可，被认为开创了“雅宴画”类型。",
+      "when": "18世纪初",
+      "overview": "华托是法国画家与素描家。",
+      "related": [
+        "rococo",
+        "rubens"
+      ],
+      "sources": [
+        "enc-watteau",
+        "wd-watteau"
+      ]
+    },
+    {
+      "id": "hokusai",
+      "title": "葛饰北斋（Katsushika Hokusai）",
+      "kind": "人物",
+      "unit": "art-asia",
+      "era": "江户时代",
+      "region": "日本",
+      "medium": "版画",
+      "tier": "核心",
+      "def": "江户时代的日本浮世绘画家与版画家，《富岳三十六景》含名作《神奈川冲浪里》。",
+      "when": "约公元18世纪末—19世纪中叶（江户时代后期）",
+      "overview": "葛饰北斋是江户时代的日本浮世绘艺术家，从事绘画与版画。",
+      "related": [
+        "ukiyo-e",
+        "hokusai-red-fuji",
+        "monet",
+        "van-gogh"
+      ],
+      "sources": [
+        "enc-hokusai",
+        "wd-hokusai"
+      ]
+    },
+    {
+      "id": "mesopotamian-art",
+      "title": "美索不达米亚艺术（Art of Mesopotamia）",
+      "kind": "时期",
+      "unit": "art-ancient",
+      "era": "史前—铁器时代",
+      "region": "西亚（两河流域）",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "从早期狩猎采集社会延续到苏美尔、阿卡德、巴比伦与亚述等青铜时代文化的艺术。",
+      "when": "史前—约公元前1千纪（铁器时代）",
+      "overview": "美索不达米亚艺术的留存记录从早期狩猎采集社会延续到青铜时代的苏美尔、阿卡德、巴比伦与亚述帝国文化。",
+      "related": [
+        "egyptian-art",
+        "prehistoric-art"
+      ],
+      "sources": [
+        "enc-mesopotamian-art",
+        "wd-mesopotamian-art"
+      ]
+    },
+    {
+      "id": "etruscan-art",
+      "title": "伊特鲁里亚艺术（Etruscan art）",
+      "kind": "时期",
+      "unit": "art-ancient",
+      "era": "公元前10—前1世纪",
+      "region": "意大利中部",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "公元前10至前1世纪意大利中部伊特鲁里亚文明的艺术，约公元前750年起深受希腊艺术影响。",
+      "when": "约公元前10世纪—前1世纪",
+      "overview": "伊特鲁里亚艺术是公元前10至前1世纪意大利中部伊特鲁里亚文明所产生的艺术。",
+      "related": [
+        "matisse-interior-etruscan"
+      ],
+      "sources": [
+        "enc-etruscan-art",
+        "wd-etruscan-art"
+      ]
+    },
+    {
+      "id": "hellenistic-art",
+      "title": "希腊化艺术（Hellenistic art）",
+      "kind": "时期",
+      "unit": "art-ancient",
+      "era": "公元前323—前30年",
+      "region": "希腊世界",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "一般认为始于公元前323年亚历山大大帝去世、止于罗马征服希腊世界（约公元前30年）的艺术。",
+      "when": "公元前323—前30年",
+      "overview": "希腊化艺术是希腊化时期的艺术，一般认为始于公元前323年亚历山大大帝之死，止于罗马对希腊世界的征服。",
+      "related": [],
+      "sources": [
+        "enc-hellenistic-art",
+        "wd-hellenistic-art"
+      ]
+    },
+    {
+      "id": "carolingian-art",
+      "title": "加洛林艺术（Carolingian art）",
+      "kind": "时期",
+      "unit": "art-medieval",
+      "era": "约780—900年",
+      "region": "法兰克帝国",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "约780至900年法兰克帝国查理曼及其直接继承者统治时期的艺术，即“加洛林文艺复兴”。",
+      "when": "约公元780—900年",
+      "overview": "加洛林艺术是约780至900年间、查理曼及其直接继承者统治下法兰克帝国的艺术。",
+      "related": [
+        "insular-art",
+        "byzantine-art",
+        "romanesque",
+        "cma-carolingian-gradual",
+        "illuminated-manuscript"
+      ],
+      "sources": [
+        "enc-carolingian-art",
+        "wd-carolingian-art"
+      ]
+    },
+    {
+      "id": "insular-art",
+      "title": "岛屿艺术（Insular art）",
+      "kind": "风格",
+      "unit": "art-medieval",
+      "era": "中世纪早期",
+      "region": "不列颠与爱尔兰",
+      "medium": "综合",
+      "tier": "补充",
+      "def": "又称希伯尼-撒克逊艺术，产生于后罗马时代的不列颠与爱尔兰，两地共享有别于欧洲其余地区的风格。",
+      "when": "中世纪早期",
+      "overview": "岛屿艺术又称希伯尼-撒克逊艺术，产生于后罗马时代的大不列颠与爱尔兰。",
+      "related": [
+        "carolingian-art",
+        "illuminated-manuscript"
+      ],
+      "sources": [
+        "enc-insular-art",
+        "wd-insular-art"
+      ]
+    },
+    {
+      "id": "illuminated-manuscript",
+      "title": "泥金装饰手抄本（Illuminated manuscript）",
+      "kind": "术语",
+      "unit": "art-medieval",
+      "era": "中世纪",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "经正式制作的文献，正文以边框、微型插图等装饰加以美化。",
+      "when": "中世纪—13世纪以后",
+      "overview": "泥金装饰手抄本是一种经正式制作的文献，其正文以边框与微型插图等装饰加以美化。",
+      "related": [
+        "insular-art",
+        "carolingian-art",
+        "gothic"
+      ],
+      "sources": [
+        "enc-illuminated-manuscript",
+        "wd-illuminated-manuscript"
+      ]
+    },
+    {
+      "id": "stained-glass",
+      "title": "彩色玻璃（Stained glass）",
+      "kind": "术语",
+      "unit": "art-medieval",
+      "era": "历代",
+      "region": "欧洲等",
+      "medium": "建筑",
+      "tier": "重要",
+      "def": "指作为材料或艺术的彩色玻璃，以及用它制作的艺术与建筑作品。",
+      "when": "历代",
+      "overview": "彩色玻璃指作为材料或艺术的有色玻璃，以及用它制作的艺术与建筑作品。",
+      "related": [
+        "gothic",
+        "gothic-architecture",
+        "art-nouveau"
+      ],
+      "sources": [
+        "enc-stained-glass",
+        "wd-stained-glass"
+      ]
+    },
+    {
+      "id": "art-nouveau",
+      "title": "新艺术运动（Art Nouveau）",
+      "kind": "风格",
+      "unit": "art-modern",
+      "era": "1890—1910年",
+      "region": "国际",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "国际性的艺术、建筑与应用艺术风格，常取法植物与花卉的蜿蜒曲线，盛行于1890至1910年。",
+      "when": "约公元1890—1910年",
+      "overview": "新艺术是一种国际性的艺术、建筑与应用艺术风格，尤见于装饰艺术。",
+      "related": [
+        "klimt",
+        "art-deco",
+        "stained-glass"
+      ],
+      "sources": [
+        "enc-art-nouveau",
+        "wd-art-nouveau"
+      ]
+    },
+    {
+      "id": "pre-raphaelite",
+      "title": "拉斐尔前派（Pre-Raphaelite Brotherhood）",
+      "kind": "风格",
+      "unit": "art-neo-romantic",
+      "era": "1848年起",
+      "region": "英国",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "1848年由亨特、米莱、罗塞蒂等七人创立的英国画家、诗人与评论家群体。",
+      "when": "约公元1848年起",
+      "overview": "拉斐尔前派兄弟会是英国画家、诗人与艺术评论家的群体，1848年创立。",
+      "related": [
+        "romanticism-art",
+        "raphael"
+      ],
+      "sources": [
+        "enc-pre-raphaelite",
+        "wd-pre-raphaelite"
+      ]
+    },
+    {
+      "id": "barbizon-school",
+      "title": "巴比松画派（Barbizon School）",
+      "kind": "风格",
+      "unit": "art-neo-romantic",
+      "era": "约1830—1870年",
+      "region": "法国",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "推进艺术中现实主义的画家群体，约活跃于1830至1870年，得名于枫丹白露森林边的巴比松村。",
+      "when": "约公元1830—1870年",
+      "overview": "巴比松画派是指推进艺术中现实主义的一场运动中的油画家等人。",
+      "related": [
+        "corot",
+        "millet",
+        "realism-art"
+      ],
+      "sources": [
+        "enc-barbizon-school",
+        "wd-barbizon-school"
+      ]
+    },
+    {
+      "id": "nabis",
+      "title": "纳比派（Les Nabis）",
+      "kind": "风格",
+      "unit": "art-impression",
+      "era": "1888—1900年",
+      "region": "法国（巴黎）",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "1888至1900年活跃于巴黎的一群法国青年艺术家，在由印象派与学院艺术向抽象、象征主义等早期现代主义运动的过渡中作用很大。",
+      "when": "约公元1888—1900年",
+      "overview": "纳比派是1888至1900年活跃于巴黎的一群法国青年艺术家。",
+      "related": [
+        "gauguin",
+        "cezanne",
+        "post-impressionism"
+      ],
+      "sources": [
+        "enc-nabis",
+        "wd-nabis"
       ]
     }
   ]

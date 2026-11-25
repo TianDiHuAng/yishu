@@ -1,0 +1,20 @@
+{
+  "id": "art-nouveau",
+  "level": "L2",
+  "sections": {
+    "时代背景": "摘要称，新艺术运动在美好年代（Belle Époque）的1890至1910年间流行。",
+    "风格特征": "摘要称，它常受自然形态启发，如植物与花卉的蜿蜒曲线；另一特征是由不对称或“鞭线”带来的动感与运动感。",
+    "代表人物与作品": "摘要没有列举艺术家与作品。克里姆特条目的摘要称其作品有助于界定欧洲的新艺术风格，那是另一条目的内容。",
+    "技法或形式分析": "摘要称，它使用现代材料，尤其是铁、玻璃、陶瓷，后来还有混凝土，以创造不寻常的形式与更大的开放空间。",
+    "与前后风格的关系和争论": "摘要称，它是对19世纪建筑与装饰艺术中学院主义、折衷主义与历史主义的反动。",
+    "一图": "示意图以新艺术运动为中心，标示自然曲线、现代材料、反学院与历史主义三项。",
+    "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）各国名称与代表人物摘要未给出。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='art-nouveau 示意图'><title>art-nouveau</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>自然曲线</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>植物·花卉</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>新艺术运动</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1890—1910</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>现代材料</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>铁·玻璃·陶瓷</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>反历史主义</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>反学院主义</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+  "sources": [
+    "enc-art-nouveau",
+    "wd-art-nouveau"
+  ],
+  "needs_verification": true,
+  "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；代表人物与各国名称未给出。"
+}

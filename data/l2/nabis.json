@@ -1,0 +1,20 @@
+{
+  "id": "nabis",
+  "level": "L2",
+  "sections": {
+    "时代背景": "摘要称，纳比派1888至1900年活跃于巴黎，1900年举办最后一次展览后各奔东西。多数成员1880年代末是巴黎朱利安学院的学生。",
+    "风格特征": "摘要称，他们个人风格差异很大；共同的信念是：艺术作品不是对自然的描绘，而是艺术家创造的隐喻与象征的综合。",
+    "代表人物与作品": "摘要列出成员：皮埃尔·博纳尔、莫里斯·德尼、保罗·朗松、爱德华·维亚尔、凯-格扎维埃·鲁塞尔、菲利克斯·瓦洛东、保罗·塞吕西耶与奥古斯特·卡扎利斯。",
+    "技法或形式分析": "摘要没有给出技法细节，本条目不补写。",
+    "与前后风格的关系和争论": "摘要称，他们共同崇敬高更与塞尚，决心革新绘画艺术，在由印象派与学院艺术向抽象艺术、象征主义及其他早期现代主义运动的过渡中起了很大作用。",
+    "一图": "示意图以纳比派为中心，标示高更与塞尚、隐喻与象征的综合、早期现代主义三项。",
+    "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“起了很大作用”是摘要的评价，未核验。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='nabis 示意图'><title>nabis</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>高更·塞尚</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>共同崇敬</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>纳比派</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1888—1900</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>隐喻与象征</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>而非描绘自然</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>早期现代主义</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>过渡作用</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+  "sources": [
+    "enc-nabis",
+    "wd-nabis"
+  ],
+  "needs_verification": true,
+  "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；作用评价未核验。"
+}

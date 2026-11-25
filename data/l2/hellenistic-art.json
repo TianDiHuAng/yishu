@@ -1,0 +1,24 @@
+{
+  "id": "hellenistic-art",
+  "level": "L2",
+  "sections": {
+    "时代背景": "摘要称，这一时期一般认为始于公元前323年亚历山大大帝之死；罗马的征服到公元前146年希腊本土被占时已大体进行，到公元前30年亚克兴海战后征服托勒密埃及时基本结束。",
+    "风格特征": "摘要没有直接描述风格特征，本条目不补写。",
+    "代表人物与作品": "摘要列出这一时期的几件最著名的希腊雕塑：《拉奥孔及其儿子们》《垂死的高卢人》《米洛的维纳斯》《萨莫色雷斯的胜利女神》。",
+    "技法或形式分析": "摘要没有给出技法细节，本条目不补写。",
+    "与前后风格的关系和争论": "摘要称，它承接古典希腊艺术时期，其后的希腊-罗马艺术在很大程度上是希腊化趋势的延续。",
+    "一图": "示意图以希腊化艺术为中心，标示古典希腊艺术、四件名作、希腊-罗马艺术三项。",
+    "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）风格特征未给出；（3）各作品的具体年代摘要未给出。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='hellenistic-art 示意图'><title>hellenistic-art</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>古典希腊</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>之前时期</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>希腊化艺术</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>前323—前30</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>名作</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>拉奥孔·米洛维纳斯</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>希腊-罗马</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>延续其趋势</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+  "sources": [
+    "enc-hellenistic-art",
+    "wd-hellenistic-art"
+  ],
+  "needs_verification": true,
+  "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；风格特征与作品年代未给出。",
+  "related": [
+    "greek-art",
+    "roman-art"
+  ]
+}

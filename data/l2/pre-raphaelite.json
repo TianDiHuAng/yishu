@@ -1,0 +1,20 @@
+{
+  "id": "pre-raphaelite",
+  "level": "L2",
+  "sections": {
+    "时代背景": "摘要称，兄弟会于1848年创立，七名成员组成的“兄弟会”部分仿照拿撒勒派运动。",
+    "风格特征": "摘要没有描述风格特征与原则内容，本条目不补写。",
+    "代表人物与作品": "摘要列出创立者：威廉·霍尔曼·亨特、约翰·埃弗里特·米莱、但丁·加百利·罗塞蒂、威廉·迈克尔·罗塞蒂、詹姆斯·柯林森、弗雷德里克·乔治·斯蒂芬斯与托马斯·伍尔纳；同时代共享其原则者有斯温伯恩、威廉·莫里斯、福特·马多克斯·布朗等；后来的追随者有伯恩-琼斯与沃特豪斯。",
+    "技法或形式分析": "摘要没有给出技法细节，本条目不补写。",
+    "与前后风格的关系和争论": "摘要称，兄弟会始终只是一个松散的联合。它与拉斐尔本人的关系（名称由来）摘要未解释，本条目不推断。",
+    "一图": "示意图以拉斐尔前派为中心，标示七位创立者、拿撒勒派、后来追随者三项。",
+    "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“原则”的具体内容与名称由来未给出。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='pre-raphaelite 示意图'><title>pre-raphaelite</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>拿撒勒派</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>部分仿照</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>拉斐尔前派</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1848年创立</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>七位创立者</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>亨特·米莱·罗塞蒂</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>后来追随者</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>伯恩-琼斯等</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+  "sources": [
+    "enc-pre-raphaelite",
+    "wd-pre-raphaelite"
+  ],
+  "needs_verification": true,
+  "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；原则内容与名称由来未给出。"
+}
