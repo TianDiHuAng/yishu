@@ -4512,6 +4512,24 @@
       "check_result": "errors=0",
       "check_links_result": "broken=0(690页)",
       "commits": 1
+    },
+    {
+      "cycle": "cycle196",
+      "date": "2026-11-25",
+      "status": "completed",
+      "gap_methods": [
+        "13条作曲家生卒年说明与LC标目核对并改正"
+      ],
+      "new_entries": 0,
+      "reviews": 19,
+      "fixes": 13,
+      "new_sources": 0,
+      "sources_total": 956,
+      "entries_total": 653,
+      "pages": 690,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(690页)",
+      "commits": 1
     }
   ]
 }
