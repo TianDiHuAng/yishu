@@ -1,27 +1,57 @@
 {
-  "id": "stravinsky",
-  "level": "L2",
-  "sections": {
-    "时代背景": "斯特拉文斯基活动于20世纪，地区标注为俄国/美国。输入给出的生平时间为1882—1971年。相关条目将他置于20世纪古典音乐与序列主义的关联中。",
-    "风格特征": "斯特拉文斯基是俄裔作曲家，以节奏革新与风格多变著称。概述强调其强烈节奏与不协和音响。输入还说明其后期转向新古典主义。",
-    "代表人物与作品": "本条人物为斯特拉文斯基。概述点名《春之祭》与《彼得鲁什卡》为其代表作。输入未列出其他人物或作品。",
-    "技法或形式分析": "节奏革新是本条定义中的核心特征。概述把强烈节奏与不协和音响并列为引发轰动的音乐要素。后期转向新古典主义，显示输入中对其风格变化的基本判断。",
-    "与前后风格的关系和争论": "20世纪古典音乐与序列主义均列为相关条目。这些条目为理解其风格多变和后期转向新古典主义提供了相邻语境。记载较一致，学界主要讨论斯特拉文斯基的风格分期/边界问题。",
-    "一图": "示意图以节奏革新、不协和音响、新古典主义及两部代表作呈现斯特拉文斯基的风格线索。",
-    "待核实": "输入未给出《春之祭》《彼得鲁什卡》的创作年份、首演信息或收藏地。关于其不协和音响与新古典主义转向的进一步论证，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核·Wikidata】生卒：第二来源 wd-stravinsky（https://www.wikidata.org/wiki/Q7314），据其结构化数据：生年 1882，卒年 1971。（LC 名称权威对照，2026-11-24）LC 标目：Stravinsky, Igor, 1882-1971。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。（GND 对照，2026-11-25）德国国家图书馆规范档（118642545）生卒 1882—1971，与本条目一致，已独立印证（只印证生卒与身份）。"
-  },
-  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='斯特拉文斯基 示意图'><title>斯特拉文斯基</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>斯特拉文斯基</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>俄国/美国</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>节奏革新</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>风格多变</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>《春之祭》</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>代表作</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>《彼得鲁什卡》</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>代表作</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>节奏革新 不协和音响 新古典主义</text></g></svg>",
-  "related": [
-    "20th-century-classical",
-    "serialism",
-    "rite-of-spring-work"
+ "id": "stravinsky",
+ "level": "L3",
+ "sections": {
+  "时代背景": "斯特拉文斯基活动于20世纪，地区标注为俄国/美国。输入给出的生平时间为1882—1971年。相关条目将他置于20世纪古典音乐与序列主义的关联中。",
+  "风格特征": "斯特拉文斯基是俄裔作曲家，以节奏革新与风格多变著称。概述强调其强烈节奏与不协和音响。输入还说明其后期转向新古典主义。",
+  "代表人物与作品": "本条人物为斯特拉文斯基。概述点名《春之祭》与《彼得鲁什卡》为其代表作。输入未列出其他人物或作品。",
+  "技法或形式分析": "节奏革新是本条定义中的核心特征。概述把强烈节奏与不协和音响并列为引发轰动的音乐要素。后期转向新古典主义，显示输入中对其风格变化的基本判断。",
+  "与前后风格的关系和争论": "20世纪古典音乐与序列主义均列为相关条目。这些条目为理解其风格多变和后期转向新古典主义提供了相邻语境。记载较一致，学界主要讨论斯特拉文斯基的风格分期/边界问题。",
+  "一图": "示意图以节奏革新、不协和音响、新古典主义及两部代表作呈现斯特拉文斯基的风格线索。",
+  "待核实": "输入未给出《春之祭》《彼得鲁什卡》的创作年份、首演信息或收藏地。关于其不协和音响与新古典主义转向的进一步论证，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核·Wikidata】生卒：第二来源 wd-stravinsky（https://www.wikidata.org/wiki/Q7314），据其结构化数据：生年 1882，卒年 1971。（LC 名称权威对照，2026-11-24）LC 标目：Stravinsky, Igor, 1882-1971。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。（GND 对照，2026-11-25）德国国家图书馆规范档（118642545）生卒 1882—1971，与本条目一致，已独立印证（只印证生卒与身份）。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='斯特拉文斯基 示意图'><title>斯特拉文斯基</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>斯特拉文斯基</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>俄国/美国</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>节奏革新</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>风格多变</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>《春之祭》</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>代表作</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>《彼得鲁什卡》</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>代表作</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>节奏革新 不协和音响 新古典主义</text></g></svg>",
+ "related": [
+  "20th-century-classical",
+  "serialism",
+  "rite-of-spring-work"
+ ],
+ "sources": [
+  "enc-stravinsky",
+  "enc-20th-century-classical",
+  "wd-stravinsky",
+  "lc-n79070061",
+  "gnd-118642545"
+ ],
+ "pending_notes": "生卒已由 GND 规范档独立印证；",
+ "l3": {
+  "controversies": [
+   {
+    "issue": "斯特拉文斯基的新古典时期从哪部作品开始？",
+    "views": [
+     {
+      "holder": "Noble（所引来源页 enc-stravinsky 所述）",
+      "basis": "认为始于1920年的《管乐交响曲》。"
+     },
+     {
+      "holder": "巴托克（所引来源页 enc-stravinsky 所述）",
+      "basis": "认为“真正开始于”《管乐八重奏》，其后是《钢琴协奏曲》。"
+     }
+    ]
+   }
   ],
-  "sources": [
-    "enc-stravinsky",
-    "enc-20th-century-classical",
-    "wd-stravinsky",
-    "lc-n79070061",
-    "gnd-118642545"
+  "data": [
+   {
+    "label": "《管乐交响曲》",
+    "value": "1920年",
+    "note": "来源:enc-stravinsky"
+   },
+   {
+    "label": "新古典时期的取法对象",
+    "value": "18世纪（晚期巴洛克）音乐",
+    "note": "来源:enc-stravinsky"
+   }
   ],
-  "pending_notes": "生卒已由 GND 规范档独立印证；"
+  "complex_diagram_note": "以时间轴标出《管乐交响曲》《管乐八重奏》《钢琴协奏曲》，以两种起点标记对照 Noble 与巴托克的分期。"
+ }
 }

@@ -1,6 +1,6 @@
 {
  "id": "medieval-music",
- "level": "L2",
+ "level": "L3",
  "sections": {
   "时代背景": "中世纪欧洲的音乐活动主要围绕基督教教会展开，礼拜仪式需要稳定的歌唱传统，修道院与教堂成为音乐教育与抄写中心。城市和宫廷文化兴起后，世俗音乐逐渐发展。记谱法的进步使音乐得以更准确地记录与传播，为复调的复杂性提供了条件。",
   "风格特征": "早期以单声部的格里高利圣咏为代表，旋律为无伴奏拉丁文歌唱，节奏自由，采用教会调式。后期在圣咏之上叠加声部，形成奥尔加农、经文歌等复调形式，声部间关系日趋复杂。世俗歌曲则使用方言，题材涉及爱情、战争与田园。",
@@ -23,5 +23,35 @@
   "gregorian-chant",
   "polyphony",
   "renaissance-music"
- ]
+ ],
+ "l3": {
+  "controversies": [
+   {
+    "issue": "中世纪音乐中不完全拍（imperfect tempus）段落如何演奏？",
+    "views": [
+     {
+      "holder": "等长说（所引来源页 enc-medieval-music 所述部分音乐学家）",
+      "basis": "认为这些段落中的短音符（breve）与完全拍段落等长。"
+     },
+     {
+      "holder": "变长说（所引来源页 enc-medieval-music 所述部分音乐学家）",
+      "basis": "认为其长度有变化，并就变化比例进一步争论。"
+     }
+    ]
+   }
+  ],
+  "data": [
+   {
+    "label": "《但以理剧》",
+    "value": "约1140年",
+    "note": "来源:enc-medieval-music"
+   },
+   {
+    "label": "Marchetto da Padova 活跃期",
+    "value": "1305—1319年",
+    "note": "来源:enc-medieval-music"
+   }
+  ],
+  "complex_diagram_note": "以记谱演进时间轴（纽姆谱、方形谱、新艺术时期的拍制）为主线，旁注不完全拍演奏的等长说与变长说。"
+ }
 }

@@ -1,27 +1,62 @@
 {
-  "id": "chopin",
-  "level": "L2",
-  "sections": {
-    "时代背景": "肖邦生于1810年，卒于1849年，是波兰裔法国作曲家与钢琴家。其活动年代处于19世纪，与浪漫主义音乐时期相重叠。",
-    "风格特征": "肖邦以钢琴作品著称，注重发挥钢琴的表现力。其创作把钢琴表现力与波兰民间节奏相结合，民族性色彩突出。",
-    "代表人物与作品": "肖邦本人即本条目的代表人物，其代表作包括《夜曲》《练习曲》与《玛祖卡》。相关条目中的艺术歌曲仅作体裁关联，现有字段未把该体裁与其具体作品直接对应。",
-    "技法或形式分析": "概述指出，肖邦将钢琴的表现力与波兰民间节奏结合，《玛祖卡》即列为代表作之一。这一结合是理解其作品形式与风格的主要着眼点。现有字段未提供更细的技法描述。",
-    "与前后风格的关系和争论": "从相关条目看，肖邦与浪漫主义音乐、艺术歌曲相关联，可置于19世纪浪漫主义音乐的语境中理解。记载较一致，未见明确争论；学界主要讨论其风格归属与分期边界问题。",
-    "一图": "示意图呈现浪漫主义音乐背景下的肖邦，以及其代表作《玛祖卡》与波兰民间节奏的关联。",
-    "待核实": "作品的具体创作年份、编号与出版信息在现有字段中未给出，待补充第二来源。艺术歌曲与肖邦的具体对应关系同样待补充第二来源。 【已复核·Wikidata】生卒：第二来源 wd-chopin（https://www.wikidata.org/wiki/Q1268），据其结构化数据：生年 1810，卒年 1849。（LC 名称权威对照，2026-11-24）LC 标目：Chopin, Frédéric, 1810-1849。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。（GND 对照，2026-11-25）德国国家图书馆规范档（118520539）生卒 1810—1849，与本条目一致，已独立印证（只印证生卒与身份）。"
-  },
-  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='肖邦 示意图'><title>肖邦</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>浪漫主义音乐</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>艺术歌曲</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>肖邦</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>钢琴作品</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>玛祖卡</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>波兰民间节奏</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='590.0' y1='145' x2='455.0' y2='145'/><polygon class='svg-arrowhead' points='455.0,145 464.0,140 464.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>肖邦以钢琴作品结合波兰民间节奏，归属浪漫主义音乐</text></g></svg>",
-  "related": [
-    "romantic-music",
-    "lied",
-    "piano"
+ "id": "chopin",
+ "level": "L3",
+ "sections": {
+  "时代背景": "肖邦生于1810年，卒于1849年，是波兰裔法国作曲家与钢琴家。其活动年代处于19世纪，与浪漫主义音乐时期相重叠。",
+  "风格特征": "肖邦以钢琴作品著称，注重发挥钢琴的表现力。其创作把钢琴表现力与波兰民间节奏相结合，民族性色彩突出。",
+  "代表人物与作品": "肖邦本人即本条目的代表人物，其代表作包括《夜曲》《练习曲》与《玛祖卡》。相关条目中的艺术歌曲仅作体裁关联，现有字段未把该体裁与其具体作品直接对应。",
+  "技法或形式分析": "概述指出，肖邦将钢琴的表现力与波兰民间节奏结合，《玛祖卡》即列为代表作之一。这一结合是理解其作品形式与风格的主要着眼点。现有字段未提供更细的技法描述。",
+  "与前后风格的关系和争论": "从相关条目看，肖邦与浪漫主义音乐、艺术歌曲相关联，可置于19世纪浪漫主义音乐的语境中理解。记载较一致，未见明确争论；学界主要讨论其风格归属与分期边界问题。",
+  "一图": "示意图呈现浪漫主义音乐背景下的肖邦，以及其代表作《玛祖卡》与波兰民间节奏的关联。",
+  "待核实": "作品的具体创作年份、编号与出版信息在现有字段中未给出，待补充第二来源。艺术歌曲与肖邦的具体对应关系同样待补充第二来源。 【已复核·Wikidata】生卒：第二来源 wd-chopin（https://www.wikidata.org/wiki/Q1268），据其结构化数据：生年 1810，卒年 1849。（LC 名称权威对照，2026-11-24）LC 标目：Chopin, Frédéric, 1810-1849。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。（GND 对照，2026-11-25）德国国家图书馆规范档（118520539）生卒 1810—1849，与本条目一致，已独立印证（只印证生卒与身份）。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='肖邦 示意图'><title>肖邦</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>浪漫主义音乐</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>艺术歌曲</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>肖邦</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>钢琴作品</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>玛祖卡</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>波兰民间节奏</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='590.0' y1='145' x2='455.0' y2='145'/><polygon class='svg-arrowhead' points='455.0,145 464.0,140 464.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>肖邦以钢琴作品结合波兰民间节奏，归属浪漫主义音乐</text></g></svg>",
+ "related": [
+  "romantic-music",
+  "lied",
+  "piano"
+ ],
+ "sources": [
+  "enc-chopin",
+  "enc-romantic-music",
+  "wd-chopin",
+  "lc-n79127769",
+  "gnd-118520539"
+ ],
+ "pending_notes": "生卒已由 GND 规范档独立印证；",
+ "l3": {
+  "controversies": [
+   {
+    "issue": "肖邦死于何病？",
+    "views": [
+     {
+      "holder": "结核说：死亡证明与主治医生 Cruveilhier（当时法国结核病首要权威），及2014年心脏目视检查（2017年刊于《美国医学杂志》）（所引来源页 enc-chopin 所述）",
+      "basis": "死亡证明写明死因为结核；2014年未开罐的心脏目视检查认为，可能的死因是慢性结核并发的罕见心包炎。"
+     },
+     {
+      "holder": "其他病因说（所引来源页 enc-chopin 所述）",
+      "basis": "曾有人提出囊性纤维化、肝硬化、α1-抗胰蛋白酶缺乏症等。"
+     }
+    ]
+   }
   ],
-  "sources": [
-    "enc-chopin",
-    "enc-romantic-music",
-    "wd-chopin",
-    "lc-n79127769",
-    "gnd-118520539"
+  "data": [
+   {
+    "label": "存世作品",
+    "value": "230余部",
+    "note": "来源:enc-chopin"
+   },
+   {
+    "label": "心脏目视检查",
+    "value": "2014年进行，2017年发表",
+    "note": "来源:enc-chopin"
+   },
+   {
+    "label": "乔治·桑致肖邦信件",
+    "value": "约200封，1851年后退还桑并被其销毁",
+    "note": "来源:enc-chopin"
+   }
   ],
-  "pending_notes": "生卒已由 GND 规范档独立印证；"
+  "complex_diagram_note": "以分支图并列结核说与其他病因说，旁注死亡证明与2014年心脏检查两个证据节点。"
+ }
 }

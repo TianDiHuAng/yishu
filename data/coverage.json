@@ -929,8 +929,8 @@
     "medieval-music": {
       "title": "中世纪音乐",
       "tier": "核心",
-      "level": "L2",
-      "status": "written_l2",
+      "level": "L3",
+      "status": "written_l3",
       "sources_count": 6,
       "verified_sources_count": 6,
       "needs_verification": false,
@@ -1205,8 +1205,8 @@
     "chopin": {
       "title": "肖邦",
       "tier": "核心",
-      "level": "L2",
-      "status": "written_l2",
+      "level": "L3",
+      "status": "written_l3",
       "sources_count": 5,
       "verified_sources_count": 5,
       "needs_verification": false,
@@ -1217,8 +1217,8 @@
     "wagner": {
       "title": "瓦格纳",
       "tier": "核心",
-      "level": "L2",
-      "status": "written_l2",
+      "level": "L3",
+      "status": "written_l3",
       "sources_count": 5,
       "verified_sources_count": 5,
       "needs_verification": false,
@@ -1289,8 +1289,8 @@
     "stravinsky": {
       "title": "斯特拉文斯基",
       "tier": "核心",
-      "level": "L2",
-      "status": "written_l2",
+      "level": "L3",
+      "status": "written_l3",
       "sources_count": 5,
       "verified_sources_count": 5,
       "needs_verification": false,
