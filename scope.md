@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 717 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 736 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -621,6 +621,12 @@
 | indian-architecture | 印度建筑（Architecture of India） | 风格 | 历代 | 南亚 | 建筑 | 重要 | O1 |
 | korean-architecture | 韩国建筑（Korean architecture） | 风格 | 历代 | 东亚 | 建筑 | 补充 | O1 |
 | hokusai | 葛饰北斋（Katsushika Hokusai） | 人物 | 江户时代 | 日本 | 版画 | 核心 | O1 |
+| gupta-art | 笈多艺术（Gupta art） | 时期 | 约300—550年 | 北印度 | 雕塑 | 核心 | O1 |
+| rajput-painting | 拉杰普特绘画（Rajput painting） | 风格 | 16世纪末—19世纪中叶 | 印度 | 绘画 | 重要 | O1 |
+| mughal-painting | 莫卧儿绘画（Mughal painting） | 风格 | 16—19世纪 | 印度次大陆 | 绘画 | 重要 | O1 |
+| kano-school | 狩野派（Kanō school） | 风格 | 15世纪末—1868年 | 日本 | 绘画 | 重要 | O1 |
+| korean-painting | 韩国绘画（Korean painting） | 风格 | 历代 | 朝鲜半岛 | 绘画 | 重要 | O1 |
+| noh | 能乐（Noh） | 风格 | 14世纪—今 | 日本 | 综合 | 核心 | O1 |
 
 ## art-islamic（伊斯兰艺术（西亚·中亚））
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -674,6 +680,8 @@
 | mamluk-glass-bottle-1347 | 马穆鲁克描金瓶（1347—70） | 作品 | 14世纪 | 西亚·中亚 | 玻璃 | 核心 | O1 |
 | mamluk-lamp-1320 | Qijlis 清真寺灯（1320—30） | 作品 | 14世纪 | 西亚·中亚 | 玻璃 | 核心 | O1 |
 | islamic-architecture | 伊斯兰建筑（Islamic architecture） | 风格 | 7世纪至今 | 西亚·中亚 | 建筑 | 重要 | O1 |
+| islamic-calligraphy | 伊斯兰书法（Islamic calligraphy） | 术语 | 历代 | 伊斯兰世界 | 书法 | 核心 | O1 |
+| arabesque | 阿拉伯式花纹（Arabesque） | 术语 | 9世纪以来 | 伊斯兰世界·欧洲 | 综合 | 重要 | O1 |
 
 ## art-africa（非洲艺术（撒哈拉以南））
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -718,6 +726,8 @@
 | southern-african-prestige-staff | 南部非洲权杖（楚松加或祖鲁风格） | 作品 | 19—20世纪 | 非洲 | 雕塑 | 重要 | O1 |
 | totem-01-01-18 | 《图腾 01/01-18》（巴加—巴查姆—阿伦加—科塔，2018） | 作品 | 21世纪 | 非洲 | 雕塑 | 重要 | O1 |
 | xhosa-beadwork-pendant | 科萨王室礼仪串珠吊坠（19世纪） | 作品 | 19世纪 | 非洲 | 综合 | 重要 | O1 |
+| benin-bronzes | 贝宁青铜器（Benin Bronzes） | 作品 | 14世纪起 | 尼日利亚（贝宁王国） | 雕塑 | 核心 | O1 |
+| nok-culture | 诺克文化（Nok culture） | 时期 | 约公元前1500年—前1年 | 尼日利亚 | 雕塑 | 重要 | O1 |
 
 ## art-americas（美洲原住民与前哥伦布艺术）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -780,6 +790,7 @@
 | rapa-nui-rei-miro | 拉帕努伊（复活节岛）胸饰 Rei Miro（19世纪） | 作品 | 19世纪 | 大洋洲 | 综合 | 重要 | O1 |
 | elema-spirit-board | 埃莱马精灵板（1930年前） | 作品 | 20世纪 | 大洋洲 | 雕塑 | 重要 | O1 |
 | abelam-yam-mask | 阿贝拉姆山药面具（20世纪） | 作品 | 20世纪 | 大洋洲 | 综合 | 重要 | O1 |
+| aboriginal-art | 澳大利亚原住民艺术（Indigenous Australian art） | 风格 | 历代—今 | 澳大利亚 | 综合 | 重要 | O1 |
 
 ## music-instruments（乐器（跨文化））
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -817,6 +828,10 @@
 | cma-uganda-lyre | 乌干达里拉琴（ndongo/endongo/kissar） | 作品 | 20世纪 | 东非 | 乐器 | 重要 | O1 |
 | cma-endingidi | 乌干达弦鸣提琴（endingidi/iningidi） | 作品 | 20世纪 | 东非 | 乐器 | 重要 | O1 |
 | cma-yombe-oliphant | 永贝风格象牙侧吹号角（oliphant） | 作品 | 19世纪 | 非洲 | 乐器 | 重要 | O1 |
+| gamelan | 甘美兰（Gamelan） | 风格 | 历代—今 | 印度尼西亚 | 乐器 | 重要 | O4 |
+| maqam | 阿拉伯木卡姆（Arabic maqam） | 术语 | 历代 | 阿拉伯世界 | 音乐体裁 | 重要 | O4 |
+| shakuhachi | 尺八（shakuhachi） | 作品 | 16世纪—今 | 日本 | 乐器 | 重要 | O1 |
+| djembe | 金贝鼓（djembe） | 作品 | 历代—今 | 西非 | 乐器 | 补充 | O1 |
 
 ## art-ceramics（中国陶瓷工艺）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -840,6 +855,10 @@
 | doucai-stemcup-1465 | 斗彩高足杯 | 作品 | 15世纪 | 中国 | 陶瓷 | 核心 | O6 |
 | kangxi-jar-lid-qing | 康熙青花盖罐 | 作品 | 17—18世纪 | 中国 | 陶瓷 | 重要 | O6 |
 | armorial-porcelain-cup | 纹章瓷杯（Le Grand） | 作品 | 18世纪 | 中国 | 陶瓷 | 重要 | O6 |
+| sancai | 唐三彩（Sancai） | 术语 | 唐代（约700年起） | 中国 | 陶瓷 | 核心 | O1、O6 |
+| jun-ware | 钧窑（Jun ware） | 术语 | 北宋—明初 | 中国 | 陶瓷 | 重要 | O1、O6 |
+| ru-ware | 汝窑（Ru ware） | 术语 | 约1100年 | 中国（宋） | 陶瓷 | 核心 | O1 |
+| ding-ware | 定窑（Ding ware） | 术语 | 唐—元 | 中国（河北定州） | 陶瓷 | 重要 | O1 |
 
 ## work-archives（作品档案）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

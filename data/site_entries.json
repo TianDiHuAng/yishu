@@ -2568,7 +2568,8 @@
         "song-painting",
         "dunhuang-art",
         "six-dynasties-art",
-        "cma-tang-harpist"
+        "cma-tang-harpist",
+        "sancai"
       ],
       "sources": [
         "enc-tang-dynasty-art",
@@ -2606,6 +2607,7 @@
         "china-painting-history",
         "lizong-wangwei-album",
         "cma-liu-songnian-qin",
+        "ru-ware",
         "guo-xi"
       ],
       "sources": [
@@ -2993,7 +2995,8 @@
         "chen-jiru-four-poems",
         "ten-bamboo-album",
         "zhu-yunming-autumn-retreat",
-        "liang-qichao-couplet"
+        "liang-qichao-couplet",
+        "islamic-calligraphy"
       ],
       "sources": [
         "enc-chinese-calligraphy",
@@ -5348,6 +5351,7 @@
         "angkor",
         "buddhist-art-india",
         "khmer-architecture",
+        "gupta-art",
         "champa-planetary-deity"
       ],
       "sources": [
@@ -5383,7 +5387,8 @@
         "khmer-art",
         "khmer-architecture",
         "khmer-thai-fruit-jar",
-        "chinese-architecture"
+        "chinese-architecture",
+        "gupta-art"
       ],
       "sources": [
         "enc-angkor",
@@ -5482,7 +5487,8 @@
         "hokusai-nakahara-sagami",
         "japanese-architecture",
         "klimt",
-        "hokusai"
+        "hokusai",
+        "kano-school"
       ],
       "sources": [
         "enc-ukiyo-e",
@@ -6732,7 +6738,8 @@
         "african-art",
         "nok-terracotta-head",
         "xhosa-beaded-pipe",
-        "xhosa-beadwork-pendant"
+        "xhosa-beadwork-pendant",
+        "benin-bronzes"
       ],
       "sources": [
         "cma-1999-1"
@@ -6767,7 +6774,8 @@
         "benin-plaque",
         "african-art",
         "southern-african-prestige-staff",
-        "totem-01-01-18"
+        "totem-01-01-18",
+        "benin-bronzes"
       ],
       "sources": [
         "cma-1938-6"
@@ -6955,7 +6963,8 @@
         "chi-wara-headdress",
         "esu-dance-staff",
         "kuofo-prestige-stool",
-        "cma-yombe-oliphant"
+        "cma-yombe-oliphant",
+        "nok-culture"
       ],
       "sources": [
         "cma-1999-1",
@@ -7060,7 +7069,8 @@
         "malagan-memorial-pole",
         "rapa-nui-rei-miro",
         "elema-spirit-board",
-        "abelam-yam-mask"
+        "abelam-yam-mask",
+        "aboriginal-art"
       ],
       "sources": [
         "cma-1954-147",
@@ -7470,7 +7480,8 @@
       "related": [
         "joseon-hwarot-robe",
         "goryeo-celadon-cup",
-        "joseon-auspicious-jar"
+        "joseon-auspicious-jar",
+        "korean-painting"
       ],
       "sources": [
         "cma-1969-85"
@@ -8767,7 +8778,10 @@
       "related": [
         "pipa-instrument",
         "hitoyogiri-flute",
-        "cma-tsuzumi"
+        "cma-tsuzumi",
+        "gamelan",
+        "shakuhachi",
+        "noh"
       ],
       "sources": [
         "cma-1918-359"
@@ -8801,7 +8815,8 @@
       "related": [
         "koto-instrument",
         "guqin-instrument",
-        "cma-tsuzumi"
+        "cma-tsuzumi",
+        "shakuhachi"
       ],
       "sources": [
         "cma-1921-914"
@@ -9215,7 +9230,8 @@
         "yuan-blue-white-jar",
         "longquan-export-bowl",
         "qingbai-silver-bowl",
-        "ding-duck-bowl"
+        "ding-duck-bowl",
+        "ding-ware"
       ],
       "sources": [
         "cma-2020-186"
@@ -9251,7 +9267,8 @@
         "yuan-blue-white-jar",
         "tang-tomb-guardian",
         "chenghua-doucai-cup",
-        "cizhou-floral-vase"
+        "cizhou-floral-vase",
+        "jun-ware"
       ],
       "sources": [
         "cma-1957-33"
@@ -9284,7 +9301,8 @@
       "overview": "兽面长双角，另一件人面巨耳；用于守墓门、辟邪并防亡魂游荡；出丧时先经街市游行。",
       "related": [
         "jun-numbered-bulb-bowl",
-        "yuan-blue-white-jar"
+        "yuan-blue-white-jar",
+        "sancai"
       ],
       "sources": [
         "cma-2000-118-1"
@@ -9351,7 +9369,8 @@
       "related": [
         "ding-tea-bowl",
         "qingbai-silver-bowl",
-        "cizhou-toy-figurine"
+        "cizhou-toy-figurine",
+        "ding-ware"
       ],
       "sources": [
         "cma-1929-995"
@@ -13971,7 +13990,8 @@
       "overview": "瓦尔马贾里人艺术家平克，生于大沙沙漠边缘；高原俯视水潭与两人；1976年成立的工坊限量小挂毯之一。",
       "related": [
         "tapa-cloth-samoa",
-        "oceania-art"
+        "oceania-art",
+        "aboriginal-art"
       ],
       "sources": [
         "vam-o34305"
@@ -18123,7 +18143,9 @@
         "rai-singh-bikaner",
         "jagat-singh-hunting",
         "mughal-muhammad-ali-beg",
-        "mughal-architecture"
+        "mughal-architecture",
+        "rajput-painting",
+        "mughal-painting"
       ],
       "sources": [
         "vam-o113934"
@@ -20230,7 +20252,8 @@
       "related": [
         "cma-oud",
         "ottoman-nay-flute",
-        "cma-kamanche"
+        "cma-kamanche",
+        "maqam"
       ],
       "sources": [
         "cma-1918-347"
@@ -22001,7 +22024,9 @@
         "mihrab-isfahan",
         "iznik-tile-spandrel",
         "mughal-architecture",
-        "spanish-architecture"
+        "spanish-architecture",
+        "islamic-calligraphy",
+        "arabesque"
       ],
       "sources": [
         "enc-islamic-architecture",
@@ -22272,7 +22297,9 @@
         "islamic-architecture",
         "indian-art",
         "mughal-alamgir-portrait",
-        "indian-architecture"
+        "indian-architecture",
+        "gupta-art",
+        "mughal-painting"
       ],
       "sources": [
         "enc-mughal-architecture",
@@ -22310,7 +22337,8 @@
         "japanese-art",
         "chinese-architecture",
         "ukiyo-e",
-        "korean-architecture"
+        "korean-architecture",
+        "kano-school"
       ],
       "sources": [
         "enc-japanese-architecture",
@@ -23132,7 +23160,8 @@
       "related": [
         "goryeo-celadon-bottle",
         "japanese-architecture",
-        "chinese-architecture"
+        "chinese-architecture",
+        "korean-painting"
       ],
       "sources": [
         "enc-korean-architecture",
@@ -23714,7 +23743,8 @@
         "dizi",
         "erhu",
         "suona",
-        "nanguan"
+        "nanguan",
+        "noh"
       ],
       "sources": [
         "enc-kunqu",
@@ -23751,7 +23781,8 @@
         "erhu",
         "jingju",
         "yangqin",
-        "suona"
+        "suona",
+        "shakuhachi"
       ],
       "sources": [
         "enc-dizi",
@@ -24417,7 +24448,8 @@
         "ukiyo-e",
         "hokusai-red-fuji",
         "monet",
-        "van-gogh"
+        "van-gogh",
+        "kano-school"
       ],
       "sources": [
         "enc-hokusai",
@@ -25521,6 +25553,668 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='nanguan 示意图'><title>nanguan</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>福建</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>发源地</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>南管</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>室内乐风格</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>台湾</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>明代传入</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>曲馆</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>社团传承</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；偏重台湾；乐器与曲目未给出。"
+    },
+    {
+      "id": "gupta-art",
+      "title": "笈多艺术（Gupta art）",
+      "kind": "时期",
+      "unit": "art-asia",
+      "era": "约300—550年",
+      "region": "北印度",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "统治北印度大部分地区的笈多王朝的艺术，鼎盛于约300至480年。",
+      "when": "约公元300—550年",
+      "overview": "笈多艺术是笈多帝国的艺术，该帝国统治北印度大部分地区。",
+      "related": [
+        "mughal-architecture",
+        "khmer-art",
+        "angkor"
+      ],
+      "sources": [
+        "enc-gupta-art",
+        "wd-gupta-art"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，笈多帝国鼎盛于约300至480年，以大为缩减的形式延续到约550年。",
+        "风格特征": "摘要称，笈多艺术的特点是“古典式的得体”（Classical decorum）。",
+        "代表人物与作品": "摘要没有列举作品，本条目不补写。",
+        "技法或形式分析": "摘要没有给出这方面内容，本条目不补写。",
+        "与前后风格的关系和争论": "摘要称，笈多时期一般被视为北印度各主要宗教群体艺术的古典高峰与黄金时代；与其后“使人物从属于更大宗教目的”的印度中世纪艺术形成对照。引语为摘要转引。",
+        "一图": "示意图以笈多艺术为中心，标示笈多帝国、古典式得体、中世纪艺术三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“黄金时代”是评价性概括；（3）作品与材质未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='gupta-art 示意图'><title>gupta-art</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>笈多帝国</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>约300—480鼎盛</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>笈多艺术</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>北印度</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>古典式得体</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>风格特点</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>中世纪艺术</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>此后对照</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；作品未给出；评价性概括未核验。"
+    },
+    {
+      "id": "rajput-painting",
+      "title": "拉杰普特绘画（Rajput painting）",
+      "kind": "风格",
+      "unit": "art-asia",
+      "era": "16世纪末—19世纪中叶",
+      "region": "印度",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "莫卧儿时代各地印度教宫廷的绘画，约16世纪末至19世纪中叶。",
+      "when": "约公元16世纪末—19世纪中叶",
+      "overview": "拉杰普特绘画是莫卧儿时代地方印度教宫廷的绘画。",
+      "related": [
+        "mughal-painting",
+        "mughal-alamgir-portrait"
+      ],
+      "sources": [
+        "enc-rajput-painting",
+        "wd-rajput-painting"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，拉杰普特绘画约从16世纪末延续到19世纪中叶，属莫卧儿时代。",
+        "风格特征": "摘要没有给出这方面内容，本条目不补写。",
+        "代表人物与作品": "摘要没有列举画家与作品，本条目不补写。",
+        "技法或形式分析": "摘要没有给出这方面内容，本条目不补写。",
+        "与前后风格的关系和争论": "摘要称，传统上分为拉贾斯坦绘画与帕哈里绘画，两者兴盛于“相距遥远、但都在拉杰普特首领统治下、由共同文化联结”的两个地区。它与莫卧儿绘画的关系摘要未述，库内互链为本项目所加。",
+        "一图": "示意图以拉杰普特绘画为中心，标示莫卧儿时代、拉贾斯坦绘画、帕哈里绘画三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）风格特征、画家与作品均未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='rajput-painting 示意图'><title>rajput-painting</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>莫卧儿时代</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>印度教宫廷</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>拉杰普特绘画</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>16末—19中</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>拉贾斯坦</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>一支</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>帕哈里</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>一支</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；风格、画家与作品未给出。"
+    },
+    {
+      "id": "mughal-painting",
+      "title": "莫卧儿绘画（Mughal painting）",
+      "kind": "风格",
+      "unit": "art-asia",
+      "era": "16—19世纪",
+      "region": "印度次大陆",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "起源于印度次大陆莫卧儿时期的细密画风格，用作书籍插图或收入画册的单幅作品。",
+      "when": "约公元16—19世纪",
+      "overview": "莫卧儿绘画是一种细密画风格，起源于印度次大陆的莫卧儿时期。",
+      "related": [
+        "mughal-architecture",
+        "mughal-alamgir-portrait",
+        "rajput-painting"
+      ],
+      "sources": [
+        "enc-mughal-painting",
+        "wd-mughal-painting"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，这些画作在16至19世纪莫卧儿皇帝统治印度期间发展。",
+        "风格特征": "摘要称，它是细密画，用作书籍插图，或作为单幅作品收入画册（muraqqa）。",
+        "代表人物与作品": "摘要没有列举画家与作品。库内另有《莫卧儿皇帝奥朗则布像》条目。",
+        "技法或形式分析": "摘要没有给出这方面内容，本条目不补写。",
+        "与前后风格的关系和争论": "摘要称，它源于波斯细密画，而波斯细密画本身深受中国与欧洲艺术影响；莫卧儿绘画在发展中也带有印度与伊斯兰影响。",
+        "一图": "示意图以莫卧儿绘画为中心，标示波斯细密画、印度与伊斯兰影响、画册三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）画家与作品未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='mughal-painting 示意图'><title>mughal-painting</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>波斯细密画</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>源头</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>莫卧儿绘画</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>细密画</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>印度与伊斯兰</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>发展中的影响</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>画册</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>muraqqa</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；画家与作品未给出。"
+    },
+    {
+      "id": "islamic-calligraphy",
+      "title": "伊斯兰书法（Islamic calligraphy）",
+      "kind": "术语",
+      "unit": "art-islamic",
+      "era": "历代",
+      "region": "伊斯兰世界",
+      "medium": "书法",
+      "tier": "核心",
+      "def": "使用阿拉伯字母或其衍生字母的语言中的书写与书法艺术实践。",
+      "when": "历代",
+      "overview": "伊斯兰书法是以阿拉伯字母或其衍生字母书写的语言中的书写与书法艺术实践。",
+      "related": [
+        "arabesque",
+        "islamic-architecture",
+        "china-calligraphy-history"
+      ],
+      "sources": [
+        "enc-islamic-calligraphy",
+        "wd-islamic-calligraphy"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要没有给出起源年代，本条目不补写。",
+        "风格特征": "摘要称，它是一种高度程式化、结构化、遵循艺术惯例的书写形式。",
+        "代表人物与作品": "摘要没有列举书法家与作品，本条目不补写。",
+        "技法或形式分析": "摘要称，它包括阿拉伯、波斯、奥斯曼与乌尔都书法；阿拉伯语称 khatt Arabi，字面意为“线”“设计”或“构造”。各书体摘要未列。",
+        "与前后风格的关系和争论": "摘要称，它常用于伊斯兰宗教文本、建筑与装饰。库内互链中国书法史为本项目所加，作对照用。",
+        "一图": "示意图以伊斯兰书法为中心，标示阿拉伯字母、宗教文本、建筑装饰三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）起源年代、书体与书法家未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='islamic-calligraphy 示意图'><title>islamic-calligraphy</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>阿拉伯字母</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>及衍生字母</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>伊斯兰书法</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>khatt Arabi</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>宗教文本</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>主要用途</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>建筑装饰</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>主要用途</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；年代、书体与书法家未给出。"
+    },
+    {
+      "id": "arabesque",
+      "title": "阿拉伯式花纹（Arabesque）",
+      "kind": "术语",
+      "unit": "art-islamic",
+      "era": "9世纪以来",
+      "region": "伊斯兰世界·欧洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "以卷曲交缠的枝叶、卷须或线条为节奏性线型图案的表面装饰。",
+      "when": "约公元9世纪起",
+      "overview": "阿拉伯式花纹是一种艺术装饰形式，由卷曲交缠的枝叶、卷须或素线构成的节奏性线型图案组成。",
+      "related": [
+        "islamic-calligraphy",
+        "islamic-architecture"
+      ],
+      "sources": [
+        "enc-arabesque",
+        "wd-arabesque"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，艺术史家只把这一术语用于两个阶段的装饰：约9世纪以来的伊斯兰艺术，以及文艺复兴以来的欧洲装饰艺术。",
+        "风格特征": "摘要引两种定义：其一是“基于卷曲交缠的枝叶、卷须的节奏性线型图案的表面装饰”；其二是“伊斯兰世界使用的叶饰，通常用由程式化半棕榈叶演变的叶片与螺旋茎组合而成”。",
+        "代表人物与作品": "摘要没有列举具体作品，本条目不补写。",
+        "技法或形式分析": "摘要称，它通常由单一图样构成，可以“平铺”，即无缝重复任意多次。",
+        "与前后风格的关系和争论": "摘要称，在欧亚大陆大量符合基本定义的装饰母题中，只有上述两个阶段称“阿拉伯式花纹”，其他类似图案多称交织纹或卷草纹。这是术语用法的界定，不是风格判断。",
+        "一图": "示意图以阿拉伯式花纹为中心，标示卷曲枝叶、无缝重复、两个使用阶段三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）两种定义均为摘要转引；（3）具体实例未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='arabesque 示意图'><title>arabesque</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>卷曲枝叶</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>半棕榈叶</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>阿拉伯式花纹</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>节奏性线型</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>无缝重复</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>平铺</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>两个阶段</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>伊斯兰·文艺复兴后欧洲</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；定义为转引；实例未给出。"
+    },
+    {
+      "id": "benin-bronzes",
+      "title": "贝宁青铜器（Benin Bronzes）",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "14世纪起",
+      "region": "尼日利亚（贝宁王国）",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "装饰贝宁王国王宫的数千件金属牌饰与雕塑，14世纪起由埃多人艺术家制作。",
+      "when": "约公元14世纪起",
+      "overview": "贝宁青铜器是装饰贝宁王国王宫的数千件金属牌饰与雕塑。",
+      "related": [
+        "benin-plaque",
+        "benin-ancestral-head",
+        "nok-culture",
+        "djembe"
+      ],
+      "sources": [
+        "enc-benin-bronzes",
+        "wd-benin-bronzes"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，贝宁王国位于今尼日利亚埃多州，这些器物自14世纪起由埃多人艺术家制作。",
+        "风格特征": "摘要称，它们整体上是贝宁艺术的最佳范例。",
+        "代表人物与作品": "摘要称，金属牌饰由贝宁青铜铸造行会制作，该行会今位于伊贡街（Igun-Eronmwon 区）。库内另有两件贝宁作品条目。",
+        "技法或形式分析": "摘要称，牌饰在埃多语中称 Ama，描绘王国历史中的场景或主题；牌饰之外还有黄铜或青铜的肖像头像、首饰与较小器物。",
+        "与前后风格的关系和争论": "摘要没有谈及这批器物的流散与归还问题，本条目不补写。",
+        "一图": "示意图以贝宁青铜器为中心，标示贝宁王宫、铸造行会、牌饰 Ama 三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）流散与归还等议题摘要未涉及；（3）“青铜”与“黄铜”材质混称，摘要两者都用。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='benin-bronzes 示意图'><title>benin-bronzes</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>贝宁王宫</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>装饰用途</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>贝宁青铜器</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>数千件</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>铸造行会</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>伊贡街</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>牌饰 Ama</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>王国历史场景</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；流散议题未涉及；材质混称照录。"
+    },
+    {
+      "id": "nok-culture",
+      "title": "诺克文化（Nok culture）",
+      "kind": "时期",
+      "unit": "art-africa",
+      "era": "约公元前1500年—前1年",
+      "region": "尼日利亚",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "以尼日利亚诺克村命名的人群及其物质遗存，1928年首次在此发现其陶塑。",
+      "when": "约公元前1500年—前1年",
+      "overview": "诺克文化是一个人群，其物质遗存以尼日利亚卡杜纳州南部的诺克村命名。",
+      "related": [
+        "benin-bronzes",
+        "african-art"
+      ],
+      "sources": [
+        "enc-nok-culture",
+        "wd-nok-culture"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，诺克文化“可能”出现于公元前1500年，延续到公元前1年。“可能”是摘要措辞。",
+        "风格特征": "摘要没有给出这方面内容，本条目不补写。",
+        "代表人物与作品": "摘要称，其陶塑于1928年首次在诺克村发现。具体作品摘要未列。",
+        "技法或形式分析": "摘要给出的材质是陶（terracotta）。本条目不补写塑造技法。",
+        "与前后风格的关系和争论": "摘要称，诺克人与加吉甘纳人可能连同珍珠粟与陶器一起从撒哈拉中部迁来，在到达今尼日利亚北部之前分开；诺克人也可能从西非萨赫勒地区迁来。摘要对来源给出多种可能，本条目照录，不作判断。",
+        "一图": "示意图以诺克文化为中心，标示诺克村、陶塑、迁徙假说三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）起止年代与迁徙来源都是“可能”，属假说；（3）具体作品未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='nok-culture 示意图'><title>nok-culture</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>诺克村</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1928年发现</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>诺克文化</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>约前1500—前1</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>陶塑</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>物质遗存</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>迁徙假说</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>撒哈拉或萨赫勒</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；年代与来源均为假说；作品未给出。"
+    },
+    {
+      "id": "aboriginal-art",
+      "title": "澳大利亚原住民艺术（Indigenous Australian art）",
+      "kind": "风格",
+      "unit": "art-oceania",
+      "era": "历代—今",
+      "region": "澳大利亚",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "澳大利亚原住民与托雷斯海峡岛民制作的艺术，包括与他人的合作作品。",
+      "when": "历代—今",
+      "overview": "澳大利亚原住民艺术包括澳大利亚原住民与托雷斯海峡岛民制作的艺术。",
+      "related": [
+        "aboriginal-tapestry-pike",
+        "oceania-art"
+      ],
+      "sources": [
+        "enc-aboriginal-art",
+        "wd-aboriginal-art"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要没有给出年代，本条目不补写。",
+        "风格特征": "摘要称，各民族传统中的传统视觉符号差异很大；常见误解以为点画代表全部原住民艺术，摘要明确说这是错误看法。",
+        "代表人物与作品": "摘要没有列举艺术家与作品。库内另有平克《水潭边的两人》挂毯条目。",
+        "技法或形式分析": "摘要列出的媒介：叶上绘画、树皮画、木雕、岩刻、水彩画、雕塑、仪式服装与沙画。",
+        "与前后风格的关系和争论": "摘要没有谈及与当代艺术市场的关系。",
+        "一图": "示意图以澳大利亚原住民艺术为中心，标示树皮画与岩刻、各民族符号差异、点画误解三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）年代、艺术家与作品未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='aboriginal-art 示意图'><title>aboriginal-art</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>多种媒介</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>树皮画·岩刻·沙画</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>原住民艺术</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>原住民与岛民</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>符号差异</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>各民族不同</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>点画误解</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>不代表全部</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；年代、艺术家与作品未给出。"
+    },
+    {
+      "id": "kano-school",
+      "title": "狩野派（Kanō school）",
+      "kind": "风格",
+      "unit": "art-asia",
+      "era": "15世纪末—1868年",
+      "region": "日本",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "日本绘画最著名的流派之一，自15世纪末至明治时期（1868）为主导画风。",
+      "when": "约公元15世纪末—1868年",
+      "overview": "狩野派是日本绘画最著名的流派之一。",
+      "related": [
+        "ukiyo-e",
+        "hokusai",
+        "japanese-architecture"
+      ],
+      "sources": [
+        "enc-kano-school",
+        "wd-kano-school"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，狩野派从15世纪末到1868年开始的明治时期是主导画风，到那时已分为许多支派。",
+        "风格特征": "摘要没有给出这方面内容，本条目不补写。",
+        "代表人物与作品": "摘要称，狩野家族本身数代出了一系列重要画家，另有大量无亲缘关系、在该派画坊受训的画家；有的入赘改姓，有的被收养。具体画家摘要未列。",
+        "技法或形式分析": "摘要没有给出这方面内容，本条目不补写。",
+        "与前后风格的关系和争论": "摘要引日本艺术史家罗伯特·特里特·佩因的话：“很难再找到另一个在直系血统中出了如此多天才的家族。”这是转引的评价。",
+        "一图": "示意图以狩野派为中心，标示狩野家族、画坊弟子、明治前主导三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）具体画家与作品未给出；（3）佩因引语为转引。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='kano-school 示意图'><title>kano-school</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>狩野家族</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>数代画家</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>狩野派</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>日本主导画派</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>画坊弟子</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>入赘·收养</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>1868前</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>主导地位</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；画家与作品未给出；评价为转引。"
+    },
+    {
+      "id": "korean-painting",
+      "title": "韩国绘画（Korean painting）",
+      "kind": "风格",
+      "unit": "art-asia",
+      "era": "历代",
+      "region": "朝鲜半岛",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "在朝鲜半岛或由海外韩国人在各种表面上所作的绘画。",
+      "when": "历代",
+      "overview": "韩国绘画包括在朝鲜半岛或由海外韩国人在各种表面上所作的绘画。",
+      "related": [
+        "korean-architecture",
+        "joseon-hollyhock-cup"
+      ],
+      "sources": [
+        "enc-korean-painting",
+        "wd-korean-painting"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，现存最早的韩国绘画是高句丽古墓壁画，数量相当多，最古老的约有两千年历史。",
+        "风格特征": "摘要没有给出这方面内容，本条目不补写。",
+        "代表人物与作品": "摘要称，高句丽壁画题材包括舞者、狩猎与神灵。具体画家摘要未列。",
+        "技法或形式分析": "摘要没有给出这方面内容，本条目不补写。",
+        "与前后风格的关系和争论": "摘要称，日本7世纪末的高松冢古墓壁画被推测受高句丽影响，作者或为高句丽画家，或为受高句丽训练的日本画家。“推测”是摘要措辞，本条目不作判断。",
+        "一图": "示意图以韩国绘画为中心，标示高句丽古墓壁画、舞者与狩猎题材、高松冢推测三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）高句丽以后各时期（高丽、朝鲜朝）的绘画摘要未涉及，本条目内容偏早期；（3）高松冢关联为推测。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='korean-painting 示意图'><title>korean-painting</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>高句丽壁画</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>现存最早</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>韩国绘画</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>朝鲜半岛</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>舞者与狩猎</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>壁画题材</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>高松冢</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>推测受影响</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；仅涉及早期；高松冢关联为推测。"
+    },
+    {
+      "id": "sancai",
+      "title": "唐三彩（Sancai）",
+      "kind": "术语",
+      "unit": "art-ceramics",
+      "era": "唐代（约700年起）",
+      "region": "中国",
+      "medium": "陶瓷",
+      "tier": "核心",
+      "def": "中国陶器上以釉或化妆土施以褐、绿、乳白三色为主的装饰，尤与唐代墓葬俑相关。",
+      "when": "约公元700年起",
+      "overview": "三彩是中国陶器及其他彩绘器物上的一种装饰，以釉或化妆土施以褐、绿与乳白三色为主。",
+      "related": [
+        "tang-tomb-guardian",
+        "tang-painting"
+      ],
+      "sources": [
+        "enc-sancai",
+        "wd-sancai"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，三彩尤与唐代（618—907）及其墓葬俑相关，约700年出现，因此中文常称“唐三彩”。",
+        "风格特征": "摘要称，主要用褐、绿与乳白三色。",
+        "代表人物与作品": "摘要没有列举具体作品。库内另有《唐三彩镇墓兽》条目。",
+        "技法或形式分析": "摘要称，它以釉或化妆土施彩，是一种用途多样的装饰方式。",
+        "与前后风格的关系和争论": "摘要称，唐三彩有时被中西方的古董商称为“蛋与菠菜”（egg-and-spinach），因其用绿、黄、白三色，尤其在呈现流淌效果时。",
+        "一图": "示意图以唐三彩为中心，标示三色釉、唐代墓葬俑、“蛋与菠菜”俗称三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）窑址与工艺细节未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='sancai 示意图'><title>sancai</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>三色</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>褐·绿·乳白</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>唐三彩</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>约700年出现</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>墓葬俑</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>主要器类</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>俗称</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>蛋与菠菜</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；窑址与工艺未给出。"
+    },
+    {
+      "id": "jun-ware",
+      "title": "钧窑（Jun ware）",
+      "kind": "术语",
+      "unit": "art-ceramics",
+      "era": "北宋—明初",
+      "region": "中国",
+      "medium": "陶瓷",
+      "tier": "重要",
+      "def": "中国陶瓷的一类，宋代“五大名窑”之一。",
+      "when": "约公元960年—明初",
+      "overview": "钧窑是中国陶瓷的一种，是宋代陶瓷“五大名窑”之一。",
+      "related": [
+        "jun-numbered-bulb-bowl",
+        "ru-ware",
+        "ding-ware"
+      ],
+      "sources": [
+        "enc-jun-ware",
+        "wd-jun-ware"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，这一名称涵盖多种不同类型的陶瓷，跨北宋（960—1127）、金（1115—1234）与元（1271—1368），延续到明初，产地不止一处。",
+        "风格特征": "摘要没有给出这方面内容，本条目不补写。",
+        "代表人物与作品": "摘要没有列举作品。库内另有《钧窑数字款钵》条目。",
+        "技法或形式分析": "摘要没有给出这方面内容，本条目不补写。",
+        "与前后风格的关系和争论": "摘要称，尽管钧窑很有名，关于它的许多问题仍不清楚，在专家间存在争论。这是摘要明说的学术争议，具体争点摘要未列。",
+        "一图": "示意图以钧窑为中心，标示五大名窑、跨宋金元明、专家争论三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）争议的具体内容未给出；（3）釉色等特征未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='jun-ware 示意图'><title>jun-ware</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>五大名窑</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>宋代</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>钧窑</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>多种类型</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>宋金元明</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>跨数朝</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>专家争论</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>许多问题不清</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；争议内容与釉色特征未给出。"
+    },
+    {
+      "id": "ru-ware",
+      "title": "汝窑（Ru ware）",
+      "kind": "术语",
+      "unit": "art-ceramics",
+      "era": "约1100年",
+      "region": "中国（宋）",
+      "medium": "陶瓷",
+      "tier": "核心",
+      "def": "宋代为宫廷烧造的著名而极稀少的瓷器，约1100年前后短期生产，完整器不足百件。",
+      "when": "约公元1100年前后",
+      "overview": "汝窑是宋代为宫廷短期烧造的一种著名而极其稀少的中国陶瓷。",
+      "related": [
+        "jun-ware",
+        "ding-ware",
+        "song-painting"
+      ],
+      "sources": [
+        "enc-ru-ware",
+        "wd-ru-ware"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，汝窑约在1100年前后短期为宫廷烧造；现存完整器不足100件，后世仿品与原器并不完全相符。",
+        "风格特征": "摘要称，多数器物施独特的淡“鸭蛋”青釉，此外别无装饰；釉色有变化，可到青瓷绿色。摘要引一位中世纪鉴赏家的话，形容其色如“雨过天晴云破处”。",
+        "代表人物与作品": "摘要列出器形：盘（可能用作笔洗）、杯、酒瓶、小瓶与香炉。",
+        "技法或形式分析": "摘要称，汝窑可视为青瓷的一种特殊形式。",
+        "与前后风格的关系和争论": "摘要没有谈及窑址考古或断代争论。",
+        "一图": "示意图以汝窑为中心，标示宫廷用瓷、天青釉、不足百件三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“雨过天晴”引语为摘要的英译转述，中文原句摘要未给出；（3）窑址未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='ru-ware 示意图'><title>ru-ware</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>宫廷用瓷</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>约1100年</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>汝窑</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>极稀少</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>天青釉</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>鸭蛋青</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>不足百件</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>完整器</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；引语为转译；窑址未给出。"
+    },
+    {
+      "id": "ding-ware",
+      "title": "定窑（Ding ware）",
+      "kind": "术语",
+      "unit": "art-ceramics",
+      "era": "唐—元",
+      "region": "中国（河北定州）",
+      "medium": "陶瓷",
+      "tier": "重要",
+      "def": "产于河北定州的中国陶瓷，以瓷器为主，主窑在曲阳县涧磁村。",
+      "when": "约公元8世纪初—14世纪中叶",
+      "overview": "定窑是产于华北河北定州的中国陶瓷，以瓷器为主。",
+      "related": [
+        "ding-tea-bowl",
+        "ding-duck-bowl",
+        "ru-ware",
+        "jun-ware"
+      ],
+      "sources": [
+        "enc-ding-ware",
+        "wd-ding-ware"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，定窑产于唐至元代之间，最佳时期是北宋的11世纪；摘要引述称窑场“从8世纪初到14世纪中叶几乎持续运作”。",
+        "风格特征": "摘要没有给出这方面内容，本条目不补写。",
+        "代表人物与作品": "摘要没有列举作品。库内另有两件定窑碗条目。",
+        "技法或形式分析": "摘要称，主要窑场在曲阳县涧磁村。釉色与装饰摘要未给出。",
+        "与前后风格的关系和争论": "摘要没有谈及相关争论。",
+        "一图": "示意图以定窑为中心，标示河北定州、涧磁村窑场、北宋11世纪最佳三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）釉色与装饰特征未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='ding-ware 示意图'><title>ding-ware</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>河北定州</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>产地</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>定窑</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>以瓷器为主</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>涧磁村</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>主窑</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>北宋11世纪</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>最佳时期</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；釉色与装饰未给出。"
+    },
+    {
+      "id": "gamelan",
+      "title": "甘美兰（Gamelan）",
+      "kind": "风格",
+      "unit": "music-instruments",
+      "era": "历代—今",
+      "region": "印度尼西亚",
+      "medium": "乐器",
+      "tier": "重要",
+      "def": "印度尼西亚爪哇、巽他与巴厘人的传统合奏音乐，以打击乐器为主。",
+      "when": "历代—今",
+      "overview": "甘美兰是印度尼西亚爪哇人、巽他人与巴厘人的传统合奏音乐，主要由打击乐器组成。",
+      "related": [
+        "koto-instrument",
+        "shakuhachi",
+        "maqam",
+        "djembe"
+      ],
+      "sources": [
+        "enc-gamelan",
+        "wd-gamelan"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要没有给出起源年代，本条目不补写。",
+        "风格特征": "摘要称，最常用的乐器是金属排琴和一组掌控节拍、称作 kendang 的手鼓。",
+        "代表人物与作品": "摘要称，可有歌者参与，女声称 sindhen，男声称 gerong。",
+        "技法或形式分析": "摘要列出的乐器：金属排琴、kendang 手鼓；巴厘常用香蕉形体鸣乐器 kemanak 与金属排琴 gangsa；其他还有木琴、竹笛、拉弦乐器 rebab，以及爪哇甘美兰所用类似齐特琴的 siter。",
+        "与前后风格的关系和争论": "摘要称，相关传统也见于东南亚海岛其他地区，包括与柔佛—廖内文化圈相关、至少自18世纪即有记载、今主要在马来西亚传承的宫廷传统“马来甘美兰”。",
+        "一图": "示意图以甘美兰为中心，标示金属排琴、kendang 手鼓、马来甘美兰三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）起源年代与调音体系摘要未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='gamelan 示意图'><title>gamelan</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>金属排琴</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>最常用</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>甘美兰</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>印尼合奏音乐</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>kendang</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>掌控节拍</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>马来甘美兰</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>相关宫廷传统</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；年代与调音体系未给出。"
+    },
+    {
+      "id": "maqam",
+      "title": "阿拉伯木卡姆（Arabic maqam）",
+      "kind": "术语",
+      "unit": "music-instruments",
+      "era": "历代",
+      "region": "阿拉伯世界",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "阿拉伯传统音乐中的旋律调式体系。",
+      "when": "历代",
+      "overview": "在阿拉伯传统音乐中，木卡姆是旋律调式的体系。",
+      "related": [
+        "gamelan",
+        "cma-tanbur"
+      ],
+      "sources": [
+        "enc-maqam",
+        "wd-maqam"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要没有给出起源年代，本条目不补写。",
+        "风格特征": "摘要称，木卡姆一词在阿拉伯语中意为“地方、位置”；它是一种旋律类型，被描述为一种“即兴技术”，决定乐曲的音高、模式与发展，并“为阿拉伯艺术音乐所独有”（引语为摘要转引）。",
+        "代表人物与作品": "摘要没有列举乐人与曲目，本条目不补写。",
+        "技法或形式分析": "摘要称，木卡姆有72种七声音列，由增二度、大二度、中立二度与小二度构成；每个木卡姆建立在一种音阶上，并带有界定其惯用乐句、重要音、旋律发展与转调的传统；可用声乐或器乐实现，不包含节奏成分。",
+        "与前后风格的关系和争论": "摘要称，阿拉伯传统音乐的作曲与即兴都建立在木卡姆体系上。",
+        "一图": "示意图以木卡姆为中心，标示72种音列、即兴技术、无节奏成分三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）各木卡姆名称未给出；（3）“独有”为转引说法，未核验。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='maqam 示意图'><title>maqam</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>72种音列</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>七声</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>阿拉伯木卡姆</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>旋律调式体系</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>即兴技术</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>决定音高与发展</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>无节奏成分</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>声乐或器乐</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；各调式名称未给出；“独有”为转引。"
+    },
+    {
+      "id": "shakuhachi",
+      "title": "尺八（shakuhachi）",
+      "kind": "作品",
+      "unit": "music-instruments",
+      "era": "16世纪—今",
+      "region": "日本",
+      "medium": "乐器",
+      "tier": "重要",
+      "def": "日本竹制纵吹端吹笛，今通常指16世纪在日本发展的普化尺八。",
+      "when": "约公元16世纪—今",
+      "overview": "尺八是日本的竹制纵吹、端吹笛。",
+      "related": [
+        "hitoyogiri-flute",
+        "koto-instrument",
+        "dizi",
+        "gamelan",
+        "noh"
+      ],
+      "sources": [
+        "enc-shakuhachi",
+        "wd-shakuhachi"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，今称尺八的竹制端吹笛于16世纪在日本发展，称“普化尺八”，18世纪江户时代兴盛。",
+        "风格特征": "摘要没有给出这方面内容，本条目不补写。",
+        "代表人物与作品": "摘要没有列举演奏家与曲目。库内另有“一節切”竹笛条目。",
+        "技法或形式分析": "摘要称，普化尺八比古代尺八更长更粗、少一个指孔；比一节切尺八更长更粗，在音量、音域、音阶与音色上更优。",
+        "与前后风格的关系和争论": "摘要称，奈良时期有源自中国箫的“古代尺八”（雅乐尺八），10世纪消失；长期空白后，15世纪出现一节切尺八，后来也消失。“更优”是摘要的比较说法。",
+        "一图": "示意图以尺八为中心，标示古代尺八、一节切、普化尺八三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要缓存在句中截断，本条目只用截断前的内容；（3）“更优”为比较说法，未核验。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='shakuhachi 示意图'><title>shakuhachi</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>古代尺八</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>源自中国箫</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>尺八</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>竹制端吹笛</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>一节切</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>15世纪出现</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>普化尺八</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>16世纪发展</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；摘要截断；比较说法未核验。"
+    },
+    {
+      "id": "djembe",
+      "title": "金贝鼓（djembe）",
+      "kind": "作品",
+      "unit": "music-instruments",
+      "era": "历代—今",
+      "region": "西非",
+      "medium": "乐器",
+      "tier": "补充",
+      "def": "以绳调音、蒙皮、徒手击奏的高脚杯形鼓，原出塞内加尔，广泛用于西非。",
+      "when": "历代—今",
+      "overview": "金贝鼓是一种以绳调音、蒙皮、徒手击奏的高脚杯形鼓，属萨巴尔鼓族。",
+      "related": [
+        "benin-bronzes",
+        "gamelan"
+      ],
+      "sources": [
+        "enc-djembe",
+        "wd-djembe"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要没有给出起源年代，本条目不补写。",
+        "风格特征": "摘要称，金贝鼓以绳调音、蒙皮，徒手击奏，呈高脚杯形。",
+        "代表人物与作品": "摘要没有列举演奏家与曲目，本条目不补写。",
+        "技法或形式分析": "摘要没有给出这方面内容，本条目不补写。",
+        "与前后风格的关系和争论": "摘要称，据马里的班巴拉人说，“djembe”一名来自谚语“Anke djé, anke bé”，意为“大家和平地聚在一起”，说明了这面鼓的用途。这是班巴拉人的说法，属民间词源。",
+        "一图": "示意图以金贝鼓为中心，标示塞内加尔起源、绳调音、名称由来三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）年代与演奏法未给出；（3）名称由来为民间说法。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='djembe 示意图'><title>djembe</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>塞内加尔</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>起源地</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>金贝鼓</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>高脚杯形鼓</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>绳调音</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>徒手击奏</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>名称由来</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>和平地聚在一起</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；年代未给出；名称由来为民间说法。"
+    },
+    {
+      "id": "noh",
+      "title": "能乐（Noh）",
+      "kind": "风格",
+      "unit": "art-asia",
+      "era": "14世纪—今",
+      "region": "日本",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "14世纪以来演出的日本古典舞剧主要形式，是至今仍定期演出的日本最古老的主要戏剧艺术。",
+      "when": "约公元14世纪—今",
+      "overview": "能乐是日本古典舞剧的主要形式，自14世纪起演出至今。",
+      "related": [
+        "kunqu",
+        "shakuhachi",
+        "koto-instrument"
+      ],
+      "sources": [
+        "enc-noh",
+        "wd-noh"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，能乐自14世纪以来演出，是至今仍定期演出的日本最古老的主要戏剧艺术。",
+        "风格特征": "摘要称，情感主要通过程式化的惯用动作传达；标志性的面具代表特定角色，如鬼魂、女性、神祇与恶魔。",
+        "代表人物与作品": "摘要没有列举剧作家与剧目，本条目不补写。",
+        "技法或形式分析": "摘要称，能乐结合面具、服装与各种道具进行以舞蹈为基础的表演，需要高度训练的演员与乐师；剧情常取材传统文学，多由化为人形的超自然存在讲述故事。",
+        "与前后风格的关系和争论": "摘要称，能乐重传统而轻创新，高度程式化，受“家元”制度规范。库内互链昆曲为本项目所加，作对照用。",
+        "一图": "示意图以能乐为中心，标示面具、程式化动作、家元制度三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）剧作家与剧目未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='noh 示意图'><title>noh</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>面具</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>鬼·女·神·魔</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>能乐</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>14世纪至今</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>程式化动作</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>传达情感</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>家元制度</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>规范传承</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；剧作家与剧目未给出。"
     }
   ]
 }

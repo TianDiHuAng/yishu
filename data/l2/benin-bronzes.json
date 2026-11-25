@@ -1,0 +1,20 @@
+{
+  "id": "benin-bronzes",
+  "level": "L2",
+  "sections": {
+    "时代背景": "摘要称，贝宁王国位于今尼日利亚埃多州，这些器物自14世纪起由埃多人艺术家制作。",
+    "风格特征": "摘要称，它们整体上是贝宁艺术的最佳范例。",
+    "代表人物与作品": "摘要称，金属牌饰由贝宁青铜铸造行会制作，该行会今位于伊贡街（Igun-Eronmwon 区）。库内另有两件贝宁作品条目。",
+    "技法或形式分析": "摘要称，牌饰在埃多语中称 Ama，描绘王国历史中的场景或主题；牌饰之外还有黄铜或青铜的肖像头像、首饰与较小器物。",
+    "与前后风格的关系和争论": "摘要没有谈及这批器物的流散与归还问题，本条目不补写。",
+    "一图": "示意图以贝宁青铜器为中心，标示贝宁王宫、铸造行会、牌饰 Ama 三项。",
+    "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）流散与归还等议题摘要未涉及；（3）“青铜”与“黄铜”材质混称，摘要两者都用。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='benin-bronzes 示意图'><title>benin-bronzes</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>贝宁王宫</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>装饰用途</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>贝宁青铜器</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>数千件</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>铸造行会</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>伊贡街</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>牌饰 Ama</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>王国历史场景</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+  "sources": [
+    "enc-benin-bronzes",
+    "wd-benin-bronzes"
+  ],
+  "needs_verification": true,
+  "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；流散议题未涉及；材质混称照录。"
+}

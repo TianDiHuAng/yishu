@@ -1,0 +1,20 @@
+{
+  "id": "shakuhachi",
+  "level": "L2",
+  "sections": {
+    "时代背景": "摘要称，今称尺八的竹制端吹笛于16世纪在日本发展，称“普化尺八”，18世纪江户时代兴盛。",
+    "风格特征": "摘要没有给出这方面内容，本条目不补写。",
+    "代表人物与作品": "摘要没有列举演奏家与曲目。库内另有“一節切”竹笛条目。",
+    "技法或形式分析": "摘要称，普化尺八比古代尺八更长更粗、少一个指孔；比一节切尺八更长更粗，在音量、音域、音阶与音色上更优。",
+    "与前后风格的关系和争论": "摘要称，奈良时期有源自中国箫的“古代尺八”（雅乐尺八），10世纪消失；长期空白后，15世纪出现一节切尺八，后来也消失。“更优”是摘要的比较说法。",
+    "一图": "示意图以尺八为中心，标示古代尺八、一节切、普化尺八三项。",
+    "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要缓存在句中截断，本条目只用截断前的内容；（3）“更优”为比较说法，未核验。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='shakuhachi 示意图'><title>shakuhachi</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>古代尺八</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>源自中国箫</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>尺八</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>竹制端吹笛</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>一节切</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>15世纪出现</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>普化尺八</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>16世纪发展</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+  "sources": [
+    "enc-shakuhachi",
+    "wd-shakuhachi"
+  ],
+  "needs_verification": true,
+  "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；摘要截断；比较说法未核验。"
+}

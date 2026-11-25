@@ -1,0 +1,20 @@
+{
+  "id": "jun-ware",
+  "level": "L2",
+  "sections": {
+    "时代背景": "摘要称，这一名称涵盖多种不同类型的陶瓷，跨北宋（960—1127）、金（1115—1234）与元（1271—1368），延续到明初，产地不止一处。",
+    "风格特征": "摘要没有给出这方面内容，本条目不补写。",
+    "代表人物与作品": "摘要没有列举作品。库内另有《钧窑数字款钵》条目。",
+    "技法或形式分析": "摘要没有给出这方面内容，本条目不补写。",
+    "与前后风格的关系和争论": "摘要称，尽管钧窑很有名，关于它的许多问题仍不清楚，在专家间存在争论。这是摘要明说的学术争议，具体争点摘要未列。",
+    "一图": "示意图以钧窑为中心，标示五大名窑、跨宋金元明、专家争论三项。",
+    "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）争议的具体内容未给出；（3）釉色等特征未给出。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='jun-ware 示意图'><title>jun-ware</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>五大名窑</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>宋代</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>钧窑</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>多种类型</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>宋金元明</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>跨数朝</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>专家争论</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>许多问题不清</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+  "sources": [
+    "enc-jun-ware",
+    "wd-jun-ware"
+  ],
+  "needs_verification": true,
+  "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；争议内容与釉色特征未给出。"
+}

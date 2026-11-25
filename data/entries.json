@@ -1526,7 +1526,8 @@
         "song-painting",
         "dunhuang-art",
         "six-dynasties-art",
-        "cma-tang-harpist"
+        "cma-tang-harpist",
+        "sancai"
       ],
       "sources": [
         "enc-tang-dynasty-art",
@@ -1551,7 +1552,8 @@
         "mi-youren-cloudy-mountains",
         "china-painting-history",
         "lizong-wangwei-album",
-        "cma-liu-songnian-qin"
+        "cma-liu-songnian-qin",
+        "ru-ware"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -1806,7 +1808,8 @@
         "chen-jiru-four-poems",
         "ten-bamboo-album",
         "zhu-yunming-autumn-retreat",
-        "liang-qichao-couplet"
+        "liang-qichao-couplet",
+        "islamic-calligraphy"
       ],
       "sources": [
         "enc-chinese-calligraphy",
@@ -3336,7 +3339,8 @@
       "related": [
         "angkor",
         "buddhist-art-india",
-        "khmer-architecture"
+        "khmer-architecture",
+        "gupta-art"
       ],
       "sources": [
         "enc-khmer-art",
@@ -3359,7 +3363,8 @@
         "khmer-art",
         "khmer-architecture",
         "khmer-thai-fruit-jar",
-        "chinese-architecture"
+        "chinese-architecture",
+        "gupta-art"
       ],
       "sources": [
         "enc-angkor",
@@ -3433,7 +3438,8 @@
         "hokusai-nakahara-sagami",
         "japanese-architecture",
         "klimt",
-        "hokusai"
+        "hokusai",
+        "kano-school"
       ],
       "sources": [
         "enc-ukiyo-e",
@@ -4238,7 +4244,8 @@
         "african-art",
         "nok-terracotta-head",
         "xhosa-beaded-pipe",
-        "xhosa-beadwork-pendant"
+        "xhosa-beadwork-pendant",
+        "benin-bronzes"
       ],
       "sources": [
         "cma-1999-1"
@@ -4260,7 +4267,8 @@
         "benin-plaque",
         "african-art",
         "southern-african-prestige-staff",
-        "totem-01-01-18"
+        "totem-01-01-18",
+        "benin-bronzes"
       ],
       "sources": [
         "cma-1938-6"
@@ -4383,7 +4391,8 @@
         "chi-wara-headdress",
         "esu-dance-staff",
         "kuofo-prestige-stool",
-        "cma-yombe-oliphant"
+        "cma-yombe-oliphant",
+        "nok-culture"
       ],
       "sources": [
         "cma-1999-1",
@@ -4462,7 +4471,8 @@
         "malagan-memorial-pole",
         "rapa-nui-rei-miro",
         "elema-spirit-board",
-        "abelam-yam-mask"
+        "abelam-yam-mask",
+        "aboriginal-art"
       ],
       "sources": [
         "cma-1954-147",
@@ -4716,7 +4726,8 @@
       "related": [
         "joseon-hwarot-robe",
         "goryeo-celadon-cup",
-        "joseon-auspicious-jar"
+        "joseon-auspicious-jar",
+        "korean-painting"
       ],
       "sources": [
         "cma-1969-85"
@@ -5512,7 +5523,10 @@
       "related": [
         "pipa-instrument",
         "hitoyogiri-flute",
-        "cma-tsuzumi"
+        "cma-tsuzumi",
+        "gamelan",
+        "shakuhachi",
+        "noh"
       ],
       "sources": [
         "cma-1918-359"
@@ -5533,7 +5547,8 @@
       "related": [
         "koto-instrument",
         "guqin-instrument",
-        "cma-tsuzumi"
+        "cma-tsuzumi",
+        "shakuhachi"
       ],
       "sources": [
         "cma-1921-914"
@@ -5791,7 +5806,8 @@
         "yuan-blue-white-jar",
         "longquan-export-bowl",
         "qingbai-silver-bowl",
-        "ding-duck-bowl"
+        "ding-duck-bowl",
+        "ding-ware"
       ],
       "sources": [
         "cma-2020-186"
@@ -5814,7 +5830,8 @@
         "yuan-blue-white-jar",
         "tang-tomb-guardian",
         "chenghua-doucai-cup",
-        "cizhou-floral-vase"
+        "cizhou-floral-vase",
+        "jun-ware"
       ],
       "sources": [
         "cma-1957-33"
@@ -5834,7 +5851,8 @@
       "overview": "兽面长双角，另一件人面巨耳；用于守墓门、辟邪并防亡魂游荡；出丧时先经街市游行。",
       "related": [
         "jun-numbered-bulb-bowl",
-        "yuan-blue-white-jar"
+        "yuan-blue-white-jar",
+        "sancai"
       ],
       "sources": [
         "cma-2000-118-1"
@@ -5875,7 +5893,8 @@
       "related": [
         "ding-tea-bowl",
         "qingbai-silver-bowl",
-        "cizhou-toy-figurine"
+        "cizhou-toy-figurine",
+        "ding-ware"
       ],
       "sources": [
         "cma-1929-995"
@@ -8737,7 +8756,8 @@
       "overview": "瓦尔马贾里人艺术家平克，生于大沙沙漠边缘；高原俯视水潭与两人；1976年成立的工坊限量小挂毯之一。",
       "related": [
         "tapa-cloth-samoa",
-        "oceania-art"
+        "oceania-art",
+        "aboriginal-art"
       ],
       "sources": [
         "vam-o34305"
@@ -11290,7 +11310,9 @@
         "rai-singh-bikaner",
         "jagat-singh-hunting",
         "mughal-muhammad-ali-beg",
-        "mughal-architecture"
+        "mughal-architecture",
+        "rajput-painting",
+        "mughal-painting"
       ],
       "sources": [
         "vam-o113934"
@@ -12573,7 +12595,8 @@
       "related": [
         "cma-oud",
         "ottoman-nay-flute",
-        "cma-kamanche"
+        "cma-kamanche",
+        "maqam"
       ],
       "sources": [
         "cma-1918-347"
@@ -13668,7 +13691,9 @@
         "mihrab-isfahan",
         "iznik-tile-spandrel",
         "mughal-architecture",
-        "spanish-architecture"
+        "spanish-architecture",
+        "islamic-calligraphy",
+        "arabesque"
       ],
       "sources": [
         "enc-islamic-architecture",
@@ -13846,7 +13871,9 @@
         "islamic-architecture",
         "indian-art",
         "mughal-alamgir-portrait",
-        "indian-architecture"
+        "indian-architecture",
+        "gupta-art",
+        "mughal-painting"
       ],
       "sources": [
         "enc-mughal-architecture",
@@ -13870,7 +13897,8 @@
         "japanese-art",
         "chinese-architecture",
         "ukiyo-e",
-        "korean-architecture"
+        "korean-architecture",
+        "kano-school"
       ],
       "sources": [
         "enc-japanese-architecture",
@@ -14387,7 +14415,8 @@
       "related": [
         "goryeo-celadon-bottle",
         "japanese-architecture",
-        "chinese-architecture"
+        "chinese-architecture",
+        "korean-painting"
       ],
       "sources": [
         "enc-korean-architecture",
@@ -14758,7 +14787,8 @@
         "dizi",
         "erhu",
         "suona",
-        "nanguan"
+        "nanguan",
+        "noh"
       ],
       "sources": [
         "enc-kunqu",
@@ -14782,7 +14812,8 @@
         "erhu",
         "jingju",
         "yangqin",
-        "suona"
+        "suona",
+        "shakuhachi"
       ],
       "sources": [
         "enc-dizi",
@@ -15199,7 +15230,8 @@
         "ukiyo-e",
         "hokusai-red-fuji",
         "monet",
-        "van-gogh"
+        "van-gogh",
+        "kano-school"
       ],
       "sources": [
         "enc-hokusai",
@@ -15881,6 +15913,421 @@
       "sources": [
         "enc-nanguan",
         "wd-nanguan"
+      ]
+    },
+    {
+      "id": "gupta-art",
+      "title": "笈多艺术（Gupta art）",
+      "kind": "时期",
+      "unit": "art-asia",
+      "era": "约300—550年",
+      "region": "北印度",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "统治北印度大部分地区的笈多王朝的艺术，鼎盛于约300至480年。",
+      "when": "约公元300—550年",
+      "overview": "笈多艺术是笈多帝国的艺术，该帝国统治北印度大部分地区。",
+      "related": [
+        "mughal-architecture",
+        "khmer-art",
+        "angkor"
+      ],
+      "sources": [
+        "enc-gupta-art",
+        "wd-gupta-art"
+      ]
+    },
+    {
+      "id": "rajput-painting",
+      "title": "拉杰普特绘画（Rajput painting）",
+      "kind": "风格",
+      "unit": "art-asia",
+      "era": "16世纪末—19世纪中叶",
+      "region": "印度",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "莫卧儿时代各地印度教宫廷的绘画，约16世纪末至19世纪中叶。",
+      "when": "约公元16世纪末—19世纪中叶",
+      "overview": "拉杰普特绘画是莫卧儿时代地方印度教宫廷的绘画。",
+      "related": [
+        "mughal-painting",
+        "mughal-alamgir-portrait"
+      ],
+      "sources": [
+        "enc-rajput-painting",
+        "wd-rajput-painting"
+      ]
+    },
+    {
+      "id": "mughal-painting",
+      "title": "莫卧儿绘画（Mughal painting）",
+      "kind": "风格",
+      "unit": "art-asia",
+      "era": "16—19世纪",
+      "region": "印度次大陆",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "起源于印度次大陆莫卧儿时期的细密画风格，用作书籍插图或收入画册的单幅作品。",
+      "when": "约公元16—19世纪",
+      "overview": "莫卧儿绘画是一种细密画风格，起源于印度次大陆的莫卧儿时期。",
+      "related": [
+        "mughal-architecture",
+        "mughal-alamgir-portrait",
+        "rajput-painting"
+      ],
+      "sources": [
+        "enc-mughal-painting",
+        "wd-mughal-painting"
+      ]
+    },
+    {
+      "id": "islamic-calligraphy",
+      "title": "伊斯兰书法（Islamic calligraphy）",
+      "kind": "术语",
+      "unit": "art-islamic",
+      "era": "历代",
+      "region": "伊斯兰世界",
+      "medium": "书法",
+      "tier": "核心",
+      "def": "使用阿拉伯字母或其衍生字母的语言中的书写与书法艺术实践。",
+      "when": "历代",
+      "overview": "伊斯兰书法是以阿拉伯字母或其衍生字母书写的语言中的书写与书法艺术实践。",
+      "related": [
+        "arabesque",
+        "islamic-architecture",
+        "china-calligraphy-history"
+      ],
+      "sources": [
+        "enc-islamic-calligraphy",
+        "wd-islamic-calligraphy"
+      ]
+    },
+    {
+      "id": "arabesque",
+      "title": "阿拉伯式花纹（Arabesque）",
+      "kind": "术语",
+      "unit": "art-islamic",
+      "era": "9世纪以来",
+      "region": "伊斯兰世界·欧洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "以卷曲交缠的枝叶、卷须或线条为节奏性线型图案的表面装饰。",
+      "when": "约公元9世纪起",
+      "overview": "阿拉伯式花纹是一种艺术装饰形式，由卷曲交缠的枝叶、卷须或素线构成的节奏性线型图案组成。",
+      "related": [
+        "islamic-calligraphy",
+        "islamic-architecture"
+      ],
+      "sources": [
+        "enc-arabesque",
+        "wd-arabesque"
+      ]
+    },
+    {
+      "id": "benin-bronzes",
+      "title": "贝宁青铜器（Benin Bronzes）",
+      "kind": "作品",
+      "unit": "art-africa",
+      "era": "14世纪起",
+      "region": "尼日利亚（贝宁王国）",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "装饰贝宁王国王宫的数千件金属牌饰与雕塑，14世纪起由埃多人艺术家制作。",
+      "when": "约公元14世纪起",
+      "overview": "贝宁青铜器是装饰贝宁王国王宫的数千件金属牌饰与雕塑。",
+      "related": [
+        "benin-plaque",
+        "benin-ancestral-head",
+        "nok-culture",
+        "djembe"
+      ],
+      "sources": [
+        "enc-benin-bronzes",
+        "wd-benin-bronzes"
+      ]
+    },
+    {
+      "id": "nok-culture",
+      "title": "诺克文化（Nok culture）",
+      "kind": "时期",
+      "unit": "art-africa",
+      "era": "约公元前1500年—前1年",
+      "region": "尼日利亚",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "以尼日利亚诺克村命名的人群及其物质遗存，1928年首次在此发现其陶塑。",
+      "when": "约公元前1500年—前1年",
+      "overview": "诺克文化是一个人群，其物质遗存以尼日利亚卡杜纳州南部的诺克村命名。",
+      "related": [
+        "benin-bronzes",
+        "african-art"
+      ],
+      "sources": [
+        "enc-nok-culture",
+        "wd-nok-culture"
+      ]
+    },
+    {
+      "id": "aboriginal-art",
+      "title": "澳大利亚原住民艺术（Indigenous Australian art）",
+      "kind": "风格",
+      "unit": "art-oceania",
+      "era": "历代—今",
+      "region": "澳大利亚",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "澳大利亚原住民与托雷斯海峡岛民制作的艺术，包括与他人的合作作品。",
+      "when": "历代—今",
+      "overview": "澳大利亚原住民艺术包括澳大利亚原住民与托雷斯海峡岛民制作的艺术。",
+      "related": [
+        "aboriginal-tapestry-pike",
+        "oceania-art"
+      ],
+      "sources": [
+        "enc-aboriginal-art",
+        "wd-aboriginal-art"
+      ]
+    },
+    {
+      "id": "kano-school",
+      "title": "狩野派（Kanō school）",
+      "kind": "风格",
+      "unit": "art-asia",
+      "era": "15世纪末—1868年",
+      "region": "日本",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "日本绘画最著名的流派之一，自15世纪末至明治时期（1868）为主导画风。",
+      "when": "约公元15世纪末—1868年",
+      "overview": "狩野派是日本绘画最著名的流派之一。",
+      "related": [
+        "ukiyo-e",
+        "hokusai",
+        "japanese-architecture"
+      ],
+      "sources": [
+        "enc-kano-school",
+        "wd-kano-school"
+      ]
+    },
+    {
+      "id": "korean-painting",
+      "title": "韩国绘画（Korean painting）",
+      "kind": "风格",
+      "unit": "art-asia",
+      "era": "历代",
+      "region": "朝鲜半岛",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "在朝鲜半岛或由海外韩国人在各种表面上所作的绘画。",
+      "when": "历代",
+      "overview": "韩国绘画包括在朝鲜半岛或由海外韩国人在各种表面上所作的绘画。",
+      "related": [
+        "korean-architecture",
+        "joseon-hollyhock-cup"
+      ],
+      "sources": [
+        "enc-korean-painting",
+        "wd-korean-painting"
+      ]
+    },
+    {
+      "id": "sancai",
+      "title": "唐三彩（Sancai）",
+      "kind": "术语",
+      "unit": "art-ceramics",
+      "era": "唐代（约700年起）",
+      "region": "中国",
+      "medium": "陶瓷",
+      "tier": "核心",
+      "def": "中国陶器上以釉或化妆土施以褐、绿、乳白三色为主的装饰，尤与唐代墓葬俑相关。",
+      "when": "约公元700年起",
+      "overview": "三彩是中国陶器及其他彩绘器物上的一种装饰，以釉或化妆土施以褐、绿与乳白三色为主。",
+      "related": [
+        "tang-tomb-guardian",
+        "tang-painting"
+      ],
+      "sources": [
+        "enc-sancai",
+        "wd-sancai"
+      ]
+    },
+    {
+      "id": "jun-ware",
+      "title": "钧窑（Jun ware）",
+      "kind": "术语",
+      "unit": "art-ceramics",
+      "era": "北宋—明初",
+      "region": "中国",
+      "medium": "陶瓷",
+      "tier": "重要",
+      "def": "中国陶瓷的一类，宋代“五大名窑”之一。",
+      "when": "约公元960年—明初",
+      "overview": "钧窑是中国陶瓷的一种，是宋代陶瓷“五大名窑”之一。",
+      "related": [
+        "jun-numbered-bulb-bowl",
+        "ru-ware",
+        "ding-ware"
+      ],
+      "sources": [
+        "enc-jun-ware",
+        "wd-jun-ware"
+      ]
+    },
+    {
+      "id": "ru-ware",
+      "title": "汝窑（Ru ware）",
+      "kind": "术语",
+      "unit": "art-ceramics",
+      "era": "约1100年",
+      "region": "中国（宋）",
+      "medium": "陶瓷",
+      "tier": "核心",
+      "def": "宋代为宫廷烧造的著名而极稀少的瓷器，约1100年前后短期生产，完整器不足百件。",
+      "when": "约公元1100年前后",
+      "overview": "汝窑是宋代为宫廷短期烧造的一种著名而极其稀少的中国陶瓷。",
+      "related": [
+        "jun-ware",
+        "ding-ware",
+        "song-painting"
+      ],
+      "sources": [
+        "enc-ru-ware",
+        "wd-ru-ware"
+      ]
+    },
+    {
+      "id": "ding-ware",
+      "title": "定窑（Ding ware）",
+      "kind": "术语",
+      "unit": "art-ceramics",
+      "era": "唐—元",
+      "region": "中国（河北定州）",
+      "medium": "陶瓷",
+      "tier": "重要",
+      "def": "产于河北定州的中国陶瓷，以瓷器为主，主窑在曲阳县涧磁村。",
+      "when": "约公元8世纪初—14世纪中叶",
+      "overview": "定窑是产于华北河北定州的中国陶瓷，以瓷器为主。",
+      "related": [
+        "ding-tea-bowl",
+        "ding-duck-bowl",
+        "ru-ware",
+        "jun-ware"
+      ],
+      "sources": [
+        "enc-ding-ware",
+        "wd-ding-ware"
+      ]
+    },
+    {
+      "id": "gamelan",
+      "title": "甘美兰（Gamelan）",
+      "kind": "风格",
+      "unit": "music-instruments",
+      "era": "历代—今",
+      "region": "印度尼西亚",
+      "medium": "乐器",
+      "tier": "重要",
+      "def": "印度尼西亚爪哇、巽他与巴厘人的传统合奏音乐，以打击乐器为主。",
+      "when": "历代—今",
+      "overview": "甘美兰是印度尼西亚爪哇人、巽他人与巴厘人的传统合奏音乐，主要由打击乐器组成。",
+      "related": [
+        "koto-instrument",
+        "shakuhachi",
+        "maqam",
+        "djembe"
+      ],
+      "sources": [
+        "enc-gamelan",
+        "wd-gamelan"
+      ]
+    },
+    {
+      "id": "maqam",
+      "title": "阿拉伯木卡姆（Arabic maqam）",
+      "kind": "术语",
+      "unit": "music-instruments",
+      "era": "历代",
+      "region": "阿拉伯世界",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "阿拉伯传统音乐中的旋律调式体系。",
+      "when": "历代",
+      "overview": "在阿拉伯传统音乐中，木卡姆是旋律调式的体系。",
+      "related": [
+        "gamelan",
+        "cma-tanbur"
+      ],
+      "sources": [
+        "enc-maqam",
+        "wd-maqam"
+      ]
+    },
+    {
+      "id": "shakuhachi",
+      "title": "尺八（shakuhachi）",
+      "kind": "作品",
+      "unit": "music-instruments",
+      "era": "16世纪—今",
+      "region": "日本",
+      "medium": "乐器",
+      "tier": "重要",
+      "def": "日本竹制纵吹端吹笛，今通常指16世纪在日本发展的普化尺八。",
+      "when": "约公元16世纪—今",
+      "overview": "尺八是日本的竹制纵吹、端吹笛。",
+      "related": [
+        "hitoyogiri-flute",
+        "koto-instrument",
+        "dizi",
+        "gamelan",
+        "noh"
+      ],
+      "sources": [
+        "enc-shakuhachi",
+        "wd-shakuhachi"
+      ]
+    },
+    {
+      "id": "djembe",
+      "title": "金贝鼓（djembe）",
+      "kind": "作品",
+      "unit": "music-instruments",
+      "era": "历代—今",
+      "region": "西非",
+      "medium": "乐器",
+      "tier": "补充",
+      "def": "以绳调音、蒙皮、徒手击奏的高脚杯形鼓，原出塞内加尔，广泛用于西非。",
+      "when": "历代—今",
+      "overview": "金贝鼓是一种以绳调音、蒙皮、徒手击奏的高脚杯形鼓，属萨巴尔鼓族。",
+      "related": [
+        "benin-bronzes",
+        "gamelan"
+      ],
+      "sources": [
+        "enc-djembe",
+        "wd-djembe"
+      ]
+    },
+    {
+      "id": "noh",
+      "title": "能乐（Noh）",
+      "kind": "风格",
+      "unit": "art-asia",
+      "era": "14世纪—今",
+      "region": "日本",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "14世纪以来演出的日本古典舞剧主要形式，是至今仍定期演出的日本最古老的主要戏剧艺术。",
+      "when": "约公元14世纪—今",
+      "overview": "能乐是日本古典舞剧的主要形式，自14世纪起演出至今。",
+      "related": [
+        "kunqu",
+        "shakuhachi",
+        "koto-instrument"
+      ],
+      "sources": [
+        "enc-noh",
+        "wd-noh"
       ]
     }
   ]

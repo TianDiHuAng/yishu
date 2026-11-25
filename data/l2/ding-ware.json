@@ -1,0 +1,20 @@
+{
+  "id": "ding-ware",
+  "level": "L2",
+  "sections": {
+    "时代背景": "摘要称，定窑产于唐至元代之间，最佳时期是北宋的11世纪；摘要引述称窑场“从8世纪初到14世纪中叶几乎持续运作”。",
+    "风格特征": "摘要没有给出这方面内容，本条目不补写。",
+    "代表人物与作品": "摘要没有列举作品。库内另有两件定窑碗条目。",
+    "技法或形式分析": "摘要称，主要窑场在曲阳县涧磁村。釉色与装饰摘要未给出。",
+    "与前后风格的关系和争论": "摘要没有谈及相关争论。",
+    "一图": "示意图以定窑为中心，标示河北定州、涧磁村窑场、北宋11世纪最佳三项。",
+    "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）釉色与装饰特征未给出。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='ding-ware 示意图'><title>ding-ware</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>河北定州</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>产地</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>定窑</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>以瓷器为主</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>涧磁村</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>主窑</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>北宋11世纪</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>最佳时期</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+  "sources": [
+    "enc-ding-ware",
+    "wd-ding-ware"
+  ],
+  "needs_verification": true,
+  "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；釉色与装饰未给出。"
+}

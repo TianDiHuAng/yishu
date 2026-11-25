@@ -1,0 +1,20 @@
+{
+  "id": "sancai",
+  "level": "L2",
+  "sections": {
+    "时代背景": "摘要称，三彩尤与唐代（618—907）及其墓葬俑相关，约700年出现，因此中文常称“唐三彩”。",
+    "风格特征": "摘要称，主要用褐、绿与乳白三色。",
+    "代表人物与作品": "摘要没有列举具体作品。库内另有《唐三彩镇墓兽》条目。",
+    "技法或形式分析": "摘要称，它以釉或化妆土施彩，是一种用途多样的装饰方式。",
+    "与前后风格的关系和争论": "摘要称，唐三彩有时被中西方的古董商称为“蛋与菠菜”（egg-and-spinach），因其用绿、黄、白三色，尤其在呈现流淌效果时。",
+    "一图": "示意图以唐三彩为中心，标示三色釉、唐代墓葬俑、“蛋与菠菜”俗称三项。",
+    "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）窑址与工艺细节未给出。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='sancai 示意图'><title>sancai</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>三色</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>褐·绿·乳白</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>唐三彩</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>约700年出现</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>墓葬俑</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>主要器类</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>俗称</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>蛋与菠菜</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+  "sources": [
+    "enc-sancai",
+    "wd-sancai"
+  ],
+  "needs_verification": true,
+  "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；窑址与工艺未给出。"
+}

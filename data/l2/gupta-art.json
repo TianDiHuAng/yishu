@@ -1,0 +1,20 @@
+{
+  "id": "gupta-art",
+  "level": "L2",
+  "sections": {
+    "时代背景": "摘要称，笈多帝国鼎盛于约300至480年，以大为缩减的形式延续到约550年。",
+    "风格特征": "摘要称，笈多艺术的特点是“古典式的得体”（Classical decorum）。",
+    "代表人物与作品": "摘要没有列举作品，本条目不补写。",
+    "技法或形式分析": "摘要没有给出这方面内容，本条目不补写。",
+    "与前后风格的关系和争论": "摘要称，笈多时期一般被视为北印度各主要宗教群体艺术的古典高峰与黄金时代；与其后“使人物从属于更大宗教目的”的印度中世纪艺术形成对照。引语为摘要转引。",
+    "一图": "示意图以笈多艺术为中心，标示笈多帝国、古典式得体、中世纪艺术三项。",
+    "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“黄金时代”是评价性概括；（3）作品与材质未给出。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='gupta-art 示意图'><title>gupta-art</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>笈多帝国</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>约300—480鼎盛</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>笈多艺术</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>北印度</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>古典式得体</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>风格特点</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>中世纪艺术</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>此后对照</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+  "sources": [
+    "enc-gupta-art",
+    "wd-gupta-art"
+  ],
+  "needs_verification": true,
+  "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；作品未给出；评价性概括未核验。"
+}
