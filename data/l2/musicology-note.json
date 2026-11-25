@@ -1,14 +1,17 @@
 {
- "id": "musicology-note",
- "level": "L2",
- "sections": {
-  "时代背景": "音乐史与音乐学是理解音乐的两种基本途径。二者都在历代的音乐研究中形成，但出发点不同。前者按时代叙述音乐变迁，后者以更广的方法研究音乐现象。理解二者的分工，是阅读音乐类条目的第一步。",
-  "风格特征": "音乐史的特征在于以时间线索为骨架，关注体裁沿革。音乐学的特征在于方法更广，涵盖多个分支。概述列出历史音乐学、民族音乐学、音乐理论等分支，显示其覆盖面超出单一的时代叙述。二者并非对立，而是视角宽窄之别。",
-  "代表人物与作品": "输入材料未提供具体的人物或作品名录，故此处不作列举。可依据的来源为权威百科条目《Musicology》与《Classical period (music)》，作者标注为 Wikipedia contributors。阅读时可将这些来源作为核对概念边界的入口。具体人物与作品有待专门条目补充。",
-  "技法或形式分析": "阅读此类概念条目，宜先抓定义中的动词差别：“按时代叙述”对应时间维度，“以更广方法研究”对应方法维度。再将概述中的分支名称与这一定位对应，判断其属于历史叙述还是广义研究。遇到具体音乐现象时，可先问是纵向的变迁问题还是横向的方法问题。如此可避免把音乐史与音乐学混为一谈。",
-  "与前后风格的关系和争论": "历史音乐学这一分支名称，正提示历史叙述可被纳入音乐学的框架之内。二者关系更接近包含与交叉，而非彼此替代。输入材料未列出具体争论，因此此处仅指出方法取向上的宽窄之别。关于边界的进一步讨论，需参考专门文献。",
-  "一图": "示意图展示音乐史的时间线索与音乐学的多分支方法之间的区分。",
-  "待核实": "本条仅依据定义与概述区分两个概念，未引入具体人物、作品或年代。来源均为权威百科，尚待更专门的学科文献印证。输入未提供音乐学各分支的详尽说明，相关细节待核实。"
- },
- "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='音乐史与音乐学的区分 示意图'><title>音乐史与音乐学的区分</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>音乐史</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>时间线索与体裁沿革</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>音乐学</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>更广的方法研究</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>历史音乐学</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>分支</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>民族音乐学</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>分支</text><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>音乐史：时间线索与体裁沿革；音乐学：历史音乐学、民族音乐学等分支</text></g></svg>"
+  "id": "musicology-note",
+  "level": "L2",
+  "sections": {
+    "时代背景": "音乐史与音乐学是理解音乐的两种基本途径。二者都在历代的音乐研究中形成，但出发点不同。前者按时代叙述音乐变迁，后者以更广的方法研究音乐现象。理解二者的分工，是阅读音乐类条目的第一步。",
+    "风格特征": "音乐史的特征在于以时间线索为骨架，关注体裁沿革。音乐学的特征在于方法更广，涵盖多个分支。概述列出历史音乐学、民族音乐学、音乐理论等分支，显示其覆盖面超出单一的时代叙述。二者并非对立，而是视角宽窄之别。",
+    "代表人物与作品": "输入材料未提供具体的人物或作品名录，故此处不作列举。可依据的来源为权威百科条目《Musicology》与《Classical period (music)》，作者标注为 Wikipedia contributors。阅读时可将这些来源作为核对概念边界的入口。具体人物与作品有待专门条目补充。",
+    "技法或形式分析": "阅读此类概念条目，宜先抓定义中的动词差别：“按时代叙述”对应时间维度，“以更广方法研究”对应方法维度。再将概述中的分支名称与这一定位对应，判断其属于历史叙述还是广义研究。遇到具体音乐现象时，可先问是纵向的变迁问题还是横向的方法问题。如此可避免把音乐史与音乐学混为一谈。",
+    "与前后风格的关系和争论": "历史音乐学这一分支名称，正提示历史叙述可被纳入音乐学的框架之内。二者关系更接近包含与交叉，而非彼此替代。输入材料未列出具体争论，因此此处仅指出方法取向上的宽窄之别。关于边界的进一步讨论，需参考专门文献。",
+    "一图": "示意图展示音乐史的时间线索与音乐学的多分支方法之间的区分。",
+    "待核实": "本条仅依据定义与概述区分两个概念，未引入具体人物、作品或年代。来源均为权威百科，尚待更专门的学科文献印证。输入未提供音乐学各分支的详尽说明，相关细节待核实。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='音乐史与音乐学的区分 示意图'><title>音乐史与音乐学的区分</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>音乐史</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>时间线索与体裁沿革</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>音乐学</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>更广的方法研究</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>历史音乐学</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>分支</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>民族音乐学</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>分支</text><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>音乐史：时间线索与体裁沿革；音乐学：历史音乐学、民族音乐学等分支</text></g></svg>",
+  "related": [
+    "reading-path"
+  ]
 }

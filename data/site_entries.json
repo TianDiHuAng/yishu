@@ -47,7 +47,8 @@
       "overview": "常见于法国与西班牙洞穴，使用炭黑与赭石，动物形象生动，空间布局无统一透视。",
       "related": [
         "prehistoric-art",
-        "yangshao-painted-pottery"
+        "yangshao-painted-pottery",
+        "paleolithic-sculpture"
       ],
       "sources": [
         "enc-prehistoric-art",
@@ -79,7 +80,8 @@
       "when": "约公元前4万—前1万年",
       "overview": "代表如猛犸象牙雕刻与所谓《维纳斯》小像，尺度小、造型概括。",
       "related": [
-        "prehistoric-art"
+        "prehistoric-art",
+        "cave-art"
       ],
       "sources": [
         "enc-prehistoric-art",
@@ -4707,7 +4709,9 @@
       "overview": "建议按学科导论→通史单元→核心流派→代表人物与作品的顺序阅读，先建立框架再深入细节。",
       "related": [
         "what-is-art-history",
-        "what-is-music-history"
+        "what-is-music-history",
+        "art-criticism-note",
+        "musicology-note"
       ],
       "sources": [
         "enc-art-history",
@@ -4738,7 +4742,8 @@
       "when": "历代",
       "overview": "二者视角不同：前者追问作品为何产生、如何演变，后者评价作品优劣与意义。",
       "related": [
-        "what-is-art-history"
+        "what-is-art-history",
+        "reading-path"
       ],
       "sources": [
         "enc-art-history",
@@ -4769,7 +4774,8 @@
       "when": "历代",
       "overview": "音乐史侧重时间线索与体裁沿革，音乐学包含历史音乐学、民族音乐学、音乐理论等分支。",
       "related": [
-        "what-is-music-history"
+        "what-is-music-history",
+        "reading-path"
       ],
       "sources": [
         "enc-musicology",
@@ -5241,7 +5247,8 @@
       "related": [
         "angkor",
         "buddhist-art-india",
-        "khmer-architecture"
+        "khmer-architecture",
+        "champa-planetary-deity"
       ],
       "sources": [
         "enc-khmer-art",
@@ -7391,7 +7398,9 @@
       "when": "1800年代末",
       "overview": "蝶寓婚姻幸福、凤寓多子、莲与白鹤寓长寿；大量修补与拼补反映新儒学崇尚俭约，并显示其为可共享传承的公共资源。",
       "related": [
-        "joseon-hollyhock-cup"
+        "joseon-hollyhock-cup",
+        "joseon-buncheong-flask",
+        "joseon-auspicious-jar"
       ],
       "sources": [
         "cma-1918-552"
@@ -7423,7 +7432,9 @@
       "when": "850—875年",
       "overview": "为护持佛寺的九曜之一；左手短剑、髭须与蹙眉示其忿怒护法身份；坐姿为「王者安逸」。",
       "related": [
-        "champa-apsara-bracket"
+        "champa-apsara-bracket",
+        "champa-planetary-deity-dongduong",
+        "khmer-art"
       ],
       "sources": [
         "cma-1935-147"
@@ -7489,7 +7500,8 @@
       "overview": "四字寓长寿、福、康宁、平安；此类罐常作寿礼与婚礼赠品；本件1981年购自东京古美术商。",
       "related": [
         "joseon-buncheong-flask",
-        "joseon-hollyhock-cup"
+        "joseon-hollyhock-cup",
+        "joseon-hwarot-robe"
       ],
       "sources": [
         "cma-1981-3"
@@ -7521,7 +7533,9 @@
       "when": "1500年代",
       "overview": "粉青意为「粉绿」，因用铁分高的粗炼土而呈灰青釉；沿用高丽的白化妆土、镶嵌、印花与刻划技法。",
       "related": [
-        "joseon-auspicious-jar"
+        "joseon-auspicious-jar",
+        "korean-white-flask-longevity",
+        "joseon-hwarot-robe"
       ],
       "sources": [
         "cma-1921-649"
@@ -12393,7 +12407,8 @@
       "related": [
         "khmer-naga-buddha",
         "dvaravati-buddha-bust",
-        "hevajra-buddhist"
+        "hevajra-buddhist",
+        "champa-planetary-deity"
       ],
       "sources": [
         "cma-1935-147"
@@ -13181,7 +13196,8 @@
       "related": [
         "korean-celadon-bowl-lotus",
         "yuan-blue-white-jar",
-        "korean-orchids-rocks"
+        "korean-orchids-rocks",
+        "joseon-buncheong-flask"
       ],
       "sources": [
         "vam-o22419"
@@ -19365,7 +19381,8 @@
       "overview": "该馆说明：罗斯特曼是哈勒姆极富有的亚麻与丝绸商，画像时36岁；与许多荷兰同行不同，哈尔斯偏好强烈可见的笔触以传达坐像者的生气；其姿态自信，服饰端庄而奢华，袖饰镶边与纽扣，腰间缠丝带花结，黑衣与宽亚麻领、花边袖口相映；右上方题「ÆTAT SVÆ 36 / AN° 1634」。",
       "related": [
         "baroque",
-        "rembrandt"
+        "rembrandt",
+        "hals-woman-aeltje-pater"
       ],
       "sources": [
         "cma-1999-173"
@@ -19964,7 +19981,9 @@
       "when": "1638年",
       "overview": "该馆说明：哈尔斯的肖像常有大胆而参差的笔触，这幅显示他试验湿中湿技法，即不待下层干透就接续加上颜料层，发际线处混合的笔触暗示了一根根头发；画中人被暂定为阿尔切·迪尔克斯多赫特·帕特尔（1597—1678），即哈勒姆酿酒商兼市长扬·德·瓦埃尔（1594—1663）的妻子；题款称她画时41岁。",
       "related": [
-        "baroque"
+        "baroque",
+        "hals-tieleman-roosterman",
+        "dutch-architecture"
       ],
       "sources": [
         "cma-1948-137"
@@ -23057,7 +23076,8 @@
       "related": [
         "baroque",
         "rembrandt",
-        "vermeer"
+        "vermeer",
+        "hals-woman-aeltje-pater"
       ],
       "sources": [
         "enc-dutch-architecture",

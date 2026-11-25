@@ -1,14 +1,17 @@
 {
- "id": "paleolithic-sculpture",
- "level": "L2",
- "sections": {
-  "时代背景": "旧石器雕塑属于旧石器时代的小型雕像传统。它与洞穴壁画同处旧石器时代，均归入史前艺术的范畴。",
-  "风格特征": "旧石器雕塑多为动物或女性形象，尺度小、造型概括。概括性与小尺度共同构成其形式上的显著特点。",
-  "代表人物与作品": "概述举出猛犸象牙雕刻与所谓《维纳斯》小像作为代表。相关条目为史前艺术，可作为分类背景的参照。",
-  "技法或形式分析": "代表作品以猛犸象牙为材料进行雕刻，显示对硬质材料的加工。造型概括、体量较小，是其形式分析的两个要点。",
-  "与前后风格的关系和争论": "旧石器雕塑归入史前艺术范畴，与洞穴壁画并列为该时期的遗存类型。记载较一致，学界主要讨论旧石器雕塑的分期与边界问题。",
-  "一图": "示意图展示小型雕像的概括造型及猛犸象牙材质的对应关系。",
-  "待核实": "来源给出约公元前4万—前1万年的年代区间，待补充第二来源逐字支撑后再写入正文。具体出土地、作品年份与收藏地未在输入中提及；所谓《维纳斯》小像的具体指称亦待核实。"
- },
- "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='旧石器雕塑 示意图'><title>旧石器雕塑</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>旧石器雕塑</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>小型雕像</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>猛犸象牙</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>雕刻</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>维纳斯小像</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>女性形象</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>旧石器雕塑多为动物或女性形象</text></g></svg>"
+  "id": "paleolithic-sculpture",
+  "level": "L2",
+  "sections": {
+    "时代背景": "旧石器雕塑属于旧石器时代的小型雕像传统。它与洞穴壁画同处旧石器时代，均归入史前艺术的范畴。",
+    "风格特征": "旧石器雕塑多为动物或女性形象，尺度小、造型概括。概括性与小尺度共同构成其形式上的显著特点。",
+    "代表人物与作品": "概述举出猛犸象牙雕刻与所谓《维纳斯》小像作为代表。相关条目为史前艺术，可作为分类背景的参照。",
+    "技法或形式分析": "代表作品以猛犸象牙为材料进行雕刻，显示对硬质材料的加工。造型概括、体量较小，是其形式分析的两个要点。",
+    "与前后风格的关系和争论": "旧石器雕塑归入史前艺术范畴，与洞穴壁画并列为该时期的遗存类型。记载较一致，学界主要讨论旧石器雕塑的分期与边界问题。",
+    "一图": "示意图展示小型雕像的概括造型及猛犸象牙材质的对应关系。",
+    "待核实": "来源给出约公元前4万—前1万年的年代区间，待补充第二来源逐字支撑后再写入正文。具体出土地、作品年份与收藏地未在输入中提及；所谓《维纳斯》小像的具体指称亦待核实。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='旧石器雕塑 示意图'><title>旧石器雕塑</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>旧石器雕塑</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>小型雕像</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>猛犸象牙</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>雕刻</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>维纳斯小像</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>女性形象</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>旧石器雕塑多为动物或女性形象</text></g></svg>",
+  "related": [
+    "cave-art"
+  ]
 }
