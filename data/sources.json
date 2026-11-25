@@ -14669,6 +14669,66 @@
       "type": "权威结构化数据",
       "verified": true,
       "verified_note": "2026-11-25 由同一接口 pageprops.wikibase_item 取得 QID，与页面对应"
+    },
+    {
+      "id": "enc-huang-gongwang",
+      "title": "Huang Gongwang",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Huang_Gongwang",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-huang-gongwang",
+      "title": "Wikidata: Huang Gongwang (Q702525)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q702525",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由摘要接口返回的 wikibase_item 取得 QID"
+    },
+    {
+      "id": "enc-qiu-ying",
+      "title": "Qiu Ying",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Qiu_Ying",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-qiu-ying",
+      "title": "Wikidata: Qiu Ying (Q769372)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q769372",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由摘要接口返回的 wikibase_item 取得 QID"
+    },
+    {
+      "id": "cma-1992-1",
+      "title": "Cleveland Museum of Art — Huang Gongwang, Summer Mountains (after Dong Yuan), acc. 1992.1",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1992.1",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-25 克利夫兰艺术博物馆开放数据 API HTTP 200；立轴 绢本水墨淡设色 画心131.7×55.6cm；说明含《写山水诀》用墨之法与董源"
+    },
+    {
+      "id": "cma-1997-94",
+      "title": "Cleveland Museum of Art — Wang Meng, Writing Books under the Pine Trees, acc. 1997.94",
+      "author": "Cleveland Museum of Art（开放数据 API）",
+      "year": "2026",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/1997.94",
+      "type": "权威机构藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-25 克利夫兰艺术博物馆开放数据 API HTTP 200；册页 纸本水墨设色 画心39.8×56.9cm；说明含赵孟頫外孙、黄鹤山樵、明初入狱"
     }
   ]
 }

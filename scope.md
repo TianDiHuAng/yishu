@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 860 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 865 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -370,6 +370,11 @@
 | wang-meng | 王蒙（Wang Meng） | 人物 | 元末明初 | 中国 | 绘画 | 重要 | O6 |
 | four-wangs | 四王（Four Wangs） | 风格 | 清代 | 中国 | 绘画 | 核心 | O1、O6 |
 | literati-painting | 文人画（Literati painting） | 风格 | 宋代起 | 中国 | 绘画 | 核心 | O1、O6 |
+| huang-gongwang | 黄公望（Huang Gongwang） | 人物 | 元代 | 中国 | 绘画 | 核心 | O6 |
+| qiu-ying | 仇英（Qiu Ying） | 人物 | 明代 | 中国 | 绘画 | 核心 | O6 |
+| cma-huang-summer-mountains | 黄公望《夏山图》（仿董源） | 作品 | 元代 | 中国 | 绘画 | 重要 | O6 |
+| cma-qiu-ying-tea | 仇英《赵孟頫写经换茶图》 | 作品 | 明代 | 中国 | 绘画 | 重要 | O6 |
+| cma-wang-meng-pine | 王蒙《松下著书图》 | 作品 | 元末明初 | 中国 | 绘画 | 重要 | O6 |
 
 ## art-china-calligraphy（中国书法史）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

@@ -1,0 +1,21 @@
+{
+  "id": "qiu-ying",
+  "level": "L2",
+  "sections": {
+    "时代背景": "明代，生卒1494—1552来自摘要描述栏；克利夫兰馆方称其为苏州职业画家。",
+    "风格特征": "摘要称其擅工笔。",
+    "代表人物与作品": "《赵孟頫写经换茶图》（克利夫兰藏，1542—43）、《独乐园图》（库内另条）。",
+    "技法或形式分析": "摘要只说擅工笔；具体笔法来源没有给出，本条目不补写。",
+    "与前后风格的关系和争论": "馆方称其为“职业画家”，为赞助人作画；与吴门画派的关系两份来源均未谈，库内互链为本项目所加。克利夫兰另藏一卷《宫女图》标为清代（1644—1911），归属存疑，本条目不收。",
+    "一图": "示意图以仇英为中心，标示苏州、写经换茶图、独乐园图。",
+    "待核实": "（1）人物事实来自 Wikipedia 摘要与同源 Wikidata，另有克利夫兰馆方说明一个独立来源，整条仍标待核实。（2）来源未给出的作品与年代一律未补写。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='qiu-ying 示意图'><title>qiu-ying</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>苏州</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>职业画家</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>仇英</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>明代工笔</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>写经换茶图</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>1542—43</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>独乐园图</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>库内另条</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据所引来源</text></g></svg>",
+  "sources": [
+    "enc-qiu-ying",
+    "wd-qiu-ying",
+    "cma-1963-102"
+  ],
+  "needs_verification": true,
+  "pending_notes": "百科同源＋一馆藏来源"
+}

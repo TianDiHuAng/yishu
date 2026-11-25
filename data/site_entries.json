@@ -2958,7 +2958,10 @@
         "zhao-mengfu-river-village",
         "ni-zan",
         "zhao-mengfu",
-        "wang-meng"
+        "wang-meng",
+        "huang-gongwang",
+        "cma-huang-summer-mountains",
+        "cma-wang-meng-pine"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -2999,7 +3002,9 @@
         "wen-zhengming",
         "tang-yin",
         "wu-school",
-        "shen-zhou"
+        "shen-zhou",
+        "qiu-ying",
+        "cma-qiu-ying-tea"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -3113,7 +3118,8 @@
       "overview": "注重形似与技法规范，常用于人物、花鸟题材，与写意形成对照。",
       "related": [
         "xieyi",
-        "china-painting-history"
+        "china-painting-history",
+        "qiu-ying"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -11078,7 +11084,8 @@
       "related": [
         "chen-hongshou-album",
         "du-jin-lin-bu",
-        "wen-zhengming"
+        "wen-zhengming",
+        "qiu-ying"
       ],
       "sources": [
         "cma-1978-67"
@@ -27711,7 +27718,8 @@
         "yuan-painting",
         "zhao-mengfu",
         "shan-shui",
-        "wang-meng"
+        "wang-meng",
+        "huang-gongwang"
       ],
       "sources": [
         "enc-ni-zan",
@@ -27865,7 +27873,9 @@
         "yuan-painting",
         "ni-zan",
         "liu-gongquan",
-        "wang-meng"
+        "wang-meng",
+        "cma-qiu-ying-tea",
+        "cma-wang-meng-pine"
       ],
       "sources": [
         "enc-zhao-mengfu",
@@ -28015,7 +28025,8 @@
         "xia-gui",
         "ink-wash-painting",
         "sesshu",
-        "fan-kuan"
+        "fan-kuan",
+        "huang-gongwang"
       ],
       "sources": [
         "enc-shan-shui",
@@ -30841,7 +30852,8 @@
         "shen-zhou",
         "wen-zhengming",
         "tang-yin",
-        "ming-painting"
+        "ming-painting",
+        "qiu-ying"
       ],
       "sources": [
         "enc-wu-school",
@@ -31505,7 +31517,9 @@
       "related": [
         "yuan-painting",
         "ni-zan",
-        "zhao-mengfu"
+        "zhao-mengfu",
+        "huang-gongwang",
+        "cma-wang-meng-pine"
       ],
       "sources": [
         "enc-wang-meng",
@@ -31738,6 +31752,183 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='jiangnan-sizhu 示意图'><title>jiangnan-sizhu</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>丝</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>二胡·琵琶</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>江南丝竹</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>上海为中心</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>竹</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>笛·箫</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>八大名曲</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>代表曲目</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据中文维基导言</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "huang-gongwang",
+      "title": "黄公望（Huang Gongwang）",
+      "kind": "人物",
+      "unit": "art-china-painting",
+      "era": "元代",
+      "region": "中国",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "宋末生于江苏常熟的画家、诗人与文人（1269—1354），“元四家”中最年长者。",
+      "when": "1269—1354",
+      "overview": "黄公望，本名陆坚，宋末生于江苏常熟，画家、诗人与作家，是“元四家”中最年长者。克利夫兰艺术博物馆藏其《夏山图（仿董源）》，馆方说明引其论画文字《写山水诀》：作画最难在用墨，先用淡墨逐步加深，再用干而浓的墨与较深的墨染，以分田路、远近；并称他可能借董源的眼光观察自然、学得此法，其风格与董源相通。",
+      "related": [
+        "yuan-painting",
+        "wang-meng",
+        "ni-zan",
+        "cma-huang-summer-mountains",
+        "shan-shui"
+      ],
+      "sources": [
+        "enc-huang-gongwang",
+        "wd-huang-gongwang",
+        "cma-1992-1"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "宋末生于常熟，属元代（1206—1368）。生卒1269—1354来自摘要描述栏。",
+        "风格特征": "克利夫兰馆方说明称其笔线柔圆，常以深线叠于浅线之上。",
+        "代表人物与作品": "元四家中最年长者；代表藏品见《夏山图（仿董源）》条目。《富春山居图》等名作两份来源均未提及，本条目不补写。",
+        "技法或形式分析": "据馆方说明转引《写山水诀》：先淡墨后浓墨，干笔浓墨与深墨染相配，以分田路与远近。",
+        "与前后风格的关系和争论": "馆方说明称其风格与五代董源相通，“可能”由董源学得用墨之法——这是推测语气。元四家其余三人摘要未点名。",
+        "一图": "示意图以黄公望为中心，标示董源、写山水诀、夏山图。",
+        "待核实": "（1）人物事实来自 Wikipedia 摘要与同源 Wikidata，另有克利夫兰馆方说明一个独立来源，整条仍标待核实。（2）来源未给出的作品与年代一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='huang-gongwang 示意图'><title>huang-gongwang</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>董源</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>风格相通</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>黄公望</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>元四家最年长</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>写山水诀</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>论用墨</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>夏山图</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>克利夫兰藏</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据所引来源</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "百科同源＋一馆藏来源"
+    },
+    {
+      "id": "qiu-ying",
+      "title": "仇英（Qiu Ying）",
+      "kind": "人物",
+      "unit": "art-china-painting",
+      "era": "明代",
+      "region": "中国",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "明代画家（1494—1552），擅工笔。",
+      "when": "1494—1552",
+      "overview": "仇英是明代画家，擅工笔技法。克利夫兰艺术博物馆称他是苏州的职业画家，藏有其1542—43年为赞助人所作手卷《赵孟頫写经换茶图》。库内另有其《独乐园图》条目。",
+      "related": [
+        "gongbi",
+        "ming-painting",
+        "qiu-ying-garden",
+        "cma-qiu-ying-tea",
+        "wu-school"
+      ],
+      "sources": [
+        "enc-qiu-ying",
+        "wd-qiu-ying",
+        "cma-1963-102"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "明代，生卒1494—1552来自摘要描述栏；克利夫兰馆方称其为苏州职业画家。",
+        "风格特征": "摘要称其擅工笔。",
+        "代表人物与作品": "《赵孟頫写经换茶图》（克利夫兰藏，1542—43）、《独乐园图》（库内另条）。",
+        "技法或形式分析": "摘要只说擅工笔；具体笔法来源没有给出，本条目不补写。",
+        "与前后风格的关系和争论": "馆方称其为“职业画家”，为赞助人作画；与吴门画派的关系两份来源均未谈，库内互链为本项目所加。克利夫兰另藏一卷《宫女图》标为清代（1644—1911），归属存疑，本条目不收。",
+        "一图": "示意图以仇英为中心，标示苏州、写经换茶图、独乐园图。",
+        "待核实": "（1）人物事实来自 Wikipedia 摘要与同源 Wikidata，另有克利夫兰馆方说明一个独立来源，整条仍标待核实。（2）来源未给出的作品与年代一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='qiu-ying 示意图'><title>qiu-ying</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>苏州</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>职业画家</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>仇英</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>明代工笔</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>写经换茶图</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>1542—43</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>独乐园图</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>库内另条</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据所引来源</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "百科同源＋一馆藏来源"
+    },
+    {
+      "id": "cma-huang-summer-mountains",
+      "title": "黄公望《夏山图》（仿董源）",
+      "kind": "作品",
+      "unit": "art-china-painting",
+      "era": "元代",
+      "region": "中国",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "黄公望立轴，绢本水墨淡设色，克利夫兰艺术博物馆藏（1992.1）。",
+      "when": "1290—1354（馆方年代）",
+      "overview": "此立轴为黄公望仿董源笔意的巨幅山水，画心131.7×55.6厘米。馆方说明称其以柔圆笔线绘成，深线常叠于浅线之上，这与《写山水诀》中先淡后浓、以分远近的用墨之法相合。",
+      "related": [
+        "huang-gongwang",
+        "yuan-painting"
+      ],
+      "sources": [
+        "cma-1992-1"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "馆方年代1290—1354，即黄公望在世期间，未定具体年份。",
+        "风格特征": "巨幅山水，柔圆笔线，深线叠于浅线。",
+        "代表人物与作品": "黄公望；题称仿五代董源（活动于约937—975）。",
+        "技法或形式分析": "绢本水墨淡设色；先淡墨后浓墨的层叠用墨。画心131.7×55.6厘米，全幅257.4×71.2厘米。",
+        "与前后风格的关系和争论": "馆方以《写山水诀》解释此画用墨，并推测黄公望由董源学得此法。",
+        "一图": "示意图以夏山图为中心，标示董源、写山水诀、131.7×55.6cm。",
+        "待核实": "（1）本条目只有克利夫兰艺术博物馆藏品记录一个来源，整条标记待核实。（2）来源未给出的作品与年代一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cma-huang-summer-mountai 示意图'><title>cma-huang-summer-mountai</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>董源</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>所仿</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>夏山图</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>立轴·绢本</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>写山水诀</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>用墨之法</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>131.7×55.6cm</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>画心</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据所引来源</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构来源"
+    },
+    {
+      "id": "cma-qiu-ying-tea",
+      "title": "仇英《赵孟頫写经换茶图》",
+      "kind": "作品",
+      "unit": "art-china-painting",
+      "era": "明代",
+      "region": "中国",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "仇英手卷，纸本水墨淡设色，克利夫兰艺术博物馆藏（1963.102）。",
+      "when": "1542—1543年",
+      "overview": "馆方说明称，相传元代书法家赵孟頫（1254—1322）曾为一位李姓僧人抄写《心经》以换茶；明代苏州职业画家仇英为其赞助人画了这一场景。画中赵孟頫执笔，面前铺纸，案上有砚、墨锭和小水滴；水滴入砚，研墨锭即成墨汁。",
+      "related": [
+        "qiu-ying",
+        "zhao-mengfu",
+        "ming-painting"
+      ],
+      "sources": [
+        "cma-1963-102"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "1542—1543年，明代。",
+        "风格特征": "以文人故事为题，细写文房器具。",
+        "代表人物与作品": "仇英；画中人物赵孟頫。",
+        "技法或形式分析": "手卷，纸本水墨淡设色；画心20.6×78.3厘米，全卷21.1×553.6厘米。",
+        "与前后风格的关系和争论": "写经换茶是“相传”之事，馆方未作考证。",
+        "一图": "示意图以写经换茶图为中心，标示赵孟頫、文房、赞助人。",
+        "待核实": "（1）本条目只有克利夫兰艺术博物馆藏品记录一个来源，整条标记待核实。（2）来源未给出的作品与年代一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cma-qiu-ying-tea 示意图'><title>cma-qiu-ying-tea</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>赵孟頫</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>画中人物</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>写经换茶图</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>手卷1542—43</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>文房</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>砚·墨·水滴</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>赞助人</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>受画者</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据所引来源</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构来源"
+    },
+    {
+      "id": "cma-wang-meng-pine",
+      "title": "王蒙《松下著书图》",
+      "kind": "作品",
+      "unit": "art-china-painting",
+      "era": "元末明初",
+      "region": "中国",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "王蒙册页，纸本水墨设色，克利夫兰艺术博物馆藏（1997.94）。",
+      "when": "约1308—1385（馆方以画家生卒为年代）",
+      "overview": "馆方说明称王蒙出身吴兴（今湖州）名门，是赵孟頫的外孙；除在元、明两朝断续任职外，一生多半隐退，此画即表达这一点。1360年代红巾军反元、蒙古人失去对江南的控制时，他退入杭州以北山中，自号黄鹤山樵；明初受清洗牵连死于狱中。",
+      "related": [
+        "wang-meng",
+        "zhao-mengfu",
+        "yuan-painting"
+      ],
+      "sources": [
+        "cma-1997-94"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "馆方年代为画家生卒（约1308—1385），未定作画年份。",
+        "风格特征": "以松下著书表达隐退之志。",
+        "代表人物与作品": "王蒙；馆方称其为赵孟頫外孙。",
+        "技法或形式分析": "册页，纸本水墨设色；画心39.8×56.9厘米。",
+        "与前后风格的关系和争论": "馆方所述生平与王蒙条目所据中文维基一致（黄鹤山樵、明初入狱），赵孟頫外孙一点为本条新增来源所给。",
+        "一图": "示意图以松下著书图为中心，标示赵孟頫、黄鹤山樵、隐退。",
+        "待核实": "（1）本条目只有克利夫兰艺术博物馆藏品记录一个来源，整条标记待核实。（2）来源未给出的作品与年代一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cma-wang-meng-pine 示意图'><title>cma-wang-meng-pine</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>赵孟頫</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>外祖父</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>松下著书图</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>册页</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>黄鹤山樵</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>自号</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>隐退</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>主题</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据所引来源</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构来源"
     }
   ]
 }

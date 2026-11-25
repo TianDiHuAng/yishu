@@ -1,0 +1,21 @@
+{
+  "id": "huang-gongwang",
+  "level": "L2",
+  "sections": {
+    "时代背景": "宋末生于常熟，属元代（1206—1368）。生卒1269—1354来自摘要描述栏。",
+    "风格特征": "克利夫兰馆方说明称其笔线柔圆，常以深线叠于浅线之上。",
+    "代表人物与作品": "元四家中最年长者；代表藏品见《夏山图（仿董源）》条目。《富春山居图》等名作两份来源均未提及，本条目不补写。",
+    "技法或形式分析": "据馆方说明转引《写山水诀》：先淡墨后浓墨，干笔浓墨与深墨染相配，以分田路与远近。",
+    "与前后风格的关系和争论": "馆方说明称其风格与五代董源相通，“可能”由董源学得用墨之法——这是推测语气。元四家其余三人摘要未点名。",
+    "一图": "示意图以黄公望为中心，标示董源、写山水诀、夏山图。",
+    "待核实": "（1）人物事实来自 Wikipedia 摘要与同源 Wikidata，另有克利夫兰馆方说明一个独立来源，整条仍标待核实。（2）来源未给出的作品与年代一律未补写。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='huang-gongwang 示意图'><title>huang-gongwang</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>董源</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>风格相通</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>黄公望</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>元四家最年长</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>写山水诀</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>论用墨</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>夏山图</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>克利夫兰藏</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据所引来源</text></g></svg>",
+  "sources": [
+    "enc-huang-gongwang",
+    "wd-huang-gongwang",
+    "cma-1992-1"
+  ],
+  "needs_verification": true,
+  "pending_notes": "百科同源＋一馆藏来源"
+}

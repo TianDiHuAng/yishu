@@ -64,3 +64,4 @@
 - 实测：en.wikipedia.org REST summary=200、zh.wikipedia.org REST summary=200、imslp.org api.php=200（返回 JSON）；metmuseum.org 搜索接口=410 Gone（已下线，仍不可用）。
 - 影响：B-music-src 的解除条件（出现可达且权威的音乐史来源）已满足，音乐文本单元与 A 类建筑补盲可重开；新增条目仍须每条≥2个已核验来源，且按“只转述来源、不补写”原则。
 - 注意：此前多次出现“短暂可达后又超时”，每轮开工前仍需探针，并在条目里写明取回日期。
+- 2026-11-25 大都会博物馆开放数据 API（collectionapi.metmuseum.org）search 返回 HTTP 410 Gone，暂无法用于补中国书画家（D230）。

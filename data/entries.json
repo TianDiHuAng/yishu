@@ -1627,7 +1627,10 @@
         "zhao-mengfu-river-village",
         "ni-zan",
         "zhao-mengfu",
-        "wang-meng"
+        "wang-meng",
+        "huang-gongwang",
+        "cma-huang-summer-mountains",
+        "cma-wang-meng-pine"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -1656,7 +1659,9 @@
         "wen-zhengming",
         "tang-yin",
         "wu-school",
-        "shen-zhou"
+        "shen-zhou",
+        "qiu-ying",
+        "cma-qiu-ying-tea"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -1732,7 +1737,8 @@
       "overview": "注重形似与技法规范，常用于人物、花鸟题材，与写意形成对照。",
       "related": [
         "xieyi",
-        "china-painting-history"
+        "china-painting-history",
+        "qiu-ying"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -6674,7 +6680,8 @@
       "related": [
         "chen-hongshou-album",
         "du-jin-lin-bu",
-        "wen-zhengming"
+        "wen-zhengming",
+        "qiu-ying"
       ],
       "sources": [
         "cma-1978-67"
@@ -16888,7 +16895,8 @@
         "yuan-painting",
         "zhao-mengfu",
         "shan-shui",
-        "wang-meng"
+        "wang-meng",
+        "huang-gongwang"
       ],
       "sources": [
         "enc-ni-zan",
@@ -16986,7 +16994,9 @@
         "yuan-painting",
         "ni-zan",
         "liu-gongquan",
-        "wang-meng"
+        "wang-meng",
+        "cma-qiu-ying-tea",
+        "cma-wang-meng-pine"
       ],
       "sources": [
         "enc-zhao-mengfu",
@@ -17080,7 +17090,8 @@
         "xia-gui",
         "ink-wash-painting",
         "sesshu",
-        "fan-kuan"
+        "fan-kuan",
+        "huang-gongwang"
       ],
       "sources": [
         "enc-shan-shui",
@@ -18779,7 +18790,8 @@
         "shen-zhou",
         "wen-zhengming",
         "tang-yin",
-        "ming-painting"
+        "ming-painting",
+        "qiu-ying"
       ],
       "sources": [
         "enc-wu-school",
@@ -19196,7 +19208,9 @@
       "related": [
         "yuan-painting",
         "ni-zan",
-        "zhao-mengfu"
+        "zhao-mengfu",
+        "huang-gongwang",
+        "cma-wang-meng-pine"
       ],
       "sources": [
         "enc-wang-meng",
@@ -19337,6 +19351,118 @@
       "sources": [
         "enc-jiangnan-sizhu",
         "wd-jiangnan-sizhu"
+      ]
+    },
+    {
+      "id": "huang-gongwang",
+      "title": "黄公望（Huang Gongwang）",
+      "kind": "人物",
+      "unit": "art-china-painting",
+      "era": "元代",
+      "region": "中国",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "宋末生于江苏常熟的画家、诗人与文人（1269—1354），“元四家”中最年长者。",
+      "when": "1269—1354",
+      "overview": "黄公望，本名陆坚，宋末生于江苏常熟，画家、诗人与作家，是“元四家”中最年长者。克利夫兰艺术博物馆藏其《夏山图（仿董源）》，馆方说明引其论画文字《写山水诀》：作画最难在用墨，先用淡墨逐步加深，再用干而浓的墨与较深的墨染，以分田路、远近；并称他可能借董源的眼光观察自然、学得此法，其风格与董源相通。",
+      "related": [
+        "yuan-painting",
+        "wang-meng",
+        "ni-zan",
+        "cma-huang-summer-mountains",
+        "shan-shui"
+      ],
+      "sources": [
+        "enc-huang-gongwang",
+        "wd-huang-gongwang",
+        "cma-1992-1"
+      ]
+    },
+    {
+      "id": "qiu-ying",
+      "title": "仇英（Qiu Ying）",
+      "kind": "人物",
+      "unit": "art-china-painting",
+      "era": "明代",
+      "region": "中国",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "明代画家（1494—1552），擅工笔。",
+      "when": "1494—1552",
+      "overview": "仇英是明代画家，擅工笔技法。克利夫兰艺术博物馆称他是苏州的职业画家，藏有其1542—43年为赞助人所作手卷《赵孟頫写经换茶图》。库内另有其《独乐园图》条目。",
+      "related": [
+        "gongbi",
+        "ming-painting",
+        "qiu-ying-garden",
+        "cma-qiu-ying-tea",
+        "wu-school"
+      ],
+      "sources": [
+        "enc-qiu-ying",
+        "wd-qiu-ying",
+        "cma-1963-102"
+      ]
+    },
+    {
+      "id": "cma-huang-summer-mountains",
+      "title": "黄公望《夏山图》（仿董源）",
+      "kind": "作品",
+      "unit": "art-china-painting",
+      "era": "元代",
+      "region": "中国",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "黄公望立轴，绢本水墨淡设色，克利夫兰艺术博物馆藏（1992.1）。",
+      "when": "1290—1354（馆方年代）",
+      "overview": "此立轴为黄公望仿董源笔意的巨幅山水，画心131.7×55.6厘米。馆方说明称其以柔圆笔线绘成，深线常叠于浅线之上，这与《写山水诀》中先淡后浓、以分远近的用墨之法相合。",
+      "related": [
+        "huang-gongwang",
+        "yuan-painting"
+      ],
+      "sources": [
+        "cma-1992-1"
+      ]
+    },
+    {
+      "id": "cma-qiu-ying-tea",
+      "title": "仇英《赵孟頫写经换茶图》",
+      "kind": "作品",
+      "unit": "art-china-painting",
+      "era": "明代",
+      "region": "中国",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "仇英手卷，纸本水墨淡设色，克利夫兰艺术博物馆藏（1963.102）。",
+      "when": "1542—1543年",
+      "overview": "馆方说明称，相传元代书法家赵孟頫（1254—1322）曾为一位李姓僧人抄写《心经》以换茶；明代苏州职业画家仇英为其赞助人画了这一场景。画中赵孟頫执笔，面前铺纸，案上有砚、墨锭和小水滴；水滴入砚，研墨锭即成墨汁。",
+      "related": [
+        "qiu-ying",
+        "zhao-mengfu",
+        "ming-painting"
+      ],
+      "sources": [
+        "cma-1963-102"
+      ]
+    },
+    {
+      "id": "cma-wang-meng-pine",
+      "title": "王蒙《松下著书图》",
+      "kind": "作品",
+      "unit": "art-china-painting",
+      "era": "元末明初",
+      "region": "中国",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "王蒙册页，纸本水墨设色，克利夫兰艺术博物馆藏（1997.94）。",
+      "when": "约1308—1385（馆方以画家生卒为年代）",
+      "overview": "馆方说明称王蒙出身吴兴（今湖州）名门，是赵孟頫的外孙；除在元、明两朝断续任职外，一生多半隐退，此画即表达这一点。1360年代红巾军反元、蒙古人失去对江南的控制时，他退入杭州以北山中，自号黄鹤山樵；明初受清洗牵连死于狱中。",
+      "related": [
+        "wang-meng",
+        "zhao-mengfu",
+        "yuan-painting"
+      ],
+      "sources": [
+        "cma-1997-94"
       ]
     }
   ]
