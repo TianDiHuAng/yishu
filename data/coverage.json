@@ -9197,8 +9197,8 @@
     "verdi": {
       "title": "威尔第（Giuseppe Verdi）",
       "tier": "核心",
-      "level": "L2",
-      "status": "written_l2",
+      "level": "L3",
+      "status": "written_l3",
       "sources_count": 4,
       "verified_sources_count": 4,
       "needs_verification": false,
@@ -9233,8 +9233,8 @@
     "jan-van-eyck": {
       "title": "扬·凡·艾克（Jan van Eyck）",
       "tier": "核心",
-      "level": "L2",
-      "status": "written_l2",
+      "level": "L3",
+      "status": "written_l3",
       "sources_count": 3,
       "verified_sources_count": 3,
       "needs_verification": false,

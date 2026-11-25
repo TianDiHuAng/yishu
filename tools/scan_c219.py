@@ -29,7 +29,8 @@ for eid, sid in cands:
     title = urllib.parse.unquote(url.rsplit('/', 1)[-1]) if 'wikipedia' in url else ''
     if not title:
         continue
-    q = 'https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&format=json&titles=' + urllib.parse.quote(title)
+    host = urllib.parse.urlparse(url).netloc or 'en.wikipedia.org'
+    q = 'https://' + host + '/w/api.php?action=query&prop=extracts&explaintext=1&format=json&titles=' + urllib.parse.quote(title)
     try:
         req = urllib.request.Request(q, headers={'User-Agent': 'yishu/1.0'})
         d = json.load(urllib.request.urlopen(req, timeout=20))
@@ -37,7 +38,11 @@ for eid, sid in cands:
     except Exception as ex:
         print('ERR', eid, ex); continue
     json.dump({'id': eid, 'title': title, 'text': t}, open('tmp/l3/%s.json' % eid, 'w', encoding='utf-8'), ensure_ascii=False)
-    hits = [m.group(0).strip().replace('\n', ' ')[:300] for m in PAT.finditer(t)]
+    if host.startswith('zh'):
+        hits = [m.group(0).strip()[:300] for m in re.finditer(r'[^。]*(争议|争论|存疑|质疑|有学者认为|一说|另说|不同看法)[^。]*。', t)]
+    else:
+        hits = None
+    hits = hits if hits is not None else [m.group(0).strip().replace('\n', ' ')[:300] for m in PAT.finditer(t)]
     out[eid] = hits
     print(eid, len(t), len(hits), flush=True)
 json.dump(out, open('tmp/l3_scan_c219.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)

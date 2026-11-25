@@ -1,21 +1,61 @@
 {
-  "id": "jan-van-eyck",
-  "level": "L2",
-  "sections": {
-    "时代背景": "导言称，他约生于1380或1390年（存世记录如此），卒于1441年，出生地可能是今比利时的马赛克，其名由此而来。",
-    "风格特征": "摘要没有给出这方面内容，本条目不补写。",
-    "代表人物与作品": "导言称，约1422年他受雇于海牙，为荷兰与埃诺伯爵约翰三世作画师兼侍从；约翰死后（1425）被任命为勃艮第公爵“好人”菲利普的宫廷画家。作品导言前段未列。",
-    "技法或形式分析": "摘要没有给出这方面内容，本条目不补写。",
-    "与前后风格的关系和争论": "导言称，瓦萨里、贡布里希等人称他为“油画的发明者”，但这一说法如今被认为过于简化。这是导言明说的修正。",
-    "一图": "示意图以凡·艾克为中心，标示早期尼德兰绘画、勃艮第宫廷、“油画发明者”之说三项。",
-    "待核实": "（1）本条目事实仅来自 Wikipedia 导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）出生年有约1380与约1390两说，本条目 when 取约1390；（3）作品未给出。（GND 对照，2026-11-25）德国国家图书馆规范档（118531557）生卒 1390—1441，与本条目一致，已独立印证（只印证生卒与身份）。"
-  },
-  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='jan-van-eyck 示意图'><title>jan-van-eyck</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>早期尼德兰</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>早期革新者</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>凡·艾克</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>约1390—1441</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>勃艮第宫廷</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>宫廷画家</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>油画发明者</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>已被视为过简</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
-  "sources": [
-    "enc-jan-van-eyck",
-    "wd-jan-van-eyck",
-    "gnd-118531557"
+ "id": "jan-van-eyck",
+ "level": "L3",
+ "sections": {
+  "时代背景": "导言称，他约生于1380或1390年（存世记录如此），卒于1441年，出生地可能是今比利时的马赛克，其名由此而来。",
+  "风格特征": "摘要没有给出这方面内容，本条目不补写。",
+  "代表人物与作品": "导言称，约1422年他受雇于海牙，为荷兰与埃诺伯爵约翰三世作画师兼侍从；约翰死后（1425）被任命为勃艮第公爵“好人”菲利普的宫廷画家。作品导言前段未列。",
+  "技法或形式分析": "摘要没有给出这方面内容，本条目不补写。",
+  "与前后风格的关系和争论": "导言称，瓦萨里、贡布里希等人称他为“油画的发明者”，但这一说法如今被认为过于简化。这是导言明说的修正。",
+  "一图": "示意图以凡·艾克为中心，标示早期尼德兰绘画、勃艮第宫廷、“油画发明者”之说三项。",
+  "待核实": "（1）本条目事实仅来自 Wikipedia 导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）出生年有约1380与约1390两说，本条目 when 取约1390；（3）作品未给出。（GND 对照，2026-11-25）德国国家图书馆规范档（118531557）生卒 1390—1441，与本条目一致，已独立印证（只印证生卒与身份）。"
+ },
+ "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='jan-van-eyck 示意图'><title>jan-van-eyck</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>早期尼德兰</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>早期革新者</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>凡·艾克</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>约1390—1441</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>勃艮第宫廷</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>宫廷画家</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>油画发明者</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>已被视为过简</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+ "sources": [
+  "enc-jan-van-eyck",
+  "wd-jan-van-eyck",
+  "gnd-118531557"
+ ],
+ "needs_verification": true,
+ "pending_notes": "生卒已由 GND 规范档独立印证；生年两说；作品未给出。",
+ "l3": {
+  "controversies": [
+   {
+    "issue": "扬·凡·艾克的真迹有多少件？",
+    "views": [
+     {
+      "holder": "收藏这些作品的博物馆（所引来源页 enc-jan-van-eyck 引 Holland Cotter 1998年所述）",
+      "basis": "1980年代中期约40件作品被视为原作。"
+     },
+     {
+      "holder": "主要研究者（所引来源页 enc-jan-van-eyck 引 Holland Cotter 1998年所述）",
+      "basis": "其中约10件被有力地质疑为工坊之作；Cotter 估计可归属者只有约二十多幅，且把握程度不一，并指出艺术史家与收藏馆在定作者时关系复杂、存在张力。"
+     }
+    ]
+   }
   ],
-  "needs_verification": true,
-  "pending_notes": "生卒已由 GND 规范档独立印证；生年两说；作品未给出。"
+  "data": [
+   {
+    "label": "有把握归属的存世画作年代",
+    "value": "1432—1439年",
+    "note": "来源:enc-jan-van-eyck"
+   },
+   {
+    "label": "签名并题“ALS ICH KAN”的作品",
+    "value": "10件（含根特祭坛画）",
+    "note": "来源:enc-jan-van-eyck"
+   },
+   {
+    "label": "1980年代中期视为原作的作品",
+    "value": "约40件，其中约10件今被质疑",
+    "note": "来源:enc-jan-van-eyck"
+   },
+   {
+    "label": "常被认作《都灵—米兰时祷书》“G手”",
+    "value": "1901年起",
+    "note": "来源:enc-jan-van-eyck"
+   }
+  ],
+  "complex_diagram_note": "以柱状对照1980年代中期约40件、受质疑约10件与 Cotter 估计约二十多件，旁注“G手”归属与1432—1439年署年作品。"
+ }
 }
