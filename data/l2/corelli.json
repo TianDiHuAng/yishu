@@ -18,6 +18,6 @@
     "lc-n79059471",
     "gnd-11901176x"
   ],
-  "needs_verification": true,
-  "pending_notes": "生卒已由 GND 规范档独立印证；年代来自 Wikidata，已由美国国会图书馆名称权威标目独立印证（只印证名称与年代）；作品未给出。"
+  "needs_verification": false,
+  "pending_notes": "已核对：生卒已由 GND 规范档独立印证；年代来自 Wikidata，已由美国国会图书馆名称权威标目独立印证（只印证名称与年代）。内容缺口（未写，不是存疑）：作品未给出。"
 }

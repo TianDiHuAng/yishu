@@ -16,6 +16,6 @@
     "wd-titian",
     "gnd-118622994"
   ],
-  "needs_verification": true,
-  "pending_notes": "生年两说（约1488/1490），GND 作1490，相容；来源独立性有限（Wikipedia+Wikidata）；作品未给出。"
+  "needs_verification": false,
+  "pending_notes": "正文主体只据维基百科摘要或导言，其他机构记录只印证上列事项。已核对：生年两说（约1488/1490），GND 作1490，相容。内容缺口（未写，不是存疑）：作品未给出。"
 }

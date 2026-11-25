@@ -16,6 +16,6 @@
     "wd-zhao-mengfu",
     "gnd-13588960x"
   ],
-  "needs_verification": true,
-  "pending_notes": "生卒已由 GND 规范档独立印证；来源独立性有限（Wikipedia+Wikidata）；书风画风未给出。"
+  "needs_verification": false,
+  "pending_notes": "正文主体只据维基百科摘要或导言，其他机构记录只印证上列事项。已核对：生卒已由 GND 规范档独立印证。内容缺口（未写，不是存疑）：书风画风未给出。"
 }

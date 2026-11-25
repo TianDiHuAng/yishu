@@ -16,8 +16,8 @@
     "wd-mughal-painting",
     "cma-2013-298"
   ],
-  "needs_verification": true,
-  "pending_notes": "主体来自 Wikipedia 摘要；另有克利夫兰艺术博物馆藏一件作品的记录，只印证该作品与本条目的关联，不印证本条目对这一绘画风格的概括；画家与作品未给出。",
+  "needs_verification": false,
+  "pending_notes": "正文主体只据维基百科摘要或导言，其他机构记录只印证上列事项。已核对：另有克利夫兰艺术博物馆藏一件作品的记录，只印证该作品与本条目的关联，不印证本条目对这一绘画风格的概括。内容缺口（未写，不是存疑）：画家与作品未给出。",
   "related": [
     "mughal-royal-ram"
   ]
