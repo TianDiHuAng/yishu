@@ -1130,7 +1130,7 @@
         "ulan-500115312",
         "gnd-118519034"
       ],
-      "level": "L2",
+      "level": "L3",
       "sections": {
         "时代背景": "卡拉瓦乔是16—17世纪意大利画家，生卒年为1571—1610年。他属于巴洛克绘画传统，相关条目亦指向巴洛克。其活动背景与意大利的巴洛克艺术发展相重合。",
         "风格特征": "卡拉瓦乔以强烈的明暗对照与现实主义人物著称。他善用暗背景与聚光式照明来营造戏剧性。这种处理使画面人物获得突出的视觉焦点。",
@@ -1141,7 +1141,55 @@
         "待核实": "本条目事实依据为 Caravaggio 与 Baroque 两条权威百科条目。作品的具体创作年份与收藏地未在现有字段中给出，待补充第二来源核实；与相关人物伦勃朗的具体承继关系亦待补充第二来源。 【已复核·Wikidata】生卒：第二来源 wd-caravaggio（https://www.wikidata.org/wiki/Q42207），据其结构化数据：生年 1571，卒年 1610。（ULAN 对照，2026-11-24）ULAN 简介：Italian painter, 1571-1610。生卒年1571—1610与本条目 when 一致；职业为画家，与本条目相容。ULAN 另有同名候选（Caravaggio, Cecco del；Caravaggio, Gianni），年代或职业不符，未采用。（GND 对照，2026-11-25）德国国家图书馆规范档（118519034）生卒 1571—1610，与本条目一致，已独立印证（只印证生卒与身份）。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='卡拉瓦乔 示意图'><title>卡拉瓦乔</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>卡拉瓦乔</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>明暗对照</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>圣马太蒙召</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>聚光式照明</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>巴洛克</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>伦勃朗</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>卡拉瓦乔以明暗对照与聚光式照明营造戏剧性</text></g></svg>",
-      "pending_notes": "生卒已由 GND 规范档独立印证；"
+      "pending_notes": "生卒已由 GND 规范档独立印证；",
+      "l3": {
+        "controversies": [
+          {
+            "issue": "卡拉瓦乔1610年死于何因？",
+            "views": [
+              {
+                "holder": "病亡说（所引来源页 enc-caravaggio 所述：传统史家主梅毒，另有学者主疟疾或布鲁氏菌病；2010年遗骸检测初步提出铅中毒）",
+                "basis": "其死时发烧；2010年考古团队用DNA与碳测年认定遗骸，初步检测显示可能铅中毒（当时颜料含大量铅盐）。"
+              },
+              {
+                "holder": "遇害说（所引来源页 enc-caravaggio 所述：当时传言及部分学者）",
+                "basis": "当时传言称托马索尼家族或马耳他骑士团为复仇杀害了他；部分学者认为是他逃离马耳他后一直追杀他的“仇人”（可能是维尼亚库尔或骑士团派系）所为。"
+              }
+            ]
+          },
+          {
+            "issue": "卡拉瓦乔作品中的同性情欲意涵能否用来理解其人？",
+            "views": [
+              {
+                "holder": "Howard Hibbard 等（1970年代起，所引来源页 enc-caravaggio 所述）",
+                "basis": "其一生未画一幅女性裸体，德尔蒙特时期的小幅画满是“丰唇、慵懒的少年”，暗示对男性形体的情欲兴趣；《胜利的爱神》模特切科曾与他同住。"
+              },
+              {
+                "holder": "持保留者（所引来源页 enc-caravaggio 所述，含 Andrew Graham-Dixon 的概括）",
+                "basis": "Graham-Dixon 指出此前一些传记把他假定的同性恋当作解释一切的“唯一钥匙”；另有1605年证词提到“米开朗琪罗的女人”莉娜，及他与菲利德·梅兰德罗尼的传闻。"
+              }
+            ]
+          }
+        ],
+        "data": [
+          {
+            "label": "卒年与地点",
+            "value": "1610年，埃尔科莱港（Porto Ercole）",
+            "note": "来源:enc-caravaggio"
+          },
+          {
+            "label": "遗骸迁至圣伊拉斯谟墓地",
+            "value": "1956年",
+            "note": "来源:enc-caravaggio"
+          },
+          {
+            "label": "遗骸鉴定调查",
+            "value": "2010年，历时一年",
+            "note": "来源:enc-caravaggio"
+          }
+        ],
+        "complex_diagram_note": "以分支图并列死因诸说（梅毒、疟疾/布鲁氏菌病、铅中毒、遇害）及各自依据，旁注2010年遗骸鉴定的时间节点。"
+      }
     },
     {
       "id": "rembrandt",
@@ -3376,7 +3424,7 @@
         "enc-ambrosian-chant",
         "wd-anchor-gregorian-chant"
       ],
-      "level": "L2",
+      "level": "L3",
       "sections": {
         "时代背景": "格里高利圣咏是罗马天主教会的礼仪歌唱传统，其系统整理与教皇格里高利一世的名号相关联。中世纪教会通过统一的礼仪与歌唱强化宗教秩序，圣咏成为礼拜音乐的核心，并由教会学校与修道院传承。",
         "风格特征": "圣咏为单声部、无伴奏的拉丁文歌唱，节奏自由，旋律线条随歌词的音节与重音展开。它使用教会调式，音域适中，风格庄重克制，强调文本的清晰与宗教情感的表达，与后来的功能和声音乐在组织原则上有根本差异。",
@@ -3386,7 +3434,42 @@
         "一图": "下图以圣咏为起点，示意其作为单声部传统向复调提供基础的关系。",
         "待核实": "状态说明：本页先列出写作时的原待核项（保留原文以留存修订痕迹），其后【已复核】各条为后续复核找到的第二来源与结论；两者并存不表示矛盾，以【已复核】为准。 （1）圣咏系统整理的年代与格里高利一世的具体作用待核实；（2）具体曲目、抄本与版本信息未在输入事实中给出，待补充第二来源；（3）各地礼仪传统差异的细节待核实。 【已复核】圣咏系统整理的年代与格里高利一世的具体作用待核实：第二来源 enc-pope-gregory-i（https://en.wikipedia.org/wiki/Pope_Gregory_I），据该来源：格里高利圣咏的整理传统与教皇格里高利一世（590—604年在位）相关：他因修订罗马礼拜仪式而著称，西方主流素歌遂以其名命名为“格里高利圣咏”。 【已复核】具体曲目、抄本与版本信息未在输入事实中给出，待补第二来源：第二来源 enc-pope-gregory-i（https://en.wikipedia.org/wiki/Pope_Gregory_I），据该来源：可举出具体抄本实例：圣加尔修道院的《哈特克对唱经书》（Antiphonary of Hartker）是保存格里高利圣咏的重要早期手稿。 【已复核】各地礼仪传统差异的细节待核实：第二来源 enc-ambrosian-chant（https://en.wikipedia.org/wiki/Ambrosian_chant），据该来源：除格里高利圣咏外，米兰的安布罗斯圣咏（Ambrosian chant）是安布罗斯礼的礼仪素歌传统，与流传更广的格里高利圣咏有别，反映各地礼仪传统的差异。"
       },
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='格里高利圣咏 示意图'><title>格里高利圣咏</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>格里高利圣咏</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>单声部无伴奏</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>复调</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>以此为固定声部</text><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>单声部传统是复调与记谱的基础</text></g></svg>"
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='格里高利圣咏 示意图'><title>格里高利圣咏</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>格里高利圣咏</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>单声部无伴奏</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>复调</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>以此为固定声部</text><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>单声部传统是复调与记谱的基础</text></g></svg>",
+      "l3": {
+        "controversies": [
+          {
+            "issue": "格里高利圣咏的节奏应如何复原？",
+            "views": [
+              {
+                "holder": "量化节拍派：Peter Wagner、Jammers、Lipphardt（所引来源页 enc-gregorian-chant 所述）",
+                "basis": "主张给圣咏加上节拍格律，但彼此对怎样加并不一致。"
+              },
+              {
+                "holder": "自由节奏派：Pothier、Mocquereau（索莱姆，所引来源页 enc-gregorian-chant 所述）",
+                "basis": "主张音值大致相等的自由节奏，仅因歌词强调或音乐原因延长部分音；该页另称索莱姆编者在节奏上的处理引发严肃学术争论。"
+              }
+            ]
+          }
+        ],
+        "data": [
+          {
+            "label": "五线谱线的引入（传归圭多·达雷佐）",
+            "value": "11世纪初",
+            "note": "来源:enc-gregorian-chant"
+          },
+          {
+            "label": "方形记谱普及、各音大致等值",
+            "value": "13世纪",
+            "note": "来源:enc-gregorian-chant"
+          },
+          {
+            "label": "《美第奇版》（Editio medicaea）",
+            "value": "1614年",
+            "note": "来源:enc-gregorian-chant"
+          }
+        ],
+        "complex_diagram_note": "以时间轴展示纽姆谱、11世纪谱线、13世纪方形记谱、1614年美第奇版到19世纪末复原研究，并在末端分叉标出量化节拍派与自由节奏派。"
+      }
     },
     {
       "id": "organum",
@@ -4113,7 +4196,7 @@
         "lc-n80022788",
         "gnd-118584596"
       ],
-      "level": "L2",
+      "level": "L3",
       "sections": {
         "时代背景": "莫扎特为18世纪奥地利作曲家，生卒年标注为1756—1791年。概述将其置于古典主义音乐的集大成者这一身份中。相关条目列出古典主义音乐与歌剧。",
         "风格特征": "定义强调他作为奥地利作曲家与古典主义音乐集大成者的身份。概述说明其体裁涵盖广泛，包括协奏曲与交响曲。相关条目另列歌剧，提示本条与歌剧条目存在关联。",
@@ -4124,7 +4207,55 @@
         "待核实": "输入只给出百科来源标题，具体作品的创作年份和收藏地未列明。若需展开这些细节，待补充第二来源。 【已复核·Wikidata】生卒：第二来源 wd-mozart（https://www.wikidata.org/wiki/Q254），据其结构化数据：生年 1756，卒年 1791。（LC 名称权威对照，2026-11-24）LC 标目：Mozart, Wolfgang Amadeus, 1756-1791。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。（GND 对照，2026-11-25）德国国家图书馆规范档（118584596）生卒 1756—1791，与本条目一致，已独立印证（只印证生卒与身份）。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='莫扎特 示意图'><title>莫扎特</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>莫扎特</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>奥地利作曲家</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>古典主义音乐</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>集大成者</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>歌剧</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>费加罗的婚礼</text><rect class='svg-box-accent' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='665.0' y='142' text-anchor='middle'>协奏曲</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>交响曲</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>莫扎特 古典主义音乐 歌剧 协奏曲 交响曲</text></g></svg>",
-      "pending_notes": "生卒已由 GND 规范档独立印证；"
+      "pending_notes": "生卒已由 GND 规范档独立印证；",
+      "l3": {
+        "controversies": [
+          {
+            "issue": "莫扎特书信中的粗俗内容能否说明其精神异常？",
+            "views": [
+              {
+                "holder": "部分学者（所引来源页 enc-mozart 所述）",
+                "basis": "根据莫扎特书信推测其有某种精神障碍。"
+              },
+              {
+                "holder": "另一些学者（所引来源页 enc-mozart 所述）",
+                "basis": "指出当时当地（包括其家人）屎尿类幽默更为普遍，不宜据此作病理推断。"
+              }
+            ]
+          },
+          {
+            "issue": "莫扎特临终之病是长期衰退还是突然发作？",
+            "views": [
+              {
+                "holder": "长期衰退说（所引来源页 enc-mozart 所述）",
+                "basis": "认为病情早已开始，经历了漫长而消沉的衰退期。"
+              },
+              {
+                "holder": "突发说（所引来源页 enc-mozart 所述）",
+                "basis": "认为1791年11月20日起病是突然的（所引来源页称此为“严重争议”）。"
+              }
+            ]
+          }
+        ],
+        "data": [
+          {
+            "label": "卧床起病",
+            "value": "1791年11月20日",
+            "note": "来源:enc-mozart"
+          },
+          {
+            "label": "去世",
+            "value": "1791年12月5日凌晨0:55，35岁",
+            "note": "来源:enc-mozart"
+          },
+          {
+            "label": "下葬",
+            "value": "1791年12月7日，圣马克斯墓地",
+            "note": "来源:enc-mozart"
+          }
+        ],
+        "complex_diagram_note": "以1791年11—12月日程图标出起病、去世、下葬三点，并以并列框对照长期衰退说与突发说。"
+      }
     },
     {
       "id": "beethoven",

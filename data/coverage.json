@@ -305,8 +305,8 @@
     "caravaggio": {
       "title": "卡拉瓦乔",
       "tier": "核心",
-      "level": "L2",
-      "status": "written_l2",
+      "level": "L3",
+      "status": "written_l3",
       "sources_count": 5,
       "verified_sources_count": 5,
       "needs_verification": false,
@@ -941,8 +941,8 @@
     "gregorian-chant": {
       "title": "格里高利圣咏",
       "tier": "核心",
-      "level": "L2",
-      "status": "written_l2",
+      "level": "L3",
+      "status": "written_l3",
       "sources_count": 5,
       "verified_sources_count": 5,
       "needs_verification": false,
@@ -1145,8 +1145,8 @@
     "mozart": {
       "title": "莫扎特",
       "tier": "核心",
-      "level": "L2",
-      "status": "written_l2",
+      "level": "L3",
+      "status": "written_l3",
       "sources_count": 5,
       "verified_sources_count": 5,
       "needs_verification": false,

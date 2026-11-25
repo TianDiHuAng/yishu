@@ -1,6 +1,6 @@
 {
  "id": "gregorian-chant",
- "level": "L2",
+ "level": "L3",
  "sections": {
   "时代背景": "格里高利圣咏是罗马天主教会的礼仪歌唱传统，其系统整理与教皇格里高利一世的名号相关联。中世纪教会通过统一的礼仪与歌唱强化宗教秩序，圣咏成为礼拜音乐的核心，并由教会学校与修道院传承。",
   "风格特征": "圣咏为单声部、无伴奏的拉丁文歌唱，节奏自由，旋律线条随歌词的音节与重音展开。它使用教会调式，音域适中，风格庄重克制，强调文本的清晰与宗教情感的表达，与后来的功能和声音乐在组织原则上有根本差异。",
@@ -24,5 +24,40 @@
   "music-notation",
   "musical-mode",
   "organum"
- ]
+ ],
+ "l3": {
+  "controversies": [
+   {
+    "issue": "格里高利圣咏的节奏应如何复原？",
+    "views": [
+     {
+      "holder": "量化节拍派：Peter Wagner、Jammers、Lipphardt（所引来源页 enc-gregorian-chant 所述）",
+      "basis": "主张给圣咏加上节拍格律，但彼此对怎样加并不一致。"
+     },
+     {
+      "holder": "自由节奏派：Pothier、Mocquereau（索莱姆，所引来源页 enc-gregorian-chant 所述）",
+      "basis": "主张音值大致相等的自由节奏，仅因歌词强调或音乐原因延长部分音；该页另称索莱姆编者在节奏上的处理引发严肃学术争论。"
+     }
+    ]
+   }
+  ],
+  "data": [
+   {
+    "label": "五线谱线的引入（传归圭多·达雷佐）",
+    "value": "11世纪初",
+    "note": "来源:enc-gregorian-chant"
+   },
+   {
+    "label": "方形记谱普及、各音大致等值",
+    "value": "13世纪",
+    "note": "来源:enc-gregorian-chant"
+   },
+   {
+    "label": "《美第奇版》（Editio medicaea）",
+    "value": "1614年",
+    "note": "来源:enc-gregorian-chant"
+   }
+  ],
+  "complex_diagram_note": "以时间轴展示纽姆谱、11世纪谱线、13世纪方形记谱、1614年美第奇版到19世纪末复原研究，并在末端分叉标出量化节拍派与自由节奏派。"
+ }
 }
