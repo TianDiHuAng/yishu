@@ -1174,7 +1174,7 @@
         "ulan-500011051",
         "gnd-11859964x"
       ],
-      "level": "L2",
+      "level": "L3",
       "sections": {
         "时代背景": "伦勃朗是17世纪荷兰画家，生卒年为1606—1669年，属荷兰黄金时代。相关条目指向巴洛克与维米尔。其创作处于荷兰黄金时代的语境之中。",
         "风格特征": "伦勃朗以肖像、自画像与光影处理著称。他运用层层罩染与聚光式明暗来刻画心理深度。光线与心理刻画在其作品中紧密结合。",
@@ -1188,51 +1188,55 @@
       "l3": {
         "controversies": [
           {
-            "issue": "风格分期与边界问题：伦勃朗的创作应如何分期，其与巴洛克、维米尔在题材与光影上的界线划在何处",
+            "issue": "伦勃朗作品总数应缩减到什么程度？",
             "views": [
               {
-                "holder": "所引来源页",
-                "basis": "记载较一致，将伦勃朗列为与巴洛克相关，并以层层罩染与聚光式明暗刻画心理深度，未对分期给出定论"
+                "holder": "伦勃朗研究计划（Rembrandt Research Project，1960年代起，所引来源页 enc-rembrandt 所述）",
+                "basis": "结合技术检测重新鉴定，将20世纪初所认定的600余幅油画缩减到近300幅，并剔除大量此前归属的作品。"
               },
               {
-                "holder": "部分研究者",
-                "basis": "学界主要讨论其风格的分期与边界问题，即分期界线与荷兰黄金时代内部题材、光影差异的归属尚待厘清"
+                "holder": "持异议的一方（所引来源页 enc-rembrandt 称这种缩减“常有争议”）",
+                "basis": "部分被剔除的作品此后又被重新归回；素描方面有两位专家认为可确定为亲笔者不超过约75件，此说同样受到质疑。"
+              }
+            ]
+          },
+          {
+            "issue": "弗里克收藏馆《波兰骑士》是否为伦勃朗亲笔？",
+            "views": [
+              {
+                "holder": "Josua Bruyn（伦勃朗研究计划，1980年代，所引来源页 enc-rembrandt 所述）",
+                "basis": "谨慎地提出该画可能出自其学生威廉·德罗斯特（Willem Drost）之手；该页称此为少数意见，现已普遍不被接受。"
               },
               {
-                "holder": "通说",
-                "basis": "其与维米尔的具体关联仅以相关条目并列，作品的具体年份与收藏地未在字段中给出，需补充第二来源核实"
+                "holder": "Simon Schama（1999年《伦勃朗的眼睛》）与 Ernst van de Wetering（1997年墨尔本研讨会）（所引来源页 enc-rembrandt 所述）",
+                "basis": "主张归属伦勃朗本人；弗里克馆展签始终写“伦勃朗”。仍存疑的少数学者认为画面执行不均，倾向各部分分属不同作者。"
               }
             ]
           }
         ],
         "data": [
           {
-            "label": "生卒年",
-            "value": "1606—1669年",
+            "label": "20世纪初鉴赏家认定的油画数",
+            "value": "600余幅",
             "note": "来源:enc-rembrandt"
           },
           {
-            "label": "时代与地域语境",
-            "value": "17世纪荷兰黄金时代",
+            "label": "伦勃朗研究计划缩减后的油画数",
+            "value": "近300幅",
             "note": "来源:enc-rembrandt"
           },
           {
-            "label": "核心技法",
-            "value": "层层罩染与聚光式明暗",
-            "note": "来源:enc-baroque"
-          },
-          {
-            "label": "代表作",
-            "value": "《夜巡》《自画像》",
+            "label": "版画总数",
+            "value": "略少于300件（较稳定）",
             "note": "来源:enc-rembrandt"
           },
           {
-            "label": "相关条目",
-            "value": "巴洛克、维米尔、卡拉瓦乔",
-            "note": "来源:enc-baroque"
+            "label": "自画像油画（今认定）",
+            "value": "40余幅（旧时约90幅）",
+            "note": "来源:enc-rembrandt"
           }
         ],
-        "complex_diagram_note": "以巴洛克为背景层、维米尔为并列节点，将层层罩染与聚光式明暗两条技法线索汇向心理深度，并在风格分期与边界处标记待核实。"
+        "complex_diagram_note": "以柱状对照展示20世纪初与伦勃朗研究计划之后的油画、版画认定数量变化，并在旁注标出《波兰骑士》归属两说。"
       },
       "pending_notes": "生卒已由 GND 规范档独立印证；"
     },
@@ -4150,7 +4154,7 @@
         "lc-n79107741",
         "gnd-118508288"
       ],
-      "level": "L2",
+      "level": "L3",
       "sections": {
         "时代背景": "贝多芬为18—19世纪德意志作曲家，生卒年标注为1770—1827年。定义将其视为连接古典主义与浪漫主义的关键人物。相关条目列出古典主义音乐与浪漫主义音乐。",
         "风格特征": "概述强调九部交响曲与《月光》《热情》等奏鸣曲拓展了结构规模与情感张力。晚期转向浪漫语汇，是其风格变化在输入中的明确表述。定义同时保留其连接古典主义与浪漫主义的关键人物定位。",
@@ -4161,7 +4165,55 @@
         "待核实": "输入没有给出具体作品的年份、收藏地或引文。来源标题只列出百科条目，相关细节待补充第二来源。 【已复核·Wikidata】生卒：第二来源 wd-beethoven（https://www.wikidata.org/wiki/Q255），据其结构化数据：生年 1770，卒年 1827。（LC 名称权威对照，2026-11-24）LC 标目：Beethoven, Ludwig van, 1770-1827。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。（GND 对照，2026-11-25）德国国家图书馆规范档（118508288）生卒 1770—1827，与本条目一致，已独立印证（只印证生卒与身份）。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='贝多芬 示意图'><title>贝多芬</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>贝多芬</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>德意志作曲家</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>古典主义音乐</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>浪漫主义音乐</text><rect class='svg-box-accent' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='475.0' y='142' text-anchor='middle'>九部交响曲</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>奏鸣曲</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>浪漫语汇</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>晚期</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>古典主义音乐 贝多芬 浪漫主义音乐</text></g></svg>",
-      "pending_notes": "生卒已由 GND 规范档独立印证；"
+      "pending_notes": "生卒已由 GND 规范档独立印证；",
+      "l3": {
+        "controversies": [
+          {
+            "issue": "“英雄风格”能否概括贝多芬中期？",
+            "views": [
+              {
+                "holder": "沿用“英雄”时期说法的一方（所引来源页 enc-beethoven 所述）",
+                "basis": "第三（英雄）、第五交响曲等作品易于以“英雄”描述，该词常被用作中期的别名。"
+              },
+              {
+                "holder": "质疑该术语的贝多芬研究者（所引来源页 enc-beethoven 称其日益有争议）",
+                "basis": "第六（田园）交响曲、第24号钢琴奏鸣曲等中期作品并不“英雄”，以一词概括整个时期不恰当。"
+              }
+            ]
+          },
+          {
+            "issue": "1812年“永恒的爱人”信的收信人是谁？",
+            "views": [
+              {
+                "holder": "Maynard Solomon（所引来源页 enc-beethoven 所述）",
+                "basis": "论证收信人为安东尼·布伦塔诺（Antonie Brentano）。"
+              },
+              {
+                "holder": "其他候选说（所引来源页 enc-beethoven 所列）",
+                "basis": "朱丽叶塔·圭恰迪、特蕾莎·马尔法蒂、埃尔德迪伯爵夫人、约瑟芬·布伦斯维克等均曾被提出。"
+              }
+            ]
+          }
+        ],
+        "data": [
+          {
+            "label": "“永恒的爱人”信写作年份与地点",
+            "value": "1812年，特普利采",
+            "note": "来源:enc-beethoven"
+          },
+          {
+            "label": "信的篇幅",
+            "value": "10页，未寄出",
+            "note": "来源:enc-beethoven"
+          },
+          {
+            "label": "中期所含交响曲",
+            "value": "第3—8号",
+            "note": "来源:enc-beethoven"
+          }
+        ],
+        "complex_diagram_note": "以早、中、晚三期分栏展示代表作，并在中期栏旁注“英雄风格”术语之争与“永恒的爱人”候选人名单。"
+      }
     },
     {
       "id": "romantic-music",

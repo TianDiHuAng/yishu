@@ -317,8 +317,8 @@
     "rembrandt": {
       "title": "伦勃朗",
       "tier": "核心",
-      "level": "L2",
-      "status": "written_l2",
+      "level": "L3",
+      "status": "written_l3",
       "sources_count": 5,
       "verified_sources_count": 5,
       "needs_verification": false,
@@ -1157,8 +1157,8 @@
     "beethoven": {
       "title": "贝多芬",
       "tier": "核心",
-      "level": "L2",
-      "status": "written_l2",
+      "level": "L3",
+      "status": "written_l3",
       "sources_count": 5,
       "verified_sources_count": 5,
       "needs_verification": false,
