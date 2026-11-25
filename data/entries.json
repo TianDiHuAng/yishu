@@ -113,7 +113,8 @@
         "attic-bf-amphora-dionysus",
         "sisyphos-bell-krater",
         "attic-amphora-wedgwood",
-        "attic-stamnos-dionysus"
+        "attic-stamnos-dionysus",
+        "parthenon"
       ],
       "sources": [
         "enc-greek-art",
@@ -18933,6 +18934,7 @@
         "regular-script",
         "yan-zhenqing",
         "zhao-mengfu",
+        "chu-suiliang",
         "fan-kuan"
       ],
       "sources": [
@@ -18978,7 +18980,8 @@
       "overview": "褚遂良（596—658），字登善，封河南郡公，唐代书法家、史家与政治家，太宗、高宗朝任宰相。太宗晚年对他日益信任，命他任史官并直言进谏。太宗死后，他与长孙无忌受托辅佐高宗，初期权势很大。655年他极力反对高宗废王皇后、立武后，遭贬，此后在武后推动下屡遭贬谪，最终任爱州刺史，658年卒于贬所。",
       "related": [
         "regular-script",
-        "yan-zhenqing"
+        "yan-zhenqing",
+        "liu-gongquan"
       ],
       "sources": [
         "enc-chu-suiliang",
@@ -19863,6 +19866,7 @@
       "when": "公元前5世纪（本项目划分，摘要未给年代）",
       "overview": "帕特农神庙是希腊雅典卫城上曾供奉女神雅典娜的神庙。其装饰雕塑被视为古典希腊艺术的高峰之一，帕特农神庙也被视为古希腊、西方文明与民主的持久象征。",
       "related": [
+        "greek-art",
         "neoclassical-architecture"
       ],
       "sources": [

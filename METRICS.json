@@ -5250,6 +5250,24 @@
    "check_result": "errors=0",
    "check_links_result": "broken=0(935页)",
    "commits": 1
+  },
+  {
+   "cycle": "cycle238",
+   "date": "2026-11-25",
+   "status": "completed",
+   "gap_methods": [
+    "悬空关联清零；文档更新"
+   ],
+   "new_entries": 0,
+   "reviews": 0,
+   "fixes": 2,
+   "new_sources": 0,
+   "sources_total": 1633,
+   "entries_total": 898,
+   "pages": 935,
+   "check_result": "errors=0",
+   "check_links_result": "broken=0(935页)",
+   "commits": 1
   }
  ]
 }
