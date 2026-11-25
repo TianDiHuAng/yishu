@@ -15559,6 +15559,46 @@
       "type": "权威主题词表",
       "verified": true,
       "verified_note": "2026-11-25 经 AAT SPARQL 按首选标签“photography (process)”精确查询命中，范围注释已读全"
+    },
+    {
+      "id": "si-shen-zhou",
+      "title": "Smithsonian Libraries — 人名标目 Shen, Zhou 1427-1509（Shen Zhou jing pin ji / [bian zhe Shan Guoqiang]）",
+      "author": "Smithsonian Institution Libraries（经 Smithsonian Open Access API）",
+      "year": "2026",
+      "url": "https://siris-libraries.si.edu/ipac20/ipac.jsp?&profile=liball&source=~!silibraries&uri=full=3100001~!1034430~!0#focus",
+      "type": "图书馆人名规范标目",
+      "verified": true,
+      "verified_note": "2026-11-25 经 api.si.edu 检索“Shen Zhou”，取所藏图书书目记录中的人名标目“Shen, Zhou 1427-1509”；只印证姓名与年代"
+    },
+    {
+      "id": "si-mi-fu",
+      "title": "Smithsonian Libraries — 人名标目 Mi, Fu 1051-1107（Man chuan shu hua tong ming yue : Mi Fu jian cang shu hua ya）",
+      "author": "Smithsonian Institution Libraries（经 Smithsonian Open Access API）",
+      "year": "2026",
+      "url": "https://siris-libraries.si.edu/ipac20/ipac.jsp?&profile=liball&source=~!silibraries&uri=full=3100001~!985991~!0#focus",
+      "type": "图书馆人名规范标目",
+      "verified": true,
+      "verified_note": "2026-11-25 经 api.si.edu 检索“Mi Fu”，取所藏图书书目记录中的人名标目“Mi, Fu 1051-1107”；只印证姓名与年代"
+    },
+    {
+      "id": "si-fan-kuan",
+      "title": "Smithsonian Libraries — 人名标目 Fan, Kuan approximately 956-approximately 1026（Fan Kuan / Guan Yijie zhu）",
+      "author": "Smithsonian Institution Libraries（经 Smithsonian Open Access API）",
+      "year": "2026",
+      "url": "https://siris-libraries.si.edu/ipac20/ipac.jsp?&profile=liball&source=~!silibraries&uri=full=3100001~!882794~!0#focus",
+      "type": "图书馆人名规范标目",
+      "verified": true,
+      "verified_note": "2026-11-25 经 api.si.edu 检索“Fan Kuan”，取所藏图书书目记录中的人名标目“Fan, Kuan approximately 956-approximately 1026”；只印证姓名与年代"
+    },
+    {
+      "id": "si-xia-gui",
+      "title": "Smithsonian Libraries — 人名标目 Xia, Gui active 1190-1224（Xia Gui shan shui shou juan. / [(Song) Xia Gui hui]）",
+      "author": "Smithsonian Institution Libraries（经 Smithsonian Open Access API）",
+      "year": "2026",
+      "url": "https://siris-libraries.si.edu/ipac20/ipac.jsp?&profile=liball&source=~!silibraries&uri=full=3100001~!1007408~!0#focus",
+      "type": "图书馆人名规范标目",
+      "verified": true,
+      "verified_note": "2026-11-25 经 api.si.edu 检索“Xia Gui”，取所藏图书书目记录中的人名标目“Xia, Gui active 1190-1224”；只印证姓名与年代"
     }
   ]
 }

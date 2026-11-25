@@ -5196,6 +5196,24 @@
    "check_result": "errors=0",
    "check_links_result": "broken=0(921页)",
    "commits": 1
+  },
+  {
+   "cycle": "cycle235",
+   "date": "2026-11-25",
+   "status": "completed",
+   "gap_methods": [
+    "外部资源吸收①：史密森尼开放数据"
+   ],
+   "new_entries": 0,
+   "reviews": 13,
+   "fixes": 0,
+   "new_sources": 4,
+   "sources_total": 1560,
+   "entries_total": 884,
+   "pages": 921,
+   "check_result": "errors=0",
+   "check_links_result": "broken=0(921页)",
+   "commits": 1
   }
  ]
 }
