@@ -377,8 +377,8 @@
     "romanticism-art": {
       "title": "浪漫主义（艺术）",
       "tier": "核心",
-      "level": "L2",
-      "status": "written_l2",
+      "level": "L3",
+      "status": "written_l3",
       "sources_count": 4,
       "verified_sources_count": 4,
       "needs_verification": false,
@@ -509,8 +509,8 @@
     "cubism": {
       "title": "立体主义",
       "tier": "核心",
-      "level": "L2",
-      "status": "written_l2",
+      "level": "L3",
+      "status": "written_l3",
       "sources_count": 5,
       "verified_sources_count": 5,
       "needs_verification": false,
