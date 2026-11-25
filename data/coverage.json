@@ -449,8 +449,8 @@
     "van-gogh": {
       "title": "梵高",
       "tier": "核心",
-      "level": "L2",
-      "status": "written_l2",
+      "level": "L3",
+      "status": "written_l3",
       "sources_count": 5,
       "verified_sources_count": 5,
       "needs_verification": false,
@@ -569,8 +569,8 @@
     "abstract-expressionism": {
       "title": "抽象表现主义",
       "tier": "核心",
-      "level": "L2",
-      "status": "written_l2",
+      "level": "L3",
+      "status": "written_l3",
       "sources_count": 4,
       "verified_sources_count": 4,
       "needs_verification": false,

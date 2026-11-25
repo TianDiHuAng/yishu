@@ -1892,7 +1892,7 @@
         "ulan-500115588",
         "gnd-118540416"
       ],
-      "level": "L2",
+      "level": "L3",
       "sections": {
         "时代背景": "梵高生于1853年，卒于1890年，主要活动于19世纪，区域涉及荷兰与法国。他是荷兰后印象派画家，以绘画为主要媒介。其创作年代与后印象派在19世纪末的兴起相重合。",
         "风格特征": "梵高的风格以强烈色彩与表现性笔触著称。他用色与笔触传达主观情绪，使情感表现成为作品的核心。这种以形式手段承载情绪的取向，与后印象派背离纯客观再现的倾向一致。",
@@ -1903,7 +1903,42 @@
         "待核实": "概述列出《星月夜》《向日葵》为代表作，但未提供创作年份与收藏地，待补充第二来源核实。材料称其对表现主义影响深远，但未给出具体受影响的人物或作品，相关细节待补充。 【已复核·Wikidata】生卒：第二来源 wd-van-gogh（https://www.wikidata.org/wiki/Q5582），据其结构化数据：生年 1853，卒年 1890。（ULAN 对照，2026-11-24）ULAN 简介：Dutch painter and draftsman, 1853-1890。生卒年1853—1890与本条目 when 一致；职业为画家与素描家，与本条目相容。ULAN 另有两条同名 art dealer（1866-1911、1820-1888），是同名他人，未采用。（GND 对照，2026-11-25）德国国家图书馆规范档（118540416）生卒 1853—1890，与本条目一致，已独立印证（只印证生卒与身份）。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='梵高 示意图'><title>梵高</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>梵高</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>后印象派画家</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>强烈色彩</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>表现性笔触</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>表现主义</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>影响深远</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>梵高以强烈色彩与表现性笔触传达主观情绪</text></g></svg>",
-      "pending_notes": "生卒已由 GND 规范档独立印证；"
+      "pending_notes": "生卒已由 GND 规范档独立印证；",
+      "l3": {
+        "controversies": [
+          {
+            "issue": "梵高所患何病？",
+            "views": [
+              {
+                "holder": "Perry（1947年首倡）及精神科医生 Hemphill、Blumer（所引来源页 enc-van-gogh 所述）",
+                "basis": "认为是双相障碍；所引来源页称共识是其病为发作性，间有正常期。"
+              },
+              {
+                "holder": "生物化学家 Wilfred Arnold（所引来源页 enc-van-gogh 所述）",
+                "basis": "认为症状更符合急性间歇性卟啉症，并指出流行的“双相障碍与创造力相关”之说可能站不住；另有论者提出颞叶癫痫伴抑郁。"
+              }
+            ]
+          }
+        ],
+        "data": [
+          {
+            "label": "双相障碍说首次提出",
+            "value": "1947年（Perry）",
+            "note": "来源:enc-van-gogh"
+          },
+          {
+            "label": "所引来源页列出的回溯诊断",
+            "value": "3种（双相障碍、急性间歇性卟啉症、颞叶癫痫伴抑郁）",
+            "note": "来源:enc-van-gogh"
+          },
+          {
+            "label": "叔父 Cornelis Marinus 委托画海牙",
+            "value": "1882年初",
+            "note": "来源:enc-van-gogh"
+          }
+        ],
+        "complex_diagram_note": "以分支图并列三种回溯诊断及其提出者，旁注营养不良、过劳、失眠与酒精等加重因素。"
+      }
     },
     {
       "id": "cezanne",
@@ -2334,7 +2369,7 @@
         "wd-anchor-abstract-expressionism",
         "aat-300022099"
       ],
-      "level": "L2",
+      "level": "L3",
       "sections": {
         "时代背景": "抽象表现主义是二战后兴起于美国的绘画运动，活动时间约1940s—1950s。它以美国为主要分布地区。",
         "风格特征": "抽象表现主义以大规模抽象画面与姿态性笔触为特征。它强调自发行动与潜意识表达。",
@@ -2344,7 +2379,42 @@
         "一图": "示意图以抽象表现主义为中心，展示滴画法与色彩场两种代表路径，并关联超现实主义与极简主义。",
         "待核实": "材料未提供具体作品名称、创作年份与收藏地，待补充第二来源后再行补写。（AAT 对照，2026-11-24）AAT：美国绘画运动，主要以纽约为中心，兴盛于1940—1950年代。与本条目一致。"
       },
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='抽象表现主义 示意图'><title>抽象表现主义</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>抽象表现主义</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>美国</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>滴画法</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>波洛克</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>色彩场</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>罗斯科</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>极简主义</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>抽象表现主义强调自发行动与潜意识表达，以大规模抽象画面为代表</text></g></svg>"
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='抽象表现主义 示意图'><title>抽象表现主义</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>抽象表现主义</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>美国</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>滴画法</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>波洛克</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>色彩场</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>罗斯科</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>极简主义</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>抽象表现主义强调自发行动与潜意识表达，以大规模抽象画面为代表</text></g></svg>",
+      "l3": {
+        "controversies": [
+          {
+            "issue": "抽象表现主义在冷战中是否被美国中央情报局（CIA）推广利用？",
+            "views": [
+              {
+                "holder": "修正派：1970年代中期以来的论者，Frances Stonor Saunders《文化冷战》（所引来源页 enc-abstract-expressionism 所述）",
+                "basis": "认为1950年代初CIA视此风格为美国思想自由与自由市场的象征，并经文化自由大会（1950—1967）资助、组织推广美国抽象表现主义画家；引CIA国际组织处首任主管 Tom Braden 的访谈为佐证。"
+              },
+              {
+                "holder": "Michael Kimmelman（《纽约时报》首席艺评人，《重访修正派》，所引来源页 enc-abstract-expressionism 所述）",
+                "basis": "认为关于1940—1950年代美国艺坛的许多信息以及修正派的解读是错误的或脱离语境的。"
+              }
+            ]
+          }
+        ],
+        "data": [
+          {
+            "label": "美国社会现实主义为主流",
+            "value": "1930年代",
+            "note": "来源:enc-abstract-expressionism"
+          },
+          {
+            "label": "文化自由大会推广活动期",
+            "value": "1950—1967年",
+            "note": "来源:enc-abstract-expressionism"
+          },
+          {
+            "label": "CIA说开始被提出",
+            "value": "1970年代中期",
+            "note": "来源:enc-abstract-expressionism"
+          }
+        ],
+        "complex_diagram_note": "以1930—1970年代时间轴标出社会现实主义主流、抽象表现主义兴起、文化自由大会活动期与修正派论点出现，并以并列框对照 Saunders 与 Kimmelman 两方。"
+      }
     },
     {
       "id": "picasso",
