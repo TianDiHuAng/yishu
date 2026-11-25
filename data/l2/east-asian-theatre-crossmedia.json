@@ -1,0 +1,29 @@
+{
+  "id": "east-asian-theatre-crossmedia",
+  "level": "L2",
+  "sections": {
+    "时代背景": "据各自条目来源：能乐自14世纪起演出至今；昆曲16至18世纪主导中国剧坛；歌舞伎被认为起源于江户时代初期，18世纪中叶达到顶峰。",
+    "风格特征": "表演要素：昆曲结合音乐、舞蹈、诗歌与表演；能乐以面具、服装与道具进行以舞蹈为基础的表演，情感主要靠程式化动作传达；歌舞伎以高度程式化的表演、华丽服装与“隈取”妆著称。",
+    "代表人物与作品": "各条来源给出的人物：昆曲有魏良辅改良音乐、梁辰鱼《浣纱记》、明代《牡丹亭》；歌舞伎有创始人出云阿国；能乐来源未列人物。",
+    "技法或形式分析": "可比之处：三者都被来源描述为“程式化”或综合多种表演手段；能乐用面具，歌舞伎用隈取妆，昆曲条目来源未提面部装扮。传承方面，能乐受“家元”制度规范，歌舞伎自1629年起为全男班。",
+    "与前后风格的关系和争论": "三个条目的来源互不提及。昆曲与日本戏剧之间是否有影响关系，本条不作判断。",
+    "一图": "示意图并列三种戏剧的起源时间与标志性要素（昆曲：音乐诗歌；能乐：面具；歌舞伎：隈取妆）。",
+    "待核实": "（1）两侧来源各自描述一个领域，并没有直接比较二者；本条把它们并列，是本项目所作的对照，不代表来源的观点。（2）三个条目的来源都是维基百科摘要或导言，来源独立性有限；（3）“程式化”一词在三条来源中含义未必一致。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='east-asian-theatre-cross 示意图'><title>east-asian-theatre-cross</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>昆曲</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>16—18世纪主导</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>东亚古典戏剧</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>三者并列</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>能乐</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>14世纪起·面具</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>歌舞伎</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>江户初·隈取</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据两侧条目来源</text></g></svg>",
+  "sources": [
+    "enc-kunqu",
+    "wd-kunqu",
+    "enc-noh",
+    "wd-noh",
+    "enc-kabuki",
+    "wd-kabuki"
+  ],
+  "related": [
+    "kunqu",
+    "noh",
+    "kabuki"
+  ],
+  "needs_verification": true,
+  "pending_notes": "比较为本项目所作，两侧来源未直接相互比较；事实均取自两侧父条目的来源。"
+}

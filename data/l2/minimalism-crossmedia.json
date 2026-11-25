@@ -1,0 +1,28 @@
+{
+  "id": "minimalism-crossmedia",
+  "level": "L2",
+  "sections": {
+    "时代背景": "两侧条目所据来源都把起点放在1960年代。美术一侧写作“极简主义”，音乐一侧写作“简约主义”，本站沿用两个条目原有的译名，不强行统一。",
+    "风格特征": "美术一侧：追求形式的极简与客观，常用几何基本形体与工业材料，强调与空间的物理关系，尽量减少艺术家的主观痕迹。音乐一侧：以简短动机的反复与渐进变化为特征，追求清晰简约的音响组织。",
+    "代表人物与作品": "音乐一侧另见史蒂夫·赖希条目：其摘要称他是1960年代中后期简约音乐的先驱，作品以重复音型与“相位移动”为特征。美术一侧来源未列人物，本条不补写。",
+    "技法或形式分析": "可比之处：美术的简化落在形体与材料（几何形、工业材料），音乐的简化落在材料的数量（简短动机）而以时间中的渐变展开。二者“简化什么”并不相同，这是本项目的归纳。",
+    "与前后风格的关系和争论": "两侧来源都没有提到对方。音乐一侧称它是一条有别于序列主义的路径；美术一侧来源把它与包豪斯并列为背景。二者之间是否有直接影响，本条不作判断。",
+    "一图": "示意图并列美术的几何形与工业材料、音乐的短动机反复与渐变，中间标注“简化对象不同”。",
+    "待核实": "（1）两侧来源各自描述一个领域，并没有直接比较二者；本条把它们并列，是本项目所作的对照，不代表来源的观点。（2）音乐一侧条目的来源是20世纪古典音乐与序列主义的通论页，不是简约主义的专页；（3）两种译名照旧并存。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='minimalism-crossmedia 示意图'><title>minimalism-crossmedia</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>几何与材料</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>美术的简化</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>极简/简约</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1960年代</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>短动机渐变</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>音乐的简化</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>无直接联系</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>来源未互提</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据两侧条目来源</text></g></svg>",
+  "sources": [
+    "enc-minimalism",
+    "enc-bauhaus",
+    "wd-anchor-minimalism",
+    "enc-20th-century-classical",
+    "enc-serialism",
+    "wd-anchor-minimalism-music"
+  ],
+  "related": [
+    "minimalism",
+    "minimalism-music"
+  ],
+  "needs_verification": true,
+  "pending_notes": "比较为本项目所作，两侧来源未直接相互比较；事实均取自两侧父条目的来源。"
+}

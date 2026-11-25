@@ -1,0 +1,28 @@
+{
+  "id": "neoclassicism-crossmedia",
+  "level": "L2",
+  "sections": {
+    "时代背景": "美术一侧条目写作约1750—1850年；音乐一侧条目写作20世纪、尤其两次大战之间。二者相隔约一个半世纪，不是同一运动。本站另有“古典主义：新古典主义美术与古典时期音乐”一条，那一条比较的是18世纪的美术与音乐，与本条不同。",
+    "风格特征": "美术一侧：对称构图、清晰轮廓与古典题材，追求克制、理性与秩序。音乐一侧：回归秩序、平衡、清晰、简省与情感克制；表现为精简编制、强调节奏与对位、扩展的调性和声、专注绝对音乐。",
+    "代表人物与作品": "美术一侧来源以雅克-路易·大卫为代表；音乐一侧摘要未列作曲家，本条不补写。",
+    "技法或形式分析": "可比之处：两侧来源列出的价值词几乎重合——“克制”“秩序”“清晰”。不同之处在于各自反对的对象：美术一侧在大卫条目中被描述为离开洛可可的轻浮；音乐一侧被描述为反对晚期浪漫主义的无节制与“回归秩序”。",
+    "与前后风格的关系和争论": "两侧各自都在回应前一个风格，这种“相似的反动”是本项目的归纳，来源没有把两者相提并论。",
+    "一图": "示意图上下两层：18世纪美术（反洛可可）与20世纪音乐（反晚期浪漫），中间以共同价值词连接。",
+    "待核实": "（1）两侧来源各自描述一个领域，并没有直接比较二者；本条把它们并列，是本项目所作的对照，不代表来源的观点。（2）“反洛可可”取自大卫条目而非新古典主义条目本身；（3）读者勿把本条与 classical-crossmedia 混淆。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='neoclassicism-crossmedia 示意图'><title>neoclassicism-crossmedia</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>反洛可可</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>18世纪美术</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>新古典主义</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>同名两运动</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>反晚期浪漫</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>20世纪音乐</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>共同价值</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>克制·秩序·清晰</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据两侧条目来源</text></g></svg>",
+  "sources": [
+    "enc-neoclassicism",
+    "enc-romanticism",
+    "wd-anchor-neoclassicism",
+    "aat-300021477",
+    "enc-neoclassicism-music",
+    "wd-neoclassicism-music"
+  ],
+  "related": [
+    "neoclassicism",
+    "neoclassicism-music"
+  ],
+  "needs_verification": true,
+  "pending_notes": "比较为本项目所作，两侧来源未直接相互比较；事实均取自两侧父条目的来源。"
+}

@@ -1355,7 +1355,8 @@
         "neoclassical-architecture",
         "beaux-arts-architecture",
         "neoclassicism-music",
-        "jacques-louis-david"
+        "jacques-louis-david",
+        "neoclassicism-crossmedia"
       ],
       "sources": [
         "enc-neoclassicism",
@@ -1906,7 +1907,8 @@
         "klee-with-the-dot",
         "klee-carnival-in-snow",
         "expressionism-music",
-        "munch"
+        "munch",
+        "expressionism-crossmedia"
       ],
       "sources": [
         "enc-expressionism",
@@ -2435,7 +2437,8 @@
         "conceptual-art",
         "bauhaus",
         "lewitt-wall-drawing-4",
-        "land-art"
+        "land-art",
+        "minimalism-crossmedia"
       ],
       "sources": [
         "enc-minimalism",
@@ -4468,7 +4471,8 @@
         "20th-century-classical",
         "serialism",
         "electronic-music",
-        "reich"
+        "reich",
+        "minimalism-crossmedia"
       ],
       "sources": [
         "enc-20th-century-classical",
@@ -23810,7 +23814,8 @@
         "erhu",
         "suona",
         "nanguan",
-        "noh"
+        "noh",
+        "east-asian-theatre-crossmedia"
       ],
       "sources": [
         "enc-kunqu",
@@ -25312,7 +25317,8 @@
         "stravinsky",
         "romantic-music",
         "neoclassicism",
-        "ravel"
+        "ravel",
+        "neoclassicism-crossmedia"
       ],
       "sources": [
         "enc-neoclassicism-music",
@@ -25348,7 +25354,8 @@
         "schoenberg",
         "kandinsky",
         "expressionism",
-        "impressionism-music"
+        "impressionism-music",
+        "expressionism-crossmedia"
       ],
       "sources": [
         "enc-expressionism-music",
@@ -26304,7 +26311,8 @@
         "kunqu",
         "shakuhachi",
         "koto-instrument",
-        "kabuki"
+        "kabuki",
+        "east-asian-theatre-crossmedia"
       ],
       "sources": [
         "enc-noh",
@@ -27753,7 +27761,8 @@
       "related": [
         "noh",
         "ukiyo-e",
-        "kano-school"
+        "kano-school",
+        "east-asian-theatre-crossmedia"
       ],
       "sources": [
         "enc-kabuki",
@@ -27841,6 +27850,159 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cantata 示意图'><title>cantata</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>17世纪初</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>单声部牧歌</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>康塔塔</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>伴奏声乐作品</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>教会与世俗</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>两类</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>巴赫等</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>成套教会康塔塔</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；代表作品未给出。"
+    },
+    {
+      "id": "expressionism-crossmedia",
+      "title": "表现主义：绘画与音乐的“强烈情感”",
+      "kind": "风格",
+      "unit": "comparative",
+      "era": "约公元1905—1930年代",
+      "region": "德奥等",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "并列美术表现主义与表现主义音乐：两侧来源都把“以表现强烈情感取代传统的美或客观再现”作为核心。",
+      "when": "约公元1905—1930年代",
+      "overview": "并列美术表现主义与表现主义音乐：两侧来源都把“以表现强烈情感取代传统的美或客观再现”作为核心。",
+      "related": [
+        "expressionism",
+        "expressionism-music"
+      ],
+      "sources": [
+        "enc-expressionism",
+        "enc-fauvism",
+        "wd-anchor-expressionism",
+        "aat-300021502",
+        "enc-expressionism-music",
+        "wd-expressionism-music"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "表现主义美术条目所据来源称，它约在1905至1930年兴起；表现主义音乐条目所据摘要称，这一词可能在1918年首次用于音乐。两者时间有重叠，但音乐一侧的术语出现较晚。",
+        "风格特征": "美术一侧：以变形与色彩表达内在情感，常以扭曲线条、强烈色彩表现焦虑与激情，形式服务于情绪传达而非客观再现。音乐一侧：避开“传统形式的美”以传达强烈感情；摘要转述阿多诺称其中不协和音占主导。",
+        "代表人物与作品": "两侧来源之间唯一的直接联系，是音乐一侧摘要自己提出的：勋伯格“像画家康定斯基一样”避开传统的美。除此之外，本条不补写其他人物。",
+        "技法或形式分析": "可比之处：美术以扭曲线条与强烈色彩，音乐以不协和音，各自放弃本媒介的“传统之美”。这一结构对应是本项目的归纳。",
+        "与前后风格的关系和争论": "勋伯格—康定斯基一点是来源的说法；其余对照是本项目所作。音乐一侧的主体内容是阿多诺一家之言，这一限制同样适用于本条。",
+        "一图": "示意图并列美术的扭曲与强烈色彩、音乐的不协和音，以勋伯格与康定斯基为两侧来源唯一的直接连接点。",
+        "待核实": "（1）两侧来源各自描述一个领域，并没有直接比较二者；本条把它们并列，是本项目所作的对照，不代表来源的观点。（2）音乐一侧依赖阿多诺诠释的转引；（3）两侧起讫年代来源不同，未统一断代。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='expressionism-crossmedia 示意图'><title>expressionism-crossmedia</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>扭曲与色彩</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>美术</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>表现主义</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>强烈情感</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>不协和音</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>音乐</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>勋伯格·康定斯基</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>来源所述连接</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据两侧条目来源</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "比较为本项目所作，两侧来源未直接相互比较；事实均取自两侧父条目的来源。"
+    },
+    {
+      "id": "minimalism-crossmedia",
+      "title": "极简主义：雕塑与音乐的“简化”",
+      "kind": "风格",
+      "unit": "comparative",
+      "era": "约公元1960—1970年代",
+      "region": "美国等",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "并列美术极简主义与简约主义音乐：两者都在1960年代兴起，名称都指向“简化”，但简化的对象不同。",
+      "when": "约公元1960—1970年代",
+      "overview": "并列美术极简主义与简约主义音乐：两者都在1960年代兴起，名称都指向“简化”，但简化的对象不同。",
+      "related": [
+        "minimalism",
+        "minimalism-music"
+      ],
+      "sources": [
+        "enc-minimalism",
+        "enc-bauhaus",
+        "wd-anchor-minimalism",
+        "enc-20th-century-classical",
+        "enc-serialism",
+        "wd-anchor-minimalism-music"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "两侧条目所据来源都把起点放在1960年代。美术一侧写作“极简主义”，音乐一侧写作“简约主义”，本站沿用两个条目原有的译名，不强行统一。",
+        "风格特征": "美术一侧：追求形式的极简与客观，常用几何基本形体与工业材料，强调与空间的物理关系，尽量减少艺术家的主观痕迹。音乐一侧：以简短动机的反复与渐进变化为特征，追求清晰简约的音响组织。",
+        "代表人物与作品": "音乐一侧另见史蒂夫·赖希条目：其摘要称他是1960年代中后期简约音乐的先驱，作品以重复音型与“相位移动”为特征。美术一侧来源未列人物，本条不补写。",
+        "技法或形式分析": "可比之处：美术的简化落在形体与材料（几何形、工业材料），音乐的简化落在材料的数量（简短动机）而以时间中的渐变展开。二者“简化什么”并不相同，这是本项目的归纳。",
+        "与前后风格的关系和争论": "两侧来源都没有提到对方。音乐一侧称它是一条有别于序列主义的路径；美术一侧来源把它与包豪斯并列为背景。二者之间是否有直接影响，本条不作判断。",
+        "一图": "示意图并列美术的几何形与工业材料、音乐的短动机反复与渐变，中间标注“简化对象不同”。",
+        "待核实": "（1）两侧来源各自描述一个领域，并没有直接比较二者；本条把它们并列，是本项目所作的对照，不代表来源的观点。（2）音乐一侧条目的来源是20世纪古典音乐与序列主义的通论页，不是简约主义的专页；（3）两种译名照旧并存。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='minimalism-crossmedia 示意图'><title>minimalism-crossmedia</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>几何与材料</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>美术的简化</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>极简/简约</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1960年代</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>短动机渐变</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>音乐的简化</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>无直接联系</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>来源未互提</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据两侧条目来源</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "比较为本项目所作，两侧来源未直接相互比较；事实均取自两侧父条目的来源。"
+    },
+    {
+      "id": "neoclassicism-crossmedia",
+      "title": "新古典主义：同名而相隔一个半世纪",
+      "kind": "风格",
+      "unit": "comparative",
+      "era": "约公元1750—1850年 / 1920—1930年代",
+      "region": "欧洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "辨析美术新古典主义（18世纪中后期起）与音乐新古典主义（两次大战之间）：名称相同，时代不同，但所追求的价值相近。",
+      "when": "约公元1750—1850年 / 1920—1930年代",
+      "overview": "辨析美术新古典主义（18世纪中后期起）与音乐新古典主义（两次大战之间）：名称相同，时代不同，但所追求的价值相近。",
+      "related": [
+        "neoclassicism",
+        "neoclassicism-music"
+      ],
+      "sources": [
+        "enc-neoclassicism",
+        "enc-romanticism",
+        "wd-anchor-neoclassicism",
+        "aat-300021477",
+        "enc-neoclassicism-music",
+        "wd-neoclassicism-music"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "美术一侧条目写作约1750—1850年；音乐一侧条目写作20世纪、尤其两次大战之间。二者相隔约一个半世纪，不是同一运动。本站另有“古典主义：新古典主义美术与古典时期音乐”一条，那一条比较的是18世纪的美术与音乐，与本条不同。",
+        "风格特征": "美术一侧：对称构图、清晰轮廓与古典题材，追求克制、理性与秩序。音乐一侧：回归秩序、平衡、清晰、简省与情感克制；表现为精简编制、强调节奏与对位、扩展的调性和声、专注绝对音乐。",
+        "代表人物与作品": "美术一侧来源以雅克-路易·大卫为代表；音乐一侧摘要未列作曲家，本条不补写。",
+        "技法或形式分析": "可比之处：两侧来源列出的价值词几乎重合——“克制”“秩序”“清晰”。不同之处在于各自反对的对象：美术一侧在大卫条目中被描述为离开洛可可的轻浮；音乐一侧被描述为反对晚期浪漫主义的无节制与“回归秩序”。",
+        "与前后风格的关系和争论": "两侧各自都在回应前一个风格，这种“相似的反动”是本项目的归纳，来源没有把两者相提并论。",
+        "一图": "示意图上下两层：18世纪美术（反洛可可）与20世纪音乐（反晚期浪漫），中间以共同价值词连接。",
+        "待核实": "（1）两侧来源各自描述一个领域，并没有直接比较二者；本条把它们并列，是本项目所作的对照，不代表来源的观点。（2）“反洛可可”取自大卫条目而非新古典主义条目本身；（3）读者勿把本条与 classical-crossmedia 混淆。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='neoclassicism-crossmedia 示意图'><title>neoclassicism-crossmedia</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>反洛可可</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>18世纪美术</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>新古典主义</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>同名两运动</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>反晚期浪漫</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>20世纪音乐</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>共同价值</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>克制·秩序·清晰</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据两侧条目来源</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "比较为本项目所作，两侧来源未直接相互比较；事实均取自两侧父条目的来源。"
+    },
+    {
+      "id": "east-asian-theatre-crossmedia",
+      "title": "东亚古典戏剧：昆曲、能乐与歌舞伎",
+      "kind": "风格",
+      "unit": "comparative",
+      "era": "约公元14世纪—今",
+      "region": "中国·日本",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "并列三种东亚古典戏剧：昆曲、能乐、歌舞伎，比较各自来源给出的起源时间、表演要素与传承方式。",
+      "when": "约公元14世纪—今",
+      "overview": "并列三种东亚古典戏剧：昆曲、能乐、歌舞伎，比较各自来源给出的起源时间、表演要素与传承方式。",
+      "related": [
+        "kunqu",
+        "noh",
+        "kabuki"
+      ],
+      "sources": [
+        "enc-kunqu",
+        "wd-kunqu",
+        "enc-noh",
+        "wd-noh",
+        "enc-kabuki",
+        "wd-kabuki"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "据各自条目来源：能乐自14世纪起演出至今；昆曲16至18世纪主导中国剧坛；歌舞伎被认为起源于江户时代初期，18世纪中叶达到顶峰。",
+        "风格特征": "表演要素：昆曲结合音乐、舞蹈、诗歌与表演；能乐以面具、服装与道具进行以舞蹈为基础的表演，情感主要靠程式化动作传达；歌舞伎以高度程式化的表演、华丽服装与“隈取”妆著称。",
+        "代表人物与作品": "各条来源给出的人物：昆曲有魏良辅改良音乐、梁辰鱼《浣纱记》、明代《牡丹亭》；歌舞伎有创始人出云阿国；能乐来源未列人物。",
+        "技法或形式分析": "可比之处：三者都被来源描述为“程式化”或综合多种表演手段；能乐用面具，歌舞伎用隈取妆，昆曲条目来源未提面部装扮。传承方面，能乐受“家元”制度规范，歌舞伎自1629年起为全男班。",
+        "与前后风格的关系和争论": "三个条目的来源互不提及。昆曲与日本戏剧之间是否有影响关系，本条不作判断。",
+        "一图": "示意图并列三种戏剧的起源时间与标志性要素（昆曲：音乐诗歌；能乐：面具；歌舞伎：隈取妆）。",
+        "待核实": "（1）两侧来源各自描述一个领域，并没有直接比较二者；本条把它们并列，是本项目所作的对照，不代表来源的观点。（2）三个条目的来源都是维基百科摘要或导言，来源独立性有限；（3）“程式化”一词在三条来源中含义未必一致。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='east-asian-theatre-cross 示意图'><title>east-asian-theatre-cross</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>昆曲</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>16—18世纪主导</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>东亚古典戏剧</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>三者并列</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>能乐</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>14世纪起·面具</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>歌舞伎</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>江户初·隈取</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据两侧条目来源</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "比较为本项目所作，两侧来源未直接相互比较；事实均取自两侧父条目的来源。"
     }
   ]
 }

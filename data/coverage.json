@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 780,
+    "total": 784,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -9369,6 +9369,54 @@
       "status": "written_l2",
       "sources_count": 2,
       "verified_sources_count": 2,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "expressionism-crossmedia": {
+      "title": "表现主义：绘画与音乐的“强烈情感”",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 6,
+      "verified_sources_count": 6,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "minimalism-crossmedia": {
+      "title": "极简主义：雕塑与音乐的“简化”",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 6,
+      "verified_sources_count": 6,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "neoclassicism-crossmedia": {
+      "title": "新古典主义：同名而相隔一个半世纪",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 6,
+      "verified_sources_count": 6,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "east-asian-theatre-crossmedia": {
+      "title": "东亚古典戏剧：昆曲、能乐与歌舞伎",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 6,
+      "verified_sources_count": 6,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",

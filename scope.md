@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 780 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 784 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -532,6 +532,10 @@
 | impression-crossmedia | 印象主义：光与色的跨媒介追求 | 风格 | 19末—20世纪初 | 欧洲 | 综合 | 重要 | O1 |
 | medieval-crossmedia | 中世纪：石构教堂与圣咏的并行 | 风格 | 中世纪 | 欧洲 | 综合 | 重要 | O1 |
 | classical-crossmedia | 古典主义：新古典主义美术与古典时期音乐 | 风格 | 18—19世纪初 | 欧洲 | 综合 | 重要 | O1 |
+| expressionism-crossmedia | 表现主义：绘画与音乐的“强烈情感” | 风格 | 约公元1905—1930年代 | 德奥等 | 综合 | 重要 | O1 |
+| minimalism-crossmedia | 极简主义：雕塑与音乐的“简化” | 风格 | 约公元1960—1970年代 | 美国等 | 综合 | 重要 | O1 |
+| neoclassicism-crossmedia | 新古典主义：同名而相隔一个半世纪 | 风格 | 约公元1750—1850年 / 1920—1930年代 | 欧洲 | 综合 | 重要 | O1 |
+| east-asian-theatre-crossmedia | 东亚古典戏剧：昆曲、能乐与歌舞伎 | 风格 | 约公元14世纪—今 | 中国·日本 | 综合 | 重要 | O1 |
 
 ## glossary-tools（术语与辨疑）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

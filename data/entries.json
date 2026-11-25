@@ -791,7 +791,8 @@
         "neoclassical-architecture",
         "beaux-arts-architecture",
         "neoclassicism-music",
-        "jacques-louis-david"
+        "jacques-louis-david",
+        "neoclassicism-crossmedia"
       ],
       "sources": [
         "enc-neoclassicism",
@@ -1092,7 +1093,8 @@
         "klee-with-the-dot",
         "klee-carnival-in-snow",
         "expressionism-music",
-        "munch"
+        "munch",
+        "expressionism-crossmedia"
       ],
       "sources": [
         "enc-expressionism",
@@ -1442,7 +1444,8 @@
         "conceptual-art",
         "bauhaus",
         "lewitt-wall-drawing-4",
-        "land-art"
+        "land-art",
+        "minimalism-crossmedia"
       ],
       "sources": [
         "enc-minimalism",
@@ -2778,7 +2781,8 @@
         "20th-century-classical",
         "serialism",
         "electronic-music",
-        "reich"
+        "reich",
+        "minimalism-crossmedia"
       ],
       "sources": [
         "enc-20th-century-classical",
@@ -14854,7 +14858,8 @@
         "erhu",
         "suona",
         "nanguan",
-        "noh"
+        "noh",
+        "east-asian-theatre-crossmedia"
       ],
       "sources": [
         "enc-kunqu",
@@ -15795,7 +15800,8 @@
         "stravinsky",
         "romantic-music",
         "neoclassicism",
-        "ravel"
+        "ravel",
+        "neoclassicism-crossmedia"
       ],
       "sources": [
         "enc-neoclassicism-music",
@@ -15818,7 +15824,8 @@
         "schoenberg",
         "kandinsky",
         "expressionism",
-        "impressionism-music"
+        "impressionism-music",
+        "expressionism-crossmedia"
       ],
       "sources": [
         "enc-expressionism-music",
@@ -16420,7 +16427,8 @@
         "kunqu",
         "shakuhachi",
         "koto-instrument",
-        "kabuki"
+        "kabuki",
+        "east-asian-theatre-crossmedia"
       ],
       "sources": [
         "enc-noh",
@@ -17323,7 +17331,8 @@
       "related": [
         "noh",
         "ukiyo-e",
-        "kano-school"
+        "kano-school",
+        "east-asian-theatre-crossmedia"
       ],
       "sources": [
         "enc-kabuki",
@@ -17371,6 +17380,107 @@
       "sources": [
         "enc-cantata",
         "wd-cantata"
+      ]
+    },
+    {
+      "id": "expressionism-crossmedia",
+      "title": "表现主义：绘画与音乐的“强烈情感”",
+      "kind": "风格",
+      "unit": "comparative",
+      "era": "约公元1905—1930年代",
+      "region": "德奥等",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "并列美术表现主义与表现主义音乐：两侧来源都把“以表现强烈情感取代传统的美或客观再现”作为核心。",
+      "when": "约公元1905—1930年代",
+      "overview": "并列美术表现主义与表现主义音乐：两侧来源都把“以表现强烈情感取代传统的美或客观再现”作为核心。",
+      "related": [
+        "expressionism",
+        "expressionism-music"
+      ],
+      "sources": [
+        "enc-expressionism",
+        "enc-fauvism",
+        "wd-anchor-expressionism",
+        "aat-300021502",
+        "enc-expressionism-music",
+        "wd-expressionism-music"
+      ]
+    },
+    {
+      "id": "minimalism-crossmedia",
+      "title": "极简主义：雕塑与音乐的“简化”",
+      "kind": "风格",
+      "unit": "comparative",
+      "era": "约公元1960—1970年代",
+      "region": "美国等",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "并列美术极简主义与简约主义音乐：两者都在1960年代兴起，名称都指向“简化”，但简化的对象不同。",
+      "when": "约公元1960—1970年代",
+      "overview": "并列美术极简主义与简约主义音乐：两者都在1960年代兴起，名称都指向“简化”，但简化的对象不同。",
+      "related": [
+        "minimalism",
+        "minimalism-music"
+      ],
+      "sources": [
+        "enc-minimalism",
+        "enc-bauhaus",
+        "wd-anchor-minimalism",
+        "enc-20th-century-classical",
+        "enc-serialism",
+        "wd-anchor-minimalism-music"
+      ]
+    },
+    {
+      "id": "neoclassicism-crossmedia",
+      "title": "新古典主义：同名而相隔一个半世纪",
+      "kind": "风格",
+      "unit": "comparative",
+      "era": "约公元1750—1850年 / 1920—1930年代",
+      "region": "欧洲",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "辨析美术新古典主义（18世纪中后期起）与音乐新古典主义（两次大战之间）：名称相同，时代不同，但所追求的价值相近。",
+      "when": "约公元1750—1850年 / 1920—1930年代",
+      "overview": "辨析美术新古典主义（18世纪中后期起）与音乐新古典主义（两次大战之间）：名称相同，时代不同，但所追求的价值相近。",
+      "related": [
+        "neoclassicism",
+        "neoclassicism-music"
+      ],
+      "sources": [
+        "enc-neoclassicism",
+        "enc-romanticism",
+        "wd-anchor-neoclassicism",
+        "aat-300021477",
+        "enc-neoclassicism-music",
+        "wd-neoclassicism-music"
+      ]
+    },
+    {
+      "id": "east-asian-theatre-crossmedia",
+      "title": "东亚古典戏剧：昆曲、能乐与歌舞伎",
+      "kind": "风格",
+      "unit": "comparative",
+      "era": "约公元14世纪—今",
+      "region": "中国·日本",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "并列三种东亚古典戏剧：昆曲、能乐、歌舞伎，比较各自来源给出的起源时间、表演要素与传承方式。",
+      "when": "约公元14世纪—今",
+      "overview": "并列三种东亚古典戏剧：昆曲、能乐、歌舞伎，比较各自来源给出的起源时间、表演要素与传承方式。",
+      "related": [
+        "kunqu",
+        "noh",
+        "kabuki"
+      ],
+      "sources": [
+        "enc-kunqu",
+        "wd-kunqu",
+        "enc-noh",
+        "wd-noh",
+        "enc-kabuki",
+        "wd-kabuki"
       ]
     }
   ]
