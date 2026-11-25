@@ -2,13 +2,13 @@
   "id": "mondrian",
   "level": "L2",
   "sections": {
-    "时代背景": "摘要称，蒙德里安是荷兰画家和艺术理论家，1911年后以 Piet Mondrian 为名。（生卒年摘要未给出，本条目不写具体年份。）",
+    "时代背景": "据德国国家图书馆规范档（GND 118583441），其生卒年为 1872—1944。摘要称，蒙德里安是荷兰画家和艺术理论家，1911年后以 Piet Mondrian 为名。",
     "风格特征": "摘要称，他把艺术方向从具象绘画转向越来越抽象的风格，直到艺术语汇被简化为简单的几何元素。",
     "代表人物与作品": "摘要没有列举作品。库内另有他的两件作品条目：《红、黄、蓝构图》（1927）与《前景有幼树的田野》（约1907）。",
     "技法或形式分析": "摘要给出的形式信息就是“简单的几何元素”。本条目不补写网格、原色等细节。",
     "与前后风格的关系和争论": "摘要称，他被视为20世纪最伟大的艺术家之一、20世纪抽象艺术的先驱之一。“最伟大”是评价性表述。",
     "一图": "示意图以蒙德里安为中心，标示具象绘画、抽象转向、几何元素三项。",
-    "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“最伟大”为评价性表述未核验；（3）风格派等关联摘要未述；（4）生卒年未给出。（GND 对照，2026-11-25）德国国家图书馆规范档（118583441）给出生卒 1872—1944；本条目未写具体生卒年，可据此补充。"
+    "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“最伟大”为评价性表述未核验；（3）风格派等关联摘要未述；（4）生卒年未给出。（GND 对照，2026-11-25）德国国家图书馆规范档（118583441）给出生卒 1872—1944；已据此写入“时代背景”，但只有 GND 一家，未与第二来源核对。"
   },
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='mondrian 示意图'><title>mondrian</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>具象绘画</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>早期方向</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>蒙德里安</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>画家·理论家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>抽象转向</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>逐步简化</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>几何元素</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>最终语汇</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
   "sources": [
@@ -17,5 +17,5 @@
     "gnd-118583441"
   ],
   "needs_verification": true,
-  "pending_notes": "GND 规范档给出生卒 1872—1944，本条目尚未写入；来源独立性有限（Wikipedia+Wikidata）；评价性表述未核验；生卒年未给出。"
+  "pending_notes": "生卒 1872—1944 取自 GND 规范档（单一来源，未与第二家核对）；来源独立性有限（Wikipedia+Wikidata）；评价性表述未核验。"
 }

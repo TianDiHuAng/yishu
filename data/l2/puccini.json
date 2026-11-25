@@ -2,13 +2,13 @@
   "id": "puccini",
   "level": "L2",
   "sections": {
-    "时代背景": "摘要称，他出身于一个可追溯到巴洛克晚期的作曲家世家。（生卒年摘要未给出，本条目不写具体年份。）",
+    "时代背景": "据德国国家图书馆规范档（GND 118596942），其生卒年为 1858—1924。摘要称，他出身于一个可追溯到巴洛克晚期的作曲家世家。",
     "风格特征": "摘要称，他早期作品扎根于19世纪末传统的浪漫主义意大利歌剧，后来发展为写实的真实主义（verismo）风格，并成为其主要代表之一。",
     "代表人物与作品": "摘要没有列举具体歌剧，本条目不补写。",
     "技法或形式分析": "摘要没有给出这方面内容，本条目不补写。",
     "与前后风格的关系和争论": "摘要称，他被普遍视为威尔第之后意大利歌剧最伟大、最成功的倡导者。这是评价性表述。",
     "一图": "示意图以普契尼为中心，标示作曲世家、浪漫主义歌剧、真实主义三项。",
-    "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）评价性表述未核验；（3）作品与生卒年未给出；（4）威尔第条目库内尚无。（GND 对照，2026-11-25）德国国家图书馆规范档（118596942）给出生卒 1858—1924；本条目未写具体生卒年，可据此补充。"
+    "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）评价性表述未核验；（3）作品与生卒年未给出；（4）威尔第条目库内尚无。（GND 对照，2026-11-25）德国国家图书馆规范档（118596942）给出生卒 1858—1924；已据此写入“时代背景”，但只有 GND 一家，未与第二来源核对。"
   },
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='puccini 示意图'><title>puccini</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>作曲世家</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>巴洛克晚期起</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>普契尼</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>意大利歌剧</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>浪漫主义歌剧</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>早期</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>真实主义</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>后期代表</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
   "sources": [
@@ -17,5 +17,5 @@
     "gnd-118596942"
   ],
   "needs_verification": true,
-  "pending_notes": "GND 规范档给出生卒 1858—1924，本条目尚未写入；来源独立性有限（Wikipedia+Wikidata）；作品与生卒年未给出；评价未核验。"
+  "pending_notes": "生卒 1858—1924 取自 GND 规范档（单一来源，未与第二家核对）；来源独立性有限（Wikipedia+Wikidata）；作品未给出；评价未核验。"
 }

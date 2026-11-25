@@ -22363,17 +22363,17 @@
       ],
       "level": "L2",
       "sections": {
-        "时代背景": "摘要称，若斯坎是法国或佛兰德斯—法国乐派的文艺复兴作曲家，对16世纪欧洲音乐影响深远。摘要没有给出生卒年；Wikidata 的简介给出约1450—1521年，本条目未采用，留待核实。",
+        "时代背景": "据德国国家图书馆规范档（GND 118524895），其生卒年为 1440—1521。摘要称，若斯坎是法国或佛兰德斯—法国乐派的文艺复兴作曲家，对16世纪欧洲音乐影响深远。摘要没有给出生卒年；Wikidata 的简介给出约1450—1521年，本条目未采用，留待核实。",
         "风格特征": "摘要称，他发展出在各独立声部之间富于表现、常带模仿的复调风格，强调文字与音乐的关系，不再沿用早期文艺复兴冗长的单音节花腔，而偏好声部之间较短、反复的动机。",
         "代表人物与作品": "摘要称，他的作品以声乐为主，包括弥撒曲、经文歌与世俗尚松。摘要没有列出具体作品名，本条目不补写。",
         "技法或形式分析": "摘要称，他立足于奥克冈等前辈的成就。形式要点：独立声部间的模仿、文字与音乐的关系、较短而反复的动机。",
         "与前后风格的关系和争论": "摘要称，他被视为文艺复兴最伟大的作曲家之一，是佛兰德斯—法国乐派的核心人物。“最伟大”是摘要转述的评价，本条目不作独立判断。",
         "一图": "示意图以若斯坎为中心，标示奥克冈等前辈、模仿式复调、弥撒曲经文歌与尚松三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata 标签，来源独立性有限，整条标记待核实。（2）生卒年与籍贯争议（摘要写“法国或佛兰德斯—法国”），本条目不裁断；（3）具体作品，摘要未给出；（4）“最伟大”属评价性表述。（LC 名称权威对照，2026-11-24）LC 标目：Josquin, des Prez, -1521。LC 只给出卒年1521，无生年，仅能印证卒年。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。（GND 对照，2026-11-25）德国国家图书馆规范档（118524895）给出生卒 1440—1521；本条目未写具体生卒年，可据此补充。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata 标签，来源独立性有限，整条标记待核实。（2）生卒年与籍贯争议（摘要写“法国或佛兰德斯—法国”），本条目不裁断；（3）具体作品，摘要未给出；（4）“最伟大”属评价性表述。（LC 名称权威对照，2026-11-24）LC 标目：Josquin, des Prez, -1521。LC 只给出卒年1521，无生年，仅能印证卒年。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。（GND 对照，2026-11-25）德国国家图书馆规范档（118524895）给出生卒 1440—1521；已据此写入“时代背景”，但只有 GND 一家，未与第二来源核对。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='josquin 示意图'><title>josquin</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>奥克冈等前辈</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>所本</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>若斯坎</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>文艺复兴</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>模仿式复调</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>独立声部</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>弥撒曲经文歌尚松</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>声乐为主</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "GND 规范档给出生卒 1440—1521，本条目尚未写入；已补美国国会图书馆名称权威作独立来源（只印证名称与年代）；生卒年、籍贯与作品未核实。"
+      "pending_notes": "生卒 1440—1521 取自 GND 规范档（单一来源，未与第二家核对）；已补美国国会图书馆名称权威作独立来源（只印证名称与年代）；生卒年、籍贯与作品未核实。"
     },
     {
       "id": "hildegard",
@@ -22401,17 +22401,17 @@
       ],
       "level": "L2",
       "sections": {
-        "时代背景": "摘要称，希尔德加德活跃于中世纪盛期。摘要没有给出生卒年；Wikidata 的简介给出1098—1179年，本条目未采用，留待核实。",
+        "时代背景": "据德国国家图书馆规范档（GND 118550993），其生卒年为 1098—1179。摘要称，希尔德加德活跃于中世纪盛期。摘要没有给出生卒年；Wikidata 的简介给出1098—1179年，本条目未采用，留待核实。",
         "风格特征": "摘要称，她是最知名的圣咏单声部作曲家之一，也是现代录音最多的作曲家。",
         "代表人物与作品": "摘要称，她是德国本笃会女修道院长与博学者，身兼医学作者、作曲家、哲学家、神秘主义者与异象者，号称“莱茵河的女先知”。摘要没有列出具体作品名，本条目不补写。",
         "技法或形式分析": "摘要只说明她写的是圣咏的单声部音乐，没有给出具体的音乐手法。",
         "与前后风格的关系和争论": "摘要称，一些学者认为她是德国科学博物学的奠基者。这一说法属学者意见，本条目不作判断。可对照格里高利圣咏阅读，但摘要没有把两者联系起来。",
         "一图": "示意图以希尔德加德为中心，标示本笃会女修道院长、圣咏单声部作曲、博学者三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata 标签，来源独立性有限，整条标记待核实。（2）生卒年，摘要未给出；（3）具体作品，摘要未给出；（4）“现代录音最多”是摘要的说法，本条目未核验。（LC 名称权威对照，2026-11-24）LC 标目：Hildegard, Saint, 1098-1179。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。（GND 对照，2026-11-25）德国国家图书馆规范档（118550993）给出生卒 1098—1179；本条目未写具体生卒年，可据此补充。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata 标签，来源独立性有限，整条标记待核实。（2）生卒年，摘要未给出；（3）具体作品，摘要未给出；（4）“现代录音最多”是摘要的说法，本条目未核验。（LC 名称权威对照，2026-11-24）LC 标目：Hildegard, Saint, 1098-1179。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。（GND 对照，2026-11-25）德国国家图书馆规范档（118550993）给出生卒 1098—1179；已据此写入“时代背景”，但只有 GND 一家，未与第二来源核对。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='hildegard 示意图'><title>hildegard</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>本笃会女修道院长</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>德国</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>希尔德加德</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>中世纪盛期</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>圣咏单声部</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>作曲家</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>博学者</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>医学哲学等</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "GND 规范档给出生卒 1098—1179，本条目尚未写入；已补美国国会图书馆名称权威作独立来源（只印证名称与年代）；生卒年与作品未核实。"
+      "pending_notes": "生卒 1098—1179 取自 GND 规范档（单一来源，未与第二家核对）；已补美国国会图书馆名称权威作独立来源（只印证名称与年代）；生卒年与作品未核实。"
     },
     {
       "id": "mughal-architecture",
@@ -22899,17 +22899,17 @@
       ],
       "level": "L2",
       "sections": {
-        "时代背景": "摘要称，塔利斯是盛期文艺复兴的英国作曲家。",
+        "时代背景": "据德国国家图书馆规范档（GND 118801252），其生卒年为 1505—1585。摘要称，塔利斯是盛期文艺复兴的英国作曲家。",
         "风格特征": "摘要称，他的作品以声乐为主，在英国合唱音乐的选集中占据首要位置。",
         "代表人物与作品": "摘要没有列出具体作品名，本条目不补写。相关条目可参见文艺复兴音乐、经文歌与伯德。",
         "技法或形式分析": "摘要没有给出具体的技法或形式，本条目不补写。",
         "与前后风格的关系和争论": "摘要称，他被视为英国最伟大的作曲家之一，因其在英国音乐中独特的声音而受到推崇。这是摘要转述的评价，本条目不作独立判断；摘要没有谈到他与伯德的关系。",
         "一图": "示意图以塔利斯为中心，标示盛期文艺复兴、声乐为主、英国合唱音乐三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年，摘要与 Wikidata 简介（仅写“English composer”）均未给出；条目 when 写“约公元16世纪”，是据文艺复兴音乐页（15、16世纪）与“盛期文艺复兴”推算，不是对其生卒年的断言，需另取来源核实；（3）具体作品，摘要未给出。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 记录为 1505—1585，与本条目“约公元16世纪”的世纪推算相容，但该库独立性有限，本条目不采用其年份，仍保持原写法。（LC 名称权威对照，2026-11-24）LC 标目：Tallis, Thomas, approximately 1505-1585。LC 为约1505—1585年，本条目 when 只写到世纪，未改。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。（GND 对照，2026-11-25）德国国家图书馆规范档（118801252）给出生卒 1505—1585；本条目未写具体生卒年，可据此补充。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年，摘要与 Wikidata 简介（仅写“English composer”）均未给出；条目 when 写“约公元16世纪”，是据文艺复兴音乐页（15、16世纪）与“盛期文艺复兴”推算，不是对其生卒年的断言，需另取来源核实；（3）具体作品，摘要未给出。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 记录为 1505—1585，与本条目“约公元16世纪”的世纪推算相容，但该库独立性有限，本条目不采用其年份，仍保持原写法。（LC 名称权威对照，2026-11-24）LC 标目：Tallis, Thomas, approximately 1505-1585。LC 为约1505—1585年，本条目 when 只写到世纪，未改。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。（GND 对照，2026-11-25）德国国家图书馆规范档（118801252）给出生卒 1505—1585；已据此写入“时代背景”，但只有 GND 一家，未与第二来源核对。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='tallis 示意图'><title>tallis</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>盛期文艺复兴</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>英国</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>塔利斯</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>作曲家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>声乐为主</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>作品</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>英国合唱音乐</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>选集首位</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "GND 规范档给出生卒 1505—1585，本条目尚未写入；已补美国国会图书馆名称权威作独立来源（只印证名称与年代）；生卒年均未给出，when 为推算；作品未给出。"
+      "pending_notes": "生卒 1505—1585 取自 GND 规范档（单一来源，未与第二家核对）；已补美国国会图书馆名称权威作独立来源（只印证名称与年代）；生卒年均未给出，when 为推算；作品未给出。"
     },
     {
       "id": "byrd",
@@ -23207,17 +23207,17 @@
       ],
       "level": "L2",
       "sections": {
-        "时代背景": "摘要称，他按年代主要被归为巴洛克作曲家，但其音乐对古典风格的发展有影响。",
+        "时代背景": "据德国国家图书馆规范档（GND 118804952），其生卒年为 1685—1757。摘要称，他按年代主要被归为巴洛克作曲家，但其音乐对古典风格的发展有影响。",
         "风格特征": "摘要称，他和父亲亚历山德罗·斯卡拉蒂一样，用多种音乐形式创作，今天主要以555首键盘奏鸣曲闻名。",
         "代表人物与作品": "摘要点名的是555首键盘奏鸣曲，没有列出具体曲名，本条目不补写。他一生大部分时间效力于葡萄牙与西班牙王室。库内相关条目可参见奏鸣曲。",
         "技法或形式分析": "摘要没有给出键盘奏鸣曲的具体形式，本条目不补写。",
         "与前后风格的关系和争论": "摘要称，他按年代属巴洛克，音乐却影响了古典风格的发展，位于两个时期之间；影响的具体表现，摘要未给出。",
         "一图": "示意图以斯卡拉蒂为中心，标示巴洛克、555首键盘奏鸣曲、影响古典风格三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年摘要与 Wikidata 简介均未给出；条目 when 写“约公元17—18世纪”，是据摘要将其归为巴洛克作曲家、并参照巴洛克音乐页（约1600—1750）推算的世纪范围，不是其生卒年的断言，需另取来源核实。（3）具体曲目，摘要未给出；（4）Wikipedia 页面标题为 Domenico Scarlatti，库内 id 为 scarlatti-domenico，以区别于其父亚历山德罗。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 记录为 1685—1757，与本条目“约公元17—18世纪”的世纪推算相容，但该库独立性有限，本条目不采用其年份，仍保持原写法。（LC 名称权威对照，2026-11-24）LC 标目：Scarlatti, Domenico, 1685-1757。本条目 when 只写\"约公元17—18世纪\"，LC 精确年份为1685—1757，二者相容；when 未改。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。（GND 对照，2026-11-25）德国国家图书馆规范档（118804952）给出生卒 1685—1757；本条目未写具体生卒年，可据此补充。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年摘要与 Wikidata 简介均未给出；条目 when 写“约公元17—18世纪”，是据摘要将其归为巴洛克作曲家、并参照巴洛克音乐页（约1600—1750）推算的世纪范围，不是其生卒年的断言，需另取来源核实。（3）具体曲目，摘要未给出；（4）Wikipedia 页面标题为 Domenico Scarlatti，库内 id 为 scarlatti-domenico，以区别于其父亚历山德罗。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 记录为 1685—1757，与本条目“约公元17—18世纪”的世纪推算相容，但该库独立性有限，本条目不采用其年份，仍保持原写法。（LC 名称权威对照，2026-11-24）LC 标目：Scarlatti, Domenico, 1685-1757。本条目 when 只写\"约公元17—18世纪\"，LC 精确年份为1685—1757，二者相容；when 未改。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。（GND 对照，2026-11-25）德国国家图书馆规范档（118804952）给出生卒 1685—1757；已据此写入“时代背景”，但只有 GND 一家，未与第二来源核对。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='scarlatti-domenico 示意图'><title>scarlatti-domenico</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>巴洛克</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>按年代</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>斯卡拉蒂</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>意大利</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>555首键盘奏鸣曲</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>今日所知</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>影响古典风格</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>发展</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "GND 规范档给出生卒 1685—1757，本条目尚未写入；已补美国国会图书馆名称权威作独立来源（只印证名称与年代）；生卒年均未给出，when 为推算；曲目未给出。"
+      "pending_notes": "生卒 1685—1757 取自 GND 规范档（单一来源，未与第二家核对）；已补美国国会图书馆名称权威作独立来源（只印证名称与年代）；生卒年均未给出，when 为推算；曲目未给出。"
     },
     {
       "id": "corelli",
@@ -23284,17 +23284,17 @@
       ],
       "level": "L2",
       "sections": {
-        "时代背景": "摘要称，泰勒曼是德国巴洛克作曲家与多乐器演奏家。",
+        "时代背景": "据德国国家图书馆规范档（GND 11862119X），其生卒年为 1681—1767。摘要称，泰勒曼是德国巴洛克作曲家与多乐器演奏家。",
         "风格特征": "摘要称，至少就现存作品而言，他是历史上最多产的作曲家之一。",
         "代表人物与作品": "摘要没有列出具体作品名，本条目不补写。摘要称，同时代人认为他是当时德国主要的作曲家之一。库内相关条目可参见巴赫。",
         "技法或形式分析": "摘要没有给出具体的技法或形式，本条目不补写。",
         "与前后风格的关系和争论": "摘要称，同时代人把他与好友巴赫、也与他本人认识的亨德尔相提并论且评价颇高；巴赫曾让泰勒曼做自己儿子卡尔·菲利普·埃马努埃尔的教父，并以其名为子取名。“最多产”与“评价颇高”都是摘要的叙述，本条目不作独立判断。",
         "一图": "示意图以泰勒曼为中心，标示最多产作曲家之一、与巴赫是好友、与亨德尔相识三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年摘要与 Wikidata 简介均未给出；条目 when 写“约公元17—18世纪”，是据摘要将其归为巴洛克作曲家、并参照巴洛克音乐页（约1600—1750）推算的世纪范围，不是其生卒年的断言，需另取来源核实。（3）具体作品，摘要未给出；（4）“最多产”限定为“至少就现存作品而言”，本条目沿用此限定。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 记录为 1681—1767，与本条目“约公元17—18世纪”的世纪推算相容，但该库独立性有限，本条目不采用其年份，仍保持原写法。（LC 名称权威对照，2026-11-24）LC 标目：Telemann, Georg Philipp, 1681-1767。本条目 when 只写\"约公元17—18世纪\"，LC 精确年份为1681—1767，二者相容；when 未改。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。（GND 对照，2026-11-25）德国国家图书馆规范档（11862119X）给出生卒 1681—1767；本条目未写具体生卒年，可据此补充。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-24 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年摘要与 Wikidata 简介均未给出；条目 when 写“约公元17—18世纪”，是据摘要将其归为巴洛克作曲家、并参照巴洛克音乐页（约1600—1750）推算的世纪范围，不是其生卒年的断言，需另取来源核实。（3）具体作品，摘要未给出；（4）“最多产”限定为“至少就现存作品而言”，本条目沿用此限定。（MusicBrainz 交叉核对，2026-11-24）MusicBrainz 记录为 1681—1767，与本条目“约公元17—18世纪”的世纪推算相容，但该库独立性有限，本条目不采用其年份，仍保持原写法。（LC 名称权威对照，2026-11-24）LC 标目：Telemann, Georg Philipp, 1681-1767。本条目 when 只写\"约公元17—18世纪\"，LC 精确年份为1681—1767，二者相容；when 未改。LC 权威档案只能印证姓名与生卒年，不能印证风格归属或代表作。（GND 对照，2026-11-25）德国国家图书馆规范档（11862119X）给出生卒 1681—1767；已据此写入“时代背景”，但只有 GND 一家，未与第二来源核对。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='telemann 示意图'><title>telemann</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>巴赫</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>好友</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>泰勒曼</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>德国巴洛克</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>亨德尔</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>相识</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>最多产之一</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>就现存作品</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "GND 规范档给出生卒 1681—1767，本条目尚未写入；已补美国国会图书馆名称权威作独立来源（只印证名称与年代）；生卒年均未给出，when 为推算；作品未给出。"
+      "pending_notes": "生卒 1681—1767 取自 GND 规范档（单一来源，未与第二家核对）；已补美国国会图书馆名称权威作独立来源（只印证名称与年代）；生卒年均未给出，when 为推算；作品未给出。"
     },
     {
       "id": "korean-architecture",
@@ -23687,17 +23687,17 @@
       ],
       "level": "L2",
       "sections": {
-        "时代背景": "摘要称，门德尔松属浪漫主义早期。（生卒年摘要未给出，本条目不写具体年份，待取机构来源后补。）",
+        "时代背景": "据德国国家图书馆规范档（GND 118580779），其生卒年为 1809—1847。摘要称，门德尔松属浪漫主义早期。（生卒年摘要未给出，本条目不写具体年份，待取机构来源后补。）",
         "风格特征": "摘要没有描述其风格特征，本条目不补写。",
         "代表人物与作品": "摘要列出的名作：弦乐八重奏、《仲夏夜之梦》序曲与配乐、《意大利》与《苏格兰》交响曲、清唱剧《圣保罗》与《以利亚》、《赫布里底群岛》序曲、成熟期的小提琴协奏曲，以及圣诞颂歌《听啊，天使高声唱》所用的旋律；《无词歌》是他最著名的钢琴独奏作品。",
         "技法或形式分析": "摘要只列体裁：交响曲、协奏曲、钢琴曲、管风琴曲、室内乐。本条目不补写技法分析。",
         "与前后风格的关系和争论": "摘要没有谈及他与前后风格的关系或相关争论。",
         "一图": "示意图以门德尔松为中心，标示浪漫主义早期、交响曲与序曲、《无词歌》三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）风格特征、生卒年与生平，摘要均未给出。（GND 对照，2026-11-25）德国国家图书馆规范档（118580779）给出生卒 1809—1847；本条目未写具体生卒年，可据此补充。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）风格特征、生卒年与生平，摘要均未给出。（GND 对照，2026-11-25）德国国家图书馆规范档（118580779）给出生卒 1809—1847；已据此写入“时代背景”，但只有 GND 一家，未与第二来源核对。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='mendelssohn 示意图'><title>mendelssohn</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>浪漫主义早期</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>德国</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>门德尔松</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>作曲·钢琴·指挥</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>交响曲与序曲</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>意大利·苏格兰</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>无词歌</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>钢琴独奏</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "GND 规范档给出生卒 1809—1847，本条目尚未写入；来源独立性有限（Wikipedia+Wikidata）；风格与生卒年未给出。"
+      "pending_notes": "生卒 1809—1847 取自 GND 规范档（单一来源，未与第二家核对）；来源独立性有限（Wikipedia+Wikidata）；风格未给出。"
     },
     {
       "id": "berlioz",
@@ -23723,17 +23723,17 @@
       ],
       "level": "L2",
       "sections": {
-        "时代背景": "摘要称，柏辽兹是法国浪漫主义作曲家、指挥家和评论家。（生卒年摘要未给出，本条目不写具体年份，待取机构来源后补。）",
+        "时代背景": "据德国国家图书馆规范档（GND 118509675），其生卒年为 1803—1869。摘要称，柏辽兹是法国浪漫主义作曲家、指挥家和评论家。（生卒年摘要未给出，本条目不写具体年份，待取机构来源后补。）",
         "风格特征": "摘要没有直接描述风格，但指出他写有混合体裁作品：“戏剧交响曲”《罗密欧与朱丽叶》、“戏剧传奇”《浮士德的天谴》。",
         "代表人物与作品": "摘要列出：管弦乐《幻想交响曲》《哈罗尔德在意大利》；合唱《安魂曲》《基督的童年》；三部歌剧《本韦努托·切利尼》《特洛伊人》《比阿特丽斯与贝内迪克》。",
         "技法或形式分析": "摘要没有给出配器或曲式方面的内容，本条目不补写。",
         "与前后风格的关系和争论": "摘要没有谈及他与标题音乐的关系；库内互链为本项目所加。",
         "一图": "示意图以柏辽兹为中心，标示《幻想交响曲》、三部歌剧、混合体裁三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）风格、生卒年与评论活动细节，摘要均未给出；（3）“混合体裁”是对摘要所引两种自称体裁的概括。（GND 对照，2026-11-25）德国国家图书馆规范档（118509675）给出生卒 1803—1869；本条目未写具体生卒年，可据此补充。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）风格、生卒年与评论活动细节，摘要均未给出；（3）“混合体裁”是对摘要所引两种自称体裁的概括。（GND 对照，2026-11-25）德国国家图书馆规范档（118509675）给出生卒 1803—1869；已据此写入“时代背景”，但只有 GND 一家，未与第二来源核对。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='berlioz 示意图'><title>berlioz</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>幻想交响曲</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>管弦乐</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>柏辽兹</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>作曲·指挥·评论</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>三部歌剧</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>特洛伊人等</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>混合体裁</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>戏剧交响曲等</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "GND 规范档给出生卒 1803—1869，本条目尚未写入；来源独立性有限（Wikipedia+Wikidata）；风格与生卒年未给出。"
+      "pending_notes": "生卒 1803—1869 取自 GND 规范档（单一来源，未与第二家核对）；来源独立性有限（Wikipedia+Wikidata）；风格未给出。"
     },
     {
       "id": "dvorak",
@@ -23761,17 +23761,17 @@
       ],
       "level": "L2",
       "sections": {
-        "时代背景": "摘要称，德沃夏克追随前辈斯美塔那在浪漫主义时期的民族主义先例。（生卒年摘要未给出，本条目不写具体年份，待取机构来源后补。）",
+        "时代背景": "据德国国家图书馆规范档（GND 11852836X），其生卒年为 1841—1904。摘要称，德沃夏克追随前辈斯美塔那在浪漫主义时期的民族主义先例。（生卒年摘要未给出，本条目不写具体年份，待取机构来源后补。）",
         "风格特征": "摘要称，他常运用摩拉维亚和家乡波希米亚民间音乐的节奏等要素；其风格被描述为“民族语汇与交响传统最充分的再创造，吸收民间影响并找到运用它们的有效方式”。",
         "代表人物与作品": "摘要没有列举具体作品，本条目不补写。",
         "技法或形式分析": "摘要给出的形式信息就是“民间节奏与交响传统的结合”。本条目不补写具体技法。",
         "与前后风格的关系和争论": "摘要引评论称他“可以说是他那个时代最多才多艺的作曲家”。这是摘要转引的评价，不代表定论。",
         "一图": "示意图以德沃夏克为中心，标示斯美塔那先例、民间音乐、交响传统三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）两处引语均为转引，出处摘要未给出；（3）作品与生卒年未给出。（GND 对照，2026-11-25）德国国家图书馆规范档（11852836X）给出生卒 1841—1904；本条目未写具体生卒年，可据此补充。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）两处引语均为转引，出处摘要未给出；（3）作品与生卒年未给出。（GND 对照，2026-11-25）德国国家图书馆规范档（11852836X）给出生卒 1841—1904；已据此写入“时代背景”，但只有 GND 一家，未与第二来源核对。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='dvorak 示意图'><title>dvorak</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>斯美塔那</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>民族主义先例</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>德沃夏克</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>捷克作曲家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>民间音乐</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>摩拉维亚·波希米亚</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>交响传统</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>二者结合</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "GND 规范档给出生卒 1841—1904，本条目尚未写入；来源独立性有限（Wikipedia+Wikidata）；转引评价未核验；作品与生卒年未给出。"
+      "pending_notes": "生卒 1841—1904 取自 GND 规范档（单一来源，未与第二家核对）；来源独立性有限（Wikipedia+Wikidata）；转引评价未核验；作品未给出。"
     },
     {
       "id": "program-music",
@@ -24229,17 +24229,17 @@
       ],
       "level": "L2",
       "sections": {
-        "时代背景": "摘要称，卡罗属于革命后的“墨西哥性”（Mexicayotl）运动，该运动试图界定墨西哥身份。（生卒年摘要未给出，本条目不写具体年份。）",
+        "时代背景": "据德国国家图书馆规范档（GND 11855932X），其生卒年为 1907—1954。摘要称，卡罗属于革命后的“墨西哥性”（Mexicayotl）运动，该运动试图界定墨西哥身份。",
         "风格特征": "摘要称，她受墨西哥大众文化启发，采用质朴的民间艺术风格，探讨墨西哥社会中的身份、后殖民、性别、阶级与种族问题；作品常有强烈的自传成分，混合现实与幻想。",
         "代表人物与作品": "摘要提到1940年自画像《梦》，称其保持女性艺术家作品拍卖最高价纪录（5470万美元）。",
         "技法或形式分析": "摘要给出的风格信息就是“质朴民间风格、现实与幻想混合”。本条目不补写具体技法。",
         "与前后风格的关系和争论": "摘要称，卡罗曾被描述为超现实主义者或魔幻现实主义者，并以描绘慢性疼痛经历著称。“被描述为”说明这是归类说法，不是定论。",
         "一图": "示意图以卡罗为中心，标示墨西哥大众文化、自画像、超现实或魔幻现实三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）拍卖纪录是会变化的市场数据，以摘要取回日为准；（3）生卒年未给出；（4）流派归属是“被描述为”。（GND 对照，2026-11-25）德国国家图书馆规范档（11855932X）给出生卒 1907—1954；本条目未写具体生卒年，可据此补充。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）拍卖纪录是会变化的市场数据，以摘要取回日为准；（3）生卒年未给出；（4）流派归属是“被描述为”。（GND 对照，2026-11-25）德国国家图书馆规范档（11855932X）给出生卒 1907—1954；已据此写入“时代背景”，但只有 GND 一家，未与第二来源核对。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='frida-kahlo 示意图'><title>frida-kahlo</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>大众文化</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>墨西哥</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>弗里达·卡罗</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>墨西哥画家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>自画像</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>自传成分</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>流派归属</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>超现实或魔幻现实</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "GND 规范档给出生卒 1907—1954，本条目尚未写入；来源独立性有限（Wikipedia+Wikidata）；拍卖纪录会变；生卒年未给出；流派归属有不同说法。"
+      "pending_notes": "生卒 1907—1954 取自 GND 规范档（单一来源，未与第二家核对）；来源独立性有限（Wikipedia+Wikidata）；拍卖纪录会变；流派归属有不同说法。"
     },
     {
       "id": "mondrian",
@@ -24269,17 +24269,17 @@
       ],
       "level": "L2",
       "sections": {
-        "时代背景": "摘要称，蒙德里安是荷兰画家和艺术理论家，1911年后以 Piet Mondrian 为名。（生卒年摘要未给出，本条目不写具体年份。）",
+        "时代背景": "据德国国家图书馆规范档（GND 118583441），其生卒年为 1872—1944。摘要称，蒙德里安是荷兰画家和艺术理论家，1911年后以 Piet Mondrian 为名。",
         "风格特征": "摘要称，他把艺术方向从具象绘画转向越来越抽象的风格，直到艺术语汇被简化为简单的几何元素。",
         "代表人物与作品": "摘要没有列举作品。库内另有他的两件作品条目：《红、黄、蓝构图》（1927）与《前景有幼树的田野》（约1907）。",
         "技法或形式分析": "摘要给出的形式信息就是“简单的几何元素”。本条目不补写网格、原色等细节。",
         "与前后风格的关系和争论": "摘要称，他被视为20世纪最伟大的艺术家之一、20世纪抽象艺术的先驱之一。“最伟大”是评价性表述。",
         "一图": "示意图以蒙德里安为中心，标示具象绘画、抽象转向、几何元素三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“最伟大”为评价性表述未核验；（3）风格派等关联摘要未述；（4）生卒年未给出。（GND 对照，2026-11-25）德国国家图书馆规范档（118583441）给出生卒 1872—1944；本条目未写具体生卒年，可据此补充。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“最伟大”为评价性表述未核验；（3）风格派等关联摘要未述；（4）生卒年未给出。（GND 对照，2026-11-25）德国国家图书馆规范档（118583441）给出生卒 1872—1944；已据此写入“时代背景”，但只有 GND 一家，未与第二来源核对。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='mondrian 示意图'><title>mondrian</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>具象绘画</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>早期方向</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>蒙德里安</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>画家·理论家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>抽象转向</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>逐步简化</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>几何元素</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>最终语汇</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "GND 规范档给出生卒 1872—1944，本条目尚未写入；来源独立性有限（Wikipedia+Wikidata）；评价性表述未核验；生卒年未给出。"
+      "pending_notes": "生卒 1872—1944 取自 GND 规范档（单一来源，未与第二家核对）；来源独立性有限（Wikipedia+Wikidata）；评价性表述未核验。"
     },
     {
       "id": "pollock",
@@ -24305,17 +24305,17 @@
       ],
       "level": "L2",
       "sections": {
-        "时代背景": "摘要称，波洛克是美国画家，抽象表现主义运动的重要人物。（生卒年摘要未给出，本条目不写具体年份。）",
+        "时代背景": "据德国国家图书馆规范档（GND 118595555），其生卒年为 1912—1956。摘要称，波洛克是美国画家，抽象表现主义运动的重要人物。",
         "风格特征": "摘要称，他以“滴画法”著称：将液态家用油漆倾倒或泼溅在水平放置的画面上，使他能从各个角度观看并作画。",
         "代表人物与作品": "摘要没有列举作品。库内另有作品条目《第5号，1950》。",
         "技法或形式分析": "摘要称，这被称为“满幅绘画”与“行动绘画”，因为他覆盖整张画布，并以全身力量作画，常呈狂乱的舞蹈式姿态。",
         "与前后风格的关系和争论": "摘要称，这种极端的抽象形式使评论界分化：有人称赞创作的直接性，有人嘲讽其随机效果。这是摘要给出的两派意见，本条目不作判断。",
         "一图": "示意图以波洛克为中心，标示抽象表现主义、滴画法、评论分歧三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）作品与生卒年未给出；（3）评论分歧只有摘要的概括，没有具体评论者。（GND 对照，2026-11-25）德国国家图书馆规范档（118595555）给出生卒 1912—1956；本条目未写具体生卒年，可据此补充。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）作品与生卒年未给出；（3）评论分歧只有摘要的概括，没有具体评论者。（GND 对照，2026-11-25）德国国家图书馆规范档（118595555）给出生卒 1912—1956；已据此写入“时代背景”，但只有 GND 一家，未与第二来源核对。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='pollock 示意图'><title>pollock</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>抽象表现主义</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>重要人物</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>波洛克</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>美国画家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>滴画法</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>水平画面</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>评论分歧</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>直接性与随机</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "GND 规范档给出生卒 1912—1956，本条目尚未写入；来源独立性有限（Wikipedia+Wikidata）；作品与生卒年未给出；评论分歧未列出处。"
+      "pending_notes": "生卒 1912—1956 取自 GND 规范档（单一来源，未与第二家核对）；来源独立性有限（Wikipedia+Wikidata）；作品未给出；评论分歧未列出处。"
     },
     {
       "id": "klimt",
@@ -24344,17 +24344,17 @@
       ],
       "level": "L2",
       "sections": {
-        "时代背景": "摘要称，克里姆特是奥地利象征主义画家，维也纳分离派运动的创始成员之一，其作品有助于界定欧洲的新艺术风格。（生卒年摘要未给出，本条目不写具体年份。）",
+        "时代背景": "据德国国家图书馆规范档（GND 118563289），其生卒年为 1862—1918。摘要称，克里姆特是奥地利象征主义画家，维也纳分离派运动的创始成员之一，其作品有助于界定欧洲的新艺术风格。",
         "风格特征": "摘要称，他的主要题材是女性身体，作品带有坦率的情色意味。",
         "代表人物与作品": "摘要称，他最著名的作品是《吻》与《阿黛尔·布洛赫-鲍尔肖像一号》；作品包括绘画、壁画、素描及其他艺术品，具象作品中有寓意画与肖像，也画风景。",
         "技法或形式分析": "摘要没有给出技法细节（如金箔使用），本条目不补写。",
         "与前后风格的关系和争论": "摘要称，在维也纳分离派艺术家中，克里姆特受日本艺术及其方法影响最深。库内互链浮世绘为本项目所加。",
         "一图": "示意图以克里姆特为中心，标示维也纳分离派、女性身体题材、日本艺术影响三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）技法细节与生卒年未给出；（3）“受日本艺术影响最深”是摘要的比较说法，未核验。（CMA 对照，2026-11-25）克利夫兰艺术博物馆藏本条目相关作品（1972.312），其创作者记录给出生卒 1862—1918；该记录只印证作者归属与生卒，不印证本条目其余内容。（GND 对照，2026-11-25）德国国家图书馆规范档（118563289）给出生卒 1862—1918；本条目未写具体生卒年，可据此补充。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）技法细节与生卒年未给出；（3）“受日本艺术影响最深”是摘要的比较说法，未核验。（CMA 对照，2026-11-25）克利夫兰艺术博物馆藏本条目相关作品（1972.312），其创作者记录给出生卒 1862—1918；该记录只印证作者归属与生卒，不印证本条目其余内容。（GND 对照，2026-11-25）德国国家图书馆规范档（118563289）给出生卒 1862—1918；已据此写入“时代背景”，但只有 GND 一家，未与第二来源核对。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='klimt 示意图'><title>klimt</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>维也纳分离派</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>创始成员</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>克里姆特</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>象征主义画家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>女性身体</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>主要题材</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>日本艺术</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>影响最深</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "GND 规范档给出生卒 1862—1918，本条目尚未写入；主体来自 Wikipedia 摘要；生卒 1862—1918 已由克利夫兰艺术博物馆创作者记录独立印证（只印证生卒与作者归属）；技法未给出；比较性说法未核验。"
+      "pending_notes": "生卒 1862—1918 取自 GND 规范档（单一来源，未与第二家核对）；主体来自 Wikipedia 摘要；生卒 1862—1918 已由克利夫兰艺术博物馆创作者记录独立印证（只印证生卒与作者归属）；技法未给出；比较性说法未核验。"
     },
     {
       "id": "guo-xi",
@@ -24382,17 +24382,17 @@
       ],
       "level": "L2",
       "sections": {
-        "时代背景": "摘要称，郭熙是北宋时期河南的山水画家，是宫廷职业画家，也是受过良好教育的文人画家。",
+        "时代背景": "据德国国家图书馆规范档（GND 173688497），其生年作 1020，卒年未载。摘要称，郭熙是北宋时期河南的山水画家，是宫廷职业画家，也是受过良好教育的文人画家。",
         "风格特征": "摘要称，他发展出一套极为细致的程式化笔法体系，对后世画家很重要。",
         "代表人物与作品": "摘要称，《林泉高致》一文归于他名下；最著名的作品之一是《早春图》，纪年1072年。",
         "技法或形式分析": "摘要称，《早春图》展示了他创造多重视角的创新技法，他称之为“全景之角”（the angle of totality），也称“散点透视”（Floating Perspective）。“全景之角”是摘要英文的直译，中文原术语摘要未给出。",
         "与前后风格的关系和争论": "摘要称，这种表现方式取消了观者的静止视点，突显中西空间表现方式的差异。这是摘要的概括，本条目不作展开。",
         "一图": "示意图以郭熙为中心，标示北宋宫廷、《林泉高致》、《早春图》与散点透视三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）《林泉高致》只说“归于他名下”，作者归属本条目照录；（3）“the angle of totality”对应的中文术语未给出，需中文专著核对；（4）生卒年未给出。（GND 对照，2026-11-25）德国国家图书馆规范档（173688497）给出生卒 1020—?；本条目未写具体生卒年，可据此补充。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）《林泉高致》只说“归于他名下”，作者归属本条目照录；（3）“the angle of totality”对应的中文术语未给出，需中文专著核对；（4）生卒年未给出。（GND 对照，2026-11-25）德国国家图书馆规范档（173688497）给出生卒 1020—?；已据此写入“时代背景”，但只有 GND 一家，未与第二来源核对。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='guo-xi 示意图'><title>guo-xi</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>北宋宫廷</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>职业画家</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>郭熙</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>山水画家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>林泉高致</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>归于其名下</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>早春图</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>1072·散点透视</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "GND 规范档给出生卒 1020—?，本条目尚未写入；来源独立性有限（Wikipedia+Wikidata）；中文术语与生卒年待核；著作归属照录。"
+      "pending_notes": "生卒 1020—? 取自 GND 规范档（单一来源，未与第二家核对）；来源独立性有限（Wikipedia+Wikidata）；中文术语与生卒年待核；著作归属照录。"
     },
     {
       "id": "giotto",
@@ -24418,17 +24418,17 @@
       ],
       "level": "L2",
       "sections": {
-        "时代背景": "摘要称，乔托活动于哥特与原文艺复兴时期。（生卒年摘要未给出，本条目不写具体年份。）",
+        "时代背景": "据德国国家图书馆规范档（GND 118539477），其生卒年为 1266—1337。摘要称，乔托活动于哥特与原文艺复兴时期。",
         "风格特征": "摘要引同时代银行家、编年史家乔瓦尼·维拉尼的话，称他“依照自然描绘一切人物及其姿态”。",
         "代表人物与作品": "摘要没有列举作品，本条目不补写。",
         "技法或形式分析": "摘要引瓦萨里的话，称他引入了“准确地依照生活写生”的技法，此技法“已被忽视两百多年”。",
         "与前后风格的关系和争论": "摘要称，瓦萨里把他描述为与当时盛行的拜占庭风格决裂、开启“今日所知的伟大绘画艺术”。这是瓦萨里的叙述，属后世建构的经典说法，本条目不作独立判断。",
         "一图": "示意图以乔托为中心，标示拜占庭风格、依自然写生、原文艺复兴三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）维拉尼与瓦萨里的话均为摘要转引；（3）作品与生卒年未给出。（GND 对照，2026-11-25）德国国家图书馆规范档（118539477）给出生卒 1266—1337；本条目未写具体生卒年，可据此补充。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）维拉尼与瓦萨里的话均为摘要转引；（3）作品与生卒年未给出。（GND 对照，2026-11-25）德国国家图书馆规范档（118539477）给出生卒 1266—1337；已据此写入“时代背景”，但只有 GND 一家，未与第二来源核对。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='giotto 示意图'><title>giotto</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>拜占庭风格</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>与之决裂</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>乔托</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>画家·建筑师</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>依自然写生</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>瓦萨里语</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>原文艺复兴</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>哥特时期</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "GND 规范档给出生卒 1266—1337，本条目尚未写入；来源独立性有限（Wikipedia+Wikidata）；两处引语为转引；作品与生卒年未给出。"
+      "pending_notes": "生卒 1266—1337 取自 GND 规范档（单一来源，未与第二家核对）；来源独立性有限（Wikipedia+Wikidata）；两处引语为转引；作品未给出。"
     },
     {
       "id": "durer",
@@ -24456,17 +24456,17 @@
       ],
       "level": "L2",
       "sections": {
-        "时代背景": "摘要称，丢勒生于纽伦堡，属德国文艺复兴。（生卒年摘要未给出，本条目不写具体年份。）",
+        "时代背景": "据德国国家图书馆规范档（GND 11852786X），其生卒年为 1471—1528。摘要称，丢勒生于纽伦堡，属德国文艺复兴。",
         "风格特征": "摘要没有描述其风格特征，本条目不补写。",
         "代表人物与作品": "摘要没有列举作品。库内另有作品条目《忧郁 I》（1514）。",
         "技法或形式分析": "摘要称，他二十多岁时凭高质量的木刻版画在全欧洲建立声誉与影响。",
         "与前后风格的关系和争论": "摘要称，他与当时意大利主要艺术家有联系，包括拉斐尔、乔瓦尼·贝利尼与列奥纳多·达·芬奇；1512年起受马克西米利安一世皇帝赞助。",
         "一图": "示意图以丢勒为中心，标示纽伦堡、木刻版画、意大利艺术家三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）与意大利艺术家“有联系”的具体方式摘要未给出；（3）生卒年未给出。（3）when 写“约公元15世纪末—16世纪初”是本项目按德国文艺复兴与摘要所给1512年概括，不是摘要原文。（CMA 对照，2026-11-25）克利夫兰艺术博物馆藏本条目相关作品（1925.72），其创作者记录给出生卒 1471—1528；该记录只印证作者归属与生卒，不印证本条目其余内容。（GND 对照，2026-11-25）德国国家图书馆规范档（11852786X）给出生卒 1471—1528；本条目未写具体生卒年，可据此补充。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）与意大利艺术家“有联系”的具体方式摘要未给出；（3）生卒年未给出。（3）when 写“约公元15世纪末—16世纪初”是本项目按德国文艺复兴与摘要所给1512年概括，不是摘要原文。（CMA 对照，2026-11-25）克利夫兰艺术博物馆藏本条目相关作品（1925.72），其创作者记录给出生卒 1471—1528；该记录只印证作者归属与生卒，不印证本条目其余内容。（GND 对照，2026-11-25）德国国家图书馆规范档（11852786X）给出生卒 1471—1528；已据此写入“时代背景”，但只有 GND 一家，未与第二来源核对。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='durer 示意图'><title>durer</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>纽伦堡</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>出生地</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>丢勒</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>画家·版画家·理论家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>木刻版画</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>二十多岁成名</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>意大利联系</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>拉斐尔·达·芬奇</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "GND 规范档给出生卒 1471—1528，本条目尚未写入；主体来自 Wikipedia 摘要；生卒 1471—1528 已由克利夫兰艺术博物馆创作者记录独立印证（只印证生卒与作者归属）；与意大利艺术家的联系方式未给出。"
+      "pending_notes": "生卒 1471—1528 取自 GND 规范档（单一来源，未与第二家核对）；主体来自 Wikipedia 摘要；生卒 1471—1528 已由克利夫兰艺术博物馆创作者记录独立印证（只印证生卒与作者归属）；与意大利艺术家的联系方式未给出。"
     },
     {
       "id": "bosch",
@@ -24493,17 +24493,17 @@
       ],
       "level": "L2",
       "sections": {
-        "时代背景": "摘要称，博斯是来自布拉班特的尼德兰画家，属早期尼德兰画派。（生卒年摘要未给出，本条目不写具体年份。）",
+        "时代背景": "据德国国家图书馆规范档（GND 11851380X），其生卒年为 1450—1516。摘要称，博斯是来自布拉班特的尼德兰画家，属早期尼德兰画派。",
         "风格特征": "摘要称，其作品主要是对宗教观念与叙事的奇幻图解，尤以对地狱的阴森、梦魇般描绘著称。",
         "代表人物与作品": "摘要没有列举作品，本条目不补写。",
         "技法或形式分析": "摘要称，其作品一般为橡木板油画。",
         "与前后风格的关系和争论": "摘要称，他在世时作品即被尼德兰、奥地利与西班牙收藏，并被广泛模仿。",
         "一图": "示意图以博斯为中心，标示早期尼德兰画派、宗教奇幻图解、广泛模仿三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）作品与生卒年未给出。（GND 对照，2026-11-25）德国国家图书馆规范档（11851380X）给出生卒 1450—1516；本条目未写具体生卒年，可据此补充。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）作品与生卒年未给出。（GND 对照，2026-11-25）德国国家图书馆规范档（11851380X）给出生卒 1450—1516；已据此写入“时代背景”，但只有 GND 一家，未与第二来源核对。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='bosch 示意图'><title>bosch</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>早期尼德兰</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>最著名代表</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>博斯</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>布拉班特画家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>奇幻图解</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>地狱景象</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>广泛模仿</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>生前即被收藏</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "GND 规范档给出生卒 1450—1516，本条目尚未写入；来源独立性有限（Wikipedia+Wikidata）；作品与生卒年未给出。"
+      "pending_notes": "生卒 1450—1516 取自 GND 规范档（单一来源，未与第二家核对）；来源独立性有限（Wikipedia+Wikidata）；作品未给出。"
     },
     {
       "id": "bruegel",
@@ -24531,17 +24531,17 @@
       ],
       "level": "L2",
       "sections": {
-        "时代背景": "摘要称，他属荷兰与佛兰德斯文艺复兴绘画。（生卒年摘要未给出，本条目不写具体年份。）",
+        "时代背景": "据德国国家图书馆规范档（GND 118674013），其生卒年为 1525—1569。摘要称，他属荷兰与佛兰德斯文艺复兴绘画。",
         "风格特征": "摘要称，他以风景与农民场景著称，并开创了以大幅画作呈现这两类题材的做法。",
         "代表人物与作品": "摘要提到的作品：《有伊卡洛斯坠落的风景》与《雪中猎人》（1565）。",
         "技法或形式分析": "摘要没有给出技法细节，本条目不补写。",
         "与前后风格的关系和争论": "摘要称，在20与21世纪，他的作品启发了文学与电影领域的艺术家。《伊卡洛斯》一画的归属学界有讨论，摘要未提，本条目不展开。",
         "一图": "示意图以勃鲁盖尔为中心，标示风景、农民场景、后世文学与电影三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年未给出；（3）“开创”是摘要的说法，未核验。（CMA 对照，2026-11-25）克利夫兰艺术博物馆藏本条目相关作品（2009.80），其创作者记录给出生卒 约1525/30—1569；该记录只印证作者归属与生卒，不印证本条目其余内容。（GND 对照，2026-11-25）德国国家图书馆规范档（118674013）给出生卒 1525—1569；本条目未写具体生卒年，可据此补充。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年未给出；（3）“开创”是摘要的说法，未核验。（CMA 对照，2026-11-25）克利夫兰艺术博物馆藏本条目相关作品（2009.80），其创作者记录给出生卒 约1525/30—1569；该记录只印证作者归属与生卒，不印证本条目其余内容。（GND 对照，2026-11-25）德国国家图书馆规范档（118674013）给出生卒 1525—1569；已据此写入“时代背景”，但只有 GND 一家，未与第二来源核对。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='bruegel 示意图'><title>bruegel</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>风景</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>大幅画作</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>勃鲁盖尔</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>画家·版画家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>农民场景</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>大幅画作</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>后世影响</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>文学·电影</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "GND 规范档给出生卒 1525—1569，本条目尚未写入；主体来自 Wikipedia 摘要；生卒 约1525/30—1569 已由克利夫兰艺术博物馆创作者记录独立印证（只印证生卒与作者归属）；“开创”说未核验。"
+      "pending_notes": "生卒 1525—1569 取自 GND 规范档（单一来源，未与第二家核对）；主体来自 Wikipedia 摘要；生卒 约1525/30—1569 已由克利夫兰艺术博物馆创作者记录独立印证（只印证生卒与作者归属）；“开创”说未核验。"
     },
     {
       "id": "goya",
@@ -24569,17 +24569,17 @@
       ],
       "level": "L2",
       "sections": {
-        "时代背景": "摘要称，戈雅被视为18世纪末至19世纪初最重要的西班牙艺术家。（生卒年摘要未给出，本条目不写具体年份。）",
+        "时代背景": "据德国国家图书馆规范档（GND 118541064），其生卒年为 1746—1828。摘要称，戈雅被视为18世纪末至19世纪初最重要的西班牙艺术家。",
         "风格特征": "摘要称，他的绘画、素描与版画反映了同时代的历史动荡。",
         "代表人物与作品": "摘要没有列举作品，本条目不补写。",
         "技法或形式分析": "摘要没有给出技法细节，本条目不补写。",
         "与前后风格的关系和争论": "摘要称，他常被称为“最后的古典大师与第一位现代画家”，影响了19、20世纪的重要画家，被普遍视为西方艺术史上最具影响力的人物之一。这些都是评价性表述。",
         "一图": "示意图以戈雅为中心，标示历史动荡、绘画与版画、承前启后三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）评价性表述未核验；（3）作品与生卒年未给出。（CMA 对照，2026-11-25）克利夫兰艺术博物馆藏本条目相关作品（1943.90），其创作者记录给出生卒 1746—1828；该记录只印证作者归属与生卒，不印证本条目其余内容。（GND 对照，2026-11-25）德国国家图书馆规范档（118541064）给出生卒 1746—1828；本条目未写具体生卒年，可据此补充。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）评价性表述未核验；（3）作品与生卒年未给出。（CMA 对照，2026-11-25）克利夫兰艺术博物馆藏本条目相关作品（1943.90），其创作者记录给出生卒 1746—1828；该记录只印证作者归属与生卒，不印证本条目其余内容。（GND 对照，2026-11-25）德国国家图书馆规范档（118541064）给出生卒 1746—1828；已据此写入“时代背景”，但只有 GND 一家，未与第二来源核对。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='goya 示意图'><title>goya</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>历史动荡</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>作品所反映</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>戈雅</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>浪漫主义画家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>绘画与版画</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>素描·版画</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>承前启后</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>最后古典·最初现代</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "GND 规范档给出生卒 1746—1828，本条目尚未写入；主体来自 Wikipedia 摘要；生卒 1746—1828 已由克利夫兰艺术博物馆创作者记录独立印证（只印证生卒与作者归属）；评价性表述未核验；作品未给出。"
+      "pending_notes": "生卒 1746—1828 取自 GND 规范档（单一来源，未与第二家核对）；主体来自 Wikipedia 摘要；生卒 1746—1828 已由克利夫兰艺术博物馆创作者记录独立印证（只印证生卒与作者归属）；评价性表述未核验；作品未给出。"
     },
     {
       "id": "watteau",
@@ -24606,17 +24606,17 @@
       ],
       "level": "L2",
       "sections": {
-        "时代背景": "摘要称，华托的艺术生涯短暂。（生卒年摘要未给出，本条目不写具体年份。）",
+        "时代背景": "据德国国家图书馆规范档（GND 118629492），其生卒年为 1684—1721。摘要称，华托的艺术生涯短暂。",
         "风格特征": "摘要称，他使衰落的巴洛克风格焕发生机，转向不那么严肃、更自然、较少形式古典化的洛可可。",
         "代表人物与作品": "摘要称，他被认为开创了“雅宴画”（fêtes galantes）类型；一些最著名的题材取自意大利喜剧与芭蕾的世界。",
         "技法或形式分析": "摘要称，他的生涯激发了人们对色彩与动势的重新关注，可见于柯雷乔与鲁本斯的传统。",
         "与前后风格的关系和争论": "摘要的说法是“被认为开创”，说明这是归功，不是定论。",
         "一图": "示意图以华托为中心，标示鲁本斯传统、洛可可、雅宴画三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）具体作品与生卒年未给出。（CMA 对照，2026-11-25）克利夫兰艺术博物馆藏本条目相关作品（2011.11），其创作者记录给出生卒 1684—1721；该记录只印证作者归属与生卒，不印证本条目其余内容。（GND 对照，2026-11-25）德国国家图书馆规范档（118629492）给出生卒 1684—1721；本条目未写具体生卒年，可据此补充。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）具体作品与生卒年未给出。（CMA 对照，2026-11-25）克利夫兰艺术博物馆藏本条目相关作品（2011.11），其创作者记录给出生卒 1684—1721；该记录只印证作者归属与生卒，不印证本条目其余内容。（GND 对照，2026-11-25）德国国家图书馆规范档（118629492）给出生卒 1684—1721；已据此写入“时代背景”，但只有 GND 一家，未与第二来源核对。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='watteau 示意图'><title>watteau</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>鲁本斯传统</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>色彩与动势</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>华托</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>画家·素描家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>洛可可</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>由巴洛克转向</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>雅宴画</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>被认为开创</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "GND 规范档给出生卒 1684—1721，本条目尚未写入；主体来自 Wikipedia 摘要；生卒 1684—1721 已由克利夫兰艺术博物馆创作者记录独立印证（只印证生卒与作者归属）；代表作未给出。"
+      "pending_notes": "生卒 1684—1721 取自 GND 规范档（单一来源，未与第二家核对）；主体来自 Wikipedia 摘要；生卒 1684—1721 已由克利夫兰艺术博物馆创作者记录独立印证（只印证生卒与作者归属）；代表作未给出。"
     },
     {
       "id": "hokusai",
@@ -24644,17 +24644,17 @@
       ],
       "level": "L2",
       "sections": {
-        "时代背景": "摘要称，北斋是江户时代的浮世绘艺术家。（生卒年摘要未给出，本条目不写具体年份。）",
+        "时代背景": "据德国国家图书馆规范档（GND 118552929），其生卒年为 1760—1849。摘要称，北斋是江户时代的浮世绘艺术家。",
         "风格特征": "摘要称，他使浮世绘从主要聚焦于艺伎与演员的肖像风格，发展为更宽广的、关注风景、植物与动物的艺术风格。",
         "代表人物与作品": "摘要称，木刻版画系列《富岳三十六景》中包括标志性作品《神奈川冲浪里》。库内另有他的数件作品条目，如《凯风快晴》。",
         "技法或形式分析": "摘要给出的媒介是木刻版画。本条目不补写刻印工艺。",
         "与前后风格的关系和争论": "摘要称，19世纪末日本主义风潮席卷欧洲期间，他的作品对梵高与莫奈产生了重要影响。",
         "一图": "示意图以北斋为中心，标示浮世绘、《富岳三十六景》、日本主义三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年未给出。（3）when 写“约公元18世纪末—19世纪中叶”是本项目据其19世纪末影响欧洲等信息所作的粗略概括，摘要只说“江户时代”，需机构来源核对生卒年。（GND 对照，2026-11-25）德国国家图书馆规范档（118552929）给出生卒 1760—1849；本条目未写具体生卒年，可据此补充。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年未给出。（3）when 写“约公元18世纪末—19世纪中叶”是本项目据其19世纪末影响欧洲等信息所作的粗略概括，摘要只说“江户时代”，需机构来源核对生卒年。（GND 对照，2026-11-25）德国国家图书馆规范档（118552929）给出生卒 1760—1849；已据此写入“时代背景”，但只有 GND 一家，未与第二来源核对。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='hokusai 示意图'><title>hokusai</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>浮世绘</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>扩展题材</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>葛饰北斋</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>江户时代</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>富岳三十六景</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>神奈川冲浪里</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>日本主义</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>影响梵高·莫奈</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "GND 规范档给出生卒 1760—1849，本条目尚未写入；来源独立性有限（Wikipedia+Wikidata）；生卒年未给出。"
+      "pending_notes": "生卒 1760—1849 取自 GND 规范档（单一来源，未与第二家核对）；来源独立性有限（Wikipedia+Wikidata）。"
     },
     {
       "id": "mesopotamian-art",
@@ -25071,17 +25071,17 @@
       ],
       "level": "L2",
       "sections": {
-        "时代背景": "摘要称，迪费属文艺复兴早期，国籍有“法国”与“法兰德斯”两种说法。（生卒年摘要未给出，本条目不写具体年份。）",
+        "时代背景": "据德国国家图书馆规范档（GND 118527924），其生卒年为 1397—1474。摘要称，迪费属文艺复兴早期，国籍有“法国”与“法兰德斯”两种说法。",
         "风格特征": "摘要没有给出这方面内容，本条目不补写。",
         "代表人物与作品": "摘要没有列举作品。摘要称他与勃艮第乐派作曲家关系密切，尤其是同事班舒瓦（Gilles Binchois）。",
         "技法或形式分析": "摘要没有给出这方面内容，本条目不补写。",
         "与前后风格的关系和争论": "摘要称，他被视为当时欧洲首屈一指的作曲家，作品广泛演出与传抄；但他本人从未是勃艮第宫廷礼拜堂的正式成员。",
         "一图": "示意图以迪费为中心，标示文艺复兴早期、勃艮第乐派、班舒瓦三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）国籍两说照录；（3）作品与生卒年未给出。（GND 对照，2026-11-25）德国国家图书馆规范档（118527924）给出生卒 1397—1474；本条目未写具体生卒年，可据此补充。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）国籍两说照录；（3）作品与生卒年未给出。（GND 对照，2026-11-25）德国国家图书馆规范档（118527924）给出生卒 1397—1474；已据此写入“时代背景”，但只有 GND 一家，未与第二来源核对。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='dufay 示意图'><title>dufay</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>文艺复兴早期</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>作曲·理论</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>迪费</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>首屈一指</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>勃艮第乐派</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>关系密切</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>班舒瓦</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>同事</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "GND 规范档给出生卒 1397—1474，本条目尚未写入；来源独立性有限（Wikipedia+Wikidata）；国籍两说；作品与生卒年未给出。"
+      "pending_notes": "生卒 1397—1474 取自 GND 规范档（单一来源，未与第二家核对）；来源独立性有限（Wikipedia+Wikidata）；国籍两说；作品未给出。"
     },
     {
       "id": "puccini",
@@ -25108,17 +25108,17 @@
       ],
       "level": "L2",
       "sections": {
-        "时代背景": "摘要称，他出身于一个可追溯到巴洛克晚期的作曲家世家。（生卒年摘要未给出，本条目不写具体年份。）",
+        "时代背景": "据德国国家图书馆规范档（GND 118596942），其生卒年为 1858—1924。摘要称，他出身于一个可追溯到巴洛克晚期的作曲家世家。",
         "风格特征": "摘要称，他早期作品扎根于19世纪末传统的浪漫主义意大利歌剧，后来发展为写实的真实主义（verismo）风格，并成为其主要代表之一。",
         "代表人物与作品": "摘要没有列举具体歌剧，本条目不补写。",
         "技法或形式分析": "摘要没有给出这方面内容，本条目不补写。",
         "与前后风格的关系和争论": "摘要称，他被普遍视为威尔第之后意大利歌剧最伟大、最成功的倡导者。这是评价性表述。",
         "一图": "示意图以普契尼为中心，标示作曲世家、浪漫主义歌剧、真实主义三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）评价性表述未核验；（3）作品与生卒年未给出；（4）威尔第条目库内尚无。（GND 对照，2026-11-25）德国国家图书馆规范档（118596942）给出生卒 1858—1924；本条目未写具体生卒年，可据此补充。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）评价性表述未核验；（3）作品与生卒年未给出；（4）威尔第条目库内尚无。（GND 对照，2026-11-25）德国国家图书馆规范档（118596942）给出生卒 1858—1924；已据此写入“时代背景”，但只有 GND 一家，未与第二来源核对。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='puccini 示意图'><title>puccini</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>作曲世家</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>巴洛克晚期起</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>普契尼</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>意大利歌剧</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>浪漫主义歌剧</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>早期</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>真实主义</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>后期代表</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "GND 规范档给出生卒 1858—1924，本条目尚未写入；来源独立性有限（Wikipedia+Wikidata）；作品与生卒年未给出；评价未核验。"
+      "pending_notes": "生卒 1858—1924 取自 GND 规范档（单一来源，未与第二家核对）；来源独立性有限（Wikipedia+Wikidata）；作品未给出；评价未核验。"
     },
     {
       "id": "smetana",
@@ -25146,17 +25146,17 @@
       ],
       "level": "L2",
       "sections": {
-        "时代背景": "摘要称，他开创的音乐风格与本民族对文化与政治“复兴”的愿望紧密相连。（生卒年摘要未给出，本条目不写具体年份。）",
+        "时代背景": "据德国国家图书馆规范档（GND 118615017），其生卒年为 1824—1884。摘要称，他开创的音乐风格与本民族对文化与政治“复兴”的愿望紧密相连。",
         "风格特征": "摘要没有给出这方面内容，本条目不补写。",
         "代表人物与作品": "摘要称，他在国际上最知名的是1866年的歌剧《被出卖的新嫁娘》和交响套曲《我的祖国》；后者描绘家乡波希米亚的历史、传说与风景，包含著名交响诗《伏尔塔瓦河》（德语名《沃尔塔瓦》）。",
         "技法或形式分析": "摘要没有给出这方面内容，本条目不补写。",
         "与前后风格的关系和争论": "摘要称，他在祖国被视为“捷克音乐之父”。德沃夏克条目的摘要称德沃夏克追随斯美塔那的民族主义先例，那是另一条目的内容。",
         "一图": "示意图以斯美塔那为中心，标示民族复兴、《被出卖的新嫁娘》、《我的祖国》三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“捷克音乐之父”是本国评价；（3）生卒年未给出。（GND 对照，2026-11-25）德国国家图书馆规范档（118615017）给出生卒 1824—1884；本条目未写具体生卒年，可据此补充。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“捷克音乐之父”是本国评价；（3）生卒年未给出。（GND 对照，2026-11-25）德国国家图书馆规范档（118615017）给出生卒 1824—1884；已据此写入“时代背景”，但只有 GND 一家，未与第二来源核对。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='smetana 示意图'><title>smetana</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>民族复兴</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>文化与政治</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>斯美塔那</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>捷克音乐之父</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>被出卖的新嫁娘</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>1866歌剧</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>我的祖国</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>含伏尔塔瓦河</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "GND 规范档给出生卒 1824—1884，本条目尚未写入；来源独立性有限（Wikipedia+Wikidata）；生卒年未给出。"
+      "pending_notes": "生卒 1824—1884 取自 GND 规范档（单一来源，未与第二家核对）；来源独立性有限（Wikipedia+Wikidata）。"
     },
     {
       "id": "grieg",
@@ -25183,17 +25183,17 @@
       ],
       "level": "L2",
       "sections": {
-        "时代背景": "摘要称，格里格被普遍视为浪漫主义时期的主要作曲家之一。（生卒年摘要未给出，本条目不写具体年份。）",
+        "时代背景": "据德国国家图书馆规范档（GND 118697641），其生卒年为 1843—1907。摘要称，格里格被普遍视为浪漫主义时期的主要作曲家之一。",
         "风格特征": "摘要称，他在创作中运用挪威民间音乐，使挪威音乐闻名，并帮助形成民族认同。",
         "代表人物与作品": "摘要没有列举作品，本条目不补写。",
         "技法或形式分析": "摘要没有给出这方面内容，本条目不补写。",
         "与前后风格的关系和争论": "摘要把他与芬兰的西贝柳斯、波希米亚的斯美塔那相比，三人都以音乐助成民族认同。",
         "一图": "示意图以格里格为中心，标示挪威民间音乐、民族认同、斯美塔那与西贝柳斯三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）作品与生卒年未给出；（3）西贝柳斯条目库内尚无。（GND 对照，2026-11-25）德国国家图书馆规范档（118697641）给出生卒 1843—1907；本条目未写具体生卒年，可据此补充。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）作品与生卒年未给出；（3）西贝柳斯条目库内尚无。（GND 对照，2026-11-25）德国国家图书馆规范档（118697641）给出生卒 1843—1907；已据此写入“时代背景”，但只有 GND 一家，未与第二来源核对。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='grieg 示意图'><title>grieg</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>挪威民间音乐</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>融入创作</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>格里格</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>作曲·钢琴</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>民族认同</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>帮助形成</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>同类人物</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>斯美塔那等</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "GND 规范档给出生卒 1843—1907，本条目尚未写入；来源独立性有限（Wikipedia+Wikidata）；作品与生卒年未给出。"
+      "pending_notes": "生卒 1843—1907 取自 GND 规范档（单一来源，未与第二家核对）；来源独立性有限（Wikipedia+Wikidata）；作品未给出。"
     },
     {
       "id": "rachmaninoff",
@@ -25219,17 +25219,17 @@
       ],
       "level": "L2",
       "sections": {
-        "时代背景": "摘要称，他被普遍视为同时代最出色的钢琴家之一。（生卒年摘要未给出，本条目不写具体年份。）",
+        "时代背景": "据德国国家图书馆规范档（GND 118641832），其生卒年为 1873—1943。摘要称，他被普遍视为同时代最出色的钢琴家之一。",
         "风格特征": "摘要称，早期受柴可夫斯基、里姆斯基-科萨科夫等俄国作曲家影响，后形成完全个人化的语汇：如歌的旋律、富于表现力、密集的对位织体与丰富的管弦乐色彩。",
         "代表人物与作品": "摘要没有列举作品，本条目不补写。",
         "技法或形式分析": "摘要称，他经常在作品中运用钢琴，并以演奏家的技艺充分探索钢琴的表现与技术可能。",
         "与前后风格的关系和争论": "摘要称，作为作曲家，他是俄国古典音乐中浪漫主义最后的伟大代表之一。这是评价性表述。",
         "一图": "示意图以拉赫玛尼诺夫为中心，标示柴可夫斯基影响、个人语汇、钢琴三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）作品与生卒年未给出；（3）评价性表述未核验。（GND 对照，2026-11-25）德国国家图书馆规范档（118641832）给出生卒 1873—1943；本条目未写具体生卒年，可据此补充。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）作品与生卒年未给出；（3）评价性表述未核验。（GND 对照，2026-11-25）德国国家图书馆规范档（118641832）给出生卒 1873—1943；已据此写入“时代背景”，但只有 GND 一家，未与第二来源核对。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='rachmaninoff 示意图'><title>rachmaninoff</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>柴可夫斯基</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>早期影响</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>拉赫玛尼诺夫</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>作曲·钢琴·指挥</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>个人语汇</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>如歌·对位·色彩</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>钢琴</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>表现与技术</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "GND 规范档给出生卒 1873—1943，本条目尚未写入；来源独立性有限（Wikipedia+Wikidata）；作品与生卒年未给出。"
+      "pending_notes": "生卒 1873—1943 取自 GND 规范档（单一来源，未与第二家核对）；来源独立性有限（Wikipedia+Wikidata）；作品未给出。"
     },
     {
       "id": "cage",
@@ -25256,17 +25256,17 @@
       ],
       "level": "L2",
       "sections": {
-        "时代背景": "摘要称，凯奇是战后先锋派的主要人物之一。（生卒年摘要未给出，本条目不写具体年份。）",
+        "时代背景": "据德国国家图书馆规范档（GND 118518291），其生卒年为 1912—1992。摘要称，凯奇是战后先锋派的主要人物之一。",
         "风格特征": "摘要没有给出这方面内容，本条目不补写。",
         "代表人物与作品": "摘要没有列举作品，本条目不补写。",
         "技法或形式分析": "摘要称，他是音乐中不确定性（indeterminacy）、电声音乐与非常规乐器用法的先驱。",
         "与前后风格的关系和争论": "摘要称，评论家誉其为20世纪最具影响力的作曲家之一；他主要通过与编舞家默斯·坎宁安的合作，对现代舞发展起了重要作用，坎宁安也是他一生大部分时间的伴侣。激浪派条目摘要称该群体受凯奇启发，那是另一条目的内容。",
         "一图": "示意图以凯奇为中心，标示不确定性、电声音乐、现代舞三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）作品与生卒年未给出；（3）“最具影响力”为评论家评价。（GND 对照，2026-11-25）德国国家图书馆规范档（118518291）给出生卒 1912—1992；本条目未写具体生卒年，可据此补充。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）作品与生卒年未给出；（3）“最具影响力”为评论家评价。（GND 对照，2026-11-25）德国国家图书馆规范档（118518291）给出生卒 1912—1992；已据此写入“时代背景”，但只有 GND 一家，未与第二来源核对。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cage 示意图'><title>cage</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>不确定性</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>先驱</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>约翰·凯奇</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>战后先锋派</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>电声音乐</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>先驱</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>现代舞</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>与坎宁安合作</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "GND 规范档给出生卒 1912—1992，本条目尚未写入；来源独立性有限（Wikipedia+Wikidata）；作品与生卒年未给出。"
+      "pending_notes": "生卒 1912—1992 取自 GND 规范档（单一来源，未与第二家核对）；来源独立性有限（Wikipedia+Wikidata）；作品未给出。"
     },
     {
       "id": "reich",
@@ -25291,17 +25291,17 @@
       ],
       "level": "L2",
       "sections": {
-        "时代背景": "摘要称，他在1960年代中后期成为简约音乐的先驱。（生卒年摘要未给出，本条目不写具体年份。）",
+        "时代背景": "据德国国家图书馆规范档（GND 119286769），其生年作 1936，卒年未载。摘要称，他在1960年代中后期成为简约音乐的先驱。",
         "风格特征": "摘要称，他的作品以重复音型、缓慢的和声节奏与卡农为特征。",
         "代表人物与作品": "摘要提到他的文章《作为渐进过程的音乐》，并引其话：“我对可感知的过程感兴趣。我想在整个发声的音乐中听到过程的发生。”",
         "技法或形式分析": "摘要称，他的早期作品实验“相位移动”：一个或多个重复乐句比其他乐句稍慢或稍快，逐渐“错相”，在可感知的流动中产生新的音乐图形。",
         "与前后风格的关系和争论": "摘要没有谈及相关争论。",
         "一图": "示意图以赖希为中心，标示重复音型、相位移动、可感知过程三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）具体作品名与生年未给出。（GND 对照，2026-11-25）德国国家图书馆规范档（119286769）给出生卒 1936—?；本条目未写具体生卒年，可据此补充。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）具体作品名与生年未给出。（GND 对照，2026-11-25）德国国家图书馆规范档（119286769）给出生卒 1936—?；已据此写入“时代背景”，但只有 GND 一家，未与第二来源核对。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='reich 示意图'><title>reich</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>重复音型</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>缓慢和声节奏</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>史蒂夫·赖希</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>简约音乐先驱</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>相位移动</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>早期实验</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>可感知过程</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>作为渐进过程的音乐</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "GND 规范档给出生卒 1936—?，本条目尚未写入；来源独立性有限（Wikipedia+Wikidata）；作品名与生年未给出。"
+      "pending_notes": "生卒 1936—? 取自 GND 规范档（单一来源，未与第二家核对）；来源独立性有限（Wikipedia+Wikidata）；作品名未给出。"
     },
     {
       "id": "webern",
@@ -25327,17 +25327,17 @@
       ],
       "level": "L2",
       "sections": {
-        "时代背景": "摘要称，韦伯恩、勋伯格与同事阿尔班·贝尔格构成后来所称的“第二维也纳乐派”的核心。（生卒年摘要未给出，本条目不写具体年份。）",
+        "时代背景": "据德国国家图书馆规范档（GND 118629786），其生卒年为 1883—1945。摘要称，韦伯恩、勋伯格与同事阿尔班·贝尔格构成后来所称的“第二维也纳乐派”的核心。",
         "风格特征": "摘要称，他的现代主义音乐以抒情、诗意的简洁，以及运用当时新颖的无调性与十二音技法，在同侪中属最激进之列。",
         "代表人物与作品": "摘要没有列举作品，本条目不补写。",
         "技法或形式分析": "摘要称，他的方法通常很严谨，受到两方面启发：在吉多·阿德勒指导下研究法兰德斯乐派，以及勋伯格教作曲时以巴赫、第一维也纳乐派与勃拉姆斯音乐强调结构的做法。",
         "与前后风格的关系和争论": "摘要没有谈及相关争论。",
         "一图": "示意图以韦伯恩为中心，标示第二维也纳乐派、无调性与十二音、法兰德斯乐派研究三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）作品与生卒年未给出；（3）贝尔格条目库内尚无。（GND 对照，2026-11-25）德国国家图书馆规范档（118629786）给出生卒 1883—1945；本条目未写具体生卒年，可据此补充。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）作品与生卒年未给出；（3）贝尔格条目库内尚无。（GND 对照，2026-11-25）德国国家图书馆规范档（118629786）给出生卒 1883—1945；已据此写入“时代背景”，但只有 GND 一家，未与第二来源核对。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='webern 示意图'><title>webern</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>第二维也纳乐派</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>核心之一</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>韦伯恩</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>作曲·指挥·音乐学</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>十二音技法</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>简洁·激进</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>法兰德斯乐派</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>师从阿德勒研究</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "GND 规范档给出生卒 1883—1945，本条目尚未写入；来源独立性有限（Wikipedia+Wikidata）；作品与生卒年未给出。"
+      "pending_notes": "生卒 1883—1945 取自 GND 规范档（单一来源，未与第二家核对）；来源独立性有限（Wikipedia+Wikidata）；作品未给出。"
     },
     {
       "id": "suite-music",
