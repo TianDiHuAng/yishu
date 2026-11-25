@@ -4584,6 +4584,42 @@
       "check_result": "errors=0",
       "check_links_result": "broken=0(696页)",
       "commits": 1
+    },
+    {
+      "cycle": "cycle200",
+      "date": "2026-11-25",
+      "status": "completed",
+      "gap_methods": [
+        "新增音乐条目探测机构来源，电子音乐补AAT"
+      ],
+      "new_entries": 0,
+      "reviews": 6,
+      "fixes": 1,
+      "new_sources": 1,
+      "sources_total": 969,
+      "entries_total": 659,
+      "pages": 696,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(696页)",
+      "commits": 1
+    },
+    {
+      "cycle": "cycle201",
+      "date": "2026-11-25",
+      "status": "completed",
+      "gap_methods": [
+        "扩大纲第二批：浪漫与中国音乐8条"
+      ],
+      "new_entries": 8,
+      "reviews": 14,
+      "fixes": 0,
+      "new_sources": 16,
+      "sources_total": 985,
+      "entries_total": 667,
+      "pages": 704,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(704页)",
+      "commits": 1
     }
   ]
 }

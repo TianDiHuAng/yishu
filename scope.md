@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 659 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 667 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -388,6 +388,11 @@
 | liszt | 李斯特（Franz Liszt） | 人物 | 19世纪 | 匈牙利 | 音乐体裁 | 核心 | O1 |
 | mahler | 马勒（Gustav Mahler） | 人物 | 19世纪末—20世纪初 | 奥地利·波希米亚 | 音乐体裁 | 核心 | O1 |
 | tchaikovsky | 柴可夫斯基（Pyotr Ilyich Tchaikovsky） | 人物 | 19世纪 | 俄国 | 音乐体裁 | 核心 | O1 |
+| mendelssohn | 门德尔松（Felix Mendelssohn） | 人物 | 19世纪 | 德国 | 音乐体裁 | 重要 | O1 |
+| berlioz | 柏辽兹（Hector Berlioz） | 人物 | 19世纪 | 法国 | 音乐体裁 | 核心 | O1 |
+| dvorak | 德沃夏克（Antonín Dvořák） | 人物 | 19世纪 | 捷克 | 音乐体裁 | 核心 | O1 |
+| program-music | 标题音乐（Program music） | 术语 | 19世纪（术语） | 欧洲 | 音乐体裁 | 重要 | O4 |
+| grand-opera | 大歌剧（Grand opera） | 风格 | 19世纪 | 法国（巴黎） | 音乐体裁 | 重要 | O4 |
 
 ## music-modern（音乐史·20世纪与当代）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -418,6 +423,9 @@
 | cma-tang-yin-qin | 唐寅《听琴图》（明代立轴） | 作品 | 明代 | 中国 | 音乐体裁 | 重要 | O5 |
 | cma-tang-harpist | 唐代竖琴乐俑（8世纪中叶） | 作品 | 唐代 | 中国 | 音乐体裁 | 重要 | O5 |
 | cma-tang-qin-mirror | 唐代龟钮菱花镜：乐师与凤凰（8世纪晚期） | 作品 | 唐代 | 中国 | 音乐体裁 | 重要 | O5 |
+| erhu | 二胡（erhu） | 作品 | 历代—今 | 中国 | 乐器 | 重要 | O5 |
+| kunqu | 昆曲（Kunqu） | 风格 | 明清 | 中国（昆山） | 音乐体裁 | 核心 | O4 |
+| dizi | 笛子（dizi） | 作品 | 历代—今 | 中国 | 乐器 | 重要 | O5 |
 
 ## overview-guide（导读与学科方法）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

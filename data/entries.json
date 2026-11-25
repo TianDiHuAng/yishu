@@ -2140,7 +2140,8 @@
         "tchaikovsky",
         "gluck",
         "purcell",
-        "lully"
+        "lully",
+        "grand-opera"
       ],
       "sources": [
         "enc-opera",
@@ -2314,7 +2315,9 @@
         "haydn",
         "violin",
         "concerto",
-        "mahler"
+        "mahler",
+        "mendelssohn",
+        "dvorak"
       ],
       "sources": [
         "enc-symphony",
@@ -2446,7 +2449,11 @@
         "brahms",
         "liszt",
         "mahler",
-        "tchaikovsky"
+        "tchaikovsky",
+        "mendelssohn",
+        "berlioz",
+        "dvorak",
+        "grand-opera"
       ],
       "sources": [
         "enc-romantic-music",
@@ -2491,7 +2498,8 @@
       "related": [
         "romantic-music",
         "romanticism-art",
-        "liszt"
+        "liszt",
+        "program-music"
       ],
       "sources": [
         "enc-romantic-music",
@@ -2538,7 +2546,8 @@
         "opera",
         "redon-parsifal",
         "redon-brunnhilde",
-        "fantin-latour-tannhauser"
+        "fantin-latour-tannhauser",
+        "grand-opera"
       ],
       "sources": [
         "enc-wagner",
@@ -2559,7 +2568,8 @@
       "overview": "创作六百余首艺术歌曲及《未完成交响曲》，以旋律天赋与和声色彩著称。",
       "related": [
         "lied",
-        "romantic-music"
+        "romantic-music",
+        "mendelssohn"
       ],
       "sources": [
         "enc-romantic-music",
@@ -2819,7 +2829,10 @@
       "overview": "以皮黄腔为主，行当分明，脸谱与身段具有高度程式化特征，梅兰芳为代表人物。",
       "related": [
         "china-music-history",
-        "guzheng"
+        "guzheng",
+        "erhu",
+        "kunqu",
+        "dizi"
       ],
       "sources": [
         "enc-jingju",
@@ -3135,7 +3148,8 @@
       "overview": "小提琴在巴洛克时期成为重要独奏与合奏乐器，古典与浪漫时期协奏曲与奏鸣曲文献丰富。",
       "related": [
         "baroque-music",
-        "symphony"
+        "symphony",
+        "erhu"
       ],
       "sources": [
         "enc-violin",
@@ -13909,7 +13923,8 @@
       "related": [
         "romantic-music",
         "counterpoint",
-        "lied"
+        "lied",
+        "dvorak"
       ],
       "sources": [
         "enc-brahms",
@@ -13933,7 +13948,9 @@
         "romantic-music",
         "symphonic-poem",
         "chopin",
-        "bartok"
+        "bartok",
+        "berlioz",
+        "program-music"
       ],
       "sources": [
         "enc-liszt",
@@ -14488,6 +14505,183 @@
       "sources": [
         "enc-aleatoric-music",
         "wd-aleatoric-music"
+      ]
+    },
+    {
+      "id": "mendelssohn",
+      "title": "门德尔松（Felix Mendelssohn）",
+      "kind": "人物",
+      "unit": "music-romantic",
+      "era": "19世纪",
+      "region": "德国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "德国作曲家、钢琴家、管风琴家与指挥家，属浪漫主义早期。",
+      "when": "19世纪上半叶",
+      "overview": "门德尔松是浪漫主义早期的德国作曲家、钢琴家、管风琴家和指挥家，作品包括交响曲、协奏曲、钢琴曲、管风琴曲与室内乐。",
+      "related": [
+        "romantic-music",
+        "symphony",
+        "schubert"
+      ],
+      "sources": [
+        "enc-mendelssohn",
+        "wd-mendelssohn"
+      ]
+    },
+    {
+      "id": "berlioz",
+      "title": "柏辽兹（Hector Berlioz）",
+      "kind": "人物",
+      "unit": "music-romantic",
+      "era": "19世纪",
+      "region": "法国",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "法国浪漫主义作曲家、指挥家与评论家，代表作《幻想交响曲》。",
+      "when": "19世纪",
+      "overview": "柏辽兹是法国浪漫主义作曲家、指挥家和评论家，作品有管弦乐、合唱、三部歌剧以及“戏剧交响曲”“戏剧传奇”等混合体裁作品。",
+      "related": [
+        "romantic-music",
+        "program-music",
+        "liszt"
+      ],
+      "sources": [
+        "enc-berlioz",
+        "wd-berlioz"
+      ]
+    },
+    {
+      "id": "dvorak",
+      "title": "德沃夏克（Antonín Dvořák）",
+      "kind": "人物",
+      "unit": "music-romantic",
+      "era": "19世纪",
+      "region": "捷克",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "捷克作曲家，常用摩拉维亚与波希米亚民间音乐的节奏等要素，承斯美塔那的民族主义先例。",
+      "when": "19世纪",
+      "overview": "德沃夏克是捷克作曲家，常运用摩拉维亚和家乡波希米亚民间音乐的节奏等要素，追随前辈斯美塔那在浪漫主义时期的民族主义先例。",
+      "related": [
+        "romantic-music",
+        "symphony",
+        "brahms"
+      ],
+      "sources": [
+        "enc-dvorak",
+        "wd-dvorak"
+      ]
+    },
+    {
+      "id": "program-music",
+      "title": "标题音乐（Program music）",
+      "kind": "术语",
+      "unit": "music-romantic",
+      "era": "19世纪（术语）",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "试图以音乐呈现音乐之外的叙事或对世界某方面描述的器乐；术语由李斯特在19世纪提出。",
+      "when": "19世纪",
+      "overview": "标题音乐是一种器乐，试图用音乐呈现音乐之外的叙事，或对世界某一方面的描述。",
+      "related": [
+        "symphonic-poem",
+        "liszt",
+        "berlioz"
+      ],
+      "sources": [
+        "enc-program-music",
+        "wd-program-music"
+      ]
+    },
+    {
+      "id": "grand-opera",
+      "title": "大歌剧（Grand opera）",
+      "kind": "风格",
+      "unit": "music-romantic",
+      "era": "19世纪",
+      "region": "法国（巴黎）",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "19世纪歌剧体裁，一般为四或五幕，演员与乐队规模庞大；特指约1820年代末至1860年前后巴黎歌剧院的若干制作。",
+      "when": "约公元1820年代末—1860年前后",
+      "overview": "大歌剧是19世纪的一种歌剧体裁，一般为四幕或五幕，以庞大的演员阵容和乐队为特征。",
+      "related": [
+        "romantic-music",
+        "wagner",
+        "opera"
+      ],
+      "sources": [
+        "enc-grand-opera",
+        "wd-grand-opera"
+      ]
+    },
+    {
+      "id": "erhu",
+      "title": "二胡（erhu）",
+      "kind": "作品",
+      "unit": "music-china",
+      "era": "历代—今",
+      "region": "中国",
+      "medium": "乐器",
+      "tier": "重要",
+      "def": "中国两弦拉弦乐器（钉头提琴类），西方有时称“中国小提琴”，是胡琴类中最流行的一种。",
+      "when": "历代—今",
+      "overview": "二胡是中国的两弦拉弦乐器，更具体地说是一种钉头提琴（spike fiddle），在西方有时被称为“中国小提琴”。",
+      "related": [
+        "jingju",
+        "dizi",
+        "violin",
+        "kunqu"
+      ],
+      "sources": [
+        "enc-erhu",
+        "wd-erhu"
+      ]
+    },
+    {
+      "id": "kunqu",
+      "title": "昆曲（Kunqu）",
+      "kind": "风格",
+      "unit": "music-china",
+      "era": "明清",
+      "region": "中国（昆山）",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "现存最古老的中国戏曲形式之一，源于昆山地方音乐风格，16至18世纪主导中国剧坛。",
+      "when": "约公元16—18世纪（鼎盛）",
+      "overview": "昆曲，又称昆剧，是现存最古老的中国戏曲形式之一，由吴文化区昆山的地方音乐风格演变而来。",
+      "related": [
+        "jingju",
+        "dizi",
+        "erhu"
+      ],
+      "sources": [
+        "enc-kunqu",
+        "wd-kunqu"
+      ]
+    },
+    {
+      "id": "dizi",
+      "title": "笛子（dizi）",
+      "kind": "作品",
+      "unit": "music-china",
+      "era": "历代—今",
+      "region": "中国",
+      "medium": "乐器",
+      "tier": "重要",
+      "def": "中国横吹笛，又称笛或横笛，有曲笛、梆笛、新笛等品种。",
+      "when": "历代—今",
+      "overview": "笛子是中国的横吹笛，有时也称“笛”或“横笛”，品种包括曲笛、梆笛与新笛。",
+      "related": [
+        "kunqu",
+        "erhu",
+        "jingju"
+      ],
+      "sources": [
+        "enc-dizi",
+        "wd-dizi"
       ]
     }
   ]

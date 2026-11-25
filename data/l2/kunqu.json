@@ -1,0 +1,20 @@
+{
+  "id": "kunqu",
+  "level": "L2",
+  "sections": {
+    "时代背景": "摘要称，昆曲由吴文化区昆山的地方音乐风格演变而来，16至18世纪主导中国剧坛。",
+    "风格特征": "摘要称，昆曲表演结合音乐、舞蹈、诗歌与表演。",
+    "代表人物与作品": "摘要称，魏良辅改良了昆曲的音乐风格；梁辰鱼在剧作《浣纱记》中采用这一风格后，昆曲广为流行；著名剧目有明代的《牡丹亭》。",
+    "技法或形式分析": "摘要没有给出声腔、曲牌或伴奏乐器，本条目不补写。",
+    "与前后风格的关系和争论": "摘要称它是现存最古老的中国戏曲形式之一。与京剧的关系摘要未述，库内互链为本项目所加。",
+    "一图": "示意图以昆曲为中心，标示昆山地方音乐、魏良辅改良、《牡丹亭》三项。",
+    "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）魏良辅、梁辰鱼的生卒年与具体年代摘要未给出；（3）声腔与伴奏未述。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='kunqu 示意图'><title>kunqu</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>昆山</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>吴地音乐风格</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>昆曲</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>最古老戏曲之一</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>魏良辅</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>改良音乐</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>牡丹亭</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>明代名剧</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+  "sources": [
+    "enc-kunqu",
+    "wd-kunqu"
+  ],
+  "needs_verification": true,
+  "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；人物年代与声腔未给出。"
+}

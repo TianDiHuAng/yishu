@@ -3566,7 +3566,8 @@
         "tchaikovsky",
         "gluck",
         "purcell",
-        "lully"
+        "lully",
+        "grand-opera"
       ],
       "sources": [
         "enc-opera",
@@ -3826,7 +3827,9 @@
         "haydn",
         "violin",
         "concerto",
-        "mahler"
+        "mahler",
+        "mendelssohn",
+        "dvorak"
       ],
       "sources": [
         "enc-symphony",
@@ -4020,7 +4023,11 @@
         "brahms",
         "liszt",
         "mahler",
-        "tchaikovsky"
+        "tchaikovsky",
+        "mendelssohn",
+        "berlioz",
+        "dvorak",
+        "grand-opera"
       ],
       "sources": [
         "enc-romantic-music",
@@ -4089,7 +4096,8 @@
       "related": [
         "romantic-music",
         "romanticism-art",
-        "liszt"
+        "liszt",
+        "program-music"
       ],
       "sources": [
         "enc-romantic-music",
@@ -4161,7 +4169,8 @@
         "opera",
         "redon-parsifal",
         "redon-brunnhilde",
-        "fantin-latour-tannhauser"
+        "fantin-latour-tannhauser",
+        "grand-opera"
       ],
       "sources": [
         "enc-wagner",
@@ -4195,7 +4204,8 @@
       "overview": "创作六百余首艺术歌曲及《未完成交响曲》，以旋律天赋与和声色彩著称。",
       "related": [
         "lied",
-        "romantic-music"
+        "romantic-music",
+        "mendelssohn"
       ],
       "sources": [
         "enc-romantic-music",
@@ -4591,7 +4601,10 @@
       "overview": "以皮黄腔为主，行当分明，脸谱与身段具有高度程式化特征，梅兰芳为代表人物。",
       "related": [
         "china-music-history",
-        "guzheng"
+        "guzheng",
+        "erhu",
+        "kunqu",
+        "dizi"
       ],
       "sources": [
         "enc-jingju",
@@ -5080,7 +5093,8 @@
       "overview": "小提琴在巴洛克时期成为重要独奏与合奏乐器，古典与浪漫时期协奏曲与奏鸣曲文献丰富。",
       "related": [
         "baroque-music",
-        "symphony"
+        "symphony",
+        "erhu"
       ],
       "sources": [
         "enc-violin",
@@ -22424,7 +22438,8 @@
       "related": [
         "romantic-music",
         "counterpoint",
-        "lied"
+        "lied",
+        "dvorak"
       ],
       "sources": [
         "enc-brahms",
@@ -22462,7 +22477,9 @@
         "romantic-music",
         "symphonic-poem",
         "chopin",
-        "bartok"
+        "bartok",
+        "berlioz",
+        "program-music"
       ],
       "sources": [
         "enc-liszt",
@@ -23361,6 +23378,287 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='aleatoric-music 示意图'><title>aleatoric-music</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>偶然决定</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>作品要素</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>偶然音乐</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>二者或兼有</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>演奏者决定</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>实现要素</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>有限可能</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>最常见做法</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；年代与人物未给出。"
+    },
+    {
+      "id": "mendelssohn",
+      "title": "门德尔松（Felix Mendelssohn）",
+      "kind": "人物",
+      "unit": "music-romantic",
+      "era": "19世纪",
+      "region": "德国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "德国作曲家、钢琴家、管风琴家与指挥家，属浪漫主义早期。",
+      "when": "19世纪上半叶",
+      "overview": "门德尔松是浪漫主义早期的德国作曲家、钢琴家、管风琴家和指挥家，作品包括交响曲、协奏曲、钢琴曲、管风琴曲与室内乐。",
+      "related": [
+        "romantic-music",
+        "symphony",
+        "schubert"
+      ],
+      "sources": [
+        "enc-mendelssohn",
+        "wd-mendelssohn"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，门德尔松属浪漫主义早期。（生卒年摘要未给出，本条目不写具体年份，待取机构来源后补。）",
+        "风格特征": "摘要没有描述其风格特征，本条目不补写。",
+        "代表人物与作品": "摘要列出的名作：弦乐八重奏、《仲夏夜之梦》序曲与配乐、《意大利》与《苏格兰》交响曲、清唱剧《圣保罗》与《以利亚》、《赫布里底群岛》序曲、成熟期的小提琴协奏曲，以及圣诞颂歌《听啊，天使高声唱》所用的旋律；《无词歌》是他最著名的钢琴独奏作品。",
+        "技法或形式分析": "摘要只列体裁：交响曲、协奏曲、钢琴曲、管风琴曲、室内乐。本条目不补写技法分析。",
+        "与前后风格的关系和争论": "摘要没有谈及他与前后风格的关系或相关争论。",
+        "一图": "示意图以门德尔松为中心，标示浪漫主义早期、交响曲与序曲、《无词歌》三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）风格特征、生卒年与生平，摘要均未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='mendelssohn 示意图'><title>mendelssohn</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>浪漫主义早期</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>德国</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>门德尔松</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>作曲·钢琴·指挥</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>交响曲与序曲</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>意大利·苏格兰</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>无词歌</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>钢琴独奏</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；风格与生卒年未给出。"
+    },
+    {
+      "id": "berlioz",
+      "title": "柏辽兹（Hector Berlioz）",
+      "kind": "人物",
+      "unit": "music-romantic",
+      "era": "19世纪",
+      "region": "法国",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "法国浪漫主义作曲家、指挥家与评论家，代表作《幻想交响曲》。",
+      "when": "19世纪",
+      "overview": "柏辽兹是法国浪漫主义作曲家、指挥家和评论家，作品有管弦乐、合唱、三部歌剧以及“戏剧交响曲”“戏剧传奇”等混合体裁作品。",
+      "related": [
+        "romantic-music",
+        "program-music",
+        "liszt"
+      ],
+      "sources": [
+        "enc-berlioz",
+        "wd-berlioz"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，柏辽兹是法国浪漫主义作曲家、指挥家和评论家。（生卒年摘要未给出，本条目不写具体年份，待取机构来源后补。）",
+        "风格特征": "摘要没有直接描述风格，但指出他写有混合体裁作品：“戏剧交响曲”《罗密欧与朱丽叶》、“戏剧传奇”《浮士德的天谴》。",
+        "代表人物与作品": "摘要列出：管弦乐《幻想交响曲》《哈罗尔德在意大利》；合唱《安魂曲》《基督的童年》；三部歌剧《本韦努托·切利尼》《特洛伊人》《比阿特丽斯与贝内迪克》。",
+        "技法或形式分析": "摘要没有给出配器或曲式方面的内容，本条目不补写。",
+        "与前后风格的关系和争论": "摘要没有谈及他与标题音乐的关系；库内互链为本项目所加。",
+        "一图": "示意图以柏辽兹为中心，标示《幻想交响曲》、三部歌剧、混合体裁三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）风格、生卒年与评论活动细节，摘要均未给出；（3）“混合体裁”是对摘要所引两种自称体裁的概括。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='berlioz 示意图'><title>berlioz</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>幻想交响曲</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>管弦乐</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>柏辽兹</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>作曲·指挥·评论</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>三部歌剧</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>特洛伊人等</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>混合体裁</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>戏剧交响曲等</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；风格与生卒年未给出。"
+    },
+    {
+      "id": "dvorak",
+      "title": "德沃夏克（Antonín Dvořák）",
+      "kind": "人物",
+      "unit": "music-romantic",
+      "era": "19世纪",
+      "region": "捷克",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "捷克作曲家，常用摩拉维亚与波希米亚民间音乐的节奏等要素，承斯美塔那的民族主义先例。",
+      "when": "19世纪",
+      "overview": "德沃夏克是捷克作曲家，常运用摩拉维亚和家乡波希米亚民间音乐的节奏等要素，追随前辈斯美塔那在浪漫主义时期的民族主义先例。",
+      "related": [
+        "romantic-music",
+        "symphony",
+        "brahms"
+      ],
+      "sources": [
+        "enc-dvorak",
+        "wd-dvorak"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，德沃夏克追随前辈斯美塔那在浪漫主义时期的民族主义先例。（生卒年摘要未给出，本条目不写具体年份，待取机构来源后补。）",
+        "风格特征": "摘要称，他常运用摩拉维亚和家乡波希米亚民间音乐的节奏等要素；其风格被描述为“民族语汇与交响传统最充分的再创造，吸收民间影响并找到运用它们的有效方式”。",
+        "代表人物与作品": "摘要没有列举具体作品，本条目不补写。",
+        "技法或形式分析": "摘要给出的形式信息就是“民间节奏与交响传统的结合”。本条目不补写具体技法。",
+        "与前后风格的关系和争论": "摘要引评论称他“可以说是他那个时代最多才多艺的作曲家”。这是摘要转引的评价，不代表定论。",
+        "一图": "示意图以德沃夏克为中心，标示斯美塔那先例、民间音乐、交响传统三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）两处引语均为转引，出处摘要未给出；（3）作品与生卒年未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='dvorak 示意图'><title>dvorak</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>斯美塔那</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>民族主义先例</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>德沃夏克</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>捷克作曲家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>民间音乐</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>摩拉维亚·波希米亚</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>交响传统</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>二者结合</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；转引评价未核验；作品与生卒年未给出。"
+    },
+    {
+      "id": "program-music",
+      "title": "标题音乐（Program music）",
+      "kind": "术语",
+      "unit": "music-romantic",
+      "era": "19世纪（术语）",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "试图以音乐呈现音乐之外的叙事或对世界某方面描述的器乐；术语由李斯特在19世纪提出。",
+      "when": "19世纪",
+      "overview": "标题音乐是一种器乐，试图用音乐呈现音乐之外的叙事，或对世界某一方面的描述。",
+      "related": [
+        "symphonic-poem",
+        "liszt",
+        "berlioz"
+      ],
+      "sources": [
+        "enc-program-music",
+        "wd-program-music"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，这一术语由李斯特在19世纪提出，他本人写了大量标题音乐；但正如李斯特自己指出的，在他之前几百年就已有标题音乐。",
+        "风格特征": "摘要称，标题音乐是一种试图用音乐呈现音乐之外的叙事或对世界某一方面描述的器乐。",
+        "代表人物与作品": "摘要只提到李斯特。库内互链柏辽兹、交响诗为本项目所加。",
+        "技法或形式分析": "摘要没有给出具体手法，本条目不补写。",
+        "与前后风格的关系和争论": "摘要没有提及与“绝对音乐”的对立或相关争论，本条目不补写。",
+        "一图": "示意图以标题音乐为中心，标示音乐外叙事、李斯特命名、此前已有三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“此前几百年已有”摘要没有举例；（3）与绝对音乐的论争未述。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='program-music 示意图'><title>program-music</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>音乐外叙事</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>或描述</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>标题音乐</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>一种器乐</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>李斯特</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>19世纪命名</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>此前已有</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>数百年</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；例证与相关论争未给出。"
+    },
+    {
+      "id": "grand-opera",
+      "title": "大歌剧（Grand opera）",
+      "kind": "风格",
+      "unit": "music-romantic",
+      "era": "19世纪",
+      "region": "法国（巴黎）",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "19世纪歌剧体裁，一般为四或五幕，演员与乐队规模庞大；特指约1820年代末至1860年前后巴黎歌剧院的若干制作。",
+      "when": "约公元1820年代末—1860年前后",
+      "overview": "大歌剧是19世纪的一种歌剧体裁，一般为四幕或五幕，以庞大的演员阵容和乐队为特征。",
+      "related": [
+        "romantic-music",
+        "wagner",
+        "opera"
+      ],
+      "sources": [
+        "enc-grand-opera",
+        "wd-grand-opera"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，大歌剧是19世纪的歌剧体裁，这一术语尤其用于约1820年代末至1860年前后巴黎歌剧院的若干制作；“grand opéra”有时也指巴黎歌剧院本身。",
+        "风格特征": "摘要称，大歌剧一般为四幕或五幕，以庞大的演员阵容和乐队为特征。",
+        "代表人物与作品": "摘要没有列举作曲家与剧目，本条目不补写。",
+        "技法或形式分析": "摘要称，最初的制作有壮观的布景与舞台效果，情节通常基于或围绕戏剧性的历史事件。",
+        "与前后风格的关系和争论": "摘要没有谈及它与瓦格纳等的关系；库内互链为本项目所加。",
+        "一图": "示意图以大歌剧为中心，标示四到五幕、巴黎歌剧院、历史题材三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）作曲家与剧目未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='grand-opera 示意图'><title>grand-opera</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>四到五幕</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>大型阵容</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>大歌剧</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>19世纪体裁</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>巴黎歌剧院</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>1820年代末—1860</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>历史题材</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>壮观布景</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；作曲家与剧目未给出。"
+    },
+    {
+      "id": "erhu",
+      "title": "二胡（erhu）",
+      "kind": "作品",
+      "unit": "music-china",
+      "era": "历代—今",
+      "region": "中国",
+      "medium": "乐器",
+      "tier": "重要",
+      "def": "中国两弦拉弦乐器（钉头提琴类），西方有时称“中国小提琴”，是胡琴类中最流行的一种。",
+      "when": "历代—今",
+      "overview": "二胡是中国的两弦拉弦乐器，更具体地说是一种钉头提琴（spike fiddle），在西方有时被称为“中国小提琴”。",
+      "related": [
+        "jingju",
+        "dizi",
+        "violin",
+        "kunqu"
+      ],
+      "sources": [
+        "enc-erhu",
+        "wd-erhu"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要没有给出起源年代，本条目不补写。",
+        "风格特征": "摘要称，二胡是中国的两弦拉弦乐器（钉头提琴类），在西方有时被称为“中国小提琴”；它是中国各民族使用的传统拉弦乐器胡琴类中最流行的一种。",
+        "代表人物与作品": "摘要没有列举演奏家与曲目，本条目不补写。",
+        "技法或形式分析": "摘要给出的形制信息只有“两弦、拉奏、钉头提琴类”。本条目不补写琴筒、蒙皮等细节。",
+        "与前后风格的关系和争论": "摘要称，它既用于独奏，也用于小型合奏与大型乐团；作为多用途乐器，也用于流行、摇滚与爵士等当代编配。",
+        "一图": "示意图以二胡为中心，标示胡琴类、独奏与合奏、当代编配三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）起源年代、形制细节与代表曲目，摘要均未给出；（3）“中国小提琴”是西方俗称，并非形制归类。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='erhu 示意图'><title>erhu</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>胡琴类</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>最流行的一种</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>二胡</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>两弦拉弦</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>独奏与合奏</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>大小乐团</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>当代编配</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>流行·爵士</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；年代、形制细节与曲目未给出。"
+    },
+    {
+      "id": "kunqu",
+      "title": "昆曲（Kunqu）",
+      "kind": "风格",
+      "unit": "music-china",
+      "era": "明清",
+      "region": "中国（昆山）",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "现存最古老的中国戏曲形式之一，源于昆山地方音乐风格，16至18世纪主导中国剧坛。",
+      "when": "约公元16—18世纪（鼎盛）",
+      "overview": "昆曲，又称昆剧，是现存最古老的中国戏曲形式之一，由吴文化区昆山的地方音乐风格演变而来。",
+      "related": [
+        "jingju",
+        "dizi",
+        "erhu"
+      ],
+      "sources": [
+        "enc-kunqu",
+        "wd-kunqu"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，昆曲由吴文化区昆山的地方音乐风格演变而来，16至18世纪主导中国剧坛。",
+        "风格特征": "摘要称，昆曲表演结合音乐、舞蹈、诗歌与表演。",
+        "代表人物与作品": "摘要称，魏良辅改良了昆曲的音乐风格；梁辰鱼在剧作《浣纱记》中采用这一风格后，昆曲广为流行；著名剧目有明代的《牡丹亭》。",
+        "技法或形式分析": "摘要没有给出声腔、曲牌或伴奏乐器，本条目不补写。",
+        "与前后风格的关系和争论": "摘要称它是现存最古老的中国戏曲形式之一。与京剧的关系摘要未述，库内互链为本项目所加。",
+        "一图": "示意图以昆曲为中心，标示昆山地方音乐、魏良辅改良、《牡丹亭》三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）魏良辅、梁辰鱼的生卒年与具体年代摘要未给出；（3）声腔与伴奏未述。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='kunqu 示意图'><title>kunqu</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>昆山</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>吴地音乐风格</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>昆曲</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>最古老戏曲之一</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>魏良辅</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>改良音乐</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>牡丹亭</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>明代名剧</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；人物年代与声腔未给出。"
+    },
+    {
+      "id": "dizi",
+      "title": "笛子（dizi）",
+      "kind": "作品",
+      "unit": "music-china",
+      "era": "历代—今",
+      "region": "中国",
+      "medium": "乐器",
+      "tier": "重要",
+      "def": "中国横吹笛，又称笛或横笛，有曲笛、梆笛、新笛等品种。",
+      "when": "历代—今",
+      "overview": "笛子是中国的横吹笛，有时也称“笛”或“横笛”，品种包括曲笛、梆笛与新笛。",
+      "related": [
+        "kunqu",
+        "erhu",
+        "jingju"
+      ],
+      "sources": [
+        "enc-dizi",
+        "wd-dizi"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要没有给出起源年代，本条目不补写。",
+        "风格特征": "摘要称，笛子是中国的横吹笛，又称“笛”或“横笛”，制作简单、便于携带，在中国民间很受欢迎。",
+        "代表人物与作品": "摘要列出品种：曲笛、梆笛、新笛。摘要没有列举演奏家与曲目。",
+        "技法或形式分析": "摘要没有给出孔数、笛膜等形制细节，本条目不补写。",
+        "与前后风格的关系和争论": "摘要称，笛子是一种主要的中国乐器，广泛用于多种中国民间音乐、中国戏曲以及现代民族管弦乐队。曲笛与昆曲的关系摘要未述，库内互链为本项目所加。",
+        "一图": "示意图以笛子为中心，标示曲笛·梆笛·新笛、民间音乐与戏曲、现代民族乐队三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）起源年代与形制细节未给出；（3）各品种的区别摘要未解释。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='dizi 示意图'><title>dizi</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>品种</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>曲笛·梆笛·新笛</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>笛子</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>中国横吹笛</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>民间与戏曲</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>广泛使用</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>现代乐队</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>民族管弦乐</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；年代与形制细节未给出。"
     }
   ]
 }
