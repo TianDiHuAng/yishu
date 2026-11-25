@@ -9449,6 +9449,96 @@
       "type": "权威机构词表（术语定义）",
       "verified": true,
       "verified_note": "2026-11-24 经 vocab.getty.edu SPARQL 接口取回该术语的英文定义（scopeNote），编号与标签匹配；原文存档于 tmp/aat_c190.json"
+    },
+    {
+      "id": "cma-1975-92",
+      "title": "Cleveland Museum of Art — Shakyamuni Triad:  Buddha Attended by Manjushri and Samantabhadra (1975.92)",
+      "author": "Cleveland Museum of Art（克利夫兰艺术博物馆开放数据）",
+      "year": "2026",
+      "url": "https://clevelandart.org/art/1975.92",
+      "type": "收藏机构官方藏品记录（断代、年代、类别）",
+      "verified": true,
+      "verified_note": "2026-11-25 经开放数据接口按 id 148381 取回，核对登记号 1975.92 与断代：China, Tang dynasty (618-907)；年代 c. 900"
+    },
+    {
+      "id": "cma-1997-91",
+      "title": "Cleveland Museum of Art — Quails and Sparrows in an Autumn Scene (1997.91)",
+      "author": "Cleveland Museum of Art（克利夫兰艺术博物馆开放数据）",
+      "year": "2026",
+      "url": "https://clevelandart.org/art/1997.91",
+      "type": "收藏机构官方藏品记录（断代、年代、类别）",
+      "verified": true,
+      "verified_note": "2026-11-25 经开放数据接口按 id 160133 取回，核对登记号 1997.91 与断代：China, Yuan dynasty (1271–1368)；年代 1347"
+    },
+    {
+      "id": "cma-1963-102",
+      "title": "Cleveland Museum of Art — Zhao Mengfu Writing the Heart (Hridaya) Sutra in Exchange for Tea (1963.102)",
+      "author": "Cleveland Museum of Art（克利夫兰艺术博物馆开放数据）",
+      "year": "2026",
+      "url": "https://clevelandart.org/art/1963.102",
+      "type": "收藏机构官方藏品记录（断代、年代、类别）",
+      "verified": true,
+      "verified_note": "2026-11-25 经开放数据接口按 id 138688 取回，核对登记号 1963.102 与断代：China, Ming dynasty (1368–1644)；年代 1542–43"
+    },
+    {
+      "id": "cma-1962-157",
+      "title": "Cleveland Museum of Art — Landscapes in Various Styles after Old Masters (1962.157)",
+      "author": "Cleveland Museum of Art（克利夫兰艺术博物馆开放数据）",
+      "year": "2026",
+      "url": "https://clevelandart.org/art/1962.157",
+      "type": "收藏机构官方藏品记录（断代、年代、类别）",
+      "verified": true,
+      "verified_note": "2026-11-25 经开放数据接口按 id 137202 取回，核对登记号 1962.157 与断代：China, Qing dynasty (1644-1911)；年代 1690"
+    },
+    {
+      "id": "cma-1983-213",
+      "title": "Cleveland Museum of Art — Mirror with Xiwangmu (1983.213)",
+      "author": "Cleveland Museum of Art（克利夫兰艺术博物馆开放数据）",
+      "year": "2026",
+      "url": "https://clevelandart.org/art/1983.213",
+      "type": "收藏机构官方藏品记录（断代、年代、类别）",
+      "verified": true,
+      "verified_note": "2026-11-25 经开放数据接口按 id 151373 取回，核对登记号 1983.213 与断代：China, Six Dynasties period (220–589 CE)；年代 c. 317–400 CE"
+    },
+    {
+      "id": "cma-1963-103",
+      "title": "Cleveland Museum of Art — Square Wine Container (Fangyou) (1963.103)",
+      "author": "Cleveland Museum of Art（克利夫兰艺术博物馆开放数据）",
+      "year": "2026",
+      "url": "https://clevelandart.org/art/1963.103",
+      "type": "收藏机构官方藏品记录（断代、年代、类别）",
+      "verified": true,
+      "verified_note": "2026-11-25 经开放数据接口按 id 138689 取回，核对登记号 1963.103 与断代：China, Henan province, probably Anyang, Shang dynasty (c. 1600–c. 1046 BCE), Anyang phase (c. 1250–1046 BCE)；年代 c. 1250–1046 BCE"
+    },
+    {
+      "id": "cma-1952-513",
+      "title": "Cleveland Museum of Art — Head of Amenhotep III Wearing the Blue Crown (1952.513)",
+      "author": "Cleveland Museum of Art（克利夫兰艺术博物馆开放数据）",
+      "year": "2026",
+      "url": "https://clevelandart.org/art/1952.513",
+      "type": "收藏机构官方藏品记录（断代、年代、类别）",
+      "verified": true,
+      "verified_note": "2026-11-25 经开放数据接口按 id 130133 取回，核对登记号 1952.513 与断代：Egypt, New Kingdom (1540–1069 BCE), Dynasty 18, reign of Amenhotep III (1390–1352 BCE)；年代 c. 1391–1353 BCE"
+    },
+    {
+      "id": "cma-2012-294",
+      "title": "Cleveland Museum of Art — Head of a Follower of Shiva (2012.294)",
+      "author": "Cleveland Museum of Art（克利夫兰艺术博物馆开放数据）",
+      "year": "2026",
+      "url": "https://clevelandart.org/art/2012.294",
+      "type": "收藏机构官方藏品记录（断代、年代、类别）",
+      "verified": true,
+      "verified_note": "2026-11-25 经开放数据接口按 id 170075 取回，核对登记号 2012.294 与断代：Cambodia, Angkor, 10th century；年代 900s"
+    },
+    {
+      "id": "cma-1970-36",
+      "title": "Cleveland Museum of Art — Fragment of a Processional Cross (1970.36)",
+      "author": "Cleveland Museum of Art（克利夫兰艺术博物馆开放数据）",
+      "year": "2026",
+      "url": "https://clevelandart.org/art/1970.36",
+      "type": "收藏机构官方藏品记录（断代、年代、类别）",
+      "verified": true,
+      "verified_note": "2026-11-25 经开放数据接口按 id 145192 取回，核对登记号 1970.36 与断代：Byzantium, Constantinople, Byzantine period；年代 c. 1050"
     }
   ]
 }

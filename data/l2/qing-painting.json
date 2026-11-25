@@ -1,14 +1,17 @@
 {
- "id": "qing-painting",
- "level": "L2",
- "sections": {
-  "时代背景": "清代绘画处于清代（1644—1912年），定义中呈现正统派与个性派并存的格局。材料把它置于中国绘画史脉络，并列明代绘画为相关条目。概述提到四王承袭文人画正统、四僧与扬州画派强调个性，显示同一时期并行的不同取向。",
-  "风格特征": "清代绘画的总体特征是正统派与个性派并存。四王承袭文人画正统，四僧与扬州画派则强调个性。概述同时指出花鸟画与金石入画有所发展，构成这一时期另一组值得注意的面向。",
-  "代表人物与作品": "概述明确点名四王、四僧与扬州画派，并以四王承袭文人画正统、四僧与扬州画派强调个性来区分取向。输入材料未给出具体个人姓名或作品名称，正文仅保留概述中的群体称谓。相关条目仅列明代绘画与中国绘画史，均非人物条目。",
-  "技法或形式分析": "从形式取向看，正统派一侧以承袭文人画为主，个性派一侧以强调个性为主，二者并存构成基本框架。概述另把花鸟画与金石入画列为发展线索。输入未给出具体笔法、构图或设色细节，分析止于上述层面。",
-  "与前后风格的关系和争论": "相关条目列出明代绘画与中国绘画史，据此可把清代绘画放在承接前代绘画的脉络中理解。概述未记载反弹或争论事件，也没有点名持论者。记载较一致，学界主要讨论清代绘画的分期与边界问题。",
-  "一图": "示意图以两条线索并列呈现清代绘画中正统派承袭与个性派强调个性的并存格局，并附花鸟画与金石入画的发展支线。",
-  "待核实": "概述提到花鸟画与金石入画发展，但未给出代表作品、年份与收藏地。相关条目中的明代绘画与中国绘画史仅提供标题，未附作品层面的对应关系。若需补充具体作品信息，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
- },
- "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='清代绘画 示意图'><title>清代绘画</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>清代绘画</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>正统派与个性派并存</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>四王</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>承袭文人画正统</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>四僧与扬州画派</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>强调个性</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>花鸟画与金石入画</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>发展</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>正统派与个性派并存，花鸟画与金石入画发展</text></g></svg>"
+  "id": "qing-painting",
+  "level": "L2",
+  "sections": {
+    "时代背景": "清代绘画处于清代（1644—1912年），定义中呈现正统派与个性派并存的格局。材料把它置于中国绘画史脉络，并列明代绘画为相关条目。概述提到四王承袭文人画正统、四僧与扬州画派强调个性，显示同一时期并行的不同取向。",
+    "风格特征": "清代绘画的总体特征是正统派与个性派并存。四王承袭文人画正统，四僧与扬州画派则强调个性。概述同时指出花鸟画与金石入画有所发展，构成这一时期另一组值得注意的面向。",
+    "代表人物与作品": "概述明确点名四王、四僧与扬州画派，并以四王承袭文人画正统、四僧与扬州画派强调个性来区分取向。输入材料未给出具体个人姓名或作品名称，正文仅保留概述中的群体称谓。相关条目仅列明代绘画与中国绘画史，均非人物条目。",
+    "技法或形式分析": "从形式取向看，正统派一侧以承袭文人画为主，个性派一侧以强调个性为主，二者并存构成基本框架。概述另把花鸟画与金石入画列为发展线索。输入未给出具体笔法、构图或设色细节，分析止于上述层面。",
+    "与前后风格的关系和争论": "相关条目列出明代绘画与中国绘画史，据此可把清代绘画放在承接前代绘画的脉络中理解。概述未记载反弹或争论事件，也没有点名持论者。记载较一致，学界主要讨论清代绘画的分期与边界问题。",
+    "一图": "示意图以两条线索并列呈现清代绘画中正统派承袭与个性派强调个性的并存格局，并附花鸟画与金石入画的发展支线。",
+    "待核实": "概述提到花鸟画与金石入画发展，但未给出代表作品、年份与收藏地。相关条目中的明代绘画与中国绘画史仅提供标题，未附作品层面的对应关系。若需补充具体作品信息，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。（克利夫兰艺术博物馆馆藏对照，2026-11-25）CMA 断代清代写作1644—1911年，本条目 when 为1644—1912年（以宣统退位计）；止年差一年属计法不同，未改 when。代表作为1690年《仿古山水册》。单件馆藏记录只能印证该时期的断代与存在此类作品，不能印证风格概括与影响叙述。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='清代绘画 示意图'><title>清代绘画</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>清代绘画</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>正统派与个性派并存</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>四王</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>承袭文人画正统</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>四僧与扬州画派</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>强调个性</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>花鸟画与金石入画</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>发展</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>正统派与个性派并存，花鸟画与金石入画发展</text></g></svg>",
+  "sources": [
+    "cma-1962-157"
+  ]
 }

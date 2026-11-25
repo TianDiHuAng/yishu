@@ -1,19 +1,20 @@
 {
- "id": "egyptian-art",
- "level": "L2",
- "sections": {
-  "时代背景": "古埃及艺术约始于公元前3100年，延续至前30年，主要覆盖古王国至新王国时期，地域集中于埃及。这一艺术体系服务于宗教与王权，其产生与宗教和王权的表达需要紧密相连。作为早期成熟的艺术传统，它与条目所列的古希腊艺术、古罗马艺术同置于地中海艺术史的序列之中。",
-  "风格特征": "古埃及艺术遵循严格的正面律与比例规范，人物造型高度程式化。雕塑与壁画中的人物采用固定的姿态组合：头部侧向、眼睛正视、肩部正面、腿部侧向。色彩与尺寸在作品中具有象征意义，服务于宗教与王权的表达。整体风格以规范与秩序感为核心。",
-  "代表人物与作品": "现有条目在定义与概述中未点名具体的古埃及艺术家或作品名称，重点在于正面律与比例规范所体现的整体风格。概述提及的代表形式主要是雕塑与壁画，以及其中头侧、眼正、肩正、腿侧的人物表现。相关条目中仅以标题列出古希腊艺术与古罗马艺术，未提供可用于本条的人物或作品细节。具体代表作信息待补充第二来源。",
-  "技法或形式分析": "在雕塑与壁画中，人物以正面律组织身体各部分，头侧、眼正、肩正、腿侧的组合兼顾了各部位的可辨识性。比例规范约束着形象的整体尺度，使画面保持统一的秩序。色彩与尺寸被赋予象征意义，参与宗教与王权观念的传达。形式上的程式化使作品更重规范，而非个体面貌的刻画。",
-  "与前后风格的关系和争论": "在条目所列关系中，古埃及艺术与古希腊艺术、古罗马艺术并列，构成从早期地中海艺术向古典传统延伸的参照序列。作为更早成熟的体系，它的人物规范为理解后来的艺术探索提供了对照。记载较一致，学界主要讨论古埃及艺术在古王国—新王国框架内的分期与边界问题。",
-  "一图": "示意图以正面律为核心，展示古埃及艺术中人物姿态规范如何在雕塑与壁画中贯穿应用。",
-  "待核实": "现有条目未提供具体作品的年代、作者与收藏地信息，概述仅给出正面律与色彩、尺寸象征等总体特征。条目所列来源为权威百科条目 Prehistoric art 与 Ancient Greek art，尚未针对具体作品给出第二来源。若需补充代表作及其年代、收藏信息，待补充第二来源后再行写入。"
- },
- "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='古埃及艺术 示意图'><title>古埃及艺术</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>古埃及艺术</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>宗教与王权</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>正面律</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>头侧眼正肩正腿侧</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>雕塑与壁画</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>色彩与尺寸象征</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>正面律贯穿雕塑与壁画的人物表现</text></g></svg>",
- "sources": [
-  "enc-prehistoric-art",
-  "enc-greek-art",
-  "wd-anchor-egyptian-art"
- ]
+  "id": "egyptian-art",
+  "level": "L2",
+  "sections": {
+    "时代背景": "古埃及艺术约始于公元前3100年，延续至前30年，主要覆盖古王国至新王国时期，地域集中于埃及。这一艺术体系服务于宗教与王权，其产生与宗教和王权的表达需要紧密相连。作为早期成熟的艺术传统，它与条目所列的古希腊艺术、古罗马艺术同置于地中海艺术史的序列之中。",
+    "风格特征": "古埃及艺术遵循严格的正面律与比例规范，人物造型高度程式化。雕塑与壁画中的人物采用固定的姿态组合：头部侧向、眼睛正视、肩部正面、腿部侧向。色彩与尺寸在作品中具有象征意义，服务于宗教与王权的表达。整体风格以规范与秩序感为核心。",
+    "代表人物与作品": "现有条目在定义与概述中未点名具体的古埃及艺术家或作品名称，重点在于正面律与比例规范所体现的整体风格。概述提及的代表形式主要是雕塑与壁画，以及其中头侧、眼正、肩正、腿侧的人物表现。相关条目中仅以标题列出古希腊艺术与古罗马艺术，未提供可用于本条的人物或作品细节。具体代表作信息待补充第二来源。",
+    "技法或形式分析": "在雕塑与壁画中，人物以正面律组织身体各部分，头侧、眼正、肩正、腿侧的组合兼顾了各部位的可辨识性。比例规范约束着形象的整体尺度，使画面保持统一的秩序。色彩与尺寸被赋予象征意义，参与宗教与王权观念的传达。形式上的程式化使作品更重规范，而非个体面貌的刻画。",
+    "与前后风格的关系和争论": "在条目所列关系中，古埃及艺术与古希腊艺术、古罗马艺术并列，构成从早期地中海艺术向古典传统延伸的参照序列。作为更早成熟的体系，它的人物规范为理解后来的艺术探索提供了对照。记载较一致，学界主要讨论古埃及艺术在古王国—新王国框架内的分期与边界问题。",
+    "一图": "示意图以正面律为核心，展示古埃及艺术中人物姿态规范如何在雕塑与壁画中贯穿应用。",
+    "待核实": "现有条目未提供具体作品的年代、作者与收藏地信息，概述仅给出正面律与色彩、尺寸象征等总体特征。条目所列来源为权威百科条目 Prehistoric art 与 Ancient Greek art，尚未针对具体作品给出第二来源。若需补充代表作及其年代、收藏信息，待补充第二来源后再行写入。（克利夫兰艺术博物馆馆藏对照，2026-11-25）CMA 记录新王国约前1540—前1069年（第十八王朝阿蒙霍特普三世头像）；只落在本条目 when 约前3100—前30年之内，不能印证首尾年代。单件馆藏记录只能印证该时期的断代与存在此类作品，不能印证风格概括与影响叙述。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='古埃及艺术 示意图'><title>古埃及艺术</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>古埃及艺术</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>宗教与王权</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>正面律</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>头侧眼正肩正腿侧</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>雕塑与壁画</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>色彩与尺寸象征</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>正面律贯穿雕塑与壁画的人物表现</text></g></svg>",
+  "sources": [
+    "enc-prehistoric-art",
+    "enc-greek-art",
+    "wd-anchor-egyptian-art",
+    "cma-1952-513"
+  ]
 }

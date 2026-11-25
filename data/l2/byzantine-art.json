@@ -1,24 +1,25 @@
 {
- "id": "byzantine-art",
- "level": "L2",
- "sections": {
-  "时代背景": "拜占庭艺术属于中世纪早期东罗马的艺术传统。材料给出的时间范围为约公元4—15世纪。其定义将东罗马帝国的基督教艺术传统作为基本语境。",
-  "风格特征": "拜占庭艺术以镶嵌画、圣像与集中式教堂为特征。概述强调金色背景与平面化人物。圣像具有神学象征功能，圣索菲亚大教堂则代表其建筑成就。",
-  "代表人物与作品": "材料未点名具体代表人物，列出的是艺术传统与媒介类别。代表对象包括镶嵌画、圣像与集中式教堂。圣索菲亚大教堂在概述中作为建筑成就的代表出现。",
-  "技法或形式分析": "镶嵌画、圣像与集中式教堂构成材料中可确认的主要形式载体。金色背景与平面化人物说明其视觉呈现偏重象征性而非材料未提及的写实细节。圣像的神学象征功能表明图像意义与宗教语境相连。",
-  "与前后风格的关系和争论": "从相关条目看，拜占庭艺术与早期基督教艺术、罗马式艺术共同出现在条目关系中。材料未提供争论、学者姓名或观点归属。记载较一致，学界主要讨论拜占庭艺术的分期/边界问题。",
-  "一图": "示意图以镶嵌画、圣像和圣索菲亚大教堂概括拜占庭艺术的形式与建筑成就。",
-  "待核实": "圣索菲亚大教堂的具体年代与地点未在材料中给出，待补充第二来源。若需列举具体圣像作品或镶嵌画作品，材料未提供名称，待补充第二来源。若需说明与早期基督教艺术、罗马式艺术之间更细的承接关系，也待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
- },
- "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='拜占庭艺术 示意图'><title>拜占庭艺术</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>拜占庭艺术</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>东罗马</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>镶嵌画</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>圣像</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>金色背景</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>平面化人物</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>圣索菲亚大教堂</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>集中式教堂</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>拜占庭艺术：镶嵌画与集中式教堂</text></g></svg>",
- "related": [
-  "early-christian-art",
-  "romanesque",
-  "roman-art"
- ],
- "sources": [
-  "enc-byzantine-art",
-  "enc-medieval-art",
-  "wd-anchor-byzantine-art"
- ]
+  "id": "byzantine-art",
+  "level": "L2",
+  "sections": {
+    "时代背景": "拜占庭艺术属于中世纪早期东罗马的艺术传统。材料给出的时间范围为约公元4—15世纪。其定义将东罗马帝国的基督教艺术传统作为基本语境。",
+    "风格特征": "拜占庭艺术以镶嵌画、圣像与集中式教堂为特征。概述强调金色背景与平面化人物。圣像具有神学象征功能，圣索菲亚大教堂则代表其建筑成就。",
+    "代表人物与作品": "材料未点名具体代表人物，列出的是艺术传统与媒介类别。代表对象包括镶嵌画、圣像与集中式教堂。圣索菲亚大教堂在概述中作为建筑成就的代表出现。",
+    "技法或形式分析": "镶嵌画、圣像与集中式教堂构成材料中可确认的主要形式载体。金色背景与平面化人物说明其视觉呈现偏重象征性而非材料未提及的写实细节。圣像的神学象征功能表明图像意义与宗教语境相连。",
+    "与前后风格的关系和争论": "从相关条目看，拜占庭艺术与早期基督教艺术、罗马式艺术共同出现在条目关系中。材料未提供争论、学者姓名或观点归属。记载较一致，学界主要讨论拜占庭艺术的分期/边界问题。",
+    "一图": "示意图以镶嵌画、圣像和圣索菲亚大教堂概括拜占庭艺术的形式与建筑成就。",
+    "待核实": "圣索菲亚大教堂的具体年代与地点未在材料中给出，待补充第二来源。若需列举具体圣像作品或镶嵌画作品，材料未提供名称，待补充第二来源。若需说明与早期基督教艺术、罗马式艺术之间更细的承接关系，也待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。（克利夫兰艺术博物馆馆藏对照，2026-11-25）CMA 记录为君士坦丁堡、拜占庭时期、约1050年（游行十字架残件）；只落在本条目 when 约4—15世纪之内，不能印证首尾年代。单件馆藏记录只能印证该时期的断代与存在此类作品，不能印证风格概括与影响叙述。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='拜占庭艺术 示意图'><title>拜占庭艺术</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>拜占庭艺术</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>东罗马</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>镶嵌画</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>圣像</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>金色背景</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>平面化人物</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>圣索菲亚大教堂</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>集中式教堂</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>拜占庭艺术：镶嵌画与集中式教堂</text></g></svg>",
+  "related": [
+    "early-christian-art",
+    "romanesque",
+    "roman-art"
+  ],
+  "sources": [
+    "enc-byzantine-art",
+    "enc-medieval-art",
+    "wd-anchor-byzantine-art",
+    "cma-1970-36"
+  ]
 }

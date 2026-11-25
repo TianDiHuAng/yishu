@@ -55,8 +55,8 @@
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 3,
-      "verified_sources_count": 3,
+      "sources_count": 4,
+      "verified_sources_count": 4,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
@@ -91,8 +91,8 @@
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 3,
-      "verified_sources_count": 3,
+      "sources_count": 4,
+      "verified_sources_count": 4,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
@@ -715,39 +715,27 @@
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "song-painting": {
       "title": "宋代绘画",
       "tier": "核心",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "yuan-painting": {
       "title": "元代绘画",
-      "tier": "重要",
-      "level": "L2",
-      "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
-      "needs_verification": false,
-      "pending_notes": "",
-      "last_update": "2026-11-22",
-      "source_independence_ok": false
-    },
-    "ming-painting": {
-      "title": "明代绘画",
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
@@ -758,17 +746,29 @@
       "last_update": "2026-11-22",
       "source_independence_ok": true
     },
+    "ming-painting": {
+      "title": "明代绘画",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 4,
+      "verified_sources_count": 4,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
     "qing-painting": {
       "title": "清代绘画",
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "xieyi": {
       "title": "写意",
@@ -823,12 +823,12 @@
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "dunhuang-art": {
       "title": "敦煌艺术",
@@ -847,12 +847,12 @@
       "tier": "重要",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 2,
-      "verified_sources_count": 2,
+      "sources_count": 3,
+      "verified_sources_count": 3,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",
-      "source_independence_ok": false
+      "source_independence_ok": true
     },
     "china-calligraphy-history": {
       "title": "中国书法史",
@@ -1615,8 +1615,8 @@
       "tier": "补充",
       "level": "L2",
       "status": "written_l2",
-      "sources_count": 3,
-      "verified_sources_count": 3,
+      "sources_count": 4,
+      "verified_sources_count": 4,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",

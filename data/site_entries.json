@@ -121,7 +121,8 @@
       "sources": [
         "enc-prehistoric-art",
         "enc-greek-art",
-        "wd-anchor-egyptian-art"
+        "wd-anchor-egyptian-art",
+        "cma-1952-513"
       ],
       "level": "L2",
       "sections": {
@@ -131,7 +132,7 @@
         "技法或形式分析": "在雕塑与壁画中，人物以正面律组织身体各部分，头侧、眼正、肩正、腿侧的组合兼顾了各部位的可辨识性。比例规范约束着形象的整体尺度，使画面保持统一的秩序。色彩与尺寸被赋予象征意义，参与宗教与王权观念的传达。形式上的程式化使作品更重规范，而非个体面貌的刻画。",
         "与前后风格的关系和争论": "在条目所列关系中，古埃及艺术与古希腊艺术、古罗马艺术并列，构成从早期地中海艺术向古典传统延伸的参照序列。作为更早成熟的体系，它的人物规范为理解后来的艺术探索提供了对照。记载较一致，学界主要讨论古埃及艺术在古王国—新王国框架内的分期与边界问题。",
         "一图": "示意图以正面律为核心，展示古埃及艺术中人物姿态规范如何在雕塑与壁画中贯穿应用。",
-        "待核实": "现有条目未提供具体作品的年代、作者与收藏地信息，概述仅给出正面律与色彩、尺寸象征等总体特征。条目所列来源为权威百科条目 Prehistoric art 与 Ancient Greek art，尚未针对具体作品给出第二来源。若需补充代表作及其年代、收藏信息，待补充第二来源后再行写入。"
+        "待核实": "现有条目未提供具体作品的年代、作者与收藏地信息，概述仅给出正面律与色彩、尺寸象征等总体特征。条目所列来源为权威百科条目 Prehistoric art 与 Ancient Greek art，尚未针对具体作品给出第二来源。若需补充代表作及其年代、收藏信息，待补充第二来源后再行写入。（克利夫兰艺术博物馆馆藏对照，2026-11-25）CMA 记录新王国约前1540—前1069年（第十八王朝阿蒙霍特普三世头像）；只落在本条目 when 约前3100—前30年之内，不能印证首尾年代。单件馆藏记录只能印证该时期的断代与存在此类作品，不能印证风格概括与影响叙述。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='古埃及艺术 示意图'><title>古埃及艺术</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>古埃及艺术</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>宗教与王权</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>正面律</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>头侧眼正肩正腿侧</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>雕塑与壁画</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>色彩与尺寸象征</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>正面律贯穿雕塑与壁画的人物表现</text></g></svg>"
     },
@@ -304,7 +305,8 @@
       "sources": [
         "enc-byzantine-art",
         "enc-medieval-art",
-        "wd-anchor-byzantine-art"
+        "wd-anchor-byzantine-art",
+        "cma-1970-36"
       ],
       "level": "L2",
       "sections": {
@@ -314,7 +316,7 @@
         "技法或形式分析": "镶嵌画、圣像与集中式教堂构成材料中可确认的主要形式载体。金色背景与平面化人物说明其视觉呈现偏重象征性而非材料未提及的写实细节。圣像的神学象征功能表明图像意义与宗教语境相连。",
         "与前后风格的关系和争论": "从相关条目看，拜占庭艺术与早期基督教艺术、罗马式艺术共同出现在条目关系中。材料未提供争论、学者姓名或观点归属。记载较一致，学界主要讨论拜占庭艺术的分期/边界问题。",
         "一图": "示意图以镶嵌画、圣像和圣索菲亚大教堂概括拜占庭艺术的形式与建筑成就。",
-        "待核实": "圣索菲亚大教堂的具体年代与地点未在材料中给出，待补充第二来源。若需列举具体圣像作品或镶嵌画作品，材料未提供名称，待补充第二来源。若需说明与早期基督教艺术、罗马式艺术之间更细的承接关系，也待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+        "待核实": "圣索菲亚大教堂的具体年代与地点未在材料中给出，待补充第二来源。若需列举具体圣像作品或镶嵌画作品，材料未提供名称，待补充第二来源。若需说明与早期基督教艺术、罗马式艺术之间更细的承接关系，也待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。（克利夫兰艺术博物馆馆藏对照，2026-11-25）CMA 记录为君士坦丁堡、拜占庭时期、约1050年（游行十字架残件）；只落在本条目 when 约4—15世纪之内，不能印证首尾年代。单件馆藏记录只能印证该时期的断代与存在此类作品，不能印证风格概括与影响叙述。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='拜占庭艺术 示意图'><title>拜占庭艺术</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>拜占庭艺术</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>东罗马</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>镶嵌画</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>圣像</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>金色背景</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>平面化人物</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>圣索菲亚大教堂</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>集中式教堂</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>拜占庭艺术：镶嵌画与集中式教堂</text></g></svg>"
     },
@@ -2519,7 +2521,8 @@
       ],
       "sources": [
         "enc-tang-dynasty-art",
-        "enc-chinese-painting"
+        "enc-chinese-painting",
+        "cma-1975-92"
       ],
       "level": "L2",
       "sections": {
@@ -2529,7 +2532,7 @@
         "技法或形式分析": "就形式层面而言，吴道子的线描与阎立本的人物题材共同支撑人物画的高度成熟。山水画独立与青绿山水、水墨山水并行发展并列出现，显示题材与表现方式的分化。输入未给出具体作品的构图、设色或笔法记录，分析限于上述要点。",
         "与前后风格的关系和争论": "相关条目列出中国绘画史与宋代绘画，可据此把唐代绘画视为中国绘画史序列中连接后世宋代绘画的一环。概述未记载学派争论或反弹事件，也未点名持论者。记载较一致，学界主要讨论唐代绘画的分期与边界问题。",
         "一图": "示意图以人物画成熟和山水画独立为主线，旁列吴道子线描、阎立本人物以及青绿山水与水墨山水并行的关系。",
-        "待核实": "概述未给出吴道子、阎立本具体作品的名称、年份与收藏地。青绿山水与水墨山水并行发展亦未附对应作品。若需落到作品层面，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+        "待核实": "概述未给出吴道子、阎立本具体作品的名称、年份与收藏地。青绿山水与水墨山水并行发展亦未附对应作品。若需落到作品层面，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。（克利夫兰艺术博物馆馆藏对照，2026-11-25）CMA 断代唐代618—907年，与本条目 when 一致；代表作为约900年的《释迦三尊》绢画。单件馆藏记录只能印证该时期的断代与存在此类作品，不能印证风格概括与影响叙述。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='唐代绘画 示意图'><title>唐代绘画</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>唐代绘画</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>人物画高度成熟</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>山水画</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>独立</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>吴道子</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>线描著称</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>阎立本</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>擅人物</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>人物画高度成熟、山水画独立，青绿山水与水墨山水并行发展</text></g></svg>"
     },
@@ -2555,7 +2558,8 @@
       ],
       "sources": [
         "enc-chinese-painting",
-        "enc-tang-dynasty-art"
+        "enc-tang-dynasty-art",
+        "cma-1959-348"
       ],
       "level": "L2",
       "sections": {
@@ -2565,7 +2569,7 @@
         "技法或形式分析": "条目未提供具体技法步骤。可以确认全景山水范式由郭熙、范宽等建立。意境与笔墨是被明确强调的形式追求，文人画由苏轼等提倡。更细的技法分析待补充第二来源。",
         "与前后风格的关系和争论": "宋代绘画与唐代绘画、元代绘画相关，分别处于承接与后续的位置。记载较一致，学界主要讨论宋代绘画的分期与边界问题。现有条目未记载具体争论或学者观点，相关判断待补充第二来源。",
         "一图": "示意图以宋代绘画为中心，展示全景山水范式与文人画主张，并标出唐代绘画、元代绘画两个关联节点。",
-        "待核实": "郭熙、范宽、苏轼的具体作品名称未在条目中给出，待补充第二来源。全景山水范式的代表作品与收藏地尚缺。宋代绘画与唐代绘画、元代绘画的具体承继关系需专门条目核实。"
+        "待核实": "郭熙、范宽、苏轼的具体作品名称未在条目中给出，待补充第二来源。全景山水范式的代表作品与收藏地尚缺。宋代绘画与唐代绘画、元代绘画的具体承继关系需专门条目核实。（克利夫兰艺术博物馆馆藏对照，2026-11-25）CMA 断代北宋960—1127年（其馆藏另有南宋1127—1279年），与本条目 when 960—1279年相合；代表作为《溪山兰若图》，960—985年。单件馆藏记录只能印证该时期的断代与存在此类作品，不能印证风格概括与影响叙述。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='宋代绘画 示意图'><title>宋代绘画</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>唐代绘画</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>相关条目</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>宋代绘画</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>960—1279年</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>元代绘画</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>相关条目</text><rect class='svg-box-accent' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='665.0' y='142' text-anchor='middle'>文人画</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>苏轼等提倡</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>宋代绘画的承接与文人画主张</text></g></svg>"
     },
@@ -2588,7 +2592,8 @@
       ],
       "sources": [
         "enc-chinese-painting",
-        "enc-tang-dynasty-art"
+        "enc-tang-dynasty-art",
+        "cma-1997-91"
       ],
       "level": "L2",
       "sections": {
@@ -2598,7 +2603,7 @@
         "技法或形式分析": "以书入画与逸气构成定义中的核心取向。赵孟頫所提倡的复古与书画同源，和元四家所用的水墨山水与题跋，分别从观念与画面构成两方面延续文人画表现。材料未提供具体作品的笔法记录，分析限于上述要点。",
         "与前后风格的关系和争论": "相关条目列出宋代绘画与明代绘画，可把元代绘画放在两者之间的承接位置上理解。概述未记载学派争论或反弹事件，也没有点名持论者。记载较一致，学界主要讨论元代绘画的分期与边界问题。",
         "一图": "示意图以文人画为主流，连接赵孟頫的复古与书画同源、元四家的水墨山水与题跋，并以以书入画和逸气标注取向。",
-        "待核实": "概述未给出赵孟頫与元四家具体作品的名称、年份与收藏地。元四家成员姓名亦未在输入中出现。若需落实到作品与作者层面，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+        "待核实": "概述未给出赵孟頫与元四家具体作品的名称、年份与收藏地。元四家成员姓名亦未在输入中出现。若需落实到作品与作者层面，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。（克利夫兰艺术博物馆馆藏对照，2026-11-25）CMA 断代元代1271—1368年，与本条目 when 一致；代表作为1347年《秋景鹑雀图》。单件馆藏记录只能印证该时期的断代与存在此类作品，不能印证风格概括与影响叙述。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='元代绘画 示意图'><title>元代绘画</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>元代绘画</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>文人画为主流</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>赵孟頫</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>复古与书画同源</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>元四家</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>水墨山水与题跋</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>逸气</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>以书入画</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>文人画为主流，以书入画与逸气，复古与书画同源</text></g></svg>"
     },
@@ -2624,7 +2629,8 @@
       "sources": [
         "enc-chinese-painting",
         "enc-chinese-calligraphy",
-        "wd-anchor-ming-painting"
+        "wd-anchor-ming-painting",
+        "cma-1963-102"
       ],
       "level": "L2",
       "sections": {
@@ -2634,7 +2640,7 @@
         "技法或形式分析": "明代绘画在形式上以花鸟画与册页的流行见称，创作格局呈现文人画与职业画家并行。这种多元并存的取向，构成了明代绘画的形式特征。",
         "与前后风格的关系和争论": "明代绘画与元代绘画、清代绘画相承接，处于两者之间。概述中提到的南北宗论涉及画派分宗的讨论，现有记载较一致，学界主要讨论明代绘画与元、清两代的分期与边界问题。",
         "一图": "示意图展示元代绘画、明代绘画、清代绘画的承接关系，并标出董其昌的南北宗论。",
-        "待核实": "现有字段未给出董其昌的具体作品名称及其年代、收藏信息。相关细节待补充第二来源后核实。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+        "待核实": "现有字段未给出董其昌的具体作品名称及其年代、收藏信息。相关细节待补充第二来源后核实。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。（克利夫兰艺术博物馆馆藏对照，2026-11-25）CMA 断代明代1368—1644年，与本条目 when 一致；代表作为1542—1543年《赵孟頫写经换茶图》。单件馆藏记录只能印证该时期的断代与存在此类作品，不能印证风格概括与影响叙述。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='明代绘画 示意图'><title>明代绘画</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>明代绘画</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>画派林立</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>董其昌</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>南北宗论</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>元代绘画</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>绘画</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>清代绘画</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>绘画</text><line class='svg-arrow' x1='400.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>元代、明代、清代绘画的承接及南北宗论</text></g></svg>"
     },
@@ -2657,7 +2663,8 @@
       ],
       "sources": [
         "enc-chinese-painting",
-        "enc-chinese-calligraphy"
+        "enc-chinese-calligraphy",
+        "cma-1962-157"
       ],
       "level": "L2",
       "sections": {
@@ -2667,7 +2674,7 @@
         "技法或形式分析": "从形式取向看，正统派一侧以承袭文人画为主，个性派一侧以强调个性为主，二者并存构成基本框架。概述另把花鸟画与金石入画列为发展线索。输入未给出具体笔法、构图或设色细节，分析止于上述层面。",
         "与前后风格的关系和争论": "相关条目列出明代绘画与中国绘画史，据此可把清代绘画放在承接前代绘画的脉络中理解。概述未记载反弹或争论事件，也没有点名持论者。记载较一致，学界主要讨论清代绘画的分期与边界问题。",
         "一图": "示意图以两条线索并列呈现清代绘画中正统派承袭与个性派强调个性的并存格局，并附花鸟画与金石入画的发展支线。",
-        "待核实": "概述提到花鸟画与金石入画发展，但未给出代表作品、年份与收藏地。相关条目中的明代绘画与中国绘画史仅提供标题，未附作品层面的对应关系。若需补充具体作品信息，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。"
+        "待核实": "概述提到花鸟画与金石入画发展，但未给出代表作品、年份与收藏地。相关条目中的明代绘画与中国绘画史仅提供标题，未附作品层面的对应关系。若需补充具体作品信息，待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。（克利夫兰艺术博物馆馆藏对照，2026-11-25）CMA 断代清代写作1644—1911年，本条目 when 为1644—1912年（以宣统退位计）；止年差一年属计法不同，未改 when。代表作为1690年《仿古山水册》。单件馆藏记录只能印证该时期的断代与存在此类作品，不能印证风格概括与影响叙述。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='清代绘画 示意图'><title>清代绘画</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>清代绘画</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>正统派与个性派并存</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>四王</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>承袭文人画正统</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>四僧与扬州画派</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>强调个性</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>花鸟画与金石入画</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>发展</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>正统派与个性派并存，花鸟画与金石入画发展</text></g></svg>"
     },
@@ -2830,7 +2837,8 @@
       ],
       "sources": [
         "enc-bronze",
-        "enc-sanxingdui"
+        "enc-sanxingdui",
+        "cma-1963-103"
       ],
       "level": "L2",
       "sections": {
@@ -2840,7 +2848,7 @@
         "技法或形式分析": "材料表明青铜礼器以青铜铸造而成，纹饰包括兽面纹、饕餮纹与夔龙纹。这些纹样与多样的器型共同服务于礼制秩序的表达。关于铸造的具体工艺环节及上述纹饰术语的英文对应，材料未作说明，待补充第二来源核实。",
         "与前后风格的关系和争论": "从相关条目看，商周青铜礼器与中国玉器同为先秦礼制器物，并与后来的魏晋南北朝艺术分属不同阶段。材料之间未见明确分歧，记载较一致，学界主要讨论商周青铜礼器的分期与礼制边界问题。",
         "一图": "示意图展示商周青铜礼器以多样器型和饕餮、夔龙等纹饰，体现礼制秩序与铸造工艺。",
-        "待核实": "when 字段的精确年代区间（约公元前1600—前256年）未在概述中逐字支撑，正文仅作概括表述，该区间待补充第二来源核实。具体器物的年份与收藏地，以及饕餮纹、夔龙纹等术语的英文对应，材料均未提供，待补充第二来源。"
+        "待核实": "when 字段的精确年代区间（约公元前1600—前256年）未在概述中逐字支撑，正文仅作概括表述，该区间待补充第二来源核实。具体器物的年份与收藏地，以及饕餮纹、夔龙纹等术语的英文对应，材料均未提供，待补充第二来源。（克利夫兰艺术博物馆馆藏对照，2026-11-25）CMA 断代商代约前1600—约前1046年、安阳期约前1250—前1046年，代表作为方卣；只印证了商代起点，周代下限前256年未经此来源印证。单件馆藏记录只能印证该时期的断代与存在此类作品，不能印证风格概括与影响叙述。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='商周青铜礼器 示意图'><title>商周青铜礼器</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>青铜礼器</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>祭祀与宴飨</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>饕餮夔龙纹</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>器型多样</text><rect class='svg-box-accent' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='665.0' y='142' text-anchor='middle'>礼制秩序</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>铸造工艺</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='455.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>青铜礼器以纹饰体现礼制秩序</text></g></svg>"
     },
@@ -2895,7 +2903,8 @@
       ],
       "sources": [
         "enc-six-dynasties",
-        "enc-chinese-buddhist-art"
+        "enc-chinese-buddhist-art",
+        "cma-1983-213"
       ],
       "level": "L2",
       "sections": {
@@ -2905,7 +2914,7 @@
         "技法或形式分析": "材料指出此期在形式上表现为石窟开凿与佛教造像的兴盛，同时绘画理论开始确立。画论著作的出现标志着理论层面的自觉。关于具体的绘画或造像技法名称，材料未作说明，待补充第二来源核实。",
         "与前后风格的关系和争论": "从相关条目看，魏晋南北朝艺术的石窟与造像传统同敦煌艺术相衔接，并直接为唐代绘画的繁荣奠定基础。材料之间未见明显分歧，记载较一致，学界主要讨论魏晋南北朝艺术的分期与转折边界问题。",
         "一图": "示意图展示魏晋南北朝艺术以佛教兴起和画论确立为转折，上承石窟造像、下启唐代绘画。",
-        "待核实": "when 字段的精确年代区间（约公元220—589年）未在概述中逐字支撑，正文仅作概括表述，该区间待补充第二来源核实。顾恺之的具体作品名称、画论著作的具体书名，以及相关作品年份与收藏地，材料均未提供，待补充第二来源。"
+        "待核实": "when 字段的精确年代区间（约公元220—589年）未在概述中逐字支撑，正文仅作概括表述，该区间待补充第二来源核实。顾恺之的具体作品名称、画论著作的具体书名，以及相关作品年份与收藏地，材料均未提供，待补充第二来源。（克利夫兰艺术博物馆馆藏对照，2026-11-25）CMA 断代六朝220—589年，与本条目 when 一致；代表作为约317—400年西王母纹铜镜。单件馆藏记录只能印证该时期的断代与存在此类作品，不能印证风格概括与影响叙述。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='魏晋南北朝艺术 示意图'><title>魏晋南北朝艺术</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>魏晋南北朝</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>转折期</text><rect class='svg-box-muted' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='380.0' y='142' text-anchor='middle'>佛教艺术</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>石窟与造像</text><rect class='svg-box-accent' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='665.0' y='142' text-anchor='middle'>绘画理论</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>顾恺之</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>佛教兴起与画论确立构成转折</text></g></svg>"
     },
@@ -5270,7 +5279,8 @@
       "sources": [
         "enc-angkor",
         "enc-khmer-art",
-        "wd-anchor-angkor"
+        "wd-anchor-angkor",
+        "cma-2012-294"
       ],
       "level": "L2",
       "sections": {
@@ -5280,7 +5290,7 @@
         "技法或形式分析": "形式上，吴哥建筑以层叠塔庙组织空间，并以护城河形成环绕结构。输入明确说明这些要素象征印度教宇宙观；浮雕描绘史诗与王室场景。",
         "与前后风格的关系和争论": "related 字段将吴哥窟与高棉艺术相连，提示应从高棉艺术脉络理解这一寺庙建筑群。输入未给出前后风格序列，也未列明具体争论；记载较一致，学界主要讨论分期与传播路径问题。",
         "一图": "示意图表达吴哥窟在高棉艺术脉络中的位置及其宗教与王权含义。",
-        "待核实": "输入的 when 字段给出约公元9—15世纪，精确年代区间待核实。sources 仅列 Angkor 与 Khmer art 等权威百科条目，输入未提供更细的分期依据。具体人物、作品收藏地与引文出处均未在输入事实中给出，待补充第二来源。"
+        "待核实": "输入的 when 字段给出约公元9—15世纪，精确年代区间待核实。sources 仅列 Angkor 与 Khmer art 等权威百科条目，输入未提供更细的分期依据。具体人物、作品收藏地与引文出处均未在输入事实中给出，待补充第二来源。（克利夫兰艺术博物馆馆藏对照，2026-11-25）CMA 记录为柬埔寨吴哥、10世纪（湿婆信徒头像）；只落在本条目 when 约9—15世纪之内，不能印证首尾年代。单件馆藏记录只能印证该时期的断代与存在此类作品，不能印证风格概括与影响叙述。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='吴哥窟 示意图'><title>吴哥窟</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>吴哥窟</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>寺庙建筑群</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>高棉艺术</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>高棉帝国</text><text class='svg-caption' x='380' y='262' text-anchor='middle'>吴哥窟与高棉艺术</text></g></svg>"
     },
