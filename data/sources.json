@@ -9539,6 +9539,26 @@
       "type": "收藏机构官方藏品记录（断代、年代、类别）",
       "verified": true,
       "verified_note": "2026-11-25 经开放数据接口按 id 145192 取回，核对登记号 1970.36 与断代：Byzantium, Constantinople, Byzantine period；年代 c. 1050"
+    },
+    {
+      "id": "gnd-4209985-7",
+      "title": "GND 作品规范记录 — Sternennacht (The Museum of Modern Art, New York, NY)",
+      "author": "Deutsche Nationalbibliothek（德国国家图书馆规范档 GND）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/4209985-7",
+      "type": "国家图书馆作品规范记录（标目、作者、创作年代）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 按编号 4209985-7 取回，核对标目“Sternennacht (The Museum of Modern Art, New York, NY)”、作者 Gogh, Vincent van、年代 1889"
+    },
+    {
+      "id": "gnd-300158289",
+      "title": "GND 作品规范记录 — Le sacre du printemps",
+      "author": "Deutsche Nationalbibliothek（德国国家图书馆规范档 GND）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/300158289",
+      "type": "国家图书馆作品规范记录（标目、作者、创作年代）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 按编号 300158289 取回，核对标目“Le sacre du printemps”、作者 Stravinsky, Igor、年代 1910-1913"
     }
   ]
 }

@@ -256,6 +256,8 @@ def source_profile(e):
         else: n["content"]+=1
     return n
 
+# D193：方法说明/阅读导引类页面，不陈述需印证的史实，来源标注改显示“导读页”
+GUIDE_PAGES={"what-is-art-history","what-is-music-history","reading-path","art-criticism-note","musicology-note","modern-to-contemporary"}
 _WIKIMEDIA={"wikipedia.org","wikidata.org","wikimedia.org","wikisource.org"}
 def _source_family(url):
     from urllib.parse import urlparse
@@ -268,6 +270,8 @@ def independence_tag(e):
     - 全部已核验来源同属 Wikimedia 系 → 百科同源（Wikipedia+Wikidata 并非相互独立的印证）
     - 全部已核验来源同属一家机构/站点 → 单一机构来源
     - 其余（≥2 个不同来源族）不标。"""
+    if e.get("id") in GUIDE_PAGES:
+        return "<span class='tag' title='本页是方法说明或阅读导引，介绍学科与阅读路线，不陈述需要权威来源印证的史实'>导读页</span>"
     ids=[x for x in dict.fromkeys(e.get("sources",[])) if x in SM and SM[x].get("verified")]
     fams={_source_family(SM[x].get("url","")) for x in ids}
     if len(fams)>=2 or not ids: return ""
