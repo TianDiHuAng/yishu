@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 884 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 898 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -471,6 +471,8 @@
 | chanson | 尚松（Chanson） | 风格 | 14—16世纪 | 法国 | 音乐体裁 | 重要 | O1、O3、O4 |
 | viol | 维奥尔琴（Viol） | 术语 | 15—17世纪 | 西班牙 | 乐器 | 重要 | O1、O3、O4 |
 | lauda | 劳达（Lauda） | 风格 | 中世纪晚期—文艺复兴 | 意大利 | 音乐体裁 | 重要 | O1、O3、O4 |
+| venetian-polychoral | 威尼斯复合唱风格（Venetian polychoral style） | 术语 | 16—17世纪 | 欧洲 | 音乐体裁 | 核心 | O1、O3、O4 |
+| consort | 器乐合奏组（Consort） | 术语 | 16—17世纪 | 欧洲 | 音乐体裁 | 重要 | O1、O3、O4 |
 
 ## music-baroque（音乐史·巴洛克）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -492,6 +494,9 @@
 | suite-music | 组曲（Suite） | 术语 | 14世纪末—今 | 欧洲 | 音乐体裁 | 重要 | O4 |
 | handel | 亨德尔（George Frideric Handel） | 人物 | 18世纪 | 德国·英国 | 音乐体裁 | 核心 | O1 |
 | cantata | 康塔塔（Cantata） | 术语 | 17世纪起 | 欧洲 | 音乐体裁 | 重要 | O4 |
+| basso-continuo | 数字低音与通奏低音（Figured bass / Basso continuo） | 术语 | 17—18世纪 | 欧洲 | 音乐体裁 | 核心 | O4 |
+| recitative | 宣叙调（Recitative） | 术语 | 17世纪—今 | 欧洲 | 音乐体裁 | 核心 | O4 |
+| da-capo-aria | 返始咏叹调（Da capo aria） | 术语 | 17—18世纪 | 欧洲 | 音乐体裁 | 重要 | O4 |
 
 ## music-classical（音乐史·古典）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -516,6 +521,9 @@
 | piano-sonata | 钢琴奏鸣曲（Piano sonata） | 术语 | 18世纪—今 | 欧洲 | 音乐体裁 | 重要 | O4 |
 | boccherini | 博凯里尼（Luigi Boccherini） | 人物 | 18世纪 | 意大利 | 音乐体裁 | 重要 | O1 |
 | hummel | 胡梅尔（Johann Nepomuk Hummel） | 人物 | 18—19世纪 | 奥地利 | 音乐体裁 | 重要 | O1 |
+| cadenza | 华彩段（Cadenza） | 术语 | 18世纪—今 | 欧洲 | 音乐体裁 | 重要 | O4 |
+| scherzo | 谐谑曲（Scherzo） | 术语 | 18世纪末—今 | 欧洲 | 音乐体裁 | 重要 | O4 |
+| chamber-music | 室内乐（Chamber music） | 术语 | 17世纪—今 | 欧洲 | 音乐体裁 | 核心 | O4 |
 
 ## music-romantic（音乐史·浪漫）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -542,6 +550,9 @@
 | overture | 序曲（Overture） | 术语 | 历代 | 欧洲 | 音乐体裁 | 重要 | O4 |
 | verdi | 威尔第（Giuseppe Verdi） | 人物 | 19世纪 | 意大利 | 音乐体裁 | 核心 | O1 |
 | sibelius | 西贝柳斯（Jean Sibelius） | 人物 | 19世纪末—20世纪 | 芬兰 | 音乐体裁 | 核心 | O1 |
+| art-song | 艺术歌曲（Art song） | 术语 | 19世纪 | 欧洲 | 音乐体裁 | 核心 | O4 |
+| leitmotif | 主导动机（Leitmotif） | 术语 | 19世纪 | 欧洲 | 音乐体裁 | 核心 | O4 |
+| operetta | 轻歌剧（Operetta） | 术语 | 19世纪 | 欧洲 | 音乐体裁 | 重要 | O4 |
 
 ## music-modern（音乐史·20世纪与当代）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -655,6 +666,9 @@
 | scumbling | 擦涂法（Scumbling） | 术语 | 历代 | 欧洲 | 绘画 | 重要 | O1 |
 | tenebrism | 暗调法（Tenebrism） | 术语 | 历代 | 欧洲 | 绘画 | 重要 | O1 |
 | pentimenti | 悔改痕迹（Pentimenti） | 术语 | 历代 | 欧洲 | 绘画 | 重要 | O1 |
+| homophony | 主调音乐（Homophony） | 术语 | 历代 | 欧洲 | 音乐体裁 | 核心 | O1 |
+| monophony | 单声部音乐（Monophony） | 术语 | 历代 | 欧洲 | 音乐体裁 | 核心 | O1 |
+| libretto | 歌剧脚本（Libretto） | 术语 | 17世纪—今 | 欧洲 | 音乐体裁 | 重要 | O1 |
 
 ## art-asia（亚洲艺术（南亚/东南亚/东亚））
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
