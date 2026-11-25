@@ -1,0 +1,20 @@
+{
+  "id": "jiangnan-sizhu",
+  "level": "L2",
+  "sections": {
+    "时代背景": "导言没有给出形成年代，本条目不补写。",
+    "风格特征": "摘要称，流行于长江下游、以上海为中心地区的丝竹器乐。",
+    "代表人物与作品": "“八大名曲”：《三六》《梅花三弄》《春江花月夜》《行街》《四合如意》《云庆》《欢乐歌》《中花六板》。",
+    "技法或形式分析": "你繁我简、加花变奏、嵌挡让路、即兴发挥；用曲笛。",
+    "与前后风格的关系和争论": "导言对比北方高亢的梆笛。",
+    "一图": "示意图以江南丝竹为中心，标示丝、竹、八大名曲。",
+    "待核实": "（1）本条目事实仅来自 中文维基百科导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='jiangnan-sizhu 示意图'><title>jiangnan-sizhu</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>丝</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>二胡·琵琶</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>江南丝竹</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>上海为中心</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>竹</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>笛·箫</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>八大名曲</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>代表曲目</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据中文维基导言</text></g></svg>",
+  "sources": [
+    "enc-jiangnan-sizhu",
+    "wd-jiangnan-sizhu"
+  ],
+  "needs_verification": true,
+  "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+}

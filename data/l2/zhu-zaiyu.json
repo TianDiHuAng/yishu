@@ -1,0 +1,20 @@
+{
+  "id": "zhu-zaiyu",
+  "level": "L2",
+  "sections": {
+    "时代背景": "明代，1536—1611。",
+    "风格特征": "摘要称，明代宗室，乐律学家、数学家等（1536—1611），首创十二平均律。",
+    "代表人物与作品": "著作导言没有给出，本条目不补写。",
+    "技法或形式分析": "计算方法导言没有给出，本条目不补写。",
+    "与前后风格的关系和争论": "导言称其“首创十二平均律”；与西方同期研究的先后关系导言未谈，本条目不补写。",
+    "一图": "示意图以朱载堉为中心，标示明宗室、十二平均律、十二律。",
+    "待核实": "（1）本条目事实仅来自 中文维基百科导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='zhu-zaiyu 示意图'><title>zhu-zaiyu</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>明宗室</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>郑王世子</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>朱载堉</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>乐律学家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>十二平均律</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>首创</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>十二律</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>传统律制</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据中文维基导言</text></g></svg>",
+  "sources": [
+    "enc-zhu-zaiyu",
+    "wd-zhu-zaiyu"
+  ],
+  "needs_verification": true,
+  "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+}

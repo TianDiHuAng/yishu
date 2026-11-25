@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 851 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 860 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -366,6 +366,10 @@
 | ink-wash-painting | 水墨画（Ink wash painting） | 风格 | 唐代起 | 中国 | 绘画 | 核心 | O1、O6 |
 | wu-changshuo | 吴昌硕（Wu Changshuo） | 人物 | 晚清 | 中国 | 绘画 | 重要 | O6 |
 | shen-zhou | 沈周（Shen Zhou） | 人物 | 明代 | 中国 | 绘画 | 核心 | O6 |
+| fan-kuan | 范宽（Fan Kuan） | 人物 | 北宋 | 中国 | 绘画 | 核心 | O6 |
+| wang-meng | 王蒙（Wang Meng） | 人物 | 元末明初 | 中国 | 绘画 | 重要 | O6 |
+| four-wangs | 四王（Four Wangs） | 风格 | 清代 | 中国 | 绘画 | 核心 | O1、O6 |
+| literati-painting | 文人画（Literati painting） | 风格 | 宋代起 | 中国 | 绘画 | 核心 | O1、O6 |
 
 ## art-china-calligraphy（中国书法史）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -393,6 +397,7 @@
 | liu-gongquan | 柳公权（Liu Gongquan） | 人物 | 晚唐 | 中国 | 书法 | 核心 | O6 |
 | mi-fu | 米芾（Mi Fu） | 人物 | 北宋 | 中国 | 书法 | 核心 | O6 |
 | chu-suiliang | 褚遂良（Chu Suiliang） | 人物 | 初唐 | 中国 | 书法 | 重要 | O6 |
+| lantingji-xu | 《兰亭集序》 | 作品 | 东晋 | 中国 | 书法 | 核心 | O6 |
 
 ## music-medieval（音乐史·中世纪）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -574,6 +579,10 @@
 | xian-xinghai | 冼星海（Xian Xinghai） | 人物 | 20世纪 | 中国 | 音乐体裁 | 核心 | O5 |
 | nie-er | 聂耳（Nie Er） | 人物 | 20世纪 | 中国 | 音乐体裁 | 重要 | O5 |
 | tan-dun | 谭盾（Tan Dun） | 人物 | 20—21世纪 | 中国 | 音乐体裁 | 重要 | O5 |
+| high-mountains-flowing-water | 《高山流水》 | 作品 | 历代 | 中国 | 音乐体裁 | 重要 | O5 |
+| zhu-zaiyu | 朱载堉（Zhu Zaiyu） | 人物 | 明代 | 中国 | 音乐体裁 | 核心 | O5 |
+| xiao | 箫（Xiao） | 术语 | 历代 | 中国 | 乐器 | 重要 | O4、O5 |
+| jiangnan-sizhu | 江南丝竹（Jiangnan sizhu） | 风格 | 近现代 | 中国 | 音乐体裁 | 重要 | O4、O5 |
 
 ## overview-guide（导读与学科方法）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

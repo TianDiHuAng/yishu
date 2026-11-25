@@ -14489,6 +14489,186 @@
       "type": "权威结构化数据",
       "verified": true,
       "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-lantingji-xu",
+      "title": "中文维基百科：兰亭集序",
+      "author": "维基百科编者",
+      "year": "2026",
+      "url": "https://zh.wikipedia.org/wiki/兰亭集序",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经中文维基 API（action=query, exintro）取回导言，页面标题匹配；缓存于 tmp/zh_intro_c229.json"
+    },
+    {
+      "id": "wd-lantingji-xu",
+      "title": "Wikidata: 兰亭集序 (Q1420392)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q1420392",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一接口 pageprops.wikibase_item 取得 QID，与页面对应"
+    },
+    {
+      "id": "enc-fan-kuan",
+      "title": "中文维基百科：范宽",
+      "author": "维基百科编者",
+      "year": "2026",
+      "url": "https://zh.wikipedia.org/wiki/范宽",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经中文维基 API（action=query, exintro）取回导言，页面标题匹配；缓存于 tmp/zh_intro_c229.json"
+    },
+    {
+      "id": "wd-fan-kuan",
+      "title": "Wikidata: 范宽 (Q1278559)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q1278559",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一接口 pageprops.wikibase_item 取得 QID，与页面对应"
+    },
+    {
+      "id": "enc-wang-meng",
+      "title": "中文维基百科：王蒙 (画家)",
+      "author": "维基百科编者",
+      "year": "2026",
+      "url": "https://zh.wikipedia.org/wiki/王蒙_(画家)",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经中文维基 API（action=query, exintro）取回导言，页面标题匹配；缓存于 tmp/zh_intro_c229.json"
+    },
+    {
+      "id": "wd-wang-meng",
+      "title": "Wikidata: 王蒙 (画家) (Q700903)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q700903",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一接口 pageprops.wikibase_item 取得 QID，与页面对应"
+    },
+    {
+      "id": "enc-four-wangs",
+      "title": "中文维基百科：四王",
+      "author": "维基百科编者",
+      "year": "2026",
+      "url": "https://zh.wikipedia.org/wiki/四王",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经中文维基 API（action=query, exintro）取回导言，页面标题匹配；缓存于 tmp/zh_intro_c229.json"
+    },
+    {
+      "id": "wd-four-wangs",
+      "title": "Wikidata: 四王 (Q3099098)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q3099098",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一接口 pageprops.wikibase_item 取得 QID，与页面对应"
+    },
+    {
+      "id": "enc-literati-painting",
+      "title": "中文维基百科：文人画",
+      "author": "维基百科编者",
+      "year": "2026",
+      "url": "https://zh.wikipedia.org/wiki/文人画",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经中文维基 API（action=query, exintro）取回导言，页面标题匹配；缓存于 tmp/zh_intro_c229.json"
+    },
+    {
+      "id": "wd-literati-painting",
+      "title": "Wikidata: 文人画 (Q1142000)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q1142000",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一接口 pageprops.wikibase_item 取得 QID，与页面对应"
+    },
+    {
+      "id": "enc-high-mountains-flowing-water",
+      "title": "中文维基百科：高山流水",
+      "author": "维基百科编者",
+      "year": "2026",
+      "url": "https://zh.wikipedia.org/wiki/高山流水",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经中文维基 API（action=query, exintro）取回导言，页面标题匹配；缓存于 tmp/zh_intro_c229.json"
+    },
+    {
+      "id": "wd-high-mountains-flowing-water",
+      "title": "Wikidata: 高山流水 (Q10566748)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q10566748",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一接口 pageprops.wikibase_item 取得 QID，与页面对应"
+    },
+    {
+      "id": "enc-zhu-zaiyu",
+      "title": "中文维基百科：朱载堉",
+      "author": "维基百科编者",
+      "year": "2026",
+      "url": "https://zh.wikipedia.org/wiki/朱载堉",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经中文维基 API（action=query, exintro）取回导言，页面标题匹配；缓存于 tmp/zh_intro_c229.json"
+    },
+    {
+      "id": "wd-zhu-zaiyu",
+      "title": "Wikidata: 朱载堉 (Q198136)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q198136",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一接口 pageprops.wikibase_item 取得 QID，与页面对应"
+    },
+    {
+      "id": "enc-xiao",
+      "title": "中文维基百科：箫",
+      "author": "维基百科编者",
+      "year": "2026",
+      "url": "https://zh.wikipedia.org/wiki/箫",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经中文维基 API（action=query, exintro）取回导言，页面标题匹配；缓存于 tmp/zh_intro_c229.json"
+    },
+    {
+      "id": "wd-xiao",
+      "title": "Wikidata: 箫 (Q1394795)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q1394795",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一接口 pageprops.wikibase_item 取得 QID，与页面对应"
+    },
+    {
+      "id": "enc-jiangnan-sizhu",
+      "title": "中文维基百科：江南丝竹",
+      "author": "维基百科编者",
+      "year": "2026",
+      "url": "https://zh.wikipedia.org/wiki/江南丝竹",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经中文维基 API（action=query, exintro）取回导言，页面标题匹配；缓存于 tmp/zh_intro_c229.json"
+    },
+    {
+      "id": "wd-jiangnan-sizhu",
+      "title": "Wikidata: 江南丝竹 (Q6191683)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q6191683",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一接口 pageprops.wikibase_item 取得 QID，与页面对应"
     }
   ]
 }

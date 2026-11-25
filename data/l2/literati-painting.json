@@ -1,0 +1,20 @@
+{
+  "id": "literati-painting",
+  "level": "L2",
+  "sections": {
+    "时代背景": "多数研究起于北宋；“文人画”一词由明代董其昌提出。",
+    "风格特征": "摘要称，中国古代文人、士大夫的绘画，以别于宫廷院画和民间绘画。",
+    "代表人物与作品": "苏轼、米芾与米友仁、董其昌；王维被董其昌推为始祖。",
+    "技法或形式分析": "诗书画印结合；重气韵、笔墨情趣与意境。",
+    "与前后风格的关系和争论": "起源有两说：多数研究起于宋代苏轼，董其昌则推王维为始祖。导言称南宋传承不明显，金代武元直等延续北宋文人风格。",
+    "一图": "示意图以文人画为中心，标示苏轼、米芾父子、董其昌。",
+    "待核实": "（1）本条目事实仅来自 中文维基百科导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='literati-painting 示意图'><title>literati-painting</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>苏轼</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>墨戏·滥觞</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>文人画</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>士人画</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>米芾父子</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>米点山水</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>董其昌</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>命名·推王维</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据中文维基导言</text></g></svg>",
+  "sources": [
+    "enc-literati-painting",
+    "wd-literati-painting"
+  ],
+  "needs_verification": true,
+  "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+}

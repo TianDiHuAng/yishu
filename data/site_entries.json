@@ -2920,6 +2920,7 @@
         "wang-ximeng",
         "xia-gui",
         "mi-fu",
+        "fan-kuan",
         "guo-xi"
       ],
       "sources": [
@@ -2956,7 +2957,8 @@
         "ming-painting",
         "zhao-mengfu-river-village",
         "ni-zan",
-        "zhao-mengfu"
+        "zhao-mengfu",
+        "wang-meng"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -3035,7 +3037,8 @@
         "canton-umbrella-mender",
         "bada-shanren",
         "shitao",
-        "wu-changshuo"
+        "wu-changshuo",
+        "four-wangs"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -3075,7 +3078,8 @@
         "zhang-daqian",
         "shan-shui",
         "six-principles",
-        "ink-wash-painting"
+        "ink-wash-painting",
+        "literati-painting"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -3475,7 +3479,8 @@
         "regular-script",
         "cursive-script",
         "lanting-lacquer-panel",
-        "wen-zhengming-silk-poem"
+        "wen-zhengming-silk-poem",
+        "lantingji-xu"
       ],
       "sources": [
         "enc-chinese-calligraphy",
@@ -5264,7 +5269,9 @@
         "ruan",
         "xian-xinghai",
         "nie-er",
-        "tan-dun"
+        "tan-dun",
+        "high-mountains-flowing-water",
+        "zhu-zaiyu"
       ],
       "sources": [
         "enc-chinese-music",
@@ -5410,7 +5417,8 @@
         "china-music-history",
         "guzheng",
         "pipa-instrument",
-        "ruan"
+        "ruan",
+        "jiangnan-sizhu"
       ],
       "sources": [
         "enc-chinese-music",
@@ -10967,7 +10975,8 @@
       "overview": "王翚自1686至1712年间多次临仿王蒙；此轴将高士自亭中移入溪畔山景，并把题识一并摹入。",
       "related": [
         "du-jin-lin-bu",
-        "juran-buddhist-retreat"
+        "juran-buddhist-retreat",
+        "four-wangs"
       ],
       "sources": [
         "cma-1953-629"
@@ -11170,7 +11179,8 @@
       "overview": "刻353年兰亭修禊、曲水流觞；主纹「王羲之观鹅」上移至画面上段。",
       "related": [
         "china-calligraphy-history",
-        "running-script"
+        "running-script",
+        "lantingji-xu"
       ],
       "sources": [
         "cma-1974-72"
@@ -24526,7 +24536,8 @@
         "kunqu",
         "yangqin",
         "suona",
-        "nanguan"
+        "nanguan",
+        "jiangnan-sizhu"
       ],
       "sources": [
         "enc-erhu",
@@ -24605,7 +24616,9 @@
         "jingju",
         "yangqin",
         "suona",
-        "shakuhachi"
+        "shakuhachi",
+        "xiao",
+        "jiangnan-sizhu"
       ],
       "sources": [
         "enc-dizi",
@@ -25089,6 +25102,7 @@
         "xieyi",
         "ma-yuan",
         "shan-shui",
+        "fan-kuan",
         "song-painting",
         "juran-buddhist-retreat"
       ],
@@ -25393,7 +25407,8 @@
         "monet",
         "van-gogh",
         "kano-school",
-        "sesshu"
+        "sesshu",
+        "raja-ravi-varma"
       ],
       "sources": [
         "enc-hokusai",
@@ -26441,7 +26456,8 @@
       "overview": "扬琴是一种梯形的中国击弦扬琴类乐器。",
       "related": [
         "erhu",
-        "dizi"
+        "dizi",
+        "jiangnan-sizhu"
       ],
       "sources": [
         "enc-yangqin",
@@ -27694,7 +27710,8 @@
       "related": [
         "yuan-painting",
         "zhao-mengfu",
-        "shan-shui"
+        "shan-shui",
+        "wang-meng"
       ],
       "sources": [
         "enc-ni-zan",
@@ -27730,7 +27747,9 @@
       "related": [
         "dong-qichang-qingbian",
         "ming-painting",
-        "wen-zhengming"
+        "wen-zhengming",
+        "four-wangs",
+        "literati-painting"
       ],
       "sources": [
         "enc-dong-qichang",
@@ -27845,7 +27864,8 @@
         "zhao-mengfu-river-village",
         "yuan-painting",
         "ni-zan",
-        "liu-gongquan"
+        "liu-gongquan",
+        "wang-meng"
       ],
       "sources": [
         "enc-zhao-mengfu",
@@ -27994,7 +28014,8 @@
         "xieyi",
         "xia-gui",
         "ink-wash-painting",
-        "sesshu"
+        "sesshu",
+        "fan-kuan"
       ],
       "sources": [
         "enc-shan-shui",
@@ -28029,7 +28050,8 @@
       "related": [
         "china-calligraphy-history",
         "yan-zhenqing",
-        "mi-fu"
+        "mi-fu",
+        "lantingji-xu"
       ],
       "sources": [
         "enc-wang-xizhi",
@@ -28106,7 +28128,8 @@
         "yan-zhenqing",
         "zhao-ji",
         "ci-poetry",
-        "mi-fu"
+        "mi-fu",
+        "literati-painting"
       ],
       "sources": [
         "enc-su-shi",
@@ -30292,7 +30315,9 @@
         "guzheng",
         "cma-liu-songnian-qin",
         "cma-tang-yin-qin",
-        "china-music-history"
+        "china-music-history",
+        "high-mountains-flowing-water",
+        "xiao"
       ],
       "sources": [
         "enc-guqin",
@@ -30398,7 +30423,8 @@
       "related": [
         "bianzhong",
         "yayue",
-        "china-music-history"
+        "china-music-history",
+        "zhu-zaiyu"
       ],
       "sources": [
         "enc-shi-er-lu",
@@ -30885,6 +30911,7 @@
       "related": [
         "xieyi",
         "shan-shui",
+        "literati-painting",
         "china-painting-history",
         "sesshu"
       ],
@@ -30956,7 +30983,8 @@
       "related": [
         "regular-script",
         "yan-zhenqing",
-        "zhao-mengfu"
+        "zhao-mengfu",
+        "fan-kuan"
       ],
       "sources": [
         "enc-liu-gongquan",
@@ -30992,7 +31020,8 @@
         "wang-xizhi",
         "su-shi",
         "huang-tingjian",
-        "song-painting"
+        "song-painting",
+        "literati-painting"
       ],
       "sources": [
         "enc-mi-fu",
@@ -31230,7 +31259,8 @@
       "related": [
         "ink-wash-painting",
         "shan-shui",
-        "hokusai"
+        "hokusai",
+        "raja-ravi-varma"
       ],
       "sources": [
         "enc-sesshu",
@@ -31262,7 +31292,10 @@
       "def": "印度画家（1848—1906），融合欧洲学院派与印度题材。",
       "when": "1848—1906",
       "overview": "拉贾·拉维·瓦尔马是印度画家，其作品是欧洲学院派艺术与纯印度情感、图像志融合的最佳范例之一。他把画作制成平价石版画向公众发行，大大扩展了影响，使普通人更多接触美术并塑造了艺术趣味。他描绘印度教神祇及印度史诗、往世书题材的宗教作品广受好评。他出身马拉普拉姆县帕拉帕纳德王族。",
-      "related": [],
+      "related": [
+        "sesshu",
+        "hokusai"
+      ],
       "sources": [
         "enc-raja-ravi-varma",
         "wd-raja-ravi-varma"
@@ -31383,6 +31416,326 @@
         "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='tan-dun 示意图'><title>tan-dun</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>中西影响</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>融汇</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>谭盾</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>作曲家·指挥</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>马可·波罗</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>1996歌剧</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>卧虎藏龙</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>2000配乐</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "lantingji-xu",
+      "title": "《兰亭集序》",
+      "kind": "作品",
+      "unit": "art-china-calligraphy",
+      "era": "东晋",
+      "region": "中国",
+      "medium": "书法",
+      "tier": "核心",
+      "def": "东晋书法家王羲之所作行书，有“天下第一行书”之称。",
+      "when": "东晋（317—420）",
+      "overview": "《兰亭集序》又称《兰亭序》《禊帖》等，为东晋书法家王羲之所作，有“天下第一行书”之称，是晋代书法成就的代表。全文324字，重复的字写法各不相同，其中21个“之”字各具风韵。导言称王羲之酒醒后又重写多本，终不及兰亭集会时所写。",
+      "related": [
+        "wang-xizhi",
+        "running-script",
+        "lanting-lacquer-panel"
+      ],
+      "sources": [
+        "enc-lantingji-xu",
+        "wd-lantingji-xu"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "东晋；导言没有给出具体年份。",
+        "风格特征": "摘要称，东晋书法家王羲之所作行书，有“天下第一行书”之称。",
+        "代表人物与作品": "作者王羲之。",
+        "技法或形式分析": "324字，21个“之”字写法各异；笔法导言没有给出，本条目不补写。",
+        "与前后风格的关系和争论": "“天下第一行书”为传统评价；重写多本不及原作之说为导言所载轶事，未核验。",
+        "一图": "示意图以兰亭集序为中心，标示王羲之、324字、21个“之”。",
+        "待核实": "（1）本条目事实仅来自 中文维基百科导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='lantingji-xu 示意图'><title>lantingji-xu</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>王羲之</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>作者</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>兰亭集序</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>行书</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>324字</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>全文</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>21个“之”</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>各不相同</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据中文维基导言</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "fan-kuan",
+      "title": "范宽（Fan Kuan）",
+      "kind": "人物",
+      "unit": "art-china-painting",
+      "era": "北宋",
+      "region": "中国",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "五代末北宋山水画家（约950—约1032），“北宋三大家”之一。",
+      "when": "约950—约1032",
+      "overview": "范宽（约950—约1032），字中立（一说名中正，字仲立），京兆华原（今陕西耀县）人，生于五代末，北宋画家。因性情宽厚、不拘礼法，时人呼之为“宽”，遂以范宽自名。他擅山水，初与关仝、李成同为北方山水三大主流，并称“北宋三大家”，后又与董源、李成并称“宋三家”，与同乡柳公权合称“柳范”。",
+      "related": [
+        "song-painting",
+        "shan-shui",
+        "guo-xi",
+        "liu-gongquan"
+      ],
+      "sources": [
+        "enc-fan-kuan",
+        "wd-fan-kuan"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "约950—约1032，生于五代末。",
+        "风格特征": "摘要称，五代末北宋山水画家（约950—约1032），“北宋三大家”之一。",
+        "代表人物与作品": "作品导言没有给出，本条目不补写。",
+        "技法或形式分析": "技法导言没有给出，本条目不补写。",
+        "与前后风格的关系和争论": "并称“北宋三大家”“宋三家”；名字有异说（中立／中正、仲立）。导言所引2004年《生活》杂志排名为评价性表述，不录入正文。",
+        "一图": "示意图以范宽为中心，标示关仝·李成、董源·李成、柳公权。",
+        "待核实": "（1）本条目事实仅来自 中文维基百科导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='fan-kuan 示意图'><title>fan-kuan</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>关仝·李成</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>北宋三大家</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>范宽</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>北宋山水</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>董源·李成</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>宋三家</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>柳公权</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>合称柳范</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据中文维基导言</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "wang-meng",
+      "title": "王蒙（Wang Meng）",
+      "kind": "人物",
+      "unit": "art-china-painting",
+      "era": "元末明初",
+      "region": "中国",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "元末明初画家（1308—1385），“元四家”中最年轻者。",
+      "when": "1308—1385",
+      "overview": "王蒙（1308—1385），字叔明，号黄鹤山樵，浙江湖州人，元末明初画家，元四家中最年轻者。元末曾入仕，后弃官隐居余杭黄鹤山30年。明初任山东泰安知州，因曾在宰相胡惟庸家观画，胡被捕时受牵连入狱，死于狱中。",
+      "related": [
+        "yuan-painting",
+        "ni-zan",
+        "zhao-mengfu"
+      ],
+      "sources": [
+        "enc-wang-meng",
+        "wd-wang-meng"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "1308—1385，元末明初。",
+        "风格特征": "摘要称，元末明初画家（1308—1385），“元四家”中最年轻者。",
+        "代表人物与作品": "作品导言没有给出，本条目不补写。",
+        "技法或形式分析": "画风导言没有给出，本条目不补写。",
+        "与前后风格的关系和争论": "元四家中最年轻者；其余三家导言未点名。",
+        "一图": "示意图以王蒙为中心，标示元四家、隐居、胡惟庸案。",
+        "待核实": "（1）本条目事实仅来自 中文维基百科导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='wang-meng 示意图'><title>wang-meng</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>元四家</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>最年轻</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>王蒙</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>黄鹤山樵</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>隐居</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>黄鹤山30年</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>胡惟庸案</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>死于狱中</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据中文维基导言</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "four-wangs",
+      "title": "四王（Four Wangs）",
+      "kind": "风格",
+      "unit": "art-china-painting",
+      "era": "清代",
+      "region": "中国",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "清代四位王姓山水画代表画家：王时敏、王鉴、王翚、王原祁。",
+      "when": "17—18世纪初",
+      "overview": "四王指清代四位王姓山水画家王时敏、王鉴、王翚、王原祁，均为苏州府人，分两代：王时敏、王鉴是董其昌的朋友，王原祁是王时敏之孙，王翚是王鉴的学生。他们遵从董其昌“南北宗论”，倾心师古，精研笔墨，追求文人画意趣。王原祁、王翚分别开“娄东派”“虞山派”，弟子众多，部分供职内廷，形成当时山水画的正统，对清代山水画影响深远。",
+      "related": [
+        "dong-qichang",
+        "wang-hui-bamboo",
+        "qing-painting",
+        "literati-painting"
+      ],
+      "sources": [
+        "enc-four-wangs",
+        "wd-four-wangs"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "王时敏1592—1680，王鉴1598—1677，王翚1632—1717，王原祁1642—1715。",
+        "风格特征": "摘要称，清代四位王姓山水画代表画家：王时敏、王鉴、王翚、王原祁。",
+        "代表人物与作品": "代表作：王时敏《云壑烟滩图》，王鉴《梦境图》《夏山图》，王翚《溪山红树图》，王原祁《山中早春图》《辋川图》等。",
+        "技法或形式分析": "王时敏取法黄公望，王鉴研元四家上溯董源、巨然，王翚兼取南北宗，王原祁重皴染。",
+        "与前后风格的关系和争论": "遵董其昌南北宗论，形成清代山水正统；另有“小四王”“后四王”。",
+        "一图": "示意图以四王为中心，标示董其昌、娄东派、虞山派。",
+        "待核实": "（1）本条目事实仅来自 中文维基百科导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='four-wangs 示意图'><title>four-wangs</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>董其昌</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>南北宗论</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>四王</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>清代山水</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>娄东派</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>王原祁</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>虞山派</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>王翚</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据中文维基导言</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "literati-painting",
+      "title": "文人画（Literati painting）",
+      "kind": "风格",
+      "unit": "art-china-painting",
+      "era": "宋代起",
+      "region": "中国",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "中国古代文人、士大夫的绘画，以别于宫廷院画和民间绘画。",
+      "when": "北宋起",
+      "overview": "文人画亦称士人画，泛指中国古代文人、士大夫的绘画，以别于宫廷院画与民间绘画。多数研究把其历史起于宋代：北宋苏轼提倡的“墨戏”“士人画”被视为滥觞，北宋末米芾、米友仁父子的米点山水被视为最早的典型。明代董其昌提出“文人画”一词，推唐代王维为始祖。文人画家讲究诗、书、画、印相得益彰，题材多为山水、花鸟、梅兰竹菊，强调气韵与笔墨情趣，注重意境。",
+      "related": [
+        "su-shi",
+        "mi-fu",
+        "dong-qichang",
+        "ink-wash-painting",
+        "xieyi",
+        "four-wangs"
+      ],
+      "sources": [
+        "enc-literati-painting",
+        "wd-literati-painting"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "多数研究起于北宋；“文人画”一词由明代董其昌提出。",
+        "风格特征": "摘要称，中国古代文人、士大夫的绘画，以别于宫廷院画和民间绘画。",
+        "代表人物与作品": "苏轼、米芾与米友仁、董其昌；王维被董其昌推为始祖。",
+        "技法或形式分析": "诗书画印结合；重气韵、笔墨情趣与意境。",
+        "与前后风格的关系和争论": "起源有两说：多数研究起于宋代苏轼，董其昌则推王维为始祖。导言称南宋传承不明显，金代武元直等延续北宋文人风格。",
+        "一图": "示意图以文人画为中心，标示苏轼、米芾父子、董其昌。",
+        "待核实": "（1）本条目事实仅来自 中文维基百科导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='literati-painting 示意图'><title>literati-painting</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>苏轼</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>墨戏·滥觞</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>文人画</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>士人画</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>米芾父子</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>米点山水</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>董其昌</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>命名·推王维</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据中文维基导言</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "high-mountains-flowing-water",
+      "title": "《高山流水》",
+      "kind": "作品",
+      "unit": "music-china",
+      "era": "历代",
+      "region": "中国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "古琴曲，相传为伯牙所作，唐代分为《高山》《流水》两曲。",
+      "when": "相传先秦；唐代分为两曲",
+      "overview": "《高山流水》是古琴曲，相传为伯牙所作，唐代分成《高山》《流水》两曲，现存琴谱中各有数十个版本。今人演奏的《流水》多为“七十二滚拂”流水，源自清代琴家张孔山。1977年，管平湖演奏的《流水》经作曲家周文中推荐，被美国国家航空航天局收入旅行者金唱片，作为中国音乐的代表。",
+      "related": [
+        "guqin",
+        "china-music-history"
+      ],
+      "sources": [
+        "enc-high-mountains-flowing-water",
+        "wd-high-mountains-flowing-water"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "相传伯牙所作；唐代分为两曲。",
+        "风格特征": "摘要称，古琴曲，相传为伯牙所作，唐代分为《高山》《流水》两曲。",
+        "代表人物与作品": "今传《流水》出自清代张孔山一系；1977年管平湖演奏版收入旅行者金唱片。",
+        "技法或形式分析": "“七十二滚拂”为张孔山版《流水》的特色；指法细节导言没有给出，本条目不补写。",
+        "与前后风格的关系和争论": "伯牙作曲为传说，未核验。",
+        "一图": "示意图以高山流水为中心，标示伯牙、张孔山、旅行者金唱片。",
+        "待核实": "（1）本条目事实仅来自 中文维基百科导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='high-mountains-flowing-w 示意图'><title>high-mountains-flowing-w</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>伯牙</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>相传作者</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>高山流水</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>古琴曲</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>张孔山</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>七十二滚拂</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>旅行者金唱片</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>1977年</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据中文维基导言</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "zhu-zaiyu",
+      "title": "朱载堉（Zhu Zaiyu）",
+      "kind": "人物",
+      "unit": "music-china",
+      "era": "明代",
+      "region": "中国",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "明代宗室，乐律学家、数学家等（1536—1611），首创十二平均律。",
+      "when": "1536—1611",
+      "overview": "朱载堉（1536—1611），字伯勤，明宗室郑恭王朱厚烷嫡子，怀庆府河内县（今河南沁阳）人，明太祖八世孙。他是明代乐律学家、音乐家、数学家、乐器制造家、物理学家、天文学家与散曲作家，首创十二平均律。",
+      "related": [
+        "shi-er-lu",
+        "china-music-history"
+      ],
+      "sources": [
+        "enc-zhu-zaiyu",
+        "wd-zhu-zaiyu"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "明代，1536—1611。",
+        "风格特征": "摘要称，明代宗室，乐律学家、数学家等（1536—1611），首创十二平均律。",
+        "代表人物与作品": "著作导言没有给出，本条目不补写。",
+        "技法或形式分析": "计算方法导言没有给出，本条目不补写。",
+        "与前后风格的关系和争论": "导言称其“首创十二平均律”；与西方同期研究的先后关系导言未谈，本条目不补写。",
+        "一图": "示意图以朱载堉为中心，标示明宗室、十二平均律、十二律。",
+        "待核实": "（1）本条目事实仅来自 中文维基百科导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='zhu-zaiyu 示意图'><title>zhu-zaiyu</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>明宗室</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>郑王世子</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>朱载堉</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>乐律学家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>十二平均律</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>首创</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>十二律</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>传统律制</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据中文维基导言</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "xiao",
+      "title": "箫（Xiao）",
+      "kind": "术语",
+      "unit": "music-china",
+      "era": "历代",
+      "region": "中国",
+      "medium": "乐器",
+      "tier": "重要",
+      "def": "中国古老的单管竖吹吹管乐器。",
+      "when": "唐宋以来指单管竖吹",
+      "overview": "箫又称洞箫、长箫，是中国古老的吹管乐器，单管、竖吹、开管、边棱音发声。“箫”字在唐代以前本指排箫；唐宋以来单管竖吹的箫日渐流行，于是称编管者为排箫以示区别。“洞箫”之名来自管底的开孔。其音色圆润轻柔、幽静典雅，常用于独奏、琴箫合奏或丝竹乐。",
+      "related": [
+        "dizi",
+        "guqin",
+        "jiangnan-sizhu"
+      ],
+      "sources": [
+        "enc-xiao",
+        "wd-xiao"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "唐代以前“箫”指排箫，唐宋以来指单管竖吹箫。",
+        "风格特征": "摘要称，中国古老的单管竖吹吹管乐器。",
+        "代表人物与作品": "摘要没有列举曲目，本条目不补写。",
+        "技法或形式分析": "单管、竖吹、开管、边棱音发声；“洞箫”得名于管底开孔。",
+        "与前后风格的关系和争论": "名称演变：排箫→单管箫。",
+        "一图": "示意图以箫为中心，标示排箫、琴箫合奏、洞箫。",
+        "待核实": "（1）本条目事实仅来自 中文维基百科导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='xiao 示意图'><title>xiao</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>排箫</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>唐前本义</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>箫</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>单管竖吹</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>琴箫合奏</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>用途</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>洞箫</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>管底开孔</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据中文维基导言</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "jiangnan-sizhu",
+      "title": "江南丝竹（Jiangnan sizhu）",
+      "kind": "风格",
+      "unit": "music-china",
+      "era": "近现代",
+      "region": "中国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "流行于长江下游、以上海为中心地区的丝竹器乐。",
+      "when": "近现代（导言未给年代）",
+      "overview": "江南丝竹指流行于长江下游以上海为中心（含苏南、浙西）的器乐。“丝”指丝弦乐器如二胡、琵琶，“竹”指竹管乐器如笛子、箫，另常用扬琴、三弦、笙、鼓、板。曲调悠闲缠绵、典雅华丽，传统技法讲究“你繁我简，你高我低，加花变奏，嵌挡让路，即兴发挥”。笛用长的曲笛，与二胡配合和谐。名曲有《三六》《梅花三弄》《行街》《四合如意》《中花六板》等“八大名曲”。",
+      "related": [
+        "erhu",
+        "pipa",
+        "dizi",
+        "xiao",
+        "yangqin"
+      ],
+      "sources": [
+        "enc-jiangnan-sizhu",
+        "wd-jiangnan-sizhu"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "导言没有给出形成年代，本条目不补写。",
+        "风格特征": "摘要称，流行于长江下游、以上海为中心地区的丝竹器乐。",
+        "代表人物与作品": "“八大名曲”：《三六》《梅花三弄》《春江花月夜》《行街》《四合如意》《云庆》《欢乐歌》《中花六板》。",
+        "技法或形式分析": "你繁我简、加花变奏、嵌挡让路、即兴发挥；用曲笛。",
+        "与前后风格的关系和争论": "导言对比北方高亢的梆笛。",
+        "一图": "示意图以江南丝竹为中心，标示丝、竹、八大名曲。",
+        "待核实": "（1）本条目事实仅来自 中文维基百科导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='jiangnan-sizhu 示意图'><title>jiangnan-sizhu</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>丝</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>二胡·琵琶</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>江南丝竹</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>上海为中心</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>竹</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>笛·箫</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>八大名曲</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>代表曲目</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据中文维基导言</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
     }

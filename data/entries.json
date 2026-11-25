@@ -1601,7 +1601,8 @@
         "along-the-river",
         "wang-ximeng",
         "xia-gui",
-        "mi-fu"
+        "mi-fu",
+        "fan-kuan"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -1625,7 +1626,8 @@
         "ming-painting",
         "zhao-mengfu-river-village",
         "ni-zan",
-        "zhao-mengfu"
+        "zhao-mengfu",
+        "wang-meng"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -1679,7 +1681,8 @@
         "canton-umbrella-mender",
         "bada-shanren",
         "shitao",
-        "wu-changshuo"
+        "wu-changshuo",
+        "four-wangs"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -1707,7 +1710,8 @@
         "zhang-daqian",
         "shan-shui",
         "six-principles",
-        "ink-wash-painting"
+        "ink-wash-painting",
+        "literati-painting"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -1973,7 +1977,8 @@
         "regular-script",
         "cursive-script",
         "lanting-lacquer-panel",
-        "wen-zhengming-silk-poem"
+        "wen-zhengming-silk-poem",
+        "lantingji-xu"
       ],
       "sources": [
         "enc-chinese-calligraphy",
@@ -2974,7 +2979,9 @@
         "ruan",
         "xian-xinghai",
         "nie-er",
-        "tan-dun"
+        "tan-dun",
+        "high-mountains-flowing-water",
+        "zhu-zaiyu"
       ],
       "sources": [
         "enc-chinese-music",
@@ -3072,7 +3079,8 @@
         "china-music-history",
         "guzheng",
         "pipa-instrument",
-        "ruan"
+        "ruan",
+        "jiangnan-sizhu"
       ],
       "sources": [
         "enc-chinese-music",
@@ -6602,7 +6610,8 @@
       "overview": "王翚自1686至1712年间多次临仿王蒙；此轴将高士自亭中移入溪畔山景，并把题识一并摹入。",
       "related": [
         "du-jin-lin-bu",
-        "juran-buddhist-retreat"
+        "juran-buddhist-retreat",
+        "four-wangs"
       ],
       "sources": [
         "cma-1953-629"
@@ -6727,7 +6736,8 @@
       "overview": "刻353年兰亭修禊、曲水流觞；主纹「王羲之观鹅」上移至画面上段。",
       "related": [
         "china-calligraphy-history",
-        "running-script"
+        "running-script",
+        "lantingji-xu"
       ],
       "sources": [
         "cma-1974-72"
@@ -14956,7 +14966,8 @@
         "kunqu",
         "yangqin",
         "suona",
-        "nanguan"
+        "nanguan",
+        "jiangnan-sizhu"
       ],
       "sources": [
         "enc-erhu",
@@ -15009,7 +15020,9 @@
         "jingju",
         "yangqin",
         "suona",
-        "shakuhachi"
+        "shakuhachi",
+        "xiao",
+        "jiangnan-sizhu"
       ],
       "sources": [
         "enc-dizi",
@@ -15278,7 +15291,8 @@
       "related": [
         "xieyi",
         "ma-yuan",
-        "shan-shui"
+        "shan-shui",
+        "fan-kuan"
       ],
       "sources": [
         "enc-guo-xi",
@@ -15439,7 +15453,8 @@
         "monet",
         "van-gogh",
         "kano-school",
-        "sesshu"
+        "sesshu",
+        "raja-ravi-varma"
       ],
       "sources": [
         "enc-hokusai",
@@ -16092,7 +16107,8 @@
       "overview": "扬琴是一种梯形的中国击弦扬琴类乐器。",
       "related": [
         "erhu",
-        "dizi"
+        "dizi",
+        "jiangnan-sizhu"
       ],
       "sources": [
         "enc-yangqin",
@@ -16871,7 +16887,8 @@
       "related": [
         "yuan-painting",
         "zhao-mengfu",
-        "shan-shui"
+        "shan-shui",
+        "wang-meng"
       ],
       "sources": [
         "enc-ni-zan",
@@ -16893,7 +16910,9 @@
       "related": [
         "dong-qichang-qingbian",
         "ming-painting",
-        "wen-zhengming"
+        "wen-zhengming",
+        "four-wangs",
+        "literati-painting"
       ],
       "sources": [
         "enc-dong-qichang",
@@ -16966,7 +16985,8 @@
         "zhao-mengfu-river-village",
         "yuan-painting",
         "ni-zan",
-        "liu-gongquan"
+        "liu-gongquan",
+        "wang-meng"
       ],
       "sources": [
         "enc-zhao-mengfu",
@@ -17059,7 +17079,8 @@
         "xieyi",
         "xia-gui",
         "ink-wash-painting",
-        "sesshu"
+        "sesshu",
+        "fan-kuan"
       ],
       "sources": [
         "enc-shan-shui",
@@ -17081,7 +17102,8 @@
       "related": [
         "china-calligraphy-history",
         "yan-zhenqing",
-        "mi-fu"
+        "mi-fu",
+        "lantingji-xu"
       ],
       "sources": [
         "enc-wang-xizhi",
@@ -17130,7 +17152,8 @@
         "yan-zhenqing",
         "zhao-ji",
         "ci-poetry",
-        "mi-fu"
+        "mi-fu",
+        "literati-painting"
       ],
       "sources": [
         "enc-su-shi",
@@ -18425,7 +18448,9 @@
         "guzheng",
         "cma-liu-songnian-qin",
         "cma-tang-yin-qin",
-        "china-music-history"
+        "china-music-history",
+        "high-mountains-flowing-water",
+        "xiao"
       ],
       "sources": [
         "enc-guqin",
@@ -18492,7 +18517,8 @@
       "related": [
         "bianzhong",
         "yayue",
-        "china-music-history"
+        "china-music-history",
+        "zhu-zaiyu"
       ],
       "sources": [
         "enc-shi-er-lu",
@@ -18797,6 +18823,7 @@
       "related": [
         "xieyi",
         "shan-shui",
+        "literati-painting",
         "china-painting-history",
         "sesshu"
       ],
@@ -18842,7 +18869,8 @@
       "related": [
         "regular-script",
         "yan-zhenqing",
-        "zhao-mengfu"
+        "zhao-mengfu",
+        "fan-kuan"
       ],
       "sources": [
         "enc-liu-gongquan",
@@ -18865,7 +18893,8 @@
         "wang-xizhi",
         "su-shi",
         "huang-tingjian",
-        "song-painting"
+        "song-painting",
+        "literati-painting"
       ],
       "sources": [
         "enc-mi-fu",
@@ -19012,7 +19041,8 @@
       "related": [
         "ink-wash-painting",
         "shan-shui",
-        "hokusai"
+        "hokusai",
+        "raja-ravi-varma"
       ],
       "sources": [
         "enc-sesshu",
@@ -19031,7 +19061,10 @@
       "def": "印度画家（1848—1906），融合欧洲学院派与印度题材。",
       "when": "1848—1906",
       "overview": "拉贾·拉维·瓦尔马是印度画家，其作品是欧洲学院派艺术与纯印度情感、图像志融合的最佳范例之一。他把画作制成平价石版画向公众发行，大大扩展了影响，使普通人更多接触美术并塑造了艺术趣味。他描绘印度教神祇及印度史诗、往世书题材的宗教作品广受好评。他出身马拉普拉姆县帕拉帕纳德王族。",
-      "related": [],
+      "related": [
+        "sesshu",
+        "hokusai"
+      ],
       "sources": [
         "enc-raja-ravi-varma",
         "wd-raja-ravi-varma"
@@ -19101,6 +19134,209 @@
       "sources": [
         "enc-tan-dun",
         "wd-tan-dun"
+      ]
+    },
+    {
+      "id": "lantingji-xu",
+      "title": "《兰亭集序》",
+      "kind": "作品",
+      "unit": "art-china-calligraphy",
+      "era": "东晋",
+      "region": "中国",
+      "medium": "书法",
+      "tier": "核心",
+      "def": "东晋书法家王羲之所作行书，有“天下第一行书”之称。",
+      "when": "东晋（317—420）",
+      "overview": "《兰亭集序》又称《兰亭序》《禊帖》等，为东晋书法家王羲之所作，有“天下第一行书”之称，是晋代书法成就的代表。全文324字，重复的字写法各不相同，其中21个“之”字各具风韵。导言称王羲之酒醒后又重写多本，终不及兰亭集会时所写。",
+      "related": [
+        "wang-xizhi",
+        "running-script",
+        "lanting-lacquer-panel"
+      ],
+      "sources": [
+        "enc-lantingji-xu",
+        "wd-lantingji-xu"
+      ]
+    },
+    {
+      "id": "fan-kuan",
+      "title": "范宽（Fan Kuan）",
+      "kind": "人物",
+      "unit": "art-china-painting",
+      "era": "北宋",
+      "region": "中国",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "五代末北宋山水画家（约950—约1032），“北宋三大家”之一。",
+      "when": "约950—约1032",
+      "overview": "范宽（约950—约1032），字中立（一说名中正，字仲立），京兆华原（今陕西耀县）人，生于五代末，北宋画家。因性情宽厚、不拘礼法，时人呼之为“宽”，遂以范宽自名。他擅山水，初与关仝、李成同为北方山水三大主流，并称“北宋三大家”，后又与董源、李成并称“宋三家”，与同乡柳公权合称“柳范”。",
+      "related": [
+        "song-painting",
+        "shan-shui",
+        "guo-xi",
+        "liu-gongquan"
+      ],
+      "sources": [
+        "enc-fan-kuan",
+        "wd-fan-kuan"
+      ]
+    },
+    {
+      "id": "wang-meng",
+      "title": "王蒙（Wang Meng）",
+      "kind": "人物",
+      "unit": "art-china-painting",
+      "era": "元末明初",
+      "region": "中国",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "元末明初画家（1308—1385），“元四家”中最年轻者。",
+      "when": "1308—1385",
+      "overview": "王蒙（1308—1385），字叔明，号黄鹤山樵，浙江湖州人，元末明初画家，元四家中最年轻者。元末曾入仕，后弃官隐居余杭黄鹤山30年。明初任山东泰安知州，因曾在宰相胡惟庸家观画，胡被捕时受牵连入狱，死于狱中。",
+      "related": [
+        "yuan-painting",
+        "ni-zan",
+        "zhao-mengfu"
+      ],
+      "sources": [
+        "enc-wang-meng",
+        "wd-wang-meng"
+      ]
+    },
+    {
+      "id": "four-wangs",
+      "title": "四王（Four Wangs）",
+      "kind": "风格",
+      "unit": "art-china-painting",
+      "era": "清代",
+      "region": "中国",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "清代四位王姓山水画代表画家：王时敏、王鉴、王翚、王原祁。",
+      "when": "17—18世纪初",
+      "overview": "四王指清代四位王姓山水画家王时敏、王鉴、王翚、王原祁，均为苏州府人，分两代：王时敏、王鉴是董其昌的朋友，王原祁是王时敏之孙，王翚是王鉴的学生。他们遵从董其昌“南北宗论”，倾心师古，精研笔墨，追求文人画意趣。王原祁、王翚分别开“娄东派”“虞山派”，弟子众多，部分供职内廷，形成当时山水画的正统，对清代山水画影响深远。",
+      "related": [
+        "dong-qichang",
+        "wang-hui-bamboo",
+        "qing-painting",
+        "literati-painting"
+      ],
+      "sources": [
+        "enc-four-wangs",
+        "wd-four-wangs"
+      ]
+    },
+    {
+      "id": "literati-painting",
+      "title": "文人画（Literati painting）",
+      "kind": "风格",
+      "unit": "art-china-painting",
+      "era": "宋代起",
+      "region": "中国",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "中国古代文人、士大夫的绘画，以别于宫廷院画和民间绘画。",
+      "when": "北宋起",
+      "overview": "文人画亦称士人画，泛指中国古代文人、士大夫的绘画，以别于宫廷院画与民间绘画。多数研究把其历史起于宋代：北宋苏轼提倡的“墨戏”“士人画”被视为滥觞，北宋末米芾、米友仁父子的米点山水被视为最早的典型。明代董其昌提出“文人画”一词，推唐代王维为始祖。文人画家讲究诗、书、画、印相得益彰，题材多为山水、花鸟、梅兰竹菊，强调气韵与笔墨情趣，注重意境。",
+      "related": [
+        "su-shi",
+        "mi-fu",
+        "dong-qichang",
+        "ink-wash-painting",
+        "xieyi",
+        "four-wangs"
+      ],
+      "sources": [
+        "enc-literati-painting",
+        "wd-literati-painting"
+      ]
+    },
+    {
+      "id": "high-mountains-flowing-water",
+      "title": "《高山流水》",
+      "kind": "作品",
+      "unit": "music-china",
+      "era": "历代",
+      "region": "中国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "古琴曲，相传为伯牙所作，唐代分为《高山》《流水》两曲。",
+      "when": "相传先秦；唐代分为两曲",
+      "overview": "《高山流水》是古琴曲，相传为伯牙所作，唐代分成《高山》《流水》两曲，现存琴谱中各有数十个版本。今人演奏的《流水》多为“七十二滚拂”流水，源自清代琴家张孔山。1977年，管平湖演奏的《流水》经作曲家周文中推荐，被美国国家航空航天局收入旅行者金唱片，作为中国音乐的代表。",
+      "related": [
+        "guqin",
+        "china-music-history"
+      ],
+      "sources": [
+        "enc-high-mountains-flowing-water",
+        "wd-high-mountains-flowing-water"
+      ]
+    },
+    {
+      "id": "zhu-zaiyu",
+      "title": "朱载堉（Zhu Zaiyu）",
+      "kind": "人物",
+      "unit": "music-china",
+      "era": "明代",
+      "region": "中国",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "明代宗室，乐律学家、数学家等（1536—1611），首创十二平均律。",
+      "when": "1536—1611",
+      "overview": "朱载堉（1536—1611），字伯勤，明宗室郑恭王朱厚烷嫡子，怀庆府河内县（今河南沁阳）人，明太祖八世孙。他是明代乐律学家、音乐家、数学家、乐器制造家、物理学家、天文学家与散曲作家，首创十二平均律。",
+      "related": [
+        "shi-er-lu",
+        "china-music-history"
+      ],
+      "sources": [
+        "enc-zhu-zaiyu",
+        "wd-zhu-zaiyu"
+      ]
+    },
+    {
+      "id": "xiao",
+      "title": "箫（Xiao）",
+      "kind": "术语",
+      "unit": "music-china",
+      "era": "历代",
+      "region": "中国",
+      "medium": "乐器",
+      "tier": "重要",
+      "def": "中国古老的单管竖吹吹管乐器。",
+      "when": "唐宋以来指单管竖吹",
+      "overview": "箫又称洞箫、长箫，是中国古老的吹管乐器，单管、竖吹、开管、边棱音发声。“箫”字在唐代以前本指排箫；唐宋以来单管竖吹的箫日渐流行，于是称编管者为排箫以示区别。“洞箫”之名来自管底的开孔。其音色圆润轻柔、幽静典雅，常用于独奏、琴箫合奏或丝竹乐。",
+      "related": [
+        "dizi",
+        "guqin",
+        "jiangnan-sizhu"
+      ],
+      "sources": [
+        "enc-xiao",
+        "wd-xiao"
+      ]
+    },
+    {
+      "id": "jiangnan-sizhu",
+      "title": "江南丝竹（Jiangnan sizhu）",
+      "kind": "风格",
+      "unit": "music-china",
+      "era": "近现代",
+      "region": "中国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "流行于长江下游、以上海为中心地区的丝竹器乐。",
+      "when": "近现代（导言未给年代）",
+      "overview": "江南丝竹指流行于长江下游以上海为中心（含苏南、浙西）的器乐。“丝”指丝弦乐器如二胡、琵琶，“竹”指竹管乐器如笛子、箫，另常用扬琴、三弦、笙、鼓、板。曲调悠闲缠绵、典雅华丽，传统技法讲究“你繁我简，你高我低，加花变奏，嵌挡让路，即兴发挥”。笛用长的曲笛，与二胡配合和谐。名曲有《三六》《梅花三弄》《行街》《四合如意》《中花六板》等“八大名曲”。",
+      "related": [
+        "erhu",
+        "pipa",
+        "dizi",
+        "xiao",
+        "yangqin"
+      ],
+      "sources": [
+        "enc-jiangnan-sizhu",
+        "wd-jiangnan-sizhu"
       ]
     }
   ]
