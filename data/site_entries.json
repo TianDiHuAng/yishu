@@ -30286,7 +30286,8 @@
       ],
       "sources": [
         "enc-viol",
-        "wd-viol"
+        "wd-viol",
+        "aat-300042233"
       ],
       "level": "L2",
       "sections": {
@@ -30296,11 +30297,11 @@
         "技法或形式分析": "多为六弦，主要四度定弦、中间一个三度；有品，竖奏于腿上或两腿间。",
         "与前后风格的关系和争论": "与小提琴族的关系摘要没有给出，本条目不补写。",
         "一图": "示意图以维奥尔琴为中心，标示巴伦西亚、六弦、viola da gamba。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。（AAT 对照，2026-11-25）盖蒂 AAT（300042233）：AAT 描述为腰部内收、平背、指板有品、置于膝上或两腿间演奏的弓弦乐器，与本条目形制描述相合，只印证形制。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='viol 示意图'><title>viol</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>巴伦西亚</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>15世纪末起源</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>维奥尔琴</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>弓奏有品</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>六弦</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>四度定弦</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>viola da gam</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>腿上维奥尔</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+      "pending_notes": "已补 AAT 独立来源（只印证定义或形制）；来源独立性有限（Wikipedia+Wikidata）"
     },
     {
       "id": "lauda",
@@ -31745,7 +31746,8 @@
       ],
       "sources": [
         "enc-xiao",
-        "wd-xiao"
+        "wd-xiao",
+        "aat-300224132"
       ],
       "level": "L2",
       "sections": {
@@ -31755,11 +31757,11 @@
         "技法或形式分析": "单管、竖吹、开管、边棱音发声；“洞箫”得名于管底开孔。",
         "与前后风格的关系和争论": "名称演变：排箫→单管箫。",
         "一图": "示意图以箫为中心，标示排箫、琴箫合奏、洞箫。",
-        "待核实": "（1）本条目事实仅来自 中文维基百科导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+        "待核实": "（1）本条目事实仅来自 中文维基百科导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。（AAT 对照，2026-11-25）盖蒂 AAT（300224132）：AAT 描述为汉族竹制竖吹笛，一端开吹口，自古即有，指孔数目与排列不一，与本条目“单管竖吹”相合，只印证形制。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='xiao 示意图'><title>xiao</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>排箫</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>唐前本义</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>箫</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>单管竖吹</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>琴箫合奏</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>用途</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>洞箫</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>管底开孔</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据中文维基导言</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+      "pending_notes": "已补 AAT 独立来源（只印证定义或形制）；来源独立性有限（Wikipedia+Wikidata）"
     },
     {
       "id": "jiangnan-sizhu",
@@ -32000,7 +32002,8 @@
       ],
       "sources": [
         "enc-photography",
-        "wd-photography"
+        "wd-photography",
+        "aat-300054225"
       ],
       "level": "L2",
       "sections": {
@@ -32010,11 +32013,11 @@
         "技法或形式分析": "两项原理：暗箱成像与感光物质。",
         "与前后风格的关系和争论": "摘要没有谈摄影与绘画的关系，本条目不补写。",
         "一图": "示意图以摄影史为中心，标示暗箱、感光物质、18世纪前。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。（AAT 对照，2026-11-25）盖蒂 AAT（300054225）：AAT 此词条指摄影这一工艺本身，不是摄影史，只作名称层面的有限印证。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='photography 示意图'><title>photography</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>暗箱</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>成像投影</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>摄影史</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>两项原理</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>感光物质</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>见光变化</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>18世纪前</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>无尝试</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+      "pending_notes": "已补 AAT 独立来源（只印证定义或形制）；来源独立性有限（Wikipedia+Wikidata）"
     },
     {
       "id": "niepce",
@@ -32143,7 +32146,8 @@
       ],
       "sources": [
         "enc-pictorialism",
-        "wd-pictorialism"
+        "wd-pictorialism",
+        "aat-300111559"
       ],
       "level": "L2",
       "sections": {
@@ -32153,11 +32157,11 @@
         "技法或形式分析": "柔焦、彩色印制、表面笔触或加工。",
         "与前后风格的关系和争论": "摘要称其没有标准定义；与纯粹摄影的对立见该条。",
         "一图": "示意图以画意摄影为中心，标示绘画、柔焦、纯粹摄影。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。（AAT 对照，2026-11-25）盖蒂 AAT（300111559）：AAT 只说明用于指19世纪的摄影运动，印证名称与所属媒介；本条目所写延续到20世纪初，AAT 未涉及。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='pictorialism 示意图'><title>pictorialism</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>绘画</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>类比</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>画意摄影</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>创造而非记录</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>柔焦</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>常见特征</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>纯粹摄影</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>对立</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+      "pending_notes": "已补 AAT 独立来源（只印证定义或形制）；来源独立性有限（Wikipedia+Wikidata）"
     },
     {
       "id": "straight-photography",
@@ -32214,7 +32218,8 @@
       ],
       "sources": [
         "enc-documentary-photography",
-        "wd-documentary-photography"
+        "wd-documentary-photography",
+        "aat-300134547"
       ],
       "level": "L2",
       "sections": {
@@ -32224,11 +32229,11 @@
         "技法或形式分析": "摘要没有作技法分析，本条目不补写。",
         "与前后风格的关系和争论": "社会纪实摄影是其分支，关注社会问题与弱势人群。",
         "一图": "示意图以纪实摄影为中心，标示新闻摄影、社会纪实、日常生活。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。（AAT 对照，2026-11-25）盖蒂 AAT（300134547）：AAT 定义为以事实准确与摄影者客观为重、常记录新闻事件、可意在记录并影响社会状况的摄影方法，与本条目定义相合，印证定义。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='documentary-photography 示意图'><title>documentary-photography</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>新闻摄影</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>职业实践</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>纪实摄影</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>记录事件</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>社会纪实</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>社会问题</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>日常生活</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>记录对象</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+      "pending_notes": "已补 AAT 独立来源（只印证定义或形制）；来源独立性有限（Wikipedia+Wikidata）"
     },
     {
       "id": "stieglitz",
@@ -32464,7 +32469,8 @@
       ],
       "sources": [
         "enc-brutalism",
-        "wd-brutalism"
+        "wd-brutalism",
+        "aat-300112048"
       ],
       "level": "L2",
       "sections": {
@@ -32474,11 +32480,11 @@
         "技法或形式分析": "裸露混凝土或砖、几何形体、单色调。",
         "与前后风格的关系和争论": "摘要没有谈其评价与争议，本条目不补写。",
         "一图": "示意图以粗野主义为中心，标示战后重建、混凝土、几何形体。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。（AAT 对照，2026-11-25）盖蒂 AAT（300112048）：AAT 称其依赖裸露粗混凝土为结构形式，尤指1960—1970年代，并与勒·柯布西耶晚期作品相关，词源为法语 béton brut。断代差异：本条目据摘要写1950年代起于英国，AAT 侧重1960—1970年代，两说并存，不改正文。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='brutalism 示意图'><title>brutalism</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>战后重建</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>英国1950年代</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>粗野主义</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>裸露结构</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>混凝土</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>未上漆</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>几何形体</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>棱角分明</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+      "pending_notes": "已补 AAT 独立来源（只印证定义或形制）；来源独立性有限（Wikipedia+Wikidata）"
     },
     {
       "id": "postmodern-architecture",
@@ -32499,7 +32505,8 @@
       ],
       "sources": [
         "enc-postmodern-architecture",
-        "wd-postmodern-architecture"
+        "wd-postmodern-architecture",
+        "aat-300022208"
       ],
       "level": "L2",
       "sections": {
@@ -32509,11 +32516,11 @@
         "技法或形式分析": "具体手法摘要没有给出，本条目不补写。",
         "与前后风格的关系和争论": "作为对国际风格的反动；詹克斯宣告现代建筑“死亡”是一方立场，摘要未列反方。",
         "一图": "示意图以后现代建筑为中心，标示国际风格、文丘里、詹克斯。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。（AAT 对照，2026-11-25）盖蒂 AAT（300022208）：AAT 称其为1960年代以后挑战现代主义主导地位的艺术与建筑风格与时期，1970年代在建筑中广泛使用；与本条目“1960年代兴起”相合。AAT 另称该词1934年已由德奥尼斯使用，本条目未写。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='postmodern-architecture 示意图'><title>postmodern-architecture</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>国际风格</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>被反对</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>后现代建筑</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1960年代起</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>文丘里</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>复杂性与矛盾性</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>詹克斯</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>1977宣告</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+      "pending_notes": "已补 AAT 独立来源（只印证定义或形制）；来源独立性有限（Wikipedia+Wikidata）"
     },
     {
       "id": "parthenon",

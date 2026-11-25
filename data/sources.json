@@ -15489,6 +15489,76 @@
       "type": "国家图书馆人名规范记录（标目、生卒、职业）",
       "verified": true,
       "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q5604，按编号与本条目匹配；标目“Wright, Frank Lloyd”，生 1867-06-08，卒 1959-04-09"
+    },
+    {
+      "id": "aat-300111559",
+      "title": "Getty AAT — Pictorialist (300111559)",
+      "author": "Getty Research Institute（Art & Architecture Thesaurus）",
+      "year": "2026",
+      "url": "http://vocab.getty.edu/page/aat/300111559",
+      "type": "权威主题词表",
+      "verified": true,
+      "verified_note": "2026-11-25 经 AAT SPARQL 按首选标签“Pictorialist”精确查询命中，范围注释已读全"
+    },
+    {
+      "id": "aat-300134547",
+      "title": "Getty AAT — documentary photography (300134547)",
+      "author": "Getty Research Institute（Art & Architecture Thesaurus）",
+      "year": "2026",
+      "url": "http://vocab.getty.edu/page/aat/300134547",
+      "type": "权威主题词表",
+      "verified": true,
+      "verified_note": "2026-11-25 经 AAT SPARQL 按首选标签“documentary photography”精确查询命中，范围注释已读全"
+    },
+    {
+      "id": "aat-300022208",
+      "title": "Getty AAT — Postmodern (300022208)",
+      "author": "Getty Research Institute（Art & Architecture Thesaurus）",
+      "year": "2026",
+      "url": "http://vocab.getty.edu/page/aat/300022208",
+      "type": "权威主题词表",
+      "verified": true,
+      "verified_note": "2026-11-25 经 AAT SPARQL 按首选标签“Postmodern”精确查询命中，范围注释已读全"
+    },
+    {
+      "id": "aat-300112048",
+      "title": "Getty AAT — Brutalist (300112048)",
+      "author": "Getty Research Institute（Art & Architecture Thesaurus）",
+      "year": "2026",
+      "url": "http://vocab.getty.edu/page/aat/300112048",
+      "type": "权威主题词表",
+      "verified": true,
+      "verified_note": "2026-11-25 经 AAT SPARQL 按首选标签“Brutalist”精确查询命中，范围注释已读全"
+    },
+    {
+      "id": "aat-300042233",
+      "title": "Getty AAT — viols (300042233)",
+      "author": "Getty Research Institute（Art & Architecture Thesaurus）",
+      "year": "2026",
+      "url": "http://vocab.getty.edu/page/aat/300042233",
+      "type": "权威主题词表",
+      "verified": true,
+      "verified_note": "2026-11-25 经 AAT SPARQL 按首选标签“viols”精确查询命中，范围注释已读全"
+    },
+    {
+      "id": "aat-300224132",
+      "title": "Getty AAT — xiao (300224132)",
+      "author": "Getty Research Institute（Art & Architecture Thesaurus）",
+      "year": "2026",
+      "url": "http://vocab.getty.edu/page/aat/300224132",
+      "type": "权威主题词表",
+      "verified": true,
+      "verified_note": "2026-11-25 经 AAT SPARQL 按首选标签“xiao”精确查询命中，范围注释已读全"
+    },
+    {
+      "id": "aat-300054225",
+      "title": "Getty AAT — photography (process) (300054225)",
+      "author": "Getty Research Institute（Art & Architecture Thesaurus）",
+      "year": "2026",
+      "url": "http://vocab.getty.edu/page/aat/300054225",
+      "type": "权威主题词表",
+      "verified": true,
+      "verified_note": "2026-11-25 经 AAT SPARQL 按首选标签“photography (process)”精确查询命中，范围注释已读全"
     }
   ]
 }
