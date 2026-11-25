@@ -4494,6 +4494,24 @@
       "check_result": "errors=0",
       "check_links_result": "broken=0(690页)",
       "commits": 1
+    },
+    {
+      "cycle": "cycle195",
+      "date": "2026-11-25",
+      "status": "completed",
+      "gap_methods": [
+        "23条过时待核实说明改正"
+      ],
+      "new_entries": 0,
+      "reviews": 39,
+      "fixes": 23,
+      "new_sources": 0,
+      "sources_total": 956,
+      "entries_total": 653,
+      "pages": 690,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(690页)",
+      "commits": 1
     }
   ]
 }
