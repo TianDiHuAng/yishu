@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 653 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 659 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -372,6 +372,8 @@
 | mozart | 莫扎特 | 人物 | 18世纪 | 奥地利 | 音乐体裁 | 核心 | O1 |
 | beethoven | 贝多芬 | 人物 | 18—19世纪 | 德国 | 音乐体裁 | 核心 | O1 |
 | gluck | 格鲁克（Christoph Willibald Gluck） | 人物 | 18世纪 | 德意志·奥地利 | 音乐体裁 | 重要 | O1 |
+| string-quartet | 弦乐四重奏（String quartet） | 术语 | 18世纪中叶—今 | 欧洲 | 音乐体裁 | 重要 | O4 |
+| divertimento | 嬉游曲（Divertimento） | 术语 | 18世纪 | 欧洲 | 音乐体裁 | 补充 | O4 |
 
 ## music-romantic（音乐史·浪漫）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -397,6 +399,10 @@
 | stravinsky | 斯特拉文斯基 | 人物 | 20世纪 | 俄国/美国 | 音乐体裁 | 核心 | O1 |
 | schoenberg | 勋伯格 | 人物 | 20世纪 | 奥地利/美国 | 音乐体裁 | 核心 | O1 |
 | debussy | 德彪西 | 人物 | 19—20世纪 | 法国 | 音乐体裁 | 重要 | O1 |
+| bartok | 巴托克（Béla Bartók） | 人物 | 20世纪 | 匈牙利 | 音乐体裁 | 核心 | O1 |
+| prokofiev | 普罗科菲耶夫（Sergei Prokofiev） | 人物 | 20世纪 | 俄国·苏联 | 音乐体裁 | 核心 | O1 |
+| electronic-music | 电子音乐（Electronic music） | 风格 | 20世纪—今 | 全球 | 音乐体裁 | 重要 | O4 |
+| aleatoric-music | 偶然音乐（Aleatoric music） | 术语 | 20世纪 | 欧美 | 音乐体裁 | 重要 | O4 |
 
 ## music-china（中国音乐史）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

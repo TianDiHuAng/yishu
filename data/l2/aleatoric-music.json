@@ -1,0 +1,20 @@
+{
+  "id": "aleatoric-music",
+  "level": "L2",
+  "sections": {
+    "时代背景": "摘要没有给出年代，本条目写“20世纪”是按单元划分，不是摘要的说法。",
+    "风格特征": "摘要称，偶然音乐是作品某些要素交由偶然决定，或作品实现的某些主要要素交由演奏者决定，或二者兼有的音乐。",
+    "代表人物与作品": "摘要没有列举作曲家与作品，本条目不补写。",
+    "技法或形式分析": "摘要称，这一术语最常与偶然因素只涉及相对有限的若干可能性的做法相联系。具体记谱方式摘要未给出。",
+    "与前后风格的关系和争论": "摘要没有谈及它与序列主义等的关系或争论；库内互链为本项目所加。",
+    "一图": "示意图以偶然音乐为中心，标示偶然决定、演奏者决定、有限的可能性三项。",
+    "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）年代、代表人物与记谱方式，摘要均未给出。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='aleatoric-music 示意图'><title>aleatoric-music</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>偶然决定</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>作品要素</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>偶然音乐</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>二者或兼有</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>演奏者决定</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>实现要素</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>有限可能</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>最常见做法</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+  "sources": [
+    "enc-aleatoric-music",
+    "wd-aleatoric-music"
+  ],
+  "needs_verification": true,
+  "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；年代与人物未给出。"
+}

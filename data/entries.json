@@ -2287,7 +2287,9 @@
         "beethoven",
         "classical-crossmedia",
         "gluck",
-        "scarlatti-domenico"
+        "scarlatti-domenico",
+        "string-quartet",
+        "divertimento"
       ],
       "sources": [
         "enc-classical-period-music",
@@ -2355,7 +2357,9 @@
       "overview": "创作百余部交响曲，确立四乐章套曲规范，晚期清唱剧《创世纪》亦著称。",
       "related": [
         "classical-period-music",
-        "symphony"
+        "symphony",
+        "string-quartet",
+        "divertimento"
       ],
       "sources": [
         "enc-haydn",
@@ -2377,7 +2381,8 @@
       "related": [
         "classical-period-music",
         "opera",
-        "gluck"
+        "gluck",
+        "divertimento"
       ],
       "sources": [
         "enc-mozart",
@@ -2401,7 +2406,8 @@
         "romantic-music",
         "symphony",
         "bourdelle-head-of-beethoven",
-        "kriehuber-bust-of-beethoven"
+        "kriehuber-bust-of-beethoven",
+        "string-quartet"
       ],
       "sources": [
         "enc-beethoven",
@@ -2581,7 +2587,11 @@
         "schoenberg",
         "debussy",
         "rite-of-spring-work",
-        "mahler"
+        "mahler",
+        "bartok",
+        "prokofiev",
+        "electronic-music",
+        "aleatoric-music"
       ],
       "sources": [
         "enc-20th-century-classical",
@@ -2627,7 +2637,8 @@
         "20th-century-classical",
         "schoenberg",
         "minimalism-music",
-        "stravinsky"
+        "stravinsky",
+        "aleatoric-music"
       ],
       "sources": [
         "enc-serialism",
@@ -2648,7 +2659,8 @@
       "overview": "赖希与格拉斯以相位移位与渐进叠加构建音响，形成与序列主义不同的简约路径。",
       "related": [
         "20th-century-classical",
-        "serialism"
+        "serialism",
+        "electronic-music"
       ],
       "sources": [
         "enc-20th-century-classical",
@@ -2670,7 +2682,8 @@
       "related": [
         "20th-century-classical",
         "serialism",
-        "rite-of-spring-work"
+        "rite-of-spring-work",
+        "prokofiev"
       ],
       "sources": [
         "enc-stravinsky",
@@ -13919,7 +13932,8 @@
       "related": [
         "romantic-music",
         "symphonic-poem",
-        "chopin"
+        "chopin",
+        "bartok"
       ],
       "sources": [
         "enc-liszt",
@@ -13965,7 +13979,8 @@
       "related": [
         "romantic-music",
         "concerto",
-        "opera"
+        "opera",
+        "prokofiev"
       ],
       "sources": [
         "enc-tchaikovsky",
@@ -14340,6 +14355,139 @@
         "enc-gothic-revival-architecture",
         "enc-c182-gothic-architecture",
         "wd-gothic-revival-architecture"
+      ]
+    },
+    {
+      "id": "string-quartet",
+      "title": "弦乐四重奏（String quartet）",
+      "kind": "术语",
+      "unit": "music-classical",
+      "era": "18世纪中叶—今",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "指一种音乐作品类型，也指演奏这类作品的四人组合：两把小提琴、一把中提琴、一把大提琴。",
+      "when": "约公元18世纪中叶—今",
+      "overview": "弦乐四重奏这一术语既指一种音乐作品类型，也指演奏四重奏的四人组合。自18世纪中叶起，许多作曲家创作弦乐四重奏。相应的乐团由两名小提琴手、一名中提琴手和一名大提琴手组成。",
+      "related": [
+        "haydn",
+        "beethoven",
+        "classical-period-music",
+        "bartok"
+      ],
+      "sources": [
+        "enc-string-quartet",
+        "wd-string-quartet"
+      ]
+    },
+    {
+      "id": "divertimento",
+      "title": "嬉游曲（Divertimento）",
+      "kind": "术语",
+      "unit": "music-classical",
+      "era": "18世纪",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "补充",
+      "def": "一种音乐体裁，多数实例出自18世纪；情绪多轻快，通常为小型乐团而写，泛指多种世俗器乐作品。",
+      "when": "约公元18世纪",
+      "overview": "嬉游曲是一种音乐体裁，大多数实例出自18世纪。其情绪通常轻快，一般为小型乐团而写。该词用来描述为独奏者或室内乐团而写的多种世俗（非宗教）器乐作品。它通常是一种娱乐性音乐，但也可用于较严肃的体裁。1780年以后，该词一般指非正式或轻松的作品。",
+      "related": [
+        "mozart",
+        "haydn",
+        "classical-period-music"
+      ],
+      "sources": [
+        "enc-divertimento",
+        "wd-divertimento"
+      ]
+    },
+    {
+      "id": "bartok",
+      "title": "巴托克（Béla Bartók）",
+      "kind": "人物",
+      "unit": "music-modern",
+      "era": "20世纪",
+      "region": "匈牙利",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "匈牙利作曲家、钢琴家与民族音乐学家（1881—1945），被视为20世纪最重要的作曲家之一，以采集与分析民间音乐著称。",
+      "when": "1881—1945",
+      "overview": "巴托克是匈牙利作曲家、钢琴家和民族音乐学家，被视为20世纪最重要的作曲家之一；他与李斯特被看作匈牙利最伟大的作曲家。代表作包括歌剧《蓝胡子城堡》、舞剧《神奇的满大人》、《为弦乐、打击乐与钢片琴而作的音乐》、《乐队协奏曲》和六首弦乐四重奏。他通过采集和分析研究民间音乐，成为比较音乐学（后称民族音乐学）的创始人之一。其作品常被描述为传统农民民间音乐与先锋音乐的结合。",
+      "related": [
+        "20th-century-classical",
+        "liszt",
+        "string-quartet"
+      ],
+      "sources": [
+        "enc-bartok",
+        "wd-bartok"
+      ]
+    },
+    {
+      "id": "prokofiev",
+      "title": "普罗科菲耶夫（Sergei Prokofiev）",
+      "kind": "人物",
+      "unit": "music-modern",
+      "era": "20世纪",
+      "region": "俄国·苏联",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "俄国作曲家、钢琴家与指挥家（1891—1953），后在苏联工作，被视为20世纪主要作曲家之一。",
+      "when": "1891—1953",
+      "overview": "普罗科菲耶夫是俄国作曲家、钢琴家和指挥家，后在苏联工作。作为多种音乐体裁中公认杰作的创作者，他被视为20世纪主要作曲家之一。广为流传的作品包括《三橘爱》中的进行曲、组曲《基热中尉》、舞剧《罗密欧与朱丽叶》（《骑士之舞》即出自此剧）和《彼得与狼》。在他从事的既有体裁中（不计少年习作），他完成了七部歌剧、七部交响曲、八部舞剧、五首钢琴协奏曲、两首小提琴协奏曲、一首大提琴协奏曲、一首大提琴与乐队的交响协奏曲和九首钢琴奏鸣曲。",
+      "related": [
+        "20th-century-classical",
+        "stravinsky",
+        "tchaikovsky"
+      ],
+      "sources": [
+        "enc-prokofiev",
+        "wd-prokofiev"
+      ]
+    },
+    {
+      "id": "electronic-music",
+      "title": "电子音乐（Electronic music）",
+      "kind": "风格",
+      "unit": "music-modern",
+      "era": "20世纪—今",
+      "region": "全球",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "泛指在创作中使用电子乐器、基于电路的音乐技术与软件或通用电子设备的一组音乐类型，包括纯电子与机电两类手段。",
+      "when": "20世纪—今",
+      "overview": "电子音乐泛指一组音乐类型，在创作中使用电子乐器、基于电路的音乐技术与软件，或通用电子设备。它包括用电子手段与机电手段制作的音乐。纯电子乐器完全依靠电路发声，例如电子振荡器、特雷门琴或合成器，无需先用机械方式产生声波再转为电信号。机电乐器则以琴弦或琴槌等机械部件产生声波，再由电磁拾音器、功率放大器和扬声器处理拾音器产生的电信号并转回声波，例如电传簧风琴（telharmonium）、哈蒙德风琴、电钢琴和电吉他。",
+      "related": [
+        "20th-century-classical",
+        "minimalism-music",
+        "aleatoric-music"
+      ],
+      "sources": [
+        "enc-electronic-music",
+        "wd-electronic-music"
+      ]
+    },
+    {
+      "id": "aleatoric-music",
+      "title": "偶然音乐（Aleatoric music）",
+      "kind": "术语",
+      "unit": "music-modern",
+      "era": "20世纪",
+      "region": "欧美",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "作品某些要素交由偶然决定，或作品实现的某些主要要素交由演奏者决定（或二者兼有）的音乐。",
+      "when": "20世纪",
+      "overview": "偶然音乐是指作品的某些要素交由偶然决定，或作品实现中的某些主要要素交由演奏者决定，或二者兼有的音乐。这一术语最常与偶然因素只涉及相对有限的若干可能性的做法相联系。",
+      "related": [
+        "serialism",
+        "20th-century-classical",
+        "electronic-music"
+      ],
+      "sources": [
+        "enc-aleatoric-music",
+        "wd-aleatoric-music"
       ]
     }
   ]
