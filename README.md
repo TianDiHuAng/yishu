@@ -4,6 +4,18 @@
 
 > 首页：[index.html](index.html) · 状态页：[status.html](status.html) · 覆盖报告：[REPORT.md](REPORT.md)
 
+> **在线访问：https://tiandihuang.github.io/yishu/** · 交接文档：[HANDOVER.md](HANDOVER.md)
+
+## 截图
+
+| 首页 | 条目页（L3：肖斯塔科维奇） |
+|---|---|
+| ![首页](docs/screenshots/home.png) | ![L3 条目](docs/screenshots/entry-l3.png) |
+| **条目页（莫扎特）** | **时间线** |
+| ![莫扎特](docs/screenshots/entry-mozart.png) | ![时间线](docs/screenshots/timeline.png) |
+| **站点状态** | |
+| ![状态](docs/screenshots/status.png) | |
+
 ## 它是什么
 
 - **918 个条目**，覆盖西方艺术史（古代→当代）、中国绘画与书法、西方音乐史（中世纪→当代）、中国音乐史，以及导读/比较/术语/作品档案等辅助单元。
