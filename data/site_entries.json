@@ -2611,6 +2611,10 @@
         "lizong-wangwei-album",
         "cma-liu-songnian-qin",
         "ru-ware",
+        "ma-yuan",
+        "shan-shui",
+        "su-shi",
+        "zhao-ji",
         "guo-xi"
       ],
       "sources": [
@@ -2645,7 +2649,9 @@
       "related": [
         "song-painting",
         "ming-painting",
-        "zhao-mengfu-river-village"
+        "zhao-mengfu-river-village",
+        "ni-zan",
+        "zhao-mengfu"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -2681,7 +2687,10 @@
         "qing-painting",
         "chen-hongshou-album",
         "cma-wen-zhengming-qin",
-        "cma-tang-yin-qin"
+        "cma-tang-yin-qin",
+        "dong-qichang",
+        "wen-zhengming",
+        "tang-yin"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -2716,7 +2725,9 @@
       "related": [
         "ming-painting",
         "china-painting-history",
-        "canton-umbrella-mender"
+        "canton-umbrella-mender",
+        "bada-shanren",
+        "shitao"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -2750,7 +2761,11 @@
       "related": [
         "gongbi",
         "china-painting-history",
-        "guo-xi"
+        "guo-xi",
+        "bada-shanren",
+        "qi-baishi",
+        "zhang-daqian",
+        "shan-shui"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -2924,7 +2939,8 @@
       "overview": "敦煌壁画融合中原与西域风格，题材以佛传、本生故事为主，是研究中国佛教艺术与中西交流的重要遗存。",
       "related": [
         "six-dynasties-art",
-        "tang-painting"
+        "tang-painting",
+        "zhang-daqian"
       ],
       "sources": [
         "enc-dunhuang",
@@ -2999,7 +3015,10 @@
         "ten-bamboo-album",
         "zhu-yunming-autumn-retreat",
         "liang-qichao-couplet",
-        "islamic-calligraphy"
+        "islamic-calligraphy",
+        "wang-xizhi",
+        "yan-zhenqing",
+        "huang-tingjian"
       ],
       "sources": [
         "enc-chinese-calligraphy",
@@ -6353,7 +6372,8 @@
         "juran-buddhist-retreat",
         "du-jin-lin-bu",
         "dong-qichang-qingbian",
-        "lan-ying-pure-conversation"
+        "lan-ying-pure-conversation",
+        "zhao-mengfu"
       ],
       "sources": [
         "cma-1978-66"
@@ -8677,7 +8697,8 @@
         "cma-wen-zhengming-qin",
         "cma-tang-yin-qin",
         "cma-tang-qin-mirror",
-        "kano-four-accomplishments"
+        "kano-four-accomplishments",
+        "zhao-ji"
       ],
       "sources": [
         "cma-1918-371"
@@ -10294,7 +10315,8 @@
       "related": [
         "zhao-mengfu-river-village",
         "du-jin-lin-bu",
-        "chen-jiru-four-poems"
+        "chen-jiru-four-poems",
+        "dong-qichang"
       ],
       "sources": [
         "cma-1980-10"
@@ -10360,7 +10382,8 @@
       "overview": "图写司马光1073年退居洛阳所筑独乐园；七处建筑各关联一位历史人物；后成苏州作坊摹本范式。",
       "related": [
         "chen-hongshou-album",
-        "du-jin-lin-bu"
+        "du-jin-lin-bu",
+        "wen-zhengming"
       ],
       "sources": [
         "cma-1978-67"
@@ -19320,7 +19343,8 @@
       "related": [
         "running-script",
         "regular-script",
-        "cma-wen-zhengming-qin"
+        "cma-wen-zhengming-qin",
+        "wen-zhengming"
       ],
       "sources": [
         "cma-1998-169"
@@ -20864,7 +20888,8 @@
       "overview": "绢本立轴墨与淡彩，画心35.8×29.1厘米；该馆称画意暗指嵇康（223—262）的一则传说：嵇康是三世纪一群特立独行的知识分子中的古琴家，所作《广陵散》幽怨得能唤来鬼魂；画中描绘一个扮成人形的鬼魂被另一鬼魂扶助从地下出来，其他鬼魂被月下茅屋中的琴师吸引。",
       "related": [
         "guqin-instrument",
-        "ming-painting"
+        "ming-painting",
+        "tang-yin"
       ],
       "sources": [
         "cma-1977-199"
@@ -24213,6 +24238,8 @@
       "overview": "郭熙是北宋时期河南的中国山水画家。",
       "related": [
         "xieyi",
+        "ma-yuan",
+        "shan-shui",
         "song-painting",
         "juran-buddhist-retreat"
       ],
@@ -26613,6 +26640,601 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='ru-brush-washer 示意图'><title>ru-brush-washer</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>宝丰清凉寺</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>产地</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>汝窑笔洗</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>北宋末</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>灰蓝釉</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>细开片</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>芝麻钉痕</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>底部</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据克利夫兰艺术博物馆记录</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "单一机构（CMA）来源；单一机构来源。"
+    },
+    {
+      "id": "bada-shanren",
+      "title": "八大山人",
+      "kind": "人物",
+      "unit": "art-china-painting",
+      "era": "1626—1705",
+      "region": "江西南昌",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "明朝宗室出身的书画家，与石涛、髡残、弘仁并称清初“四僧”。",
+      "when": "1626—1705",
+      "overview": "八大山人是明末清初的书画家，明朝宗室。",
+      "related": [
+        "shitao",
+        "qing-painting",
+        "xieyi"
+      ],
+      "sources": [
+        "enc-bada-shanren",
+        "wd-bada-shanren"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，八大山人（1626—1705）是明朝宗室、辅国中尉，江西南昌新建人，祖籍凤阳。",
+        "风格特征": "摘要没有给出这方面内容，本条目不补写。",
+        "代表人物与作品": "摘要称，他与石涛、髡残、弘仁并称清初“四僧”。摘要没有列举作品。",
+        "技法或形式分析": "摘要列出其谱名朱统𨨗、别名朱耷、法名传綮，号八大山人、雪个、个山、驴屋等。画法摘要未给出。",
+        "与前后风格的关系和争论": "摘要没有谈及其画风与前后关系，本条目不补写。",
+        "一图": "示意图以八大山人为中心，标示明朝宗室、清初四僧、名号众多三项。",
+        "待核实": "（1）本条目事实仅来自中文维基百科摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）画风与作品摘要未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='bada-shanren 示意图'><title>bada-shanren</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>明朝宗室</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>辅国中尉</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>八大山人</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1626—1705</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>清初四僧</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>石涛等</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>名号众多</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>朱耷·雪个</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；画风与作品未给出。"
+    },
+    {
+      "id": "shitao",
+      "title": "石涛",
+      "kind": "人物",
+      "unit": "art-china-painting",
+      "era": "1642—1707",
+      "region": "广西桂林",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "清初画家，与弘仁、髡残、朱耷合称“清初四僧”。",
+      "when": "1642—1707",
+      "overview": "石涛是清初画家。",
+      "related": [
+        "bada-shanren",
+        "qing-painting"
+      ],
+      "sources": [
+        "enc-shitao",
+        "wd-shitao"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，石涛（1642—1707）原姓朱，名若极，桂林府人，祖籍安徽凤阳。",
+        "风格特征": "摘要没有给出这方面内容，本条目不补写。",
+        "代表人物与作品": "摘要称，他与弘仁、髡残、朱耷合称“清初四僧”。摘要没有列举作品与画论。",
+        "技法或形式分析": "摘要列出别号大涤子、清湘老人、苦瓜和尚、瞎尊者，法号元济、原济等。画法摘要未给出。",
+        "与前后风格的关系和争论": "摘要没有谈及画论与影响，本条目不补写。",
+        "一图": "示意图以石涛为中心，标示朱若极、清初四僧、别号三项。",
+        "待核实": "（1）本条目事实仅来自中文维基百科摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）画风、作品与画论摘要未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='shitao 示意图'><title>shitao</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>朱若极</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>原姓朱</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>石涛</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1642—1707</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>清初四僧</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>八大山人等</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>别号</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>苦瓜和尚等</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；画风、作品与画论未给出。"
+    },
+    {
+      "id": "ma-yuan",
+      "title": "马远",
+      "kind": "人物",
+      "unit": "art-china-painting",
+      "era": "1160—1225",
+      "region": "钱塘（杭州）",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "南宋画家，出身数代画院待诏之家。",
+      "when": "1160—1225",
+      "overview": "马远是南宋画家。",
+      "related": [
+        "song-painting",
+        "guo-xi"
+      ],
+      "sources": [
+        "enc-ma-yuan",
+        "wd-ma-yuan"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，马远（1160—1225）原籍河中，侨寓钱塘，属南宋。",
+        "风格特征": "摘要没有给出这方面内容，本条目不补写。",
+        "代表人物与作品": "摘要称，其曾祖马贲、祖父马兴祖、伯父马公显、父马世荣、兄马逵、子马麟都是画院待诏。摘要没有列举作品。",
+        "技法或形式分析": "摘要只给出字号：字遥父，号钦山。画法摘要未给出。",
+        "与前后风格的关系和争论": "摘要没有谈及“马一角”等通称或与夏圭的并称，本条目不补写。",
+        "一图": "示意图以马远为中心，标示画院世家、南宋、马麟三项。",
+        "待核实": "（1）本条目事实仅来自中文维基百科摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）画风与作品摘要未给出；（3）摘要原文作“马与祖”，疑为“马兴祖”之讹，本条目暂写“马兴祖”，待专著核对。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='ma-yuan 示意图'><title>ma-yuan</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>画院世家</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>数代待诏</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>马远</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1160—1225</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>南宋</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>钱塘</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>马麟</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>子亦待诏</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；画风与作品未给出；祖父名待核。"
+    },
+    {
+      "id": "ni-zan",
+      "title": "倪瓒",
+      "kind": "人物",
+      "unit": "art-china-painting",
+      "era": "1301—1374",
+      "region": "无锡",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "元代诗人、画家、书法家，“元四家”之一，元代南宗山水画代表。",
+      "when": "1301—1374",
+      "overview": "倪瓒是元代诗人、画家、书法家。",
+      "related": [
+        "yuan-painting",
+        "zhao-mengfu",
+        "shan-shui"
+      ],
+      "sources": [
+        "enc-ni-zan",
+        "wd-ni-zan"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，倪瓒（1301—1374）是江浙行省无锡州人，属元代。",
+        "风格特征": "摘要称，其作品以纸本水墨为主，间用淡色；前景中的树木与空白处的楷书题款几乎成了他个人的符号。",
+        "代表人物与作品": "摘要称，倪瓒是“元四家”之一，也是元代南宗山水画的代表画家。具体作品摘要未列。",
+        "技法或形式分析": "摘要给出的形式信息即“纸本水墨、间用淡色、前景树木、空白处楷书题款”。",
+        "与前后风格的关系和争论": "“南宗”是后世的分宗说法，摘要只说他是代表，本条目不展开南北宗之争。",
+        "一图": "示意图以倪瓒为中心，标示元四家、纸本水墨、题款三项。",
+        "待核实": "（1）本条目事实仅来自中文维基百科摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）具体作品未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='ni-zan 示意图'><title>ni-zan</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>元四家</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>之一</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>倪瓒</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1301—1374</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>纸本水墨</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>间用淡色</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>题款</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>空白处楷书</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；具体作品未给出。"
+    },
+    {
+      "id": "dong-qichang",
+      "title": "董其昌",
+      "kind": "人物",
+      "unit": "art-china-painting",
+      "era": "1555—1636",
+      "region": "华亭（上海松江）",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "明代政治人物、书画家，官至南京礼部尚书，与邢侗、张瑞图、米万锺合称晚明四家。",
+      "when": "1555—1636",
+      "overview": "董其昌是明代书画家。",
+      "related": [
+        "dong-qichang-qingbian",
+        "ming-painting",
+        "wen-zhengming"
+      ],
+      "sources": [
+        "enc-dong-qichang",
+        "wd-dong-qichang"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，董其昌（1555—1636）是直隶华亭县人，万历己丑进士，官至留都南京礼部尚书。",
+        "风格特征": "摘要没有给出这方面内容，本条目不补写。",
+        "代表人物与作品": "摘要称，他与邢侗、张瑞图、米万锺合称晚明四家。库内另有作品条目《青弁图》。",
+        "技法或形式分析": "摘要没有给出画法与画论，本条目不补写。",
+        "与前后风格的关系和争论": "摘要没有谈及其“南北宗论”，本条目不补写。",
+        "一图": "示意图以董其昌为中心，标示晚明四家、南京礼部尚书、青弁图三项。",
+        "待核实": "（1）本条目事实仅来自中文维基百科摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）画论与画风摘要未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='dong-qichang 示意图'><title>dong-qichang</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>晚明四家</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>邢·张·米</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>董其昌</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1555—1636</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>南京礼部尚书</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>官职</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>青弁图</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>库内作品</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；画论与画风未给出。"
+    },
+    {
+      "id": "wen-zhengming",
+      "title": "文徵明",
+      "kind": "人物",
+      "unit": "art-china-painting",
+      "era": "1470—1559",
+      "region": "苏州长洲",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "明代画家，“明四家”之一，继沈周之后为吴派领袖。",
+      "when": "1470—1559",
+      "overview": "文徵明是明代画家。",
+      "related": [
+        "wen-zhengming-silk-poem",
+        "tang-yin",
+        "ming-painting",
+        "qiu-ying-garden",
+        "dong-qichang"
+      ],
+      "sources": [
+        "enc-wen-zhengming",
+        "wd-wen-zhengming"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，文徵明本名文壁（1470—1559），以字行，苏州长洲人，一生历成化、弘治、正德、嘉靖四朝。",
+        "风格特征": "摘要没有给出这方面内容，本条目不补写。",
+        "代表人物与作品": "摘要称，他与唐寅、沈周、仇英合称“明四家”（吴门四家），又与唐寅、祝允明、徐祯卿并称“吴中四才子”；晚年与老师沈周并驾齐驱，继沈周之后成为吴派领袖。库内另有其作品条目。",
+        "技法或形式分析": "摘要没有给出画法，本条目不补写。",
+        "与前后风格的关系和争论": "摘要没有谈及相关争论。",
+        "一图": "示意图以文徵明为中心，标示明四家、沈周、吴派领袖三项。",
+        "待核实": "（1）本条目事实仅来自中文维基百科摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）画风与作品摘要未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='wen-zhengming 示意图'><title>wen-zhengming</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>明四家</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>唐·沈·仇</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>文徵明</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1470—1559</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>沈周</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>老师</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>吴派领袖</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>继沈周</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；画风未给出。"
+    },
+    {
+      "id": "tang-yin",
+      "title": "唐寅",
+      "kind": "人物",
+      "unit": "art-china-painting",
+      "era": "1470—1524",
+      "region": "苏州吴县",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "明代画家、文学家，“明四家”与“吴中四才子”之一。",
+      "when": "1470—1524",
+      "overview": "唐寅是明代画家、文学家。",
+      "related": [
+        "wen-zhengming",
+        "cma-tang-yin-qin",
+        "ming-painting"
+      ],
+      "sources": [
+        "enc-tang-yin",
+        "wd-tang-yin"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，唐寅（1470—1524）字伯虎，直隶苏州府吴县人。",
+        "风格特征": "摘要没有给出这方面内容，本条目不补写。",
+        "代表人物与作品": "摘要称，他是吴中四才子之一，在画史上又与沈周、文徵明、仇英合称“明四家”。库内另有作品条目。",
+        "技法或形式分析": "摘要只列号：六如居士、桃花庵主等。画法摘要未给出。",
+        "与前后风格的关系和争论": "摘要没有谈及相关争论。",
+        "一图": "示意图以唐寅为中心，标示吴中四才子、明四家、号三项。",
+        "待核实": "（1）本条目事实仅来自中文维基百科摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）画风与作品摘要未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='tang-yin 示意图'><title>tang-yin</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>吴中四才子</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>之一</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>唐寅</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1470—1524</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>明四家</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>沈·文·仇</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>号</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>六如居士</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；画风未给出。"
+    },
+    {
+      "id": "zhao-mengfu",
+      "title": "赵孟頫",
+      "kind": "人物",
+      "unit": "art-china-painting",
+      "era": "1254—1322",
+      "region": "湖州",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "南宋与元朝官员、书画家，元代文人画与书法的领袖人物。",
+      "when": "1254—1322",
+      "overview": "赵孟頫是宋末元初的书画家。",
+      "related": [
+        "zhao-mengfu-river-village",
+        "yuan-painting",
+        "ni-zan"
+      ],
+      "sources": [
+        "enc-zhao-mengfu",
+        "wd-zhao-mengfu"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，赵孟頫（1254—1322）是宋太祖后代，后选择与元朝合作，受皇帝宠爱，“荣际五朝，名满四海”，官至翰林学士承旨。",
+        "风格特征": "摘要没有给出这方面内容，本条目不补写。",
+        "代表人物与作品": "摘要称，画家管道昇是其妻，画家王蒙是其外孙。库内另有其作品条目。",
+        "技法或形式分析": "摘要没有给出画法与书风，本条目不补写。",
+        "与前后风格的关系和争论": "摘要称他是元代文人画、书法的领袖人物。他仕元一事在后世评价中常有争议，摘要未展开，本条目不补写。",
+        "一图": "示意图以赵孟頫为中心，标示宋室后裔、管道昇、王蒙三项。",
+        "待核实": "（1）本条目事实仅来自中文维基百科摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）书风画风未给出；（3）仕元的后世评价摘要未述。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='zhao-mengfu 示意图'><title>zhao-mengfu</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>宋室后裔</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>仕元</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>赵孟頫</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1254—1322</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>管道昇</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>妻</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>王蒙</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>外孙</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；书风画风未给出。"
+    },
+    {
+      "id": "xu-beihong",
+      "title": "徐悲鸿",
+      "kind": "人物",
+      "unit": "art-china-painting",
+      "era": "1895—1953",
+      "region": "江苏宜兴",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "中国现代画家、美术教育家，兼擅油画与水墨画。",
+      "when": "1895—1953",
+      "overview": "徐悲鸿是中国现代画家、美术教育家。",
+      "related": [
+        "qi-baishi",
+        "zhang-daqian"
+      ],
+      "sources": [
+        "enc-xu-beihong",
+        "wd-xu-beihong"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，徐悲鸿（1895—1953）原名徐寿康，江苏宜兴人。",
+        "风格特征": "摘要称，他兼擅油画及水墨画。",
+        "代表人物与作品": "摘要称，他与颜文梁、林风眠、刘海粟并称“四大校长”，学生有艾中信、吴作人等。摘要没有列举作品。",
+        "技法或形式分析": "摘要没有给出这方面内容，本条目不补写。",
+        "与前后风格的关系和争论": "摘要称他为“中国现代美术的奠基者”，这是评价性表述。",
+        "一图": "示意图以徐悲鸿为中心，标示油画、水墨画、四大校长三项。",
+        "待核实": "（1）本条目事实仅来自中文维基百科摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“奠基者”为评价性表述；（3）作品未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='xu-beihong 示意图'><title>xu-beihong</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>油画</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>兼擅</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>徐悲鸿</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1895—1953</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>水墨画</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>兼擅</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>四大校长</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>美术教育</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；作品未给出；评价未核验。"
+    },
+    {
+      "id": "qi-baishi",
+      "title": "齐白石",
+      "kind": "人物",
+      "unit": "art-china-painting",
+      "era": "1864—1957",
+      "region": "湖南湘潭",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "湖南湘潭国画画家，与张大千并称“南张北齐”。",
+      "when": "1864—1957",
+      "overview": "齐白石是中国国画画家。",
+      "related": [
+        "zhang-daqian",
+        "xu-beihong",
+        "xieyi"
+      ],
+      "sources": [
+        "enc-qi-baishi",
+        "wd-qi-baishi"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，齐白石（1864—1957）原名齐纯芝，湖南湘潭人。",
+        "风格特征": "摘要没有给出这方面内容，本条目不补写。",
+        "代表人物与作品": "摘要称，他与张大千并称“南张北齐”。摘要没有列举作品。",
+        "技法或形式分析": "摘要说明了名号：老师取名璜，别号寄萍老人、白石山人，后人常略去“山人”，故号“白石”。画法摘要未给出。",
+        "与前后风格的关系和争论": "摘要没有谈及相关争论。",
+        "一图": "示意图以齐白石为中心，标示湘潭、南张北齐、白石山人三项。",
+        "待核实": "（1）本条目事实仅来自中文维基百科摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）画风与作品摘要未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='qi-baishi 示意图'><title>qi-baishi</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>湘潭</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>出身</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>齐白石</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1864—1957</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>南张北齐</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>与张大千</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>白石山人</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>名号由来</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；画风与作品未给出。"
+    },
+    {
+      "id": "zhang-daqian",
+      "title": "张大千",
+      "kind": "人物",
+      "unit": "art-china-painting",
+      "era": "1899—1983",
+      "region": "四川内江",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "二十世纪中国画坛最具影响力的艺术家之一，晚年开创泼墨泼彩技法。",
+      "when": "1899—1983",
+      "overview": "张大千是20世纪中国画家。",
+      "related": [
+        "qi-baishi",
+        "dunhuang-art",
+        "xieyi",
+        "xu-beihong"
+      ],
+      "sources": [
+        "enc-zhang-daqian",
+        "wd-zhang-daqian"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，张大千（1899—1983）原名张正权，生于四川内江。",
+        "风格特征": "摘要称，他早年以精研古画、临摹几可乱真闻名；中年远赴敦煌临摹壁画，画风转趋雄浑；晚年开创泼墨泼彩技法。",
+        "代表人物与作品": "摘要称，其艺术造诣广涉诗、书、画、鉴。摘要没有列举作品。",
+        "技法或形式分析": "摘要给出的技法信息即晚年的泼墨泼彩。",
+        "与前后风格的关系和争论": "摘要称他为“二十世纪中国画坛最具影响力的艺术家之一”，将水墨画推向新境界，这是评价性表述；“临摹几可乱真”在后世也与仿古画真伪问题相关，摘要未展开。",
+        "一图": "示意图以张大千为中心，标示临摹古画、敦煌壁画、泼墨泼彩三项。",
+        "待核实": "（1）本条目事实仅来自中文维基百科摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）评价性表述未核验；（3）作品未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='zhang-daqian 示意图'><title>zhang-daqian</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>临摹古画</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>早年</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>张大千</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1899—1983</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>敦煌壁画</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>中年临摹</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>泼墨泼彩</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>晚年开创</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；作品未给出；评价未核验。"
+    },
+    {
+      "id": "shan-shui",
+      "title": "山水画（Shan shui）",
+      "kind": "风格",
+      "unit": "art-china-painting",
+      "era": "约公元6世纪末（隋）起",
+      "region": "中国",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "中国画的重要分支，隋朝开始出现，强调“平远”“高远”“深远”。",
+      "when": "约公元6世纪末（隋）起",
+      "overview": "山水画是中国画的一个重要分支。",
+      "related": [
+        "guo-xi",
+        "song-painting",
+        "ni-zan",
+        "xieyi"
+      ],
+      "sources": [
+        "enc-shan-shui",
+        "wd-shan-shui"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，从隋朝就开始出现山水画。",
+        "风格特征": "摘要称，山水画强调“平远”“高远”“深远”，更甚者则以“阔远”，运用散点透视法。",
+        "代表人物与作品": "摘要没有列举画家与作品。库内郭熙条目据英文摘要称他的多重视角也称“散点透视”。",
+        "技法或形式分析": "摘要的比喻：平远如“漫步在山阴道上”，边走边看，焦点不断变换，可画长卷；高远如从山顶缓慢下降，从山顶画到山脚，可画立轴；深远则以远近山形的深淡对比画出立体与山谷深邃。这些比喻是摘要的说法。",
+        "与前后风格的关系和争论": "“三远”一般归于郭熙《林泉高致》，但摘要没有说明出处，本条目不据此断言。",
+        "一图": "示意图以山水画为中心，标示平远、高远、深远三项。",
+        "待核实": "（1）本条目事实仅来自中文维基百科摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“三远”出处摘要未给出；（3）比喻性解释是摘要作者的说法；（4）摘要所说“散点透视”是常用的现代术语。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='shan-shui 示意图'><title>shan-shui</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>平远</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>长卷</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>山水画</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>中国画分支</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>高远</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>立轴</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>深远</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>深淡对比</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；“三远”出处未给出；比喻为摘要说法。"
+    },
+    {
+      "id": "wang-xizhi",
+      "title": "王羲之",
+      "kind": "人物",
+      "unit": "art-china-calligraphy",
+      "era": "303—361",
+      "region": "琅邪临沂",
+      "medium": "书法",
+      "tier": "核心",
+      "def": "东晋书法家，人称“书圣”，与锺繇合称“锺王”。",
+      "when": "303—361",
+      "overview": "王羲之是东晋书法家。",
+      "related": [
+        "china-calligraphy-history",
+        "yan-zhenqing"
+      ],
+      "sources": [
+        "enc-wang-xizhi",
+        "wd-wang-xizhi"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，王羲之（303—361）是琅邪临沂人，淮南太守王旷之子、王导之侄，官拜右军将军，人称王右军。",
+        "风格特征": "摘要没有给出这方面内容，本条目不补写。",
+        "代表人物与作品": "摘要称，他人称“书圣”，与锺繇合称“锺王”。摘要没有列举作品。",
+        "技法或形式分析": "摘要称，其书法师承卫夫人，卫夫人则师承锺繇。书风摘要未给出。",
+        "与前后风格的关系和争论": "摘要没有谈及存世作品多为摹本等问题，本条目不补写。",
+        "一图": "示意图以王羲之为中心，标示卫夫人、锺繇、书圣三项。",
+        "待核实": "（1）本条目事实仅来自中文维基百科摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）作品与书风未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='wang-xizhi 示意图'><title>wang-xizhi</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>卫夫人</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>师承</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>王羲之</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>303—361</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>锺繇</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>合称锺王</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>书圣</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>尊称</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；作品与书风未给出。"
+    },
+    {
+      "id": "yan-zhenqing",
+      "title": "颜真卿",
+      "kind": "人物",
+      "unit": "art-china-calligraphy",
+      "era": "709—785",
+      "region": "长安",
+      "medium": "书法",
+      "tier": "核心",
+      "def": "唐朝政治家、书法家，其楷书影响深远。",
+      "when": "709—785",
+      "overview": "颜真卿是唐朝政治家、书法家。",
+      "related": [
+        "wang-xizhi",
+        "china-calligraphy-history",
+        "su-shi"
+      ],
+      "sources": [
+        "enc-yan-zhenqing",
+        "wd-yan-zhenqing"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，颜真卿（709—785）是京兆府长安县人，祖籍琅邪临沂。",
+        "风格特征": "摘要没有给出这方面内容，本条目不补写。",
+        "代表人物与作品": "摘要称，其楷书与欧阳询、虞世南、褚遂良、薛曜、薛稷、柳公权在当朝和后世都有极为深远的影响。摘要没有列举作品。",
+        "技法或形式分析": "摘要只说“楷书”，没有描述书风，本条目不补写。",
+        "与前后风格的关系和争论": "摘要没有谈及相关争论。",
+        "一图": "示意图以颜真卿为中心，标示唐朝、楷书、唐代书家三项。",
+        "待核实": "（1）本条目事实仅来自中文维基百科摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）书风与作品未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='yan-zhenqing 示意图'><title>yan-zhenqing</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>唐朝</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>政治家</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>颜真卿</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>709—785</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>楷书</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>影响深远</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>唐代书家</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>欧·虞·褚·柳</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；书风与作品未给出。"
+    },
+    {
+      "id": "su-shi",
+      "title": "苏轼",
+      "kind": "人物",
+      "unit": "art-china-calligraphy",
+      "era": "1037—1101",
+      "region": "眉州眉山",
+      "medium": "书法",
+      "tier": "核心",
+      "def": "北宋文学家、政治家、艺术家，号东坡居士。",
+      "when": "1037—1101",
+      "overview": "苏轼是北宋文学家、政治家、艺术家。",
+      "related": [
+        "huang-tingjian",
+        "song-painting",
+        "yan-zhenqing",
+        "zhao-ji"
+      ],
+      "sources": [
+        "enc-su-shi",
+        "wd-su-shi"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，苏轼（1037—1101）是眉州眉山人，嘉祐二年进士，累官至端明殿学士兼翰林学士、礼部郎中等；南宋时加谥文忠，追赠太师。",
+        "风格特征": "摘要没有给出这方面内容，本条目不补写。",
+        "代表人物与作品": "摘要称，有《东坡先生大全集》与《东坡乐府》词集传世。书画作品摘要未列。",
+        "技法或形式分析": "摘要没有给出书法或绘画的风格与技法。本条目挂在书法单元，是因他通常列为“宋四家”，但这点摘要没有写，属本项目的归类。",
+        "与前后风格的关系和争论": "黄庭坚条目的摘要称黄庭坚等曾习艺于苏轼，并称苏门四学士，那是另一条目的内容。",
+        "一图": "示意图以苏轼为中心，标示北宋、文集、苏门四学士三项。",
+        "待核实": "（1）本条目事实仅来自中文维基百科摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）书画方面摘要未涉及，单元归属为本项目判断；（3）摘要原文“嘉佑”应作“嘉祐”，本条目已改用通行写法。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='su-shi 示意图'><title>su-shi</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>北宋</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>文学家·政治家</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>苏轼</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1037—1101</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>文集</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>东坡乐府等</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>苏门四学士</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>黄庭坚等</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；书画方面摘要未涉及；单元归属为本项目判断。"
+    },
+    {
+      "id": "huang-tingjian",
+      "title": "黄庭坚",
+      "kind": "人物",
+      "unit": "art-china-calligraphy",
+      "era": "1045—1105",
+      "region": "洪州分宁",
+      "medium": "书法",
+      "tier": "重要",
+      "def": "北宋诗人、书法家，江西诗派祖师，“宋四家”之一。",
+      "when": "1045—1105",
+      "overview": "黄庭坚是北宋诗人、书法家。",
+      "related": [
+        "su-shi",
+        "china-calligraphy-history"
+      ],
+      "sources": [
+        "enc-huang-tingjian",
+        "wd-huang-tingjian"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，黄庭坚（1045—1105）号山谷道人，洪州分宁人；一生陷入新旧党争，被新党诬害、流放，官至知州。",
+        "风格特征": "摘要没有给出这方面内容，本条目不补写。",
+        "代表人物与作品": "摘要称，他是江西诗派祖师，书法为宋四家之一；与张耒、晁补之、秦观都曾习艺于苏轼，并称苏门四学士。摘要没有列举书作。",
+        "技法或形式分析": "摘要说其书法“亦能树格”，没有描述书风，本条目不补写。",
+        "与前后风格的关系和争论": "摘要称他笃信佛教、亦慕道教，为二十四孝之一。“被新党诬害”是摘要的立场性表述，本条目照录。",
+        "一图": "示意图以黄庭坚为中心，标示苏轼、宋四家、江西诗派三项。",
+        "待核实": "（1）本条目事实仅来自中文维基百科摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）书风与书作未给出；（3）“诬害”为摘要措辞。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='huang-tingjian 示意图'><title>huang-tingjian</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>苏轼</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>习艺于其门</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>黄庭坚</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1045—1105</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>宋四家</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>书法</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>江西诗派</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>祖师</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；书风与书作未给出。"
+    },
+    {
+      "id": "zhao-ji",
+      "title": "宋徽宗（赵佶）",
+      "kind": "人物",
+      "unit": "art-china-calligraphy",
+      "era": "1082—1135",
+      "region": "北宋",
+      "medium": "书法",
+      "tier": "核心",
+      "def": "宋朝皇帝，自创“瘦金书”字体，擅绘画与古琴等。",
+      "when": "1082—1135",
+      "overview": "宋徽宗赵佶是宋朝皇帝，书画家。",
+      "related": [
+        "song-painting",
+        "su-shi",
+        "guqin-instrument"
+      ],
+      "sources": [
+        "enc-zhao-ji",
+        "wd-zhao-ji"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，赵佶（1082—1135）于1100至1126年在位，自称教主道君皇帝。",
+        "风格特征": "摘要称，他自创“瘦金书”字体。书风摘要未描述。",
+        "代表人物与作品": "摘要没有列举书画作品，本条目不补写。",
+        "技法或形式分析": "摘要称，他对瓷器、茶学、音律、金石学有所研究，并擅长古琴、蹴鞠、击鞠、打猎、射箭、马术、绘画等。",
+        "与前后风格的关系和争论": "摘要没有谈及他与北宋灭亡的关系及相关评价，本条目不补写。",
+        "一图": "示意图以宋徽宗为中心，标示北宋皇帝、瘦金书、多艺三项。",
+        "待核实": "（1）本条目事实仅来自中文维基百科摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）书画作品与画院作用未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='zhao-ji 示意图'><title>zhao-ji</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>北宋皇帝</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1100—1126在位</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>宋徽宗</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1082—1135</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>瘦金书</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>自创</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>多艺</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>古琴·绘画等</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；书画作品未给出。"
     }
   ]
 }

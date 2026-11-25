@@ -1,0 +1,20 @@
+{
+  "id": "su-shi",
+  "level": "L2",
+  "sections": {
+    "时代背景": "摘要称，苏轼（1037—1101）是眉州眉山人，嘉祐二年进士，累官至端明殿学士兼翰林学士、礼部郎中等；南宋时加谥文忠，追赠太师。",
+    "风格特征": "摘要没有给出这方面内容，本条目不补写。",
+    "代表人物与作品": "摘要称，有《东坡先生大全集》与《东坡乐府》词集传世。书画作品摘要未列。",
+    "技法或形式分析": "摘要没有给出书法或绘画的风格与技法。本条目挂在书法单元，是因他通常列为“宋四家”，但这点摘要没有写，属本项目的归类。",
+    "与前后风格的关系和争论": "黄庭坚条目的摘要称黄庭坚等曾习艺于苏轼，并称苏门四学士，那是另一条目的内容。",
+    "一图": "示意图以苏轼为中心，标示北宋、文集、苏门四学士三项。",
+    "待核实": "（1）本条目事实仅来自中文维基百科摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）书画方面摘要未涉及，单元归属为本项目判断；（3）摘要原文“嘉佑”应作“嘉祐”，本条目已改用通行写法。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='su-shi 示意图'><title>su-shi</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>北宋</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>文学家·政治家</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>苏轼</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1037—1101</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>文集</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>东坡乐府等</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>苏门四学士</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>黄庭坚等</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+  "sources": [
+    "enc-su-shi",
+    "wd-su-shi"
+  ],
+  "needs_verification": true,
+  "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；书画方面摘要未涉及；单元归属为本项目判断。"
+}

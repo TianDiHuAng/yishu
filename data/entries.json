@@ -1556,7 +1556,11 @@
         "china-painting-history",
         "lizong-wangwei-album",
         "cma-liu-songnian-qin",
-        "ru-ware"
+        "ru-ware",
+        "ma-yuan",
+        "shan-shui",
+        "su-shi",
+        "zhao-ji"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -1578,7 +1582,9 @@
       "related": [
         "song-painting",
         "ming-painting",
-        "zhao-mengfu-river-village"
+        "zhao-mengfu-river-village",
+        "ni-zan",
+        "zhao-mengfu"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -1602,7 +1608,10 @@
         "qing-painting",
         "chen-hongshou-album",
         "cma-wen-zhengming-qin",
-        "cma-tang-yin-qin"
+        "cma-tang-yin-qin",
+        "dong-qichang",
+        "wen-zhengming",
+        "tang-yin"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -1624,7 +1633,9 @@
       "related": [
         "ming-painting",
         "china-painting-history",
-        "canton-umbrella-mender"
+        "canton-umbrella-mender",
+        "bada-shanren",
+        "shitao"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -1646,7 +1657,11 @@
       "related": [
         "gongbi",
         "china-painting-history",
-        "guo-xi"
+        "guo-xi",
+        "bada-shanren",
+        "qi-baishi",
+        "zhang-daqian",
+        "shan-shui"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -1760,7 +1775,8 @@
       "overview": "敦煌壁画融合中原与西域风格，题材以佛传、本生故事为主，是研究中国佛教艺术与中西交流的重要遗存。",
       "related": [
         "six-dynasties-art",
-        "tang-painting"
+        "tang-painting",
+        "zhang-daqian"
       ],
       "sources": [
         "enc-dunhuang",
@@ -1812,7 +1828,10 @@
         "ten-bamboo-album",
         "zhu-yunming-autumn-retreat",
         "liang-qichao-couplet",
-        "islamic-calligraphy"
+        "islamic-calligraphy",
+        "wang-xizhi",
+        "yan-zhenqing",
+        "huang-tingjian"
       ],
       "sources": [
         "enc-chinese-calligraphy",
@@ -3993,7 +4012,8 @@
         "juran-buddhist-retreat",
         "du-jin-lin-bu",
         "dong-qichang-qingbian",
-        "lan-ying-pure-conversation"
+        "lan-ying-pure-conversation",
+        "zhao-mengfu"
       ],
       "sources": [
         "cma-1978-66"
@@ -5461,7 +5481,8 @@
         "cma-wen-zhengming-qin",
         "cma-tang-yin-qin",
         "cma-tang-qin-mirror",
-        "kano-four-accomplishments"
+        "kano-four-accomplishments",
+        "zhao-ji"
       ],
       "sources": [
         "cma-1918-371"
@@ -6466,7 +6487,8 @@
       "related": [
         "zhao-mengfu-river-village",
         "du-jin-lin-bu",
-        "chen-jiru-four-poems"
+        "chen-jiru-four-poems",
+        "dong-qichang"
       ],
       "sources": [
         "cma-1980-10"
@@ -6506,7 +6528,8 @@
       "overview": "图写司马光1073年退居洛阳所筑独乐园；七处建筑各关联一位历史人物；后成苏州作坊摹本范式。",
       "related": [
         "chen-hongshou-album",
-        "du-jin-lin-bu"
+        "du-jin-lin-bu",
+        "wen-zhengming"
       ],
       "sources": [
         "cma-1978-67"
@@ -12030,7 +12053,8 @@
       "related": [
         "running-script",
         "regular-script",
-        "cma-wen-zhengming-qin"
+        "cma-wen-zhengming-qin",
+        "wen-zhengming"
       ],
       "sources": [
         "cma-1998-169"
@@ -12973,7 +12997,8 @@
       "overview": "绢本立轴墨与淡彩，画心35.8×29.1厘米；该馆称画意暗指嵇康（223—262）的一则传说：嵇康是三世纪一群特立独行的知识分子中的古琴家，所作《广陵散》幽怨得能唤来鬼魂；画中描绘一个扮成人形的鬼魂被另一鬼魂扶助从地下出来，其他鬼魂被月下茅屋中的琴师吸引。",
       "related": [
         "guqin-instrument",
-        "ming-painting"
+        "ming-painting",
+        "tang-yin"
       ],
       "sources": [
         "cma-1977-199"
@@ -15086,7 +15111,9 @@
       "when": "北宋",
       "overview": "郭熙是北宋时期河南的中国山水画家。",
       "related": [
-        "xieyi"
+        "xieyi",
+        "ma-yuan",
+        "shan-shui"
       ],
       "sources": [
         "enc-guo-xi",
@@ -16572,6 +16599,380 @@
       ],
       "sources": [
         "cma-1957-40"
+      ]
+    },
+    {
+      "id": "bada-shanren",
+      "title": "八大山人",
+      "kind": "人物",
+      "unit": "art-china-painting",
+      "era": "1626—1705",
+      "region": "江西南昌",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "明朝宗室出身的书画家，与石涛、髡残、弘仁并称清初“四僧”。",
+      "when": "1626—1705",
+      "overview": "八大山人是明末清初的书画家，明朝宗室。",
+      "related": [
+        "shitao",
+        "qing-painting",
+        "xieyi"
+      ],
+      "sources": [
+        "enc-bada-shanren",
+        "wd-bada-shanren"
+      ]
+    },
+    {
+      "id": "shitao",
+      "title": "石涛",
+      "kind": "人物",
+      "unit": "art-china-painting",
+      "era": "1642—1707",
+      "region": "广西桂林",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "清初画家，与弘仁、髡残、朱耷合称“清初四僧”。",
+      "when": "1642—1707",
+      "overview": "石涛是清初画家。",
+      "related": [
+        "bada-shanren",
+        "qing-painting"
+      ],
+      "sources": [
+        "enc-shitao",
+        "wd-shitao"
+      ]
+    },
+    {
+      "id": "ma-yuan",
+      "title": "马远",
+      "kind": "人物",
+      "unit": "art-china-painting",
+      "era": "1160—1225",
+      "region": "钱塘（杭州）",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "南宋画家，出身数代画院待诏之家。",
+      "when": "1160—1225",
+      "overview": "马远是南宋画家。",
+      "related": [
+        "song-painting",
+        "guo-xi"
+      ],
+      "sources": [
+        "enc-ma-yuan",
+        "wd-ma-yuan"
+      ]
+    },
+    {
+      "id": "ni-zan",
+      "title": "倪瓒",
+      "kind": "人物",
+      "unit": "art-china-painting",
+      "era": "1301—1374",
+      "region": "无锡",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "元代诗人、画家、书法家，“元四家”之一，元代南宗山水画代表。",
+      "when": "1301—1374",
+      "overview": "倪瓒是元代诗人、画家、书法家。",
+      "related": [
+        "yuan-painting",
+        "zhao-mengfu",
+        "shan-shui"
+      ],
+      "sources": [
+        "enc-ni-zan",
+        "wd-ni-zan"
+      ]
+    },
+    {
+      "id": "dong-qichang",
+      "title": "董其昌",
+      "kind": "人物",
+      "unit": "art-china-painting",
+      "era": "1555—1636",
+      "region": "华亭（上海松江）",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "明代政治人物、书画家，官至南京礼部尚书，与邢侗、张瑞图、米万锺合称晚明四家。",
+      "when": "1555—1636",
+      "overview": "董其昌是明代书画家。",
+      "related": [
+        "dong-qichang-qingbian",
+        "ming-painting",
+        "wen-zhengming"
+      ],
+      "sources": [
+        "enc-dong-qichang",
+        "wd-dong-qichang"
+      ]
+    },
+    {
+      "id": "wen-zhengming",
+      "title": "文徵明",
+      "kind": "人物",
+      "unit": "art-china-painting",
+      "era": "1470—1559",
+      "region": "苏州长洲",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "明代画家，“明四家”之一，继沈周之后为吴派领袖。",
+      "when": "1470—1559",
+      "overview": "文徵明是明代画家。",
+      "related": [
+        "wen-zhengming-silk-poem",
+        "tang-yin",
+        "ming-painting",
+        "qiu-ying-garden",
+        "dong-qichang"
+      ],
+      "sources": [
+        "enc-wen-zhengming",
+        "wd-wen-zhengming"
+      ]
+    },
+    {
+      "id": "tang-yin",
+      "title": "唐寅",
+      "kind": "人物",
+      "unit": "art-china-painting",
+      "era": "1470—1524",
+      "region": "苏州吴县",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "明代画家、文学家，“明四家”与“吴中四才子”之一。",
+      "when": "1470—1524",
+      "overview": "唐寅是明代画家、文学家。",
+      "related": [
+        "wen-zhengming",
+        "cma-tang-yin-qin",
+        "ming-painting"
+      ],
+      "sources": [
+        "enc-tang-yin",
+        "wd-tang-yin"
+      ]
+    },
+    {
+      "id": "zhao-mengfu",
+      "title": "赵孟頫",
+      "kind": "人物",
+      "unit": "art-china-painting",
+      "era": "1254—1322",
+      "region": "湖州",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "南宋与元朝官员、书画家，元代文人画与书法的领袖人物。",
+      "when": "1254—1322",
+      "overview": "赵孟頫是宋末元初的书画家。",
+      "related": [
+        "zhao-mengfu-river-village",
+        "yuan-painting",
+        "ni-zan"
+      ],
+      "sources": [
+        "enc-zhao-mengfu",
+        "wd-zhao-mengfu"
+      ]
+    },
+    {
+      "id": "xu-beihong",
+      "title": "徐悲鸿",
+      "kind": "人物",
+      "unit": "art-china-painting",
+      "era": "1895—1953",
+      "region": "江苏宜兴",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "中国现代画家、美术教育家，兼擅油画与水墨画。",
+      "when": "1895—1953",
+      "overview": "徐悲鸿是中国现代画家、美术教育家。",
+      "related": [
+        "qi-baishi",
+        "zhang-daqian"
+      ],
+      "sources": [
+        "enc-xu-beihong",
+        "wd-xu-beihong"
+      ]
+    },
+    {
+      "id": "qi-baishi",
+      "title": "齐白石",
+      "kind": "人物",
+      "unit": "art-china-painting",
+      "era": "1864—1957",
+      "region": "湖南湘潭",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "湖南湘潭国画画家，与张大千并称“南张北齐”。",
+      "when": "1864—1957",
+      "overview": "齐白石是中国国画画家。",
+      "related": [
+        "zhang-daqian",
+        "xu-beihong",
+        "xieyi"
+      ],
+      "sources": [
+        "enc-qi-baishi",
+        "wd-qi-baishi"
+      ]
+    },
+    {
+      "id": "zhang-daqian",
+      "title": "张大千",
+      "kind": "人物",
+      "unit": "art-china-painting",
+      "era": "1899—1983",
+      "region": "四川内江",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "二十世纪中国画坛最具影响力的艺术家之一，晚年开创泼墨泼彩技法。",
+      "when": "1899—1983",
+      "overview": "张大千是20世纪中国画家。",
+      "related": [
+        "qi-baishi",
+        "dunhuang-art",
+        "xieyi",
+        "xu-beihong"
+      ],
+      "sources": [
+        "enc-zhang-daqian",
+        "wd-zhang-daqian"
+      ]
+    },
+    {
+      "id": "shan-shui",
+      "title": "山水画（Shan shui）",
+      "kind": "风格",
+      "unit": "art-china-painting",
+      "era": "约公元6世纪末（隋）起",
+      "region": "中国",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "中国画的重要分支，隋朝开始出现，强调“平远”“高远”“深远”。",
+      "when": "约公元6世纪末（隋）起",
+      "overview": "山水画是中国画的一个重要分支。",
+      "related": [
+        "guo-xi",
+        "song-painting",
+        "ni-zan",
+        "xieyi"
+      ],
+      "sources": [
+        "enc-shan-shui",
+        "wd-shan-shui"
+      ]
+    },
+    {
+      "id": "wang-xizhi",
+      "title": "王羲之",
+      "kind": "人物",
+      "unit": "art-china-calligraphy",
+      "era": "303—361",
+      "region": "琅邪临沂",
+      "medium": "书法",
+      "tier": "核心",
+      "def": "东晋书法家，人称“书圣”，与锺繇合称“锺王”。",
+      "when": "303—361",
+      "overview": "王羲之是东晋书法家。",
+      "related": [
+        "china-calligraphy-history",
+        "yan-zhenqing"
+      ],
+      "sources": [
+        "enc-wang-xizhi",
+        "wd-wang-xizhi"
+      ]
+    },
+    {
+      "id": "yan-zhenqing",
+      "title": "颜真卿",
+      "kind": "人物",
+      "unit": "art-china-calligraphy",
+      "era": "709—785",
+      "region": "长安",
+      "medium": "书法",
+      "tier": "核心",
+      "def": "唐朝政治家、书法家，其楷书影响深远。",
+      "when": "709—785",
+      "overview": "颜真卿是唐朝政治家、书法家。",
+      "related": [
+        "wang-xizhi",
+        "china-calligraphy-history",
+        "su-shi"
+      ],
+      "sources": [
+        "enc-yan-zhenqing",
+        "wd-yan-zhenqing"
+      ]
+    },
+    {
+      "id": "su-shi",
+      "title": "苏轼",
+      "kind": "人物",
+      "unit": "art-china-calligraphy",
+      "era": "1037—1101",
+      "region": "眉州眉山",
+      "medium": "书法",
+      "tier": "核心",
+      "def": "北宋文学家、政治家、艺术家，号东坡居士。",
+      "when": "1037—1101",
+      "overview": "苏轼是北宋文学家、政治家、艺术家。",
+      "related": [
+        "huang-tingjian",
+        "song-painting",
+        "yan-zhenqing",
+        "zhao-ji"
+      ],
+      "sources": [
+        "enc-su-shi",
+        "wd-su-shi"
+      ]
+    },
+    {
+      "id": "huang-tingjian",
+      "title": "黄庭坚",
+      "kind": "人物",
+      "unit": "art-china-calligraphy",
+      "era": "1045—1105",
+      "region": "洪州分宁",
+      "medium": "书法",
+      "tier": "重要",
+      "def": "北宋诗人、书法家，江西诗派祖师，“宋四家”之一。",
+      "when": "1045—1105",
+      "overview": "黄庭坚是北宋诗人、书法家。",
+      "related": [
+        "su-shi",
+        "china-calligraphy-history"
+      ],
+      "sources": [
+        "enc-huang-tingjian",
+        "wd-huang-tingjian"
+      ]
+    },
+    {
+      "id": "zhao-ji",
+      "title": "宋徽宗（赵佶）",
+      "kind": "人物",
+      "unit": "art-china-calligraphy",
+      "era": "1082—1135",
+      "region": "北宋",
+      "medium": "书法",
+      "tier": "核心",
+      "def": "宋朝皇帝，自创“瘦金书”字体，擅绘画与古琴等。",
+      "when": "1082—1135",
+      "overview": "宋徽宗赵佶是宋朝皇帝，书画家。",
+      "related": [
+        "song-painting",
+        "su-shi",
+        "guqin-instrument"
+      ],
+      "sources": [
+        "enc-zhao-ji",
+        "wd-zhao-ji"
       ]
     }
   ]

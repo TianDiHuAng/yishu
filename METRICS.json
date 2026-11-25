@@ -4710,6 +4710,24 @@
       "check_result": "errors=0",
       "check_links_result": "broken=0(784页)",
       "commits": 1
+    },
+    {
+      "cycle": "cycle207",
+      "date": "2026-11-25",
+      "status": "completed",
+      "gap_methods": [
+        "中文维基补中国画家书法家17条"
+      ],
+      "new_entries": 17,
+      "reviews": 32,
+      "fixes": 0,
+      "new_sources": 34,
+      "sources_total": 1168,
+      "entries_total": 764,
+      "pages": 801,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(801页)",
+      "commits": 1
     }
   ]
 }

@@ -11339,6 +11339,346 @@
       "type": "博物馆藏品记录",
       "verified": true,
       "verified_note": "2026-11-25 经克利夫兰艺术博物馆开放接口（openaccess-api.clevelandart.org）取回该藏品记录，馆藏号、题名、年代、技法、尺寸与策展说明匹配；记录缓存于 tmp/cma_c206_full.json"
+    },
+    {
+      "id": "enc-bada-shanren",
+      "title": "中文维基百科：八大山人",
+      "author": "维基百科编者",
+      "year": "2026",
+      "url": "https://zh.wikipedia.org/wiki/%E5%85%AB%E5%A4%A7%E5%B1%B1%E4%BA%BA",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经中文维基百科 REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp/zh_*.json"
+    },
+    {
+      "id": "wd-bada-shanren",
+      "title": "Wikidata: 八大山人 (Q198097)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q198097",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-shitao",
+      "title": "中文维基百科：石涛",
+      "author": "维基百科编者",
+      "year": "2026",
+      "url": "https://zh.wikipedia.org/wiki/%E7%9F%B3%E6%B6%9B",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经中文维基百科 REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp/zh_*.json"
+    },
+    {
+      "id": "wd-shitao",
+      "title": "Wikidata: 石涛 (Q469439)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q469439",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-ma-yuan",
+      "title": "中文维基百科：马远",
+      "author": "维基百科编者",
+      "year": "2026",
+      "url": "https://zh.wikipedia.org/wiki/%E9%A9%AC%E8%BF%9C",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经中文维基百科 REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp/zh_*.json"
+    },
+    {
+      "id": "wd-ma-yuan",
+      "title": "Wikidata: 马远 (Q433603)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q433603",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-ni-zan",
+      "title": "中文维基百科：倪瓒",
+      "author": "维基百科编者",
+      "year": "2026",
+      "url": "https://zh.wikipedia.org/wiki/%E5%80%AA%E7%93%92",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经中文维基百科 REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp/zh_*.json"
+    },
+    {
+      "id": "wd-ni-zan",
+      "title": "Wikidata: 倪瓒 (Q731030)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q731030",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-dong-qichang",
+      "title": "中文维基百科：董其昌",
+      "author": "维基百科编者",
+      "year": "2026",
+      "url": "https://zh.wikipedia.org/wiki/%E8%91%A3%E5%85%B6%E6%98%8C",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经中文维基百科 REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp/zh_*.json"
+    },
+    {
+      "id": "wd-dong-qichang",
+      "title": "Wikidata: 董其昌 (Q537211)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q537211",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-wen-zhengming",
+      "title": "中文维基百科：文徵明",
+      "author": "维基百科编者",
+      "year": "2026",
+      "url": "https://zh.wikipedia.org/wiki/%E6%96%87%E5%BE%B5%E6%98%8E",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经中文维基百科 REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp/zh_*.json"
+    },
+    {
+      "id": "wd-wen-zhengming",
+      "title": "Wikidata: 文徵明 (Q306673)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q306673",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-tang-yin",
+      "title": "中文维基百科：唐寅",
+      "author": "维基百科编者",
+      "year": "2026",
+      "url": "https://zh.wikipedia.org/wiki/%E5%94%90%E5%AF%85",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经中文维基百科 REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp/zh_*.json"
+    },
+    {
+      "id": "wd-tang-yin",
+      "title": "Wikidata: 唐寅 (Q2248916)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q2248916",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-zhao-mengfu",
+      "title": "中文维基百科：赵孟頫",
+      "author": "维基百科编者",
+      "year": "2026",
+      "url": "https://zh.wikipedia.org/wiki/%E8%B5%B5%E5%AD%9F%E9%A0%AB",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经中文维基百科 REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp/zh_*.json"
+    },
+    {
+      "id": "wd-zhao-mengfu",
+      "title": "Wikidata: 赵孟頫 (Q197461)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q197461",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-xu-beihong",
+      "title": "中文维基百科：徐悲鸿",
+      "author": "维基百科编者",
+      "year": "2026",
+      "url": "https://zh.wikipedia.org/wiki/%E5%BE%90%E6%82%B2%E9%B8%BF",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经中文维基百科 REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp/zh_*.json"
+    },
+    {
+      "id": "wd-xu-beihong",
+      "title": "Wikidata: 徐悲鸿 (Q714152)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q714152",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-qi-baishi",
+      "title": "中文维基百科：齐白石",
+      "author": "维基百科编者",
+      "year": "2026",
+      "url": "https://zh.wikipedia.org/wiki/%E9%BD%90%E7%99%BD%E7%9F%B3",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经中文维基百科 REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp/zh_*.json"
+    },
+    {
+      "id": "wd-qi-baishi",
+      "title": "Wikidata: 齐白石 (Q369608)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q369608",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-zhang-daqian",
+      "title": "中文维基百科：张大千",
+      "author": "维基百科编者",
+      "year": "2026",
+      "url": "https://zh.wikipedia.org/wiki/%E5%BC%A0%E5%A4%A7%E5%8D%83",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经中文维基百科 REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp/zh_*.json"
+    },
+    {
+      "id": "wd-zhang-daqian",
+      "title": "Wikidata: 张大千 (Q163298)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q163298",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-shan-shui",
+      "title": "中文维基百科：山水画",
+      "author": "维基百科编者",
+      "year": "2026",
+      "url": "https://zh.wikipedia.org/wiki/%E5%B1%B1%E6%B0%B4%E7%94%BB",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经中文维基百科 REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp/zh_*.json"
+    },
+    {
+      "id": "wd-shan-shui",
+      "title": "Wikidata: 山水画 (Q516583)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q516583",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-wang-xizhi",
+      "title": "中文维基百科：王羲之",
+      "author": "维基百科编者",
+      "year": "2026",
+      "url": "https://zh.wikipedia.org/wiki/%E7%8E%8B%E7%BE%B2%E4%B9%8B",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经中文维基百科 REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp/zh_*.json"
+    },
+    {
+      "id": "wd-wang-xizhi",
+      "title": "Wikidata: 王羲之 (Q378564)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q378564",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-yan-zhenqing",
+      "title": "中文维基百科：颜真卿",
+      "author": "维基百科编者",
+      "year": "2026",
+      "url": "https://zh.wikipedia.org/wiki/%E9%A2%9C%E7%9C%9F%E5%8D%BF",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经中文维基百科 REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp/zh_*.json"
+    },
+    {
+      "id": "wd-yan-zhenqing",
+      "title": "Wikidata: 颜真卿 (Q758566)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q758566",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-su-shi",
+      "title": "中文维基百科：苏轼",
+      "author": "维基百科编者",
+      "year": "2026",
+      "url": "https://zh.wikipedia.org/wiki/%E8%8B%8F%E8%BD%BC",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经中文维基百科 REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp/zh_*.json"
+    },
+    {
+      "id": "wd-su-shi",
+      "title": "Wikidata: 苏轼 (Q36020)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q36020",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-huang-tingjian",
+      "title": "中文维基百科：黄庭坚",
+      "author": "维基百科编者",
+      "year": "2026",
+      "url": "https://zh.wikipedia.org/wiki/%E9%BB%84%E5%BA%AD%E5%9D%9A",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经中文维基百科 REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp/zh_*.json"
+    },
+    {
+      "id": "wd-huang-tingjian",
+      "title": "Wikidata: 黄庭坚 (Q709460)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q709460",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-zhao-ji",
+      "title": "中文维基百科：宋徽宗",
+      "author": "维基百科编者",
+      "year": "2026",
+      "url": "https://zh.wikipedia.org/wiki/%E5%AE%8B%E5%BE%BD%E5%AE%97",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经中文维基百科 REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp/zh_*.json"
+    },
+    {
+      "id": "wd-zhao-ji",
+      "title": "Wikidata: 宋徽宗 (Q7486)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q7486",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
     }
   ]
 }
