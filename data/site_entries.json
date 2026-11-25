@@ -3659,7 +3659,10 @@
         "hildegard",
         "guido-of-arezzo",
         "mensural-notation",
-        "monophony"
+        "monophony",
+        "hymn",
+        "antiphon",
+        "melisma"
       ],
       "sources": [
         "enc-gregorian-chant",
@@ -3734,7 +3737,9 @@
         "leonin",
         "ars-antiqua",
         "perotin",
-        "conductus"
+        "conductus",
+        "melisma",
+        "drone"
       ],
       "sources": [
         "enc-polyphony",
@@ -3780,7 +3785,10 @@
         "mensural-notation",
         "venetian-polychoral",
         "homophony",
-        "monophony"
+        "monophony",
+        "syncopation",
+        "texture-music",
+        "a-cappella"
       ],
       "sources": [
         "enc-polyphony",
@@ -3833,7 +3841,8 @@
         "chanson",
         "viol",
         "lauda",
-        "venetian-polychoral"
+        "venetian-polychoral",
+        "a-cappella"
       ],
       "sources": [
         "enc-renaissance-music",
@@ -3904,7 +3913,8 @@
         "baroque-music",
         "josquin",
         "lassus",
-        "victoria"
+        "victoria",
+        "a-cappella"
       ],
       "sources": [
         "enc-renaissance-music",
@@ -3968,7 +3978,9 @@
         "empfindsamer-stil",
         "basso-continuo",
         "recitative",
-        "venetian-polychoral"
+        "venetian-polychoral",
+        "sequence-music",
+        "jig"
       ],
       "sources": [
         "enc-baroque-music",
@@ -4113,7 +4125,9 @@
         "baroque-music",
         "classical-period-music",
         "musical-mode",
-        "homophony"
+        "homophony",
+        "chromaticism",
+        "dissonance"
       ],
       "sources": [
         "enc-tonality",
@@ -4225,7 +4239,9 @@
         "suite-music",
         "handel",
         "cantata",
-        "basso-continuo"
+        "basso-continuo",
+        "ternary-form",
+        "jig"
       ],
       "sources": [
         "enc-bach",
@@ -4323,7 +4339,8 @@
         "singspiel",
         "boccherini",
         "cadenza",
-        "chamber-music"
+        "chamber-music",
+        "sequence-music"
       ],
       "sources": [
         "enc-classical-period-music",
@@ -4367,7 +4384,8 @@
         "shostakovich",
         "mannheim-school",
         "stamitz",
-        "scherzo"
+        "scherzo",
+        "brass-instrument"
       ],
       "sources": [
         "enc-symphony",
@@ -4726,7 +4744,8 @@
         "schubert",
         "chopin",
         "brahms",
-        "art-song"
+        "art-song",
+        "strophic-form"
       ],
       "sources": [
         "enc-romantic-music",
@@ -4798,7 +4817,8 @@
         "romantic-music",
         "lied",
         "piano",
-        "liszt"
+        "liszt",
+        "ternary-form"
       ],
       "sources": [
         "enc-chopin",
@@ -4876,7 +4896,8 @@
         "fantin-latour-tannhauser",
         "grand-opera",
         "puccini",
-        "leitmotif"
+        "leitmotif",
+        "chromaticism"
       ],
       "sources": [
         "enc-wagner",
@@ -5916,7 +5937,8 @@
       "related": [
         "baroque-music",
         "symphony",
-        "erhu"
+        "erhu",
+        "pizzicato"
       ],
       "sources": [
         "enc-violin",
@@ -5951,7 +5973,8 @@
       "related": [
         "sonata",
         "chopin",
-        "rachmaninoff"
+        "rachmaninoff",
+        "keyboard-instrument"
       ],
       "sources": [
         "enc-piano",
@@ -21189,7 +21212,8 @@
       "overview": "羊皮纸墨、蛋彩与金，尺寸51×37.7厘米；署名圣多米尼克首席彩饰师；该馆称首字母M中的圣多米尼克像表明它曾属多明我会修道院的抄本；该工坊专为艾米利亚地区的富裕宗教机构制作大型抄本。",
       "related": [
         "gregorian-chant",
-        "medieval-music"
+        "medieval-music",
+        "antiphon"
       ],
       "sources": [
         "cma-1985-60"
@@ -22854,7 +22878,8 @@
         "ars-antiqua",
         "isorhythm",
         "franco-flemish-school",
-        "victoria"
+        "victoria",
+        "anthem"
       ],
       "sources": [
         "enc-motet",
@@ -22892,7 +22917,8 @@
         "motet",
         "medieval-music",
         "josquin",
-        "franco-flemish-school"
+        "franco-flemish-school",
+        "antiphon"
       ],
       "sources": [
         "enc-mass-music",
@@ -22935,7 +22961,8 @@
         "telemann",
         "suite-music",
         "handel",
-        "cadenza"
+        "cadenza",
+        "tutti"
       ],
       "sources": [
         "enc-concerto",
@@ -23599,7 +23626,8 @@
       "related": [
         "renaissance-music",
         "motet",
-        "byrd"
+        "byrd",
+        "anthem"
       ],
       "sources": [
         "enc-tallis",
@@ -23641,7 +23669,8 @@
         "motet",
         "purcell",
         "dunstaple",
-        "consort"
+        "consort",
+        "anthem"
       ],
       "sources": [
         "enc-byrd",
@@ -23721,7 +23750,8 @@
       "related": [
         "madrigal",
         "renaissance-music",
-        "monteverdi"
+        "monteverdi",
+        "chromaticism"
       ],
       "sources": [
         "enc-gesualdo",
@@ -24191,7 +24221,8 @@
         "bartok",
         "boccherini",
         "scherzo",
-        "chamber-music"
+        "chamber-music",
+        "pizzicato"
       ],
       "sources": [
         "enc-string-quartet",
@@ -26324,7 +26355,8 @@
         "kandinsky",
         "expressionism",
         "impressionism-music",
-        "expressionism-crossmedia"
+        "expressionism-crossmedia",
+        "dissonance"
       ],
       "sources": [
         "enc-expressionism-music",
@@ -26394,7 +26426,8 @@
       "related": [
         "schoenberg",
         "serialism",
-        "twelve-tone"
+        "twelve-tone",
+        "dissonance"
       ],
       "sources": [
         "enc-atonality",
@@ -28328,7 +28361,8 @@
         "vivaldi",
         "concerto",
         "basso-continuo",
-        "da-capo-aria"
+        "da-capo-aria",
+        "ternary-form"
       ],
       "sources": [
         "enc-handel",
@@ -29705,7 +29739,8 @@
         "haydn",
         "mozart",
         "beethoven",
-        "hummel"
+        "hummel",
+        "keyboard-instrument"
       ],
       "sources": [
         "enc-fortepiano",
@@ -29851,7 +29886,8 @@
         "minnesang",
         "medieval-music",
         "chanson",
-        "cantigas"
+        "cantigas",
+        "courtly-love"
       ],
       "sources": [
         "enc-trouvere",
@@ -29885,7 +29921,8 @@
       "overview": "恋诗歌是中古高地德语时期兴盛的德语抒情诗与歌曲写作传统。名称来自中古高地德语表示爱情的“minne”，因为爱情是其主要题材。创作和演唱者称恋诗歌手（Minnesänger），单首歌称 Minnelied。恋诗歌手可与奥克语游吟诗人、法国北方特鲁维尔相比，但被称为“德语对宫廷抒情诗的原创贡献”。",
       "related": [
         "trouvere",
-        "medieval-music"
+        "medieval-music",
+        "courtly-love"
       ],
       "sources": [
         "enc-minnesang",
@@ -30325,7 +30362,8 @@
         "trouvere",
         "machaut",
         "madrigal",
-        "renaissance-music"
+        "renaissance-music",
+        "courtly-love"
       ],
       "sources": [
         "enc-chanson",
@@ -30359,7 +30397,8 @@
       "overview": "维奥尔琴是一类弓奏、有品的弦乐器家族，15世纪末在西班牙（尤其阿拉贡王国的巴伦西亚）发展起来，随后传入意大利及欧洲其他地区。大多数维奥尔琴有六根弦，主要按四度定弦、中间一个三度，竖着演奏，琴放在腿上或夹在两腿间，因此意大利名 viola da gamba 意为“腿上维奥尔”。",
       "related": [
         "renaissance-music",
-        "consort"
+        "consort",
+        "pizzicato"
       ],
       "sources": [
         "enc-viol",
@@ -32760,7 +32799,8 @@
       "related": [
         "baroque-music",
         "bach",
-        "handel"
+        "handel",
+        "keyboard-instrument"
       ],
       "sources": [
         "enc-basso-continuo",
@@ -32831,7 +32871,8 @@
       "related": [
         "recitative",
         "opera-seria",
-        "handel"
+        "handel",
+        "ternary-form"
       ],
       "sources": [
         "enc-da-capo-aria",
@@ -32865,7 +32906,8 @@
       "overview": "华彩段泛指由独奏（唱）者演奏或演唱的即兴或写定的装饰性段落，节奏通常“自由”，常可炫技。其间伴奏休止或持续一个音或和弦，因此即兴华彩段在乐谱上以各声部的延长记号标示。华彩段通常出现在乐曲或重要段落的最后或倒数第二个音上，也可出现在尾声或利都奈罗之前。",
       "related": [
         "concerto",
-        "classical-period-music"
+        "classical-period-music",
+        "tutti"
       ],
       "sources": [
         "enc-cadenza",
@@ -32969,7 +33011,8 @@
       "overview": "艺术歌曲是西方声乐作品，通常为一声部与钢琴伴奏而写，属古典艺术音乐传统；这个词也指此类歌曲的整体体裁。艺术歌曲多为独立诗歌或文本谱曲，用于音乐会曲目，在独唱会或较正式的社交场合演出。有些声乐作品难以归类，例如古典作曲家写的无词练声曲，有时算作艺术歌曲，有时不算。",
       "related": [
         "lied",
-        "schubert"
+        "schubert",
+        "strophic-form"
       ],
       "sources": [
         "enc-art-song",
@@ -33146,7 +33189,8 @@
       "related": [
         "polyphony",
         "monophony",
-        "tonality"
+        "tonality",
+        "texture-music"
       ],
       "sources": [
         "enc-homophony",
@@ -33181,7 +33225,9 @@
       "related": [
         "gregorian-chant",
         "homophony",
-        "polyphony"
+        "polyphony",
+        "drone",
+        "texture-music"
       ],
       "sources": [
         "enc-monophony",
@@ -33233,6 +33279,664 @@
         "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='libretto 示意图'><title>libretto</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>歌剧</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>主要用途</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>脚本</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>音乐作品文本</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>清唱剧·康塔塔</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>也用</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>芭蕾</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>延伸用法</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "anthem",
+      "title": "赞美歌（Anthem）",
+      "kind": "术语",
+      "unit": "music-renaissance",
+      "era": "16世纪—今",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "庆典性音乐作品，常作为特定群体的象征；在宗教与乐理语境中特指短小的宗教合唱作品。",
+      "when": "约1550年起（英语教会）",
+      "overview": "赞美歌是庆典性的音乐作品，常作为特定群体的象征，尤其是各国国歌。在乐理与宗教语境中，它原本更具体地指短小的宗教合唱作品，进而特指一种礼仪音乐形式。在这一意义上，它约自1550年起用于英语教会，使用英语歌词，与原属罗马天主教、为拉丁文本谱曲的经文歌相对。",
+      "related": [
+        "motet",
+        "tallis",
+        "byrd",
+        "hymn"
+      ],
+      "sources": [
+        "enc-anthem",
+        "wd-anthem"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "约1550年起用于英语教会。",
+        "风格特征": "摘要称，庆典性音乐作品，常作为特定群体的象征；在宗教与乐理语境中特指短小的宗教合唱作品。",
+        "代表人物与作品": "摘要没有点名作曲家与作品，本条目不补写。",
+        "技法或形式分析": "宗教合唱；英语歌词。",
+        "与前后风格的关系和争论": "与拉丁文经文歌相对；“国歌”是后来的延伸义。",
+        "一图": "示意图以赞美歌为中心，标示经文歌、约1550年、国歌。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='anthem 示意图'><title>anthem</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>经文歌</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>拉丁文对照</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>赞美歌</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>英语宗教合唱</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>约1550年</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>英语教会</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>国歌</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>延伸义</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "hymn",
+      "title": "颂歌（Hymn）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "专为崇拜或祈祷而写、通常献给神祇或重要人物的歌曲。",
+      "when": "历代（本项目划分）",
+      "overview": "颂歌是一种歌曲，部分等同于灵修歌曲，专为崇拜或祈祷而写，通常献给一位或多位神祇，或某位重要人物、某种拟人化形象。这个词源自希腊语 hymnos，意为“赞美之歌”。写颂歌的人称颂歌作者，颂歌的演唱或创作称颂歌学，颂歌集称颂歌本。颂歌可以有也可以没有器乐伴奏。",
+      "related": [
+        "anthem",
+        "gregorian-chant"
+      ],
+      "sources": [
+        "enc-hymn",
+        "wd-hymn"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要没有给出年代，本条目年代为本项目划分。",
+        "风格特征": "摘要称，专为崇拜或祈祷而写、通常献给神祇或重要人物的歌曲。",
+        "代表人物与作品": "摘要没有点名作曲家与作品，本条目不补写。",
+        "技法或形式分析": "可有可无器乐伴奏。",
+        "与前后风格的关系和争论": "词源为希腊语“赞美之歌”。",
+        "一图": "示意图以颂歌为中心，标示希腊语、颂歌本、伴奏。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='hymn 示意图'><title>hymn</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>希腊语</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>hymnos</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>颂歌</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>崇拜祈祷</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>颂歌本</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>歌集</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>伴奏</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>可有可无</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "antiphon",
+      "title": "交替圣咏（Antiphon）",
+      "kind": "术语",
+      "unit": "music-medieval",
+      "era": "中世纪",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "基督教礼仪中作为叠句演唱的短小圣咏。",
+      "when": "中世纪起（本项目划分）",
+      "overview": "交替圣咏是基督教礼仪中作为叠句演唱的短小圣咏。歌词通常取自《诗篇》或《圣经》，也可自由创作。其形式受圣安布罗斯青睐，在安布罗斯圣咏中占重要地位，也广泛用于格里高利圣咏。它可用于弥撒的进台咏、奉献咏或领主咏，也用于日课，通常在晨祷或晚祷。",
+      "related": [
+        "gregorian-chant",
+        "mass-music",
+        "cma-bologna-antiphonary"
+      ],
+      "sources": [
+        "enc-antiphon",
+        "wd-antiphon"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要没有给出年代，本条目年代为本项目划分。",
+        "风格特征": "摘要称，基督教礼仪中作为叠句演唱的短小圣咏。",
+        "代表人物与作品": "圣安布罗斯；安布罗斯圣咏、格里高利圣咏。",
+        "技法或形式分析": "作叠句演唱；歌词多取自《诗篇》。",
+        "与前后风格的关系和争论": "用于弥撒与日课。",
+        "一图": "示意图以交替圣咏为中心，标示圣安布罗斯、格里高利圣咏、弥撒·日课。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='antiphon 示意图'><title>antiphon</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>圣安布罗斯</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>青睐</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>交替圣咏</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>叠句圣咏</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>格里高利圣咏</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>广泛使用</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>弥撒·日课</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>场合</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "melisma",
+      "title": "花腔式（Melisma）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "以一个歌词音节连续唱出多个不同音符的唱法。",
+      "when": "历代（本项目划分）",
+      "overview": "花腔式（俗称“转音”，有时与 roulade 互用）是以一个歌词音节连续唱过多个不同音符的唱法。这样唱的音乐称为花腔式的，与每个音节只配一个音符的“音节式”相对。",
+      "related": [
+        "gregorian-chant",
+        "organum"
+      ],
+      "sources": [
+        "enc-melisma",
+        "wd-melisma"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要没有给出年代，本条目年代为本项目划分。",
+        "风格特征": "摘要称，以一个歌词音节连续唱出多个不同音符的唱法。",
+        "代表人物与作品": "摘要没有点名作曲家与作品，本条目不补写。",
+        "技法或形式分析": "一音节对多个音符。",
+        "与前后风格的关系和争论": "与音节式相对。",
+        "一图": "示意图以花腔式为中心，标示音节式、转音、圣咏。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='melisma 示意图'><title>melisma</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>音节式</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>对照</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>花腔式</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>一音节多音</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>转音</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>俗称</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>圣咏</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>常见</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "pizzicato",
+      "title": "拨奏（Pizzicato）",
+      "kind": "术语",
+      "unit": "music-instruments",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "乐器",
+      "tier": "重要",
+      "def": "拨动弦乐器琴弦的演奏技法。",
+      "when": "历代（本项目划分）",
+      "overview": "拨奏是拨动弦乐器琴弦的演奏技法，具体做法因乐器而异：在弓弦乐器上是用手指拨弦而不用弓，声音短促、带打击感，不同于持续的弓奏；在钢琴等键盘弦乐器上，它是直接操弄琴弦的“弦上钢琴”手法之一；在吉他上是一种闷音拨弦，听起来像弓弦乐器的拨奏。",
+      "related": [
+        "violin",
+        "viol",
+        "string-quartet"
+      ],
+      "sources": [
+        "enc-pizzicato",
+        "wd-pizzicato"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要没有给出年代，本条目年代为本项目划分。",
+        "风格特征": "摘要称，拨动弦乐器琴弦的演奏技法。",
+        "代表人物与作品": "摘要没有点名作曲家与作品，本条目不补写。",
+        "技法或形式分析": "手指拨弦；弓弦乐器、钢琴、吉他各有做法。",
+        "与前后风格的关系和争论": "与弓奏相对：短促而非持续。",
+        "一图": "示意图以拨奏为中心，标示弓奏、弓弦乐器、吉他。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='pizzicato 示意图'><title>pizzicato</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>弓奏</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>对照</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>拨奏</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>手指拨弦</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>弓弦乐器</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>主要用法</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>吉他</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>闷音拨弦</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "syncopation",
+      "title": "切分（Syncopation）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "把节奏重音置于通常不在的位置、打乱规则节奏流动的手法。",
+      "when": "历代（本项目划分）",
+      "overview": "切分是多种节奏同时演奏、使乐曲部分或全部偏离正拍的手法。更简单地说，切分是“对规则节奏流动的扰乱或打断”，即“把节奏重音放在通常不在的位置”。它是至少两组时值间隔的相互关联。",
+      "related": [
+        "polyphony"
+      ],
+      "sources": [
+        "enc-syncopation",
+        "wd-syncopation"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要没有给出年代，本条目年代为本项目划分。",
+        "风格特征": "摘要称，把节奏重音置于通常不在的位置、打乱规则节奏流动的手法。",
+        "代表人物与作品": "摘要没有点名作曲家与作品，本条目不补写。",
+        "技法或形式分析": "重音移到弱拍或拍间。",
+        "与前后风格的关系和争论": "摘要只给定义。",
+        "一图": "示意图以切分为中心，标示正拍、两组时值、节奏流动。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='syncopation 示意图'><title>syncopation</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>正拍</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>被打乱</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>切分</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>重音错位</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>两组时值</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>相互关联</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>节奏流动</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>扰乱</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "chromaticism",
+      "title": "半音化（Chromaticism）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "在自然音阶音与和弦之间穿插半音阶其他音的作曲手法。",
+      "when": "历代（本项目划分）",
+      "overview": "半音化是在主要的自然音阶音高与和弦之间穿插半音阶其他音高的作曲手法。简单说，自然音阶音乐在每个八度内只用七个音，而不是钢琴键盘上的全部十二个；用到这七个之外的音，音乐就是半音化的。",
+      "related": [
+        "tonality",
+        "gesualdo",
+        "wagner"
+      ],
+      "sources": [
+        "enc-chromaticism",
+        "wd-chromaticism"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要没有给出年代，本条目年代为本项目划分。",
+        "风格特征": "摘要称，在自然音阶音与和弦之间穿插半音阶其他音的作曲手法。",
+        "代表人物与作品": "摘要没有点名作曲家与作品，本条目不补写。",
+        "技法或形式分析": "七音之外再用其余五音。",
+        "与前后风格的关系和争论": "摘要没有谈其历史作用，库内互链为本项目所加。",
+        "一图": "示意图以半音化为中心，标示自然音阶、和弦、八度。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='chromaticism 示意图'><title>chromaticism</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>自然音阶</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>七音</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>半音化</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>十二音</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>和弦</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>穿插</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>八度</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>范围</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "dissonance",
+      "title": "协和与不协和（Consonance and dissonance）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "对同时或相继发声的声音所作的分类。",
+      "when": "历代（本项目划分）",
+      "overview": "协和与不协和是对同时或相继发声的声音的分类。在西方传统中，有些听者把协和与甜美、悦耳、可接受相联系，把不协和与刺耳、不悦、不可接受相联系，但人们普遍承认这也取决于熟悉程度与音乐素养。这两个词以互斥相互定义，但细究起来，二者构成从最协和到最不协和的渐变。",
+      "related": [
+        "tonality",
+        "atonality",
+        "expressionism-music"
+      ],
+      "sources": [
+        "enc-dissonance",
+        "wd-dissonance"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要没有给出年代，本条目年代为本项目划分。",
+        "风格特征": "摘要称，对同时或相继发声的声音所作的分类。",
+        "代表人物与作品": "摘要没有点名作曲家与作品，本条目不补写。",
+        "技法或形式分析": "二分实为渐变。",
+        "与前后风格的关系和争论": "摘要指出听感取决于熟悉程度与素养。",
+        "一图": "示意图以协和与不协和为中心，标示协和、不协和、渐变。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='dissonance 示意图'><title>dissonance</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>协和</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>甜美</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>协和与不协和</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>声音分类</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>不协和</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>刺耳</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>渐变</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>非截然二分</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "drone",
+      "title": "持续音（Drone）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "一个音或和弦在乐曲大部分或全部时间内持续发声的效果或伴奏。",
+      "when": "历代（本项目划分）",
+      "overview": "持续音是一种和声或单声部效果或伴奏：一个音或和弦在乐曲大部分或全部时间持续发声。它也可指乐器上产生这种效果的部件，古称 burden，如风笛的持续音管、管风琴的持续低音、琉特的最低弦组。burden 也指每节结尾重复的歌曲部分，如副歌。",
+      "related": [
+        "organum",
+        "monophony"
+      ],
+      "sources": [
+        "enc-drone",
+        "wd-drone"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要没有给出年代，本条目年代为本项目划分。",
+        "风格特征": "摘要称，一个音或和弦在乐曲大部分或全部时间内持续发声的效果或伴奏。",
+        "代表人物与作品": "摘要没有点名作曲家与作品，本条目不补写。",
+        "技法或形式分析": "持续一个音或和弦；风笛、管风琴、琉特各有部件。",
+        "与前后风格的关系和争论": "burden 一词兼指副歌。",
+        "一图": "示意图以持续音为中心，标示风笛、管风琴、burden。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='drone 示意图'><title>drone</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>风笛</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>持续音管</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>持续音</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>长音伴奏</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>管风琴</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>持续低音</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>burden</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>古称</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "ternary-form",
+      "title": "三部曲式（Ternary form）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "由A段、B段再回到A段构成的三部分曲式。",
+      "when": "约17世纪起（据摘要所举巴洛克例，本项目划分）",
+      "overview": "三部曲式，有时称歌曲曲式，是由开头段（A）、其后段（B）和第一段的再现（A）构成的三部分曲式，通常记作 A—B—A。著名例子有亨德尔《弥赛亚》中的返始咏叹调《号角将要吹响》、肖邦降D大调前奏曲《雨滴》以及巴赫《约翰受难曲》开场合唱。",
+      "related": [
+        "da-capo-aria",
+        "handel",
+        "chopin",
+        "bach",
+        "strophic-form"
+      ],
+      "sources": [
+        "enc-ternary-form",
+        "wd-ternary-form"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要所举例子出自巴洛克与浪漫时期。",
+        "风格特征": "摘要称，由A段、B段再回到A段构成的三部分曲式。",
+        "代表人物与作品": "亨德尔《弥赛亚》《号角将要吹响》、肖邦《雨滴》前奏曲、巴赫《约翰受难曲》开场合唱。",
+        "技法或形式分析": "A—B—A。",
+        "与前后风格的关系和争论": "返始咏叹调是其一例。",
+        "一图": "示意图以三部曲式为中心，标示A、B、A再现。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='ternary-form 示意图'><title>ternary-form</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>A</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>开头段</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>三部曲式</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>A—B—A</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>B</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>对比段</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>A再现</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>返始</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "strophic-form",
+      "title": "分节歌形式（Strophic form）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "歌词各节都用同一段音乐演唱的歌曲结构。",
+      "when": "历代（本项目划分）",
+      "overview": "分节歌形式，又称反复诗节形式、AAA 歌曲形式或一部歌曲形式，是一种歌曲结构：歌词所有诗节都用同一段音乐演唱。与之对照的歌曲形式有通谱歌（每节谱新曲）和三部曲式（中间有对比段）。",
+      "related": [
+        "art-song",
+        "lied",
+        "ternary-form"
+      ],
+      "sources": [
+        "enc-strophic-form",
+        "wd-strophic-form"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要没有给出年代，本条目年代为本项目划分。",
+        "风格特征": "摘要称，歌词各节都用同一段音乐演唱的歌曲结构。",
+        "代表人物与作品": "摘要没有点名作曲家与作品，本条目不补写。",
+        "技法或形式分析": "AAA：每节同曲。",
+        "与前后风格的关系和争论": "与通谱歌、三部曲式相对。",
+        "一图": "示意图以分节歌为中心，标示通谱歌、三部曲式、诗节。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='strophic-form 示意图'><title>strophic-form</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>通谱歌</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>对照</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>分节歌</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>AAA</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>三部曲式</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>对照</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>诗节</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>同曲演唱</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "texture-music",
+      "title": "织体（Texture）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "乐曲中速度、旋律与和声材料的组合方式，决定声音的整体质感。",
+      "when": "历代（本项目划分）",
+      "overview": "织体是乐曲中速度、旋律与和声材料的组合方式，决定乐曲声音的整体质感。织体常按密度（厚薄）与音域宽度描述，也按声部数及声部间关系细分。例如厚织体包含许多乐器“层”，其中一层可以是弦乐组或铜管；厚度也随演奏乐器的数量与丰富程度而变。",
+      "related": [
+        "monophony",
+        "homophony",
+        "polyphony"
+      ],
+      "sources": [
+        "enc-texture-music",
+        "wd-texture-music"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要没有给出年代，本条目年代为本项目划分。",
+        "风格特征": "摘要称，乐曲中速度、旋律与和声材料的组合方式，决定声音的整体质感。",
+        "代表人物与作品": "摘要没有点名作曲家与作品，本条目不补写。",
+        "技法或形式分析": "按密度、音域与声部关系描述。",
+        "与前后风格的关系和争论": "单声部、主调、复调是常见织体类型（库内各条）。",
+        "一图": "示意图以织体为中心，标示单声部、主调·复调、厚薄。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='texture-music 示意图'><title>texture-music</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>单声部</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>类型</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>织体</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>组合方式</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>主调·复调</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>类型</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>厚薄</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>密度</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "sequence-music",
+      "title": "模进（Sequence）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "18—19世纪",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "在同一声部中把动机或较长旋律片段移高或移低再现。",
+      "when": "18—19世纪古典音乐中最常见（据摘要）",
+      "overview": "模进是在同一声部中把一个动机或较长的旋律片段在更高或更低的音高上再现。它是18、19世纪古典音乐中最常见、最简单的旋律展开方法之一。其特点：通常两段，一般不超过三四段；通常只朝一个方向，持续上行或下行；各段按相同音程距离推进。",
+      "related": [
+        "classical-period-music",
+        "baroque-music"
+      ],
+      "sources": [
+        "enc-sequence-music",
+        "wd-sequence-music"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称18、19世纪古典音乐中最常见。",
+        "风格特征": "摘要称，在同一声部中把动机或较长旋律片段移高或移低再现。",
+        "代表人物与作品": "摘要没有点名作曲家与作品，本条目不补写。",
+        "技法或形式分析": "二至四段；单向；等距推进。",
+        "与前后风格的关系和争论": "摘要只给特点。",
+        "一图": "示意图以模进为中心，标示动机、同一声部、等距。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='sequence-music 示意图'><title>sequence-music</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>动机</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>被再现</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>模进</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>移高或移低</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>同一声部</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>范围</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>等距</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>推进方式</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "courtly-love",
+      "title": "骑士之爱（Courtly love）",
+      "kind": "术语",
+      "unit": "music-medieval",
+      "era": "中世纪盛期",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "中世纪欧洲强调高贵与骑士精神的文学性爱情观念。",
+      "when": "中世纪盛期",
+      "overview": "骑士之爱是中世纪欧洲一种强调高贵与骑士精神的文学性爱情观念。中世纪文学中充满骑士因“骑士之爱”为贵妇冒险、效劳的故事。它原是为贵族娱乐而创的文学虚构，后传入大众文化，吸引更多识字读者。中世纪盛期围绕这些观念形成了一套作为社会实践的“爱的游戏”，“高贵地爱”被视为使人充实与提升的修养。",
+      "related": [
+        "trouvere",
+        "minnesang",
+        "chanson"
+      ],
+      "sources": [
+        "enc-courtly-love",
+        "wd-courtly-love"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "中世纪盛期形成“爱的游戏”。",
+        "风格特征": "摘要称，中世纪欧洲强调高贵与骑士精神的文学性爱情观念。",
+        "代表人物与作品": "摘要没有点名作品，本条目不补写。",
+        "技法或形式分析": "摘要没有谈其在音乐中的表现；与游吟诗人、特鲁维尔的联系为库内互链，本项目所加。",
+        "与前后风格的关系和争论": "由贵族文学虚构扩散到大众文化。",
+        "一图": "示意图以骑士之爱为中心，标示骑士、贵妇、爱的游戏。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='courtly-love 示意图'><title>courtly-love</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>骑士</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>效劳</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>骑士之爱</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>文学爱情观</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>贵妇</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>对象</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>爱的游戏</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>社会实践</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "jig",
+      "title": "吉格舞曲（Jig）",
+      "kind": "术语",
+      "unit": "music-baroque",
+      "era": "16世纪起",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "复合拍子的活泼民间舞蹈及其舞曲。",
+      "when": "16世纪起",
+      "overview": "吉格是复合拍子的活泼民间舞蹈及其伴奏舞曲。16世纪起在不列颠群岛流行，后传入欧洲大陆，最终成为成熟的巴洛克舞蹈组曲的终曲乐章。它最常与爱尔兰舞曲、苏格兰乡村舞、法裔加拿大传统音乐与舞蹈及加拿大梅蒂人相联系。吉格原为四拍复合拍子，后来改用多种拍号，常据此分为双吉格、滑步吉格、单吉格等。",
+      "related": [
+        "baroque-music",
+        "bach"
+      ],
+      "sources": [
+        "enc-jig",
+        "wd-jig"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "16世纪起流行于不列颠群岛。",
+        "风格特征": "摘要称，复合拍子的活泼民间舞蹈及其舞曲。",
+        "代表人物与作品": "摘要没有点名作曲家与作品，本条目不补写。",
+        "技法或形式分析": "复合拍子；分双吉格、滑步吉格、单吉格。",
+        "与前后风格的关系和争论": "成为巴洛克组曲终曲。",
+        "一图": "示意图以吉格为中心，标示不列颠群岛、巴洛克组曲、爱尔兰。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='jig 示意图'><title>jig</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>不列颠群岛</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>16世纪</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>吉格</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>复合拍子舞曲</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>巴洛克组曲</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>终曲乐章</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>爱尔兰</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>最相联系</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "a-cappella",
+      "title": "无伴奏合唱（A cappella）",
+      "kind": "术语",
+      "unit": "music-renaissance",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "没有任何器乐伴奏的独唱或合唱音乐。",
+      "when": "历代（19世纪起获今义）",
+      "overview": "无伴奏合唱指独唱者或合唱团在没有任何器乐伴奏下演唱的音乐。这个词原本用来区分文艺复兴复调与巴洛克协奏风格。19世纪，人们对文艺复兴复调重新产生兴趣，又不知道当时声部常有乐器重叠，于是这个词转而指无伴奏声乐。它也偶尔作 alla breve 的同义词。",
+      "related": [
+        "renaissance-music",
+        "palestrina",
+        "polyphony"
+      ],
+      "sources": [
+        "enc-a-cappella",
+        "wd-a-cappella"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "19世纪获得今义。",
+        "风格特征": "摘要称，没有任何器乐伴奏的独唱或合唱音乐。",
+        "代表人物与作品": "摘要没有点名作曲家与作品，本条目不补写。",
+        "技法或形式分析": "无器乐伴奏。",
+        "与前后风格的关系和争论": "摘要指出今义源于19世纪对文艺复兴实践的误解——当时声部常有乐器重叠。",
+        "一图": "示意图以无伴奏合唱为中心，标示文艺复兴复调、19世纪、乐器重叠。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='a-cappella 示意图'><title>a-cappella</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>文艺复兴复调</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>原义区分</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>无伴奏合唱</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>纯人声</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>19世纪</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>今义形成</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>乐器重叠</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>被忽略</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "tutti",
+      "title": "全奏（Tutti）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "意为“全部”或“一起”的音乐术语，指与独奏相对的整个乐队。",
+      "when": "历代（本项目划分）",
+      "overview": "Tutti 是意大利语，字面意为“全部”或“一起”，作音乐术语时指与独奏者相对的整个乐队。在合唱音乐中同样用来要求整个声部或整个合唱团一起唱。音乐考级机构可能要求考生“演奏全奏段”，即独奏段和全奏段都要演奏。",
+      "related": [
+        "concerto",
+        "cadenza"
+      ],
+      "sources": [
+        "enc-tutti",
+        "wd-tutti"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要没有给出年代，本条目年代为本项目划分。",
+        "风格特征": "摘要称，意为“全部”或“一起”的音乐术语，指与独奏相对的整个乐队。",
+        "代表人物与作品": "摘要没有点名作曲家与作品，本条目不补写。",
+        "技法或形式分析": "摘要只给定义。",
+        "与前后风格的关系和争论": "与独奏相对。",
+        "一图": "示意图以全奏为中心，标示独奏、合唱、意大利语。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='tutti 示意图'><title>tutti</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>独奏</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>对照</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>全奏</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>整个乐队</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>合唱</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>同样用法</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>意大利语</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>全部</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "brass-instrument",
+      "title": "铜管乐器（Brass instrument）",
+      "kind": "术语",
+      "unit": "music-instruments",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "乐器",
+      "tier": "重要",
+      "def": "通过演奏者嘴唇振动带动管状共鸣体中空气振动发声的乐器。",
+      "when": "历代（本项目划分）",
+      "overview": "铜管乐器是靠演奏者嘴唇振动、带动管状共鸣体中空气共振发声的乐器。这类乐器也称唇振气鸣乐器（labrosone，取拉丁文“唇”与“声”），因为用这种“唇簧”发声的乐器也可以用木头或兽角等材料制成，尤其是早期或传统乐器，如短号（cornett）、阿尔卑斯长号和羊角号（shofar）。",
+      "related": [
+        "symphony"
+      ],
+      "sources": [
+        "enc-brass-instrument",
+        "wd-brass-instrument"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要没有给出年代，本条目年代为本项目划分。",
+        "风格特征": "摘要称，通过演奏者嘴唇振动带动管状共鸣体中空气振动发声的乐器。",
+        "代表人物与作品": "摘要没有点名作曲家与作品，本条目不补写。",
+        "技法或形式分析": "唇振发声；材料不限于铜。",
+        "与前后风格的关系和争论": "摘要指出分类依据是发声方式而非材料。",
+        "一图": "示意图以铜管乐器为中心，标示嘴唇、管状共鸣体、兽角·木。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='brass-instrument 示意图'><title>brass-instrument</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>嘴唇</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>振动</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>铜管乐器</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>唇振气鸣</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>管状共鸣体</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>共振</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>兽角·木</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>也可制作</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "keyboard-instrument",
+      "title": "键盘乐器（Keyboard instrument）",
+      "kind": "术语",
+      "unit": "music-instruments",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "乐器",
+      "tier": "重要",
+      "def": "以键盘（一排用手指按压的杠杆）演奏的乐器。",
+      "when": "历代（本项目划分）",
+      "overview": "键盘乐器是用键盘演奏的乐器，键盘是一排用手指按压的杠杆。最常见的有钢琴、管风琴和包括合成器、数码钢琴在内的各种电子键盘。其他键盘乐器还有钢片琴（由键盘操纵的击奏体鸣乐器）和排钟（通常装在教堂或市政建筑的钟楼里）。",
+      "related": [
+        "piano",
+        "fortepiano",
+        "basso-continuo"
+      ],
+      "sources": [
+        "enc-keyboard-instrument",
+        "wd-keyboard-instrument"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要没有给出年代，本条目年代为本项目划分。",
+        "风格特征": "摘要称，以键盘（一排用手指按压的杠杆）演奏的乐器。",
+        "代表人物与作品": "摘要没有点名作曲家与作品，本条目不补写。",
+        "技法或形式分析": "按键驱动；发声原理各异。",
+        "与前后风格的关系和争论": "摘要只给定义与举例。",
+        "一图": "示意图以键盘乐器为中心，标示钢琴、管风琴、排钟。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='keyboard-instrument 示意图'><title>keyboard-instrument</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>钢琴</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>最常见</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>键盘乐器</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>按键演奏</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>管风琴</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>最常见</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>排钟</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>钟楼</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
     }

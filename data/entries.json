@@ -2085,7 +2085,10 @@
         "hildegard",
         "guido-of-arezzo",
         "mensural-notation",
-        "monophony"
+        "monophony",
+        "hymn",
+        "antiphon",
+        "melisma"
       ],
       "sources": [
         "enc-gregorian-chant",
@@ -2111,7 +2114,9 @@
         "leonin",
         "ars-antiqua",
         "perotin",
-        "conductus"
+        "conductus",
+        "melisma",
+        "drone"
       ],
       "sources": [
         "enc-polyphony",
@@ -2145,7 +2150,10 @@
         "mensural-notation",
         "venetian-polychoral",
         "homophony",
-        "monophony"
+        "monophony",
+        "syncopation",
+        "texture-music",
+        "a-cappella"
       ],
       "sources": [
         "enc-polyphony",
@@ -2185,7 +2193,8 @@
         "chanson",
         "viol",
         "lauda",
-        "venetian-polychoral"
+        "venetian-polychoral",
+        "a-cappella"
       ],
       "sources": [
         "enc-renaissance-music",
@@ -2232,7 +2241,8 @@
         "baroque-music",
         "josquin",
         "lassus",
-        "victoria"
+        "victoria",
+        "a-cappella"
       ],
       "sources": [
         "enc-renaissance-music",
@@ -2280,7 +2290,9 @@
         "empfindsamer-stil",
         "basso-continuo",
         "recitative",
-        "venetian-polychoral"
+        "venetian-polychoral",
+        "sequence-music",
+        "jig"
       ],
       "sources": [
         "enc-baroque-music",
@@ -2338,7 +2350,9 @@
         "baroque-music",
         "classical-period-music",
         "musical-mode",
-        "homophony"
+        "homophony",
+        "chromaticism",
+        "dissonance"
       ],
       "sources": [
         "enc-tonality",
@@ -2414,7 +2428,9 @@
         "suite-music",
         "handel",
         "cantata",
-        "basso-continuo"
+        "basso-continuo",
+        "ternary-form",
+        "jig"
       ],
       "sources": [
         "enc-bach",
@@ -2481,7 +2497,8 @@
         "singspiel",
         "boccherini",
         "cadenza",
-        "chamber-music"
+        "chamber-music",
+        "sequence-music"
       ],
       "sources": [
         "enc-classical-period-music",
@@ -2513,7 +2530,8 @@
         "shostakovich",
         "mannheim-school",
         "stamitz",
-        "scherzo"
+        "scherzo",
+        "brass-instrument"
       ],
       "sources": [
         "enc-symphony",
@@ -2694,7 +2712,8 @@
         "schubert",
         "chopin",
         "brahms",
-        "art-song"
+        "art-song",
+        "strophic-form"
       ],
       "sources": [
         "enc-romantic-music",
@@ -2742,7 +2761,8 @@
         "romantic-music",
         "lied",
         "piano",
-        "liszt"
+        "liszt",
+        "ternary-form"
       ],
       "sources": [
         "enc-chopin",
@@ -2769,7 +2789,8 @@
         "fantin-latour-tannhauser",
         "grand-opera",
         "puccini",
-        "leitmotif"
+        "leitmotif",
+        "chromaticism"
       ],
       "sources": [
         "enc-wagner",
@@ -3408,7 +3429,8 @@
       "related": [
         "baroque-music",
         "symphony",
-        "erhu"
+        "erhu",
+        "pizzicato"
       ],
       "sources": [
         "enc-violin",
@@ -3430,7 +3452,8 @@
       "related": [
         "sonata",
         "chopin",
-        "rachmaninoff"
+        "rachmaninoff",
+        "keyboard-instrument"
       ],
       "sources": [
         "enc-piano",
@@ -12908,7 +12931,8 @@
       "overview": "羊皮纸墨、蛋彩与金，尺寸51×37.7厘米；署名圣多米尼克首席彩饰师；该馆称首字母M中的圣多米尼克像表明它曾属多明我会修道院的抄本；该工坊专为艾米利亚地区的富裕宗教机构制作大型抄本。",
       "related": [
         "gregorian-chant",
-        "medieval-music"
+        "medieval-music",
+        "antiphon"
       ],
       "sources": [
         "cma-1985-60"
@@ -13949,7 +13973,8 @@
         "ars-antiqua",
         "isorhythm",
         "franco-flemish-school",
-        "victoria"
+        "victoria",
+        "anthem"
       ],
       "sources": [
         "enc-motet",
@@ -13974,7 +13999,8 @@
         "motet",
         "medieval-music",
         "josquin",
-        "franco-flemish-school"
+        "franco-flemish-school",
+        "antiphon"
       ],
       "sources": [
         "enc-mass-music",
@@ -14004,7 +14030,8 @@
         "telemann",
         "suite-music",
         "handel",
-        "cadenza"
+        "cadenza",
+        "tutti"
       ],
       "sources": [
         "enc-concerto",
@@ -14396,7 +14423,8 @@
       "related": [
         "renaissance-music",
         "motet",
-        "byrd"
+        "byrd",
+        "anthem"
       ],
       "sources": [
         "enc-tallis",
@@ -14422,7 +14450,8 @@
         "motet",
         "purcell",
         "dunstaple",
-        "consort"
+        "consort",
+        "anthem"
       ],
       "sources": [
         "enc-byrd",
@@ -14470,7 +14499,8 @@
       "related": [
         "madrigal",
         "renaissance-music",
-        "monteverdi"
+        "monteverdi",
+        "chromaticism"
       ],
       "sources": [
         "enc-gesualdo",
@@ -14760,7 +14790,8 @@
         "bartok",
         "boccherini",
         "scherzo",
-        "chamber-music"
+        "chamber-music",
+        "pizzicato"
       ],
       "sources": [
         "enc-string-quartet",
@@ -16020,7 +16051,8 @@
         "kandinsky",
         "expressionism",
         "impressionism-music",
-        "expressionism-crossmedia"
+        "expressionism-crossmedia",
+        "dissonance"
       ],
       "sources": [
         "enc-expressionism-music",
@@ -16064,7 +16096,8 @@
       "related": [
         "schoenberg",
         "serialism",
-        "twelve-tone"
+        "twelve-tone",
+        "dissonance"
       ],
       "sources": [
         "enc-atonality",
@@ -17277,7 +17310,8 @@
         "vivaldi",
         "concerto",
         "basso-continuo",
-        "da-capo-aria"
+        "da-capo-aria",
+        "ternary-form"
       ],
       "sources": [
         "enc-handel",
@@ -18059,7 +18093,8 @@
         "haydn",
         "mozart",
         "beethoven",
-        "hummel"
+        "hummel",
+        "keyboard-instrument"
       ],
       "sources": [
         "enc-fortepiano",
@@ -18150,7 +18185,8 @@
         "minnesang",
         "medieval-music",
         "chanson",
-        "cantigas"
+        "cantigas",
+        "courtly-love"
       ],
       "sources": [
         "enc-trouvere",
@@ -18171,7 +18207,8 @@
       "overview": "恋诗歌是中古高地德语时期兴盛的德语抒情诗与歌曲写作传统。名称来自中古高地德语表示爱情的“minne”，因为爱情是其主要题材。创作和演唱者称恋诗歌手（Minnesänger），单首歌称 Minnelied。恋诗歌手可与奥克语游吟诗人、法国北方特鲁维尔相比，但被称为“德语对宫廷抒情诗的原创贡献”。",
       "related": [
         "trouvere",
-        "medieval-music"
+        "medieval-music",
+        "courtly-love"
       ],
       "sources": [
         "enc-minnesang",
@@ -18446,7 +18483,8 @@
         "trouvere",
         "machaut",
         "madrigal",
-        "renaissance-music"
+        "renaissance-music",
+        "courtly-love"
       ],
       "sources": [
         "enc-chanson",
@@ -18467,7 +18505,8 @@
       "overview": "维奥尔琴是一类弓奏、有品的弦乐器家族，15世纪末在西班牙（尤其阿拉贡王国的巴伦西亚）发展起来，随后传入意大利及欧洲其他地区。大多数维奥尔琴有六根弦，主要按四度定弦、中间一个三度，竖着演奏，琴放在腿上或夹在两腿间，因此意大利名 viola da gamba 意为“腿上维奥尔”。",
       "related": [
         "renaissance-music",
-        "consort"
+        "consort",
+        "pizzicato"
       ],
       "sources": [
         "enc-viol",
@@ -19954,7 +19993,8 @@
       "related": [
         "baroque-music",
         "bach",
-        "handel"
+        "handel",
+        "keyboard-instrument"
       ],
       "sources": [
         "enc-basso-continuo",
@@ -19999,7 +20039,8 @@
       "related": [
         "recitative",
         "opera-seria",
-        "handel"
+        "handel",
+        "ternary-form"
       ],
       "sources": [
         "enc-da-capo-aria",
@@ -20020,7 +20061,8 @@
       "overview": "华彩段泛指由独奏（唱）者演奏或演唱的即兴或写定的装饰性段落，节奏通常“自由”，常可炫技。其间伴奏休止或持续一个音或和弦，因此即兴华彩段在乐谱上以各声部的延长记号标示。华彩段通常出现在乐曲或重要段落的最后或倒数第二个音上，也可出现在尾声或利都奈罗之前。",
       "related": [
         "concerto",
-        "classical-period-music"
+        "classical-period-music",
+        "tutti"
       ],
       "sources": [
         "enc-cadenza",
@@ -20085,7 +20127,8 @@
       "overview": "艺术歌曲是西方声乐作品，通常为一声部与钢琴伴奏而写，属古典艺术音乐传统；这个词也指此类歌曲的整体体裁。艺术歌曲多为独立诗歌或文本谱曲，用于音乐会曲目，在独唱会或较正式的社交场合演出。有些声乐作品难以归类，例如古典作曲家写的无词练声曲，有时算作艺术歌曲，有时不算。",
       "related": [
         "lied",
-        "schubert"
+        "schubert",
+        "strophic-form"
       ],
       "sources": [
         "enc-art-song",
@@ -20197,7 +20240,8 @@
       "related": [
         "polyphony",
         "monophony",
-        "tonality"
+        "tonality",
+        "texture-music"
       ],
       "sources": [
         "enc-homophony",
@@ -20219,7 +20263,9 @@
       "related": [
         "gregorian-chant",
         "homophony",
-        "polyphony"
+        "polyphony",
+        "drone",
+        "texture-music"
       ],
       "sources": [
         "enc-monophony",
@@ -20246,6 +20292,417 @@
       "sources": [
         "enc-libretto",
         "wd-libretto"
+      ]
+    },
+    {
+      "id": "anthem",
+      "title": "赞美歌（Anthem）",
+      "kind": "术语",
+      "unit": "music-renaissance",
+      "era": "16世纪—今",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "庆典性音乐作品，常作为特定群体的象征；在宗教与乐理语境中特指短小的宗教合唱作品。",
+      "when": "约1550年起（英语教会）",
+      "overview": "赞美歌是庆典性的音乐作品，常作为特定群体的象征，尤其是各国国歌。在乐理与宗教语境中，它原本更具体地指短小的宗教合唱作品，进而特指一种礼仪音乐形式。在这一意义上，它约自1550年起用于英语教会，使用英语歌词，与原属罗马天主教、为拉丁文本谱曲的经文歌相对。",
+      "related": [
+        "motet",
+        "tallis",
+        "byrd",
+        "hymn"
+      ],
+      "sources": [
+        "enc-anthem",
+        "wd-anthem"
+      ]
+    },
+    {
+      "id": "hymn",
+      "title": "颂歌（Hymn）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "专为崇拜或祈祷而写、通常献给神祇或重要人物的歌曲。",
+      "when": "历代（本项目划分）",
+      "overview": "颂歌是一种歌曲，部分等同于灵修歌曲，专为崇拜或祈祷而写，通常献给一位或多位神祇，或某位重要人物、某种拟人化形象。这个词源自希腊语 hymnos，意为“赞美之歌”。写颂歌的人称颂歌作者，颂歌的演唱或创作称颂歌学，颂歌集称颂歌本。颂歌可以有也可以没有器乐伴奏。",
+      "related": [
+        "anthem",
+        "gregorian-chant"
+      ],
+      "sources": [
+        "enc-hymn",
+        "wd-hymn"
+      ]
+    },
+    {
+      "id": "antiphon",
+      "title": "交替圣咏（Antiphon）",
+      "kind": "术语",
+      "unit": "music-medieval",
+      "era": "中世纪",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "基督教礼仪中作为叠句演唱的短小圣咏。",
+      "when": "中世纪起（本项目划分）",
+      "overview": "交替圣咏是基督教礼仪中作为叠句演唱的短小圣咏。歌词通常取自《诗篇》或《圣经》，也可自由创作。其形式受圣安布罗斯青睐，在安布罗斯圣咏中占重要地位，也广泛用于格里高利圣咏。它可用于弥撒的进台咏、奉献咏或领主咏，也用于日课，通常在晨祷或晚祷。",
+      "related": [
+        "gregorian-chant",
+        "mass-music",
+        "cma-bologna-antiphonary"
+      ],
+      "sources": [
+        "enc-antiphon",
+        "wd-antiphon"
+      ]
+    },
+    {
+      "id": "melisma",
+      "title": "花腔式（Melisma）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "以一个歌词音节连续唱出多个不同音符的唱法。",
+      "when": "历代（本项目划分）",
+      "overview": "花腔式（俗称“转音”，有时与 roulade 互用）是以一个歌词音节连续唱过多个不同音符的唱法。这样唱的音乐称为花腔式的，与每个音节只配一个音符的“音节式”相对。",
+      "related": [
+        "gregorian-chant",
+        "organum"
+      ],
+      "sources": [
+        "enc-melisma",
+        "wd-melisma"
+      ]
+    },
+    {
+      "id": "pizzicato",
+      "title": "拨奏（Pizzicato）",
+      "kind": "术语",
+      "unit": "music-instruments",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "乐器",
+      "tier": "重要",
+      "def": "拨动弦乐器琴弦的演奏技法。",
+      "when": "历代（本项目划分）",
+      "overview": "拨奏是拨动弦乐器琴弦的演奏技法，具体做法因乐器而异：在弓弦乐器上是用手指拨弦而不用弓，声音短促、带打击感，不同于持续的弓奏；在钢琴等键盘弦乐器上，它是直接操弄琴弦的“弦上钢琴”手法之一；在吉他上是一种闷音拨弦，听起来像弓弦乐器的拨奏。",
+      "related": [
+        "violin",
+        "viol",
+        "string-quartet"
+      ],
+      "sources": [
+        "enc-pizzicato",
+        "wd-pizzicato"
+      ]
+    },
+    {
+      "id": "syncopation",
+      "title": "切分（Syncopation）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "把节奏重音置于通常不在的位置、打乱规则节奏流动的手法。",
+      "when": "历代（本项目划分）",
+      "overview": "切分是多种节奏同时演奏、使乐曲部分或全部偏离正拍的手法。更简单地说，切分是“对规则节奏流动的扰乱或打断”，即“把节奏重音放在通常不在的位置”。它是至少两组时值间隔的相互关联。",
+      "related": [
+        "polyphony"
+      ],
+      "sources": [
+        "enc-syncopation",
+        "wd-syncopation"
+      ]
+    },
+    {
+      "id": "chromaticism",
+      "title": "半音化（Chromaticism）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "在自然音阶音与和弦之间穿插半音阶其他音的作曲手法。",
+      "when": "历代（本项目划分）",
+      "overview": "半音化是在主要的自然音阶音高与和弦之间穿插半音阶其他音高的作曲手法。简单说，自然音阶音乐在每个八度内只用七个音，而不是钢琴键盘上的全部十二个；用到这七个之外的音，音乐就是半音化的。",
+      "related": [
+        "tonality",
+        "gesualdo",
+        "wagner"
+      ],
+      "sources": [
+        "enc-chromaticism",
+        "wd-chromaticism"
+      ]
+    },
+    {
+      "id": "dissonance",
+      "title": "协和与不协和（Consonance and dissonance）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "对同时或相继发声的声音所作的分类。",
+      "when": "历代（本项目划分）",
+      "overview": "协和与不协和是对同时或相继发声的声音的分类。在西方传统中，有些听者把协和与甜美、悦耳、可接受相联系，把不协和与刺耳、不悦、不可接受相联系，但人们普遍承认这也取决于熟悉程度与音乐素养。这两个词以互斥相互定义，但细究起来，二者构成从最协和到最不协和的渐变。",
+      "related": [
+        "tonality",
+        "atonality",
+        "expressionism-music"
+      ],
+      "sources": [
+        "enc-dissonance",
+        "wd-dissonance"
+      ]
+    },
+    {
+      "id": "drone",
+      "title": "持续音（Drone）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "一个音或和弦在乐曲大部分或全部时间内持续发声的效果或伴奏。",
+      "when": "历代（本项目划分）",
+      "overview": "持续音是一种和声或单声部效果或伴奏：一个音或和弦在乐曲大部分或全部时间持续发声。它也可指乐器上产生这种效果的部件，古称 burden，如风笛的持续音管、管风琴的持续低音、琉特的最低弦组。burden 也指每节结尾重复的歌曲部分，如副歌。",
+      "related": [
+        "organum",
+        "monophony"
+      ],
+      "sources": [
+        "enc-drone",
+        "wd-drone"
+      ]
+    },
+    {
+      "id": "ternary-form",
+      "title": "三部曲式（Ternary form）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "由A段、B段再回到A段构成的三部分曲式。",
+      "when": "约17世纪起（据摘要所举巴洛克例，本项目划分）",
+      "overview": "三部曲式，有时称歌曲曲式，是由开头段（A）、其后段（B）和第一段的再现（A）构成的三部分曲式，通常记作 A—B—A。著名例子有亨德尔《弥赛亚》中的返始咏叹调《号角将要吹响》、肖邦降D大调前奏曲《雨滴》以及巴赫《约翰受难曲》开场合唱。",
+      "related": [
+        "da-capo-aria",
+        "handel",
+        "chopin",
+        "bach",
+        "strophic-form"
+      ],
+      "sources": [
+        "enc-ternary-form",
+        "wd-ternary-form"
+      ]
+    },
+    {
+      "id": "strophic-form",
+      "title": "分节歌形式（Strophic form）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "歌词各节都用同一段音乐演唱的歌曲结构。",
+      "when": "历代（本项目划分）",
+      "overview": "分节歌形式，又称反复诗节形式、AAA 歌曲形式或一部歌曲形式，是一种歌曲结构：歌词所有诗节都用同一段音乐演唱。与之对照的歌曲形式有通谱歌（每节谱新曲）和三部曲式（中间有对比段）。",
+      "related": [
+        "art-song",
+        "lied",
+        "ternary-form"
+      ],
+      "sources": [
+        "enc-strophic-form",
+        "wd-strophic-form"
+      ]
+    },
+    {
+      "id": "texture-music",
+      "title": "织体（Texture）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "乐曲中速度、旋律与和声材料的组合方式，决定声音的整体质感。",
+      "when": "历代（本项目划分）",
+      "overview": "织体是乐曲中速度、旋律与和声材料的组合方式，决定乐曲声音的整体质感。织体常按密度（厚薄）与音域宽度描述，也按声部数及声部间关系细分。例如厚织体包含许多乐器“层”，其中一层可以是弦乐组或铜管；厚度也随演奏乐器的数量与丰富程度而变。",
+      "related": [
+        "monophony",
+        "homophony",
+        "polyphony"
+      ],
+      "sources": [
+        "enc-texture-music",
+        "wd-texture-music"
+      ]
+    },
+    {
+      "id": "sequence-music",
+      "title": "模进（Sequence）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "18—19世纪",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "在同一声部中把动机或较长旋律片段移高或移低再现。",
+      "when": "18—19世纪古典音乐中最常见（据摘要）",
+      "overview": "模进是在同一声部中把一个动机或较长的旋律片段在更高或更低的音高上再现。它是18、19世纪古典音乐中最常见、最简单的旋律展开方法之一。其特点：通常两段，一般不超过三四段；通常只朝一个方向，持续上行或下行；各段按相同音程距离推进。",
+      "related": [
+        "classical-period-music",
+        "baroque-music"
+      ],
+      "sources": [
+        "enc-sequence-music",
+        "wd-sequence-music"
+      ]
+    },
+    {
+      "id": "courtly-love",
+      "title": "骑士之爱（Courtly love）",
+      "kind": "术语",
+      "unit": "music-medieval",
+      "era": "中世纪盛期",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "中世纪欧洲强调高贵与骑士精神的文学性爱情观念。",
+      "when": "中世纪盛期",
+      "overview": "骑士之爱是中世纪欧洲一种强调高贵与骑士精神的文学性爱情观念。中世纪文学中充满骑士因“骑士之爱”为贵妇冒险、效劳的故事。它原是为贵族娱乐而创的文学虚构，后传入大众文化，吸引更多识字读者。中世纪盛期围绕这些观念形成了一套作为社会实践的“爱的游戏”，“高贵地爱”被视为使人充实与提升的修养。",
+      "related": [
+        "trouvere",
+        "minnesang",
+        "chanson"
+      ],
+      "sources": [
+        "enc-courtly-love",
+        "wd-courtly-love"
+      ]
+    },
+    {
+      "id": "jig",
+      "title": "吉格舞曲（Jig）",
+      "kind": "术语",
+      "unit": "music-baroque",
+      "era": "16世纪起",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "复合拍子的活泼民间舞蹈及其舞曲。",
+      "when": "16世纪起",
+      "overview": "吉格是复合拍子的活泼民间舞蹈及其伴奏舞曲。16世纪起在不列颠群岛流行，后传入欧洲大陆，最终成为成熟的巴洛克舞蹈组曲的终曲乐章。它最常与爱尔兰舞曲、苏格兰乡村舞、法裔加拿大传统音乐与舞蹈及加拿大梅蒂人相联系。吉格原为四拍复合拍子，后来改用多种拍号，常据此分为双吉格、滑步吉格、单吉格等。",
+      "related": [
+        "baroque-music",
+        "bach"
+      ],
+      "sources": [
+        "enc-jig",
+        "wd-jig"
+      ]
+    },
+    {
+      "id": "a-cappella",
+      "title": "无伴奏合唱（A cappella）",
+      "kind": "术语",
+      "unit": "music-renaissance",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "没有任何器乐伴奏的独唱或合唱音乐。",
+      "when": "历代（19世纪起获今义）",
+      "overview": "无伴奏合唱指独唱者或合唱团在没有任何器乐伴奏下演唱的音乐。这个词原本用来区分文艺复兴复调与巴洛克协奏风格。19世纪，人们对文艺复兴复调重新产生兴趣，又不知道当时声部常有乐器重叠，于是这个词转而指无伴奏声乐。它也偶尔作 alla breve 的同义词。",
+      "related": [
+        "renaissance-music",
+        "palestrina",
+        "polyphony"
+      ],
+      "sources": [
+        "enc-a-cappella",
+        "wd-a-cappella"
+      ]
+    },
+    {
+      "id": "tutti",
+      "title": "全奏（Tutti）",
+      "kind": "术语",
+      "unit": "glossary-tools",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "意为“全部”或“一起”的音乐术语，指与独奏相对的整个乐队。",
+      "when": "历代（本项目划分）",
+      "overview": "Tutti 是意大利语，字面意为“全部”或“一起”，作音乐术语时指与独奏者相对的整个乐队。在合唱音乐中同样用来要求整个声部或整个合唱团一起唱。音乐考级机构可能要求考生“演奏全奏段”，即独奏段和全奏段都要演奏。",
+      "related": [
+        "concerto",
+        "cadenza"
+      ],
+      "sources": [
+        "enc-tutti",
+        "wd-tutti"
+      ]
+    },
+    {
+      "id": "brass-instrument",
+      "title": "铜管乐器（Brass instrument）",
+      "kind": "术语",
+      "unit": "music-instruments",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "乐器",
+      "tier": "重要",
+      "def": "通过演奏者嘴唇振动带动管状共鸣体中空气振动发声的乐器。",
+      "when": "历代（本项目划分）",
+      "overview": "铜管乐器是靠演奏者嘴唇振动、带动管状共鸣体中空气共振发声的乐器。这类乐器也称唇振气鸣乐器（labrosone，取拉丁文“唇”与“声”），因为用这种“唇簧”发声的乐器也可以用木头或兽角等材料制成，尤其是早期或传统乐器，如短号（cornett）、阿尔卑斯长号和羊角号（shofar）。",
+      "related": [
+        "symphony"
+      ],
+      "sources": [
+        "enc-brass-instrument",
+        "wd-brass-instrument"
+      ]
+    },
+    {
+      "id": "keyboard-instrument",
+      "title": "键盘乐器（Keyboard instrument）",
+      "kind": "术语",
+      "unit": "music-instruments",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "乐器",
+      "tier": "重要",
+      "def": "以键盘（一排用手指按压的杠杆）演奏的乐器。",
+      "when": "历代（本项目划分）",
+      "overview": "键盘乐器是用键盘演奏的乐器，键盘是一排用手指按压的杠杆。最常见的有钢琴、管风琴和包括合成器、数码钢琴在内的各种电子键盘。其他键盘乐器还有钢片琴（由键盘操纵的击奏体鸣乐器）和排钟（通常装在教堂或市政建筑的钟楼里）。",
+      "related": [
+        "piano",
+        "fortepiano",
+        "basso-continuo"
+      ],
+      "sources": [
+        "enc-keyboard-instrument",
+        "wd-keyboard-instrument"
       ]
     }
   ]

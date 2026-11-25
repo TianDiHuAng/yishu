@@ -5268,6 +5268,24 @@
    "check_result": "errors=0",
    "check_links_result": "broken=0(935页)",
    "commits": 1
+  },
+  {
+   "cycle": "cycle239",
+   "date": "2026-11-25",
+   "status": "completed",
+   "gap_methods": [
+    "开放教材术语表对照（续）"
+   ],
+   "new_entries": 19,
+   "reviews": 49,
+   "fixes": 1,
+   "new_sources": 38,
+   "sources_total": 1671,
+   "entries_total": 917,
+   "pages": 954,
+   "check_result": "errors=0",
+   "check_links_result": "broken=0(954页)",
+   "commits": 1
   }
  ]
 }

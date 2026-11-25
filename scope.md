@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 898 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 917 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -446,6 +446,8 @@
 | conductus | 孔杜克图斯（Conductus） | 术语 | 12—13世纪 | 法国 | 音乐体裁 | 重要 | O2、O4 |
 | isorhythm | 等节奏（Isorhythm） | 术语 | 14世纪 | 欧洲 | 音乐体裁 | 重要 | O2、O4 |
 | cantigas | 《圣母玛利亚歌集》（Cantigas de Santa Maria） | 作品 | 13世纪 | 西班牙 | 音乐体裁 | 重要 | O2 |
+| antiphon | 交替圣咏（Antiphon） | 术语 | 中世纪 | 欧洲 | 音乐体裁 | 重要 | O2、O4 |
+| courtly-love | 骑士之爱（Courtly love） | 术语 | 中世纪盛期 | 欧洲 | 音乐体裁 | 重要 | O2、O4 |
 
 ## music-renaissance（音乐史·文艺复兴）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -473,6 +475,8 @@
 | lauda | 劳达（Lauda） | 风格 | 中世纪晚期—文艺复兴 | 意大利 | 音乐体裁 | 重要 | O1、O3、O4 |
 | venetian-polychoral | 威尼斯复合唱风格（Venetian polychoral style） | 术语 | 16—17世纪 | 欧洲 | 音乐体裁 | 核心 | O1、O3、O4 |
 | consort | 器乐合奏组（Consort） | 术语 | 16—17世纪 | 欧洲 | 音乐体裁 | 重要 | O1、O3、O4 |
+| anthem | 赞美歌（Anthem） | 术语 | 16世纪—今 | 欧洲 | 音乐体裁 | 重要 | O1、O3、O4 |
+| a-cappella | 无伴奏合唱（A cappella） | 术语 | 历代 | 欧洲 | 音乐体裁 | 重要 | O1、O3、O4 |
 
 ## music-baroque（音乐史·巴洛克）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -497,6 +501,7 @@
 | basso-continuo | 数字低音与通奏低音（Figured bass / Basso continuo） | 术语 | 17—18世纪 | 欧洲 | 音乐体裁 | 核心 | O4 |
 | recitative | 宣叙调（Recitative） | 术语 | 17世纪—今 | 欧洲 | 音乐体裁 | 核心 | O4 |
 | da-capo-aria | 返始咏叹调（Da capo aria） | 术语 | 17—18世纪 | 欧洲 | 音乐体裁 | 重要 | O4 |
+| jig | 吉格舞曲（Jig） | 术语 | 16世纪起 | 欧洲 | 音乐体裁 | 重要 | O4 |
 
 ## music-classical（音乐史·古典）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -669,6 +674,17 @@
 | homophony | 主调音乐（Homophony） | 术语 | 历代 | 欧洲 | 音乐体裁 | 核心 | O1 |
 | monophony | 单声部音乐（Monophony） | 术语 | 历代 | 欧洲 | 音乐体裁 | 核心 | O1 |
 | libretto | 歌剧脚本（Libretto） | 术语 | 17世纪—今 | 欧洲 | 音乐体裁 | 重要 | O1 |
+| hymn | 颂歌（Hymn） | 术语 | 历代 | 欧洲 | 音乐体裁 | 重要 | O1 |
+| melisma | 花腔式（Melisma） | 术语 | 历代 | 欧洲 | 音乐体裁 | 重要 | O1 |
+| syncopation | 切分（Syncopation） | 术语 | 历代 | 欧洲 | 音乐体裁 | 重要 | O1 |
+| chromaticism | 半音化（Chromaticism） | 术语 | 历代 | 欧洲 | 音乐体裁 | 核心 | O1 |
+| dissonance | 协和与不协和（Consonance and dissonance） | 术语 | 历代 | 欧洲 | 音乐体裁 | 核心 | O1 |
+| drone | 持续音（Drone） | 术语 | 历代 | 欧洲 | 音乐体裁 | 重要 | O1 |
+| ternary-form | 三部曲式（Ternary form） | 术语 | 历代 | 欧洲 | 音乐体裁 | 核心 | O1 |
+| strophic-form | 分节歌形式（Strophic form） | 术语 | 历代 | 欧洲 | 音乐体裁 | 重要 | O1 |
+| texture-music | 织体（Texture） | 术语 | 历代 | 欧洲 | 音乐体裁 | 核心 | O1 |
+| sequence-music | 模进（Sequence） | 术语 | 18—19世纪 | 欧洲 | 音乐体裁 | 重要 | O1 |
+| tutti | 全奏（Tutti） | 术语 | 历代 | 欧洲 | 音乐体裁 | 重要 | O1 |
 
 ## art-asia（亚洲艺术（南亚/东南亚/东亚））
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -993,6 +1009,9 @@
 | maqam | 阿拉伯木卡姆（Arabic maqam） | 术语 | 历代 | 阿拉伯世界 | 音乐体裁 | 重要 | O4 |
 | shakuhachi | 尺八（shakuhachi） | 作品 | 16世纪—今 | 日本 | 乐器 | 重要 | O1 |
 | djembe | 金贝鼓（djembe） | 作品 | 历代—今 | 西非 | 乐器 | 补充 | O1 |
+| pizzicato | 拨奏（Pizzicato） | 术语 | 历代 | 欧洲 | 乐器 | 重要 | O4 |
+| brass-instrument | 铜管乐器（Brass instrument） | 术语 | 历代 | 欧洲 | 乐器 | 重要 | O4 |
+| keyboard-instrument | 键盘乐器（Keyboard instrument） | 术语 | 历代 | 欧洲 | 乐器 | 重要 | O4 |
 
 ## art-ceramics（中国陶瓷工艺）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
