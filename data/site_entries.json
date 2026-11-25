@@ -29421,7 +29421,8 @@
       ],
       "sources": [
         "enc-stamitz",
-        "wd-stamitz"
+        "wd-stamitz",
+        "gnd-118752618"
       ],
       "level": "L2",
       "sections": {
@@ -29431,11 +29432,11 @@
         "技法或形式分析": "具体技法摘要未给出；渐强渐弱等见曼海姆乐派条目，那是另一条目的内容。",
         "与前后风格的关系和争论": "摘要将其置于巴洛克向古典的过渡。",
         "一图": "示意图以施塔米茨为中心，标示巴洛克、曼海姆乐派、二子卡尔与安东。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年、代表作与“革新”所指，摘要均未给出。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年、代表作与“革新”所指，摘要均未给出。（GND 对照，2026-11-25）德国国家图书馆规范档（118752618）给出生卒 1717—1757；本条目未写具体生卒年，可据此补充。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='stamitz 示意图'><title>stamitz</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>巴洛克</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>前</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>施塔米茨</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>捷克作曲家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>曼海姆乐派</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>奠基人</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>卡尔与安东</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>两子延续</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；生卒年与作品未给出。"
+      "pending_notes": "GND 规范档给出生卒 1717—1757，本条目尚未写入；来源独立性有限（Wikipedia+Wikidata）；生卒年与作品未给出。"
     },
     {
       "id": "galant-music",
@@ -29708,7 +29709,8 @@
       ],
       "sources": [
         "enc-boccherini",
-        "wd-boccherini"
+        "wd-boccherini",
+        "gnd-118659170"
       ],
       "level": "L2",
       "sections": {
@@ -29718,11 +29720,11 @@
         "技法或形式分析": "摘要没有作形式分析，本条目不补写。",
         "与前后风格的关系和争论": "摘要称大提琴协奏曲长期以格吕茨马赫大幅改动的版本流传，近年恢复原貌——这是版本问题，不是学术立场之争。",
         "一图": "示意图以博凯里尼为中心，连向三部代表作。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“近年恢复”的具体时间摘要未给出；生卒年待独立印证。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“近年恢复”的具体时间摘要未给出；生卒年待独立印证。（GND 对照，2026-11-25）德国国家图书馆规范档（118659170）生卒 1743—1805，与本条目一致，已独立印证（只印证生卒与身份）。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='boccherini 示意图'><title>boccherini</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>小步舞曲</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>作品11第5号</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>博凯里尼</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>意大利·大提琴家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>大提琴协奏曲</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>降B大调</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>马德里夜曲</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；生卒年待独立印证。"
+      "pending_notes": "生卒已由 GND 规范档独立印证；来源独立性有限（Wikipedia+Wikidata）；生卒年待独立印证。"
     },
     {
       "id": "hummel",
@@ -29744,7 +29746,8 @@
       ],
       "sources": [
         "enc-hummel",
-        "wd-hummel"
+        "wd-hummel",
+        "gnd-118554751"
       ],
       "level": "L2",
       "sections": {
@@ -29754,11 +29757,11 @@
         "技法或形式分析": "摘要没有作形式分析，本条目不补写。",
         "与前后风格的关系和争论": "摘要称他显著影响了肖邦、李斯特、门德尔松的钢琴音乐。",
         "一图": "示意图标示师承（莫扎特、萨列里、海顿）与影响（肖邦、李斯特、门德尔松）。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）代表作摘要未给出；“最出色的学生之一”为评价性表述未核验。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）代表作摘要未给出；“最出色的学生之一”为评价性表述未核验。（GND 对照，2026-11-25）德国国家图书馆规范档（118554751）生卒 1778—1837，与本条目一致，已独立印证（只印证生卒与身份）。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='hummel 示意图'><title>hummel</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>师承</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>莫扎特·萨列里·海顿</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>胡梅尔</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>奥地利钢琴家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>影响</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>肖邦·李斯特·门德尔松</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>古典→浪漫</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>过渡</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；生卒年待独立印证。"
+      "pending_notes": "生卒已由 GND 规范档独立印证；来源独立性有限（Wikipedia+Wikidata）；生卒年待独立印证。"
     },
     {
       "id": "trouvere",
@@ -29851,7 +29854,8 @@
       ],
       "sources": [
         "enc-perotin",
-        "wd-perotin"
+        "wd-perotin",
+        "gnd-102558957"
       ],
       "level": "L2",
       "sections": {
@@ -29861,11 +29865,11 @@
         "技法或形式分析": "摘要称他引入三声部与四声部和声。",
         "与前后风格的关系和争论": "摘要称他发展了前辈莱奥南的复调实践。",
         "一图": "示意图以佩罗坦为中心，标示莱奥南、三·四声部、古艺术。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。（GND 对照，2026-11-25）德国国家图书馆规范档有此人记录（102558957），但未给出生卒年，只印证标目与身份。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='perotin 示意图'><title>perotin</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>莱奥南</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>前辈</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>佩罗坦</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>圣母院乐派</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>三·四声部</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>引入</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>古艺术</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>风格</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+      "pending_notes": "GND 规范档有记录但无生卒年；来源独立性有限（Wikipedia+Wikidata）"
     },
     {
       "id": "ars-subtilior",
@@ -29921,7 +29925,8 @@
       ],
       "sources": [
         "enc-guido-of-arezzo",
-        "wd-guido-of-arezzo"
+        "wd-guido-of-arezzo",
+        "gnd-118543431"
       ],
       "level": "L2",
       "sections": {
@@ -29931,11 +29936,11 @@
         "技法或形式分析": "摘要称他发明或发展了现代线谱记谱法；具体体系摘要没有给出，本条目不补写。",
         "与前后风格的关系和争论": "摘要指出“发明者”与“发展者”两种说法并存，未列论者；“最重要的著述者”为评价性表述未核验。",
         "一图": "示意图以圭多为中心，标示波爱修斯、线谱记谱、《辨及微芒》。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。（GND 对照，2026-11-25）德国国家图书馆规范档（118543431）给出生卒 992—1050；本条目未写具体生卒年，可据此补充。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='guido-of-arezzo 示意图'><title>guido-of-arezzo</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>波爱修斯</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>前</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>圭多</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>本笃会修士</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>线谱记谱</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>发明或发展</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>《辨及微芒》</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>流传最广</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+      "pending_notes": "GND 规范档给出生卒 992—1050，本条目尚未写入；来源独立性有限（Wikipedia+Wikidata）"
     },
     {
       "id": "conductus",
@@ -30137,7 +30142,8 @@
       ],
       "sources": [
         "enc-ockeghem",
-        "wd-ockeghem"
+        "wd-ockeghem",
+        "gnd-118735926"
       ],
       "level": "L2",
       "sections": {
@@ -30147,11 +30153,11 @@
         "技法或形式分析": "摘要没有作形式分析，本条目不补写。",
         "与前后风格的关系和争论": "摘要把他置于迪费与若斯坎之间；“首要作曲家”为评价性表述未核验。",
         "一图": "示意图以奥克冈为中心，标示迪费、若斯坎、比斯努瓦。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。（GND 对照，2026-11-25）德国国家图书馆规范档（118735926）生卒 1410—1497，与本条目一致，已独立印证（只印证生卒与身份）。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='ockeghem 示意图'><title>ockeghem</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>迪费</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>前</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>奥克冈</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>法兰德斯乐派</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>若斯坎</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>后</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>比斯努瓦</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>同僚</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+      "pending_notes": "生卒已由 GND 规范档独立印证；来源独立性有限（Wikipedia+Wikidata）"
     },
     {
       "id": "dunstaple",
@@ -30173,7 +30179,8 @@
       ],
       "sources": [
         "enc-dunstaple",
-        "wd-dunstaple"
+        "wd-dunstaple",
+        "gnd-119386518"
       ],
       "level": "L2",
       "sections": {
@@ -30183,11 +30190,11 @@
         "技法或形式分析": "“英国风格”的具体特征摘要没有给出，本条目不补写。",
         "与前后风格的关系和争论": "摘要称其影响迪费、班舒瓦、奥克冈、比斯努瓦；“最重要”为评价性表述未核验。",
         "一图": "示意图以邓斯泰布尔为中心，标示英国风格、迪费等、中世纪→文艺复兴。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。（GND 对照，2026-11-25）德国国家图书馆规范档（119386518）生卒 1390—1453，与本条目一致，已独立印证（只印证生卒与身份）。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='dunstaple 示意图'><title>dunstaple</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>英国风格</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>核心代表</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>邓斯泰布尔</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>英国作曲家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>迪费等</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>受其启发</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>中世纪→文艺复兴</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>过渡</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+      "pending_notes": "生卒已由 GND 规范档独立印证；来源独立性有限（Wikipedia+Wikidata）"
     },
     {
       "id": "victoria",
@@ -30209,7 +30216,8 @@
       ],
       "sources": [
         "enc-victoria",
-        "wd-victoria"
+        "wd-victoria",
+        "gnd-118975579"
       ],
       "level": "L2",
       "sections": {
@@ -30219,11 +30227,11 @@
         "技法或形式分析": "摘要称其作品几乎全为拉丁文宗教复调声乐；形式分析摘要没有给出，本条目不补写。",
         "与前后风格的关系和争论": "与帕莱斯特里纳、拉索并列；“最著名”为评价性表述未核验。",
         "一图": "示意图以维多利亚为中心，标示帕莱斯特里纳、拉索、圣周日课。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。（GND 对照，2026-11-25）德国国家图书馆规范档（118975579）生卒 1548—1611，与本条目一致，已独立印证（只印证生卒与身份）。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='victoria 示意图'><title>victoria</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>帕莱斯特里纳</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>并列</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>维多利亚</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>西班牙神父</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>拉索</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>并列</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>圣周日课</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>代表作</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+      "pending_notes": "生卒已由 GND 规范档独立印证；来源独立性有限（Wikipedia+Wikidata）"
     },
     {
       "id": "chanson",
@@ -30700,7 +30708,8 @@
       ],
       "sources": [
         "enc-gu-kaizhi",
-        "wd-gu-kaizhi"
+        "wd-gu-kaizhi",
+        "gnd-128706694"
       ],
       "level": "L2",
       "sections": {
@@ -30710,11 +30719,11 @@
         "技法或形式分析": "摘要转述其论点：人物画以眼睛为神采所在。",
         "与前后风格的关系和争论": "与谢赫“六法”的关系为库内互链，本项目所加。",
         "一图": "示意图以顾恺之为中心，标示东晋、画论三篇、眼睛传神。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。（GND 对照，2026-11-25）德国国家图书馆规范档（128706694）生卒作 344—405，本条目作 344—406，两者不一致；本条目暂不改动，待专门文献核定。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='gu-kaizhi 示意图'><title>gu-kaizhi</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>东晋</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>317—420</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>顾恺之</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>画家·官员</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>画论三篇</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>著述</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>眼睛传神</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>论点</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+      "pending_notes": "生卒与 GND 规范档不一致（GND 344—405，本条目 344—406）；来源独立性有限（Wikipedia+Wikidata）"
     },
     {
       "id": "wu-daozi",
@@ -30734,7 +30743,8 @@
       ],
       "sources": [
         "enc-wu-daozi",
-        "wd-wu-daozi"
+        "wd-wu-daozi",
+        "gnd-132799480"
       ],
       "level": "L2",
       "sections": {
@@ -30744,11 +30754,11 @@
         "技法或形式分析": "摘要没有作技法分析，本条目不补写。",
         "与前后风格的关系和争论": "“七世纪的大师”是苏立文的评价，与其生年（约689）不尽吻合，照录待核。",
         "一图": "示意图以吴道子为中心，标示苏立文、原作、摹本。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。（GND 对照，2026-11-25）德国国家图书馆规范档（132799480）给出生卒 689—759；本条目未写具体生卒年，可据此补充。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='wu-daozi 示意图'><title>wu-daozi</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>苏立文</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>评为大师</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>吴道子</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>唐代画家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>原作</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>无一存世</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>摹本</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>后世存留</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+      "pending_notes": "GND 规范档给出生卒 689—759，本条目尚未写入；来源独立性有限（Wikipedia+Wikidata）"
     },
     {
       "id": "along-the-river",
@@ -30803,7 +30813,8 @@
       ],
       "sources": [
         "enc-wang-ximeng",
-        "wd-wang-ximeng"
+        "wd-wang-ximeng",
+        "gnd-1065416520"
       ],
       "level": "L2",
       "sections": {
@@ -30813,11 +30824,11 @@
         "技法或形式分析": "摘要只称其为青绿长卷；技法摘要没有给出，本条目不补写。",
         "与前后风格的关系和争论": "摘要称宋徽宗亲自指授。",
         "一图": "示意图以王希孟为中心，标示宋徽宗、千里江山图、23岁。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。（GND 对照，2026-11-25）德国国家图书馆规范档（1065416520）生卒 1096—1119，与本条目一致，已独立印证（只印证生卒与身份）。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='wang-ximeng 示意图'><title>wang-ximeng</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>宋徽宗</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>亲授</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>王希孟</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>北宋画家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>千里江山图</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>1113年</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>23岁</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>去世</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+      "pending_notes": "生卒已由 GND 规范档独立印证；来源独立性有限（Wikipedia+Wikidata）"
     },
     {
       "id": "xia-gui",
@@ -30982,7 +30993,8 @@
       ],
       "sources": [
         "enc-wu-changshuo",
-        "wd-wu-changshuo"
+        "wd-wu-changshuo",
+        "gnd-12390112x"
       ],
       "level": "L2",
       "sections": {
@@ -30992,11 +31004,11 @@
         "技法或形式分析": "大胆鲜明的色彩与雄强笔力。",
         "与前后风格的关系和争论": "与齐白石等的关系为库内互链，本项目所加。",
         "一图": "示意图以吴昌硕为中心，标示书法、篆刻、梅·牡丹·石榴。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。（GND 对照，2026-11-25）德国国家图书馆规范档（12390112X）生卒 1844—1927，与本条目一致，已独立印证（只印证生卒与身份）。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='wu-changshuo 示意图'><title>wu-changshuo</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>书法</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>兼擅</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>吴昌硕</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>晚清</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>篆刻</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>兼擅</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>梅·牡丹·石榴</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>题材</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+      "pending_notes": "生卒已由 GND 规范档独立印证；来源独立性有限（Wikipedia+Wikidata）"
     },
     {
       "id": "liu-gongquan",
@@ -31018,7 +31030,8 @@
       ],
       "sources": [
         "enc-liu-gongquan",
-        "wd-liu-gongquan"
+        "wd-liu-gongquan",
+        "gnd-123485576"
       ],
       "level": "L2",
       "sections": {
@@ -31028,11 +31041,11 @@
         "技法或形式分析": "摘要只称其以楷书著名；笔法摘要没有给出，本条目不补写。",
         "与前后风格的关系和争论": "“楷书四大家”是传统并称。",
         "一图": "示意图以柳公权为中心，标示颜真卿、欧阳询、赵孟頫。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。（GND 对照，2026-11-25）德国国家图书馆规范档（123485576）生卒 778—865，与本条目一致，已独立印证（只印证生卒与身份）。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='liu-gongquan 示意图'><title>liu-gongquan</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>颜真卿</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>四大家</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>柳公权</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>晚唐楷书</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>欧阳询</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>四大家</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>赵孟頫</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>四大家</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+      "pending_notes": "生卒已由 GND 规范档独立印证；来源独立性有限（Wikipedia+Wikidata）"
     },
     {
       "id": "mi-fu",
@@ -31055,7 +31068,8 @@
       ],
       "sources": [
         "enc-mi-fu",
-        "wd-mi-fu"
+        "wd-mi-fu",
+        "gnd-119547074"
       ],
       "level": "L2",
       "sections": {
@@ -31065,11 +31079,11 @@
         "技法或形式分析": "山水用“米点”：平头笔点宽湿墨点。",
         "与前后风格的关系和争论": "诗学李白，书法取法王羲之；“宋四家”并称摘要未提。",
         "一图": "示意图以米芾为中心，标示王羲之、米点、李白。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。（GND 对照，2026-11-25）德国国家图书馆规范档（119547074）生卒 1051—1107，与本条目一致，已独立印证（只印证生卒与身份）。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='mi-fu 示意图'><title>mi-fu</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>王羲之</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>书法取法</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>米芾</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>北宋</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>米点</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>山水技法</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>李白</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>诗受影响</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+      "pending_notes": "生卒已由 GND 规范档独立印证；来源独立性有限（Wikipedia+Wikidata）"
     },
     {
       "id": "chu-suiliang",
@@ -31089,7 +31103,8 @@
       ],
       "sources": [
         "enc-chu-suiliang",
-        "wd-chu-suiliang"
+        "wd-chu-suiliang",
+        "gnd-173758568"
       ],
       "level": "L2",
       "sections": {
@@ -31099,11 +31114,11 @@
         "技法或形式分析": "书法风格摘要没有给出，本条目不补写。",
         "与前后风格的关系和争论": "摘要没有谈其书法渊源与影响。",
         "一图": "示意图以褚遂良为中心，标示唐太宗、武后、爱州。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。（GND 对照，2026-11-25）德国国家图书馆规范档（173758568）生卒 596—658，与本条目一致，已独立印证（只印证生卒与身份）。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='chu-suiliang 示意图'><title>chu-suiliang</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>唐太宗</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>信任</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>褚遂良</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>书家·宰相</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>武后</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>655年遭贬</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>爱州</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>658年卒</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+      "pending_notes": "生卒已由 GND 规范档独立印证；来源独立性有限（Wikipedia+Wikidata）"
     },
     {
       "id": "shen-zhou",
@@ -31125,7 +31140,8 @@
       ],
       "sources": [
         "enc-shen-zhou",
-        "wd-shen-zhou"
+        "wd-shen-zhou",
+        "gnd-11899459x"
       ],
       "level": "L2",
       "sections": {
@@ -31135,11 +31151,11 @@
         "技法或形式分析": "画风与技法摘要没有给出，本条目不补写。",
         "与前后风格的关系和争论": "摘要只述生平：家境富裕，后隐居作画、奉养寡母。",
         "一图": "示意图以沈周为中心，标示元明之际、吴门画派、隐居。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。（GND 对照，2026-11-25）德国国家图书馆规范档（11899459X）生卒 1427—1509，与本条目一致，已独立印证（只印证生卒与身份）。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='shen-zhou 示意图'><title>shen-zhou</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>元明之际</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>时代</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>沈周</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>明代画家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>吴门画派</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>开创者</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>隐居</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>奉养寡母</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+      "pending_notes": "生卒已由 GND 规范档独立印证；来源独立性有限（Wikipedia+Wikidata）"
     },
     {
       "id": "sinan",
@@ -31158,7 +31174,8 @@
       ],
       "sources": [
         "enc-sinan",
-        "wd-sinan"
+        "wd-sinan",
+        "gnd-118614614"
       ],
       "level": "L2",
       "sections": {
@@ -31168,11 +31185,11 @@
         "技法或形式分析": "建筑结构与技法摘要没有给出，本条目不补写。",
         "与前后风格的关系和争论": "其学徒设计了苏丹艾哈迈德清真寺与莫斯塔尔古桥。",
         "一图": "示意图以锡南为中心，标示三位苏丹、塞利米耶清真寺、学徒。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。（GND 对照，2026-11-25）德国国家图书馆规范档（118614614）给出生卒 1489—1588；本条目未写具体生卒年，可据此补充。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='sinan 示意图'><title>sinan</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>三位苏丹</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>历仕</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>锡南</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>奥斯曼首席建筑师</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>塞利米耶清真寺</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>埃迪尔内</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>学徒</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>苏丹艾哈迈德清真寺</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+      "pending_notes": "GND 规范档给出生卒 1489—1588，本条目尚未写入；来源独立性有限（Wikipedia+Wikidata）"
     },
     {
       "id": "reza-abbasi",
@@ -31192,7 +31209,8 @@
       ],
       "sources": [
         "enc-reza-abbasi",
-        "wd-reza-abbasi"
+        "wd-reza-abbasi",
+        "gnd-1038762251"
       ],
       "level": "L2",
       "sections": {
@@ -31202,11 +31220,11 @@
         "技法或形式分析": "技法摘要没有给出，本条目不补写。",
         "与前后风格的关系和争论": "“最后一位伟大的大师”为评价性表述未核验。",
         "一图": "示意图以礼萨·阿巴西为中心，标示阿巴斯一世、画册单幅、美少年像。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。（GND 对照，2026-11-25）德国国家图书馆规范档（1038762251）生卒作 1566—1640，本条目作 1565—1635，两者不一致；本条目暂不改动，待专门文献核定。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='reza-abbasi 示意图'><title>reza-abbasi</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>阿巴斯一世</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>赞助</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>礼萨·阿巴西</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>伊斯法罕画派</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>画册单幅</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>代表形式</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>美少年像</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>题材</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+      "pending_notes": "生卒与 GND 规范档不一致（GND 1566—1640，本条目 1565—1635）；来源独立性有限（Wikipedia+Wikidata）"
     },
     {
       "id": "el-anatsui",
@@ -31225,7 +31243,8 @@
       ],
       "sources": [
         "enc-el-anatsui",
-        "wd-el-anatsui"
+        "wd-el-anatsui",
+        "gnd-113491786"
       ],
       "level": "L2",
       "sections": {
@@ -31235,11 +31254,11 @@
         "技法或形式分析": "数千片回收铝片以铜线缝合，成柔韧的金属织物状墙面雕塑。",
         "与前后风格的关系和争论": "摘要没有谈其与非洲传统织物的关系，本条目不补写。",
         "一图": "示意图以艾尔·阿纳祖为中心，标示回收铝片、铜线缝合、金属织物。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。（GND 对照，2026-11-25）德国国家图书馆规范档（113491786）给出生卒 1944—?；本条目未写具体生卒年，可据此补充。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='el-anatsui 示意图'><title>el-anatsui</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>回收铝片</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>材料</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>艾尔·阿纳祖</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>加纳雕塑家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>铜线缝合</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>技法</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>金属织物</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>墙面雕塑</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+      "pending_notes": "GND 规范档给出生卒 1944—?，本条目尚未写入；来源独立性有限（Wikipedia+Wikidata）"
     },
     {
       "id": "pre-columbian-art",
@@ -31294,7 +31313,8 @@
       ],
       "sources": [
         "enc-sesshu",
-        "wd-sesshu"
+        "wd-sesshu",
+        "gnd-119106485"
       ],
       "level": "L2",
       "sections": {
@@ -31304,11 +31324,11 @@
         "技法或形式分析": "透视扁平、线条强劲，融入禅宗美学。",
         "与前后风格的关系和争论": "最初受中国山水启发，形成日本风格。",
         "一图": "示意图以雪舟为中心，标示中国山水、禅宗美学、扁平透视。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。（GND 对照，2026-11-25）德国国家图书馆规范档（119106485）生卒 1420—1506，与本条目一致，已独立印证（只印证生卒与身份）。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='sesshu 示意图'><title>sesshu</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>中国山水</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>启发</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>雪舟</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>禅僧画家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>禅宗美学</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>融入</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>扁平透视</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>线条强劲</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+      "pending_notes": "生卒已由 GND 规范档独立印证；来源独立性有限（Wikipedia+Wikidata）"
     },
     {
       "id": "raja-ravi-varma",
@@ -31328,7 +31348,8 @@
       ],
       "sources": [
         "enc-raja-ravi-varma",
-        "wd-raja-ravi-varma"
+        "wd-raja-ravi-varma",
+        "gnd-11928295x"
       ],
       "level": "L2",
       "sections": {
@@ -31338,11 +31359,11 @@
         "技法或形式分析": "欧洲学院派技法与印度图像志结合；以平价石版画传播。",
         "与前后风格的关系和争论": "摘要称其石版画塑造了大众艺术趣味。",
         "一图": "示意图以拉维·瓦尔马为中心，标示欧洲学院派、印度神话、石版画。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。（GND 对照，2026-11-25）德国国家图书馆规范档（11928295X）生卒 1848—1906，与本条目一致，已独立印证（只印证生卒与身份）。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='raja-ravi-varma 示意图'><title>raja-ravi-varma</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>欧洲学院派</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>技法</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>拉维·瓦尔马</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>印度画家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>印度神话</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>题材</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>石版画</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>大众传播</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+      "pending_notes": "生卒已由 GND 规范档独立印证；来源独立性有限（Wikipedia+Wikidata）"
     },
     {
       "id": "xian-xinghai",
@@ -31364,7 +31385,8 @@
       ],
       "sources": [
         "enc-xian-xinghai",
-        "wd-xian-xinghai"
+        "wd-xian-xinghai",
+        "gnd-137389728"
       ],
       "level": "L2",
       "sections": {
@@ -31374,11 +31396,11 @@
         "技法或形式分析": "摘要只称他用各种主要音乐形式作曲；技法摘要没有给出，本条目不补写。",
         "与前后风格的关系和争论": "摘要称他是最早借鉴西方古典音乐的中国作曲家之一。",
         "一图": "示意图以冼星海为中心，标示西方古典音乐、黄河大合唱、黄河钢琴协奏曲。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。（GND 对照，2026-11-25）德国国家图书馆规范档（137389728）生卒 1905—1945，与本条目一致，已独立印证（只印证生卒与身份）。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='xian-xinghai 示意图'><title>xian-xinghai</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>西方古典音乐</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>借鉴</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>冼星海</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>中国作曲家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>黄河大合唱</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>代表作</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>黄河钢琴协奏曲</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>据此改编</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+      "pending_notes": "生卒已由 GND 规范档独立印证；来源独立性有限（Wikipedia+Wikidata）"
     },
     {
       "id": "nie-er",
@@ -31398,7 +31420,8 @@
       ],
       "sources": [
         "enc-nie-er",
-        "wd-nie-er"
+        "wd-nie-er",
+        "gnd-1022832719"
       ],
       "level": "L2",
       "sections": {
@@ -31408,11 +31431,11 @@
         "技法或形式分析": "摘要没有作形式分析，本条目不补写。",
         "与前后风格的关系和争论": "摘要没有谈其创作背景与影响，本条目不补写。",
         "一图": "示意图以聂耳为中心，标示上海、义勇军进行曲、George Njal。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。（GND 对照，2026-11-25）德国国家图书馆规范档（1022832719）生卒 1912—1935，与本条目一致，已独立印证（只印证生卒与身份）。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='nie-er 示意图'><title>nie-er</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>上海</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>杂志用名</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>聂耳</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>中国作曲家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>义勇军进行曲</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>国歌</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>George Njal</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>英文名</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+      "pending_notes": "生卒已由 GND 规范档独立印证；来源独立性有限（Wikipedia+Wikidata）"
     },
     {
       "id": "tan-dun",
@@ -31433,7 +31456,8 @@
       ],
       "sources": [
         "enc-tan-dun",
-        "wd-tan-dun"
+        "wd-tan-dun",
+        "gnd-121880648"
       ],
       "level": "L2",
       "sections": {
@@ -31443,11 +31467,11 @@
         "技法或形式分析": "“有机音乐”“音乐仪式”是他自己的称呼，具体做法摘要未给出。",
         "与前后风格的关系和争论": "摘要称其融汇西方与中国影响；“代表人物”为评价性表述未核验。",
         "一图": "示意图以谭盾为中心，标示中西影响、马可·波罗、卧虎藏龙。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。（GND 对照，2026-11-25）德国国家图书馆规范档（121880648）给出生卒 1957—?；本条目未写具体生卒年，可据此补充。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='tan-dun 示意图'><title>tan-dun</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>中西影响</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>融汇</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>谭盾</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>作曲家·指挥</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>马可·波罗</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>1996歌剧</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>卧虎藏龙</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>2000配乐</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+      "pending_notes": "GND 规范档给出生卒 1957—?，本条目尚未写入；来源独立性有限（Wikipedia+Wikidata）"
     },
     {
       "id": "lantingji-xu",
@@ -31504,7 +31528,8 @@
       ],
       "sources": [
         "enc-fan-kuan",
-        "wd-fan-kuan"
+        "wd-fan-kuan",
+        "gnd-1115218484"
       ],
       "level": "L2",
       "sections": {
@@ -31514,11 +31539,11 @@
         "技法或形式分析": "技法导言没有给出，本条目不补写。",
         "与前后风格的关系和争论": "并称“北宋三大家”“宋三家”；名字有异说（中立／中正、仲立）。导言所引2004年《生活》杂志排名为评价性表述，不录入正文。",
         "一图": "示意图以范宽为中心，标示关仝·李成、董源·李成、柳公权。",
-        "待核实": "（1）本条目事实仅来自 中文维基百科导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+        "待核实": "（1）本条目事实仅来自 中文维基百科导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。（GND 对照，2026-11-25）德国国家图书馆规范档（1115218484）给出生卒 956—1026；本条目未写具体生卒年，可据此补充。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='fan-kuan 示意图'><title>fan-kuan</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>关仝·李成</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>北宋三大家</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>范宽</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>北宋山水</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>董源·李成</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>宋三家</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>柳公权</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>合称柳范</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据中文维基导言</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+      "pending_notes": "GND 规范档给出生卒 956—1026，本条目尚未写入；来源独立性有限（Wikipedia+Wikidata）"
     },
     {
       "id": "wang-meng",
@@ -31541,7 +31566,8 @@
       ],
       "sources": [
         "enc-wang-meng",
-        "wd-wang-meng"
+        "wd-wang-meng",
+        "gnd-118980319"
       ],
       "level": "L2",
       "sections": {
@@ -31551,11 +31577,11 @@
         "技法或形式分析": "画风导言没有给出，本条目不补写。",
         "与前后风格的关系和争论": "元四家中最年轻者；其余三家导言未点名。",
         "一图": "示意图以王蒙为中心，标示元四家、隐居、胡惟庸案。",
-        "待核实": "（1）本条目事实仅来自 中文维基百科导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+        "待核实": "（1）本条目事实仅来自 中文维基百科导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。（GND 对照，2026-11-25）德国国家图书馆规范档（118980319）生卒 1308—1385，与本条目一致，已独立印证（只印证生卒与身份）。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='wang-meng 示意图'><title>wang-meng</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>元四家</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>最年轻</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>王蒙</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>黄鹤山樵</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>隐居</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>黄鹤山30年</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>胡惟庸案</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>死于狱中</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据中文维基导言</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+      "pending_notes": "生卒已由 GND 规范档独立印证；来源独立性有限（Wikipedia+Wikidata）"
     },
     {
       "id": "four-wangs",
@@ -31683,7 +31709,8 @@
       ],
       "sources": [
         "enc-zhu-zaiyu",
-        "wd-zhu-zaiyu"
+        "wd-zhu-zaiyu",
+        "gnd-11852075x"
       ],
       "level": "L2",
       "sections": {
@@ -31693,11 +31720,11 @@
         "技法或形式分析": "计算方法导言没有给出，本条目不补写。",
         "与前后风格的关系和争论": "导言称其“首创十二平均律”；与西方同期研究的先后关系导言未谈，本条目不补写。",
         "一图": "示意图以朱载堉为中心，标示明宗室、十二平均律、十二律。",
-        "待核实": "（1）本条目事实仅来自 中文维基百科导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+        "待核实": "（1）本条目事实仅来自 中文维基百科导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。（GND 对照，2026-11-25）德国国家图书馆规范档（11852075X）生卒 1536—1611，与本条目一致，已独立印证（只印证生卒与身份）。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='zhu-zaiyu 示意图'><title>zhu-zaiyu</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>明宗室</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>郑王世子</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>朱载堉</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>乐律学家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>十二平均律</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>首创</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>十二律</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>传统律制</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据中文维基导言</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+      "pending_notes": "生卒已由 GND 规范档独立印证；来源独立性有限（Wikipedia+Wikidata）"
     },
     {
       "id": "xiao",
@@ -31793,7 +31820,8 @@
       "sources": [
         "enc-huang-gongwang",
         "wd-huang-gongwang",
-        "cma-1992-1"
+        "cma-1992-1",
+        "gnd-119121417"
       ],
       "level": "L2",
       "sections": {
@@ -31803,11 +31831,11 @@
         "技法或形式分析": "据馆方说明转引《写山水诀》：先淡墨后浓墨，干笔浓墨与深墨染相配，以分田路与远近。",
         "与前后风格的关系和争论": "馆方说明称其风格与五代董源相通，“可能”由董源学得用墨之法——这是推测语气。元四家其余三人摘要未点名。",
         "一图": "示意图以黄公望为中心，标示董源、写山水诀、夏山图。",
-        "待核实": "（1）人物事实来自 Wikipedia 摘要与同源 Wikidata，另有克利夫兰馆方说明一个独立来源，整条仍标待核实。（2）来源未给出的作品与年代一律未补写。"
+        "待核实": "（1）人物事实来自 Wikipedia 摘要与同源 Wikidata，另有克利夫兰馆方说明一个独立来源，整条仍标待核实。（2）来源未给出的作品与年代一律未补写。（GND 对照，2026-11-25）德国国家图书馆规范档（119121417）生卒 1269—1354，与本条目一致，已独立印证（只印证生卒与身份）。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='huang-gongwang 示意图'><title>huang-gongwang</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>董源</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>风格相通</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>黄公望</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>元四家最年长</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>写山水诀</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>论用墨</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>夏山图</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>克利夫兰藏</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据所引来源</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "百科同源＋一馆藏来源"
+      "pending_notes": "生卒已由 GND 规范档独立印证；百科同源＋一馆藏来源"
     },
     {
       "id": "qiu-ying",
@@ -31831,7 +31859,8 @@
       "sources": [
         "enc-qiu-ying",
         "wd-qiu-ying",
-        "cma-1963-102"
+        "cma-1963-102",
+        "gnd-133582779"
       ],
       "level": "L2",
       "sections": {
@@ -31841,11 +31870,11 @@
         "技法或形式分析": "摘要只说擅工笔；具体笔法来源没有给出，本条目不补写。",
         "与前后风格的关系和争论": "馆方称其为“职业画家”，为赞助人作画；与吴门画派的关系两份来源均未谈，库内互链为本项目所加。克利夫兰另藏一卷《宫女图》标为清代（1644—1911），归属存疑，本条目不收。",
         "一图": "示意图以仇英为中心，标示苏州、写经换茶图、独乐园图。",
-        "待核实": "（1）人物事实来自 Wikipedia 摘要与同源 Wikidata，另有克利夫兰馆方说明一个独立来源，整条仍标待核实。（2）来源未给出的作品与年代一律未补写。"
+        "待核实": "（1）人物事实来自 Wikipedia 摘要与同源 Wikidata，另有克利夫兰馆方说明一个独立来源，整条仍标待核实。（2）来源未给出的作品与年代一律未补写。（GND 对照，2026-11-25）德国国家图书馆规范档有此人记录（133582779），但未给出生卒年，只印证标目与身份。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='qiu-ying 示意图'><title>qiu-ying</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>苏州</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>职业画家</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>仇英</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>明代工笔</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>写经换茶图</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>1542—43</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>独乐园图</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>库内另条</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据所引来源</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "百科同源＋一馆藏来源"
+      "pending_notes": "GND 规范档有记录但无生卒年；百科同源＋一馆藏来源"
     },
     {
       "id": "cma-huang-summer-mountains",
@@ -32006,7 +32035,8 @@
       ],
       "sources": [
         "enc-niepce",
-        "wd-niepce"
+        "wd-niepce",
+        "gnd-118862146"
       ],
       "level": "L2",
       "sections": {
@@ -32016,11 +32046,11 @@
         "技法或形式分析": "日光蚀刻法；具体工艺摘要没有给出，本条目不补写。",
         "与前后风格的关系和争论": "摘要没有谈他与达盖尔的合作，本条目不补写。",
         "一图": "示意图以尼埃普斯为中心，标示日光蚀刻法、最早实景照片、内燃机。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。（GND 对照，2026-11-25）德国国家图书馆规范档（118862146）生卒 1765—1833，与本条目一致，已独立印证（只印证生卒与身份）。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='niepce 示意图'><title>niepce</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>日光蚀刻法</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>发明</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>尼埃普斯</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>法国发明家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>最早实景照片</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>1820年代中期</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>内燃机</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>另一发明</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+      "pending_notes": "生卒已由 GND 规范档独立印证；来源独立性有限（Wikipedia+Wikidata）"
     },
     {
       "id": "daguerre",
@@ -32041,7 +32071,8 @@
       ],
       "sources": [
         "enc-daguerre",
-        "wd-daguerre"
+        "wd-daguerre",
+        "gnd-118670883"
       ],
       "level": "L2",
       "sections": {
@@ -32051,11 +32082,11 @@
         "技法或形式分析": "银版法的工艺细节摘要没有给出，本条目不补写。",
         "与前后风格的关系和争论": "“摄影之父”之一为评价性称号；与尼埃普斯的关系摘要未谈。",
         "一图": "示意图以达盖尔为中心，标示画家、银版法、透视画剧场。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。（GND 对照，2026-11-25）德国国家图书馆规范档（118670883）生卒 1787—1851，与本条目一致，已独立印证（只印证生卒与身份）。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='daguerre 示意图'><title>daguerre</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>画家</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>舞台布景</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>达盖尔</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>法国</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>银版法</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>以其命名</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>透视画剧场</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>发展</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+      "pending_notes": "生卒已由 GND 规范档独立印证；来源独立性有限（Wikipedia+Wikidata）"
     },
     {
       "id": "talbot",
@@ -32076,7 +32107,8 @@
       ],
       "sources": [
         "enc-talbot",
-        "wd-talbot"
+        "wd-talbot",
+        "gnd-118753851"
       ],
       "level": "L2",
       "sections": {
@@ -32086,11 +32118,11 @@
         "技法或形式分析": "盐纸印相、卡罗式底片、照相雕版。",
         "与前后风格的关系和争论": "其专利有争议，影响英国商业摄影早期发展——摘要未列争议双方。",
         "一图": "示意图以塔尔博特为中心，标示卡罗式、自然的画笔、专利争议。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。（GND 对照，2026-11-25）德国国家图书馆规范档（118753851）生卒 1800—1877，与本条目一致，已独立印证（只印证生卒与身份）。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='talbot 示意图'><title>talbot</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>卡罗式</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>底片工艺</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>塔尔博特</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>英国摄影先驱</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>自然的画笔</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>1844—46</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>专利争议</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>商业摄影</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+      "pending_notes": "生卒已由 GND 规范档独立印证；来源独立性有限（Wikipedia+Wikidata）"
     },
     {
       "id": "pictorialism",
@@ -32218,7 +32250,8 @@
       ],
       "sources": [
         "enc-stieglitz",
-        "wd-stieglitz"
+        "wd-stieglitz",
+        "gnd-118798847"
       ],
       "level": "L2",
       "sections": {
@@ -32228,11 +32261,11 @@
         "技法或形式分析": "摘要没有作技法分析，本条目不补写。",
         "与前后风格的关系和争论": "在纽约画廊向美国介绍欧洲前卫艺术家。",
         "一图": "示意图以斯蒂格利茨为中心，标示摄影、纽约画廊、奥基夫。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。（GND 对照，2026-11-25）德国国家图书馆规范档（118798847）生卒 1864—1946，与本条目一致，已独立印证（只印证生卒与身份）。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='stieglitz 示意图'><title>stieglitz</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>摄影</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>成为艺术</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>斯蒂格利茨</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>美国摄影家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>纽约画廊</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>前卫艺术</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>奥基夫</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>妻子</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+      "pending_notes": "生卒已由 GND 规范档独立印证；来源独立性有限（Wikipedia+Wikidata）"
     },
     {
       "id": "ansel-adams",
@@ -32252,7 +32285,8 @@
       ],
       "sources": [
         "enc-ansel-adams",
-        "wd-ansel-adams"
+        "wd-ansel-adams",
+        "gnd-11881303x"
       ],
       "level": "L2",
       "sections": {
@@ -32262,11 +32296,11 @@
         "技法或形式分析": "区域曝光法：曝光、冲洗、印放三环节控制影调。",
         "与前后风格的关系和争论": "参与创立f/64小组，主张纯粹摄影。",
         "一图": "示意图以亚当斯为中心，标示f/64小组、区域曝光法、美国西部。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。（GND 对照，2026-11-25）德国国家图书馆规范档（11881303X）生卒 1902—1984，与本条目一致，已独立印证（只印证生卒与身份）。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='ansel-adams 示意图'><title>ansel-adams</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>f/64小组</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>参与创立</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>亚当斯</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>风景摄影</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>区域曝光法</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>与阿彻</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>美国西部</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>黑白影像</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+      "pending_notes": "生卒已由 GND 规范档独立印证；来源独立性有限（Wikipedia+Wikidata）"
     },
     {
       "id": "brunelleschi",
@@ -32287,7 +32321,8 @@
       ],
       "sources": [
         "enc-brunelleschi",
-        "wd-brunelleschi"
+        "wd-brunelleschi",
+        "gnd-118516086"
       ],
       "level": "L2",
       "sections": {
@@ -32297,11 +32332,11 @@
         "技法或形式分析": "线性透视的数学方法；工程、规划与施工总监角色。",
         "与前后风格的关系和争论": "被视为文艺复兴建筑奠基人；“第一位现代工程师”为评价性表述未核验。",
         "一图": "示意图以布鲁内莱斯基为中心，标示线性透视、佛罗伦萨穹顶、1421专利。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。（GND 对照，2026-11-25）德国国家图书馆规范档（118516086）生卒 1377—1446，与本条目一致，已独立印证（只印证生卒与身份）。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='brunelleschi 示意图'><title>brunelleschi</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>线性透视</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>数学方法</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>布鲁内莱斯基</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>文艺复兴建筑</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>佛罗伦萨穹顶</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>代表作</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>1421专利</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>西方首个</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+      "pending_notes": "生卒已由 GND 规范档独立印证；来源独立性有限（Wikipedia+Wikidata）"
     },
     {
       "id": "palladio",
@@ -32322,7 +32357,8 @@
       ],
       "sources": [
         "enc-palladio",
-        "wd-palladio"
+        "wd-palladio",
+        "gnd-118591355"
       ],
       "level": "L2",
       "sections": {
@@ -32332,11 +32368,11 @@
         "技法或形式分析": "受维特鲁威影响；具体手法摘要没有给出，本条目不补写。",
         "与前后风格的关系和争论": "“最有影响的人物之一”为评价性表述未核验。",
         "一图": "示意图以帕拉第奥为中心，标示维特鲁威、别墅、建筑四书。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。（GND 对照，2026-11-25）德国国家图书馆规范档（118591355）生卒 1508—1580，与本条目一致，已独立印证（只印证生卒与身份）。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='palladio 示意图'><title>palladio</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>维特鲁威</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>古典来源</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>帕拉第奥</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>威尼斯共和国</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>别墅</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>代表类型</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>建筑四书</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>论著</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+      "pending_notes": "生卒已由 GND 规范档独立印证；来源独立性有限（Wikipedia+Wikidata）"
     },
     {
       "id": "le-corbusier",
@@ -32358,7 +32394,8 @@
       ],
       "sources": [
         "enc-le-corbusier",
-        "wd-le-corbusier"
+        "wd-le-corbusier",
+        "gnd-118676873"
       ],
       "level": "L2",
       "sections": {
@@ -32368,11 +32405,11 @@
         "技法或形式分析": "建筑主张摘要没有给出，本条目不补写。",
         "与前后风格的关系和争论": "他自述现代建筑源于维奥莱-勒-杜克。",
         "一图": "示意图以勒·柯布西耶为中心，标示维奥莱-勒-杜克、城市规划、欧亚美洲。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。（GND 对照，2026-11-25）德国国家图书馆规范档（118676873）生卒 1887—1965，与本条目一致，已独立印证（只印证生卒与身份）。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='le-corbusier 示意图'><title>le-corbusier</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>维奥莱-勒-杜克</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>自述根源</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>勒·柯布西耶</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>现代建筑先驱</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>城市规划</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>兼任</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>欧亚美洲</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>作品分布</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+      "pending_notes": "生卒已由 GND 规范档独立印证；来源独立性有限（Wikipedia+Wikidata）"
     },
     {
       "id": "frank-lloyd-wright",
@@ -32392,7 +32429,8 @@
       ],
       "sources": [
         "enc-frank-lloyd-wright",
-        "wd-frank-lloyd-wright"
+        "wd-frank-lloyd-wright",
+        "gnd-11863531x"
       ],
       "level": "L2",
       "sections": {
@@ -32402,11 +32440,11 @@
         "技法或形式分析": "有机建筑：与人和环境协调。",
         "与前后风格的关系和争论": "塔里埃森学社培养数百学徒；“最好的作品”为评价性表述未核验。",
         "一图": "示意图以赖特为中心，标示有机建筑、流水别墅、塔里埃森。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。（GND 对照，2026-11-25）德国国家图书馆规范档（11863531X）生卒 1867—1959，与本条目一致，已独立印证（只印证生卒与身份）。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='frank-lloyd-wright 示意图'><title>frank-lloyd-wright</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>有机建筑</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>设计理念</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>赖特</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>美国建筑师</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>流水别墅</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>1935</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>塔里埃森</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>学社</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+      "pending_notes": "生卒已由 GND 规范档独立印证；来源独立性有限（Wikipedia+Wikidata）"
     },
     {
       "id": "brutalism",

@@ -5142,6 +5142,24 @@
    "check_result": "errors=0",
    "check_links_result": "broken=0(921页)",
    "commits": 1
+  },
+  {
+   "cycle": "cycle232",
+   "date": "2026-11-25",
+   "status": "completed",
+   "gap_methods": [
+    "第二来源：38 个人物条目补 GND"
+   ],
+   "new_entries": 0,
+   "reviews": 38,
+   "fixes": 1,
+   "new_sources": 38,
+   "sources_total": 1549,
+   "entries_total": 884,
+   "pages": 921,
+   "check_result": "errors=0",
+   "check_links_result": "broken=0(921页)",
+   "commits": 1
   }
  ]
 }

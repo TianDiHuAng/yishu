@@ -15109,6 +15109,386 @@
       "type": "权威结构化数据",
       "verified": true,
       "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "gnd-118752618",
+      "title": "GND — Stamitz, Johann, 118752618",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118752618",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q156033，按编号与本条目匹配；标目“Stamitz, Johann”，生 1717-06-19，卒 1757-03-27"
+    },
+    {
+      "id": "gnd-118659170",
+      "title": "GND — Boccherini, Luigi, 118659170",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118659170",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q189766，按编号与本条目匹配；标目“Boccherini, Luigi”，生 1743-02-19，卒 1805-05-28"
+    },
+    {
+      "id": "gnd-118554751",
+      "title": "GND — Hummel, Johann Nepomuk, 118554751",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118554751",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q151953，按编号与本条目匹配；标目“Hummel, Johann Nepomuk”，生 1778-11-14，卒 1837-10-17"
+    },
+    {
+      "id": "gnd-102558957",
+      "title": "GND — Perotinus, 102558957",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/102558957",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q206275，按编号与本条目匹配；标目“Perotinus”，生 None，卒 None"
+    },
+    {
+      "id": "gnd-118543431",
+      "title": "GND — Guido, von Arezzo, 118543431",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118543431",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q192238，按编号与本条目匹配；标目“Guido, von Arezzo”，生 0992，卒 1050"
+    },
+    {
+      "id": "gnd-118735926",
+      "title": "GND — Ockeghem, Johannes, 118735926",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118735926",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q143059，按编号与本条目匹配；标目“Ockeghem, Johannes”，生 1410，卒 1497"
+    },
+    {
+      "id": "gnd-119386518",
+      "title": "GND — Dunstable, John, 119386518",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/119386518",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q215134，按编号与本条目匹配；标目“Dunstable, John”，生 1390，卒 1453-12-24"
+    },
+    {
+      "id": "gnd-118975579",
+      "title": "GND — Victoria, Tomás Luis de, 118975579",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118975579",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q215128，按编号与本条目匹配；标目“Victoria, Tomás Luis de”，生 1548，卒 1611"
+    },
+    {
+      "id": "gnd-128706694",
+      "title": "GND — Gu, Kaizhi, 128706694",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/128706694",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q378555，按编号与本条目匹配；标目“Gu, Kaizhi”，生 0344，卒 0405"
+    },
+    {
+      "id": "gnd-132799480",
+      "title": "GND — Wu, Daoxuan, 132799480",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/132799480",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q1196022，按编号与本条目匹配；标目“Wu, Daoxuan”，生 0689，卒 0759"
+    },
+    {
+      "id": "gnd-1065416520",
+      "title": "GND — Wang, Ximeng, 1065416520",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/1065416520",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q626360，按编号与本条目匹配；标目“Wang, Ximeng”，生 1096，卒 1119"
+    },
+    {
+      "id": "gnd-12390112x",
+      "title": "GND — Wu, Changshuo, 12390112X",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/12390112X",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q715400，按编号与本条目匹配；标目“Wu, Changshuo”，生 1844，卒 1927"
+    },
+    {
+      "id": "gnd-123485576",
+      "title": "GND — Liu, Gongquan, 123485576",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/123485576",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q718265，按编号与本条目匹配；标目“Liu, Gongquan”，生 0778，卒 0865"
+    },
+    {
+      "id": "gnd-119547074",
+      "title": "GND — Mi, Fu, 119547074",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/119547074",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q320129，按编号与本条目匹配；标目“Mi, Fu”，生 1051，卒 1107"
+    },
+    {
+      "id": "gnd-173758568",
+      "title": "GND — Chu, Suiliang, 173758568",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/173758568",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q557726，按编号与本条目匹配；标目“Chu, Suiliang”，生 0596，卒 0658"
+    },
+    {
+      "id": "gnd-11899459x",
+      "title": "GND — Shen, Zhou, 11899459X",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/11899459X",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q558863，按编号与本条目匹配；标目“Shen, Zhou”，生 1427，卒 1509"
+    },
+    {
+      "id": "gnd-118614614",
+      "title": "GND — Sinan, 118614614",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118614614",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q5600，按编号与本条目匹配；标目“Sinan”，生 1489，卒 1588"
+    },
+    {
+      "id": "gnd-1038762251",
+      "title": "GND — ʿAlī Riḍā ʿAbbāsī, 1038762251",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/1038762251",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q380726，按编号与本条目匹配；标目“ʿAlī Riḍā ʿAbbāsī”，生 1566，卒 1640"
+    },
+    {
+      "id": "gnd-113491786",
+      "title": "GND — Anatsui, El, 113491786",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/113491786",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q1323876，按编号与本条目匹配；标目“Anatsui, El”，生 1944，卒 None"
+    },
+    {
+      "id": "gnd-119106485",
+      "title": "GND — Sesshū, 119106485",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/119106485",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q48514，按编号与本条目匹配；标目“Sesshū”，生 1420，卒 1506"
+    },
+    {
+      "id": "gnd-11928295x",
+      "title": "GND — Ravi Varma, Raja, 11928295X",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/11928295X",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q333453，按编号与本条目匹配；标目“Ravi Varma, Raja”，生 1848，卒 1906"
+    },
+    {
+      "id": "gnd-137389728",
+      "title": "GND — Xian, Xinghai, 137389728",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/137389728",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q677426，按编号与本条目匹配；标目“Xian, Xinghai”，生 1905-06-13，卒 1945-10-30"
+    },
+    {
+      "id": "gnd-1022832719",
+      "title": "GND — Nie, Er, 1022832719",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/1022832719",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q527143，按编号与本条目匹配；标目“Nie, Er”，生 1912，卒 1935"
+    },
+    {
+      "id": "gnd-121880648",
+      "title": "GND — Tan, Dun, 121880648",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/121880648",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q314176，按编号与本条目匹配；标目“Tan, Dun”，生 1957，卒 None"
+    },
+    {
+      "id": "gnd-1115218484",
+      "title": "GND — Fan, Kuan, 1115218484",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/1115218484",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q1278559，按编号与本条目匹配；标目“Fan, Kuan”，生 0956，卒 1026"
+    },
+    {
+      "id": "gnd-118980319",
+      "title": "GND — Wang, Meng, 118980319",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118980319",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q700903，按编号与本条目匹配；标目“Wang, Meng”，生 1308，卒 1385"
+    },
+    {
+      "id": "gnd-11852075x",
+      "title": "GND — Zhu, Zaiyu, 11852075X",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/11852075X",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q198136，按编号与本条目匹配；标目“Zhu, Zaiyu”，生 1536，卒 1611"
+    },
+    {
+      "id": "gnd-119121417",
+      "title": "GND — Huang, Gongwang, 119121417",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/119121417",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q702525，按编号与本条目匹配；标目“Huang, Gongwang”，生 1269，卒 1354"
+    },
+    {
+      "id": "gnd-133582779",
+      "title": "GND — Qiu, Ying, 133582779",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/133582779",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q769372，按编号与本条目匹配；标目“Qiu, Ying”，生 None，卒 None"
+    },
+    {
+      "id": "gnd-118862146",
+      "title": "GND — Niépce, Nicéphore, 118862146",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118862146",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q188342，按编号与本条目匹配；标目“Niépce, Nicéphore”，生 1765-03-07，卒 1833"
+    },
+    {
+      "id": "gnd-118670883",
+      "title": "GND — Daguerre, Louis Jacques Mandé, 118670883",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118670883",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q131405，按编号与本条目匹配；标目“Daguerre, Louis Jacques Mandé”，生 1787-07-10，卒 1851-07-10"
+    },
+    {
+      "id": "gnd-118753851",
+      "title": "GND — Talbot, William Henry Fox, 118753851",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118753851",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q299565，按编号与本条目匹配；标目“Talbot, William Henry Fox”，生 1800-02-11，卒 1877-12-17"
+    },
+    {
+      "id": "gnd-118798847",
+      "title": "GND — Stieglitz, Alfred, 118798847",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118798847",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q313055，按编号与本条目匹配；标目“Stieglitz, Alfred”，生 1864，卒 1946"
+    },
+    {
+      "id": "gnd-11881303x",
+      "title": "GND — Adams, Ansel, 11881303X",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/11881303X",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q60809，按编号与本条目匹配；标目“Adams, Ansel”，生 1902-02-20，卒 1984-04-22"
+    },
+    {
+      "id": "gnd-118516086",
+      "title": "GND — Brunelleschi, Filippo, 118516086",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118516086",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q174330，按编号与本条目匹配；标目“Brunelleschi, Filippo”，生 1377，卒 1446-04-15"
+    },
+    {
+      "id": "gnd-118591355",
+      "title": "GND — Palladio, Andrea, 118591355",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118591355",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q177692，按编号与本条目匹配；标目“Palladio, Andrea”，生 1508-11-30，卒 1580-08-19"
+    },
+    {
+      "id": "gnd-118676873",
+      "title": "GND — Le Corbusier, 118676873",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/118676873",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q4724，按编号与本条目匹配；标目“Le Corbusier”，生 1887-10-06，卒 1965-08-27"
+    },
+    {
+      "id": "gnd-11863531x",
+      "title": "GND — Wright, Frank Lloyd, 11863531X",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/11863531X",
+      "type": "国家图书馆人名规范记录（标目、生卒、职业）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q5604，按编号与本条目匹配；标目“Wright, Frank Lloyd”，生 1867-06-08，卒 1959-04-09"
     }
   ]
 }
