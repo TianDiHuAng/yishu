@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 803 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 819 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -398,6 +398,14 @@
 | leonin | 莱奥南（Léonin） | 人物 | 12世纪 | 法国 | 音乐体裁 | 重要 | O2 |
 | ars-nova | 新艺术（Ars nova，音乐） | 风格 | 14世纪 | 法国 | 音乐体裁 | 核心 | O2、O4 |
 | ars-antiqua | 古艺术（Ars antiqua） | 风格 | 约1170—1310年 | 欧洲 | 音乐体裁 | 重要 | O2、O4 |
+| trouvere | 特鲁维尔（Trouvère） | 风格 | 12—13世纪 | 法国 | 音乐体裁 | 重要 | O2、O4 |
+| minnesang | 恋诗歌（Minnesang） | 风格 | 中世纪盛期 | 德国 | 音乐体裁 | 重要 | O2、O4 |
+| perotin | 佩罗坦（Pérotin） | 人物 | 12—13世纪 | 法国 | 音乐体裁 | 重要 | O2 |
+| ars-subtilior | 精微艺术（Ars subtilior） | 风格 | 14世纪 | 法国 | 音乐体裁 | 重要 | O2、O4 |
+| guido-of-arezzo | 阿雷佐的圭多（Guido of Arezzo） | 人物 | 11世纪 | 意大利 | 音乐体裁 | 核心 | O2 |
+| conductus | 孔杜克图斯（Conductus） | 术语 | 12—13世纪 | 法国 | 音乐体裁 | 重要 | O2、O4 |
+| isorhythm | 等节奏（Isorhythm） | 术语 | 14世纪 | 欧洲 | 音乐体裁 | 重要 | O2、O4 |
+| cantigas | 《圣母玛利亚歌集》（Cantigas de Santa Maria） | 作品 | 13世纪 | 西班牙 | 音乐体裁 | 重要 | O2 |
 
 ## music-renaissance（音乐史·文艺复兴）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -415,6 +423,14 @@
 | lassus | 拉索（Orlando di Lasso） | 人物 | 16世纪 | 佛兰德斯 | 音乐体裁 | 重要 | O1、O3 |
 | gesualdo | 杰苏阿尔多（Carlo Gesualdo） | 人物 | 16—17世纪 | 意大利 | 音乐体裁 | 重要 | O1、O3 |
 | dufay | 迪费（Guillaume Du Fay） | 人物 | 15世纪 | 法国·法兰德斯 | 音乐体裁 | 重要 | O1、O3 |
+| mensural-notation | 定量记谱法（Mensural notation） | 术语 | 13—17世纪 | 欧洲 | 音乐体裁 | 核心 | O1、O3、O4 |
+| franco-flemish-school | 法兰德斯乐派（Franco-Flemish School） | 风格 | 15—16世纪 | 佛兰德斯 | 音乐体裁 | 核心 | O1、O3、O4 |
+| ockeghem | 奥克冈（Johannes Ockeghem） | 人物 | 15世纪 | 佛兰德斯 | 音乐体裁 | 重要 | O1、O3 |
+| dunstaple | 邓斯泰布尔（John Dunstaple） | 人物 | 15世纪 | 英国 | 音乐体裁 | 重要 | O1、O3 |
+| victoria | 维多利亚（Tomás Luis de Victoria） | 人物 | 16—17世纪 | 西班牙 | 音乐体裁 | 重要 | O1、O3 |
+| chanson | 尚松（Chanson） | 风格 | 14—16世纪 | 法国 | 音乐体裁 | 重要 | O1、O3、O4 |
+| viol | 维奥尔琴（Viol） | 术语 | 15—17世纪 | 西班牙 | 乐器 | 重要 | O1、O3、O4 |
+| lauda | 劳达（Lauda） | 风格 | 中世纪晚期—文艺复兴 | 意大利 | 音乐体裁 | 重要 | O1、O3、O4 |
 
 ## music-baroque（音乐史·巴洛克）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

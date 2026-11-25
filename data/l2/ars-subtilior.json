@@ -1,0 +1,20 @@
+{
+  "id": "ars-subtilior",
+  "level": "L2",
+  "sections": {
+    "时代背景": "摘要称其见于14世纪末的巴黎、阿维尼翁、西班牙北部与法属塞浦路斯。",
+    "风格特征": "摘要称，14世纪末以节奏与记谱复杂为特征的音乐风格，中心在巴黎、阿维尼翁与西班牙北部。",
+    "代表人物与作品": "主要原始资料：《尚蒂伊抄本》《摩德纳抄本》《都灵手稿》；作曲家摘要没有给出，本条目不补写。",
+    "技法或形式分析": "摘要称其特征是节奏与记谱的复杂性；具体手法摘要没有给出，本条目不补写。",
+    "与前后风格的关系和争论": "摘要称：一般与新艺术对照为两个时期，但有学者把它看作新艺术的分支——这是归类上的不同看法，摘要未列论者。",
+    "一图": "示意图以精微艺术为中心，标示新艺术、节奏与记谱、三部抄本。",
+    "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='ars-subtilior 示意图'><title>ars-subtilior</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>新艺术</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>约1310—1370</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>精微艺术</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>14世纪末</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>节奏与记谱</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>复杂</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>三部抄本</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>原始资料</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+  "sources": [
+    "enc-ars-subtilior",
+    "wd-ars-subtilior"
+  ],
+  "needs_verification": true,
+  "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+}

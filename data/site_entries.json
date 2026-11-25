@@ -3533,7 +3533,13 @@
         "mass-music",
         "hildegard",
         "machaut",
-        "leonin"
+        "leonin",
+        "trouvere",
+        "minnesang",
+        "ars-subtilior",
+        "guido-of-arezzo",
+        "cantigas",
+        "lauda"
       ],
       "sources": [
         "enc-medieval-music",
@@ -3611,7 +3617,9 @@
         "cma-verona-gradual",
         "medieval-crossmedia",
         "mass-music",
-        "hildegard"
+        "hildegard",
+        "guido-of-arezzo",
+        "mensural-notation"
       ],
       "sources": [
         "enc-gregorian-chant",
@@ -3684,7 +3692,9 @@
         "polyphony",
         "hildegard",
         "leonin",
-        "ars-antiqua"
+        "ars-antiqua",
+        "perotin",
+        "conductus"
       ],
       "sources": [
         "enc-polyphony",
@@ -3724,7 +3734,10 @@
         "motet",
         "counterpoint",
         "machaut",
-        "leonin"
+        "leonin",
+        "perotin",
+        "guido-of-arezzo",
+        "mensural-notation"
       ],
       "sources": [
         "enc-polyphony",
@@ -3769,7 +3782,14 @@
         "tallis",
         "byrd",
         "lassus",
-        "gesualdo"
+        "gesualdo",
+        "mensural-notation",
+        "franco-flemish-school",
+        "dunstaple",
+        "victoria",
+        "chanson",
+        "viol",
+        "lauda"
       ],
       "sources": [
         "enc-renaissance-music",
@@ -3803,7 +3823,8 @@
       "related": [
         "renaissance-music",
         "baroque-music",
-        "gesualdo"
+        "gesualdo",
+        "chanson"
       ],
       "sources": [
         "enc-renaissance-music",
@@ -3838,7 +3859,8 @@
         "renaissance-music",
         "baroque-music",
         "josquin",
-        "lassus"
+        "lassus",
+        "victoria"
       ],
       "sources": [
         "enc-renaissance-music",
@@ -22724,7 +22746,10 @@
         "machaut",
         "dufay",
         "ars-nova",
-        "ars-antiqua"
+        "ars-antiqua",
+        "isorhythm",
+        "franco-flemish-school",
+        "victoria"
       ],
       "sources": [
         "enc-motet",
@@ -22761,7 +22786,8 @@
         "gregorian-chant",
         "motet",
         "medieval-music",
-        "josquin"
+        "josquin",
+        "franco-flemish-school"
       ],
       "sources": [
         "enc-mass-music",
@@ -22878,7 +22904,9 @@
         "mass-music",
         "palestrina",
         "lassus",
-        "dufay"
+        "dufay",
+        "franco-flemish-school",
+        "ockeghem"
       ],
       "sources": [
         "enc-josquin",
@@ -23494,7 +23522,8 @@
         "renaissance-music",
         "tallis",
         "motet",
-        "purcell"
+        "purcell",
+        "dunstaple"
       ],
       "sources": [
         "enc-byrd",
@@ -23532,7 +23561,9 @@
       "related": [
         "renaissance-music",
         "palestrina",
-        "josquin"
+        "josquin",
+        "franco-flemish-school",
+        "victoria"
       ],
       "sources": [
         "enc-lassus",
@@ -23610,7 +23641,10 @@
         "polyphony",
         "motet",
         "dufay",
-        "ars-nova"
+        "ars-nova",
+        "ars-subtilior",
+        "isorhythm",
+        "chanson"
       ],
       "sources": [
         "enc-machaut",
@@ -23649,7 +23683,9 @@
         "organum",
         "polyphony",
         "medieval-music",
-        "ars-antiqua"
+        "ars-antiqua",
+        "perotin",
+        "conductus"
       ],
       "sources": [
         "enc-leonin",
@@ -25736,7 +25772,10 @@
       "related": [
         "machaut",
         "josquin",
-        "motet"
+        "motet",
+        "franco-flemish-school",
+        "ockeghem",
+        "dunstaple"
       ],
       "sources": [
         "enc-dufay",
@@ -26279,7 +26318,10 @@
       "related": [
         "machaut",
         "ars-antiqua",
-        "motet"
+        "motet",
+        "ars-subtilior",
+        "isorhythm",
+        "mensural-notation"
       ],
       "sources": [
         "enc-ars-nova",
@@ -26315,7 +26357,9 @@
         "ars-nova",
         "leonin",
         "organum",
-        "motet"
+        "motet",
+        "perotin",
+        "conductus"
       ],
       "sources": [
         "enc-ars-antiqua",
@@ -29596,6 +29640,574 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='hummel 示意图'><title>hummel</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>师承</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>莫扎特·萨列里·海顿</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>胡梅尔</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>奥地利钢琴家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>影响</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>肖邦·李斯特·门德尔松</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>古典→浪漫</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>过渡</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；生卒年待独立印证。"
+    },
+    {
+      "id": "trouvere",
+      "title": "特鲁维尔（Trouvère）",
+      "kind": "风格",
+      "unit": "music-medieval",
+      "era": "12—13世纪",
+      "region": "法国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "中世纪盛期法国北部的诗人兼作曲家，与奥克语游吟诗人大致同时并受其影响。",
+      "when": "约公元12世纪—1300年",
+      "overview": "特鲁维尔是奥克语“trobador”的法国北方形式，指与游吟诗人大致同时、受其影响的诗人兼作曲家，在中世纪盛期创作并演唱抒情诗；游吟诗人用古奥克语，特鲁维尔用法国北方方言。克雷蒂安·德·特鲁瓦是已知最早的特鲁维尔之一，这一传统兴盛至约1300年。存世约2130首诗，其中至少三分之二带有旋律。",
+      "related": [
+        "minnesang",
+        "medieval-music",
+        "chanson",
+        "cantigas"
+      ],
+      "sources": [
+        "enc-trouvere",
+        "wd-trouvere"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称特鲁维尔活跃于中世纪盛期，兴盛至约1300年。",
+        "风格特征": "摘要称，中世纪盛期法国北部的诗人兼作曲家，与奥克语游吟诗人大致同时并受其影响。",
+        "代表人物与作品": "克雷蒂安·德·特鲁瓦是已知最早的特鲁维尔之一；其余人物摘要没有给出，本条目不补写。",
+        "技法或形式分析": "摘要给出的数据：存世约2130首诗，至少三分之二带旋律。记谱与曲式摘要没有给出，本条目不补写。",
+        "与前后风格的关系和争论": "摘要称其受奥克语游吟诗人影响，区别在于所用语言（法国北方方言）。",
+        "一图": "示意图以特鲁维尔为中心，标示游吟诗人、约2130首、约1300年。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='trouvere 示意图'><title>trouvere</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>游吟诗人</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>奥克语</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>特鲁维尔</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>法国北方方言</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>约2130首</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>存世诗作</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>约1300年</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>兴盛至</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "minnesang",
+      "title": "恋诗歌（Minnesang）",
+      "kind": "风格",
+      "unit": "music-medieval",
+      "era": "中世纪盛期",
+      "region": "德国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "中古高地德语时期兴盛的德语抒情诗与歌曲传统，以爱情为主要题材。",
+      "when": "中世纪盛期（约12—13世纪，本项目划分）",
+      "overview": "恋诗歌是中古高地德语时期兴盛的德语抒情诗与歌曲写作传统。名称来自中古高地德语表示爱情的“minne”，因为爱情是其主要题材。创作和演唱者称恋诗歌手（Minnesänger），单首歌称 Minnelied。恋诗歌手可与奥克语游吟诗人、法国北方特鲁维尔相比，但被称为“德语对宫廷抒情诗的原创贡献”。",
+      "related": [
+        "trouvere",
+        "medieval-music"
+      ],
+      "sources": [
+        "enc-minnesang",
+        "wd-minnesang"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要只说兴盛于中古高地德语时期，没有给出具体年份。",
+        "风格特征": "摘要称，中古高地德语时期兴盛的德语抒情诗与歌曲传统，以爱情为主要题材。",
+        "代表人物与作品": "人物与作品摘要没有给出，本条目不补写。",
+        "技法或形式分析": "形式与记谱摘要没有给出，本条目不补写。",
+        "与前后风格的关系和争论": "摘要称恋诗歌手可与游吟诗人、特鲁维尔相比，但属德语的原创贡献。",
+        "一图": "示意图以恋诗歌为中心，标示游吟诗人·特鲁维尔、minne、Minnelied。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='minnesang 示意图'><title>minnesang</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>游吟诗人·特鲁维尔</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>可比</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>恋诗歌</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>德语宫廷抒情</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>minne</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>爱情</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>Minnelied</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>单首歌</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "perotin",
+      "title": "佩罗坦（Pérotin）",
+      "kind": "人物",
+      "unit": "music-medieval",
+      "era": "12—13世纪",
+      "region": "法国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "与巴黎圣母院复调乐派及古艺术风格相关的作曲家。",
+      "when": "12—13世纪",
+      "overview": "佩罗坦是与巴黎圣母院复调乐派及更广的“古艺术”风格相关的中世纪盛期作曲家。他被认为发展了前辈莱奥南的复调实践，引入了三声部和四声部的和声。",
+      "related": [
+        "leonin",
+        "ars-antiqua",
+        "organum",
+        "polyphony",
+        "conductus"
+      ],
+      "sources": [
+        "enc-perotin",
+        "wd-perotin"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要没有给出生卒年；年代为本项目按“12世纪法国作曲家”的描述栏划分。",
+        "风格特征": "摘要称，与巴黎圣母院复调乐派及古艺术风格相关的作曲家。",
+        "代表人物与作品": "具体作品摘要没有给出，本条目不补写。",
+        "技法或形式分析": "摘要称他引入三声部与四声部和声。",
+        "与前后风格的关系和争论": "摘要称他发展了前辈莱奥南的复调实践。",
+        "一图": "示意图以佩罗坦为中心，标示莱奥南、三·四声部、古艺术。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='perotin 示意图'><title>perotin</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>莱奥南</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>前辈</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>佩罗坦</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>圣母院乐派</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>三·四声部</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>引入</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>古艺术</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>风格</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "ars-subtilior",
+      "title": "精微艺术（Ars subtilior）",
+      "kind": "风格",
+      "unit": "music-medieval",
+      "era": "14世纪",
+      "region": "法国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "14世纪末以节奏与记谱复杂为特征的音乐风格，中心在巴黎、阿维尼翁与西班牙北部。",
+      "when": "14世纪末",
+      "overview": "精微艺术是以节奏与记谱复杂为特征的音乐风格，14世纪末以巴黎、法国南部阿维尼翁和西班牙北部为中心，也见于法属塞浦路斯的曲目。这一术语常与此前约1310至1370年的“新艺术”对照，但有学者倾向把它视为新艺术的一个分支。主要原始资料是《尚蒂伊抄本》《摩德纳抄本》与《都灵手稿》。",
+      "related": [
+        "ars-nova",
+        "machaut",
+        "medieval-music"
+      ],
+      "sources": [
+        "enc-ars-subtilior",
+        "wd-ars-subtilior"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称其见于14世纪末的巴黎、阿维尼翁、西班牙北部与法属塞浦路斯。",
+        "风格特征": "摘要称，14世纪末以节奏与记谱复杂为特征的音乐风格，中心在巴黎、阿维尼翁与西班牙北部。",
+        "代表人物与作品": "主要原始资料：《尚蒂伊抄本》《摩德纳抄本》《都灵手稿》；作曲家摘要没有给出，本条目不补写。",
+        "技法或形式分析": "摘要称其特征是节奏与记谱的复杂性；具体手法摘要没有给出，本条目不补写。",
+        "与前后风格的关系和争论": "摘要称：一般与新艺术对照为两个时期，但有学者把它看作新艺术的分支——这是归类上的不同看法，摘要未列论者。",
+        "一图": "示意图以精微艺术为中心，标示新艺术、节奏与记谱、三部抄本。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='ars-subtilior 示意图'><title>ars-subtilior</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>新艺术</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>约1310—1370</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>精微艺术</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>14世纪末</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>节奏与记谱</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>复杂</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>三部抄本</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>原始资料</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "guido-of-arezzo",
+      "title": "阿雷佐的圭多（Guido of Arezzo）",
+      "kind": "人物",
+      "unit": "music-medieval",
+      "era": "11世纪",
+      "region": "意大利",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "中世纪盛期意大利音乐理论家与教育家，被视为现代五线谱记谱法的发明者或发展者。",
+      "when": "约991/2—1033",
+      "overview": "阿雷佐的圭多是中世纪盛期意大利音乐理论家与教育家，本笃会修士。他被视为现代线谱记谱法的发明者（也有人认为是发展者），对西方记谱与音乐实践影响巨大。他可能是波爱修斯与廷克托里斯之间最重要的欧洲音乐著述者，所著《辨及微芒》是继波爱修斯《论音乐的建制》之后流传最广的中世纪音乐论著。",
+      "related": [
+        "gregorian-chant",
+        "medieval-music",
+        "polyphony"
+      ],
+      "sources": [
+        "enc-guido-of-arezzo",
+        "wd-guido-of-arezzo"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "生卒年约991/2—1033来自摘要描述栏；摘要称其为本笃会修士。",
+        "风格特征": "摘要称，中世纪盛期意大利音乐理论家与教育家，被视为现代五线谱记谱法的发明者或发展者。",
+        "代表人物与作品": "著作《辨及微芒》（Micrologus）。",
+        "技法或形式分析": "摘要称他发明或发展了现代线谱记谱法；具体体系摘要没有给出，本条目不补写。",
+        "与前后风格的关系和争论": "摘要指出“发明者”与“发展者”两种说法并存，未列论者；“最重要的著述者”为评价性表述未核验。",
+        "一图": "示意图以圭多为中心，标示波爱修斯、线谱记谱、《辨及微芒》。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='guido-of-arezzo 示意图'><title>guido-of-arezzo</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>波爱修斯</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>前</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>圭多</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>本笃会修士</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>线谱记谱</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>发明或发展</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>《辨及微芒》</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>流传最广</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "conductus",
+      "title": "孔杜克图斯（Conductus）",
+      "kind": "术语",
+      "unit": "music-medieval",
+      "era": "12—13世纪",
+      "region": "法国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "中世纪新创诗与乐的拉丁宗教歌曲，非礼仪性。",
+      "when": "约12世纪初—13世纪中叶",
+      "overview": "孔杜克图斯是中世纪的拉丁宗教歌曲，其诗与乐均为新作；由于拉丁歌词很少借用旧有圣咏，它不属礼仪音乐。它是北法对应于阿基坦圣马夏尔乐派“versus”的体裁。该词最早见于12世纪阿基坦曲目，但主要集成出自巴黎圣母院乐派。通常为一至三声部，少数四声部；风格上属迪斯康特，形式可为分节或通谱。这一体裁兴盛于12世纪初至13世纪中叶，是古艺术时期主要的声乐体裁之一。",
+      "related": [
+        "ars-antiqua",
+        "organum",
+        "perotin",
+        "leonin"
+      ],
+      "sources": [
+        "enc-conductus",
+        "wd-conductus"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称其兴盛于12世纪初至13世纪中叶，最早见于阿基坦曲目，主要集成出自巴黎圣母院乐派。",
+        "风格特征": "摘要称，中世纪新创诗与乐的拉丁宗教歌曲，非礼仪性。",
+        "代表人物与作品": "具体作品摘要没有给出，本条目不补写。",
+        "技法或形式分析": "一至三声部（少数四声部）；属迪斯康特；分节或通谱。",
+        "与前后风格的关系和争论": "摘要称它是古艺术时期主要声乐体裁之一，对应阿基坦的 versus。",
+        "一图": "示意图以孔杜克图斯为中心，标示versus、1—3声部、圣母院乐派。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='conductus 示意图'><title>conductus</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>versus</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>阿基坦对应</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>孔杜克图斯</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>新作拉丁歌</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>1—3声部</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>少数4声部</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>圣母院乐派</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>主要集成</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "isorhythm",
+      "title": "等节奏（Isorhythm）",
+      "kind": "术语",
+      "unit": "music-medieval",
+      "era": "14世纪",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "在至少一个声部中贯穿全曲重复一个节奏型（talea）的作曲技法。",
+      "when": "中世纪晚期（本项目划分）",
+      "overview": "等节奏是一种作曲技法：至少一个声部贯穿全曲重复同一节奏型，称为 talea。talea 通常配合一个或多个音高旋律型（color），两者长度可相同也可不同。",
+      "related": [
+        "ars-nova",
+        "machaut",
+        "motet"
+      ],
+      "sources": [
+        "enc-isorhythm",
+        "wd-isorhythm"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要没有给出年代；本条目归中世纪单元是本项目划分。",
+        "风格特征": "摘要称，在至少一个声部中贯穿全曲重复一个节奏型（talea）的作曲技法。",
+        "代表人物与作品": "摘要没有列举作曲家与作品，本条目不补写。",
+        "技法或形式分析": "节奏型 talea 与音高型 color 配合，二者长度可同可异。",
+        "与前后风格的关系和争论": "与新艺术、马肖的联系为库内互链，本项目所加。",
+        "一图": "示意图以等节奏为中心，标示talea、color、长度。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='isorhythm 示意图'><title>isorhythm</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>talea</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>节奏型</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>等节奏</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>重复节奏</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>color</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>音高型</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>长度</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>可同可异</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "cantigas",
+      "title": "《圣母玛利亚歌集》（Cantigas de Santa Maria）",
+      "kind": "作品",
+      "unit": "music-medieval",
+      "era": "13世纪",
+      "region": "西班牙",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "卡斯蒂利亚“智者”阿方索十世在位时以加利西亚—葡萄牙语写成、带乐谱的420首诗。",
+      "when": "阿方索十世在位期间（1221—1284为其生卒）",
+      "overview": "《圣母玛利亚歌集》是420首带乐谱的诗，在卡斯蒂利亚“智者”阿方索十世（1221—1284）在位时以中世纪加利西亚—葡萄牙语写成。传统上全部归于阿方索，但学者后来确认大部分出自其宫廷乐师与诗人，阿方索本人只被认作其中少数几首的作者。",
+      "related": [
+        "trouvere",
+        "medieval-music"
+      ],
+      "sources": [
+        "enc-cantigas",
+        "wd-cantigas"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称写于阿方索十世在位期间；1221—1284是阿方索的生卒年，不是成书年。",
+        "风格特征": "摘要称，卡斯蒂利亚“智者”阿方索十世在位时以加利西亚—葡萄牙语写成、带乐谱的420首诗。",
+        "代表人物与作品": "作者：传统归阿方索十世，学者确认多出自宫廷乐师与诗人。",
+        "技法或形式分析": "摘要给出的数据只有420首、带乐谱；记谱与曲式摘要没有给出，本条目不补写。",
+        "与前后风格的关系和争论": "作者归属已由传统说法修正为宫廷集体创作，摘要未列论者。",
+        "一图": "示意图以圣母玛利亚歌集为中心，标示阿方索十世、宫廷乐师诗人、加利西亚—葡萄牙语。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cantigas 示意图'><title>cantigas</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>阿方索十世</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>传统归属</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>圣母玛利亚歌集</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>420首</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>宫廷乐师诗人</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>多数作者</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>加利西亚—葡萄牙语</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>语言</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "mensural-notation",
+      "title": "定量记谱法（Mensural notation）",
+      "kind": "术语",
+      "unit": "music-renaissance",
+      "era": "13—17世纪",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "13世纪末至17世纪初欧洲复调声乐所用的记谱体系，以音符时值的数比关系记录精确节奏。",
+      "when": "约13世纪末—17世纪初",
+      "overview": "定量记谱法是13世纪末至17世纪初欧洲复调声乐所用的记谱体系。“定量”指依音符时值的数比关系记录精确节奏。名称来自中世纪理论家的用语 musica mensurata 或 cantus mensurabilis，与格里高利素歌（musica plana）相对。它主要用于复调声乐；素歌在这一时期仍用旧有的纽姆记谱，部分器乐则用各种乐器专用的指法谱。",
+      "related": [
+        "polyphony",
+        "gregorian-chant",
+        "ars-nova",
+        "renaissance-music"
+      ],
+      "sources": [
+        "enc-mensural-notation",
+        "wd-mensural-notation"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称其通行于13世纪末至17世纪初。",
+        "风格特征": "摘要称，13世纪末至17世纪初欧洲复调声乐所用的记谱体系，以音符时值的数比关系记录精确节奏。",
+        "代表人物与作品": "摘要没有列举作曲家，本条目不补写。",
+        "技法或形式分析": "以时值的数比关系记节奏；素歌仍用纽姆谱，部分器乐用指法谱。",
+        "与前后风格的关系和争论": "摘要称其与素歌记谱相对，名称取自中世纪理论家用语。",
+        "一图": "示意图以定量记谱为中心，标示纽姆谱、数比时值、指法谱。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='mensural-notation 示意图'><title>mensural-notation</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>纽姆谱</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>素歌</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>定量记谱</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>复调声乐</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>数比时值</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>精确节奏</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>指法谱</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>部分器乐</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "franco-flemish-school",
+      "title": "法兰德斯乐派（Franco-Flemish School）",
+      "kind": "风格",
+      "unit": "music-renaissance",
+      "era": "15—16世纪",
+      "region": "佛兰德斯",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "15—16世纪起源于法国与勃艮第尼德兰的复调声乐创作风格及其作曲家。",
+      "when": "15—16世纪",
+      "overview": "法兰德斯乐派（又称尼德兰乐派、勃艮第乐派等）指15、16世纪起源于法国与勃艮第尼德兰的复调声乐创作风格，以及创作这种音乐的作曲家。其技法的传播，尤其在印刷术革命性发展之后，形成了自9世纪格里高利圣咏统一以来第一个真正的国际风格。法兰德斯作曲家主要写宗教音乐，以弥撒曲、经文歌和赞美诗为主。",
+      "related": [
+        "ockeghem",
+        "josquin",
+        "dufay",
+        "lassus",
+        "renaissance-music",
+        "mass-music",
+        "motet"
+      ],
+      "sources": [
+        "enc-franco-flemish-school",
+        "wd-franco-flemish-school"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称其起源于15—16世纪的法国与勃艮第尼德兰。",
+        "风格特征": "摘要称，15—16世纪起源于法国与勃艮第尼德兰的复调声乐创作风格及其作曲家。",
+        "代表人物与作品": "库内已有迪费、若斯坎、拉索、奥克冈等条目；摘要本身没有点名作曲家。",
+        "技法或形式分析": "主要体裁：弥撒曲、经文歌、赞美诗；具体技法摘要没有给出，本条目不补写。",
+        "与前后风格的关系和争论": "摘要称印刷术之后的传播造就了格里高利圣咏统一以来第一个国际风格。名称有多种别称，范围划分不一。",
+        "一图": "示意图以法兰德斯乐派为中心，标示格里高利圣咏、印刷术、国际风格。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='franco-flemish-school 示意图'><title>franco-flemish-school</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>格里高利圣咏</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>9世纪统一</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>法兰德斯乐派</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>复调声乐</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>印刷术</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>传播</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>国际风格</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>第一个</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "ockeghem",
+      "title": "奥克冈（Johannes Ockeghem）",
+      "kind": "人物",
+      "unit": "music-renaissance",
+      "era": "15世纪",
+      "region": "佛兰德斯",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "早期文艺复兴的法兰德斯作曲家与歌手（约1410—1497）。",
+      "when": "约1410—1497",
+      "overview": "奥克冈是早期文艺复兴的法兰德斯作曲家与歌手。在迪费与若斯坎之间的时期，他是欧洲首要作曲家，与同僚比斯努瓦同为15世纪后半叶的杰出作曲家，也是早期法兰德斯乐派的重要代表。",
+      "related": [
+        "franco-flemish-school",
+        "dufay",
+        "josquin",
+        "dunstaple"
+      ],
+      "sources": [
+        "enc-ockeghem",
+        "wd-ockeghem"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "生卒年约1410—1497来自摘要描述栏。",
+        "风格特征": "摘要称，早期文艺复兴的法兰德斯作曲家与歌手（约1410—1497）。",
+        "代表人物与作品": "同僚比斯努瓦；具体作品摘要没有给出，本条目不补写。",
+        "技法或形式分析": "摘要没有作形式分析，本条目不补写。",
+        "与前后风格的关系和争论": "摘要把他置于迪费与若斯坎之间；“首要作曲家”为评价性表述未核验。",
+        "一图": "示意图以奥克冈为中心，标示迪费、若斯坎、比斯努瓦。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='ockeghem 示意图'><title>ockeghem</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>迪费</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>前</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>奥克冈</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>法兰德斯乐派</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>若斯坎</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>后</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>比斯努瓦</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>同僚</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "dunstaple",
+      "title": "邓斯泰布尔（John Dunstaple）",
+      "kind": "人物",
+      "unit": "music-renaissance",
+      "era": "15世纪",
+      "region": "英国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "英国作曲家（约1390—1453），其音乐助推了中世纪向文艺复兴的过渡。",
+      "when": "约1390—1453",
+      "overview": "邓斯泰布尔是英国作曲家，其音乐助推了从中世纪到文艺复兴的过渡。他是“英国风格”（Contenance angloise）的核心代表，是当时英国首要作曲家，常与伯德、珀塞尔并称英国最重要的早期音乐作曲家。他的风格对欧洲大陆后来的音乐影响巨大，启发了迪费、班舒瓦、奥克冈和比斯努瓦等人。",
+      "related": [
+        "dufay",
+        "ockeghem",
+        "byrd",
+        "renaissance-music"
+      ],
+      "sources": [
+        "enc-dunstaple",
+        "wd-dunstaple"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "生卒年约1390—1453来自摘要描述栏。",
+        "风格特征": "摘要称，英国作曲家（约1390—1453），其音乐助推了中世纪向文艺复兴的过渡。",
+        "代表人物与作品": "具体作品摘要没有给出，本条目不补写。",
+        "技法或形式分析": "“英国风格”的具体特征摘要没有给出，本条目不补写。",
+        "与前后风格的关系和争论": "摘要称其影响迪费、班舒瓦、奥克冈、比斯努瓦；“最重要”为评价性表述未核验。",
+        "一图": "示意图以邓斯泰布尔为中心，标示英国风格、迪费等、中世纪→文艺复兴。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='dunstaple 示意图'><title>dunstaple</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>英国风格</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>核心代表</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>邓斯泰布尔</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>英国作曲家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>迪费等</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>受其启发</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>中世纪→文艺复兴</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>过渡</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "victoria",
+      "title": "维多利亚（Tomás Luis de Victoria）",
+      "kind": "人物",
+      "unit": "music-renaissance",
+      "era": "16—17世纪",
+      "region": "西班牙",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "文艺复兴时期最著名的西班牙作曲家（约1548—1611）。",
+      "when": "约1548—1611",
+      "overview": "维多利亚是文艺复兴时期最著名的西班牙作曲家，与帕莱斯特里纳、拉索并列为文艺复兴晚期的主要作曲家，“尤以部分经文歌及亡者日课、圣周日课的强烈情感而受推崇”。与同侪不同，他的存世作品几乎全是拉丁文的宗教复调声乐。他是天主教神父，也是出色的管风琴家和歌手，经历横跨西班牙与意大利，但更愿做作曲家而非演奏者。",
+      "related": [
+        "palestrina",
+        "lassus",
+        "motet",
+        "renaissance-music"
+      ],
+      "sources": [
+        "enc-victoria",
+        "wd-victoria"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "生卒年约1548—1611来自摘要描述栏；经历横跨西班牙与意大利。",
+        "风格特征": "摘要称，文艺复兴时期最著名的西班牙作曲家（约1548—1611）。",
+        "代表人物与作品": "经文歌、亡者日课、圣周日课。",
+        "技法或形式分析": "摘要称其作品几乎全为拉丁文宗教复调声乐；形式分析摘要没有给出，本条目不补写。",
+        "与前后风格的关系和争论": "与帕莱斯特里纳、拉索并列；“最著名”为评价性表述未核验。",
+        "一图": "示意图以维多利亚为中心，标示帕莱斯特里纳、拉索、圣周日课。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='victoria 示意图'><title>victoria</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>帕莱斯特里纳</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>并列</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>维多利亚</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>西班牙神父</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>拉索</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>并列</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>圣周日课</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>代表作</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "chanson",
+      "title": "尚松（Chanson）",
+      "kind": "风格",
+      "unit": "music-renaissance",
+      "era": "14—16世纪",
+      "region": "法国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "泛指以歌词为主导的法语歌曲，英语中多指中世纪晚期与文艺复兴的世俗复调法语歌曲。",
+      "when": "中世纪晚期—文艺复兴",
+      "overview": "尚松泛指任何以歌词为主导的法语歌曲。英语中这个词最常指中世纪晚期与文艺复兴的世俗复调法语歌曲，或1950、60年代出现的一种法国流行音乐风格。这一体裁源于游吟诗人与特鲁维尔的单声部歌曲，其复调先例只有亚当·德·拉·阿尔的16首和让·德·莱斯居雷尔的1首。直到新艺术作曲家马肖，才有作曲家写出大量复调尚松。",
+      "related": [
+        "trouvere",
+        "machaut",
+        "madrigal",
+        "renaissance-music"
+      ],
+      "sources": [
+        "enc-chanson",
+        "wd-chanson"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称本条所指为中世纪晚期与文艺复兴的世俗复调法语歌曲（另一义为20世纪法国流行乐，不在本条范围）。",
+        "风格特征": "摘要称，泛指以歌词为主导的法语歌曲，英语中多指中世纪晚期与文艺复兴的世俗复调法语歌曲。",
+        "代表人物与作品": "亚当·德·拉·阿尔（16首）、让·德·莱斯居雷尔（1首）、马肖。",
+        "技法或形式分析": "摘要只说是世俗复调、以歌词为主导；曲式摘要没有给出，本条目不补写。",
+        "与前后风格的关系和争论": "源于游吟诗人与特鲁维尔的单声部歌曲，马肖以后复调尚松才大量出现。",
+        "一图": "示意图以尚松为中心，标示特鲁维尔、马肖、亚当·德·拉·阿尔。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='chanson 示意图'><title>chanson</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>特鲁维尔</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>单声部源头</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>尚松</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>世俗复调法语歌</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>马肖</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>大量创作</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>亚当·德·拉·阿尔</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>先例16首</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "viol",
+      "title": "维奥尔琴（Viol）",
+      "kind": "术语",
+      "unit": "music-renaissance",
+      "era": "15—17世纪",
+      "region": "西班牙",
+      "medium": "乐器",
+      "tier": "重要",
+      "def": "15世纪末在西班牙发展起来的弓弦、有品弦乐器家族，又称“腿上维奥尔”。",
+      "when": "15世纪末起",
+      "overview": "维奥尔琴是一类弓奏、有品的弦乐器家族，15世纪末在西班牙（尤其阿拉贡王国的巴伦西亚）发展起来，随后传入意大利及欧洲其他地区。大多数维奥尔琴有六根弦，主要按四度定弦、中间一个三度，竖着演奏，琴放在腿上或夹在两腿间，因此意大利名 viola da gamba 意为“腿上维奥尔”。",
+      "related": [
+        "renaissance-music"
+      ],
+      "sources": [
+        "enc-viol",
+        "wd-viol"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称其15世纪末在西班牙巴伦西亚发展，后传入意大利与欧洲各地。",
+        "风格特征": "摘要称，15世纪末在西班牙发展起来的弓弦、有品弦乐器家族，又称“腿上维奥尔”。",
+        "代表人物与作品": "摘要没有列举作曲家与作品，本条目不补写。",
+        "技法或形式分析": "多为六弦，主要四度定弦、中间一个三度；有品，竖奏于腿上或两腿间。",
+        "与前后风格的关系和争论": "与小提琴族的关系摘要没有给出，本条目不补写。",
+        "一图": "示意图以维奥尔琴为中心，标示巴伦西亚、六弦、viola da gamba。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='viol 示意图'><title>viol</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>巴伦西亚</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>15世纪末起源</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>维奥尔琴</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>弓奏有品</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>六弦</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>四度定弦</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>viola da gam</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>腿上维奥尔</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "lauda",
+      "title": "劳达（Lauda）",
+      "kind": "风格",
+      "unit": "music-renaissance",
+      "era": "中世纪晚期—文艺复兴",
+      "region": "意大利",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "中世纪晚期与文艺复兴意大利最重要的本地语宗教歌曲形式。",
+      "when": "中世纪晚期—19世纪",
+      "overview": "劳达（灵性劳达）是中世纪晚期与文艺复兴时期意大利最重要的本地语宗教歌曲形式，流行至19世纪。它常与圣诞节相联系，在一定程度上相当于英国的卡罗尔、法国的诺埃尔、西班牙的比良西科，并与它们一样介于民间与文人抒情之间。",
+      "related": [
+        "renaissance-music",
+        "medieval-music"
+      ],
+      "sources": [
+        "enc-lauda",
+        "wd-lauda"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称其属中世纪晚期与文艺复兴，并流行至19世纪。",
+        "风格特征": "摘要称，中世纪晚期与文艺复兴意大利最重要的本地语宗教歌曲形式。",
+        "代表人物与作品": "摘要没有列举作品，本条目不补写。",
+        "技法或形式分析": "形式摘要没有给出，本条目不补写。",
+        "与前后风格的关系和争论": "摘要称它相当于卡罗尔、诺埃尔、比良西科，介于民间与文人抒情之间。",
+        "一图": "示意图以劳达为中心，标示卡罗尔·诺埃尔、圣诞、民间与文人。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='lauda 示意图'><title>lauda</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>卡罗尔·诺埃尔</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>相当体裁</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>劳达</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>意大利语宗教歌</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>圣诞</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>常相联系</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>民间与文人</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>之间</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
     }
   ]
 }

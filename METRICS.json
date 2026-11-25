@@ -5034,6 +5034,24 @@
    "check_result": "errors=0",
    "check_links_result": "broken=0(840页)",
    "commits": 1
+  },
+  {
+   "cycle": "cycle226",
+   "date": "2026-11-25",
+   "status": "completed",
+   "gap_methods": [
+    "覆盖缺口：中世纪音乐 14→22，文艺复兴音乐 13→21"
+   ],
+   "new_entries": 16,
+   "reviews": 0,
+   "fixes": 1,
+   "new_sources": 31,
+   "sources_total": 1385,
+   "entries_total": 819,
+   "pages": 856,
+   "check_result": "errors=0",
+   "check_links_result": "broken=0(856页)",
+   "commits": 1
   }
  ]
 }

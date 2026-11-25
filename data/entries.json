@@ -2004,7 +2004,13 @@
         "mass-music",
         "hildegard",
         "machaut",
-        "leonin"
+        "leonin",
+        "trouvere",
+        "minnesang",
+        "ars-subtilior",
+        "guido-of-arezzo",
+        "cantigas",
+        "lauda"
       ],
       "sources": [
         "enc-medieval-music",
@@ -2037,7 +2043,9 @@
         "cma-verona-gradual",
         "medieval-crossmedia",
         "mass-music",
-        "hildegard"
+        "hildegard",
+        "guido-of-arezzo",
+        "mensural-notation"
       ],
       "sources": [
         "enc-gregorian-chant",
@@ -2061,7 +2069,9 @@
         "polyphony",
         "hildegard",
         "leonin",
-        "ars-antiqua"
+        "ars-antiqua",
+        "perotin",
+        "conductus"
       ],
       "sources": [
         "enc-polyphony",
@@ -2089,7 +2099,10 @@
         "motet",
         "counterpoint",
         "machaut",
-        "leonin"
+        "leonin",
+        "perotin",
+        "guido-of-arezzo",
+        "mensural-notation"
       ],
       "sources": [
         "enc-polyphony",
@@ -2121,7 +2134,14 @@
         "tallis",
         "byrd",
         "lassus",
-        "gesualdo"
+        "gesualdo",
+        "mensural-notation",
+        "franco-flemish-school",
+        "dunstaple",
+        "victoria",
+        "chanson",
+        "viol",
+        "lauda"
       ],
       "sources": [
         "enc-renaissance-music",
@@ -2143,7 +2163,8 @@
       "related": [
         "renaissance-music",
         "baroque-music",
-        "gesualdo"
+        "gesualdo",
+        "chanson"
       ],
       "sources": [
         "enc-renaissance-music",
@@ -2166,7 +2187,8 @@
         "renaissance-music",
         "baroque-music",
         "josquin",
-        "lassus"
+        "lassus",
+        "victoria"
       ],
       "sources": [
         "enc-renaissance-music",
@@ -13828,7 +13850,10 @@
         "machaut",
         "dufay",
         "ars-nova",
-        "ars-antiqua"
+        "ars-antiqua",
+        "isorhythm",
+        "franco-flemish-school",
+        "victoria"
       ],
       "sources": [
         "enc-motet",
@@ -13852,7 +13877,8 @@
         "gregorian-chant",
         "motet",
         "medieval-music",
-        "josquin"
+        "josquin",
+        "franco-flemish-school"
       ],
       "sources": [
         "enc-mass-music",
@@ -13930,7 +13956,9 @@
         "mass-music",
         "palestrina",
         "lassus",
-        "dufay"
+        "dufay",
+        "franco-flemish-school",
+        "ockeghem"
       ],
       "sources": [
         "enc-josquin",
@@ -14290,7 +14318,8 @@
         "renaissance-music",
         "tallis",
         "motet",
-        "purcell"
+        "purcell",
+        "dunstaple"
       ],
       "sources": [
         "enc-byrd",
@@ -14313,7 +14342,9 @@
       "related": [
         "renaissance-music",
         "palestrina",
-        "josquin"
+        "josquin",
+        "franco-flemish-school",
+        "victoria"
       ],
       "sources": [
         "enc-lassus",
@@ -14361,7 +14392,10 @@
         "polyphony",
         "motet",
         "dufay",
-        "ars-nova"
+        "ars-nova",
+        "ars-subtilior",
+        "isorhythm",
+        "chanson"
       ],
       "sources": [
         "enc-machaut",
@@ -14385,7 +14419,9 @@
         "organum",
         "polyphony",
         "medieval-music",
-        "ars-antiqua"
+        "ars-antiqua",
+        "perotin",
+        "conductus"
       ],
       "sources": [
         "enc-leonin",
@@ -15617,7 +15653,10 @@
       "related": [
         "machaut",
         "josquin",
-        "motet"
+        "motet",
+        "franco-flemish-school",
+        "ockeghem",
+        "dunstaple"
       ],
       "sources": [
         "enc-dufay",
@@ -15956,7 +15995,10 @@
       "related": [
         "machaut",
         "ars-antiqua",
-        "motet"
+        "motet",
+        "ars-subtilior",
+        "isorhythm",
+        "mensural-notation"
       ],
       "sources": [
         "enc-ars-nova",
@@ -15979,7 +16021,9 @@
         "ars-nova",
         "leonin",
         "organum",
-        "motet"
+        "motet",
+        "perotin",
+        "conductus"
       ],
       "sources": [
         "enc-ars-antiqua",
@@ -17936,6 +17980,366 @@
       "sources": [
         "enc-hummel",
         "wd-hummel"
+      ]
+    },
+    {
+      "id": "trouvere",
+      "title": "特鲁维尔（Trouvère）",
+      "kind": "风格",
+      "unit": "music-medieval",
+      "era": "12—13世纪",
+      "region": "法国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "中世纪盛期法国北部的诗人兼作曲家，与奥克语游吟诗人大致同时并受其影响。",
+      "when": "约公元12世纪—1300年",
+      "overview": "特鲁维尔是奥克语“trobador”的法国北方形式，指与游吟诗人大致同时、受其影响的诗人兼作曲家，在中世纪盛期创作并演唱抒情诗；游吟诗人用古奥克语，特鲁维尔用法国北方方言。克雷蒂安·德·特鲁瓦是已知最早的特鲁维尔之一，这一传统兴盛至约1300年。存世约2130首诗，其中至少三分之二带有旋律。",
+      "related": [
+        "minnesang",
+        "medieval-music",
+        "chanson",
+        "cantigas"
+      ],
+      "sources": [
+        "enc-trouvere",
+        "wd-trouvere"
+      ]
+    },
+    {
+      "id": "minnesang",
+      "title": "恋诗歌（Minnesang）",
+      "kind": "风格",
+      "unit": "music-medieval",
+      "era": "中世纪盛期",
+      "region": "德国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "中古高地德语时期兴盛的德语抒情诗与歌曲传统，以爱情为主要题材。",
+      "when": "中世纪盛期（约12—13世纪，本项目划分）",
+      "overview": "恋诗歌是中古高地德语时期兴盛的德语抒情诗与歌曲写作传统。名称来自中古高地德语表示爱情的“minne”，因为爱情是其主要题材。创作和演唱者称恋诗歌手（Minnesänger），单首歌称 Minnelied。恋诗歌手可与奥克语游吟诗人、法国北方特鲁维尔相比，但被称为“德语对宫廷抒情诗的原创贡献”。",
+      "related": [
+        "trouvere",
+        "medieval-music"
+      ],
+      "sources": [
+        "enc-minnesang",
+        "wd-minnesang"
+      ]
+    },
+    {
+      "id": "perotin",
+      "title": "佩罗坦（Pérotin）",
+      "kind": "人物",
+      "unit": "music-medieval",
+      "era": "12—13世纪",
+      "region": "法国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "与巴黎圣母院复调乐派及古艺术风格相关的作曲家。",
+      "when": "12—13世纪",
+      "overview": "佩罗坦是与巴黎圣母院复调乐派及更广的“古艺术”风格相关的中世纪盛期作曲家。他被认为发展了前辈莱奥南的复调实践，引入了三声部和四声部的和声。",
+      "related": [
+        "leonin",
+        "ars-antiqua",
+        "organum",
+        "polyphony",
+        "conductus"
+      ],
+      "sources": [
+        "enc-perotin",
+        "wd-perotin"
+      ]
+    },
+    {
+      "id": "ars-subtilior",
+      "title": "精微艺术（Ars subtilior）",
+      "kind": "风格",
+      "unit": "music-medieval",
+      "era": "14世纪",
+      "region": "法国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "14世纪末以节奏与记谱复杂为特征的音乐风格，中心在巴黎、阿维尼翁与西班牙北部。",
+      "when": "14世纪末",
+      "overview": "精微艺术是以节奏与记谱复杂为特征的音乐风格，14世纪末以巴黎、法国南部阿维尼翁和西班牙北部为中心，也见于法属塞浦路斯的曲目。这一术语常与此前约1310至1370年的“新艺术”对照，但有学者倾向把它视为新艺术的一个分支。主要原始资料是《尚蒂伊抄本》《摩德纳抄本》与《都灵手稿》。",
+      "related": [
+        "ars-nova",
+        "machaut",
+        "medieval-music"
+      ],
+      "sources": [
+        "enc-ars-subtilior",
+        "wd-ars-subtilior"
+      ]
+    },
+    {
+      "id": "guido-of-arezzo",
+      "title": "阿雷佐的圭多（Guido of Arezzo）",
+      "kind": "人物",
+      "unit": "music-medieval",
+      "era": "11世纪",
+      "region": "意大利",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "中世纪盛期意大利音乐理论家与教育家，被视为现代五线谱记谱法的发明者或发展者。",
+      "when": "约991/2—1033",
+      "overview": "阿雷佐的圭多是中世纪盛期意大利音乐理论家与教育家，本笃会修士。他被视为现代线谱记谱法的发明者（也有人认为是发展者），对西方记谱与音乐实践影响巨大。他可能是波爱修斯与廷克托里斯之间最重要的欧洲音乐著述者，所著《辨及微芒》是继波爱修斯《论音乐的建制》之后流传最广的中世纪音乐论著。",
+      "related": [
+        "gregorian-chant",
+        "medieval-music",
+        "polyphony"
+      ],
+      "sources": [
+        "enc-guido-of-arezzo",
+        "wd-guido-of-arezzo"
+      ]
+    },
+    {
+      "id": "conductus",
+      "title": "孔杜克图斯（Conductus）",
+      "kind": "术语",
+      "unit": "music-medieval",
+      "era": "12—13世纪",
+      "region": "法国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "中世纪新创诗与乐的拉丁宗教歌曲，非礼仪性。",
+      "when": "约12世纪初—13世纪中叶",
+      "overview": "孔杜克图斯是中世纪的拉丁宗教歌曲，其诗与乐均为新作；由于拉丁歌词很少借用旧有圣咏，它不属礼仪音乐。它是北法对应于阿基坦圣马夏尔乐派“versus”的体裁。该词最早见于12世纪阿基坦曲目，但主要集成出自巴黎圣母院乐派。通常为一至三声部，少数四声部；风格上属迪斯康特，形式可为分节或通谱。这一体裁兴盛于12世纪初至13世纪中叶，是古艺术时期主要的声乐体裁之一。",
+      "related": [
+        "ars-antiqua",
+        "organum",
+        "perotin",
+        "leonin"
+      ],
+      "sources": [
+        "enc-conductus",
+        "wd-conductus"
+      ]
+    },
+    {
+      "id": "isorhythm",
+      "title": "等节奏（Isorhythm）",
+      "kind": "术语",
+      "unit": "music-medieval",
+      "era": "14世纪",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "在至少一个声部中贯穿全曲重复一个节奏型（talea）的作曲技法。",
+      "when": "中世纪晚期（本项目划分）",
+      "overview": "等节奏是一种作曲技法：至少一个声部贯穿全曲重复同一节奏型，称为 talea。talea 通常配合一个或多个音高旋律型（color），两者长度可相同也可不同。",
+      "related": [
+        "ars-nova",
+        "machaut",
+        "motet"
+      ],
+      "sources": [
+        "enc-isorhythm",
+        "wd-isorhythm"
+      ]
+    },
+    {
+      "id": "cantigas",
+      "title": "《圣母玛利亚歌集》（Cantigas de Santa Maria）",
+      "kind": "作品",
+      "unit": "music-medieval",
+      "era": "13世纪",
+      "region": "西班牙",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "卡斯蒂利亚“智者”阿方索十世在位时以加利西亚—葡萄牙语写成、带乐谱的420首诗。",
+      "when": "阿方索十世在位期间（1221—1284为其生卒）",
+      "overview": "《圣母玛利亚歌集》是420首带乐谱的诗，在卡斯蒂利亚“智者”阿方索十世（1221—1284）在位时以中世纪加利西亚—葡萄牙语写成。传统上全部归于阿方索，但学者后来确认大部分出自其宫廷乐师与诗人，阿方索本人只被认作其中少数几首的作者。",
+      "related": [
+        "trouvere",
+        "medieval-music"
+      ],
+      "sources": [
+        "enc-cantigas",
+        "wd-cantigas"
+      ]
+    },
+    {
+      "id": "mensural-notation",
+      "title": "定量记谱法（Mensural notation）",
+      "kind": "术语",
+      "unit": "music-renaissance",
+      "era": "13—17世纪",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "13世纪末至17世纪初欧洲复调声乐所用的记谱体系，以音符时值的数比关系记录精确节奏。",
+      "when": "约13世纪末—17世纪初",
+      "overview": "定量记谱法是13世纪末至17世纪初欧洲复调声乐所用的记谱体系。“定量”指依音符时值的数比关系记录精确节奏。名称来自中世纪理论家的用语 musica mensurata 或 cantus mensurabilis，与格里高利素歌（musica plana）相对。它主要用于复调声乐；素歌在这一时期仍用旧有的纽姆记谱，部分器乐则用各种乐器专用的指法谱。",
+      "related": [
+        "polyphony",
+        "gregorian-chant",
+        "ars-nova",
+        "renaissance-music"
+      ],
+      "sources": [
+        "enc-mensural-notation",
+        "wd-mensural-notation"
+      ]
+    },
+    {
+      "id": "franco-flemish-school",
+      "title": "法兰德斯乐派（Franco-Flemish School）",
+      "kind": "风格",
+      "unit": "music-renaissance",
+      "era": "15—16世纪",
+      "region": "佛兰德斯",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "15—16世纪起源于法国与勃艮第尼德兰的复调声乐创作风格及其作曲家。",
+      "when": "15—16世纪",
+      "overview": "法兰德斯乐派（又称尼德兰乐派、勃艮第乐派等）指15、16世纪起源于法国与勃艮第尼德兰的复调声乐创作风格，以及创作这种音乐的作曲家。其技法的传播，尤其在印刷术革命性发展之后，形成了自9世纪格里高利圣咏统一以来第一个真正的国际风格。法兰德斯作曲家主要写宗教音乐，以弥撒曲、经文歌和赞美诗为主。",
+      "related": [
+        "ockeghem",
+        "josquin",
+        "dufay",
+        "lassus",
+        "renaissance-music",
+        "mass-music",
+        "motet"
+      ],
+      "sources": [
+        "enc-franco-flemish-school",
+        "wd-franco-flemish-school"
+      ]
+    },
+    {
+      "id": "ockeghem",
+      "title": "奥克冈（Johannes Ockeghem）",
+      "kind": "人物",
+      "unit": "music-renaissance",
+      "era": "15世纪",
+      "region": "佛兰德斯",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "早期文艺复兴的法兰德斯作曲家与歌手（约1410—1497）。",
+      "when": "约1410—1497",
+      "overview": "奥克冈是早期文艺复兴的法兰德斯作曲家与歌手。在迪费与若斯坎之间的时期，他是欧洲首要作曲家，与同僚比斯努瓦同为15世纪后半叶的杰出作曲家，也是早期法兰德斯乐派的重要代表。",
+      "related": [
+        "franco-flemish-school",
+        "dufay",
+        "josquin",
+        "dunstaple"
+      ],
+      "sources": [
+        "enc-ockeghem",
+        "wd-ockeghem"
+      ]
+    },
+    {
+      "id": "dunstaple",
+      "title": "邓斯泰布尔（John Dunstaple）",
+      "kind": "人物",
+      "unit": "music-renaissance",
+      "era": "15世纪",
+      "region": "英国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "英国作曲家（约1390—1453），其音乐助推了中世纪向文艺复兴的过渡。",
+      "when": "约1390—1453",
+      "overview": "邓斯泰布尔是英国作曲家，其音乐助推了从中世纪到文艺复兴的过渡。他是“英国风格”（Contenance angloise）的核心代表，是当时英国首要作曲家，常与伯德、珀塞尔并称英国最重要的早期音乐作曲家。他的风格对欧洲大陆后来的音乐影响巨大，启发了迪费、班舒瓦、奥克冈和比斯努瓦等人。",
+      "related": [
+        "dufay",
+        "ockeghem",
+        "byrd",
+        "renaissance-music"
+      ],
+      "sources": [
+        "enc-dunstaple",
+        "wd-dunstaple"
+      ]
+    },
+    {
+      "id": "victoria",
+      "title": "维多利亚（Tomás Luis de Victoria）",
+      "kind": "人物",
+      "unit": "music-renaissance",
+      "era": "16—17世纪",
+      "region": "西班牙",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "文艺复兴时期最著名的西班牙作曲家（约1548—1611）。",
+      "when": "约1548—1611",
+      "overview": "维多利亚是文艺复兴时期最著名的西班牙作曲家，与帕莱斯特里纳、拉索并列为文艺复兴晚期的主要作曲家，“尤以部分经文歌及亡者日课、圣周日课的强烈情感而受推崇”。与同侪不同，他的存世作品几乎全是拉丁文的宗教复调声乐。他是天主教神父，也是出色的管风琴家和歌手，经历横跨西班牙与意大利，但更愿做作曲家而非演奏者。",
+      "related": [
+        "palestrina",
+        "lassus",
+        "motet",
+        "renaissance-music"
+      ],
+      "sources": [
+        "enc-victoria",
+        "wd-victoria"
+      ]
+    },
+    {
+      "id": "chanson",
+      "title": "尚松（Chanson）",
+      "kind": "风格",
+      "unit": "music-renaissance",
+      "era": "14—16世纪",
+      "region": "法国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "泛指以歌词为主导的法语歌曲，英语中多指中世纪晚期与文艺复兴的世俗复调法语歌曲。",
+      "when": "中世纪晚期—文艺复兴",
+      "overview": "尚松泛指任何以歌词为主导的法语歌曲。英语中这个词最常指中世纪晚期与文艺复兴的世俗复调法语歌曲，或1950、60年代出现的一种法国流行音乐风格。这一体裁源于游吟诗人与特鲁维尔的单声部歌曲，其复调先例只有亚当·德·拉·阿尔的16首和让·德·莱斯居雷尔的1首。直到新艺术作曲家马肖，才有作曲家写出大量复调尚松。",
+      "related": [
+        "trouvere",
+        "machaut",
+        "madrigal",
+        "renaissance-music"
+      ],
+      "sources": [
+        "enc-chanson",
+        "wd-chanson"
+      ]
+    },
+    {
+      "id": "viol",
+      "title": "维奥尔琴（Viol）",
+      "kind": "术语",
+      "unit": "music-renaissance",
+      "era": "15—17世纪",
+      "region": "西班牙",
+      "medium": "乐器",
+      "tier": "重要",
+      "def": "15世纪末在西班牙发展起来的弓弦、有品弦乐器家族，又称“腿上维奥尔”。",
+      "when": "15世纪末起",
+      "overview": "维奥尔琴是一类弓奏、有品的弦乐器家族，15世纪末在西班牙（尤其阿拉贡王国的巴伦西亚）发展起来，随后传入意大利及欧洲其他地区。大多数维奥尔琴有六根弦，主要按四度定弦、中间一个三度，竖着演奏，琴放在腿上或夹在两腿间，因此意大利名 viola da gamba 意为“腿上维奥尔”。",
+      "related": [
+        "renaissance-music"
+      ],
+      "sources": [
+        "enc-viol",
+        "wd-viol"
+      ]
+    },
+    {
+      "id": "lauda",
+      "title": "劳达（Lauda）",
+      "kind": "风格",
+      "unit": "music-renaissance",
+      "era": "中世纪晚期—文艺复兴",
+      "region": "意大利",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "中世纪晚期与文艺复兴意大利最重要的本地语宗教歌曲形式。",
+      "when": "中世纪晚期—19世纪",
+      "overview": "劳达（灵性劳达）是中世纪晚期与文艺复兴时期意大利最重要的本地语宗教歌曲形式，流行至19世纪。它常与圣诞节相联系，在一定程度上相当于英国的卡罗尔、法国的诺埃尔、西班牙的比良西科，并与它们一样介于民间与文人抒情之间。",
+      "related": [
+        "renaissance-music",
+        "medieval-music"
+      ],
+      "sources": [
+        "enc-lauda",
+        "wd-lauda"
       ]
     }
   ]

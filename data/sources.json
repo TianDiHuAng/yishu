@@ -13539,6 +13539,316 @@
       "type": "权威结构化数据",
       "verified": true,
       "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-trouvere",
+      "title": "Trouvère",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Trouvère",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-trouvere",
+      "title": "Wikidata: Trouvère (Q1996467)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q1996467",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-minnesang",
+      "title": "Minnesang",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Minnesang",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-minnesang",
+      "title": "Wikidata: Minnesang (Q830634)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q830634",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "wd-perotin",
+      "title": "Wikidata: Pérotin (Q206275)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q206275",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-ars-subtilior",
+      "title": "Ars subtilior",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Ars_subtilior",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-ars-subtilior",
+      "title": "Wikidata: Ars subtilior (Q704073)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q704073",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-guido-of-arezzo",
+      "title": "Guido of Arezzo",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Guido_of_Arezzo",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-guido-of-arezzo",
+      "title": "Wikidata: Guido of Arezzo (Q192238)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q192238",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-conductus",
+      "title": "Conductus",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Conductus",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-conductus",
+      "title": "Wikidata: Conductus (Q846748)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q846748",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-isorhythm",
+      "title": "Isorhythm",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Isorhythm",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-isorhythm",
+      "title": "Wikidata: Isorhythm (Q250765)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q250765",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-cantigas",
+      "title": "Cantigas de Santa Maria",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Cantigas_de_Santa_Maria",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-cantigas",
+      "title": "Wikidata: Cantigas de Santa Maria (Q1033824)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q1033824",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-mensural-notation",
+      "title": "Mensural notation",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Mensural_notation",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-mensural-notation",
+      "title": "Wikidata: Mensural notation (Q1920919)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q1920919",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-franco-flemish-school",
+      "title": "Franco-Flemish School",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Franco-Flemish_School",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-franco-flemish-school",
+      "title": "Wikidata: Franco-Flemish School (Q185858)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q185858",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-ockeghem",
+      "title": "Johannes Ockeghem",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Johannes_Ockeghem",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-ockeghem",
+      "title": "Wikidata: Johannes Ockeghem (Q143059)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q143059",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-dunstaple",
+      "title": "John Dunstaple",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/John_Dunstaple",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-dunstaple",
+      "title": "Wikidata: John Dunstaple (Q215134)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q215134",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-victoria",
+      "title": "Tomás Luis de Victoria",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Tomás_Luis_de_Victoria",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-victoria",
+      "title": "Wikidata: Tomás Luis de Victoria (Q215128)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q215128",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-chanson",
+      "title": "Chanson",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Chanson",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-chanson",
+      "title": "Wikidata: Chanson (Q1062400)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q1062400",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-viol",
+      "title": "Viol",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Viol",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-viol",
+      "title": "Wikidata: Viol (Q40125)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q40125",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-lauda",
+      "title": "Lauda (song)",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Lauda_(song)",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-lauda",
+      "title": "Wikidata: Lauda (song) (Q574784)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q574784",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
     }
   ]
 }
