@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 917,
+    "total": 918,
     "per_round_cap": 40,
     "current_round": 1,
     "unit_count": 28,
@@ -11013,6 +11013,18 @@
       "status": "written_l2",
       "sources_count": 2,
       "verified_sources_count": 2,
+      "needs_verification": false,
+      "pending_notes": "",
+      "last_update": "2026-11-22",
+      "source_independence_ok": true
+    },
+    "music-basics": {
+      "title": "音乐基础要素：旋律、音色、音高组织、拍子与常见曲式",
+      "tier": "重要",
+      "level": "L2",
+      "status": "written_l2",
+      "sources_count": 28,
+      "verified_sources_count": 28,
       "needs_verification": false,
       "pending_notes": "",
       "last_update": "2026-11-22",

@@ -10553,6 +10553,19 @@ ROWS = [
  '键盘乐器是用键盘演奏的乐器，键盘是一排用手指按压的杠杆。最常见的有钢琴、管风琴和包括合成器、数码钢琴在内的各种电子键盘。其他键盘乐器还有钢片琴（由键盘操纵的击奏体鸣乐器）和排钟（通常装在教堂或市政建筑的钟楼里）。',
  'piano,fortepiano,basso-continuo',
  'enc-keyboard-instrument,wd-keyboard-instrument'),
+('music-basics',
+ '音乐基础要素：旋律、音色、音高组织、拍子与常见曲式',
+ '术语',
+ 'overview-guide',
+ '历代',
+ '欧洲',
+ '音乐体裁',
+ '重要',
+ '导读条目：把旋律、音色、音阶、音程、三和弦、调、拍子、二部曲式、回旋曲式、小步舞曲、变奏、固定音型、木管与弦乐器 14 个基础词放在一处说明。',
+ '历代（概念工具，本项目划分）',
+ '本条目把 14 个基础词合在一起，每个词只写各自来源给出的定义。旋律是听者感知为一个整体的线性音列；音色是区分声源的声音品质；音阶是从一个音到其八度之间的连续音列；音程是两音的音高差；三和弦是可按三度叠置的三个音；调是乐曲中最常用的音高与调性稳定中心；拍子是规则重复的强弱拍型。曲式方面，二部曲式由两个相关段落组成（常作 A-A-B-B），回旋曲式以主部主题与对比主题交替（如 ABACA），变奏是以改变后的形式重复材料，固定音型是同一声部中持续重复的动机。小步舞曲是源于法国的双人社交舞，通常为三拍子。乐器分类中，木管属管乐器大类，弦乐器靠振动的弦发声。',
+ 'texture-music,ternary-form,strophic-form,homophony,polyphony,tonality,sonata-form,brass-instrument,keyboard-instrument',
+ 'enc-melody,wd-melody,enc-timbre,wd-timbre,enc-scale-music,wd-scale-music,enc-interval-music,wd-interval-music,enc-triad,wd-triad,enc-key-music,wd-key-music,enc-meter-music,wd-meter-music,enc-binary-form,wd-binary-form,enc-rondo,wd-rondo,enc-minuet,wd-minuet,enc-variation-form,wd-variation-form,enc-ostinato,wd-ostinato,enc-woodwind,wd-woodwind,enc-string-instrument,wd-string-instrument'),
 ]
 
 def entries():

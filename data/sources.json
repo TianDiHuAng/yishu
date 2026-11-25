@@ -16709,6 +16709,286 @@
       "type": "权威结构化数据",
       "verified": true,
       "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-melody",
+      "title": "Melody",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Melody",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200；摘要缓存于 data/_cache/wp；用于导读条目 music-basics 的一个小节"
+    },
+    {
+      "id": "wd-melody",
+      "title": "Wikidata: Melody (Q170412)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q170412",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID"
+    },
+    {
+      "id": "enc-timbre",
+      "title": "Timbre",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Timbre",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200；摘要缓存于 data/_cache/wp；用于导读条目 music-basics 的一个小节"
+    },
+    {
+      "id": "wd-timbre",
+      "title": "Wikidata: Timbre (Q176501)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q176501",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID"
+    },
+    {
+      "id": "enc-scale-music",
+      "title": "Scale (music)",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Scale_(music)",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200；摘要缓存于 data/_cache/wp；用于导读条目 music-basics 的一个小节"
+    },
+    {
+      "id": "wd-scale-music",
+      "title": "Wikidata: Scale (music) (Q179651)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q179651",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID"
+    },
+    {
+      "id": "enc-interval-music",
+      "title": "Interval (music)",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Interval_(music)",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200；摘要缓存于 data/_cache/wp；用于导读条目 music-basics 的一个小节"
+    },
+    {
+      "id": "wd-interval-music",
+      "title": "Wikidata: Interval (music) (Q189962)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q189962",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID"
+    },
+    {
+      "id": "enc-triad",
+      "title": "Triad (music)",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Triad_(music)",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200；摘要缓存于 data/_cache/wp；用于导读条目 music-basics 的一个小节"
+    },
+    {
+      "id": "wd-triad",
+      "title": "Wikidata: Triad (music) (Q944899)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q944899",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID"
+    },
+    {
+      "id": "enc-key-music",
+      "title": "Key (music)",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Key_(music)",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200；摘要缓存于 data/_cache/wp；用于导读条目 music-basics 的一个小节"
+    },
+    {
+      "id": "wd-key-music",
+      "title": "Wikidata: Key (music) (Q534932)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q534932",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID"
+    },
+    {
+      "id": "enc-meter-music",
+      "title": "Metre (music)",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Metre_(music)",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200；摘要缓存于 data/_cache/wp；用于导读条目 music-basics 的一个小节"
+    },
+    {
+      "id": "wd-meter-music",
+      "title": "Wikidata: Metre (music) (Q630649)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q630649",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID"
+    },
+    {
+      "id": "enc-binary-form",
+      "title": "Binary form",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Binary_form",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200；摘要缓存于 data/_cache/wp；用于导读条目 music-basics 的一个小节"
+    },
+    {
+      "id": "wd-binary-form",
+      "title": "Wikidata: Binary form (Q1193859)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q1193859",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID"
+    },
+    {
+      "id": "enc-rondo",
+      "title": "Rondo",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Rondo",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200；摘要缓存于 data/_cache/wp；用于导读条目 music-basics 的一个小节"
+    },
+    {
+      "id": "wd-rondo",
+      "title": "Wikidata: Rondo (Q13323)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q13323",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID"
+    },
+    {
+      "id": "enc-minuet",
+      "title": "Minuet",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Minuet",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200；摘要缓存于 data/_cache/wp；用于导读条目 music-basics 的一个小节"
+    },
+    {
+      "id": "wd-minuet",
+      "title": "Wikidata: Minuet (Q205734)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q205734",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID"
+    },
+    {
+      "id": "enc-variation-form",
+      "title": "Variation (music)",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Variation_(music)",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200；摘要缓存于 data/_cache/wp；用于导读条目 music-basics 的一个小节"
+    },
+    {
+      "id": "wd-variation-form",
+      "title": "Wikidata: Variation (music) (Q214981)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q214981",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID"
+    },
+    {
+      "id": "enc-ostinato",
+      "title": "Ostinato",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Ostinato",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200；摘要缓存于 data/_cache/wp；用于导读条目 music-basics 的一个小节"
+    },
+    {
+      "id": "wd-ostinato",
+      "title": "Wikidata: Ostinato (Q216745)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q216745",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID"
+    },
+    {
+      "id": "enc-woodwind",
+      "title": "Woodwind instrument",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Woodwind_instrument",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200；摘要缓存于 data/_cache/wp；用于导读条目 music-basics 的一个小节"
+    },
+    {
+      "id": "wd-woodwind",
+      "title": "Wikidata: Woodwind instrument (Q181247)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q181247",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID"
+    },
+    {
+      "id": "enc-string-instrument",
+      "title": "String instrument",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/String_instrument",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200；摘要缓存于 data/_cache/wp；用于导读条目 music-basics 的一个小节"
+    },
+    {
+      "id": "wd-string-instrument",
+      "title": "Wikidata: String instrument (Q1798603)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q1798603",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID"
     }
   ]
 }
