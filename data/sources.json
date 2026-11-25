@@ -9679,6 +9679,16 @@
       "type": "权威结构化数据",
       "verified": true,
       "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "aat-300266573",
+      "title": "Getty AAT — electronic music, 300266573",
+      "author": "J. Paul Getty Trust（Art & Architecture Thesaurus，开放词表）",
+      "year": "2026",
+      "url": "https://vocab.getty.edu/aat/300266573",
+      "type": "权威机构词表（术语定义）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 vocab.getty.edu SPARQL 接口精确标签匹配取回，范围注释：Music in which sound is generated, transferred, triggered, or amplified by electronic devices. The creation of electronic music may involve the use of magnetic tape or digital technology and whose rep"
     }
   ]
 }

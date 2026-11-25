@@ -8,13 +8,14 @@
     "技法或形式分析": "摘要区分两类手段：纯电子乐器完全靠电路发声，无需先产生机械声波；机电乐器以琴弦或琴槌产生声波，再经拾音器、放大器和扬声器处理转回声音。",
     "与前后风格的关系和争论": "摘要没有谈及它与学院派作曲或流行音乐的关系。库内把它与20世纪古典音乐、简约主义、偶然音乐互链，是本项目所加。",
     "一图": "示意图以电子音乐为中心，标示纯电子乐器、机电乐器、软件与电路技术三项。",
-    "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）起始年代、代表人物与作品，摘要均未给出；（3）单元归属与年代为本项目划分。"
+    "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）起始年代、代表人物与作品，摘要均未给出；（3）单元归属与年代为本项目划分。（AAT 对照，2026-11-25）盖蒂 AAT 将电子音乐定义为声音由电子手段产生、传输、触发或放大的音乐，与摘要定义相容；AAT 只印证定义，不印证年代与人物。"
   },
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='electronic-music 示意图'><title>electronic-music</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>纯电子乐器</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>振荡器·合成器</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>电子音乐</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>一组音乐类型</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>机电乐器</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>电吉他·电钢琴</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>软件与电路</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>音乐技术</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
   "sources": [
     "enc-electronic-music",
-    "wd-electronic-music"
+    "wd-electronic-music",
+    "aat-300266573"
   ],
   "needs_verification": true,
-  "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；年代与人物未给出；单元归属为本项目划分。"
+  "pending_notes": "定义已由盖蒂 AAT 范围注释独立印证（只印证术语定义）；年代与人物未给出；单元归属为本项目划分。"
 }
