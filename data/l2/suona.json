@@ -1,0 +1,20 @@
+{
+  "id": "suona",
+  "level": "L2",
+  "sections": {
+    "时代背景": "摘要称，唢呐的基本形制源于古伊朗（当时称“Sorna”），约3世纪出现于中国。",
+    "风格特征": "摘要称，它音色响亮而高亢，常用于中国传统器乐合奏，尤其是户外演出的合奏。",
+    "代表人物与作品": "摘要没有列举演奏家与曲目，本条目不补写。",
+    "技法或形式分析": "摘要给出的形制信息只有“双簧”。本条目不补写管身与碗的构造。",
+    "与前后风格的关系和争论": "摘要称，它在中国北方民间音乐中很重要，尤其在山东、河南，长期用于节庆与军事；至今仍与笙、锣、鼓等合用于婚礼与送葬行列，这类吹打乐队称“吹打”或“鼓吹”；在中国东南的仪式音乐中也很常见，是伴随道教仪式的仪式音乐的重要组成。",
+    "一图": "示意图以唢呐为中心，标示古伊朗来源、北方民间音乐、吹打与仪式三项。",
+    "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要缓存在句中截断，本条目只用截断前的内容；（3）“约3世纪”出现于中国，摘要未给出依据。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='suona 示意图'><title>suona</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>古伊朗</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>sorna 源头</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>唢呐</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>双簧乐器</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>北方民间</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>山东·河南</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>吹打与仪式</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>婚丧·道教</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+  "sources": [
+    "enc-suona",
+    "wd-suona"
+  ],
+  "needs_verification": true,
+  "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；传入年代依据未给出；摘要截断。"
+}

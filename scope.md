@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 697 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 717 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -356,6 +356,8 @@
 | hildegard | 宾根的希尔德加德（Hildegard of Bingen） | 人物 | 中世纪盛期 | 德国 | 音乐体裁 | 重要 | O2 |
 | machaut | 马肖（Guillaume de Machaut） | 人物 | 14世纪 | 法国 | 音乐体裁 | 重要 | O2 |
 | leonin | 莱奥南（Léonin） | 人物 | 12世纪 | 法国 | 音乐体裁 | 重要 | O2 |
+| ars-nova | 新艺术（Ars nova，音乐） | 风格 | 14世纪 | 法国 | 音乐体裁 | 核心 | O2、O4 |
+| ars-antiqua | 古艺术（Ars antiqua） | 风格 | 约1170—1310年 | 欧洲 | 音乐体裁 | 重要 | O2、O4 |
 
 ## music-renaissance（音乐史·文艺复兴）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -372,6 +374,7 @@
 | byrd | 伯德（William Byrd） | 人物 | 16—17世纪 | 英国 | 音乐体裁 | 重要 | O1、O3 |
 | lassus | 拉索（Orlando di Lasso） | 人物 | 16世纪 | 佛兰德斯 | 音乐体裁 | 重要 | O1、O3 |
 | gesualdo | 杰苏阿尔多（Carlo Gesualdo） | 人物 | 16—17世纪 | 意大利 | 音乐体裁 | 重要 | O1、O3 |
+| dufay | 迪费（Guillaume Du Fay） | 人物 | 15世纪 | 法国·法兰德斯 | 音乐体裁 | 重要 | O1、O3 |
 
 ## music-baroque（音乐史·巴洛克）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -390,6 +393,7 @@
 | scarlatti-domenico | 多梅尼科·斯卡拉蒂（Domenico Scarlatti） | 人物 | 17—18世纪 | 意大利 | 音乐体裁 | 重要 | O1 |
 | corelli | 科雷利（Arcangelo Corelli） | 人物 | 17—18世纪 | 意大利 | 音乐体裁 | 重要 | O1 |
 | telemann | 泰勒曼（Georg Philipp Telemann） | 人物 | 17—18世纪 | 德国 | 音乐体裁 | 重要 | O1 |
+| suite-music | 组曲（Suite） | 术语 | 14世纪末—今 | 欧洲 | 音乐体裁 | 重要 | O4 |
 
 ## music-classical（音乐史·古典）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -422,6 +426,11 @@
 | dvorak | 德沃夏克（Antonín Dvořák） | 人物 | 19世纪 | 捷克 | 音乐体裁 | 核心 | O1 |
 | program-music | 标题音乐（Program music） | 术语 | 19世纪（术语） | 欧洲 | 音乐体裁 | 重要 | O4 |
 | grand-opera | 大歌剧（Grand opera） | 风格 | 19世纪 | 法国（巴黎） | 音乐体裁 | 重要 | O4 |
+| puccini | 普契尼（Giacomo Puccini） | 人物 | 19世纪末—20世纪初 | 意大利 | 音乐体裁 | 核心 | O1 |
+| smetana | 斯美塔那（Bedřich Smetana） | 人物 | 19世纪 | 捷克（波希米亚） | 音乐体裁 | 重要 | O1 |
+| grieg | 格里格（Edvard Grieg） | 人物 | 19世纪 | 挪威 | 音乐体裁 | 重要 | O1 |
+| rachmaninoff | 拉赫玛尼诺夫（Sergei Rachmaninoff） | 人物 | 19世纪末—20世纪 | 俄国 | 音乐体裁 | 核心 | O1 |
+| overture | 序曲（Overture） | 术语 | 历代 | 欧洲 | 音乐体裁 | 重要 | O4 |
 
 ## music-modern（音乐史·20世纪与当代）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -437,6 +446,14 @@
 | prokofiev | 普罗科菲耶夫（Sergei Prokofiev） | 人物 | 20世纪 | 俄国·苏联 | 音乐体裁 | 核心 | O1 |
 | electronic-music | 电子音乐（Electronic music） | 风格 | 20世纪—今 | 全球 | 音乐体裁 | 重要 | O4 |
 | aleatoric-music | 偶然音乐（Aleatoric music） | 术语 | 20世纪 | 欧美 | 音乐体裁 | 重要 | O4 |
+| cage | 约翰·凯奇（John Cage） | 人物 | 20世纪 | 美国 | 音乐体裁 | 核心 | O1 |
+| reich | 史蒂夫·赖希（Steve Reich） | 人物 | 20世纪—今 | 美国 | 音乐体裁 | 重要 | O1 |
+| webern | 韦伯恩（Anton Webern） | 人物 | 20世纪 | 奥地利 | 音乐体裁 | 重要 | O1 |
+| neoclassicism-music | 新古典主义音乐（Neoclassicism in music） | 风格 | 20世纪（两次大战之间） | 欧洲 | 音乐体裁 | 重要 | O4 |
+| expressionism-music | 表现主义音乐（Expressionist music） | 风格 | 20世纪初 | 德奥 | 音乐体裁 | 重要 | O4 |
+| musique-concrete | 具体音乐（Musique concrète） | 术语 | 20世纪 | 法国等 | 音乐体裁 | 重要 | O4 |
+| atonality | 无调性（Atonality） | 术语 | 20世纪初—今 | 欧美 | 音乐体裁 | 核心 | O4 |
+| twelve-tone | 十二音技法（Twelve-tone technique） | 术语 | 20世纪 | 欧美 | 音乐体裁 | 重要 | O4 |
 
 ## music-china（中国音乐史）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -455,6 +472,9 @@
 | erhu | 二胡（erhu） | 作品 | 历代—今 | 中国 | 乐器 | 重要 | O5 |
 | kunqu | 昆曲（Kunqu） | 风格 | 明清 | 中国（昆山） | 音乐体裁 | 核心 | O4 |
 | dizi | 笛子（dizi） | 作品 | 历代—今 | 中国 | 乐器 | 重要 | O5 |
+| yangqin | 扬琴（yangqin） | 作品 | 历代—今 | 中国 | 音乐体裁 | 重要 | O5 |
+| suona | 唢呐（suona） | 作品 | 约3世纪—今 | 中国 | 音乐体裁 | 重要 | O5 |
+| nanguan | 南管（Nanguan） | 风格 | 明代以来 | 福建·台湾 | 音乐体裁 | 补充 | O4 |
 
 ## overview-guide（导读与学科方法）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

@@ -781,7 +781,8 @@
         "paelinck-self-portrait",
         "classical-crossmedia",
         "neoclassical-architecture",
-        "beaux-arts-architecture"
+        "beaux-arts-architecture",
+        "neoclassicism-music"
       ],
       "sources": [
         "enc-neoclassicism",
@@ -1076,7 +1077,8 @@
         "van-gogh",
         "kandinsky",
         "klee-with-the-dot",
-        "klee-carnival-in-snow"
+        "klee-carnival-in-snow",
+        "expressionism-music"
       ],
       "sources": [
         "enc-expressionism",
@@ -1292,7 +1294,8 @@
         "abstract-expressionism",
         "klee-carnival-in-snow",
         "constructivism-art",
-        "mondrian"
+        "mondrian",
+        "expressionism-music"
       ],
       "sources": [
         "enc-kandinsky",
@@ -2002,7 +2005,8 @@
         "gregorian-chant",
         "polyphony",
         "hildegard",
-        "leonin"
+        "leonin",
+        "ars-antiqua"
       ],
       "sources": [
         "enc-polyphony",
@@ -2182,7 +2186,9 @@
         "gluck",
         "purcell",
         "lully",
-        "grand-opera"
+        "grand-opera",
+        "puccini",
+        "overture"
       ],
       "sources": [
         "enc-opera",
@@ -2275,7 +2281,8 @@
         "fugue",
         "counterpoint",
         "vivaldi",
-        "telemann"
+        "telemann",
+        "suite-music"
       ],
       "sources": [
         "enc-bach",
@@ -2451,7 +2458,8 @@
         "symphony",
         "bourdelle-head-of-beethoven",
         "kriehuber-bust-of-beethoven",
-        "string-quartet"
+        "string-quartet",
+        "overture"
       ],
       "sources": [
         "enc-beethoven",
@@ -2494,7 +2502,11 @@
         "mendelssohn",
         "berlioz",
         "dvorak",
-        "grand-opera"
+        "grand-opera",
+        "puccini",
+        "grieg",
+        "rachmaninoff",
+        "neoclassicism-music"
       ],
       "sources": [
         "enc-romantic-music",
@@ -2540,7 +2552,9 @@
         "romantic-music",
         "romanticism-art",
         "liszt",
-        "program-music"
+        "program-music",
+        "smetana",
+        "overture"
       ],
       "sources": [
         "enc-romantic-music",
@@ -2588,7 +2602,8 @@
         "redon-parsifal",
         "redon-brunnhilde",
         "fantin-latour-tannhauser",
-        "grand-opera"
+        "grand-opera",
+        "puccini"
       ],
       "sources": [
         "enc-wagner",
@@ -2642,7 +2657,8 @@
         "bartok",
         "prokofiev",
         "electronic-music",
-        "aleatoric-music"
+        "aleatoric-music",
+        "reich"
       ],
       "sources": [
         "enc-20th-century-classical",
@@ -2665,7 +2681,8 @@
         "20th-century-classical",
         "romantic-music",
         "debussy",
-        "impression-crossmedia"
+        "impression-crossmedia",
+        "expressionism-music"
       ],
       "sources": [
         "enc-20th-century-classical",
@@ -2689,7 +2706,10 @@
         "schoenberg",
         "minimalism-music",
         "stravinsky",
-        "aleatoric-music"
+        "aleatoric-music",
+        "webern",
+        "atonality",
+        "twelve-tone"
       ],
       "sources": [
         "enc-serialism",
@@ -2711,7 +2731,8 @@
       "related": [
         "20th-century-classical",
         "serialism",
-        "electronic-music"
+        "electronic-music",
+        "reich"
       ],
       "sources": [
         "enc-20th-century-classical",
@@ -2734,7 +2755,8 @@
         "20th-century-classical",
         "serialism",
         "rite-of-spring-work",
-        "prokofiev"
+        "prokofiev",
+        "neoclassicism-music"
       ],
       "sources": [
         "enc-stravinsky",
@@ -2755,7 +2777,11 @@
       "overview": "代表作《月光下的皮埃罗》《升华之夜》，以无调性与十二音体系重塑作曲逻辑。",
       "related": [
         "serialism",
-        "20th-century-classical"
+        "20th-century-classical",
+        "webern",
+        "expressionism-music",
+        "atonality",
+        "twelve-tone"
       ],
       "sources": [
         "enc-schoenberg",
@@ -3211,7 +3237,8 @@
       "overview": "钢琴在古典与浪漫时期成为作曲与演奏的核心乐器，奏鸣曲、练习曲与艺术歌曲均以其为主要载体。",
       "related": [
         "sonata",
-        "chopin"
+        "chopin",
+        "rachmaninoff"
       ],
       "sources": [
         "enc-piano",
@@ -13668,7 +13695,10 @@
         "josquin",
         "tallis",
         "byrd",
-        "machaut"
+        "machaut",
+        "dufay",
+        "ars-nova",
+        "ars-antiqua"
       ],
       "sources": [
         "enc-motet",
@@ -13719,7 +13749,8 @@
         "vivaldi",
         "tchaikovsky",
         "corelli",
-        "telemann"
+        "telemann",
+        "suite-music"
       ],
       "sources": [
         "enc-concerto",
@@ -13767,7 +13798,8 @@
         "motet",
         "mass-music",
         "palestrina",
-        "lassus"
+        "lassus",
+        "dufay"
       ],
       "sources": [
         "enc-josquin",
@@ -14051,7 +14083,8 @@
         "romantic-music",
         "concerto",
         "opera",
-        "prokofiev"
+        "prokofiev",
+        "rachmaninoff"
       ],
       "sources": [
         "enc-tchaikovsky",
@@ -14190,7 +14223,9 @@
       "related": [
         "medieval-music",
         "polyphony",
-        "motet"
+        "motet",
+        "dufay",
+        "ars-nova"
       ],
       "sources": [
         "enc-machaut",
@@ -14213,7 +14248,8 @@
       "related": [
         "organum",
         "polyphony",
-        "medieval-music"
+        "medieval-music",
+        "ars-antiqua"
       ],
       "sources": [
         "enc-leonin",
@@ -14532,7 +14568,9 @@
       "related": [
         "20th-century-classical",
         "minimalism-music",
-        "aleatoric-music"
+        "aleatoric-music",
+        "cage",
+        "musique-concrete"
       ],
       "sources": [
         "enc-electronic-music",
@@ -14554,7 +14592,9 @@
       "related": [
         "serialism",
         "20th-century-classical",
-        "electronic-music"
+        "electronic-music",
+        "cage",
+        "musique-concrete"
       ],
       "sources": [
         "enc-aleatoric-music",
@@ -14576,7 +14616,8 @@
       "related": [
         "romantic-music",
         "symphony",
-        "schubert"
+        "schubert",
+        "overture"
       ],
       "sources": [
         "enc-mendelssohn",
@@ -14620,7 +14661,9 @@
       "related": [
         "romantic-music",
         "symphony",
-        "brahms"
+        "brahms",
+        "smetana",
+        "grieg"
       ],
       "sources": [
         "enc-dvorak",
@@ -14642,7 +14685,8 @@
       "related": [
         "symphonic-poem",
         "liszt",
-        "berlioz"
+        "berlioz",
+        "smetana"
       ],
       "sources": [
         "enc-program-music",
@@ -14687,7 +14731,10 @@
         "jingju",
         "dizi",
         "violin",
-        "kunqu"
+        "kunqu",
+        "yangqin",
+        "suona",
+        "nanguan"
       ],
       "sources": [
         "enc-erhu",
@@ -14709,7 +14756,9 @@
       "related": [
         "jingju",
         "dizi",
-        "erhu"
+        "erhu",
+        "suona",
+        "nanguan"
       ],
       "sources": [
         "enc-kunqu",
@@ -14731,7 +14780,9 @@
       "related": [
         "kunqu",
         "erhu",
-        "jingju"
+        "jingju",
+        "yangqin",
+        "suona"
       ],
       "sources": [
         "enc-dizi",
@@ -14862,7 +14913,8 @@
       "related": [
         "performance-art",
         "video-art",
-        "conceptual-art"
+        "conceptual-art",
+        "cage"
       ],
       "sources": [
         "enc-fluxus",
@@ -15387,6 +15439,448 @@
       "sources": [
         "enc-nabis",
         "wd-nabis"
+      ]
+    },
+    {
+      "id": "dufay",
+      "title": "迪费（Guillaume Du Fay）",
+      "kind": "人物",
+      "unit": "music-renaissance",
+      "era": "15世纪",
+      "region": "法国·法兰德斯",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "文艺复兴早期的作曲家与音乐理论家，被视为当时欧洲首屈一指的作曲家。",
+      "when": "15世纪",
+      "overview": "迪费是文艺复兴早期的作曲家和音乐理论家，有法国人或法兰德斯人两种说法。",
+      "related": [
+        "machaut",
+        "josquin",
+        "motet"
+      ],
+      "sources": [
+        "enc-dufay",
+        "wd-dufay"
+      ]
+    },
+    {
+      "id": "puccini",
+      "title": "普契尼（Giacomo Puccini）",
+      "kind": "人物",
+      "unit": "music-romantic",
+      "era": "19世纪末—20世纪初",
+      "region": "意大利",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "意大利作曲家，主要以歌剧著称，后期成为真实主义风格的代表人物之一。",
+      "when": "19世纪末—20世纪初",
+      "overview": "普契尼是主要以歌剧著称的意大利作曲家。",
+      "related": [
+        "opera",
+        "romantic-music",
+        "wagner"
+      ],
+      "sources": [
+        "enc-puccini",
+        "wd-puccini"
+      ]
+    },
+    {
+      "id": "smetana",
+      "title": "斯美塔那（Bedřich Smetana）",
+      "kind": "人物",
+      "unit": "music-romantic",
+      "era": "19世纪",
+      "region": "捷克（波希米亚）",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "捷克作曲家，开创了与本民族文化与政治“复兴”愿望紧密相连的音乐风格，在祖国被视为捷克音乐之父。",
+      "when": "19世纪",
+      "overview": "斯美塔那是捷克作曲家。",
+      "related": [
+        "dvorak",
+        "symphonic-poem",
+        "program-music",
+        "grieg"
+      ],
+      "sources": [
+        "enc-smetana",
+        "wd-smetana"
+      ]
+    },
+    {
+      "id": "grieg",
+      "title": "格里格（Edvard Grieg）",
+      "kind": "人物",
+      "unit": "music-romantic",
+      "era": "19世纪",
+      "region": "挪威",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "挪威作曲家与钢琴家，以在创作中运用挪威民间音乐著称。",
+      "when": "19世纪",
+      "overview": "格里格是挪威作曲家和钢琴家。",
+      "related": [
+        "smetana",
+        "dvorak",
+        "romantic-music"
+      ],
+      "sources": [
+        "enc-grieg",
+        "wd-grieg"
+      ]
+    },
+    {
+      "id": "rachmaninoff",
+      "title": "拉赫玛尼诺夫（Sergei Rachmaninoff）",
+      "kind": "人物",
+      "unit": "music-romantic",
+      "era": "19世纪末—20世纪",
+      "region": "俄国",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "俄国作曲家、钢琴演奏家与指挥家，被视为俄国古典音乐中浪漫主义最后的伟大代表之一。",
+      "when": "19世纪末—20世纪",
+      "overview": "拉赫玛尼诺夫是俄国作曲家、钢琴演奏家和指挥家。",
+      "related": [
+        "tchaikovsky",
+        "romantic-music",
+        "piano"
+      ],
+      "sources": [
+        "enc-rachmaninoff",
+        "wd-rachmaninoff"
+      ]
+    },
+    {
+      "id": "cage",
+      "title": "约翰·凯奇（John Cage）",
+      "kind": "人物",
+      "unit": "music-modern",
+      "era": "20世纪",
+      "region": "美国",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "美国作曲家、视觉艺术家与音乐理论家，音乐中不确定性、电声音乐与非常规乐器用法的先驱。",
+      "when": "20世纪",
+      "overview": "约翰·凯奇是美国作曲家、视觉艺术家和音乐理论家。",
+      "related": [
+        "aleatoric-music",
+        "electronic-music",
+        "fluxus",
+        "musique-concrete"
+      ],
+      "sources": [
+        "enc-cage",
+        "wd-cage"
+      ]
+    },
+    {
+      "id": "reich",
+      "title": "史蒂夫·赖希（Steve Reich）",
+      "kind": "人物",
+      "unit": "music-modern",
+      "era": "20世纪—今",
+      "region": "美国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "美国作曲家，以1960年代中后期简约音乐的先驱著称。",
+      "when": "约公元1960年代起",
+      "overview": "史蒂夫·赖希是美国作曲家，以简约音乐的先驱最为知名。",
+      "related": [
+        "minimalism-music",
+        "20th-century-classical"
+      ],
+      "sources": [
+        "enc-reich",
+        "wd-reich"
+      ]
+    },
+    {
+      "id": "webern",
+      "title": "韦伯恩（Anton Webern）",
+      "kind": "人物",
+      "unit": "music-modern",
+      "era": "20世纪",
+      "region": "奥地利",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "奥地利作曲家、指挥家与音乐学家，与勋伯格、贝尔格同为第二维也纳乐派核心。",
+      "when": "20世纪",
+      "overview": "韦伯恩是奥地利作曲家、指挥家和音乐学家。",
+      "related": [
+        "schoenberg",
+        "serialism",
+        "twelve-tone"
+      ],
+      "sources": [
+        "enc-webern",
+        "wd-webern"
+      ]
+    },
+    {
+      "id": "suite-music",
+      "title": "组曲（Suite）",
+      "kind": "术语",
+      "unit": "music-baroque",
+      "era": "14世纪末—今",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "西方古典音乐中有序排列的一组器乐或乐队作品，起源于14世纪末舞曲的配对。",
+      "when": "约公元14世纪末—今",
+      "overview": "组曲是西方古典音乐中按顺序排列的一组器乐或管弦乐、管乐队作品。",
+      "related": [
+        "bach",
+        "concerto"
+      ],
+      "sources": [
+        "enc-suite-music",
+        "wd-suite-music"
+      ]
+    },
+    {
+      "id": "overture",
+      "title": "序曲（Overture）",
+      "kind": "术语",
+      "unit": "music-romantic",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "为引入芭蕾、歌剧、清唱剧等戏剧作品而写的器乐曲；浪漫主义早期出现独立的音乐会序曲。",
+      "when": "历代",
+      "overview": "序曲是为引入芭蕾、歌剧或清唱剧等戏剧作品而写的器乐曲。",
+      "related": [
+        "opera",
+        "mendelssohn",
+        "beethoven",
+        "symphonic-poem"
+      ],
+      "sources": [
+        "enc-overture",
+        "wd-overture"
+      ]
+    },
+    {
+      "id": "neoclassicism-music",
+      "title": "新古典主义音乐（Neoclassicism in music）",
+      "kind": "风格",
+      "unit": "music-modern",
+      "era": "20世纪（两次大战之间）",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "20世纪、尤其两次大战之间的趋势，作曲家试图回归秩序、平衡、清晰、简省与情感克制的“古典主义”美学。",
+      "when": "约公元1920—1930年代",
+      "overview": "新古典主义音乐是20世纪的一种趋势，在两次大战之间尤为流行。",
+      "related": [
+        "stravinsky",
+        "romantic-music",
+        "neoclassicism"
+      ],
+      "sources": [
+        "enc-neoclassicism-music",
+        "wd-neoclassicism-music"
+      ]
+    },
+    {
+      "id": "expressionism-music",
+      "title": "表现主义音乐（Expressionist music）",
+      "kind": "风格",
+      "unit": "music-modern",
+      "era": "20世纪初",
+      "region": "德奥",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "“表现主义”一词可能于1918年首次用于音乐，尤指勋伯格，他像康定斯基一样避开“传统的美”以传达强烈情感。",
+      "when": "约公元1918年起（术语）",
+      "overview": "表现主义一词可能在1918年首次被用于音乐，尤其是勋伯格的音乐。",
+      "related": [
+        "schoenberg",
+        "kandinsky",
+        "expressionism",
+        "impressionism-music"
+      ],
+      "sources": [
+        "enc-expressionism-music",
+        "wd-expressionism-music"
+      ]
+    },
+    {
+      "id": "musique-concrete",
+      "title": "具体音乐（Musique concrète）",
+      "kind": "术语",
+      "unit": "music-modern",
+      "era": "20世纪",
+      "region": "法国等",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "以录制的声音为原材料的作曲方式，声音常经音频处理与磁带技法加工，拼贴成声音拼贴。",
+      "when": "20世纪",
+      "overview": "具体音乐是以录制的声音作为原材料的一种作曲方式。",
+      "related": [
+        "electronic-music",
+        "aleatoric-music",
+        "cage"
+      ],
+      "sources": [
+        "enc-musique-concrete",
+        "wd-musique-concrete"
+      ]
+    },
+    {
+      "id": "atonality",
+      "title": "无调性（Atonality）",
+      "kind": "术语",
+      "unit": "music-modern",
+      "era": "20世纪初—今",
+      "region": "欧美",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "最广义指缺乏调性中心或调的音乐，通常用于约20世纪初至今的作品。",
+      "when": "约公元20世纪初—今",
+      "overview": "无调性在最广义上指缺乏调性中心或调的音乐。",
+      "related": [
+        "schoenberg",
+        "serialism",
+        "twelve-tone"
+      ],
+      "sources": [
+        "enc-atonality",
+        "wd-atonality"
+      ]
+    },
+    {
+      "id": "twelve-tone",
+      "title": "十二音技法（Twelve-tone technique）",
+      "kind": "术语",
+      "unit": "music-modern",
+      "era": "20世纪",
+      "region": "欧美",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "又称十二音序列、十二音作曲，通过音列使半音阶十二个音同等频繁地出现，避免强调任一音。",
+      "when": "20世纪",
+      "overview": "十二音技法又称十二音体系、十二音序列主义，是一种作曲方法。",
+      "related": [
+        "serialism",
+        "schoenberg",
+        "webern",
+        "atonality"
+      ],
+      "sources": [
+        "enc-twelve-tone",
+        "wd-twelve-tone"
+      ]
+    },
+    {
+      "id": "ars-nova",
+      "title": "新艺术（Ars nova，音乐）",
+      "kind": "风格",
+      "unit": "music-medieval",
+      "era": "14世纪",
+      "region": "法国",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "中世纪晚期在法兰西王国及其周边兴盛的音乐风格，特指从《福韦尔传奇》（1310年代）到马肖去世（1377）之间。",
+      "when": "约公元1310年代—1377年",
+      "overview": "新艺术是中世纪晚期在法兰西王国及其周边兴盛的一种音乐风格。",
+      "related": [
+        "machaut",
+        "ars-antiqua",
+        "motet"
+      ],
+      "sources": [
+        "enc-ars-nova",
+        "wd-ars-nova"
+      ]
+    },
+    {
+      "id": "ars-antiqua",
+      "title": "古艺术（Ars antiqua）",
+      "kind": "风格",
+      "unit": "music-medieval",
+      "era": "约1170—1310年",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "现代学者对中世纪盛期约1170至1310年欧洲音乐的称呼，涵盖圣母院乐派复调与经文歌的早期发展。",
+      "when": "约公元1170—1310年",
+      "overview": "古艺术是现代学者用来指称中世纪盛期约1170至1310年欧洲音乐的术语。",
+      "related": [
+        "ars-nova",
+        "leonin",
+        "organum",
+        "motet"
+      ],
+      "sources": [
+        "enc-ars-antiqua",
+        "wd-ars-antiqua"
+      ]
+    },
+    {
+      "id": "yangqin",
+      "title": "扬琴（yangqin）",
+      "kind": "作品",
+      "unit": "music-china",
+      "era": "历代—今",
+      "region": "中国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "梯形的中国击弦乐器，可能源自伊朗桑图尔或欧洲扬琴。",
+      "when": "历代—今",
+      "overview": "扬琴是一种梯形的中国击弦扬琴类乐器。",
+      "related": [
+        "erhu",
+        "dizi"
+      ],
+      "sources": [
+        "enc-yangqin",
+        "wd-yangqin"
+      ]
+    },
+    {
+      "id": "suona",
+      "title": "唢呐（suona）",
+      "kind": "作品",
+      "unit": "music-china",
+      "era": "约3世纪—今",
+      "region": "中国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "中国传统双簧乐器，基本形制源于古伊朗的“sorna”，约3世纪出现于中国。",
+      "when": "约公元3世纪—今",
+      "overview": "唢呐又称嘀嗒、喇叭或海笛，是中国传统的双簧乐器。",
+      "related": [
+        "dizi",
+        "erhu",
+        "kunqu"
+      ],
+      "sources": [
+        "enc-suona",
+        "wd-suona"
+      ]
+    },
+    {
+      "id": "nanguan",
+      "title": "南管（Nanguan）",
+      "kind": "风格",
+      "unit": "music-china",
+      "era": "明代以来",
+      "region": "福建·台湾",
+      "medium": "音乐体裁",
+      "tier": "补充",
+      "def": "源自福建的中国室内乐风格，明代由汉人移民带到台湾。",
+      "when": "明代以来",
+      "overview": "南管是源自中国南方福建省的一种中国室内乐风格。",
+      "related": [
+        "kunqu",
+        "erhu"
+      ],
+      "sources": [
+        "enc-nanguan",
+        "wd-nanguan"
       ]
     }
   ]

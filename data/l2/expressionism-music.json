@@ -1,0 +1,20 @@
+{
+  "id": "expressionism-music",
+  "level": "L2",
+  "sections": {
+    "时代背景": "摘要称，“表现主义”一词可能在1918年首次用于音乐，尤其用于勋伯格。“可能”是摘要的措辞。",
+    "风格特征": "摘要称，勋伯格像画家康定斯基一样，避开“传统形式的美”，在音乐中传达强烈的感情。",
+    "代表人物与作品": "摘要只提到勋伯格，没有列举作品。",
+    "技法或形式分析": "摘要转述阿多诺：表现主义音乐中不协和音占主导，“艺术中和谐、肯定的元素被驱逐”。",
+    "与前后风格的关系和争论": "摘要大段转述阿多诺的诠释：它试图消除传统音乐中一切程式化的成分，类比于文学中“呐喊”的理想；追求“不带幻觉、伪装或委婉的主观感情的真实”；关注无意识，“对恐惧的描绘居于中心”。摘要又称它拒斥与印象主义音乐相联系的描绘性、感官性品质。这些是阿多诺一家之言，不代表定论。",
+    "一图": "示意图以表现主义音乐为中心，标示勋伯格与康定斯基、阿多诺诠释、反印象主义三项。",
+    "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）主体内容是阿多诺的诠释，属转引；（3）摘要缓存在句中截断，本条目只用截断前的内容。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='expressionism-music 示意图'><title>expressionism-music</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>勋伯格·康定斯基</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>避开传统美</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>表现主义音乐</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>约1918年得名</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>阿多诺诠释</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>恐惧·呐喊</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>印象主义</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>被拒斥</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+  "sources": [
+    "enc-expressionism-music",
+    "wd-expressionism-music"
+  ],
+  "needs_verification": true,
+  "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；主体为阿多诺诠释的转引。"
+}

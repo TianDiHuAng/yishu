@@ -1345,7 +1345,8 @@
         "paelinck-self-portrait",
         "classical-crossmedia",
         "neoclassical-architecture",
-        "beaux-arts-architecture"
+        "beaux-arts-architecture",
+        "neoclassicism-music"
       ],
       "sources": [
         "enc-neoclassicism",
@@ -1890,7 +1891,8 @@
         "van-gogh",
         "kandinsky",
         "klee-with-the-dot",
-        "klee-carnival-in-snow"
+        "klee-carnival-in-snow",
+        "expressionism-music"
       ],
       "sources": [
         "enc-expressionism",
@@ -2223,7 +2225,8 @@
         "abstract-expressionism",
         "klee-carnival-in-snow",
         "constructivism-art",
-        "mondrian"
+        "mondrian",
+        "expressionism-music"
       ],
       "sources": [
         "enc-kandinsky",
@@ -3296,7 +3299,8 @@
         "gregorian-chant",
         "polyphony",
         "hildegard",
-        "leonin"
+        "leonin",
+        "ars-antiqua"
       ],
       "sources": [
         "enc-polyphony",
@@ -3613,7 +3617,9 @@
         "gluck",
         "purcell",
         "lully",
-        "grand-opera"
+        "grand-opera",
+        "puccini",
+        "overture"
       ],
       "sources": [
         "enc-opera",
@@ -3754,7 +3760,8 @@
         "fugue",
         "counterpoint",
         "vivaldi",
-        "telemann"
+        "telemann",
+        "suite-music"
       ],
       "sources": [
         "enc-bach",
@@ -4017,7 +4024,8 @@
         "symphony",
         "bourdelle-head-of-beethoven",
         "kriehuber-bust-of-beethoven",
-        "string-quartet"
+        "string-quartet",
+        "overture"
       ],
       "sources": [
         "enc-beethoven",
@@ -4073,7 +4081,11 @@
         "mendelssohn",
         "berlioz",
         "dvorak",
-        "grand-opera"
+        "grand-opera",
+        "puccini",
+        "grieg",
+        "rachmaninoff",
+        "neoclassicism-music"
       ],
       "sources": [
         "enc-romantic-music",
@@ -4143,7 +4155,9 @@
         "romantic-music",
         "romanticism-art",
         "liszt",
-        "program-music"
+        "program-music",
+        "smetana",
+        "overture"
       ],
       "sources": [
         "enc-romantic-music",
@@ -4216,7 +4230,8 @@
         "redon-parsifal",
         "redon-brunnhilde",
         "fantin-latour-tannhauser",
-        "grand-opera"
+        "grand-opera",
+        "puccini"
       ],
       "sources": [
         "enc-wagner",
@@ -4296,7 +4311,8 @@
         "bartok",
         "prokofiev",
         "electronic-music",
-        "aleatoric-music"
+        "aleatoric-music",
+        "reich"
       ],
       "sources": [
         "enc-20th-century-classical",
@@ -4331,7 +4347,8 @@
         "20th-century-classical",
         "romantic-music",
         "debussy",
-        "impression-crossmedia"
+        "impression-crossmedia",
+        "expressionism-music"
       ],
       "sources": [
         "enc-20th-century-classical",
@@ -4367,7 +4384,10 @@
         "schoenberg",
         "minimalism-music",
         "stravinsky",
-        "aleatoric-music"
+        "aleatoric-music",
+        "webern",
+        "atonality",
+        "twelve-tone"
       ],
       "sources": [
         "enc-serialism",
@@ -4401,7 +4421,8 @@
       "related": [
         "20th-century-classical",
         "serialism",
-        "electronic-music"
+        "electronic-music",
+        "reich"
       ],
       "sources": [
         "enc-20th-century-classical",
@@ -4436,7 +4457,8 @@
         "20th-century-classical",
         "serialism",
         "rite-of-spring-work",
-        "prokofiev"
+        "prokofiev",
+        "neoclassicism-music"
       ],
       "sources": [
         "enc-stravinsky",
@@ -4470,7 +4492,11 @@
       "overview": "代表作《月光下的皮埃罗》《升华之夜》，以无调性与十二音体系重塑作曲逻辑。",
       "related": [
         "serialism",
-        "20th-century-classical"
+        "20th-century-classical",
+        "webern",
+        "expressionism-music",
+        "atonality",
+        "twelve-tone"
       ],
       "sources": [
         "enc-schoenberg",
@@ -5174,7 +5200,8 @@
       "overview": "钢琴在古典与浪漫时期成为作曲与演奏的核心乐器，奏鸣曲、练习曲与艺术歌曲均以其为主要载体。",
       "related": [
         "sonata",
-        "chopin"
+        "chopin",
+        "rachmaninoff"
       ],
       "sources": [
         "enc-piano",
@@ -22014,7 +22041,10 @@
         "josquin",
         "tallis",
         "byrd",
-        "machaut"
+        "machaut",
+        "dufay",
+        "ars-nova",
+        "ars-antiqua"
       ],
       "sources": [
         "enc-motet",
@@ -22091,7 +22121,8 @@
         "vivaldi",
         "tchaikovsky",
         "corelli",
-        "telemann"
+        "telemann",
+        "suite-music"
       ],
       "sources": [
         "enc-concerto",
@@ -22165,7 +22196,8 @@
         "motet",
         "mass-music",
         "palestrina",
-        "lassus"
+        "lassus",
+        "dufay"
       ],
       "sources": [
         "enc-josquin",
@@ -22614,7 +22646,8 @@
         "romantic-music",
         "concerto",
         "opera",
-        "prokofiev"
+        "prokofiev",
+        "rachmaninoff"
       ],
       "sources": [
         "enc-tchaikovsky",
@@ -22837,7 +22870,9 @@
       "related": [
         "medieval-music",
         "polyphony",
-        "motet"
+        "motet",
+        "dufay",
+        "ars-nova"
       ],
       "sources": [
         "enc-machaut",
@@ -22874,7 +22909,8 @@
       "related": [
         "organum",
         "polyphony",
-        "medieval-music"
+        "medieval-music",
+        "ars-antiqua"
       ],
       "sources": [
         "enc-leonin",
@@ -23383,7 +23419,9 @@
       "related": [
         "20th-century-classical",
         "minimalism-music",
-        "aleatoric-music"
+        "aleatoric-music",
+        "cage",
+        "musique-concrete"
       ],
       "sources": [
         "enc-electronic-music",
@@ -23419,7 +23457,9 @@
       "related": [
         "serialism",
         "20th-century-classical",
-        "electronic-music"
+        "electronic-music",
+        "cage",
+        "musique-concrete"
       ],
       "sources": [
         "enc-aleatoric-music",
@@ -23454,7 +23494,8 @@
       "related": [
         "romantic-music",
         "symphony",
-        "schubert"
+        "schubert",
+        "overture"
       ],
       "sources": [
         "enc-mendelssohn",
@@ -23524,7 +23565,9 @@
       "related": [
         "romantic-music",
         "symphony",
-        "brahms"
+        "brahms",
+        "smetana",
+        "grieg"
       ],
       "sources": [
         "enc-dvorak",
@@ -23559,7 +23602,8 @@
       "related": [
         "symphonic-poem",
         "liszt",
-        "berlioz"
+        "berlioz",
+        "smetana"
       ],
       "sources": [
         "enc-program-music",
@@ -23630,7 +23674,10 @@
         "jingju",
         "dizi",
         "violin",
-        "kunqu"
+        "kunqu",
+        "yangqin",
+        "suona",
+        "nanguan"
       ],
       "sources": [
         "enc-erhu",
@@ -23665,7 +23712,9 @@
       "related": [
         "jingju",
         "dizi",
-        "erhu"
+        "erhu",
+        "suona",
+        "nanguan"
       ],
       "sources": [
         "enc-kunqu",
@@ -23700,7 +23749,9 @@
       "related": [
         "kunqu",
         "erhu",
-        "jingju"
+        "jingju",
+        "yangqin",
+        "suona"
       ],
       "sources": [
         "enc-dizi",
@@ -23909,7 +23960,8 @@
       "related": [
         "performance-art",
         "video-art",
-        "conceptual-art"
+        "conceptual-art",
+        "cage"
       ],
       "sources": [
         "enc-fluxus",
@@ -24767,6 +24819,708 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='nabis 示意图'><title>nabis</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>高更·塞尚</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>共同崇敬</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>纳比派</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1888—1900</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>隐喻与象征</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>而非描绘自然</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>早期现代主义</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>过渡作用</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；作用评价未核验。"
+    },
+    {
+      "id": "dufay",
+      "title": "迪费（Guillaume Du Fay）",
+      "kind": "人物",
+      "unit": "music-renaissance",
+      "era": "15世纪",
+      "region": "法国·法兰德斯",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "文艺复兴早期的作曲家与音乐理论家，被视为当时欧洲首屈一指的作曲家。",
+      "when": "15世纪",
+      "overview": "迪费是文艺复兴早期的作曲家和音乐理论家，有法国人或法兰德斯人两种说法。",
+      "related": [
+        "machaut",
+        "josquin",
+        "motet"
+      ],
+      "sources": [
+        "enc-dufay",
+        "wd-dufay"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，迪费属文艺复兴早期，国籍有“法国”与“法兰德斯”两种说法。（生卒年摘要未给出，本条目不写具体年份。）",
+        "风格特征": "摘要没有给出这方面内容，本条目不补写。",
+        "代表人物与作品": "摘要没有列举作品。摘要称他与勃艮第乐派作曲家关系密切，尤其是同事班舒瓦（Gilles Binchois）。",
+        "技法或形式分析": "摘要没有给出这方面内容，本条目不补写。",
+        "与前后风格的关系和争论": "摘要称，他被视为当时欧洲首屈一指的作曲家，作品广泛演出与传抄；但他本人从未是勃艮第宫廷礼拜堂的正式成员。",
+        "一图": "示意图以迪费为中心，标示文艺复兴早期、勃艮第乐派、班舒瓦三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）国籍两说照录；（3）作品与生卒年未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='dufay 示意图'><title>dufay</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>文艺复兴早期</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>作曲·理论</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>迪费</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>首屈一指</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>勃艮第乐派</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>关系密切</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>班舒瓦</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>同事</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；国籍两说；作品与生卒年未给出。"
+    },
+    {
+      "id": "puccini",
+      "title": "普契尼（Giacomo Puccini）",
+      "kind": "人物",
+      "unit": "music-romantic",
+      "era": "19世纪末—20世纪初",
+      "region": "意大利",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "意大利作曲家，主要以歌剧著称，后期成为真实主义风格的代表人物之一。",
+      "when": "19世纪末—20世纪初",
+      "overview": "普契尼是主要以歌剧著称的意大利作曲家。",
+      "related": [
+        "opera",
+        "romantic-music",
+        "wagner"
+      ],
+      "sources": [
+        "enc-puccini",
+        "wd-puccini"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，他出身于一个可追溯到巴洛克晚期的作曲家世家。（生卒年摘要未给出，本条目不写具体年份。）",
+        "风格特征": "摘要称，他早期作品扎根于19世纪末传统的浪漫主义意大利歌剧，后来发展为写实的真实主义（verismo）风格，并成为其主要代表之一。",
+        "代表人物与作品": "摘要没有列举具体歌剧，本条目不补写。",
+        "技法或形式分析": "摘要没有给出这方面内容，本条目不补写。",
+        "与前后风格的关系和争论": "摘要称，他被普遍视为威尔第之后意大利歌剧最伟大、最成功的倡导者。这是评价性表述。",
+        "一图": "示意图以普契尼为中心，标示作曲世家、浪漫主义歌剧、真实主义三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）评价性表述未核验；（3）作品与生卒年未给出；（4）威尔第条目库内尚无。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='puccini 示意图'><title>puccini</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>作曲世家</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>巴洛克晚期起</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>普契尼</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>意大利歌剧</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>浪漫主义歌剧</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>早期</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>真实主义</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>后期代表</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；作品与生卒年未给出；评价未核验。"
+    },
+    {
+      "id": "smetana",
+      "title": "斯美塔那（Bedřich Smetana）",
+      "kind": "人物",
+      "unit": "music-romantic",
+      "era": "19世纪",
+      "region": "捷克（波希米亚）",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "捷克作曲家，开创了与本民族文化与政治“复兴”愿望紧密相连的音乐风格，在祖国被视为捷克音乐之父。",
+      "when": "19世纪",
+      "overview": "斯美塔那是捷克作曲家。",
+      "related": [
+        "dvorak",
+        "symphonic-poem",
+        "program-music",
+        "grieg"
+      ],
+      "sources": [
+        "enc-smetana",
+        "wd-smetana"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，他开创的音乐风格与本民族对文化与政治“复兴”的愿望紧密相连。（生卒年摘要未给出，本条目不写具体年份。）",
+        "风格特征": "摘要没有给出这方面内容，本条目不补写。",
+        "代表人物与作品": "摘要称，他在国际上最知名的是1866年的歌剧《被出卖的新嫁娘》和交响套曲《我的祖国》；后者描绘家乡波希米亚的历史、传说与风景，包含著名交响诗《伏尔塔瓦河》（德语名《沃尔塔瓦》）。",
+        "技法或形式分析": "摘要没有给出这方面内容，本条目不补写。",
+        "与前后风格的关系和争论": "摘要称，他在祖国被视为“捷克音乐之父”。德沃夏克条目的摘要称德沃夏克追随斯美塔那的民族主义先例，那是另一条目的内容。",
+        "一图": "示意图以斯美塔那为中心，标示民族复兴、《被出卖的新嫁娘》、《我的祖国》三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“捷克音乐之父”是本国评价；（3）生卒年未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='smetana 示意图'><title>smetana</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>民族复兴</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>文化与政治</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>斯美塔那</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>捷克音乐之父</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>被出卖的新嫁娘</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>1866歌剧</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>我的祖国</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>含伏尔塔瓦河</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；生卒年未给出。"
+    },
+    {
+      "id": "grieg",
+      "title": "格里格（Edvard Grieg）",
+      "kind": "人物",
+      "unit": "music-romantic",
+      "era": "19世纪",
+      "region": "挪威",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "挪威作曲家与钢琴家，以在创作中运用挪威民间音乐著称。",
+      "when": "19世纪",
+      "overview": "格里格是挪威作曲家和钢琴家。",
+      "related": [
+        "smetana",
+        "dvorak",
+        "romantic-music"
+      ],
+      "sources": [
+        "enc-grieg",
+        "wd-grieg"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，格里格被普遍视为浪漫主义时期的主要作曲家之一。（生卒年摘要未给出，本条目不写具体年份。）",
+        "风格特征": "摘要称，他在创作中运用挪威民间音乐，使挪威音乐闻名，并帮助形成民族认同。",
+        "代表人物与作品": "摘要没有列举作品，本条目不补写。",
+        "技法或形式分析": "摘要没有给出这方面内容，本条目不补写。",
+        "与前后风格的关系和争论": "摘要把他与芬兰的西贝柳斯、波希米亚的斯美塔那相比，三人都以音乐助成民族认同。",
+        "一图": "示意图以格里格为中心，标示挪威民间音乐、民族认同、斯美塔那与西贝柳斯三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）作品与生卒年未给出；（3）西贝柳斯条目库内尚无。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='grieg 示意图'><title>grieg</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>挪威民间音乐</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>融入创作</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>格里格</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>作曲·钢琴</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>民族认同</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>帮助形成</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>同类人物</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>斯美塔那等</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；作品与生卒年未给出。"
+    },
+    {
+      "id": "rachmaninoff",
+      "title": "拉赫玛尼诺夫（Sergei Rachmaninoff）",
+      "kind": "人物",
+      "unit": "music-romantic",
+      "era": "19世纪末—20世纪",
+      "region": "俄国",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "俄国作曲家、钢琴演奏家与指挥家，被视为俄国古典音乐中浪漫主义最后的伟大代表之一。",
+      "when": "19世纪末—20世纪",
+      "overview": "拉赫玛尼诺夫是俄国作曲家、钢琴演奏家和指挥家。",
+      "related": [
+        "tchaikovsky",
+        "romantic-music",
+        "piano"
+      ],
+      "sources": [
+        "enc-rachmaninoff",
+        "wd-rachmaninoff"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，他被普遍视为同时代最出色的钢琴家之一。（生卒年摘要未给出，本条目不写具体年份。）",
+        "风格特征": "摘要称，早期受柴可夫斯基、里姆斯基-科萨科夫等俄国作曲家影响，后形成完全个人化的语汇：如歌的旋律、富于表现力、密集的对位织体与丰富的管弦乐色彩。",
+        "代表人物与作品": "摘要没有列举作品，本条目不补写。",
+        "技法或形式分析": "摘要称，他经常在作品中运用钢琴，并以演奏家的技艺充分探索钢琴的表现与技术可能。",
+        "与前后风格的关系和争论": "摘要称，作为作曲家，他是俄国古典音乐中浪漫主义最后的伟大代表之一。这是评价性表述。",
+        "一图": "示意图以拉赫玛尼诺夫为中心，标示柴可夫斯基影响、个人语汇、钢琴三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）作品与生卒年未给出；（3）评价性表述未核验。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='rachmaninoff 示意图'><title>rachmaninoff</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>柴可夫斯基</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>早期影响</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>拉赫玛尼诺夫</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>作曲·钢琴·指挥</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>个人语汇</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>如歌·对位·色彩</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>钢琴</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>表现与技术</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；作品与生卒年未给出。"
+    },
+    {
+      "id": "cage",
+      "title": "约翰·凯奇（John Cage）",
+      "kind": "人物",
+      "unit": "music-modern",
+      "era": "20世纪",
+      "region": "美国",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "美国作曲家、视觉艺术家与音乐理论家，音乐中不确定性、电声音乐与非常规乐器用法的先驱。",
+      "when": "20世纪",
+      "overview": "约翰·凯奇是美国作曲家、视觉艺术家和音乐理论家。",
+      "related": [
+        "aleatoric-music",
+        "electronic-music",
+        "fluxus",
+        "musique-concrete"
+      ],
+      "sources": [
+        "enc-cage",
+        "wd-cage"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，凯奇是战后先锋派的主要人物之一。（生卒年摘要未给出，本条目不写具体年份。）",
+        "风格特征": "摘要没有给出这方面内容，本条目不补写。",
+        "代表人物与作品": "摘要没有列举作品，本条目不补写。",
+        "技法或形式分析": "摘要称，他是音乐中不确定性（indeterminacy）、电声音乐与非常规乐器用法的先驱。",
+        "与前后风格的关系和争论": "摘要称，评论家誉其为20世纪最具影响力的作曲家之一；他主要通过与编舞家默斯·坎宁安的合作，对现代舞发展起了重要作用，坎宁安也是他一生大部分时间的伴侣。激浪派条目摘要称该群体受凯奇启发，那是另一条目的内容。",
+        "一图": "示意图以凯奇为中心，标示不确定性、电声音乐、现代舞三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）作品与生卒年未给出；（3）“最具影响力”为评论家评价。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cage 示意图'><title>cage</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>不确定性</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>先驱</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>约翰·凯奇</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>战后先锋派</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>电声音乐</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>先驱</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>现代舞</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>与坎宁安合作</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；作品与生卒年未给出。"
+    },
+    {
+      "id": "reich",
+      "title": "史蒂夫·赖希（Steve Reich）",
+      "kind": "人物",
+      "unit": "music-modern",
+      "era": "20世纪—今",
+      "region": "美国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "美国作曲家，以1960年代中后期简约音乐的先驱著称。",
+      "when": "约公元1960年代起",
+      "overview": "史蒂夫·赖希是美国作曲家，以简约音乐的先驱最为知名。",
+      "related": [
+        "minimalism-music",
+        "20th-century-classical"
+      ],
+      "sources": [
+        "enc-reich",
+        "wd-reich"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，他在1960年代中后期成为简约音乐的先驱。（生卒年摘要未给出，本条目不写具体年份。）",
+        "风格特征": "摘要称，他的作品以重复音型、缓慢的和声节奏与卡农为特征。",
+        "代表人物与作品": "摘要提到他的文章《作为渐进过程的音乐》，并引其话：“我对可感知的过程感兴趣。我想在整个发声的音乐中听到过程的发生。”",
+        "技法或形式分析": "摘要称，他的早期作品实验“相位移动”：一个或多个重复乐句比其他乐句稍慢或稍快，逐渐“错相”，在可感知的流动中产生新的音乐图形。",
+        "与前后风格的关系和争论": "摘要没有谈及相关争论。",
+        "一图": "示意图以赖希为中心，标示重复音型、相位移动、可感知过程三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）具体作品名与生年未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='reich 示意图'><title>reich</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>重复音型</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>缓慢和声节奏</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>史蒂夫·赖希</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>简约音乐先驱</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>相位移动</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>早期实验</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>可感知过程</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>作为渐进过程的音乐</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；作品名与生年未给出。"
+    },
+    {
+      "id": "webern",
+      "title": "韦伯恩（Anton Webern）",
+      "kind": "人物",
+      "unit": "music-modern",
+      "era": "20世纪",
+      "region": "奥地利",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "奥地利作曲家、指挥家与音乐学家，与勋伯格、贝尔格同为第二维也纳乐派核心。",
+      "when": "20世纪",
+      "overview": "韦伯恩是奥地利作曲家、指挥家和音乐学家。",
+      "related": [
+        "schoenberg",
+        "serialism",
+        "twelve-tone"
+      ],
+      "sources": [
+        "enc-webern",
+        "wd-webern"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，韦伯恩、勋伯格与同事阿尔班·贝尔格构成后来所称的“第二维也纳乐派”的核心。（生卒年摘要未给出，本条目不写具体年份。）",
+        "风格特征": "摘要称，他的现代主义音乐以抒情、诗意的简洁，以及运用当时新颖的无调性与十二音技法，在同侪中属最激进之列。",
+        "代表人物与作品": "摘要没有列举作品，本条目不补写。",
+        "技法或形式分析": "摘要称，他的方法通常很严谨，受到两方面启发：在吉多·阿德勒指导下研究法兰德斯乐派，以及勋伯格教作曲时以巴赫、第一维也纳乐派与勃拉姆斯音乐强调结构的做法。",
+        "与前后风格的关系和争论": "摘要没有谈及相关争论。",
+        "一图": "示意图以韦伯恩为中心，标示第二维也纳乐派、无调性与十二音、法兰德斯乐派研究三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）作品与生卒年未给出；（3）贝尔格条目库内尚无。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='webern 示意图'><title>webern</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>第二维也纳乐派</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>核心之一</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>韦伯恩</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>作曲·指挥·音乐学</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>十二音技法</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>简洁·激进</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>法兰德斯乐派</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>师从阿德勒研究</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；作品与生卒年未给出。"
+    },
+    {
+      "id": "suite-music",
+      "title": "组曲（Suite）",
+      "kind": "术语",
+      "unit": "music-baroque",
+      "era": "14世纪末—今",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "西方古典音乐中有序排列的一组器乐或乐队作品，起源于14世纪末舞曲的配对。",
+      "when": "约公元14世纪末—今",
+      "overview": "组曲是西方古典音乐中按顺序排列的一组器乐或管弦乐、管乐队作品。",
+      "related": [
+        "bach",
+        "concerto"
+      ],
+      "sources": [
+        "enc-suite-music",
+        "wd-suite-music"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，组曲起源于14世纪末的舞曲配对，到17世纪初已发展为至多五首舞曲，有时前加前奏曲。",
+        "风格特征": "摘要称，各乐章在主题与调性上常有联系。",
+        "代表人物与作品": "摘要没有列举作曲家与作品，本条目不补写。",
+        "技法或形式分析": "摘要给出的结构信息就是上述“至多五首舞曲、有时加前奏曲”。具体舞曲类型摘要未列出。",
+        "与前后风格的关系和争论": "摘要称，这一术语也可指其他音乐传统中的类似形式，如土耳其的 fasıl 与阿拉伯的 nuubaat。",
+        "一图": "示意图以组曲为中心，标示舞曲配对、至多五首舞曲、其他传统三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）具体舞曲类型与代表作品未给出；（3）挂在巴洛克单元是本项目划分。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='suite-music 示意图'><title>suite-music</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>舞曲配对</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>14世纪末起源</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>组曲</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>有序的器乐组</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>五首舞曲</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>17世纪初</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>其他传统</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>fasıl·nuubaat</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；舞曲类型与作品未给出。"
+    },
+    {
+      "id": "overture",
+      "title": "序曲（Overture）",
+      "kind": "术语",
+      "unit": "music-romantic",
+      "era": "历代",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "为引入芭蕾、歌剧、清唱剧等戏剧作品而写的器乐曲；浪漫主义早期出现独立的音乐会序曲。",
+      "when": "历代",
+      "overview": "序曲是为引入芭蕾、歌剧或清唱剧等戏剧作品而写的器乐曲。",
+      "related": [
+        "opera",
+        "mendelssohn",
+        "beethoven",
+        "symphonic-poem"
+      ],
+      "sources": [
+        "enc-overture",
+        "wd-overture"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要没有给出起源年代，本条目不补写。",
+        "风格特征": "摘要称，序曲是为引入戏剧作品而写的器乐曲。",
+        "代表人物与作品": "摘要称，浪漫主义早期，贝多芬、门德尔松等作曲家写有独立、自足的标题性器乐序曲。",
+        "技法或形式分析": "摘要没有给出这方面内容，本条目不补写。",
+        "与前后风格的关系和争论": "摘要称，这类独立序曲预示了交响诗等体裁，并引述其“起初无疑是打算放在节目单开头演奏的”。",
+        "一图": "示意图以序曲为中心，标示戏剧作品引子、贝多芬与门德尔松、交响诗三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）起源年代与具体作品未给出；（3）引语为摘要转引。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='overture 示意图'><title>overture</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>戏剧作品</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>歌剧·芭蕾</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>序曲</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>器乐引子</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>独立序曲</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>贝多芬·门德尔松</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>交响诗</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>被预示</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；年代与具体作品未给出。"
+    },
+    {
+      "id": "neoclassicism-music",
+      "title": "新古典主义音乐（Neoclassicism in music）",
+      "kind": "风格",
+      "unit": "music-modern",
+      "era": "20世纪（两次大战之间）",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "20世纪、尤其两次大战之间的趋势，作曲家试图回归秩序、平衡、清晰、简省与情感克制的“古典主义”美学。",
+      "when": "约公元1920—1930年代",
+      "overview": "新古典主义音乐是20世纪的一种趋势，在两次大战之间尤为流行。",
+      "related": [
+        "stravinsky",
+        "romantic-music",
+        "neoclassicism"
+      ],
+      "sources": [
+        "enc-neoclassicism-music",
+        "wd-neoclassicism-music"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，这一趋势在两次大战之间尤为流行，是20世纪前二十年实验热潮之后的“回归秩序”。",
+        "风格特征": "摘要称，作曲家试图回归与广义“古典主义”相关的美学准则：秩序、平衡、清晰、简省与情感克制。",
+        "代表人物与作品": "摘要没有列举作曲家与作品，本条目不补写。",
+        "技法或形式分析": "摘要称，其表现特征包括精简的演奏编制、强调节奏与对位织体、更新或扩展的调性和声，以及专注于与浪漫主义标题音乐相对的绝对音乐。",
+        "与前后风格的关系和争论": "摘要称，它是对晚期浪漫主义无节制的情绪化与被认为的无形式的反动。“被认为的”说明这是新古典主义者的看法。",
+        "一图": "示意图以新古典主义音乐为中心，标示反晚期浪漫、回归秩序、绝对音乐三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）代表作曲家未给出；（3）与美术新古典主义同名但不同时期，库内互链为本项目所加。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='neoclassicism-music 示意图'><title>neoclassicism-music</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>晚期浪漫</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>被反对</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>新古典主义音乐</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>两次大战之间</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>回归秩序</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>平衡·清晰·克制</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>绝对音乐</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>对立于标题音乐</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；代表作曲家未给出。"
+    },
+    {
+      "id": "expressionism-music",
+      "title": "表现主义音乐（Expressionist music）",
+      "kind": "风格",
+      "unit": "music-modern",
+      "era": "20世纪初",
+      "region": "德奥",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "“表现主义”一词可能于1918年首次用于音乐，尤指勋伯格，他像康定斯基一样避开“传统的美”以传达强烈情感。",
+      "when": "约公元1918年起（术语）",
+      "overview": "表现主义一词可能在1918年首次被用于音乐，尤其是勋伯格的音乐。",
+      "related": [
+        "schoenberg",
+        "kandinsky",
+        "expressionism",
+        "impressionism-music"
+      ],
+      "sources": [
+        "enc-expressionism-music",
+        "wd-expressionism-music"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，“表现主义”一词可能在1918年首次用于音乐，尤其用于勋伯格。“可能”是摘要的措辞。",
+        "风格特征": "摘要称，勋伯格像画家康定斯基一样，避开“传统形式的美”，在音乐中传达强烈的感情。",
+        "代表人物与作品": "摘要只提到勋伯格，没有列举作品。",
+        "技法或形式分析": "摘要转述阿多诺：表现主义音乐中不协和音占主导，“艺术中和谐、肯定的元素被驱逐”。",
+        "与前后风格的关系和争论": "摘要大段转述阿多诺的诠释：它试图消除传统音乐中一切程式化的成分，类比于文学中“呐喊”的理想；追求“不带幻觉、伪装或委婉的主观感情的真实”；关注无意识，“对恐惧的描绘居于中心”。摘要又称它拒斥与印象主义音乐相联系的描绘性、感官性品质。这些是阿多诺一家之言，不代表定论。",
+        "一图": "示意图以表现主义音乐为中心，标示勋伯格与康定斯基、阿多诺诠释、反印象主义三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）主体内容是阿多诺的诠释，属转引；（3）摘要缓存在句中截断，本条目只用截断前的内容。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='expressionism-music 示意图'><title>expressionism-music</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>勋伯格·康定斯基</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>避开传统美</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>表现主义音乐</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>约1918年得名</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>阿多诺诠释</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>恐惧·呐喊</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>印象主义</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>被拒斥</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；主体为阿多诺诠释的转引。"
+    },
+    {
+      "id": "musique-concrete",
+      "title": "具体音乐（Musique concrète）",
+      "kind": "术语",
+      "unit": "music-modern",
+      "era": "20世纪",
+      "region": "法国等",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "以录制的声音为原材料的作曲方式，声音常经音频处理与磁带技法加工，拼贴成声音拼贴。",
+      "when": "20世纪",
+      "overview": "具体音乐是以录制的声音作为原材料的一种作曲方式。",
+      "related": [
+        "electronic-music",
+        "aleatoric-music",
+        "cage"
+      ],
+      "sources": [
+        "enc-musique-concrete",
+        "wd-musique-concrete"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要没有给出起源年代与地点，本条目写“20世纪”是按单元划分。",
+        "风格特征": "摘要称，这类作品不受旋律、和声、节奏与节拍等常规音乐规则限制。",
+        "代表人物与作品": "摘要没有列举作曲家与作品，本条目不补写。",
+        "技法或形式分析": "摘要称，声音常经音频信号处理与磁带音乐技法修改，并可组装成声音拼贴；来源可以是乐器、人声、自然环境的录音，也可以是声音合成与计算机数字信号处理产生的声音。它利用“不见声源的声音”（acousmatic sound），使声音的身份常被有意遮蔽，或看似与其来源无关。",
+        "与前后风格的关系和争论": "盖蒂 AAT 对电子音乐的范围注释提到，仅以唱片或磁带录制并处理自然声源的作品应称“具体音乐”，可见两者的区分；这是电子音乐条目里的来源，此处只作对照。",
+        "一图": "示意图以具体音乐为中心，标示录音素材、磁带与信号处理、声音拼贴三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）起源年代、代表人物与作品未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='musique-concrete 示意图'><title>musique-concrete</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>录音素材</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>乐器·人声·环境</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>具体音乐</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>以录音为原料</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>磁带与处理</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>信号处理</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>声音拼贴</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>不受常规规则</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；年代、人物与作品未给出。"
+    },
+    {
+      "id": "atonality",
+      "title": "无调性（Atonality）",
+      "kind": "术语",
+      "unit": "music-modern",
+      "era": "20世纪初—今",
+      "region": "欧美",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "最广义指缺乏调性中心或调的音乐，通常用于约20世纪初至今的作品。",
+      "when": "约公元20世纪初—今",
+      "overview": "无调性在最广义上指缺乏调性中心或调的音乐。",
+      "related": [
+        "schoenberg",
+        "serialism",
+        "twelve-tone"
+      ],
+      "sources": [
+        "enc-atonality",
+        "wd-atonality"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，在广义上，无调性通常描述约20世纪初至今的作品。",
+        "风格特征": "摘要称，这类作品不使用以单一中心三和弦为核心的和声等级，半音阶的各音彼此独立地发挥作用。",
+        "代表人物与作品": "摘要没有列举作曲家与作品，本条目不补写。",
+        "技法或形式分析": "摘要引用一段描述：无调性音乐曲目的特点是音高以新颖的组合出现，熟悉的音高组合也出现在陌生的环境中。",
+        "与前后风格的关系和争论": "摘要称，狭义上它指不遵循17至19世纪欧洲古典音乐调性等级体系的音乐。广义与狭义两种用法摘要都列出，本条目照录。",
+        "一图": "示意图以无调性为中心，标示无调性中心、半音各音独立、背离17—19世纪调性体系三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）引语出处摘要未给出；（3）代表作曲家与作品未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='atonality 示意图'><title>atonality</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>无调性中心</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>无主三和弦</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>无调性</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>20世纪初至今</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>半音独立</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>各音独立作用</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>背离调性体系</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>17—19世纪</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；引语出处与代表作未给出。"
+    },
+    {
+      "id": "twelve-tone",
+      "title": "十二音技法（Twelve-tone technique）",
+      "kind": "术语",
+      "unit": "music-modern",
+      "era": "20世纪",
+      "region": "欧美",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "又称十二音序列、十二音作曲，通过音列使半音阶十二个音同等频繁地出现，避免强调任一音。",
+      "when": "20世纪",
+      "overview": "十二音技法又称十二音体系、十二音序列主义，是一种作曲方法。",
+      "related": [
+        "serialism",
+        "schoenberg",
+        "webern",
+        "atonality"
+      ],
+      "sources": [
+        "enc-twelve-tone",
+        "wd-twelve-tone"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要没有给出提出者与年代，本条目不补写。",
+        "风格特征": "摘要称，十二个音因此获得大致相等的重要性，音乐避免处于某个调中。",
+        "代表人物与作品": "摘要没有列举作曲家与作品；库内序列主义、勋伯格条目与它相关，互链为本项目所加。",
+        "技法或形式分析": "摘要称，这一技法通过音列（tone rows，即十二个音级的排列顺序）保证半音阶的全部十二个音在作品中出现得同样频繁，并防止强调其中任一音。",
+        "与前后风格的关系和争论": "摘要没有谈及相关争论。",
+        "一图": "示意图以十二音技法为中心，标示音列、十二音同等、避免调性三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）提出者、年代与作品未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='twelve-tone 示意图'><title>twelve-tone</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>音列</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>十二音级排列</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>十二音技法</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>作曲方法</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>十二音同等</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>同样频繁</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>避免调性</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>不处于某调</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；提出者、年代与作品未给出。"
+    },
+    {
+      "id": "ars-nova",
+      "title": "新艺术（Ars nova，音乐）",
+      "kind": "风格",
+      "unit": "music-medieval",
+      "era": "14世纪",
+      "region": "法国",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "中世纪晚期在法兰西王国及其周边兴盛的音乐风格，特指从《福韦尔传奇》（1310年代）到马肖去世（1377）之间。",
+      "when": "约公元1310年代—1377年",
+      "overview": "新艺术是中世纪晚期在法兰西王国及其周边兴盛的一种音乐风格。",
+      "related": [
+        "machaut",
+        "ars-antiqua",
+        "motet"
+      ],
+      "sources": [
+        "enc-ars-nova",
+        "wd-ars-nova"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，它特指从《福韦尔传奇》编订（1310年代）到作曲家纪尧姆·德·马肖1377年去世之间的时期。",
+        "风格特征": "摘要没有直接描述音乐风格特征，本条目不补写。",
+        "代表人物与作品": "摘要提到马肖；“意大利新艺术”有时用来指弗朗切斯科·兰迪尼及其同胞的音乐，但同时期意大利音乐更常称“特雷琴托音乐”。",
+        "技法或形式分析": "摘要称，“ars”可读作“技术”或“风格”。记谱等技术细节摘要未给出。",
+        "与前后风格的关系和争论": "摘要称，这一术语最早用于两部论著：约翰内斯·德·穆里斯的《新音乐艺术》，以及归于菲利普·德·维特里名下、今常简称《新艺术》的文集；音乐学家约翰内斯·沃尔夫在1904年首次用它指称整个时代。这说明作为时代名称，它是后世学者的用法。",
+        "一图": "示意图以新艺术为中心，标示《福韦尔传奇》、马肖、维特里与穆里斯论著三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）与美术“新艺术运动”（Art Nouveau）同名不同物，读者勿混；（3）风格特征与记谱技术未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='ars-nova 示意图'><title>ars-nova</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>福韦尔传奇</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1310年代</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>新艺术</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>14世纪法国</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>马肖</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>1377年去世</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>论著</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>维特里·穆里斯</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；风格与记谱技术未给出；注意与美术新艺术运动区分。"
+    },
+    {
+      "id": "ars-antiqua",
+      "title": "古艺术（Ars antiqua）",
+      "kind": "风格",
+      "unit": "music-medieval",
+      "era": "约1170—1310年",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "现代学者对中世纪盛期约1170至1310年欧洲音乐的称呼，涵盖圣母院乐派复调与经文歌的早期发展。",
+      "when": "约公元1170—1310年",
+      "overview": "古艺术是现代学者用来指称中世纪盛期约1170至1310年欧洲音乐的术语。",
+      "related": [
+        "ars-nova",
+        "leonin",
+        "organum",
+        "motet"
+      ],
+      "sources": [
+        "enc-ars-antiqua",
+        "wd-ars-antiqua"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，古艺术又称 ars veterum 或 ars vetus，指约1170至1310年间中世纪盛期的欧洲音乐。",
+        "风格特征": "摘要没有直接描述风格特征，本条目不补写。",
+        "代表人物与作品": "摘要称，这一时期涵盖圣母院乐派复调，以及其后经文歌（一种形式多样的合唱作品）的早期发展。具体作曲家摘要未列，库内莱奥南条目与之相关，互链为本项目所加。",
+        "技法或形式分析": "摘要没有给出这方面内容，本条目不补写。",
+        "与前后风格的关系和争论": "摘要称，这一术语通常仅限于宗教或复调音乐，不包括游吟诗人（troubadours、trouvères）的世俗单声部歌曲；但口语中也宽泛地指13世纪及稍早的全部欧洲音乐。两种用法摘要都列出。",
+        "一图": "示意图以古艺术为中心，标示圣母院乐派、经文歌、新艺术三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）这是现代学者的称呼，不是当时的自称；（3）风格特征未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='ars-antiqua 示意图'><title>ars-antiqua</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>圣母院乐派</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>复调</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>古艺术</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>约1170—1310</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>经文歌</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>早期发展</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>新艺术</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>其后</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；风格特征未给出。"
+    },
+    {
+      "id": "yangqin",
+      "title": "扬琴（yangqin）",
+      "kind": "作品",
+      "unit": "music-china",
+      "era": "历代—今",
+      "region": "中国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "梯形的中国击弦乐器，可能源自伊朗桑图尔或欧洲扬琴。",
+      "when": "历代—今",
+      "overview": "扬琴是一种梯形的中国击弦扬琴类乐器。",
+      "related": [
+        "erhu",
+        "dizi"
+      ],
+      "sources": [
+        "enc-yangqin",
+        "wd-yangqin"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要没有给出传入年代，本条目不补写。",
+        "风格特征": "摘要称，扬琴呈梯形，属击弦乐器（hammered dulcimer）。",
+        "代表人物与作品": "摘要没有列举演奏家与曲目，本条目不补写。",
+        "技法或形式分析": "摘要没有给出弦数、琴码等形制细节，本条目不补写。",
+        "与前后风格的关系和争论": "摘要称，它可能源自伊朗的桑图尔或欧洲的扬琴（“可能”是摘要措辞）；过去写作“洋琴”，20世纪初第一字改为“扬”，意为“称颂”。各类击弦乐器如今不仅在中国，也在东欧、中东、印度、伊朗与巴基斯坦很流行，也称 santoor、cimbalom，并影响了泰国古典乐器 khim。",
+        "一图": "示意图以扬琴为中心，标示可能的来源、名称由“洋”改“扬”、各地同类乐器三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）来源只是“可能”，照录；（3）传入年代与形制细节未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='yangqin 示意图'><title>yangqin</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>可能来源</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>桑图尔或欧洲扬琴</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>扬琴</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>梯形击弦</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>改名</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>洋琴→扬琴</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>同类乐器</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>东欧·中东·泰国</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；来源为“可能”；年代与形制未给出。"
+    },
+    {
+      "id": "suona",
+      "title": "唢呐（suona）",
+      "kind": "作品",
+      "unit": "music-china",
+      "era": "约3世纪—今",
+      "region": "中国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "中国传统双簧乐器，基本形制源于古伊朗的“sorna”，约3世纪出现于中国。",
+      "when": "约公元3世纪—今",
+      "overview": "唢呐又称嘀嗒、喇叭或海笛，是中国传统的双簧乐器。",
+      "related": [
+        "dizi",
+        "erhu",
+        "kunqu"
+      ],
+      "sources": [
+        "enc-suona",
+        "wd-suona"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，唢呐的基本形制源于古伊朗（当时称“Sorna”），约3世纪出现于中国。",
+        "风格特征": "摘要称，它音色响亮而高亢，常用于中国传统器乐合奏，尤其是户外演出的合奏。",
+        "代表人物与作品": "摘要没有列举演奏家与曲目，本条目不补写。",
+        "技法或形式分析": "摘要给出的形制信息只有“双簧”。本条目不补写管身与碗的构造。",
+        "与前后风格的关系和争论": "摘要称，它在中国北方民间音乐中很重要，尤其在山东、河南，长期用于节庆与军事；至今仍与笙、锣、鼓等合用于婚礼与送葬行列，这类吹打乐队称“吹打”或“鼓吹”；在中国东南的仪式音乐中也很常见，是伴随道教仪式的仪式音乐的重要组成。",
+        "一图": "示意图以唢呐为中心，标示古伊朗来源、北方民间音乐、吹打与仪式三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要缓存在句中截断，本条目只用截断前的内容；（3）“约3世纪”出现于中国，摘要未给出依据。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='suona 示意图'><title>suona</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>古伊朗</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>sorna 源头</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>唢呐</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>双簧乐器</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>北方民间</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>山东·河南</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>吹打与仪式</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>婚丧·道教</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；传入年代依据未给出；摘要截断。"
+    },
+    {
+      "id": "nanguan",
+      "title": "南管（Nanguan）",
+      "kind": "风格",
+      "unit": "music-china",
+      "era": "明代以来",
+      "region": "福建·台湾",
+      "medium": "音乐体裁",
+      "tier": "补充",
+      "def": "源自福建的中国室内乐风格，明代由汉人移民带到台湾。",
+      "when": "明代以来",
+      "overview": "南管是源自中国南方福建省的一种中国室内乐风格。",
+      "related": [
+        "kunqu",
+        "erhu"
+      ],
+      "sources": [
+        "enc-nanguan",
+        "wd-nanguan"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "摘要称，南管于明代由汉人移民带到台湾，他们后来主要定居台湾南部。",
+        "风格特征": "摘要称，南管是一种室内乐风格。具体音乐特征摘要未给出。",
+        "代表人物与作品": "摘要没有列举曲目与乐器，本条目不补写。",
+        "技法或形式分析": "摘要没有给出这方面内容，本条目不补写。",
+        "与前后风格的关系和争论": "摘要称，移民在台湾建立“曲馆”音乐社团以维护与传承这一实践；数百年来台湾南管与大陆南管分别发展，深受台湾独特的社会政治条件与当地影响。",
+        "一图": "示意图以南管为中心，标示福建、明代传入台湾、曲馆传承三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）福建本地南管的情况摘要几乎未涉及，本条目偏重台湾；（3）乐器与曲目未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='nanguan 示意图'><title>nanguan</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>福建</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>发源地</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>南管</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>室内乐风格</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>台湾</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>明代传入</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>曲馆</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>社团传承</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；偏重台湾；乐器与曲目未给出。"
     }
   ]
 }

@@ -10449,6 +10449,406 @@
       "type": "权威结构化数据",
       "verified": true,
       "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-dufay",
+      "title": "Guillaume Du Fay",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Guillaume_Du_Fay",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-dufay",
+      "title": "Wikidata: Guillaume Du Fay (Q207717)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q207717",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-puccini",
+      "title": "Giacomo Puccini",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Giacomo_Puccini",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-puccini",
+      "title": "Wikidata: Giacomo Puccini (Q7311)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q7311",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-smetana",
+      "title": "Bedřich Smetana",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Bedřich_Smetana",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-smetana",
+      "title": "Wikidata: Bedřich Smetana (Q48173)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q48173",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-grieg",
+      "title": "Edvard Grieg",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Edvard_Grieg",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-grieg",
+      "title": "Wikidata: Edvard Grieg (Q80621)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q80621",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-rachmaninoff",
+      "title": "Sergei Rachmaninoff",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Sergei_Rachmaninoff",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-rachmaninoff",
+      "title": "Wikidata: Sergei Rachmaninoff (Q131861)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q131861",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-cage",
+      "title": "John Cage",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/John_Cage",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-cage",
+      "title": "Wikidata: John Cage (Q180727)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q180727",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-reich",
+      "title": "Steve Reich",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Steve_Reich",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-reich",
+      "title": "Wikidata: Steve Reich (Q262791)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q262791",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-webern",
+      "title": "Anton Webern",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Anton_Webern",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-webern",
+      "title": "Wikidata: Anton Webern (Q190933)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q190933",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-suite-music",
+      "title": "Suite (music)",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Suite_(music)",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-suite-music",
+      "title": "Wikidata: Suite (music) (Q203005)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q203005",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-overture",
+      "title": "Overture",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Overture",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-overture",
+      "title": "Wikidata: Overture (Q202287)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q202287",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-neoclassicism-music",
+      "title": "Neoclassicism (music)",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Neoclassicism_(music)",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-neoclassicism-music",
+      "title": "Wikidata: Neoclassicism (music) (Q535611)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q535611",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-expressionism-music",
+      "title": "Expressionist music",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Expressionist_music",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-expressionism-music",
+      "title": "Wikidata: Expressionist music (Q613707)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q613707",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-musique-concrete",
+      "title": "Musique concrète",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Musique_concrète",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-musique-concrete",
+      "title": "Wikidata: Musique concrète (Q823560)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q823560",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-atonality",
+      "title": "Atonality",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Atonality",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-atonality",
+      "title": "Wikidata: Atonality (Q211745)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q211745",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-twelve-tone",
+      "title": "Twelve-tone technique",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Twelve-tone_technique",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-twelve-tone",
+      "title": "Wikidata: Twelve-tone technique (Q221686)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q221686",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-ars-nova",
+      "title": "Ars nova",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Ars_nova",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-ars-nova",
+      "title": "Wikidata: Ars nova (Q210854)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q210854",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-ars-antiqua",
+      "title": "Ars antiqua",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Ars_antiqua",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-ars-antiqua",
+      "title": "Wikidata: Ars antiqua (Q163491)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q163491",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-yangqin",
+      "title": "Yangqin",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Yangqin",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-yangqin",
+      "title": "Wikidata: Yangqin (Q877239)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q877239",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-suona",
+      "title": "Suona",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Suona",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-suona",
+      "title": "Wikidata: Suona (Q2096912)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q2096912",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-nanguan",
+      "title": "Nanguan music",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Nanguan_music",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-nanguan",
+      "title": "Wikidata: Nanguan music (Q700805)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q700805",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
     }
   ]
 }
