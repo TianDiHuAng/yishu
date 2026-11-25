@@ -1653,7 +1653,8 @@
         "dong-qichang",
         "wen-zhengming",
         "tang-yin",
-        "wu-school"
+        "wu-school",
+        "shen-zhou"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -2788,7 +2789,9 @@
         "prokofiev",
         "electronic-music",
         "aleatoric-music",
-        "reich"
+        "reich",
+        "xian-xinghai",
+        "tan-dun"
       ],
       "sources": [
         "enc-20th-century-classical",
@@ -2968,7 +2971,10 @@
         "shi-er-lu",
         "yuefu",
         "ci-poetry",
-        "ruan"
+        "ruan",
+        "xian-xinghai",
+        "nie-er",
+        "tan-dun"
       ],
       "sources": [
         "enc-chinese-music",
@@ -4283,7 +4289,9 @@
         "ardabil-carpet",
         "ilkhanid-flying-birds-bowl",
         "kutahya-tile-panel",
-        "islamic-architecture"
+        "islamic-architecture",
+        "sinan",
+        "reza-abbasi"
       ],
       "sources": [
         "cma-1944-485",
@@ -4541,7 +4549,8 @@
         "esu-dance-staff",
         "kuofo-prestige-stool",
         "cma-yombe-oliphant",
-        "nok-culture"
+        "nok-culture",
+        "el-anatsui"
       ],
       "sources": [
         "cma-1999-1",
@@ -4621,7 +4630,8 @@
         "rapa-nui-rei-miro",
         "elema-spirit-board",
         "abelam-yam-mask",
-        "aboriginal-art"
+        "aboriginal-art",
+        "pre-columbian-art"
       ],
       "sources": [
         "cma-1954-147",
@@ -15428,7 +15438,8 @@
         "hokusai-red-fuji",
         "monet",
         "van-gogh",
-        "kano-school"
+        "kano-school",
+        "sesshu"
       ],
       "sources": [
         "enc-hokusai",
@@ -16907,7 +16918,8 @@
         "ming-painting",
         "qiu-ying-garden",
         "dong-qichang",
-        "wu-school"
+        "wu-school",
+        "shen-zhou"
       ],
       "sources": [
         "enc-wen-zhengming",
@@ -16930,7 +16942,8 @@
         "wen-zhengming",
         "cma-tang-yin-qin",
         "ming-painting",
-        "wu-school"
+        "wu-school",
+        "shen-zhou"
       ],
       "sources": [
         "enc-tang-yin",
@@ -17045,7 +17058,8 @@
         "ni-zan",
         "xieyi",
         "xia-gui",
-        "ink-wash-painting"
+        "ink-wash-painting",
+        "sesshu"
       ],
       "sources": [
         "enc-shan-shui",
@@ -17494,7 +17508,8 @@
       "related": [
         "mughal-painting",
         "islamic-calligraphy",
-        "illuminated-manuscript"
+        "illuminated-manuscript",
+        "reza-abbasi"
       ],
       "sources": [
         "enc-persian-miniature",
@@ -18735,6 +18750,7 @@
       "when": "明代（沈周1427—1509为开创者）",
       "overview": "吴派（吴门画派）是明代的一群南宗画家。它不是画院或教育机构，而主要因成员共同的艺术理论而联结。成员常被归为文人、士人或业余画家，崇尚作品个人化、让画家融入画中。吴派绘画的特点是有题跋，说明画作内容、日期、方法或缘由，通常被看作个人表达的载体。沈周（1427—1509）通常被视为吴派开创者。",
       "related": [
+        "shen-zhou",
         "wen-zhengming",
         "tang-yin",
         "ming-painting"
@@ -18781,7 +18797,8 @@
       "related": [
         "xieyi",
         "shan-shui",
-        "china-painting-history"
+        "china-painting-history",
+        "sesshu"
       ],
       "sources": [
         "enc-ink-wash-painting",
@@ -18874,6 +18891,216 @@
       "sources": [
         "enc-chu-suiliang",
         "wd-chu-suiliang"
+      ]
+    },
+    {
+      "id": "shen-zhou",
+      "title": "沈周（Shen Zhou）",
+      "kind": "人物",
+      "unit": "art-china-painting",
+      "era": "明代",
+      "region": "中国",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "明代画家（1427—1509），通常被视为吴门画派开创者。",
+      "when": "1427—1509",
+      "overview": "沈周，字启南，号石田，明代画家，生活在明取代元之后的时期。其家族与官府关系密切，保持富裕。沈周后来退隐，过隐居生活，大部分时间作画并奉养寡母。",
+      "related": [
+        "wu-school",
+        "wen-zhengming",
+        "tang-yin",
+        "ming-painting"
+      ],
+      "sources": [
+        "enc-shen-zhou",
+        "wd-shen-zhou"
+      ]
+    },
+    {
+      "id": "sinan",
+      "title": "锡南（Mimar Sinan）",
+      "kind": "人物",
+      "unit": "art-islamic",
+      "era": "16世纪",
+      "region": "西亚·中亚",
+      "medium": "建筑",
+      "tier": "核心",
+      "def": "16世纪奥斯曼帝国首席建筑师、工程师与数学家。",
+      "when": "16世纪",
+      "overview": "锡南是苏莱曼大帝、塞利姆二世与穆拉德三世三朝的奥斯曼首席建筑师、工程师与数学家，负责建造300多座主要建筑，包括埃迪尔内的塞利米耶清真寺、比于克切克梅杰的苏莱曼大帝桥、维谢格拉德的穆罕默德·帕夏·索科洛维奇桥，以及经学院、清真寺建筑群和桥梁等较小工程。他的学徒后来设计了伊斯坦布尔的苏丹艾哈迈德清真寺和莫斯塔尔古桥。",
+      "related": [
+        "islamic-art"
+      ],
+      "sources": [
+        "enc-sinan",
+        "wd-sinan"
+      ]
+    },
+    {
+      "id": "reza-abbasi",
+      "title": "礼萨·阿巴西（Reza Abbasi）",
+      "kind": "人物",
+      "unit": "art-islamic",
+      "era": "16—17世纪",
+      "region": "西亚·中亚",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "萨法维晚期伊斯法罕画派的首要波斯细密画家（1565—1635）。",
+      "when": "1565—1635",
+      "overview": "礼萨·阿巴西又称阿迦·礼萨，是萨法维王朝晚期伊斯法罕画派的首要波斯细密画家，职业生涯大部分为阿巴斯一世服务。他被视为波斯细密画最后一位伟大的大师，以画册（muraqqa）中的单幅细密画最著名，尤其是美少年单人像。",
+      "related": [
+        "persian-miniature",
+        "islamic-art"
+      ],
+      "sources": [
+        "enc-reza-abbasi",
+        "wd-reza-abbasi"
+      ]
+    },
+    {
+      "id": "el-anatsui",
+      "title": "艾尔·阿纳祖（El Anatsui）",
+      "kind": "人物",
+      "unit": "art-africa",
+      "era": "20—21世纪",
+      "region": "非洲",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "加纳雕塑家（1944年生），职业生涯多在尼日利亚，以“瓶盖装置”闻名。",
+      "when": "1944年生",
+      "overview": "艾尔·阿纳祖是加纳雕塑家，职业生涯大部分在尼日利亚。他的“瓶盖装置”尤其受国际关注：用数千片取自酒类回收站的铝片，以铜线缝合，变成金属织物般的墙面雕塑。这些材料看似僵硬，实则自由柔韧，便于安装时调整形态。",
+      "related": [
+        "african-art"
+      ],
+      "sources": [
+        "enc-el-anatsui",
+        "wd-el-anatsui"
+      ]
+    },
+    {
+      "id": "pre-columbian-art",
+      "title": "前哥伦布艺术（Pre-Columbian art）",
+      "kind": "时期",
+      "unit": "art-americas",
+      "era": "史前—16世纪",
+      "region": "美洲",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "加勒比与南北美洲原住民自至少公元前13000年至欧洲征服的视觉艺术。",
+      "when": "至少公元前13000年—15世纪末/16世纪初",
+      "overview": "前哥伦布艺术指加勒比、北美、中美和南美原住民的视觉艺术，从至少公元前13000年延续到15世纪末、16世纪初开始的欧洲征服。许多地方的前哥伦布时代在此后还延续一段时间或有过渡期。许多曾很常见的易朽器物（如织物）通常未能保存，而纪念性雕塑、金器、陶器以及陶器、墙面和岩石上的绘画存世较多。",
+      "related": [
+        "oceania-art"
+      ],
+      "sources": [
+        "enc-pre-columbian-art",
+        "wd-pre-columbian-art"
+      ]
+    },
+    {
+      "id": "sesshu",
+      "title": "雪舟（Sesshū Tōyō）",
+      "kind": "人物",
+      "unit": "art-asia",
+      "era": "15世纪",
+      "region": "日本",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "日本禅僧画家（约1420—1506），被视为日本水墨画大师。",
+      "when": "约1420—1506",
+      "overview": "雪舟等杨，常称雪舟，日本禅僧与画家，被视为日本水墨画的大师。他最初受中国山水启发，但作品具有体现禅宗美学的鲜明日本风格，题材包括山水、肖像与花鸟，融入禅宗信仰，透视扁平、线条强劲。",
+      "related": [
+        "ink-wash-painting",
+        "shan-shui",
+        "hokusai"
+      ],
+      "sources": [
+        "enc-sesshu",
+        "wd-sesshu"
+      ]
+    },
+    {
+      "id": "raja-ravi-varma",
+      "title": "拉贾·拉维·瓦尔马（Raja Ravi Varma）",
+      "kind": "人物",
+      "unit": "art-asia",
+      "era": "19世纪",
+      "region": "南亚",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "印度画家（1848—1906），融合欧洲学院派与印度题材。",
+      "when": "1848—1906",
+      "overview": "拉贾·拉维·瓦尔马是印度画家，其作品是欧洲学院派艺术与纯印度情感、图像志融合的最佳范例之一。他把画作制成平价石版画向公众发行，大大扩展了影响，使普通人更多接触美术并塑造了艺术趣味。他描绘印度教神祇及印度史诗、往世书题材的宗教作品广受好评。他出身马拉普拉姆县帕拉帕纳德王族。",
+      "related": [],
+      "sources": [
+        "enc-raja-ravi-varma",
+        "wd-raja-ravi-varma"
+      ]
+    },
+    {
+      "id": "xian-xinghai",
+      "title": "冼星海（Xian Xinghai）",
+      "kind": "人物",
+      "unit": "music-china",
+      "era": "20世纪",
+      "region": "中国",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "中国作曲家（1905—1945），以《黄河大合唱》最为著名。",
+      "when": "1905—1945",
+      "overview": "冼星海是中国作曲家，是中国最早借鉴西方古典音乐的作曲家之一，影响了许多后来的中国音乐家。他用各种主要音乐形式作曲，最著名的是《黄河大合唱》，钢琴协奏曲《黄河》即据此改编。",
+      "related": [
+        "nie-er",
+        "china-music-history",
+        "20th-century-classical",
+        "tan-dun"
+      ],
+      "sources": [
+        "enc-xian-xinghai",
+        "wd-xian-xinghai"
+      ]
+    },
+    {
+      "id": "nie-er",
+      "title": "聂耳（Nie Er）",
+      "kind": "人物",
+      "unit": "music-china",
+      "era": "20世纪",
+      "region": "中国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "中国作曲家（1912—1935），以中华人民共和国国歌《义勇军进行曲》最为著名。",
+      "when": "1912—1935",
+      "overview": "聂耳，原名聂守信，字子义，中国作曲家，以中华人民共和国国歌《义勇军进行曲》最为著名。他在上海多家杂志上用英文名 George Njal，取自《尼雅尔萨迦》中的人物。",
+      "related": [
+        "xian-xinghai",
+        "china-music-history"
+      ],
+      "sources": [
+        "enc-nie-er",
+        "wd-nie-er"
+      ]
+    },
+    {
+      "id": "tan-dun",
+      "title": "谭盾（Tan Dun）",
+      "kind": "人物",
+      "unit": "music-china",
+      "era": "20—21世纪",
+      "region": "中国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "生于中国的美国作曲家与指挥家（1957年生），当代古典音乐的代表人物。",
+      "when": "1957年生",
+      "overview": "谭盾是生于中国的美国作曲家与指挥家，当代古典音乐的代表人物，融汇多种西方与中国影响，这种结合塑造了他的生活与音乐。他与世界各地主要乐团合作，获奖众多，包括以歌剧《马可·波罗》（1996）获格文美尔奖，以李安《卧虎藏龙》（2000）配乐获奥斯卡奖与格莱美奖。其作品包括歌剧、管弦乐、声乐、室内乐、独奏与电影配乐，以及他称为“有机音乐”和“音乐仪式”的体裁。",
+      "related": [
+        "xian-xinghai",
+        "20th-century-classical",
+        "china-music-history"
+      ],
+      "sources": [
+        "enc-tan-dun",
+        "wd-tan-dun"
       ]
     }
   ]

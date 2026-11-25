@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 841 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 851 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -365,6 +365,7 @@
 | six-principles | 谢赫“六法”（Six principles of Chinese painting） | 术语 | 南朝 | 中国 | 绘画 | 核心 | O1、O6 |
 | ink-wash-painting | 水墨画（Ink wash painting） | 风格 | 唐代起 | 中国 | 绘画 | 核心 | O1、O6 |
 | wu-changshuo | 吴昌硕（Wu Changshuo） | 人物 | 晚清 | 中国 | 绘画 | 重要 | O6 |
+| shen-zhou | 沈周（Shen Zhou） | 人物 | 明代 | 中国 | 绘画 | 核心 | O6 |
 
 ## art-china-calligraphy（中国书法史）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -570,6 +571,9 @@
 | yuan-zaju | 杂剧（Zaju） | 风格 | 元代 | 中国 | 音乐体裁 | 重要 | O4、O5 |
 | cantonese-opera | 粤剧（Cantonese opera） | 风格 | 近代 | 中国 | 音乐体裁 | 重要 | O4、O5 |
 | ruan | 阮（Ruan） | 术语 | 历代 | 中国 | 乐器 | 重要 | O4、O5 |
+| xian-xinghai | 冼星海（Xian Xinghai） | 人物 | 20世纪 | 中国 | 音乐体裁 | 核心 | O5 |
+| nie-er | 聂耳（Nie Er） | 人物 | 20世纪 | 中国 | 音乐体裁 | 重要 | O5 |
+| tan-dun | 谭盾（Tan Dun） | 人物 | 20—21世纪 | 中国 | 音乐体裁 | 重要 | O5 |
 
 ## overview-guide（导读与学科方法）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -730,6 +734,8 @@
 | mughal-royal-ram | 莫卧儿《戴金链的御用公羊》（约1585） | 作品 | 约1585年（边框可能为18世纪添加） | 印度（莫卧儿） | 绘画 | 补充 | O1 |
 | borobudur | 婆罗浮屠（Borobudur） | 作品 | 9世纪 | 印度尼西亚（中爪哇） | 建筑 | 核心 | O1 |
 | kabuki | 歌舞伎（Kabuki） | 风格 | 江户时代起 | 日本 | 综合 | 核心 | O1 |
+| sesshu | 雪舟（Sesshū Tōyō） | 人物 | 15世纪 | 日本 | 绘画 | 核心 | O1 |
+| raja-ravi-varma | 拉贾·拉维·瓦尔马（Raja Ravi Varma） | 人物 | 19世纪 | 南亚 | 绘画 | 重要 | O1 |
 
 ## art-islamic（伊斯兰艺术（西亚·中亚））
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -786,6 +792,8 @@
 | islamic-calligraphy | 伊斯兰书法（Islamic calligraphy） | 术语 | 历代 | 伊斯兰世界 | 书法 | 核心 | O1 |
 | arabesque | 阿拉伯式花纹（Arabesque） | 术语 | 9世纪以来 | 伊斯兰世界·欧洲 | 综合 | 重要 | O1 |
 | persian-miniature | 波斯细密画（Persian miniature） | 风格 | 13世纪起 | 伊朗 | 绘画 | 核心 | O1 |
+| sinan | 锡南（Mimar Sinan） | 人物 | 16世纪 | 西亚·中亚 | 建筑 | 核心 | O1 |
+| reza-abbasi | 礼萨·阿巴西（Reza Abbasi） | 人物 | 16—17世纪 | 西亚·中亚 | 绘画 | 重要 | O1 |
 
 ## art-africa（非洲艺术（撒哈拉以南））
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -832,6 +840,7 @@
 | xhosa-beadwork-pendant | 科萨王室礼仪串珠吊坠（19世纪） | 作品 | 19世纪 | 非洲 | 综合 | 重要 | O1 |
 | benin-bronzes | 贝宁青铜器（Benin Bronzes） | 作品 | 14世纪起 | 尼日利亚（贝宁王国） | 雕塑 | 核心 | O1 |
 | nok-culture | 诺克文化（Nok culture） | 时期 | 约公元前1500年—前1年 | 尼日利亚 | 雕塑 | 重要 | O1 |
+| el-anatsui | 艾尔·阿纳祖（El Anatsui） | 人物 | 20—21世纪 | 非洲 | 雕塑 | 重要 | O1 |
 
 ## art-americas（美洲原住民与前哥伦布艺术）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -872,6 +881,7 @@
 | lakota-cradle | 拉科塔珠饰摇篮（约1900） | 作品 | 19—20世纪 | 北美洲 | 综合 | 重要 | O1 |
 | cheyenne-blanket-strip | 夏安珠饰毯条（约1900） | 作品 | 19—20世纪 | 北美洲 | 综合 | 重要 | O1 |
 | lakota-storage-bag | 拉科塔储物袋（19世纪末） | 作品 | 19世纪 | 北美洲 | 综合 | 重要 | O1 |
+| pre-columbian-art | 前哥伦布艺术（Pre-Columbian art） | 时期 | 史前—16世纪 | 美洲 | 综合 | 核心 | O1 |
 
 ## art-oceania（太平洋艺术（大洋洲））
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

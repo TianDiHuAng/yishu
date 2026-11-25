@@ -2996,7 +2996,8 @@
         "dong-qichang",
         "wen-zhengming",
         "tang-yin",
-        "wu-school"
+        "wu-school",
+        "shen-zhou"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -4955,7 +4956,9 @@
         "prokofiev",
         "electronic-music",
         "aleatoric-music",
-        "reich"
+        "reich",
+        "xian-xinghai",
+        "tan-dun"
       ],
       "sources": [
         "enc-20th-century-classical",
@@ -5258,7 +5261,10 @@
         "shi-er-lu",
         "yuefu",
         "ci-poetry",
-        "ruan"
+        "ruan",
+        "xian-xinghai",
+        "nie-er",
+        "tan-dun"
       ],
       "sources": [
         "enc-chinese-music",
@@ -7262,7 +7268,9 @@
         "ardabil-carpet",
         "ilkhanid-flying-birds-bowl",
         "kutahya-tile-panel",
-        "islamic-architecture"
+        "islamic-architecture",
+        "sinan",
+        "reza-abbasi"
       ],
       "sources": [
         "cma-1944-485",
@@ -7663,7 +7671,8 @@
         "esu-dance-staff",
         "kuofo-prestige-stool",
         "cma-yombe-oliphant",
-        "nok-culture"
+        "nok-culture",
+        "el-anatsui"
       ],
       "sources": [
         "cma-1999-1",
@@ -7769,7 +7778,8 @@
         "rapa-nui-rei-miro",
         "elema-spirit-board",
         "abelam-yam-mask",
-        "aboriginal-art"
+        "aboriginal-art",
+        "pre-columbian-art"
       ],
       "sources": [
         "cma-1954-147",
@@ -25382,7 +25392,8 @@
         "hokusai-red-fuji",
         "monet",
         "van-gogh",
-        "kano-school"
+        "kano-school",
+        "sesshu"
       ],
       "sources": [
         "enc-hokusai",
@@ -27758,7 +27769,8 @@
         "ming-painting",
         "qiu-ying-garden",
         "dong-qichang",
-        "wu-school"
+        "wu-school",
+        "shen-zhou"
       ],
       "sources": [
         "enc-wen-zhengming",
@@ -27795,7 +27807,8 @@
         "wen-zhengming",
         "cma-tang-yin-qin",
         "ming-painting",
-        "wu-school"
+        "wu-school",
+        "shen-zhou"
       ],
       "sources": [
         "enc-tang-yin",
@@ -27980,7 +27993,8 @@
         "ni-zan",
         "xieyi",
         "xia-gui",
-        "ink-wash-painting"
+        "ink-wash-painting",
+        "sesshu"
       ],
       "sources": [
         "enc-shan-shui",
@@ -28828,7 +28842,8 @@
       "related": [
         "mughal-painting",
         "islamic-calligraphy",
-        "illuminated-manuscript"
+        "illuminated-manuscript",
+        "reza-abbasi"
       ],
       "sources": [
         "enc-persian-miniature",
@@ -30797,6 +30812,7 @@
       "when": "明代（沈周1427—1509为开创者）",
       "overview": "吴派（吴门画派）是明代的一群南宗画家。它不是画院或教育机构，而主要因成员共同的艺术理论而联结。成员常被归为文人、士人或业余画家，崇尚作品个人化、让画家融入画中。吴派绘画的特点是有题跋，说明画作内容、日期、方法或缘由，通常被看作个人表达的载体。沈周（1427—1509）通常被视为吴派开创者。",
       "related": [
+        "shen-zhou",
         "wen-zhengming",
         "tang-yin",
         "ming-painting"
@@ -30869,7 +30885,8 @@
       "related": [
         "xieyi",
         "shan-shui",
-        "china-painting-history"
+        "china-painting-history",
+        "sesshu"
       ],
       "sources": [
         "enc-ink-wash-painting",
@@ -31026,6 +31043,346 @@
         "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='chu-suiliang 示意图'><title>chu-suiliang</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>唐太宗</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>信任</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>褚遂良</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>书家·宰相</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>武后</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>655年遭贬</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>爱州</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>658年卒</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "shen-zhou",
+      "title": "沈周（Shen Zhou）",
+      "kind": "人物",
+      "unit": "art-china-painting",
+      "era": "明代",
+      "region": "中国",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "明代画家（1427—1509），通常被视为吴门画派开创者。",
+      "when": "1427—1509",
+      "overview": "沈周，字启南，号石田，明代画家，生活在明取代元之后的时期。其家族与官府关系密切，保持富裕。沈周后来退隐，过隐居生活，大部分时间作画并奉养寡母。",
+      "related": [
+        "wu-school",
+        "wen-zhengming",
+        "tang-yin",
+        "ming-painting"
+      ],
+      "sources": [
+        "enc-shen-zhou",
+        "wd-shen-zhou"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "明代；生卒1427—1509来自摘要描述栏。",
+        "风格特征": "摘要称，明代画家（1427—1509），通常被视为吴门画派开创者。",
+        "代表人物与作品": "作品摘要没有给出，本条目不补写。吴门画派开创者之说见吴门画派条目所据摘要。",
+        "技法或形式分析": "画风与技法摘要没有给出，本条目不补写。",
+        "与前后风格的关系和争论": "摘要只述生平：家境富裕，后隐居作画、奉养寡母。",
+        "一图": "示意图以沈周为中心，标示元明之际、吴门画派、隐居。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='shen-zhou 示意图'><title>shen-zhou</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>元明之际</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>时代</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>沈周</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>明代画家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>吴门画派</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>开创者</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>隐居</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>奉养寡母</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "sinan",
+      "title": "锡南（Mimar Sinan）",
+      "kind": "人物",
+      "unit": "art-islamic",
+      "era": "16世纪",
+      "region": "西亚·中亚",
+      "medium": "建筑",
+      "tier": "核心",
+      "def": "16世纪奥斯曼帝国首席建筑师、工程师与数学家。",
+      "when": "16世纪",
+      "overview": "锡南是苏莱曼大帝、塞利姆二世与穆拉德三世三朝的奥斯曼首席建筑师、工程师与数学家，负责建造300多座主要建筑，包括埃迪尔内的塞利米耶清真寺、比于克切克梅杰的苏莱曼大帝桥、维谢格拉德的穆罕默德·帕夏·索科洛维奇桥，以及经学院、清真寺建筑群和桥梁等较小工程。他的学徒后来设计了伊斯坦布尔的苏丹艾哈迈德清真寺和莫斯塔尔古桥。",
+      "related": [
+        "islamic-art"
+      ],
+      "sources": [
+        "enc-sinan",
+        "wd-sinan"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "16世纪，历仕苏莱曼大帝、塞利姆二世、穆拉德三世。",
+        "风格特征": "摘要称，16世纪奥斯曼帝国首席建筑师、工程师与数学家。",
+        "代表人物与作品": "塞利米耶清真寺、苏莱曼大帝桥、索科洛维奇桥；共300多座主要建筑。",
+        "技法或形式分析": "建筑结构与技法摘要没有给出，本条目不补写。",
+        "与前后风格的关系和争论": "其学徒设计了苏丹艾哈迈德清真寺与莫斯塔尔古桥。",
+        "一图": "示意图以锡南为中心，标示三位苏丹、塞利米耶清真寺、学徒。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='sinan 示意图'><title>sinan</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>三位苏丹</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>历仕</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>锡南</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>奥斯曼首席建筑师</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>塞利米耶清真寺</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>埃迪尔内</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>学徒</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>苏丹艾哈迈德清真寺</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "reza-abbasi",
+      "title": "礼萨·阿巴西（Reza Abbasi）",
+      "kind": "人物",
+      "unit": "art-islamic",
+      "era": "16—17世纪",
+      "region": "西亚·中亚",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "萨法维晚期伊斯法罕画派的首要波斯细密画家（1565—1635）。",
+      "when": "1565—1635",
+      "overview": "礼萨·阿巴西又称阿迦·礼萨，是萨法维王朝晚期伊斯法罕画派的首要波斯细密画家，职业生涯大部分为阿巴斯一世服务。他被视为波斯细密画最后一位伟大的大师，以画册（muraqqa）中的单幅细密画最著名，尤其是美少年单人像。",
+      "related": [
+        "persian-miniature",
+        "islamic-art"
+      ],
+      "sources": [
+        "enc-reza-abbasi",
+        "wd-reza-abbasi"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "萨法维晚期，主要为阿巴斯一世服务；生卒1565—1635来自摘要描述栏。",
+        "风格特征": "摘要称，萨法维晚期伊斯法罕画派的首要波斯细密画家（1565—1635）。",
+        "代表人物与作品": "画册中的单幅细密画，尤其美少年单人像；具体作品摘要没有给出，本条目不补写。",
+        "技法或形式分析": "技法摘要没有给出，本条目不补写。",
+        "与前后风格的关系和争论": "“最后一位伟大的大师”为评价性表述未核验。",
+        "一图": "示意图以礼萨·阿巴西为中心，标示阿巴斯一世、画册单幅、美少年像。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='reza-abbasi 示意图'><title>reza-abbasi</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>阿巴斯一世</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>赞助</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>礼萨·阿巴西</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>伊斯法罕画派</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>画册单幅</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>代表形式</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>美少年像</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>题材</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "el-anatsui",
+      "title": "艾尔·阿纳祖（El Anatsui）",
+      "kind": "人物",
+      "unit": "art-africa",
+      "era": "20—21世纪",
+      "region": "非洲",
+      "medium": "雕塑",
+      "tier": "重要",
+      "def": "加纳雕塑家（1944年生），职业生涯多在尼日利亚，以“瓶盖装置”闻名。",
+      "when": "1944年生",
+      "overview": "艾尔·阿纳祖是加纳雕塑家，职业生涯大部分在尼日利亚。他的“瓶盖装置”尤其受国际关注：用数千片取自酒类回收站的铝片，以铜线缝合，变成金属织物般的墙面雕塑。这些材料看似僵硬，实则自由柔韧，便于安装时调整形态。",
+      "related": [
+        "african-art"
+      ],
+      "sources": [
+        "enc-el-anatsui",
+        "wd-el-anatsui"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "1944年生；职业生涯多在尼日利亚。",
+        "风格特征": "摘要称，加纳雕塑家（1944年生），职业生涯多在尼日利亚，以“瓶盖装置”闻名。",
+        "代表人物与作品": "“瓶盖装置”系列；单件作品摘要没有给出，本条目不补写。",
+        "技法或形式分析": "数千片回收铝片以铜线缝合，成柔韧的金属织物状墙面雕塑。",
+        "与前后风格的关系和争论": "摘要没有谈其与非洲传统织物的关系，本条目不补写。",
+        "一图": "示意图以艾尔·阿纳祖为中心，标示回收铝片、铜线缝合、金属织物。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='el-anatsui 示意图'><title>el-anatsui</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>回收铝片</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>材料</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>艾尔·阿纳祖</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>加纳雕塑家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>铜线缝合</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>技法</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>金属织物</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>墙面雕塑</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "pre-columbian-art",
+      "title": "前哥伦布艺术（Pre-Columbian art）",
+      "kind": "时期",
+      "unit": "art-americas",
+      "era": "史前—16世纪",
+      "region": "美洲",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "加勒比与南北美洲原住民自至少公元前13000年至欧洲征服的视觉艺术。",
+      "when": "至少公元前13000年—15世纪末/16世纪初",
+      "overview": "前哥伦布艺术指加勒比、北美、中美和南美原住民的视觉艺术，从至少公元前13000年延续到15世纪末、16世纪初开始的欧洲征服。许多地方的前哥伦布时代在此后还延续一段时间或有过渡期。许多曾很常见的易朽器物（如织物）通常未能保存，而纪念性雕塑、金器、陶器以及陶器、墙面和岩石上的绘画存世较多。",
+      "related": [
+        "oceania-art"
+      ],
+      "sources": [
+        "enc-pre-columbian-art",
+        "wd-pre-columbian-art"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "至少公元前13000年至欧洲征服；部分地区此后仍延续或过渡。",
+        "风格特征": "摘要称，加勒比与南北美洲原住民自至少公元前13000年至欧洲征服的视觉艺术。",
+        "代表人物与作品": "摘要没有点名文化与作品；库内美洲单元的藏品条目可作节点。",
+        "技法或形式分析": "存世以纪念性雕塑、金器、陶器、陶绘壁画岩画为主，织物多已不存。",
+        "与前后风格的关系和争论": "摘要指出存世偏差：易朽器物少存，这会影响对整体面貌的认识。",
+        "一图": "示意图以前哥伦布艺术为中心，标示公元前13000年、欧洲征服、存世偏差。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='pre-columbian-art 示意图'><title>pre-columbian-art</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>公元前13000年</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>起点</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>前哥伦布艺术</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>美洲原住民</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>欧洲征服</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>15—16世纪</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>存世偏差</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>织物多不存</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "sesshu",
+      "title": "雪舟（Sesshū Tōyō）",
+      "kind": "人物",
+      "unit": "art-asia",
+      "era": "15世纪",
+      "region": "日本",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "日本禅僧画家（约1420—1506），被视为日本水墨画大师。",
+      "when": "约1420—1506",
+      "overview": "雪舟等杨，常称雪舟，日本禅僧与画家，被视为日本水墨画的大师。他最初受中国山水启发，但作品具有体现禅宗美学的鲜明日本风格，题材包括山水、肖像与花鸟，融入禅宗信仰，透视扁平、线条强劲。",
+      "related": [
+        "ink-wash-painting",
+        "shan-shui",
+        "hokusai"
+      ],
+      "sources": [
+        "enc-sesshu",
+        "wd-sesshu"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "生卒约1420—1506来自摘要描述栏。",
+        "风格特征": "摘要称，日本禅僧画家（约1420—1506），被视为日本水墨画大师。",
+        "代表人物与作品": "山水、肖像、花鸟；具体作品摘要没有给出，本条目不补写。",
+        "技法或形式分析": "透视扁平、线条强劲，融入禅宗美学。",
+        "与前后风格的关系和争论": "最初受中国山水启发，形成日本风格。",
+        "一图": "示意图以雪舟为中心，标示中国山水、禅宗美学、扁平透视。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='sesshu 示意图'><title>sesshu</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>中国山水</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>启发</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>雪舟</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>禅僧画家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>禅宗美学</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>融入</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>扁平透视</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>线条强劲</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "raja-ravi-varma",
+      "title": "拉贾·拉维·瓦尔马（Raja Ravi Varma）",
+      "kind": "人物",
+      "unit": "art-asia",
+      "era": "19世纪",
+      "region": "南亚",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "印度画家（1848—1906），融合欧洲学院派与印度题材。",
+      "when": "1848—1906",
+      "overview": "拉贾·拉维·瓦尔马是印度画家，其作品是欧洲学院派艺术与纯印度情感、图像志融合的最佳范例之一。他把画作制成平价石版画向公众发行，大大扩展了影响，使普通人更多接触美术并塑造了艺术趣味。他描绘印度教神祇及印度史诗、往世书题材的宗教作品广受好评。他出身马拉普拉姆县帕拉帕纳德王族。",
+      "related": [],
+      "sources": [
+        "enc-raja-ravi-varma",
+        "wd-raja-ravi-varma"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "19世纪；生卒1848—1906来自摘要描述栏。",
+        "风格特征": "摘要称，印度画家（1848—1906），融合欧洲学院派与印度题材。",
+        "代表人物与作品": "印度教神祇、史诗与往世书题材；具体作品摘要没有给出，本条目不补写。",
+        "技法或形式分析": "欧洲学院派技法与印度图像志结合；以平价石版画传播。",
+        "与前后风格的关系和争论": "摘要称其石版画塑造了大众艺术趣味。",
+        "一图": "示意图以拉维·瓦尔马为中心，标示欧洲学院派、印度神话、石版画。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='raja-ravi-varma 示意图'><title>raja-ravi-varma</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>欧洲学院派</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>技法</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>拉维·瓦尔马</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>印度画家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>印度神话</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>题材</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>石版画</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>大众传播</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "xian-xinghai",
+      "title": "冼星海（Xian Xinghai）",
+      "kind": "人物",
+      "unit": "music-china",
+      "era": "20世纪",
+      "region": "中国",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "中国作曲家（1905—1945），以《黄河大合唱》最为著名。",
+      "when": "1905—1945",
+      "overview": "冼星海是中国作曲家，是中国最早借鉴西方古典音乐的作曲家之一，影响了许多后来的中国音乐家。他用各种主要音乐形式作曲，最著名的是《黄河大合唱》，钢琴协奏曲《黄河》即据此改编。",
+      "related": [
+        "nie-er",
+        "china-music-history",
+        "20th-century-classical",
+        "tan-dun"
+      ],
+      "sources": [
+        "enc-xian-xinghai",
+        "wd-xian-xinghai"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "20世纪；生卒1905—1945来自摘要描述栏。",
+        "风格特征": "摘要称，中国作曲家（1905—1945），以《黄河大合唱》最为著名。",
+        "代表人物与作品": "《黄河大合唱》；钢琴协奏曲《黄河》据此改编（改编者摘要未给出）。",
+        "技法或形式分析": "摘要只称他用各种主要音乐形式作曲；技法摘要没有给出，本条目不补写。",
+        "与前后风格的关系和争论": "摘要称他是最早借鉴西方古典音乐的中国作曲家之一。",
+        "一图": "示意图以冼星海为中心，标示西方古典音乐、黄河大合唱、黄河钢琴协奏曲。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='xian-xinghai 示意图'><title>xian-xinghai</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>西方古典音乐</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>借鉴</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>冼星海</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>中国作曲家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>黄河大合唱</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>代表作</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>黄河钢琴协奏曲</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>据此改编</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "nie-er",
+      "title": "聂耳（Nie Er）",
+      "kind": "人物",
+      "unit": "music-china",
+      "era": "20世纪",
+      "region": "中国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "中国作曲家（1912—1935），以中华人民共和国国歌《义勇军进行曲》最为著名。",
+      "when": "1912—1935",
+      "overview": "聂耳，原名聂守信，字子义，中国作曲家，以中华人民共和国国歌《义勇军进行曲》最为著名。他在上海多家杂志上用英文名 George Njal，取自《尼雅尔萨迦》中的人物。",
+      "related": [
+        "xian-xinghai",
+        "china-music-history"
+      ],
+      "sources": [
+        "enc-nie-er",
+        "wd-nie-er"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "20世纪；生卒1912—1935来自摘要描述栏。",
+        "风格特征": "摘要称，中国作曲家（1912—1935），以中华人民共和国国歌《义勇军进行曲》最为著名。",
+        "代表人物与作品": "《义勇军进行曲》；其他作品摘要没有给出，本条目不补写。",
+        "技法或形式分析": "摘要没有作形式分析，本条目不补写。",
+        "与前后风格的关系和争论": "摘要没有谈其创作背景与影响，本条目不补写。",
+        "一图": "示意图以聂耳为中心，标示上海、义勇军进行曲、George Njal。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='nie-er 示意图'><title>nie-er</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>上海</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>杂志用名</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>聂耳</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>中国作曲家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>义勇军进行曲</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>国歌</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>George Njal</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>英文名</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+    },
+    {
+      "id": "tan-dun",
+      "title": "谭盾（Tan Dun）",
+      "kind": "人物",
+      "unit": "music-china",
+      "era": "20—21世纪",
+      "region": "中国",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "生于中国的美国作曲家与指挥家（1957年生），当代古典音乐的代表人物。",
+      "when": "1957年生",
+      "overview": "谭盾是生于中国的美国作曲家与指挥家，当代古典音乐的代表人物，融汇多种西方与中国影响，这种结合塑造了他的生活与音乐。他与世界各地主要乐团合作，获奖众多，包括以歌剧《马可·波罗》（1996）获格文美尔奖，以李安《卧虎藏龙》（2000）配乐获奥斯卡奖与格莱美奖。其作品包括歌剧、管弦乐、声乐、室内乐、独奏与电影配乐，以及他称为“有机音乐”和“音乐仪式”的体裁。",
+      "related": [
+        "xian-xinghai",
+        "20th-century-classical",
+        "china-music-history"
+      ],
+      "sources": [
+        "enc-tan-dun",
+        "wd-tan-dun"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "1957年生。",
+        "风格特征": "摘要称，生于中国的美国作曲家与指挥家（1957年生），当代古典音乐的代表人物。",
+        "代表人物与作品": "歌剧《马可·波罗》（1996，格文美尔奖）、《卧虎藏龙》配乐（2000，奥斯卡奖与格莱美奖）。",
+        "技法或形式分析": "“有机音乐”“音乐仪式”是他自己的称呼，具体做法摘要未给出。",
+        "与前后风格的关系和争论": "摘要称其融汇西方与中国影响；“代表人物”为评价性表述未核验。",
+        "一图": "示意图以谭盾为中心，标示中西影响、马可·波罗、卧虎藏龙。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='tan-dun 示意图'><title>tan-dun</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>中西影响</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>融汇</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>谭盾</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>作曲家·指挥</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>马可·波罗</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>1996歌剧</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>卧虎藏龙</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>2000配乐</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
     }
