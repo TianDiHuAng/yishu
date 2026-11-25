@@ -13029,6 +13029,86 @@
       "type": "国家图书馆人名规范记录（标目、生卒、职业）",
       "verified": true,
       "verified_note": "2026-11-25 经 lobid.org 取回；该记录 sameAs 含 Wikidata Q80135，按编号与本条目匹配；标目“Šostakovič, Dmitrij Dmitrievič”，生 1906-09-25，卒 1975-08-08"
+    },
+    {
+      "id": "smk-kms2070",
+      "title": "Statens Museum for Kunst — Aftenpassiar, KMS2070",
+      "author": "Statens Museum for Kunst（丹麦国家美术馆，藏品记录与展签）",
+      "year": "2026",
+      "url": "https://open.smk.dk/artwork/image/KMS2070",
+      "type": "博物馆藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经丹麦国家美术馆开放接口（api.smk.dk）取回该藏品记录，馆藏号、题名、年代、技法、尺寸与展签匹配；记录缓存于 tmp/smk_c212.json"
+    },
+    {
+      "id": "smk-kmsr171",
+      "title": "Statens Museum for Kunst — Portræt af Madame Matisse. Den grønne stribe, KMSr171",
+      "author": "Statens Museum for Kunst（丹麦国家美术馆，藏品记录与展签）",
+      "year": "2026",
+      "url": "https://open.smk.dk/artwork/image/KMSr171",
+      "type": "博物馆藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经丹麦国家美术馆开放接口（api.smk.dk）取回该藏品记录，馆藏号、题名、年代、技法、尺寸与展签匹配；记录缓存于 tmp/smk_c212.json"
+    },
+    {
+      "id": "smk-kmsr83",
+      "title": "Statens Museum for Kunst — Interiør med violin, KMSr83",
+      "author": "Statens Museum for Kunst（丹麦国家美术馆，藏品记录与展签）",
+      "year": "2026",
+      "url": "https://open.smk.dk/artwork/image/KMSr83",
+      "type": "博物馆藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经丹麦国家美术馆开放接口（api.smk.dk）取回该藏品记录，馆藏号、题名、年代、技法、尺寸与展签匹配；记录缓存于 tmp/smk_c212.json"
+    },
+    {
+      "id": "smk-kks1965-72",
+      "title": "Statens Museum for Kunst — Portræt af kunstnerens søn Clovis, KKS1965-72",
+      "author": "Statens Museum for Kunst（丹麦国家美术馆，藏品记录与展签）",
+      "year": "2026",
+      "url": "https://open.smk.dk/artwork/image/KKS1965-72",
+      "type": "博物馆藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经丹麦国家美术馆开放接口（api.smk.dk）取回该藏品记录，馆藏号、题名、年代、技法、尺寸与展签匹配；记录缓存于 tmp/smk_c212.json"
+    },
+    {
+      "id": "smk-kmsr193",
+      "title": "Statens Museum for Kunst — Opstilling med dør, guitar og flasker, KMSr193",
+      "author": "Statens Museum for Kunst（丹麦国家美术馆，藏品记录与展签）",
+      "year": "2026",
+      "url": "https://open.smk.dk/artwork/image/KMSr193",
+      "type": "博物馆藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经丹麦国家美术馆开放接口（api.smk.dk）取回该藏品记录，馆藏号、题名、年代、技法、尺寸与展签匹配；记录缓存于 tmp/smk_c212.json"
+    },
+    {
+      "id": "smk-kks9159",
+      "title": "Statens Museum for Kunst — Intimitet, KKS9159",
+      "author": "Statens Museum for Kunst（丹麦国家美术馆，藏品记录与展签）",
+      "year": "2026",
+      "url": "https://open.smk.dk/artwork/image/KKS9159",
+      "type": "博物馆藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经丹麦国家美术馆开放接口（api.smk.dk）取回该藏品记录，馆藏号、题名、年代、技法、尺寸与展签匹配；记录缓存于 tmp/smk_c212.json"
+    },
+    {
+      "id": "smk-kmsr7",
+      "title": "Statens Museum for Kunst — Træerne, KMSr7",
+      "author": "Statens Museum for Kunst（丹麦国家美术馆，藏品记录与展签）",
+      "year": "2026",
+      "url": "https://open.smk.dk/artwork/image/KMSr7",
+      "type": "博物馆藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经丹麦国家美术馆开放接口（api.smk.dk）取回该藏品记录，馆藏号、题名、年代、技法、尺寸与展签匹配；记录缓存于 tmp/smk_c212.json"
+    },
+    {
+      "id": "smk-kms6204",
+      "title": "Statens Museum for Kunst — Barn og stor fugl, KMS6204",
+      "author": "Statens Museum for Kunst（丹麦国家美术馆，藏品记录与展签）",
+      "year": "2026",
+      "url": "https://open.smk.dk/artwork/image/KMS6204",
+      "type": "博物馆藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经丹麦国家美术馆开放接口（api.smk.dk）取回该藏品记录，馆藏号、题名、年代、技法、尺寸与展签匹配；记录缓存于 tmp/smk_c212.json"
     }
   ]
 }

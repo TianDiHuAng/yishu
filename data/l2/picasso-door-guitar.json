@@ -1,0 +1,19 @@
+{
+  "id": "picasso-door-guitar",
+  "level": "L2",
+  "sections": {
+    "时代背景": "据该馆记录，作品作于1916年。展签称，它在一战期间由丹麦收藏家克里斯蒂安·泰岑-伦购得。",
+    "风格特征": "展签称，画面是对一组吉他、两只瓶子与房间碎片的抽象；静物是立体主义者喜爱的母题，他们以此为起点，创作不那么关乎外部现实、而更关乎画面平面本身作为一种现实的构图。",
+    "代表人物与作品": "作者为毕加索。展签提到毕加索与布拉克。",
+    "技法或形式分析": "该馆记录：布面油画，高 60 厘米、宽 81 厘米。展签称，立体主义的开创性发明之一是拼贴：把不同纸张剪下贴在画布上；1913年后毕加索与布拉克开始玩弄错觉，画出模仿拼贴效果的画，本画即一例。",
+    "与前后风格的关系和争论": "展签称，这幅画对当时与巴黎艺术界隔绝的丹麦艺术家影响很大。",
+    "一图": "示意图以本画为中心，标示立体主义静物、模仿拼贴、丹麦收藏三项。",
+    "待核实": "（1）本条目事实只来自丹麦国家美术馆一家的藏品记录与丹麦语展签（2026-11-25 取回），译文为本项目所作，属单一机构来源，整条标记待核实。（2）中文题名为本项目所译。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='picasso-door-guitar 示意图'><title>picasso-door-guitar</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>立体主义静物</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>喜爱的母题</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>门·吉他·酒瓶</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1916 油画</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>模仿拼贴</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>1913年后</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>丹麦收藏</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>泰岑-伦</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据丹麦国家美术馆记录</text></g></svg>",
+  "sources": [
+    "smk-kmsr193"
+  ],
+  "needs_verification": true,
+  "pending_notes": "单一机构（SMK）来源；单一机构来源。"
+}

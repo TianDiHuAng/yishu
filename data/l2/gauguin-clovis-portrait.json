@@ -1,0 +1,19 @@
+{
+  "id": "gauguin-clovis-portrait",
+  "level": "L2",
+  "sections": {
+    "时代背景": "据该馆记录，素描作于1879—1880年。",
+    "风格特征": "该馆记录未描述风格。",
+    "代表人物与作品": "展签引汉内·芬森（1967）：肖像所画必是克洛维斯（生于1879）或埃米尔（生于1874），但“可能”是前者，因为画法最符合约1878—80年。",
+    "技法或形式分析": "该馆记录：浅灰纸上黑粉笔，高 209 毫米、宽 266 毫米。",
+    "与前后风格的关系和争论": "展签称，芬森引一幅题有“保罗·高更作，巴黎1879，克洛维斯·高更像”的克洛维斯睡像（约同龄）为旁证；梅雷特·博德尔森又指出，这幅儿童头像与斯德哥尔摩国家博物馆藏约1880年高更速写本中的一页相似，背面人物也接近该速写本另一页。这是研究者的考证，像主身份仍是“可能”。",
+    "一图": "示意图以本素描为中心，标示克洛维斯或埃米尔、芬森考证、博德尔森旁证三项。",
+    "待核实": "（1）本条目事实只来自丹麦国家美术馆一家的藏品记录与丹麦语展签（2026-11-25 取回），译文为本项目所作，属单一机构来源，整条标记待核实。（2）像主身份未定；（3）标题按该馆题名，但其认定只是“可能”。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='gauguin-clovis-portrait 示意图'><title>gauguin-clovis-portrait</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>像主</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>克洛维斯或埃米尔</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>克洛维斯像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1879—80 素描</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>芬森</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>1967 考证</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>博德尔森</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>速写本旁证</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据丹麦国家美术馆记录</text></g></svg>",
+  "sources": [
+    "smk-kks1965-72"
+  ],
+  "needs_verification": true,
+  "pending_notes": "单一机构（SMK）来源；单一机构来源；像主身份未定。"
+}

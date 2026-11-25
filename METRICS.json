@@ -4782,6 +4782,42 @@
       "check_result": "errors=0",
       "check_links_result": "broken=0(821页)",
       "commits": 1
+    },
+    {
+      "cycle": "cycle211",
+      "date": "2026-11-25",
+      "status": "completed",
+      "gap_methods": [
+        "GND生卒年写入28个人物条目"
+      ],
+      "new_entries": 0,
+      "reviews": 28,
+      "fixes": 28,
+      "new_sources": 0,
+      "sources_total": 1303,
+      "entries_total": 784,
+      "pages": 821,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(821页)",
+      "commits": 1
+    },
+    {
+      "cycle": "cycle212",
+      "date": "2026-11-25",
+      "status": "completed",
+      "gap_methods": [
+        "丹麦国家美术馆作品8件"
+      ],
+      "new_entries": 8,
+      "reviews": 11,
+      "fixes": 2,
+      "new_sources": 8,
+      "sources_total": 1311,
+      "entries_total": 792,
+      "pages": 829,
+      "check_result": "errors=0",
+      "check_links_result": "broken=0(829页)",
+      "commits": 1
     }
   ]
 }

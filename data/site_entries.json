@@ -1548,7 +1548,8 @@
         "pissarro-lock-pontoise",
         "monet-red-kerchief",
         "morisot-reading",
-        "renoir-apple-seller"
+        "renoir-apple-seller",
+        "degas-intimacy-monotype"
       ],
       "sources": [
         "enc-impressionism",
@@ -1653,7 +1654,8 @@
         "van-gogh-drenthe-wheelbarrow",
         "mondrian-field-young-trees",
         "nabis",
-        "vuillard-luncheon"
+        "vuillard-luncheon",
+        "gauguin-clovis-portrait"
       ],
       "sources": [
         "enc-post-impressionism",
@@ -1857,14 +1859,16 @@
         "post-impressionism",
         "cezanne",
         "nabis",
-        "munch"
+        "munch",
+        "gauguin-clovis-portrait"
       ],
       "sources": [
         "enc-gauguin",
         "enc-post-impressionism",
         "wd-gauguin",
         "ulan-500011421",
-        "gnd-118537822"
+        "gnd-118537822",
+        "smk-kks1965-72"
       ],
       "level": "L2",
       "sections": {
@@ -1874,7 +1878,7 @@
         "技法或形式分析": "条目明确提到平涂色块，说明其形式分析可从色块组织入手。象征性平面色彩与象征构图并列出现，显示色彩和构图在作品说明中具有核心位置。材料未给出更细的笔触、透视或空间处理细节，因此不作外推。",
         "与前后风格的关系和争论": "从相关条目看，高更与后印象派直接关联，并与塞尚同列于条目关系中。材料未提供具体争论、学者姓名或观点归属。记载较一致，学界主要讨论高更的分期/边界问题。",
         "一图": "示意图用高更、平涂色块与象征构图呈现其平面色彩和作品形式重点。",
-        "待核实": "《我们从何处来？我们是谁？我们向何处去？》的具体创作年份未在材料中给出，待补充第二来源。该作收藏地同样未在材料中给出，待补充第二来源。如需扩展原始主义或象征性的来源脉络，也应待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核·Wikidata】生卒：第二来源 wd-gauguin（https://www.wikidata.org/wiki/Q37693），据其结构化数据：生年 1848，卒年 1903。（ULAN 对照，2026-11-24）ULAN 简介：French painter and printmaker, 1848-1903。生卒年1848—1903与本条目 when 一致；职业为画家与版画家，与本条目相容。（GND 对照，2026-11-25）德国国家图书馆规范档（118537822）生卒 1848—1903，与本条目一致，已独立印证（只印证生卒与身份）。"
+        "待核实": "《我们从何处来？我们是谁？我们向何处去？》的具体创作年份未在材料中给出，待补充第二来源。该作收藏地同样未在材料中给出，待补充第二来源。如需扩展原始主义或象征性的来源脉络，也应待补充第二来源。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核·Wikidata】生卒：第二来源 wd-gauguin（https://www.wikidata.org/wiki/Q37693），据其结构化数据：生年 1848，卒年 1903。（ULAN 对照，2026-11-24）ULAN 简介：French painter and printmaker, 1848-1903。生卒年1848—1903与本条目 when 一致；职业为画家与版画家，与本条目相容。（GND 对照，2026-11-25）德国国家图书馆规范档（118537822）生卒 1848—1903，与本条目一致，已独立印证（只印证生卒与身份）。（SMK 对照，2026-11-25）丹麦国家美术馆藏本条目相关作品（KKS1965-72），其记录只印证该作品与本条目的关联，不印证本条目其余内容。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='高更 示意图'><title>高更</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>高更</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>后印象派画家</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>平涂色块</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>象征构图</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>后印象派</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>塞尚</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>高更的平面色彩与象征构图</text></g></svg>",
       "pending_notes": "生卒已由 GND 规范档独立印证；"
@@ -1897,7 +1901,9 @@
         "matisse",
         "braque-estaque-port",
         "matisse-interior-etruscan",
-        "rouault-end-autumn"
+        "rouault-end-autumn",
+        "matisse-green-stripe",
+        "matisse-violin-interior"
       ],
       "sources": [
         "enc-fauvism",
@@ -1938,13 +1944,16 @@
         "klee-carnival-in-snow",
         "expressionism-music",
         "munch",
-        "expressionism-crossmedia"
+        "expressionism-crossmedia",
+        "munch-evening-talk",
+        "nolde-child-bird"
       ],
       "sources": [
         "enc-expressionism",
         "enc-fauvism",
         "wd-anchor-expressionism",
-        "aat-300021502"
+        "aat-300021502",
+        "smk-kms6204"
       ],
       "level": "L2",
       "sections": {
@@ -1954,7 +1963,7 @@
         "技法或形式分析": "在技法上，表现主义倚重扭曲线条与强烈色彩，通过对形体的变形处理强化情感张力。色彩与线条被赋予表现焦虑与激情的功能，而非用于如实描摹对象。",
         "与前后风格的关系和争论": "从相关条目看，表现主义与野兽派、抽象表现主义相关联。记载较一致，学界主要讨论其分期与边界问题。",
         "一图": "示意图以表现主义为中心，标示其重要团体桥社与青骑士社，并指向相关条目抽象表现主义。",
-        "待核实": "材料中未列出具体代表人物姓名、作品名称与收藏信息，待补充第二来源后再行补写。（AAT 对照，2026-11-24）AAT 定义：国际性的艺术、文学、音乐、舞蹈与戏剧风格，兴盛于1905至1920年，尤其在德国；以抛弃传统写实与比例标准、转而表现艺术家情感、造成线条、色彩与形式的变形为特征。与本条目的差异：AAT 终点为1920年（本条目 when 约1905—1930年），差约10年；AAT 范围含多门类。本条目不裁决，保持原 when。"
+        "待核实": "材料中未列出具体代表人物姓名、作品名称与收藏信息，待补充第二来源后再行补写。（AAT 对照，2026-11-24）AAT 定义：国际性的艺术、文学、音乐、舞蹈与戏剧风格，兴盛于1905至1920年，尤其在德国；以抛弃传统写实与比例标准、转而表现艺术家情感、造成线条、色彩与形式的变形为特征。与本条目的差异：AAT 终点为1920年（本条目 when 约1905—1930年），差约10年；AAT 范围含多门类。本条目不裁决，保持原 when。（SMK 对照，2026-11-25）丹麦国家美术馆藏本条目相关作品（KMS6204），其记录只印证该作品与本条目的关联，不印证本条目其余内容。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='表现主义 示意图'><title>表现主义</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>表现主义</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>德国及北欧</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>桥社</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>重要团体</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>青骑士社</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>重要团体</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>抽象表现主义</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>表现主义以变形与色彩表达内在情感，桥社与青骑士社为代表</text></g></svg>"
     },
@@ -1979,13 +1988,16 @@
         "picasso-la-vie",
         "picasso-bottle-glass-fork",
         "mondrian-composition-rby-1927",
-        "constructivism-art"
+        "constructivism-art",
+        "picasso-door-guitar",
+        "braque-trees"
       ],
       "sources": [
         "enc-cubism",
         "enc-cezanne",
         "wd-anchor-cubism",
-        "aat-300021495"
+        "aat-300021495",
+        "smk-kmsr7"
       ],
       "level": "L2",
       "sections": {
@@ -1995,7 +2007,7 @@
         "技法或形式分析": "立体主义将对象分解为几何块面并重新组合，以此突破单一视点透视。这一方法催生了综合材料与拼贴的运用。",
         "与前后风格的关系和争论": "从相关条目看，立体主义与塞尚、未来主义相关联。记载较一致，学界主要讨论其分期与边界问题。",
         "一图": "示意图以立体主义为中心，展示几何块面的分解重组与拼贴手法，并关联相关条目未来主义。",
-        "待核实": "材料未提供具体作品名称、创作年份与收藏地，待补充第二来源后再行补写。（AAT 对照，2026-11-24）AAT 定义：国际艺术运动，起源归于布拉克与毕加索，约1908年，分阶段发展，持续到1920年代初；以强调画面平面性、拒绝传统再现方法、通过同时呈现多个侧面使物体解体为特征。与本条目基本一致（本条目约1908—1920年）。"
+        "待核实": "材料未提供具体作品名称、创作年份与收藏地，待补充第二来源后再行补写。（AAT 对照，2026-11-24）AAT 定义：国际艺术运动，起源归于布拉克与毕加索，约1908年，分阶段发展，持续到1920年代初；以强调画面平面性、拒绝传统再现方法、通过同时呈现多个侧面使物体解体为特征。与本条目基本一致（本条目约1908—1920年）。（SMK 对照，2026-11-25）丹麦国家美术馆藏本条目相关作品（KMSr7），其记录只印证该作品与本条目的关联，不印证本条目其余内容。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='立体主义 示意图'><title>立体主义</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>立体主义</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>法国</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>几何块面</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>重新组合</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>拼贴</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>综合材料</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>未来主义</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>立体主义将对象分解为几何块面并重新组合，打破单一视点透视</text></g></svg>"
     },
@@ -2203,14 +2215,16 @@
         "modern-art",
         "guernica-work",
         "braque-violin-collage",
-        "picasso-la-vie"
+        "picasso-la-vie",
+        "picasso-door-guitar"
       ],
       "sources": [
         "enc-picasso",
         "enc-cubism",
         "wd-picasso",
         "ulan-500009666",
-        "gnd-118594206"
+        "gnd-118594206",
+        "smk-kmsr193"
       ],
       "level": "L2",
       "sections": {
@@ -2220,7 +2234,7 @@
         "技法或形式分析": "现有条目未列出具体技法名称或操作步骤。可以确定其创作横跨绘画与雕塑两种媒介。风格多变与重塑20世纪艺术语言是对其形式的总体描述。立体主义是其核心关联，更细的技术细节待补充第二来源。",
         "与前后风格的关系和争论": "毕加索与立体主义、现代艺术直接相关：前者由其参与创立，后者为其所属的艺术语境。记载较一致，学界主要讨论毕加索的分期与边界问题。现有条目未列出具体争论或学者观点，相关判断待补充第二来源。",
         "一图": "示意图展示毕加索、立体主义与现代艺术之间的关联，并标出其代表作《亚维农少女》与《格尔尼卡》。",
-        "待核实": "《亚维农少女》与《格尔尼卡》的具体创作年份及收藏地未在条目中给出，待补充第二来源。其雕塑作品与技法细节同样缺少可核实记录。相关人物与作品的分期问题亦待进一步查证。 【已复核·Wikidata】生卒：第二来源 wd-picasso（https://www.wikidata.org/wiki/Q5593），据其结构化数据：生年 1881，卒年 1973。（ULAN 对照，2026-11-24）ULAN 简介：Spanish painter, sculptor, and printmaker, 1881-1973。生卒年1881—1973与本条目 when 一致；职业为画家、雕塑家与版画家，与本条目相容。（GND 对照，2026-11-25）德国国家图书馆规范档（118594206）生卒 1881—1973，与本条目一致，已独立印证（只印证生卒与身份）。"
+        "待核实": "《亚维农少女》与《格尔尼卡》的具体创作年份及收藏地未在条目中给出，待补充第二来源。其雕塑作品与技法细节同样缺少可核实记录。相关人物与作品的分期问题亦待进一步查证。 【已复核·Wikidata】生卒：第二来源 wd-picasso（https://www.wikidata.org/wiki/Q5593），据其结构化数据：生年 1881，卒年 1973。（ULAN 对照，2026-11-24）ULAN 简介：Spanish painter, sculptor, and printmaker, 1881-1973。生卒年1881—1973与本条目 when 一致；职业为画家、雕塑家与版画家，与本条目相容。（GND 对照，2026-11-25）德国国家图书馆规范档（118594206）生卒 1881—1973，与本条目一致，已独立印证（只印证生卒与身份）。（SMK 对照，2026-11-25）丹麦国家美术馆藏本条目相关作品（KMSr193），其记录只印证该作品与本条目的关联，不印证本条目其余内容。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='毕加索 示意图'><title>毕加索</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>毕加索</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1881—1973年</text><rect class='svg-box-accent' x='305.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='380.0' y='142' text-anchor='middle'>立体主义</text><text class='svg-sub' x='380.0' y='165' text-anchor='middle'>创始人之一</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>现代艺术</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>20世纪</text><line class='svg-arrow' x1='170.0' y1='145' x2='305.0' y2='145'/><polygon class='svg-arrowhead' points='305.0,145 296.0,140 296.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>毕加索连接立体主义与现代艺术</text></g></svg>",
       "pending_notes": "生卒已由 GND 规范档独立印证；"
@@ -2239,14 +2253,18 @@
       "overview": "代表作《舞蹈》《红色和谐》，追求色彩的平衡与装饰性愉悦。",
       "related": [
         "fauvism",
-        "modern-art"
+        "modern-art",
+        "matisse-green-stripe",
+        "matisse-violin-interior"
       ],
       "sources": [
         "enc-matisse",
         "enc-fauvism",
         "wd-matisse",
         "ulan-500017300",
-        "gnd-118578847"
+        "gnd-118578847",
+        "smk-kmsr171",
+        "smk-kmsr83"
       ],
       "level": "L2",
       "sections": {
@@ -2256,7 +2274,7 @@
         "技法或形式分析": "输入中可分析的形式重点是色彩平衡、装饰性愉悦与剪纸。剪纸被列为他闻名的方面，色彩平衡则与代表作描述相连。具体笔触、材料、作品年份与收藏地未给出，因此不作展开。",
         "与前后风格的关系和争论": "相关条目中的野兽派与现代艺术为定位马蒂斯提供两个层次。作为野兽派领袖，他与野兽派的关系是直接归属；与现代艺术的关系则是输入给出的较大框架。输入未呈现具体学者争论，记载较一致，学界主要讨论其与野兽派、现代艺术之间的分期/边界问题。",
         "一图": "示意图呈现马蒂斯以色彩平衡和剪纸连接野兽派与现代艺术。",
-        "待核实": "输入列出来源标题“Henri Matisse”与“Fauvism”。《舞蹈》《红色和谐》的具体年份、收藏地与画面细节未在输入中给出。关于剪纸作品清单或具体技法说明，待补充第二来源后再写入正文。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核·Wikidata】生卒：第二来源 wd-matisse（https://www.wikidata.org/wiki/Q5589），据其结构化数据：生年 1869，卒年 1954。（ULAN 对照，2026-11-24）ULAN 简介：French painter, sculptor, and printmaker, 1869-1954。生卒年1869—1954与本条目 when 一致；职业为画家、雕塑家与版画家，与本条目相容。（GND 对照，2026-11-25）德国国家图书馆规范档（118578847）生卒 1869—1954，与本条目一致，已独立印证（只印证生卒与身份）。"
+        "待核实": "输入列出来源标题“Henri Matisse”与“Fauvism”。《舞蹈》《红色和谐》的具体年份、收藏地与画面细节未在输入中给出。关于剪纸作品清单或具体技法说明，待补充第二来源后再写入正文。 【批次诚实声明】本条年代区间与部分技法术语源自 L1 种子，其中未被所引英文来源页逐字收录者已在正文改写为概括或列入本待核实节；精确年代与术语仍需第二独立来源（如专著/博物馆资料）确认。 【已复核·Wikidata】生卒：第二来源 wd-matisse（https://www.wikidata.org/wiki/Q5589），据其结构化数据：生年 1869，卒年 1954。（ULAN 对照，2026-11-24）ULAN 简介：French painter, sculptor, and printmaker, 1869-1954。生卒年1869—1954与本条目 when 一致；职业为画家、雕塑家与版画家，与本条目相容。（GND 对照，2026-11-25）德国国家图书馆规范档（118578847）生卒 1869—1954，与本条目一致，已独立印证（只印证生卒与身份）。（SMK 对照，2026-11-25）丹麦国家美术馆藏本条目相关作品（KMSr171），其记录只印证该作品与本条目的关联，不印证本条目其余内容。（SMK 对照，2026-11-25）丹麦国家美术馆藏本条目相关作品（KMSr83），其记录只印证该作品与本条目的关联，不印证本条目其余内容。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='马蒂斯 示意图'><title>马蒂斯</title><g class='svg-flow'><rect class='svg-box-accent' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='95.0' y='142' text-anchor='middle'>马蒂斯</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>野兽派领袖</text><rect class='svg-box-muted' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='285.0' y='142' text-anchor='middle'>野兽派</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>相关条目</text><rect class='svg-box-accent' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='475.0' y='142' text-anchor='middle'>色彩与剪纸</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>平衡与愉悦</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>现代艺术</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>相关条目</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='170.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='550.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>色彩与剪纸连接野兽派与现代艺术</text></g></svg>",
       "pending_notes": "生卒已由 GND 规范档独立印证；"
@@ -5949,11 +5967,13 @@
         "impressionism",
         "monet",
         "degas-frieze-dancers",
-        "renoir-apple-seller"
+        "renoir-apple-seller",
+        "degas-intimacy-monotype"
       ],
       "sources": [
         "cma-1916-1043",
-        "ulan-500115194"
+        "ulan-500115194",
+        "smk-kks9159"
       ],
       "level": "L2",
       "sections": {
@@ -5963,7 +5983,7 @@
         "技法或形式分析": "《舞者》以粉彩加炭笔绘于描图纸上，后裱于纸并衬灰板；画心尺寸55.7 × 41.4厘米（据该馆藏品记录）。该馆说明指出：粉彩的黄、橙、粉色层层叠加形成粗糙表面，是他晚期粉彩的典型面貌；他曾发展出专门技法，使颜色能够一层层堆叠，并在不透明与透明之间取得不同层次，作品浓密的表面与颤动的色调由此而来。",
         "与前后风格的关系和争论": "德加与印象派的关系本身即是一个有史料支撑的分歧点：他1874年起参加该群体的展览直至1886年，却始终拒绝被归为该群体成员，自称现实主义者或自然主义者；他坚持画室作业与素描传统，也与户外写生的同人路径不同。1886年之后他不再参加群体展览，转而通过杜朗-吕埃尔（Durand-Ruel）、沃拉尔（Ambroise Vollard）等画商出售作品。1890年代他开始自建收藏，藏有安格尔、塞尚、德拉克洛瓦、高更、梵高等人的作品；其晚年笔触更宽、色彩更艳，该馆记录将其部分归因于视力问题。",
         "一图": "示意图以「安格尔—拉莫特」的学院训练、1874—1886年的印象派展览、以及画室作业与粉彩技法三者的关系，标示德加的位置。",
-        "待核实": "（1）本条目的人物事实取自单一机构（克利夫兰艺术博物馆）的艺术家记录与其藏品说明，未获第二独立来源，故标记待核实；（2）生卒年1834—1917与该记录一致，但未以第二来源核对；（3）「现实主义者或自然主义者」的自述出自该馆记录的转述，未核对原始文献；（4）《舞者》的创作年代该馆记为约1896年（区间1891—1901），精确年份待核。（ULAN 对照，2026-11-24）ULAN 简介：French painter, sculptor, 1834-1917。生卒年1834—1917与本条目 when 一致；职业为画家与雕塑家，与本条目相容。"
+        "待核实": "（1）本条目的人物事实取自单一机构（克利夫兰艺术博物馆）的艺术家记录与其藏品说明，未获第二独立来源，故标记待核实；（2）生卒年1834—1917与该记录一致，但未以第二来源核对；（3）「现实主义者或自然主义者」的自述出自该馆记录的转述，未核对原始文献；（4）《舞者》的创作年代该馆记为约1896年（区间1891—1901），精确年份待核。（ULAN 对照，2026-11-24）ULAN 简介：French painter, sculptor, 1834-1917。生卒年1834—1917与本条目 when 一致；职业为画家与雕塑家，与本条目相容。（SMK 对照，2026-11-25）丹麦国家美术馆藏本条目相关作品（KKS9159），其记录只印证该作品与本条目的关联，不印证本条目其余内容。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='degas 示意图'><title>degas</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>安格尔—拉莫特</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>学院训练</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>德加</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1834—1917</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>1874—1886</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>印象派展览</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>粉彩层叠</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>舞者母题</text><line class='svg-arrow' x1='170.0' y1='145' x2='210.0' y2='145'/><polygon class='svg-arrowhead' points='210.0,145 201.0,140 201.0,150'/><line class='svg-arrow' x1='400.0' y1='145' x2='360.0' y2='145'/><polygon class='svg-arrowhead' points='360.0,145 369.0,140 369.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>德加：学院训练、印象派展览与粉彩技法的关系</text></g></svg>",
       "needs_verification": true,
@@ -27682,12 +27702,15 @@
       "related": [
         "expressionism",
         "gauguin",
-        "van-gogh"
+        "van-gogh",
+        "munch-evening-talk",
+        "nolde-child-bird"
       ],
       "sources": [
         "enc-munch",
         "wd-munch",
-        "gnd-118585738"
+        "gnd-118585738",
+        "smk-kms2070"
       ],
       "level": "L2",
       "sections": {
@@ -27697,7 +27720,7 @@
         "技法或形式分析": "导言称，在巴黎他从高更、梵高与劳特累克那里学到很多，尤其是用色。",
         "与前后风格的关系和争论": "导言称，他在柏林结识瑞典剧作家斯特林堡并为其画像。他与表现主义的关系导言前段未述，库内互链为本项目所加。",
         "一图": "示意图以蒙克为中心，标示灵魂绘画、《呐喊》、巴黎的用色影响三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）与表现主义的关系未述。（GND 对照，2026-11-25）德国国家图书馆规范档（118585738）生卒 1863—1944，与本条目一致，已独立印证（只印证生卒与身份）。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）与表现主义的关系未述。（GND 对照，2026-11-25）德国国家图书馆规范档（118585738）生卒 1863—1944，与本条目一致，已独立印证（只印证生卒与身份）。（SMK 对照，2026-11-25）丹麦国家美术馆藏本条目相关作品（KMS2070），其记录只印证该作品与本条目的关联，不印证本条目其余内容。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='munch 示意图'><title>munch</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>灵魂绘画</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>耶格尔敦促</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>蒙克</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1863—1944</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>呐喊</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>1893</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>用色</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>高更·梵高</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
@@ -28138,6 +28161,271 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='east-asian-theatre-cross 示意图'><title>east-asian-theatre-cross</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>昆曲</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>16—18世纪主导</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>东亚古典戏剧</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>三者并列</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>能乐</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>14世纪起·面具</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>歌舞伎</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>江户初·隈取</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据两侧条目来源</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "比较为本项目所作，两侧来源未直接相互比较；事实均取自两侧父条目的来源。"
+    },
+    {
+      "id": "munch-evening-talk",
+      "title": "蒙克《傍晚的交谈》（1889）",
+      "kind": "作品",
+      "unit": "art-modern",
+      "era": "1889年",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "蒙克1889年夏在奥斯高斯特兰作的大幅油画，以一男一女的疏离表现情感的冷漠。",
+      "when": "1889年",
+      "overview": "丹麦国家美术馆藏（KMS2070）。",
+      "related": [
+        "munch",
+        "expressionism"
+      ],
+      "sources": [
+        "smk-kms2070"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "据该馆记录，作品作于1889年，布面油画。展签称，画作于1889年夏，蒙克当时定居奥斯陆峡湾西岸的渔村奥斯高斯特兰。",
+        "风格特征": "展签称，画面竖向分成近乎相等的两半：左侧一男一女立于阳台阴影中，右侧展开阳光照耀的繁茂海岸风景；场景本可是北欧明亮夏夜的浪漫故事，呈现的却是“关于情感冷漠与缺席的冰冷室内剧”。",
+        "代表人物与作品": "展签称，模特是挪威戏剧评论家西居尔·伯特克与蒙克的小妹英厄；但肖像相似并不重要，他们是“角色模特”，21岁的英厄被画成中年妇女。",
+        "技法或形式分析": "该馆记录：布面油画，高 150.2 厘米、宽 195.3 厘米。展签称，英厄封闭的身体语言与摆姿势的男子形成疏离的对照。",
+        "与前后风格的关系和争论": "展签称，蒙克一生关注心理上扭曲的恋爱关系，这一兴趣即始于这幅大画；这片海岸风景后来作为“有灵魂的全景”出现在他多件最著名的作品背后。这是该馆的诠释。",
+        "一图": "示意图以本画为中心，标示阳台上的男女、阳光海岸、奥斯高斯特兰三项。",
+        "待核实": "（1）本条目事实只来自丹麦国家美术馆一家的藏品记录与丹麦语展签（2026-11-25 取回），译文为本项目所作，属单一机构来源，整条标记待核实。（2）中文题名为本项目所译；（3）“始于这幅画”为该馆说法。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='munch-evening-talk 示意图'><title>munch-evening-talk</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>男女</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>阳台阴影中</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>傍晚的交谈</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1889 油画</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>海岸风景</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>阳光照耀</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>奥斯高斯特兰</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>作画地</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据丹麦国家美术馆记录</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（SMK）来源；单一机构来源；题名为本项目所译。"
+    },
+    {
+      "id": "matisse-green-stripe",
+      "title": "马蒂斯《马蒂斯夫人像（绿色条纹）》（1905）",
+      "kind": "作品",
+      "unit": "art-modern",
+      "era": "1905年",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "马蒂斯为妻子阿梅莉所作的小幅肖像，以强烈色彩对比著称，丹麦国家美术馆十大重点藏品之一。",
+      "when": "1905年",
+      "overview": "丹麦国家美术馆藏（KMSr171）。",
+      "related": [
+        "matisse",
+        "fauvism"
+      ],
+      "sources": [
+        "smk-kmsr171"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "据该馆记录，作品作于1905年。展签引该馆资深研究员多尔特·奥厄森的话：画“大概”作于1905年秋，马蒂斯在法国南部渔村科利乌尔与友人德兰度夏后回到巴黎，两人在那里投入越来越大胆的绘画实验，要让色彩摆脱描述功能，成为独立的力量。",
+        "风格特征": "展签称，这幅画之所以是代表作，是因为它显示了一幅画如何以极简单的手段获得极大的表现力；尤其是马蒂斯20世纪初作品特有的强烈色彩对比，使这幅小画具有巨大的视觉力量。",
+        "代表人物与作品": "画中人是马蒂斯的妻子阿梅莉。展签称它是20世纪肖像艺术的代表作之一，也是该馆十大重点藏品之一。",
+        "技法或形式分析": "该馆记录：布面油画，高 40.5 厘米、宽 32.5 厘米。",
+        "与前后风格的关系和争论": "展签称，该馆拥有法国以外世界上最大、最重要的马蒂斯收藏之一；一战前后哥本哈根有两位大收藏家，当时来到哥本哈根的画构成了今日藏品的基础。与野兽派的关系展签此段未明说，库内互链为本项目所加。",
+        "一图": "示意图以本画为中心，标示阿梅莉、科利乌尔与德兰、色彩对比三项。",
+        "待核实": "（1）本条目事实只来自丹麦国家美术馆一家的藏品记录与丹麦语展签（2026-11-25 取回），译文为本项目所作，属单一机构来源，整条标记待核实。（2）“大概”作于秋季为研究员的说法；（3）“最重要的收藏之一”为该馆自述。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='matisse-green-stripe 示意图'><title>matisse-green-stripe</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>阿梅莉</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>画中人</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>绿色条纹</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1905 肖像</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>科利乌尔</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>与德兰实验</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>色彩对比</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>表现力来源</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据丹麦国家美术馆记录</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（SMK）来源；单一机构来源；部分为该馆自述。"
+    },
+    {
+      "id": "matisse-violin-interior",
+      "title": "马蒂斯《有小提琴的室内》（1918）",
+      "kind": "作品",
+      "unit": "art-modern",
+      "era": "1918年",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "补充",
+      "def": "马蒂斯1918年在尼斯旅馆房间所作的室内画，室内的抽象与窗外的写实形成对照。",
+      "when": "1918年",
+      "overview": "丹麦国家美术馆藏（KMSr83）。",
+      "related": [
+        "matisse",
+        "fauvism"
+      ],
+      "sources": [
+        "smk-kmsr83"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "据该馆记录，作品作于1918年。展签称，画作于1918年上半年的尼斯；马蒂斯数月前来到尼斯，住进博里瓦日旅馆，起初也把它当画室。",
+        "风格特征": "展签称，室内以抽象、平面化的风格描绘，指向他此前几年的作品；窗外的自然则用此后将成为他艺术特征的自然主义语言描绘。",
+        "代表人物与作品": "母题正是旅馆房间及其面向海滩和大海的窗户。",
+        "技法或形式分析": "该馆记录：布面油画，高 116 厘米、宽 89 厘米。展签称，内外、明暗的对比在画中起重要作用。",
+        "与前后风格的关系和争论": "展签称，约1918年转向较少抽象、更“写实”的形式语言，不只是马蒂斯一人，巴黎画坛多位艺术家都有此转向。这是该馆的概括。",
+        "一图": "示意图以本画为中心，标示尼斯旅馆、抽象的室内、写实的窗外三项。",
+        "待核实": "（1）本条目事实只来自丹麦国家美术馆一家的藏品记录与丹麦语展签（2026-11-25 取回），译文为本项目所作，属单一机构来源，整条标记待核实。（2）中文题名为本项目所译；（3）“巴黎画坛普遍转向”为该馆概括。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='matisse-violin-interior 示意图'><title>matisse-violin-interior</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>尼斯旅馆</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>兼作画室</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>有小提琴的室内</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1918 油画</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>室内</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>抽象平面</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>窗外</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>自然主义</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据丹麦国家美术馆记录</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（SMK）来源；单一机构来源。"
+    },
+    {
+      "id": "gauguin-clovis-portrait",
+      "title": "高更《画家之子克洛维斯像》素描（1879—80）",
+      "kind": "作品",
+      "unit": "art-impression",
+      "era": "约1879—1880年",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "补充",
+      "def": "高更的黑粉笔儿童肖像素描；画中人是克洛维斯还是埃米尔，研究者有讨论。",
+      "when": "约1879—1880年",
+      "overview": "丹麦国家美术馆藏（KKS1965-72）。",
+      "related": [
+        "gauguin",
+        "post-impressionism"
+      ],
+      "sources": [
+        "smk-kks1965-72"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "据该馆记录，素描作于1879—1880年。",
+        "风格特征": "该馆记录未描述风格。",
+        "代表人物与作品": "展签引汉内·芬森（1967）：肖像所画必是克洛维斯（生于1879）或埃米尔（生于1874），但“可能”是前者，因为画法最符合约1878—80年。",
+        "技法或形式分析": "该馆记录：浅灰纸上黑粉笔，高 209 毫米、宽 266 毫米。",
+        "与前后风格的关系和争论": "展签称，芬森引一幅题有“保罗·高更作，巴黎1879，克洛维斯·高更像”的克洛维斯睡像（约同龄）为旁证；梅雷特·博德尔森又指出，这幅儿童头像与斯德哥尔摩国家博物馆藏约1880年高更速写本中的一页相似，背面人物也接近该速写本另一页。这是研究者的考证，像主身份仍是“可能”。",
+        "一图": "示意图以本素描为中心，标示克洛维斯或埃米尔、芬森考证、博德尔森旁证三项。",
+        "待核实": "（1）本条目事实只来自丹麦国家美术馆一家的藏品记录与丹麦语展签（2026-11-25 取回），译文为本项目所作，属单一机构来源，整条标记待核实。（2）像主身份未定；（3）标题按该馆题名，但其认定只是“可能”。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='gauguin-clovis-portrait 示意图'><title>gauguin-clovis-portrait</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>像主</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>克洛维斯或埃米尔</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>克洛维斯像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1879—80 素描</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>芬森</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>1967 考证</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>博德尔森</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>速写本旁证</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据丹麦国家美术馆记录</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（SMK）来源；单一机构来源；像主身份未定。"
+    },
+    {
+      "id": "picasso-door-guitar",
+      "title": "毕加索《有门、吉他与酒瓶的静物》（1916）",
+      "kind": "作品",
+      "unit": "art-modern",
+      "era": "1916年",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "毕加索1916年模仿拼贴效果的立体主义静物油画，一战期间由丹麦收藏家购入。",
+      "when": "1916年",
+      "overview": "丹麦国家美术馆藏（KMSr193）。",
+      "related": [
+        "picasso",
+        "cubism",
+        "braque-trees"
+      ],
+      "sources": [
+        "smk-kmsr193"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "据该馆记录，作品作于1916年。展签称，它在一战期间由丹麦收藏家克里斯蒂安·泰岑-伦购得。",
+        "风格特征": "展签称，画面是对一组吉他、两只瓶子与房间碎片的抽象；静物是立体主义者喜爱的母题，他们以此为起点，创作不那么关乎外部现实、而更关乎画面平面本身作为一种现实的构图。",
+        "代表人物与作品": "作者为毕加索。展签提到毕加索与布拉克。",
+        "技法或形式分析": "该馆记录：布面油画，高 60 厘米、宽 81 厘米。展签称，立体主义的开创性发明之一是拼贴：把不同纸张剪下贴在画布上；1913年后毕加索与布拉克开始玩弄错觉，画出模仿拼贴效果的画，本画即一例。",
+        "与前后风格的关系和争论": "展签称，这幅画对当时与巴黎艺术界隔绝的丹麦艺术家影响很大。",
+        "一图": "示意图以本画为中心，标示立体主义静物、模仿拼贴、丹麦收藏三项。",
+        "待核实": "（1）本条目事实只来自丹麦国家美术馆一家的藏品记录与丹麦语展签（2026-11-25 取回），译文为本项目所作，属单一机构来源，整条标记待核实。（2）中文题名为本项目所译。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='picasso-door-guitar 示意图'><title>picasso-door-guitar</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>立体主义静物</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>喜爱的母题</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>门·吉他·酒瓶</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1916 油画</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>模仿拼贴</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>1913年后</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>丹麦收藏</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>泰岑-伦</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据丹麦国家美术馆记录</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（SMK）来源；单一机构来源。"
+    },
+    {
+      "id": "degas-intimacy-monotype",
+      "title": "德加《亲密》单版画（1877—79）",
+      "kind": "作品",
+      "unit": "art-impression",
+      "era": "约1877—1879年",
+      "region": "欧洲",
+      "medium": "版画",
+      "tier": "补充",
+      "def": "德加的黑色单版画，表现剧场化妆间般空间里的女子与一旁的男子。",
+      "when": "约1877—1879年",
+      "overview": "丹麦国家美术馆藏（KKS9159）。",
+      "related": [
+        "degas",
+        "impressionism"
+      ],
+      "sources": [
+        "smk-kks9159"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "据该馆记录，作品作于1877—1879年。",
+        "风格特征": "展签称，德加的人物通常带有疏离的写实，冷静的观察似乎更着迷于身体作为对象的具体存在，而非其情色魅力；但这件单版画里的女性形象却散发出不可抗拒的情色丰盈。",
+        "代表人物与作品": "作者为德加。",
+        "技法或形式分析": "该馆记录：黑色单版画（monotype），高 119 毫米、宽 161 毫米。",
+        "与前后风格的关系和争论": "展签称，这种看似负面的目光“似乎证实了”德加厌女的说法；他画的女性是疲惫的妓女、洗衣熨衣女与舞者，可从社会文化角度理解为社会功能的图像；画面有剧场化妆间与假面的性质，以等待的男子的目光界定女子。展签明确提到“厌女”之说，这是一种评价，本条目照录不判断。",
+        "一图": "示意图以本作为中心，标示单版画、化妆间空间、厌女之说三项。",
+        "待核实": "（1）本条目事实只来自丹麦国家美术馆一家的藏品记录与丹麦语展签（2026-11-25 取回），译文为本项目所作，属单一机构来源，整条标记待核实。（2）“厌女”是展签转述的一种说法，属有争议的评价；（3）中文题名为本项目所译。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='degas-intimacy-monotype 示意图'><title>degas-intimacy-monotype</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>单版画</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>黑色</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>亲密</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1877—79</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>化妆间</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>剧场与假面</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>厌女之说</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>展签转述</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据丹麦国家美术馆记录</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（SMK）来源；单一机构来源；含争议性评价。"
+    },
+    {
+      "id": "braque-trees",
+      "title": "布拉克《树》（1908）",
+      "kind": "作品",
+      "unit": "art-modern",
+      "era": "1908年",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "布拉克1908年在莱斯塔克所作的早期立体主义风景。",
+      "when": "1908年",
+      "overview": "丹麦国家美术馆藏（KMSr7）。",
+      "related": [
+        "cubism",
+        "picasso-door-guitar"
+      ],
+      "sources": [
+        "smk-kmsr7"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "据该馆记录，作品作于1908年。展签称，画家那一年在渔村莱斯塔克一带作画。",
+        "风格特征": "展签称，树的形状与颜色仍可辨认，但一切都被简化为几何的“立体主义”形式，在目光中不安地倾倒翻滚，这片自然不再能轻易“走进去”。",
+        "代表人物与作品": "作者为乔治·布拉克。库内尚无布拉克人物条目。",
+        "技法或形式分析": "该馆记录：布面油画，高 73 厘米、宽 60 厘米。",
+        "与前后风格的关系和争论": "展签称，立体主义标志着艺术告别模仿；艺术中对风景的“毁坏”与工业化同时发生，自然科学也离开了此前稳定的世界图景。这是该馆的诠释。",
+        "一图": "示意图以本画为中心，标示莱斯塔克、几何化形式、告别模仿三项。",
+        "待核实": "（1）本条目事实只来自丹麦国家美术馆一家的藏品记录与丹麦语展签（2026-11-25 取回），译文为本项目所作，属单一机构来源，整条标记待核实。（2）与工业化、自然科学的类比为该馆诠释；（3）布拉克人物条目库内尚无。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='braque-trees 示意图'><title>braque-trees</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>莱斯塔克</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>作画地</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>树</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1908 油画</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>几何形式</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>立体主义</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>告别模仿</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>该馆诠释</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据丹麦国家美术馆记录</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（SMK）来源；单一机构来源。"
+    },
+    {
+      "id": "nolde-child-bird",
+      "title": "诺尔德《孩子与大鸟》（1912）",
+      "kind": "作品",
+      "unit": "art-modern",
+      "era": "1912年",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "补充",
+      "def": "德国表现主义画家诺尔德1912年的油画，以荒诞的比例与刺目的色彩著称。",
+      "when": "1912年",
+      "overview": "丹麦国家美术馆藏（KMS6204）。",
+      "related": [
+        "expressionism",
+        "munch"
+      ],
+      "sources": [
+        "smk-kms6204"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "据该馆记录，作品作于1912年。展签称，1912年的德国前景黯淡，一战迫在眉睫。",
+        "风格特征": "展签称，诺尔德约1912年的作品呈现怪诞的组合；本画比例超现实、人物组合荒诞；他用表现性的色彩，颜色“明亮、灼热、充满不和谐”。",
+        "代表人物与作品": "作者为埃米尔·诺尔德。展签称他是德国表现主义的主要代表之一，受德国象征主义画家阿诺德·伯克林阴郁幻象的启发。库内尚无诺尔德人物条目。",
+        "技法或形式分析": "该馆记录：布面油画，高 73.5 厘米、宽 88.5 厘米。展签称，鸟比孩子大得骇人，却被小女孩奇异的面相吓跑；女孩头大颈细身小。诺尔德1906年曾在一组木刻中处理同一母题，那时比例没有这么失真，色调为黑白。",
+        "与前后风格的关系和争论": "展签称，孩子“可以被解读为”驱走黑暗、死亡与战争的生命，以象征德国的鹰为例。这是该馆提出的一种解读。",
+        "一图": "示意图以本画为中心，标示怪诞比例、刺目色彩、一战前夕三项。",
+        "待核实": "（1）本条目事实只来自丹麦国家美术馆一家的藏品记录与丹麦语展签（2026-11-25 取回），译文为本项目所作，属单一机构来源，整条标记待核实。（2）象征解读是该馆的“可以解读为”；（3）诺尔德人物条目库内尚无。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='nolde-child-bird 示意图'><title>nolde-child-bird</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>怪诞比例</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>大鸟与小孩</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>孩子与大鸟</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1912 油画</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>刺目色彩</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>明亮而不和谐</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>一战前夕</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>展签解读</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据丹麦国家美术馆记录</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（SMK）来源；单一机构来源；象征解读为该馆提出。"
     }
   ]
 }

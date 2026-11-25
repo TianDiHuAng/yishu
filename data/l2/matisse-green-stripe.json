@@ -1,0 +1,19 @@
+{
+  "id": "matisse-green-stripe",
+  "level": "L2",
+  "sections": {
+    "时代背景": "据该馆记录，作品作于1905年。展签引该馆资深研究员多尔特·奥厄森的话：画“大概”作于1905年秋，马蒂斯在法国南部渔村科利乌尔与友人德兰度夏后回到巴黎，两人在那里投入越来越大胆的绘画实验，要让色彩摆脱描述功能，成为独立的力量。",
+    "风格特征": "展签称，这幅画之所以是代表作，是因为它显示了一幅画如何以极简单的手段获得极大的表现力；尤其是马蒂斯20世纪初作品特有的强烈色彩对比，使这幅小画具有巨大的视觉力量。",
+    "代表人物与作品": "画中人是马蒂斯的妻子阿梅莉。展签称它是20世纪肖像艺术的代表作之一，也是该馆十大重点藏品之一。",
+    "技法或形式分析": "该馆记录：布面油画，高 40.5 厘米、宽 32.5 厘米。",
+    "与前后风格的关系和争论": "展签称，该馆拥有法国以外世界上最大、最重要的马蒂斯收藏之一；一战前后哥本哈根有两位大收藏家，当时来到哥本哈根的画构成了今日藏品的基础。与野兽派的关系展签此段未明说，库内互链为本项目所加。",
+    "一图": "示意图以本画为中心，标示阿梅莉、科利乌尔与德兰、色彩对比三项。",
+    "待核实": "（1）本条目事实只来自丹麦国家美术馆一家的藏品记录与丹麦语展签（2026-11-25 取回），译文为本项目所作，属单一机构来源，整条标记待核实。（2）“大概”作于秋季为研究员的说法；（3）“最重要的收藏之一”为该馆自述。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='matisse-green-stripe 示意图'><title>matisse-green-stripe</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>阿梅莉</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>画中人</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>绿色条纹</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1905 肖像</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>科利乌尔</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>与德兰实验</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>色彩对比</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>表现力来源</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据丹麦国家美术馆记录</text></g></svg>",
+  "sources": [
+    "smk-kmsr171"
+  ],
+  "needs_verification": true,
+  "pending_notes": "单一机构（SMK）来源；单一机构来源；部分为该馆自述。"
+}

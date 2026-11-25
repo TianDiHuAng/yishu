@@ -1,0 +1,19 @@
+{
+  "id": "degas-intimacy-monotype",
+  "level": "L2",
+  "sections": {
+    "时代背景": "据该馆记录，作品作于1877—1879年。",
+    "风格特征": "展签称，德加的人物通常带有疏离的写实，冷静的观察似乎更着迷于身体作为对象的具体存在，而非其情色魅力；但这件单版画里的女性形象却散发出不可抗拒的情色丰盈。",
+    "代表人物与作品": "作者为德加。",
+    "技法或形式分析": "该馆记录：黑色单版画（monotype），高 119 毫米、宽 161 毫米。",
+    "与前后风格的关系和争论": "展签称，这种看似负面的目光“似乎证实了”德加厌女的说法；他画的女性是疲惫的妓女、洗衣熨衣女与舞者，可从社会文化角度理解为社会功能的图像；画面有剧场化妆间与假面的性质，以等待的男子的目光界定女子。展签明确提到“厌女”之说，这是一种评价，本条目照录不判断。",
+    "一图": "示意图以本作为中心，标示单版画、化妆间空间、厌女之说三项。",
+    "待核实": "（1）本条目事实只来自丹麦国家美术馆一家的藏品记录与丹麦语展签（2026-11-25 取回），译文为本项目所作，属单一机构来源，整条标记待核实。（2）“厌女”是展签转述的一种说法，属有争议的评价；（3）中文题名为本项目所译。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='degas-intimacy-monotype 示意图'><title>degas-intimacy-monotype</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>单版画</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>黑色</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>亲密</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1877—79</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>化妆间</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>剧场与假面</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>厌女之说</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>展签转述</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据丹麦国家美术馆记录</text></g></svg>",
+  "sources": [
+    "smk-kks9159"
+  ],
+  "needs_verification": true,
+  "pending_notes": "单一机构（SMK）来源；单一机构来源；含争议性评价。"
+}

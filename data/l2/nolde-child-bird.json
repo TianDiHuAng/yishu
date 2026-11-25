@@ -1,0 +1,19 @@
+{
+  "id": "nolde-child-bird",
+  "level": "L2",
+  "sections": {
+    "时代背景": "据该馆记录，作品作于1912年。展签称，1912年的德国前景黯淡，一战迫在眉睫。",
+    "风格特征": "展签称，诺尔德约1912年的作品呈现怪诞的组合；本画比例超现实、人物组合荒诞；他用表现性的色彩，颜色“明亮、灼热、充满不和谐”。",
+    "代表人物与作品": "作者为埃米尔·诺尔德。展签称他是德国表现主义的主要代表之一，受德国象征主义画家阿诺德·伯克林阴郁幻象的启发。库内尚无诺尔德人物条目。",
+    "技法或形式分析": "该馆记录：布面油画，高 73.5 厘米、宽 88.5 厘米。展签称，鸟比孩子大得骇人，却被小女孩奇异的面相吓跑；女孩头大颈细身小。诺尔德1906年曾在一组木刻中处理同一母题，那时比例没有这么失真，色调为黑白。",
+    "与前后风格的关系和争论": "展签称，孩子“可以被解读为”驱走黑暗、死亡与战争的生命，以象征德国的鹰为例。这是该馆提出的一种解读。",
+    "一图": "示意图以本画为中心，标示怪诞比例、刺目色彩、一战前夕三项。",
+    "待核实": "（1）本条目事实只来自丹麦国家美术馆一家的藏品记录与丹麦语展签（2026-11-25 取回），译文为本项目所作，属单一机构来源，整条标记待核实。（2）象征解读是该馆的“可以解读为”；（3）诺尔德人物条目库内尚无。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='nolde-child-bird 示意图'><title>nolde-child-bird</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>怪诞比例</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>大鸟与小孩</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>孩子与大鸟</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1912 油画</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>刺目色彩</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>明亮而不和谐</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>一战前夕</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>展签解读</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据丹麦国家美术馆记录</text></g></svg>",
+  "sources": [
+    "smk-kms6204"
+  ],
+  "needs_verification": true,
+  "pending_notes": "单一机构（SMK）来源；单一机构来源；象征解读为该馆提出。"
+}

@@ -911,7 +911,8 @@
         "pissarro-lock-pontoise",
         "monet-red-kerchief",
         "morisot-reading",
-        "renoir-apple-seller"
+        "renoir-apple-seller",
+        "degas-intimacy-monotype"
       ],
       "sources": [
         "enc-impressionism",
@@ -944,7 +945,8 @@
         "van-gogh-drenthe-wheelbarrow",
         "mondrian-field-young-trees",
         "nabis",
-        "vuillard-luncheon"
+        "vuillard-luncheon",
+        "gauguin-clovis-portrait"
       ],
       "sources": [
         "enc-post-impressionism",
@@ -1041,7 +1043,8 @@
         "post-impressionism",
         "cezanne",
         "nabis",
-        "munch"
+        "munch",
+        "gauguin-clovis-portrait"
       ],
       "sources": [
         "enc-gauguin",
@@ -1066,7 +1069,9 @@
         "matisse",
         "braque-estaque-port",
         "matisse-interior-etruscan",
-        "rouault-end-autumn"
+        "rouault-end-autumn",
+        "matisse-green-stripe",
+        "matisse-violin-interior"
       ],
       "sources": [
         "enc-fauvism",
@@ -1094,7 +1099,9 @@
         "klee-carnival-in-snow",
         "expressionism-music",
         "munch",
-        "expressionism-crossmedia"
+        "expressionism-crossmedia",
+        "munch-evening-talk",
+        "nolde-child-bird"
       ],
       "sources": [
         "enc-expressionism",
@@ -1122,7 +1129,9 @@
         "picasso-la-vie",
         "picasso-bottle-glass-fork",
         "mondrian-composition-rby-1927",
-        "constructivism-art"
+        "constructivism-art",
+        "picasso-door-guitar",
+        "braque-trees"
       ],
       "sources": [
         "enc-cubism",
@@ -1268,7 +1277,8 @@
         "modern-art",
         "guernica-work",
         "braque-violin-collage",
-        "picasso-la-vie"
+        "picasso-la-vie",
+        "picasso-door-guitar"
       ],
       "sources": [
         "enc-picasso",
@@ -1289,7 +1299,9 @@
       "overview": "代表作《舞蹈》《红色和谐》，追求色彩的平衡与装饰性愉悦。",
       "related": [
         "fauvism",
-        "modern-art"
+        "modern-art",
+        "matisse-green-stripe",
+        "matisse-violin-interior"
       ],
       "sources": [
         "enc-matisse",
@@ -3713,7 +3725,8 @@
         "impressionism",
         "monet",
         "degas-frieze-dancers",
-        "renoir-apple-seller"
+        "renoir-apple-seller",
+        "degas-intimacy-monotype"
       ],
       "sources": [
         "cma-1916-1043"
@@ -17199,7 +17212,9 @@
       "related": [
         "expressionism",
         "gauguin",
-        "van-gogh"
+        "van-gogh",
+        "munch-evening-talk",
+        "nolde-child-bird"
       ],
       "sources": [
         "enc-munch",
@@ -17481,6 +17496,167 @@
         "wd-noh",
         "enc-kabuki",
         "wd-kabuki"
+      ]
+    },
+    {
+      "id": "munch-evening-talk",
+      "title": "蒙克《傍晚的交谈》（1889）",
+      "kind": "作品",
+      "unit": "art-modern",
+      "era": "1889年",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "蒙克1889年夏在奥斯高斯特兰作的大幅油画，以一男一女的疏离表现情感的冷漠。",
+      "when": "1889年",
+      "overview": "丹麦国家美术馆藏（KMS2070）。",
+      "related": [
+        "munch",
+        "expressionism"
+      ],
+      "sources": [
+        "smk-kms2070"
+      ]
+    },
+    {
+      "id": "matisse-green-stripe",
+      "title": "马蒂斯《马蒂斯夫人像（绿色条纹）》（1905）",
+      "kind": "作品",
+      "unit": "art-modern",
+      "era": "1905年",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "马蒂斯为妻子阿梅莉所作的小幅肖像，以强烈色彩对比著称，丹麦国家美术馆十大重点藏品之一。",
+      "when": "1905年",
+      "overview": "丹麦国家美术馆藏（KMSr171）。",
+      "related": [
+        "matisse",
+        "fauvism"
+      ],
+      "sources": [
+        "smk-kmsr171"
+      ]
+    },
+    {
+      "id": "matisse-violin-interior",
+      "title": "马蒂斯《有小提琴的室内》（1918）",
+      "kind": "作品",
+      "unit": "art-modern",
+      "era": "1918年",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "补充",
+      "def": "马蒂斯1918年在尼斯旅馆房间所作的室内画，室内的抽象与窗外的写实形成对照。",
+      "when": "1918年",
+      "overview": "丹麦国家美术馆藏（KMSr83）。",
+      "related": [
+        "matisse",
+        "fauvism"
+      ],
+      "sources": [
+        "smk-kmsr83"
+      ]
+    },
+    {
+      "id": "gauguin-clovis-portrait",
+      "title": "高更《画家之子克洛维斯像》素描（1879—80）",
+      "kind": "作品",
+      "unit": "art-impression",
+      "era": "约1879—1880年",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "补充",
+      "def": "高更的黑粉笔儿童肖像素描；画中人是克洛维斯还是埃米尔，研究者有讨论。",
+      "when": "约1879—1880年",
+      "overview": "丹麦国家美术馆藏（KKS1965-72）。",
+      "related": [
+        "gauguin",
+        "post-impressionism"
+      ],
+      "sources": [
+        "smk-kks1965-72"
+      ]
+    },
+    {
+      "id": "picasso-door-guitar",
+      "title": "毕加索《有门、吉他与酒瓶的静物》（1916）",
+      "kind": "作品",
+      "unit": "art-modern",
+      "era": "1916年",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "毕加索1916年模仿拼贴效果的立体主义静物油画，一战期间由丹麦收藏家购入。",
+      "when": "1916年",
+      "overview": "丹麦国家美术馆藏（KMSr193）。",
+      "related": [
+        "picasso",
+        "cubism",
+        "braque-trees"
+      ],
+      "sources": [
+        "smk-kmsr193"
+      ]
+    },
+    {
+      "id": "degas-intimacy-monotype",
+      "title": "德加《亲密》单版画（1877—79）",
+      "kind": "作品",
+      "unit": "art-impression",
+      "era": "约1877—1879年",
+      "region": "欧洲",
+      "medium": "版画",
+      "tier": "补充",
+      "def": "德加的黑色单版画，表现剧场化妆间般空间里的女子与一旁的男子。",
+      "when": "约1877—1879年",
+      "overview": "丹麦国家美术馆藏（KKS9159）。",
+      "related": [
+        "degas",
+        "impressionism"
+      ],
+      "sources": [
+        "smk-kks9159"
+      ]
+    },
+    {
+      "id": "braque-trees",
+      "title": "布拉克《树》（1908）",
+      "kind": "作品",
+      "unit": "art-modern",
+      "era": "1908年",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "重要",
+      "def": "布拉克1908年在莱斯塔克所作的早期立体主义风景。",
+      "when": "1908年",
+      "overview": "丹麦国家美术馆藏（KMSr7）。",
+      "related": [
+        "cubism",
+        "picasso-door-guitar"
+      ],
+      "sources": [
+        "smk-kmsr7"
+      ]
+    },
+    {
+      "id": "nolde-child-bird",
+      "title": "诺尔德《孩子与大鸟》（1912）",
+      "kind": "作品",
+      "unit": "art-modern",
+      "era": "1912年",
+      "region": "欧洲",
+      "medium": "绘画",
+      "tier": "补充",
+      "def": "德国表现主义画家诺尔德1912年的油画，以荒诞的比例与刺目的色彩著称。",
+      "when": "1912年",
+      "overview": "丹麦国家美术馆藏（KMS6204）。",
+      "related": [
+        "expressionism",
+        "munch"
+      ],
+      "sources": [
+        "smk-kms6204"
       ]
     }
   ]
