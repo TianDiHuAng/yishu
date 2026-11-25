@@ -1,0 +1,20 @@
+{
+  "id": "borobudur",
+  "level": "L2",
+  "sections": {
+    "时代背景": "导言称，婆罗浮屠建于夏连特拉王朝时期，位于日惹西北、文池兰镇附近的马格朗县。",
+    "风格特征": "导言称，寺庙设计遵循爪哇佛教建筑。导言此处被截断，后文未读到，本条目不补写。",
+    "代表人物与作品": "导言称，寺庙饰有2672块浮雕板，原有504尊佛像；中央佛塔周围有72尊佛像，各坐于镂空小佛塔中。",
+    "技法或形式分析": "导言称，它以灰色类安山岩石材建造，由六层方形、三层圆形共九层平台叠成，顶部为中央穹顶；阶梯与回廊系统引导朝圣者，墙面与栏杆上有1460块叙事浮雕。",
+    "与前后风格的关系和争论": "导言称，婆罗浮屠拥有世界上最大规模的佛教浮雕收藏之一。",
+    "一图": "示意图以婆罗浮屠为中心，标示九层平台、2672块浮雕、72座镂空佛塔三项。",
+    "待核实": "（1）本条目事实仅来自 Wikipedia 导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）导言在“融合……”处截断，设计渊源未读全。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='borobudur 示意图'><title>borobudur</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>九层平台</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>六方三圆</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>婆罗浮屠</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>9世纪大乘寺庙</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>浮雕</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>2672块</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>镂空佛塔</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>72尊佛像</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+  "sources": [
+    "enc-borobudur",
+    "wd-borobudur"
+  ],
+  "needs_verification": true,
+  "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；设计渊源未读全。"
+}

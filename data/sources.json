@@ -11679,6 +11679,326 @@
       "type": "权威结构化数据",
       "verified": true,
       "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-handel",
+      "title": "George Frideric Handel",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/George_Frideric_Handel",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia API（prop=extracts&exintro）取回整段导言，页面标题与 QID 匹配；缓存于 data/_cache/wp/intro_*.json"
+    },
+    {
+      "id": "wd-handel",
+      "title": "Wikidata: George Frideric Handel (Q7302)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q7302",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-verdi",
+      "title": "Giuseppe Verdi",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Giuseppe_Verdi",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia API（prop=extracts&exintro）取回整段导言，页面标题与 QID 匹配；缓存于 data/_cache/wp/intro_*.json"
+    },
+    {
+      "id": "wd-verdi",
+      "title": "Wikidata: Giuseppe Verdi (Q7317)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q7317",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-titian",
+      "title": "Titian",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Titian",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia API（prop=extracts&exintro）取回整段导言，页面标题与 QID 匹配；缓存于 data/_cache/wp/intro_*.json"
+    },
+    {
+      "id": "wd-titian",
+      "title": "Wikidata: Titian (Q47551)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q47551",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-duchamp",
+      "title": "Marcel Duchamp",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Marcel_Duchamp",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia API（prop=extracts&exintro）取回整段导言，页面标题与 QID 匹配；缓存于 data/_cache/wp/intro_*.json"
+    },
+    {
+      "id": "wd-duchamp",
+      "title": "Wikidata: Marcel Duchamp (Q5912)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q5912",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-jan-van-eyck",
+      "title": "Jan van Eyck",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Jan_van_Eyck",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia API（prop=extracts&exintro）取回整段导言，页面标题与 QID 匹配；缓存于 data/_cache/wp/intro_*.json"
+    },
+    {
+      "id": "wd-jan-van-eyck",
+      "title": "Wikidata: Jan van Eyck (Q102272)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q102272",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-bernini",
+      "title": "Gian Lorenzo Bernini",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Gian_Lorenzo_Bernini",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia API（prop=extracts&exintro）取回整段导言，页面标题与 QID 匹配；缓存于 data/_cache/wp/intro_*.json"
+    },
+    {
+      "id": "wd-bernini",
+      "title": "Wikidata: Gian Lorenzo Bernini (Q160538)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q160538",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-jacques-louis-david",
+      "title": "Jacques-Louis David",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Jacques-Louis_David",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia API（prop=extracts&exintro）取回整段导言，页面标题与 QID 匹配；缓存于 data/_cache/wp/intro_*.json"
+    },
+    {
+      "id": "wd-jacques-louis-david",
+      "title": "Wikidata: Jacques-Louis David (Q83155)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q83155",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-munch",
+      "title": "Edvard Munch",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Edvard_Munch",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia API（prop=extracts&exintro）取回整段导言，页面标题与 QID 匹配；缓存于 data/_cache/wp/intro_*.json"
+    },
+    {
+      "id": "wd-munch",
+      "title": "Wikidata: Edvard Munch (Q41406)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q41406",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-sibelius",
+      "title": "Jean Sibelius",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Jean_Sibelius",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia API（prop=extracts&exintro）取回整段导言，页面标题与 QID 匹配；缓存于 data/_cache/wp/intro_*.json"
+    },
+    {
+      "id": "wd-sibelius",
+      "title": "Wikidata: Jean Sibelius (Q45682)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q45682",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-ravel",
+      "title": "Maurice Ravel",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Maurice_Ravel",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia API（prop=extracts&exintro）取回整段导言，页面标题与 QID 匹配；缓存于 data/_cache/wp/intro_*.json"
+    },
+    {
+      "id": "wd-ravel",
+      "title": "Wikidata: Maurice Ravel (Q1178)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q1178",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-shostakovich",
+      "title": "Dmitri Shostakovich",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Dmitri_Shostakovich",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia API（prop=extracts&exintro）取回整段导言，页面标题与 QID 匹配；缓存于 data/_cache/wp/intro_*.json"
+    },
+    {
+      "id": "wd-shostakovich",
+      "title": "Wikidata: Dmitri Shostakovich (Q80135)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q80135",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-borobudur",
+      "title": "Borobudur",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Borobudur",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia API（prop=extracts&exintro）取回整段导言，页面标题与 QID 匹配；缓存于 data/_cache/wp/intro_*.json"
+    },
+    {
+      "id": "wd-borobudur",
+      "title": "Wikidata: Borobudur (Q42798)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q42798",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-de-stijl",
+      "title": "De Stijl",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/De_Stijl",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia API（prop=extracts&exintro）取回整段导言，页面标题与 QID 匹配；缓存于 data/_cache/wp/intro_*.json"
+    },
+    {
+      "id": "wd-de-stijl",
+      "title": "Wikidata: De Stijl (Q207445)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q207445",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-kabuki",
+      "title": "Kabuki",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Kabuki",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia API（prop=extracts&exintro）取回整段导言，页面标题与 QID 匹配；缓存于 data/_cache/wp/intro_*.json"
+    },
+    {
+      "id": "wd-kabuki",
+      "title": "Wikidata: Kabuki (Q199701)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q199701",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-persian-miniature",
+      "title": "Persian miniature",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Persian_miniature",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia API（prop=extracts&exintro）取回整段导言，页面标题与 QID 匹配；缓存于 data/_cache/wp/intro_*.json"
+    },
+    {
+      "id": "wd-persian-miniature",
+      "title": "Wikidata: Persian miniature (Q678664)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q678664",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-cantata",
+      "title": "Cantata",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Cantata",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia API（prop=extracts&exintro）取回整段导言，页面标题与 QID 匹配；缓存于 data/_cache/wp/intro_*.json"
+    },
+    {
+      "id": "wd-cantata",
+      "title": "Wikidata: Cantata (Q174873)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q174873",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
     }
   ]
 }

@@ -631,7 +631,8 @@
         "andrea-sacrifice-of-isaac",
         "veronese-barbarigo-portrait",
         "fresco",
-        "contrapposto"
+        "contrapposto",
+        "titian"
       ],
       "sources": [
         "enc-high-renaissance",
@@ -667,7 +668,8 @@
         "high-renaissance",
         "mannerism",
         "botticelli",
-        "veronese-barbarigo-portrait"
+        "veronese-barbarigo-portrait",
+        "titian"
       ],
       "sources": [
         "enc-venetian-school",
@@ -708,7 +710,8 @@
         "oil-painting",
         "durer",
         "bosch",
-        "bruegel"
+        "bruegel",
+        "jan-van-eyck"
       ],
       "sources": [
         "enc-northern-renaissance",
@@ -894,7 +897,8 @@
         "high-renaissance",
         "leonardo",
         "durer",
-        "pre-raphaelite"
+        "pre-raphaelite",
+        "titian"
       ],
       "sources": [
         "enc-raphael",
@@ -1022,7 +1026,8 @@
         "ochtervelt-musical-company",
         "still-life",
         "baroque-architecture",
-        "dutch-architecture"
+        "dutch-architecture",
+        "bernini"
       ],
       "sources": [
         "enc-baroque",
@@ -1063,7 +1068,8 @@
         "claude-rest-flight-egypt",
         "baroque-architecture",
         "watteau",
-        "watteau-italian-clothes"
+        "watteau-italian-clothes",
+        "jacques-louis-david"
       ],
       "sources": [
         "enc-rococo",
@@ -1104,7 +1110,8 @@
         "parodi-sleeping-christ",
         "liss-cupid",
         "chiaroscuro",
-        "tenebrism"
+        "tenebrism",
+        "bernini"
       ],
       "sources": [
         "enc-caravaggio",
@@ -1347,7 +1354,8 @@
         "classical-crossmedia",
         "neoclassical-architecture",
         "beaux-arts-architecture",
-        "neoclassicism-music"
+        "neoclassicism-music",
+        "jacques-louis-david"
       ],
       "sources": [
         "enc-neoclassicism",
@@ -1747,7 +1755,8 @@
         "post-impressionism",
         "expressionism",
         "starry-night",
-        "hokusai"
+        "hokusai",
+        "munch"
       ],
       "sources": [
         "enc-van-gogh",
@@ -1818,7 +1827,8 @@
       "related": [
         "post-impressionism",
         "cezanne",
-        "nabis"
+        "nabis",
+        "munch"
       ],
       "sources": [
         "enc-gauguin",
@@ -1895,7 +1905,8 @@
         "kandinsky",
         "klee-with-the-dot",
         "klee-carnival-in-snow",
-        "expressionism-music"
+        "expressionism-music",
+        "munch"
       ],
       "sources": [
         "enc-expressionism",
@@ -2006,7 +2017,8 @@
         "futurism",
         "surrealism",
         "rauschenberg-gloria",
-        "performance-art"
+        "performance-art",
+        "duchamp"
       ],
       "sources": [
         "enc-dada",
@@ -2042,7 +2054,8 @@
         "dada",
         "abstract-expressionism",
         "dali",
-        "frida-kahlo"
+        "frida-kahlo",
+        "duchamp"
       ],
       "sources": [
         "enc-surrealism",
@@ -2079,7 +2092,8 @@
         "minimalism",
         "art-deco",
         "modern-architecture",
-        "constructivism-art"
+        "constructivism-art",
+        "de-stijl"
       ],
       "sources": [
         "enc-bauhaus",
@@ -2458,7 +2472,8 @@
         "lewitt-wall-drawing-4",
         "land-art",
         "fluxus",
-        "arte-povera"
+        "arte-povera",
+        "duchamp"
       ],
       "sources": [
         "enc-conceptual-art",
@@ -3644,7 +3659,8 @@
         "lully",
         "grand-opera",
         "puccini",
-        "overture"
+        "overture",
+        "verdi"
       ],
       "sources": [
         "enc-opera",
@@ -3786,7 +3802,9 @@
         "counterpoint",
         "vivaldi",
         "telemann",
-        "suite-music"
+        "suite-music",
+        "handel",
+        "cantata"
       ],
       "sources": [
         "enc-bach",
@@ -3907,7 +3925,9 @@
         "concerto",
         "mahler",
         "mendelssohn",
-        "dvorak"
+        "dvorak",
+        "sibelius",
+        "shostakovich"
       ],
       "sources": [
         "enc-symphony",
@@ -4373,7 +4393,8 @@
         "romantic-music",
         "debussy",
         "impression-crossmedia",
-        "expressionism-music"
+        "expressionism-music",
+        "ravel"
       ],
       "sources": [
         "enc-20th-century-classical",
@@ -4483,7 +4504,8 @@
         "serialism",
         "rite-of-spring-work",
         "prokofiev",
-        "neoclassicism-music"
+        "neoclassicism-music",
+        "shostakovich"
       ],
       "sources": [
         "enc-stravinsky",
@@ -4555,7 +4577,8 @@
       "overview": "代表作《牧神午后前奏曲》《大海》，以音色与和声色彩营造朦胧意象。",
       "related": [
         "impressionism-music",
-        "20th-century-classical"
+        "20th-century-classical",
+        "ravel"
       ],
       "sources": [
         "enc-20th-century-classical",
@@ -5374,6 +5397,7 @@
         "buddhist-art-india",
         "khmer-architecture",
         "gupta-art",
+        "borobudur",
         "champa-planetary-deity"
       ],
       "sources": [
@@ -5410,7 +5434,8 @@
         "khmer-architecture",
         "khmer-thai-fruit-jar",
         "chinese-architecture",
-        "gupta-art"
+        "gupta-art",
+        "borobudur"
       ],
       "sources": [
         "enc-angkor",
@@ -5510,7 +5535,8 @@
         "japanese-architecture",
         "klimt",
         "hokusai",
-        "kano-school"
+        "kano-school",
+        "kabuki"
       ],
       "sources": [
         "enc-ukiyo-e",
@@ -6131,7 +6157,8 @@
       "related": [
         "neoclassicism",
         "delacroix",
-        "ingres-antiochus-stratonice"
+        "ingres-antiochus-stratonice",
+        "jacques-louis-david"
       ],
       "sources": [
         "cma-artist-ingres",
@@ -19578,7 +19605,8 @@
         "modern-art",
         "cubism",
         "mondrian-field-young-trees",
-        "mondrian"
+        "mondrian",
+        "de-stijl"
       ],
       "sources": [
         "cma-1967-215"
@@ -21907,7 +21935,8 @@
         "renaissance-architecture",
         "neoclassical-architecture",
         "beaux-arts-architecture",
-        "spanish-architecture"
+        "spanish-architecture",
+        "bernini"
       ],
       "sources": [
         "enc-baroque-architecture",
@@ -22179,7 +22208,8 @@
         "tchaikovsky",
         "corelli",
         "telemann",
-        "suite-music"
+        "suite-music",
+        "handel"
       ],
       "sources": [
         "enc-concerto",
@@ -22553,7 +22583,8 @@
       "related": [
         "baroque-music",
         "concerto",
-        "bach"
+        "bach",
+        "handel"
       ],
       "sources": [
         "enc-vivaldi",
@@ -23155,7 +23186,8 @@
       "related": [
         "baroque-music",
         "bach",
-        "concerto"
+        "concerto",
+        "cantata"
       ],
       "sources": [
         "enc-telemann",
@@ -23445,7 +23477,8 @@
       "related": [
         "20th-century-classical",
         "stravinsky",
-        "tchaikovsky"
+        "tchaikovsky",
+        "shostakovich"
       ],
       "sources": [
         "enc-prokofiev",
@@ -23699,7 +23732,8 @@
       "related": [
         "romantic-music",
         "wagner",
-        "opera"
+        "opera",
+        "verdi"
       ],
       "sources": [
         "enc-grand-opera",
@@ -24131,7 +24165,8 @@
         "kandinsky",
         "frida-kahlo",
         "pollock",
-        "klimt"
+        "klimt",
+        "de-stijl"
       ],
       "sources": [
         "enc-mondrian",
@@ -24348,7 +24383,8 @@
       "related": [
         "northern-renaissance",
         "bruegel",
-        "bruegel-rabbit-hunt"
+        "bruegel-rabbit-hunt",
+        "jan-van-eyck"
       ],
       "sources": [
         "enc-bosch",
@@ -24383,7 +24419,8 @@
       "related": [
         "northern-renaissance",
         "bosch",
-        "bruegel-rabbit-hunt"
+        "bruegel-rabbit-hunt",
+        "jan-van-eyck"
       ],
       "sources": [
         "enc-bruegel",
@@ -24703,7 +24740,8 @@
       "related": [
         "insular-art",
         "carolingian-art",
-        "gothic"
+        "gothic",
+        "persian-miniature"
       ],
       "sources": [
         "enc-illuminated-manuscript",
@@ -24954,7 +24992,8 @@
       "related": [
         "opera",
         "romantic-music",
-        "wagner"
+        "wagner",
+        "verdi"
       ],
       "sources": [
         "enc-puccini",
@@ -24990,7 +25029,8 @@
         "dvorak",
         "symphonic-poem",
         "program-music",
-        "grieg"
+        "grieg",
+        "sibelius"
       ],
       "sources": [
         "enc-smetana",
@@ -25025,7 +25065,8 @@
       "related": [
         "smetana",
         "dvorak",
-        "romantic-music"
+        "romantic-music",
+        "sibelius"
       ],
       "sources": [
         "enc-grieg",
@@ -25270,7 +25311,8 @@
       "related": [
         "stravinsky",
         "romantic-music",
-        "neoclassicism"
+        "neoclassicism",
+        "ravel"
       ],
       "sources": [
         "enc-neoclassicism-music",
@@ -25621,7 +25663,8 @@
       "related": [
         "mughal-architecture",
         "khmer-art",
-        "angkor"
+        "angkor",
+        "borobudur"
       ],
       "sources": [
         "enc-gupta-art",
@@ -25691,7 +25734,8 @@
         "mughal-architecture",
         "mughal-alamgir-portrait",
         "rajput-painting",
-        "mughal-royal-ram"
+        "mughal-royal-ram",
+        "persian-miniature"
       ],
       "sources": [
         "enc-mughal-painting",
@@ -25727,7 +25771,8 @@
       "related": [
         "arabesque",
         "islamic-architecture",
-        "china-calligraphy-history"
+        "china-calligraphy-history",
+        "persian-miniature"
       ],
       "sources": [
         "enc-islamic-calligraphy",
@@ -25902,7 +25947,8 @@
         "ukiyo-e",
         "hokusai",
         "japanese-architecture",
-        "kano-four-accomplishments"
+        "kano-four-accomplishments",
+        "kabuki"
       ],
       "sources": [
         "enc-kano-school",
@@ -26257,7 +26303,8 @@
       "related": [
         "kunqu",
         "shakuhachi",
-        "koto-instrument"
+        "koto-instrument",
+        "kabuki"
       ],
       "sources": [
         "enc-noh",
@@ -27235,6 +27282,565 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='zhao-ji 示意图'><title>zhao-ji</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>北宋皇帝</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1100—1126在位</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>宋徽宗</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1082—1135</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>瘦金书</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>自创</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>多艺</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>古琴·绘画等</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；书画作品未给出。"
+    },
+    {
+      "id": "handel",
+      "title": "亨德尔（George Frideric Handel）",
+      "kind": "人物",
+      "unit": "music-baroque",
+      "era": "18世纪",
+      "region": "德国·英国",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "德裔英国巴洛克作曲家，以歌剧、清唱剧、圣歌、大协奏曲与管风琴协奏曲著称。",
+      "when": "1685—1759",
+      "overview": "亨德尔是德裔英国巴洛克作曲家。",
+      "related": [
+        "bach",
+        "vivaldi",
+        "concerto"
+      ],
+      "sources": [
+        "enc-handel",
+        "wd-handel"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "导言称，亨德尔（1685—1759）生于哈雷，早年在汉堡与意大利，1712年定居伦敦，1727年入籍英国。",
+        "风格特征": "导言称，他深受中德复调合唱传统与意大利巴洛克作曲家影响，其音乐是“盛期巴洛克”风格的高峰之一。",
+        "代表人物与作品": "导言称，他以歌剧、清唱剧、圣歌、大协奏曲与管风琴协奏曲著称。具体作品名导言前段未列。",
+        "技法或形式分析": "导言称，他把意大利歌剧推向最高发展，创立了英语清唱剧与管风琴协奏曲体裁，并为英国教会音乐引入新风格。",
+        "与前后风格的关系和争论": "导言称，他一贯被公认为同时代最伟大的作曲家之一。这是评价性表述。",
+        "一图": "示意图以亨德尔为中心，标示意大利歌剧、英语清唱剧、伦敦三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“创立英语清唱剧”等为导言的概括，未核验；（3）具体作品未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='handel 示意图'><title>handel</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>意大利歌剧</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>推向最高发展</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>亨德尔</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1685—1759</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>英语清唱剧</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>被认为创立</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>伦敦</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>1712年定居</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；作品未给出；“创立”说未核验。"
+    },
+    {
+      "id": "verdi",
+      "title": "威尔第（Giuseppe Verdi）",
+      "kind": "人物",
+      "unit": "music-romantic",
+      "era": "19世纪",
+      "region": "意大利",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "意大利作曲家，以歌剧著称，在罗西尼、贝利尼、多尼采蒂之后主导意大利歌剧。",
+      "when": "1813—1901",
+      "overview": "威尔第是以歌剧最为知名的意大利作曲家。",
+      "related": [
+        "puccini",
+        "grand-opera",
+        "opera"
+      ],
+      "sources": [
+        "enc-verdi",
+        "wd-verdi"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "导言称，威尔第（1813—1901）生于帕尔马省布塞托附近的小康之家，靠当地赞助人巴雷齐的帮助接受音乐教育。",
+        "风格特征": "摘要没有给出这方面内容，本条目不补写。",
+        "代表人物与作品": "导言提到早期歌剧《纳布科》（1842）中的合唱《飞吧，思想》。其余作品导言前段未列。",
+        "技法或形式分析": "摘要没有给出这方面内容，本条目不补写。",
+        "与前后风格的关系和争论": "导言称，他深受罗西尼、贝利尼、多尼采蒂与法国大歌剧（尤其梅耶贝尔、斯蓬蒂尼）影响；早期歌剧表现出对意大利统一运动（复兴运动）的同情，他还短暂当选过政治人物。",
+        "一图": "示意图以威尔第为中心，标示意大利前辈、法国大歌剧、复兴运动三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）风格特征导言前段未给出；（3）生日导言作“9或10日”，本条目只写年份。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='verdi 示意图'><title>verdi</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>罗西尼等</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>前辈影响</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>威尔第</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1813—1901</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>大歌剧</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>法国影响</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>复兴运动</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>早期同情</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；风格未给出。"
+    },
+    {
+      "id": "titian",
+      "title": "提香（Titian）",
+      "kind": "人物",
+      "unit": "art-renaissance",
+      "era": "16世纪",
+      "region": "意大利（威尼斯）",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "意大利文艺复兴画家，被视为威尼斯文艺复兴绘画最重要的艺术家。",
+      "when": "约1488/1490—1576",
+      "overview": "提香是意大利文艺复兴画家。",
+      "related": [
+        "venetian-school",
+        "high-renaissance",
+        "raphael"
+      ],
+      "sources": [
+        "enc-titian",
+        "wd-titian"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "导言称，提香（约1488/1490—1576）生于贝卢诺附近的皮耶韦迪卡多雷。",
+        "风格特征": "导言称，他是意大利画家中最多面者之一，肖像、风景背景、神话与宗教题材同样擅长。",
+        "代表人物与作品": "导言称，赞助人起初来自威尼斯及其属地，继而有北意大利诸侯，最后是哈布斯堡王室与教廷。具体作品导言前段未列。",
+        "技法或形式分析": "导言称，他的绘画方法，尤其是色彩的施用，不仅深刻影响意大利文艺复兴晚期画家，也影响后世西方艺术家。",
+        "与前后风格的关系和争论": "导言称，他与乔尔乔内被视为威尼斯画派的奠基者。",
+        "一图": "示意图以提香为中心，标示威尼斯画派、色彩方法、哈布斯堡与教廷三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）具体作品未给出；（3）“最重要”为评价性表述。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='titian 示意图'><title>titian</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>威尼斯画派</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>与乔尔乔内奠基</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>提香</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>约1488/90—1576</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>色彩</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>影响深远</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>赞助人</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>哈布斯堡·教廷</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；作品未给出。"
+    },
+    {
+      "id": "duchamp",
+      "title": "杜尚（Marcel Duchamp）",
+      "kind": "人物",
+      "unit": "art-modern",
+      "era": "20世纪",
+      "region": "法国·美国",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "法裔美国艺术家、棋手与发明家，在美国先锋艺术发展中起关键作用。",
+      "when": "1887—1968",
+      "overview": "杜尚是法裔美国艺术家、棋手与发明家。",
+      "related": [
+        "dada",
+        "conceptual-art",
+        "surrealism"
+      ],
+      "sources": [
+        "enc-duchamp",
+        "wd-duchamp"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "导言称，杜尚（1887—1968）晚年25年住在纽约，在美国与纽约先锋艺术的发展中起关键作用。",
+        "风格特征": "摘要没有给出这方面内容，本条目不补写。",
+        "代表人物与作品": "导言称，他以反艺术作品《泉》著称：他在一个小便池上署名“R. Mutt 1917”。",
+        "技法或形式分析": "摘要没有给出这方面内容，本条目不补写。",
+        "与前后风格的关系和争论": "导言引他在休斯敦美国艺术联合会的演讲《论创造性行为》：艺术创造有两极，一端是艺术家，另一端是后来成为后世的观者；若把艺术家看作媒介，就得否认他在审美层面上对所做之事有自觉，他在执行中的决定全凭直觉。这是杜尚本人的说法，经导言转引。",
+        "一图": "示意图以杜尚为中心，标示《泉》、反艺术、艺术家与观者两极三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）演讲引文为转引；（3）与达达、观念艺术的关系导言前段未述，库内互链为本项目所加。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='duchamp 示意图'><title>duchamp</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>泉</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1917 署名R. Mutt</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>杜尚</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1887—1968</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>反艺术</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>代表</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>两极</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>艺术家与观者</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；引文为转引。"
+    },
+    {
+      "id": "jan-van-eyck",
+      "title": "扬·凡·艾克（Jan van Eyck）",
+      "kind": "人物",
+      "unit": "art-renaissance",
+      "era": "15世纪",
+      "region": "尼德兰（布鲁日）",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "活跃于布鲁日的早期尼德兰画家，早期北方文艺复兴的最高人物之一。",
+      "when": "约1390—1441",
+      "overview": "扬·凡·艾克是活跃于布鲁日的早期尼德兰画家。",
+      "related": [
+        "northern-renaissance",
+        "bosch",
+        "bruegel"
+      ],
+      "sources": [
+        "enc-jan-van-eyck",
+        "wd-jan-van-eyck"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "导言称，他约生于1380或1390年（存世记录如此），卒于1441年，出生地可能是今比利时的马赛克，其名由此而来。",
+        "风格特征": "摘要没有给出这方面内容，本条目不补写。",
+        "代表人物与作品": "导言称，约1422年他受雇于海牙，为荷兰与埃诺伯爵约翰三世作画师兼侍从；约翰死后（1425）被任命为勃艮第公爵“好人”菲利普的宫廷画家。作品导言前段未列。",
+        "技法或形式分析": "摘要没有给出这方面内容，本条目不补写。",
+        "与前后风格的关系和争论": "导言称，瓦萨里、贡布里希等人称他为“油画的发明者”，但这一说法如今被认为过于简化。这是导言明说的修正。",
+        "一图": "示意图以凡·艾克为中心，标示早期尼德兰绘画、勃艮第宫廷、“油画发明者”之说三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）出生年有约1380与约1390两说，本条目 when 取约1390；（3）作品未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='jan-van-eyck 示意图'><title>jan-van-eyck</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>早期尼德兰</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>早期革新者</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>凡·艾克</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>约1390—1441</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>勃艮第宫廷</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>宫廷画家</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>油画发明者</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>已被视为过简</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；生年两说；作品未给出。"
+    },
+    {
+      "id": "bernini",
+      "title": "贝尔尼尼（Gian Lorenzo Bernini）",
+      "kind": "人物",
+      "unit": "art-baroque",
+      "era": "17世纪",
+      "region": "意大利",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "意大利雕塑家、建筑师、画家与城市规划者，被认为开创了巴洛克雕塑风格。",
+      "when": "1598—1680",
+      "overview": "贝尔尼尼是意大利雕塑家、建筑师、画家与城市规划者。",
+      "related": [
+        "baroque",
+        "caravaggio",
+        "baroque-architecture"
+      ],
+      "sources": [
+        "enc-bernini",
+        "wd-bernini"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "导言称，贝尔尼尼（1598—1680）在多个艺术领域的才能使他被视为“全才”（uomo universale）。",
+        "风格特征": "摘要没有给出这方面内容，本条目不补写。",
+        "代表人物与作品": "导言称，他也作画（多为小幅油画），还是戏剧人：编写、导演并出演戏剧（多为狂欢节讽刺剧），并设计布景。具体作品导言前段未列。",
+        "技法或形式分析": "摘要没有给出这方面内容，本条目不补写。",
+        "与前后风格的关系和争论": "导言称，他虽是建筑界的重要人物，但更突出的身份是同时代首屈一指的雕塑家，被认为开创了巴洛克雕塑风格；导言引一位学者的话，把他比作“雕塑界的莎士比亚”。这是转引的评价。",
+        "一图": "示意图以贝尔尼尼为中心，标示巴洛克雕塑、建筑、戏剧三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“开创巴洛克雕塑”与“莎士比亚”之比为评价与转引；（3）作品未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='bernini 示意图'><title>bernini</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>巴洛克雕塑</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>被认为开创</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>贝尔尼尼</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1598—1680</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>建筑</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>重要人物</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>戏剧</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>编导演</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；作品未给出；评价为转引。"
+    },
+    {
+      "id": "jacques-louis-david",
+      "title": "雅克-路易·大卫（Jacques-Louis David）",
+      "kind": "人物",
+      "unit": "art-neo-romantic",
+      "era": "18世纪末—19世纪初",
+      "region": "法国",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "法国新古典主义画家，被视为那个时代首屈一指的画家。",
+      "when": "1748—1825",
+      "overview": "雅克-路易·大卫是新古典主义风格的法国画家。",
+      "related": [
+        "neoclassicism",
+        "ingres",
+        "rococo"
+      ],
+      "sources": [
+        "enc-jacques-louis-david",
+        "wd-jacques-louis-david"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "导言称，大卫（1748—1825）后来积极支持法国大革命，是罗伯斯庇尔的朋友，在共和国时期实际上是“艺术的独裁者”；罗伯斯庇尔倒台后入狱，获释后又投向拿破仑政权，波旁复辟后流亡。",
+        "风格特征": "导言称，1780年代他那种理性的历史画，标志着趣味从洛可可的轻浮转向古典的简朴、严峻与强化的情感，与旧制度末年的道德气候相契合。",
+        "代表人物与作品": "导言没有列举作品名，本条目不补写。",
+        "技法或形式分析": "导言称，拿破仑时期他发展出“帝国风格”，以使用温暖的威尼斯式色彩著称。",
+        "与前后风格的关系和争论": "“艺术的独裁者”与“轻浮”都是导言带评价色彩的措辞，本条目照录。",
+        "一图": "示意图以大卫为中心，标示洛可可、法国大革命、帝国风格三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）作品未给出；（3）评价性措辞未核验。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='jacques-louis-david 示意图'><title>jacques-louis-david</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>洛可可</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>被取代的趣味</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>大卫</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1748—1825</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>大革命</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>积极支持</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>帝国风格</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>拿破仑时期</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；作品未给出。"
+    },
+    {
+      "id": "munch",
+      "title": "蒙克（Edvard Munch）",
+      "kind": "人物",
+      "unit": "art-modern",
+      "era": "19世纪末—20世纪",
+      "region": "挪威",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "挪威画家，1893年作品《呐喊》成为西方艺术最具标志性的图像之一。",
+      "when": "1863—1944",
+      "overview": "蒙克是挪威画家。",
+      "related": [
+        "expressionism",
+        "gauguin",
+        "van-gogh"
+      ],
+      "sources": [
+        "enc-munch",
+        "wd-munch"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "导言称，蒙克（1863—1944）童年笼罩在疾病、丧亲与害怕遗传家族精神疾病的恐惧之中。",
+        "风格特征": "导言称，他在克里斯蒂安尼亚（奥斯陆）求学时，受虚无主义者汉斯·耶格尔影响过着波希米亚生活，耶格尔敦促他描绘自己的情感与心理状态（“灵魂绘画”），他独特的风格由此产生。",
+        "代表人物与作品": "导言称，1893年的《呐喊》已成为全部西方艺术中最具标志性、最受赞誉的图像之一；在柏林他开始一组后来称为《生命的饰带》的大型系列。",
+        "技法或形式分析": "导言称，在巴黎他从高更、梵高与劳特累克那里学到很多，尤其是用色。",
+        "与前后风格的关系和争论": "导言称，他在柏林结识瑞典剧作家斯特林堡并为其画像。他与表现主义的关系导言前段未述，库内互链为本项目所加。",
+        "一图": "示意图以蒙克为中心，标示灵魂绘画、《呐喊》、巴黎的用色影响三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）与表现主义的关系未述。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='munch 示意图'><title>munch</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>灵魂绘画</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>耶格尔敦促</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>蒙克</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1863—1944</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>呐喊</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>1893</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>用色</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>高更·梵高</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；与表现主义关系未述。"
+    },
+    {
+      "id": "sibelius",
+      "title": "西贝柳斯（Jean Sibelius）",
+      "kind": "人物",
+      "unit": "music-romantic",
+      "era": "19世纪末—20世纪",
+      "region": "芬兰",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "晚期浪漫与早期现代时期的芬兰作曲家，被普遍视为芬兰最伟大的作曲家。",
+      "when": "1865—1957",
+      "overview": "西贝柳斯是晚期浪漫与早期现代时期的芬兰作曲家。",
+      "related": [
+        "grieg",
+        "smetana",
+        "symphony"
+      ],
+      "sources": [
+        "enc-sibelius",
+        "wd-sibelius"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "导言称，西贝柳斯（1865—1957）的音乐常被认为帮助芬兰在19世纪末抵御多次俄罗斯化企图时形成更强的民族认同。",
+        "风格特征": "摘要没有给出这方面内容，本条目不补写。",
+        "代表人物与作品": "导言称，其作品核心是七部交响曲；其他名作有《芬兰颂》《卡累利阿组曲》《悲伤圆舞曲》、小提琴协奏曲、合唱交响曲《库勒沃》与《图奥内拉的天鹅》。",
+        "技法或形式分析": "摘要没有给出这方面内容，本条目不补写。",
+        "与前后风格的关系和争论": "导言称，他的其他作品取材于自然、北欧神话与芬兰民族史诗《卡勒瓦拉》。格里格条目把三人并提，那是另一条目的内容。",
+        "一图": "示意图以西贝柳斯为中心，标示七部交响曲、《芬兰颂》、《卡勒瓦拉》三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“最伟大”为评价性表述；（3）风格特征导言前段未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='sibelius 示意图'><title>sibelius</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>七部交响曲</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>作品核心</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>西贝柳斯</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1865—1957</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>芬兰颂</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>名作</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>卡勒瓦拉</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>取材</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；风格未给出。"
+    },
+    {
+      "id": "ravel",
+      "title": "拉威尔（Maurice Ravel）",
+      "kind": "人物",
+      "unit": "music-modern",
+      "era": "20世纪初",
+      "region": "法国",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "法国作曲家、钢琴家与指挥家，常与德彪西一起被归入印象主义，但两人都拒绝这一称呼。",
+      "when": "1875—1937",
+      "overview": "拉威尔是法国作曲家、钢琴家与指挥家。",
+      "related": [
+        "debussy",
+        "impressionism-music",
+        "neoclassicism-music"
+      ],
+      "sources": [
+        "enc-ravel",
+        "wd-ravel"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "导言称，拉威尔（1875—1937）出身爱乐家庭，就读巴黎音乐学院，但不受其保守当局待见，他们对他的偏颇对待曾引发丑闻。",
+        "风格特征": "导言称，离校后他形成极为清晰的风格，融入现代主义、巴洛克、新古典主义，晚期作品还有爵士元素。",
+        "代表人物与作品": "导言称，他最知名的作品是《波莱罗》（1928），以重复取代发展。",
+        "技法或形式分析": "导言称，他喜欢试验音乐形式，并以配器能力著称。",
+        "与前后风格的关系和争论": "导言称，他常与德彪西一起被归入印象主义，但两位作曲家都拒绝这一术语；1920—30年代他在国际上被视为法国在世最伟大的作曲家。本条目挂在20世纪单元。",
+        "一图": "示意图以拉威尔为中心，标示印象主义之称、《波莱罗》、配器三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“印象主义”归类是他本人拒绝的，照录。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='ravel 示意图'><title>ravel</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>印象主义</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>本人拒绝此称</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>拉威尔</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1875—1937</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>波莱罗</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>1928</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>配器</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>著称</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；归类本人不认可，照录。"
+    },
+    {
+      "id": "shostakovich",
+      "title": "肖斯塔科维奇（Dmitri Shostakovich）",
+      "kind": "人物",
+      "unit": "music-modern",
+      "era": "20世纪",
+      "region": "苏联",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "苏联时期的俄国作曲家与钢琴家，1926年第一交响曲首演后享誉国际。",
+      "when": "1906—1975",
+      "overview": "肖斯塔科维奇是苏联时期的俄国作曲家与钢琴家。",
+      "related": [
+        "prokofiev",
+        "stravinsky",
+        "symphony"
+      ],
+      "sources": [
+        "enc-shostakovich",
+        "wd-shostakovich"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "导言称，肖斯塔科维奇（1906—1975）在苏联早年成名，但与政府关系复杂。",
+        "风格特征": "摘要没有给出这方面内容，本条目不补写。",
+        "代表人物与作品": "导言称，1934年歌剧《姆钦斯克县的麦克白夫人》起初成功，后遭苏联政府谴责，危及他的事业；1948年他的作品在日丹诺夫主义下被批判，后果持续数年；1956年平反后，演出仍偶受国家干预，如第十三交响曲（1962）。",
+        "技法或形式分析": "摘要没有给出这方面内容，本条目不补写。",
+        "与前后风格的关系和争论": "导言称，他仍是俄罗斯联邦最高苏维埃（1947）与苏联最高苏维埃（1962年起至去世）代表。他与政权关系的诠释在学界有争议，导言前段只陈述事件，本条目不作判断。",
+        "一图": "示意图以肖斯塔科维奇为中心，标示第一交响曲、《麦克白夫人》遭批、日丹诺夫批判三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）风格特征导言前段未给出；（3）与政权关系的诠释不作判断。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='shostakovich 示意图'><title>shostakovich</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>第一交响曲</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1926成名</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>肖斯塔科维奇</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1906—1975</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>麦克白夫人</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>1934后遭谴责</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>日丹诺夫</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>1948批判</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；风格未给出；政治诠释不作判断。"
+    },
+    {
+      "id": "borobudur",
+      "title": "婆罗浮屠（Borobudur）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "9世纪",
+      "region": "印度尼西亚（中爪哇）",
+      "medium": "建筑",
+      "tier": "核心",
+      "def": "印度尼西亚中爪哇的9世纪大乘佛教寺庙，由九层平台叠成，顶部为中央佛塔。",
+      "when": "约公元9世纪",
+      "overview": "婆罗浮屠是印度尼西亚中爪哇的一座9世纪大乘佛教寺庙。",
+      "related": [
+        "angkor",
+        "khmer-art",
+        "gupta-art"
+      ],
+      "sources": [
+        "enc-borobudur",
+        "wd-borobudur"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "导言称，婆罗浮屠建于夏连特拉王朝时期，位于日惹西北、文池兰镇附近的马格朗县。",
+        "风格特征": "导言称，寺庙设计遵循爪哇佛教建筑。导言此处被截断，后文未读到，本条目不补写。",
+        "代表人物与作品": "导言称，寺庙饰有2672块浮雕板，原有504尊佛像；中央佛塔周围有72尊佛像，各坐于镂空小佛塔中。",
+        "技法或形式分析": "导言称，它以灰色类安山岩石材建造，由六层方形、三层圆形共九层平台叠成，顶部为中央穹顶；阶梯与回廊系统引导朝圣者，墙面与栏杆上有1460块叙事浮雕。",
+        "与前后风格的关系和争论": "导言称，婆罗浮屠拥有世界上最大规模的佛教浮雕收藏之一。",
+        "一图": "示意图以婆罗浮屠为中心，标示九层平台、2672块浮雕、72座镂空佛塔三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）导言在“融合……”处截断，设计渊源未读全。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='borobudur 示意图'><title>borobudur</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>九层平台</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>六方三圆</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>婆罗浮屠</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>9世纪大乘寺庙</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>浮雕</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>2672块</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>镂空佛塔</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>72尊佛像</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；设计渊源未读全。"
+    },
+    {
+      "id": "de-stijl",
+      "title": "风格派（De Stijl）",
+      "kind": "风格",
+      "unit": "art-modern",
+      "era": "1917年起",
+      "region": "荷兰",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "1917年由莱顿、福尔堡与拉伦的艺术家与建筑师创立的荷兰艺术运动。",
+      "when": "约公元1917年起",
+      "overview": "风格派是1917年创立的荷兰艺术运动。",
+      "related": [
+        "mondrian",
+        "mondrian-composition-rby-1927",
+        "bauhaus"
+      ],
+      "sources": [
+        "enc-de-stijl",
+        "wd-de-stijl"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "导言称，风格派1917年由莱顿（凡·杜斯堡、奥德）、福尔堡（胡萨尔、维尔斯）与拉伦（蒙德里安、凡·德·莱克）的艺术家与建筑师创立。",
+        "风格特征": "摘要没有给出这方面内容，本条目不补写。",
+        "代表人物与作品": "导言列出主要成员：画家凡·杜斯堡、蒙德里安、胡萨尔、凡·德·莱克，建筑师奥德、维尔斯、里特维尔德、凡·霍夫，雕塑家兼画家万通格洛，诗人作家科克。",
+        "技法或形式分析": "摘要没有给出这方面内容，本条目不补写。",
+        "与前后风格的关系和争论": "导言称，“De Stijl”也是凡·杜斯堡出版、宣传该群体理论的刊物名；其艺术理论最初称“Nieuwe Beelding”，英译“新造型主义”（Neoplasticism），后扩展为“元素主义”原则。理论内容导言前段未展开。",
+        "一图": "示意图以风格派为中心，标示凡·杜斯堡与刊物、蒙德里安、新造型主义三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）理论具体内容未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='de-stijl 示意图'><title>de-stijl</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>凡·杜斯堡</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>刊物出版人</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>风格派</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1917年创立</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>蒙德里安</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>主要成员</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>新造型主义</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>理论名称</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；理论内容未给出。"
+    },
+    {
+      "id": "kabuki",
+      "title": "歌舞伎（Kabuki）",
+      "kind": "风格",
+      "unit": "art-asia",
+      "era": "江户时代起",
+      "region": "日本",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "日本古典戏剧形式，融合戏剧表演与传统舞蹈。",
+      "when": "约公元17世纪初起",
+      "overview": "歌舞伎是融合戏剧表演与传统舞蹈的日本古典戏剧形式。",
+      "related": [
+        "noh",
+        "ukiyo-e",
+        "kano-school"
+      ],
+      "sources": [
+        "enc-kabuki",
+        "wd-kabuki"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "导言称，歌舞伎被认为起源于江户时代初期，创始人出云阿国在京都组建女子舞团，表演舞蹈与小品。",
+        "风格特征": "导言称，歌舞伎以高度程式化的表演、华丽而繁复装饰的服装，以及部分演员所画精致的“隈取”妆著称。",
+        "代表人物与作品": "导言没有列举剧目与演员，本条目不补写。",
+        "技法或形式分析": "导言称，1629年女性被禁止参演后，它发展为今日全男班的戏剧形式；17世纪后期持续发展，18世纪中叶达到顶峰。",
+        "与前后风格的关系和争论": "导言称，2005年联合国教科文组织宣布其为具有杰出普遍价值的非物质遗产，2008年列入人类非物质文化遗产代表作名录。与能乐的关系导言前段未述，库内互链为本项目所加。",
+        "一图": "示意图以歌舞伎为中心，标示出云阿国、1629年禁女性参演、隈取妆三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）起源“被认为”在江户初，照录；（3）剧目未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='kabuki 示意图'><title>kabuki</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>出云阿国</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>创始人</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>歌舞伎</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>日本古典戏剧</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>1629</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>女性被禁</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>隈取</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>精致妆容</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；剧目未给出。"
+    },
+    {
+      "id": "persian-miniature",
+      "title": "波斯细密画（Persian miniature）",
+      "kind": "风格",
+      "unit": "art-islamic",
+      "era": "13世纪起",
+      "region": "伊朗",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "纸本小幅波斯绘画，用作书籍插图或收入画册的单幅作品。",
+      "when": "约公元13世纪起",
+      "overview": "波斯细密画是纸本小幅的波斯绘画。",
+      "related": [
+        "mughal-painting",
+        "islamic-calligraphy",
+        "illuminated-manuscript"
+      ],
+      "sources": [
+        "enc-persian-miniature",
+        "wd-persian-miniature"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "导言称，细密画在13世纪成为波斯艺术的重要类型，蒙古征服后受到中国影响，15、16世纪达到传统的最高点；此后在一些西方影响下延续。",
+        "风格特征": "摘要没有给出这方面内容，本条目不补写。",
+        "代表人物与作品": "导言称，许多最重要的作品藏于西方或土耳其的博物馆。具体作品导言前段未列。",
+        "技法或形式分析": "导言称，其技法大体可与西方中世纪及拜占庭泥金手抄本中的细密画传统相比。",
+        "与前后风格的关系和争论": "导言称，波斯也有同样成熟的壁画传统，但细密画的存世率与保存状况更好，因而是西方最熟知的波斯绘画形式。莫卧儿绘画条目称其源于波斯细密画，那是另一条目的内容。",
+        "一图": "示意图以波斯细密画为中心，标示画册（muraqqa）、中国影响、15—16世纪高峰三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）具体作品与画家未给出。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='persian-miniature 示意图'><title>persian-miniature</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>画册</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>muraqqa</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>波斯细密画</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>纸本小幅</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>中国影响</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>蒙古征服后</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>高峰</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>15—16世纪</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；作品与画家未给出。"
+    },
+    {
+      "id": "cantata",
+      "title": "康塔塔（Cantata）",
+      "kind": "术语",
+      "unit": "music-baroque",
+      "era": "17世纪起",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "带器乐伴奏、通常分多乐章的声乐作品。",
+      "when": "约公元17世纪初起",
+      "overview": "康塔塔是带器乐伴奏、通常分为若干乐章的声乐作品。",
+      "related": [
+        "bach",
+        "telemann"
+      ],
+      "sources": [
+        "enc-cantata",
+        "wd-cantata"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "导言称，这一术语的含义随时代变化：从17世纪初简单的单声部牧歌，到该世纪后期多声部的“室内康塔塔”与“教会康塔塔”，再到18世纪更具规模的戏剧形式，以及19世纪通常用宗教文本、实际上是一种短清唱剧的康塔塔。",
+        "风格特征": "摘要没有给出这方面内容，本条目不补写。",
+        "代表人物与作品": "导言称，格劳普纳、泰勒曼与巴赫为教会年历的各个场合创作了成套的教会康塔塔。",
+        "技法或形式分析": "导言称，名称字面意为“被唱的”，源自意大利语动词“cantare（唱）”。",
+        "与前后风格的关系和争论": "导言称，用于教会礼拜的称教会康塔塔或宗教康塔塔，其他称世俗康塔塔；有些为特定场合而作，如圣诞康塔塔。",
+        "一图": "示意图以康塔塔为中心，标示17世纪单声部、教会与世俗、巴赫等人三项。",
+        "待核实": "（1）本条目事实仅来自 Wikipedia 导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）各时期代表作品未给出；（3）清唱剧条目库内尚无。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='cantata 示意图'><title>cantata</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>17世纪初</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>单声部牧歌</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>康塔塔</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>伴奏声乐作品</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>教会与世俗</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>两类</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>巴赫等</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>成套教会康塔塔</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；代表作品未给出。"
     }
   ]
 }

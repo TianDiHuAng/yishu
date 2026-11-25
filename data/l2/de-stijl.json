@@ -1,0 +1,20 @@
+{
+  "id": "de-stijl",
+  "level": "L2",
+  "sections": {
+    "时代背景": "导言称，风格派1917年由莱顿（凡·杜斯堡、奥德）、福尔堡（胡萨尔、维尔斯）与拉伦（蒙德里安、凡·德·莱克）的艺术家与建筑师创立。",
+    "风格特征": "摘要没有给出这方面内容，本条目不补写。",
+    "代表人物与作品": "导言列出主要成员：画家凡·杜斯堡、蒙德里安、胡萨尔、凡·德·莱克，建筑师奥德、维尔斯、里特维尔德、凡·霍夫，雕塑家兼画家万通格洛，诗人作家科克。",
+    "技法或形式分析": "摘要没有给出这方面内容，本条目不补写。",
+    "与前后风格的关系和争论": "导言称，“De Stijl”也是凡·杜斯堡出版、宣传该群体理论的刊物名；其艺术理论最初称“Nieuwe Beelding”，英译“新造型主义”（Neoplasticism），后扩展为“元素主义”原则。理论内容导言前段未展开。",
+    "一图": "示意图以风格派为中心，标示凡·杜斯堡与刊物、蒙德里安、新造型主义三项。",
+    "待核实": "（1）本条目事实仅来自 Wikipedia 导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）理论具体内容未给出。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='de-stijl 示意图'><title>de-stijl</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>凡·杜斯堡</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>刊物出版人</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>风格派</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1917年创立</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>蒙德里安</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>主要成员</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>新造型主义</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>理论名称</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+  "sources": [
+    "enc-de-stijl",
+    "wd-de-stijl"
+  ],
+  "needs_verification": true,
+  "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；理论内容未给出。"
+}

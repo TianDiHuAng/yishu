@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 764 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 780 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -148,6 +148,8 @@
 | bruegel | 老彼得·勃鲁盖尔（Pieter Bruegel the Elder） | 人物 | 16世纪 | 尼德兰·佛兰德斯 | 绘画 | 重要 | O1、O3 |
 | durer-st-jerome-willow | 丢勒《坐在截顶柳旁的圣哲罗姆》（1512） | 作品 | 1512年 | 德国 | 版画 | 重要 | O1、O3 |
 | bruegel-rabbit-hunt | 老勃鲁盖尔《猎兔》（1560） | 作品 | 1560年 | 佛兰德斯 | 版画 | 重要 | O1、O3 |
+| titian | 提香（Titian） | 人物 | 16世纪 | 意大利（威尼斯） | 绘画 | 核心 | O1、O3 |
+| jan-van-eyck | 扬·凡·艾克（Jan van Eyck） | 人物 | 15世纪 | 尼德兰（布鲁日） | 绘画 | 核心 | O1、O3 |
 
 ## art-baroque（艺术史·巴洛克与洛可可）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -180,6 +182,7 @@
 | dutch-architecture | 荷兰建筑（Architecture of the Netherlands） | 风格 | 中世纪至今 | 荷兰 | 建筑 | 补充 | O1 |
 | watteau | 华托（Antoine Watteau） | 人物 | 18世纪初 | 法国 | 绘画 | 重要 | O1 |
 | watteau-italian-clothes | 华托《衣着是意大利的》（1715—16） | 作品 | 1715—1716年 | 法国 | 版画 | 补充 | O1 |
+| bernini | 贝尔尼尼（Gian Lorenzo Bernini） | 人物 | 17世纪 | 意大利 | 雕塑 | 核心 | O1 |
 
 ## art-neo-romantic（艺术史·新古典与浪漫）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -216,6 +219,7 @@
 | goya-cuervo-portrait | 戈雅《唐·胡安·安东尼奥·奎尔沃像》（1819） | 作品 | 1819年 | 西班牙 | 绘画 | 补充 | O1 |
 | burne-jones-garden-court | 伯恩-琼斯《花园庭院》（1870—75） | 作品 | 1870—1875年 | 英国 | 绘画 | 补充 | O1 |
 | daubigny-shepherd | 杜比尼《牧羊人与牧羊女》（1874） | 作品 | 1874年 | 法国 | 版画 | 补充 | O1 |
+| jacques-louis-david | 雅克-路易·大卫（Jacques-Louis David） | 人物 | 18世纪末—19世纪初 | 法国 | 绘画 | 核心 | O1 |
 
 ## art-impression（艺术史·印象派与后印象派）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -274,6 +278,9 @@
 | klimt | 克里姆特（Gustav Klimt） | 人物 | 19世纪末—20世纪初 | 奥地利 | 绘画 | 重要 | O1 |
 | art-nouveau | 新艺术运动（Art Nouveau） | 风格 | 1890—1910年 | 国际 | 综合 | 核心 | O1 |
 | klimt-hermine-gallia | 克里姆特《赫尔米内·加利亚》素描（约1904） | 作品 | 约1904年 | 奥地利 | 绘画 | 补充 | O1 |
+| duchamp | 杜尚（Marcel Duchamp） | 人物 | 20世纪 | 法国·美国 | 综合 | 核心 | O1 |
+| munch | 蒙克（Edvard Munch） | 人物 | 19世纪末—20世纪 | 挪威 | 绘画 | 核心 | O1 |
+| de-stijl | 风格派（De Stijl） | 风格 | 1917年起 | 荷兰 | 综合 | 重要 | O1 |
 
 ## art-contemporary（艺术史·当代）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -419,6 +426,8 @@
 | corelli | 科雷利（Arcangelo Corelli） | 人物 | 17—18世纪 | 意大利 | 音乐体裁 | 重要 | O1 |
 | telemann | 泰勒曼（Georg Philipp Telemann） | 人物 | 17—18世纪 | 德国 | 音乐体裁 | 重要 | O1 |
 | suite-music | 组曲（Suite） | 术语 | 14世纪末—今 | 欧洲 | 音乐体裁 | 重要 | O4 |
+| handel | 亨德尔（George Frideric Handel） | 人物 | 18世纪 | 德国·英国 | 音乐体裁 | 核心 | O1 |
+| cantata | 康塔塔（Cantata） | 术语 | 17世纪起 | 欧洲 | 音乐体裁 | 重要 | O4 |
 
 ## music-classical（音乐史·古典）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -456,6 +465,8 @@
 | grieg | 格里格（Edvard Grieg） | 人物 | 19世纪 | 挪威 | 音乐体裁 | 重要 | O1 |
 | rachmaninoff | 拉赫玛尼诺夫（Sergei Rachmaninoff） | 人物 | 19世纪末—20世纪 | 俄国 | 音乐体裁 | 核心 | O1 |
 | overture | 序曲（Overture） | 术语 | 历代 | 欧洲 | 音乐体裁 | 重要 | O4 |
+| verdi | 威尔第（Giuseppe Verdi） | 人物 | 19世纪 | 意大利 | 音乐体裁 | 核心 | O1 |
+| sibelius | 西贝柳斯（Jean Sibelius） | 人物 | 19世纪末—20世纪 | 芬兰 | 音乐体裁 | 核心 | O1 |
 
 ## music-modern（音乐史·20世纪与当代）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -479,6 +490,8 @@
 | musique-concrete | 具体音乐（Musique concrète） | 术语 | 20世纪 | 法国等 | 音乐体裁 | 重要 | O4 |
 | atonality | 无调性（Atonality） | 术语 | 20世纪初—今 | 欧美 | 音乐体裁 | 核心 | O4 |
 | twelve-tone | 十二音技法（Twelve-tone technique） | 术语 | 20世纪 | 欧美 | 音乐体裁 | 重要 | O4 |
+| ravel | 拉威尔（Maurice Ravel） | 人物 | 20世纪初 | 法国 | 音乐体裁 | 核心 | O1 |
+| shostakovich | 肖斯塔科维奇（Dmitri Shostakovich） | 人物 | 20世纪 | 苏联 | 音乐体裁 | 核心 | O1 |
 
 ## music-china（中国音乐史）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -654,6 +667,8 @@
 | noh | 能乐（Noh） | 风格 | 14世纪—今 | 日本 | 综合 | 核心 | O1 |
 | kano-four-accomplishments | 狩野松荣《琴棋书画图》屏风（16世纪末—17世纪初） | 作品 | 约公元16世纪末—17世纪初 | 日本 | 绘画 | 补充 | O1 |
 | mughal-royal-ram | 莫卧儿《戴金链的御用公羊》（约1585） | 作品 | 约1585年（边框可能为18世纪添加） | 印度（莫卧儿） | 绘画 | 补充 | O1 |
+| borobudur | 婆罗浮屠（Borobudur） | 作品 | 9世纪 | 印度尼西亚（中爪哇） | 建筑 | 核心 | O1 |
+| kabuki | 歌舞伎（Kabuki） | 风格 | 江户时代起 | 日本 | 综合 | 核心 | O1 |
 
 ## art-islamic（伊斯兰艺术（西亚·中亚））
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -709,6 +724,7 @@
 | islamic-architecture | 伊斯兰建筑（Islamic architecture） | 风格 | 7世纪至今 | 西亚·中亚 | 建筑 | 重要 | O1 |
 | islamic-calligraphy | 伊斯兰书法（Islamic calligraphy） | 术语 | 历代 | 伊斯兰世界 | 书法 | 核心 | O1 |
 | arabesque | 阿拉伯式花纹（Arabesque） | 术语 | 9世纪以来 | 伊斯兰世界·欧洲 | 综合 | 重要 | O1 |
+| persian-miniature | 波斯细密画（Persian miniature） | 风格 | 13世纪起 | 伊朗 | 绘画 | 核心 | O1 |
 
 ## art-africa（非洲艺术（撒哈拉以南））
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

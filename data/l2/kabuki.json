@@ -1,0 +1,20 @@
+{
+  "id": "kabuki",
+  "level": "L2",
+  "sections": {
+    "时代背景": "导言称，歌舞伎被认为起源于江户时代初期，创始人出云阿国在京都组建女子舞团，表演舞蹈与小品。",
+    "风格特征": "导言称，歌舞伎以高度程式化的表演、华丽而繁复装饰的服装，以及部分演员所画精致的“隈取”妆著称。",
+    "代表人物与作品": "导言没有列举剧目与演员，本条目不补写。",
+    "技法或形式分析": "导言称，1629年女性被禁止参演后，它发展为今日全男班的戏剧形式；17世纪后期持续发展，18世纪中叶达到顶峰。",
+    "与前后风格的关系和争论": "导言称，2005年联合国教科文组织宣布其为具有杰出普遍价值的非物质遗产，2008年列入人类非物质文化遗产代表作名录。与能乐的关系导言前段未述，库内互链为本项目所加。",
+    "一图": "示意图以歌舞伎为中心，标示出云阿国、1629年禁女性参演、隈取妆三项。",
+    "待核实": "（1）本条目事实仅来自 Wikipedia 导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）起源“被认为”在江户初，照录；（3）剧目未给出。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='kabuki 示意图'><title>kabuki</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>出云阿国</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>创始人</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>歌舞伎</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>日本古典戏剧</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>1629</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>女性被禁</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>隈取</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>精致妆容</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+  "sources": [
+    "enc-kabuki",
+    "wd-kabuki"
+  ],
+  "needs_verification": true,
+  "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；剧目未给出。"
+}

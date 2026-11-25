@@ -337,7 +337,8 @@
         "andrea-sacrifice-of-isaac",
         "veronese-barbarigo-portrait",
         "fresco",
-        "contrapposto"
+        "contrapposto",
+        "titian"
       ],
       "sources": [
         "enc-high-renaissance",
@@ -360,7 +361,8 @@
         "high-renaissance",
         "mannerism",
         "botticelli",
-        "veronese-barbarigo-portrait"
+        "veronese-barbarigo-portrait",
+        "titian"
       ],
       "sources": [
         "enc-venetian-school",
@@ -389,7 +391,8 @@
         "oil-painting",
         "durer",
         "bosch",
-        "bruegel"
+        "bruegel",
+        "jan-van-eyck"
       ],
       "sources": [
         "enc-northern-renaissance",
@@ -509,7 +512,8 @@
         "high-renaissance",
         "leonardo",
         "durer",
-        "pre-raphaelite"
+        "pre-raphaelite",
+        "titian"
       ],
       "sources": [
         "enc-raphael",
@@ -598,7 +602,8 @@
         "ochtervelt-musical-company",
         "still-life",
         "baroque-architecture",
-        "dutch-architecture"
+        "dutch-architecture",
+        "bernini"
       ],
       "sources": [
         "enc-baroque",
@@ -626,7 +631,8 @@
         "claude-rest-flight-egypt",
         "baroque-architecture",
         "watteau",
-        "watteau-italian-clothes"
+        "watteau-italian-clothes",
+        "jacques-louis-david"
       ],
       "sources": [
         "enc-rococo",
@@ -654,7 +660,8 @@
         "parodi-sleeping-christ",
         "liss-cupid",
         "chiaroscuro",
-        "tenebrism"
+        "tenebrism",
+        "bernini"
       ],
       "sources": [
         "enc-caravaggio",
@@ -783,7 +790,8 @@
         "classical-crossmedia",
         "neoclassical-architecture",
         "beaux-arts-architecture",
-        "neoclassicism-music"
+        "neoclassicism-music",
+        "jacques-louis-david"
       ],
       "sources": [
         "enc-neoclassicism",
@@ -985,7 +993,8 @@
         "post-impressionism",
         "expressionism",
         "starry-night",
-        "hokusai"
+        "hokusai",
+        "munch"
       ],
       "sources": [
         "enc-van-gogh",
@@ -1030,7 +1039,8 @@
       "related": [
         "post-impressionism",
         "cezanne",
-        "nabis"
+        "nabis",
+        "munch"
       ],
       "sources": [
         "enc-gauguin",
@@ -1081,7 +1091,8 @@
         "kandinsky",
         "klee-with-the-dot",
         "klee-carnival-in-snow",
-        "expressionism-music"
+        "expressionism-music",
+        "munch"
       ],
       "sources": [
         "enc-expressionism",
@@ -1153,7 +1164,8 @@
         "futurism",
         "surrealism",
         "rauschenberg-gloria",
-        "performance-art"
+        "performance-art",
+        "duchamp"
       ],
       "sources": [
         "enc-dada",
@@ -1176,7 +1188,8 @@
         "dada",
         "abstract-expressionism",
         "dali",
-        "frida-kahlo"
+        "frida-kahlo",
+        "duchamp"
       ],
       "sources": [
         "enc-surrealism",
@@ -1200,7 +1213,8 @@
         "minimalism",
         "art-deco",
         "modern-architecture",
-        "constructivism-art"
+        "constructivism-art",
+        "de-stijl"
       ],
       "sources": [
         "enc-bauhaus",
@@ -1453,7 +1467,8 @@
         "lewitt-wall-drawing-4",
         "land-art",
         "fluxus",
-        "arte-povera"
+        "arte-povera",
+        "duchamp"
       ],
       "sources": [
         "enc-conceptual-art",
@@ -2213,7 +2228,8 @@
         "lully",
         "grand-opera",
         "puccini",
-        "overture"
+        "overture",
+        "verdi"
       ],
       "sources": [
         "enc-opera",
@@ -2307,7 +2323,9 @@
         "counterpoint",
         "vivaldi",
         "telemann",
-        "suite-music"
+        "suite-music",
+        "handel",
+        "cantata"
       ],
       "sources": [
         "enc-bach",
@@ -2390,7 +2408,9 @@
         "concerto",
         "mahler",
         "mendelssohn",
-        "dvorak"
+        "dvorak",
+        "sibelius",
+        "shostakovich"
       ],
       "sources": [
         "enc-symphony",
@@ -2707,7 +2727,8 @@
         "romantic-music",
         "debussy",
         "impression-crossmedia",
-        "expressionism-music"
+        "expressionism-music",
+        "ravel"
       ],
       "sources": [
         "enc-20th-century-classical",
@@ -2781,7 +2802,8 @@
         "serialism",
         "rite-of-spring-work",
         "prokofiev",
-        "neoclassicism-music"
+        "neoclassicism-music",
+        "shostakovich"
       ],
       "sources": [
         "enc-stravinsky",
@@ -2827,7 +2849,8 @@
       "overview": "代表作《牧神午后前奏曲》《大海》，以音色与和声色彩营造朦胧意象。",
       "related": [
         "impressionism-music",
-        "20th-century-classical"
+        "20th-century-classical",
+        "ravel"
       ],
       "sources": [
         "enc-20th-century-classical",
@@ -3362,7 +3385,8 @@
         "angkor",
         "buddhist-art-india",
         "khmer-architecture",
-        "gupta-art"
+        "gupta-art",
+        "borobudur"
       ],
       "sources": [
         "enc-khmer-art",
@@ -3386,7 +3410,8 @@
         "khmer-architecture",
         "khmer-thai-fruit-jar",
         "chinese-architecture",
-        "gupta-art"
+        "gupta-art",
+        "borobudur"
       ],
       "sources": [
         "enc-angkor",
@@ -3461,7 +3486,8 @@
         "japanese-architecture",
         "klimt",
         "hokusai",
-        "kano-school"
+        "kano-school",
+        "kabuki"
       ],
       "sources": [
         "enc-ukiyo-e",
@@ -3857,7 +3883,8 @@
       "related": [
         "neoclassicism",
         "delacroix",
-        "ingres-antiochus-stratonice"
+        "ingres-antiochus-stratonice",
+        "jacques-louis-david"
       ],
       "sources": [
         "cma-artist-ingres"
@@ -12196,7 +12223,8 @@
         "modern-art",
         "cubism",
         "mondrian-field-young-trees",
-        "mondrian"
+        "mondrian",
+        "de-stijl"
       ],
       "sources": [
         "cma-1967-215"
@@ -13626,7 +13654,8 @@
         "renaissance-architecture",
         "neoclassical-architecture",
         "beaux-arts-architecture",
-        "spanish-architecture"
+        "spanish-architecture",
+        "bernini"
       ],
       "sources": [
         "enc-baroque-architecture",
@@ -13807,7 +13836,8 @@
         "tchaikovsky",
         "corelli",
         "telemann",
-        "suite-music"
+        "suite-music",
+        "handel"
       ],
       "sources": [
         "enc-concerto",
@@ -14046,7 +14076,8 @@
       "related": [
         "baroque-music",
         "concerto",
-        "bach"
+        "bach",
+        "handel"
       ],
       "sources": [
         "enc-vivaldi",
@@ -14424,7 +14455,8 @@
       "related": [
         "baroque-music",
         "bach",
-        "concerto"
+        "concerto",
+        "cantata"
       ],
       "sources": [
         "enc-telemann",
@@ -14607,7 +14639,8 @@
       "related": [
         "20th-century-classical",
         "stravinsky",
-        "tchaikovsky"
+        "tchaikovsky",
+        "shostakovich"
       ],
       "sources": [
         "enc-prokofiev",
@@ -14769,7 +14802,8 @@
       "related": [
         "romantic-music",
         "wagner",
-        "opera"
+        "opera",
+        "verdi"
       ],
       "sources": [
         "enc-grand-opera",
@@ -15045,7 +15079,8 @@
         "kandinsky",
         "frida-kahlo",
         "pollock",
-        "klimt"
+        "klimt",
+        "de-stijl"
       ],
       "sources": [
         "enc-mondrian",
@@ -15180,7 +15215,8 @@
       "related": [
         "northern-renaissance",
         "bruegel",
-        "bruegel-rabbit-hunt"
+        "bruegel-rabbit-hunt",
+        "jan-van-eyck"
       ],
       "sources": [
         "enc-bosch",
@@ -15202,7 +15238,8 @@
       "related": [
         "northern-renaissance",
         "bosch",
-        "bruegel-rabbit-hunt"
+        "bruegel-rabbit-hunt",
+        "jan-van-eyck"
       ],
       "sources": [
         "enc-bruegel",
@@ -15397,7 +15434,8 @@
       "related": [
         "insular-art",
         "carolingian-art",
-        "gothic"
+        "gothic",
+        "persian-miniature"
       ],
       "sources": [
         "enc-illuminated-manuscript",
@@ -15554,7 +15592,8 @@
       "related": [
         "opera",
         "romantic-music",
-        "wagner"
+        "wagner",
+        "verdi"
       ],
       "sources": [
         "enc-puccini",
@@ -15577,7 +15616,8 @@
         "dvorak",
         "symphonic-poem",
         "program-music",
-        "grieg"
+        "grieg",
+        "sibelius"
       ],
       "sources": [
         "enc-smetana",
@@ -15599,7 +15639,8 @@
       "related": [
         "smetana",
         "dvorak",
-        "romantic-music"
+        "romantic-music",
+        "sibelius"
       ],
       "sources": [
         "enc-grieg",
@@ -15753,7 +15794,8 @@
       "related": [
         "stravinsky",
         "romantic-music",
-        "neoclassicism"
+        "neoclassicism",
+        "ravel"
       ],
       "sources": [
         "enc-neoclassicism-music",
@@ -15974,7 +16016,8 @@
       "related": [
         "mughal-architecture",
         "khmer-art",
-        "angkor"
+        "angkor",
+        "borobudur"
       ],
       "sources": [
         "enc-gupta-art",
@@ -16018,7 +16061,8 @@
         "mughal-architecture",
         "mughal-alamgir-portrait",
         "rajput-painting",
-        "mughal-royal-ram"
+        "mughal-royal-ram",
+        "persian-miniature"
       ],
       "sources": [
         "enc-mughal-painting",
@@ -16040,7 +16084,8 @@
       "related": [
         "arabesque",
         "islamic-architecture",
-        "china-calligraphy-history"
+        "china-calligraphy-history",
+        "persian-miniature"
       ],
       "sources": [
         "enc-islamic-calligraphy",
@@ -16150,7 +16195,8 @@
         "ukiyo-e",
         "hokusai",
         "japanese-architecture",
-        "kano-four-accomplishments"
+        "kano-four-accomplishments",
+        "kabuki"
       ],
       "sources": [
         "enc-kano-school",
@@ -16373,7 +16419,8 @@
       "related": [
         "kunqu",
         "shakuhachi",
-        "koto-instrument"
+        "koto-instrument",
+        "kabuki"
       ],
       "sources": [
         "enc-noh",
@@ -16973,6 +17020,357 @@
       "sources": [
         "enc-zhao-ji",
         "wd-zhao-ji"
+      ]
+    },
+    {
+      "id": "handel",
+      "title": "亨德尔（George Frideric Handel）",
+      "kind": "人物",
+      "unit": "music-baroque",
+      "era": "18世纪",
+      "region": "德国·英国",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "德裔英国巴洛克作曲家，以歌剧、清唱剧、圣歌、大协奏曲与管风琴协奏曲著称。",
+      "when": "1685—1759",
+      "overview": "亨德尔是德裔英国巴洛克作曲家。",
+      "related": [
+        "bach",
+        "vivaldi",
+        "concerto"
+      ],
+      "sources": [
+        "enc-handel",
+        "wd-handel"
+      ]
+    },
+    {
+      "id": "verdi",
+      "title": "威尔第（Giuseppe Verdi）",
+      "kind": "人物",
+      "unit": "music-romantic",
+      "era": "19世纪",
+      "region": "意大利",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "意大利作曲家，以歌剧著称，在罗西尼、贝利尼、多尼采蒂之后主导意大利歌剧。",
+      "when": "1813—1901",
+      "overview": "威尔第是以歌剧最为知名的意大利作曲家。",
+      "related": [
+        "puccini",
+        "grand-opera",
+        "opera"
+      ],
+      "sources": [
+        "enc-verdi",
+        "wd-verdi"
+      ]
+    },
+    {
+      "id": "titian",
+      "title": "提香（Titian）",
+      "kind": "人物",
+      "unit": "art-renaissance",
+      "era": "16世纪",
+      "region": "意大利（威尼斯）",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "意大利文艺复兴画家，被视为威尼斯文艺复兴绘画最重要的艺术家。",
+      "when": "约1488/1490—1576",
+      "overview": "提香是意大利文艺复兴画家。",
+      "related": [
+        "venetian-school",
+        "high-renaissance",
+        "raphael"
+      ],
+      "sources": [
+        "enc-titian",
+        "wd-titian"
+      ]
+    },
+    {
+      "id": "duchamp",
+      "title": "杜尚（Marcel Duchamp）",
+      "kind": "人物",
+      "unit": "art-modern",
+      "era": "20世纪",
+      "region": "法国·美国",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "法裔美国艺术家、棋手与发明家，在美国先锋艺术发展中起关键作用。",
+      "when": "1887—1968",
+      "overview": "杜尚是法裔美国艺术家、棋手与发明家。",
+      "related": [
+        "dada",
+        "conceptual-art",
+        "surrealism"
+      ],
+      "sources": [
+        "enc-duchamp",
+        "wd-duchamp"
+      ]
+    },
+    {
+      "id": "jan-van-eyck",
+      "title": "扬·凡·艾克（Jan van Eyck）",
+      "kind": "人物",
+      "unit": "art-renaissance",
+      "era": "15世纪",
+      "region": "尼德兰（布鲁日）",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "活跃于布鲁日的早期尼德兰画家，早期北方文艺复兴的最高人物之一。",
+      "when": "约1390—1441",
+      "overview": "扬·凡·艾克是活跃于布鲁日的早期尼德兰画家。",
+      "related": [
+        "northern-renaissance",
+        "bosch",
+        "bruegel"
+      ],
+      "sources": [
+        "enc-jan-van-eyck",
+        "wd-jan-van-eyck"
+      ]
+    },
+    {
+      "id": "bernini",
+      "title": "贝尔尼尼（Gian Lorenzo Bernini）",
+      "kind": "人物",
+      "unit": "art-baroque",
+      "era": "17世纪",
+      "region": "意大利",
+      "medium": "雕塑",
+      "tier": "核心",
+      "def": "意大利雕塑家、建筑师、画家与城市规划者，被认为开创了巴洛克雕塑风格。",
+      "when": "1598—1680",
+      "overview": "贝尔尼尼是意大利雕塑家、建筑师、画家与城市规划者。",
+      "related": [
+        "baroque",
+        "caravaggio",
+        "baroque-architecture"
+      ],
+      "sources": [
+        "enc-bernini",
+        "wd-bernini"
+      ]
+    },
+    {
+      "id": "jacques-louis-david",
+      "title": "雅克-路易·大卫（Jacques-Louis David）",
+      "kind": "人物",
+      "unit": "art-neo-romantic",
+      "era": "18世纪末—19世纪初",
+      "region": "法国",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "法国新古典主义画家，被视为那个时代首屈一指的画家。",
+      "when": "1748—1825",
+      "overview": "雅克-路易·大卫是新古典主义风格的法国画家。",
+      "related": [
+        "neoclassicism",
+        "ingres",
+        "rococo"
+      ],
+      "sources": [
+        "enc-jacques-louis-david",
+        "wd-jacques-louis-david"
+      ]
+    },
+    {
+      "id": "munch",
+      "title": "蒙克（Edvard Munch）",
+      "kind": "人物",
+      "unit": "art-modern",
+      "era": "19世纪末—20世纪",
+      "region": "挪威",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "挪威画家，1893年作品《呐喊》成为西方艺术最具标志性的图像之一。",
+      "when": "1863—1944",
+      "overview": "蒙克是挪威画家。",
+      "related": [
+        "expressionism",
+        "gauguin",
+        "van-gogh"
+      ],
+      "sources": [
+        "enc-munch",
+        "wd-munch"
+      ]
+    },
+    {
+      "id": "sibelius",
+      "title": "西贝柳斯（Jean Sibelius）",
+      "kind": "人物",
+      "unit": "music-romantic",
+      "era": "19世纪末—20世纪",
+      "region": "芬兰",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "晚期浪漫与早期现代时期的芬兰作曲家，被普遍视为芬兰最伟大的作曲家。",
+      "when": "1865—1957",
+      "overview": "西贝柳斯是晚期浪漫与早期现代时期的芬兰作曲家。",
+      "related": [
+        "grieg",
+        "smetana",
+        "symphony"
+      ],
+      "sources": [
+        "enc-sibelius",
+        "wd-sibelius"
+      ]
+    },
+    {
+      "id": "ravel",
+      "title": "拉威尔（Maurice Ravel）",
+      "kind": "人物",
+      "unit": "music-modern",
+      "era": "20世纪初",
+      "region": "法国",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "法国作曲家、钢琴家与指挥家，常与德彪西一起被归入印象主义，但两人都拒绝这一称呼。",
+      "when": "1875—1937",
+      "overview": "拉威尔是法国作曲家、钢琴家与指挥家。",
+      "related": [
+        "debussy",
+        "impressionism-music",
+        "neoclassicism-music"
+      ],
+      "sources": [
+        "enc-ravel",
+        "wd-ravel"
+      ]
+    },
+    {
+      "id": "shostakovich",
+      "title": "肖斯塔科维奇（Dmitri Shostakovich）",
+      "kind": "人物",
+      "unit": "music-modern",
+      "era": "20世纪",
+      "region": "苏联",
+      "medium": "音乐体裁",
+      "tier": "核心",
+      "def": "苏联时期的俄国作曲家与钢琴家，1926年第一交响曲首演后享誉国际。",
+      "when": "1906—1975",
+      "overview": "肖斯塔科维奇是苏联时期的俄国作曲家与钢琴家。",
+      "related": [
+        "prokofiev",
+        "stravinsky",
+        "symphony"
+      ],
+      "sources": [
+        "enc-shostakovich",
+        "wd-shostakovich"
+      ]
+    },
+    {
+      "id": "borobudur",
+      "title": "婆罗浮屠（Borobudur）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "9世纪",
+      "region": "印度尼西亚（中爪哇）",
+      "medium": "建筑",
+      "tier": "核心",
+      "def": "印度尼西亚中爪哇的9世纪大乘佛教寺庙，由九层平台叠成，顶部为中央佛塔。",
+      "when": "约公元9世纪",
+      "overview": "婆罗浮屠是印度尼西亚中爪哇的一座9世纪大乘佛教寺庙。",
+      "related": [
+        "angkor",
+        "khmer-art",
+        "gupta-art"
+      ],
+      "sources": [
+        "enc-borobudur",
+        "wd-borobudur"
+      ]
+    },
+    {
+      "id": "de-stijl",
+      "title": "风格派（De Stijl）",
+      "kind": "风格",
+      "unit": "art-modern",
+      "era": "1917年起",
+      "region": "荷兰",
+      "medium": "综合",
+      "tier": "重要",
+      "def": "1917年由莱顿、福尔堡与拉伦的艺术家与建筑师创立的荷兰艺术运动。",
+      "when": "约公元1917年起",
+      "overview": "风格派是1917年创立的荷兰艺术运动。",
+      "related": [
+        "mondrian",
+        "mondrian-composition-rby-1927",
+        "bauhaus"
+      ],
+      "sources": [
+        "enc-de-stijl",
+        "wd-de-stijl"
+      ]
+    },
+    {
+      "id": "kabuki",
+      "title": "歌舞伎（Kabuki）",
+      "kind": "风格",
+      "unit": "art-asia",
+      "era": "江户时代起",
+      "region": "日本",
+      "medium": "综合",
+      "tier": "核心",
+      "def": "日本古典戏剧形式，融合戏剧表演与传统舞蹈。",
+      "when": "约公元17世纪初起",
+      "overview": "歌舞伎是融合戏剧表演与传统舞蹈的日本古典戏剧形式。",
+      "related": [
+        "noh",
+        "ukiyo-e",
+        "kano-school"
+      ],
+      "sources": [
+        "enc-kabuki",
+        "wd-kabuki"
+      ]
+    },
+    {
+      "id": "persian-miniature",
+      "title": "波斯细密画（Persian miniature）",
+      "kind": "风格",
+      "unit": "art-islamic",
+      "era": "13世纪起",
+      "region": "伊朗",
+      "medium": "绘画",
+      "tier": "核心",
+      "def": "纸本小幅波斯绘画，用作书籍插图或收入画册的单幅作品。",
+      "when": "约公元13世纪起",
+      "overview": "波斯细密画是纸本小幅的波斯绘画。",
+      "related": [
+        "mughal-painting",
+        "islamic-calligraphy",
+        "illuminated-manuscript"
+      ],
+      "sources": [
+        "enc-persian-miniature",
+        "wd-persian-miniature"
+      ]
+    },
+    {
+      "id": "cantata",
+      "title": "康塔塔（Cantata）",
+      "kind": "术语",
+      "unit": "music-baroque",
+      "era": "17世纪起",
+      "region": "欧洲",
+      "medium": "音乐体裁",
+      "tier": "重要",
+      "def": "带器乐伴奏、通常分多乐章的声乐作品。",
+      "when": "约公元17世纪初起",
+      "overview": "康塔塔是带器乐伴奏、通常分为若干乐章的声乐作品。",
+      "related": [
+        "bach",
+        "telemann"
+      ],
+      "sources": [
+        "enc-cantata",
+        "wd-cantata"
       ]
     }
   ]
