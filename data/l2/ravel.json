@@ -8,13 +8,14 @@
     "技法或形式分析": "导言称，他喜欢试验音乐形式，并以配器能力著称。",
     "与前后风格的关系和争论": "导言称，他常与德彪西一起被归入印象主义，但两位作曲家都拒绝这一术语；1920—30年代他在国际上被视为法国在世最伟大的作曲家。本条目挂在20世纪单元。",
     "一图": "示意图以拉威尔为中心，标示印象主义之称、《波莱罗》、配器三项。",
-    "待核实": "（1）本条目事实仅来自 Wikipedia 导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“印象主义”归类是他本人拒绝的，照录。（GND 对照，2026-11-25）德国国家图书馆规范档（118598651）生卒 1875—1937，与本条目一致，已独立印证（只印证生卒与身份）。"
+    "待核实": "（1）本条目事实仅来自 Wikipedia 导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“印象主义”归类是他本人拒绝的，照录。（GND 对照，2026-11-25）德国国家图书馆规范档（118598651）生卒 1875—1937，与本条目一致，已独立印证（只印证生卒与身份）。（GND 作品对照，2026-11-25）德国国家图书馆规范档有本条目所列作品的作品记录，作曲者与本人记录一致：《波莱罗》（GND 标目“Boléro”，创作年代 1928）。这些记录只印证作品归属与年代，不印证条目其余内容。"
   },
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='ravel 示意图'><title>ravel</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>印象主义</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>本人拒绝此称</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>拉威尔</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1875—1937</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>波莱罗</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>1928</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>配器</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>著称</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
   "sources": [
     "enc-ravel",
     "wd-ravel",
-    "gnd-118598651"
+    "gnd-118598651",
+    "gnd-300125143"
   ],
   "needs_verification": true,
   "pending_notes": "生卒已由 GND 规范档独立印证；来源独立性有限（Wikipedia+Wikidata）；归类本人不认可，照录。"

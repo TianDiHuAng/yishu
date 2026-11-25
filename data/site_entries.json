@@ -23554,7 +23554,9 @@
       "sources": [
         "enc-bartok",
         "wd-bartok",
-        "gnd-118506900"
+        "gnd-118506900",
+        "gnd-300013353",
+        "gnd-300013434"
       ],
       "level": "L2",
       "sections": {
@@ -23564,7 +23566,7 @@
         "技法或形式分析": "摘要给出的语言特征就是上面那句引语：调性、非常规音阶与无调性游移的融合。本条目不补写具体技法分析。",
         "与前后风格的关系和争论": "摘要称，他通过采集和分析民间音乐，成为比较音乐学（后称民族音乐学）的创始人之一；他与李斯特被看作匈牙利最伟大的作曲家。托马西尼的评价把他与勋伯格对照，这是一位评论者的看法，不代表定论。",
         "一图": "示意图以巴托克为中心，标示民间音乐采集、先锋音乐、代表作三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“最重要”“最伟大”是摘要的评价性表述，未核验；（3）托马西尼引语只是转引，原文出处摘要未给出；（4）生卒年来自摘要描述与 Wikidata，未经独立机构印证。（GND 对照，2026-11-25）德国国家图书馆规范档（118506900）生卒 1881—1945，与本条目一致，已独立印证（只印证生卒与身份）。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“最重要”“最伟大”是摘要的评价性表述，未核验；（3）托马西尼引语只是转引，原文出处摘要未给出；（4）生卒年来自摘要描述与 Wikidata，未经独立机构印证。（GND 对照，2026-11-25）德国国家图书馆规范档（118506900）生卒 1881—1945，与本条目一致，已独立印证（只印证生卒与身份）。（GND 作品对照，2026-11-25）德国国家图书馆规范档有本条目所列作品的作品记录，作曲者与本人记录一致：《神奇的满大人》（GND 标目“A csodálatos mandarin”，创作年代 1918-1919）；《蓝胡子城堡》（GND 标目“A kékszakállú herceg vára”，创作年代 1911）。这些记录只印证作品归属与年代，不印证条目其余内容。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='bartok 示意图'><title>bartok</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>民间音乐</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>采集与分析</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>巴托克</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1881—1945</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>先锋音乐</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>二者结合</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>代表作</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>乐队协奏曲等</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
@@ -23591,7 +23593,10 @@
       "sources": [
         "enc-prokofiev",
         "wd-prokofiev",
-        "gnd-118596721"
+        "gnd-118596721",
+        "gnd-300121628",
+        "gnd-300121636",
+        "gnd-300121555"
       ],
       "level": "L2",
       "sections": {
@@ -23601,7 +23606,7 @@
         "技法或形式分析": "摘要给出各体裁的完成数量（不计少年习作）：七部歌剧、七部交响曲、八部舞剧、五首钢琴协奏曲、两首小提琴协奏曲、一首大提琴协奏曲、一首大提琴与乐队的交响协奏曲、九首钢琴奏鸣曲。",
         "与前后风格的关系和争论": "摘要没有谈及他与前后风格的关系或相关争论，也没有讲他在苏联的经历细节。",
         "一图": "示意图以普罗科菲耶夫为中心，标示俄国与苏联、舞剧与歌剧、《彼得与狼》三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）风格特征与在苏联的经历，摘要未给出；（3）作品数量是摘要的统计，未与作品目录核对；（4）生卒年未经独立机构印证。（GND 对照，2026-11-25）德国国家图书馆规范档（118596721）生卒 1891—1953，与本条目一致，已独立印证（只印证生卒与身份）。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）风格特征与在苏联的经历，摘要未给出；（3）作品数量是摘要的统计，未与作品目录核对；（4）生卒年未经独立机构印证。（GND 对照，2026-11-25）德国国家图书馆规范档（118596721）生卒 1891—1953，与本条目一致，已独立印证（只印证生卒与身份）。（GND 作品对照，2026-11-25）德国国家图书馆规范档有本条目所列作品的作品记录，作曲者与本人记录一致：《彼得与狼》（GND 标目“Petja i volk”，创作年代 1936）；《基热中尉》（GND 标目“Poručik Kiže”，创作年代 1934）；《三橘爱》（GND 标目“Ljubov' k trem apel'sinam”，创作年代 1919）。这些记录只印证作品归属与年代，不印证条目其余内容。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='prokofiev 示意图'><title>prokofiev</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>俄国·苏联</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>后在苏联工作</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>普罗科菲耶夫</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1891—1953</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>舞台作品</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>歌剧·舞剧</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>彼得与狼</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>广为流传</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
@@ -23703,7 +23708,9 @@
       "sources": [
         "enc-mendelssohn",
         "wd-mendelssohn",
-        "gnd-118580779"
+        "gnd-118580779",
+        "gnd-300101392",
+        "gnd-30010233x"
       ],
       "level": "L2",
       "sections": {
@@ -23713,7 +23720,7 @@
         "技法或形式分析": "摘要只列体裁：交响曲、协奏曲、钢琴曲、管风琴曲、室内乐。本条目不补写技法分析。",
         "与前后风格的关系和争论": "摘要没有谈及他与前后风格的关系或相关争论。",
         "一图": "示意图以门德尔松为中心，标示浪漫主义早期、交响曲与序曲、《无词歌》三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）风格特征、生卒年与生平，摘要均未给出。（GND 对照，2026-11-25）德国国家图书馆规范档（118580779）给出生卒 1809—1847；已据此写入“时代背景”，但只有 GND 一家，未与第二来源核对。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）风格特征、生卒年与生平，摘要均未给出。（GND 对照，2026-11-25）德国国家图书馆规范档（118580779）给出生卒 1809—1847；已据此写入“时代背景”，但只有 GND 一家，未与第二来源核对。（GND 作品对照，2026-11-25）德国国家图书馆规范档有本条目所列作品的作品记录，作曲者与本人记录一致：《以利亚》（GND 标目“Elias”，创作年代 1845-1846）；《圣保罗》（GND 标目“Paulus”，创作年代 1836）。这些记录只印证作品归属与年代，不印证条目其余内容。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='mendelssohn 示意图'><title>mendelssohn</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>浪漫主义早期</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>德国</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>门德尔松</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>作曲·钢琴·指挥</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>交响曲与序曲</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>意大利·苏格兰</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>无词歌</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>钢琴独奏</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
@@ -23739,7 +23746,13 @@
       "sources": [
         "enc-berlioz",
         "wd-berlioz",
-        "gnd-118509675"
+        "gnd-118509675",
+        "gnd-300019416",
+        "gnd-300019289",
+        "gnd-300019459",
+        "gnd-300019181",
+        "gnd-300204744",
+        "gnd-300019130"
       ],
       "level": "L2",
       "sections": {
@@ -23749,7 +23762,7 @@
         "技法或形式分析": "摘要没有给出配器或曲式方面的内容，本条目不补写。",
         "与前后风格的关系和争论": "摘要没有谈及他与标题音乐的关系；库内互链为本项目所加。",
         "一图": "示意图以柏辽兹为中心，标示《幻想交响曲》、三部歌剧、混合体裁三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）风格、生卒年与评论活动细节，摘要均未给出；（3）“混合体裁”是对摘要所引两种自称体裁的概括。（GND 对照，2026-11-25）德国国家图书馆规范档（118509675）给出生卒 1803—1869；已据此写入“时代背景”，但只有 GND 一家，未与第二来源核对。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）风格、生卒年与评论活动细节，摘要均未给出；（3）“混合体裁”是对摘要所引两种自称体裁的概括。（GND 对照，2026-11-25）德国国家图书馆规范档（118509675）给出生卒 1803—1869；已据此写入“时代背景”，但只有 GND 一家，未与第二来源核对。（GND 作品对照，2026-11-25）德国国家图书馆规范档有本条目所列作品的作品记录，作曲者与本人记录一致：《幻想交响曲》（GND 标目“Symphonie fantastique”，创作年代 1830）；《哈罗尔德在意大利》（GND 标目“Harold en Italie”，创作年代 1834）；《特洛伊人》（GND 标目“Les Troyens”，创作年代 1856-1858）；《浮士德的天谴》（GND 标目“La damnation de Faust”，创作年代 1846）；《本韦努托·切利尼》（GND 标目“Benvenuto Cellini”，创作年代 1834-1838）；《比阿特丽斯与贝内迪克》（GND 标目“Béatrice et Bénédict”，创作年代 1860-1862）。这些记录只印证作品归属与年代，不印证条目其余内容。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='berlioz 示意图'><title>berlioz</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>幻想交响曲</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>管弦乐</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>柏辽兹</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>作曲·指挥·评论</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>三部歌剧</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>特洛伊人等</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>混合体裁</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>戏剧交响曲等</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
@@ -25162,7 +25175,8 @@
       "sources": [
         "enc-smetana",
         "wd-smetana",
-        "gnd-118615017"
+        "gnd-118615017",
+        "gnd-300149573"
       ],
       "level": "L2",
       "sections": {
@@ -25172,7 +25186,7 @@
         "技法或形式分析": "摘要没有给出这方面内容，本条目不补写。",
         "与前后风格的关系和争论": "摘要称，他在祖国被视为“捷克音乐之父”。德沃夏克条目的摘要称德沃夏克追随斯美塔那的民族主义先例，那是另一条目的内容。",
         "一图": "示意图以斯美塔那为中心，标示民族复兴、《被出卖的新嫁娘》、《我的祖国》三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“捷克音乐之父”是本国评价；（3）生卒年未给出。（GND 对照，2026-11-25）德国国家图书馆规范档（118615017）给出生卒 1824—1884；已据此写入“时代背景”，但只有 GND 一家，未与第二来源核对。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“捷克音乐之父”是本国评价；（3）生卒年未给出。（GND 对照，2026-11-25）德国国家图书馆规范档（118615017）给出生卒 1824—1884；已据此写入“时代背景”，但只有 GND 一家，未与第二来源核对。（GND 作品对照，2026-11-25）德国国家图书馆规范档有本条目所列作品的作品记录，作曲者与本人记录一致：《我的祖国》（GND 标目“Má vlast”，创作年代 1872-1879）。这些记录只印证作品归属与年代，不印证条目其余内容。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='smetana 示意图'><title>smetana</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>民族复兴</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>文化与政治</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>斯美塔那</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>捷克音乐之父</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>被出卖的新嫁娘</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>1866歌剧</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>我的祖国</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>含伏尔塔瓦河</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
@@ -27491,7 +27505,8 @@
       "sources": [
         "enc-verdi",
         "wd-verdi",
-        "gnd-118626523"
+        "gnd-118626523",
+        "gnd-300165951"
       ],
       "level": "L2",
       "sections": {
@@ -27501,7 +27516,7 @@
         "技法或形式分析": "摘要没有给出这方面内容，本条目不补写。",
         "与前后风格的关系和争论": "导言称，他深受罗西尼、贝利尼、多尼采蒂与法国大歌剧（尤其梅耶贝尔、斯蓬蒂尼）影响；早期歌剧表现出对意大利统一运动（复兴运动）的同情，他还短暂当选过政治人物。",
         "一图": "示意图以威尔第为中心，标示意大利前辈、法国大歌剧、复兴运动三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）风格特征导言前段未给出；（3）生日导言作“9或10日”，本条目只写年份。（GND 对照，2026-11-25）德国国家图书馆规范档（118626523）生卒 1813—1901，与本条目一致，已独立印证（只印证生卒与身份）。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）风格特征导言前段未给出；（3）生日导言作“9或10日”，本条目只写年份。（GND 对照，2026-11-25）德国国家图书馆规范档（118626523）生卒 1813—1901，与本条目一致，已独立印证（只印证生卒与身份）。（GND 作品对照，2026-11-25）德国国家图书馆规范档有本条目所列作品的作品记录，作曲者与本人记录一致：《纳布科》（GND 标目“Nabucco”，未载年代）。这些记录只印证作品归属与年代，不印证条目其余内容。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='verdi 示意图'><title>verdi</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>罗西尼等</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>前辈影响</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>威尔第</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1813—1901</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>大歌剧</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>法国影响</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>复兴运动</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>早期同情</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
@@ -27746,7 +27761,11 @@
       "sources": [
         "enc-sibelius",
         "wd-sibelius",
-        "gnd-118642405"
+        "gnd-118642405",
+        "gnd-300148127",
+        "gnd-7559326-9",
+        "gnd-300148585",
+        "gnd-300148232"
       ],
       "level": "L2",
       "sections": {
@@ -27756,7 +27775,7 @@
         "技法或形式分析": "摘要没有给出这方面内容，本条目不补写。",
         "与前后风格的关系和争论": "导言称，他的其他作品取材于自然、北欧神话与芬兰民族史诗《卡勒瓦拉》。格里格条目把三人并提，那是另一条目的内容。",
         "一图": "示意图以西贝柳斯为中心，标示七部交响曲、《芬兰颂》、《卡勒瓦拉》三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“最伟大”为评价性表述；（3）风格特征导言前段未给出。（GND 对照，2026-11-25）德国国家图书馆规范档（118642405）生卒 1865—1957，与本条目一致，已独立印证（只印证生卒与身份）。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“最伟大”为评价性表述；（3）风格特征导言前段未给出。（GND 对照，2026-11-25）德国国家图书馆规范档（118642405）生卒 1865—1957，与本条目一致，已独立印证（只印证生卒与身份）。（GND 作品对照，2026-11-25）德国国家图书馆规范档有本条目所列作品的作品记录，作曲者与本人记录一致：《芬兰颂》（GND 标目“Finlandia”，创作年代 ca. 1900）；《库勒沃》（GND 标目“Kullervo”，创作年代 1891-1892）；《悲伤圆舞曲》（GND 标目“Valse triste”，创作年代 1904）；《卡累利阿组曲》（GND 标目“Karelia-Suite”，创作年代 1893）。这些记录只印证作品归属与年代，不印证条目其余内容。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='sibelius 示意图'><title>sibelius</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>七部交响曲</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>作品核心</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>西贝柳斯</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1865—1957</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>芬兰颂</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>名作</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>卡勒瓦拉</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>取材</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
@@ -27782,7 +27801,8 @@
       "sources": [
         "enc-ravel",
         "wd-ravel",
-        "gnd-118598651"
+        "gnd-118598651",
+        "gnd-300125143"
       ],
       "level": "L2",
       "sections": {
@@ -27792,7 +27812,7 @@
         "技法或形式分析": "导言称，他喜欢试验音乐形式，并以配器能力著称。",
         "与前后风格的关系和争论": "导言称，他常与德彪西一起被归入印象主义，但两位作曲家都拒绝这一术语；1920—30年代他在国际上被视为法国在世最伟大的作曲家。本条目挂在20世纪单元。",
         "一图": "示意图以拉威尔为中心，标示印象主义之称、《波莱罗》、配器三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“印象主义”归类是他本人拒绝的，照录。（GND 对照，2026-11-25）德国国家图书馆规范档（118598651）生卒 1875—1937，与本条目一致，已独立印证（只印证生卒与身份）。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“印象主义”归类是他本人拒绝的，照录。（GND 对照，2026-11-25）德国国家图书馆规范档（118598651）生卒 1875—1937，与本条目一致，已独立印证（只印证生卒与身份）。（GND 作品对照，2026-11-25）德国国家图书馆规范档有本条目所列作品的作品记录，作曲者与本人记录一致：《波莱罗》（GND 标目“Boléro”，创作年代 1928）。这些记录只印证作品归属与年代，不印证条目其余内容。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='ravel 示意图'><title>ravel</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>印象主义</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>本人拒绝此称</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>拉威尔</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1875—1937</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>波莱罗</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>1928</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>配器</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>著称</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
@@ -27818,7 +27838,8 @@
       "sources": [
         "enc-shostakovich",
         "wd-shostakovich",
-        "gnd-118642472"
+        "gnd-118642472",
+        "gnd-300150784"
       ],
       "level": "L2",
       "sections": {
@@ -27828,7 +27849,7 @@
         "技法或形式分析": "摘要没有给出这方面内容，本条目不补写。",
         "与前后风格的关系和争论": "导言称，他仍是俄罗斯联邦最高苏维埃（1947）与苏联最高苏维埃（1962年起至去世）代表。他与政权关系的诠释在学界有争议，导言前段只陈述事件，本条目不作判断。",
         "一图": "示意图以肖斯塔科维奇为中心，标示第一交响曲、《麦克白夫人》遭批、日丹诺夫批判三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）风格特征导言前段未给出；（3）与政权关系的诠释不作判断。（GND 对照，2026-11-25）德国国家图书馆规范档（118642472）生卒 1906—1975，与本条目一致，已独立印证（只印证生卒与身份）。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 导言（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）风格特征导言前段未给出；（3）与政权关系的诠释不作判断。（GND 对照，2026-11-25）德国国家图书馆规范档（118642472）生卒 1906—1975，与本条目一致，已独立印证（只印证生卒与身份）。（GND 作品对照，2026-11-25）德国国家图书馆规范档有本条目所列作品的作品记录，作曲者与本人记录一致：《姆钦斯克县的麦克白夫人》（GND 标目“Ledi Makbet Mcenskogo uezda”，未载年代）。这些记录只印证作品归属与年代，不印证条目其余内容。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='shostakovich 示意图'><title>shostakovich</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>第一交响曲</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1926成名</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>肖斯塔科维奇</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1906—1975</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>麦克白夫人</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>1934后遭谴责</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>日丹诺夫</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>1948批判</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,

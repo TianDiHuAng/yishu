@@ -13109,6 +13109,216 @@
       "type": "博物馆藏品记录",
       "verified": true,
       "verified_note": "2026-11-25 经丹麦国家美术馆开放接口（api.smk.dk）取回该藏品记录，馆藏号、题名、年代、技法、尺寸与展签匹配；记录缓存于 tmp/smk_c212.json"
+    },
+    {
+      "id": "gnd-300013353",
+      "title": "GND — A csodálatos mandarin（作品）, 300013353",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/300013353",
+      "type": "国家图书馆作品规范记录（标目、作曲者、创作年代）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；firstComposer 为 GND 118506900，标目“A csodálatos mandarin”精确匹配，创作年代 1918-1919"
+    },
+    {
+      "id": "gnd-300013434",
+      "title": "GND — A kékszakállú herceg vára（作品）, 300013434",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/300013434",
+      "type": "国家图书馆作品规范记录（标目、作曲者、创作年代）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；firstComposer 为 GND 118506900，标目“A kékszakállú herceg vára”精确匹配，创作年代 1911"
+    },
+    {
+      "id": "gnd-300121628",
+      "title": "GND — Petja i volk（作品）, 300121628",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/300121628",
+      "type": "国家图书馆作品规范记录（标目、作曲者、创作年代）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；firstComposer 为 GND 118596721，标目“Petja i volk”精确匹配，创作年代 1936"
+    },
+    {
+      "id": "gnd-300121636",
+      "title": "GND — Poručik Kiže（作品）, 300121636",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/300121636",
+      "type": "国家图书馆作品规范记录（标目、作曲者、创作年代）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；firstComposer 为 GND 118596721，标目“Poručik Kiže”精确匹配，创作年代 1934"
+    },
+    {
+      "id": "gnd-300121555",
+      "title": "GND — Ljubov' k trem apel'sinam（作品）, 300121555",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/300121555",
+      "type": "国家图书馆作品规范记录（标目、作曲者、创作年代）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；firstComposer 为 GND 118596721，标目“Ljubov' k trem apel'sinam”精确匹配，创作年代 1919"
+    },
+    {
+      "id": "gnd-300101392",
+      "title": "GND — Elias（作品）, 300101392",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/300101392",
+      "type": "国家图书馆作品规范记录（标目、作曲者、创作年代）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；firstComposer 为 GND 118580779，标目“Elias”精确匹配，创作年代 1845-1846"
+    },
+    {
+      "id": "gnd-30010233x",
+      "title": "GND — Paulus（作品）, 30010233X",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/30010233X",
+      "type": "国家图书馆作品规范记录（标目、作曲者、创作年代）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；firstComposer 为 GND 118580779，标目“Paulus”精确匹配，创作年代 1836"
+    },
+    {
+      "id": "gnd-300019416",
+      "title": "GND — Symphonie fantastique（作品）, 300019416",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/300019416",
+      "type": "国家图书馆作品规范记录（标目、作曲者、创作年代）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；firstComposer 为 GND 118509675，标目“Symphonie fantastique”精确匹配，创作年代 1830"
+    },
+    {
+      "id": "gnd-300019289",
+      "title": "GND — Harold en Italie（作品）, 300019289",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/300019289",
+      "type": "国家图书馆作品规范记录（标目、作曲者、创作年代）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；firstComposer 为 GND 118509675，标目“Harold en Italie”精确匹配，创作年代 1834"
+    },
+    {
+      "id": "gnd-300019459",
+      "title": "GND — Les Troyens（作品）, 300019459",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/300019459",
+      "type": "国家图书馆作品规范记录（标目、作曲者、创作年代）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；firstComposer 为 GND 118509675，标目“Les Troyens”精确匹配，创作年代 1856-1858"
+    },
+    {
+      "id": "gnd-300019181",
+      "title": "GND — La damnation de Faust（作品）, 300019181",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/300019181",
+      "type": "国家图书馆作品规范记录（标目、作曲者、创作年代）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；firstComposer 为 GND 118509675，标目“La damnation de Faust”精确匹配，创作年代 1846"
+    },
+    {
+      "id": "gnd-300204744",
+      "title": "GND — Benvenuto Cellini（作品）, 300204744",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/300204744",
+      "type": "国家图书馆作品规范记录（标目、作曲者、创作年代）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；firstComposer 为 GND 118509675，标目“Benvenuto Cellini”精确匹配，创作年代 1834-1838"
+    },
+    {
+      "id": "gnd-300019130",
+      "title": "GND — Béatrice et Bénédict（作品）, 300019130",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/300019130",
+      "type": "国家图书馆作品规范记录（标目、作曲者、创作年代）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；firstComposer 为 GND 118509675，标目“Béatrice et Bénédict”精确匹配，创作年代 1860-1862"
+    },
+    {
+      "id": "gnd-300149573",
+      "title": "GND — Má vlast（作品）, 300149573",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/300149573",
+      "type": "国家图书馆作品规范记录（标目、作曲者、创作年代）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；firstComposer 为 GND 118615017，标目“Má vlast”精确匹配，创作年代 1872-1879"
+    },
+    {
+      "id": "gnd-300148127",
+      "title": "GND — Finlandia（作品）, 300148127",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/300148127",
+      "type": "国家图书馆作品规范记录（标目、作曲者、创作年代）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；firstComposer 为 GND 118642405，标目“Finlandia”精确匹配，创作年代 ca. 1900"
+    },
+    {
+      "id": "gnd-7559326-9",
+      "title": "GND — Kullervo（作品）, 7559326-9",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/7559326-9",
+      "type": "国家图书馆作品规范记录（标目、作曲者、创作年代）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；firstComposer 为 GND 118642405，标目“Kullervo”精确匹配，创作年代 1891-1892"
+    },
+    {
+      "id": "gnd-300148585",
+      "title": "GND — Valse triste（作品）, 300148585",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/300148585",
+      "type": "国家图书馆作品规范记录（标目、作曲者、创作年代）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；firstComposer 为 GND 118642405，标目“Valse triste”精确匹配，创作年代 1904"
+    },
+    {
+      "id": "gnd-300148232",
+      "title": "GND — Karelia-Suite（作品）, 300148232",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/300148232",
+      "type": "国家图书馆作品规范记录（标目、作曲者、创作年代）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；firstComposer 为 GND 118642405，标目“Karelia-Suite”精确匹配，创作年代 1893"
+    },
+    {
+      "id": "gnd-300125143",
+      "title": "GND — Boléro（作品）, 300125143",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/300125143",
+      "type": "国家图书馆作品规范记录（标目、作曲者、创作年代）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；firstComposer 为 GND 118598651，标目“Boléro”精确匹配，创作年代 1928"
+    },
+    {
+      "id": "gnd-300150784",
+      "title": "GND — Ledi Makbet Mcenskogo uezda（作品）, 300150784",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/300150784",
+      "type": "国家图书馆作品规范记录（标目、作曲者、创作年代）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；firstComposer 为 GND 118642472，标目“Ledi Makbet Mcenskogo uezda”精确匹配，创作年代 未载"
+    },
+    {
+      "id": "gnd-300165951",
+      "title": "GND — Nabucco（作品）, 300165951",
+      "author": "Deutsche Nationalbibliothek（Gemeinsame Normdatei，经 lobid.org）",
+      "year": "2026",
+      "url": "https://d-nb.info/gnd/300165951",
+      "type": "国家图书馆作品规范记录（标目、作曲者、创作年代）",
+      "verified": true,
+      "verified_note": "2026-11-25 经 lobid.org 取回；firstComposer 为 GND 118626523，标目“Nabucco”精确匹配，创作年代 未载"
     }
   ]
 }

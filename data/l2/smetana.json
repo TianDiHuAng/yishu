@@ -8,13 +8,14 @@
     "技法或形式分析": "摘要没有给出这方面内容，本条目不补写。",
     "与前后风格的关系和争论": "摘要称，他在祖国被视为“捷克音乐之父”。德沃夏克条目的摘要称德沃夏克追随斯美塔那的民族主义先例，那是另一条目的内容。",
     "一图": "示意图以斯美塔那为中心，标示民族复兴、《被出卖的新嫁娘》、《我的祖国》三项。",
-    "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“捷克音乐之父”是本国评价；（3）生卒年未给出。（GND 对照，2026-11-25）德国国家图书馆规范档（118615017）给出生卒 1824—1884；已据此写入“时代背景”，但只有 GND 一家，未与第二来源核对。"
+    "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“捷克音乐之父”是本国评价；（3）生卒年未给出。（GND 对照，2026-11-25）德国国家图书馆规范档（118615017）给出生卒 1824—1884；已据此写入“时代背景”，但只有 GND 一家，未与第二来源核对。（GND 作品对照，2026-11-25）德国国家图书馆规范档有本条目所列作品的作品记录，作曲者与本人记录一致：《我的祖国》（GND 标目“Má vlast”，创作年代 1872-1879）。这些记录只印证作品归属与年代，不印证条目其余内容。"
   },
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='smetana 示意图'><title>smetana</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>民族复兴</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>文化与政治</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>斯美塔那</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>捷克音乐之父</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>被出卖的新嫁娘</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>1866歌剧</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>我的祖国</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>含伏尔塔瓦河</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
   "sources": [
     "enc-smetana",
     "wd-smetana",
-    "gnd-118615017"
+    "gnd-118615017",
+    "gnd-300149573"
   ],
   "needs_verification": true,
   "pending_notes": "生卒 1824—1884 取自 GND 规范档（单一来源，未与第二家核对）；来源独立性有限（Wikipedia+Wikidata）。"
