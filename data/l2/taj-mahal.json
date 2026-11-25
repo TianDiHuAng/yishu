@@ -1,0 +1,20 @@
+{
+  "id": "taj-mahal",
+  "level": "L2",
+  "sections": {
+    "时代背景": "1631年下令修建；完工年份摘要未给出。",
+    "风格特征": "摘要称，印度阿格拉亚穆纳河右岸的象牙白大理石陵墓，1631年由沙贾汗下令修建。",
+    "代表人物与作品": "下令者沙贾汗；建筑师摘要没有给出，本条目不补写。",
+    "技法或形式分析": "象牙白大理石；17公顷建筑群，含清真寺、宾馆与规整园林。",
+    "与前后风格的关系和争论": "摘要没有谈其风格渊源，本条目不补写。",
+    "一图": "示意图以泰姬陵为中心，标示沙贾汗、蒙塔兹、园林。",
+    "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）摘要未给出的作品细节、年代与人物一律未补写。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='taj-mahal 示意图'><title>taj-mahal</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>沙贾汗</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1631下令</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>泰姬陵</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>大理石陵墓</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>蒙塔兹</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>安葬</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>园林</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>17公顷</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
+  "sources": [
+    "enc-taj-mahal",
+    "wd-taj-mahal"
+  ],
+  "needs_verification": true,
+  "pending_notes": "来源独立性有限（Wikipedia+Wikidata）"
+}

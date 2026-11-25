@@ -165,7 +165,8 @@
         "roman-art",
         "byzantine-architecture",
         "giotto",
-        "carolingian-art"
+        "carolingian-art",
+        "hagia-sophia"
       ],
       "sources": [
         "enc-byzantine-art",
@@ -338,7 +339,8 @@
         "veronese-barbarigo-portrait",
         "fresco",
         "contrapposto",
-        "titian"
+        "titian",
+        "brunelleschi"
       ],
       "sources": [
         "enc-high-renaissance",
@@ -1225,7 +1227,8 @@
         "art-deco",
         "modern-architecture",
         "constructivism-art",
-        "de-stijl"
+        "de-stijl",
+        "le-corbusier"
       ],
       "sources": [
         "enc-bauhaus",
@@ -1661,7 +1664,8 @@
         "wu-school",
         "shen-zhou",
         "qiu-ying",
-        "cma-qiu-ying-tea"
+        "cma-qiu-ying-tea",
+        "forbidden-city"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -1687,7 +1691,8 @@
         "bada-shanren",
         "shitao",
         "wu-changshuo",
-        "four-wangs"
+        "four-wangs",
+        "forbidden-city"
       ],
       "sources": [
         "enc-chinese-painting",
@@ -13756,7 +13761,9 @@
         "gothic-architecture",
         "baroque-architecture",
         "neoclassical-architecture",
-        "beaux-arts-architecture"
+        "beaux-arts-architecture",
+        "brunelleschi",
+        "palladio"
       ],
       "sources": [
         "enc-renaissance-architecture",
@@ -13807,7 +13814,9 @@
         "neoclassicism",
         "baroque-architecture",
         "renaissance-architecture",
-        "gothic-revival-architecture"
+        "gothic-revival-architecture",
+        "palladio",
+        "parthenon"
       ],
       "sources": [
         "enc-neoclassical-architecture",
@@ -13830,7 +13839,8 @@
       "related": [
         "byzantine-art",
         "fresco",
-        "romanesque-architecture"
+        "romanesque-architecture",
+        "hagia-sophia"
       ],
       "sources": [
         "enc-byzantine-architecture",
@@ -13855,7 +13865,8 @@
         "khmer-architecture",
         "china-painting-history",
         "japanese-architecture",
-        "korean-architecture"
+        "korean-architecture",
+        "forbidden-city"
       ],
       "sources": [
         "enc-chinese-architecture",
@@ -13882,7 +13893,9 @@
         "mughal-architecture",
         "spanish-architecture",
         "islamic-calligraphy",
-        "arabesque"
+        "arabesque",
+        "hagia-sophia",
+        "taj-mahal"
       ],
       "sources": [
         "enc-islamic-architecture",
@@ -14069,7 +14082,8 @@
         "mughal-alamgir-portrait",
         "indian-architecture",
         "gupta-art",
-        "mughal-painting"
+        "mughal-painting",
+        "taj-mahal"
       ],
       "sources": [
         "enc-mughal-architecture",
@@ -14164,7 +14178,11 @@
       "related": [
         "bauhaus",
         "art-deco",
-        "modern-art"
+        "modern-art",
+        "le-corbusier",
+        "frank-lloyd-wright",
+        "brutalism",
+        "postmodern-architecture"
       ],
       "sources": [
         "enc-modern-architecture",
@@ -19463,6 +19481,425 @@
       ],
       "sources": [
         "cma-1997-94"
+      ]
+    },
+    {
+      "id": "photography",
+      "title": "摄影史（History of photography）",
+      "kind": "时期",
+      "unit": "art-modern",
+      "era": "19世纪—今",
+      "region": "全球",
+      "medium": "摄影",
+      "tier": "核心",
+      "def": "摄影的历史始于两项原理的发现：暗箱成像与某些物质见光会发生可见变化。",
+      "when": "18世纪以前无尝试；19世纪起（本项目划分）",
+      "overview": "摄影史始于两项关键原理的发现：一是暗箱的成像投影，二是某些物质受光照后会发生可见变化。摘要称，18世纪以前没有任何器物或记载表明有人尝试用感光材料捕捉影像。",
+      "related": [
+        "niepce",
+        "daguerre",
+        "talbot",
+        "pictorialism",
+        "straight-photography",
+        "documentary-photography",
+        "stieglitz"
+      ],
+      "sources": [
+        "enc-photography",
+        "wd-photography"
+      ]
+    },
+    {
+      "id": "niepce",
+      "title": "尼埃普斯（Nicéphore Niépce）",
+      "kind": "人物",
+      "unit": "art-modern",
+      "era": "19世纪",
+      "region": "法国",
+      "medium": "摄影",
+      "tier": "核心",
+      "def": "法国发明家（1765—1833），摄影先驱之一，发明日光蚀刻法。",
+      "when": "1765—1833",
+      "overview": "尼埃普斯是法国发明家、摄影先驱之一。他发展了日光蚀刻法（heliography），用它制成了世界上现存最早的摄影工艺成品。1820年代中期，他用一台简陋相机拍出现存最早的实景照片。他的其他发明还有与兄长克洛德共同研制的“火焰喷射机”（Pyréolophore），是世界上最早的内燃机之一。",
+      "related": [
+        "daguerre",
+        "photography",
+        "talbot"
+      ],
+      "sources": [
+        "enc-niepce",
+        "wd-niepce"
+      ]
+    },
+    {
+      "id": "daguerre",
+      "title": "达盖尔（Louis Daguerre）",
+      "kind": "人物",
+      "unit": "art-modern",
+      "era": "19世纪",
+      "region": "法国",
+      "medium": "摄影",
+      "tier": "核心",
+      "def": "法国科学家、艺术家与摄影家（1787—1851），发明达盖尔银版法。",
+      "when": "1787—1851",
+      "overview": "达盖尔是法国科学家、艺术家与摄影家，以发明以其名字命名的达盖尔银版法著称，被视为“摄影之父”之一。除摄影外，他也是有成就的画家、舞台布景设计师，并发展了透视画剧场（diorama）。",
+      "related": [
+        "niepce",
+        "talbot",
+        "photography"
+      ],
+      "sources": [
+        "enc-daguerre",
+        "wd-daguerre"
+      ]
+    },
+    {
+      "id": "talbot",
+      "title": "塔尔博特（Henry Fox Talbot）",
+      "kind": "人物",
+      "unit": "art-modern",
+      "era": "19世纪",
+      "region": "英国",
+      "medium": "摄影",
+      "tier": "核心",
+      "def": "英国科学家、发明家与摄影先驱（1800—1877），发明盐纸与卡罗式工艺。",
+      "when": "1800—1877",
+      "overview": "塔尔博特是英国科学家、发明家和摄影先驱，发明了盐纸印相与卡罗式（calotype）工艺，是19世纪后期和20世纪摄影工艺的前身。他1840年代的照相制版研究催生了照相雕版工艺，即凹版照相的前身。他持有一项有争议的专利，影响了英国商业摄影的早期发展。他也是知名摄影家，推动摄影成为艺术媒介，出版了以卡罗式底片原作盐纸照片为插图的《自然的画笔》（1844—1846）。",
+      "related": [
+        "daguerre",
+        "niepce",
+        "photography"
+      ],
+      "sources": [
+        "enc-talbot",
+        "wd-talbot"
+      ]
+    },
+    {
+      "id": "pictorialism",
+      "title": "画意摄影（Pictorialism）",
+      "kind": "风格",
+      "unit": "art-modern",
+      "era": "19—20世纪初",
+      "region": "全球",
+      "medium": "摄影",
+      "tier": "核心",
+      "def": "19世纪后期至20世纪初主导摄影的国际风格与美学运动。",
+      "when": "19世纪后期—20世纪初",
+      "overview": "画意摄影是19世纪后期至20世纪初主导摄影的国际风格与美学运动。这个词没有标准定义，一般指摄影师以某种方式处理原本直接的照片，以“创造”而非单纯“记录”影像。画意照片通常焦点不锐利，以黑白以外的一种或多种颜色印制，表面可能有可见的笔触或其他加工。对画意摄影师而言，照片和绘画、素描、版画一样，是把情感意图投射到观者想象中的方式。",
+      "related": [
+        "straight-photography",
+        "stieglitz",
+        "photography"
+      ],
+      "sources": [
+        "enc-pictorialism",
+        "wd-pictorialism"
+      ]
+    },
+    {
+      "id": "straight-photography",
+      "title": "纯粹摄影（Straight photography）",
+      "kind": "风格",
+      "unit": "art-modern",
+      "era": "20世纪",
+      "region": "美国",
+      "medium": "摄影",
+      "tier": "核心",
+      "def": "力求以清晰焦点与细节描绘对象、发挥摄影区别于绘画之特质的摄影。",
+      "when": "1904年起",
+      "overview": "纯粹摄影力求以清晰的焦点和细节描绘场景或对象，体现摄影区别于其他视觉媒介、尤其是绘画的特质。这个词早在1904年由评论家哈特曼在《摄影作品》杂志上使用，后由主编斯蒂格利茨推广，视为比画意摄影更纯粹的摄影形式。经斯蒂格利茨与保罗·斯特兰德等人推广后，它成为韦斯顿、安塞尔·亚当斯等西方摄影家的标志。",
+      "related": [
+        "pictorialism",
+        "stieglitz",
+        "ansel-adams",
+        "photography",
+        "documentary-photography"
+      ],
+      "sources": [
+        "enc-straight-photography",
+        "wd-straight-photography"
+      ]
+    },
+    {
+      "id": "documentary-photography",
+      "title": "纪实摄影（Documentary photography）",
+      "kind": "风格",
+      "unit": "art-modern",
+      "era": "19世纪—今",
+      "region": "全球",
+      "medium": "摄影",
+      "tier": "重要",
+      "def": "记录对历史及日常生活有意义的事件或环境的摄影形式。",
+      "when": "19世纪—今（本项目划分）",
+      "overview": "纪实摄影通常指用来记录对历史与历史事件以及日常生活有重要意义的事件或环境的摄影形式。它一般作为职业的新闻摄影或真实报道进行，也可以是业余、艺术或学术的实践。社会纪实摄影旨在让公众关注社会问题或弱势人群的生活。",
+      "related": [
+        "photography",
+        "straight-photography"
+      ],
+      "sources": [
+        "enc-documentary-photography",
+        "wd-documentary-photography"
+      ]
+    },
+    {
+      "id": "stieglitz",
+      "title": "斯蒂格利茨（Alfred Stieglitz）",
+      "kind": "人物",
+      "unit": "art-modern",
+      "era": "19—20世纪",
+      "region": "美国",
+      "medium": "摄影",
+      "tier": "核心",
+      "def": "美国摄影家与现代艺术推动者（1864—1946）。",
+      "when": "1864—1946",
+      "overview": "斯蒂格利茨是美国摄影家与现代艺术推动者，50年间对摄影成为公认的艺术形式起了关键作用。他还在20世纪初经营纽约的画廊，向美国介绍了许多欧洲前卫艺术家。他与画家乔治娅·奥基夫结婚。",
+      "related": [
+        "straight-photography",
+        "pictorialism",
+        "photography",
+        "ansel-adams"
+      ],
+      "sources": [
+        "enc-stieglitz",
+        "wd-stieglitz"
+      ]
+    },
+    {
+      "id": "ansel-adams",
+      "title": "安塞尔·亚当斯（Ansel Adams）",
+      "kind": "人物",
+      "unit": "art-modern",
+      "era": "20世纪",
+      "region": "美国",
+      "medium": "摄影",
+      "tier": "重要",
+      "def": "美国风景摄影家与环保人士（1902—1984），以美国西部黑白影像著称。",
+      "when": "1902—1984",
+      "overview": "安塞尔·亚当斯是美国风景摄影家与环保人士，以美国西部的黑白影像著称。他参与创立f/64小组，提倡清晰焦点、用足照片全部影调的“纯粹”摄影。他与弗雷德·阿彻发展了“区域曝光法”，通过理解影调范围如何取决于曝光、底片冲洗与印放中的选择，来得到预想的最终照片。",
+      "related": [
+        "straight-photography",
+        "stieglitz"
+      ],
+      "sources": [
+        "enc-ansel-adams",
+        "wd-ansel-adams"
+      ]
+    },
+    {
+      "id": "brunelleschi",
+      "title": "布鲁内莱斯基（Filippo Brunelleschi）",
+      "kind": "人物",
+      "unit": "art-renaissance",
+      "era": "15世纪",
+      "region": "意大利",
+      "medium": "建筑",
+      "tier": "核心",
+      "def": "意大利建筑师、设计师、金匠与雕塑家（1377—1446），文艺复兴建筑的奠基人。",
+      "when": "1377—1446",
+      "overview": "布鲁内莱斯基是意大利建筑师、设计师、金匠与雕塑家，被视为文艺复兴建筑的奠基人，也被认作第一位现代意义上的工程师、规划者与唯一施工总监。1421年，他成为西方世界第一个获得专利的人。他最著名的是设计佛罗伦萨大教堂穹顶，以及艺术中的线性透视数学方法——后者直到19世纪末都支配着绘画中的空间表现，并影响了现代科学的兴起。他存世作品大多在佛罗伦萨。",
+      "related": [
+        "renaissance-architecture",
+        "high-renaissance",
+        "palladio"
+      ],
+      "sources": [
+        "enc-brunelleschi",
+        "wd-brunelleschi"
+      ]
+    },
+    {
+      "id": "palladio",
+      "title": "帕拉第奥（Andrea Palladio）",
+      "kind": "人物",
+      "unit": "art-renaissance",
+      "era": "16世纪",
+      "region": "意大利",
+      "medium": "建筑",
+      "tier": "核心",
+      "def": "活跃于威尼斯共和国的文艺复兴建筑师（1508—1580）。",
+      "when": "1508—1580",
+      "overview": "帕拉第奥是活跃于威尼斯共和国的意大利文艺复兴建筑师，受罗马与希腊建筑、主要是维特鲁威的影响，被广泛视为建筑史上最有影响的人物之一。他设计过教堂和宫殿，但最著名的是乡村住宅与别墅。他的教学总结在建筑论著《建筑四书》中，使他广受认可。",
+      "related": [
+        "brunelleschi",
+        "renaissance-architecture",
+        "neoclassical-architecture"
+      ],
+      "sources": [
+        "enc-palladio",
+        "wd-palladio"
+      ]
+    },
+    {
+      "id": "le-corbusier",
+      "title": "勒·柯布西耶（Le Corbusier）",
+      "kind": "人物",
+      "unit": "art-modern",
+      "era": "20世纪",
+      "region": "法国",
+      "medium": "建筑",
+      "tier": "核心",
+      "def": "法籍瑞士建筑设计师、画家、城市规划者与作家（1887—1965），现代建筑先驱之一。",
+      "when": "1887—1965",
+      "overview": "勒·柯布西耶本名夏尔-爱德华·让纳雷，法籍瑞士建筑设计师、画家、城市规划者与作家，被称为现代建筑的先驱之一。他生于瑞士讲法语的家庭，1930年入法国籍。50年间他在欧洲、日本、印度和美洲设计建筑。他认为“现代建筑的根源在维奥莱-勒-杜克”。",
+      "related": [
+        "modern-architecture",
+        "bauhaus",
+        "frank-lloyd-wright",
+        "postmodern-architecture"
+      ],
+      "sources": [
+        "enc-le-corbusier",
+        "wd-le-corbusier"
+      ]
+    },
+    {
+      "id": "frank-lloyd-wright",
+      "title": "弗兰克·劳埃德·赖特（Frank Lloyd Wright）",
+      "kind": "人物",
+      "unit": "art-modern",
+      "era": "19—20世纪",
+      "region": "美国",
+      "medium": "建筑",
+      "tier": "核心",
+      "def": "美国建筑师、设计师、作家与教育者（1867—1959），提出“有机建筑”。",
+      "when": "1867—1959",
+      "overview": "弗兰克·劳埃德·赖特是美国建筑师、设计师、作家与教育者，70年间设计了1000多座建筑。他在20世纪建筑运动中起关键作用，通过作品和塔里埃森学社培养的数百名学徒影响了世界各地的建筑师。他主张与人和环境协调的设计，称之为“有机建筑”，流水别墅（1935）即其代表，被称为“美国建筑史上最好的作品”。",
+      "related": [
+        "modern-architecture",
+        "le-corbusier"
+      ],
+      "sources": [
+        "enc-frank-lloyd-wright",
+        "wd-frank-lloyd-wright"
+      ]
+    },
+    {
+      "id": "brutalism",
+      "title": "粗野主义建筑（Brutalist architecture）",
+      "kind": "风格",
+      "unit": "art-contemporary",
+      "era": "20世纪",
+      "region": "英国",
+      "medium": "建筑",
+      "tier": "重要",
+      "def": "1950年代在英国战后重建项目中出现的建筑风格，裸露建材与结构。",
+      "when": "1950年代起",
+      "overview": "粗野主义建筑是1950年代在英国战后重建项目中出现的建筑风格，以极简的构造著称，展示裸露的建材与结构构件而非装饰。它常用裸露未上漆的混凝土或砖、棱角分明的几何形体和以单色为主的色调，也使用钢、木、玻璃等材料。",
+      "related": [
+        "modern-architecture",
+        "postmodern-architecture"
+      ],
+      "sources": [
+        "enc-brutalism",
+        "wd-brutalism"
+      ]
+    },
+    {
+      "id": "postmodern-architecture",
+      "title": "后现代主义建筑（Postmodern architecture）",
+      "kind": "风格",
+      "unit": "art-contemporary",
+      "era": "20世纪",
+      "region": "美国",
+      "medium": "建筑",
+      "tier": "核心",
+      "def": "1960年代兴起、反对现代建筑（尤其国际风格）的严苛与单调的建筑风格。",
+      "when": "1960年代起",
+      "overview": "后现代主义建筑是1960年代兴起的风格或运动，反对现代建筑、尤其是菲利普·约翰逊与希区柯克所倡国际风格的严苛、刻板与缺少变化。斯科特·布朗与文丘里在1972年的《向拉斯维加斯学习》中正式提出这一运动，其基础是文丘里1966年由纽约现代艺术博物馆出版的“温和宣言”《建筑的复杂性与矛盾性》。1977年，詹克斯在《后现代建筑的语言》中宣告现代建筑“死亡”。",
+      "related": [
+        "modern-architecture",
+        "brutalism",
+        "le-corbusier"
+      ],
+      "sources": [
+        "enc-postmodern-architecture",
+        "wd-postmodern-architecture"
+      ]
+    },
+    {
+      "id": "parthenon",
+      "title": "帕特农神庙（Parthenon）",
+      "kind": "作品",
+      "unit": "art-ancient",
+      "era": "公元前5世纪",
+      "region": "希腊",
+      "medium": "建筑",
+      "tier": "核心",
+      "def": "雅典卫城上供奉雅典娜的古神庙。",
+      "when": "公元前5世纪（本项目划分，摘要未给年代）",
+      "overview": "帕特农神庙是希腊雅典卫城上曾供奉女神雅典娜的神庙。其装饰雕塑被视为古典希腊艺术的高峰之一，帕特农神庙也被视为古希腊、西方文明与民主的持久象征。",
+      "related": [
+        "neoclassical-architecture"
+      ],
+      "sources": [
+        "enc-parthenon",
+        "wd-parthenon"
+      ]
+    },
+    {
+      "id": "hagia-sophia",
+      "title": "圣索菲亚大教堂（Hagia Sophia）",
+      "kind": "作品",
+      "unit": "art-medieval",
+      "era": "6世纪",
+      "region": "东罗马",
+      "medium": "建筑",
+      "tier": "核心",
+      "def": "伊斯坦布尔的清真寺与历史遗址，原为东罗马教堂，537年落成。",
+      "when": "公元537年落成",
+      "overview": "圣索菲亚今为伊斯坦布尔的清真寺和重要历史文化遗址，曾为教堂（360—1453）和博物馆（1935—2020）。它是东罗马帝国在原址相继兴建的三座教堂中的最后一座，537年落成，成为当时世界上最大的室内空间，也是最早采用完整帆拱穹顶的建筑之一，被视为拜占庭建筑的典范，据称“改变了建筑史”。1453年君士坦丁堡陷落后改为清真寺，不久加建宣礼塔；1935年成为博物馆。",
+      "related": [
+        "byzantine-architecture",
+        "byzantine-art",
+        "islamic-architecture"
+      ],
+      "sources": [
+        "enc-hagia-sophia",
+        "wd-hagia-sophia"
+      ]
+    },
+    {
+      "id": "taj-mahal",
+      "title": "泰姬陵（Taj Mahal）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "17世纪",
+      "region": "南亚",
+      "medium": "建筑",
+      "tier": "核心",
+      "def": "印度阿格拉亚穆纳河右岸的象牙白大理石陵墓，1631年由沙贾汗下令修建。",
+      "when": "1631年起建",
+      "overview": "泰姬陵是印度北方邦阿格拉亚穆纳河右岸的象牙白大理石陵墓，1631年由莫卧儿第五代皇帝沙贾汗下令修建，安葬其亡妻蒙塔兹·玛哈尔，沙贾汗本人也葬于此。陵墓是一座17公顷建筑群的中心，建筑群包括一座清真寺和一座宾馆，位于三面有雉堞墙围合的规整园林之中。",
+      "related": [
+        "mughal-architecture",
+        "islamic-architecture"
+      ],
+      "sources": [
+        "enc-taj-mahal",
+        "wd-taj-mahal"
+      ]
+    },
+    {
+      "id": "forbidden-city",
+      "title": "紫禁城（Forbidden City）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "明清",
+      "region": "中国",
+      "medium": "建筑",
+      "tier": "核心",
+      "def": "北京皇城中心的皇宫建筑群，明清24位皇帝的居所。",
+      "when": "1420—1924为政治中心",
+      "overview": "紫禁城是北京皇城中心的皇宫建筑群，是明清两代24位皇帝的居所，1420至1924年为中国政治权力中心。今由故宫博物院管理，1987年列入联合国教科文组织世界遗产，是世界上现存规模最大的皇宫建筑群。",
+      "related": [
+        "chinese-architecture",
+        "ming-painting",
+        "qing-painting"
+      ],
+      "sources": [
+        "enc-forbidden-city",
+        "wd-forbidden-city"
       ]
     }
   ]

@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 865 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 884 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -83,6 +83,7 @@
 | mesopotamian-art | 美索不达米亚艺术（Art of Mesopotamia） | 时期 | 史前—铁器时代 | 西亚（两河流域） | 综合 | 重要 | O1、O2 |
 | etruscan-art | 伊特鲁里亚艺术（Etruscan art） | 时期 | 公元前10—前1世纪 | 意大利中部 | 综合 | 重要 | O1、O2 |
 | hellenistic-art | 希腊化艺术（Hellenistic art） | 时期 | 公元前323—前30年 | 希腊世界 | 雕塑 | 核心 | O1、O2 |
+| parthenon | 帕特农神庙（Parthenon） | 作品 | 公元前5世纪 | 希腊 | 建筑 | 核心 | O2 |
 
 ## art-medieval（艺术史·中世纪）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -115,6 +116,7 @@
 | insular-art | 岛屿艺术（Insular art） | 风格 | 中世纪早期 | 不列颠与爱尔兰 | 综合 | 补充 | O1、O2 |
 | illuminated-manuscript | 泥金装饰手抄本（Illuminated manuscript） | 术语 | 中世纪 | 欧洲 | 绘画 | 重要 | O1、O2 |
 | stained-glass | 彩色玻璃（Stained glass） | 术语 | 历代 | 欧洲等 | 建筑 | 重要 | O1、O2 |
+| hagia-sophia | 圣索菲亚大教堂（Hagia Sophia） | 作品 | 6世纪 | 东罗马 | 建筑 | 核心 | O2 |
 
 ## art-renaissance（艺术史·文艺复兴）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -150,6 +152,8 @@
 | bruegel-rabbit-hunt | 老勃鲁盖尔《猎兔》（1560） | 作品 | 1560年 | 佛兰德斯 | 版画 | 重要 | O1、O3 |
 | titian | 提香（Titian） | 人物 | 16世纪 | 意大利（威尼斯） | 绘画 | 核心 | O1、O3 |
 | jan-van-eyck | 扬·凡·艾克（Jan van Eyck） | 人物 | 15世纪 | 尼德兰（布鲁日） | 绘画 | 核心 | O1、O3 |
+| brunelleschi | 布鲁内莱斯基（Filippo Brunelleschi） | 人物 | 15世纪 | 意大利 | 建筑 | 核心 | O1、O3 |
+| palladio | 帕拉第奥（Andrea Palladio） | 人物 | 16世纪 | 意大利 | 建筑 | 核心 | O1、O3 |
 
 ## art-baroque（艺术史·巴洛克与洛可可）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -289,6 +293,17 @@
 | picasso-door-guitar | 毕加索《有门、吉他与酒瓶的静物》（1916） | 作品 | 1916年 | 欧洲 | 绘画 | 重要 | O1 |
 | braque-trees | 布拉克《树》（1908） | 作品 | 1908年 | 欧洲 | 绘画 | 重要 | O1 |
 | nolde-child-bird | 诺尔德《孩子与大鸟》（1912） | 作品 | 1912年 | 欧洲 | 绘画 | 补充 | O1 |
+| photography | 摄影史（History of photography） | 时期 | 19世纪—今 | 全球 | 摄影 | 核心 | O1 |
+| niepce | 尼埃普斯（Nicéphore Niépce） | 人物 | 19世纪 | 法国 | 摄影 | 核心 | O1 |
+| daguerre | 达盖尔（Louis Daguerre） | 人物 | 19世纪 | 法国 | 摄影 | 核心 | O1 |
+| talbot | 塔尔博特（Henry Fox Talbot） | 人物 | 19世纪 | 英国 | 摄影 | 核心 | O1 |
+| pictorialism | 画意摄影（Pictorialism） | 风格 | 19—20世纪初 | 全球 | 摄影 | 核心 | O1 |
+| straight-photography | 纯粹摄影（Straight photography） | 风格 | 20世纪 | 美国 | 摄影 | 核心 | O1 |
+| documentary-photography | 纪实摄影（Documentary photography） | 风格 | 19世纪—今 | 全球 | 摄影 | 重要 | O1 |
+| stieglitz | 斯蒂格利茨（Alfred Stieglitz） | 人物 | 19—20世纪 | 美国 | 摄影 | 核心 | O1 |
+| ansel-adams | 安塞尔·亚当斯（Ansel Adams） | 人物 | 20世纪 | 美国 | 摄影 | 重要 | O1 |
+| le-corbusier | 勒·柯布西耶（Le Corbusier） | 人物 | 20世纪 | 法国 | 建筑 | 核心 | O1 |
+| frank-lloyd-wright | 弗兰克·劳埃德·赖特（Frank Lloyd Wright） | 人物 | 19—20世纪 | 美国 | 建筑 | 核心 | O1 |
 
 ## art-contemporary（艺术史·当代）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -317,6 +332,8 @@
 | fluxus | 激浪派（Fluxus） | 风格 | 1960—1970年代 | 国际 | 综合 | 重要 | O1 |
 | arte-povera | 贫穷艺术（Arte Povera） | 风格 | 1960年代末—1970年代初 | 意大利 | 综合 | 补充 | O1 |
 | pollock | 波洛克（Jackson Pollock） | 人物 | 20世纪 | 美国 | 绘画 | 核心 | O1 |
+| brutalism | 粗野主义建筑（Brutalist architecture） | 风格 | 20世纪 | 英国 | 建筑 | 重要 | O1 |
+| postmodern-architecture | 后现代主义建筑（Postmodern architecture） | 风格 | 20世纪 | 美国 | 建筑 | 核心 | O1 |
 
 ## art-china-painting（中国绘画史）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -750,6 +767,8 @@
 | kabuki | 歌舞伎（Kabuki） | 风格 | 江户时代起 | 日本 | 综合 | 核心 | O1 |
 | sesshu | 雪舟（Sesshū Tōyō） | 人物 | 15世纪 | 日本 | 绘画 | 核心 | O1 |
 | raja-ravi-varma | 拉贾·拉维·瓦尔马（Raja Ravi Varma） | 人物 | 19世纪 | 南亚 | 绘画 | 重要 | O1 |
+| taj-mahal | 泰姬陵（Taj Mahal） | 作品 | 17世纪 | 南亚 | 建筑 | 核心 | O1 |
+| forbidden-city | 紫禁城（Forbidden City） | 作品 | 明清 | 中国 | 建筑 | 核心 | O6 |
 
 ## art-islamic（伊斯兰艺术（西亚·中亚））
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

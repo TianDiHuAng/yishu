@@ -14729,6 +14729,386 @@
       "type": "权威机构藏品记录",
       "verified": true,
       "verified_note": "2026-11-25 克利夫兰艺术博物馆开放数据 API HTTP 200；册页 纸本水墨设色 画心39.8×56.9cm；说明含赵孟頫外孙、黄鹤山樵、明初入狱"
+    },
+    {
+      "id": "enc-photography",
+      "title": "History of photography",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/History_of_photography",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-photography",
+      "title": "Wikidata: History of photography (Q355472)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q355472",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-niepce",
+      "title": "Nicéphore Niépce",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Nicéphore_Niépce",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-niepce",
+      "title": "Wikidata: Nicéphore Niépce (Q188342)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q188342",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-daguerre",
+      "title": "Louis Daguerre",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Louis_Daguerre",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-daguerre",
+      "title": "Wikidata: Louis Daguerre (Q131405)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q131405",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-talbot",
+      "title": "Henry Fox Talbot",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Henry_Fox_Talbot",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-talbot",
+      "title": "Wikidata: Henry Fox Talbot (Q299565)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q299565",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-pictorialism",
+      "title": "Pictorialism",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Pictorialism",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-pictorialism",
+      "title": "Wikidata: Pictorialism (Q851869)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q851869",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-straight-photography",
+      "title": "Straight photography",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Straight_photography",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-straight-photography",
+      "title": "Wikidata: Straight photography (Q1886249)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q1886249",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-documentary-photography",
+      "title": "Documentary photography",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Documentary_photography",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-documentary-photography",
+      "title": "Wikidata: Documentary photography (Q615498)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q615498",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-stieglitz",
+      "title": "Alfred Stieglitz",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Alfred_Stieglitz",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-stieglitz",
+      "title": "Wikidata: Alfred Stieglitz (Q313055)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q313055",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-ansel-adams",
+      "title": "Ansel Adams",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Ansel_Adams",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-ansel-adams",
+      "title": "Wikidata: Ansel Adams (Q60809)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q60809",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-brunelleschi",
+      "title": "Filippo Brunelleschi",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Filippo_Brunelleschi",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-brunelleschi",
+      "title": "Wikidata: Filippo Brunelleschi (Q174330)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q174330",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-palladio",
+      "title": "Andrea Palladio",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Andrea_Palladio",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-palladio",
+      "title": "Wikidata: Andrea Palladio (Q177692)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q177692",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-le-corbusier",
+      "title": "Le Corbusier",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Le_Corbusier",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-le-corbusier",
+      "title": "Wikidata: Le Corbusier (Q4724)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q4724",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-frank-lloyd-wright",
+      "title": "Frank Lloyd Wright",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Frank_Lloyd_Wright",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-frank-lloyd-wright",
+      "title": "Wikidata: Frank Lloyd Wright (Q5604)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q5604",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-brutalism",
+      "title": "Brutalist architecture",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Brutalist_architecture",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-brutalism",
+      "title": "Wikidata: Brutalist architecture (Q994776)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q994776",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-postmodern-architecture",
+      "title": "Postmodern architecture",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Postmodern_architecture",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-postmodern-architecture",
+      "title": "Wikidata: Postmodern architecture (Q595448)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q595448",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-parthenon",
+      "title": "Parthenon",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Parthenon",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-parthenon",
+      "title": "Wikidata: Parthenon (Q10288)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q10288",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-hagia-sophia",
+      "title": "Hagia Sophia",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Hagia_Sophia",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-hagia-sophia",
+      "title": "Wikidata: Hagia Sophia (Q12506)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q12506",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-taj-mahal",
+      "title": "Taj Mahal",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Taj_Mahal",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-taj-mahal",
+      "title": "Wikidata: Taj Mahal (Q9141)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q9141",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "enc-forbidden-city",
+      "title": "Forbidden City",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "url": "https://en.wikipedia.org/wiki/Forbidden_City",
+      "type": "权威百科",
+      "verified": true,
+      "verified_note": "2026-11-25 经 Wikipedia REST summary 接口取回，HTTP 200，页面标题与摘要匹配；摘要缓存于 data/_cache/wp"
+    },
+    {
+      "id": "wd-forbidden-city",
+      "title": "Wikidata: Forbidden City (Q80290)",
+      "author": "Wikimedia Foundation（Wikidata 社区维护）",
+      "year": "2026",
+      "url": "https://www.wikidata.org/wiki/Q80290",
+      "type": "权威结构化数据",
+      "verified": true,
+      "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
     }
   ]
 }
