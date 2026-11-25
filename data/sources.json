@@ -15599,6 +15599,456 @@
       "type": "图书馆人名规范标目",
       "verified": true,
       "verified_note": "2026-11-25 经 api.si.edu 检索“Xia Gui”，取所藏图书书目记录中的人名标目“Xia, Gui active 1190-1224”；只印证姓名与年代"
+    },
+    {
+      "id": "mb-4daeb526",
+      "title": "MusicBrainz — Giovanni Pierluigi da Palestrina (4daeb526-6c4c-4f77-bdf5-4a0fcb714bfe)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/4daeb526-6c4c-4f77-bdf5-4a0fcb714bfe",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q179277 的 URL 关系反查得到；生 1525，卒 1594-02-02"
+    },
+    {
+      "id": "mb-9a33a7ad",
+      "title": "MusicBrainz — Claudio Monteverdi (9a33a7ad-f725-473a-b50a-1d1796183af1)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/9a33a7ad-f725-473a-b50a-1d1796183af1",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q53068 的 URL 关系反查得到；生 1567-05-15，卒 1643-11-29"
+    },
+    {
+      "id": "mb-c130b0fb",
+      "title": "MusicBrainz — Joseph Haydn (c130b0fb-5dce-449d-9f40-1437f889f7fe)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/c130b0fb-5dce-449d-9f40-1437f889f7fe",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q7349 的 URL 关系反查得到；生 1732-03-31，卒 1809-05-31"
+    },
+    {
+      "id": "mb-1f9df192",
+      "title": "MusicBrainz — Ludwig van Beethoven (1f9df192-a621-4f54-8850-2c5373b7eac9)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/1f9df192-a621-4f54-8850-2c5373b7eac9",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q255 的 URL 关系反查得到；生 1770-12-17，卒 1827-03-26"
+    },
+    {
+      "id": "mb-09ff1fe8",
+      "title": "MusicBrainz — Fryderyk Chopin (09ff1fe8-d61c-4b98-bb82-18487c74d7b7)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/09ff1fe8-d61c-4b98-bb82-18487c74d7b7",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q1268 的 URL 关系反查得到；生 None，卒 None"
+    },
+    {
+      "id": "mb-f91e3a88",
+      "title": "MusicBrainz — Franz Schubert (f91e3a88-24ee-4563-8963-fab73d2765ed)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/f91e3a88-24ee-4563-8963-fab73d2765ed",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q7312 的 URL 关系反查得到；生 1797-01-31，卒 1828-11-19"
+    },
+    {
+      "id": "mb-c278de2c",
+      "title": "MusicBrainz — Игорь Фёдорович Стравинский (c278de2c-9696-4fdf-a919-0781cd945e2c)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/c278de2c-9696-4fdf-a919-0781cd945e2c",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q7314 的 URL 关系反查得到；生 None，卒 None"
+    },
+    {
+      "id": "mb-9b490b96",
+      "title": "MusicBrainz — Arnold Schönberg (9b490b96-ad82-4d7b-9055-f0a196ad64cc)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/9b490b96-ad82-4d7b-9055-f0a196ad64cc",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q154770 的 URL 关系反查得到；生 1874-09-13，卒 1951-07-13"
+    },
+    {
+      "id": "mb-be50643c",
+      "title": "MusicBrainz — Claude Debussy (be50643c-0377-4968-b48c-47e06b2e2a3b)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/be50643c-0377-4968-b48c-47e06b2e2a3b",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q4700 的 URL 关系反查得到；生 None，卒 None"
+    },
+    {
+      "id": "mb-bd941ba5",
+      "title": "MusicBrainz — Josquin des Prez (bd941ba5-703b-44ec-8f56-1028cb0e30b3)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/bd941ba5-703b-44ec-8f56-1028cb0e30b3",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q143100 的 URL 关系反查得到；生 1450，卒 1521-08-27"
+    },
+    {
+      "id": "mb-2d923f7b",
+      "title": "MusicBrainz — Hildegard von Bingen (2d923f7b-45a1-4204-beb8-5b106e913b58)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/2d923f7b-45a1-4204-beb8-5b106e913b58",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q70991 的 URL 关系反查得到；生 1098-09-16，卒 1179-09-17"
+    },
+    {
+      "id": "mb-c70d12a2",
+      "title": "MusicBrainz — Johannes Brahms (c70d12a2-24fe-4f83-a6e6-57d84f8efb51)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/c70d12a2-24fe-4f83-a6e6-57d84f8efb51",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q7294 的 URL 关系反查得到；生 1833-05-07，卒 1897-04-03"
+    },
+    {
+      "id": "mb-2cd475bb",
+      "title": "MusicBrainz — Franz Liszt (2cd475bb-1abd-40c4-9904-6d4b691c752c)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/2cd475bb-1abd-40c4-9904-6d4b691c752c",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q41309 的 URL 关系反查得到；生 None，卒 None"
+    },
+    {
+      "id": "mb-8d610e51",
+      "title": "MusicBrainz — Gustav Mahler (8d610e51-64b4-4654-b8df-064b0fb7a9d9)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/8d610e51-64b4-4654-b8df-064b0fb7a9d9",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q7304 的 URL 关系反查得到；生 1860-07-07，卒 1911-05-18"
+    },
+    {
+      "id": "mb-e29c77e6",
+      "title": "MusicBrainz — Thomas Tallis (e29c77e6-3bc0-4bea-90ed-4caff60f6bc3)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/e29c77e6-3bc0-4bea-90ed-4caff60f6bc3",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q207789 的 URL 关系反查得到；生 1505-01-30，卒 1585-11-23"
+    },
+    {
+      "id": "mb-d1cf7a39",
+      "title": "MusicBrainz — William Byrd (d1cf7a39-f268-45e8-bbc0-6cea5c0272cf)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/d1cf7a39-f268-45e8-bbc0-6cea5c0272cf",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q208375 的 URL 关系反查得到；生 1540，卒 1623-07-04"
+    },
+    {
+      "id": "mb-853f1c0a",
+      "title": "MusicBrainz — Orlande de Lassus (853f1c0a-4b59-4957-9c05-c3a8d3a4d5ef)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/853f1c0a-4b59-4957-9c05-c3a8d3a4d5ef",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q154792 的 URL 关系反查得到；生 1532，卒 1594-06-14"
+    },
+    {
+      "id": "mb-465ece07",
+      "title": "MusicBrainz — Guillaume de Machaut (465ece07-367f-42f6-92b4-165a88180199)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/465ece07-367f-42f6-92b4-165a88180199",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q200580 的 URL 关系反查得到；生 1300，卒 1377"
+    },
+    {
+      "id": "mb-877bc209",
+      "title": "MusicBrainz — Léonin (877bc209-de76-4ff5-84e5-919c6f82e6a5)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/877bc209-de76-4ff5-84e5-919c6f82e6a5",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q297501 的 URL 关系反查得到；生 None，卒 None"
+    },
+    {
+      "id": "mb-7f9989b0",
+      "title": "MusicBrainz — Jean‐Baptiste Lully (7f9989b0-8f5e-41dd-bbab-1fff052609e3)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/7f9989b0-8f5e-41dd-bbab-1fff052609e3",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q1192 的 URL 关系反查得到；生 1632-11-28，卒 1687-03-22"
+    },
+    {
+      "id": "mb-95c7a1d1",
+      "title": "MusicBrainz — Domenico Scarlatti (95c7a1d1-5cfd-41d5-99f9-0611262de8e1)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/95c7a1d1-5cfd-41d5-99f9-0611262de8e1",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q167837 的 URL 关系反查得到；生 None，卒 None"
+    },
+    {
+      "id": "mb-a3546087",
+      "title": "MusicBrainz — Arcangelo Corelli (a3546087-fe59-47d3-a3a8-42d58e2573c7)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/a3546087-fe59-47d3-a3a8-42d58e2573c7",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q164475 的 URL 关系反查得到；生 1653-02-17，卒 1713-01-08"
+    },
+    {
+      "id": "mb-8f831f50",
+      "title": "MusicBrainz — Georg Philipp Telemann (8f831f50-e409-47c3-8598-71a61bc8cfb3)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/8f831f50-e409-47c3-8598-71a61bc8cfb3",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q75854 的 URL 关系反查得到；生 1681-03-14，卒 1767-06-25"
+    },
+    {
+      "id": "mb-fd14da1b",
+      "title": "MusicBrainz — Bartók Béla (fd14da1b-3c2d-4cc8-9ca6-fc8c62ce6988)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/fd14da1b-3c2d-4cc8-9ca6-fc8c62ce6988",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q83326 的 URL 关系反查得到；生 1881-03-25，卒 1945-09-26"
+    },
+    {
+      "id": "mb-0e43fe9d",
+      "title": "MusicBrainz — Сергей Сергеевич Прокофьев (0e43fe9d-c472-4b62-be9e-55f971a023e1)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/0e43fe9d-c472-4b62-be9e-55f971a023e1",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q49481 的 URL 关系反查得到；生 None，卒 None"
+    },
+    {
+      "id": "mb-0e85eb79",
+      "title": "MusicBrainz — Felix Mendelssohn (0e85eb79-1c05-44ba-827c-7b259a3d941a)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/0e85eb79-1c05-44ba-827c-7b259a3d941a",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q46096 的 URL 关系反查得到；生 1809-02-03，卒 1847-11-04"
+    },
+    {
+      "id": "mb-274774a7",
+      "title": "MusicBrainz — Hector Berlioz (274774a7-1cde-486a-bc3d-375ec54d552d)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/274774a7-1cde-486a-bc3d-375ec54d552d",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q1151 的 URL 关系反查得到；生 None，卒 None"
+    },
+    {
+      "id": "mb-819eaeb2",
+      "title": "MusicBrainz — Antonín Dvořák (819eaeb2-8dd8-48a5-ad07-0bcd137985ef)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/819eaeb2-8dd8-48a5-ad07-0bcd137985ef",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q7298 的 URL 关系反查得到；生 1841-09-08，卒 1904-05-01"
+    },
+    {
+      "id": "mb-33d37c0b",
+      "title": "MusicBrainz — Guillaume Dufay (33d37c0b-dc0b-4148-9264-42587c538c72)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/33d37c0b-dc0b-4148-9264-42587c538c72",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q207717 的 URL 关系反查得到；生 1397-08-05，卒 1474-11-27"
+    },
+    {
+      "id": "mb-6eb5695e",
+      "title": "MusicBrainz — Bedřich Smetana (6eb5695e-cf7b-4b94-b441-a09901127ef9)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/6eb5695e-cf7b-4b94-b441-a09901127ef9",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q48173 的 URL 关系反查得到；生 1824-03-02，卒 1884-05-12"
+    },
+    {
+      "id": "mb-76325a9d",
+      "title": "MusicBrainz — John Cage (76325a9d-6c25-4649-96b1-84e9b99d6b4b)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/76325a9d-6c25-4649-96b1-84e9b99d6b4b",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q180727 的 URL 关系反查得到；生 1912-09-05，卒 1992-08-12"
+    },
+    {
+      "id": "mb-a3031680",
+      "title": "MusicBrainz — Steve Reich (a3031680-c359-458f-a641-70ccbaec6a74)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/a3031680-c359-458f-a641-70ccbaec6a74",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q262791 的 URL 关系反查得到；生 None，卒 None"
+    },
+    {
+      "id": "mb-7be0b588",
+      "title": "MusicBrainz — Anton Webern (7be0b588-030c-4904-836f-71ff43a2dfec)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/7be0b588-030c-4904-836f-71ff43a2dfec",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q190933 的 URL 关系反查得到；生 1883-12-03，卒 1945-09-15"
+    },
+    {
+      "id": "mb-27870d47",
+      "title": "MusicBrainz — George Frideric Handel (27870d47-bb98-42d1-bf2b-c7e972e6befc)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/27870d47-bb98-42d1-bf2b-c7e972e6befc",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q7302 的 URL 关系反查得到；生 None，卒 None"
+    },
+    {
+      "id": "mb-f1bedf1f",
+      "title": "MusicBrainz — Giuseppe Verdi (f1bedf1f-4445-4651-9c35-f4a3f3860a13)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/f1bedf1f-4445-4651-9c35-f4a3f3860a13",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q7317 的 URL 关系反查得到；生 1813-10-10，卒 1901-01-27"
+    },
+    {
+      "id": "mb-691b0e9d",
+      "title": "MusicBrainz — Jean Sibelius (691b0e9d-9e57-41cf-932d-a3d21b068e75)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/691b0e9d-9e57-41cf-932d-a3d21b068e75",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q45682 的 URL 关系反查得到；生 1865-12-08，卒 1957-09-20"
+    },
+    {
+      "id": "mb-519dd32e",
+      "title": "MusicBrainz — Дмитрий Дмитриевич Шостакович (519dd32e-8f30-4380-8826-7aa99169e1bb)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/519dd32e-8f30-4380-8826-7aa99169e1bb",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q80135 的 URL 关系反查得到；生 1906-09-25，卒 1975-08-09"
+    },
+    {
+      "id": "mb-d82b930c",
+      "title": "MusicBrainz — Johann Stamitz (d82b930c-87d0-451f-b0b0-7e7fa5e2b243)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/d82b930c-87d0-451f-b0b0-7e7fa5e2b243",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q156033 的 URL 关系反查得到；生 1717-06-18，卒 1757-03-27"
+    },
+    {
+      "id": "mb-f7ef501b",
+      "title": "MusicBrainz — Johann Nepomuk Hummel (f7ef501b-2bc0-4083-ac52-3518255883a2)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/f7ef501b-2bc0-4083-ac52-3518255883a2",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q151953 的 URL 关系反查得到；生 1778-11-14，卒 1837-10-17"
+    },
+    {
+      "id": "mb-313d8208",
+      "title": "MusicBrainz — Pérotin (313d8208-3212-4f90-a4f8-780222390e88)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/313d8208-3212-4f90-a4f8-780222390e88",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q206275 的 URL 关系反查得到；生 1160，卒 1230"
+    },
+    {
+      "id": "mb-614358f7",
+      "title": "MusicBrainz — Johannes Ockeghem (614358f7-a30d-40c0-b9fe-659c1612410d)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/614358f7-a30d-40c0-b9fe-659c1612410d",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q143059 的 URL 关系反查得到；生 1410，卒 1497-02-06"
+    },
+    {
+      "id": "mb-462d9425",
+      "title": "MusicBrainz — John Dunstable (462d9425-18f8-4b2e-a56f-db711040ef2f)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/462d9425-18f8-4b2e-a56f-db711040ef2f",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q215134 的 URL 关系反查得到；生 None，卒 None"
+    },
+    {
+      "id": "mb-09170b4d",
+      "title": "MusicBrainz — Tomás Luis de Victoria (09170b4d-9a28-4d6a-9070-9c8c725826ec)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/09170b4d-9a28-4d6a-9070-9c8c725826ec",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q215128 的 URL 关系反查得到；生 1548，卒 1611-08-20"
+    },
+    {
+      "id": "mb-7740e3f6",
+      "title": "MusicBrainz — 冼星海 (7740e3f6-e14b-44b4-9efa-81540c63ef6d)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/7740e3f6-e14b-44b4-9efa-81540c63ef6d",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q677426 的 URL 关系反查得到；生 1905-06-13，卒 1945-10-30"
+    },
+    {
+      "id": "mb-0a94a7ff",
+      "title": "MusicBrainz — 谭盾 (0a94a7ff-f7f4-4b07-8a3b-c3daa4ce2fb8)",
+      "author": "MetaBrainz Foundation（MusicBrainz 社区维护）",
+      "year": "2026",
+      "url": "https://musicbrainz.org/artist/0a94a7ff-f7f4-4b07-8a3b-c3daa4ce2fb8",
+      "type": "音乐人名规范记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经 MusicBrainz API 以 Wikidata Q314176 的 URL 关系反查得到；生 1957-08-18，卒 None"
     }
   ]
 }
