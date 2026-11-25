@@ -1062,7 +1062,8 @@
         "lancret-cello-drawing",
         "claude-rest-flight-egypt",
         "baroque-architecture",
-        "watteau"
+        "watteau",
+        "watteau-italian-clothes"
       ],
       "sources": [
         "enc-rococo",
@@ -1391,7 +1392,8 @@
         "preller-musicale",
         "gothic-revival-architecture",
         "goya",
-        "pre-raphaelite"
+        "pre-raphaelite",
+        "goya-cuervo-portrait"
       ],
       "sources": [
         "enc-romanticism",
@@ -1619,7 +1621,8 @@
         "van-gogh-dr-gachet",
         "van-gogh-drenthe-wheelbarrow",
         "mondrian-field-young-trees",
-        "nabis"
+        "nabis",
+        "vuillard-luncheon"
       ],
       "sources": [
         "enc-post-impressionism",
@@ -8673,7 +8676,8 @@
         "cma-liu-songnian-qin",
         "cma-wen-zhengming-qin",
         "cma-tang-yin-qin",
-        "cma-tang-qin-mirror"
+        "cma-tang-qin-mirror",
+        "kano-four-accomplishments"
       ],
       "sources": [
         "cma-1918-371"
@@ -18145,7 +18149,8 @@
         "mughal-muhammad-ali-beg",
         "mughal-architecture",
         "rajput-painting",
-        "mughal-painting"
+        "mughal-painting",
+        "mughal-royal-ram"
       ],
       "sources": [
         "vam-o113934"
@@ -19246,7 +19251,8 @@
       "related": [
         "romanticism-art",
         "corot-la-cervara",
-        "barbizon-school"
+        "barbizon-school",
+        "daubigny-shepherd"
       ],
       "sources": [
         "cma-artist-corot",
@@ -19918,7 +19924,8 @@
       "related": [
         "northern-renaissance",
         "renaissance",
-        "durer"
+        "durer",
+        "durer-st-jerome-willow"
       ],
       "sources": [
         "cma-1926-211"
@@ -24170,11 +24177,13 @@
         "frida-kahlo",
         "mondrian",
         "ukiyo-e",
-        "art-nouveau"
+        "art-nouveau",
+        "klimt-hermine-gallia"
       ],
       "sources": [
         "enc-klimt",
-        "wd-klimt"
+        "wd-klimt",
+        "cma-1972-312"
       ],
       "level": "L2",
       "sections": {
@@ -24184,11 +24193,11 @@
         "技法或形式分析": "摘要没有给出技法细节（如金箔使用），本条目不补写。",
         "与前后风格的关系和争论": "摘要称，在维也纳分离派艺术家中，克里姆特受日本艺术及其方法影响最深。库内互链浮世绘为本项目所加。",
         "一图": "示意图以克里姆特为中心，标示维也纳分离派、女性身体题材、日本艺术影响三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）技法细节与生卒年未给出；（3）“受日本艺术影响最深”是摘要的比较说法，未核验。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）技法细节与生卒年未给出；（3）“受日本艺术影响最深”是摘要的比较说法，未核验。（CMA 对照，2026-11-25）克利夫兰艺术博物馆藏本条目相关作品（1972.312），其创作者记录给出生卒 1862—1918；该记录只印证作者归属与生卒，不印证本条目其余内容。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='klimt 示意图'><title>klimt</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>维也纳分离派</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>创始成员</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>克里姆特</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>象征主义画家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>女性身体</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>主要题材</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>日本艺术</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>影响最深</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；技法与生卒年未给出；比较性说法未核验。"
+      "pending_notes": "主体来自 Wikipedia 摘要；生卒 1862—1918 已由克利夫兰艺术博物馆创作者记录独立印证（只印证生卒与作者归属）；技法未给出；比较性说法未核验。"
     },
     {
       "id": "guo-xi",
@@ -24275,11 +24284,13 @@
       "related": [
         "durer-melencolia-i",
         "northern-renaissance",
-        "raphael"
+        "raphael",
+        "durer-st-jerome-willow"
       ],
       "sources": [
         "enc-durer",
-        "wd-durer"
+        "wd-durer",
+        "cma-1925-72"
       ],
       "level": "L2",
       "sections": {
@@ -24289,11 +24300,11 @@
         "技法或形式分析": "摘要称，他二十多岁时凭高质量的木刻版画在全欧洲建立声誉与影响。",
         "与前后风格的关系和争论": "摘要称，他与当时意大利主要艺术家有联系，包括拉斐尔、乔瓦尼·贝利尼与列奥纳多·达·芬奇；1512年起受马克西米利安一世皇帝赞助。",
         "一图": "示意图以丢勒为中心，标示纽伦堡、木刻版画、意大利艺术家三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）与意大利艺术家“有联系”的具体方式摘要未给出；（3）生卒年未给出。（3）when 写“约公元15世纪末—16世纪初”是本项目按德国文艺复兴与摘要所给1512年概括，不是摘要原文。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）与意大利艺术家“有联系”的具体方式摘要未给出；（3）生卒年未给出。（3）when 写“约公元15世纪末—16世纪初”是本项目按德国文艺复兴与摘要所给1512年概括，不是摘要原文。（CMA 对照，2026-11-25）克利夫兰艺术博物馆藏本条目相关作品（1925.72），其创作者记录给出生卒 1471—1528；该记录只印证作者归属与生卒，不印证本条目其余内容。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='durer 示意图'><title>durer</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>纽伦堡</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>出生地</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>丢勒</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>画家·版画家·理论家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>木刻版画</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>二十多岁成名</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>意大利联系</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>拉斐尔·达·芬奇</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；联系方式与生卒年未给出。"
+      "pending_notes": "主体来自 Wikipedia 摘要；生卒 1471—1528 已由克利夫兰艺术博物馆创作者记录独立印证（只印证生卒与作者归属）；与意大利艺术家的联系方式未给出。"
     },
     {
       "id": "bosch",
@@ -24309,7 +24320,8 @@
       "overview": "博斯是来自布拉班特的尼德兰画家。",
       "related": [
         "northern-renaissance",
-        "bruegel"
+        "bruegel",
+        "bruegel-rabbit-hunt"
       ],
       "sources": [
         "enc-bosch",
@@ -24343,11 +24355,13 @@
       "overview": "老彼得·勃鲁盖尔是荷兰与佛兰德斯文艺复兴绘画中最重要的艺术家之一，是画家与版画家。",
       "related": [
         "northern-renaissance",
-        "bosch"
+        "bosch",
+        "bruegel-rabbit-hunt"
       ],
       "sources": [
         "enc-bruegel",
-        "wd-bruegel"
+        "wd-bruegel",
+        "cma-2009-80"
       ],
       "level": "L2",
       "sections": {
@@ -24357,11 +24371,11 @@
         "技法或形式分析": "摘要没有给出技法细节，本条目不补写。",
         "与前后风格的关系和争论": "摘要称，在20与21世纪，他的作品启发了文学与电影领域的艺术家。《伊卡洛斯》一画的归属学界有讨论，摘要未提，本条目不展开。",
         "一图": "示意图以勃鲁盖尔为中心，标示风景、农民场景、后世文学与电影三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年未给出；（3）“开创”是摘要的说法，未核验。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）生卒年未给出；（3）“开创”是摘要的说法，未核验。（CMA 对照，2026-11-25）克利夫兰艺术博物馆藏本条目相关作品（2009.80），其创作者记录给出生卒 约1525/30—1569；该记录只印证作者归属与生卒，不印证本条目其余内容。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='bruegel 示意图'><title>bruegel</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>风景</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>大幅画作</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>勃鲁盖尔</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>画家·版画家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>农民场景</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>大幅画作</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>后世影响</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>文学·电影</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；生卒年未给出；“开创”说未核验。"
+      "pending_notes": "主体来自 Wikipedia 摘要；生卒 约1525/30—1569 已由克利夫兰艺术博物馆创作者记录独立印证（只印证生卒与作者归属）；“开创”说未核验。"
     },
     {
       "id": "goya",
@@ -24378,11 +24392,13 @@
       "related": [
         "romanticism-art",
         "velazquez",
-        "delacroix"
+        "delacroix",
+        "goya-cuervo-portrait"
       ],
       "sources": [
         "enc-goya",
-        "wd-goya"
+        "wd-goya",
+        "cma-1943-90"
       ],
       "level": "L2",
       "sections": {
@@ -24392,11 +24408,11 @@
         "技法或形式分析": "摘要没有给出技法细节，本条目不补写。",
         "与前后风格的关系和争论": "摘要称，他常被称为“最后的古典大师与第一位现代画家”，影响了19、20世纪的重要画家，被普遍视为西方艺术史上最具影响力的人物之一。这些都是评价性表述。",
         "一图": "示意图以戈雅为中心，标示历史动荡、绘画与版画、承前启后三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）评价性表述未核验；（3）作品与生卒年未给出。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）评价性表述未核验；（3）作品与生卒年未给出。（CMA 对照，2026-11-25）克利夫兰艺术博物馆藏本条目相关作品（1943.90），其创作者记录给出生卒 1746—1828；该记录只印证作者归属与生卒，不印证本条目其余内容。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='goya 示意图'><title>goya</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>历史动荡</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>作品所反映</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>戈雅</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>浪漫主义画家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>绘画与版画</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>素描·版画</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>承前启后</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>最后古典·最初现代</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；评价性表述未核验；作品与生卒年未给出。"
+      "pending_notes": "主体来自 Wikipedia 摘要；生卒 1746—1828 已由克利夫兰艺术博物馆创作者记录独立印证（只印证生卒与作者归属）；评价性表述未核验；作品未给出。"
     },
     {
       "id": "watteau",
@@ -24412,11 +24428,13 @@
       "overview": "华托是法国画家与素描家。",
       "related": [
         "rococo",
-        "rubens"
+        "rubens",
+        "watteau-italian-clothes"
       ],
       "sources": [
         "enc-watteau",
-        "wd-watteau"
+        "wd-watteau",
+        "cma-2011-11"
       ],
       "level": "L2",
       "sections": {
@@ -24426,11 +24444,11 @@
         "技法或形式分析": "摘要称，他的生涯激发了人们对色彩与动势的重新关注，可见于柯雷乔与鲁本斯的传统。",
         "与前后风格的关系和争论": "摘要的说法是“被认为开创”，说明这是归功，不是定论。",
         "一图": "示意图以华托为中心，标示鲁本斯传统、洛可可、雅宴画三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）具体作品与生卒年未给出。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）具体作品与生卒年未给出。（CMA 对照，2026-11-25）克利夫兰艺术博物馆藏本条目相关作品（2011.11），其创作者记录给出生卒 1684—1721；该记录只印证作者归属与生卒，不印证本条目其余内容。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='watteau 示意图'><title>watteau</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>鲁本斯传统</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>色彩与动势</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>华托</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>画家·素描家</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>洛可可</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>由巴洛克转向</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>雅宴画</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>被认为开创</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；作品与生卒年未给出。"
+      "pending_notes": "主体来自 Wikipedia 摘要；生卒 1684—1721 已由克利夫兰艺术博物馆创作者记录独立印证（只印证生卒与作者归属）；代表作未给出。"
     },
     {
       "id": "hokusai",
@@ -24728,7 +24746,8 @@
       "related": [
         "klimt",
         "art-deco",
-        "stained-glass"
+        "stained-glass",
+        "klimt-hermine-gallia"
       ],
       "sources": [
         "enc-art-nouveau",
@@ -24762,11 +24781,13 @@
       "overview": "拉斐尔前派兄弟会是英国画家、诗人与艺术评论家的群体，1848年创立。",
       "related": [
         "romanticism-art",
-        "raphael"
+        "raphael",
+        "burne-jones-garden-court"
       ],
       "sources": [
         "enc-pre-raphaelite",
-        "wd-pre-raphaelite"
+        "wd-pre-raphaelite",
+        "cma-1994-197"
       ],
       "level": "L2",
       "sections": {
@@ -24776,11 +24797,11 @@
         "技法或形式分析": "摘要没有给出技法细节，本条目不补写。",
         "与前后风格的关系和争论": "摘要称，兄弟会始终只是一个松散的联合。它与拉斐尔本人的关系（名称由来）摘要未解释，本条目不推断。",
         "一图": "示意图以拉斐尔前派为中心，标示七位创立者、拿撒勒派、后来追随者三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“原则”的具体内容与名称由来未给出。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“原则”的具体内容与名称由来未给出。（CMA 对照，2026-11-25）克利夫兰艺术博物馆藏本条目相关作品（1994.197），其创作者记录给出生卒 1833—1898（伯恩-琼斯）；该记录只印证作者归属与生卒，不印证本条目其余内容。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='pre-raphaelite 示意图'><title>pre-raphaelite</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>拿撒勒派</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>部分仿照</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>拉斐尔前派</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1848年创立</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>七位创立者</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>亨特·米莱·罗塞蒂</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>后来追随者</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>伯恩-琼斯等</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；原则内容与名称由来未给出。"
+      "pending_notes": "主体来自 Wikipedia 摘要；另有克利夫兰艺术博物馆藏追随者伯恩-琼斯的记录，只印证该作品与本条目的关联，不印证本条目对流派的概括；原则内容与名称由来未给出。"
     },
     {
       "id": "barbizon-school",
@@ -24797,11 +24818,13 @@
       "related": [
         "corot",
         "millet",
-        "realism-art"
+        "realism-art",
+        "daubigny-shepherd"
       ],
       "sources": [
         "enc-barbizon-school",
-        "wd-barbizon-school"
+        "wd-barbizon-school",
+        "cma-1956-655"
       ],
       "level": "L2",
       "sections": {
@@ -24811,11 +24834,11 @@
         "技法或形式分析": "摘要称，作品多为风景画，偶尔包括农业劳动者，以及乡村生活的风俗场景。",
         "与前后风格的关系和争论": "摘要称，“画派”之名来自法国枫丹白露森林边缘的巴比松村，许多艺术家聚集于此。",
         "一图": "示意图以巴比松画派为中心，标示浪漫主义背景、风景画、巴比松村三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）画家名单未给出。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）画家名单未给出。（CMA 对照，2026-11-25）克利夫兰艺术博物馆藏本条目相关作品（1956.655），其创作者记录给出生卒 1817—1878（杜比尼）；该记录只印证作者归属与生卒，不印证本条目其余内容。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='barbizon-school 示意图'><title>barbizon-school</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>浪漫主义</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>当时主导</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>巴比松画派</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>推进现实主义</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>风景画</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>乡村风俗</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>巴比松村</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>枫丹白露森林</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；画家名单未给出。"
+      "pending_notes": "主体来自 Wikipedia 摘要；另有克利夫兰艺术博物馆藏画家杜比尼的记录，只印证该作品与本条目的关联，不印证本条目对流派的概括；画家名单未给出。"
     },
     {
       "id": "nabis",
@@ -24832,11 +24855,13 @@
       "related": [
         "gauguin",
         "cezanne",
-        "post-impressionism"
+        "post-impressionism",
+        "vuillard-luncheon"
       ],
       "sources": [
         "enc-nabis",
-        "wd-nabis"
+        "wd-nabis",
+        "cma-2020-118"
       ],
       "level": "L2",
       "sections": {
@@ -24846,11 +24871,11 @@
         "技法或形式分析": "摘要没有给出技法细节，本条目不补写。",
         "与前后风格的关系和争论": "摘要称，他们共同崇敬高更与塞尚，决心革新绘画艺术，在由印象派与学院艺术向抽象艺术、象征主义及其他早期现代主义运动的过渡中起了很大作用。",
         "一图": "示意图以纳比派为中心，标示高更与塞尚、隐喻与象征的综合、早期现代主义三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“起了很大作用”是摘要的评价，未核验。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“起了很大作用”是摘要的评价，未核验。（CMA 对照，2026-11-25）克利夫兰艺术博物馆藏本条目相关作品（2020.118），其创作者记录给出生卒 1868—1940（维亚尔）；该记录只印证作者归属与生卒，不印证本条目其余内容。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='nabis 示意图'><title>nabis</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>高更·塞尚</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>共同崇敬</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>纳比派</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1888—1900</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>隐喻与象征</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>而非描绘自然</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>早期现代主义</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>过渡作用</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；作用评价未核验。"
+      "pending_notes": "主体来自 Wikipedia 摘要；另有克利夫兰艺术博物馆藏成员维亚尔的记录，只印证该作品与本条目的关联，不印证本条目对流派的概括；作用评价未核验。"
     },
     {
       "id": "dufay",
@@ -25638,11 +25663,13 @@
       "related": [
         "mughal-architecture",
         "mughal-alamgir-portrait",
-        "rajput-painting"
+        "rajput-painting",
+        "mughal-royal-ram"
       ],
       "sources": [
         "enc-mughal-painting",
-        "wd-mughal-painting"
+        "wd-mughal-painting",
+        "cma-2013-298"
       ],
       "level": "L2",
       "sections": {
@@ -25652,11 +25679,11 @@
         "技法或形式分析": "摘要没有给出这方面内容，本条目不补写。",
         "与前后风格的关系和争论": "摘要称，它源于波斯细密画，而波斯细密画本身深受中国与欧洲艺术影响；莫卧儿绘画在发展中也带有印度与伊斯兰影响。",
         "一图": "示意图以莫卧儿绘画为中心，标示波斯细密画、印度与伊斯兰影响、画册三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）画家与作品未给出。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）画家与作品未给出。（CMA 对照，2026-11-25）克利夫兰艺术博物馆藏本条目相关作品（2013.298）；该记录只印证作者归属与生卒，不印证本条目其余内容。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='mughal-painting 示意图'><title>mughal-painting</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>波斯细密画</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>源头</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>莫卧儿绘画</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>细密画</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>印度与伊斯兰</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>发展中的影响</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>画册</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>muraqqa</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；画家与作品未给出。"
+      "pending_notes": "主体来自 Wikipedia 摘要；另有克利夫兰艺术博物馆藏一件作品的记录，只印证该作品与本条目的关联，不印证本条目对这一绘画风格的概括；画家与作品未给出。"
     },
     {
       "id": "islamic-calligraphy",
@@ -25707,7 +25734,8 @@
       "overview": "阿拉伯式花纹是一种艺术装饰形式，由卷曲交缠的枝叶、卷须或素线构成的节奏性线型图案组成。",
       "related": [
         "islamic-calligraphy",
-        "islamic-architecture"
+        "islamic-architecture",
+        "burne-jones-garden-court"
       ],
       "sources": [
         "enc-arabesque",
@@ -25846,11 +25874,13 @@
       "related": [
         "ukiyo-e",
         "hokusai",
-        "japanese-architecture"
+        "japanese-architecture",
+        "kano-four-accomplishments"
       ],
       "sources": [
         "enc-kano-school",
-        "wd-kano-school"
+        "wd-kano-school",
+        "cma-1979-46"
       ],
       "level": "L2",
       "sections": {
@@ -25860,11 +25890,11 @@
         "技法或形式分析": "摘要没有给出这方面内容，本条目不补写。",
         "与前后风格的关系和争论": "摘要引日本艺术史家罗伯特·特里特·佩因的话：“很难再找到另一个在直系血统中出了如此多天才的家族。”这是转引的评价。",
         "一图": "示意图以狩野派为中心，标示狩野家族、画坊弟子、明治前主导三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）具体画家与作品未给出；（3）佩因引语为转引。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）具体画家与作品未给出；（3）佩因引语为转引。（CMA 对照，2026-11-25）克利夫兰艺术博物馆藏本条目相关作品（1979.46），其创作者记录给出生卒 1519—1592（狩野松荣）；该记录只印证作者归属与生卒，不印证本条目其余内容。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='kano-school 示意图'><title>kano-school</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>狩野家族</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>数代画家</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>狩野派</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>日本主导画派</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>画坊弟子</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>入赘·收养</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>1868前</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>主导地位</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；画家与作品未给出；评价为转引。"
+      "pending_notes": "主体来自 Wikipedia 摘要；另有克利夫兰艺术博物馆藏画家狩野松荣的记录，只印证该作品与本条目的关联，不印证本条目对流派的概括；画家与作品未给出；评价为转引。"
     },
     {
       "id": "korean-painting",
@@ -25949,7 +25979,8 @@
       "related": [
         "jun-numbered-bulb-bowl",
         "ru-ware",
-        "ding-ware"
+        "ding-ware",
+        "ru-brush-washer"
       ],
       "sources": [
         "enc-jun-ware",
@@ -25984,11 +26015,13 @@
       "related": [
         "jun-ware",
         "ding-ware",
-        "song-painting"
+        "song-painting",
+        "ru-brush-washer"
       ],
       "sources": [
         "enc-ru-ware",
-        "wd-ru-ware"
+        "wd-ru-ware",
+        "cma-1957-40"
       ],
       "level": "L2",
       "sections": {
@@ -25998,11 +26031,11 @@
         "技法或形式分析": "摘要称，汝窑可视为青瓷的一种特殊形式。",
         "与前后风格的关系和争论": "摘要没有谈及窑址考古或断代争论。",
         "一图": "示意图以汝窑为中心，标示宫廷用瓷、天青釉、不足百件三项。",
-        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“雨过天晴”引语为摘要的英译转述，中文原句摘要未给出；（3）窑址未给出。"
+        "待核实": "（1）本条目事实仅来自 Wikipedia 摘要（2026-11-25 取回）及同源的 Wikidata，来源独立性有限，整条标记待核实。（2）“雨过天晴”引语为摘要的英译转述，中文原句摘要未给出；（3）窑址未给出。（CMA 对照，2026-11-25）克利夫兰艺术博物馆藏本条目相关作品（1957.40）；该记录只印证作者归属与生卒，不印证本条目其余内容。"
       },
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='ru-ware 示意图'><title>ru-ware</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>宫廷用瓷</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>约1100年</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>汝窑</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>极稀少</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>天青釉</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>鸭蛋青</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>不足百件</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>完整器</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
-      "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；引语为转译；窑址未给出。"
+      "pending_notes": "主体来自 Wikipedia 摘要；另有克利夫兰艺术博物馆藏一件笔洗的记录，只印证该作品与本条目的关联，不印证本条目对汝窑整体的概括；引语为转译；摘要未给窑址，CMA 笔洗记录标为河南宝丰清凉寺。"
     },
     {
       "id": "ding-ware",
@@ -26020,7 +26053,8 @@
         "ding-tea-bowl",
         "ding-duck-bowl",
         "ru-ware",
-        "jun-ware"
+        "jun-ware",
+        "ru-brush-washer"
       ],
       "sources": [
         "enc-ding-ware",
@@ -26215,6 +26249,370 @@
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='noh 示意图'><title>noh</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>面具</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>鬼·女·神·魔</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>能乐</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>14世纪至今</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>程式化动作</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>传达情感</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>家元制度</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>规范传承</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据 Wikipedia 摘要</text></g></svg>",
       "needs_verification": true,
       "pending_notes": "来源独立性有限（Wikipedia+Wikidata）；剧作家与剧目未给出。"
+    },
+    {
+      "id": "goya-cuervo-portrait",
+      "title": "戈雅《唐·胡安·安东尼奥·奎尔沃像》（1819）",
+      "kind": "作品",
+      "unit": "art-neo-romantic",
+      "era": "1819年",
+      "region": "西班牙",
+      "medium": "绘画",
+      "tier": "补充",
+      "def": "戈雅为友人、圣费尔南多皇家美术学院院长奎尔沃所作的油画肖像。",
+      "when": "1819年",
+      "overview": "克利夫兰艺术博物馆藏戈雅油画肖像（1943.90），1819年。",
+      "related": [
+        "goya",
+        "romanticism-art"
+      ],
+      "sources": [
+        "cma-1943-90"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "据该馆记录，作品作于1819年，布面油画。",
+        "风格特征": "该馆说明称，这幅肖像既见证了戈雅与奎尔沃的友谊，也把像主呈现为一位走在前沿的知识分子。",
+        "代表人物与作品": "像主奎尔沃是圣费尔南多皇家美术学院院长；该馆说明称，那是西班牙官方的艺术家与建筑师学院。作者为戈雅（1746—1828，据该馆创作者记录）。",
+        "技法或形式分析": "该馆记录：布面油画，未装框 120 × 87 厘米。说明称，像主身边是他为马德里圣地亚哥教堂近期翻修所作的设计图；红金织锦外套表明他是该学院成员。",
+        "与前后风格的关系和争论": "该馆没有谈及这幅肖像在戈雅肖像画中的位置，本条目不补写。",
+        "一图": "示意图以本画为中心，标示戈雅、奎尔沃、教堂翻修设计图三项。",
+        "待核实": "（1）本条目事实只来自克利夫兰艺术博物馆一家的藏品记录与策展说明（2026-11-25 取回），属单一机构来源，整条标记待核实。（2）“走在前沿的知识分子”是该馆的诠释。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='goya-cuervo-portrait 示意图'><title>goya-cuervo-portrait</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>戈雅</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>作者</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>奎尔沃像</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1819 油画</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>奎尔沃</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>美术学院院长</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>设计图</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>圣地亚哥教堂</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据克利夫兰艺术博物馆记录</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；单一机构来源。"
+    },
+    {
+      "id": "durer-st-jerome-willow",
+      "title": "丢勒《坐在截顶柳旁的圣哲罗姆》（1512）",
+      "kind": "作品",
+      "unit": "art-renaissance",
+      "era": "1512年",
+      "region": "德国",
+      "medium": "版画",
+      "tier": "重要",
+      "def": "丢勒存世仅三件的干刻版画之一，表现圣哲罗姆在荒野隐修处祈祷。",
+      "when": "1512年",
+      "overview": "克利夫兰艺术博物馆藏丢勒干刻版画（1925.72），1512年。",
+      "related": [
+        "durer",
+        "durer-melencolia-i"
+      ],
+      "sources": [
+        "cma-1925-72"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "据该馆记录，作品作于1512年。",
+        "风格特征": "该馆说明称，丢勒利用干刻线条的特性，表现圣徒荒野隐修处那自然而属灵的境界；画面中生机勃勃。",
+        "代表人物与作品": "作者为丢勒（1471—1528，据该馆创作者记录）。该馆说明称，在丢勒所作的数百件版画中，只有三件是干刻。",
+        "技法或形式分析": "该馆记录：干刻，图像 20.7 × 18.1 厘米。说明称，干刻是用针直接在铜版上刻划，产生柔和、毛茸茸的线条。",
+        "与前后风格的关系和争论": "该馆说明称，圣徒的孤独与和基督的相通带来属灵的重生，以那棵凹凸不平、被截顶以促生新枝的柳树为象征。这是该馆的图像诠释。",
+        "一图": "示意图以本作为中心，标示干刻技法、圣哲罗姆、截顶柳象征三项。",
+        "待核实": "（1）本条目事实只来自克利夫兰艺术博物馆一家的藏品记录与策展说明（2026-11-25 取回），属单一机构来源，整条标记待核实。（2）“仅三件干刻”是该馆说法，未与丢勒版画目录核对。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='durer-st-jerome-willow 示意图'><title>durer-st-jerome-willow</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>干刻</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>针刻铜版</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>圣哲罗姆</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1512 版画</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>隐修处</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>荒野中祈祷</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>截顶柳</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>重生象征</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据克利夫兰艺术博物馆记录</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；单一机构来源；“仅三件”未核对。"
+    },
+    {
+      "id": "bruegel-rabbit-hunt",
+      "title": "老勃鲁盖尔《猎兔》（1560）",
+      "kind": "作品",
+      "unit": "art-renaissance",
+      "era": "1560年",
+      "region": "佛兰德斯",
+      "medium": "版画",
+      "tier": "重要",
+      "def": "被认为是老勃鲁盖尔唯一亲手制作的版画，表面是猎人射兔，背后有持矛士兵潜行。",
+      "when": "1560年",
+      "overview": "克利夫兰艺术博物馆藏老勃鲁盖尔蚀刻版画（2009.80），1560年。",
+      "related": [
+        "bruegel",
+        "bosch"
+      ],
+      "sources": [
+        "cma-2009-80"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "据该馆记录，作品作于1560年，蚀刻。",
+        "风格特征": "该馆说明称，勃鲁盖尔在这件蚀刻中沿用钢笔素描的点与短线语汇，营造大气与光感，并造成向深处的推远；他对自然的表现（包括在平坦的尼德兰并不常见、却很受欢迎的雄伟山岳）体现了他助推的前所未有的自然主义。",
+        "代表人物与作品": "作者为老彼得·勃鲁盖尔（约1525/30—1569，据该馆创作者记录）。该馆说明称，这件作品被认为是他唯一亲手制作的版画。",
+        "技法或形式分析": "该馆记录：蚀刻，版痕 22.1 × 29 厘米。",
+        "与前后风格的关系和争论": "该馆说明称，画面乍看是猎人举弩射草中野兔的宜人风景，但持矛士兵潜行追的不是兔子而是猎人；勃鲁盖尔常把民间谚语转为图像，此处最贴切的是“你自己就是兔子，还去猎物”。说明认为，这类反转暗示人类自以为掌控命运，实则受制于外力。这是该馆的诠释。",
+        "一图": "示意图以本作为中心，标示猎人、潜行士兵、谚语三项。",
+        "待核实": "（1）本条目事实只来自克利夫兰艺术博物馆一家的藏品记录与策展说明（2026-11-25 取回），属单一机构来源，整条标记待核实。（2）“唯一亲手制作的版画”是“被认为”的说法；（3）谚语对应与寓意是该馆诠释。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='bruegel-rabbit-hunt 示意图'><title>bruegel-rabbit-hunt</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>猎人</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>射兔</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>猎兔</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1560 蚀刻</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>士兵</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>潜行追猎人</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>谚语</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>你自己就是兔子</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据克利夫兰艺术博物馆记录</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；单一机构来源；归属为“被认为”。"
+    },
+    {
+      "id": "watteau-italian-clothes",
+      "title": "华托《衣着是意大利的》（1715—16）",
+      "kind": "作品",
+      "unit": "art-baroque",
+      "era": "1715—1716年",
+      "region": "法国",
+      "medium": "版画",
+      "tier": "补充",
+      "def": "华托蚀刻、职业雕版师西蒙诺完成的版画，表现意大利即兴喜剧角色谢幕。",
+      "when": "1715—1716年",
+      "overview": "克利夫兰艺术博物馆藏华托蚀刻与雕版作品（2011.11），1715—16年。",
+      "related": [
+        "watteau",
+        "rococo"
+      ],
+      "sources": [
+        "cma-2011-11"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "据该馆记录，作品作于1715—16年。该馆说明称，意大利剧团因一场演出被认为讽刺路易十四的情妇，于1697至1716年被禁于法国；角色与故事仍受观众欢迎，被改编进管制较松的演出。",
+        "风格特征": "该馆说明称，西蒙诺精确的点与交叉排线使细节清晰，而华托蚀刻线条的自发与自由，更好地表达了这一题材的奇想与嬉戏感。",
+        "代表人物与作品": "作者为华托（1684—1721，据该馆创作者记录）；出版前由职业雕版师夏尔·西蒙诺完成。",
+        "技法或形式分析": "该馆记录：蚀刻与雕版，版痕 30.5 × 21.3 厘米。",
+        "与前后风格的关系和争论": "画中演员扮成意大利即兴喜剧（commedia dell’arte）与法国通俗戏剧的定型角色谢幕。与华托“雅宴画”的关系该馆未述，本条目不展开。",
+        "一图": "示意图以本作为中心，标示即兴喜剧、1697—1716禁演、西蒙诺雕版三项。",
+        "待核实": "（1）本条目事实只来自克利夫兰艺术博物馆一家的藏品记录与策展说明（2026-11-25 取回），属单一机构来源，整条标记待核实。（2）禁演原因是该馆的转述。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='watteau-italian-clothes 示意图'><title>watteau-italian-clothes</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>即兴喜剧</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>定型角色</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>衣着是意大利的</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1715—16</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>禁演</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>1697—1716</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>西蒙诺</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>完成雕版</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据克利夫兰艺术博物馆记录</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；单一机构来源。"
+    },
+    {
+      "id": "klimt-hermine-gallia",
+      "title": "克里姆特《赫尔米内·加利亚》素描（约1904）",
+      "kind": "作品",
+      "unit": "art-modern",
+      "era": "约1904年",
+      "region": "奥地利",
+      "medium": "绘画",
+      "tier": "补充",
+      "def": "克里姆特为加利亚肖像油画所作的准备素描，油画今藏伦敦国家美术馆。",
+      "when": "约1904年",
+      "overview": "克利夫兰艺术博物馆藏克里姆特素描（1972.312），约1904年。",
+      "related": [
+        "klimt",
+        "art-nouveau"
+      ],
+      "sources": [
+        "cma-1972-312"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "据该馆记录，素描作于约1904年。",
+        "风格特征": "该馆说明称，素描笔法松散如速写，似乎意在快速记录加利亚身着精致白裙摆姿的形体，可能是对着真人画的。“可能”是该馆措辞。",
+        "代表人物与作品": "作者为克里姆特（1862—1918，据该馆创作者记录）。该馆说明称，像主赫尔米内·加利亚（娘家姓汉堡格）出身维也纳富裕的犹太家庭，经由城中先锋圈子结识画家，并委托他画自己的肖像。",
+        "技法或形式分析": "该馆记录：浅褐色直纹纸上黑粉笔加石墨，纸张 45.6 × 31.2 厘米。",
+        "与前后风格的关系和争论": "该馆说明称，这是为一幅肖像油画所作的准备稿，油画今藏伦敦国家美术馆。",
+        "一图": "示意图以本素描为中心，标示克里姆特、加利亚、伦敦国家美术馆油画三项。",
+        "待核实": "（1）本条目事实只来自克利夫兰艺术博物馆一家的藏品记录与策展说明（2026-11-25 取回），属单一机构来源，整条标记待核实。（2）是否对真人写生是“可能”；（3）油画藏地据该馆说明，未与伦敦国家美术馆核对。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='klimt-hermine-gallia 示意图'><title>klimt-hermine-gallia</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>克里姆特</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>作者</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>加利亚素描</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>约1904</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>加利亚</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>委托人</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>油画</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>伦敦国家美术馆</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据克利夫兰艺术博物馆记录</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；单一机构来源；油画藏地未核对。"
+    },
+    {
+      "id": "vuillard-luncheon",
+      "title": "维亚尔《午餐（安妮特与外祖母）》（1899）",
+      "kind": "作品",
+      "unit": "art-impression",
+      "era": "1899年",
+      "region": "法国",
+      "medium": "绘画",
+      "tier": "补充",
+      "def": "纳比派画家维亚尔描绘母亲喂外孙女的家庭场景。",
+      "when": "1899年",
+      "overview": "克利夫兰艺术博物馆藏维亚尔板上油画（2020.118），1899年。",
+      "related": [
+        "nabis",
+        "post-impressionism"
+      ],
+      "sources": [
+        "cma-2020-118"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "据该馆记录，作品作于1899年，地点是维亚尔与母亲在巴黎合住的公寓。",
+        "风格特征": "该馆说明称，维亚尔采用格外陡峭的俯视角度，观者仿佛站在画家位置，越过母亲肩头看她慈爱地喂孩子。",
+        "代表人物与作品": "作者为维亚尔（1868—1940，据该馆创作者记录）。右下角的妇人是画家母亲玛丽·维亚尔；孩子是安妮特·鲁塞尔，即画家姐姐与姐夫凯-格扎维埃·鲁塞尔之女，鲁塞尔也是画家。",
+        "技法或形式分析": "该馆记录：板上油画，29.8 × 32.4 厘米。",
+        "与前后风格的关系和争论": "维亚尔与鲁塞尔都在纳比派条目的成员名单中，但该馆说明没有提纳比派，本条目把它挂在纳比派之下是本项目的归类。",
+        "一图": "示意图以本画为中心，标示维亚尔、母亲玛丽、外孙女安妮特三项。",
+        "待核实": "（1）本条目事实只来自克利夫兰艺术博物馆一家的藏品记录与策展说明（2026-11-25 取回），属单一机构来源，整条标记待核实。（2）与纳比派的关联为本项目归类。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='vuillard-luncheon 示意图'><title>vuillard-luncheon</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>维亚尔</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>作者</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>午餐</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1899 油画</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>玛丽</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>画家母亲</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>安妮特</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>鲁塞尔之女</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据克利夫兰艺术博物馆记录</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；单一机构来源；纳比派归类为本项目所加。"
+    },
+    {
+      "id": "burne-jones-garden-court",
+      "title": "伯恩-琼斯《花园庭院》（1870—75）",
+      "kind": "作品",
+      "unit": "art-neo-romantic",
+      "era": "1870—1875年",
+      "region": "英国",
+      "medium": "绘画",
+      "tier": "补充",
+      "def": "伯恩-琼斯“荆棘玫瑰”（睡美人）题材的相关画稿。",
+      "when": "1870—1875年",
+      "overview": "克利夫兰艺术博物馆藏伯恩-琼斯水彩画稿（1994.197），1870—75年。",
+      "related": [
+        "pre-raphaelite",
+        "arabesque"
+      ],
+      "sources": [
+        "cma-1994-197"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "据该馆记录，作品作于1870—75年。该馆说明称，“荆棘玫瑰”（即通称的“睡美人”）的故事断续占据伯恩-琼斯大半生涯，他在三十年间完成了三组相关画作。",
+        "风格特征": "该馆说明称，画中藤蔓以阿拉伯式花纹般的卷曲映衬在平涂的黄绿色背景上，仿佛缠住了在织机与井边睡着的六名仆人。",
+        "代表人物与作品": "作者为伯恩-琼斯（1833—1898，据该馆创作者记录）。拉斐尔前派条目称他是兄弟会原则的后来追随者。",
+        "技法或形式分析": "该馆记录：石墨与水彩，以白色水粉提亮，图像 32.3 × 60.2 厘米。",
+        "与前后风格的关系和争论": "该馆说明称，这件画稿“可能”与第一组系列有关，该系列今藏波多黎各庞塞艺术博物馆。",
+        "一图": "示意图以本作为中心，标示荆棘玫瑰题材、阿拉伯式藤蔓、庞塞系列三项。",
+        "待核实": "（1）本条目事实只来自克利夫兰艺术博物馆一家的藏品记录与策展说明（2026-11-25 取回），属单一机构来源，整条标记待核实。（2）与第一组系列的关系为“可能”。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='burne-jones-garden-court 示意图'><title>burne-jones-garden-court</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>荆棘玫瑰</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>睡美人题材</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>花园庭院</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1870—75 水彩</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>藤蔓</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>阿拉伯式卷曲</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>庞塞系列</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>可能相关</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据克利夫兰艺术博物馆记录</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；单一机构来源；系列关系为“可能”。"
+    },
+    {
+      "id": "daubigny-shepherd",
+      "title": "杜比尼《牧羊人与牧羊女》（1874）",
+      "kind": "作品",
+      "unit": "art-neo-romantic",
+      "era": "1874年",
+      "region": "法国",
+      "medium": "版画",
+      "tier": "补充",
+      "def": "巴比松画家杜比尼的原创蚀刻版画。",
+      "when": "1874年",
+      "overview": "克利夫兰艺术博物馆藏杜比尼蚀刻版画（1956.655），1874年。",
+      "related": [
+        "barbizon-school",
+        "corot"
+      ],
+      "sources": [
+        "cma-1956-655"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "据该馆记录，作品作于1874年。该馆说明称，蚀刻在法国曾一度失宠，杜比尼1840年代开始制作原创蚀刻；1862年卡达尔组织“蚀刻家协会”，《艺术家》等期刊也刊登原创蚀刻，推动了这一技法的复兴。",
+        "风格特征": "该馆说明称，巴比松（巴黎东南约30英里的村庄）周边乡野为风景蚀刻家提供了远离城市化与工业化的避难所，景色从荒野森林到岩石峡谷都有。",
+        "代表人物与作品": "作者为夏尔-弗朗索瓦·杜比尼（1817—1878，据该馆创作者记录）。",
+        "技法或形式分析": "该馆记录：蚀刻，版痕 28.9 × 21.5 厘米。说明称，为保留直接观察自然的即时感，杜比尼把一艘平底船当作浮动画室，在法国河流上捕捉光与大气的瞬间效果。",
+        "与前后风格的关系和争论": "该馆把杜比尼放在巴比松语境中，与巴比松画派条目一致。",
+        "一图": "示意图以本作为中心，标示蚀刻复兴、巴比松乡野、浮动画室三项。",
+        "待核实": "（1）本条目事实只来自克利夫兰艺术博物馆一家的藏品记录与策展说明（2026-11-25 取回），属单一机构来源，整条标记待核实。（2）蚀刻复兴的叙述是该馆的概括。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='daubigny-shepherd 示意图'><title>daubigny-shepherd</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>蚀刻复兴</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1840年代起</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>牧羊人与牧羊女</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1874 蚀刻</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>巴比松乡野</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>远离工业化</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>浮动画室</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>平底船</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据克利夫兰艺术博物馆记录</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；单一机构来源。"
+    },
+    {
+      "id": "kano-four-accomplishments",
+      "title": "狩野松荣《琴棋书画图》屏风（16世纪末—17世纪初）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "约公元16世纪末—17世纪初",
+      "region": "日本",
+      "medium": "绘画",
+      "tier": "补充",
+      "def": "一对六曲屏风，描绘中国文人雅士在郊野弹琴、对弈、读书、作画。",
+      "when": "约公元16世纪末—17世纪初",
+      "overview": "克利夫兰艺术博物馆藏狩野松荣屏风（1979.46），桃山时代。",
+      "related": [
+        "kano-school",
+        "guqin-instrument"
+      ],
+      "sources": [
+        "cma-1979-46"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "据该馆记录，作品属桃山时代（1573—1615），作于16世纪末至17世纪初。",
+        "风格特征": "该馆说明称，画面气氛是欢愉与庄重的平衡。",
+        "代表人物与作品": "作者为狩野松荣（1519—1592，据该馆创作者记录）。注意：该馆所给年代下限晚于作者卒年，二者的关系该馆未解释，本条目照录。",
+        "技法或形式分析": "该馆记录：一对六曲屏风，纸本水墨淡彩，画心 153 × 358.6 厘米。",
+        "与前后风格的关系和争论": "该馆说明称，画中一人端详进行中的画作，另一人看两位同伴下“棋”（日本称围棋）；桌上备着书和仍裹在布套中的“琴”。在中国，琴、棋与书画被视为文人必备的四种修养。中文通称“琴棋书画”，是本项目的对应。",
+        "一图": "示意图以本屏风为中心，标示狩野派、琴与棋、书与画三项。",
+        "待核实": "（1）本条目事实只来自克利夫兰艺术博物馆一家的藏品记录与策展说明（2026-11-25 取回），属单一机构来源，整条标记待核实。（2）年代下限（17世纪初）晚于作者卒年（1592），需馆方或专著说明；（3）中文题名为本项目所拟。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='kano-four-accomplishment 示意图'><title>kano-four-accomplishment</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>狩野派</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>狩野松荣</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>琴棋书画图</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>一对六曲屏风</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>琴与棋</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>弹琴·对弈</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>书与画</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>读书·作画</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据克利夫兰艺术博物馆记录</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；单一机构来源；年代与卒年不合待查。"
+    },
+    {
+      "id": "mughal-royal-ram",
+      "title": "莫卧儿《戴金链的御用公羊》（约1585）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "约1585年（边框可能为18世纪添加）",
+      "region": "印度（莫卧儿）",
+      "medium": "绘画",
+      "tier": "补充",
+      "def": "描绘一只可能养在御苑中的精心打理的公羊。",
+      "when": "约1585年（边框可能为18世纪添加）",
+      "overview": "克利夫兰艺术博物馆藏莫卧儿绘画（2013.298），约1585年。",
+      "related": [
+        "mughal-painting",
+        "mughal-alamgir-portrait"
+      ],
+      "sources": [
+        "cma-2013-298"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "据该馆记录，画作约作于1585年，边框可能是18世纪添加。",
+        "风格特征": "该馆说明称，公羊背上的毛球用指甲花染色，胸前挂着装饰性的铃铛链。",
+        "代表人物与作品": "该馆记录未列作者。",
+        "技法或形式分析": "该馆记录：纸本树胶蛋彩加金。尺寸未给出。",
+        "与前后风格的关系和争论": "该馆说明称，这是一只格外精心打理的动物，可能养在御苑中，由专人照料；莫卧儿统治者收集并展示领地内的各种动物标本，既出于科学兴趣，也为显示自己对土地与民众的影响范围。",
+        "一图": "示意图以本画为中心，标示御苑、指甲花染色、莫卧儿收集动物三项。",
+        "待核实": "（1）本条目事实只来自克利夫兰艺术博物馆一家的藏品记录与策展说明（2026-11-25 取回），属单一机构来源，整条标记待核实。（2）作者与尺寸未给出；（3）“可能养在御苑”为该馆推测。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='mughal-royal-ram 示意图'><title>mughal-royal-ram</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>御苑</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>可能饲养处</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>御用公羊</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>约1585</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>指甲花</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>染色毛球</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>收集动物</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>科学与权势</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据克利夫兰艺术博物馆记录</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；单一机构来源；作者与尺寸未给出。"
+    },
+    {
+      "id": "ru-brush-washer",
+      "title": "汝窑笔洗（11世纪末—1127）",
+      "kind": "作品",
+      "unit": "art-ceramics",
+      "era": "约公元11世纪末—1127年",
+      "region": "中国（河南宝丰清凉寺）",
+      "medium": "陶瓷",
+      "tier": "重要",
+      "def": "北宋末年为宫廷烧造的汝窑笔洗。",
+      "when": "约公元11世纪末—1127年",
+      "overview": "克利夫兰艺术博物馆藏汝窑笔洗（1957.40），北宋。",
+      "related": [
+        "ru-ware",
+        "ding-ware",
+        "jun-ware"
+      ],
+      "sources": [
+        "cma-1957-40"
+      ],
+      "level": "L2",
+      "sections": {
+        "时代背景": "据该馆记录，笔洗作于11世纪末至1127年，产地为河南宝丰清凉寺，属北宋（960—1127）。",
+        "风格特征": "该馆说明称，简洁与精致的优雅是汝窑的标志：优美的器形、柔和的光泽与釉色的微妙变化浑然一体。",
+        "代表人物与作品": "该馆记录未列作者。",
+        "技法或形式分析": "该馆记录：瓷质炻器，汝窑，直径 12.8 厘米，高 3.8 厘米。说明称，其物理特征包括灰白胎、带细开片的柔和灰蓝釉，以及底部细小的芝麻钉支烧痕。",
+        "与前后风格的关系和争论": "该馆说明称，汝窑是所有中国御窑中最稀少、最受推崇的，为北宋末宫廷短期烧造。汝窑条目据维基百科摘要称完整器不足百件，两者说法相容。",
+        "一图": "示意图以本笔洗为中心，标示宝丰清凉寺、灰蓝釉开片、芝麻钉痕三项。",
+        "待核实": "（1）本条目事实只来自克利夫兰艺术博物馆一家的藏品记录与策展说明（2026-11-25 取回），属单一机构来源，整条标记待核实。（2）“最稀少、最受推崇”为该馆评价；（3）汝窑条目原缺窑址，本器记录给出宝丰清凉寺，可作对照。"
+      },
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='ru-brush-washer 示意图'><title>ru-brush-washer</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>宝丰清凉寺</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>产地</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>汝窑笔洗</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>北宋末</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>灰蓝釉</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>细开片</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>芝麻钉痕</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>底部</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据克利夫兰艺术博物馆记录</text></g></svg>",
+      "needs_verification": true,
+      "pending_notes": "单一机构（CMA）来源；单一机构来源。"
     }
   ]
 }

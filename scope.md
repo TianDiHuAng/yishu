@@ -14,7 +14,7 @@
 - **O5** 《中国音乐史》图书目录（上古—明清历史分期） — https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/62960992
 - **O6** Wikipedia 分类树：Chinese painting / Chinese calligraphy / 各艺术运动条目 — https://en.wikipedia.org/wiki/Chinese_painting
 
-《全》校验：本并集共 736 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
+《全》校验：本并集共 747 个条目、28 个单元；每个条目至少归入 1 份大纲，核心条目同时见于 ≥2 份大纲。
 
 ## 层级定义
 - 核心：该领域主干，必须做到 L3 深度的候选。
@@ -146,6 +146,8 @@
 | durer | 丢勒（Albrecht Dürer） | 人物 | 德国文艺复兴 | 德国（纽伦堡） | 版画 | 核心 | O1、O3 |
 | bosch | 博斯（Hieronymus Bosch） | 人物 | 15—16世纪 | 尼德兰（布拉班特） | 绘画 | 重要 | O1、O3 |
 | bruegel | 老彼得·勃鲁盖尔（Pieter Bruegel the Elder） | 人物 | 16世纪 | 尼德兰·佛兰德斯 | 绘画 | 重要 | O1、O3 |
+| durer-st-jerome-willow | 丢勒《坐在截顶柳旁的圣哲罗姆》（1512） | 作品 | 1512年 | 德国 | 版画 | 重要 | O1、O3 |
+| bruegel-rabbit-hunt | 老勃鲁盖尔《猎兔》（1560） | 作品 | 1560年 | 佛兰德斯 | 版画 | 重要 | O1、O3 |
 
 ## art-baroque（艺术史·巴洛克与洛可可）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -177,6 +179,7 @@
 | spanish-architecture | 西班牙建筑（Spanish architecture） | 风格 | 历代 | 西班牙 | 建筑 | 补充 | O1 |
 | dutch-architecture | 荷兰建筑（Architecture of the Netherlands） | 风格 | 中世纪至今 | 荷兰 | 建筑 | 补充 | O1 |
 | watteau | 华托（Antoine Watteau） | 人物 | 18世纪初 | 法国 | 绘画 | 重要 | O1 |
+| watteau-italian-clothes | 华托《衣着是意大利的》（1715—16） | 作品 | 1715—1716年 | 法国 | 版画 | 补充 | O1 |
 
 ## art-neo-romantic（艺术史·新古典与浪漫）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -210,6 +213,9 @@
 | goya | 戈雅（Francisco Goya） | 人物 | 18世纪末—19世纪初 | 西班牙 | 绘画 | 核心 | O1 |
 | pre-raphaelite | 拉斐尔前派（Pre-Raphaelite Brotherhood） | 风格 | 1848年起 | 英国 | 绘画 | 重要 | O1 |
 | barbizon-school | 巴比松画派（Barbizon School） | 风格 | 约1830—1870年 | 法国 | 绘画 | 重要 | O1 |
+| goya-cuervo-portrait | 戈雅《唐·胡安·安东尼奥·奎尔沃像》（1819） | 作品 | 1819年 | 西班牙 | 绘画 | 补充 | O1 |
+| burne-jones-garden-court | 伯恩-琼斯《花园庭院》（1870—75） | 作品 | 1870—1875年 | 英国 | 绘画 | 补充 | O1 |
+| daubigny-shepherd | 杜比尼《牧羊人与牧羊女》（1874） | 作品 | 1874年 | 法国 | 版画 | 补充 | O1 |
 
 ## art-impression（艺术史·印象派与后印象派）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -231,6 +237,7 @@
 | morisot-reading | 莫里索《阅读》（1873） | 作品 | 19世纪 | 欧洲 | 绘画 | 重要 | O1 |
 | renoir-apple-seller | 雷诺阿《卖苹果的女人》（约1890） | 作品 | 19世纪 | 欧洲 | 绘画 | 重要 | O1 |
 | nabis | 纳比派（Les Nabis） | 风格 | 1888—1900年 | 法国（巴黎） | 绘画 | 重要 | O1 |
+| vuillard-luncheon | 维亚尔《午餐（安妮特与外祖母）》（1899） | 作品 | 1899年 | 法国 | 绘画 | 补充 | O1 |
 
 ## art-modern（艺术史·现代主义）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -266,6 +273,7 @@
 | mondrian | 蒙德里安（Piet Mondrian） | 人物 | 20世纪 | 荷兰 | 绘画 | 核心 | O1 |
 | klimt | 克里姆特（Gustav Klimt） | 人物 | 19世纪末—20世纪初 | 奥地利 | 绘画 | 重要 | O1 |
 | art-nouveau | 新艺术运动（Art Nouveau） | 风格 | 1890—1910年 | 国际 | 综合 | 核心 | O1 |
+| klimt-hermine-gallia | 克里姆特《赫尔米内·加利亚》素描（约1904） | 作品 | 约1904年 | 奥地利 | 绘画 | 补充 | O1 |
 
 ## art-contemporary（艺术史·当代）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -627,6 +635,8 @@
 | kano-school | 狩野派（Kanō school） | 风格 | 15世纪末—1868年 | 日本 | 绘画 | 重要 | O1 |
 | korean-painting | 韩国绘画（Korean painting） | 风格 | 历代 | 朝鲜半岛 | 绘画 | 重要 | O1 |
 | noh | 能乐（Noh） | 风格 | 14世纪—今 | 日本 | 综合 | 核心 | O1 |
+| kano-four-accomplishments | 狩野松荣《琴棋书画图》屏风（16世纪末—17世纪初） | 作品 | 约公元16世纪末—17世纪初 | 日本 | 绘画 | 补充 | O1 |
+| mughal-royal-ram | 莫卧儿《戴金链的御用公羊》（约1585） | 作品 | 约1585年（边框可能为18世纪添加） | 印度（莫卧儿） | 绘画 | 补充 | O1 |
 
 ## art-islamic（伊斯兰艺术（西亚·中亚））
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |
@@ -859,6 +869,7 @@
 | jun-ware | 钧窑（Jun ware） | 术语 | 北宋—明初 | 中国 | 陶瓷 | 重要 | O1、O6 |
 | ru-ware | 汝窑（Ru ware） | 术语 | 约1100年 | 中国（宋） | 陶瓷 | 核心 | O1 |
 | ding-ware | 定窑（Ding ware） | 术语 | 唐—元 | 中国（河北定州） | 陶瓷 | 重要 | O1 |
+| ru-brush-washer | 汝窑笔洗（11世纪末—1127） | 作品 | 约公元11世纪末—1127年 | 中国（河南宝丰清凉寺） | 陶瓷 | 重要 | O1 |
 
 ## work-archives（作品档案）
 | id | 标题 | 类别 | 时代 | 地区 | 媒介 | 重要性 | 大纲来源 |

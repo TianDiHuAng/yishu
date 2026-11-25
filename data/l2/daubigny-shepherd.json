@@ -1,0 +1,19 @@
+{
+  "id": "daubigny-shepherd",
+  "level": "L2",
+  "sections": {
+    "时代背景": "据该馆记录，作品作于1874年。该馆说明称，蚀刻在法国曾一度失宠，杜比尼1840年代开始制作原创蚀刻；1862年卡达尔组织“蚀刻家协会”，《艺术家》等期刊也刊登原创蚀刻，推动了这一技法的复兴。",
+    "风格特征": "该馆说明称，巴比松（巴黎东南约30英里的村庄）周边乡野为风景蚀刻家提供了远离城市化与工业化的避难所，景色从荒野森林到岩石峡谷都有。",
+    "代表人物与作品": "作者为夏尔-弗朗索瓦·杜比尼（1817—1878，据该馆创作者记录）。",
+    "技法或形式分析": "该馆记录：蚀刻，版痕 28.9 × 21.5 厘米。说明称，为保留直接观察自然的即时感，杜比尼把一艘平底船当作浮动画室，在法国河流上捕捉光与大气的瞬间效果。",
+    "与前后风格的关系和争论": "该馆把杜比尼放在巴比松语境中，与巴比松画派条目一致。",
+    "一图": "示意图以本作为中心，标示蚀刻复兴、巴比松乡野、浮动画室三项。",
+    "待核实": "（1）本条目事实只来自克利夫兰艺术博物馆一家的藏品记录与策展说明（2026-11-25 取回），属单一机构来源，整条标记待核实。（2）蚀刻复兴的叙述是该馆的概括。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='daubigny-shepherd 示意图'><title>daubigny-shepherd</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>蚀刻复兴</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>1840年代起</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>牧羊人与牧羊女</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1874 蚀刻</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>巴比松乡野</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>远离工业化</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>浮动画室</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>平底船</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据克利夫兰艺术博物馆记录</text></g></svg>",
+  "sources": [
+    "cma-1956-655"
+  ],
+  "needs_verification": true,
+  "pending_notes": "单一机构（CMA）来源；单一机构来源。"
+}

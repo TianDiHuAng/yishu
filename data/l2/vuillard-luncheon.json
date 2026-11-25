@@ -1,0 +1,19 @@
+{
+  "id": "vuillard-luncheon",
+  "level": "L2",
+  "sections": {
+    "时代背景": "据该馆记录，作品作于1899年，地点是维亚尔与母亲在巴黎合住的公寓。",
+    "风格特征": "该馆说明称，维亚尔采用格外陡峭的俯视角度，观者仿佛站在画家位置，越过母亲肩头看她慈爱地喂孩子。",
+    "代表人物与作品": "作者为维亚尔（1868—1940，据该馆创作者记录）。右下角的妇人是画家母亲玛丽·维亚尔；孩子是安妮特·鲁塞尔，即画家姐姐与姐夫凯-格扎维埃·鲁塞尔之女，鲁塞尔也是画家。",
+    "技法或形式分析": "该馆记录：板上油画，29.8 × 32.4 厘米。",
+    "与前后风格的关系和争论": "维亚尔与鲁塞尔都在纳比派条目的成员名单中，但该馆说明没有提纳比派，本条目把它挂在纳比派之下是本项目的归类。",
+    "一图": "示意图以本画为中心，标示维亚尔、母亲玛丽、外孙女安妮特三项。",
+    "待核实": "（1）本条目事实只来自克利夫兰艺术博物馆一家的藏品记录与策展说明（2026-11-25 取回），属单一机构来源，整条标记待核实。（2）与纳比派的关联为本项目归类。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='vuillard-luncheon 示意图'><title>vuillard-luncheon</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>维亚尔</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>作者</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>午餐</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>1899 油画</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>玛丽</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>画家母亲</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>安妮特</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>鲁塞尔之女</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据克利夫兰艺术博物馆记录</text></g></svg>",
+  "sources": [
+    "cma-2020-118"
+  ],
+  "needs_verification": true,
+  "pending_notes": "单一机构（CMA）来源；单一机构来源；纳比派归类为本项目所加。"
+}

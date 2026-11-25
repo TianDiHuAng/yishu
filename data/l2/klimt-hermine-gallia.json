@@ -1,0 +1,19 @@
+{
+  "id": "klimt-hermine-gallia",
+  "level": "L2",
+  "sections": {
+    "时代背景": "据该馆记录，素描作于约1904年。",
+    "风格特征": "该馆说明称，素描笔法松散如速写，似乎意在快速记录加利亚身着精致白裙摆姿的形体，可能是对着真人画的。“可能”是该馆措辞。",
+    "代表人物与作品": "作者为克里姆特（1862—1918，据该馆创作者记录）。该馆说明称，像主赫尔米内·加利亚（娘家姓汉堡格）出身维也纳富裕的犹太家庭，经由城中先锋圈子结识画家，并委托他画自己的肖像。",
+    "技法或形式分析": "该馆记录：浅褐色直纹纸上黑粉笔加石墨，纸张 45.6 × 31.2 厘米。",
+    "与前后风格的关系和争论": "该馆说明称，这是为一幅肖像油画所作的准备稿，油画今藏伦敦国家美术馆。",
+    "一图": "示意图以本素描为中心，标示克里姆特、加利亚、伦敦国家美术馆油画三项。",
+    "待核实": "（1）本条目事实只来自克利夫兰艺术博物馆一家的藏品记录与策展说明（2026-11-25 取回），属单一机构来源，整条标记待核实。（2）是否对真人写生是“可能”；（3）油画藏地据该馆说明，未与伦敦国家美术馆核对。"
+  },
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 300' role='img' aria-label='klimt-hermine-gallia 示意图'><title>klimt-hermine-gallia</title><g class='svg-flow'><rect class='svg-box-muted' x='20.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='95.0' y='142' text-anchor='middle'>克里姆特</text><text class='svg-sub' x='95.0' y='165' text-anchor='middle'>作者</text><rect class='svg-box-accent' x='210.0' y='110' width='150' height='70' rx='8'/><text class='svg-label svg-label-strong' x='285.0' y='142' text-anchor='middle'>加利亚素描</text><text class='svg-sub' x='285.0' y='165' text-anchor='middle'>约1904</text><rect class='svg-box-muted' x='400.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='475.0' y='142' text-anchor='middle'>加利亚</text><text class='svg-sub' x='475.0' y='165' text-anchor='middle'>委托人</text><rect class='svg-box-muted' x='590.0' y='110' width='150' height='70' rx='8'/><text class='svg-label' x='665.0' y='142' text-anchor='middle'>油画</text><text class='svg-sub' x='665.0' y='165' text-anchor='middle'>伦敦国家美术馆</text><line class='svg-arrow' x1='210.0' y1='145' x2='170.0' y2='145'/><polygon class='svg-arrowhead' points='170.0,145 179.0,140 179.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='400.0' y2='145'/><polygon class='svg-arrowhead' points='400.0,145 391.0,140 391.0,150'/><line class='svg-arrow' x1='360.0' y1='145' x2='590.0' y2='145'/><polygon class='svg-arrowhead' points='590.0,145 581.0,140 581.0,150'/><text class='svg-caption' x='380' y='262' text-anchor='middle'>据克利夫兰艺术博物馆记录</text></g></svg>",
+  "sources": [
+    "cma-1972-312"
+  ],
+  "needs_verification": true,
+  "pending_notes": "单一机构（CMA）来源；单一机构来源；油画藏地未核对。"
+}

@@ -625,7 +625,8 @@
         "lancret-cello-drawing",
         "claude-rest-flight-egypt",
         "baroque-architecture",
-        "watteau"
+        "watteau",
+        "watteau-italian-clothes"
       ],
       "sources": [
         "enc-rococo",
@@ -814,7 +815,8 @@
         "preller-musicale",
         "gothic-revival-architecture",
         "goya",
-        "pre-raphaelite"
+        "pre-raphaelite",
+        "goya-cuervo-portrait"
       ],
       "sources": [
         "enc-romanticism",
@@ -932,7 +934,8 @@
         "van-gogh-dr-gachet",
         "van-gogh-drenthe-wheelbarrow",
         "mondrian-field-young-trees",
-        "nabis"
+        "nabis",
+        "vuillard-luncheon"
       ],
       "sources": [
         "enc-post-impressionism",
@@ -5457,7 +5460,8 @@
         "cma-liu-songnian-qin",
         "cma-wen-zhengming-qin",
         "cma-tang-yin-qin",
-        "cma-tang-qin-mirror"
+        "cma-tang-qin-mirror",
+        "kano-four-accomplishments"
       ],
       "sources": [
         "cma-1918-371"
@@ -11312,7 +11316,8 @@
         "mughal-muhammad-ali-beg",
         "mughal-architecture",
         "rajput-painting",
-        "mughal-painting"
+        "mughal-painting",
+        "mughal-royal-ram"
       ],
       "sources": [
         "vam-o113934"
@@ -11983,7 +11988,8 @@
       "related": [
         "romanticism-art",
         "corot-la-cervara",
-        "barbizon-school"
+        "barbizon-school",
+        "daubigny-shepherd"
       ],
       "sources": [
         "cma-artist-corot"
@@ -12393,7 +12399,8 @@
       "related": [
         "northern-renaissance",
         "renaissance",
-        "durer"
+        "durer",
+        "durer-st-jerome-willow"
       ],
       "sources": [
         "cma-1926-211"
@@ -15058,7 +15065,8 @@
         "frida-kahlo",
         "mondrian",
         "ukiyo-e",
-        "art-nouveau"
+        "art-nouveau",
+        "klimt-hermine-gallia"
       ],
       "sources": [
         "enc-klimt",
@@ -15122,7 +15130,8 @@
       "related": [
         "durer-melencolia-i",
         "northern-renaissance",
-        "raphael"
+        "raphael",
+        "durer-st-jerome-willow"
       ],
       "sources": [
         "enc-durer",
@@ -15143,7 +15152,8 @@
       "overview": "博斯是来自布拉班特的尼德兰画家。",
       "related": [
         "northern-renaissance",
-        "bruegel"
+        "bruegel",
+        "bruegel-rabbit-hunt"
       ],
       "sources": [
         "enc-bosch",
@@ -15164,7 +15174,8 @@
       "overview": "老彼得·勃鲁盖尔是荷兰与佛兰德斯文艺复兴绘画中最重要的艺术家之一，是画家与版画家。",
       "related": [
         "northern-renaissance",
-        "bosch"
+        "bosch",
+        "bruegel-rabbit-hunt"
       ],
       "sources": [
         "enc-bruegel",
@@ -15186,7 +15197,8 @@
       "related": [
         "romanticism-art",
         "velazquez",
-        "delacroix"
+        "delacroix",
+        "goya-cuervo-portrait"
       ],
       "sources": [
         "enc-goya",
@@ -15207,7 +15219,8 @@
       "overview": "华托是法国画家与素描家。",
       "related": [
         "rococo",
-        "rubens"
+        "rubens",
+        "watteau-italian-clothes"
       ],
       "sources": [
         "enc-watteau",
@@ -15401,7 +15414,8 @@
       "related": [
         "klimt",
         "art-deco",
-        "stained-glass"
+        "stained-glass",
+        "klimt-hermine-gallia"
       ],
       "sources": [
         "enc-art-nouveau",
@@ -15422,7 +15436,8 @@
       "overview": "拉斐尔前派兄弟会是英国画家、诗人与艺术评论家的群体，1848年创立。",
       "related": [
         "romanticism-art",
-        "raphael"
+        "raphael",
+        "burne-jones-garden-court"
       ],
       "sources": [
         "enc-pre-raphaelite",
@@ -15444,7 +15459,8 @@
       "related": [
         "corot",
         "millet",
-        "realism-art"
+        "realism-art",
+        "daubigny-shepherd"
       ],
       "sources": [
         "enc-barbizon-school",
@@ -15466,7 +15482,8 @@
       "related": [
         "gauguin",
         "cezanne",
-        "post-impressionism"
+        "post-impressionism",
+        "vuillard-luncheon"
       ],
       "sources": [
         "enc-nabis",
@@ -15973,7 +15990,8 @@
       "related": [
         "mughal-architecture",
         "mughal-alamgir-portrait",
-        "rajput-painting"
+        "rajput-painting",
+        "mughal-royal-ram"
       ],
       "sources": [
         "enc-mughal-painting",
@@ -16016,7 +16034,8 @@
       "overview": "阿拉伯式花纹是一种艺术装饰形式，由卷曲交缠的枝叶、卷须或素线构成的节奏性线型图案组成。",
       "related": [
         "islamic-calligraphy",
-        "islamic-architecture"
+        "islamic-architecture",
+        "burne-jones-garden-court"
       ],
       "sources": [
         "enc-arabesque",
@@ -16103,7 +16122,8 @@
       "related": [
         "ukiyo-e",
         "hokusai",
-        "japanese-architecture"
+        "japanese-architecture",
+        "kano-four-accomplishments"
       ],
       "sources": [
         "enc-kano-school",
@@ -16167,7 +16187,8 @@
       "related": [
         "jun-numbered-bulb-bowl",
         "ru-ware",
-        "ding-ware"
+        "ding-ware",
+        "ru-brush-washer"
       ],
       "sources": [
         "enc-jun-ware",
@@ -16189,7 +16210,8 @@
       "related": [
         "jun-ware",
         "ding-ware",
-        "song-painting"
+        "song-painting",
+        "ru-brush-washer"
       ],
       "sources": [
         "enc-ru-ware",
@@ -16212,7 +16234,8 @@
         "ding-tea-bowl",
         "ding-duck-bowl",
         "ru-ware",
-        "jun-ware"
+        "jun-ware",
+        "ru-brush-washer"
       ],
       "sources": [
         "enc-ding-ware",
@@ -16328,6 +16351,227 @@
       "sources": [
         "enc-noh",
         "wd-noh"
+      ]
+    },
+    {
+      "id": "goya-cuervo-portrait",
+      "title": "戈雅《唐·胡安·安东尼奥·奎尔沃像》（1819）",
+      "kind": "作品",
+      "unit": "art-neo-romantic",
+      "era": "1819年",
+      "region": "西班牙",
+      "medium": "绘画",
+      "tier": "补充",
+      "def": "戈雅为友人、圣费尔南多皇家美术学院院长奎尔沃所作的油画肖像。",
+      "when": "1819年",
+      "overview": "克利夫兰艺术博物馆藏戈雅油画肖像（1943.90），1819年。",
+      "related": [
+        "goya",
+        "romanticism-art"
+      ],
+      "sources": [
+        "cma-1943-90"
+      ]
+    },
+    {
+      "id": "durer-st-jerome-willow",
+      "title": "丢勒《坐在截顶柳旁的圣哲罗姆》（1512）",
+      "kind": "作品",
+      "unit": "art-renaissance",
+      "era": "1512年",
+      "region": "德国",
+      "medium": "版画",
+      "tier": "重要",
+      "def": "丢勒存世仅三件的干刻版画之一，表现圣哲罗姆在荒野隐修处祈祷。",
+      "when": "1512年",
+      "overview": "克利夫兰艺术博物馆藏丢勒干刻版画（1925.72），1512年。",
+      "related": [
+        "durer",
+        "durer-melencolia-i"
+      ],
+      "sources": [
+        "cma-1925-72"
+      ]
+    },
+    {
+      "id": "bruegel-rabbit-hunt",
+      "title": "老勃鲁盖尔《猎兔》（1560）",
+      "kind": "作品",
+      "unit": "art-renaissance",
+      "era": "1560年",
+      "region": "佛兰德斯",
+      "medium": "版画",
+      "tier": "重要",
+      "def": "被认为是老勃鲁盖尔唯一亲手制作的版画，表面是猎人射兔，背后有持矛士兵潜行。",
+      "when": "1560年",
+      "overview": "克利夫兰艺术博物馆藏老勃鲁盖尔蚀刻版画（2009.80），1560年。",
+      "related": [
+        "bruegel",
+        "bosch"
+      ],
+      "sources": [
+        "cma-2009-80"
+      ]
+    },
+    {
+      "id": "watteau-italian-clothes",
+      "title": "华托《衣着是意大利的》（1715—16）",
+      "kind": "作品",
+      "unit": "art-baroque",
+      "era": "1715—1716年",
+      "region": "法国",
+      "medium": "版画",
+      "tier": "补充",
+      "def": "华托蚀刻、职业雕版师西蒙诺完成的版画，表现意大利即兴喜剧角色谢幕。",
+      "when": "1715—1716年",
+      "overview": "克利夫兰艺术博物馆藏华托蚀刻与雕版作品（2011.11），1715—16年。",
+      "related": [
+        "watteau",
+        "rococo"
+      ],
+      "sources": [
+        "cma-2011-11"
+      ]
+    },
+    {
+      "id": "klimt-hermine-gallia",
+      "title": "克里姆特《赫尔米内·加利亚》素描（约1904）",
+      "kind": "作品",
+      "unit": "art-modern",
+      "era": "约1904年",
+      "region": "奥地利",
+      "medium": "绘画",
+      "tier": "补充",
+      "def": "克里姆特为加利亚肖像油画所作的准备素描，油画今藏伦敦国家美术馆。",
+      "when": "约1904年",
+      "overview": "克利夫兰艺术博物馆藏克里姆特素描（1972.312），约1904年。",
+      "related": [
+        "klimt",
+        "art-nouveau"
+      ],
+      "sources": [
+        "cma-1972-312"
+      ]
+    },
+    {
+      "id": "vuillard-luncheon",
+      "title": "维亚尔《午餐（安妮特与外祖母）》（1899）",
+      "kind": "作品",
+      "unit": "art-impression",
+      "era": "1899年",
+      "region": "法国",
+      "medium": "绘画",
+      "tier": "补充",
+      "def": "纳比派画家维亚尔描绘母亲喂外孙女的家庭场景。",
+      "when": "1899年",
+      "overview": "克利夫兰艺术博物馆藏维亚尔板上油画（2020.118），1899年。",
+      "related": [
+        "nabis",
+        "post-impressionism"
+      ],
+      "sources": [
+        "cma-2020-118"
+      ]
+    },
+    {
+      "id": "burne-jones-garden-court",
+      "title": "伯恩-琼斯《花园庭院》（1870—75）",
+      "kind": "作品",
+      "unit": "art-neo-romantic",
+      "era": "1870—1875年",
+      "region": "英国",
+      "medium": "绘画",
+      "tier": "补充",
+      "def": "伯恩-琼斯“荆棘玫瑰”（睡美人）题材的相关画稿。",
+      "when": "1870—1875年",
+      "overview": "克利夫兰艺术博物馆藏伯恩-琼斯水彩画稿（1994.197），1870—75年。",
+      "related": [
+        "pre-raphaelite",
+        "arabesque"
+      ],
+      "sources": [
+        "cma-1994-197"
+      ]
+    },
+    {
+      "id": "daubigny-shepherd",
+      "title": "杜比尼《牧羊人与牧羊女》（1874）",
+      "kind": "作品",
+      "unit": "art-neo-romantic",
+      "era": "1874年",
+      "region": "法国",
+      "medium": "版画",
+      "tier": "补充",
+      "def": "巴比松画家杜比尼的原创蚀刻版画。",
+      "when": "1874年",
+      "overview": "克利夫兰艺术博物馆藏杜比尼蚀刻版画（1956.655），1874年。",
+      "related": [
+        "barbizon-school",
+        "corot"
+      ],
+      "sources": [
+        "cma-1956-655"
+      ]
+    },
+    {
+      "id": "kano-four-accomplishments",
+      "title": "狩野松荣《琴棋书画图》屏风（16世纪末—17世纪初）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "约公元16世纪末—17世纪初",
+      "region": "日本",
+      "medium": "绘画",
+      "tier": "补充",
+      "def": "一对六曲屏风，描绘中国文人雅士在郊野弹琴、对弈、读书、作画。",
+      "when": "约公元16世纪末—17世纪初",
+      "overview": "克利夫兰艺术博物馆藏狩野松荣屏风（1979.46），桃山时代。",
+      "related": [
+        "kano-school",
+        "guqin-instrument"
+      ],
+      "sources": [
+        "cma-1979-46"
+      ]
+    },
+    {
+      "id": "mughal-royal-ram",
+      "title": "莫卧儿《戴金链的御用公羊》（约1585）",
+      "kind": "作品",
+      "unit": "art-asia",
+      "era": "约1585年（边框可能为18世纪添加）",
+      "region": "印度（莫卧儿）",
+      "medium": "绘画",
+      "tier": "补充",
+      "def": "描绘一只可能养在御苑中的精心打理的公羊。",
+      "when": "约1585年（边框可能为18世纪添加）",
+      "overview": "克利夫兰艺术博物馆藏莫卧儿绘画（2013.298），约1585年。",
+      "related": [
+        "mughal-painting",
+        "mughal-alamgir-portrait"
+      ],
+      "sources": [
+        "cma-2013-298"
+      ]
+    },
+    {
+      "id": "ru-brush-washer",
+      "title": "汝窑笔洗（11世纪末—1127）",
+      "kind": "作品",
+      "unit": "art-ceramics",
+      "era": "约公元11世纪末—1127年",
+      "region": "中国（河南宝丰清凉寺）",
+      "medium": "陶瓷",
+      "tier": "重要",
+      "def": "北宋末年为宫廷烧造的汝窑笔洗。",
+      "when": "约公元11世纪末—1127年",
+      "overview": "克利夫兰艺术博物馆藏汝窑笔洗（1957.40），北宋。",
+      "related": [
+        "ru-ware",
+        "ding-ware",
+        "jun-ware"
+      ],
+      "sources": [
+        "cma-1957-40"
       ]
     }
   ]

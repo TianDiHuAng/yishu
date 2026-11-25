@@ -11229,6 +11229,116 @@
       "type": "权威结构化数据",
       "verified": true,
       "verified_note": "2026-11-25 由同一摘要接口返回的 wikibase_item 取得 QID，与页面标题对应"
+    },
+    {
+      "id": "cma-1943-90",
+      "title": "Cleveland Museum of Art — Portrait of Don Juan Antonio Cuervo, 1943.90",
+      "author": "Cleveland Museum of Art（藏品记录与策展说明）",
+      "year": "2026",
+      "url": "https://www.clevelandart.org/art/1943.90",
+      "type": "博物馆藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经克利夫兰艺术博物馆开放接口（openaccess-api.clevelandart.org）取回该藏品记录，馆藏号、题名、年代、技法、尺寸与策展说明匹配；记录缓存于 tmp/cma_c206_full.json"
+    },
+    {
+      "id": "cma-1925-72",
+      "title": "Cleveland Museum of Art — St. Jerome Seated near a Pollard Willow, 1925.72",
+      "author": "Cleveland Museum of Art（藏品记录与策展说明）",
+      "year": "2026",
+      "url": "https://www.clevelandart.org/art/1925.72",
+      "type": "博物馆藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经克利夫兰艺术博物馆开放接口（openaccess-api.clevelandart.org）取回该藏品记录，馆藏号、题名、年代、技法、尺寸与策展说明匹配；记录缓存于 tmp/cma_c206_full.json"
+    },
+    {
+      "id": "cma-2009-80",
+      "title": "Cleveland Museum of Art — The Rabbit Hunt, 2009.80",
+      "author": "Cleveland Museum of Art（藏品记录与策展说明）",
+      "year": "2026",
+      "url": "https://www.clevelandart.org/art/2009.80",
+      "type": "博物馆藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经克利夫兰艺术博物馆开放接口（openaccess-api.clevelandart.org）取回该藏品记录，馆藏号、题名、年代、技法、尺寸与策展说明匹配；记录缓存于 tmp/cma_c206_full.json"
+    },
+    {
+      "id": "cma-2011-11",
+      "title": "Cleveland Museum of Art — The Clothes are Italian, 2011.11",
+      "author": "Cleveland Museum of Art（藏品记录与策展说明）",
+      "year": "2026",
+      "url": "https://www.clevelandart.org/art/2011.11",
+      "type": "博物馆藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经克利夫兰艺术博物馆开放接口（openaccess-api.clevelandart.org）取回该藏品记录，馆藏号、题名、年代、技法、尺寸与策展说明匹配；记录缓存于 tmp/cma_c206_full.json"
+    },
+    {
+      "id": "cma-1972-312",
+      "title": "Cleveland Museum of Art — Hermine Gallia, 1972.312",
+      "author": "Cleveland Museum of Art（藏品记录与策展说明）",
+      "year": "2026",
+      "url": "https://www.clevelandart.org/art/1972.312",
+      "type": "博物馆藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经克利夫兰艺术博物馆开放接口（openaccess-api.clevelandart.org）取回该藏品记录，馆藏号、题名、年代、技法、尺寸与策展说明匹配；记录缓存于 tmp/cma_c206_full.json"
+    },
+    {
+      "id": "cma-2020-118",
+      "title": "Cleveland Museum of Art — Luncheon (Annette and Her Grandmother), 2020.118",
+      "author": "Cleveland Museum of Art（藏品记录与策展说明）",
+      "year": "2026",
+      "url": "https://www.clevelandart.org/art/2020.118",
+      "type": "博物馆藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经克利夫兰艺术博物馆开放接口（openaccess-api.clevelandart.org）取回该藏品记录，馆藏号、题名、年代、技法、尺寸与策展说明匹配；记录缓存于 tmp/cma_c206_full.json"
+    },
+    {
+      "id": "cma-1994-197",
+      "title": "Cleveland Museum of Art — The Garden Court, 1994.197",
+      "author": "Cleveland Museum of Art（藏品记录与策展说明）",
+      "year": "2026",
+      "url": "https://www.clevelandart.org/art/1994.197",
+      "type": "博物馆藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经克利夫兰艺术博物馆开放接口（openaccess-api.clevelandart.org）取回该藏品记录，馆藏号、题名、年代、技法、尺寸与策展说明匹配；记录缓存于 tmp/cma_c206_full.json"
+    },
+    {
+      "id": "cma-1956-655",
+      "title": "Cleveland Museum of Art — The Shepherd and the Shepherdess, 1956.655",
+      "author": "Cleveland Museum of Art（藏品记录与策展说明）",
+      "year": "2026",
+      "url": "https://www.clevelandart.org/art/1956.655",
+      "type": "博物馆藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经克利夫兰艺术博物馆开放接口（openaccess-api.clevelandart.org）取回该藏品记录，馆藏号、题名、年代、技法、尺寸与策展说明匹配；记录缓存于 tmp/cma_c206_full.json"
+    },
+    {
+      "id": "cma-1979-46",
+      "title": "Cleveland Museum of Art — The Four Accomplishments, 1979.46",
+      "author": "Cleveland Museum of Art（藏品记录与策展说明）",
+      "year": "2026",
+      "url": "https://www.clevelandart.org/art/1979.46",
+      "type": "博物馆藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经克利夫兰艺术博物馆开放接口（openaccess-api.clevelandart.org）取回该藏品记录，馆藏号、题名、年代、技法、尺寸与策展说明匹配；记录缓存于 tmp/cma_c206_full.json"
+    },
+    {
+      "id": "cma-2013-298",
+      "title": "Cleveland Museum of Art — A royal ram with a gold chain, 2013.298",
+      "author": "Cleveland Museum of Art（藏品记录与策展说明）",
+      "year": "2026",
+      "url": "https://www.clevelandart.org/art/2013.298",
+      "type": "博物馆藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经克利夫兰艺术博物馆开放接口（openaccess-api.clevelandart.org）取回该藏品记录，馆藏号、题名、年代、技法、尺寸与策展说明匹配；记录缓存于 tmp/cma_c206_full.json"
+    },
+    {
+      "id": "cma-1957-40",
+      "title": "Cleveland Museum of Art — Brush Washer, 1957.40",
+      "author": "Cleveland Museum of Art（藏品记录与策展说明）",
+      "year": "2026",
+      "url": "https://www.clevelandart.org/art/1957.40",
+      "type": "博物馆藏品记录",
+      "verified": true,
+      "verified_note": "2026-11-25 经克利夫兰艺术博物馆开放接口（openaccess-api.clevelandart.org）取回该藏品记录，馆藏号、题名、年代、技法、尺寸与策展说明匹配；记录缓存于 tmp/cma_c206_full.json"
     }
   ]
 }
